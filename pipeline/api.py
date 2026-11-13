@@ -1,213 +1,168 @@
-import io
 import json
-import math
-import os
-import textwrap
 import uuid
-from contextlib import closing
 from pathlib import Path
-from urllib.parse import urlparse
-import fitz
-from fastapi import FastAPI, Depends, HTTPException, Query, Request
+from fastapi import FastAPI, HTTPException, Query, Request
 from fastapi.responses import FileResponse, Response
-from pydantic import BaseModel, Field, ConfigDict
-from .storage import connect, private_dir, decode, MODEL
-from .search import search
+from pydantic import BaseModel, Field
+from .config import PRIVATE
+from .db import initialize,connect
+from .search import search,detail
+from .taxonomy import TERMS
+from .base_package import decorate,metadata,matches
 
-app=FastAPI(title='Neufert Digital — local API')
-
-def database():
-    with closing(connect()) as db:
-        yield db
+initialize()
+app=FastAPI(title='Neufert Digital local API')
 
 @app.middleware('http')
-async def protect_writes(request:Request,call_next):
+async def local_writes(request:Request,call_next):
     if request.method not in ('GET','HEAD','OPTIONS'):
         origin=request.headers.get('origin')
-        allowed=os.environ.get('NEUFERT_APP_ORIGIN','http://localhost:3000').rstrip('/')
-        if origin and origin.rstrip('/') not in (allowed,'http://127.0.0.1:3000'):
-            return Response('Origin not permitted',status_code=403)
+        if origin and origin not in ('http://127.0.0.1:3000','http://localhost:3000'):
+            return Response(status_code=403)
     return await call_next(request)
 
 @app.get('/api/status')
-def status(db=Depends(database)):
-    documents=[dict(r) for r in db.execute('SELECT id,page_count,metadata FROM documents')]
-    for doc in documents:
-        doc['metadata']=json.loads(doc['metadata'])
-        doc['processed_pages']=db.execute('SELECT COUNT(*) FROM pages WHERE document_id=?',(doc['id'],)).fetchone()[0]
-    return {'documents':documents,'entries':db.execute('SELECT COUNT(*) FROM entries').fetchone()[0],
-            'vectors':db.execute('SELECT COUNT(*) FROM vector_metadata WHERE model=?',(MODEL,)).fetchone()[0],
-            'review':db.execute('SELECT COUNT(*) FROM entries WHERE needs_review=1').fetchone()[0],
-            'llm_available':bool(os.environ.get('OPENAI_API_KEY') or os.environ.get('ANTHROPIC_API_KEY'))}
+def status():
+    with connect() as con:
+        docs=[dict(r) for r in con.execute('SELECT * FROM documents')]
+        if con.execute("SELECT 1 FROM sqlite_master WHERE name='base_package_toc'").fetchone():
+            for doc in docs:
+                row=con.execute('SELECT outline FROM base_package_toc WHERE document_id=?',(doc['id'],)).fetchone()
+                if row:doc['outline']=row[0]
+        return {'documents':docs,'pages':con.execute('SELECT count(*) FROM pages').fetchone()[0], 'entries':con.execute('SELECT count(*) FROM entries').fetchone()[0], 'vectors':con.execute('SELECT count(*) FROM embedding_chunks').fetchone()[0], 'taxonomy':TERMS}
+
+@app.get('/api/v1/search')
+def find(q:str='',typology:str='',space:str='',use:str='',furniture:str='',collection:str='',min:float|None=None,max:float|None=None,review:bool=False,offset:int=Query(0,ge=0),limit:int=Query(24,ge=1,le=100)):
+    return search(q,{'typology':typology,'space':space,'use':use,'furniture':furniture,'min':min,'max':max,'review':review,'collection':collection},offset,limit)
 
 @app.get('/api/search')
-def find(q:str=Query('',max_length=1000), typology:str|None=None,space:str|None=None,
-         activity:str|None=None,equipment:str|None=None, min_cm:float|None=Query(None,ge=0),
-         max_cm:float|None=Query(None,ge=0),review:bool=False,natural:bool=False,
-         limit:int=Query(30,ge=1,le=100),offset:int=Query(0,ge=0),db=Depends(database)):
-    if any(v is not None and not math.isfinite(v) for v in (min_cm,max_cm)):
-        raise HTTPException(422,'Range must be finite')
-    if min_cm is not None and max_cm is not None and min_cm > max_cm:
-        raise HTTPException(422,'Invalid dimension range')
-    return search(db,q,dict(typology=typology,space=space,activity=activity,equipment=equipment,
-                           min_cm=min_cm,max_cm=max_cm,review=review),limit,offset,natural)
+def hybrid_find(q:str=Query('',max_length=1000),chapter:str|None=None,result_type:str=Query('all',pattern='^(all|page|ficha)$'),include_uncertain:bool=True,limit:int=Query(24,ge=1,le=100)):
+    from .hybrid_api import results
+    return results(q,chapter,result_type,include_uncertain,limit)
 
-@app.get('/api/entries/{entry_id}')
-def entry(entry_id:str,db=Depends(database)):
-    row=db.execute('SELECT * FROM entries WHERE id=?',(entry_id,)).fetchone()
-    if not row:
-        raise HTTPException(404,'Entry not found')
-    return decode(row)
+@app.get('/api/page-search')
+def find_pages(q:str=Query('',max_length=1000),chapter:str|None=None,limit:int=Query(10,ge=1,le=100)):
+    from .page_embeddings import search as page_search
+    return {'items':page_search(q,limit=limit,chapter=chapter)}
 
-class Reviewed(BaseModel):
-    reviewed:bool
+@app.get('/api/reports/structured-pilot')
+def structured_pilot_report():
+    path=PRIVATE/'reports/pilot-review.html'
+    if not path.exists():path=PRIVATE/'reports/piloto.html'
+    if not path.exists():raise HTTPException(404,'Pilot report is not ready')
+    html=path.read_text(encoding='utf-8').replace('src="../base-package/','src="/api/assets/base-package/')
+    return Response(html,media_type='text/html')
 
-@app.patch('/api/entries/{entry_id}/review')
-def review_entry(entry_id:str,body:Reviewed,db=Depends(database)):
-    with db:
-        result=db.execute('UPDATE entries SET reviewed=?,needs_review=? WHERE id=?',
-                          (int(body.reviewed),int(not body.reviewed),entry_id))
-    if not result.rowcount:
-        raise HTTPException(404,'Entry not found')
+@app.get('/api/reports/structured-book')
+def structured_book_report():
+    path=PRIVATE/'reports/piloto.html'
+    if not path.exists():raise HTTPException(404,'Book report is not ready')
+    html=path.read_text(encoding='utf-8').replace('src="../base-package/','src="/api/assets/base-package/').replace('Pilot evidence: PDF 39â€“48','Full-book extraction progress')
+    return Response(html,media_type='text/html')
+
+@app.get('/api/reports/pass2')
+def pass2_report():
+    path=PRIVATE/'reports/segunda_pasada.html'
+    if not path.exists():raise HTTPException(404,'Pilot is still running')
+    return Response(path.read_text(encoding='utf-8').replace('src="../','src="/api/assets/'),media_type='text/html')
+
+@app.get('/api/reports/pass2-comparison')
+def pass2_comparison_report():
+    path=PRIVATE/'pass2-runs/sol61-pilot-39-48/comparison.html'
+    if not path.exists():raise HTTPException(404,'Comparison pilot is still running')
+    markup=path.read_text(encoding='utf-8').replace('src="','src="/api/assets/pass2-runs/sol61-pilot-39-48/')
+    return Response(markup,media_type='text/html')
+
+@app.get('/api/reports/structured-progress')
+def structured_progress():
+    path=PRIVATE/'reports/full-book-progress.json'
+    if not path.exists():raise HTTPException(404,'Book run has not started')
+    return json.loads(path.read_text(encoding='utf-8'))
+
+@app.get('/api/entries/{eid}')
+def entry(eid:str):
+    with connect() as con: item=detail(con,eid)
+    if item is None:raise HTTPException(404)
+    return item
+
+@app.post('/api/entries/{eid}/review')
+def reviewed(eid:str):
+    with connect() as con:
+        if not con.execute('SELECT 1 FROM entries WHERE id=?',(eid,)).fetchone():raise HTTPException(404)
+        con.execute('UPDATE entries SET review=0 WHERE id=?',(eid,))
     return {'ok':True}
 
-@app.get('/api/documents/{doc_id}/pages/{number}')
-def page(doc_id:str,number:int,db=Depends(database)):
-    row=db.execute('SELECT * FROM pages WHERE document_id=? AND number=?',(doc_id,number)).fetchone()
-    if not row:
-        raise HTTPException(404,'Page not ingested')
-    result=dict(row)
-    for field in ('blocks','tables_json'):
-        result[field]=json.loads(result[field])
-    result['page_count']=db.execute('SELECT page_count FROM documents WHERE id=?',(doc_id,)).fetchone()[0]
-    return result
+@app.get('/api/pages/{doc}/{number}')
+def page(doc:str,number:int):
+    with connect() as con:
+        r=con.execute('SELECT * FROM pages WHERE document_id=? AND number=?',(doc,number)).fetchone()
+        if not r:raise HTTPException(404,'Page not yet ingested')
+        return decorate(con,dict(r))
 
-@app.get('/api/documents/{doc_id}/source')
-def source(doc_id:str,db=Depends(database)):
-    row=db.execute('SELECT filename FROM documents WHERE id=?',(doc_id,)).fetchone()
-    if not row or not Path(row[0]).is_file():
-        raise HTTPException(404,'Source PDF unavailable')
-    return FileResponse(row[0],media_type='application/pdf',filename='neufert.pdf',content_disposition_type='inline')
+@app.get('/api/pages/{doc}/{number}/words')
+def page_words(doc:str,number:int,q:str=Query('',max_length=1000)):
+    with connect() as con:
+        if not metadata(con,doc,number):raise HTTPException(404,'No prepared word coordinates for this page')
+    return matches(number,q)
 
-@app.get('/api/assets/{relative:path}')
-def asset(relative:str):
-    root=(private_dir()/'documents').resolve()
-    path=(private_dir()/relative).resolve()
-    if not path.is_relative_to(root) or path.suffix != '.webp' or not path.is_file():
-        raise HTTPException(404,'Asset not found')
-    return FileResponse(path,media_type='image/webp')
+@app.get('/api/assets/{asset:path}')
+def asset(asset:str):
+    path=(PRIVATE/asset).resolve()
+    if not path.is_relative_to(PRIVATE.resolve()) or path.suffix not in ('.webp','.png') or not path.is_file():raise HTTPException(404)
+    return FileResponse(path,media_type='image/png' if path.suffix=='.png' else 'image/webp')
 
-@app.get('/api/index')
-def index(db=Depends(database)):
-    return [dict(r) for r in db.execute('SELECT typology,COUNT(*) AS count FROM entries GROUP BY typology ORDER BY typology')]
-
-@app.get('/api/favorites')
-def favorites(db=Depends(database)):
-    return [decode(r) for r in db.execute('SELECT e.* FROM entries e JOIN favorites f ON e.id=f.entry_id ORDER BY e.page_pdf')]
-
-class Favorite(BaseModel):
-    favorite:bool
-
-@app.put('/api/favorites/{entry_id}')
-def favorite(entry_id:str,body:Favorite,db=Depends(database)):
-    if not db.execute('SELECT 1 FROM entries WHERE id=?',(entry_id,)).fetchone():
-        raise HTTPException(404,'Entry not found')
-    with db:
-        if body.favorite:
-            db.execute('INSERT OR IGNORE INTO favorites VALUES (?)',(entry_id,))
-        else:
-            db.execute('DELETE FROM favorites WHERE entry_id=?',(entry_id,))
-    return {'ok':True}
-
-class CollectionName(BaseModel):
+class Collection(BaseModel):
     name:str=Field(min_length=1,max_length=120)
 
 @app.get('/api/collections')
-def collections(db=Depends(database)):
-    return [dict(r) for r in db.execute('SELECT c.*,COUNT(ce.entry_id) AS count FROM collections c LEFT JOIN collection_entries ce ON c.id=ce.collection_id GROUP BY c.id ORDER BY c.created_at,c.id')]
+def collections():
+    with connect() as con:
+        return [dict(r)|{'entries':[x[0] for x in con.execute('SELECT entry_id FROM collection_entries WHERE collection_id=?',(r['id'],))]} for r in con.execute('SELECT * FROM collections ORDER BY created')]
 
-@app.post('/api/collections',status_code=201)
-def create_collection(body:CollectionName,db=Depends(database)):
-    if not body.name.strip():
-        raise HTTPException(422,'Empty name')
-    collection_id=uuid.uuid4().hex
-    with db:
-        db.execute('INSERT INTO collections(id,name) VALUES (?,?)',(collection_id,body.name.strip()))
-    return {'id':collection_id,'name':body.name.strip(),'count':0}
+@app.post('/api/collections')
+def create(body:Collection):
+    cid=uuid.uuid4().hex
+    with connect() as con:con.execute('INSERT INTO collections(id,name) VALUES(?,?)',(cid,body.name.strip()))
+    return {'id':cid}
 
-def collection_rows(db,collection_id):
-    collection=db.execute('SELECT * FROM collections WHERE id=?',(collection_id,)).fetchone()
-    if not collection:
-        raise HTTPException(404,'Collection not found')
-    rows=[decode(r) for r in db.execute('SELECT e.* FROM entries e JOIN collection_entries ce ON e.id=ce.entry_id WHERE ce.collection_id=? ORDER BY e.document_id,e.page_pdf,e.id',(collection_id,))]
-    return dict(collection),rows
-
-@app.get('/api/collections/{collection_id}')
-def collection(collection_id:str,db=Depends(database)):
-    item,rows=collection_rows(db,collection_id)
-    return {**item,'entries':rows}
-
-@app.delete('/api/collections/{collection_id}')
-def delete_collection(collection_id:str,db=Depends(database)):
-    collection_rows(db,collection_id)
-    with db:
-        db.execute('DELETE FROM collections WHERE id=?',(collection_id,))
+@app.put('/api/collections/{cid}/{eid}')
+def add(cid:str,eid:str):
+    with connect() as con:
+        if not con.execute('SELECT 1 FROM collections WHERE id=?',(cid,)).fetchone() or not con.execute('SELECT 1 FROM entries WHERE id=?',(eid,)).fetchone():raise HTTPException(404)
+        con.execute('INSERT OR IGNORE INTO collection_entries VALUES(?,?)',(cid,eid))
     return {'ok':True}
 
-@app.put('/api/collections/{collection_id}/entries/{entry_id}')
-def add_to_collection(collection_id:str,entry_id:str,db=Depends(database)):
-    collection_rows(db,collection_id)
-    if not db.execute('SELECT 1 FROM entries WHERE id=?',(entry_id,)).fetchone():
-        raise HTTPException(404,'Entry not found')
-    with db:
-        db.execute('INSERT OR IGNORE INTO collection_entries VALUES (?,?)',(collection_id,entry_id))
+@app.delete('/api/collections/{cid}/{eid}')
+def remove(cid:str,eid:str):
+    with connect() as con:con.execute('DELETE FROM collection_entries WHERE collection_id=? AND entry_id=?',(cid,eid))
     return {'ok':True}
 
-@app.delete('/api/collections/{collection_id}/entries/{entry_id}')
-def remove_from_collection(collection_id:str,entry_id:str,db=Depends(database)):
-    collection_rows(db,collection_id)
-    with db:
-        db.execute('DELETE FROM collection_entries WHERE collection_id=? AND entry_id=?',(collection_id,entry_id))
-    return {'ok':True}
+@app.get('/api/export/{cid}')
+def export(cid:str):
+    with connect() as con:
+        c=con.execute('SELECT * FROM collections WHERE id=?',(cid,)).fetchone()
+        if not c:raise HTTPException(404)
+        items=[detail(con,r[0]) for r in con.execute('SELECT entry_id FROM collection_entries WHERE collection_id=?',(cid,))]
+    text='# '+c['name']+'\n\n'
+    for item in items:
+        text+=f"## {item['title']}\n\nPDF p. {item['pagina_pdf']} / impresa {item['pagina_impresa'] or 'â€”'}\n\n{item['text']}\n\n"
+    return Response(text,media_type='text/markdown',headers={'Content-Disposition':'attachment; filename="neufert-collection.md"'})
 
-def export_text(name,entries):
-    lines=[name,'']
-    for item in entries:
-        lines.extend([item['title_de'],f"PDF p. {item['page_pdf']} | printed: {item['page_printed'] or 'unknown'} | document: {item['document_id']}",
-                      f"Extraction confidence: {item['confidence']:.0%}; review: {bool(item['needs_review'])}",item['text'],''])
-        for d in item['dimensions']:
-            lines.append(f"{d['valor']} {d['unidad']} — {d['contexto']}")
-        lines.append('')
-    return lines
+class NaturalQuery(BaseModel):
+    query:str=Field(min_length=1,max_length=1000)
 
-@app.get('/api/collections/{collection_id}/export')
-def export(collection_id:str,format:str=Query('markdown',pattern='^(markdown|pdf)$'),db=Depends(database)):
-    collection,entries=collection_rows(db,collection_id)
-    lines=export_text(collection['name'],entries)
-    if format == 'markdown':
-        # Escape raw HTML from source documents; Markdown remains plain extractive text.
-        content='\n\n'.join(line.replace('&','&amp;').replace('<','&lt;').replace('>','&gt;') for line in lines)
-        return Response(content,media_type='text/markdown; charset=utf-8',headers={'Content-Disposition':'attachment; filename="neufert-collection.md"'})
-    text='\n'.join(lines)
-    # PyMuPDF Story paginates HTML and embeds fallback fonts automatically.
-    import html
-    story=fitz.Story('<html><body>'+''.join('<p>'+html.escape(line)+'</p>' for line in lines)+'</body></html>')
-    stream=io.BytesIO()
-    writer=fitz.DocumentWriter(stream)
-    more=True
-    while more:
-        device=writer.begin_page(fitz.Rect(0,0,595,842))
-        more,_=story.place(fitz.Rect(40,40,555,802))
-        story.draw(device)
-        writer.end_page()
-    writer.close()
-    return Response(stream.getvalue(),media_type='application/pdf',headers={'Content-Disposition':'attachment; filename="neufert-collection.pdf"'})
-
-@app.get('/api/documents/{doc_id}/toc')
-def toc(doc_id:str,db=Depends(database)):
-    if not db.execute('SELECT 1 FROM documents WHERE id=?',(doc_id,)).fetchone():
-        raise HTTPException(404,'Document not found')
-    report=private_dir()/'documents'/doc_id/'analysis.json'
-    if not report.is_file():
-        return []
-    return json.loads(report.read_text()).get('toc',[])
+@app.post('/api/ask')
+def ask(body:NaturalQuery):
+    from . import llm
+    query,filters=body.query,{}
+    warning=None
+    if llm.available():
+        try:query,filters=llm.plan(body.query)
+        except Exception:warning='LLM unavailable; local search used.'
+    result=search(query,filters,limit=24)
+    result['evidence']=[]
+    if llm.available() and result['items']:
+        try:result['evidence']=llm.evidence(body.query,result['items'])
+        except Exception:warning='LLM unavailable; retrieved pages retained.'
+    result.update({'reformulated':query,'structured_filters':filters,'warning':warning})
+    return result

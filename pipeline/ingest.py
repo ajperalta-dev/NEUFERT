@@ -1,154 +1,129 @@
+"""python -m pipeline.ingest [--limit 20] [--embeddings] [--ocr-language eng]"""
 import argparse
 import hashlib
 import json
 import logging
 import os
+import re
 from pathlib import Path
-import fitz
-from PIL import Image
-from .storage import connect, data_dir, private_dir, save_entry
-from .extract import text_blocks, segment, enrich, printed_page
+import pymupdf as fitz
+from .config import PRIVATE, SOURCE, VERSION
+from .db import connect, initialize
+from .extract import text_blocks, printed_number, segment, dimensions, render, figure_boxes
+from .taxonomy import match_terms, translated_title, TERMS
 
-VERSION = '1'
-log = logging.getLogger('ingest')
+log=logging.getLogger('neufert.ingest')
+J=lambda value:json.dumps(value,ensure_ascii=False)
 
-def fingerprint(path):
-    h = hashlib.sha256()
-    with open(path, 'rb') as stream:
-        for chunk in iter(lambda: stream.read(1024*1024), b''):
-            h.update(chunk)
-    return h.hexdigest()
+def source_metadata(doc):
+    front='\n'.join(doc[i].get_text() for i in range(min(12,len(doc))))
+    english='English language first published 2012' in front
+    edition='4th English edition (2012), based on 39th German edition' if english else 'Edition unverified'
+    return ('en' if english else 'de'), edition
 
-def analyze(source):
-    with fitz.open(source) as doc:
-        if doc.needs_pass:
-            raise ValueError('PDF encrypted: supply an unlocked local copy.')
-        counts = [len(p.get_text().strip()) for p in doc]
-        return {'pages': len(doc), 'metadata': doc.metadata, 'toc': doc.get_toc(),
-                'text_characters_per_page': counts,
-                'pages_requiring_ocr': [i+1 for i,n in enumerate(counts) if n < 50],
-                'note': 'OCR threshold is a heuristic; inspect sparse diagram pages manually.'}
+def contents(doc):
+    native=doc.get_toc()
+    if native:
+        return [{'title':t,'page_pdf':p,'level':level} for level,t,p in native]
+    entries=[]
+    for i in range(min(12,len(doc))):
+        for line in doc[i].get_text().splitlines():
+            m=re.match(r'^(.{3,100}?)\s*\.{3,}.*?\s(\d{1,3})\s*$',line)
+            if m: entries.append({'title':m[1].strip(),'page_printed':int(m[2]),'source_page':i+1,'level':1})
+    return entries
 
-def webp(page, destination, clip=None):
-    pix = page.get_pixmap(dpi=150, clip=clip, alpha=False)
-    destination.parent.mkdir(parents=True, exist_ok=True)
-    temporary = destination.with_suffix('.tmp')
-    Image.frombytes('RGB', [pix.width,pix.height], pix.samples).save(temporary, 'WEBP', quality=85)
-    temporary.replace(destination)
-
-def figure_boxes(page):
-    boxes = [fitz.Rect(x['bbox']) for x in page.get_image_info()]
-    boxes += [fitz.Rect(r) for r in page.cluster_drawings()]
-    result = []
-    for box in boxes:
-        box &= page.rect
-        if box.width < 25 or box.height < 25 or box.get_area() > page.rect.get_area()*.95:
-            continue
-        if not any((box & other).get_area() / max(box.get_area(),1) > .9 for other in result):
-            result.append(box)
-    return sorted(result, key=lambda b: (b.y0,b.x0))
-
-def ingest(source=None, force=False, limit=None, ocr='auto'):
-    source = Path(source or data_dir() / 'source/neufert.pdf').resolve()
-    report = analyze(source)  # Inspect before writing anything.
-    doc_id = fingerprint(source)
-    root = private_dir()
-    report_path = root / 'documents' / doc_id / 'analysis.json'
-    report_path.parent.mkdir(parents=True, exist_ok=True)
-    report_path.write_text(json.dumps(report,ensure_ascii=False,indent=2))
-    db = connect()
-    try:
-        previous = db.execute('SELECT pipeline_version FROM documents WHERE id=?',(doc_id,)).fetchone()
-        if previous and previous[0] != VERSION:
-            raise ValueError('Pipeline version changed. Rebuild into a new NEUFERT_DATA_DIR; preserve personal collections.')
-        with db:
-            db.execute('INSERT OR IGNORE INTO documents(id,filename,page_count,metadata,pipeline_version) VALUES (?,?,?,?,?)',
-                       (doc_id,str(source),report['pages'],json.dumps(report['metadata']),VERSION))
-        processed = skipped = 0
-        with fitz.open(source) as doc:
-            for index in range(min(len(doc),limit or len(doc))):
-                number = index+1
-                existing = db.execute('SELECT status FROM pages WHERE document_id=? AND number=?',(doc_id,number)).fetchone()
-                if existing and existing[0] == 'complete' and not force:
-                    skipped += 1
-                    continue
-                page = doc[index]
-                use_ocr = ocr == 'always' or (ocr == 'auto' and len(page.get_text().strip()) < 50)
-                if use_ocr:
-                    try:
-                        tessdata = str(root/'tessdata') if (root/'tessdata/deu.traineddata').is_file() else None
-                        textpage = page.get_textpage_ocr(language='deu', dpi=150, full=True, tessdata=tessdata)
-                    except Exception as exc:
-                        raise RuntimeError(f'Page {number}: German OCR requires Tesseract deu traineddata; {exc}') from exc
-                else:
-                    textpage = page.get_textpage()
-                blocks = text_blocks(page.get_text('dict',textpage=textpage))
-                printed = printed_page(page,blocks)
-                folder = Path('documents') / doc_id / f'page-{number:04d}'
-                image = folder / 'page.webp'
-                webp(page,root/image)
-                figures = []
-                for i,box in enumerate(figure_boxes(page)):
-                    relative = folder / f'figure-{i:03d}.webp'
-                    webp(page,root/relative,box)
-                    figures.append({'path':str(relative),'bbox':list(box),'page_pdf':number,
-                                    'kind':'automatic candidate; verify crop'})
-                # Keep a full page candidate for image-only scans, clearly marked.
-                if use_ocr and not figures:
-                    figures = [{'path':str(image),'bbox':list(page.rect),'page_pdf':number,'kind':'scanned page'}]
-                tables = []
-                if not use_ocr:
-                    try:
-                        tables = [{'bbox':list(t.bbox),'rows':t.extract()} for t in page.find_tables().tables]
-                    except (ValueError, RuntimeError) as exc:
-                        log.warning('Table extraction page %s: %s',number,exc)
-                entries = []
-                for i,section in enumerate(segment(blocks,page.rect.width,page.rect.height)):
-                    item = enrich(section)
-                    if use_ocr:
-                        item['confidence'] = min(item['confidence'],.6)
-                        item['needs_review'] = 1
-                    rect = fitz.Rect(item['bbox'])
-                    item.update(id=f'{doc_id[:16]}-{number}-{i}', document_id=doc_id,
-                                page_pdf=number,page_printed=printed,
-                                figures=[f for f in figures if fitz.Rect(f['bbox']).intersects(rect)])
-                    entries.append(item)
-                # A page is committed atomically. Interrupted/uncommitted pages are safe to retry.
-                with db:
-                    old_ids = [r[0] for r in db.execute('SELECT id FROM entries WHERE document_id=? AND page_pdf=?',(doc_id,number))]
-                    for entry_id in old_ids:
-                        db.execute('DELETE FROM entries_fts WHERE id=?',(entry_id,))
-                        db.execute('DELETE FROM entry_vectors WHERE entry_id=?',(entry_id,))
-                        db.execute('DELETE FROM vector_metadata WHERE entry_id=?',(entry_id,))
-                    new_ids = {e['id'] for e in entries}
-                    for entry_id in old_ids:
-                        if entry_id not in new_ids:
-                            db.execute('DELETE FROM entries WHERE id=?',(entry_id,))
-                    for item in entries:
-                        save_entry(db,item)
-                    db.execute('INSERT OR REPLACE INTO pages VALUES (?,?,?,?,?,?,?,?,?,?,?)',
-                               (doc_id,number,printed,page.rect.width,page.rect.height,
-                                '\n\n'.join(b['text'] for b in blocks),json.dumps(blocks),str(image),
-                                json.dumps(tables),int(use_ocr),'complete'))
-                processed += 1
-                log.info('page %d/%d: %d entries, %d figure candidates, OCR=%s',number,len(doc),len(entries),len(figures),use_ocr)
-        return {'document_id':doc_id,'processed':processed,'skipped':skipped,'analysis':str(report_path)}
-    finally:
-        db.close()
+def ingest(source=SOURCE,limit=None,ocr_language=None,tables=False):
+    PRIVATE.mkdir(parents=True,exist_ok=True)
+    initialize()
+    digest=hashlib.sha256(Path(source).read_bytes()).hexdigest()
+    with fitz.open(source) as doc, connect(vectors=True) as con:
+        language,edition=source_metadata(doc)
+        outline=contents(doc)
+        con.execute('INSERT OR IGNORE INTO documents VALUES(?,?,?,?,?,?,?)',
+                    (digest,Path(source).name,language,edition,len(doc),J(doc.metadata),J(outline)))
+        con.commit()
+        previous=''
+        for page in list(doc)[:limit]:
+            number=page.number+1
+            page_id=f'{digest[:16]}-{number}'
+            directory=PRIVATE/digest[:16]
+            image=f'{digest[:16]}/pages/{number:04}.webp'
+            old=con.execute('SELECT version FROM pages WHERE id=?',(page_id,)).fetchone()
+            assets=[image]+[r[0] for r in con.execute('SELECT f.image FROM figures f JOIN entries e ON e.id=f.entry_id WHERE e.page_id=?',(page_id,))]
+            if old and old[0]==VERSION and all((PRIVATE/a).exists() for a in assets):
+                log.info('Page %s/%s already complete',number,len(doc))
+                continue
+            try:
+                blocks,ocr=text_blocks(page,ocr_language or language.replace('en','eng').replace('de','deu'))
+                printed=printed_number(blocks,page.rect.height)
+                chunks=segment(blocks,page.rect.width,page.rect.height)
+                # Heading from actual printed TOC when there is an exact match.
+                titles=[x['title'] for x in outline if str(x.get('page_printed'))==printed]
+                if titles: chunks[0]['title']=titles[0]
+                render(page,PRIVATE/image)
+                boxes=figure_boxes(page)
+                figures=[]
+                for fi,(box,method) in enumerate(boxes):
+                    asset=f'{digest[:16]}/figures/{number:04}-{fi}.webp'
+                    render(page,PRIVATE/asset,bbox=box)
+                    figures.append((box,asset,method))
+                table_data=[]
+                if tables:
+                    import pdfplumber
+                    with pdfplumber.open(source) as plumber:
+                        table_data=plumber.pages[page.number].extract_tables()
+                with con:
+                    ids=[r[0] for r in con.execute('SELECT id FROM entries WHERE page_id=?',(page_id,))]
+                    for eid in ids:
+                        for r in con.execute('SELECT id FROM embedding_chunks WHERE entry_id=?',(eid,)).fetchall():
+                            con.execute('DELETE FROM vectors WHERE rowid=?',(r[0],))
+                        con.execute('DELETE FROM embedding_chunks WHERE entry_id=?',(eid,))
+                        con.execute('DELETE FROM entries_fts WHERE id=?',(eid,))
+                        con.execute('DELETE FROM figures WHERE entry_id=?',(eid,))
+                        con.execute('DELETE FROM dimensions WHERE entry_id=?',(eid,))
+                        con.execute('DELETE FROM tags WHERE entry_id=?',(eid,))
+                    con.execute('INSERT INTO pages(id,document_id,number,printed,width,height,text,blocks,tables_json,image,version) VALUES(?,?,?,?,?,?,?,?,?,?,?) ON CONFLICT(id) DO UPDATE SET printed=excluded.printed,text=excluded.text,blocks=excluded.blocks,tables_json=excluded.tables_json,image=excluded.image,version=excluded.version',
+                                (page_id,digest,number,printed,page.rect.width,page.rect.height,'\n'.join(b['text'] for b in blocks),J(blocks),J(table_data),image,VERSION))
+                    for ci,chunk in enumerate(chunks):
+                        eid=f'{page_id}-{ci}'
+                        translations=translated_title(chunk['title'],language)
+                        # Existing OCR is uncertain even when it contains many chars.
+                        confidence=.58 if page.get_images() else .82
+                        if len(chunk['text'])<100 or ocr: confidence=min(confidence,.4)
+                        con.execute('INSERT INTO entries VALUES(?,?,?,?,?,?,?,?,?,?,?) ON CONFLICT(id) DO UPDATE SET title=excluded.title,title_de=excluded.title_de,title_es=excluded.title_es,title_en=excluded.title_en,text=excluded.text,bbox=excluded.bbox,confidence=excluded.confidence,section=excluded.section',
+                                    (eid,page_id,chunk['title'],translations['de'],translations['es'],translations['en'],chunk['text'],J(chunk['bbox']),confidence,int(confidence<.75),chunk['title']))
+                        tags=match_terms(chunk['title']+' '+chunk['text'])
+                        con.executemany('INSERT INTO tags VALUES(?,?,?)',[(eid,k,v) for k,v in tags])
+                        for measure in dimensions(chunk['text']):
+                            con.execute('INSERT INTO dimensions(entry_id,name,value,unit,context,metres) VALUES(?,?,?,?,?,?)',
+                                        (eid,measure['nombre'],measure['valor'],measure['unidad'],measure['contexto'],measure['metres']))
+                        for fi,(box,asset,method) in enumerate(figures):
+                            con.execute('INSERT INTO figures VALUES(?,?,?,?,?)',(f'{eid}-{fi}',eid,J(box),asset,method))
+                        tagtext=' '.join(' '.join(TERMS[k][v]) for k,v in tags)
+                        con.execute('INSERT INTO entries_fts VALUES(?,?,?,?)',(eid,chunk['title'],chunk['text'],tagtext))
+                log.info('Page %s/%s: %s chars, %s figures, printed=%s',number,len(doc),sum(len(b['text']) for b in blocks),len(figures),printed)
+            except Exception:
+                log.exception('Page %s failed; rerun resumes here',number)
+                raise
+    return digest
 
 def main():
-    parser = argparse.ArgumentParser()
-    parser.add_argument('--source',type=Path)
-    parser.add_argument('--analyze',action='store_true')
-    parser.add_argument('--force',action='store_true')
+    parser=argparse.ArgumentParser()
+    parser.add_argument('--source',type=Path,default=SOURCE)
     parser.add_argument('--limit',type=int)
-    parser.add_argument('--ocr',choices=['auto','always','never'],default='auto')
-    args = parser.parse_args()
-    logging.basicConfig(level=logging.INFO,format='%(asctime)s %(message)s')
-    if args.limit is not None and args.limit < 1:
-        parser.error('--limit must be positive')
-    result = analyze(args.source or data_dir()/'source/neufert.pdf') if args.analyze else ingest(args.source,args.force,args.limit,args.ocr)
-    print(json.dumps(result,ensure_ascii=False,indent=2))
+    parser.add_argument('--ocr-language',default=os.environ.get('NEUFERT_OCR_LANG'))
+    parser.add_argument('--tables',action='store_true')
+    parser.add_argument('--embeddings',action='store_true')
+    args=parser.parse_args()
+    PRIVATE.mkdir(parents=True,exist_ok=True)
+    logging.basicConfig(level=logging.INFO,format='%(asctime)s %(message)s',handlers=[logging.StreamHandler(),logging.FileHandler(PRIVATE/'ingest.log',encoding='utf-8')])
+    ingest(args.source,args.limit,args.ocr_language,args.tables)
+    from .export_entries import export_all
+    export_all()
+    if args.embeddings:
+        from .vectors import build
+        build()
 
-if __name__ == '__main__':
-    main()
+if __name__=='__main__':main()
+
+

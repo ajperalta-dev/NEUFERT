@@ -1,0 +1,35 @@
+/* Full-viewport architectural drawing slideshow, as in christophhesse.eu. */
+.hero{position:relative;isolation:isolate;display:flex;flex-direction:column;justify-content:space-between;min-height:calc(100svh - 92px);gap:24px;padding:32px 28px 0;overflow:hidden}
+.architecture-backdrop{position:absolute;inset:0;z-index:-1;overflow:hidden;pointer-events:none;background:#fff}
+.architecture-track{display:flex;width:100%;height:100%;opacity:.6;animation:architecture-slides 30s infinite;will-change:transform}
+.architecture-track img{display:block;flex:0 0 100%;width:100%;height:100%;min-width:0;object-fit:cover;object-position:center;user-select:none}
+.hero-copy{align-self:stretch;max-width:none;width:100%;padding:0;position:relative;z-index:1}
+.hero-copy>p:first-child{font-size:12px;margin:0 0 16px}
+.hero-copy h1{font-size:clamp(44px,6.6vw,104px);font-weight:500;letter-spacing:-.055em;line-height:1.04;max-width:1100px;margin:0 0 24px;text-wrap:balance}
+.hero-copy>p:not(:first-child){font-size:clamp(17px,2vw,28px);color:#141414;max-width:760px;margin:0 0 0 auto;text-align:right;line-height:1.35}
+.hero-copy a{display:inline-block;margin-top:28px;background:#ffffffd9;padding:10px 0;border-bottom:1px solid #141414;font-size:16px}
+.hero-image{position:absolute;right:28px;bottom:88px;width:112px;height:144px;min-height:0;padding:8px;max-height:none;background:#fffffff0;border:1px solid var(--rule);margin:0;opacity:0;transition:opacity .2s}
+.hero:focus-within .hero-image,.hero:hover .hero-image{opacity:1}
+.hero-bottom{position:relative;z-index:1;width:100%;background:linear-gradient(transparent,#fffffff2);border-color:transparent;color:#141414;padding:12px 0;font-size:12px}
+.hero-bottom>span{background:#ffffffd9;padding:4px 8px}
+.hero-bottom>div{background:#ffffffd9;padding:0 8px}
+@keyframes architecture-slides{
+  0%,14%{transform:translateX(0)}
+  20%,34%{transform:translateX(-100%)}
+  40%,54%{transform:translateX(-200%)}
+  60%,74%{transform:translateX(-300%)}
+  80%,94%{transform:translateX(-400%)}
+  100%{transform:translateX(-500%)}
+}
+/* Pause while a keyboard user interacts with the foreground controls. */
+.hero:focus-within .architecture-track{animation-play-state:paused}
+@media(max-width:809px){
+ .hero{min-height:calc(100svh - 140px);padding:28px 20px 0;gap:24px}
+ .hero-copy h1{font-size:clamp(40px,8vw,64px);max-width:700px;margin-bottom:20px}
+ .hero-copy>p:not(:first-child){max-width:400px;font-size:18px}
+ .architecture-track img{object-position:center}
+ .hero-image{display:none}
+ .hero-bottom{font-size:11px}.hero-bottom>span{max-width:55%}
+}
+@media(prefers-reduced-motion:reduce){.architecture-track{animation:none;transform:none;will-change:auto}}
+@media print{.architecture-backdrop{display:none}}

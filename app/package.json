@@ -1,24 +1,6 @@
 {
-  "name": "neufert-digital",
-  "version": "0.1.0",
-  "private": true,
-  "scripts": {
-    "dev": "next dev --hostname 127.0.0.1",
-    "build": "next build",
-    "start": "next start --hostname 127.0.0.1",
-    "typecheck": "tsc --noEmit"
-  },
-  "dependencies": {
-    "next": "16.4.6",
-    "react": "19.3.1",
-    "react-dom": "19.3.1"
-  },
-  "devDependencies": {
-    "@tailwindcss/postcss": "4.1.17",
-    "@types/node": "24.10.1",
-    "@types/react": "19.2.2",
-    "@types/react-dom": "19.2.2",
-    "tailwindcss": "4.1.17",
-    "typescript": "5.9.3"
-  }
+  "name": "neufert-digital", "version": "1.0.0", "private": true,
+  "scripts": {"dev": "next dev --hostname 127.0.0.1 --port 3000", "build": "next build", "start": "next start --hostname 127.0.0.1 --port 3000", "typecheck": "tsc --noEmit"},
+  "dependencies": {"next": "16.4.6", "react": "^19.2.0", "react-dom": "^19.2.0", "@fontsource/funnel-sans": "^5.2.0"},
+  "devDependencies": {"typescript": "^5.9.0", "@types/react": "^19.2.0", "@types/react-dom": "^19.2.0", "@types/node": "^24.0.0", "tailwindcss": "^4.1.0", "@tailwindcss/postcss": "^4.1.0"}
 }

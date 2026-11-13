@@ -1,1 +1,1 @@
-"""Neufert Digital: local extraction and retrieval."""
+"""Local Neufert ingestion and retrieval."""

@@ -1,0 +1,263 @@
+{
+  "$defs": {
+    "Dimension": {
+      "additionalProperties": false,
+      "properties": {
+        "label": {
+          "title": "Label",
+          "type": "string"
+        },
+        "value": {
+          "title": "Value",
+          "type": "number"
+        },
+        "value_max": {
+          "anyOf": [
+            {
+              "type": "number"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "default": null,
+          "title": "Value Max"
+        },
+        "unit": {
+          "title": "Unit",
+          "type": "string"
+        },
+        "context": {
+          "title": "Context",
+          "type": "string"
+        },
+        "status": {
+          "default": "uncertain",
+          "enum": [
+            "verified",
+            "corrected",
+            "uncertain"
+          ],
+          "title": "Status",
+          "type": "string"
+        },
+        "ocr_raw": {
+          "title": "Ocr Raw",
+          "type": "string"
+        },
+        "verification_level": {
+          "anyOf": [
+            {
+              "type": "string"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "default": null,
+          "title": "Verification Level"
+        },
+        "verification_pass2": {
+          "anyOf": [
+            {
+              "additionalProperties": true,
+              "type": "object"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "default": null,
+          "title": "Verification Pass2"
+        },
+        "status_history": {
+          "items": {
+            "additionalProperties": true,
+            "type": "object"
+          },
+          "title": "Status History",
+          "type": "array"
+        },
+        "original_value": {
+          "anyOf": [
+            {
+              "type": "number"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "default": null,
+          "title": "Original Value"
+        }
+      },
+      "required": [
+        "label",
+        "value",
+        "unit",
+        "context",
+        "ocr_raw"
+      ],
+      "title": "Dimension",
+      "type": "object"
+    },
+    "Ficha": {
+      "additionalProperties": false,
+      "properties": {
+        "id": {
+          "title": "Id",
+          "type": "string"
+        },
+        "pdf_page": {
+          "maximum": 608,
+          "minimum": 1,
+          "title": "Pdf Page",
+          "type": "integer"
+        },
+        "book_page": {
+          "anyOf": [
+            {
+              "type": "integer"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "title": "Book Page"
+        },
+        "chapter": {
+          "anyOf": [
+            {
+              "type": "string"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "title": "Chapter"
+        },
+        "section": {
+          "anyOf": [
+            {
+              "type": "string"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "title": "Section"
+        },
+        "title": {
+          "title": "Title",
+          "type": "string"
+        },
+        "summary": {
+          "title": "Summary",
+          "type": "string"
+        },
+        "building_type": {
+          "title": "Building Type",
+          "type": "string"
+        },
+        "spaces": {
+          "items": {
+            "type": "string"
+          },
+          "title": "Spaces",
+          "type": "array"
+        },
+        "uses": {
+          "items": {
+            "type": "string"
+          },
+          "title": "Uses",
+          "type": "array"
+        },
+        "furniture_equipment": {
+          "items": {
+            "type": "string"
+          },
+          "title": "Furniture Equipment",
+          "type": "array"
+        },
+        "dimensions": {
+          "items": {
+            "$ref": "#/$defs/Dimension"
+          },
+          "title": "Dimensions",
+          "type": "array"
+        },
+        "figure_refs": {
+          "items": {
+            "type": "string"
+          },
+          "title": "Figure Refs",
+          "type": "array"
+        },
+        "cross_refs": {
+          "items": {
+            "type": "string"
+          },
+          "title": "Cross Refs",
+          "type": "array"
+        },
+        "keywords": {
+          "items": {
+            "type": "string"
+          },
+          "title": "Keywords",
+          "type": "array"
+        },
+        "tags_architectural": {
+          "items": {
+            "type": "string"
+          },
+          "title": "Tags Architectural",
+          "type": "array"
+        },
+        "confidence": {
+          "maximum": 1,
+          "minimum": 0,
+          "title": "Confidence",
+          "type": "number"
+        }
+      },
+      "required": [
+        "id",
+        "pdf_page",
+        "book_page",
+        "chapter",
+        "section",
+        "title",
+        "summary",
+        "building_type",
+        "spaces",
+        "uses",
+        "furniture_equipment",
+        "dimensions",
+        "figure_refs",
+        "cross_refs",
+        "keywords",
+        "tags_architectural",
+        "confidence"
+      ],
+      "title": "Ficha",
+      "type": "object"
+    }
+  },
+  "additionalProperties": false,
+  "properties": {
+    "fichas": {
+      "items": {
+        "$ref": "#/$defs/Ficha"
+      },
+      "title": "Fichas",
+      "type": "array"
+    }
+  },
+  "required": [
+    "fichas"
+  ],
+  "title": "PageFichas",
+  "type": "object"
+}

@@ -1,11 +1,24 @@
 /data/
+/neufert-digital-paquete-base/
+*.pdf
 .venv/
+node_modules/
+.next/
 __pycache__/
 .pytest_cache/
 *.pyc
-app/node_modules/
-app/.next/
-app/tsconfig.tsbuildinfo
 .env
 .env.*
 !.env.example
+*.tsbuildinfo
+
+# Private data and local databases
+/data/private/
+*.sqlite
+*.sqlite3
+*.db
+*.sqlite-*
+*.sqlite3-*
+*.db-*
+
+/neufert-digital-paquete-base.zip

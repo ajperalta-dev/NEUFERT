@@ -1,108 +1,100 @@
 # Neufert Digital
 
-Biblioteca privada local para consultar un PDF propio. Next.js App Router + React + TypeScript, API Python/FastAPI, PyMuPDF, SQLite FTS5 y sqlite-vec. Tailwind/PostCSS están preparados; el diseño final se mantiene pendiente hasta inspeccionar la referencia real.
+Biblioteca personal local: Next.js App Router + React + TypeScript + Tailwind, API Python/FastAPI, PyMuPDF, SQLite FTS5 y sqlite-vec con multilingual-e5-small. No se publica ni requiere cuenta.
 
-**Estado:** aplicación funcional comprobada con un PDF sintético. No incluye el libro. No se ha podido analizar ni ingerir el adjunto real porque supera 32 MiB y su ruta Windows no existe en esta máquina. No se ha acreditado su edición. E5 no se ha descargado por el bloqueo de Hugging Face. La referencia de diseño también está bloqueada. No se dan las tres fases por terminadas.
+## Fichas con visión y búsqueda por página
 
-## Estructura
+Procesamiento completado: 608 páginas en FTS5 y embeddings; 1.475 fichas estructuradas de 566 páginas de contenido. Se conserva el modelo `intfloat/multilingual-e5-small` de 384 dimensiones y la búsqueda anterior. El nuevo endpoint híbrido es `/api/page-search`; el informe completo está en http://127.0.0.1:3000/api/reports/structured-book . Las cotas inciertas requieren revisión manual.
 
-```text
-app/                 Next.js, componentes e idiomas ES/EN/DE
-pipeline/            análisis, extracción, ingesta, búsqueda, API, tests
-scripts/             instalación, arranque, preparación E5 y prueba de navegador
-data/source/         PDF privado (ignorado)
-data/private/        SQLite, imágenes, recortes, análisis, OCR y modelos (ignorado)
-docs/schema.md       esquema, procedencia y límites de las heurísticas
-docs/design-reference.md  inspección visual pendiente, sin valores inventados
+Migración, comandos de cada fase, configuración de visión, trazabilidad y resultados: [pipeline/README-structured.md](pipeline/README-structured.md).
+
+## Fuente analizada
+
+El archivo proporcionado `Neufert-4th-edition.pdf` se copió a `data/source/neufert.pdf`. **608 páginas, 4.ª edición inglesa (2012), traducción de la 39.ª edición alemana**, según las páginas preliminares. No corresponde a la 44.ª edición alemana. Contiene escaneos con capa OCR, índice PDF de capítulos y aproximadamente 2,27 millones de caracteres. Páginas con menos de 50 caracteres: 1, 5, 13, 607, 608. El OCR presenta errores y cotas sin unidad: las medidas ambiguas no se convierten automáticamente.
+
+Auditoría detallada privada: `data/private/source-audit.json`. Propuesta previa de datos: [docs/data-model.md](docs/data-model.md). Inspección visual y CSS de la referencia: [docs/design-audit.md](docs/design-audit.md).
+
+## Instalación (PowerShell, desde esta carpeta)
+
+```powershell
+python -m venv .venv
+./.venv/Scripts/python -m pip install -r pipeline/requirements.txt
+npm --prefix app ci
 ```
 
-`/data/` está en `.gitignore`. Todos los datos derivados viven bajo `$NEUFERT_DATA_DIR/private`. El backend por defecto busca `/data`; los scripts de desarrollo usan `./data` para funcionar sin privilegios. Si hay un volumen `/data`, exportar `NEUFERT_DATA_DIR=/data` antes de ejecutar **todos** los comandos. No mezclar distintas rutas entre API e ingesta.
+En Linux/macOS sustituir `./.venv/Scripts/python` por `.venv/bin/python`. Python 3.11 y Node 24 usados en desarrollo. Todo `/data`, el PDF original, modelos, dependencias y claves están excluidos de Git.
 
-## Instalar (Linux / WSL / macOS)
+## Ingesta
 
-Requisitos: Python 3.11+ con venv, Node 20.9+ (verificado con Node 24), npm, `curl`, `sha256sum`; Tesseract/PyMuPDF OCR y el modelo alemán. En macOS `sha256sum` se obtiene con coreutils. Windows nativo: usar WSL2 o adaptar los scripts a PowerShell; esta instalación no fue probada en Windows.
+### Paquete base preparado (sin abrir el PDF)
 
-Desde la raíz del repositorio:
+El paquete aportado `neufert-digital-paquete-base/neufert` está integrado como fuente preferente de páginas, miniaturas, índice y coordenadas. Para registrarlo de nuevo:
 
-```bash
-export NEUFERT_DATA_DIR="$PWD/data"  # o /data si existe ese volumen
-bash scripts/setup.sh
+```powershell
+./.venv/Scripts/python -m pipeline.base_package neufert-digital-paquete-base
 ```
 
-Instala dependencias Python y npm con lockfile, obtiene `deu.traineddata` oficial de un commit inmutable y verifica SHA-256; ejecuta tests y build. Instala modelos/documentos solo en la carpeta privada. No instala paquetes del sistema ni requiere una API externa. No descargar el libro desde fuentes ajenas al usuario.
+Se comprueban las 608 páginas, sus archivos y la correspondencia de tres muestras OCR con el documento ya registrado. Los archivos se copian a `data/private/base-package`; se conserva el paquete original, también ignorado por Git. La importación conserva favoritos, fichas, FTS5 y vectores existentes. No recalcula medidas ni les añade validación visual. La importación del paquete por sí sola conserva las fichas heurísticas; la fase de visión posterior añade fichas validadas en la tabla `fichas`.
 
-El entorno cloud de esta sesión ya tiene dependencias base, Tesseract alemán y dependencias CPU de E5 instaladas. Los pesos E5 siguen pendientes.
+El visor utiliza los WebP del paquete y permite **Resaltar palabras** sobre coordenadas normalizadas; el resaltado escala con el zoom. Los listados usan miniaturas de 360 px y muestran capítulo/sección. Se conserva SQLite para la búsqueda híbrida; `search_text.json` queda disponible en privado para una futura búsqueda íntegramente en el navegador. El OCR, las medidas y las figuras anteriores no se sobrescriben con el paquete.
 
-## 1. Analizar e ingerir el PDF
+### Ingesta desde PDF
 
-Copiar el archivo propio a `$NEUFERT_DATA_DIR/source/neufert.pdf`. Una ruta de Windows no da acceso al archivo desde una máquina cloud. En WSL **del mismo equipo**, la ruta podría ser:
-
-```bash
-cp '/mnt/c/Users/agust/OneDrive/Documentos/ChatGPT/ARCHITECTURE/Neufert-4th-edition.pdf' "$NEUFERT_DATA_DIR/source/neufert.pdf"
+```powershell
+./.venv/Scripts/python pipeline/inspect_source.py data/source/neufert.pdf
+./.venv/Scripts/python -m pipeline.ingest --ocr-language eng
+./.venv/Scripts/python -m pipeline.vectors
 ```
 
-Esto solo sirve si OneDrive tiene el archivo descargado y WSL ve esa unidad. En cloud hay que transferir o montar el archivo; el adjunto de este chat excede el límite de descarga de la herramienta. También se acepta otra ruta con `--source`.
+Para probar pocas páginas: `--limit 20`. `--embeddings` genera vectores al terminar. `--tables` activa pdfplumber; los resultados de tablas OCR pueden necesitar revisión. Las páginas se renderizan en WebP a 150 dpi. Se extraen bloques con bbox y recortes de imágenes o regiones gráficas heurísticas. Cada ficha conserva una hoja/sección completa para mantener unidas las cotas y los dibujos; la subdivisión editorial fina requiere revisión manual. Los títulos traducidos solo se rellenan cuando coinciden con el vocabulario verificado; los demás conservan el original.
 
-```bash
-.venv/bin/python -m pipeline.ingest --analyze
-# Revisar número de páginas, metadatos, marcadores y páginas candidatas a OCR.
-.venv/bin/python -m pipeline.ingest --limit 10
-# Inspeccionar fichas/recortes antes de procesar el resto.
-.venv/bin/python -m pipeline.ingest
+La ingesta es reanudable: mismo hash/version y artefactos existentes omiten páginas completas. Cada página se confirma en una transacción. Los vectores se reanudan por ficha y chunk; ejecutar vectores **después** de la ingesta completa. Logs: `data/private/ingest.log`. No cambiar de edición sobre una base existente: usar otro `NEUFERT_DATA_DIR` para mantener bibliotecas separadas.
+
+OCR: instalar Tesseract y sus datos de idioma. El PDF actual usa `eng`; para una fuente alemana usar `--ocr-language deu` y disponer de `deu.traineddata`. Solo se aplica OCR adicional a páginas sin texto suficiente. En esta máquina Tesseract tiene `eng` y `osd`; `deu` debe instalarse para una futura fuente alemana. `NEUFERT_DATA_DIR` permite elegir la raíz de datos (por defecto `./data`).
+
+## Ejecutar
+
+Dos terminales, desde la raíz:
+
+```powershell
+./.venv/Scripts/python -m uvicorn pipeline.api:app --host 127.0.0.1 --port 8000
 ```
 
-Es secuencial, idempotente y reanudable por página; una sola ingesta a la vez. Registra progreso en stderr y estado en SQLite. `--force` reprocesa e invalida vectores de esas páginas; repetir después el índice E5. `--ocr auto|always|never` controla OCR. `--source /ruta/documento.pdf` admite originales fuera de `source`; conservarlos accesibles para «PDF original». Ningún OCR o LLM inventa cotas: las medidas reconocidas requieren comprobar el contexto.
-
-Se conservan texto, bloques/bbox, candidato a página impresa, páginas WebP a 150 dpi, candidatos a esquemas incrustados/vectoriales, tablas de PyMuPDF y fichas por títulos. Textos multicolumna, cotas sin unidades, pies, diagramas y numeración impresa requieren revisión. Sin título fiable se usa una ficha por página con baja confianza. Las etiquetas ES/EN son un glosario heurístico, no una traducción completa del título. Más detalles en [el esquema](docs/schema.md).
-
-## 2. Arrancar
-
-```bash
-bash scripts/dev.sh
+```powershell
+npm --prefix app run dev
 ```
 
-Arranca API en loopback puerto 8000 y Next en loopback puerto 3000; Ctrl+C detiene ambos. La app envía `/api/*` al backend mediante rewrite. No exponer estos servicios a Internet: es una herramienta local, sin autenticación multiusuario. Para producción local: API con `.venv/bin/python -m uvicorn pipeline.api:app --host 127.0.0.1 --port 8000`, y en otra terminal `npm run start --prefix app` después del build.
+Abrir http://127.0.0.1:3000 . El proxy de Next sirve los datos privados sin copiarlos a `public`. API y frontend se enlazan a loopback. Para producción local: `npm --prefix app run build` y `npm --prefix app start`. El script `start-local.ps1` arranca ambos servidores y los detiene al cerrar con Ctrl+C.
 
-Funciones: búsqueda FTS5 y fragmentos resaltados; filtros combinables con contadores, rango de longitudes en cm, revisión manual; detalle y medidas con contexto; recortes ampliables; visor con bbox, zoom y navegación; categorías y marcadores del PDF; favoritos, colecciones y exportación Markdown/PDF con páginas y hash de documento; selector ES/EN/DE persistido. Los textos del libro permanecen en alemán. El carrusel es manual, sin autoplay. Si no hay ingesta, se muestra un estado vacío explícito.
+## Funciones y fases
 
-La interfaz provisional usa HTML semántico y estilos nativos del navegador para cumplir la instrucción de no inventar CSS antes de inspeccionar CHA. **No es el diseño final responsivo solicitado**. La navegación y controles se probaron a 390 y 1280 px; faltan auditoría visual, contraste y prueba responsiva final con el diseño observado.
+1. Ingesta, búsqueda FTS5, ficha con texto/cotas y visor de páginas con zoom y bbox.
+2. Facetas combinables con contadores, índice del libro, estilos basados en valores inspeccionados de christophhesse.eu, interfaz ES/EN/DE y revisión manual.
+3. Fusión RRF de BM25 y vectores locales, expansión léxica ES/EN/DE, endpoint `/api/ask`, favoritos/colecciones SQLite, Markdown y vista de impresión para guardar como PDF con referencias. El comparador queda fuera de esta entrega opcional.
 
-## 3. Activar búsqueda híbrida E5
+Los embeddings se descargan una vez a `data/private/models`; después funcionan localmente. Si aún no se generaron, la API mantiene FTS5 y expansión léxica; `/api/status` informa la cantidad de chunks vectoriales.
 
-No requiere claves LLM. Requiere acceso inicial a Hugging Face y sus redirecciones de descarga; después funciona localmente.
+Opcionalmente definir `OPENAI_API_KEY` o `ANTHROPIC_API_KEY` en el entorno de la API. Se usa OpenAI Chat Completions o Anthropic Messages para reformular/filtros y seleccionar evidencia recuperada. Modelos configurables mediante `OPENAI_MODEL` y `ANTHROPIC_MODEL`. Con claves, se envían la consulta y fragmentos recuperados al proveedor. Sin claves no hay llamadas a LLM. Los extractos devueltos se validan como citas literales del texto recuperado y reciben página desde SQLite; respuestas no verificables se descartan. Un fallo remoto conserva la búsqueda local. No se ejecuta texto devuelto por modelos ni se aceptan filtros fuera del vocabulario.
 
-```bash
-bash scripts/semantic-setup.sh
-# Tras futuras ingestas o --force, reutilizar el modelo cacheado sin descargar:
-.venv/bin/python -m pipeline.semantic
+## Verificación
+
+```powershell
+./.venv/Scripts/python -m pytest pipeline/tests -q
+npm --prefix app run build
 ```
 
-Modelo: `intfloat/multilingual-e5-small`, CPU, 384 dimensiones, prefijos `query:`/`passage:`, normalización; coseno exacto en sqlite-vec + BM25 mediante RRF. Los pesos y caché viven en `private/models`. Si no hay modelo/índice, la API anuncia `fts5` y la interfaz avisa de la ausencia de semántica. El glosario multilingüe mejora FTS, pero **no equivale a un embedding multilingüe**. Los tests híbridos usan vectores deterministas; falta comprobar recuperación E5 real sobre el libro.
+Las pruebas usan PDF sintético para no versionar contenido del libro. Cubren extracción, segmentación, numeración, unidades/contexto, filtros y consultas multilingües. La extracción heurística, las tablas y las normas históricas del libro deben contrastarse en el original. El estado «revisada» no cambia la confianza estimada por el extractor.
 
-En este cloud se guardó un borrador de dominios para `christophhesse.eu`, `www.christophhesse.eu`, `huggingface.co`, `*.huggingface.co` y `*.xethub.hf.co`. Guardar la configuración en los ajustes del entorno para aplicar acceso y luego reintentar. Publicar es una acción distinta. No se desactivan TLS, firmas ni checksums.
+Resultado de la ejecución completa y límites de verificación: [docs/verification.md](docs/verification.md).
 
-## LLM opcional
+## Segunda pasada de unidades (Luna, v2)
 
-Exportar `ANTHROPIC_API_KEY` o `OPENAI_API_KEY` en la **terminal del backend** (o mediante secretos seguros del entorno). No introducir claves en frontend, Git ni chat; `.env.example` contiene solo nombres y el backend no lo carga automáticamente. Ante ambas claves se prefiere Anthropic. Modelos configurables con `NEUFERT_ANTHROPIC_MODEL` y `NEUFERT_OPENAI_MODEL`.
+La segunda pasada versionada usa exclusivamente `gpt-6-luna`. `.env` debe contener `NEUFERT_VERIFY_MODEL=gpt-6-luna` y `NEUFERT_VISION_MODEL=gpt-6-luna`; el comando se detiene si cualquiera selecciona otro modelo.
 
-La casilla de interpretación envía **solo la consulta** al proveedor. Se validan palabras clave alemanas y tipología; timeouts o respuestas incorrectas conservan búsqueda local. No hay resumen generativo: se muestran extractos citados para impedir que se agreguen cifras no recuperadas. No se envían páginas para enriquecer fichas. No se ha probado una llamada real porque no hay claves; tests verifican el contrato con respuestas simuladas. Permitir `api.anthropic.com` o `api.openai.com` en entornos restringidos si se activa esa opción.
-
-## Validación
-
-```bash
-.venv/bin/python -m pytest pipeline/tests -q
-npm run typecheck --prefix app
-npm run build --prefix app
-# Python con Playwright + Chromium. Usa puertos 8000/3000 libres y datos temporales:
-python3 scripts/browser-smoke.py
+```powershell
+./.venv/Scripts/python -m pipeline.verify_pass2_units --dry-run
+# Solo después de la aprobación explícita:
+./.venv/Scripts/python -m pipeline.verify_pass2_units --approved-full-run
 ```
 
-Comprobado en esta sesión: 14 tests Python, incluido OCR alemán real en un escaneo sintético, conexiones concurrentes, reanudación, búsqueda y exportaciones. TypeScript y build pasan. Chromium comprueba búsqueda → ficha → favorito → colección → visor/bbox → exportaciones e idiomas; interacción en escritorio/móvil. Los tests no usan ni redistribuyen el libro.
-
-## Fases y pendientes concretos
-
-- **Fase 1, funcional con datos sintéticos:** ingesta, FTS5, ficha, visor y OCR probados. Pendiente análisis/ingesta del original y ajuste de segmentación con evidencia del libro.
-- **Fase 2, funcional parcial:** facetas, rangos, categorías y marcadores. Bloqueado diseño final hasta inspeccionar la referencia; Tailwind instalado, sin CSS de diseño escrito.
-- **Fase 3, funcional parcial:** recuperación híbrida implementada y probada con vectores de prueba; intérprete LLM con fallback; favoritos/colecciones/exportaciones probados. Pendientes pesos E5, validación multilingüe real y llamada LLM opcional. Traducciones completas/enriquecimiento con LLM y comparador no implementados.
-
-Para continuar: disponer del PDF en Linux, permitir acceso a la referencia y al modelo, analizar portada/edición y páginas, ingerir una muestra, revisar extracción y diseño observado, completar ingesta e indexación y probar consultas reales. No se necesita decidir nada adicional para esos pasos.
+El dry-run no llama a modelos y escribe `data/private/reports/segunda_pasada_unidad_contexto_v2_dry_run.json`. La corrida aprobada guarda estados y auditoría en un ledger v2 independiente; no reescribe valores, OCR ni el piloto histórico. Las cotas con unidad explícita en el recorte pueden quedar `verified`; una unidad inferida del contexto conserva cita literal y bbox, pero queda `verified_unit_inferred`.
