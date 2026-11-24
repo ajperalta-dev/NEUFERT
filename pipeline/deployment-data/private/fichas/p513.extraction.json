@@ -1,0 +1,229 @@
+{
+  "fichas": [
+    {
+      "id": "4122fb96e4bd1976-513-vision-0",
+      "pdf_page": 513,
+      "book_page": 500,
+      "chapter": "BUILDING SERVICES",
+      "section": "Daylight",
+      "title": "Principles of sun protection",
+      "summary": "Sun protection and daylight-direction systems aim to limit excessive heat radiation and glare while allowing individual user control and avoiding interference with ventilation. The page illustrates facade-side light incidence, rooflight entry, and natural sun protection from deciduous trees, which shade in summer and admit warmth and light in winter.",
+      "building_type": "Building envelope and daylighting systems",
+      "spaces": [
+        "Rooms",
+        "Window and facade zones",
+        "Rooflight zones"
+      ],
+      "uses": [
+        "Reduce excessive solar heat gain",
+        "Reduce glare and light differences",
+        "Provide user-controllable sun protection",
+        "Admit daylight",
+        "Preserve ventilation control"
+      ],
+      "furniture_equipment": [
+        "Sun-protection components",
+        "Glare protection",
+        "Rooflights",
+        "Deciduous trees"
+      ],
+      "dimensions": [],
+      "figure_refs": [
+        "1",
+        "A Natural sun protection",
+        "B Facade – sideways light incidence",
+        "C Rooflight entry from above"
+      ],
+      "cross_refs": [],
+      "keywords": [
+        "daylight",
+        "sun protection",
+        "glare",
+        "solar heat gain",
+        "natural shading",
+        "deciduous trees",
+        "ventilation"
+      ],
+      "tags_architectural": [
+        "daylighting",
+        "adaptability",
+        "safety"
+      ],
+      "confidence": 0.96
+    },
+    {
+      "id": "4122fb96e4bd1976-513-vision-1",
+      "pdf_page": 513,
+      "book_page": 500,
+      "chapter": "BUILDING SERVICES",
+      "section": "Daylight",
+      "title": "Sun angles and projection of sun-protection components",
+      "summary": "The page gives solar-angle examples for a south wall at a northern latitude below 50° and describes calculating the projection of a sun-protection component from the shadow angle and window height, with a wall-thickness adjustment and a stated minimum projection. The formula is retained symbolically; no unprinted values are calculated.",
+      "building_type": "Building envelope and solar-shading design",
+      "spaces": [
+        "South-facing window zones"
+      ],
+      "uses": [
+        "Estimate sun-protection projection",
+        "Relate seasonal sun angles to shading design"
+      ],
+      "furniture_equipment": [
+        "Sun-protection projections",
+        "Window",
+        "Wall"
+      ],
+      "dimensions": [
+        {
+          "label": "Northern latitude threshold",
+          "value": 50.0,
+          "value_max": null,
+          "unit": "degrees",
+          "context": "The stated solar-angle guidance applies to a south wall at a northern latitude less than this threshold.",
+          "status": "uncertain",
+          "ocr_raw": "Sun angle α' and shadow angle for a south wall less than 50° northern latitude (London)"
+        },
+        {
+          "label": "Solar angle α′",
+          "value": 63.0,
+          "value_max": null,
+          "unit": "degrees",
+          "context": "21 June (summer solstice), midday.",
+          "status": "uncertain",
+          "ocr_raw": "21 June (summer solstice), midday α' = 63°"
+        },
+        {
+          "label": "Solar angle α",
+          "value": 27.0,
+          "value_max": null,
+          "unit": "degrees",
+          "context": "21 June (summer solstice), midday.",
+          "status": "uncertain",
+          "ocr_raw": "α = 27°"
+        },
+        {
+          "label": "Solar angle α′",
+          "value": 50.0,
+          "value_max": null,
+          "unit": "degrees",
+          "context": "1 May and 31 July, midday.",
+          "status": "uncertain",
+          "ocr_raw": "1 May and 31 July, midday α' = 50°"
+        },
+        {
+          "label": "Solar angle α",
+          "value": 40.0,
+          "value_max": null,
+          "unit": "degrees",
+          "context": "1 May and 31 July, midday.",
+          "status": "uncertain",
+          "ocr_raw": "α = 40°"
+        },
+        {
+          "label": "Solar angle α′",
+          "value": 40.0,
+          "value_max": null,
+          "unit": "degrees",
+          "context": "21 March and 21 September (equinoxes), midday.",
+          "status": "uncertain",
+          "ocr_raw": "21 March and 21 September (equinoxes) midday α' = 40°"
+        },
+        {
+          "label": "Solar angle α",
+          "value": 50.0,
+          "value_max": null,
+          "unit": "degrees",
+          "context": "21 March and 21 September (equinoxes), midday.",
+          "status": "uncertain",
+          "ocr_raw": "α = 50°"
+        }
+      ],
+      "figure_refs": [
+        "2",
+        "Calculation of necessary projection of sun protection components"
+      ],
+      "cross_refs": [],
+      "keywords": [
+        "solar angle",
+        "shadow angle",
+        "projection",
+        "window height",
+        "wall thickness",
+        "south wall"
+      ],
+      "tags_architectural": [
+        "daylighting",
+        "spatial_proportion"
+      ],
+      "confidence": 0.92
+    },
+    {
+      "id": "4122fb96e4bd1976-513-vision-2",
+      "pdf_page": 513,
+      "book_page": 500,
+      "chapter": "BUILDING SERVICES",
+      "section": "Daylight",
+      "title": "Sun-shading systems and selection",
+      "summary": "The page surveys shutters, external blinds, inter-pane shading, vertical blades, awnings, roof overhangs, and double facades. System selection depends mainly on window orientation: movable systems are recommended for low east and west sun, while slight roof overhangs can suffice against high summer sun on south windows. External closed shading needs a route for heat to escape; systems close to windows can risk overheating or impair ventilation.",
+      "building_type": "Building envelope and solar-shading systems",
+      "spaces": [
+        "Window and facade zones",
+        "Shop windows and displays"
+      ],
+      "uses": [
+        "Shade windows according to orientation",
+        "Reduce glare and solar heat gain",
+        "Maintain outward views where possible",
+        "Allow ventilation and heat escape"
+      ],
+      "furniture_equipment": [
+        "Folding and sliding shutters",
+        "External blinds",
+        "Blinds between glass facade and wall",
+        "Vertical sun-protection blades",
+        "Horizontal awnings",
+        "Falling-arm awnings",
+        "Roller awnings",
+        "Roof overhangs",
+        "Balconies",
+        "Double facades",
+        "Adjustable slats"
+      ],
+      "dimensions": [],
+      "figure_refs": [
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12",
+        "13",
+        "14",
+        "15"
+      ],
+      "cross_refs": [
+        "BS 8206-2",
+        "DIN 5034"
+      ],
+      "keywords": [
+        "external blinds",
+        "shutters",
+        "awnings",
+        "double facade",
+        "orientation",
+        "ventilation",
+        "shop windows"
+      ],
+      "tags_architectural": [
+        "daylighting",
+        "ventilation",
+        "adaptability",
+        "clearance"
+      ],
+      "confidence": 0.95
+    }
+  ]
+}

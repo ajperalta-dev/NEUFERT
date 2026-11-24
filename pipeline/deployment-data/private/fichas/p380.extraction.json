@@ -1,0 +1,785 @@
+{
+  "fichas": [
+    {
+      "id": "4122fb96e4bd1976-380-vision-0",
+      "pdf_page": 380,
+      "book_page": 367,
+      "chapter": "SPORT AND LEISURE",
+      "section": "Swimming Pools",
+      "title": "Outdoor public pools: planning and facilities",
+      "summary": "Planning guidance for outdoor public pools, including site and parking provisions, entrance and changing facilities, sanitary and staff spaces, covered and open areas, and play areas. The room-and-area relationship diagram indicates internal links only and is not intended for room planning.",
+      "building_type": "Outdoor public swimming pool",
+      "spaces": [
+        "Covered entrance area (street side and pool side)",
+        "Ticket office",
+        "Changing area",
+        "Showers",
+        "Toilets",
+        "Mother-and-child area",
+        "Warm and recreation room",
+        "Administration",
+        "Staff rooms",
+        "Club rooms",
+        "Swimming supervisors’ room",
+        "First aid room",
+        "Plant area",
+        "Stores and equipment rooms",
+        "Competition rooms",
+        "Staff flat",
+        "Sitting area",
+        "Sunbathing terrace",
+        "Play area",
+        "Leisure/sports facilities",
+        "Foot rinse pool",
+        "Children’s play area",
+        "Paddling area",
+        "Pool area",
+        "Cloakrooms",
+        "Covered weather-protection area",
+        "Warm lounge room"
+      ],
+      "uses": [
+        "Public swimming and recreation",
+        "Changing and storage of valuables",
+        "Showering and sanitary use",
+        "Sunbathing, leisure sports, and children’s play",
+        "Staff work, lifeguard supervision, first aid, and equipment storage"
+      ],
+      "furniture_equipment": [
+        "Lockers for valuables",
+        "Changing cubicles",
+        "Communal changing-room benches",
+        "Cash desk",
+        "Access control equipment",
+        "Warm showers",
+        "Cold showers",
+        "WCs",
+        "Urinals",
+        "Washbasins",
+        "Foot-washing and rinsing taps"
+      ],
+      "dimensions": [
+        {
+          "label": "Building plot area per planned water area",
+          "value": 10.0,
+          "value_max": 16.0,
+          "unit": "m²",
+          "context": "Building plot size, per planned water area.",
+          "status": "uncertain",
+          "ocr_raw": "Building plot size: 10–16 m² of the planned water area."
+        },
+        {
+          "label": "Car parking spaces",
+          "value": 1.0,
+          "value_max": null,
+          "unit": "car",
+          "context": "Parking provision per 200–300 m² of building plot area.",
+          "status": "uncertain",
+          "ocr_raw": "Parking: 1 car and 2 bicycle spaces per 200–300 m² of building plot area."
+        },
+        {
+          "label": "Bicycle parking spaces",
+          "value": 2.0,
+          "value_max": null,
+          "unit": "bicycle spaces",
+          "context": "Parking provision per 200–300 m² of building plot area.",
+          "status": "uncertain",
+          "ocr_raw": "Parking: 1 car and 2 bicycle spaces per 200–300 m² of building plot area."
+        },
+        {
+          "label": "Building plot area for parking provision",
+          "value": 200.0,
+          "value_max": 300.0,
+          "unit": "m²",
+          "context": "Building plot area per stated car and bicycle parking provision.",
+          "status": "uncertain",
+          "ocr_raw": "Parking: 1 car and 2 bicycle spaces per 200–300 m² of building plot area."
+        },
+        {
+          "label": "Entrance space",
+          "value": 150.0,
+          "value_max": null,
+          "unit": "m²",
+          "context": "Per 1000 m² water area; entrance space in front of entrance.",
+          "status": "uncertain",
+          "ocr_raw": "Space in front of entrance: 150 m² per 1000 m² water area,"
+        },
+        {
+          "label": "Roofed entrance zone",
+          "value": 50.0,
+          "value_max": null,
+          "unit": "m²",
+          "context": "Per 1000 m² water area; includes cash desk and access control equipment.",
+          "status": "uncertain",
+          "ocr_raw": "50 m² per 1000 m² water area for roofed entrance zones, including cash desk and access control equipment."
+        },
+        {
+          "label": "Water area denominator for entrance provisions",
+          "value": 1000.0,
+          "value_max": null,
+          "unit": "m²",
+          "context": "Water-area basis stated for entrance provisions.",
+          "status": "uncertain",
+          "ocr_raw": "Space in front of entrance: 150 m² per 1000 m² water area, 50 m² per 1000 m² water area for roofed entrance zones, including cash desk and access control equipment."
+        },
+        {
+          "label": "Changing places as cubicles",
+          "value": 0.01,
+          "value_max": null,
+          "unit": "per m² water area",
+          "context": "Cubicle changing places relative to water area.",
+          "status": "uncertain",
+          "ocr_raw": "Changing area: changing places as cubicles: 0.01 per m² water area,"
+        },
+        {
+          "label": "Minimum changing places",
+          "value": 10.0,
+          "value_max": null,
+          "unit": "places",
+          "context": "Minimum per 1000 m² water area; of these, 8 are changing places as cubicles, including 2 family and wheelchair-user cubicles, and 2 privacy-screened places on the sunbathing lawn.",
+          "status": "uncertain",
+          "ocr_raw": "per 1000m² water area min. 10 changing places, of which: 8 changing places as cubicles including 2 cubicles for families and wheelchair users and 2 privacy-screened changing places on the sunbathing lawn."
+        },
+        {
+          "label": "Changing places as cubicles",
+          "value": 8.0,
+          "value_max": null,
+          "unit": "places",
+          "context": "Of the minimum 10 changing places per 1000 m² water area; includes 2 cubicles for families and wheelchair users.",
+          "status": "uncertain",
+          "ocr_raw": "10 changing places, of which: 8 changing places as cubicles including 2 cubicles for families and wheelchair users"
+        },
+        {
+          "label": "Family and wheelchair-user cubicles",
+          "value": 2.0,
+          "value_max": null,
+          "unit": "cubicles",
+          "context": "Included among the 8 changing places as cubicles.",
+          "status": "uncertain",
+          "ocr_raw": "including 2 cubicles for families and wheelchair users"
+        },
+        {
+          "label": "Privacy-screened changing places",
+          "value": 2.0,
+          "value_max": null,
+          "unit": "places",
+          "context": "On the sunbathing lawn.",
+          "status": "uncertain",
+          "ocr_raw": "and 2 privacy-screened changing places on the sunbathing lawn."
+        },
+        {
+          "label": "Minimum communal changing rooms",
+          "value": 2.0,
+          "value_max": null,
+          "unit": "rooms",
+          "context": "Communal changing rooms, as required; minimum number.",
+          "status": "uncertain",
+          "ocr_raw": "Communal changing rooms: as required, min. 2 communal changing rooms, each with 10.00 m bench length."
+        },
+        {
+          "label": "Bench length per communal changing room",
+          "value": 10.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Bench length in each communal changing room.",
+          "status": "uncertain",
+          "ocr_raw": "each with 10.00 m bench length."
+        },
+        {
+          "label": "Cloakroom places and lockers",
+          "value": 0.1,
+          "value_max": null,
+          "unit": "per m² water area",
+          "context": "Cloakroom places and lockers for valuables, per water area.",
+          "status": "uncertain",
+          "ocr_raw": "Cloakrooms: cloakroom places and lockers for valuables: 0.1 per m² water area,"
+        },
+        {
+          "label": "Lockers for valuables",
+          "value": 20.0,
+          "value_max": null,
+          "unit": "lockers per 100 cloakroom places",
+          "context": "Valuables lockers relative to cloakroom places.",
+          "status": "uncertain",
+          "ocr_raw": "20 lockers for valuables per 100 cloakroom places."
+        },
+        {
+          "label": "Child-parent area",
+          "value": 15.0,
+          "value_max": 25.0,
+          "unit": "m²",
+          "context": "Sanitary facilities child-parent area.",
+          "status": "uncertain",
+          "ocr_raw": "Sanitary facilities: child-parent area: 15–25 m²."
+        },
+        {
+          "label": "Warm showers for ladies",
+          "value": 3.0,
+          "value_max": null,
+          "unit": "showers per 1000 m² water area",
+          "context": "Per 1000 m² water area.",
+          "status": "uncertain",
+          "ocr_raw": "Showers: per 1000 m² water area 3 warm showers for ladies,"
+        },
+        {
+          "label": "Warm showers for gents",
+          "value": 3.0,
+          "value_max": null,
+          "unit": "showers per 1000 m² water area",
+          "context": "Per 1000 m² water area.",
+          "status": "uncertain",
+          "ocr_raw": "3 warm showers for gents,"
+        },
+        {
+          "label": "Optional cold shower",
+          "value": 1.0,
+          "value_max": null,
+          "unit": "shower per shower room",
+          "context": "Possibly one cold shower in each shower room.",
+          "status": "uncertain",
+          "ocr_raw": "possibly also 1 cold shower per shower room."
+        },
+        {
+          "label": "WCs for ladies",
+          "value": 4.0,
+          "value_max": null,
+          "unit": "WCs per 1000 m² water area",
+          "context": "Per 1000 m² water area.",
+          "status": "uncertain",
+          "ocr_raw": "Toilets: per 1000 m² water area: 4 WCs for ladies,"
+        },
+        {
+          "label": "WCs for gents",
+          "value": 2.0,
+          "value_max": null,
+          "unit": "WCs per 1000 m² water area",
+          "context": "Per 1000 m² water area.",
+          "status": "uncertain",
+          "ocr_raw": "2 WCs and 4 urinals for gents, anteroom with washbasin."
+        },
+        {
+          "label": "Urinals for gents",
+          "value": 4.0,
+          "value_max": null,
+          "unit": "urinals per 1000 m² water area",
+          "context": "Per 1000 m² water area.",
+          "status": "uncertain",
+          "ocr_raw": "2 WCs and 4 urinals for gents, anteroom with washbasin."
+        },
+        {
+          "label": "Foot-washing and rinsing taps",
+          "value": 4.0,
+          "value_max": null,
+          "unit": "taps per 1000 m² water area",
+          "context": "Combined foot-washing and rinsing point.",
+          "status": "uncertain",
+          "ocr_raw": "Foot washing and rinsing point (combined): per 1000 m² water area, 4 taps."
+        },
+        {
+          "label": "Covered weather-protection area",
+          "value": 100.0,
+          "value_max": null,
+          "unit": "m² per 1000 m² water area",
+          "context": "Covered area for weather protection.",
+          "status": "uncertain",
+          "ocr_raw": "Covered area for weather protection: per 1000 m² water area, 100 m² covered area."
+        },
+        {
+          "label": "Warm lounge room",
+          "value": 30.0,
+          "value_max": 70.0,
+          "unit": "m²",
+          "context": "Per 1000 guideline units; minimum 50 m².",
+          "status": "uncertain",
+          "ocr_raw": "Warm lounge room: per 1000 guideline units 30–70 m², min. 50 m²."
+        },
+        {
+          "label": "Minimum warm lounge room",
+          "value": 50.0,
+          "value_max": null,
+          "unit": "m²",
+          "context": "Minimum area.",
+          "status": "uncertain",
+          "ocr_raw": "min. 50 m²."
+        },
+        {
+          "label": "Staff-room threshold",
+          "value": 1500.0,
+          "value_max": null,
+          "unit": "m² water area",
+          "context": "Up to this water-area size, staff rooms up to 10 m²; above it, staff rooms up to 30 m².",
+          "status": "uncertain",
+          "ocr_raw": "Staff rooms: up to 1500 m² water area, up to 10 m²; over 1500 m² water area, up to 30 m²."
+        },
+        {
+          "label": "Staff rooms for pools up to threshold",
+          "value": 10.0,
+          "value_max": null,
+          "unit": "m²",
+          "context": "Maximum staff-room area for water areas up to 1500 m².",
+          "status": "uncertain",
+          "ocr_raw": "Staff rooms: up to 1500 m² water area, up to 10 m²;"
+        },
+        {
+          "label": "Staff rooms for pools over threshold",
+          "value": 30.0,
+          "value_max": null,
+          "unit": "m²",
+          "context": "Maximum staff-room area for water areas over 1500 m².",
+          "status": "uncertain",
+          "ocr_raw": "over 1500 m² water area, up to 30 m²."
+        },
+        {
+          "label": "Lifeguard’s room",
+          "value": 10.0,
+          "value_max": null,
+          "unit": "m²",
+          "context": "Approximate area.",
+          "status": "uncertain",
+          "ocr_raw": "Lifeguard’s room: approx. 10 m²."
+        },
+        {
+          "label": "First aid room",
+          "value": 8.0,
+          "value_max": null,
+          "unit": "m²",
+          "context": "Approximate area when specified separately.",
+          "status": "uncertain",
+          "ocr_raw": "First aid room: approx. 8 m²,"
+        },
+        {
+          "label": "Combined first aid, lifeguard, and sanitary facilities",
+          "value": 14.0,
+          "value_max": null,
+          "unit": "m²",
+          "context": "Approximate area when combined as described.",
+          "status": "uncertain",
+          "ocr_raw": "if combined with lifeguard’s room and sanitary facilities, approx. 14 m²."
+        },
+        {
+          "label": "Store and equipment room threshold",
+          "value": 1000.0,
+          "value_max": null,
+          "unit": "m² water area",
+          "context": "For pools up to 1000 m² water area, minimum store and equipment room is 30 m²; recommended 50 m².",
+          "status": "uncertain",
+          "ocr_raw": "Store and equipment room: up to 1000 m² water area, min. 30 m² (recommended: 50 m²);"
+        },
+        {
+          "label": "Minimum store and equipment room up to threshold",
+          "value": 30.0,
+          "value_max": null,
+          "unit": "m²",
+          "context": "For water areas up to 1000 m².",
+          "status": "uncertain",
+          "ocr_raw": "up to 1000 m² water area, min. 30 m²"
+        },
+        {
+          "label": "Recommended store and equipment room up to threshold",
+          "value": 50.0,
+          "value_max": null,
+          "unit": "m²",
+          "context": "For water areas up to 1000 m².",
+          "status": "uncertain",
+          "ocr_raw": "(recommended: 50 m²);"
+        },
+        {
+          "label": "Minimum store and equipment room over threshold",
+          "value": 50.0,
+          "value_max": null,
+          "unit": "m²",
+          "context": "For water areas over 1000 m²; recommended 80 m².",
+          "status": "uncertain",
+          "ocr_raw": "over 1000 m² water area, min. 50 m² (recommended 80 m²)."
+        },
+        {
+          "label": "Recommended store and equipment room over threshold",
+          "value": 80.0,
+          "value_max": null,
+          "unit": "m²",
+          "context": "For water areas over 1000 m².",
+          "status": "uncertain",
+          "ocr_raw": "(recommended 80 m²)."
+        },
+        {
+          "label": "Open areas",
+          "value": 60.0,
+          "value_max": null,
+          "unit": "% of building plot area",
+          "context": "Approximate; divided into sunbathing, leisure sport, and children’s play areas.",
+          "status": "uncertain",
+          "ocr_raw": "Open areas: approx. 60% of the building plot area, divided into sunbathing, leisure sport and children’s play areas."
+        },
+        {
+          "label": "Sunbathing area to sport area ratio",
+          "value": 2.0,
+          "value_max": null,
+          "unit": "ratio",
+          "context": "Sunbathing area : sport area = 2:1 to 3:1.",
+          "status": "uncertain",
+          "ocr_raw": "Ratio sunbathing area: sport area = 2:1 to 3:1."
+        },
+        {
+          "label": "Sunbathing area to sport area ratio upper expression",
+          "value": 3.0,
+          "value_max": null,
+          "unit": "ratio",
+          "context": "The printed ratio range is 2:1 to 3:1; this value records the first number of the upper ratio expression.",
+          "status": "uncertain",
+          "ocr_raw": "Ratio sunbathing area: sport area = 2:1 to 3:1."
+        },
+        {
+          "label": "Children’s dry-area sandpit",
+          "value": 100.0,
+          "value_max": 300.0,
+          "unit": "m²",
+          "context": "Dry children’s play area.",
+          "status": "uncertain",
+          "ocr_raw": "Children’s play area: dry area: sandpit 100–300 m²,"
+        },
+        {
+          "label": "Children’s dry play area",
+          "value": 300.0,
+          "value_max": 700.0,
+          "unit": "m²",
+          "context": "Dry children’s play area.",
+          "status": "uncertain",
+          "ocr_raw": "play area 300–700 m²."
+        },
+        {
+          "label": "Children’s wet water-play area",
+          "value": 100.0,
+          "value_max": 500.0,
+          "unit": "m²",
+          "context": "Wet children’s play area.",
+          "status": "uncertain",
+          "ocr_raw": "Wet area: water play area 100–500 m²."
+        }
+      ],
+      "figure_refs": [
+        "1 Room and area relationship scheme",
+        "2 Cloakroom unit (scheme)",
+        "3 Cloakroom unit (scheme)",
+        "4 Sanitary facilities for 2000 m² water area (scheme)",
+        "5 Sanitary facilities for 1000 m² water area (scheme)"
+      ],
+      "cross_refs": [
+        "SWIMMING POOLS: Indoor public pools; Outdoor public pools; Indoor and outdoor pools; Private pools"
+      ],
+      "keywords": [
+        "outdoor pools",
+        "public pools",
+        "pool planning",
+        "changing rooms",
+        "cloakrooms",
+        "sanitary facilities",
+        "children’s play"
+      ],
+      "tags_architectural": [
+        "circulation",
+        "accessibility",
+        "safety",
+        "adaptability"
+      ],
+      "confidence": 0.93
+    },
+    {
+      "id": "4122fb96e4bd1976-380-vision-1",
+      "pdf_page": 380,
+      "book_page": 367,
+      "chapter": "SPORT AND LEISURE",
+      "section": "Swimming Pools",
+      "title": "Outdoor pool basins and dimensions",
+      "summary": "Dimensional guidance for paddling, non-swimmers’, and swimming pools, swimming-lane configurations, wave pools, pool perimeter widths, and associated pool depths.",
+      "building_type": "Outdoor public swimming pool",
+      "spaces": [
+        "Paddling pool",
+        "Non-swimmers’ pool",
+        "Swimming pool",
+        "Wave pool",
+        "Pool perimeter",
+        "Diving facility"
+      ],
+      "uses": [
+        "Paddling and water play",
+        "Non-swimmer bathing",
+        "Lap swimming",
+        "Wave swimming",
+        "Poolside circulation and access"
+      ],
+      "furniture_equipment": [
+        "Swimming lanes",
+        "Starting blocks",
+        "Pool steps",
+        "Diving facility",
+        "Wave machine"
+      ],
+      "dimensions": [
+        {
+          "label": "Paddling-pool water area",
+          "value": 80.0,
+          "value_max": 200.0,
+          "unit": "m²",
+          "context": "Paddling pool.",
+          "status": "uncertain",
+          "ocr_raw": "Paddling pool: water area: 80–200 m²,"
+        },
+        {
+          "label": "Paddling-pool water depth",
+          "value": 0.0,
+          "value_max": 0.6,
+          "unit": "m",
+          "context": "Paddling pool; printed range 0.00–0.60 m.",
+          "status": "uncertain",
+          "ocr_raw": "water depth: 0.00–0.60 m,"
+        },
+        {
+          "label": "Non-swimmers’ pool water area",
+          "value": 600.0,
+          "value_max": 1500.0,
+          "unit": "m²",
+          "context": "Non-swimmers’ pool.",
+          "status": "uncertain",
+          "ocr_raw": "Non-swimmers’ pool: water area: 600–1500 m²,"
+        },
+        {
+          "label": "Non-swimmers’ pool water depth",
+          "value": 0.5,
+          "value_max": 1.35,
+          "unit": "m",
+          "context": "Non-swimmers’ pool; OCR prints two alternative lower depths, 0.50/0.60 m, and an upper depth of 1.35 m.",
+          "status": "uncertain",
+          "ocr_raw": "water depth: 0.50/0.60–1.35 m,"
+        },
+        {
+          "label": "Swimming-pool water area",
+          "value": 313.0,
+          "value_max": 1050.0,
+          "unit": "m²",
+          "context": "Swimming pool.",
+          "status": "uncertain",
+          "ocr_raw": "Swimming pool: water area: 313–1050 m²,"
+        },
+        {
+          "label": "Swimming-pool water depth",
+          "value": 1.8,
+          "value_max": null,
+          "unit": "m minimum",
+          "context": "Swimming-pool depth is greater than 1.80 m.",
+          "status": "uncertain",
+          "ocr_raw": "water depth: > 1.80 m,"
+        },
+        {
+          "label": "Pool width for 5 lanes",
+          "value": 12.5,
+          "value_max": null,
+          "unit": "m",
+          "context": "Swimming pool with 5 lanes; pool length 25.00 m.",
+          "status": "uncertain",
+          "ocr_raw": "5 12.50 m 25.00 m"
+        },
+        {
+          "label": "Pool length for 5 lanes",
+          "value": 25.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Swimming pool with 5 lanes; pool width 12.50 m.",
+          "status": "uncertain",
+          "ocr_raw": "5 12.50 m 25.00 m"
+        },
+        {
+          "label": "Pool width for 6 lanes",
+          "value": 16.66,
+          "value_max": null,
+          "unit": "m",
+          "context": "Swimming pool with 6 lanes; pool length 25.00 m.",
+          "status": "uncertain",
+          "ocr_raw": "6 16.66 m 25.00 m"
+        },
+        {
+          "label": "Pool length for 6 lanes",
+          "value": 25.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Swimming pool with 6 lanes; pool width 16.66 m.",
+          "status": "uncertain",
+          "ocr_raw": "6 16.66 m 25.00 m"
+        },
+        {
+          "label": "Pool width for 6 lanes",
+          "value": 16.66,
+          "value_max": null,
+          "unit": "m",
+          "context": "Swimming pool with 6 lanes; pool length 50.00 m.",
+          "status": "uncertain",
+          "ocr_raw": "6 16.66 m 50.00 m"
+        },
+        {
+          "label": "Pool length for 6 lanes",
+          "value": 50.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Swimming pool with 6 lanes; pool width 16.66 m.",
+          "status": "uncertain",
+          "ocr_raw": "6 16.66 m 50.00 m"
+        },
+        {
+          "label": "Pool width for 8 lanes",
+          "value": 21.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Swimming pool with 8 lanes; pool length 50.00 m.",
+          "status": "uncertain",
+          "ocr_raw": "8 21.00 m 50.00 m"
+        },
+        {
+          "label": "Pool length for 8 lanes",
+          "value": 50.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Swimming pool with 8 lanes; pool width 21.00 m.",
+          "status": "uncertain",
+          "ocr_raw": "8 21.00 m 50.00 m"
+        },
+        {
+          "label": "Pool width for 10 lanes",
+          "value": 25.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Swimming pool with 10 lanes; pool length 50.00 m.",
+          "status": "uncertain",
+          "ocr_raw": "10 25.00 m 50.00 m"
+        },
+        {
+          "label": "Pool length for 10 lanes",
+          "value": 50.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Swimming pool with 10 lanes; pool width 25.00 m.",
+          "status": "uncertain",
+          "ocr_raw": "10 25.00 m 50.00 m"
+        },
+        {
+          "label": "Wave-pool width",
+          "value": 12.5,
+          "value_max": null,
+          "unit": "m",
+          "context": "One of the stated wave-pool widths.",
+          "status": "uncertain",
+          "ocr_raw": "Wave pool: pool width: 12.50 m, 16.66 m, 21.00 m, 25.00 m,"
+        },
+        {
+          "label": "Wave-pool width",
+          "value": 16.66,
+          "value_max": null,
+          "unit": "m",
+          "context": "One of the stated wave-pool widths.",
+          "status": "uncertain",
+          "ocr_raw": "Wave pool: pool width: 12.50 m, 16.66 m, 21.00 m, 25.00 m,"
+        },
+        {
+          "label": "Wave-pool width",
+          "value": 21.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "One of the stated wave-pool widths.",
+          "status": "uncertain",
+          "ocr_raw": "Wave pool: pool width: 12.50 m, 16.66 m, 21.00 m, 25.00 m,"
+        },
+        {
+          "label": "Wave-pool width",
+          "value": 25.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "One of the stated wave-pool widths.",
+          "status": "uncertain",
+          "ocr_raw": "Wave pool: pool width: 12.50 m, 16.66 m, 21.00 m, 25.00 m,"
+        },
+        {
+          "label": "Wave-pool length",
+          "value": 50.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Specified wave-pool length.",
+          "status": "uncertain",
+          "ocr_raw": "pool length: 50.00 m, min. 33.00 m,"
+        },
+        {
+          "label": "Minimum wave-pool length",
+          "value": 33.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Minimum stated wave-pool length.",
+          "status": "uncertain",
+          "ocr_raw": "min. 33.00 m,"
+        },
+        {
+          "label": "Wave-pool initial water depth",
+          "value": 0.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Initial depth; final depth depends on pool use and wave-machine type.",
+          "status": "uncertain",
+          "ocr_raw": "initial water depth: 0.00 m, final water depth according to pool use and type of wave machine."
+        },
+        {
+          "label": "Minimum pool-perimeter width",
+          "value": 2.5,
+          "value_max": null,
+          "unit": "m",
+          "context": "Minimum width.",
+          "status": "uncertain",
+          "ocr_raw": "Pool perimeter: min. width 2.50 m."
+        },
+        {
+          "label": "Pool perimeter width near access points and starting blocks",
+          "value": 3.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Width near access points and starting blocks.",
+          "status": "uncertain",
+          "ocr_raw": "Near the access points and the starting blocks, 3.00 m;"
+        },
+        {
+          "label": "Pool perimeter width near pool steps to non-swimmers’ pool",
+          "value": 3.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Width near pool steps to the non-swimmers’ pool.",
+          "status": "uncertain",
+          "ocr_raw": "near the pool steps to the non-swimmers’ pool 3.00 m,"
+        },
+        {
+          "label": "Pool perimeter width near diving facility",
+          "value": 5.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Width near the diving facility.",
+          "status": "uncertain",
+          "ocr_raw": "near the diving facility 5.00 m."
+        }
+      ],
+      "figure_refs": [
+        "1 Room and area relationship scheme"
+      ],
+      "cross_refs": [
+        "SWIMMING POOLS: Indoor public pools; Outdoor public pools; Indoor and outdoor pools; Private pools"
+      ],
+      "keywords": [
+        "outdoor pools",
+        "pool dimensions",
+        "paddling pool",
+        "swimming pool",
+        "wave pool",
+        "swimming lanes",
+        "pool perimeter"
+      ],
+      "tags_architectural": [
+        "circulation",
+        "safety",
+        "spatial_proportion"
+      ],
+      "confidence": 0.96
+    }
+  ]
+}

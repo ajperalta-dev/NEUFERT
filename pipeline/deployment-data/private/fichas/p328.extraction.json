@@ -1,0 +1,251 @@
+{
+  "fichas": [
+    {
+      "id": "4122fb96e4bd1976-328-vision-0",
+      "pdf_page": 328,
+      "book_page": 315,
+      "chapter": "HEALTH",
+      "section": "Hospitals",
+      "title": "Hospital Supply, Storage and Waste Disposal Provision",
+      "summary": "Guidance on laundry collection rooms, storage and logistics, workshops, internal transport, and service-yard planning. Dirty and clean items should be separated; the service yard should accommodate delivery traffic, waste storage, and building services.",
+      "building_type": "Hospital",
+      "spaces": [
+        "Laundry collection rooms for dirty and clean washing",
+        "Coarse pallet storage",
+        "Rack storage",
+        "Special storage",
+        "Logistics room",
+        "Metalwork, joinery and electrical workshops",
+        "Medical technology office",
+        "Materials, replacement-parts and general stores",
+        "Vehicle parking",
+        "Service yard",
+        "Emergency power generator room",
+        "Sprinkler room",
+        "Oxygen and compressed-air service rooms"
+      ],
+      "uses": [
+        "Collect and deliver laundry",
+        "Store and control distribution of hospital goods",
+        "Repair and maintain equipment",
+        "Transport requested items and bulky goods",
+        "Receive deliveries and sort or store waste",
+        "Provide building utility services"
+      ],
+      "furniture_equipment": [
+        "Multi-purpose mobile units",
+        "Trolleys",
+        "Pneumatic delivery system",
+        "Bed lifts",
+        "Lifts for medium-sized goods"
+      ],
+      "dimensions": [
+        {
+          "label": "Laundry collection room area",
+          "value": 30.0,
+          "value_max": null,
+          "unit": "m²",
+          "context": "Area stated for each of the dirty and clean laundry collection rooms, located near the service yard.",
+          "status": "uncertain",
+          "ocr_raw": "dirty and clean washing (each 30 m²)"
+        },
+        {
+          "label": "Automatic laundry transport system threshold",
+          "value": 400.0,
+          "value_max": null,
+          "unit": "beds",
+          "context": "Automatic laundry transport systems are described as cost effective only for large hospitals from this bed count.",
+          "status": "uncertain",
+          "ocr_raw": "(from 400 beds)"
+        },
+        {
+          "label": "Supply and disposal quantity per bed per day",
+          "value": 30.0,
+          "value_max": 35.0,
+          "unit": "kg per bed and day",
+          "context": "Approximate daily supply and disposal quantity.",
+          "status": "uncertain",
+          "ocr_raw": "the supply and disposal quantity is about 30-35 kg per bed and day."
+        },
+        {
+          "label": "Service-yard access ramp gradient",
+          "value": 15.0,
+          "value_max": null,
+          "unit": "%",
+          "context": "Ramp gradient should be less than this value for basement service-yard access.",
+          "status": "uncertain",
+          "ocr_raw": "(gradient less than 15%!)"
+        },
+        {
+          "label": "Minimum service-yard length",
+          "value": 30.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "One dimension of the stated minimum service-yard size; the text gives 30 × 30 m.",
+          "status": "uncertain",
+          "ocr_raw": "Minimum size of a service yard: 30 x 30 m."
+        },
+        {
+          "label": "Minimum service-yard width",
+          "value": 30.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Other dimension of the stated minimum service-yard size; the text gives 30 × 30 m.",
+          "status": "uncertain",
+          "ocr_raw": "Minimum size of a service yard: 30 x 30 m."
+        }
+      ],
+      "figure_refs": [
+        "1 — Supply and disposal area—traffic relationships",
+        "2 — Supply and disposal station, Erfurt Clinic Surgical Centre (KEG)",
+        "3 — Staff restaurant for 150 staff, Cantonal Hospital, Basel"
+      ],
+      "cross_refs": [],
+      "keywords": [
+        "hospital logistics",
+        "supply and disposal",
+        "laundry",
+        "storage",
+        "service yard",
+        "waste",
+        "internal transport",
+        "workshops"
+      ],
+      "tags_architectural": [
+        "circulation",
+        "safety"
+      ],
+      "confidence": 0.96
+    },
+    {
+      "id": "4122fb96e4bd1976-328-vision-1",
+      "pdf_page": 328,
+      "book_page": 315,
+      "chapter": "HEALTH",
+      "section": "Hospitals",
+      "title": "Supply and Disposal Station, Erfurt Clinic Surgical Centre",
+      "summary": "The illustrated station plan identifies laundry, goods-transport storage, control and office spaces, disinfection, and waste-disposal functions. A separate traffic-relationship diagram shows links between supply, care, and service areas. The page also illustrates a staff restaurant for 150 staff.",
+      "building_type": "Hospital supply and disposal station",
+      "spaces": [
+        "Laundry container area",
+        "Automatic container washing plant",
+        "Clean goods-transport storage",
+        "Unclean automatic goods-transport storage",
+        "Control centre",
+        "Office",
+        "Disinfection plant",
+        "Special-waste area",
+        "Waste-disposal area",
+        "Utility yard",
+        "Parking",
+        "Delivery ramp",
+        "Basement",
+        "Staff restaurant",
+        "Hall/canteen",
+        "Cold store",
+        "Washing-up area"
+      ],
+      "uses": [
+        "Store and move clean and unclean goods",
+        "Wash laundry containers",
+        "Control hospital collection and delivery services",
+        "Disinfect items",
+        "Handle special waste and general waste",
+        "Provide staff dining"
+      ],
+      "furniture_equipment": [
+        "Laundry containers",
+        "Automatic container washing plant",
+        "Goods-transport storage",
+        "Main ventilation unit",
+        "Self-service buffet",
+        "Restaurant tables and chairs"
+      ],
+      "dimensions": [
+        {
+          "label": "Laundry container area",
+          "value": 56.2,
+          "value_max": null,
+          "unit": "m²",
+          "context": "Area identified in the supply and disposal station figure.",
+          "status": "uncertain",
+          "ocr_raw": "Laundry container (56.2 m²)"
+        },
+        {
+          "label": "Clean goods-transport storage area",
+          "value": 162.6,
+          "value_max": null,
+          "unit": "m²",
+          "context": "Area identified for clean goods-transport storage.",
+          "status": "uncertain",
+          "ocr_raw": "goods transport storage space, clean (162.6 m²)"
+        },
+        {
+          "label": "Control centre area",
+          "value": 27.1,
+          "value_max": null,
+          "unit": "m²",
+          "context": "Area identified in the station figure.",
+          "status": "uncertain",
+          "ocr_raw": "Control centre (27.1 m²)"
+        },
+        {
+          "label": "Office area",
+          "value": 24.3,
+          "value_max": null,
+          "unit": "m²",
+          "context": "Area identified in the station figure.",
+          "status": "uncertain",
+          "ocr_raw": "Office (24.3 m²)"
+        },
+        {
+          "label": "Plan dimension",
+          "value": 26.98,
+          "value_max": null,
+          "unit": "m",
+          "context": "Dimension marked on the supply and disposal station plan; the OCR notation is unclear about the final superscript or mark.",
+          "status": "uncertain",
+          "ocr_raw": "26.98⁵"
+        },
+        {
+          "label": "Plan dimension",
+          "value": 31.7,
+          "value_max": null,
+          "unit": "m",
+          "context": "Dimension marked beside the supply and disposal station plan.",
+          "status": "uncertain",
+          "ocr_raw": "31.70"
+        },
+        {
+          "label": "Staff restaurant capacity",
+          "value": 150.0,
+          "value_max": null,
+          "unit": "staff",
+          "context": "Capacity stated in the figure caption for the Cantonal Hospital, Basel staff restaurant.",
+          "status": "uncertain",
+          "ocr_raw": "Staff restaurant for 150 staff, Cantonal Hospital, Basel"
+        }
+      ],
+      "figure_refs": [
+        "1 — Supply and disposal area—traffic relationships",
+        "2 — Supply and disposal station, Erfurt Clinic Surgical Centre (KEG)",
+        "3 — Staff restaurant for 150 staff, Cantonal Hospital, Basel"
+      ],
+      "cross_refs": [],
+      "keywords": [
+        "supply and disposal station",
+        "Erfurt Clinic Surgical Centre",
+        "goods transport",
+        "laundry container",
+        "control centre",
+        "staff restaurant",
+        "Basel"
+      ],
+      "tags_architectural": [
+        "circulation",
+        "spatial_proportion"
+      ],
+      "confidence": 0.88
+    }
+  ]
+}

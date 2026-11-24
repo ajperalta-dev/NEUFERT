@@ -1,0 +1,378 @@
+{
+  "fichas": [
+    {
+      "id": "4122fb96e4bd1976-437-vision-0",
+      "pdf_page": 437,
+      "book_page": 424,
+      "chapter": "EXTERNAL WORKS",
+      "section": "Cemeteries",
+      "title": "Urns and columbarium compartments",
+      "summary": "Urns hold ashes after cremation; their dimensions are normally governed by cemetery rules. Wall compartments in urn halls (columbariums) are mostly specified by width and height.",
+      "building_type": "Columbarium",
+      "spaces": [
+        "Urn hall",
+        "Wall compartments"
+      ],
+      "uses": [
+        "Store cremated remains in urns"
+      ],
+      "furniture_equipment": [
+        "Urns"
+      ],
+      "dimensions": [
+        {
+          "label": "Urn diameter",
+          "value": 23.0,
+          "value_max": 25.0,
+          "unit": "cm",
+          "context": "Diameter shown for the urn in figure 1.",
+          "status": "uncertain",
+          "ocr_raw": "Ø 23–25"
+        },
+        {
+          "label": "Urn height",
+          "value": 30.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Approximate urn height shown in figure 1.",
+          "status": "uncertain",
+          "ocr_raw": "ca.30"
+        },
+        {
+          "label": "Columbarium compartment width",
+          "value": 38.0,
+          "value_max": 40.0,
+          "unit": "cm",
+          "context": "Typical width of wall compartments in urn halls.",
+          "status": "uncertain",
+          "ocr_raw": "38–40 cm wide"
+        },
+        {
+          "label": "Columbarium compartment height",
+          "value": 50.0,
+          "value_max": 60.0,
+          "unit": "cm",
+          "context": "Typical height of wall compartments in urn halls.",
+          "status": "uncertain",
+          "ocr_raw": "50–60 cm high"
+        }
+      ],
+      "figure_refs": [
+        "1"
+      ],
+      "cross_refs": [],
+      "keywords": [
+        "urns",
+        "ashes",
+        "columbarium",
+        "urn hall"
+      ],
+      "tags_architectural": [
+        "modularity"
+      ],
+      "confidence": 0.96
+    },
+    {
+      "id": "4122fb96e4bd1976-437-vision-1",
+      "pdf_page": 437,
+      "book_page": 424,
+      "chapter": "EXTERNAL WORKS",
+      "section": "Cemeteries",
+      "title": "Mortuary and coffin compartments",
+      "summary": "The mortuary accommodates the deceased until the funeral. Coffins are laid out in compartments separated by lightweight half-height partitions. Larger facilities may separate the coffin-bearer passage from the mourners’ viewing passage. Requirements also cover hearse access, environmental control, cleaning, and supporting rooms.",
+      "building_type": "Mortuary",
+      "spaces": [
+        "Coffin compartments",
+        "Coffin-bearer passage",
+        "Viewing passage",
+        "Hearse passage",
+        "Attendants’ room",
+        "Toilet",
+        "Washroom"
+      ],
+      "uses": [
+        "Hold deceased persons until the funeral",
+        "Provide coffin viewing before burial or cremation",
+        "Allow coffin-bearer and hearse circulation"
+      ],
+      "furniture_equipment": [
+        "Lightweight half-height partitions",
+        "Airtight viewing panes",
+        "Bier",
+        "Coffin trolley"
+      ],
+      "dimensions": [
+        {
+          "label": "Coffin-bearer passage width",
+          "value": 2.2,
+          "value_max": null,
+          "unit": "m",
+          "context": "Passage width shown for coffin bearers in figure 3.",
+          "status": "uncertain",
+          "ocr_raw": "2.20"
+        },
+        {
+          "label": "Hearse length",
+          "value": 4.95,
+          "value_max": null,
+          "unit": "m",
+          "context": "Dimension shown for a hearse in figure 4.",
+          "status": "uncertain",
+          "ocr_raw": "4.95"
+        },
+        {
+          "label": "Hearse width",
+          "value": 1.79,
+          "value_max": null,
+          "unit": "m",
+          "context": "Text gives the width of a hearse.",
+          "status": "uncertain",
+          "ocr_raw": "width: 1.79 m"
+        },
+        {
+          "label": "Hearse height",
+          "value": 1.75,
+          "value_max": null,
+          "unit": "m",
+          "context": "Dimension shown beside the hearse in figure 4.",
+          "status": "uncertain",
+          "ocr_raw": "1.75"
+        },
+        {
+          "label": "Compartment dimension",
+          "value": 2.2,
+          "value_max": 3.5,
+          "unit": "m",
+          "context": "One of the usual compartment sizes; the printed dimensions are 2.2 × 3.5 m.",
+          "status": "uncertain",
+          "ocr_raw": "2.2 × 3.5"
+        },
+        {
+          "label": "Compartment dimension",
+          "value": 2.5,
+          "value_max": 3.75,
+          "unit": "m",
+          "context": "One of the usual compartment sizes; the printed dimensions are 2.5 × 3.75 m.",
+          "status": "uncertain",
+          "ocr_raw": "2.5 × 3.75"
+        },
+        {
+          "label": "Compartment dimension",
+          "value": 3.0,
+          "value_max": 3.5,
+          "unit": "m",
+          "context": "One of the usual compartment sizes; the printed dimensions are 3.0 × 3.5 m.",
+          "status": "uncertain",
+          "ocr_raw": "3.0 × 3.5 m"
+        },
+        {
+          "label": "Hearse passage width",
+          "value": 3.5,
+          "value_max": 4.0,
+          "unit": "m",
+          "context": "Passage through the cemetery for hearses.",
+          "status": "uncertain",
+          "ocr_raw": "passage (3.5–4.0 m wide)"
+        },
+        {
+          "label": "Mortuary temperature",
+          "value": 2.0,
+          "value_max": 12.0,
+          "unit": "°C",
+          "context": "The text indicates a temperature from at least 2°C to at most 12°C; heating, cooling, and constant ventilation are required.",
+          "status": "uncertain",
+          "ocr_raw": "≥2°C to ≤12°C"
+        },
+        {
+          "label": "Attendants’ and coffin-bearers’ room area",
+          "value": 15.0,
+          "value_max": 20.0,
+          "unit": "m²",
+          "context": "Required room in larger mortuaries, with toilet and washroom.",
+          "status": "uncertain",
+          "ocr_raw": "15–20 m²"
+        },
+        {
+          "label": "Bier length",
+          "value": 2.2,
+          "value_max": 3.0,
+          "unit": "m",
+          "context": "The bier size is given as 2.20 × 1.08 to 3.0 × 1.1 m; this entry records the length component.",
+          "status": "uncertain",
+          "ocr_raw": "size 2.20 × 1.08 to 3.0 × 1.1 m"
+        },
+        {
+          "label": "Bier width",
+          "value": 1.08,
+          "value_max": 1.1,
+          "unit": "m",
+          "context": "The bier size is given as 2.20 × 1.08 to 3.0 × 1.1 m; this entry records the width component.",
+          "status": "uncertain",
+          "ocr_raw": "size 2.20 × 1.08 to 3.0 × 1.1 m"
+        }
+      ],
+      "figure_refs": [
+        "2",
+        "3",
+        "4",
+        "5–7"
+      ],
+      "cross_refs": [
+        "p. 426"
+      ],
+      "keywords": [
+        "mortuary",
+        "coffin",
+        "compartments",
+        "bearers",
+        "mourners",
+        "hearse",
+        "bier"
+      ],
+      "tags_architectural": [
+        "circulation",
+        "clearance",
+        "ventilation",
+        "safety"
+      ],
+      "confidence": 0.94
+    },
+    {
+      "id": "4122fb96e4bd1976-437-vision-2",
+      "pdf_page": 437,
+      "book_page": 424,
+      "chapter": "EXTERNAL WORKS",
+      "section": "Cemeteries",
+      "title": "Crematorium and cemetery chapel",
+      "summary": "The crematorium includes an incineration room, a combustion chamber, coffin transport, and supporting spaces. The combustion chamber may be below the chapel or behind the assembly room, separated by a lobby. A chapel serves mourners and multiple denominations, with clergy rooms and ancillary facilities; administration and garden-service areas are also described.",
+      "building_type": "Crematorium and cemetery chapel",
+      "spaces": [
+        "Incineration room",
+        "Combustion chamber",
+        "Lobby",
+        "Crematorium chapel",
+        "Mourners’ rooms",
+        "Clergy rooms",
+        "Administration offices",
+        "Coffin store",
+        "Gardener’s area",
+        "Greenhouse",
+        "Employee social rooms",
+        "Equipment room",
+        "Seed room",
+        "WC"
+      ],
+      "uses": [
+        "Cremate bodies",
+        "Transport coffins to the combustion chamber",
+        "Accommodate funeral ceremonies and mourners",
+        "Provide administration and cemetery support"
+      ],
+      "furniture_equipment": [
+        "Special cremation ovens",
+        "Transport trolley",
+        "Coffin carriage",
+        "Manual winches or hydraulic lift",
+        "Viewing apertures"
+      ],
+      "dimensions": [
+        {
+          "label": "Oven energy consumption per cremation",
+          "value": 45.0,
+          "value_max": null,
+          "unit": "kW",
+          "context": "Approximate consumption for each cremation.",
+          "status": "uncertain",
+          "ocr_raw": "consumption about 45 kW for each cremation"
+        },
+        {
+          "label": "Two-storey oven height",
+          "value": 4.3,
+          "value_max": null,
+          "unit": "m",
+          "context": "Height of the two-storey oven.",
+          "status": "uncertain",
+          "ocr_raw": "height of the two-storey oven 4.3 m"
+        },
+        {
+          "label": "Dry-air temperature",
+          "value": 900.0,
+          "value_max": 1000.0,
+          "unit": "°C",
+          "context": "Dry air conditions stated for combustion; the OCR prints a temperature range.",
+          "status": "uncertain",
+          "ocr_raw": "900–1000° dry air"
+        },
+        {
+          "label": "Oven heating time in advance",
+          "value": 2.0,
+          "value_max": 3.0,
+          "unit": "hours",
+          "context": "The oven is heated in advance of cremation.",
+          "status": "uncertain",
+          "ocr_raw": "The oven is heated 2–3 hours in advance"
+        },
+        {
+          "label": "Cremation duration",
+          "value": 1.25,
+          "value_max": 1.5,
+          "unit": "hours",
+          "context": "Duration of the cremation itself; the printed fractional range is 1¼–1½ hours.",
+          "status": "uncertain",
+          "ocr_raw": "the cremation itself lasts 1¼–1½ hours"
+        },
+        {
+          "label": "Chapel seating capacity",
+          "value": 100.0,
+          "value_max": null,
+          "unit": "seats",
+          "context": "Typical chapel capacity stated in the text.",
+          "status": "uncertain",
+          "ocr_raw": "typical might be ≤100 seats"
+        },
+        {
+          "label": "Chapel standing capacity",
+          "value": 100.0,
+          "value_max": null,
+          "unit": "standing places",
+          "context": "Typical chapel capacity stated in the text.",
+          "status": "uncertain",
+          "ocr_raw": "and 100 standing places"
+        },
+        {
+          "label": "Mourners’ rooms",
+          "value": 1.0,
+          "value_max": 2.0,
+          "unit": "rooms",
+          "context": "Typical number of rooms for mourners; these may be additional to the chapel.",
+          "status": "uncertain",
+          "ocr_raw": "also 1–2 rooms for the mourners"
+        }
+      ],
+      "figure_refs": [
+        "8",
+        "9",
+        "10"
+      ],
+      "cross_refs": [
+        "p. 426"
+      ],
+      "keywords": [
+        "crematorium",
+        "cremation",
+        "chapel",
+        "incineration room",
+        "combustion chamber",
+        "funeral",
+        "administration"
+      ],
+      "tags_architectural": [
+        "circulation",
+        "safety",
+        "ventilation",
+        "adaptability"
+      ],
+      "confidence": 0.91
+    }
+  ]
+}

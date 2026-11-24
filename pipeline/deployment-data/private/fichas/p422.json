@@ -1,0 +1,793 @@
+{
+  "fichas": [
+    {
+      "id": "4122fb96e4bd1976-422-vision-0",
+      "pdf_page": 422,
+      "book_page": 409,
+      "chapter": "TRANSPORT",
+      "section": "Railways",
+      "title": "Track radii and rolling-stock turnability",
+      "summary": "Guidance for track-centre-line curve radii by railway use, narrow-gauge track gauge, and rolling-stock axle base. Radii under 100 m should be avoided where possible on new construction. The page also notes operating limitations for carriages on tighter curves.",
+      "building_type": "Railway track",
+      "spaces": [
+        "Main lines",
+        "Station tracks",
+        "Branch lines",
+        "Sidings",
+        "Narrow-gauge railway tracks",
+        "Connecting tracks"
+      ],
+      "uses": [
+        "Set curve radii for railway track layouts",
+        "Assess rolling-stock suitability and turnability"
+      ],
+      "furniture_equipment": [],
+      "dimensions": [
+        {
+          "label": "Axle base for normal track layout",
+          "value": 4.5,
+          "value_max": null,
+          "unit": "m",
+          "context": "Normal track layout described as suitable for virtually all rolling stock.",
+          "status": "verified",
+          "ocr_raw": "normal track layout for rolling stock with\nan axle base of 4.5m (suitable for virtually\nall rolling stock)"
+        },
+        {
+          "label": "Axle base",
+          "value": 4.5,
+          "value_max": null,
+          "unit": "m",
+          "context": "Normal track layout for rolling stock with an axle base under 4.5 m is not suitable for all rolling stock.",
+          "status": "verified",
+          "ocr_raw": "normal track layout for rolling stock with\nan axle base under 4.5m (not suitable for\nall rolling stock)"
+        },
+        {
+          "label": "Track radius for falling track",
+          "value": 100.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Falling track indicated for R < 100 m.",
+          "status": "verified",
+          "ocr_raw": "falling track with R <100m"
+        },
+        {
+          "label": "Axle base",
+          "value": 6.5,
+          "value_max": 8.0,
+          "unit": "m",
+          "context": "Falling track for rolling stock with only two axles.",
+          "status": "verified",
+          "ocr_raw": "falling track for rolling stock with only two\naxles, 6.5-8.0 m axle base"
+        },
+        {
+          "label": "Axle base",
+          "value": 6.5,
+          "value_max": null,
+          "unit": "m",
+          "context": "Falling track for rolling stock with only two axles, up to 6.5 m axle base, or wagons with bogies.",
+          "status": "verified",
+          "ocr_raw": "falling track for rolling stock with only two axles,\nup to 6.5 m axle base or wagons with bogies"
+        },
+        {
+          "label": "Curve radius to track centre-line",
+          "value": 300.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Minimum radius for main lines and direct main tracks.",
+          "status": "verified",
+          "ocr_raw": "main lines, direct main tracks ............................................ G:300 m"
+        },
+        {
+          "label": "Curve radius to track centre-line",
+          "value": 180.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Minimum radius for station tracks.",
+          "status": "verified",
+          "ocr_raw": "station tracks ..................................................................... ;;;; 180 m"
+        },
+        {
+          "label": "Curve radius to track centre-line",
+          "value": 180.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Minimum radius for branch lines with main-line rolling stock.",
+          "status": "verified",
+          "ocr_raw": "branch lines with main line rolling stock ............................ G:180 m"
+        },
+        {
+          "label": "Curve radius to track centre-line",
+          "value": 100.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Minimum radius for branch lines without main-line rolling stock.",
+          "status": "verified",
+          "ocr_raw": "without main line rolling stock ........................................... G:100 m"
+        },
+        {
+          "label": "Curve radius to track centre-line",
+          "value": 140.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Minimum radius for sidings used by main-line engines.",
+          "status": "verified",
+          "ocr_raw": "sidings used by main line engines ..................................... G:140 m"
+        },
+        {
+          "label": "Curve radius to track centre-line",
+          "value": 100.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Preferred minimum radius for sidings not used by main-line engines.",
+          "status": "verified",
+          "ocr_raw": "sidings not used by main line engines, preferably ............ G:1 00 m"
+        },
+        {
+          "label": "Minimum curve radius",
+          "value": 35.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "General minimum shown in the curved-radii list.",
+          "status": "verified",
+          "ocr_raw": "minimum .............................................................................. G:35 m"
+        },
+        {
+          "label": "Curve radius",
+          "value": 35.0,
+          "value_max": 100.0,
+          "unit": "m",
+          "context": "For 100 m > R ≥ 35 m, carriages should, if possible, only be pulled.",
+          "status": "verified",
+          "ocr_raw": "If 100m >R G:35 m, carriages should if possible only be pulled"
+        },
+        {
+          "label": "Curve radius",
+          "value": 130.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "At radius > 130 m, not all carriage types can any longer be driven; the printed threshold is 130 m.",
+          "status": "verified",
+          "ocr_raw": "with radius >130 m not all carriage types can any longer be\ndriven."
+        },
+        {
+          "label": "Gauge",
+          "value": 1.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Narrow-gauge railway track; minimum radius shown as R ≥ 50 m.",
+          "status": "verified",
+          "ocr_raw": "for 1.00 m gauge track .................................................... R G:50 m"
+        },
+        {
+          "label": "Curve radius",
+          "value": 50.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Minimum radius for 1.00 m gauge track.",
+          "status": "verified",
+          "ocr_raw": "for 1.00 m gauge track .................................................... R G:50 m"
+        },
+        {
+          "label": "Gauge",
+          "value": 0.75,
+          "value_max": null,
+          "unit": "m",
+          "context": "Narrow-gauge railway track; minimum radius shown as R ≥ 40 m.",
+          "status": "verified",
+          "ocr_raw": "for 0.75 m gauge track .................................................... R G:40 m"
+        },
+        {
+          "label": "Curve radius",
+          "value": 40.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Minimum radius for 0.75 m gauge track.",
+          "status": "verified",
+          "ocr_raw": "for 0.75 m gauge track .................................................... R G:40 m"
+        },
+        {
+          "label": "Gauge",
+          "value": 0.6,
+          "value_max": null,
+          "unit": "m",
+          "context": "Narrow-gauge railway track; minimum radius shown as R ≥ 25 m.",
+          "status": "verified",
+          "ocr_raw": "for 0.60 m gauge track .................................................... R G:25 m"
+        },
+        {
+          "label": "Curve radius",
+          "value": 25.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Minimum radius for 0.60 m gauge track.",
+          "status": "verified",
+          "ocr_raw": "for 0.60 m gauge track .................................................... R G:25 m"
+        },
+        {
+          "label": "Centrifugal-force bound",
+          "value": 0.65,
+          "value_max": null,
+          "unit": "m/sec",
+          "context": "Reasonable bounds for centrifugal force when travelling around a curve; unit reproduced as printed.",
+          "status": "verified",
+          "ocr_raw": "normal track\nlayout for\nrolling stock\nwith an axle\nbase of 4.5m\n\nnormal track layout for rolling stock with\nan axle base of 4.5m (suitable for virtually\nall rolling stock)\n\nRAILWAYS\nTracks\n\nnormal track layout for rolling stock with\nan axle base under 4.5m (not suitable for\nall rolling stock)\nfalling track with R <100m\n\nfalling track for rolling stock with only two\naxles, 6.5-8.0 m axle base\nfalling track for rolling stock with only two axles,\nup to 6.5 m axle base or wagons with bogies\n\nradii under 100m should be avoided where\npossible on all new construction work\n\n0 Track radius (turnability) of the connecting tracks\n\nIf 100m >R G:35 m, carriages should if possible only be pulled;\nwith radius >130 m not all carriage types can any longer be\ndriven.\n\nI outer rail head\nh\n\ninner rail head\n\noffset rail\nor track\ncentre·line\n\nCurved radii (to track centre-line) = R\nmain lines, direct main tracks ............................................ G:300 m\nstation tracks ..................................................................... ;;;; 180 m\nbranch lines with main line rolling stock ............................ G:180 m\nwithout main line rolling stock ........................................... G:100 m\nsidings used by main line engines ..................................... G:140 m\nsidings not used by main line engines, preferably ............ G:1 00 m\nminimum .............................................................................. G:35 m\n\n}\ntn-J\nI\n\n' II\nI\n/'.\n/ ongmal\n\n/\n\nRadii for narrow-gauge railways\nfor 1.00 m gauge track .................................................... R G:50 m\nfor 0.75 m gauge track .................................................... R G:40 m\nfor 0.60 m gauge track .................................................... R G:25 m\nFor tracks to be used at greater than shunting speed, a transitional\nsection of curve must be installed between the straight section and\nthe circular arc with radius R, with the curvature of the transition\ncurve increasing constantly from 1: = up to 1: R __. f). Circular\ncurves may have to be canted in order to keep the centrifugal\nforce arising when travelling round the curve within reasonable\nbounds (~0.65 m/sec). Canted curves and transition curves should\ncoincide.\n\nA\n\nf------- 1/2\nf-------\n\nV2\n\n--j\n\nFor details, see German Railways combined guideline KoRil 820/1.\n\n--l\n\n8 Track cant ramp and transition curve\nR\n180-200\n\nI\n40\n\n250-350\n\n30\n\n400-2000\n\n20\n\ne\n\nm\n0.370\n0.333\n0.1150\n0.107\n0.012\n0.008\n\nRamp gradient\n1:320\n1:320\n1:300\n1:400\n1:310\n1: 1300\n\nBranch lines and normal sidings (m)\nwheel guide\n\nPoints\nSets of points are characterised according to the shape of the\nrail, the turning track radius and the inclination of the frog, e.g.\n49-190-1 :9.\nonly use the points for carriages up to the limit sign __. 0\nspacing of the track centreline at the warning sign G:3.5 m\npoint length I length of the point blade __. 8\n49-190-1:7.5 =25.222 m/12.611 m\n49-190-1:9 = 27.138 m/1 0.523 m\n49-300-1 :9 = 33.230 m/16.615 m\nnormal turntable = D\nfor axle turntable 2-3 m, for carriage turntable 3.5-10.0 m, for\nlocomotive turntable 12.5-23.0 m .\nTraversers\nSize= minimum axle spacing of the carriage to be pushed + 0.5 m\n\ne\n\nSimple points\nRAILWAYS\n\n_ _ _ _ _-'1\n-=.J\n\nbuffers\n\n~-0\n~\n\ntrack weighbridge\n\nloading gauge\n\nf) Drawing symbols\n\n8\n\nset of points with outside curve,\nremotely controlled\n\nrz<::C\n\nI\ndouble set of point, remotely\ncontrolled\n\nTracks\nFreight transport\nStations\nStation buildings\nPlatforms\nPlatform furniture\n\ndouble slip points, remotely\ncontrolled\n\nLayout of points\n\n---+----<0~\nsimple set of points, hand operated\nSet of\npoints\nABW49\nEW49\nEW49\nDKW49\nDW49\n\n0 Oblique crossing (wheel guide as example diameter 8- 4:))\n\ne\n\nRadius Pitch\nratio\n(m)\n215\n1:4.8\n1:7.5\n190\n190\n1:9\n190\n1:9\n1:9r/1:91\n190\n\nOverall\nlength (m)\n22.100\n30.039\n27.138\n33.230\n37.661\n\nDimensions for sets of points\n\ndouble slip points, locally operated\n\n===-Y/11\ncrossing\n\n8 Drawing symbols\n\nUIA\n\n=\n\n409\n\n\f"
+        }
+      ],
+      "figure_refs": [
+        "1 Track radius (turnability) of the connecting tracks",
+        "2 Track cant ramp and transition curve"
+      ],
+      "cross_refs": [
+        "German Railways combined guideline KoRil 820/1"
+      ],
+      "keywords": [
+        "track radius",
+        "curve",
+        "rolling stock",
+        "axle base",
+        "narrow gauge",
+        "turnability",
+        "cant"
+      ],
+      "tags_architectural": [
+        "circulation",
+        "safety"
+      ],
+      "confidence": 0.93
+    },
+    {
+      "id": "4122fb96e4bd1976-422-vision-1",
+      "pdf_page": 422,
+      "book_page": 409,
+      "chapter": "TRANSPORT",
+      "section": "Railways",
+      "title": "Track cant ramps and transition curves",
+      "summary": "For tracks used at greater than shunting speed, a transition curve is to connect the straight section and circular arc. The transition curvature increases constantly; circular curves may be canted, and cant and transition curves should coincide. A table gives R, l, m, and ramp-gradient entries for branch lines and normal sidings.",
+      "building_type": "Railway track",
+      "spaces": [
+        "Curved track",
+        "Track transition sections",
+        "Branch lines",
+        "Normal sidings"
+      ],
+      "uses": [
+        "Provide transition curves between straight track and circular arcs",
+        "Coordinate track cant ramps with transition curves"
+      ],
+      "furniture_equipment": [],
+      "dimensions": [
+        {
+          "label": "R",
+          "value": 180.0,
+          "value_max": 200.0,
+          "unit": "m",
+          "context": "Branch lines and normal sidings; table entry paired with l = 40 m and ramp-gradient entries.",
+          "status": "verified",
+          "ocr_raw": "180-200"
+        },
+        {
+          "label": "l",
+          "value": 40.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Table entry for R 180–200 m.",
+          "status": "verified",
+          "ocr_raw": "40"
+        },
+        {
+          "label": "m",
+          "value": 0.37,
+          "value_max": null,
+          "unit": "",
+          "context": "First listed m value for R 180–200 m; unit is not legible in the table heading transcription.",
+          "status": "verified",
+          "ocr_raw": "0.370"
+        },
+        {
+          "label": "m",
+          "value": 0.333,
+          "value_max": null,
+          "unit": "",
+          "context": "Second listed m value for R 180–200 m; unit is not legible in the table heading transcription.",
+          "status": "verified",
+          "ocr_raw": "0.333"
+        },
+        {
+          "label": "Ramp gradient",
+          "value": 320.0,
+          "value_max": null,
+          "unit": "ratio denominator",
+          "context": "Gradient printed as 1:320 for R 180–200 m.",
+          "status": "verified",
+          "ocr_raw": "1:320"
+        },
+        {
+          "label": "Ramp gradient",
+          "value": 320.0,
+          "value_max": null,
+          "unit": "ratio denominator",
+          "context": "Second gradient printed as 1:320 for R 180–200 m.",
+          "status": "verified",
+          "ocr_raw": "1:320"
+        },
+        {
+          "label": "R",
+          "value": 250.0,
+          "value_max": 350.0,
+          "unit": "m",
+          "context": "Branch lines and normal sidings; table entry paired with l = 30 m.",
+          "status": "verified",
+          "ocr_raw": "250-350"
+        },
+        {
+          "label": "l",
+          "value": 30.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Table entry for R 250–350 m.",
+          "status": "verified",
+          "ocr_raw": "30"
+        },
+        {
+          "label": "m",
+          "value": 0.115,
+          "value_max": null,
+          "unit": "",
+          "context": "First listed m value for R 250–350 m; unit is not legible in the table heading transcription.",
+          "status": "verified",
+          "ocr_raw": "0.1150"
+        },
+        {
+          "label": "m",
+          "value": 0.107,
+          "value_max": null,
+          "unit": "",
+          "context": "Second listed m value for R 250–350 m; unit is not legible in the table heading transcription.",
+          "status": "verified",
+          "ocr_raw": "0.107"
+        },
+        {
+          "label": "Ramp gradient",
+          "value": 300.0,
+          "value_max": null,
+          "unit": "ratio denominator",
+          "context": "Gradient printed as 1:300 for R 250–350 m.",
+          "status": "verified",
+          "ocr_raw": "1:300"
+        },
+        {
+          "label": "Ramp gradient",
+          "value": 400.0,
+          "value_max": null,
+          "unit": "ratio denominator",
+          "context": "Gradient printed as 1:400 for R 250–350 m.",
+          "status": "verified",
+          "ocr_raw": "1:400"
+        },
+        {
+          "label": "R",
+          "value": 400.0,
+          "value_max": 2000.0,
+          "unit": "m",
+          "context": "Branch lines and normal sidings; table entry paired with l = 20 m.",
+          "status": "verified",
+          "ocr_raw": "400-2000"
+        },
+        {
+          "label": "l",
+          "value": 20.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Table entry for R 400–2000 m.",
+          "status": "verified",
+          "ocr_raw": "20"
+        },
+        {
+          "label": "m",
+          "value": 0.012,
+          "value_max": null,
+          "unit": "",
+          "context": "First listed m value for R 400–2000 m; unit is not legible in the table heading transcription.",
+          "status": "verified",
+          "ocr_raw": "0.012"
+        },
+        {
+          "label": "m",
+          "value": 0.008,
+          "value_max": null,
+          "unit": "",
+          "context": "Second listed m value for R 400–2000 m; unit is not legible in the table heading transcription.",
+          "status": "verified",
+          "ocr_raw": "0.008"
+        },
+        {
+          "label": "Ramp gradient",
+          "value": 310.0,
+          "value_max": null,
+          "unit": "ratio denominator",
+          "context": "Gradient printed as 1:310 for R 400–2000 m.",
+          "status": "verified",
+          "ocr_raw": "1:310"
+        },
+        {
+          "label": "Ramp gradient",
+          "value": 1300.0,
+          "value_max": null,
+          "unit": "ratio denominator",
+          "context": "Gradient printed as 1:1300 for R 400–2000 m.",
+          "status": "verified",
+          "ocr_raw": "1: 1300"
+        }
+      ],
+      "figure_refs": [
+        "2 Track cant ramp and transition curve",
+        "3 Branch lines and normal sidings (m)"
+      ],
+      "cross_refs": [
+        "German Railways combined guideline KoRil 820/1"
+      ],
+      "keywords": [
+        "track cant",
+        "cant ramp",
+        "transition curve",
+        "ramp gradient",
+        "branch lines",
+        "sidings"
+      ],
+      "tags_architectural": [
+        "circulation",
+        "safety"
+      ],
+      "confidence": 0.77
+    },
+    {
+      "id": "4122fb96e4bd1976-422-vision-2",
+      "pdf_page": 422,
+      "book_page": 409,
+      "chapter": "TRANSPORT",
+      "section": "Railways",
+      "title": "Points, crossings and traversers",
+      "summary": "Reference information for railway points and related trackwork, including warning-sign track-centre spacing, point and blade lengths, turntable diameters, traverser sizing, and a table of point-set radii, pitch ratios and overall lengths. Drawing symbols identify point types and track equipment.",
+      "building_type": "Railway track infrastructure",
+      "spaces": [
+        "Points and switches",
+        "Track crossings",
+        "Turntables",
+        "Traversers",
+        "Trackside warning signs"
+      ],
+      "uses": [
+        "Specify and lay out railway points and crossings",
+        "Check point-set dimensions and track clearances",
+        "Determine minimum traverser size"
+      ],
+      "furniture_equipment": [
+        "Points",
+        "Switch actuator",
+        "Wheel guide",
+        "Buffers",
+        "Loading gauge",
+        "Track weighbridge",
+        "Turntables",
+        "Traversers"
+      ],
+      "dimensions": [
+        {
+          "label": "Track-centreline spacing at warning sign",
+          "value": 3.5,
+          "value_max": null,
+          "unit": "m",
+          "context": "Spacing at the warning sign; OCR indicates a minimum threshold.",
+          "status": "verified",
+          "ocr_raw": "spacing of the track centreline at the warning sign G:3.5 m"
+        },
+        {
+          "label": "Point length / point-blade length",
+          "value": 8.0,
+          "value_max": null,
+          "unit": "figure reference",
+          "context": "Text points to figure 8 for point length / length of the point blade; no length measurement is printed in this line.",
+          "status": "verified",
+          "ocr_raw": "point length I length of the point blade __. 8"
+        },
+        {
+          "label": "Point-set radius",
+          "value": 190.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "49-190-1:7.5 point set; first length in the paired point-length entry.",
+          "status": "verified",
+          "ocr_raw": "49-190-1:7.5 =25.222 m/12.611 m"
+        },
+        {
+          "label": "Pitch ratio",
+          "value": 7.5,
+          "value_max": null,
+          "unit": "ratio",
+          "context": "Complete printed ratio is 1:7.5 for point set 49-190-1:7.5.",
+          "status": "verified",
+          "ocr_raw": "49-190-1:7.5 =25.222 m/12.611 m"
+        },
+        {
+          "label": "Point length",
+          "value": 25.222,
+          "value_max": null,
+          "unit": "m",
+          "context": "First of the two printed lengths for point set 49-190-1:7.5.",
+          "status": "verified",
+          "ocr_raw": "49-190-1:7.5 =25.222 m/12.611 m"
+        },
+        {
+          "label": "Point length",
+          "value": 12.611,
+          "value_max": null,
+          "unit": "m",
+          "context": "Second of the two printed lengths for point set 49-190-1:7.5.",
+          "status": "verified",
+          "ocr_raw": "49-190-1:7.5 =25.222 m/12.611 m"
+        },
+        {
+          "label": "Point-set radius",
+          "value": 190.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "49-190-1:9 point set.",
+          "status": "verified",
+          "ocr_raw": "49-190-1:9 = 27.138 m/1 0.523 m"
+        },
+        {
+          "label": "Pitch ratio",
+          "value": 9.0,
+          "value_max": null,
+          "unit": "ratio",
+          "context": "Complete printed ratio is 1:9 for point set 49-190-1:9.",
+          "status": "verified",
+          "ocr_raw": "49-190-1:9 = 27.138 m/1 0.523 m"
+        },
+        {
+          "label": "Point length",
+          "value": 27.138,
+          "value_max": null,
+          "unit": "m",
+          "context": "First of the two printed lengths for point set 49-190-1:9.",
+          "status": "verified",
+          "ocr_raw": "49-190-1:9 = 27.138 m/1 0.523 m"
+        },
+        {
+          "label": "Point length",
+          "value": 10.523,
+          "value_max": null,
+          "unit": "m",
+          "context": "Second of the two printed lengths for point set 49-190-1:9.",
+          "status": "verified",
+          "ocr_raw": "49-190-1:9 = 27.138 m/1 0.523 m"
+        },
+        {
+          "label": "Point-set radius",
+          "value": 300.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "49-300-1:9 point set.",
+          "status": "verified",
+          "ocr_raw": "49-300-1 :9 = 33.230 m/16.615 m"
+        },
+        {
+          "label": "Pitch ratio",
+          "value": 9.0,
+          "value_max": null,
+          "unit": "ratio",
+          "context": "Complete printed ratio is 1:9 for point set 49-300-1:9.",
+          "status": "verified",
+          "ocr_raw": "49-300-1 :9 = 33.230 m/16.615 m"
+        },
+        {
+          "label": "Point length",
+          "value": 33.23,
+          "value_max": null,
+          "unit": "m",
+          "context": "First of the two printed lengths for point set 49-300-1:9.",
+          "status": "verified",
+          "ocr_raw": "49-300-1 :9 = 33.230 m/16.615 m"
+        },
+        {
+          "label": "Point length",
+          "value": 16.615,
+          "value_max": null,
+          "unit": "m",
+          "context": "Second of the two printed lengths for point set 49-300-1 :9.",
+          "status": "verified",
+          "ocr_raw": "49-300-1 :9 = 33.230 m/16.615 m"
+        },
+        {
+          "label": "Axle turntable diameter",
+          "value": 2.0,
+          "value_max": 3.0,
+          "unit": "m",
+          "context": "Printed range for axle turntables.",
+          "status": "verified",
+          "ocr_raw": "for axle turntable 2-3 m"
+        },
+        {
+          "label": "Carriage turntable diameter",
+          "value": 3.5,
+          "value_max": 10.0,
+          "unit": "m",
+          "context": "Printed range for carriage turntables.",
+          "status": "verified",
+          "ocr_raw": "for carriage turntable 3.5-10.0 m"
+        },
+        {
+          "label": "Locomotive turntable diameter",
+          "value": 12.5,
+          "value_max": 23.0,
+          "unit": "m",
+          "context": "Printed range for locomotive turntables.",
+          "status": "verified",
+          "ocr_raw": "locomotive turntable 12.5-23.0 m"
+        },
+        {
+          "label": "Traverser size addition",
+          "value": 0.5,
+          "value_max": null,
+          "unit": "m",
+          "context": "Traverser size equals minimum axle spacing of the carriage to be pushed plus this allowance.",
+          "status": "verified",
+          "ocr_raw": "Size= minimum axle spacing of the carriage to be pushed + 0.5 m"
+        },
+        {
+          "label": "Point-set radius",
+          "value": 215.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "ABW 49 entry in dimensions table.",
+          "status": "verified",
+          "ocr_raw": "normal track\nlayout for\nrolling stock\nwith an axle\nbase of 4.5m\n\nnormal track layout for rolling stock with\nan axle base of 4.5m (suitable for virtually\nall rolling stock)\n\nRAILWAYS\nTracks\n\nnormal track layout for rolling stock with\nan axle base under 4.5m (not suitable for\nall rolling stock)\nfalling track with R <100m\n\nfalling track for rolling stock with only two\naxles, 6.5-8.0 m axle base\nfalling track for rolling stock with only two axles,\nup to 6.5 m axle base or wagons with bogies\n\nradii under 100m should be avoided where\npossible on all new construction work\n\n0 Track radius (turnability) of the connecting tracks\n\nIf 100m >R G:35 m, carriages should if possible only be pulled;\nwith radius >130 m not all carriage types can any longer be\ndriven.\n\nI outer rail head\nh\n\ninner rail head\n\noffset rail\nor track\ncentre·line\n\nCurved radii (to track centre-line) = R\nmain lines, direct main tracks ............................................ G:300 m\nstation tracks ..................................................................... ;;;; 180 m\nbranch lines with main line rolling stock ............................ G:180 m\nwithout main line rolling stock ........................................... G:100 m\nsidings used by main line engines ..................................... G:140 m\nsidings not used by main line engines, preferably ............ G:1 00 m\nminimum .............................................................................. G:35 m\n\n}\ntn-J\nI\n\n' II\nI\n/'.\n/ ongmal\n\n/\n\nRadii for narrow-gauge railways\nfor 1.00 m gauge track .................................................... R G:50 m\nfor 0.75 m gauge track .................................................... R G:40 m\nfor 0.60 m gauge track .................................................... R G:25 m\nFor tracks to be used at greater than shunting speed, a transitional\nsection of curve must be installed between the straight section and\nthe circular arc with radius R, with the curvature of the transition\ncurve increasing constantly from 1: = up to 1: R __. f). Circular\ncurves may have to be canted in order to keep the centrifugal\nforce arising when travelling round the curve within reasonable\nbounds (~0.65 m/sec). Canted curves and transition curves should\ncoincide.\n\nA\n\nf------- 1/2\nf-------\n\nV2\n\n--j\n\nFor details, see German Railways combined guideline KoRil 820/1.\n\n--l\n\n8 Track cant ramp and transition curve\nR\n180-200\n\nI\n40\n\n250-350\n\n30\n\n400-2000\n\n20\n\ne\n\nm\n0.370\n0.333\n0.1150\n0.107\n0.012\n0.008\n\nRamp gradient\n1:320\n1:320\n1:300\n1:400\n1:310\n1: 1300\n\nBranch lines and normal sidings (m)\nwheel guide\n\nPoints\nSets of points are characterised according to the shape of the\nrail, the turning track radius and the inclination of the frog, e.g.\n49-190-1 :9.\nonly use the points for carriages up to the limit sign __. 0\nspacing of the track centreline at the warning sign G:3.5 m\npoint length I length of the point blade __. 8\n49-190-1:7.5 =25.222 m/12.611 m\n49-190-1:9 = 27.138 m/1 0.523 m\n49-300-1 :9 = 33.230 m/16.615 m\nnormal turntable = D\nfor axle turntable 2-3 m, for carriage turntable 3.5-10.0 m, for\nlocomotive turntable 12.5-23.0 m .\nTraversers\nSize= minimum axle spacing of the carriage to be pushed + 0.5 m\n\ne\n\nSimple points\nRAILWAYS\n\n_ _ _ _ _-'1\n-=.J\n\nbuffers\n\n~-0\n~\n\ntrack weighbridge\n\nloading gauge\n\nf) Drawing symbols\n\n8\n\nset of points with outside curve,\nremotely controlled\n\nrz<::C\n\nI\ndouble set of point, remotely\ncontrolled\n\nTracks\nFreight transport\nStations\nStation buildings\nPlatforms\nPlatform furniture\n\ndouble slip points, remotely\ncontrolled\n\nLayout of points\n\n---+----<0~\nsimple set of points, hand operated\nSet of\npoints\nABW49\nEW49\nEW49\nDKW49\nDW49\n\n0 Oblique crossing (wheel guide as example diameter 8- 4:))\n\ne\n\nRadius Pitch\nratio\n(m)\n215\n1:4.8\n1:7.5\n190\n190\n1:9\n190\n1:9\n1:9r/1:91\n190\n\nOverall\nlength (m)\n22.100\n30.039\n27.138\n33.230\n37.661\n\nDimensions for sets of points\n\ndouble slip points, locally operated\n\n===-Y/11\ncrossing\n\n8 Drawing symbols\n\nUIA\n\n=\n\n409\n\n\f"
+        },
+        {
+          "label": "Pitch ratio",
+          "value": 4.8,
+          "value_max": null,
+          "unit": "ratio",
+          "context": "Complete printed ratio is 1:4.8 for ABW 49.",
+          "status": "verified",
+          "ocr_raw": "normal track\nlayout for\nrolling stock\nwith an axle\nbase of 4.5m\n\nnormal track layout for rolling stock with\nan axle base of 4.5m (suitable for virtually\nall rolling stock)\n\nRAILWAYS\nTracks\n\nnormal track layout for rolling stock with\nan axle base under 4.5m (not suitable for\nall rolling stock)\nfalling track with R <100m\n\nfalling track for rolling stock with only two\naxles, 6.5-8.0 m axle base\nfalling track for rolling stock with only two axles,\nup to 6.5 m axle base or wagons with bogies\n\nradii under 100m should be avoided where\npossible on all new construction work\n\n0 Track radius (turnability) of the connecting tracks\n\nIf 100m >R G:35 m, carriages should if possible only be pulled;\nwith radius >130 m not all carriage types can any longer be\ndriven.\n\nI outer rail head\nh\n\ninner rail head\n\noffset rail\nor track\ncentre·line\n\nCurved radii (to track centre-line) = R\nmain lines, direct main tracks ............................................ G:300 m\nstation tracks ..................................................................... ;;;; 180 m\nbranch lines with main line rolling stock ............................ G:180 m\nwithout main line rolling stock ........................................... G:100 m\nsidings used by main line engines ..................................... G:140 m\nsidings not used by main line engines, preferably ............ G:1 00 m\nminimum .............................................................................. G:35 m\n\n}\ntn-J\nI\n\n' II\nI\n/'.\n/ ongmal\n\n/\n\nRadii for narrow-gauge railways\nfor 1.00 m gauge track .................................................... R G:50 m\nfor 0.75 m gauge track .................................................... R G:40 m\nfor 0.60 m gauge track .................................................... R G:25 m\nFor tracks to be used at greater than shunting speed, a transitional\nsection of curve must be installed between the straight section and\nthe circular arc with radius R, with the curvature of the transition\ncurve increasing constantly from 1: = up to 1: R __. f). Circular\ncurves may have to be canted in order to keep the centrifugal\nforce arising when travelling round the curve within reasonable\nbounds (~0.65 m/sec). Canted curves and transition curves should\ncoincide.\n\nA\n\nf------- 1/2\nf-------\n\nV2\n\n--j\n\nFor details, see German Railways combined guideline KoRil 820/1.\n\n--l\n\n8 Track cant ramp and transition curve\nR\n180-200\n\nI\n40\n\n250-350\n\n30\n\n400-2000\n\n20\n\ne\n\nm\n0.370\n0.333\n0.1150\n0.107\n0.012\n0.008\n\nRamp gradient\n1:320\n1:320\n1:300\n1:400\n1:310\n1: 1300\n\nBranch lines and normal sidings (m)\nwheel guide\n\nPoints\nSets of points are characterised according to the shape of the\nrail, the turning track radius and the inclination of the frog, e.g.\n49-190-1 :9.\nonly use the points for carriages up to the limit sign __. 0\nspacing of the track centreline at the warning sign G:3.5 m\npoint length I length of the point blade __. 8\n49-190-1:7.5 =25.222 m/12.611 m\n49-190-1:9 = 27.138 m/1 0.523 m\n49-300-1 :9 = 33.230 m/16.615 m\nnormal turntable = D\nfor axle turntable 2-3 m, for carriage turntable 3.5-10.0 m, for\nlocomotive turntable 12.5-23.0 m .\nTraversers\nSize= minimum axle spacing of the carriage to be pushed + 0.5 m\n\ne\n\nSimple points\nRAILWAYS\n\n_ _ _ _ _-'1\n-=.J\n\nbuffers\n\n~-0\n~\n\ntrack weighbridge\n\nloading gauge\n\nf) Drawing symbols\n\n8\n\nset of points with outside curve,\nremotely controlled\n\nrz<::C\n\nI\ndouble set of point, remotely\ncontrolled\n\nTracks\nFreight transport\nStations\nStation buildings\nPlatforms\nPlatform furniture\n\ndouble slip points, remotely\ncontrolled\n\nLayout of points\n\n---+----<0~\nsimple set of points, hand operated\nSet of\npoints\nABW49\nEW49\nEW49\nDKW49\nDW49\n\n0 Oblique crossing (wheel guide as example diameter 8- 4:))\n\ne\n\nRadius Pitch\nratio\n(m)\n215\n1:4.8\n1:7.5\n190\n190\n1:9\n190\n1:9\n1:9r/1:91\n190\n\nOverall\nlength (m)\n22.100\n30.039\n27.138\n33.230\n37.661\n\nDimensions for sets of points\n\ndouble slip points, locally operated\n\n===-Y/11\ncrossing\n\n8 Drawing symbols\n\nUIA\n\n=\n\n409\n\n\f"
+        },
+        {
+          "label": "Overall point-set length",
+          "value": 22.1,
+          "value_max": null,
+          "unit": "m",
+          "context": "ABW 49 entry in dimensions table.",
+          "status": "verified",
+          "ocr_raw": "normal track\nlayout for\nrolling stock\nwith an axle\nbase of 4.5m\n\nnormal track layout for rolling stock with\nan axle base of 4.5m (suitable for virtually\nall rolling stock)\n\nRAILWAYS\nTracks\n\nnormal track layout for rolling stock with\nan axle base under 4.5m (not suitable for\nall rolling stock)\nfalling track with R <100m\n\nfalling track for rolling stock with only two\naxles, 6.5-8.0 m axle base\nfalling track for rolling stock with only two axles,\nup to 6.5 m axle base or wagons with bogies\n\nradii under 100m should be avoided where\npossible on all new construction work\n\n0 Track radius (turnability) of the connecting tracks\n\nIf 100m >R G:35 m, carriages should if possible only be pulled;\nwith radius >130 m not all carriage types can any longer be\ndriven.\n\nI outer rail head\nh\n\ninner rail head\n\noffset rail\nor track\ncentre·line\n\nCurved radii (to track centre-line) = R\nmain lines, direct main tracks ............................................ G:300 m\nstation tracks ..................................................................... ;;;; 180 m\nbranch lines with main line rolling stock ............................ G:180 m\nwithout main line rolling stock ........................................... G:100 m\nsidings used by main line engines ..................................... G:140 m\nsidings not used by main line engines, preferably ............ G:1 00 m\nminimum .............................................................................. G:35 m\n\n}\ntn-J\nI\n\n' II\nI\n/'.\n/ ongmal\n\n/\n\nRadii for narrow-gauge railways\nfor 1.00 m gauge track .................................................... R G:50 m\nfor 0.75 m gauge track .................................................... R G:40 m\nfor 0.60 m gauge track .................................................... R G:25 m\nFor tracks to be used at greater than shunting speed, a transitional\nsection of curve must be installed between the straight section and\nthe circular arc with radius R, with the curvature of the transition\ncurve increasing constantly from 1: = up to 1: R __. f). Circular\ncurves may have to be canted in order to keep the centrifugal\nforce arising when travelling round the curve within reasonable\nbounds (~0.65 m/sec). Canted curves and transition curves should\ncoincide.\n\nA\n\nf------- 1/2\nf-------\n\nV2\n\n--j\n\nFor details, see German Railways combined guideline KoRil 820/1.\n\n--l\n\n8 Track cant ramp and transition curve\nR\n180-200\n\nI\n40\n\n250-350\n\n30\n\n400-2000\n\n20\n\ne\n\nm\n0.370\n0.333\n0.1150\n0.107\n0.012\n0.008\n\nRamp gradient\n1:320\n1:320\n1:300\n1:400\n1:310\n1: 1300\n\nBranch lines and normal sidings (m)\nwheel guide\n\nPoints\nSets of points are characterised according to the shape of the\nrail, the turning track radius and the inclination of the frog, e.g.\n49-190-1 :9.\nonly use the points for carriages up to the limit sign __. 0\nspacing of the track centreline at the warning sign G:3.5 m\npoint length I length of the point blade __. 8\n49-190-1:7.5 =25.222 m/12.611 m\n49-190-1:9 = 27.138 m/1 0.523 m\n49-300-1 :9 = 33.230 m/16.615 m\nnormal turntable = D\nfor axle turntable 2-3 m, for carriage turntable 3.5-10.0 m, for\nlocomotive turntable 12.5-23.0 m .\nTraversers\nSize= minimum axle spacing of the carriage to be pushed + 0.5 m\n\ne\n\nSimple points\nRAILWAYS\n\n_ _ _ _ _-'1\n-=.J\n\nbuffers\n\n~-0\n~\n\ntrack weighbridge\n\nloading gauge\n\nf) Drawing symbols\n\n8\n\nset of points with outside curve,\nremotely controlled\n\nrz<::C\n\nI\ndouble set of point, remotely\ncontrolled\n\nTracks\nFreight transport\nStations\nStation buildings\nPlatforms\nPlatform furniture\n\ndouble slip points, remotely\ncontrolled\n\nLayout of points\n\n---+----<0~\nsimple set of points, hand operated\nSet of\npoints\nABW49\nEW49\nEW49\nDKW49\nDW49\n\n0 Oblique crossing (wheel guide as example diameter 8- 4:))\n\ne\n\nRadius Pitch\nratio\n(m)\n215\n1:4.8\n1:7.5\n190\n190\n1:9\n190\n1:9\n1:9r/1:91\n190\n\nOverall\nlength (m)\n22.100\n30.039\n27.138\n33.230\n37.661\n\nDimensions for sets of points\n\ndouble slip points, locally operated\n\n===-Y/11\ncrossing\n\n8 Drawing symbols\n\nUIA\n\n=\n\n409\n\n\f"
+        },
+        {
+          "label": "Point-set radius",
+          "value": 190.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "EW 49 entry with pitch ratio 1:7.5.",
+          "status": "verified",
+          "ocr_raw": "normal track\nlayout for\nrolling stock\nwith an axle\nbase of 4.5m\n\nnormal track layout for rolling stock with\nan axle base of 4.5m (suitable for virtually\nall rolling stock)\n\nRAILWAYS\nTracks\n\nnormal track layout for rolling stock with\nan axle base under 4.5m (not suitable for\nall rolling stock)\nfalling track with R <100m\n\nfalling track for rolling stock with only two\naxles, 6.5-8.0 m axle base\nfalling track for rolling stock with only two axles,\nup to 6.5 m axle base or wagons with bogies\n\nradii under 100m should be avoided where\npossible on all new construction work\n\n0 Track radius (turnability) of the connecting tracks\n\nIf 100m >R G:35 m, carriages should if possible only be pulled;\nwith radius >130 m not all carriage types can any longer be\ndriven.\n\nI outer rail head\nh\n\ninner rail head\n\noffset rail\nor track\ncentre·line\n\nCurved radii (to track centre-line) = R\nmain lines, direct main tracks ............................................ G:300 m\nstation tracks ..................................................................... ;;;; 180 m\nbranch lines with main line rolling stock ............................ G:180 m\nwithout main line rolling stock ........................................... G:100 m\nsidings used by main line engines ..................................... G:140 m\nsidings not used by main line engines, preferably ............ G:1 00 m\nminimum .............................................................................. G:35 m\n\n}\ntn-J\nI\n\n' II\nI\n/'.\n/ ongmal\n\n/\n\nRadii for narrow-gauge railways\nfor 1.00 m gauge track .................................................... R G:50 m\nfor 0.75 m gauge track .................................................... R G:40 m\nfor 0.60 m gauge track .................................................... R G:25 m\nFor tracks to be used at greater than shunting speed, a transitional\nsection of curve must be installed between the straight section and\nthe circular arc with radius R, with the curvature of the transition\ncurve increasing constantly from 1: = up to 1: R __. f). Circular\ncurves may have to be canted in order to keep the centrifugal\nforce arising when travelling round the curve within reasonable\nbounds (~0.65 m/sec). Canted curves and transition curves should\ncoincide.\n\nA\n\nf------- 1/2\nf-------\n\nV2\n\n--j\n\nFor details, see German Railways combined guideline KoRil 820/1.\n\n--l\n\n8 Track cant ramp and transition curve\nR\n180-200\n\nI\n40\n\n250-350\n\n30\n\n400-2000\n\n20\n\ne\n\nm\n0.370\n0.333\n0.1150\n0.107\n0.012\n0.008\n\nRamp gradient\n1:320\n1:320\n1:300\n1:400\n1:310\n1: 1300\n\nBranch lines and normal sidings (m)\nwheel guide\n\nPoints\nSets of points are characterised according to the shape of the\nrail, the turning track radius and the inclination of the frog, e.g.\n49-190-1 :9.\nonly use the points for carriages up to the limit sign __. 0\nspacing of the track centreline at the warning sign G:3.5 m\npoint length I length of the point blade __. 8\n49-190-1:7.5 =25.222 m/12.611 m\n49-190-1:9 = 27.138 m/1 0.523 m\n49-300-1 :9 = 33.230 m/16.615 m\nnormal turntable = D\nfor axle turntable 2-3 m, for carriage turntable 3.5-10.0 m, for\nlocomotive turntable 12.5-23.0 m .\nTraversers\nSize= minimum axle spacing of the carriage to be pushed + 0.5 m\n\ne\n\nSimple points\nRAILWAYS\n\n_ _ _ _ _-'1\n-=.J\n\nbuffers\n\n~-0\n~\n\ntrack weighbridge\n\nloading gauge\n\nf) Drawing symbols\n\n8\n\nset of points with outside curve,\nremotely controlled\n\nrz<::C\n\nI\ndouble set of point, remotely\ncontrolled\n\nTracks\nFreight transport\nStations\nStation buildings\nPlatforms\nPlatform furniture\n\ndouble slip points, remotely\ncontrolled\n\nLayout of points\n\n---+----<0~\nsimple set of points, hand operated\nSet of\npoints\nABW49\nEW49\nEW49\nDKW49\nDW49\n\n0 Oblique crossing (wheel guide as example diameter 8- 4:))\n\ne\n\nRadius Pitch\nratio\n(m)\n215\n1:4.8\n1:7.5\n190\n190\n1:9\n190\n1:9\n1:9r/1:91\n190\n\nOverall\nlength (m)\n22.100\n30.039\n27.138\n33.230\n37.661\n\nDimensions for sets of points\n\ndouble slip points, locally operated\n\n===-Y/11\ncrossing\n\n8 Drawing symbols\n\nUIA\n\n=\n\n409\n\n\f"
+        },
+        {
+          "label": "Pitch ratio",
+          "value": 7.5,
+          "value_max": null,
+          "unit": "ratio",
+          "context": "Complete printed ratio is 1:7.5 for EW 49.",
+          "status": "verified",
+          "ocr_raw": "normal track\nlayout for\nrolling stock\nwith an axle\nbase of 4.5m\n\nnormal track layout for rolling stock with\nan axle base of 4.5m (suitable for virtually\nall rolling stock)\n\nRAILWAYS\nTracks\n\nnormal track layout for rolling stock with\nan axle base under 4.5m (not suitable for\nall rolling stock)\nfalling track with R <100m\n\nfalling track for rolling stock with only two\naxles, 6.5-8.0 m axle base\nfalling track for rolling stock with only two axles,\nup to 6.5 m axle base or wagons with bogies\n\nradii under 100m should be avoided where\npossible on all new construction work\n\n0 Track radius (turnability) of the connecting tracks\n\nIf 100m >R G:35 m, carriages should if possible only be pulled;\nwith radius >130 m not all carriage types can any longer be\ndriven.\n\nI outer rail head\nh\n\ninner rail head\n\noffset rail\nor track\ncentre·line\n\nCurved radii (to track centre-line) = R\nmain lines, direct main tracks ............................................ G:300 m\nstation tracks ..................................................................... ;;;; 180 m\nbranch lines with main line rolling stock ............................ G:180 m\nwithout main line rolling stock ........................................... G:100 m\nsidings used by main line engines ..................................... G:140 m\nsidings not used by main line engines, preferably ............ G:1 00 m\nminimum .............................................................................. G:35 m\n\n}\ntn-J\nI\n\n' II\nI\n/'.\n/ ongmal\n\n/\n\nRadii for narrow-gauge railways\nfor 1.00 m gauge track .................................................... R G:50 m\nfor 0.75 m gauge track .................................................... R G:40 m\nfor 0.60 m gauge track .................................................... R G:25 m\nFor tracks to be used at greater than shunting speed, a transitional\nsection of curve must be installed between the straight section and\nthe circular arc with radius R, with the curvature of the transition\ncurve increasing constantly from 1: = up to 1: R __. f). Circular\ncurves may have to be canted in order to keep the centrifugal\nforce arising when travelling round the curve within reasonable\nbounds (~0.65 m/sec). Canted curves and transition curves should\ncoincide.\n\nA\n\nf------- 1/2\nf-------\n\nV2\n\n--j\n\nFor details, see German Railways combined guideline KoRil 820/1.\n\n--l\n\n8 Track cant ramp and transition curve\nR\n180-200\n\nI\n40\n\n250-350\n\n30\n\n400-2000\n\n20\n\ne\n\nm\n0.370\n0.333\n0.1150\n0.107\n0.012\n0.008\n\nRamp gradient\n1:320\n1:320\n1:300\n1:400\n1:310\n1: 1300\n\nBranch lines and normal sidings (m)\nwheel guide\n\nPoints\nSets of points are characterised according to the shape of the\nrail, the turning track radius and the inclination of the frog, e.g.\n49-190-1 :9.\nonly use the points for carriages up to the limit sign __. 0\nspacing of the track centreline at the warning sign G:3.5 m\npoint length I length of the point blade __. 8\n49-190-1:7.5 =25.222 m/12.611 m\n49-190-1:9 = 27.138 m/1 0.523 m\n49-300-1 :9 = 33.230 m/16.615 m\nnormal turntable = D\nfor axle turntable 2-3 m, for carriage turntable 3.5-10.0 m, for\nlocomotive turntable 12.5-23.0 m .\nTraversers\nSize= minimum axle spacing of the carriage to be pushed + 0.5 m\n\ne\n\nSimple points\nRAILWAYS\n\n_ _ _ _ _-'1\n-=.J\n\nbuffers\n\n~-0\n~\n\ntrack weighbridge\n\nloading gauge\n\nf) Drawing symbols\n\n8\n\nset of points with outside curve,\nremotely controlled\n\nrz<::C\n\nI\ndouble set of point, remotely\ncontrolled\n\nTracks\nFreight transport\nStations\nStation buildings\nPlatforms\nPlatform furniture\n\ndouble slip points, remotely\ncontrolled\n\nLayout of points\n\n---+----<0~\nsimple set of points, hand operated\nSet of\npoints\nABW49\nEW49\nEW49\nDKW49\nDW49\n\n0 Oblique crossing (wheel guide as example diameter 8- 4:))\n\ne\n\nRadius Pitch\nratio\n(m)\n215\n1:4.8\n1:7.5\n190\n190\n1:9\n190\n1:9\n1:9r/1:91\n190\n\nOverall\nlength (m)\n22.100\n30.039\n27.138\n33.230\n37.661\n\nDimensions for sets of points\n\ndouble slip points, locally operated\n\n===-Y/11\ncrossing\n\n8 Drawing symbols\n\nUIA\n\n=\n\n409\n\n\f"
+        },
+        {
+          "label": "Overall point-set length",
+          "value": 30.039,
+          "value_max": null,
+          "unit": "m",
+          "context": "EW 49 entry in dimensions table.",
+          "status": "verified",
+          "ocr_raw": "normal track\nlayout for\nrolling stock\nwith an axle\nbase of 4.5m\n\nnormal track layout for rolling stock with\nan axle base of 4.5m (suitable for virtually\nall rolling stock)\n\nRAILWAYS\nTracks\n\nnormal track layout for rolling stock with\nan axle base under 4.5m (not suitable for\nall rolling stock)\nfalling track with R <100m\n\nfalling track for rolling stock with only two\naxles, 6.5-8.0 m axle base\nfalling track for rolling stock with only two axles,\nup to 6.5 m axle base or wagons with bogies\n\nradii under 100m should be avoided where\npossible on all new construction work\n\n0 Track radius (turnability) of the connecting tracks\n\nIf 100m >R G:35 m, carriages should if possible only be pulled;\nwith radius >130 m not all carriage types can any longer be\ndriven.\n\nI outer rail head\nh\n\ninner rail head\n\noffset rail\nor track\ncentre·line\n\nCurved radii (to track centre-line) = R\nmain lines, direct main tracks ............................................ G:300 m\nstation tracks ..................................................................... ;;;; 180 m\nbranch lines with main line rolling stock ............................ G:180 m\nwithout main line rolling stock ........................................... G:100 m\nsidings used by main line engines ..................................... G:140 m\nsidings not used by main line engines, preferably ............ G:1 00 m\nminimum .............................................................................. G:35 m\n\n}\ntn-J\nI\n\n' II\nI\n/'.\n/ ongmal\n\n/\n\nRadii for narrow-gauge railways\nfor 1.00 m gauge track .................................................... R G:50 m\nfor 0.75 m gauge track .................................................... R G:40 m\nfor 0.60 m gauge track .................................................... R G:25 m\nFor tracks to be used at greater than shunting speed, a transitional\nsection of curve must be installed between the straight section and\nthe circular arc with radius R, with the curvature of the transition\ncurve increasing constantly from 1: = up to 1: R __. f). Circular\ncurves may have to be canted in order to keep the centrifugal\nforce arising when travelling round the curve within reasonable\nbounds (~0.65 m/sec). Canted curves and transition curves should\ncoincide.\n\nA\n\nf------- 1/2\nf-------\n\nV2\n\n--j\n\nFor details, see German Railways combined guideline KoRil 820/1.\n\n--l\n\n8 Track cant ramp and transition curve\nR\n180-200\n\nI\n40\n\n250-350\n\n30\n\n400-2000\n\n20\n\ne\n\nm\n0.370\n0.333\n0.1150\n0.107\n0.012\n0.008\n\nRamp gradient\n1:320\n1:320\n1:300\n1:400\n1:310\n1: 1300\n\nBranch lines and normal sidings (m)\nwheel guide\n\nPoints\nSets of points are characterised according to the shape of the\nrail, the turning track radius and the inclination of the frog, e.g.\n49-190-1 :9.\nonly use the points for carriages up to the limit sign __. 0\nspacing of the track centreline at the warning sign G:3.5 m\npoint length I length of the point blade __. 8\n49-190-1:7.5 =25.222 m/12.611 m\n49-190-1:9 = 27.138 m/1 0.523 m\n49-300-1 :9 = 33.230 m/16.615 m\nnormal turntable = D\nfor axle turntable 2-3 m, for carriage turntable 3.5-10.0 m, for\nlocomotive turntable 12.5-23.0 m .\nTraversers\nSize= minimum axle spacing of the carriage to be pushed + 0.5 m\n\ne\n\nSimple points\nRAILWAYS\n\n_ _ _ _ _-'1\n-=.J\n\nbuffers\n\n~-0\n~\n\ntrack weighbridge\n\nloading gauge\n\nf) Drawing symbols\n\n8\n\nset of points with outside curve,\nremotely controlled\n\nrz<::C\n\nI\ndouble set of point, remotely\ncontrolled\n\nTracks\nFreight transport\nStations\nStation buildings\nPlatforms\nPlatform furniture\n\ndouble slip points, remotely\ncontrolled\n\nLayout of points\n\n---+----<0~\nsimple set of points, hand operated\nSet of\npoints\nABW49\nEW49\nEW49\nDKW49\nDW49\n\n0 Oblique crossing (wheel guide as example diameter 8- 4:))\n\ne\n\nRadius Pitch\nratio\n(m)\n215\n1:4.8\n1:7.5\n190\n190\n1:9\n190\n1:9\n1:9r/1:91\n190\n\nOverall\nlength (m)\n22.100\n30.039\n27.138\n33.230\n37.661\n\nDimensions for sets of points\n\ndouble slip points, locally operated\n\n===-Y/11\ncrossing\n\n8 Drawing symbols\n\nUIA\n\n=\n\n409\n\n\f"
+        },
+        {
+          "label": "Point-set radius",
+          "value": 190.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "EW 49 entry with pitch ratio 1:9.",
+          "status": "verified",
+          "ocr_raw": "normal track\nlayout for\nrolling stock\nwith an axle\nbase of 4.5m\n\nnormal track layout for rolling stock with\nan axle base of 4.5m (suitable for virtually\nall rolling stock)\n\nRAILWAYS\nTracks\n\nnormal track layout for rolling stock with\nan axle base under 4.5m (not suitable for\nall rolling stock)\nfalling track with R <100m\n\nfalling track for rolling stock with only two\naxles, 6.5-8.0 m axle base\nfalling track for rolling stock with only two axles,\nup to 6.5 m axle base or wagons with bogies\n\nradii under 100m should be avoided where\npossible on all new construction work\n\n0 Track radius (turnability) of the connecting tracks\n\nIf 100m >R G:35 m, carriages should if possible only be pulled;\nwith radius >130 m not all carriage types can any longer be\ndriven.\n\nI outer rail head\nh\n\ninner rail head\n\noffset rail\nor track\ncentre·line\n\nCurved radii (to track centre-line) = R\nmain lines, direct main tracks ............................................ G:300 m\nstation tracks ..................................................................... ;;;; 180 m\nbranch lines with main line rolling stock ............................ G:180 m\nwithout main line rolling stock ........................................... G:100 m\nsidings used by main line engines ..................................... G:140 m\nsidings not used by main line engines, preferably ............ G:1 00 m\nminimum .............................................................................. G:35 m\n\n}\ntn-J\nI\n\n' II\nI\n/'.\n/ ongmal\n\n/\n\nRadii for narrow-gauge railways\nfor 1.00 m gauge track .................................................... R G:50 m\nfor 0.75 m gauge track .................................................... R G:40 m\nfor 0.60 m gauge track .................................................... R G:25 m\nFor tracks to be used at greater than shunting speed, a transitional\nsection of curve must be installed between the straight section and\nthe circular arc with radius R, with the curvature of the transition\ncurve increasing constantly from 1: = up to 1: R __. f). Circular\ncurves may have to be canted in order to keep the centrifugal\nforce arising when travelling round the curve within reasonable\nbounds (~0.65 m/sec). Canted curves and transition curves should\ncoincide.\n\nA\n\nf------- 1/2\nf-------\n\nV2\n\n--j\n\nFor details, see German Railways combined guideline KoRil 820/1.\n\n--l\n\n8 Track cant ramp and transition curve\nR\n180-200\n\nI\n40\n\n250-350\n\n30\n\n400-2000\n\n20\n\ne\n\nm\n0.370\n0.333\n0.1150\n0.107\n0.012\n0.008\n\nRamp gradient\n1:320\n1:320\n1:300\n1:400\n1:310\n1: 1300\n\nBranch lines and normal sidings (m)\nwheel guide\n\nPoints\nSets of points are characterised according to the shape of the\nrail, the turning track radius and the inclination of the frog, e.g.\n49-190-1 :9.\nonly use the points for carriages up to the limit sign __. 0\nspacing of the track centreline at the warning sign G:3.5 m\npoint length I length of the point blade __. 8\n49-190-1:7.5 =25.222 m/12.611 m\n49-190-1:9 = 27.138 m/1 0.523 m\n49-300-1 :9 = 33.230 m/16.615 m\nnormal turntable = D\nfor axle turntable 2-3 m, for carriage turntable 3.5-10.0 m, for\nlocomotive turntable 12.5-23.0 m .\nTraversers\nSize= minimum axle spacing of the carriage to be pushed + 0.5 m\n\ne\n\nSimple points\nRAILWAYS\n\n_ _ _ _ _-'1\n-=.J\n\nbuffers\n\n~-0\n~\n\ntrack weighbridge\n\nloading gauge\n\nf) Drawing symbols\n\n8\n\nset of points with outside curve,\nremotely controlled\n\nrz<::C\n\nI\ndouble set of point, remotely\ncontrolled\n\nTracks\nFreight transport\nStations\nStation buildings\nPlatforms\nPlatform furniture\n\ndouble slip points, remotely\ncontrolled\n\nLayout of points\n\n---+----<0~\nsimple set of points, hand operated\nSet of\npoints\nABW49\nEW49\nEW49\nDKW49\nDW49\n\n0 Oblique crossing (wheel guide as example diameter 8- 4:))\n\ne\n\nRadius Pitch\nratio\n(m)\n215\n1:4.8\n1:7.5\n190\n190\n1:9\n190\n1:9\n1:9r/1:91\n190\n\nOverall\nlength (m)\n22.100\n30.039\n27.138\n33.230\n37.661\n\nDimensions for sets of points\n\ndouble slip points, locally operated\n\n===-Y/11\ncrossing\n\n8 Drawing symbols\n\nUIA\n\n=\n\n409\n\n\f"
+        },
+        {
+          "label": "Pitch ratio",
+          "value": 9.0,
+          "value_max": null,
+          "unit": "ratio",
+          "context": "Complete printed ratio is 1:9 for EW 49.",
+          "status": "verified",
+          "ocr_raw": "normal track\nlayout for\nrolling stock\nwith an axle\nbase of 4.5m\n\nnormal track layout for rolling stock with\nan axle base of 4.5m (suitable for virtually\nall rolling stock)\n\nRAILWAYS\nTracks\n\nnormal track layout for rolling stock with\nan axle base under 4.5m (not suitable for\nall rolling stock)\nfalling track with R <100m\n\nfalling track for rolling stock with only two\naxles, 6.5-8.0 m axle base\nfalling track for rolling stock with only two axles,\nup to 6.5 m axle base or wagons with bogies\n\nradii under 100m should be avoided where\npossible on all new construction work\n\n0 Track radius (turnability) of the connecting tracks\n\nIf 100m >R G:35 m, carriages should if possible only be pulled;\nwith radius >130 m not all carriage types can any longer be\ndriven.\n\nI outer rail head\nh\n\ninner rail head\n\noffset rail\nor track\ncentre·line\n\nCurved radii (to track centre-line) = R\nmain lines, direct main tracks ............................................ G:300 m\nstation tracks ..................................................................... ;;;; 180 m\nbranch lines with main line rolling stock ............................ G:180 m\nwithout main line rolling stock ........................................... G:100 m\nsidings used by main line engines ..................................... G:140 m\nsidings not used by main line engines, preferably ............ G:1 00 m\nminimum .............................................................................. G:35 m\n\n}\ntn-J\nI\n\n' II\nI\n/'.\n/ ongmal\n\n/\n\nRadii for narrow-gauge railways\nfor 1.00 m gauge track .................................................... R G:50 m\nfor 0.75 m gauge track .................................................... R G:40 m\nfor 0.60 m gauge track .................................................... R G:25 m\nFor tracks to be used at greater than shunting speed, a transitional\nsection of curve must be installed between the straight section and\nthe circular arc with radius R, with the curvature of the transition\ncurve increasing constantly from 1: = up to 1: R __. f). Circular\ncurves may have to be canted in order to keep the centrifugal\nforce arising when travelling round the curve within reasonable\nbounds (~0.65 m/sec). Canted curves and transition curves should\ncoincide.\n\nA\n\nf------- 1/2\nf-------\n\nV2\n\n--j\n\nFor details, see German Railways combined guideline KoRil 820/1.\n\n--l\n\n8 Track cant ramp and transition curve\nR\n180-200\n\nI\n40\n\n250-350\n\n30\n\n400-2000\n\n20\n\ne\n\nm\n0.370\n0.333\n0.1150\n0.107\n0.012\n0.008\n\nRamp gradient\n1:320\n1:320\n1:300\n1:400\n1:310\n1: 1300\n\nBranch lines and normal sidings (m)\nwheel guide\n\nPoints\nSets of points are characterised according to the shape of the\nrail, the turning track radius and the inclination of the frog, e.g.\n49-190-1 :9.\nonly use the points for carriages up to the limit sign __. 0\nspacing of the track centreline at the warning sign G:3.5 m\npoint length I length of the point blade __. 8\n49-190-1:7.5 =25.222 m/12.611 m\n49-190-1:9 = 27.138 m/1 0.523 m\n49-300-1 :9 = 33.230 m/16.615 m\nnormal turntable = D\nfor axle turntable 2-3 m, for carriage turntable 3.5-10.0 m, for\nlocomotive turntable 12.5-23.0 m .\nTraversers\nSize= minimum axle spacing of the carriage to be pushed + 0.5 m\n\ne\n\nSimple points\nRAILWAYS\n\n_ _ _ _ _-'1\n-=.J\n\nbuffers\n\n~-0\n~\n\ntrack weighbridge\n\nloading gauge\n\nf) Drawing symbols\n\n8\n\nset of points with outside curve,\nremotely controlled\n\nrz<::C\n\nI\ndouble set of point, remotely\ncontrolled\n\nTracks\nFreight transport\nStations\nStation buildings\nPlatforms\nPlatform furniture\n\ndouble slip points, remotely\ncontrolled\n\nLayout of points\n\n---+----<0~\nsimple set of points, hand operated\nSet of\npoints\nABW49\nEW49\nEW49\nDKW49\nDW49\n\n0 Oblique crossing (wheel guide as example diameter 8- 4:))\n\ne\n\nRadius Pitch\nratio\n(m)\n215\n1:4.8\n1:7.5\n190\n190\n1:9\n190\n1:9\n1:9r/1:91\n190\n\nOverall\nlength (m)\n22.100\n30.039\n27.138\n33.230\n37.661\n\nDimensions for sets of points\n\ndouble slip points, locally operated\n\n===-Y/11\ncrossing\n\n8 Drawing symbols\n\nUIA\n\n=\n\n409\n\n\f"
+        },
+        {
+          "label": "Overall point-set length",
+          "value": 27.138,
+          "value_max": null,
+          "unit": "m",
+          "context": "EW 49 entry in dimensions table.",
+          "status": "verified",
+          "ocr_raw": "normal track\nlayout for\nrolling stock\nwith an axle\nbase of 4.5m\n\nnormal track layout for rolling stock with\nan axle base of 4.5m (suitable for virtually\nall rolling stock)\n\nRAILWAYS\nTracks\n\nnormal track layout for rolling stock with\nan axle base under 4.5m (not suitable for\nall rolling stock)\nfalling track with R <100m\n\nfalling track for rolling stock with only two\naxles, 6.5-8.0 m axle base\nfalling track for rolling stock with only two axles,\nup to 6.5 m axle base or wagons with bogies\n\nradii under 100m should be avoided where\npossible on all new construction work\n\n0 Track radius (turnability) of the connecting tracks\n\nIf 100m >R G:35 m, carriages should if possible only be pulled;\nwith radius >130 m not all carriage types can any longer be\ndriven.\n\nI outer rail head\nh\n\ninner rail head\n\noffset rail\nor track\ncentre·line\n\nCurved radii (to track centre-line) = R\nmain lines, direct main tracks ............................................ G:300 m\nstation tracks ..................................................................... ;;;; 180 m\nbranch lines with main line rolling stock ............................ G:180 m\nwithout main line rolling stock ........................................... G:100 m\nsidings used by main line engines ..................................... G:140 m\nsidings not used by main line engines, preferably ............ G:1 00 m\nminimum .............................................................................. G:35 m\n\n}\ntn-J\nI\n\n' II\nI\n/'.\n/ ongmal\n\n/\n\nRadii for narrow-gauge railways\nfor 1.00 m gauge track .................................................... R G:50 m\nfor 0.75 m gauge track .................................................... R G:40 m\nfor 0.60 m gauge track .................................................... R G:25 m\nFor tracks to be used at greater than shunting speed, a transitional\nsection of curve must be installed between the straight section and\nthe circular arc with radius R, with the curvature of the transition\ncurve increasing constantly from 1: = up to 1: R __. f). Circular\ncurves may have to be canted in order to keep the centrifugal\nforce arising when travelling round the curve within reasonable\nbounds (~0.65 m/sec). Canted curves and transition curves should\ncoincide.\n\nA\n\nf------- 1/2\nf-------\n\nV2\n\n--j\n\nFor details, see German Railways combined guideline KoRil 820/1.\n\n--l\n\n8 Track cant ramp and transition curve\nR\n180-200\n\nI\n40\n\n250-350\n\n30\n\n400-2000\n\n20\n\ne\n\nm\n0.370\n0.333\n0.1150\n0.107\n0.012\n0.008\n\nRamp gradient\n1:320\n1:320\n1:300\n1:400\n1:310\n1: 1300\n\nBranch lines and normal sidings (m)\nwheel guide\n\nPoints\nSets of points are characterised according to the shape of the\nrail, the turning track radius and the inclination of the frog, e.g.\n49-190-1 :9.\nonly use the points for carriages up to the limit sign __. 0\nspacing of the track centreline at the warning sign G:3.5 m\npoint length I length of the point blade __. 8\n49-190-1:7.5 =25.222 m/12.611 m\n49-190-1:9 = 27.138 m/1 0.523 m\n49-300-1 :9 = 33.230 m/16.615 m\nnormal turntable = D\nfor axle turntable 2-3 m, for carriage turntable 3.5-10.0 m, for\nlocomotive turntable 12.5-23.0 m .\nTraversers\nSize= minimum axle spacing of the carriage to be pushed + 0.5 m\n\ne\n\nSimple points\nRAILWAYS\n\n_ _ _ _ _-'1\n-=.J\n\nbuffers\n\n~-0\n~\n\ntrack weighbridge\n\nloading gauge\n\nf) Drawing symbols\n\n8\n\nset of points with outside curve,\nremotely controlled\n\nrz<::C\n\nI\ndouble set of point, remotely\ncontrolled\n\nTracks\nFreight transport\nStations\nStation buildings\nPlatforms\nPlatform furniture\n\ndouble slip points, remotely\ncontrolled\n\nLayout of points\n\n---+----<0~\nsimple set of points, hand operated\nSet of\npoints\nABW49\nEW49\nEW49\nDKW49\nDW49\n\n0 Oblique crossing (wheel guide as example diameter 8- 4:))\n\ne\n\nRadius Pitch\nratio\n(m)\n215\n1:4.8\n1:7.5\n190\n190\n1:9\n190\n1:9\n1:9r/1:91\n190\n\nOverall\nlength (m)\n22.100\n30.039\n27.138\n33.230\n37.661\n\nDimensions for sets of points\n\ndouble slip points, locally operated\n\n===-Y/11\ncrossing\n\n8 Drawing symbols\n\nUIA\n\n=\n\n409\n\n\f"
+        },
+        {
+          "label": "Point-set radius",
+          "value": 190.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "DKW 49 entry with pitch ratio 1:9.",
+          "status": "verified",
+          "ocr_raw": "normal track\nlayout for\nrolling stock\nwith an axle\nbase of 4.5m\n\nnormal track layout for rolling stock with\nan axle base of 4.5m (suitable for virtually\nall rolling stock)\n\nRAILWAYS\nTracks\n\nnormal track layout for rolling stock with\nan axle base under 4.5m (not suitable for\nall rolling stock)\nfalling track with R <100m\n\nfalling track for rolling stock with only two\naxles, 6.5-8.0 m axle base\nfalling track for rolling stock with only two axles,\nup to 6.5 m axle base or wagons with bogies\n\nradii under 100m should be avoided where\npossible on all new construction work\n\n0 Track radius (turnability) of the connecting tracks\n\nIf 100m >R G:35 m, carriages should if possible only be pulled;\nwith radius >130 m not all carriage types can any longer be\ndriven.\n\nI outer rail head\nh\n\ninner rail head\n\noffset rail\nor track\ncentre·line\n\nCurved radii (to track centre-line) = R\nmain lines, direct main tracks ............................................ G:300 m\nstation tracks ..................................................................... ;;;; 180 m\nbranch lines with main line rolling stock ............................ G:180 m\nwithout main line rolling stock ........................................... G:100 m\nsidings used by main line engines ..................................... G:140 m\nsidings not used by main line engines, preferably ............ G:1 00 m\nminimum .............................................................................. G:35 m\n\n}\ntn-J\nI\n\n' II\nI\n/'.\n/ ongmal\n\n/\n\nRadii for narrow-gauge railways\nfor 1.00 m gauge track .................................................... R G:50 m\nfor 0.75 m gauge track .................................................... R G:40 m\nfor 0.60 m gauge track .................................................... R G:25 m\nFor tracks to be used at greater than shunting speed, a transitional\nsection of curve must be installed between the straight section and\nthe circular arc with radius R, with the curvature of the transition\ncurve increasing constantly from 1: = up to 1: R __. f). Circular\ncurves may have to be canted in order to keep the centrifugal\nforce arising when travelling round the curve within reasonable\nbounds (~0.65 m/sec). Canted curves and transition curves should\ncoincide.\n\nA\n\nf------- 1/2\nf-------\n\nV2\n\n--j\n\nFor details, see German Railways combined guideline KoRil 820/1.\n\n--l\n\n8 Track cant ramp and transition curve\nR\n180-200\n\nI\n40\n\n250-350\n\n30\n\n400-2000\n\n20\n\ne\n\nm\n0.370\n0.333\n0.1150\n0.107\n0.012\n0.008\n\nRamp gradient\n1:320\n1:320\n1:300\n1:400\n1:310\n1: 1300\n\nBranch lines and normal sidings (m)\nwheel guide\n\nPoints\nSets of points are characterised according to the shape of the\nrail, the turning track radius and the inclination of the frog, e.g.\n49-190-1 :9.\nonly use the points for carriages up to the limit sign __. 0\nspacing of the track centreline at the warning sign G:3.5 m\npoint length I length of the point blade __. 8\n49-190-1:7.5 =25.222 m/12.611 m\n49-190-1:9 = 27.138 m/1 0.523 m\n49-300-1 :9 = 33.230 m/16.615 m\nnormal turntable = D\nfor axle turntable 2-3 m, for carriage turntable 3.5-10.0 m, for\nlocomotive turntable 12.5-23.0 m .\nTraversers\nSize= minimum axle spacing of the carriage to be pushed + 0.5 m\n\ne\n\nSimple points\nRAILWAYS\n\n_ _ _ _ _-'1\n-=.J\n\nbuffers\n\n~-0\n~\n\ntrack weighbridge\n\nloading gauge\n\nf) Drawing symbols\n\n8\n\nset of points with outside curve,\nremotely controlled\n\nrz<::C\n\nI\ndouble set of point, remotely\ncontrolled\n\nTracks\nFreight transport\nStations\nStation buildings\nPlatforms\nPlatform furniture\n\ndouble slip points, remotely\ncontrolled\n\nLayout of points\n\n---+----<0~\nsimple set of points, hand operated\nSet of\npoints\nABW49\nEW49\nEW49\nDKW49\nDW49\n\n0 Oblique crossing (wheel guide as example diameter 8- 4:))\n\ne\n\nRadius Pitch\nratio\n(m)\n215\n1:4.8\n1:7.5\n190\n190\n1:9\n190\n1:9\n1:9r/1:91\n190\n\nOverall\nlength (m)\n22.100\n30.039\n27.138\n33.230\n37.661\n\nDimensions for sets of points\n\ndouble slip points, locally operated\n\n===-Y/11\ncrossing\n\n8 Drawing symbols\n\nUIA\n\n=\n\n409\n\n\f"
+        },
+        {
+          "label": "Pitch ratio",
+          "value": 9.0,
+          "value_max": null,
+          "unit": "ratio",
+          "context": "Complete printed ratio is 1:9 for DKW 49.",
+          "status": "verified",
+          "ocr_raw": "normal track\nlayout for\nrolling stock\nwith an axle\nbase of 4.5m\n\nnormal track layout for rolling stock with\nan axle base of 4.5m (suitable for virtually\nall rolling stock)\n\nRAILWAYS\nTracks\n\nnormal track layout for rolling stock with\nan axle base under 4.5m (not suitable for\nall rolling stock)\nfalling track with R <100m\n\nfalling track for rolling stock with only two\naxles, 6.5-8.0 m axle base\nfalling track for rolling stock with only two axles,\nup to 6.5 m axle base or wagons with bogies\n\nradii under 100m should be avoided where\npossible on all new construction work\n\n0 Track radius (turnability) of the connecting tracks\n\nIf 100m >R G:35 m, carriages should if possible only be pulled;\nwith radius >130 m not all carriage types can any longer be\ndriven.\n\nI outer rail head\nh\n\ninner rail head\n\noffset rail\nor track\ncentre·line\n\nCurved radii (to track centre-line) = R\nmain lines, direct main tracks ............................................ G:300 m\nstation tracks ..................................................................... ;;;; 180 m\nbranch lines with main line rolling stock ............................ G:180 m\nwithout main line rolling stock ........................................... G:100 m\nsidings used by main line engines ..................................... G:140 m\nsidings not used by main line engines, preferably ............ G:1 00 m\nminimum .............................................................................. G:35 m\n\n}\ntn-J\nI\n\n' II\nI\n/'.\n/ ongmal\n\n/\n\nRadii for narrow-gauge railways\nfor 1.00 m gauge track .................................................... R G:50 m\nfor 0.75 m gauge track .................................................... R G:40 m\nfor 0.60 m gauge track .................................................... R G:25 m\nFor tracks to be used at greater than shunting speed, a transitional\nsection of curve must be installed between the straight section and\nthe circular arc with radius R, with the curvature of the transition\ncurve increasing constantly from 1: = up to 1: R __. f). Circular\ncurves may have to be canted in order to keep the centrifugal\nforce arising when travelling round the curve within reasonable\nbounds (~0.65 m/sec). Canted curves and transition curves should\ncoincide.\n\nA\n\nf------- 1/2\nf-------\n\nV2\n\n--j\n\nFor details, see German Railways combined guideline KoRil 820/1.\n\n--l\n\n8 Track cant ramp and transition curve\nR\n180-200\n\nI\n40\n\n250-350\n\n30\n\n400-2000\n\n20\n\ne\n\nm\n0.370\n0.333\n0.1150\n0.107\n0.012\n0.008\n\nRamp gradient\n1:320\n1:320\n1:300\n1:400\n1:310\n1: 1300\n\nBranch lines and normal sidings (m)\nwheel guide\n\nPoints\nSets of points are characterised according to the shape of the\nrail, the turning track radius and the inclination of the frog, e.g.\n49-190-1 :9.\nonly use the points for carriages up to the limit sign __. 0\nspacing of the track centreline at the warning sign G:3.5 m\npoint length I length of the point blade __. 8\n49-190-1:7.5 =25.222 m/12.611 m\n49-190-1:9 = 27.138 m/1 0.523 m\n49-300-1 :9 = 33.230 m/16.615 m\nnormal turntable = D\nfor axle turntable 2-3 m, for carriage turntable 3.5-10.0 m, for\nlocomotive turntable 12.5-23.0 m .\nTraversers\nSize= minimum axle spacing of the carriage to be pushed + 0.5 m\n\ne\n\nSimple points\nRAILWAYS\n\n_ _ _ _ _-'1\n-=.J\n\nbuffers\n\n~-0\n~\n\ntrack weighbridge\n\nloading gauge\n\nf) Drawing symbols\n\n8\n\nset of points with outside curve,\nremotely controlled\n\nrz<::C\n\nI\ndouble set of point, remotely\ncontrolled\n\nTracks\nFreight transport\nStations\nStation buildings\nPlatforms\nPlatform furniture\n\ndouble slip points, remotely\ncontrolled\n\nLayout of points\n\n---+----<0~\nsimple set of points, hand operated\nSet of\npoints\nABW49\nEW49\nEW49\nDKW49\nDW49\n\n0 Oblique crossing (wheel guide as example diameter 8- 4:))\n\ne\n\nRadius Pitch\nratio\n(m)\n215\n1:4.8\n1:7.5\n190\n190\n1:9\n190\n1:9\n1:9r/1:91\n190\n\nOverall\nlength (m)\n22.100\n30.039\n27.138\n33.230\n37.661\n\nDimensions for sets of points\n\ndouble slip points, locally operated\n\n===-Y/11\ncrossing\n\n8 Drawing symbols\n\nUIA\n\n=\n\n409\n\n\f"
+        },
+        {
+          "label": "Overall point-set length",
+          "value": 33.23,
+          "value_max": null,
+          "unit": "m",
+          "context": "DKW 49 entry in dimensions table.",
+          "status": "verified",
+          "ocr_raw": "normal track\nlayout for\nrolling stock\nwith an axle\nbase of 4.5m\n\nnormal track layout for rolling stock with\nan axle base of 4.5m (suitable for virtually\nall rolling stock)\n\nRAILWAYS\nTracks\n\nnormal track layout for rolling stock with\nan axle base under 4.5m (not suitable for\nall rolling stock)\nfalling track with R <100m\n\nfalling track for rolling stock with only two\naxles, 6.5-8.0 m axle base\nfalling track for rolling stock with only two axles,\nup to 6.5 m axle base or wagons with bogies\n\nradii under 100m should be avoided where\npossible on all new construction work\n\n0 Track radius (turnability) of the connecting tracks\n\nIf 100m >R G:35 m, carriages should if possible only be pulled;\nwith radius >130 m not all carriage types can any longer be\ndriven.\n\nI outer rail head\nh\n\ninner rail head\n\noffset rail\nor track\ncentre·line\n\nCurved radii (to track centre-line) = R\nmain lines, direct main tracks ............................................ G:300 m\nstation tracks ..................................................................... ;;;; 180 m\nbranch lines with main line rolling stock ............................ G:180 m\nwithout main line rolling stock ........................................... G:100 m\nsidings used by main line engines ..................................... G:140 m\nsidings not used by main line engines, preferably ............ G:1 00 m\nminimum .............................................................................. G:35 m\n\n}\ntn-J\nI\n\n' II\nI\n/'.\n/ ongmal\n\n/\n\nRadii for narrow-gauge railways\nfor 1.00 m gauge track .................................................... R G:50 m\nfor 0.75 m gauge track .................................................... R G:40 m\nfor 0.60 m gauge track .................................................... R G:25 m\nFor tracks to be used at greater than shunting speed, a transitional\nsection of curve must be installed between the straight section and\nthe circular arc with radius R, with the curvature of the transition\ncurve increasing constantly from 1: = up to 1: R __. f). Circular\ncurves may have to be canted in order to keep the centrifugal\nforce arising when travelling round the curve within reasonable\nbounds (~0.65 m/sec). Canted curves and transition curves should\ncoincide.\n\nA\n\nf------- 1/2\nf-------\n\nV2\n\n--j\n\nFor details, see German Railways combined guideline KoRil 820/1.\n\n--l\n\n8 Track cant ramp and transition curve\nR\n180-200\n\nI\n40\n\n250-350\n\n30\n\n400-2000\n\n20\n\ne\n\nm\n0.370\n0.333\n0.1150\n0.107\n0.012\n0.008\n\nRamp gradient\n1:320\n1:320\n1:300\n1:400\n1:310\n1: 1300\n\nBranch lines and normal sidings (m)\nwheel guide\n\nPoints\nSets of points are characterised according to the shape of the\nrail, the turning track radius and the inclination of the frog, e.g.\n49-190-1 :9.\nonly use the points for carriages up to the limit sign __. 0\nspacing of the track centreline at the warning sign G:3.5 m\npoint length I length of the point blade __. 8\n49-190-1:7.5 =25.222 m/12.611 m\n49-190-1:9 = 27.138 m/1 0.523 m\n49-300-1 :9 = 33.230 m/16.615 m\nnormal turntable = D\nfor axle turntable 2-3 m, for carriage turntable 3.5-10.0 m, for\nlocomotive turntable 12.5-23.0 m .\nTraversers\nSize= minimum axle spacing of the carriage to be pushed + 0.5 m\n\ne\n\nSimple points\nRAILWAYS\n\n_ _ _ _ _-'1\n-=.J\n\nbuffers\n\n~-0\n~\n\ntrack weighbridge\n\nloading gauge\n\nf) Drawing symbols\n\n8\n\nset of points with outside curve,\nremotely controlled\n\nrz<::C\n\nI\ndouble set of point, remotely\ncontrolled\n\nTracks\nFreight transport\nStations\nStation buildings\nPlatforms\nPlatform furniture\n\ndouble slip points, remotely\ncontrolled\n\nLayout of points\n\n---+----<0~\nsimple set of points, hand operated\nSet of\npoints\nABW49\nEW49\nEW49\nDKW49\nDW49\n\n0 Oblique crossing (wheel guide as example diameter 8- 4:))\n\ne\n\nRadius Pitch\nratio\n(m)\n215\n1:4.8\n1:7.5\n190\n190\n1:9\n190\n1:9\n1:9r/1:91\n190\n\nOverall\nlength (m)\n22.100\n30.039\n27.138\n33.230\n37.661\n\nDimensions for sets of points\n\ndouble slip points, locally operated\n\n===-Y/11\ncrossing\n\n8 Drawing symbols\n\nUIA\n\n=\n\n409\n\n\f"
+        },
+        {
+          "label": "Point-set radius",
+          "value": 190.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "DW 49 entry; table prints pitch ratio 1:9r/1:9l.",
+          "status": "verified",
+          "ocr_raw": "normal track\nlayout for\nrolling stock\nwith an axle\nbase of 4.5m\n\nnormal track layout for rolling stock with\nan axle base of 4.5m (suitable for virtually\nall rolling stock)\n\nRAILWAYS\nTracks\n\nnormal track layout for rolling stock with\nan axle base under 4.5m (not suitable for\nall rolling stock)\nfalling track with R <100m\n\nfalling track for rolling stock with only two\naxles, 6.5-8.0 m axle base\nfalling track for rolling stock with only two axles,\nup to 6.5 m axle base or wagons with bogies\n\nradii under 100m should be avoided where\npossible on all new construction work\n\n0 Track radius (turnability) of the connecting tracks\n\nIf 100m >R G:35 m, carriages should if possible only be pulled;\nwith radius >130 m not all carriage types can any longer be\ndriven.\n\nI outer rail head\nh\n\ninner rail head\n\noffset rail\nor track\ncentre·line\n\nCurved radii (to track centre-line) = R\nmain lines, direct main tracks ............................................ G:300 m\nstation tracks ..................................................................... ;;;; 180 m\nbranch lines with main line rolling stock ............................ G:180 m\nwithout main line rolling stock ........................................... G:100 m\nsidings used by main line engines ..................................... G:140 m\nsidings not used by main line engines, preferably ............ G:1 00 m\nminimum .............................................................................. G:35 m\n\n}\ntn-J\nI\n\n' II\nI\n/'.\n/ ongmal\n\n/\n\nRadii for narrow-gauge railways\nfor 1.00 m gauge track .................................................... R G:50 m\nfor 0.75 m gauge track .................................................... R G:40 m\nfor 0.60 m gauge track .................................................... R G:25 m\nFor tracks to be used at greater than shunting speed, a transitional\nsection of curve must be installed between the straight section and\nthe circular arc with radius R, with the curvature of the transition\ncurve increasing constantly from 1: = up to 1: R __. f). Circular\ncurves may have to be canted in order to keep the centrifugal\nforce arising when travelling round the curve within reasonable\nbounds (~0.65 m/sec). Canted curves and transition curves should\ncoincide.\n\nA\n\nf------- 1/2\nf-------\n\nV2\n\n--j\n\nFor details, see German Railways combined guideline KoRil 820/1.\n\n--l\n\n8 Track cant ramp and transition curve\nR\n180-200\n\nI\n40\n\n250-350\n\n30\n\n400-2000\n\n20\n\ne\n\nm\n0.370\n0.333\n0.1150\n0.107\n0.012\n0.008\n\nRamp gradient\n1:320\n1:320\n1:300\n1:400\n1:310\n1: 1300\n\nBranch lines and normal sidings (m)\nwheel guide\n\nPoints\nSets of points are characterised according to the shape of the\nrail, the turning track radius and the inclination of the frog, e.g.\n49-190-1 :9.\nonly use the points for carriages up to the limit sign __. 0\nspacing of the track centreline at the warning sign G:3.5 m\npoint length I length of the point blade __. 8\n49-190-1:7.5 =25.222 m/12.611 m\n49-190-1:9 = 27.138 m/1 0.523 m\n49-300-1 :9 = 33.230 m/16.615 m\nnormal turntable = D\nfor axle turntable 2-3 m, for carriage turntable 3.5-10.0 m, for\nlocomotive turntable 12.5-23.0 m .\nTraversers\nSize= minimum axle spacing of the carriage to be pushed + 0.5 m\n\ne\n\nSimple points\nRAILWAYS\n\n_ _ _ _ _-'1\n-=.J\n\nbuffers\n\n~-0\n~\n\ntrack weighbridge\n\nloading gauge\n\nf) Drawing symbols\n\n8\n\nset of points with outside curve,\nremotely controlled\n\nrz<::C\n\nI\ndouble set of point, remotely\ncontrolled\n\nTracks\nFreight transport\nStations\nStation buildings\nPlatforms\nPlatform furniture\n\ndouble slip points, remotely\ncontrolled\n\nLayout of points\n\n---+----<0~\nsimple set of points, hand operated\nSet of\npoints\nABW49\nEW49\nEW49\nDKW49\nDW49\n\n0 Oblique crossing (wheel guide as example diameter 8- 4:))\n\ne\n\nRadius Pitch\nratio\n(m)\n215\n1:4.8\n1:7.5\n190\n190\n1:9\n190\n1:9\n1:9r/1:91\n190\n\nOverall\nlength (m)\n22.100\n30.039\n27.138\n33.230\n37.661\n\nDimensions for sets of points\n\ndouble slip points, locally operated\n\n===-Y/11\ncrossing\n\n8 Drawing symbols\n\nUIA\n\n=\n\n409\n\n\f"
+        },
+        {
+          "label": "Overall point-set length",
+          "value": 37.661,
+          "value_max": null,
+          "unit": "m",
+          "context": "DW 49 entry in dimensions table.",
+          "status": "verified",
+          "ocr_raw": "normal track\nlayout for\nrolling stock\nwith an axle\nbase of 4.5m\n\nnormal track layout for rolling stock with\nan axle base of 4.5m (suitable for virtually\nall rolling stock)\n\nRAILWAYS\nTracks\n\nnormal track layout for rolling stock with\nan axle base under 4.5m (not suitable for\nall rolling stock)\nfalling track with R <100m\n\nfalling track for rolling stock with only two\naxles, 6.5-8.0 m axle base\nfalling track for rolling stock with only two axles,\nup to 6.5 m axle base or wagons with bogies\n\nradii under 100m should be avoided where\npossible on all new construction work\n\n0 Track radius (turnability) of the connecting tracks\n\nIf 100m >R G:35 m, carriages should if possible only be pulled;\nwith radius >130 m not all carriage types can any longer be\ndriven.\n\nI outer rail head\nh\n\ninner rail head\n\noffset rail\nor track\ncentre·line\n\nCurved radii (to track centre-line) = R\nmain lines, direct main tracks ............................................ G:300 m\nstation tracks ..................................................................... ;;;; 180 m\nbranch lines with main line rolling stock ............................ G:180 m\nwithout main line rolling stock ........................................... G:100 m\nsidings used by main line engines ..................................... G:140 m\nsidings not used by main line engines, preferably ............ G:1 00 m\nminimum .............................................................................. G:35 m\n\n}\ntn-J\nI\n\n' II\nI\n/'.\n/ ongmal\n\n/\n\nRadii for narrow-gauge railways\nfor 1.00 m gauge track .................................................... R G:50 m\nfor 0.75 m gauge track .................................................... R G:40 m\nfor 0.60 m gauge track .................................................... R G:25 m\nFor tracks to be used at greater than shunting speed, a transitional\nsection of curve must be installed between the straight section and\nthe circular arc with radius R, with the curvature of the transition\ncurve increasing constantly from 1: = up to 1: R __. f). Circular\ncurves may have to be canted in order to keep the centrifugal\nforce arising when travelling round the curve within reasonable\nbounds (~0.65 m/sec). Canted curves and transition curves should\ncoincide.\n\nA\n\nf------- 1/2\nf-------\n\nV2\n\n--j\n\nFor details, see German Railways combined guideline KoRil 820/1.\n\n--l\n\n8 Track cant ramp and transition curve\nR\n180-200\n\nI\n40\n\n250-350\n\n30\n\n400-2000\n\n20\n\ne\n\nm\n0.370\n0.333\n0.1150\n0.107\n0.012\n0.008\n\nRamp gradient\n1:320\n1:320\n1:300\n1:400\n1:310\n1: 1300\n\nBranch lines and normal sidings (m)\nwheel guide\n\nPoints\nSets of points are characterised according to the shape of the\nrail, the turning track radius and the inclination of the frog, e.g.\n49-190-1 :9.\nonly use the points for carriages up to the limit sign __. 0\nspacing of the track centreline at the warning sign G:3.5 m\npoint length I length of the point blade __. 8\n49-190-1:7.5 =25.222 m/12.611 m\n49-190-1:9 = 27.138 m/1 0.523 m\n49-300-1 :9 = 33.230 m/16.615 m\nnormal turntable = D\nfor axle turntable 2-3 m, for carriage turntable 3.5-10.0 m, for\nlocomotive turntable 12.5-23.0 m .\nTraversers\nSize= minimum axle spacing of the carriage to be pushed + 0.5 m\n\ne\n\nSimple points\nRAILWAYS\n\n_ _ _ _ _-'1\n-=.J\n\nbuffers\n\n~-0\n~\n\ntrack weighbridge\n\nloading gauge\n\nf) Drawing symbols\n\n8\n\nset of points with outside curve,\nremotely controlled\n\nrz<::C\n\nI\ndouble set of point, remotely\ncontrolled\n\nTracks\nFreight transport\nStations\nStation buildings\nPlatforms\nPlatform furniture\n\ndouble slip points, remotely\ncontrolled\n\nLayout of points\n\n---+----<0~\nsimple set of points, hand operated\nSet of\npoints\nABW49\nEW49\nEW49\nDKW49\nDW49\n\n0 Oblique crossing (wheel guide as example diameter 8- 4:))\n\ne\n\nRadius Pitch\nratio\n(m)\n215\n1:4.8\n1:7.5\n190\n190\n1:9\n190\n1:9\n1:9r/1:91\n190\n\nOverall\nlength (m)\n22.100\n30.039\n27.138\n33.230\n37.661\n\nDimensions for sets of points\n\ndouble slip points, locally operated\n\n===-Y/11\ncrossing\n\n8 Drawing symbols\n\nUIA\n\n=\n\n409\n\n\f"
+        }
+      ],
+      "figure_refs": [
+        "4 Simple points",
+        "5 Layout of points",
+        "6 Oblique crossing",
+        "7 Drawing symbols",
+        "8 Dimensions for sets of points",
+        "9 Drawing symbols"
+      ],
+      "cross_refs": [
+        "Figure 5: limit sign",
+        "Figure 8: point length / length of the point blade"
+      ],
+      "keywords": [
+        "railway points",
+        "switches",
+        "crossings",
+        "turntables",
+        "traversers",
+        "track spacing",
+        "point radius"
+      ],
+      "tags_architectural": [
+        "circulation",
+        "clearance",
+        "safety"
+      ],
+      "confidence": 0.86
+    }
+  ]
+}

@@ -1,0 +1,408 @@
+{
+  "fichas": [
+    {
+      "id": "4122fb96e4bd1976-239-vision-0",
+      "pdf_page": 239,
+      "book_page": 226,
+      "chapter": "CULTURAL VENUES",
+      "section": "Cinemas",
+      "title": "Drive-in cinemas",
+      "summary": "Drive-in cinema layouts use curved, sloping ramps to raise the front of cars and maintain rear-seat sightlines to the screen. The page describes site access, ticketing, screen placement and construction, projection facilities, in-car sound, heating, and supporting amenities. A fan-shaped layout and a double-screen arrangement are illustrated.",
+      "building_type": "Drive-in cinema",
+      "spaces": [
+        "Screen and projection surface",
+        "Sloping parking ramps",
+        "Entrance road and waiting area",
+        "Exit roads",
+        "Ticket counter",
+        "Projection building and projection room",
+        "Snack bar",
+        "Children's play area",
+        "Rows of seats"
+      ],
+      "uses": [
+        "Screen films to audiences seated in cars",
+        "Provide vehicle access, ticket checking, and circulation",
+        "Provide sound and optional heating to parked cars"
+      ],
+      "furniture_equipment": [
+        "Projectors",
+        "Generators",
+        "Sound amplification system",
+        "Loudspeakers and loudspeaker posts",
+        "Ticket counter",
+        "Snack bar"
+      ],
+      "dimensions": [
+        {
+          "label": "Typical car capacity",
+          "value": 450.0,
+          "value_max": 500.0,
+          "unit": "cars",
+          "context": "Stated as the normal size range for a drive-in cinema.",
+          "status": "verified",
+          "ocr_raw": "Normal is 450-500 cars"
+        },
+        {
+          "label": "Car capacity",
+          "value": 1000.0,
+          "value_max": 1300.0,
+          "unit": "cars",
+          "context": "Stated as the range up to which size is limited by ramps and number of cars while maintaining a good view.",
+          "status": "verified",
+          "ocr_raw": "CINEMAS\nt--out\n\nDrive-in Cinemas\n\nDrive-in cinemas, where the audience do not\nhave to leave their cars.\nThe size is limited by ramps, number of cars\n~1 000-1300, while still ensuring a good\nview. Normal is 450-500 cars ---> 0.\n\n. . .\n~~~{:pea~~~\n.. . .. .\n\nCars\n\nNo. ramps\n\nScreen to back edge of\nramp(m)\n\n500\n\n10\n\n155\n\n586\n\n11\n\n170\n\n670\n\n12\n\n180\n\n778\n\n13\n\n195\n\n886\n\n14\n\n210\n\n1000\n\n15\n\n225\n\n•('\n\nt--out\nCINEMAS\nProjection\nAuditorium\nMultiplex cinemas\nDrive\"in\ncinemas\n\nLocation: on the motorway, near petrol\nstations and services, with screening so that\nlight and sound do not distract passing traffic.\n\nRamps are curved and sloping in order\nto lift the front of the cars, so back seat\npassengers also have a good view of the\nscreen---> e.\n\n0 Drive-in cinema in a fan shape with inclined ramps and low projection cabin,\nwhich only takes up two rows\n\n..\n\nline of sight from rear seat to lower edge of screen\n\n·~ ~.=~~-~-~.~.----------;--~~~:~----I\n· · · · ·'· ·.·.·.· · · · 'l'... ~=-1~·············'·'·'~\npos=\nand electrical heating\n\n7.60\n\n90+-- 3.00\n\n··\n\n1--------11.50----------1\n\nEntrance road: with waiting area, in order to\navoid backing up of traffic on the road. Drivepast ticket counter, so that tickets from the\ncars can be checked ---> 0.\nExit: ideally after leaving the ramp forwards.\nDetailing of the entire area to avoid dust and\nskidding in wet weather.\n\nf) Ramp arrangement and dimensions: elevations can be different according to screen picture height\n\nTicket counter: one counter for 300 cars;\ntwo for 600; three for 800; four for 1000.\nScreen: depends on the number of cars: for\n650 cars 14.50 x 11.30 m; for 950 cars 17.0\nx 13.0 m. Ideally facing east or north, which\nenables earlier performances. For the Central\nEuropean latitude, the screen is better\ninstalled in a solid, permanent structure.\n\nCinema screen in the Billbrook drive-in\ncinema near Hamburg: 36 m high x 15.5 m\nwide. Height above ground level depends\non ramp gradient and sight angle. Screen\ntilted upward avoids distortion. Scaffolding\nand screen must be able to bear wind\nloading.\nRows of seats should be provided, and a\nplay area for children is also a good idea.\n;\n0\n\nProjection building: mostly central, at a\ndistance of 100 m from the screen.\nProjection room contains projectors,\ngenerators, sound amplification system.\n\nentrance\n\nf) Double cinema. One projection room for both screens, with the possibility of staggered starting times. All\nother areas (cash desks, bar, toilets etc.) are common\n\n226\n\nSound reproduction ideally has loudspeakers\ninside the cars; the loudspeakers are\nattached to a post for every two cars at 5.0\nm separation and are attached inside the cars\nby the visitors.\nHeating: on loudspeaker posts, possibly\nalso a connection for heating in the cars.\n\n\f"
+        },
+        {
+          "label": "Cars",
+          "value": 500.0,
+          "value_max": null,
+          "unit": "cars",
+          "context": "Table row paired with 10 ramps and 155 m from screen to back edge of ramp.",
+          "status": "verified",
+          "ocr_raw": "500"
+        },
+        {
+          "label": "Number of ramps",
+          "value": 10.0,
+          "value_max": null,
+          "unit": "ramps",
+          "context": "Table row for 500 cars.",
+          "status": "verified",
+          "ocr_raw": "10"
+        },
+        {
+          "label": "Screen to back edge of ramp",
+          "value": 155.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Table row for 500 cars and 10 ramps.",
+          "status": "verified",
+          "ocr_raw": "155"
+        },
+        {
+          "label": "Cars",
+          "value": 586.0,
+          "value_max": null,
+          "unit": "cars",
+          "context": "Table row paired with 11 ramps and 170 m from screen to back edge of ramp.",
+          "status": "verified",
+          "ocr_raw": "586"
+        },
+        {
+          "label": "Number of ramps",
+          "value": 11.0,
+          "value_max": null,
+          "unit": "ramps",
+          "context": "Table row for 586 cars.",
+          "status": "verified",
+          "ocr_raw": "11"
+        },
+        {
+          "label": "Screen to back edge of ramp",
+          "value": 170.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Table row for 586 cars and 11 ramps.",
+          "status": "verified",
+          "ocr_raw": "170"
+        },
+        {
+          "label": "Cars",
+          "value": 670.0,
+          "value_max": null,
+          "unit": "cars",
+          "context": "Table row paired with 12 ramps and 180 m from screen to back edge of ramp.",
+          "status": "verified",
+          "ocr_raw": "670"
+        },
+        {
+          "label": "Number of ramps",
+          "value": 12.0,
+          "value_max": null,
+          "unit": "ramps",
+          "context": "Table row for 670 cars.",
+          "status": "verified",
+          "ocr_raw": "12"
+        },
+        {
+          "label": "Screen to back edge of ramp",
+          "value": 180.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Table row for 670 cars and 12 ramps.",
+          "status": "verified",
+          "ocr_raw": "180"
+        },
+        {
+          "label": "Cars",
+          "value": 778.0,
+          "value_max": null,
+          "unit": "cars",
+          "context": "Table row paired with 13 ramps and 195 m from screen to back edge of ramp.",
+          "status": "verified",
+          "ocr_raw": "778"
+        },
+        {
+          "label": "Number of ramps",
+          "value": 13.0,
+          "value_max": null,
+          "unit": "ramps",
+          "context": "Table row for 778 cars.",
+          "status": "verified",
+          "ocr_raw": "13"
+        },
+        {
+          "label": "Screen to back edge of ramp",
+          "value": 195.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Table row for 778 cars and 13 ramps.",
+          "status": "verified",
+          "ocr_raw": "195"
+        },
+        {
+          "label": "Cars",
+          "value": 886.0,
+          "value_max": null,
+          "unit": "cars",
+          "context": "Table row paired with 14 ramps and 210 m from screen to back edge of ramp.",
+          "status": "verified",
+          "ocr_raw": "886"
+        },
+        {
+          "label": "Number of ramps",
+          "value": 14.0,
+          "value_max": null,
+          "unit": "ramps",
+          "context": "Table row for 886 cars.",
+          "status": "verified",
+          "ocr_raw": "14"
+        },
+        {
+          "label": "Screen to back edge of ramp",
+          "value": 210.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Table row for 886 cars and 14 ramps.",
+          "status": "verified",
+          "ocr_raw": "210"
+        },
+        {
+          "label": "Cars",
+          "value": 1000.0,
+          "value_max": null,
+          "unit": "cars",
+          "context": "Table row paired with 15 ramps and 225 m from screen to back edge of ramp.",
+          "status": "verified",
+          "ocr_raw": "1000"
+        },
+        {
+          "label": "Number of ramps",
+          "value": 15.0,
+          "value_max": null,
+          "unit": "ramps",
+          "context": "Table row for 1000 cars.",
+          "status": "verified",
+          "ocr_raw": "15"
+        },
+        {
+          "label": "Screen to back edge of ramp",
+          "value": 225.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Table row for 1000 cars and 15 ramps.",
+          "status": "verified",
+          "ocr_raw": "225"
+        },
+        {
+          "label": "Ticket counter capacity",
+          "value": 300.0,
+          "value_max": null,
+          "unit": "cars per counter",
+          "context": "One counter is suggested per stated number of cars; the text also gives two counters for 600, three for 800, and four for 1000 cars.",
+          "status": "verified",
+          "ocr_raw": "Ticket counter: one counter for 300 cars;\ntwo for 600; three for 800; four for 1000."
+        },
+        {
+          "label": "Screen width",
+          "value": 14.5,
+          "value_max": null,
+          "unit": "m",
+          "context": "Screen size stated for a 650-car cinema; the other dimension is 11.30 m.",
+          "status": "verified",
+          "ocr_raw": "for\n650 cars 14.50 x 11.30 m"
+        },
+        {
+          "label": "Screen height",
+          "value": 11.3,
+          "value_max": null,
+          "unit": "m",
+          "context": "Screen size stated for a 650-car cinema; the other dimension is 14.50 m.",
+          "status": "verified",
+          "ocr_raw": "for\n650 cars 14.50 x 11.30 m"
+        },
+        {
+          "label": "Screen width",
+          "value": 17.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Screen size stated for a 950-car cinema; the other dimension is 13.0 m.",
+          "status": "verified",
+          "ocr_raw": "CINEMAS\nt--out\n\nDrive-in Cinemas\n\nDrive-in cinemas, where the audience do not\nhave to leave their cars.\nThe size is limited by ramps, number of cars\n~1 000-1300, while still ensuring a good\nview. Normal is 450-500 cars ---> 0.\n\n. . .\n~~~{:pea~~~\n.. . .. .\n\nCars\n\nNo. ramps\n\nScreen to back edge of\nramp(m)\n\n500\n\n10\n\n155\n\n586\n\n11\n\n170\n\n670\n\n12\n\n180\n\n778\n\n13\n\n195\n\n886\n\n14\n\n210\n\n1000\n\n15\n\n225\n\n•('\n\nt--out\nCINEMAS\nProjection\nAuditorium\nMultiplex cinemas\nDrive\"in\ncinemas\n\nLocation: on the motorway, near petrol\nstations and services, with screening so that\nlight and sound do not distract passing traffic.\n\nRamps are curved and sloping in order\nto lift the front of the cars, so back seat\npassengers also have a good view of the\nscreen---> e.\n\n0 Drive-in cinema in a fan shape with inclined ramps and low projection cabin,\nwhich only takes up two rows\n\n..\n\nline of sight from rear seat to lower edge of screen\n\n·~ ~.=~~-~-~.~.----------;--~~~:~----I\n· · · · ·'· ·.·.·.· · · · 'l'... ~=-1~·············'·'·'~\npos=\nand electrical heating\n\n7.60\n\n90+-- 3.00\n\n··\n\n1--------11.50----------1\n\nEntrance road: with waiting area, in order to\navoid backing up of traffic on the road. Drivepast ticket counter, so that tickets from the\ncars can be checked ---> 0.\nExit: ideally after leaving the ramp forwards.\nDetailing of the entire area to avoid dust and\nskidding in wet weather.\n\nf) Ramp arrangement and dimensions: elevations can be different according to screen picture height\n\nTicket counter: one counter for 300 cars;\ntwo for 600; three for 800; four for 1000.\nScreen: depends on the number of cars: for\n650 cars 14.50 x 11.30 m; for 950 cars 17.0\nx 13.0 m. Ideally facing east or north, which\nenables earlier performances. For the Central\nEuropean latitude, the screen is better\ninstalled in a solid, permanent structure.\n\nCinema screen in the Billbrook drive-in\ncinema near Hamburg: 36 m high x 15.5 m\nwide. Height above ground level depends\non ramp gradient and sight angle. Screen\ntilted upward avoids distortion. Scaffolding\nand screen must be able to bear wind\nloading.\nRows of seats should be provided, and a\nplay area for children is also a good idea.\n;\n0\n\nProjection building: mostly central, at a\ndistance of 100 m from the screen.\nProjection room contains projectors,\ngenerators, sound amplification system.\n\nentrance\n\nf) Double cinema. One projection room for both screens, with the possibility of staggered starting times. All\nother areas (cash desks, bar, toilets etc.) are common\n\n226\n\nSound reproduction ideally has loudspeakers\ninside the cars; the loudspeakers are\nattached to a post for every two cars at 5.0\nm separation and are attached inside the cars\nby the visitors.\nHeating: on loudspeaker posts, possibly\nalso a connection for heating in the cars.\n\n\f"
+        },
+        {
+          "label": "Screen height",
+          "value": 13.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Screen size stated for a 950-car cinema; the other dimension is 17.0 m.",
+          "status": "verified",
+          "ocr_raw": "CINEMAS\nt--out\n\nDrive-in Cinemas\n\nDrive-in cinemas, where the audience do not\nhave to leave their cars.\nThe size is limited by ramps, number of cars\n~1 000-1300, while still ensuring a good\nview. Normal is 450-500 cars ---> 0.\n\n. . .\n~~~{:pea~~~\n.. . .. .\n\nCars\n\nNo. ramps\n\nScreen to back edge of\nramp(m)\n\n500\n\n10\n\n155\n\n586\n\n11\n\n170\n\n670\n\n12\n\n180\n\n778\n\n13\n\n195\n\n886\n\n14\n\n210\n\n1000\n\n15\n\n225\n\n•('\n\nt--out\nCINEMAS\nProjection\nAuditorium\nMultiplex cinemas\nDrive\"in\ncinemas\n\nLocation: on the motorway, near petrol\nstations and services, with screening so that\nlight and sound do not distract passing traffic.\n\nRamps are curved and sloping in order\nto lift the front of the cars, so back seat\npassengers also have a good view of the\nscreen---> e.\n\n0 Drive-in cinema in a fan shape with inclined ramps and low projection cabin,\nwhich only takes up two rows\n\n..\n\nline of sight from rear seat to lower edge of screen\n\n·~ ~.=~~-~-~.~.----------;--~~~:~----I\n· · · · ·'· ·.·.·.· · · · 'l'... ~=-1~·············'·'·'~\npos=\nand electrical heating\n\n7.60\n\n90+-- 3.00\n\n··\n\n1--------11.50----------1\n\nEntrance road: with waiting area, in order to\navoid backing up of traffic on the road. Drivepast ticket counter, so that tickets from the\ncars can be checked ---> 0.\nExit: ideally after leaving the ramp forwards.\nDetailing of the entire area to avoid dust and\nskidding in wet weather.\n\nf) Ramp arrangement and dimensions: elevations can be different according to screen picture height\n\nTicket counter: one counter for 300 cars;\ntwo for 600; three for 800; four for 1000.\nScreen: depends on the number of cars: for\n650 cars 14.50 x 11.30 m; for 950 cars 17.0\nx 13.0 m. Ideally facing east or north, which\nenables earlier performances. For the Central\nEuropean latitude, the screen is better\ninstalled in a solid, permanent structure.\n\nCinema screen in the Billbrook drive-in\ncinema near Hamburg: 36 m high x 15.5 m\nwide. Height above ground level depends\non ramp gradient and sight angle. Screen\ntilted upward avoids distortion. Scaffolding\nand screen must be able to bear wind\nloading.\nRows of seats should be provided, and a\nplay area for children is also a good idea.\n;\n0\n\nProjection building: mostly central, at a\ndistance of 100 m from the screen.\nProjection room contains projectors,\ngenerators, sound amplification system.\n\nentrance\n\nf) Double cinema. One projection room for both screens, with the possibility of staggered starting times. All\nother areas (cash desks, bar, toilets etc.) are common\n\n226\n\nSound reproduction ideally has loudspeakers\ninside the cars; the loudspeakers are\nattached to a post for every two cars at 5.0\nm separation and are attached inside the cars\nby the visitors.\nHeating: on loudspeaker posts, possibly\nalso a connection for heating in the cars.\n\n\f"
+        },
+        {
+          "label": "Screen height",
+          "value": 36.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Billbrook drive-in cinema near Hamburg; the text then gives a width of 15.5 m.",
+          "status": "verified",
+          "ocr_raw": "CINEMAS\nt--out\n\nDrive-in Cinemas\n\nDrive-in cinemas, where the audience do not\nhave to leave their cars.\nThe size is limited by ramps, number of cars\n~1 000-1300, while still ensuring a good\nview. Normal is 450-500 cars ---> 0.\n\n. . .\n~~~{:pea~~~\n.. . .. .\n\nCars\n\nNo. ramps\n\nScreen to back edge of\nramp(m)\n\n500\n\n10\n\n155\n\n586\n\n11\n\n170\n\n670\n\n12\n\n180\n\n778\n\n13\n\n195\n\n886\n\n14\n\n210\n\n1000\n\n15\n\n225\n\n•('\n\nt--out\nCINEMAS\nProjection\nAuditorium\nMultiplex cinemas\nDrive\"in\ncinemas\n\nLocation: on the motorway, near petrol\nstations and services, with screening so that\nlight and sound do not distract passing traffic.\n\nRamps are curved and sloping in order\nto lift the front of the cars, so back seat\npassengers also have a good view of the\nscreen---> e.\n\n0 Drive-in cinema in a fan shape with inclined ramps and low projection cabin,\nwhich only takes up two rows\n\n..\n\nline of sight from rear seat to lower edge of screen\n\n·~ ~.=~~-~-~.~.----------;--~~~:~----I\n· · · · ·'· ·.·.·.· · · · 'l'... ~=-1~·············'·'·'~\npos=\nand electrical heating\n\n7.60\n\n90+-- 3.00\n\n··\n\n1--------11.50----------1\n\nEntrance road: with waiting area, in order to\navoid backing up of traffic on the road. Drivepast ticket counter, so that tickets from the\ncars can be checked ---> 0.\nExit: ideally after leaving the ramp forwards.\nDetailing of the entire area to avoid dust and\nskidding in wet weather.\n\nf) Ramp arrangement and dimensions: elevations can be different according to screen picture height\n\nTicket counter: one counter for 300 cars;\ntwo for 600; three for 800; four for 1000.\nScreen: depends on the number of cars: for\n650 cars 14.50 x 11.30 m; for 950 cars 17.0\nx 13.0 m. Ideally facing east or north, which\nenables earlier performances. For the Central\nEuropean latitude, the screen is better\ninstalled in a solid, permanent structure.\n\nCinema screen in the Billbrook drive-in\ncinema near Hamburg: 36 m high x 15.5 m\nwide. Height above ground level depends\non ramp gradient and sight angle. Screen\ntilted upward avoids distortion. Scaffolding\nand screen must be able to bear wind\nloading.\nRows of seats should be provided, and a\nplay area for children is also a good idea.\n;\n0\n\nProjection building: mostly central, at a\ndistance of 100 m from the screen.\nProjection room contains projectors,\ngenerators, sound amplification system.\n\nentrance\n\nf) Double cinema. One projection room for both screens, with the possibility of staggered starting times. All\nother areas (cash desks, bar, toilets etc.) are common\n\n226\n\nSound reproduction ideally has loudspeakers\ninside the cars; the loudspeakers are\nattached to a post for every two cars at 5.0\nm separation and are attached inside the cars\nby the visitors.\nHeating: on loudspeaker posts, possibly\nalso a connection for heating in the cars.\n\n\f"
+        },
+        {
+          "label": "Screen width",
+          "value": 15.5,
+          "value_max": null,
+          "unit": "m",
+          "context": "Billbrook drive-in cinema near Hamburg; the text gives a height of 36 m.",
+          "status": "verified",
+          "ocr_raw": "CINEMAS\nt--out\n\nDrive-in Cinemas\n\nDrive-in cinemas, where the audience do not\nhave to leave their cars.\nThe size is limited by ramps, number of cars\n~1 000-1300, while still ensuring a good\nview. Normal is 450-500 cars ---> 0.\n\n. . .\n~~~{:pea~~~\n.. . .. .\n\nCars\n\nNo. ramps\n\nScreen to back edge of\nramp(m)\n\n500\n\n10\n\n155\n\n586\n\n11\n\n170\n\n670\n\n12\n\n180\n\n778\n\n13\n\n195\n\n886\n\n14\n\n210\n\n1000\n\n15\n\n225\n\n•('\n\nt--out\nCINEMAS\nProjection\nAuditorium\nMultiplex cinemas\nDrive\"in\ncinemas\n\nLocation: on the motorway, near petrol\nstations and services, with screening so that\nlight and sound do not distract passing traffic.\n\nRamps are curved and sloping in order\nto lift the front of the cars, so back seat\npassengers also have a good view of the\nscreen---> e.\n\n0 Drive-in cinema in a fan shape with inclined ramps and low projection cabin,\nwhich only takes up two rows\n\n..\n\nline of sight from rear seat to lower edge of screen\n\n·~ ~.=~~-~-~.~.----------;--~~~:~----I\n· · · · ·'· ·.·.·.· · · · 'l'... ~=-1~·············'·'·'~\npos=\nand electrical heating\n\n7.60\n\n90+-- 3.00\n\n··\n\n1--------11.50----------1\n\nEntrance road: with waiting area, in order to\navoid backing up of traffic on the road. Drivepast ticket counter, so that tickets from the\ncars can be checked ---> 0.\nExit: ideally after leaving the ramp forwards.\nDetailing of the entire area to avoid dust and\nskidding in wet weather.\n\nf) Ramp arrangement and dimensions: elevations can be different according to screen picture height\n\nTicket counter: one counter for 300 cars;\ntwo for 600; three for 800; four for 1000.\nScreen: depends on the number of cars: for\n650 cars 14.50 x 11.30 m; for 950 cars 17.0\nx 13.0 m. Ideally facing east or north, which\nenables earlier performances. For the Central\nEuropean latitude, the screen is better\ninstalled in a solid, permanent structure.\n\nCinema screen in the Billbrook drive-in\ncinema near Hamburg: 36 m high x 15.5 m\nwide. Height above ground level depends\non ramp gradient and sight angle. Screen\ntilted upward avoids distortion. Scaffolding\nand screen must be able to bear wind\nloading.\nRows of seats should be provided, and a\nplay area for children is also a good idea.\n;\n0\n\nProjection building: mostly central, at a\ndistance of 100 m from the screen.\nProjection room contains projectors,\ngenerators, sound amplification system.\n\nentrance\n\nf) Double cinema. One projection room for both screens, with the possibility of staggered starting times. All\nother areas (cash desks, bar, toilets etc.) are common\n\n226\n\nSound reproduction ideally has loudspeakers\ninside the cars; the loudspeakers are\nattached to a post for every two cars at 5.0\nm separation and are attached inside the cars\nby the visitors.\nHeating: on loudspeaker posts, possibly\nalso a connection for heating in the cars.\n\n\f"
+        },
+        {
+          "label": "Projection building distance from screen",
+          "value": 100.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Projection building is described as mostly central, at this distance from the screen.",
+          "status": "verified",
+          "ocr_raw": "at a\ndistance of 100 m from the screen"
+        },
+        {
+          "label": "Loudspeaker post separation",
+          "value": 5.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Posts are specified for every two cars, with this separation.",
+          "status": "verified",
+          "ocr_raw": "for every two cars at 5.0\nm separation"
+        },
+        {
+          "label": "Diagram dimension",
+          "value": 7.6,
+          "value_max": null,
+          "unit": "m",
+          "context": "Dimension shown in the ramp-arrangement elevation; its exact endpoints are not identified in the text.",
+          "status": "verified",
+          "ocr_raw": "7.60"
+        },
+        {
+          "label": "Diagram dimension",
+          "value": 11.5,
+          "value_max": null,
+          "unit": "m",
+          "context": "Dimension shown in the ramp-arrangement elevation; its exact endpoints are not identified in the text.",
+          "status": "verified",
+          "ocr_raw": "11.50"
+        },
+        {
+          "label": "Diagram dimension",
+          "value": 90.0,
+          "value_max": null,
+          "unit": "degrees",
+          "context": "Angle annotation shown in the ramp-arrangement elevation; OCR renders the mark as “90+”.",
+          "status": "verified",
+          "ocr_raw": "90+"
+        },
+        {
+          "label": "Diagram dimension",
+          "value": 3.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Dimension shown in the ramp-arrangement elevation; its exact endpoints are not identified in the text.",
+          "status": "verified",
+          "ocr_raw": "3.00"
+        }
+      ],
+      "figure_refs": [
+        "1 Drive-in cinema in a fan shape with inclined ramps and low projection cabin",
+        "2 Ramp arrangement and dimensions",
+        "3 Double cinema"
+      ],
+      "cross_refs": [],
+      "keywords": [
+        "drive-in cinema",
+        "cinema",
+        "ramps",
+        "car parking",
+        "screen",
+        "projection",
+        "loudspeakers",
+        "ticket counter"
+      ],
+      "tags_architectural": [
+        "circulation",
+        "safety",
+        "accessibility"
+      ],
+      "confidence": 0.91
+    },
+    {
+      "id": "4122fb96e4bd1976-239-vision-1",
+      "pdf_page": 239,
+      "book_page": 226,
+      "chapter": "CULTURAL VENUES",
+      "section": "Cinemas",
+      "title": "Double drive-in cinema",
+      "summary": "The illustrated double cinema serves two screens from one projection room, allowing staggered starting times. Shared facilities include cash desks, a bar, and toilets; the plan also shows separate projection surfaces, car ramps, waiting areas, and a central entrance and ticket office.",
+      "building_type": "Double-screen drive-in cinema",
+      "spaces": [
+        "Two projection surfaces",
+        "Shared projection room",
+        "Car parking ramps",
+        "Entrance",
+        "Ticket office",
+        "Waiting areas",
+        "Cash desks",
+        "Bar",
+        "Toilets"
+      ],
+      "uses": [
+        "Show films on two screens, with the option of staggered starting times",
+        "Share support facilities between both cinema areas"
+      ],
+      "furniture_equipment": [
+        "Projectors",
+        "Cash desks",
+        "Bar equipment",
+        "Toilets"
+      ],
+      "dimensions": [],
+      "figure_refs": [
+        "3 Double cinema. One projection room for both screens, with the possibility of staggered starting times. All other areas (cash desks, bar, toilets etc.) are common"
+      ],
+      "cross_refs": [],
+      "keywords": [
+        "double cinema",
+        "drive-in cinema",
+        "two screens",
+        "shared facilities",
+        "projection room",
+        "staggered starting times"
+      ],
+      "tags_architectural": [
+        "circulation",
+        "adaptability"
+      ],
+      "confidence": 0.94
+    }
+  ]
+}

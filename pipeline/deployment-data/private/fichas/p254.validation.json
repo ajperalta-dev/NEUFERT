@@ -1,0 +1,151 @@
+{
+  "model": "gpt-6-luna",
+  "checks": {
+    "checks": [
+      {
+        "ficha_index": 0,
+        "dimension_index": 0,
+        "status": "verified",
+        "value": null,
+        "value_max": null,
+        "reason": "The text states a room depth of about 7.00 m."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 1,
+        "status": "verified",
+        "value": null,
+        "value_max": null,
+        "reason": "The text states that every point must be \u226435 m from a staircase."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 2,
+        "status": "verified",
+        "value": null,
+        "value_max": null,
+        "reason": "The text states spacing of the staircases from the building end of 30 m."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 3,
+        "status": "verified",
+        "value": null,
+        "value_max": null,
+        "reason": "The text states spacing of 60 m between staircases."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 4,
+        "status": "verified",
+        "value": null,
+        "value_max": null,
+        "reason": "The text states less than 400 m\u00b2; the proposed threshold and unit agree."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 5,
+        "status": "verified",
+        "value": null,
+        "value_max": null,
+        "reason": "The text explicitly states 90% of office buildings in the USA."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 6,
+        "status": "uncertain",
+        "value": null,
+        "value_max": null,
+        "reason": "The drawings show 30.00 labels, but do not visibly specify a unit."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 7,
+        "status": "uncertain",
+        "value": null,
+        "value_max": null,
+        "reason": "The drawing shows a 60.00 label, but does not visibly specify a unit."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 8,
+        "status": "uncertain",
+        "value": null,
+        "value_max": null,
+        "reason": "The drawing shows a 100.00 label, but does not visibly specify a unit."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 9,
+        "status": "uncertain",
+        "value": null,
+        "value_max": null,
+        "reason": "The drawings show 35.00 labels, but do not visibly specify a unit."
+      }
+    ]
+  },
+  "automatic": [
+    {
+      "ficha_index": 0,
+      "dimension_index": 0,
+      "issues": []
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 1,
+      "issues": []
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 2,
+      "issues": []
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 3,
+      "issues": []
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 4,
+      "issues": []
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 5,
+      "issues": [
+        "Unknown unit"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 6,
+      "issues": []
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 7,
+      "issues": []
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 8,
+      "issues": []
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 9,
+      "issues": []
+    }
+  ],
+  "usage": [
+    {
+      "prompt_tokens": 4516,
+      "completion_tokens": 1077
+    },
+    {
+      "prompt_tokens": 4169,
+      "completion_tokens": 612
+    }
+  ]
+}

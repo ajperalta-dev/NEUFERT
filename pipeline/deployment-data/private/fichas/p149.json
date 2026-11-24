@@ -1,0 +1,312 @@
+{
+  "fichas": [
+    {
+      "id": "4122fb96e4bd1976-149-vision-0",
+      "pdf_page": 149,
+      "book_page": 136,
+      "chapter": "RESIDENTIAL BUILDINGS",
+      "section": "Basics",
+      "title": "House-building Policy",
+      "summary": "Explains the development of housing as a central construction-industry and political concern, and outlines German housing subsidies, housing-area regulation, and the KfW subsidy programmes described in the source.",
+      "building_type": "Residential buildings",
+      "spaces": [
+        "Houses",
+        "Flats"
+      ],
+      "uses": [
+        "Housing provision",
+        "Subsidised housing construction",
+        "Owner-occupied housing",
+        "Residential building modernisation and energy improvements"
+      ],
+      "furniture_equipment": [],
+      "dimensions": [],
+      "figure_refs": [
+        "1: Limits on the living area in subsidised housing (example)",
+        "2: Rooms included in living area (housing area regulation, excerpt)",
+        "3: Floor area of a room included in living area (housing area regulation, excerpt)",
+        "4: Inclusion of floor areas in the calculation"
+      ],
+      "cross_refs": [
+        "p. 56"
+      ],
+      "keywords": [
+        "house-building policy",
+        "housing subsidy",
+        "housing-area regulation",
+        "KfW",
+        "residential construction"
+      ],
+      "tags_architectural": [],
+      "confidence": 0.95
+    },
+    {
+      "id": "4122fb96e4bd1976-149-vision-1",
+      "pdf_page": 149,
+      "book_page": 136,
+      "chapter": "RESIDENTIAL BUILDINGS",
+      "section": "Basics",
+      "title": "Living-Area Limits in Subsidised Housing",
+      "summary": "An example table gives maximum living areas by household size. It also states an additional allowance for each further household member.",
+      "building_type": "Subsidised housing",
+      "spaces": [
+        "House",
+        "Flat"
+      ],
+      "uses": [
+        "Determine example maximum living areas for subsidised housing"
+      ],
+      "furniture_equipment": [],
+      "dimensions": [
+        {
+          "label": "Maximum living area for 1 person",
+          "value": 50.0,
+          "value_max": null,
+          "unit": "m²",
+          "context": "Subsidised housing example; household size 1 person.",
+          "status": "verified",
+          "ocr_raw": "1 person\n\n50m 2"
+        },
+        {
+          "label": "Maximum living area for 2 persons",
+          "value": 60.0,
+          "value_max": null,
+          "unit": "m²",
+          "context": "Subsidised housing example; household size 2 persons.",
+          "status": "verified",
+          "ocr_raw": "2 persons\n\n60m 2"
+        },
+        {
+          "label": "Maximum living area for 3 persons",
+          "value": 75.0,
+          "value_max": null,
+          "unit": "m²",
+          "context": "Subsidised housing example; household size 3 persons.",
+          "status": "verified",
+          "ocr_raw": "3 persons\n\n75m 2"
+        },
+        {
+          "label": "Maximum living area for 4 persons",
+          "value": 85.0,
+          "value_max": null,
+          "unit": "m²",
+          "context": "Subsidised housing example; household size 4 persons.",
+          "status": "verified",
+          "ocr_raw": "4 persons\n\n85m2"
+        },
+        {
+          "label": "Additional living area per further household member",
+          "value": 10.0,
+          "value_max": 10.0,
+          "unit": "m²",
+          "context": "The living area can be exceeded by a maximum of this amount for each further person belonging to the household.",
+          "status": "verified",
+          "ocr_raw": "for each further person\nbelonging to the household, the\n\nliving area can be exceeded by\nmax. 10m2 ."
+        }
+      ],
+      "figure_refs": [
+        "1: Limits on the living area in subsidised housing (example)"
+      ],
+      "cross_refs": [],
+      "keywords": [
+        "living area",
+        "household size",
+        "subsidised housing",
+        "maximum area"
+      ],
+      "tags_architectural": [
+        "spatial_proportion"
+      ],
+      "confidence": 0.97
+    },
+    {
+      "id": "4122fb96e4bd1976-149-vision-2",
+      "pdf_page": 149,
+      "book_page": 136,
+      "chapter": "RESIDENTIAL BUILDINGS",
+      "section": "Basics",
+      "title": "What Counts as Living Area",
+      "summary": "The housing-area regulation defines living area by rooms belonging exclusively to the dwelling or intended for occupants’ sole use. The excerpt lists included and excluded spaces, including conditions for enclosed conservatories, pools, balconies, loggias and terraces.",
+      "building_type": "House or flat",
+      "spaces": [
+        "Rooms belonging exclusively to the dwelling",
+        "Conservatories",
+        "Swimming pools",
+        "Balconies",
+        "Loggias",
+        "Terraces",
+        "Cellars",
+        "Store rooms",
+        "Attic rooms",
+        "Drying rooms",
+        "Heating rooms",
+        "Garages",
+        "Offices"
+      ],
+      "uses": [
+        "Determine which rooms and ancillary spaces count as living area"
+      ],
+      "furniture_equipment": [],
+      "dimensions": [],
+      "figure_refs": [
+        "2: Rooms included in living area (housing area regulation, excerpt)"
+      ],
+      "cross_refs": [],
+      "keywords": [
+        "housing-area regulation",
+        "living area",
+        "room classification",
+        "ancillary rooms"
+      ],
+      "tags_architectural": [
+        "spatial_proportion"
+      ],
+      "confidence": 0.94
+    },
+    {
+      "id": "4122fb96e4bd1976-149-vision-3",
+      "pdf_page": 149,
+      "book_page": 136,
+      "chapter": "RESIDENTIAL BUILDINGS",
+      "section": "Basics",
+      "title": "Room Floor-Area Measurement and Inclusion",
+      "summary": "Room floor area is determined from the clear space between building components, measured from the face of cladding in the completed room or from a suitable construction drawing. The regulation excerpt lists inclusions and exclusions and gives rules for counting areas according to clear height and type of space.",
+      "building_type": "House or flat",
+      "spaces": [
+        "Rooms",
+        "Door and window niches",
+        "Stairs and landings",
+        "Balconies",
+        "Loggias",
+        "Roof gardens",
+        "Terraces",
+        "Conservatories",
+        "Swimming pools"
+      ],
+      "uses": [
+        "Measure room floor area",
+        "Determine the portion of floor area included in living area"
+      ],
+      "furniture_equipment": [
+        "Built-in furniture",
+        "Permanently installed objects",
+        "Free-standing installations",
+        "Movable room dividers"
+      ],
+      "dimensions": [
+        {
+          "label": "Clear height for full inclusion",
+          "value": 2.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Rooms and parts of rooms with a clear height of at least this amount count completely.",
+          "status": "verified",
+          "ocr_raw": "rooms and parts of rooms with a clear\nheight of at least 2 m"
+        },
+        {
+          "label": "Clear height lower threshold for half inclusion",
+          "value": 1.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Rooms and parts of rooms with a clear height of at least this amount and less than 2 m count as half; the excerpt also names unheated, fully enclosed conservatories and swimming pools.",
+          "status": "verified",
+          "ocr_raw": "rooms and parts of rooms with a clear\nheight of at least 1 m and less than\n2 m, unheated and fully enclosed\nconservatories, swimming pools etc."
+        },
+        {
+          "label": "Pillar height threshold for exclusion",
+          "value": 1.5,
+          "value_max": null,
+          "unit": "m",
+          "context": "Pillars are excluded when they meet the listed height and floor-area criteria.",
+          "status": "verified",
+          "ocr_raw": "pillars (from 1.5 m height and\n0.1 m2 floor area)"
+        },
+        {
+          "label": "Pillar floor-area threshold for exclusion",
+          "value": 0.1,
+          "value_max": null,
+          "unit": "m²",
+          "context": "Pillars are excluded when they meet the listed height and floor-area criteria.",
+          "status": "verified",
+          "ocr_raw": "pillars (from 1.5 m height and\n0.1 m2 floor area)"
+        },
+        {
+          "label": "Stair threshold for exclusion",
+          "value": 3.0,
+          "value_max": null,
+          "unit": "steps",
+          "context": "Stairs and landings from this number of steps are excluded.",
+          "status": "verified",
+          "ocr_raw": "stairs and landings\n(from 3 steps)"
+        },
+        {
+          "label": "Niche depth threshold for exclusion",
+          "value": 0.13,
+          "value_max": null,
+          "unit": "m",
+          "context": "Door, window and wall niches are excluded if they do not reach the floor or are at least this deep.",
+          "status": "verified",
+          "ocr_raw": "BASICS\nHouse-building Policy\n\nBASICS\nDesign basics\nHouse-building\npolicy\n\nThe task of a century\nAmong the changes in society caused by industrialisation,\nsince the middle of the 19th century house building has\ndeveloped into a central activity of the construction industry.\nHousing shortage and mass poverty became a decisive political\ndimension, which still continued into the 20th century due to\nthe World Wars.\n\nHousing area regulation\nThe 'Regulation for the calculation of the housing area' of\n25/11/2003 is used to work out the area of houses and flats for\nthe purpose of the Law to Subsidise House Building. The area of\na house or flat includes the floor area of all rooms which belong\nexclusively to the house or, in the case of a residential home the\nareas intended for the sole use of the owner --1 f).\n\nThe regulation and encouragement of house building is\ntherefore an essential aspect of national construction policy.\nPolitical instruments have been developed in the form of\nplanning laws and building regulations --1 p. 56, intended to\nset minimum standards to protect privacy, avoid danger and\nprotect health.\n\nThe floor area of a room is determined from the clearance space\nbetween building components and starts from the face of the cladding\nof the building component --1 0. The floor area is measured in the\ncompleted room, or can be calculated from a suitable construction\ndrawing. Floor areas are calculated according to --1 0.\n\nLaws to subsidise housing construction and a repeatedly\nmodified system of financial grants and tax exemptions have\nbeen set up to support private investment in rented and owneroccupied housing (property incentives). In consideration of the\ncurrent over-supply of housing and increasing demands in the\nmarket regarding area and quality, the subsidy laws have been\namended in recent years.\n\nThe essential subsidy instruments in Germany are: the Law\nto Subsidise House Building; the state subsidy for house\nbuilding, laid down in the Law to Subsidise Social Housing\nof 13/09/2001. The subsidising of house building includes\nthe new construction of flats with subsidised rents, the new\nconstruction of owner-occupied housing, the purchase and\nrefurbishment of existing houses and the purchase of rights\nof occupancy.\nHousing subsidy is carried out at the state level: the extent of\ngrants, the size details of subsidised houses and application\nconditions can therefore differ from state to state and are laid\ndown in the relevant housing subsidy regulations --1 0. The\ntarget housing subsidy group are households whose income\ndoes not exceed the level stipulated in the laws and regulations,\nand also households with two or more children and households\nwith disabled members. The subsidy is in the form of loans at\npreferential rates, grants, guarantees, housing entitlement\ncertificates and the provision of cheap building land.\nHousehold size\n\nMaximum living area\n\n1 person\n\n50m 2\n\n2 persons\n\n60m 2\n\n3 persons\n\n75m 2\n\n4 persons\n\n85m2\n\nfor each further person\nbelonging to the household, the\n\nliving area can be exceeded by\nmax. 10m2 .\n\n0 Limits on the living area in subsidised housing (example)\nOwner-occupied House Allowance Law\nThis legislation provides for a limited period a subsidy from\ntaxation via a fixed annual allowance for the purchase of\nowner-occupied flats and houses. The target group for this\nallowance is households whose income does not exceed the\nlimits laid down in the law. On account of the current oversupply of housing, the political justification for this law is often\nquestioned.\n\nLiving area includes:\n\nLiving area does not include:\n\nall rooms which belong solely to\n\nsubsidiary rooms (cellars, store rooms,\n\nthe house, or are intended for the\n\ncellar replacement rooms, wash houses,\n\nsole use of the occupants, including\nconservatories, swimming pools, etc.\n(if enclosed on all sides), balconies,\nloggias and terraces\n\nattic rooms, drying rooms, heating\nrooms, garages), rooms which do not\ncorrespond to the requirements of\nplanning law for the relevant use, offices\n\nf) Rooms included in living area (housing area regulation, excerpt)\nfloor area of a room includes:\n\nfloor area of a room does not include:\n\nclear area (from face of cladding)\nbetween building components, including\nthe area of door and window frames,\nskirtings, pennanently installed\nobjects, free-standing installations,\nbuilt-in furniture, movable room dividers\n\nchimneys, masonry cladding,\ncladdings, pillars (from 1.5 m height and\n0.1 m2 floor area), stairs and landings\n(from 3 steps). door niches, window\nand wall niches (which do not reach to\nthe floor or are at least 0.13 em deep),\n\n8 Floor area of a room included in living area (housing area regulation, excerpt)\ncomplete\n\nrooms and parts of rooms with a clear\nheight of at least 2 m\n\nhalf\n\nrooms and parts of rooms with a clear\nheight of at least 1 m and less than\n2 m, unheated and fully enclosed\nconservatories, swimming pools etc.\n\nnormally a quarter. at the highest a half\n\nbalconies, loggias, roof gardens and\nterraces\n\ne\n\nInclusion of floor areas in the calculation\n\nKfW Subsidy Bank\nThe KfW Subsidy Bank is a public body with its capital provided\nby the Federal Republic of Germany and the states. The main\nemphasis of its activity is the provision of favourable loans for the\nencouragement of house building. The subsidies are in the form of\na subsidy programme with fixed aims. Currently (autumn 2008) the\nfollowing programmes are active:\nKfW property programme\nfor the building or purchase of owner-occupied houses and flats.\nEcological building\nfor the construction of passive houses, KfW energy-saving\nhouses and the installation of renewable energy heating systems\nHousing modernisation\nfor the modernisation and repair of residential buildings with\nemphasis on the reduction of energy consumption\nC02 building refurbishment plan\nfor single measures intended to reduce the energy consumption\nof old buildings\nSolar electricity production\nto finance photovoltaic systems on residential buildings\n\n136\n\n\f"
+        }
+      ],
+      "figure_refs": [
+        "3: Floor area of a room included in living area (housing area regulation, excerpt)",
+        "4: Inclusion of floor areas in the calculation"
+      ],
+      "cross_refs": [],
+      "keywords": [
+        "floor area",
+        "clear height",
+        "cladding face",
+        "living-area calculation",
+        "measurement"
+      ],
+      "tags_architectural": [
+        "spatial_proportion"
+      ],
+      "confidence": 0.91
+    },
+    {
+      "id": "4122fb96e4bd1976-149-vision-4",
+      "pdf_page": 149,
+      "book_page": 136,
+      "chapter": "RESIDENTIAL BUILDINGS",
+      "section": "Basics",
+      "title": "KfW Subsidy Bank Programmes",
+      "summary": "Describes the KfW Subsidy Bank as a public body providing favourable loans through targeted programmes for owner-occupied housing, ecological building, housing modernisation, energy refurbishment, and solar electricity production.",
+      "building_type": "Residential buildings",
+      "spaces": [
+        "Owner-occupied houses",
+        "Flats",
+        "Residential buildings"
+      ],
+      "uses": [
+        "Finance construction or purchase of owner-occupied housing",
+        "Support passive houses and energy-saving houses",
+        "Support renewable-energy heating systems",
+        "Modernise and repair residential buildings",
+        "Reduce energy use in existing buildings",
+        "Finance photovoltaic systems"
+      ],
+      "furniture_equipment": [
+        "Photovoltaic systems",
+        "Renewable-energy heating systems"
+      ],
+      "dimensions": [],
+      "figure_refs": [],
+      "cross_refs": [],
+      "keywords": [
+        "KfW",
+        "subsidy programmes",
+        "ecological building",
+        "energy saving",
+        "modernisation",
+        "photovoltaics"
+      ],
+      "tags_architectural": [
+        "adaptability"
+      ],
+      "confidence": 0.95
+    }
+  ]
+}

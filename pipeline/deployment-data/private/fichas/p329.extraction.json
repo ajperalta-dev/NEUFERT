@@ -1,0 +1,295 @@
+{
+  "fichas": [
+    {
+      "id": "4122fb96e4bd1976-329-vision-0",
+      "pdf_page": 329,
+      "book_page": 316,
+      "chapter": "HEALTH",
+      "section": "Hospitals",
+      "title": "Hospital plant and service rooms",
+      "summary": "Planning guidance for hospital building-services areas, including air-conditioning, cooling and recooling plant. Emphasizes efficient routing, hygiene, energy use, maintenance access, safety, and control of noise and vibration.",
+      "building_type": "Hospital",
+      "spaces": [
+        "Central plant room",
+        "Air-conditioning plant area",
+        "Cooling plant room",
+        "Recooling plant room",
+        "Plant and service rooms"
+      ],
+      "uses": [
+        "House building-services equipment",
+        "Provide air-conditioning, cooling and recooling services",
+        "Allow maintenance and repair",
+        "Support hygienic and energy-saving operation"
+      ],
+      "furniture_equipment": [
+        "Air-conditioning equipment",
+        "Chillers",
+        "Expansion vessels",
+        "Cold-water and cooled-water distributors and collectors",
+        "Main pumps",
+        "Control equipment"
+      ],
+      "dimensions": [
+        {
+          "label": "Minimum clear height of central plant room",
+          "value": 3.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Minimum clear height for optimal operation.",
+          "status": "uncertain",
+          "ocr_raw": "The minimum height of a central plant room should be 3 m clear"
+        },
+        {
+          "label": "Central plant room height",
+          "value": 4.0,
+          "value_max": 4.5,
+          "unit": "m",
+          "context": "Height given in relation to the number of functional units.",
+          "status": "uncertain",
+          "ocr_raw": "4-4.5 m following the number of functional units"
+        },
+        {
+          "label": "Air-conditioning equipment estimation air speed",
+          "value": 2.0,
+          "value_max": null,
+          "unit": "m/s",
+          "context": "Speed used to estimate the size of air-conditioning equipment from volume flow.",
+          "status": "uncertain",
+          "ocr_raw": "the size of the air-conditioning equipment can be estimated via the volume flow with a speed of 2 m/s"
+        },
+        {
+          "label": "Cooling plant room height",
+          "value": 3.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Room heights should be more than this figure; may depend on output.",
+          "status": "uncertain",
+          "ocr_raw": "Room heights should be more than 3 m, which may depend on the output."
+        }
+      ],
+      "figure_refs": [],
+      "cross_refs": [],
+      "keywords": [
+        "technical supply",
+        "plant room",
+        "air-conditioning",
+        "cooling",
+        "recooling",
+        "maintenance"
+      ],
+      "tags_architectural": [
+        "circulation",
+        "safety",
+        "ventilation"
+      ],
+      "confidence": 0.98
+    },
+    {
+      "id": "4122fb96e4bd1976-329-vision-1",
+      "pdf_page": 329,
+      "book_page": 316,
+      "chapter": "HEALTH",
+      "section": "Hospitals",
+      "title": "Technical conditions and equipment for plant rooms",
+      "summary": "Specifies environmental and utility provisions for hospital plant rooms, including temperature limits, water and drainage, electrical connections, lighting levels, and fire and workplace safety considerations.",
+      "building_type": "Hospital",
+      "spaces": [
+        "Plant room",
+        "Central plant area",
+        "Switching panels and control equipment area"
+      ],
+      "uses": [
+        "Protect equipment from frost, overheating and damp",
+        "Provide water, drainage, electrical power and lighting",
+        "Meet fire-protection and workplace safety requirements"
+      ],
+      "furniture_equipment": [
+        "Water supply with hose connection",
+        "Backflow preventer",
+        "Floor gully",
+        "Power socket",
+        "Three-phase connection",
+        "Lighting",
+        "Safety data sheets"
+      ],
+      "dimensions": [
+        {
+          "label": "Minimum plant-room temperature",
+          "value": 5.0,
+          "value_max": null,
+          "unit": "°C",
+          "context": "Temperature must not fall below this for technical reasons and to avoid frost danger.",
+          "status": "uncertain",
+          "ocr_raw": "must not sink below soc for technical reasons (danger of frost!)"
+        },
+        {
+          "label": "Maximum plant-room temperature",
+          "value": 40.0,
+          "value_max": null,
+          "unit": "°C",
+          "context": "Temperature should not exceed this because of electrical equipment.",
+          "status": "uncertain",
+          "ocr_raw": "should also not exceed 40 oc (because of electrical equipment)"
+        },
+        {
+          "label": "Power socket voltage",
+          "value": 230.0,
+          "value_max": null,
+          "unit": "V",
+          "context": "Minimum provision of at least one power socket in plant rooms.",
+          "status": "uncertain",
+          "ocr_raw": "at least one power socket (230 V, 16 A)"
+        },
+        {
+          "label": "Power socket current",
+          "value": 16.0,
+          "value_max": null,
+          "unit": "A",
+          "context": "Rating printed for the plant-room power socket.",
+          "status": "uncertain",
+          "ocr_raw": "at least one power socket (230 V, 16 A)"
+        },
+        {
+          "label": "Three-phase connection voltage",
+          "value": 400.0,
+          "value_max": null,
+          "unit": "V",
+          "context": "Connection suitable for the particular situation.",
+          "status": "uncertain",
+          "ocr_raw": "a three-phase connection (400 V)"
+        },
+        {
+          "label": "Nominal plant-room lighting intensity",
+          "value": 100.0,
+          "value_max": null,
+          "unit": "lx",
+          "context": "Nominal lighting intensity in plant rooms.",
+          "status": "uncertain",
+          "ocr_raw": "The nominal lighting intensity in plant rooms should be 1DO lx"
+        },
+        {
+          "label": "Lighting intensity at panels and measurement equipment",
+          "value": 200.0,
+          "value_max": null,
+          "unit": "lx",
+          "context": "At switching panels and regulation and measurement equipment.",
+          "status": "uncertain",
+          "ocr_raw": "at switching panels, and regulation and measurement equipment 200 lx"
+        }
+      ],
+      "figure_refs": [],
+      "cross_refs": [],
+      "keywords": [
+        "plant room",
+        "temperature",
+        "electrical services",
+        "lighting",
+        "fire protection",
+        "safety"
+      ],
+      "tags_architectural": [
+        "safety"
+      ],
+      "confidence": 0.95
+    },
+    {
+      "id": "4122fb96e4bd1976-329-vision-2",
+      "pdf_page": 329,
+      "book_page": 316,
+      "chapter": "HEALTH",
+      "section": "Hospitals",
+      "title": "Service shafts, suspended ceilings and gas supply",
+      "summary": "Guidance on routing vertical and horizontal services, fire resistance and access for shafts, suspended-ceiling service zones, and the location and supply of medical gas equipment and cylinders.",
+      "building_type": "Hospital",
+      "spaces": [
+        "Service shafts",
+        "Horizontal service ducts",
+        "Suspended-ceiling service zone",
+        "Gas supply plant room",
+        "Service yard"
+      ],
+      "uses": [
+        "Route vertical and horizontal building services",
+        "Limit fire and smoke spread through shafts and ducts",
+        "Provide access for shaft maintenance",
+        "Supply and store medical gases"
+      ],
+      "furniture_equipment": [
+        "Air ducts",
+        "Pipes",
+        "Cable trays",
+        "Sprinkler pipework",
+        "Oxygen pipework",
+        "Operational and reserve gas units",
+        "Automatic switchover equipment",
+        "Air and gas pumps",
+        "Bulk gas tanks"
+      ],
+      "dimensions": [
+        {
+          "label": "Fire resistance class designation",
+          "value": 30.0,
+          "value_max": null,
+          "unit": "L-class designation",
+          "context": "One of the listed fire-resistance classes for relevant pipes or cables: L30, L60 or L90.",
+          "status": "uncertain",
+          "ocr_raw": "Installation shafts and ducts must comply with fire resistance class L30, L60 or L90 for the relevant pipe or cable."
+        },
+        {
+          "label": "Fire resistance class designation",
+          "value": 60.0,
+          "value_max": null,
+          "unit": "L-class designation",
+          "context": "One of the listed fire-resistance classes for relevant pipes or cables: L30, L60 or L90.",
+          "status": "uncertain",
+          "ocr_raw": "Installation shafts and ducts must comply with fire resistance class L30, L60 or L90 for the relevant pipe or cable."
+        },
+        {
+          "label": "Fire resistance class designation",
+          "value": 90.0,
+          "value_max": null,
+          "unit": "L-class designation",
+          "context": "One of the listed fire-resistance classes for relevant pipes or cables: L30, L60 or L90.",
+          "status": "uncertain",
+          "ocr_raw": "Installation shafts and ducts must comply with fire resistance class L30, L60 or L90 for the relevant pipe or cable."
+        },
+        {
+          "label": "Typical suspended-ceiling service-zone spacing minimum",
+          "value": 400.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Normally required spacing between the bottom of the slab and the top of the suspended ceiling; smaller spacing is possible exceptionally.",
+          "status": "uncertain",
+          "ocr_raw": "should normally be min. 400 mm"
+        },
+        {
+          "label": "Bulk gas tank distance from buildings",
+          "value": 5.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Bulk tanks must be outdoors and at least this distance from buildings.",
+          "status": "uncertain",
+          "ocr_raw": "at least 5.0 m from buildings"
+        }
+      ],
+      "figure_refs": [],
+      "cross_refs": [],
+      "keywords": [
+        "service shafts",
+        "horizontal ducts",
+        "suspended ceiling",
+        "fire resistance",
+        "medical gas",
+        "bulk tanks"
+      ],
+      "tags_architectural": [
+        "safety",
+        "circulation",
+        "clearance",
+        "ventilation"
+      ],
+      "confidence": 0.96
+    }
+  ]
+}

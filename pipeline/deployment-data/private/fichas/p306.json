@@ -1,0 +1,248 @@
+{
+  "fichas": [
+    {
+      "id": "4122fb96e4bd1976-306-vision-0",
+      "pdf_page": 306,
+      "book_page": 293,
+      "chapter": "HEALTH",
+      "section": "Hospitals",
+      "title": "Hospital useful life and equipment replacement",
+      "summary": "Hospital structures, walls, fittings, and finishes have different lifetimes. A framed structure can allow flexible wall and partition layouts. Medical-equipment replacement and the ability to install or remove equipment without disrupting the load-bearing structure should be considered in the design.",
+      "building_type": "Hospital",
+      "spaces": [
+        "Care areas",
+        "Examination and treatment areas"
+      ],
+      "uses": [
+        "Plan for changing medical equipment and spatial arrangements",
+        "Allow equipment installation and removal without disruption to the load-bearing structure"
+      ],
+      "furniture_equipment": [
+        "Linear accelerators",
+        "MRI scanners"
+      ],
+      "dimensions": [
+        {
+          "label": "Medical equipment replacement interval",
+          "value": 5.0,
+          "value_max": 10.0,
+          "unit": "years",
+          "context": "Approximate replacement interval; varies according to department and depreciation.",
+          "status": "verified",
+          "ocr_raw": "Medical equipment\nis replaced after approx. 5-10 years according to department\nand depreciation"
+        }
+      ],
+      "figure_refs": [],
+      "cross_refs": [],
+      "keywords": [
+        "useful life",
+        "medical equipment",
+        "flexibility",
+        "load-bearing structure",
+        "hospital planning"
+      ],
+      "tags_architectural": [
+        "adaptability",
+        "modularity"
+      ],
+      "confidence": 0.96
+    },
+    {
+      "id": "4122fb96e4bd1976-306-vision-1",
+      "pdf_page": 306,
+      "book_page": 293,
+      "chapter": "HEALTH",
+      "section": "Hospitals",
+      "title": "Hospital site selection and orientation",
+      "summary": "Hospital sites should provide room for the building, access, and possible extensions, and should be quiet and free of contaminated ground. Site planning should account for separated access roads for visitors and patients, staff, goods, and emergency vehicles, as well as a helicopter pad. Treatment and operational rooms are best oriented between north-west and north-east; patient-room fronts are favourably oriented south-east or south-west.",
+      "building_type": "Hospital",
+      "spaces": [
+        "Hospital site",
+        "Treatment rooms",
+        "Operational rooms",
+        "Patient rooms",
+        "Access roads",
+        "Helicopter pad"
+      ],
+      "uses": [
+        "Select a suitable site and allow for possible extensions",
+        "Separate access for visitors and patients, staff, goods, and emergency vehicles",
+        "Orient treatment and operational rooms and patient-room fronts appropriately"
+      ],
+      "furniture_equipment": [],
+      "dimensions": [
+        {
+          "label": "Minimum land area",
+          "value": 15000.0,
+          "value_max": null,
+          "unit": "m²",
+          "context": "Approximate minimum for an acute hospital with rectangular layout.",
+          "status": "verified",
+          "ocr_raw": "The minimum land area for an\nacute hospital with rectangular layout is approx. 15,000 m2 ."
+        }
+      ],
+      "figure_refs": [],
+      "cross_refs": [],
+      "keywords": [
+        "site selection",
+        "orientation",
+        "access",
+        "land area",
+        "sunlight",
+        "hospital"
+      ],
+      "tags_architectural": [
+        "accessibility",
+        "daylighting"
+      ],
+      "confidence": 0.97
+    },
+    {
+      "id": "4122fb96e4bd1976-306-vision-2",
+      "pdf_page": 306,
+      "book_page": 293,
+      "chapter": "HEALTH",
+      "section": "Hospitals",
+      "title": "Hospital building forms and circulation",
+      "summary": "Hospital form is strongly influenced by access and routing. Early planning should determine whether circulation uses a main corridor with branches or radiates from a cruciform core. Extensions and construction phases should be considered. The vertical arrangement should separate care, examination and treatment, supply and waste disposal, patient delivery, service, storage, administration, and clinical medical functions while keeping them quickly accessible. The page illustrates open and enclosed main-corridor arrangements, care areas above or beside examination and treatment areas, and extension possibilities.",
+      "building_type": "Hospital",
+      "spaces": [
+        "Main corridors",
+        "Care areas",
+        "Examination and treatment areas",
+        "Supply and waste disposal areas",
+        "Service yard",
+        "Storage",
+        "Administration",
+        "Clinical medical service"
+      ],
+      "uses": [
+        "Organize horizontal and vertical circulation",
+        "Separate hospital functions while maintaining quick access",
+        "Allow for extensions and construction phases"
+      ],
+      "furniture_equipment": [],
+      "dimensions": [],
+      "figure_refs": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9"
+      ],
+      "cross_refs": [
+        "4 → 3",
+        "6 → 5",
+        "8 → 7"
+      ],
+      "keywords": [
+        "building form",
+        "main corridor",
+        "spine",
+        "transverse corridors",
+        "cruciform core",
+        "circulation",
+        "extension"
+      ],
+      "tags_architectural": [
+        "circulation",
+        "adaptability"
+      ],
+      "confidence": 0.95
+    },
+    {
+      "id": "4122fb96e4bd1976-306-vision-3",
+      "pdf_page": 306,
+      "book_page": 293,
+      "chapter": "HEALTH",
+      "section": "Hospitals",
+      "title": "Hospital vertical structure and floor heights",
+      "summary": "An example vertical structure places a helipad and air-conditioning plant on the top floor; care wards on the second and third floors; operating theatres, central sterilisation, intensive care, maternity, nursing mothers, and children's wards on the first floor; and entrance, information, radiology, clinical medical service, outpatients, stretcher-patient delivery, emergency cases, administration, and cafeteria on the ground floor. The basement accommodates archive, physiotherapy, linear accelerator, radiation therapy, laboratory, and kitchen with service yard. The page gives approximate floor-height requirements and illustrates vertical and horizontal hospital sections.",
+      "building_type": "Hospital",
+      "spaces": [
+        "Top floor: helipad and air-conditioning plant",
+        "Second and third floors: care wards",
+        "First floor: operating theatre area, central sterilisation, intensive care, maternity, nursing mothers, children's ward",
+        "Ground floor: entrance and information, radiology, clinical medical service, outpatients, stretcher-patient delivery, emergency cases, administration, cafeteria",
+        "Basement: archive, physiotherapy, linear accelerator, radiation therapy, laboratory, kitchen with service yard"
+      ],
+      "uses": [
+        "Arrange hospital departments vertically according to function",
+        "Provide appropriate floor heights for care, examination and treatment, supply, waste disposal, and services"
+      ],
+      "furniture_equipment": [
+        "Helipad",
+        "Air-conditioning plant",
+        "Linear accelerator"
+      ],
+      "dimensions": [
+        {
+          "label": "Care area floor height",
+          "value": 3.4,
+          "value_max": null,
+          "unit": "m",
+          "context": "Approximate floor height; the text gives 3.05 m clear height with a 35 cm floor structure.",
+          "status": "verified",
+          "ocr_raw": "care\narea approx. height 3.40 m"
+        },
+        {
+          "label": "Floor structure",
+          "value": 35.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Floor structure in the stated care-area height example.",
+          "status": "verified",
+          "ocr_raw": "HOSPITALS\nBuilding Design\n\n0 Open main corridor (principal traffic f) Care area above examination and\nroute)\n\nUseful life\nStructure, walls, fittings and finishings have different lifetimes.\nThe structure should if possible be framed in order to keep the\nconstruction of the walls and partitions flexible. Medical equipment\nis replaced after approx. 5-10 years according to department\nand depreciation, which can have significant effect on the spatial\narrangements (e.g. linear accelerators, MRI scanners). The possible\ninstallation and removal of such equipment without disrupting the\nload-bearing structure should be taken into account in the design.\n\ntreatment area\n\nSite\nThe site for a hospital needs enough space for the building, its\naccess and any possible extensions, and should be in a quiet\narea. Contaminated ground should be avoided. Separated access\nroads for visitors and patients, staff, goods and emergency\nvehicles, as well as a helicopter pad, all need to be taken into\naccount in the selection of a site. The minimum land area for an\nacute hospital with rectangular layout is approx. 15,000 m2 .\nOrientation\nThe best orientation for treatment and operational rooms is\nbetween north-west and north-east. For the fronts of patient\nrooms, south-east or south-west is favourable, with pleasant\nmorning sun, little heat build-up, few sun protection measures\nnecessary and temperate evenings. East-west rooms in contrast\nhave deeper summer sun penetration but little winter sun.\n\n8 Open main corridor, care area next 0 -> 8\nto examination and treatment area\n\n9\n\nEnclosed main corridor, care area\nabove examination and treatment area\n\nEnclosed main corridor, care area\nnext to examination and treatment area\n\n0\n\ne\n\n--7\n\n---7\n\nBuilding forms\nThe form of the building is determined to a considerable extent\nby the selection of access and routeing. A decision should be\nreached at an early stage whether a design with a main corridor\n(spine) and branches (transverse corridors) is chosen or whether\ncirculation will be radially outwards from a cruciform core.\nPossible extensions and construction phases should be taken into\naccount. The vertical section of a hospital should be designed so\nthat the functions care, examination and treatment, supply and\nwaste disposal, delivery of patients on stretchers, service yard,\nstorage, administration and clinical medical service can be laid out\nseparately and reached quickly.\n\n{t\n\nAn example of a vertical structure:\n-top floor: helipad, air conditioning plant\n- 2nd-3rd floors: care wards\n- 1st floor: operating theatre area, central sterilisation, intensive\ncare, maternity, nursing mothers, children's ward\n- ground floor: entrance and information, radiology, clinical\nmedical service, outpatients, delivery of stretcher patients,\nemergency cases, administration, cafeteria\n- basement: archive, physiotherapy, linear accelerator, radiation\ntherapy, laboratory, kitchen with service yard\n\nf)\nAccess\n\nThe different floors' height requirements should be noted: care\narea approx. height 3.40 m (less construction = flat slab with\nfloor structure = 35 em = 3.05 m clear height), examination and\ntreatment height approx. 4.20 m, supply and waste disposal and\nservices approx. height 4.20-5.00 m.\nAccess\n\nI\n2nd floor\n\nCare\n\nVertical structure: section through\na hospital with care area above\nexamination and treatment area\n\n.-----.\n\nAir-conditioning\nOperations\n\nCare\n\n1st floor\n\nCare\n\nGround floor\n\nOut-patient, X-ray\n\nAmbulances\n\nI\n\nSupply & disposal\n\nDeliveries\n\nBasement\n\nExtension possibilities\n\nI\n\n/\n\nHorizontal structure: section through hospital with care area next to\nexamination and treatment area\n\n293\n\nHOSPITALS\nGeneral, modular\ngrid\nBuilding design\nExamples\n\nCorridors, doors,\nstairs, lifts\nOperational\nareas\n\nOutpatient area\nOutpatient\nmedical centreexample\n\nExamination and\ntreatment\nCare\nAdministration,\nsocial services\nSupply and waste\ndisposal\nTechnical supply\n\n\f"
+        },
+        {
+          "label": "Care area clear height",
+          "value": 3.05,
+          "value_max": null,
+          "unit": "m",
+          "context": "Clear height in the stated care-area example.",
+          "status": "verified",
+          "ocr_raw": "3.05 m clear height"
+        },
+        {
+          "label": "Examination and treatment height",
+          "value": 4.2,
+          "value_max": null,
+          "unit": "m",
+          "context": "Approximate height requirement.",
+          "status": "verified",
+          "ocr_raw": "examination and\ntreatment height approx. 4.20 m"
+        },
+        {
+          "label": "Supply, waste disposal, and services height",
+          "value": 4.2,
+          "value_max": 5.0,
+          "unit": "m",
+          "context": "Approximate height requirement range.",
+          "status": "verified",
+          "ocr_raw": "supply and waste disposal and\nservices approx. height 4.20-5.00 m"
+        }
+      ],
+      "figure_refs": [
+        "10",
+        "11"
+      ],
+      "cross_refs": [],
+      "keywords": [
+        "vertical structure",
+        "floor heights",
+        "hospital departments",
+        "floor arrangement",
+        "horizontal structure"
+      ],
+      "tags_architectural": [
+        "circulation",
+        "spatial_proportion"
+      ],
+      "confidence": 0.97
+    }
+  ]
+}

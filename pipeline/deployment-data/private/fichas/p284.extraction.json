@@ -1,0 +1,546 @@
+{
+  "fichas": [
+    {
+      "id": "4122fb96e4bd1976-284-vision-0",
+      "pdf_page": 284,
+      "book_page": 271,
+      "chapter": "INDUSTRY AND TRADE",
+      "section": "Industry",
+      "title": "Employee washroom requirements",
+      "summary": "Washrooms are required for employees exposed to health hazards, strongly odorous substances, heat, or damp. Provide one washroom for every four employees, or every five for moderately dirty work, based on the largest shift. The text also specifies shower and foot-washing provision, wash-place dimensions, and ventilation minima.",
+      "building_type": "Industrial building",
+      "spaces": [
+        "Washrooms",
+        "Washing and changing rooms"
+      ],
+      "uses": [
+        "Employee washing and hygiene",
+        "Support spaces for work involving hazardous or dirty conditions"
+      ],
+      "furniture_equipment": [
+        "Wash places",
+        "Showers",
+        "Towel holders",
+        "Soap dishes",
+        "Disposable towels",
+        "Waste bins",
+        "Foot washes",
+        "Ventilation equipment"
+      ],
+      "dimensions": [
+        {
+          "label": "Employees per washroom",
+          "value": 4.0,
+          "value_max": null,
+          "unit": "employees",
+          "context": "General provision; designed for the largest shift.",
+          "status": "uncertain",
+          "ocr_raw": "For every four employees"
+        },
+        {
+          "label": "Employees per washroom for moderately dirty activity",
+          "value": 5.0,
+          "value_max": null,
+          "unit": "employees",
+          "context": "Applies in case of only moderately dirty activity.",
+          "status": "uncertain",
+          "ocr_raw": "every five employees"
+        },
+        {
+          "label": "Minimum wash-place width",
+          "value": 70.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Wash-place width and depth; first value.",
+          "status": "uncertain",
+          "ocr_raw": "width and depth min. 70 × 55 cm"
+        },
+        {
+          "label": "Minimum wash-place depth",
+          "value": 55.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Wash-place width and depth; second value.",
+          "status": "uncertain",
+          "ocr_raw": "width and depth min. 70 × 55 cm"
+        },
+        {
+          "label": "Wash-place upper-edge height above floor",
+          "value": 70.0,
+          "value_max": 80.0,
+          "unit": "cm",
+          "context": "Height above floor level.",
+          "status": "uncertain",
+          "ocr_raw": "upper edge 70–80 cm above floor level"
+        },
+        {
+          "label": "Minimum number of showers",
+          "value": 1.0,
+          "value_max": null,
+          "unit": "shower",
+          "context": "At least one shower is to be provided.",
+          "status": "uncertain",
+          "ocr_raw": "Provide at least one shower"
+        },
+        {
+          "label": "Washing facilities provided as showers for very dirty activity",
+          "value": 30.0,
+          "value_max": null,
+          "unit": "%",
+          "context": "Share of washing facilities to be provided as showers for very dirty activity.",
+          "status": "uncertain",
+          "ocr_raw": "30% of the washing facilities as showers"
+        },
+        {
+          "label": "Employees per shower for specified hazardous or odorous activities",
+          "value": 4.0,
+          "value_max": null,
+          "unit": "employees per shower",
+          "context": "For employees engaged in activities dangerous to health or with strongly odorous substances.",
+          "status": "uncertain",
+          "ocr_raw": "one shower per four employees"
+        },
+        {
+          "label": "Wash places per foot wash",
+          "value": 10.0,
+          "value_max": null,
+          "unit": "wash places",
+          "context": "Provide a foot wash for every stated number of wash places.",
+          "status": "uncertain",
+          "ocr_raw": "Provide a foot wash for every 10 wash places"
+        },
+        {
+          "label": "Natural ventilation opening area, one-sided ventilation",
+          "value": 400.0,
+          "value_max": null,
+          "unit": "cm²/m² floor area",
+          "context": "Minimum section for ventilation from one side.",
+          "status": "uncertain",
+          "ocr_raw": "400 cm²/m² floor area"
+        },
+        {
+          "label": "Natural ventilation opening area, opposing-window through-ventilation",
+          "value": 120.0,
+          "value_max": null,
+          "unit": "cm²",
+          "context": "Supply and extract openings with through-ventilation from opposing windows.",
+          "status": "uncertain",
+          "ocr_raw": "120 cm² (80 cm² with ventilation shafts) for supply and extract openings"
+        },
+        {
+          "label": "Natural ventilation opening area, ventilation shafts",
+          "value": 80.0,
+          "value_max": null,
+          "unit": "cm²",
+          "context": "Supply and extract openings with ventilation shafts.",
+          "status": "uncertain",
+          "ocr_raw": "120 cm² (80 cm² with ventilation shafts) for supply and extract openings"
+        },
+        {
+          "label": "Minimum ventilation rate",
+          "value": 10.0,
+          "value_max": null,
+          "unit": "air changes/h",
+          "context": "Ventilation equipment design minimum.",
+          "status": "uncertain",
+          "ocr_raw": "at least 10 air changes/h"
+        }
+      ],
+      "figure_refs": [
+        "9–16"
+      ],
+      "cross_refs": [
+        "p. 273",
+        "p. 21 ff.",
+        "p. 263"
+      ],
+      "keywords": [
+        "industrial washrooms",
+        "employee hygiene",
+        "wash places",
+        "showers",
+        "ventilation"
+      ],
+      "tags_architectural": [
+        "ventilation",
+        "accessibility",
+        "safety"
+      ],
+      "confidence": 0.97
+    },
+    {
+      "id": "4122fb96e4bd1976-284-vision-1",
+      "pdf_page": 284,
+      "book_page": 271,
+      "chapter": "INDUSTRY AND TRADE",
+      "section": "Industry",
+      "title": "Washroom equipment and washing fixtures",
+      "summary": "Illustrations show drinking fountains, washing troughs, foot-washing equipment, a space-saving washing fountain, foot baths, and a paper-towel and soap dispenser. The text describes allowable wash-place types and their fittings; selected legible fixture dimensions are recorded here.",
+      "building_type": "Industrial building",
+      "spaces": [
+        "Washroom",
+        "Washing area"
+      ],
+      "uses": [
+        "Drinking water access",
+        "Hand and body washing",
+        "Foot washing",
+        "Hand drying"
+      ],
+      "furniture_equipment": [
+        "Drinking fountain with lever activation",
+        "Row washing trough, Rotter system",
+        "Foot washing system",
+        "Washing fountain",
+        "Foot baths",
+        "Paper towel dispenser",
+        "Shelf",
+        "Soap dispenser",
+        "Towel holder",
+        "Pedal"
+      ],
+      "dimensions": [
+        {
+          "label": "Drinking fountain height above floor",
+          "value": 1.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Dimension shown for drinking fountain; OCR also notes activation is less than 100 m from workstation.",
+          "status": "uncertain",
+          "ocr_raw": "1.00 from floor"
+        },
+        {
+          "label": "Drinking fountain distance from workstation",
+          "value": 100.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Maximum distance stated in the figure caption.",
+          "status": "uncertain",
+          "ocr_raw": "<100 m from workstation"
+        },
+        {
+          "label": "Washing fountain diameter",
+          "value": 137.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Circular washing fountain; shown for 6–8 people.",
+          "status": "uncertain",
+          "ocr_raw": "Ø 137 cm    6–8 people"
+        },
+        {
+          "label": "People served by washing fountain",
+          "value": 6.0,
+          "value_max": 8.0,
+          "unit": "people",
+          "context": "Capacity indicated alongside washing fountain diameter.",
+          "status": "uncertain",
+          "ocr_raw": "Ø 137 cm    6–8 people"
+        },
+        {
+          "label": "Space saving of washing fountain",
+          "value": 25.0,
+          "value_max": null,
+          "unit": "%",
+          "context": "Compared with rows of basins.",
+          "status": "uncertain",
+          "ocr_raw": "Washing fountain: 25% space saving compared to rows of basins"
+        },
+        {
+          "label": "Foot-bath length",
+          "value": 44.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Dimension indicated on foot-bath illustration.",
+          "status": "uncertain",
+          "ocr_raw": "44"
+        },
+        {
+          "label": "Foot-bath width",
+          "value": 50.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Dimension indicated on foot-bath illustration.",
+          "status": "uncertain",
+          "ocr_raw": "50"
+        },
+        {
+          "label": "Foot-bath height",
+          "value": 37.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Dimension indicated on foot-bath illustration.",
+          "status": "uncertain",
+          "ocr_raw": "37"
+        },
+        {
+          "label": "Foot-bath basin depth",
+          "value": 22.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Dimension indicated on foot-bath illustration.",
+          "status": "uncertain",
+          "ocr_raw": "22"
+        },
+        {
+          "label": "Paper towel dispenser height",
+          "value": 70.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Dimension indicated on dispenser illustration.",
+          "status": "uncertain",
+          "ocr_raw": "70"
+        },
+        {
+          "label": "Paper towel dispenser width",
+          "value": 39.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Dimension indicated on dispenser illustration.",
+          "status": "uncertain",
+          "ocr_raw": "39"
+        },
+        {
+          "label": "Paper towel dispenser depth",
+          "value": 11.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Dimension indicated on dispenser illustration.",
+          "status": "uncertain",
+          "ocr_raw": "11"
+        },
+        {
+          "label": "Clear height of shower heads, illustration 7",
+          "value": 2.2,
+          "value_max": null,
+          "unit": "m",
+          "context": "Dimension shown for one shower-head arrangement.",
+          "status": "uncertain",
+          "ocr_raw": "2.20"
+        },
+        {
+          "label": "Clear height of shower heads, illustration 7",
+          "value": 1.8,
+          "value_max": null,
+          "unit": "m",
+          "context": "Dimension shown for the second shower-head arrangement.",
+          "status": "uncertain",
+          "ocr_raw": "1.80"
+        }
+      ],
+      "figure_refs": [
+        "1–8"
+      ],
+      "cross_refs": [
+        "p. 273"
+      ],
+      "keywords": [
+        "washing fixtures",
+        "drinking fountain",
+        "washing trough",
+        "foot bath",
+        "shower head",
+        "dispenser"
+      ],
+      "tags_architectural": [
+        "ergonomics",
+        "clearance"
+      ],
+      "confidence": 0.91
+    },
+    {
+      "id": "4122fb96e4bd1976-284-vision-2",
+      "pdf_page": 284,
+      "book_page": 271,
+      "chapter": "INDUSTRY AND TRADE",
+      "section": "Industry",
+      "title": "Washroom and shower layout examples",
+      "summary": "Plan diagrams provide example arrangements for washbasins, foot baths, washing troughs, semi-open showers, single showers with changing booths, open showers with drying places, and bath cubicles. Legible overall and bay dimensions are transcribed from the layouts.",
+      "building_type": "Industrial building",
+      "spaces": [
+        "Washbasin area",
+        "Washing-trough area",
+        "Shower area",
+        "Changing area",
+        "Drying area",
+        "Bath cubicles"
+      ],
+      "uses": [
+        "Arrange washing fixtures and circulation areas",
+        "Provide changing and drying space alongside shower facilities"
+      ],
+      "furniture_equipment": [
+        "Washbasins",
+        "Foot baths",
+        "Washing troughs",
+        "Shower booths",
+        "Bath cubicles",
+        "Floor drains"
+      ],
+      "dimensions": [
+        {
+          "label": "Washbasin layout width",
+          "value": 1.35,
+          "value_max": null,
+          "unit": "m",
+          "context": "Overall width indicated for washing facilities with washbasins.",
+          "status": "uncertain",
+          "ocr_raw": "≥ 1.35"
+        },
+        {
+          "label": "Washbasin layout bay width",
+          "value": 1.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Width shown in washbasin layout.",
+          "status": "uncertain",
+          "ocr_raw": "1.00"
+        },
+        {
+          "label": "Foot-bath layout width",
+          "value": 2.05,
+          "value_max": null,
+          "unit": "m",
+          "context": "Overall width indicated for washing facilities with foot baths.",
+          "status": "uncertain",
+          "ocr_raw": "≥ 2.05"
+        },
+        {
+          "label": "Foot-bath layout width component",
+          "value": 1.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Dimension shown within foot-bath layout.",
+          "status": "uncertain",
+          "ocr_raw": "1.00"
+        },
+        {
+          "label": "Washing-trough layout width",
+          "value": 1.8,
+          "value_max": null,
+          "unit": "m",
+          "context": "Dimension chain shown for washing facilities with washing trough; 35 cm + 1.10 m + 35 cm.",
+          "status": "uncertain",
+          "ocr_raw": "35 + 1.10 + 35"
+        },
+        {
+          "label": "Washing-trough fixture-zone width",
+          "value": 1.1,
+          "value_max": null,
+          "unit": "m",
+          "context": "Middle dimension in washing-trough layout chain.",
+          "status": "uncertain",
+          "ocr_raw": "35 + 1.10 + 35"
+        },
+        {
+          "label": "Foot-washing-trough layout width",
+          "value": 2.05,
+          "value_max": null,
+          "unit": "m",
+          "context": "Overall width indicated for washing facilities with foot washing trough.",
+          "status": "uncertain",
+          "ocr_raw": "≥ 2.05"
+        },
+        {
+          "label": "Foot-washing-trough central aisle width",
+          "value": 1.05,
+          "value_max": null,
+          "unit": "m",
+          "context": "Central dimension in foot-washing-trough layout.",
+          "status": "uncertain",
+          "ocr_raw": "1.05"
+        },
+        {
+          "label": "Semi-open shower layout overall width",
+          "value": 3.6,
+          "value_max": null,
+          "unit": "m",
+          "context": "Overall dimension indicated for semi-open showers.",
+          "status": "uncertain",
+          "ocr_raw": "3.60"
+        },
+        {
+          "label": "Semi-open shower layout depth",
+          "value": 1.05,
+          "value_max": null,
+          "unit": "m",
+          "context": "Dimension indicated at side of semi-open shower layout.",
+          "status": "uncertain",
+          "ocr_raw": "1.05"
+        },
+        {
+          "label": "Single shower with changing booth layout dimension",
+          "value": 1.05,
+          "value_max": null,
+          "unit": "m",
+          "context": "Repeated module dimension shown in the layout.",
+          "status": "uncertain",
+          "ocr_raw": "1.05"
+        },
+        {
+          "label": "Open shower drying-area layout dimension",
+          "value": 1.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Dimension chain along the lower edge of open shower layout.",
+          "status": "uncertain",
+          "ocr_raw": "1.00"
+        },
+        {
+          "label": "Open shower layout module",
+          "value": 90.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Repeated shower and layout dimensions shown in open-shower plan.",
+          "status": "uncertain",
+          "ocr_raw": "90"
+        },
+        {
+          "label": "Bath cubicle layout dimension",
+          "value": 1.4,
+          "value_max": null,
+          "unit": "m",
+          "context": "Dimension indicated beside bath cubicle plan.",
+          "status": "uncertain",
+          "ocr_raw": "1.40"
+        },
+        {
+          "label": "Bath cubicle length",
+          "value": 1.7,
+          "value_max": null,
+          "unit": "m",
+          "context": "Dimension indicated along bath cubicle plan.",
+          "status": "uncertain",
+          "ocr_raw": "1.70"
+        },
+        {
+          "label": "Bath cubicle changing-area width",
+          "value": 1.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Dimension indicated at changing area beside bath cubicle.",
+          "status": "uncertain",
+          "ocr_raw": "1.00"
+        }
+      ],
+      "figure_refs": [
+        "9–16"
+      ],
+      "cross_refs": [
+        "p. 273"
+      ],
+      "keywords": [
+        "washroom layouts",
+        "shower layouts",
+        "changing area",
+        "drying area",
+        "washbasin arrangement"
+      ],
+      "tags_architectural": [
+        "circulation",
+        "clearance",
+        "spatial_proportion"
+      ],
+      "confidence": 0.84
+    }
+  ]
+}

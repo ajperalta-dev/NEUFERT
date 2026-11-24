@@ -1,0 +1,228 @@
+{
+  "fichas": [
+    {
+      "id": "4122fb96e4bd1976-347-vision-0",
+      "pdf_page": 347,
+      "book_page": 334,
+      "chapter": "SPORT AND LEISURE",
+      "section": "Sports Facilities",
+      "title": "Water Sport, Marinas: Marine Engineering Works",
+      "summary": "Reference on marina coastal protection and marine structures, including breakwaters, sheet-pile walls, dolphins, banks, quays, floating pontoons, cranes, and slipways. It emphasizes durable materials, protection from wave action and corrosion, and access for pedestrians and service vehicles.",
+      "building_type": "Marina and marine infrastructure",
+      "spaces": [
+        "Breakwaters and seawalls",
+        "Quays and mooring areas",
+        "Slipways",
+        "Service wharf area",
+        "Mooring space",
+        "Turning space"
+      ],
+      "uses": [
+        "Protect marinas from wave impact, suction, and swell",
+        "Provide boat mooring and coastal protection",
+        "Launch, lift, and transport boats",
+        "Provide pedestrian access and landside access for cranes"
+      ],
+      "furniture_equipment": [
+        "Fenders",
+        "Boat cranes",
+        "Mobile cranes",
+        "Travellift",
+        "Boat trailers",
+        "Rings",
+        "Sheet piles",
+        "Timber or concrete piles",
+        "Floating concrete pontoons"
+      ],
+      "dimensions": [
+        {
+          "label": "Mole or seawall height H, table row 1",
+          "value": 1.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Height H paired with base width B of 4.00 m in the sections-of-moles-and-seawalls table.",
+          "status": "uncertain",
+          "ocr_raw": "1\n\n4.00"
+        },
+        {
+          "label": "Mole or seawall base width B, table row 1",
+          "value": 4.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Base width B paired with height H of 1 m.",
+          "status": "uncertain",
+          "ocr_raw": "1\n\n4.00"
+        },
+        {
+          "label": "Mole or seawall height H, table row 2",
+          "value": 2.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Height H paired with base width B of 7.50 m in the sections-of-moles-and-seawalls table.",
+          "status": "uncertain",
+          "ocr_raw": "2\n\n7.50"
+        },
+        {
+          "label": "Mole or seawall base width B, table row 2",
+          "value": 7.5,
+          "value_max": null,
+          "unit": "m",
+          "context": "Base width B paired with height H of 2 m.",
+          "status": "uncertain",
+          "ocr_raw": "2\n\n7.50"
+        },
+        {
+          "label": "Mole or seawall height H, table row 3",
+          "value": 3.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Height H paired with base width B of 11.00 m in the sections-of-moles-and-seawalls table.",
+          "status": "uncertain",
+          "ocr_raw": "3\n\n11.00"
+        },
+        {
+          "label": "Mole or seawall base width B, table row 3",
+          "value": 11.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Base width B paired with height H of 3 m.",
+          "status": "uncertain",
+          "ocr_raw": "3\n\n11.00"
+        },
+        {
+          "label": "Mole or seawall height H, table row 4",
+          "value": 4.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Height H paired with base width B of 14.50 m in the sections-of-moles-and-seawalls table.",
+          "status": "uncertain",
+          "ocr_raw": "4\n\n14.50"
+        },
+        {
+          "label": "Mole or seawall base width B, table row 4",
+          "value": 14.5,
+          "value_max": null,
+          "unit": "m",
+          "context": "Base width B paired with height H of 4 m.",
+          "status": "uncertain",
+          "ocr_raw": "4\n\n14.50"
+        },
+        {
+          "label": "Mole or seawall height H, table row 5",
+          "value": 5.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Height H paired with base width B of 18.00 m in the sections-of-moles-and-seawalls table.",
+          "status": "uncertain",
+          "ocr_raw": "5\n\n18.00"
+        },
+        {
+          "label": "Mole or seawall base width B, table row 5",
+          "value": 18.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Base width B paired with height H of 5 m.",
+          "status": "uncertain",
+          "ocr_raw": "5\n\n18.00"
+        },
+        {
+          "label": "Mole or seawall height H, table row 6",
+          "value": 6.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Height H paired with base width B of 21.50 m in the sections-of-moles-and-seawalls table.",
+          "status": "uncertain",
+          "ocr_raw": "6\n\n21.50"
+        },
+        {
+          "label": "Mole or seawall base width B, table row 6",
+          "value": 21.5,
+          "value_max": null,
+          "unit": "m",
+          "context": "Base width B paired with height H of 6 m.",
+          "status": "uncertain",
+          "ocr_raw": "6\n\n21.50"
+        },
+        {
+          "label": "Minimum dolphin length",
+          "value": 3.0,
+          "value_max": null,
+          "unit": "water-depth multiples",
+          "context": "Minimum length is three times the water depth; the text says it depends on the seabed.",
+          "status": "uncertain",
+          "ocr_raw": "Min. length 3 x water depth, depending on the seabed."
+        },
+        {
+          "label": "Average lifetime of timber dolphins in seawater",
+          "value": 15.0,
+          "value_max": null,
+          "unit": "years",
+          "context": "Average lifetime stated for timber dolphins in seawater; the text notes local variation.",
+          "status": "uncertain",
+          "ocr_raw": "The average lifetime of timber dolphins in seawater is 15 years"
+        },
+        {
+          "label": "Average lifetime of steel-pipe dolphins",
+          "value": 35.0,
+          "value_max": null,
+          "unit": "years",
+          "context": "Average lifetime stated for steel pipes; the text notes local variation.",
+          "status": "uncertain",
+          "ocr_raw": "and of steel pipes 35 years."
+        },
+        {
+          "label": "Minimum pontoon edge loading",
+          "value": 2.5,
+          "value_max": null,
+          "unit": "kN",
+          "context": "Edge loading for the section through the floating pontoon.",
+          "status": "uncertain",
+          "ocr_raw": "Section through floating pontoon,\nedge loading P min. 2.5 kN"
+        }
+      ],
+      "figure_refs": [
+        "1 Sections of moles and seawalls",
+        "2 Reeds with at least two layers of vegetation",
+        "3 Rammed timber piles",
+        "4 Sheet steel pile wall",
+        "5 Pre-cast concrete caisson with sand filling",
+        "6 Section through floating pontoon, edge loading P min. 2.5 kN",
+        "7 Fixed quay of timber or concrete piles",
+        "8 Floating concrete pontoon, suitable as a breakwater",
+        "9 Section through slipway",
+        "10 Plan"
+      ],
+      "cross_refs": [
+        "→ 2 – 4",
+        "→ 5",
+        "→ 8",
+        "→ 4",
+        "→ 2 + 3",
+        "→ p. 335",
+        "→ 9 – 10",
+        "Plan → 9"
+      ],
+      "keywords": [
+        "marina",
+        "marine engineering",
+        "breakwater",
+        "mole",
+        "seawall",
+        "sheet-pile wall",
+        "dolphin",
+        "coastal protection",
+        "slipway",
+        "boat crane",
+        "floating pontoon",
+        "corrosion"
+      ],
+      "tags_architectural": [
+        "safety",
+        "circulation",
+        "accessibility",
+        "adaptability"
+      ],
+      "confidence": 0.92
+    }
+  ]
+}

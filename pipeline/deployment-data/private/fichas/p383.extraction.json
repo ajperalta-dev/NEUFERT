@@ -1,0 +1,238 @@
+{
+  "fichas": [
+    {
+      "id": "4122fb96e4bd1976-383-vision-0",
+      "pdf_page": 383,
+      "book_page": 370,
+      "chapter": "SPORT AND LEISURE",
+      "section": "Swimming Pools",
+      "title": "Indoor and Outdoor Pools: Foil Linings and Construction Details",
+      "summary": "Construction guidance for foil-lined indoor and outdoor swimming pools. Foil linings can avoid the usual waterproof sub-structure. Embossed, structured foil is recommended around stairs, standing steps, and children's paddling pools for safety. Details illustrate bonded sheet metal edges, fixed flange connections, drainage and relief provisions, prefabricated pools, and rounded floor-to-sidewall connections.",
+      "building_type": "Indoor and outdoor swimming pools",
+      "spaces": [
+        "Pool basin",
+        "Pool stairs and standing steps",
+        "Children's paddling pool",
+        "Pool rim"
+      ],
+      "uses": [
+        "Line swimming pools with foil",
+        "Provide safe, slip-resistant surfaces in areas where users stand or walk",
+        "Drain or empty the pool",
+        "Connect and seal foil at edges and penetrations"
+      ],
+      "furniture_equipment": [
+        "Foil liner",
+        "Bonded sheet metal profiles",
+        "Fixed flange connections",
+        "Secondary drainage or relief drillings",
+        "Paving slab",
+        "Pool wall",
+        "Fleece"
+      ],
+      "dimensions": [
+        {
+          "label": "Pool floor gradient",
+          "value": 5.0,
+          "value_max": 10.0,
+          "unit": "%",
+          "context": "Gradient for emptying the pool; 10% is given as the maximum.",
+          "status": "uncertain",
+          "ocr_raw": "gradient of 5% or max. 10%"
+        }
+      ],
+      "figure_refs": [
+        "1 Edge connection/foil lined pool with bonded sheet metal",
+        "2 Variant",
+        "3 Foil fixed to pool wall",
+        "4 Edge connection with angle of bonded sheet metal",
+        "5 Pre-fabricated pool",
+        "6 Connections at floor/sidewall with rounded corner",
+        "9 Fixed flange connection",
+        "10 Fixed flange with anchor sleeve"
+      ],
+      "cross_refs": [
+        "1 → 4",
+        "2 → 1",
+        "8 Variant → 6",
+        "fixed flange connections → 9–10"
+      ],
+      "keywords": [
+        "foil lining",
+        "pool construction",
+        "waterproofing",
+        "bonded sheet metal",
+        "fixed flange",
+        "pool drainage",
+        "prefabricated pool"
+      ],
+      "tags_architectural": [
+        "safety",
+        "clearance"
+      ],
+      "confidence": 0.96
+    },
+    {
+      "id": "4122fb96e4bd1976-383-vision-1",
+      "pdf_page": 383,
+      "book_page": 370,
+      "chapter": "SPORT AND LEISURE",
+      "section": "Swimming Pools",
+      "title": "Indoor Pool Evaporation and Climate",
+      "summary": "A table relates indoor-pool evaporation to relative air humidity and air temperature, distinguishing out-of-operation conditions (R) from maximum-use conditions (M). An accompanying chart marks evaporation limits for a pool in use and out of operation. The printed table values are not transcribed because their cell associations are not reliably legible.",
+      "building_type": "Indoor public swimming pool",
+      "spaces": [
+        "Indoor pool hall"
+      ],
+      "uses": [
+        "Assess evaporation in relation to pool and air conditions",
+        "Consider evaporation limits during use and out of operation"
+      ],
+      "furniture_equipment": [],
+      "dimensions": [
+        {
+          "label": "Relative air humidity",
+          "value": 50.0,
+          "value_max": 70.0,
+          "unit": "%",
+          "context": "Humidity values shown in the evaporation table; the table also shows a separate 60% column.",
+          "status": "uncertain",
+          "ocr_raw": "Relative air humidity 50% 60% 70%"
+        },
+        {
+          "label": "Relative air humidity",
+          "value": 60.0,
+          "value_max": null,
+          "unit": "%",
+          "context": "Relative air humidity value shown as a table column.",
+          "status": "uncertain",
+          "ocr_raw": "Relative air humidity 50% 60% 70%"
+        },
+        {
+          "label": "Air temperature",
+          "value": 24.0,
+          "value_max": null,
+          "unit": "°C",
+          "context": "Pool/water temperature row indicated in the evaporation table.",
+          "status": "uncertain",
+          "ocr_raw": "24°C R"
+        },
+        {
+          "label": "Air temperature",
+          "value": 26.0,
+          "value_max": null,
+          "unit": "°C",
+          "context": "Pool/water temperature row indicated in the evaporation table.",
+          "status": "uncertain",
+          "ocr_raw": "26°C R"
+        },
+        {
+          "label": "Air temperature",
+          "value": 28.0,
+          "value_max": null,
+          "unit": "°C",
+          "context": "Pool/water temperature row indicated in the evaporation table.",
+          "status": "uncertain",
+          "ocr_raw": "28°C R"
+        },
+        {
+          "label": "Air temperature",
+          "value": 30.0,
+          "value_max": null,
+          "unit": "°C",
+          "context": "Pool/water temperature row indicated in the evaporation table.",
+          "status": "uncertain",
+          "ocr_raw": "30°C R"
+        },
+        {
+          "label": "Water/air temperature difference",
+          "value": 4.0,
+          "value_max": null,
+          "unit": "K",
+          "context": "Difference stated in the table note; the OCR does not clearly establish which table entries it qualifies.",
+          "status": "uncertain",
+          "ocr_raw": "temperature difference 4 K water/air"
+        }
+      ],
+      "figure_refs": [
+        "11 Specific quantity of evaporation in an indoor pool (g/m³h): out of operation (R) and max. use (M) (Kappler → refs)",
+        "12 Evaporation limit for an indoor pool: upper line, in use; lower line, out of operation"
+      ],
+      "cross_refs": [
+        "Kappler → refs"
+      ],
+      "keywords": [
+        "indoor pool",
+        "relative humidity",
+        "air temperature",
+        "evaporation",
+        "pool climate"
+      ],
+      "tags_architectural": [
+        "ventilation"
+      ],
+      "confidence": 0.79
+    },
+    {
+      "id": "4122fb96e4bd1976-383-vision-2",
+      "pdf_page": 383,
+      "book_page": 370,
+      "chapter": "SPORT AND LEISURE",
+      "section": "Swimming Pools",
+      "title": "Pool Edge Overflow Channels and Surface Skimmer",
+      "summary": "Illustrated pool-edge and water-handling details include named overflow systems, a Finnish channel, a precast concrete gutter with foil liner, and a surface skimmer. Several details identify grip tile, slip-resistant paving, gratings, expansion joints, drainage channels, and ring drains.",
+      "building_type": "Indoor and outdoor swimming pools",
+      "spaces": [
+        "Pool edge",
+        "Overflow channel",
+        "Pool rim"
+      ],
+      "uses": [
+        "Collect and drain overflowing pool water",
+        "Provide pool-edge access and slip-resistant paving",
+        "Skim the pool surface"
+      ],
+      "furniture_equipment": [
+        "Grip tile",
+        "Slip-resistant paving",
+        "Grating",
+        "Expansion joint",
+        "Joint band",
+        "Gasket",
+        "Ring drain",
+        "Drainage channel",
+        "Pool edge kerbstone",
+        "Surface skimmer",
+        "Pre-cast concrete gutter",
+        "Foil liner"
+      ],
+      "dimensions": [],
+      "figure_refs": [
+        "7 Pre-cast concrete gutter/foil liner",
+        "8 Variant",
+        "13 'Zürich' pool edge overflow system",
+        "14 'Wiesbaden' overflow channel system",
+        "15 Finnish channel",
+        "16 'St. Moritz' overflow channel system",
+        "17 Overflow channel with pool edge kerbstone and drainage channel",
+        "18 Surface skimmer"
+      ],
+      "cross_refs": [
+        "8 Variant → 6"
+      ],
+      "keywords": [
+        "pool overflow",
+        "overflow channel",
+        "pool edge",
+        "drainage",
+        "surface skimmer",
+        "slip-resistant paving"
+      ],
+      "tags_architectural": [
+        "safety",
+        "circulation"
+      ],
+      "confidence": 0.94
+    }
+  ]
+}

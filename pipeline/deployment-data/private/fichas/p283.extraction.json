@@ -1,0 +1,334 @@
+{
+  "fichas": [
+    {
+      "id": "4122fb96e4bd1976-283-vision-0",
+      "pdf_page": 283,
+      "book_page": 270,
+      "chapter": "INDUSTRY AND TRADE",
+      "section": "Industry",
+      "title": "Toilet facilities in industrial buildings",
+      "summary": "Toilets should be within the specified distance of workstations and near social, readiness, washing, and changing rooms. Separate facilities are required for women and men when there are more than five employees. Facilities include a lobby with washbasins and a separate room with at least one WC, subject to the stated exception. The page illustrates single-row and two-row WC layouts, layouts with urinals, and an example facility for 100 women and men. It also gives WC fitting schedules by employee count and ventilation requirements.",
+      "building_type": "Industrial building",
+      "spaces": [
+        "Toilet facilities",
+        "WC cubicles",
+        "Washbasin lobby",
+        "Separate WC room",
+        "Urinal area",
+        "Changing rooms"
+      ],
+      "uses": [
+        "Employee toilet provision",
+        "Handwashing",
+        "Provide separate facilities for women and men",
+        "Meet workplace ventilation requirements"
+      ],
+      "furniture_equipment": [
+        "WCs",
+        "Urinals",
+        "Washbasins",
+        "Waste bins",
+        "Bucket sinks"
+      ],
+      "dimensions": [
+        {
+          "label": "Maximum distance from workstation",
+          "value": 100.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Toilets are to be provided no farther than this distance from each workstation, or at most one storey height if no escalator is available.",
+          "status": "uncertain",
+          "ocr_raw": "not more than 100 m"
+        },
+        {
+          "label": "Maximum area served by toilet facilities",
+          "value": 100.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Area-served diagram; the OCR/image gives the value in metres without a square-unit notation.",
+          "status": "uncertain",
+          "ocr_raw": "area served ≤ 100 m"
+        },
+        {
+          "label": "Maximum number of men served per unit",
+          "value": 250.0,
+          "value_max": null,
+          "unit": "men",
+          "context": "Area-served diagram; number of men per unit.",
+          "status": "uncertain",
+          "ocr_raw": "unit ≤ 250 men"
+        },
+        {
+          "label": "Maximum number of women served per unit",
+          "value": 160.0,
+          "value_max": null,
+          "unit": "women",
+          "context": "Area-served diagram; number of women per unit.",
+          "status": "uncertain",
+          "ocr_raw": "≤ 160 women"
+        },
+        {
+          "label": "Employee threshold for separate women's and men's toilets",
+          "value": 5.0,
+          "value_max": null,
+          "unit": "employees",
+          "context": "Separate toilets must be provided when there are more than this number of employees.",
+          "status": "uncertain",
+          "ocr_raw": "If there are more than five employees"
+        },
+        {
+          "label": "Washbasin provision",
+          "value": 1.0,
+          "value_max": null,
+          "unit": "washbasin per 5 WCs",
+          "context": "Minimum washbasins in the lobby, expressed as a provision ratio.",
+          "status": "uncertain",
+          "ocr_raw": "at least one washbasin per five WCs"
+        },
+        {
+          "label": "Minimum WCs in separate room",
+          "value": 1.0,
+          "value_max": null,
+          "unit": "WC",
+          "context": "Minimum number in the completely separate room, except for the stated single-toilet/no-direct-access condition.",
+          "status": "uncertain",
+          "ocr_raw": "with at least one WC"
+        },
+        {
+          "label": "Minimum partition height",
+          "value": 1.9,
+          "value_max": null,
+          "unit": "m",
+          "context": "Minimum height for light partitions used for incompletely separated WC cubicles.",
+          "status": "uncertain",
+          "ocr_raw": "a height of at least 1.90 m"
+        },
+        {
+          "label": "Partition bottom gap",
+          "value": 10.0,
+          "value_max": 15.0,
+          "unit": "cm",
+          "context": "Gap at the bottom of a light partition.",
+          "status": "uncertain",
+          "ocr_raw": "at the bottom a gap of 10–15 cm"
+        },
+        {
+          "label": "Maximum WC cubicles per toilet facility",
+          "value": 10.0,
+          "value_max": null,
+          "unit": "WC cubicles",
+          "context": "Facilities should not contain more than this number.",
+          "status": "uncertain",
+          "ocr_raw": "not contain more than 10 WC cubicles"
+        },
+        {
+          "label": "Maximum urinals per toilet facility",
+          "value": 10.0,
+          "value_max": null,
+          "unit": "urinals",
+          "context": "Facilities should not contain more than this number.",
+          "status": "uncertain",
+          "ocr_raw": "and 10 urinals"
+        },
+        {
+          "label": "Window ventilation on one side, minimum section per WC",
+          "value": 1700.0,
+          "value_max": null,
+          "unit": "cm²/WC",
+          "context": "Minimum ventilation section for natural window ventilation on one side.",
+          "status": "uncertain",
+          "ocr_raw": "with window ventilation on one side 1700 cm²/WC"
+        },
+        {
+          "label": "Window ventilation on one side, minimum section per urinal",
+          "value": 1000.0,
+          "value_max": null,
+          "unit": "cm²/urinal",
+          "context": "Minimum ventilation section for natural window ventilation on one side.",
+          "status": "uncertain",
+          "ocr_raw": "1000 cm²/urinal"
+        },
+        {
+          "label": "Through ventilation, minimum section per WC",
+          "value": 1000.0,
+          "value_max": null,
+          "unit": "cm²/WC",
+          "context": "Minimum ventilation section with ventilation shaft and opening window opposite.",
+          "status": "uncertain",
+          "ocr_raw": "with through ventilation (ventilation shaft and opening window opposite) 1000 cm²/WC"
+        },
+        {
+          "label": "Through ventilation, minimum section per urinal",
+          "value": 600.0,
+          "value_max": null,
+          "unit": "cm²/urinal",
+          "context": "Minimum ventilation section with ventilation shaft and opening window opposite.",
+          "status": "uncertain",
+          "ocr_raw": "600 cm²/urinal"
+        },
+        {
+          "label": "Ventilation equipment design rate per WC",
+          "value": 30.0,
+          "value_max": null,
+          "unit": "m³/WC",
+          "context": "Ventilation equipment design rate.",
+          "status": "uncertain",
+          "ocr_raw": "30 m³/WC"
+        },
+        {
+          "label": "Ventilation equipment design rate per urinal",
+          "value": 15.0,
+          "value_max": null,
+          "unit": "m³/urinal",
+          "context": "Ventilation equipment design rate.",
+          "status": "uncertain",
+          "ocr_raw": "15 m³/urinal"
+        },
+        {
+          "label": "Minimum air changes",
+          "value": 5.0,
+          "value_max": null,
+          "unit": "air changes/h",
+          "context": "Overall minimum ventilation rate stated for the facilities.",
+          "status": "uncertain",
+          "ocr_raw": "altogether at least five air changes/h"
+        },
+        {
+          "label": "Example facility employee count",
+          "value": 100.0,
+          "value_max": null,
+          "unit": "women and men",
+          "context": "Figure 9 caption identifies an example toilet facility for this number of women and men.",
+          "status": "uncertain",
+          "ocr_raw": "Toilet facilities for 100 women and men (example)"
+        },
+        {
+          "label": "Typical WC-layout dimension",
+          "value": 1.25,
+          "value_max": null,
+          "unit": "m",
+          "context": "Dimension printed on WC layout drawings; drawing dimensions are shown in metres.",
+          "status": "uncertain",
+          "ocr_raw": "1.25"
+        },
+        {
+          "label": "Typical WC-layout dimension",
+          "value": 1.55,
+          "value_max": null,
+          "unit": "m",
+          "context": "Dimension printed on WC layout drawings; drawing dimensions are shown in metres.",
+          "status": "uncertain",
+          "ocr_raw": "1.55"
+        },
+        {
+          "label": "Typical WC-layout dimension",
+          "value": 1.5,
+          "value_max": null,
+          "unit": "m",
+          "context": "Dimension printed on WC layout drawings; drawing dimensions are shown in metres.",
+          "status": "uncertain",
+          "ocr_raw": "1.50"
+        },
+        {
+          "label": "Typical WC-layout dimension",
+          "value": 1.15,
+          "value_max": null,
+          "unit": "m",
+          "context": "Dimension printed on WC layout drawings; drawing dimensions are shown in metres.",
+          "status": "uncertain",
+          "ocr_raw": "1.15"
+        },
+        {
+          "label": "Typical WC-layout dimension",
+          "value": 1.1,
+          "value_max": null,
+          "unit": "m",
+          "context": "Minimum dimension indicated on single-row WC layout drawing.",
+          "status": "uncertain",
+          "ocr_raw": "≥ 1.10"
+        },
+        {
+          "label": "Typical WC-layout dimension",
+          "value": 1.35,
+          "value_max": null,
+          "unit": "m",
+          "context": "Minimum dimension indicated on single-row WC layout drawing.",
+          "status": "uncertain",
+          "ocr_raw": "≥ 1.35"
+        },
+        {
+          "label": "Typical WC-layout dimension",
+          "value": 2.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Dimension printed on WC layout drawings; drawing dimensions are shown in metres.",
+          "status": "uncertain",
+          "ocr_raw": "2.00"
+        },
+        {
+          "label": "Typical WC-layout dimension",
+          "value": 1.65,
+          "value_max": null,
+          "unit": "m",
+          "context": "Dimension printed on WC layout drawings; drawing dimensions are shown in metres.",
+          "status": "uncertain",
+          "ocr_raw": "1.65"
+        },
+        {
+          "label": "WC fitting schedule employee count, men",
+          "value": 10.0,
+          "value_max": null,
+          "unit": "employees",
+          "context": "Men's WC fitting schedule, first employee-count row.",
+          "status": "uncertain",
+          "ocr_raw": "10"
+        },
+        {
+          "label": "WC fitting schedule employee count, women",
+          "value": 10.0,
+          "value_max": null,
+          "unit": "employees",
+          "context": "Women's WC fitting schedule, first employee-count row.",
+          "status": "uncertain",
+          "ocr_raw": "10"
+        }
+      ],
+      "figure_refs": [
+        "1 Area served by toilet facilities",
+        "2 Arrangement of toilet facilities",
+        "3 Single-row WCs, doors open outward",
+        "4 Doors open inward",
+        "5 With urinals, doors open outward",
+        "6 As 5 but doors open inward",
+        "7 Two-row WCs, doors open outward",
+        "8 Doors open inward",
+        "9 Toilet facilities for 100 women and men (example)",
+        "10 Required number of WC fittings",
+        "11 WC: wall-mounted – floor-mounted; urinal"
+      ],
+      "cross_refs": [
+        "p. 21 ff.",
+        "p. 263"
+      ],
+      "keywords": [
+        "industrial buildings",
+        "subsidiary rooms",
+        "toilets",
+        "WC cubicles",
+        "urinals",
+        "washbasins",
+        "workplace regulations",
+        "ventilation",
+        "employee facilities"
+      ],
+      "tags_architectural": [
+        "circulation",
+        "clearance",
+        "accessibility",
+        "ventilation",
+        "safety"
+      ],
+      "confidence": 0.88
+    }
+  ]
+}

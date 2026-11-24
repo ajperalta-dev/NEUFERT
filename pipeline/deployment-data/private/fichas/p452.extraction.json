@@ -1,0 +1,527 @@
+{
+  "fichas": [
+    {
+      "id": "4122fb96e4bd1976-452-vision-0",
+      "pdf_page": 452,
+      "book_page": 439,
+      "chapter": "EXTERNAL WORKS",
+      "section": "Biological Engineering",
+      "title": "Supporting slopes in loose ground",
+      "summary": "Biological engineering can integrate slope support into the vegetative scene. Steep slopes should ideally transition to flatter terrain and be planted with grass, perennials, or trees. Support methods shown or described include turf, fascines, paving, masonry, anchors, rock bolts, shotcrete, and anchored beam grillages. Large cuttings may require staged excavation and immediate support.",
+      "building_type": "Slope stabilization and earthworks",
+      "spaces": [
+        "Steep slopes",
+        "Cuttings",
+        "Sloped properties"
+      ],
+      "uses": [
+        "Stabilize steep slopes and loose ground",
+        "Support road cuttings",
+        "Integrate engineered slopes into the landscape"
+      ],
+      "furniture_equipment": [
+        "Timber pegs",
+        "Fascines",
+        "Masonry elements",
+        "Rock bolts",
+        "Shotcrete",
+        "Reinforcing mesh",
+        "Anchored beams",
+        "Standing posts"
+      ],
+      "dimensions": [
+        {
+          "label": "Slope threshold for nailing turfs",
+          "value": 1.0,
+          "value_max": null,
+          "unit": "ratio",
+          "context": "Turfs should be nailed with timber pegs when the slope is greater than 1:2; the ratio is retained as printed.",
+          "status": "uncertain",
+          "ocr_raw": "At a slope greater than 1:2, turfs should be nailed with timber pegs."
+        },
+        {
+          "label": "Turf-stacking slope range",
+          "value": 1.0,
+          "value_max": null,
+          "unit": "ratio",
+          "context": "Turfs can be stacked for inclinations from 1:1.5 to 1:0.5. The printed ratio range is retained in context and is not represented as a descending numeric range.",
+          "status": "uncertain",
+          "ocr_raw": "with inclinations of 1:1.5 to 1:0.5."
+        },
+        {
+          "label": "Rock anchor length",
+          "value": 15.0,
+          "value_max": 25.0,
+          "unit": "m",
+          "context": "Length marked on the anchored-rail revetment detail.",
+          "status": "uncertain",
+          "ocr_raw": "15–25m"
+        },
+        {
+          "label": "Rock anchor capacity",
+          "value": 15.0,
+          "value_max": 100.0,
+          "unit": "t",
+          "context": "Capacity marked on the anchored-rail revetment detail.",
+          "status": "uncertain",
+          "ocr_raw": "15–100t rock anchor"
+        },
+        {
+          "label": "VSL multi-strand anchor capacity",
+          "value": 33.0,
+          "value_max": 65.0,
+          "unit": "t",
+          "context": "Anchor notation in the staged-excavation support detail.",
+          "status": "uncertain",
+          "ocr_raw": "VSL multi-strand anchor, 33-65t"
+        },
+        {
+          "label": "Alluvial rod length",
+          "value": 3.0,
+          "value_max": 6.0,
+          "unit": "m",
+          "context": "Length indicated for alluvial rods in the staged-excavation support detail.",
+          "status": "uncertain",
+          "ocr_raw": "alluvial rods, generally 3 to 6 m long,"
+        },
+        {
+          "label": "Alluvial rod capacity",
+          "value": 5.0,
+          "value_max": 15.0,
+          "unit": "t",
+          "context": "Capacity indicated for alluvial rods in the staged-excavation support detail.",
+          "status": "uncertain",
+          "ocr_raw": "5–15 t"
+        }
+      ],
+      "figure_refs": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "cross_refs": [
+        "→ 1–6",
+        "→ 4"
+      ],
+      "keywords": [
+        "biological engineering",
+        "slope support",
+        "loose ground",
+        "fascines",
+        "turf",
+        "rock bolts",
+        "shotcrete",
+        "anchored beam grillage"
+      ],
+      "tags_architectural": [
+        "safety",
+        "adaptability"
+      ],
+      "confidence": 0.94
+    },
+    {
+      "id": "4122fb96e4bd1976-452-vision-1",
+      "pdf_page": 452,
+      "book_page": 439,
+      "chapter": "EXTERNAL WORKS",
+      "section": "Biological Engineering",
+      "title": "Rock slopes and revetment",
+      "summary": "Rock slope form is determined by geology and jointing. The sheet illustrates rock cladding or masonry revetment, walls built in front of rock or bonded directly to it, and slope designs for strata of variable stability. Steep artificial slopes require special retention measures; unstable or non-solid strata may require flattening or retention.",
+      "building_type": "Rock slope protection and retaining structures",
+      "spaces": [
+        "Rock slopes",
+        "Retained slopes",
+        "Roadside slopes"
+      ],
+      "uses": [
+        "Protect rock faces with revetment or masonry",
+        "Retain steep artificial slopes",
+        "Adapt slope support to geology and strata stability"
+      ],
+      "furniture_equipment": [
+        "Rock cladding",
+        "Masonry",
+        "Retaining wall",
+        "Base wall"
+      ],
+      "dimensions": [],
+      "figure_refs": [
+        "8",
+        "9",
+        "10",
+        "11",
+        "12"
+      ],
+      "cross_refs": [
+        "→ 9",
+        "→ 11"
+      ],
+      "keywords": [
+        "rock slope",
+        "geology",
+        "jointing",
+        "revetment",
+        "masonry",
+        "retaining wall",
+        "strata stability"
+      ],
+      "tags_architectural": [
+        "safety",
+        "adaptability"
+      ],
+      "confidence": 0.9
+    },
+    {
+      "id": "4122fb96e4bd1976-452-vision-2",
+      "pdf_page": 452,
+      "book_page": 439,
+      "chapter": "EXTERNAL WORKS",
+      "section": "Biological Engineering",
+      "title": "Krainer wall and Ebensee system",
+      "summary": "A spatial-grid retaining wall (Krainer wall) is shown, including stepped installation and an Ebensee system component table. The stepped wall can provide room for a new road while retaining a green landscape. The table lists component lengths, widths, heights, and weights per unit.",
+      "building_type": "Retaining wall",
+      "spaces": [
+        "Retained slope",
+        "Roadside embankment"
+      ],
+      "uses": [
+        "Retain slopes",
+        "Provide space for a new road",
+        "Support steep strata"
+      ],
+      "furniture_equipment": [
+        "Krainer wall components",
+        "Stretcher",
+        "End stretcher",
+        "Half end stretcher",
+        "Header",
+        "Spacer block",
+        "Distance block"
+      ],
+      "dimensions": [
+        {
+          "label": "Stretcher LE length",
+          "value": 250.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Ebensee Krainer wall component table.",
+          "status": "uncertain",
+          "ocr_raw": "stretcher LE 250"
+        },
+        {
+          "label": "Stretcher LE width",
+          "value": 30.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Ebensee Krainer wall component table.",
+          "status": "uncertain",
+          "ocr_raw": "stretcher LE 250 30"
+        },
+        {
+          "label": "Stretcher LE height",
+          "value": 10.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Ebensee Krainer wall component table.",
+          "status": "uncertain",
+          "ocr_raw": "stretcher LE 250 30 10"
+        },
+        {
+          "label": "Stretcher LE weight",
+          "value": 168.0,
+          "value_max": null,
+          "unit": "kg/unit",
+          "context": "Ebensee Krainer wall component table.",
+          "status": "uncertain",
+          "ocr_raw": "stretcher LE 250 30 10 168"
+        },
+        {
+          "label": "End stretcher ELE length",
+          "value": 280.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Ebensee Krainer wall component table.",
+          "status": "uncertain",
+          "ocr_raw": "end stretcher ELE 280"
+        },
+        {
+          "label": "End stretcher ELE width",
+          "value": 30.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Ebensee Krainer wall component table.",
+          "status": "uncertain",
+          "ocr_raw": "end stretcher ELE 280 30"
+        },
+        {
+          "label": "End stretcher ELE height",
+          "value": 10.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Ebensee Krainer wall component table.",
+          "status": "uncertain",
+          "ocr_raw": "end stretcher ELE 280 30 10"
+        },
+        {
+          "label": "End stretcher ELE weight",
+          "value": 188.0,
+          "value_max": null,
+          "unit": "kg/unit",
+          "context": "Ebensee Krainer wall component table.",
+          "status": "uncertain",
+          "ocr_raw": "end stretcher ELE 280 30 10 188"
+        },
+        {
+          "label": "Half end stretcher EHLE length",
+          "value": 155.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Ebensee Krainer wall component table.",
+          "status": "uncertain",
+          "ocr_raw": "half end stretcher EHLE 155"
+        },
+        {
+          "label": "Half end stretcher EHLE width",
+          "value": 30.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Ebensee Krainer wall component table.",
+          "status": "uncertain",
+          "ocr_raw": "half end stretcher EHLE 155 30"
+        },
+        {
+          "label": "Half end stretcher EHLE height",
+          "value": 10.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Ebensee Krainer wall component table.",
+          "status": "uncertain",
+          "ocr_raw": "half end stretcher EHLE 155 30 10"
+        },
+        {
+          "label": "Half end stretcher EHLE weight",
+          "value": 108.0,
+          "value_max": null,
+          "unit": "kg/unit",
+          "context": "Ebensee Krainer wall component table.",
+          "status": "uncertain",
+          "ocr_raw": "half end stretcher EHLE 155 30 10 108"
+        },
+        {
+          "label": "Half end stretcher HLE length",
+          "value": 125.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Ebensee Krainer wall component table.",
+          "status": "uncertain",
+          "ocr_raw": "half end stretcher HLE 125"
+        },
+        {
+          "label": "Half end stretcher HLE width",
+          "value": 30.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Ebensee Krainer wall component table.",
+          "status": "uncertain",
+          "ocr_raw": "half end stretcher HLE 125 30"
+        },
+        {
+          "label": "Half end stretcher HLE height",
+          "value": 10.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Ebensee Krainer wall component table.",
+          "status": "uncertain",
+          "ocr_raw": "half end stretcher HLE 125 30 10"
+        },
+        {
+          "label": "Half end stretcher HLE weight",
+          "value": 88.0,
+          "value_max": null,
+          "unit": "kg/unit",
+          "context": "Ebensee Krainer wall component table.",
+          "status": "uncertain",
+          "ocr_raw": "half end stretcher HLE 125 30 10 88"
+        },
+        {
+          "label": "Header B 130 length",
+          "value": 90.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Ebensee Krainer wall component table.",
+          "status": "uncertain",
+          "ocr_raw": "header B 130 90"
+        },
+        {
+          "label": "Header B 130 width",
+          "value": 15.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Ebensee Krainer wall component table.",
+          "status": "uncertain",
+          "ocr_raw": "header B 130 90 15"
+        },
+        {
+          "label": "Header B 130 height",
+          "value": 25.0,
+          "value_max": 32.0,
+          "unit": "cm",
+          "context": "Ebensee Krainer wall component table; height is printed as a range.",
+          "status": "uncertain",
+          "ocr_raw": "header B 130 90 15 25–32"
+        },
+        {
+          "label": "Header B 130 weight",
+          "value": 118.0,
+          "value_max": null,
+          "unit": "kg/unit",
+          "context": "Ebensee Krainer wall component table.",
+          "status": "uncertain",
+          "ocr_raw": "header B 130 90 15 25–32 118"
+        },
+        {
+          "label": "Header B 180 length",
+          "value": 130.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Ebensee Krainer wall component table.",
+          "status": "uncertain",
+          "ocr_raw": "header B 180 130"
+        },
+        {
+          "label": "Header B 180 width",
+          "value": 15.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Ebensee Krainer wall component table.",
+          "status": "uncertain",
+          "ocr_raw": "header B 180 130 15"
+        },
+        {
+          "label": "Header B 180 height",
+          "value": 25.0,
+          "value_max": 32.0,
+          "unit": "cm",
+          "context": "Ebensee Krainer wall component table; height is printed as a range.",
+          "status": "uncertain",
+          "ocr_raw": "header B 180 130 15 25–32"
+        },
+        {
+          "label": "Header B 180 weight",
+          "value": 68.0,
+          "value_max": null,
+          "unit": "kg/unit",
+          "context": "Ebensee Krainer wall component table.",
+          "status": "uncertain",
+          "ocr_raw": "header B 180 130 15 25–32 68"
+        },
+        {
+          "label": "Spacer block A length",
+          "value": 30.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Ebensee Krainer wall component table.",
+          "status": "uncertain",
+          "ocr_raw": "spacer block A 30"
+        },
+        {
+          "label": "Spacer block A width",
+          "value": 15.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Ebensee Krainer wall component table.",
+          "status": "uncertain",
+          "ocr_raw": "spacer block A 30 15"
+        },
+        {
+          "label": "Spacer block A height",
+          "value": 25.0,
+          "value_max": 32.0,
+          "unit": "cm",
+          "context": "Ebensee Krainer wall component table; height is printed as a range.",
+          "status": "uncertain",
+          "ocr_raw": "spacer block A 30 15 25–32"
+        },
+        {
+          "label": "Spacer block A weight",
+          "value": 20.0,
+          "value_max": null,
+          "unit": "kg/unit",
+          "context": "Ebensee Krainer wall component table.",
+          "status": "uncertain",
+          "ocr_raw": "spacer block A 30 15 25–32 20"
+        },
+        {
+          "label": "Distance block D length",
+          "value": 20.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Ebensee Krainer wall component table.",
+          "status": "uncertain",
+          "ocr_raw": "distance block D 20"
+        },
+        {
+          "label": "Distance block D width",
+          "value": 10.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Ebensee Krainer wall component table.",
+          "status": "uncertain",
+          "ocr_raw": "distance block D 20 10"
+        },
+        {
+          "label": "Distance block D height",
+          "value": 10.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Ebensee Krainer wall component table.",
+          "status": "uncertain",
+          "ocr_raw": "distance block D 20 10 10"
+        },
+        {
+          "label": "Distance block D weight",
+          "value": 6.0,
+          "value_max": null,
+          "unit": "kg/unit",
+          "context": "Ebensee Krainer wall component table.",
+          "status": "uncertain",
+          "ocr_raw": "distance block D 20 10 10 6"
+        },
+        {
+          "label": "Krainer wall height shown",
+          "value": 2.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Dimension marked beside the wall illustration.",
+          "status": "uncertain",
+          "ocr_raw": "~2.0m"
+        }
+      ],
+      "figure_refs": [
+        "6",
+        "7",
+        "13",
+        "14"
+      ],
+      "cross_refs": [
+        "→ 6 + 13"
+      ],
+      "keywords": [
+        "Krainer wall",
+        "Ebensee system",
+        "retaining wall",
+        "spatial grid",
+        "wall components",
+        "road embankment"
+      ],
+      "tags_architectural": [
+        "safety",
+        "adaptability",
+        "modularity"
+      ],
+      "confidence": 0.88
+    }
+  ]
+}

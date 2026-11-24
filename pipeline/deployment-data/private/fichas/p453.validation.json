@@ -1,0 +1,136 @@
+{
+  "model": "gpt-6-luna",
+  "checks": {
+    "checks": [
+      {
+        "ficha_index": 0,
+        "dimension_index": 0,
+        "status": "uncertain",
+        "value": 1.0,
+        "value_max": null,
+        "reason": "The drawing prints \u201c\u22651:2\u201d; the proposed value of 1 with unit \u201cratio\u201d does not visibly represent that threshold."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 1,
+        "status": "verified",
+        "value": 30.0,
+        "value_max": null,
+        "reason": "The drawing labels the turf dimension \u201c30 cm\u201d."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 2,
+        "status": "verified",
+        "value": 1.5,
+        "value_max": 2.0,
+        "reason": "The drawing labels the slope support length \u201c1.50\u20132.00 m\u201d."
+      },
+      {
+        "ficha_index": 1,
+        "dimension_index": 0,
+        "status": "verified",
+        "value": 50.0,
+        "value_max": 70.0,
+        "reason": "The drawing labels the stone rib dimension \u201c50\u201370 cm\u201d."
+      },
+      {
+        "ficha_index": 1,
+        "dimension_index": 1,
+        "status": "verified",
+        "value": 50.0,
+        "value_max": null,
+        "reason": "The drawing labels the dimension beneath the stone ribs \u201c50 cm\u201d."
+      },
+      {
+        "ficha_index": 2,
+        "dimension_index": 0,
+        "status": "verified",
+        "value": 30.0,
+        "value_max": null,
+        "reason": "The drawing prints \u201c< 30 days/year\u201d for the hardwood zone."
+      },
+      {
+        "ficha_index": 2,
+        "dimension_index": 1,
+        "status": "verified",
+        "value": 360.0,
+        "value_max": null,
+        "reason": "The drawing prints \u201c>360 days/year\u201d for the curly leaf pondweed zone."
+      },
+      {
+        "ficha_index": 2,
+        "dimension_index": 2,
+        "status": "verified",
+        "value": 150.0,
+        "value_max": 360.0,
+        "reason": "The drawing prints \u201c150\u2013360 days/year\u201d for the mud zone."
+      }
+    ]
+  },
+  "automatic": [
+    {
+      "ficha_index": 0,
+      "dimension_index": 0,
+      "issues": [
+        "Unknown unit",
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 1,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 2,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 1,
+      "dimension_index": 0,
+      "issues": []
+    },
+    {
+      "ficha_index": 1,
+      "dimension_index": 1,
+      "issues": []
+    },
+    {
+      "ficha_index": 2,
+      "dimension_index": 0,
+      "issues": [
+        "Unknown unit"
+      ]
+    },
+    {
+      "ficha_index": 2,
+      "dimension_index": 1,
+      "issues": [
+        "Unknown unit"
+      ]
+    },
+    {
+      "ficha_index": 2,
+      "dimension_index": 2,
+      "issues": [
+        "Unknown unit"
+      ]
+    }
+  ],
+  "usage": [
+    {
+      "prompt_tokens": 4151,
+      "completion_tokens": 1625
+    },
+    {
+      "prompt_tokens": 4524,
+      "completion_tokens": 590
+    }
+  ]
+}

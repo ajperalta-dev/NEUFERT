@@ -1,0 +1,202 @@
+{
+  "fichas": [
+    {
+      "id": "4122fb96e4bd1976-549-vision-0",
+      "pdf_page": 549,
+      "book_page": 536,
+      "chapter": "BUILDING SERVICES",
+      "section": "Domestic Installation",
+      "title": "Small Sewage Treatment Plants",
+      "summary": "Small sewage treatment plants treat wastewater where connection to municipal treatment works is unavailable or impractical. The process combines mechanical settling in a multi-chamber sedimentation tank with biological treatment in a filter trench, trickle filter, or underground filtration system. The page describes treatment layouts, wastewater production assumptions, and tank sizing under DIN 4261-1.",
+      "building_type": "Domestic wastewater treatment facility",
+      "spaces": [
+        "Multi-chamber sedimentation tank",
+        "Distribution shaft",
+        "Filter trench or trickle filter",
+        "Collection shaft",
+        "Discharge to waterway or soakaway"
+      ],
+      "uses": [
+        "Mechanical wastewater cleaning and sludge removal",
+        "Biological secondary treatment",
+        "Discharge of treated wastewater",
+        "Sizing wastewater treatment capacity for residential and other buildings"
+      ],
+      "furniture_equipment": [
+        "Multi-chamber sedimentation tank",
+        "Distribution shaft",
+        "Perforated feed pipes",
+        "Perforated drainpipes",
+        "Filter gravel",
+        "Collection shaft"
+      ],
+      "dimensions": [
+        {
+          "label": "Daily water use per residential occupant",
+          "value": 150.0,
+          "value_max": null,
+          "unit": "L/occupant/day",
+          "context": "Assumed wastewater production for a residential building",
+          "status": "uncertain",
+          "ocr_raw": "For a residential building, 150 l of water per occupant per day should be assumed."
+        },
+        {
+          "label": "Filter gravel size",
+          "value": 2.0,
+          "value_max": 8.0,
+          "unit": "mm",
+          "context": "Fine gravel in the filter layer of the filter trench",
+          "status": "uncertain",
+          "ocr_raw": "a layer of fine gravel (2–8 mm), the filter layer"
+        },
+        {
+          "label": "Minimum depth of deeper perforated pipe",
+          "value": 1.25,
+          "value_max": null,
+          "unit": "m",
+          "context": "Filter trench biological treatment",
+          "status": "uncertain",
+          "ocr_raw": "into a deeper perforated pipe (depth min. 1.25 m)."
+        },
+        {
+          "label": "Specific usable capacity",
+          "value": 300.0,
+          "value_max": null,
+          "unit": "L/RU",
+          "context": "Multi-chamber sedimentation tanks, both 2-chamber and 3–4-chamber columns",
+          "status": "uncertain",
+          "ocr_raw": "specific usable capacity 300 1/RU* 300 1/RU*"
+        },
+        {
+          "label": "Specific usable capacity",
+          "value": 1500.0,
+          "value_max": null,
+          "unit": "L/RU",
+          "context": "Multi-chamber septic tank, 3 chambers",
+          "status": "uncertain",
+          "ocr_raw": "specific usable capacity 1500 1/RU*"
+        },
+        {
+          "label": "Minimum total usable capacity",
+          "value": 3000.0,
+          "value_max": null,
+          "unit": "L",
+          "context": "Multi-chamber sedimentation tanks, both 2-chamber and 3–4-chamber columns",
+          "status": "uncertain",
+          "ocr_raw": "total usable capacity (min.) 3000 l 3000 l"
+        },
+        {
+          "label": "Minimum total usable capacity",
+          "value": 6000.0,
+          "value_max": null,
+          "unit": "L",
+          "context": "Multi-chamber septic tank, 3 chambers",
+          "status": "uncertain",
+          "ocr_raw": "total usable capacity (min.) 6000 I"
+        },
+        {
+          "label": "Maximum total usable capacity",
+          "value": 4000.0,
+          "value_max": null,
+          "unit": "L",
+          "context": "Multi-chamber sedimentation tank, 2 chambers",
+          "status": "uncertain",
+          "ocr_raw": "total usable capacity (max.) 4000 I"
+        },
+        {
+          "label": "Minimum water depth",
+          "value": 1.2,
+          "value_max": null,
+          "unit": "m",
+          "context": "All listed tank types",
+          "status": "uncertain",
+          "ocr_raw": "min. water depth 1.20m 1.20m 1.20m"
+        },
+        {
+          "label": "Greatest permissible water depth",
+          "value": 1.9,
+          "value_max": null,
+          "unit": "m",
+          "context": "Usable capacity 3000–4000 L; all listed tank types",
+          "status": "uncertain",
+          "ocr_raw": "greatest permissible water depth for usable capacity of 3000-4000 I 1.90 m 1.90 m 1.90 m"
+        },
+        {
+          "label": "Greatest permissible water depth",
+          "value": 1.9,
+          "value_max": null,
+          "unit": "m",
+          "context": "Usable capacity >4000–10000 L; 3–4-chamber sedimentation tanks and 3-chamber septic tanks",
+          "status": "uncertain",
+          "ocr_raw": ">4000-1 0 000 1.90 m 2.20 m 2.20 m"
+        },
+        {
+          "label": "Greatest permissible water depth",
+          "value": 2.2,
+          "value_max": null,
+          "unit": "m",
+          "context": "Usable capacity >4000–10000 L; 3–4-chamber sedimentation tanks and 3-chamber septic tanks",
+          "status": "uncertain",
+          "ocr_raw": ">4000-1 0 000 1.90 m 2.20 m 2.20 m"
+        },
+        {
+          "label": "Greatest permissible water depth",
+          "value": 2.5,
+          "value_max": null,
+          "unit": "m",
+          "context": "Usable capacity >10000–50000 L; 3–4-chamber sedimentation tanks and 3-chamber septic tanks",
+          "status": "uncertain",
+          "ocr_raw": ">1 o 000-50 000 I 2.50m 2.50m"
+        },
+        {
+          "label": "Greatest permissible water depth",
+          "value": 3.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Usable capacity >50000 L; 3–4-chamber sedimentation tanks and 3-chamber septic tanks",
+          "status": "uncertain",
+          "ocr_raw": ">50000 I 3.00 m 3.00m"
+        },
+        {
+          "label": "Residents assumed per residential unit",
+          "value": 2.0,
+          "value_max": null,
+          "unit": "inhabitants/RU",
+          "context": "Residential unit with 50 m² of residential area",
+          "status": "uncertain",
+          "ocr_raw": "RU, each residential unit with 50 m2 of residential area is assumed to have 2 inhabitants"
+        },
+        {
+          "label": "Minimum residents assumed per residential unit",
+          "value": 4.0,
+          "value_max": null,
+          "unit": "inhabitants/RU",
+          "context": "Residential area over 50 m²",
+          "status": "uncertain",
+          "ocr_raw": "over 50 mZ min. 4 inhabitants."
+        }
+      ],
+      "figure_refs": [
+        "1: Basic layouts of multi-chamber sedimentation tanks",
+        "2: Multi-chamber sedimentation tanks of pre-cast components, with two or three chambers, plans and sections",
+        "3: Principle of a filter trench, plan and section",
+        "4: Sizing of multi-chamber sedimentation tanks and septic tanks, DIN 4261-1"
+      ],
+      "cross_refs": [],
+      "keywords": [
+        "small sewage treatment plants",
+        "wastewater",
+        "sedimentation tank",
+        "septic tank",
+        "filter trench",
+        "trickle filter",
+        "DIN 4261-1",
+        "wastewater production"
+      ],
+      "tags_architectural": [
+        "ventilation"
+      ],
+      "confidence": 0.92
+    }
+  ]
+}

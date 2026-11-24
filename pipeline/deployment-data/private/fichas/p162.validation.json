@@ -1,0 +1,425 @@
+{
+  "model": "gpt-6-luna",
+  "checks": {
+    "checks": [
+      {
+        "ficha_index": 0,
+        "dimension_index": 0,
+        "status": "verified",
+        "value": 2.4,
+        "value_max": null,
+        "reason": "Text explicitly states a clear ceiling height of at least 2.40 m."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 1,
+        "status": "verified",
+        "value": 0.125,
+        "value_max": null,
+        "reason": "Text prints 1/8 of net floor area; the proposed ratio is its exact normalization."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 2,
+        "status": "verified",
+        "value": 1.2,
+        "value_max": 1.5,
+        "reason": "Text states 1.50 m, minimum 1.20 m."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 3,
+        "status": "verified",
+        "value": 2.4,
+        "value_max": 2.7,
+        "reason": "Text states minimum 2.40 m and width 2.70 m."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 4,
+        "status": "verified",
+        "value": 85.0,
+        "value_max": 95.0,
+        "reason": "Text states worktop height varies between 85 and 95 cm."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 5,
+        "status": "verified",
+        "value": 2.46,
+        "value_max": 2.76,
+        "reason": "Plan dimension line prints 2.46/2.76; the figure\u2019s length dimensions are in metres."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 6,
+        "status": "verified",
+        "value": 1.2,
+        "value_max": 1.5,
+        "reason": "Plan dimension line prints 1.20/1.50; the figure\u2019s length dimensions are in metres."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 7,
+        "status": "verified",
+        "value": 60.0,
+        "value_max": null,
+        "reason": "Plan labels both side runs \u226560; the adjacent text and furniture table identify these dimensions in cm."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 8,
+        "status": "verified",
+        "value": 30.0,
+        "value_max": 150.0,
+        "reason": "Furniture table gives base unit cupboard width 30\u2013150 cm."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 9,
+        "status": "verified",
+        "value": 60.0,
+        "value_max": null,
+        "reason": "Furniture table gives broom cupboard width 60 cm."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 10,
+        "status": "verified",
+        "value": 30.0,
+        "value_max": 150.0,
+        "reason": "Furniture table gives wall cupboard width 30\u2013150 cm."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 11,
+        "status": "verified",
+        "value": 60.0,
+        "value_max": null,
+        "reason": "Furniture table gives refrigerator width 60 cm."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 12,
+        "status": "verified",
+        "value": 60.0,
+        "value_max": null,
+        "reason": "Furniture table gives freezer width 60 cm."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 13,
+        "status": "verified",
+        "value": 90.0,
+        "value_max": null,
+        "reason": "Furniture table gives chest freezer width \u226590 cm."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 14,
+        "status": "verified",
+        "value": 60.0,
+        "value_max": null,
+        "reason": "Furniture table gives small worktop width \u226560 cm."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 15,
+        "status": "verified",
+        "value": 120.0,
+        "value_max": null,
+        "reason": "Furniture table gives large worktop width \u2265120 cm."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 16,
+        "status": "verified",
+        "value": 60.0,
+        "value_max": null,
+        "reason": "Furniture table gives set-down surface width \u226560 cm."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 17,
+        "status": "verified",
+        "value": 30.0,
+        "value_max": null,
+        "reason": "Furniture table gives worktop next to cooker width \u226530 cm."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 18,
+        "status": "verified",
+        "value": 60.0,
+        "value_max": null,
+        "reason": "Furniture table gives worktop next to sink width \u226560 cm."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 19,
+        "status": "verified",
+        "value": 60.0,
+        "value_max": null,
+        "reason": "Furniture table gives cooker with oven and extractor hood width 60 cm."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 20,
+        "status": "verified",
+        "value": 60.0,
+        "value_max": 90.0,
+        "reason": "Furniture table gives built-in cooker width 60\u201390 cm."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 21,
+        "status": "verified",
+        "value": 60.0,
+        "value_max": null,
+        "reason": "Furniture table gives built-in oven width 60 cm."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 22,
+        "status": "verified",
+        "value": 60.0,
+        "value_max": null,
+        "reason": "Furniture table gives microwave oven width 60 cm."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 23,
+        "status": "verified",
+        "value": 90.0,
+        "value_max": null,
+        "reason": "Furniture table gives single-basin sink width \u226590 cm."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 24,
+        "status": "verified",
+        "value": 120.0,
+        "value_max": null,
+        "reason": "Furniture table gives double-basin sink width \u2265120 cm."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 25,
+        "status": "verified",
+        "value": 60.0,
+        "value_max": null,
+        "reason": "Furniture table gives dishwasher width 60 cm."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 26,
+        "status": "verified",
+        "value": 90.0,
+        "value_max": null,
+        "reason": "Furniture table gives washing-up unit width \u226590 cm."
+      }
+    ]
+  },
+  "automatic": [
+    {
+      "ficha_index": 0,
+      "dimension_index": 0,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 1,
+      "issues": [
+        "Unknown unit",
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 2,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 3,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 4,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 5,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 6,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 7,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 8,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 9,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 10,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 11,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 12,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 13,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 14,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 15,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 16,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 17,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 18,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 19,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 20,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 21,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 22,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 23,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 24,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 25,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 26,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    }
+  ],
+  "usage": [
+    {
+      "prompt_tokens": 4636,
+      "completion_tokens": 1790
+    },
+    {
+      "prompt_tokens": 5573,
+      "completion_tokens": 1223
+    }
+  ]
+}

@@ -1,0 +1,400 @@
+{
+  "fichas": [
+    {
+      "id": "4122fb96e4bd1976-135-vision-0",
+      "pdf_page": 135,
+      "book_page": 122,
+      "chapter": "BUILDING COMPONENTS",
+      "section": "Stairs",
+      "title": "Stairs: construction and profiles",
+      "summary": "Reference sheet on stair construction, tread and nosing profiles, handrails, guardrails, space-saving and alternating-tread stairs, and loft access. It describes undercut risers for narrow treads, guardrail heights by drop, and dimensions for loft ladders and floor openings.",
+      "building_type": "Stairways and loft access",
+      "spaces": [
+        "Stair flights",
+        "Landings",
+        "Stairwells",
+        "Lofts",
+        "Flat roofs"
+      ],
+      "uses": [
+        "Provide stair access where space is limited",
+        "Provide access to lofts and flat roofs",
+        "Protect galleries, mezzanines, balconies, and theatre seating with guardrails"
+      ],
+      "furniture_equipment": [
+        "Handrails",
+        "Guardrails",
+        "Loft ladders",
+        "Folding steps",
+        "Trap-doors"
+      ],
+      "dimensions": [
+        {
+          "label": "Minimum overhang for steps without solid risers",
+          "value": 30.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "The text says steps without solid risers should have an overhang of at least 30 mm.",
+          "status": "uncertain",
+          "ocr_raw": "Steps without solid riser should have an overhang ≥ 30 mm"
+        },
+        {
+          "label": "Tread width threshold for undercut",
+          "value": 260.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "For a tread width below this threshold, the step should be undercut by at least 30 mm.",
+          "status": "uncertain",
+          "ocr_raw": "For a tread width <260 mm (b), the step is to be undercut ≥30 mm"
+        },
+        {
+          "label": "Minimum undercut for narrow treads",
+          "value": 30.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Applies where tread width is less than 260 mm, including open stairs without risers.",
+          "status": "uncertain",
+          "ocr_raw": "the step is to be undercut ≥30 mm"
+        },
+        {
+          "label": "Guardrail drop threshold",
+          "value": 1.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Protective guardrails are compulsory from a height difference of 1 m.",
+          "status": "uncertain",
+          "ocr_raw": "compulsory from 1 m height difference"
+        },
+        {
+          "label": "Guardrail height",
+          "value": 0.9,
+          "value_max": null,
+          "unit": "m",
+          "context": "For a drop below 12 m.",
+          "status": "uncertain",
+          "ocr_raw": "drop <12 m, h = 0.90 m"
+        },
+        {
+          "label": "Drop threshold for guardrail height",
+          "value": 12.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "The adjacent guardrail-height rule distinguishes drops below and above 12 m.",
+          "status": "uncertain",
+          "ocr_raw": "drop <12 m, h = 0.90 m"
+        },
+        {
+          "label": "Guardrail height at workplaces",
+          "value": 1.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "For drops below 12 m at workplaces; also specified for stairwells at least 20 cm wide, including over 12 m.",
+          "status": "uncertain",
+          "ocr_raw": "drop <12 m, h = 1.00 m for workplaces and if the stairwell is at least 20 cm wide, also for over 12 m h."
+        },
+        {
+          "label": "Minimum stairwell width for stated guardrail rule",
+          "value": 20.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "The 1.00 m guardrail height also applies for drops over 12 m if the stairwell is at least this wide.",
+          "status": "uncertain",
+          "ocr_raw": "if the stairwell is at least 20 cm wide"
+        },
+        {
+          "label": "Guardrail height for drops over 12 m",
+          "value": 1.1,
+          "value_max": null,
+          "unit": "m",
+          "context": "Protective guardrail height when the drop is over 12 m.",
+          "status": "uncertain",
+          "ocr_raw": "drop >12 m, h = 1.10 m"
+        },
+        {
+          "label": "Loft ladder pitch",
+          "value": 45.0,
+          "value_max": 75.0,
+          "unit": "degrees",
+          "context": "Printed pitch range for loft ladders.",
+          "status": "uncertain",
+          "ocr_raw": "Loft ladders have a pitch of 45–75°."
+        },
+        {
+          "label": "Maximum riser height for alternating-tread stairs",
+          "value": 20.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "The riser height in an alternating-tread staircase should be no more than 20 cm.",
+          "status": "uncertain",
+          "ocr_raw": "the riser height anyway ≤20 cm."
+        },
+        {
+          "label": "Clear room height",
+          "value": 220.0,
+          "value_max": 280.0,
+          "unit": "cm",
+          "context": "First clear-room-height range in the loft-ladder table.",
+          "status": "uncertain",
+          "ocr_raw": "220–280"
+        },
+        {
+          "label": "Clear room height",
+          "value": 220.0,
+          "value_max": 300.0,
+          "unit": "cm",
+          "context": "Second clear-room-height range in the loft-ladder table.",
+          "status": "uncertain",
+          "ocr_raw": "220–300"
+        },
+        {
+          "label": "Clear room height",
+          "value": 220.0,
+          "value_max": 300.0,
+          "unit": "cm",
+          "context": "Third clear-room-height range in the loft-ladder table.",
+          "status": "uncertain",
+          "ocr_raw": "220–300"
+        },
+        {
+          "label": "Clear room height",
+          "value": 240.0,
+          "value_max": 300.0,
+          "unit": "cm",
+          "context": "Fourth clear-room-height range in the loft-ladder table.",
+          "status": "uncertain",
+          "ocr_raw": "240–300"
+        },
+        {
+          "label": "Loft ladder size",
+          "value": 100.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "First listed ladder size; the table gives the other dimension as 60 (70) cm.",
+          "status": "uncertain",
+          "ocr_raw": "100 x 60 (70)"
+        },
+        {
+          "label": "Loft ladder size",
+          "value": 120.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Second listed ladder size; the other dimension is 60 (70) cm.",
+          "status": "uncertain",
+          "ocr_raw": "120 x 60 (70)"
+        },
+        {
+          "label": "Loft ladder size",
+          "value": 130.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Third listed ladder size; the other dimension is 60 (70 + 80) cm.",
+          "status": "uncertain",
+          "ocr_raw": "130 x 60 (70 + 80)"
+        },
+        {
+          "label": "Loft ladder size",
+          "value": 140.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Fourth listed ladder size; the other dimension is 60 (70 + 80) cm.",
+          "status": "uncertain",
+          "ocr_raw": "140 x 60 (70 + 80)"
+        },
+        {
+          "label": "Loft ladder frame width",
+          "value": 59.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "One of the listed frame widths.",
+          "status": "uncertain",
+          "ocr_raw": "width of frame: W= 59; 69; 79 cm"
+        },
+        {
+          "label": "Loft ladder frame width",
+          "value": 69.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "One of the listed frame widths.",
+          "status": "uncertain",
+          "ocr_raw": "width of frame: W= 59; 69; 79 cm"
+        },
+        {
+          "label": "Loft ladder frame width",
+          "value": 79.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "One of the listed frame widths.",
+          "status": "uncertain",
+          "ocr_raw": "width of frame: W= 59; 69; 79 cm"
+        },
+        {
+          "label": "Loft ladder frame length",
+          "value": 120.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "One of the listed frame lengths.",
+          "status": "uncertain",
+          "ocr_raw": "length of frame: L= 120; 130; 140 cm"
+        },
+        {
+          "label": "Loft ladder frame length",
+          "value": 130.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "One of the listed frame lengths.",
+          "status": "uncertain",
+          "ocr_raw": "length of frame: L= 120; 130; 140 cm"
+        },
+        {
+          "label": "Loft ladder frame length",
+          "value": 140.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "One of the listed frame lengths.",
+          "status": "uncertain",
+          "ocr_raw": "length of frame: L= 120; 130; 140 cm"
+        },
+        {
+          "label": "Loft ladder frame height",
+          "value": 25.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Listed frame height.",
+          "status": "uncertain",
+          "ocr_raw": "height of frame: H = 25 cm"
+        },
+        {
+          "label": "Hatch size",
+          "value": 130.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "One of the hatch sizes shown for flat-roof access; the other dimension is 70 cm.",
+          "status": "uncertain",
+          "ocr_raw": "hatch 1.30 x 70"
+        },
+        {
+          "label": "Hatch size",
+          "value": 140.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "One of the hatch sizes shown for flat-roof access; the other dimension is 70 cm.",
+          "status": "uncertain",
+          "ocr_raw": "1.40 x 70"
+        },
+        {
+          "label": "Hatch size",
+          "value": 140.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "One of the hatch sizes shown for flat-roof access; the other dimension is 75 cm.",
+          "status": "uncertain",
+          "ocr_raw": "1.40 x 75"
+        },
+        {
+          "label": "Floor opening dimension",
+          "value": 60.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Dimension shown beneath the floor-opening diagram.",
+          "status": "uncertain",
+          "ocr_raw": "60"
+        },
+        {
+          "label": "Stair tread width",
+          "value": 18.5,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Dimension labeled in the space-saving stairs diagram.",
+          "status": "uncertain",
+          "ocr_raw": "18.5 cm step width"
+        },
+        {
+          "label": "Alternating stair dimension",
+          "value": 15.8,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Dimension marked on the alternating-tread stair diagram.",
+          "status": "uncertain",
+          "ocr_raw": "15.8"
+        },
+        {
+          "label": "Alternating stair dimension at centre",
+          "value": 16.25,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Dimension marked at the centre of the alternating-tread stair diagram.",
+          "status": "uncertain",
+          "ocr_raw": "16.25 at the centre"
+        },
+        {
+          "label": "Alternating stair height",
+          "value": 210.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Vertical height marked in the alternating-tread stair diagram.",
+          "status": "uncertain",
+          "ocr_raw": "h = 210 cm"
+        },
+        {
+          "label": "Tread-axis dimension a",
+          "value": 20.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "The plan caption states a and b are at least 20 cm.",
+          "status": "uncertain",
+          "ocr_raw": "Plan of treads with a and b ≥20 cm"
+        },
+        {
+          "label": "Tread-axis dimension b",
+          "value": 20.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "The plan caption states a and b are at least 20 cm.",
+          "status": "uncertain",
+          "ocr_raw": "Plan of treads with a and b ≥20 cm"
+        }
+      ],
+      "figure_refs": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11"
+      ],
+      "cross_refs": [
+        "Fire protection pp. 511 ff.",
+        "→ 0",
+        "→ 0 (b)",
+        "→ 8 + 10",
+        "→ 10"
+      ],
+      "keywords": [
+        "stairs",
+        "stair construction",
+        "step profile",
+        "nosing",
+        "undercut riser",
+        "handrail",
+        "guardrail",
+        "alternating-tread stairs",
+        "loft ladder",
+        "folding steps",
+        "stair tolerances"
+      ],
+      "tags_architectural": [
+        "accessibility",
+        "circulation",
+        "ergonomics",
+        "clearance",
+        "safety"
+      ],
+      "confidence": 0.91
+    }
+  ]
+}

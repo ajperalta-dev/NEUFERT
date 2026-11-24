@@ -1,0 +1,97 @@
+{
+  "model": "gpt-6-luna",
+  "checks": {
+    "checks": [
+      {
+        "ficha_index": 0,
+        "dimension_index": 0,
+        "status": "verified",
+        "value": 25.0,
+        "value_max": 40.0,
+        "reason": "The text states that small roundabouts have a diameter of 25\u201340 m."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 1,
+        "status": "verified",
+        "value": 25.0,
+        "value_max": 35.0,
+        "reason": "Figure 14 caption states D = 25\u201335 m."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 2,
+        "status": "verified",
+        "value": 40.0,
+        "value_max": null,
+        "reason": "The text states that large roundabouts are greater than 40 m in diameter."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 3,
+        "status": "verified",
+        "value": 40.0,
+        "value_max": null,
+        "reason": "Figure 15 caption states D > 40 m."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 4,
+        "status": "verified",
+        "value": 20.0,
+        "value_max": null,
+        "reason": "The text states building is forbidden within 20 m of federal main roads."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 5,
+        "status": "verified",
+        "value": 40.0,
+        "value_max": null,
+        "reason": "The text states building is restricted up to 40 m from the edge of the carriageway."
+      }
+    ]
+  },
+  "automatic": [
+    {
+      "ficha_index": 0,
+      "dimension_index": 0,
+      "issues": []
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 1,
+      "issues": []
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 2,
+      "issues": []
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 3,
+      "issues": []
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 4,
+      "issues": []
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 5,
+      "issues": []
+    }
+  ],
+  "usage": [
+    {
+      "prompt_tokens": 4386,
+      "completion_tokens": 837
+    },
+    {
+      "prompt_tokens": 3847,
+      "completion_tokens": 352
+    }
+  ]
+}

@@ -1,0 +1,125 @@
+{
+  "fichas": [
+    {
+      "id": "4122fb96e4bd1976-94-vision-0",
+      "pdf_page": 94,
+      "book_page": 81,
+      "chapter": "BUILDING COMPONENTS",
+      "section": "Floor Slabs",
+      "title": "Refurbishment of timber joist floor slabs",
+      "summary": "Overview of traditional timber joist floors and methods of refurbishment. Existing joists may sag because they were sized empirically; the text describes strengthening joists, improving load distribution, shortening spans, and improving sound insulation. Wet rooms above timber floors need careful detailing to limit water penetration and damp damage.",
+      "building_type": "Existing building with timber joist floors",
+      "spaces": [
+        "Rooms with timber joist floors",
+        "Cellars",
+        "Wet rooms"
+      ],
+      "uses": [
+        "Refurbishment of floor structure",
+        "Strengthening floor joists",
+        "Improving sound and thermal insulation",
+        "Replacing boarded floors laid in sand",
+        "Constructing wet rooms over timber joist floors"
+      ],
+      "furniture_equipment": [
+        "Timber joists",
+        "Support beams",
+        "Steel beams",
+        "Floor boards",
+        "Battens",
+        "Suspended ceiling",
+        "Insulation",
+        "Screed",
+        "Waterproofing",
+        "Drain pipe"
+      ],
+      "dimensions": [
+        {
+          "label": "Joist height-to-width ratio",
+          "value": 5.0,
+          "value_max": null,
+          "unit": "ratio",
+          "context": "Guideline for determining the size of timber floor joists; the ratio is height to width.",
+          "status": "uncertain",
+          "ocr_raw": "a ratio of joist height to width of 5:7"
+        },
+        {
+          "label": "Vertical lath spacing",
+          "value": 30.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Wet-room detail in a timber-framed building.",
+          "status": "uncertain",
+          "ocr_raw": "Vertical laths at 30 cm"
+        },
+        {
+          "label": "Reinforced screed thickness",
+          "value": 4.5,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Wet-room floor details.",
+          "status": "uncertain",
+          "ocr_raw": "Screed 4.5 cm with reinforcement"
+        },
+        {
+          "label": "Waterproofing upstand above finished floor level",
+          "value": 5.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Wet-room detail; the foil is continued at least this far above FFL.",
+          "status": "uncertain",
+          "ocr_raw": "Foil, welded and continued min 5 cm above FFL"
+        },
+        {
+          "label": "Plasterboard thickness",
+          "value": 12.5,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Suspended ceiling used for sound insulation improvement of a loam floor.",
+          "status": "uncertain",
+          "ocr_raw": "Plasterboard 12.5 mm"
+        },
+        {
+          "label": "Drain pipe diameter",
+          "value": 100.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Pipe installation and floor build-up detail; the printed diameter symbol is Ø.",
+          "status": "uncertain",
+          "ocr_raw": "Drain pipe ø 100"
+        }
+      ],
+      "figure_refs": [
+        "1 Various methods of upgrading timber joist floors",
+        "2 Replacement of a boarded floor laid in sand",
+        "3 Strengthening weak parts of joists in the span",
+        "4 Conventional ways of waterproofing timber joist floors in old buildings",
+        "5 Distortion of drain pipe under a new floor",
+        "6 Floor and wall details for wet rooms in a timber-framed building",
+        "7 Floor and wall details for wet rooms in a masonry building with timber joist floors",
+        "8 Important details in wet rooms",
+        "9 Sound-insulating double-leaf wall construction"
+      ],
+      "cross_refs": [
+        "p. 55"
+      ],
+      "keywords": [
+        "floor slabs",
+        "timber joists",
+        "refurbishment",
+        "sound insulation",
+        "thermal insulation",
+        "wet rooms",
+        "waterproofing",
+        "floor strengthening"
+      ],
+      "tags_architectural": [
+        "circulation",
+        "clearance",
+        "safety",
+        "adaptability"
+      ],
+      "confidence": 0.91
+    }
+  ]
+}

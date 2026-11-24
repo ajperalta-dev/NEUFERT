@@ -1,0 +1,213 @@
+{
+  "model": "gpt-6-luna",
+  "checks": {
+    "checks": [
+      {
+        "ficha_index": 0,
+        "dimension_index": 0,
+        "status": "verified",
+        "value": 3.0,
+        "value_max": null,
+        "reason": "The text explicitly gives a 3.00 m guideline."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 1,
+        "status": "verified",
+        "value": 100.0,
+        "value_max": null,
+        "reason": "The text says working rooms larger than 100 m\u00b2."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 2,
+        "status": "verified",
+        "value": 2.0,
+        "value_max": null,
+        "reason": "The printed ratio is 2:1 (plan depth to room height)."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 3,
+        "status": "verified",
+        "value": 12.0,
+        "value_max": 15.0,
+        "reason": "The text gives economic building depths of 12.0\u201315.0 m."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 4,
+        "status": "verified",
+        "value": 3.0,
+        "value_max": null,
+        "reason": "The text associates rooms without columns with a 3 m clear height."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 5,
+        "status": "verified",
+        "value": 15.0,
+        "value_max": 17.5,
+        "reason": "The text gives 15.0 or 17.5 m for rooms with 1 or 2 columns."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 6,
+        "status": "verified",
+        "value": 4.0,
+        "value_max": null,
+        "reason": "The text associates rooms with 1 or 2 columns with a 4 m clear height."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 7,
+        "status": "verified",
+        "value": 20.0,
+        "value_max": 22.5,
+        "reason": "The text gives 20 or 22.5 m for rooms with two columns."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 8,
+        "status": "verified",
+        "value": 5.0,
+        "value_max": null,
+        "reason": "The text associates rooms with two columns with a 5 m clear height."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 9,
+        "status": "verified",
+        "value": 2.0,
+        "value_max": null,
+        "reason": "The text says the working-area distance from the window should be twice the clear window height."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 10,
+        "status": "verified",
+        "value": 27.0,
+        "value_max": null,
+        "reason": "The text explicitly gives a ground-floor angle of light of 27\u00b0."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 11,
+        "status": "corrected",
+        "value": 0.1,
+        "value_max": null,
+        "reason": "The printed fraction is 1/10 of the floor area; normalized to the equivalent decimal ratio."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 12,
+        "status": "verified",
+        "value": 600.0,
+        "value_max": null,
+        "reason": "The text gives window-area guidance for rooms up to 600 m\u00b2."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 13,
+        "status": "corrected",
+        "value": 0.2,
+        "value_max": null,
+        "reason": "The printed fraction for fine work is 1/5 of the floor area; normalized to the equivalent decimal ratio."
+      }
+    ]
+  },
+  "automatic": [
+    {
+      "ficha_index": 0,
+      "dimension_index": 0,
+      "issues": []
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 1,
+      "issues": []
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 2,
+      "issues": [
+        "Unknown unit"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 3,
+      "issues": []
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 4,
+      "issues": [
+        "OCR range not represented"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 5,
+      "issues": []
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 6,
+      "issues": []
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 7,
+      "issues": []
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 8,
+      "issues": []
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 9,
+      "issues": [
+        "Unknown unit"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 10,
+      "issues": [
+        "Unknown unit"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 11,
+      "issues": [
+        "Unknown unit"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 12,
+      "issues": []
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 13,
+      "issues": [
+        "Unknown unit"
+      ]
+    }
+  ],
+  "usage": [
+    {
+      "prompt_tokens": 4834,
+      "completion_tokens": 1427
+    },
+    {
+      "prompt_tokens": 4687,
+      "completion_tokens": 780
+    }
+  ]
+}

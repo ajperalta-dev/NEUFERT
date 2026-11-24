@@ -1,0 +1,166 @@
+{
+  "fichas": [
+    {
+      "id": "4122fb96e4bd1976-111-vision-0",
+      "pdf_page": 111,
+      "book_page": 98,
+      "chapter": "BUILDING COMPONENTS",
+      "section": "Windows",
+      "title": "Window opening types",
+      "summary": "Illustrates four window operating types: casement with folding, swing, and tilt wings; centre pivot-hung casement with oscillating and turning wings; vertically sliding window; and sliding window.",
+      "building_type": "Window",
+      "spaces": [],
+      "uses": [
+        "Provide operable window openings"
+      ],
+      "furniture_equipment": [],
+      "dimensions": [],
+      "figure_refs": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "cross_refs": [],
+      "keywords": [
+        "windows",
+        "casement",
+        "pivot-hung",
+        "vertically sliding",
+        "sliding window",
+        "folding wing",
+        "swing sash",
+        "tilt wing"
+      ],
+      "tags_architectural": [
+        "ventilation"
+      ],
+      "confidence": 0.98
+    },
+    {
+      "id": "4122fb96e4bd1976-111-vision-1",
+      "pdf_page": 111,
+      "book_page": 98,
+      "chapter": "BUILDING COMPONENTS",
+      "section": "Windows",
+      "title": "Window rebate types and meeting details",
+      "summary": "Shows frame positions at the jamb and three meeting details: inward-opening rebated, outward-opening rebated, and no rebate. The drawings distinguish inside and outside and label RR as structure.",
+      "building_type": "Window",
+      "spaces": [],
+      "uses": [
+        "Detail window frame and jamb connections",
+        "Detail meeting joints"
+      ],
+      "furniture_equipment": [],
+      "dimensions": [
+        {
+          "label": "Meeting detail dimension",
+          "value": 5.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Dimension marked 5 at meeting details",
+          "status": "uncertain",
+          "ocr_raw": "5"
+        },
+        {
+          "label": "Meeting detail dimension",
+          "value": 62.5,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Dimension marked 62.5 at meeting details",
+          "status": "uncertain",
+          "ocr_raw": "62.5"
+        }
+      ],
+      "figure_refs": [
+        "5",
+        "6",
+        "7",
+        "8",
+        "10",
+        "11",
+        "12"
+      ],
+      "cross_refs": [],
+      "keywords": [
+        "rebate",
+        "jamb",
+        "frame",
+        "meeting type",
+        "inward opening",
+        "outward opening",
+        "no rebate",
+        "structure"
+      ],
+      "tags_architectural": [
+        "clearance"
+      ],
+      "confidence": 0.9
+    },
+    {
+      "id": "4122fb96e4bd1976-111-vision-2",
+      "pdf_page": 111,
+      "book_page": 98,
+      "chapter": "BUILDING COMPONENTS",
+      "section": "Windows",
+      "title": "Guideline sizes for structural window openings",
+      "summary": "A grid lists guideline structural window-opening sizes, classified by sash count and by preferred-use symbols for ribbon, door, basement, and laundry windows. Size identifiers are multiples of a 125 mm unit in width and height; the page gives an example converting a 9 × 11 opening identifier to 1125 × 1375 mm.",
+      "building_type": "Window opening",
+      "spaces": [],
+      "uses": [
+        "Guide structural window-opening size selection"
+      ],
+      "furniture_equipment": [],
+      "dimensions": [
+        {
+          "label": "Size increment",
+          "value": 125.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Unit used for both width and height in the opening-size identifiers",
+          "status": "uncertain",
+          "ocr_raw": "125 mm for width and height"
+        },
+        {
+          "label": "Example opening width",
+          "value": 1125.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Example: opening identifier 9 × 11; width component",
+          "status": "uncertain",
+          "ocr_raw": "Window opening 9 x 11 = (9 x 125) x (11 x 125) = 1125 x 1375"
+        },
+        {
+          "label": "Example opening height",
+          "value": 1375.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Example: opening identifier 9 × 11; height component",
+          "status": "uncertain",
+          "ocr_raw": "Window opening 9 x 11 = (9 x 125) x (11 x 125) = 1125 x 1375"
+        }
+      ],
+      "figure_refs": [
+        "9"
+      ],
+      "cross_refs": [],
+      "keywords": [
+        "guideline sizes",
+        "structural window openings",
+        "single sash",
+        "two sash",
+        "three sash",
+        "four sash",
+        "preferred sizes",
+        "ribbon windows",
+        "door windows",
+        "basement windows",
+        "laundry window"
+      ],
+      "tags_architectural": [
+        "modularity"
+      ],
+      "confidence": 0.95
+    }
+  ]
+}

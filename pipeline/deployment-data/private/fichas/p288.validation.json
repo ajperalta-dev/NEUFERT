@@ -1,0 +1,64 @@
+{
+  "model": "gpt-6-luna",
+  "checks": {
+    "checks": [
+      {
+        "ficha_index": 2,
+        "dimension_index": 0,
+        "status": "uncertain",
+        "value": 15.24,
+        "value_max": null,
+        "reason": "The drawing shows 15.24, but no unit is visibly stated."
+      },
+      {
+        "ficha_index": 2,
+        "dimension_index": 1,
+        "status": "uncertain",
+        "value": 11.8,
+        "value_max": null,
+        "reason": "The drawing shows 11.80, but no unit is visibly stated."
+      },
+      {
+        "ficha_index": 2,
+        "dimension_index": 2,
+        "status": "uncertain",
+        "value": 5.8,
+        "value_max": null,
+        "reason": "The drawing shows 5.80, but no unit is visibly stated."
+      }
+    ]
+  },
+  "automatic": [
+    {
+      "ficha_index": 2,
+      "dimension_index": 0,
+      "issues": [
+        "Unknown unit"
+      ]
+    },
+    {
+      "ficha_index": 2,
+      "dimension_index": 1,
+      "issues": [
+        "Unknown unit"
+      ]
+    },
+    {
+      "ficha_index": 2,
+      "dimension_index": 2,
+      "issues": [
+        "Unknown unit"
+      ]
+    }
+  ],
+  "usage": [
+    {
+      "prompt_tokens": 4233,
+      "completion_tokens": 1363
+    },
+    {
+      "prompt_tokens": 4208,
+      "completion_tokens": 259
+    }
+  ]
+}

@@ -1,0 +1,387 @@
+{
+  "fichas": [
+    {
+      "id": "4122fb96e4bd1976-542-vision-0",
+      "pdf_page": 542,
+      "book_page": 529,
+      "chapter": "BUILDING SERVICES",
+      "section": "Domestic Installation",
+      "title": "Controlled ventilation of homes",
+      "summary": "Explains background and demand-controlled ventilation, including recommended air-change rates for residential and sanitary rooms and kitchens. Centralised ventilation with heat recovery filters incoming outside air and transfers warmth from extract air; kitchen and bathroom air should not flow into other rooms.",
+      "building_type": "Residential building",
+      "spaces": [
+        "Occupied rooms",
+        "Bedrooms",
+        "Internal sanitary rooms",
+        "Kitchens",
+        "Bathrooms"
+      ],
+      "uses": [
+        "Provide hygienic indoor air by removing odours, water vapour and CO₂",
+        "Limit building damage associated with inadequate air exchange",
+        "Provide background or demand-controlled ventilation",
+        "Recover heat from extracted air"
+      ],
+      "furniture_equipment": [
+        "Air filters",
+        "Fans",
+        "Cross-flow heat exchanger",
+        "Ventilation ducts"
+      ],
+      "dimensions": [
+        {
+          "label": "Background air exchange rate",
+          "value": 0.5,
+          "value_max": 1.0,
+          "unit": "air changes per hour",
+          "context": "Minimum stated rate to help prevent building damage through normal use.",
+          "status": "uncertain",
+          "ocr_raw": "0.5–1.0 times per hour"
+        },
+        {
+          "label": "Recommended air changes in residential, occupied and bedrooms",
+          "value": 0.5,
+          "value_max": 1.0,
+          "unit": "air changes per hour",
+          "context": "Recommended for hygienic reasons.",
+          "status": "uncertain",
+          "ocr_raw": "0.5–1.0 times per hour in residential, occupied and bedrooms"
+        },
+        {
+          "label": "Recommended air changes in internal sanitary rooms",
+          "value": 4.0,
+          "value_max": 5.0,
+          "unit": "air changes per hour",
+          "context": "Recommended for hygienic reasons.",
+          "status": "uncertain",
+          "ocr_raw": "4–5 times per hour in internal sanitary rooms"
+        },
+        {
+          "label": "Recommended air changes in kitchens",
+          "value": 0.5,
+          "value_max": 25.0,
+          "unit": "air changes per hour",
+          "context": "Intermittent requirement; as printed in the source.",
+          "status": "uncertain",
+          "ocr_raw": "0.5–25 times per hour in kitchens (intermittent requirement)"
+        },
+        {
+          "label": "Heat recovery from extract air",
+          "value": 80.0,
+          "value_max": null,
+          "unit": "percent",
+          "context": "Minimum recoverable waste heat stated for mechanical ventilation with heat recovery.",
+          "status": "uncertain",
+          "ocr_raw": "At least 80% of the waste heat"
+        }
+      ],
+      "figure_refs": [
+        "1"
+      ],
+      "cross_refs": [],
+      "keywords": [
+        "controlled ventilation",
+        "background ventilation",
+        "demand-controlled ventilation",
+        "air changes",
+        "heat recovery",
+        "indoor air quality"
+      ],
+      "tags_architectural": [
+        "ventilation"
+      ],
+      "confidence": 0.96
+    },
+    {
+      "id": "4122fb96e4bd1976-542-vision-1",
+      "pdf_page": 542,
+      "book_page": 529,
+      "chapter": "BUILDING SERVICES",
+      "section": "Domestic Installation",
+      "title": "Central air extract systems and common extract ducts",
+      "summary": "Describes heat recovery from central air extraction using a heat pump and storage in a domestic hot-water cylinder, and single ventilation systems using a common vertical extract duct. Outside air enters through openings and joints; airtight backflow flaps help prevent heat loss and odour nuisance and provide fire protection.",
+      "building_type": "Residential building",
+      "spaces": [
+        "Living areas",
+        "Kitchens",
+        "Bathrooms",
+        "Installation shaft",
+        "Domestic hot-water plant area"
+      ],
+      "uses": [
+        "Extract air from residential spaces",
+        "Recover extract-air heat using a heat pump",
+        "Route exhaust through a shared vertical duct",
+        "Reduce heat loss and odour transfer when fans are off"
+      ],
+      "furniture_equipment": [
+        "Heat pump",
+        "Domestic hot-water cylinder",
+        "Warm-water buffer tank",
+        "Heating device",
+        "Box-form radial fans",
+        "Airtight backflow flaps",
+        "Common extract duct"
+      ],
+      "dimensions": [
+        {
+          "label": "Extract-air temperature level",
+          "value": 20.0,
+          "value_max": 24.0,
+          "unit": "°C",
+          "context": "Low temperature level cited as preventing heat recovery in the heating system without additional measures.",
+          "status": "uncertain",
+          "ocr_raw": "approx. 20–24°"
+        },
+        {
+          "label": "Maximum common-duct height",
+          "value": 20.0,
+          "value_max": null,
+          "unit": "storeys",
+          "context": "Manufacturer-dependent; one or two fans may be connected on each storey.",
+          "status": "uncertain",
+          "ocr_raw": "up to 20 storeys high"
+        },
+        {
+          "label": "Main extract duct diameter",
+          "value": 10.0,
+          "value_max": 35.0,
+          "unit": "cm",
+          "context": "Diameter range for the main extract duct.",
+          "status": "uncertain",
+          "ocr_raw": "10–35 cm diameter"
+        },
+        {
+          "label": "Radial fan capacity (lower stated capacity)",
+          "value": 50.0,
+          "value_max": null,
+          "unit": "m³/h",
+          "context": "Capacity stated for box-form radial fans.",
+          "status": "uncertain",
+          "ocr_raw": "capacity of 50 or 90 m³/h"
+        },
+        {
+          "label": "Radial fan capacity (upper stated capacity)",
+          "value": 90.0,
+          "value_max": null,
+          "unit": "m³/h",
+          "context": "Capacity stated for box-form radial fans.",
+          "status": "uncertain",
+          "ocr_raw": "capacity of 50 or 90 m³/h"
+        },
+        {
+          "label": "Fire resistance class",
+          "value": 90.0,
+          "value_max": null,
+          "unit": "class",
+          "context": "Fire protection rating stated for backflow flaps.",
+          "status": "uncertain",
+          "ocr_raw": "up to fire resistance class L 90"
+        }
+      ],
+      "figure_refs": [
+        "2",
+        "3"
+      ],
+      "cross_refs": [
+        "DIN 18017-3"
+      ],
+      "keywords": [
+        "central air extract",
+        "common extract duct",
+        "heat pump",
+        "backflow flap",
+        "fire protection",
+        "ventilation shaft"
+      ],
+      "tags_architectural": [
+        "ventilation",
+        "safety"
+      ],
+      "confidence": 0.94
+    },
+    {
+      "id": "4122fb96e4bd1976-542-vision-2",
+      "pdf_page": 542,
+      "book_page": 529,
+      "chapter": "BUILDING SERVICES",
+      "section": "Domestic Installation",
+      "title": "Controlled domestic ventilation with ground-source heat exchanger",
+      "summary": "A ground-source heat exchanger cools incoming air in summer and pre-warms it in winter. The page also gives scheduled flow volumes for windowless rooms, with separate values for background operation and demand-controlled operation.",
+      "building_type": "Residential building",
+      "spaces": [
+        "Cooking niche",
+        "Kitchen",
+        "Bathroom",
+        "Separate WC",
+        "Windowless rooms"
+      ],
+      "uses": [
+        "Pre-cool incoming outside air in summer",
+        "Pre-warm incoming outside air in winter",
+        "Supply scheduled ventilation flow to windowless rooms"
+      ],
+      "furniture_equipment": [
+        "Ground-source heat exchanger",
+        "Ventilation ducts",
+        "Air supply and extract equipment"
+      ],
+      "dimensions": [
+        {
+          "label": "Outside air temperature before summer cooling",
+          "value": 30.0,
+          "value_max": null,
+          "unit": "°C",
+          "context": "Stated incoming-air temperature before passing through the ground-source heat exchanger.",
+          "status": "uncertain",
+          "ocr_raw": "from +30°C to +20°C"
+        },
+        {
+          "label": "Outside air temperature after summer cooling",
+          "value": 20.0,
+          "value_max": null,
+          "unit": "°C",
+          "context": "Stated incoming-air temperature after passing through the ground-source heat exchanger.",
+          "status": "uncertain",
+          "ocr_raw": "from +30°C to +20°C"
+        },
+        {
+          "label": "Outside air temperature before winter pre-warming",
+          "value": -10.0,
+          "value_max": null,
+          "unit": "°C",
+          "context": "Stated incoming-air temperature before the winter heat-exchange process.",
+          "status": "uncertain",
+          "ocr_raw": "from −10°C to +2°C"
+        },
+        {
+          "label": "Outside air temperature after winter pre-warming",
+          "value": 2.0,
+          "value_max": null,
+          "unit": "°C",
+          "context": "Stated incoming-air temperature after the winter heat-exchange process.",
+          "status": "uncertain",
+          "ocr_raw": "from −10°C to +2°C"
+        },
+        {
+          "label": "Minimum daily operation period",
+          "value": 12.0,
+          "value_max": null,
+          "unit": "hours/day",
+          "context": "Background-operation column in the scheduled flow-volume table.",
+          "status": "uncertain",
+          "ocr_raw": "Operation min. 12 h/day"
+        },
+        {
+          "label": "Cooking niche flow, background operation",
+          "value": 40.0,
+          "value_max": null,
+          "unit": "m³/h",
+          "context": "Scheduled flow for operation of at least 12 h/day.",
+          "status": "uncertain",
+          "ocr_raw": "cooking niche 40 m³/h"
+        },
+        {
+          "label": "Cooking niche flow, demand-controlled operation",
+          "value": 60.0,
+          "value_max": null,
+          "unit": "m³/h",
+          "context": "Scheduled flow for any duration of operation.",
+          "status": "uncertain",
+          "ocr_raw": "cooking niche 60 m³/h"
+        },
+        {
+          "label": "Kitchen background ventilation flow",
+          "value": 40.0,
+          "value_max": null,
+          "unit": "m³/h",
+          "context": "Scheduled flow for background operation.",
+          "status": "uncertain",
+          "ocr_raw": "kitchen, background ventilation 40 m³/h"
+        },
+        {
+          "label": "Kitchen background ventilation flow, demand-controlled",
+          "value": 60.0,
+          "value_max": null,
+          "unit": "m³/h",
+          "context": "Scheduled flow for any duration of operation.",
+          "status": "uncertain",
+          "ocr_raw": "kitchen, background ventilation 60 m³/h"
+        },
+        {
+          "label": "Kitchen intensive ventilation flow",
+          "value": 200.0,
+          "value_max": null,
+          "unit": "m³/h",
+          "context": "Scheduled flow for background operation.",
+          "status": "uncertain",
+          "ocr_raw": "kitchen, intensive ventilation 200 m³/h"
+        },
+        {
+          "label": "Kitchen intensive ventilation flow, demand-controlled",
+          "value": 200.0,
+          "value_max": null,
+          "unit": "m³/h",
+          "context": "Scheduled flow for any duration of operation.",
+          "status": "uncertain",
+          "ocr_raw": "kitchen, intensive ventilation 200 m³/h"
+        },
+        {
+          "label": "Bathroom with or without WC flow",
+          "value": 40.0,
+          "value_max": null,
+          "unit": "m³/h",
+          "context": "Scheduled flow for background operation.",
+          "status": "uncertain",
+          "ocr_raw": "bathroom with/without WC 40 m³/h"
+        },
+        {
+          "label": "Bathroom with or without WC flow, demand-controlled",
+          "value": 60.0,
+          "value_max": null,
+          "unit": "m³/h",
+          "context": "Scheduled flow for any duration of operation.",
+          "status": "uncertain",
+          "ocr_raw": "bathroom with/without WC 60 m³/h"
+        },
+        {
+          "label": "Separate WC flow",
+          "value": 20.0,
+          "value_max": null,
+          "unit": "m³/h",
+          "context": "Scheduled flow for background operation.",
+          "status": "uncertain",
+          "ocr_raw": "separate WC 20 m³/h"
+        },
+        {
+          "label": "Separate WC flow, demand-controlled",
+          "value": 30.0,
+          "value_max": null,
+          "unit": "m³/h",
+          "context": "Scheduled flow for any duration of operation.",
+          "status": "uncertain",
+          "ocr_raw": "separate WC 30 m³/h"
+        }
+      ],
+      "figure_refs": [
+        "4",
+        "5"
+      ],
+      "cross_refs": [
+        "DIN 1945-5"
+      ],
+      "keywords": [
+        "ground-source heat exchanger",
+        "controlled domestic ventilation",
+        "windowless rooms",
+        "scheduled flow volumes",
+        "summer cooling",
+        "winter pre-warming"
+      ],
+      "tags_architectural": [
+        "ventilation"
+      ],
+      "confidence": 0.94
+    }
+  ]
+}

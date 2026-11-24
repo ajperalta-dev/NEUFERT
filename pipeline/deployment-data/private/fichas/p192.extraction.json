@@ -1,0 +1,458 @@
+{
+  "fichas": [
+    {
+      "id": "4122fb96e4bd1976-192-vision-0",
+      "pdf_page": 192,
+      "book_page": 179,
+      "chapter": "ACCOMMODATION",
+      "section": "Catering",
+      "title": "Restaurant Kitchens: Planning and Organisation",
+      "summary": "Small and medium-sized restaurant kitchens require planning that responds to customer capacity, the type and quality of meals, the share of food prepared from raw ingredients, and customer turnover. Functional diagrams show goods, waste, container and crockery flows, and the relationships between kitchen and service areas.",
+      "building_type": "Restaurant kitchen",
+      "spaces": [
+        "Goods inward and checking",
+        "Storage",
+        "Preparation areas",
+        "Hot kitchen",
+        "Cold kitchen",
+        "Patisserie",
+        "Dishwashing",
+        "Servery",
+        "Waiter passage",
+        "Restaurant"
+      ],
+      "uses": [
+        "Receive and check supplies",
+        "Store food and equipment",
+        "Prepare and cook food",
+        "Wash dishes and pots",
+        "Serve food and drinks",
+        "Manage goods, waste, container and crockery circulation"
+      ],
+      "furniture_equipment": [
+        "Gastronorm containers",
+        "Tables",
+        "Shelves",
+        "Kitchen devices",
+        "Crockery",
+        "Built-in units",
+        "Dishwasher"
+      ],
+      "dimensions": [
+        {
+          "label": "Gastronorm module length",
+          "value": 530.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Module basis for containers, tables, shelves, devices, crockery and built-in units",
+          "status": "uncertain",
+          "ocr_raw": "530 x 325 mm"
+        },
+        {
+          "label": "Gastronorm module width",
+          "value": 325.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Module basis for containers, tables, shelves, devices, crockery and built-in units",
+          "status": "uncertain",
+          "ocr_raw": "530 x 325 mm"
+        },
+        {
+          "label": "Fast-food seat changes",
+          "value": 1.0,
+          "value_max": 3.0,
+          "unit": "times per hour",
+          "context": "Rule of thumb for seat changes in fast food restaurants",
+          "status": "uncertain",
+          "ocr_raw": "about 1-3 times per hour"
+        },
+        {
+          "label": "Conventional restaurant seat changes",
+          "value": 2.0,
+          "value_max": null,
+          "unit": "times per hour",
+          "context": "Rule of thumb for seat changes in conventional restaurants",
+          "status": "uncertain",
+          "ocr_raw": "about 2"
+        },
+        {
+          "label": "Guest stay in speciality and evening-based restaurants",
+          "value": 1.3,
+          "value_max": 2.0,
+          "unit": "hours",
+          "context": "Average duration of a guest stay",
+          "status": "uncertain",
+          "ocr_raw": "1.3-2 hours"
+        },
+        {
+          "label": "Small operation seating capacity",
+          "value": 40.0,
+          "value_max": 60.0,
+          "unit": "seats",
+          "context": "Bistros, snack bars, small cafés, and speciality restaurants classified as small operations",
+          "status": "uncertain",
+          "ocr_raw": "40-60 seats"
+        },
+        {
+          "label": "Small-to-medium unit capacity",
+          "value": 70.0,
+          "value_max": 100.0,
+          "unit": "places",
+          "context": "Capacity associated with carefully zoned and fully equipped kitchen facilities",
+          "status": "uncertain",
+          "ocr_raw": "70-1 00 places"
+        },
+        {
+          "label": "Working aisle width",
+          "value": 0.9,
+          "value_max": 1.2,
+          "unit": "m",
+          "context": "Storage, preparation and production working aisles",
+          "status": "uncertain",
+          "ocr_raw": "0.90-1.20 m"
+        },
+        {
+          "label": "Side traffic route width",
+          "value": 1.5,
+          "value_max": 1.8,
+          "unit": "m",
+          "context": "Side traffic routes with temporary overlapping use",
+          "status": "uncertain",
+          "ocr_raw": "1.50-1.80 m"
+        },
+        {
+          "label": "Main traffic route width",
+          "value": 2.1,
+          "value_max": 3.3,
+          "unit": "m",
+          "context": "Main routes for transport and two-way through traffic",
+          "status": "uncertain",
+          "ocr_raw": "2.10-3.30 m wide"
+        },
+        {
+          "label": "Aisle width in small-to-medium restaurants",
+          "value": 1.0,
+          "value_max": 1.5,
+          "unit": "m",
+          "context": "Suggested aisle width for kitchen areas in small-to-medium restaurants",
+          "status": "uncertain",
+          "ocr_raw": "1.00-1.50 m"
+        }
+      ],
+      "figure_refs": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "cross_refs": [
+        "p. 181"
+      ],
+      "keywords": [
+        "restaurant kitchen",
+        "Gastronorm",
+        "kitchen planning",
+        "goods flow",
+        "waste flow",
+        "seat turnover",
+        "aisle widths"
+      ],
+      "tags_architectural": [
+        "circulation",
+        "ergonomics",
+        "clearance",
+        "safety",
+        "modularity"
+      ],
+      "confidence": 0.95
+    },
+    {
+      "id": "4122fb96e4bd1976-192-vision-1",
+      "pdf_page": 192,
+      "book_page": 179,
+      "chapter": "ACCOMMODATION",
+      "section": "Catering",
+      "title": "Restaurant Kitchen Areas: Space Required per Seat",
+      "summary": "A table gives functional area requirements in square metres per seat for kitchens serving 80, 120 and 200 seats. Values are listed by area, including delivery, storage, preparation, production, washing and service. Some entries are printed as “fridge” rather than as numeric values.",
+      "building_type": "Restaurant kitchen",
+      "spaces": [
+        "Goods inward",
+        "Cold rooms",
+        "Freezer room",
+        "Dry goods store",
+        "Drinks store",
+        "Vegetable preparation",
+        "Meat preparation",
+        "Hot kitchen",
+        "Cold kitchen",
+        "Patisserie",
+        "Pot washing",
+        "Dishwasher",
+        "Service/waiter office"
+      ],
+      "uses": [
+        "Plan kitchen floor area by function and seating capacity"
+      ],
+      "furniture_equipment": [
+        "Refrigerators"
+      ],
+      "dimensions": [
+        {
+          "label": "Total kitchen area per seat, 80 seats",
+          "value": 1.3,
+          "value_max": 1.675,
+          "unit": "m²/seat",
+          "context": "Total kitchen space requirement for the 80-seat column",
+          "status": "uncertain",
+          "ocr_raw": "1.3-1.675"
+        },
+        {
+          "label": "Total kitchen area per seat, 120 seats",
+          "value": 1.25,
+          "value_max": 1.55,
+          "unit": "m²/seat",
+          "context": "Total kitchen space requirement for the 120-seat column",
+          "status": "uncertain",
+          "ocr_raw": "1.25-1.55"
+        },
+        {
+          "label": "Total kitchen area per seat, 200 seats",
+          "value": 1.18,
+          "value_max": 1.44,
+          "unit": "m²/seat",
+          "context": "Total kitchen space requirement for the 200-seat column",
+          "status": "uncertain",
+          "ocr_raw": "1.18-1.44"
+        },
+        {
+          "label": "Kitchen facilities per seat, 80 seats",
+          "value": 0.525,
+          "value_max": 0.625,
+          "unit": "m²/seat",
+          "context": "Kitchen facilities subtotal in the 80-seat column",
+          "status": "uncertain",
+          "ocr_raw": "0.525-0.625"
+        },
+        {
+          "label": "Kitchen facilities per seat, 120 seats",
+          "value": 0.47,
+          "value_max": 0.567,
+          "unit": "m²/seat",
+          "context": "Kitchen facilities subtotal in the 120-seat column",
+          "status": "uncertain",
+          "ocr_raw": "0.47-0.567"
+        },
+        {
+          "label": "Kitchen facilities per seat, 200 seats",
+          "value": 0.41,
+          "value_max": 0.5,
+          "unit": "m²/seat",
+          "context": "Kitchen facilities subtotal in the 200-seat column",
+          "status": "uncertain",
+          "ocr_raw": "0.41-0.5"
+        },
+        {
+          "label": "Seats represented in table",
+          "value": 80.0,
+          "value_max": null,
+          "unit": "seats",
+          "context": "First capacity column in the kitchen area schedule",
+          "status": "uncertain",
+          "ocr_raw": "80"
+        },
+        {
+          "label": "Seats represented in table",
+          "value": 120.0,
+          "value_max": null,
+          "unit": "seats",
+          "context": "Second capacity column in the kitchen area schedule",
+          "status": "uncertain",
+          "ocr_raw": "120"
+        },
+        {
+          "label": "Seats represented in table",
+          "value": 200.0,
+          "value_max": null,
+          "unit": "seats",
+          "context": "Third capacity column in the kitchen area schedule",
+          "status": "uncertain",
+          "ocr_raw": "200"
+        }
+      ],
+      "figure_refs": [
+        "3"
+      ],
+      "cross_refs": [],
+      "keywords": [
+        "kitchen area",
+        "area per seat",
+        "space requirement",
+        "seating capacity",
+        "functional areas"
+      ],
+      "tags_architectural": [
+        "spatial_proportion"
+      ],
+      "confidence": 0.94
+    },
+    {
+      "id": "4122fb96e4bd1976-192-vision-2",
+      "pdf_page": 192,
+      "book_page": 179,
+      "chapter": "ACCOMMODATION",
+      "section": "Catering",
+      "title": "Basis for Kitchen Dimensions and Space Requirements",
+      "summary": "The page gives percentage allocations for kitchen functions, totalling 100%, and illustrates the classification and relationships of functional areas in clean and unclean zones. Earth-covered vegetables, if prepared, are to be handled in a separate part of the unclean area.",
+      "building_type": "Restaurant kitchen",
+      "spaces": [
+        "Goods delivery and inspection",
+        "Freezer, cold and dry storage",
+        "Daily store",
+        "Vegetable and salad preparation",
+        "Cold dishes and desserts",
+        "Patisseries and cakes",
+        "Meat preparation",
+        "Cooking area",
+        "Washing area",
+        "Traffic area",
+        "Staff rooms and office",
+        "Clean zone",
+        "Unclean zone"
+      ],
+      "uses": [
+        "Allocate total kitchen space among functions",
+        "Separate clean and unclean activities",
+        "Organise functional relationships and service routes"
+      ],
+      "furniture_equipment": [
+        "Pot washer",
+        "Dishwasher",
+        "Staff changing room",
+        "Washroom",
+        "Toilets",
+        "Restroom",
+        "Servery"
+      ],
+      "dimensions": [
+        {
+          "label": "Goods delivery including inspection and waste storage",
+          "value": 10.0,
+          "value_max": null,
+          "unit": "%",
+          "context": "Proportion of total kitchen space requirement",
+          "status": "uncertain",
+          "ocr_raw": "goods delivery including inspection and waste storage 10"
+        },
+        {
+          "label": "Storage in freezer, cold and dry rooms",
+          "value": 20.0,
+          "value_max": null,
+          "unit": "%",
+          "context": "Proportion of total kitchen space requirement",
+          "status": "uncertain",
+          "ocr_raw": "storage in freezer, cold and dry rooms 20"
+        },
+        {
+          "label": "Vegetable and salad preparation area",
+          "value": 2.0,
+          "value_max": null,
+          "unit": "%",
+          "context": "Proportion of total kitchen space requirement",
+          "status": "uncertain",
+          "ocr_raw": "vegetable and salad preparation area 2"
+        },
+        {
+          "label": "Cold dishes, desserts",
+          "value": 8.0,
+          "value_max": null,
+          "unit": "%",
+          "context": "Proportion of total kitchen space requirement",
+          "status": "uncertain",
+          "ocr_raw": "cold dishes, desserts 8"
+        },
+        {
+          "label": "Patisseries/cakes",
+          "value": 8.0,
+          "value_max": null,
+          "unit": "%",
+          "context": "Proportion of total kitchen space requirement",
+          "status": "uncertain",
+          "ocr_raw": "patisseries/cakes 8"
+        },
+        {
+          "label": "Meat preparation",
+          "value": 2.0,
+          "value_max": null,
+          "unit": "%",
+          "context": "Proportion of total kitchen space requirement",
+          "status": "uncertain",
+          "ocr_raw": "meat preparation 2"
+        },
+        {
+          "label": "Cooking area",
+          "value": 8.0,
+          "value_max": null,
+          "unit": "%",
+          "context": "Proportion of total kitchen space requirement",
+          "status": "uncertain",
+          "ocr_raw": "cooking area 8"
+        },
+        {
+          "label": "Washing area",
+          "value": 10.0,
+          "value_max": null,
+          "unit": "%",
+          "context": "Proportion of total kitchen space requirement",
+          "status": "uncertain",
+          "ocr_raw": "washing area 10"
+        },
+        {
+          "label": "Traffic area",
+          "value": 17.0,
+          "value_max": null,
+          "unit": "%",
+          "context": "Proportion of total kitchen space requirement",
+          "status": "uncertain",
+          "ocr_raw": "traffic area 17"
+        },
+        {
+          "label": "Staff rooms and office",
+          "value": 15.0,
+          "value_max": null,
+          "unit": "%",
+          "context": "Proportion of total kitchen space requirement",
+          "status": "uncertain",
+          "ocr_raw": "staff rooms and office 15"
+        },
+        {
+          "label": "Total kitchen space allocation",
+          "value": 100.0,
+          "value_max": null,
+          "unit": "%",
+          "context": "Total of the listed functional-area proportions",
+          "status": "uncertain",
+          "ocr_raw": "Total 100"
+        }
+      ],
+      "figure_refs": [
+        "4",
+        "5"
+      ],
+      "cross_refs": [],
+      "keywords": [
+        "space allocation",
+        "functional relationships",
+        "clean zone",
+        "unclean zone",
+        "kitchen areas"
+      ],
+      "tags_architectural": [
+        "circulation",
+        "safety",
+        "spatial_proportion"
+      ],
+      "confidence": 0.93
+    }
+  ]
+}

@@ -1,0 +1,551 @@
+{
+  "fichas": [
+    {
+      "id": "4122fb96e4bd1976-251-vision-0",
+      "pdf_page": 251,
+      "book_page": 238,
+      "chapter": "ADMINISTRATION AND OFFICES",
+      "section": "Office Buildings",
+      "title": "Office Buildings: Additional Areas",
+      "summary": "Guidance on planning entrance and access-control zones, conference and training facilities, post rooms, archives, IT and social areas, toilets, cleaning services, and other workplace support spaces. The page provides space allowances per workstation and design considerations for access, circulation, storage, noise reduction, and building services.",
+      "building_type": "Office building",
+      "spaces": [
+        "Entrance area",
+        "Wind lobby",
+        "Access-control area",
+        "Waiting zone",
+        "Conference and training rooms",
+        "Post room",
+        "Archive rooms",
+        "Server room or data centre",
+        "Canteen or cafeteria",
+        "Tea kitchen",
+        "Sanitary facilities",
+        "Cleaner's room",
+        "Waste room",
+        "Garage and parking areas"
+      ],
+      "uses": [
+        "Reception and visitor registration",
+        "Access control",
+        "Waiting",
+        "Conferences and training",
+        "Mail and goods distribution",
+        "Storage of archived documents",
+        "IT and network infrastructure",
+        "Staff catering and social use",
+        "Sanitation",
+        "Cleaning and waste handling",
+        "Company vehicle parking"
+      ],
+      "furniture_equipment": [
+        "Sliding partitions",
+        "Conference tables and seating",
+        "Presentation media",
+        "Catering pantry",
+        "Packing and sorting tables",
+        "Raised floor",
+        "Cleaning equipment",
+        "Bucket sink",
+        "Waste collection containers",
+        "Shredders"
+      ],
+      "dimensions": [
+        {
+          "label": "Total space requirement per workstation",
+          "value": 23.0,
+          "value_max": 45.0,
+          "unit": "m²/workstation",
+          "context": "Overall space requirement varies with organisational and status requirements.",
+          "status": "uncertain",
+          "ocr_raw": "The total space requirement per workstation varies between 23 and 45 m2"
+        },
+        {
+          "label": "Basement car parking area included in total",
+          "value": 2.6,
+          "value_max": null,
+          "unit": "m²/workstation",
+          "context": "Included in the stated total space requirement; not included in the floor-to-space ratio.",
+          "status": "uncertain",
+          "ocr_raw": "This includes 2.6 m² car parking area in the basement, which is not included in the floor to space ratio."
+        },
+        {
+          "label": "Subsidiary rooms for conference catering",
+          "value": 1.0,
+          "value_max": null,
+          "unit": "fraction",
+          "context": "About one third of the conference area; subsidiary rooms include store rooms and a pantry for catering.",
+          "status": "uncertain",
+          "ocr_raw": "these subsidiary rooms require about Vs of the conference area"
+        },
+        {
+          "label": "Conference area per seat",
+          "value": 2.5,
+          "value_max": null,
+          "unit": "m²/seat",
+          "context": "Conference area allowance excluding subsidiary areas.",
+          "status": "uncertain",
+          "ocr_raw": "A conference area requires about 2.5 m² per seat (without subsidiary areas)."
+        },
+        {
+          "label": "Conference and training space requirement",
+          "value": 0.3,
+          "value_max": 1.0,
+          "unit": "m²/workstation",
+          "context": "Space requirement stated for conference and training.",
+          "status": "uncertain",
+          "ocr_raw": "Space requirement - 0.3-1.0 m2 per workstation."
+        },
+        {
+          "label": "Post room space requirement",
+          "value": 0.3,
+          "value_max": 0.5,
+          "unit": "m²/work position",
+          "context": "Space allowance per post-room work position.",
+          "status": "uncertain",
+          "ocr_raw": "Space requirement - 0.3-0.5 m2 per work position."
+        },
+        {
+          "label": "Paper archive space occupied",
+          "value": 10.0,
+          "value_max": 20.0,
+          "unit": "m²/workstation",
+          "context": "Purely paper archives rapidly take up this space; the supplied OCR reads “m” and the page image indicates square metres.",
+          "status": "uncertain",
+          "ocr_raw": "purely paper archives rapidly take up 10-20 m per workstation"
+        },
+        {
+          "label": "Archive floor loading",
+          "value": 7.5,
+          "value_max": 12.5,
+          "unit": "kN/m²",
+          "context": "Increased floor loading recommended for archive rooms with mobile units.",
+          "status": "uncertain",
+          "ocr_raw": "Archive rooms should be designed for an increased floor loading of 7.5-12.5 kN/m 2 (for mobile units)"
+        },
+        {
+          "label": "Raised floor height in IT rooms",
+          "value": 70.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Recommended raised floor for extensive installations in server rooms or data centres.",
+          "status": "uncertain",
+          "ocr_raw": "These rooms should have a 70 em raised floor on account of the large amount of installation"
+        },
+        {
+          "label": "Tea kitchen provision",
+          "value": 50.0,
+          "value_max": 100.0,
+          "unit": "workplaces/kitchen",
+          "context": "Approximately one kitchen for every stated number of workplaces; kitchen area is approximately 10 m².",
+          "status": "uncertain",
+          "ocr_raw": "For every approx. 50-1 00 workplaces, one -10 m2 kitchen."
+        },
+        {
+          "label": "Tea kitchen area",
+          "value": 10.0,
+          "value_max": null,
+          "unit": "m²",
+          "context": "Approximate area for one tea kitchen serving approximately 50–100 workplaces.",
+          "status": "uncertain",
+          "ocr_raw": "one -10 m2 kitchen."
+        },
+        {
+          "label": "Toilet unit provision",
+          "value": 50.0,
+          "value_max": 80.0,
+          "unit": "workstations/toilet unit",
+          "context": "A good ratio is one toilet unit per stated number of workstations.",
+          "status": "uncertain",
+          "ocr_raw": "A good ratio is one toilet unit per 50-80 workstations."
+        },
+        {
+          "label": "Immediate workstation area",
+          "value": 11.0,
+          "value_max": 15.0,
+          "unit": "m²",
+          "context": "Table: workstation area range; average 13 m².",
+          "status": "uncertain",
+          "ocr_raw": "Immediate workstation 11–15 13"
+        },
+        {
+          "label": "Immediate workstation area average",
+          "value": 13.0,
+          "value_max": null,
+          "unit": "m²",
+          "context": "Table average for immediate workstation area.",
+          "status": "uncertain",
+          "ocr_raw": "Immediate workstation 11–15 13"
+        },
+        {
+          "label": "Additional area for consulting and storage",
+          "value": 1.5,
+          "value_max": 4.2,
+          "unit": "m²",
+          "context": "Table: additional workstation area range; average 2.5 m².",
+          "status": "uncertain",
+          "ocr_raw": "Additional area (consulting, storage) 1.5–4.2 2.5"
+        },
+        {
+          "label": "Additional area for consulting and storage average",
+          "value": 2.5,
+          "value_max": null,
+          "unit": "m²",
+          "context": "Table average for additional area (consulting, storage).",
+          "status": "uncertain",
+          "ocr_raw": "Additional area (consulting, storage) 1.5–4.2 2.5"
+        },
+        {
+          "label": "Workstation subtotal",
+          "value": 15.5,
+          "value_max": null,
+          "unit": "m²",
+          "context": "Table total for workstation category.",
+          "status": "uncertain",
+          "ocr_raw": "Workstation ... Total 15.5"
+        },
+        {
+          "label": "Sanitary facilities space requirement",
+          "value": 0.6,
+          "value_max": 0.8,
+          "unit": "m²/workstation",
+          "context": "Table range; average 0.7 m².",
+          "status": "uncertain",
+          "ocr_raw": "Sanitary facilities 0.6–0.8 0.7"
+        },
+        {
+          "label": "Sanitary facilities average",
+          "value": 0.7,
+          "value_max": null,
+          "unit": "m²/workstation",
+          "context": "Table average for sanitary facilities.",
+          "status": "uncertain",
+          "ocr_raw": "Sanitary facilities 0.6–0.8 0.7"
+        },
+        {
+          "label": "Conference and training area",
+          "value": 0.3,
+          "value_max": 1.0,
+          "unit": "m²/workstation",
+          "context": "Table range; average 0.6 m².",
+          "status": "uncertain",
+          "ocr_raw": "Conference/training 0.3–1.0 0.6"
+        },
+        {
+          "label": "Conference and training area average",
+          "value": 0.6,
+          "value_max": null,
+          "unit": "m²/workstation",
+          "context": "Table average for conference and training.",
+          "status": "uncertain",
+          "ocr_raw": "Conference/training 0.3–1.0 0.6"
+        },
+        {
+          "label": "Archive area",
+          "value": 0.4,
+          "value_max": 1.0,
+          "unit": "m²/workstation",
+          "context": "Table range; average 0.6 m².",
+          "status": "uncertain",
+          "ocr_raw": "Archive 0.4–1.0 0.6"
+        },
+        {
+          "label": "Archive area average",
+          "value": 0.6,
+          "value_max": null,
+          "unit": "m²/workstation",
+          "context": "Table average for archive area.",
+          "status": "uncertain",
+          "ocr_raw": "Archive 0.4–1.0 0.6"
+        },
+        {
+          "label": "Stores area",
+          "value": 0.4,
+          "value_max": 1.5,
+          "unit": "m²/workstation",
+          "context": "Table range; average 0.6 m².",
+          "status": "uncertain",
+          "ocr_raw": "Stores 0.4–1.5 0.6"
+        },
+        {
+          "label": "Stores area average",
+          "value": 0.6,
+          "value_max": null,
+          "unit": "m²/workstation",
+          "context": "Table average for stores.",
+          "status": "uncertain",
+          "ocr_raw": "Stores 0.4–1.5 0.6"
+        },
+        {
+          "label": "Canteen, cafeteria, or tea kitchen area",
+          "value": 0.6,
+          "value_max": 1.6,
+          "unit": "m²/workstation",
+          "context": "Table range; average 1.1 m².",
+          "status": "uncertain",
+          "ocr_raw": "Canteen, cafeteria, tea kitchen 0.6–1.6 1.1"
+        },
+        {
+          "label": "Canteen, cafeteria, or tea kitchen area average",
+          "value": 1.1,
+          "value_max": null,
+          "unit": "m²/workstation",
+          "context": "Table average for canteen, cafeteria, or tea kitchen.",
+          "status": "uncertain",
+          "ocr_raw": "Canteen, cafeteria, tea kitchen 0.6–1.6 1.1"
+        },
+        {
+          "label": "Entrance area",
+          "value": 0.2,
+          "value_max": 0.7,
+          "unit": "m²/workstation",
+          "context": "Table range; average 0.4 m².",
+          "status": "uncertain",
+          "ocr_raw": "Entrance area 0.2–0.7 0.4"
+        },
+        {
+          "label": "Entrance area average",
+          "value": 0.4,
+          "value_max": null,
+          "unit": "m²/workstation",
+          "context": "Table average for entrance area.",
+          "status": "uncertain",
+          "ocr_raw": "Entrance area 0.2–0.7 0.4"
+        },
+        {
+          "label": "Supply and disposal area",
+          "value": 0.5,
+          "value_max": 1.5,
+          "unit": "m²/workstation",
+          "context": "Table range; average 1.0 m².",
+          "status": "uncertain",
+          "ocr_raw": "Supply and disposal 0.5–1.5 1.0"
+        },
+        {
+          "label": "Supply and disposal area average",
+          "value": 1.0,
+          "value_max": null,
+          "unit": "m²/workstation",
+          "context": "Table average for supply and disposal.",
+          "status": "uncertain",
+          "ocr_raw": "Supply and disposal 0.5–1.5 1.0"
+        },
+        {
+          "label": "Post room area",
+          "value": 0.3,
+          "value_max": 0.5,
+          "unit": "m²/workstation",
+          "context": "Table range; average 0.4 m².",
+          "status": "uncertain",
+          "ocr_raw": "Post room 0.3–0.5 0.4"
+        },
+        {
+          "label": "Post room area average",
+          "value": 0.4,
+          "value_max": null,
+          "unit": "m²/workstation",
+          "context": "Table average for post room.",
+          "status": "uncertain",
+          "ocr_raw": "Post room 0.3–0.5 0.4"
+        },
+        {
+          "label": "Server room area",
+          "value": 0.5,
+          "value_max": 1.5,
+          "unit": "m²/workstation",
+          "context": "Table range; average 1.0 m².",
+          "status": "uncertain",
+          "ocr_raw": "Server room 0.5–1.5 1.0"
+        },
+        {
+          "label": "Server room area average",
+          "value": 1.0,
+          "value_max": null,
+          "unit": "m²/workstation",
+          "context": "Table average for server room.",
+          "status": "uncertain",
+          "ocr_raw": "Server room 0.5–1.5 1.0"
+        },
+        {
+          "label": "Garage parking area",
+          "value": 0.0,
+          "value_max": 13.0,
+          "unit": "m²/workstation",
+          "context": "Table range; average 2.6 m².",
+          "status": "uncertain",
+          "ocr_raw": "Garage parking 0–13 2.6"
+        },
+        {
+          "label": "Subsidiary areas subtotal",
+          "value": 9.0,
+          "value_max": null,
+          "unit": "m²",
+          "context": "Table total for subsidiary areas.",
+          "status": "uncertain",
+          "ocr_raw": "Subsidiary areas ... 9.0"
+        },
+        {
+          "label": "Construction area",
+          "value": 1.9,
+          "value_max": 3.8,
+          "unit": "m²/workstation",
+          "context": "Table range; average 3.0 m².",
+          "status": "uncertain",
+          "ocr_raw": "Construction area 1.9–3.8 3.0"
+        },
+        {
+          "label": "Construction area average",
+          "value": 3.0,
+          "value_max": null,
+          "unit": "m²/workstation",
+          "context": "Table average for construction area.",
+          "status": "uncertain",
+          "ocr_raw": "Construction area 1.9–3.8 3.0"
+        },
+        {
+          "label": "Building services area",
+          "value": 2.4,
+          "value_max": 4.6,
+          "unit": "m²/workstation",
+          "context": "Table range; average 3.0 m².",
+          "status": "uncertain",
+          "ocr_raw": "Building services 2.4–4.6 3.0"
+        },
+        {
+          "label": "Building services area average",
+          "value": 3.0,
+          "value_max": null,
+          "unit": "m²/workstation",
+          "context": "Table average for building services.",
+          "status": "uncertain",
+          "ocr_raw": "Building services 2.4–4.6 3.0"
+        },
+        {
+          "label": "Traffic area",
+          "value": 2.2,
+          "value_max": 6.0,
+          "unit": "m²/workstation",
+          "context": "Table range; average 4.5 m².",
+          "status": "uncertain",
+          "ocr_raw": "Traffic area 2.2–6.0 4.5"
+        },
+        {
+          "label": "Traffic area average",
+          "value": 4.5,
+          "value_max": null,
+          "unit": "m²/workstation",
+          "context": "Table average for traffic area.",
+          "status": "uncertain",
+          "ocr_raw": "Traffic area 2.2–6.0 4.5"
+        },
+        {
+          "label": "Building subtotal",
+          "value": 10.5,
+          "value_max": null,
+          "unit": "m²",
+          "context": "Table total for building category.",
+          "status": "uncertain",
+          "ocr_raw": "Building ... Total 10.5"
+        },
+        {
+          "label": "Conference seating module",
+          "value": 75.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Dimension annotations in the conference/training seating diagram.",
+          "status": "uncertain",
+          "ocr_raw": "75 75 75"
+        },
+        {
+          "label": "Conference seating module",
+          "value": 60.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Dimension annotations in the conference/training seating diagram.",
+          "status": "uncertain",
+          "ocr_raw": "60 60 60"
+        },
+        {
+          "label": "Conference seating module",
+          "value": 1.5,
+          "value_max": null,
+          "unit": "m",
+          "context": "Dimension annotation in the conference/training seating diagram.",
+          "status": "uncertain",
+          "ocr_raw": "1.50"
+        },
+        {
+          "label": "Conference seating module",
+          "value": 1.2,
+          "value_max": null,
+          "unit": "m",
+          "context": "Dimension annotation in the conference/training seating diagram.",
+          "status": "uncertain",
+          "ocr_raw": "1.20"
+        },
+        {
+          "label": "Conference seating module",
+          "value": 65.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Dimension annotation in the conference/training seating diagram.",
+          "status": "uncertain",
+          "ocr_raw": "65"
+        },
+        {
+          "label": "Conference seating module",
+          "value": 45.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Dimension annotation in the conference/training seating diagram.",
+          "status": "uncertain",
+          "ocr_raw": "45"
+        },
+        {
+          "label": "Conference seating module",
+          "value": 50.0,
+          "value_max": 60.0,
+          "unit": "cm",
+          "context": "Dimension annotations in the conference/training seating diagram.",
+          "status": "uncertain",
+          "ocr_raw": "50 60"
+        }
+      ],
+      "figure_refs": [
+        "1: Relationships of publicly accessible rooms to the entrance area and access control",
+        "2: Space requirement for seating in conference and training rooms",
+        "3: Average gross space requirement for a workstation"
+      ],
+      "cross_refs": [
+        "Archives, p. 252",
+        "Catering, p. 174 ff.",
+        "Workplace Regulations, p. 270",
+        "Daylight, pp. 485 ff."
+      ],
+      "keywords": [
+        "office buildings",
+        "additional areas",
+        "entrance area",
+        "access control",
+        "conference rooms",
+        "training rooms",
+        "post room",
+        "archives",
+        "IT technology",
+        "server room",
+        "social areas",
+        "toilets",
+        "cleaning services",
+        "space requirement"
+      ],
+      "tags_architectural": [
+        "accessibility",
+        "circulation",
+        "clearance",
+        "safety",
+        "ventilation"
+      ],
+      "confidence": 0.89
+    }
+  ]
+}

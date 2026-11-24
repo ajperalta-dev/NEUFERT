@@ -1,0 +1,184 @@
+{
+  "fichas": [
+    {
+      "id": "4122fb96e4bd1976-130-vision-0",
+      "pdf_page": 130,
+      "book_page": 117,
+      "chapter": "BUILDING COMPONENTS",
+      "section": "Doors",
+      "title": "Electronic locking and identification systems",
+      "summary": "Electronic locking components are arranged according to security requirements: sensor and control are separated for high-security situations, but may be combined where access control is supervised. Identification systems include contact and contactless electronic media, as well as biometric identification and verification. Access rights can be managed electronically, and systems may connect to central monitoring.",
+      "building_type": "Buildings with controlled access",
+      "spaces": [
+        "Secure areas",
+        "Supervised access areas",
+        "Entrances and access points"
+      ],
+      "uses": [
+        "Control access electronically",
+        "Assign or delete access rights",
+        "Record working time",
+        "Identify or verify users"
+      ],
+      "furniture_equipment": [
+        "Control unit",
+        "Sensor",
+        "Read head",
+        "Door actuator",
+        "Electronic identification media",
+        "Chip cards",
+        "Mechatronic lock cylinders",
+        "Central monitoring system"
+      ],
+      "dimensions": [
+        {
+          "label": "Maximum range of passive contactless identification",
+          "value": 1.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "The text says passive contactless identification has a small range, maximum 1 m.",
+          "status": "verified",
+          "ocr_raw": "results in a small range of max. 1 m"
+        },
+        {
+          "label": "Range of active contactless transmitters",
+          "value": 1.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "The text specifies a range greater than 1 m; 1 m is the printed threshold, not an upper bound.",
+          "status": "uncertain",
+          "ocr_raw": "+range >1m"
+        }
+      ],
+      "figure_refs": [
+        "1: Arrangement of the components of electronic locking systems",
+        "2: Electronic and biometric identification methods"
+      ],
+      "cross_refs": [
+        "see → 3",
+        "→ 1 + 2"
+      ],
+      "keywords": [
+        "electronic access control",
+        "sensor",
+        "control unit",
+        "contact identification",
+        "contactless identification",
+        "biometrics",
+        "access rights"
+      ],
+      "tags_architectural": [
+        "safety",
+        "adaptability"
+      ],
+      "confidence": 0.96
+    },
+    {
+      "id": "4122fb96e4bd1976-130-vision-1",
+      "pdf_page": 130,
+      "book_page": 117,
+      "chapter": "BUILDING COMPONENTS",
+      "section": "Doors",
+      "title": "Mechanical and key locking systems",
+      "summary": "Mechanical cylinder locks provide security and may be extended to suit door thickness. Locking systems use an associated security certificate for replacement keys. Central locking systems allow one key to operate a flat entrance door and shared doors, while hierarchical master-key systems organize access rights across multiple cylinders. Electronic systems can change access rights without replacing building components.",
+      "building_type": "Residential and other buildings with controlled access",
+      "spaces": [
+        "Flat entrances",
+        "Shared doors",
+        "Sensitive locations"
+      ],
+      "uses": [
+        "Secure doors with keys",
+        "Provide shared access using central locking",
+        "Organize tiered access with master keys",
+        "Replace or supplement mechanical access control electronically"
+      ],
+      "furniture_equipment": [
+        "Cylinder locks",
+        "Keys",
+        "Master keys",
+        "Security certificate",
+        "Mechatronic cylinders"
+      ],
+      "dimensions": [
+        {
+          "label": "Cylinder extension increment",
+          "value": 5.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Cylinder extensions are available in multiples of 5 mm on either side to match door thickness.",
+          "status": "verified",
+          "ocr_raw": "extensions by multiples of 5 mm on either side"
+        }
+      ],
+      "figure_refs": [],
+      "cross_refs": [
+        "see → 3",
+        "→ 1 + 2"
+      ],
+      "keywords": [
+        "cylinder lock",
+        "central locking system",
+        "master key",
+        "security certificate",
+        "access hierarchy",
+        "mechatronic cylinder"
+      ],
+      "tags_architectural": [
+        "safety",
+        "adaptability"
+      ],
+      "confidence": 0.97
+    },
+    {
+      "id": "4122fb96e4bd1976-130-vision-2",
+      "pdf_page": 130,
+      "book_page": 117,
+      "chapter": "BUILDING COMPONENTS",
+      "section": "Doors",
+      "title": "Emergency exits, panic doors, and break-in risk",
+      "summary": "Emergency exits serve buildings or areas not open to the public, where occupants familiar with the location understand the escape-door function. Panic doors serve public buildings or areas where users may not understand that function. Emergency-exit and panic-door ironmongery must be tested, approved, and labelled as a complete system. The page also groups doors and other building components by break-in risk according to use.",
+      "building_type": "Public and non-public buildings",
+      "spaces": [
+        "Emergency exits",
+        "Panic-door locations",
+        "Building access points",
+        "Garage access areas",
+        "Cellars",
+        "IT rooms"
+      ],
+      "uses": [
+        "Provide escape routes",
+        "Enable panic egress in public areas",
+        "Assess break-in risk by building use"
+      ],
+      "furniture_equipment": [
+        "Emergency-exit ironmongery",
+        "Panic-door ironmongery",
+        "Access doors",
+        "Garage doors",
+        "Windows",
+        "Shutters",
+        "Security grilles"
+      ],
+      "dimensions": [],
+      "figure_refs": [
+        "3: Risk of break-in according to use"
+      ],
+      "cross_refs": [],
+      "keywords": [
+        "emergency exit",
+        "panic door",
+        "escape door",
+        "ironmongery",
+        "break-in risk",
+        "security"
+      ],
+      "tags_architectural": [
+        "safety",
+        "accessibility"
+      ],
+      "confidence": 0.95
+    }
+  ]
+}

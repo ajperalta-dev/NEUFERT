@@ -1,0 +1,353 @@
+{
+  "fichas": [
+    {
+      "id": "4122fb96e4bd1976-147-vision-0",
+      "pdf_page": 147,
+      "book_page": 134,
+      "chapter": "BUILDING COMPONENTS",
+      "section": "Lifts",
+      "title": "Glazed lifts",
+      "summary": "Glazed lifts provide a view and can improve users’ feeling of safety. They may use glazed shafts subject to fire-resistance requirements or be shaftless panoramic lifts, which are restricted to locations where lift shafts are not permitted. Glazing must prevent users from reaching moving parts. These non-standard constructions require special prototype approval.",
+      "building_type": "Lift",
+      "spaces": [
+        "Lift car",
+        "Lift shaft"
+      ],
+      "uses": [
+        "Passenger transport",
+        "Panoramic viewing"
+      ],
+      "furniture_equipment": [
+        "Glazing",
+        "Balustrade",
+        "Safety barriers"
+      ],
+      "dimensions": [
+        {
+          "label": "Safety barrier height around shaft doors",
+          "value": 3.5,
+          "value_max": null,
+          "unit": "m",
+          "context": "Minimum height around shaft doors to prevent contact with moving parts.",
+          "status": "uncertain",
+          "ocr_raw": "safety barrier around shaft doors min. up to 3.5 m high"
+        },
+        {
+          "label": "Safety barrier height on other sides",
+          "value": 2.5,
+          "value_max": null,
+          "unit": "m",
+          "context": "Minimum height on sides other than the shaft doors.",
+          "status": "uncertain",
+          "ocr_raw": "and on the other sides min. 2.5 m"
+        },
+        {
+          "label": "Distance from barrier to moving parts",
+          "value": 0.5,
+          "value_max": null,
+          "unit": "m",
+          "context": "Minimum distance to moving parts; barrier height may be reduced when distances are greater.",
+          "status": "uncertain",
+          "ocr_raw": "with the distance to moving parts at least 0.5 m"
+        }
+      ],
+      "figure_refs": [
+        "1"
+      ],
+      "cross_refs": [
+        "→ 1"
+      ],
+      "keywords": [
+        "glazed lift",
+        "panoramic lift",
+        "shaft",
+        "fire resistance",
+        "safety barrier",
+        "prototype approval"
+      ],
+      "tags_architectural": [
+        "safety"
+      ],
+      "confidence": 0.97
+    },
+    {
+      "id": "4122fb96e4bd1976-147-vision-1",
+      "pdf_page": 147,
+      "book_page": 134,
+      "chapter": "BUILDING COMPONENTS",
+      "section": "Lifts",
+      "title": "Goods and underfloor lifts without passenger transport",
+      "summary": "Lifts intended only for loads, such as rubbish bins or goods deliveries, may be installed inside or in front of a building. Passenger transport is not permitted, and a machine room is not normally necessary. Underfloor lifts are controlled from the uppermost station, and their covers must remain in the operator’s field of view.",
+      "building_type": "Goods lift",
+      "spaces": [
+        "Lift car",
+        "Lift shaft",
+        "Uppermost station"
+      ],
+      "uses": [
+        "Transporting goods and loads",
+        "Transporting rubbish bins",
+        "Underfloor goods transport"
+      ],
+      "furniture_equipment": [
+        "Lift cover",
+        "Operator controls"
+      ],
+      "dimensions": [],
+      "figure_refs": [
+        "2"
+      ],
+      "cross_refs": [
+        "→ 2"
+      ],
+      "keywords": [
+        "goods lift",
+        "underfloor lift",
+        "loads",
+        "passenger transport prohibited",
+        "operator visibility"
+      ],
+      "tags_architectural": [
+        "safety"
+      ],
+      "confidence": 0.98
+    },
+    {
+      "id": "4122fb96e4bd1976-147-vision-2",
+      "pdf_page": 147,
+      "book_page": 134,
+      "chapter": "BUILDING COMPONENTS",
+      "section": "Lifts",
+      "title": "Lifts with reduced shaft dimensions",
+      "summary": "Special lifts for refurbishment projects can reduce the required pit depth and shaft head height. Shaft ventilation, possible ceiling condensation and fire protection must be considered for installations without machine rooms; the manufacturer’s requirements apply. The illustrated examples include traction lifts and special constructions, with several dimensions shown in the diagrams.",
+      "building_type": "Lift",
+      "spaces": [
+        "Lift shaft",
+        "Lift pit",
+        "Shaft head",
+        "Machine room"
+      ],
+      "uses": [
+        "Passenger transport",
+        "Installation in refurbishment projects"
+      ],
+      "furniture_equipment": [
+        "Lift car",
+        "Lift machinery"
+      ],
+      "dimensions": [
+        {
+          "label": "Minimum pit depth for reduced-shaft lifts",
+          "value": 80.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Approximate minimum pit depth described for special lifts in refurbishment projects.",
+          "status": "uncertain",
+          "ocr_raw": "less pit depth (min. approx. 80 mm)"
+        },
+        {
+          "label": "Minimum shaft head height above highest stop",
+          "value": 2500.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Approximate minimum height above the highest stop described for special lifts.",
+          "status": "uncertain",
+          "ocr_raw": "shaft head heights (min. approx. 2500 mm above the highest stop)"
+        },
+        {
+          "label": "Dimension shown in lift diagram",
+          "value": 25.6,
+          "value_max": null,
+          "unit": "m",
+          "context": "Dimension printed beside the shaft in the lift diagrams; the OCR transcription renders it as 25.6.",
+          "status": "uncertain",
+          "ocr_raw": "25.6"
+        },
+        {
+          "label": "Dimension shown in lift diagram",
+          "value": 3.8,
+          "value_max": 4.5,
+          "unit": "m",
+          "context": "Dimension range printed beside the lift shaft.",
+          "status": "uncertain",
+          "ocr_raw": "3.8-4.5"
+        },
+        {
+          "label": "Dimension shown in lift diagram",
+          "value": 1.2,
+          "value_max": null,
+          "unit": "m",
+          "context": "Dimension printed at the lower part of the lift shaft diagram.",
+          "status": "uncertain",
+          "ocr_raw": "1.20"
+        },
+        {
+          "label": "Dimension shown in lift diagram",
+          "value": 20.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Dimension printed beside the lift shaft in the diagram.",
+          "status": "uncertain",
+          "ocr_raw": "20.00"
+        },
+        {
+          "label": "Dimension shown in lift diagram",
+          "value": 2.0,
+          "value_max": 2.2,
+          "unit": "m",
+          "context": "Dimension range printed beside the traction lift with machine room and pit.",
+          "status": "uncertain",
+          "ocr_raw": "2.00 + 2.20"
+        },
+        {
+          "label": "Dimension shown in lift diagram",
+          "value": 3.65,
+          "value_max": 3.85,
+          "unit": "m",
+          "context": "Dimension range printed beside lift shaft diagrams.",
+          "status": "uncertain",
+          "ocr_raw": "3.65 - 3.85"
+        },
+        {
+          "label": "Travel height shown in lift diagram",
+          "value": 40.0,
+          "value_max": 60.0,
+          "unit": "cm",
+          "context": "Travel-height limit printed in the diagram; the printed inequality and range are retained in the source text.",
+          "status": "uncertain",
+          "ocr_raw": "Travel height ≤ 40 – 60"
+        },
+        {
+          "label": "Minimum dimension shown in lift diagram",
+          "value": 1.4,
+          "value_max": null,
+          "unit": "m",
+          "context": "Minimum dimension printed at the lower part of the lift diagram.",
+          "status": "uncertain",
+          "ocr_raw": "≥1.40"
+        },
+        {
+          "label": "Travel height shown in lift diagram",
+          "value": 40.0,
+          "value_max": 50.0,
+          "unit": "cm",
+          "context": "Travel-height limit printed in the diagram; the printed inequality and range are retained in the source text.",
+          "status": "uncertain",
+          "ocr_raw": "Travel height ≤ 40 – 50"
+        },
+        {
+          "label": "Minimum dimension shown in lift diagram",
+          "value": 1.35,
+          "value_max": null,
+          "unit": "m",
+          "context": "Minimum dimension printed at the lower part of the lift diagram.",
+          "status": "uncertain",
+          "ocr_raw": "≥1.35"
+        },
+        {
+          "label": "Target height shown in lift diagram",
+          "value": 40.0,
+          "value_max": 60.0,
+          "unit": "cm",
+          "context": "Target-height range printed beside the special construction with reduced pit depth.",
+          "status": "uncertain",
+          "ocr_raw": "Target height ≤ 40 – 60"
+        },
+        {
+          "label": "Dimension shown in lift diagram",
+          "value": 30.0,
+          "value_max": 40.0,
+          "unit": "cm",
+          "context": "Dimension range printed beside the special construction with reduced pit depth.",
+          "status": "uncertain",
+          "ocr_raw": "30 – 40"
+        },
+        {
+          "label": "Dimension shown in lift diagram",
+          "value": 2.45,
+          "value_max": null,
+          "unit": "m",
+          "context": "Dimension printed beside the disabled-person lift diagram.",
+          "status": "uncertain",
+          "ocr_raw": "2.45"
+        },
+        {
+          "label": "Reduced pit depth shown in lift diagram",
+          "value": 0.8,
+          "value_max": null,
+          "unit": "m",
+          "context": "Minimum dimension indicated in the diagram for the special construction with reduced pit depth.",
+          "status": "uncertain",
+          "ocr_raw": "≥ 0.80"
+        }
+      ],
+      "figure_refs": [
+        "3",
+        "4",
+        "5"
+      ],
+      "cross_refs": [
+        "→ 3 – 5"
+      ],
+      "keywords": [
+        "reduced shaft dimensions",
+        "refurbishment",
+        "pit depth",
+        "shaft head",
+        "machine room",
+        "ventilation",
+        "condensation",
+        "fire protection"
+      ],
+      "tags_architectural": [
+        "adaptability",
+        "safety"
+      ],
+      "confidence": 0.82
+    },
+    {
+      "id": "4122fb96e4bd1976-147-vision-3",
+      "pdf_page": 147,
+      "book_page": 134,
+      "chapter": "BUILDING COMPONENTS",
+      "section": "Lifts",
+      "title": "Lifts for disabled people and home stairlifts",
+      "summary": "Special lifts for disabled people are approved solely for use by the specified group. Dead-man’s controls and similar measures permit simple, space-saving installations without a pit or car doors. Home stairlifts help people with impaired mobility travel between floors on straight or curved stairs and across landings. The stated requirements reference BS 5776.",
+      "building_type": "Accessibility lift",
+      "spaces": [
+        "Lift",
+        "Stairway",
+        "Landings"
+      ],
+      "uses": [
+        "Mobility between floors for people with impaired mobility"
+      ],
+      "furniture_equipment": [
+        "Lift car",
+        "Dead-man’s controls"
+      ],
+      "dimensions": [],
+      "figure_refs": [
+        "6"
+      ],
+      "cross_refs": [
+        "→ 6",
+        "BS 5776"
+      ],
+      "keywords": [
+        "disabled people",
+        "impaired mobility",
+        "home stairlift",
+        "straight stairway",
+        "curved stairway",
+        "landings"
+      ],
+      "tags_architectural": [
+        "accessibility",
+        "circulation",
+        "safety"
+      ],
+      "confidence": 0.98
+    }
+  ]
+}

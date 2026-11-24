@@ -1,0 +1,174 @@
+{
+  "fichas": [
+    {
+      "id": "4122fb96e4bd1976-21-vision-0",
+      "pdf_page": 21,
+      "book_page": 8,
+      "chapter": "BASICS",
+      "section": "Drawings",
+      "title": "Symbols and Colours Used on Plans and Sections",
+      "summary": "Reference table pairing monochrome drawing patterns and colours with materials or elements, including masonry, earth, concrete, metal, timber, insulation, sealants, and existing building elements.",
+      "building_type": "General architectural drawing reference",
+      "spaces": [],
+      "uses": [
+        "Identify materials and building elements in plans and sections"
+      ],
+      "furniture_equipment": [],
+      "dimensions": [],
+      "figure_refs": [
+        "1"
+      ],
+      "cross_refs": [],
+      "keywords": [
+        "drawings",
+        "plans",
+        "sections",
+        "materials",
+        "colour conventions",
+        "monochrome patterns"
+      ],
+      "tags_architectural": [],
+      "confidence": 0.98
+    },
+    {
+      "id": "4122fb96e4bd1976-21-vision-1",
+      "pdf_page": 21,
+      "book_page": 8,
+      "chapter": "BASICS",
+      "section": "Drawings",
+      "title": "Construction Drawing Symbols",
+      "summary": "Explains abbreviations and conventions for openings, grooves, ducts, and breakthroughs in slabs, floors, foundations, and walls. The examples show descriptions, labels, dimension notation, and plan or elevation depictions. Dimension notation uses width, depth, and height; location and reference levels include under, over, top, bottom, unfinished floor, and finished floor.",
+      "building_type": "General architectural drawing reference",
+      "spaces": [
+        "Slabs",
+        "Lowest storey floors and foundations",
+        "Walls"
+      ],
+      "uses": [
+        "Represent and label construction openings, grooves, ducts, and breakthroughs on drawings"
+      ],
+      "furniture_equipment": [],
+      "dimensions": [],
+      "figure_refs": [
+        "3",
+        "4",
+        "5"
+      ],
+      "cross_refs": [
+        "BS EN ISO 4157",
+        "DIN 1356"
+      ],
+      "keywords": [
+        "construction drawing",
+        "symbols",
+        "openings",
+        "grooves",
+        "ducts",
+        "breakthroughs",
+        "slab",
+        "foundation",
+        "wall",
+        "dimension notation"
+      ],
+      "tags_architectural": [],
+      "confidence": 0.98
+    },
+    {
+      "id": "4122fb96e4bd1976-21-vision-2",
+      "pdf_page": 21,
+      "book_page": 8,
+      "chapter": "BASICS",
+      "section": "Drawings",
+      "title": "Symbols for Building Permit Applications",
+      "summary": "Illustrates plan symbols for existing and planned roads and buildings, public green space, parks, allotments, camping and weekend sites, sports fields, swimming pools, children's playgrounds, cemeteries, and special facilities.",
+      "building_type": "Site and planning drawing reference",
+      "spaces": [
+        "Roads",
+        "Public green space",
+        "Park",
+        "Allotment",
+        "Camping and weekend site",
+        "Sports field",
+        "Swimming pool",
+        "Children's playground",
+        "Cemetery"
+      ],
+      "uses": [
+        "Depict site conditions and planned uses on building permit application drawings"
+      ],
+      "furniture_equipment": [],
+      "dimensions": [],
+      "figure_refs": [
+        "2"
+      ],
+      "cross_refs": [],
+      "keywords": [
+        "building permit",
+        "site plan",
+        "roads",
+        "buildings",
+        "public green space",
+        "park",
+        "sports field",
+        "playground"
+      ],
+      "tags_architectural": [],
+      "confidence": 0.97
+    },
+    {
+      "id": "4122fb96e4bd1976-21-vision-3",
+      "pdf_page": 21,
+      "book_page": 8,
+      "chapter": "BASICS",
+      "section": "Drawings",
+      "title": "Symbols Used in Open Spaces Planning",
+      "summary": "Shows conventions for natural monuments and protected areas, tree protection and removal, partly removed bush groups, and boundaries of soil-contamination areas. Tree symbols are annotated with species, trunk centre, crown radius, and trunk diameter; existing and planned vegetation use different line styles.",
+      "building_type": "Open-space planning drawing reference",
+      "spaces": [
+        "Open spaces",
+        "Protected landscape areas",
+        "Tree and shrub areas",
+        "Areas with contaminated soil"
+      ],
+      "uses": [
+        "Represent protected natural features, vegetation status, and contaminated-soil boundaries in open-space plans"
+      ],
+      "furniture_equipment": [],
+      "dimensions": [
+        {
+          "label": "r",
+          "value": 250.0,
+          "value_max": null,
+          "unit": "unspecified",
+          "context": "Tree symbol annotation; the legend identifies crown radius as a tree attribute.",
+          "status": "uncertain",
+          "ocr_raw": "r = 250"
+        },
+        {
+          "label": "u",
+          "value": 60.0,
+          "value_max": null,
+          "unit": "unspecified",
+          "context": "Tree symbol annotation; the legend identifies trunk diameter as a tree attribute.",
+          "status": "uncertain",
+          "ocr_raw": "u = 60"
+        }
+      ],
+      "figure_refs": [
+        "6"
+      ],
+      "cross_refs": [],
+      "keywords": [
+        "open spaces planning",
+        "natural monument",
+        "tree protection",
+        "crown radius",
+        "trunk diameter",
+        "bushes",
+        "contaminated soil"
+      ],
+      "tags_architectural": [],
+      "confidence": 0.93
+    }
+  ]
+}

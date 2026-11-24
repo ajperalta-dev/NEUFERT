@@ -1,0 +1,229 @@
+{
+  "fichas": [
+    {
+      "id": "4122fb96e4bd1976-300-vision-0",
+      "pdf_page": 300,
+      "book_page": 287,
+      "chapter": "RELIGIOUS BUILDINGS",
+      "section": "Christian Churches",
+      "title": "Bell Towers",
+      "summary": "Bell-tower design involves bell specialists, bell founders, and structural engineers in establishing bell size and pitch, bell-frame layout, sound openings, and structural loadings. The belfry should be above surrounding buildings and is an enclosed resonance and mixing space apart from its sound openings. Its construction and acoustic design affect tone and sound transmission. Sound shutters should provide many small openings at right angles to the bell swing; sound transmission should be directed to protect the neighbourhood.",
+      "building_type": "Church bell tower",
+      "spaces": [
+        "Bell tower",
+        "Belfry (bell loft)",
+        "Sound openings"
+      ],
+      "uses": [
+        "House and ring bells",
+        "Transmit bell sound",
+        "Accommodate bell frames and structural loads"
+      ],
+      "furniture_equipment": [
+        "Bells",
+        "Bell frame",
+        "Returned steel yoke",
+        "Straight yoke",
+        "Sound shutters",
+        "Electric ringing machines"
+      ],
+      "dimensions": [
+        {
+          "label": "Tower dimensional proportion",
+          "value": 1.45,
+          "value_max": null,
+          "unit": "ratio",
+          "context": "Diagram of dimensional relationships depending on wall thickness; printed relationship is D = 1.45 S.",
+          "status": "uncertain",
+          "ocr_raw": "D = 1.45"
+        },
+        {
+          "label": "Returned steel yoke proportion",
+          "value": 0.9,
+          "value_max": null,
+          "unit": "ratio",
+          "context": "Returned steel yoke diagram; R = 0.9 D.",
+          "status": "uncertain",
+          "ocr_raw": "R = 0.9 D"
+        },
+        {
+          "label": "Straight yoke proportion",
+          "value": 1.25,
+          "value_max": null,
+          "unit": "ratio",
+          "context": "Straight yoke diagram; R = 1.25 D.",
+          "status": "uncertain",
+          "ocr_raw": "R = 1.25 D"
+        },
+        {
+          "label": "Maximum vertical thrust",
+          "value": 1.55,
+          "value_max": null,
+          "unit": "times bell weight",
+          "context": "Horizontal-thrust diagram labels vertical thrust Hmax as a multiple of bell weight.",
+          "status": "uncertain",
+          "ocr_raw": "vertical thrust Hmax = 1.55 x bell weight"
+        },
+        {
+          "label": "Maximum vertical thrust",
+          "value": 3.1,
+          "value_max": null,
+          "unit": "times bell weight",
+          "context": "Horizontal-thrust diagram; Vmax is labelled as a multiple of bell weight.",
+          "status": "uncertain",
+          "ocr_raw": "Vmax = 3.1 x bell weight"
+        },
+        {
+          "label": "Maximum horizontal thrust",
+          "value": 0.25,
+          "value_max": null,
+          "unit": "times bell weight",
+          "context": "Suspension near centre of gravity diagram.",
+          "status": "uncertain",
+          "ocr_raw": "Hmax = 0.25 x bell weight"
+        },
+        {
+          "label": "Maximum vertical thrust",
+          "value": 1.5,
+          "value_max": null,
+          "unit": "times bell weight",
+          "context": "Suspension near centre of gravity diagram.",
+          "status": "uncertain",
+          "ocr_raw": "Vmax = 1.5 x bell weight"
+        },
+        {
+          "label": "Bell diameter proportion",
+          "value": 2.0,
+          "value_max": null,
+          "unit": "ratio",
+          "context": "Horizontal-thrust diagram prints D = 2 x R / 2.5; retain the printed expression without interpreting its layout as another dimension.",
+          "status": "uncertain",
+          "ocr_raw": "D = 2 x R / 2.5"
+        },
+        {
+          "label": "Bell diameter proportion",
+          "value": 2.0,
+          "value_max": null,
+          "unit": "ratio",
+          "context": "Suspension near centre of gravity diagram prints D = 2 x R / 1.8; retain the printed expression without interpreting its layout as another dimension.",
+          "status": "uncertain",
+          "ocr_raw": "D = 2 x R / 1.8"
+        },
+        {
+          "label": "Sound transmission angle limit",
+          "value": 30.0,
+          "value_max": null,
+          "unit": "degrees",
+          "context": "Sound transmission angle should not be more than this from the horizontal.",
+          "status": "uncertain",
+          "ocr_raw": "not be more than 30° from the horizontal"
+        },
+        {
+          "label": "Sound shutter angle",
+          "value": 25.0,
+          "value_max": 30.0,
+          "unit": "degrees",
+          "context": "Sound shutter diagram annotation.",
+          "status": "uncertain",
+          "ocr_raw": "25°–30°"
+        },
+        {
+          "label": "Sound shutter spacing",
+          "value": 5.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Sound shutter diagram annotation.",
+          "status": "uncertain",
+          "ocr_raw": "5 cm"
+        },
+        {
+          "label": "Sound shutter angle",
+          "value": 10.0,
+          "value_max": 25.0,
+          "unit": "degrees",
+          "context": "Sound shutter diagram annotation.",
+          "status": "uncertain",
+          "ocr_raw": "10°–25°"
+        },
+        {
+          "label": "Maximum sound-opening area",
+          "value": 5.0,
+          "value_max": null,
+          "unit": "percent of interior belfry walls",
+          "context": "Maximum total openings when the wall surfaces are smooth.",
+          "status": "uncertain",
+          "ocr_raw": "max. 5% of the interior walls of the belfry if the wall surfaces are smooth"
+        },
+        {
+          "label": "Maximum sound-opening area",
+          "value": 10.0,
+          "value_max": null,
+          "unit": "percent of interior belfry walls",
+          "context": "Maximum total openings when the wall surfaces are rough.",
+          "status": "uncertain",
+          "ocr_raw": "and max. 10% if rough"
+        },
+        {
+          "label": "Bell-parameter table coefficient",
+          "value": 0.75,
+          "value_max": null,
+          "unit": "coefficient",
+          "context": "Bell-parameter table, light wall-thickness column.",
+          "status": "uncertain",
+          "ocr_raw": "c = 0.75"
+        },
+        {
+          "label": "Bell-parameter table coefficient",
+          "value": 0.76,
+          "value_max": null,
+          "unit": "coefficient",
+          "context": "Bell-parameter table, medium wall-thickness column.",
+          "status": "uncertain",
+          "ocr_raw": "c = 0.76"
+        },
+        {
+          "label": "Bell-parameter table coefficient",
+          "value": 0.78,
+          "value_max": null,
+          "unit": "coefficient",
+          "context": "Bell-parameter table, heavy wall-thickness column.",
+          "status": "uncertain",
+          "ocr_raw": "c = 0.78"
+        }
+      ],
+      "figure_refs": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10"
+      ],
+      "cross_refs": [
+        "Bell tower → 8–9",
+        "Sound shutters → 7",
+        "DIN 4178"
+      ],
+      "keywords": [
+        "bell tower",
+        "belfry",
+        "bell",
+        "bell frame",
+        "sound shutters",
+        "sound openings",
+        "bell load",
+        "wall thickness",
+        "acoustic design"
+      ],
+      "tags_architectural": [
+        "safety",
+        "spatial_proportion"
+      ],
+      "confidence": 0.84
+    }
+  ]
+}

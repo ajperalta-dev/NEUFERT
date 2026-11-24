@@ -1,0 +1,467 @@
+{
+  "fichas": [
+    {
+      "id": "4122fb96e4bd1976-461-vision-0",
+      "pdf_page": 461,
+      "book_page": 448,
+      "chapter": "AGRICULTURE",
+      "section": "Farmyards",
+      "title": "Space requirements for garages and sheds",
+      "summary": "Reference floor areas, depths, and heights for tractor garages, a mountain-farm transporter garage, a workshop, and several farm sheds. The table also compares selected requirements by farm size.",
+      "building_type": "Agricultural garage, workshop, and machinery shed",
+      "spaces": [
+        "Tractor and motor-mower garage",
+        "Mountain-farm transporter garage",
+        "Workshop",
+        "Fodder and arable farm sheds",
+        "Mountain-farm shed"
+      ],
+      "uses": [
+        "Housing tractors, motor mowers, transporters, and farm machinery",
+        "Workshop use",
+        "Storing fodder and farm equipment"
+      ],
+      "furniture_equipment": [
+        "Tractors",
+        "Motor mowers",
+        "Mountain-farm transporter with loader",
+        "Self-propelled belt reaper"
+      ],
+      "dimensions": [
+        {
+          "label": "Garage floor area",
+          "value": 26.0,
+          "value_max": null,
+          "unit": "m²",
+          "context": "Reference dimension for garage for tractors and motor mowers; farm-size table lists 26.0 m² for 10 ha, 43.0 m² for 15 ha, 44 m² for 20 ha, and 62 m² for 30 ha.",
+          "status": "uncertain",
+          "ocr_raw": "Floor area 26.0 m2 43.0 m2 44 m2 62 m2"
+        },
+        {
+          "label": "Garage depth",
+          "value": 5.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Reference dimension for garage for tractors and motor mowers.",
+          "status": "uncertain",
+          "ocr_raw": "Depth 5.0 m"
+        },
+        {
+          "label": "Garage height",
+          "value": 2.7,
+          "value_max": null,
+          "unit": "m",
+          "context": "Reference dimension for garage for tractors and motor mowers.",
+          "status": "uncertain",
+          "ocr_raw": "Height 2.7 m"
+        },
+        {
+          "label": "Mountain-farm transporter garage floor area",
+          "value": 46.0,
+          "value_max": null,
+          "unit": "m²",
+          "context": "Reference dimension for garage for mountain farm transporter with loader, motor mower and self-propelled belt reaper.",
+          "status": "uncertain",
+          "ocr_raw": "Floor area 46.0 m2"
+        },
+        {
+          "label": "Mountain-farm transporter garage depth",
+          "value": 7.3,
+          "value_max": null,
+          "unit": "m",
+          "context": "Reference dimension for garage for mountain farm transporter with loader, motor mower and self-propelled belt reaper.",
+          "status": "uncertain",
+          "ocr_raw": "Depth 7.3 m"
+        },
+        {
+          "label": "Workshop floor area",
+          "value": 12.0,
+          "value_max": 16.0,
+          "unit": "m²",
+          "context": "Farm-size table lists 12.0 m² for 10 ha and 15 ha, 14.0 m² for 20 ha, and 16.0 m² for 30 ha.",
+          "status": "uncertain",
+          "ocr_raw": "Floor area 12.0 m2 12.0 m2 14.0 m2 16.0 m2"
+        },
+        {
+          "label": "Fodder-producing farm shed floor area",
+          "value": 160.0,
+          "value_max": 350.0,
+          "unit": "m²",
+          "context": "Shed for fodder-producing farm without own arable; farm-size table lists 160.0, 230.0, 260.0, and 350.0 m² for 10, 15, 20, and 30 ha respectively.",
+          "status": "uncertain",
+          "ocr_raw": "Floor area 160.0 m2 230.0 m2 260.0 m2 350.0 m2"
+        },
+        {
+          "label": "Fodder-producing farm shed depth",
+          "value": 7.6,
+          "value_max": 9.5,
+          "unit": "m",
+          "context": "Shed for fodder-producing farm without own arable; listed depths by farm size.",
+          "status": "uncertain",
+          "ocr_raw": "Depth 7.6 m 8.7 m 8.7 m 9.5 m"
+        },
+        {
+          "label": "Mixed fodder/arable farm shed floor area",
+          "value": 180.0,
+          "value_max": 520.0,
+          "unit": "m²",
+          "context": "Farm-size table lists 180.0, 310.0, 370.0, and 520.0 m² for 10, 15, 20, and 30 ha respectively.",
+          "status": "uncertain",
+          "ocr_raw": "Floor area 180.0 m2 310.0 m2 370.0 m2 520.0 m2"
+        },
+        {
+          "label": "Shed for arable farm with no animals floor area",
+          "value": 240.0,
+          "value_max": 450.0,
+          "unit": "m²",
+          "context": "The table gives values for 15, 20, and 30 ha; no 10 ha floor-area value is shown.",
+          "status": "uncertain",
+          "ocr_raw": "Floor area 240.0 m2 340.0 m2 450.0 m2"
+        }
+      ],
+      "figure_refs": [
+        "8 Space required for garages/sheds"
+      ],
+      "cross_refs": [],
+      "keywords": [
+        "farmyard",
+        "machinery",
+        "garage",
+        "shed",
+        "farm size",
+        "floor area"
+      ],
+      "tags_architectural": [
+        "spatial_proportion",
+        "adaptability"
+      ],
+      "confidence": 0.9
+    },
+    {
+      "id": "4122fb96e4bd1976-461-vision-1",
+      "pdf_page": 461,
+      "book_page": 448,
+      "chapter": "AGRICULTURE",
+      "section": "Farmyards",
+      "title": "Dimensions of agricultural machinery",
+      "summary": "A reference table gives length, width, and height for tractors, trailers, earth-tilling equipment, and mineral-fertiliser spreaders. Dimensions vary by machine type, capacity, and configuration; the table notes that muck spreaders are approximately 0.5 m longer.",
+      "building_type": "Agricultural machinery reference",
+      "spaces": [],
+      "uses": [
+        "Estimating machinery dimensions for agricultural storage and circulation planning"
+      ],
+      "furniture_equipment": [
+        "Tractors",
+        "Transporters",
+        "Twin-axle and single-axle trailers",
+        "Ploughs",
+        "Grubbers",
+        "Disc harrows",
+        "Rotary hoes and harrows",
+        "Fertiliser spreaders"
+      ],
+      "dimensions": [
+        {
+          "label": "Standard tractor length",
+          "value": 3.3,
+          "value_max": 3.7,
+          "unit": "m",
+          "context": "Tractors with safety harness, up to 60 hp; table column L (m).",
+          "status": "uncertain",
+          "ocr_raw": "standard tractor up to 60 hp 3.30–3.70"
+        },
+        {
+          "label": "Standard tractor width",
+          "value": 1.5,
+          "value_max": 2.0,
+          "unit": "m",
+          "context": "Tractors with safety harness, up to 60 hp; table column W (m).",
+          "status": "uncertain",
+          "ocr_raw": "1.50–2.00"
+        },
+        {
+          "label": "Standard tractor height",
+          "value": 2.0,
+          "value_max": 2.6,
+          "unit": "m",
+          "context": "Tractors with safety harness, up to 60 hp; table column H (m).",
+          "status": "uncertain",
+          "ocr_raw": "2.00–2.60"
+        },
+        {
+          "label": "4 × 4 tractor length",
+          "value": 4.0,
+          "value_max": 5.0,
+          "unit": "m",
+          "context": "60–120 hp; table column L (m).",
+          "status": "uncertain",
+          "ocr_raw": "4 × 4 tractor 60–120 hp 4.00–5.00"
+        },
+        {
+          "label": "Load-carrying tractor length",
+          "value": 5.5,
+          "value_max": 6.0,
+          "unit": "m",
+          "context": "120–200 hp, including load-carrying tractor; table column L (m).",
+          "status": "uncertain",
+          "ocr_raw": "(incl. load-carrying tractor) 120–200 hp 5.50–6.00"
+        },
+        {
+          "label": "Flat-bed trailer length",
+          "value": 6.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Twin-axle trailer, up to 3 t; approximate length.",
+          "status": "uncertain",
+          "ocr_raw": "flat-bed trailer up to 3 t approx. 6.00"
+        },
+        {
+          "label": "Flat-bed trailer length",
+          "value": 6.5,
+          "value_max": null,
+          "unit": "m",
+          "context": "Twin-axle trailer, 3–5 t; approximate length.",
+          "status": "uncertain",
+          "ocr_raw": "flat-bed trailer 3–5 t approx. 6.50"
+        },
+        {
+          "label": "Flat-bed trailer and tipper length",
+          "value": 7.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Twin-axle trailer, 5–8 t; approximate length.",
+          "status": "uncertain",
+          "ocr_raw": "and tipper 5–8 t approx. 7.00"
+        },
+        {
+          "label": "Slurry tank trailer length",
+          "value": 5.5,
+          "value_max": 6.5,
+          "unit": "m",
+          "context": "Table entry for slurry tank trailer, capacity 3–6 m³.",
+          "status": "uncertain",
+          "ocr_raw": "slurry tank trailer 3–6 m³ 5.50–6.50"
+        },
+        {
+          "label": "Muck spreader additional length",
+          "value": 0.5,
+          "value_max": null,
+          "unit": "m",
+          "context": "Footnote says muck spreader is approximately this much longer.",
+          "status": "uncertain",
+          "ocr_raw": "muck spreader approx. 0.5 m longer"
+        }
+      ],
+      "figure_refs": [
+        "9 Dimensions of agricultural machinery"
+      ],
+      "cross_refs": [],
+      "keywords": [
+        "agricultural machinery",
+        "tractor",
+        "trailer",
+        "equipment dimensions",
+        "length",
+        "width",
+        "height"
+      ],
+      "tags_architectural": [
+        "clearance",
+        "circulation"
+      ],
+      "confidence": 0.87
+    },
+    {
+      "id": "4122fb96e4bd1976-461-vision-2",
+      "pdf_page": 461,
+      "book_page": 448,
+      "chapter": "AGRICULTURE",
+      "section": "Farmyards",
+      "title": "Vehicle turning space and single-tractor shed dimensions",
+      "summary": "Plan and elevation diagrams show turning envelopes for tractor-and-trailer combinations and a tractor with front loader. A separate diagram gives rough shed dimensions for a single tractor.",
+      "building_type": "Agricultural vehicle circulation and tractor shed",
+      "spaces": [
+        "Vehicle turning area",
+        "Single-tractor shed"
+      ],
+      "uses": [
+        "Planning maneuvering space for farm vehicles",
+        "Housing a single tractor"
+      ],
+      "furniture_equipment": [
+        "Tractor with trailer",
+        "Tractor with front loader",
+        "Tractor with front mower and trailer"
+      ],
+      "dimensions": [
+        {
+          "label": "Turning envelope dimension",
+          "value": 9.5,
+          "value_max": null,
+          "unit": "m",
+          "context": "Tractor with trailer turning diagram; dimension shown across the turning envelope.",
+          "status": "uncertain",
+          "ocr_raw": "9.50"
+        },
+        {
+          "label": "Turning envelope dimension",
+          "value": 7.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Tractor with front loader turning diagram; dimension shown across the turning envelope.",
+          "status": "uncertain",
+          "ocr_raw": "7.00"
+        },
+        {
+          "label": "Single-tractor shed length",
+          "value": 5.2,
+          "value_max": null,
+          "unit": "m",
+          "context": "Rough dimensions of shed shown in side elevation.",
+          "status": "uncertain",
+          "ocr_raw": "5.20"
+        },
+        {
+          "label": "Single-tractor shed width",
+          "value": 3.5,
+          "value_max": null,
+          "unit": "m",
+          "context": "Rough dimensions of shed shown in front elevation.",
+          "status": "uncertain",
+          "ocr_raw": "3.50"
+        },
+        {
+          "label": "Single-tractor shed height",
+          "value": 2.8,
+          "value_max": null,
+          "unit": "m",
+          "context": "Rough shed dimension shown beside front elevation.",
+          "status": "uncertain",
+          "ocr_raw": "2.80"
+        }
+      ],
+      "figure_refs": [
+        "1 Tractor with trailer",
+        "2 Tractor with front loader",
+        "3 Tractor with front mower and trailer",
+        "4 Space required for vehicles turning",
+        "5 Space required for a single tractor (rough dimensions of shed)"
+      ],
+      "cross_refs": [],
+      "keywords": [
+        "turning space",
+        "vehicle circulation",
+        "tractor shed",
+        "maneuvering"
+      ],
+      "tags_architectural": [
+        "circulation",
+        "clearance"
+      ],
+      "confidence": 0.84
+    },
+    {
+      "id": "4122fb96e4bd1976-461-vision-3",
+      "pdf_page": 461,
+      "book_page": 448,
+      "chapter": "AGRICULTURE",
+      "section": "Farmyards",
+      "title": "Tractor and machinery shed layouts",
+      "summary": "Three planning diagrams show a small tractor shed with a side gangway, a large tractor shed with a central gangway and supported structure, and a large machinery shed with a transverse gangway. The drawings include dimensions for bays, gangways, and overall layout extents.",
+      "building_type": "Agricultural machinery shed",
+      "spaces": [
+        "Small tractor shed",
+        "Side gangway",
+        "Large tractor shed",
+        "Central gangway",
+        "Workshop",
+        "Large machinery and equipment shed",
+        "Transverse gangway"
+      ],
+      "uses": [
+        "Sheltering tractors and agricultural machinery",
+        "Providing internal vehicle circulation and workshop space"
+      ],
+      "furniture_equipment": [
+        "Tractors",
+        "Farm machinery",
+        "Workshop equipment"
+      ],
+      "dimensions": [
+        {
+          "label": "Small shed overall length",
+          "value": 20.0,
+          "value_max": 30.0,
+          "unit": "m",
+          "context": "Small tractor shed with side gangway; overall dimension shown as a range.",
+          "status": "uncertain",
+          "ocr_raw": "20.0–30.0"
+        },
+        {
+          "label": "Small shed dimension",
+          "value": 12.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Small tractor shed with side gangway; plan dimension.",
+          "status": "uncertain",
+          "ocr_raw": "12.0"
+        },
+        {
+          "label": "Large shed minimum overall length",
+          "value": 30.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Large tractor shed with central gangway; plan shows a minimum overall length.",
+          "status": "uncertain",
+          "ocr_raw": "≥ 30.0"
+        },
+        {
+          "label": "Large shed plan dimension",
+          "value": 28.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Large tractor shed with central gangway; overall dimension indicated in the plan.",
+          "status": "uncertain",
+          "ocr_raw": "28.0"
+        },
+        {
+          "label": "Large machinery shed plan dimension",
+          "value": 46.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Large machinery and equipment shed with transverse gangway; dimension indicated beside the plan.",
+          "status": "uncertain",
+          "ocr_raw": "46.0"
+        },
+        {
+          "label": "Machinery shed bay dimension",
+          "value": 6.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Large machinery and equipment shed; repeated bay dimension along the plan.",
+          "status": "uncertain",
+          "ocr_raw": "6.0"
+        }
+      ],
+      "figure_refs": [
+        "6 Small tractor shed with side gangway",
+        "7 Large tractor shed with central gangway; supported structure",
+        "10 Large machinery and equipment shed with transverse gangway"
+      ],
+      "cross_refs": [],
+      "keywords": [
+        "tractor shed",
+        "machinery shed",
+        "gangway",
+        "workshop",
+        "shed layout"
+      ],
+      "tags_architectural": [
+        "circulation",
+        "modularity",
+        "adaptability"
+      ],
+      "confidence": 0.78
+    }
+  ]
+}

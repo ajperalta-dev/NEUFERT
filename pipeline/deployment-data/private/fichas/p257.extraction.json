@@ -1,0 +1,130 @@
+{
+  "fichas": [
+    {
+      "id": "4122fb96e4bd1976-257-vision-0",
+      "pdf_page": 257,
+      "book_page": 244,
+      "chapter": "ADMINISTRATION AND OFFICES",
+      "section": "High-Rise Buildings",
+      "title": "High-Rise Buildings: Basics",
+      "summary": "Defines high-rise buildings by the height of their uppermost occupied floor and describes block and tower typologies, typical uses, urban-location considerations, and approval requirements. Diagrams show floor-plan arrangements, a block-based layout, and a high-rise section with structural and level annotations.",
+      "building_type": "High-rise building",
+      "spaces": [
+        "Entrance level",
+        "Standard floors",
+        "Upper floors",
+        "Foyer",
+        "Core areas",
+        "Traffic areas",
+        "Main staircase",
+        "Side stairs"
+      ],
+      "uses": [
+        "Public establishments on lower floors, including plazas and halls",
+        "Offices",
+        "Hotels",
+        "Apartments",
+        "Company headquarters"
+      ],
+      "furniture_equipment": [
+        "Elevators",
+        "Main staircase",
+        "Side stairs",
+        "Bracing core",
+        "Emergency stairs"
+      ],
+      "dimensions": [
+        {
+          "label": "High-rise height threshold",
+          "value": 22.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "The uppermost floor on one side of the building is more than this height above ground level.",
+          "status": "uncertain",
+          "ocr_raw": "more than 22 m above ground level"
+        },
+        {
+          "label": "Pre-stressed floor width",
+          "value": 24.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Approximate width of pre-stressed floors between the load-bearing towers.",
+          "status": "uncertain",
+          "ocr_raw": "~24 m wide"
+        },
+        {
+          "label": "Pre-stressed floor depth",
+          "value": 0.75,
+          "value_max": null,
+          "unit": "m",
+          "context": "Depth of the pre-stressed floors between the load-bearing towers.",
+          "status": "uncertain",
+          "ocr_raw": "0.75 m deep"
+        },
+        {
+          "label": "Section level",
+          "value": 124.4,
+          "value_max": null,
+          "unit": "m",
+          "context": "Level annotation shown in the building section.",
+          "status": "uncertain",
+          "ocr_raw": "+ 124.40"
+        },
+        {
+          "label": "Section level",
+          "value": 3.45,
+          "value_max": null,
+          "unit": "m",
+          "context": "Level annotation shown near the building base in the section.",
+          "status": "uncertain",
+          "ocr_raw": "+ 3.45"
+        },
+        {
+          "label": "Section datum",
+          "value": 0.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Ground-level datum annotation in the building section.",
+          "status": "uncertain",
+          "ocr_raw": "± 0.00"
+        },
+        {
+          "label": "Section level",
+          "value": -10.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Level annotation shown below the building base in the section.",
+          "status": "uncertain",
+          "ocr_raw": "-10.00"
+        }
+      ],
+      "figure_refs": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "cross_refs": [
+        "p. 112"
+      ],
+      "keywords": [
+        "high-rise buildings",
+        "block",
+        "tower",
+        "urban density",
+        "floor plan",
+        "building core",
+        "urban planning",
+        "approval"
+      ],
+      "tags_architectural": [
+        "circulation",
+        "safety",
+        "daylighting",
+        "ventilation"
+      ],
+      "confidence": 0.96
+    }
+  ]
+}

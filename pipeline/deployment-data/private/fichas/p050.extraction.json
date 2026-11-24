@@ -1,0 +1,277 @@
+{
+  "fichas": [
+    {
+      "id": "4122fb96e4bd1976-50-vision-0",
+      "pdf_page": 50,
+      "book_page": 37,
+      "chapter": "BASICS",
+      "section": "Building Biology",
+      "title": "Room Climate: Thermal Comfort, Heat Loss, and Ventilation",
+      "summary": "Explains thermal comfort as a balance between body heat production and heat loss, describes bodily temperature regulation and heat exchange, and gives recommendations for room temperatures, humidity, fresh air, and ventilation. Figures show thermal comfort zones for room air, surrounding surfaces, ceiling, and floor temperatures.",
+      "building_type": "Residential and occupied buildings",
+      "spaces": [
+        "Living rooms",
+        "Bedrooms"
+      ],
+      "uses": [
+        "Assess thermal comfort and heat loss",
+        "Guide room temperature and surrounding-surface temperature",
+        "Guide indoor humidity and ventilation"
+      ],
+      "furniture_equipment": [],
+      "dimensions": [
+        {
+          "label": "Heat loss through breathing",
+          "value": 11.0,
+          "value_max": null,
+          "unit": "%",
+          "context": "Share of heat loss shown in the human-body heat-output diagram.",
+          "status": "uncertain",
+          "ocr_raw": "Breathing 11%"
+        },
+        {
+          "label": "Heat loss through evaporation",
+          "value": 26.0,
+          "value_max": null,
+          "unit": "%",
+          "context": "Share of heat loss shown in the human-body heat-output diagram.",
+          "status": "uncertain",
+          "ocr_raw": "Evaporation 26%"
+        },
+        {
+          "label": "Heat loss through radiation",
+          "value": 31.0,
+          "value_max": null,
+          "unit": "%",
+          "context": "Share of heat loss shown in the human-body heat-output diagram.",
+          "status": "uncertain",
+          "ocr_raw": "Radiation 31%"
+        },
+        {
+          "label": "Heat loss through convection",
+          "value": 32.0,
+          "value_max": null,
+          "unit": "%",
+          "context": "Share of heat loss shown in the human-body heat-output diagram.",
+          "status": "uncertain",
+          "ocr_raw": "Convection 32%"
+        },
+        {
+          "label": "Water content of air for very good breathing suitability",
+          "value": 0.0,
+          "value_max": 5.0,
+          "unit": "g/kg",
+          "context": "Air humidity values for breathing air; sensation described as light, fresh.",
+          "status": "uncertain",
+          "ocr_raw": "0–5 very good light, fresh"
+        },
+        {
+          "label": "Water content of air for good breathing suitability",
+          "value": 5.0,
+          "value_max": 8.0,
+          "unit": "g/kg",
+          "context": "Air humidity values for breathing air; sensation described as normal.",
+          "status": "uncertain",
+          "ocr_raw": "5–8 good normal"
+        },
+        {
+          "label": "Water content of air for satisfactory breathing suitability",
+          "value": 8.0,
+          "value_max": 10.0,
+          "unit": "g/kg",
+          "context": "Air humidity values for breathing air; sensation described as still bearable.",
+          "status": "uncertain",
+          "ocr_raw": "8–10 satisfactory still bearable"
+        },
+        {
+          "label": "Water content of air for increasingly bad breathing suitability",
+          "value": 10.0,
+          "value_max": 20.0,
+          "unit": "g/kg",
+          "context": "Air humidity values for breathing air; sensation described as heavy, muggy.",
+          "status": "uncertain",
+          "ocr_raw": "10–20 increasingly bad heavy, muggy"
+        },
+        {
+          "label": "Water content of air for already dangerous breathing suitability",
+          "value": 20.0,
+          "value_max": 25.0,
+          "unit": "g/kg",
+          "context": "Air humidity values for breathing air; sensation described as damp heat.",
+          "status": "uncertain",
+          "ocr_raw": "20–25 already dangerous damp heat"
+        },
+        {
+          "label": "Water content of air for unsuitable breathing conditions",
+          "value": 25.0,
+          "value_max": null,
+          "unit": "g/kg",
+          "context": "Values over this threshold are described as unsuitable and unbearable.",
+          "status": "uncertain",
+          "ocr_raw": "over 25 unsuitable unbearable"
+        },
+        {
+          "label": "Water content of exhaled air",
+          "value": 41.0,
+          "value_max": null,
+          "unit": "g/kg",
+          "context": "Table note states water content of exhaled air at 37°C (100%).",
+          "status": "uncertain",
+          "ocr_raw": "41 water content of exhaled air 37°C (100 %)"
+        },
+        {
+          "label": "Exhaled-air temperature",
+          "value": 37.0,
+          "value_max": null,
+          "unit": "°C",
+          "context": "Temperature associated with the table's exhaled-air water-content note.",
+          "status": "uncertain",
+          "ocr_raw": "water content of exhaled air 37°C (100 %)"
+        },
+        {
+          "label": "Relative humidity of exhaled air",
+          "value": 100.0,
+          "value_max": null,
+          "unit": "%",
+          "context": "Humidity stated with the exhaled-air water-content note.",
+          "status": "uncertain",
+          "ocr_raw": "water content of exhaled air 37°C (100 %)"
+        },
+        {
+          "label": "Water condenses in pulmonary alveoli",
+          "value": 41.0,
+          "value_max": null,
+          "unit": "g/kg",
+          "context": "Table indicates condensation in pulmonary alveoli above this water content.",
+          "status": "uncertain",
+          "ocr_raw": "over 41 water condenses pulmonary alveoli"
+        },
+        {
+          "label": "Comfortable summer room temperature",
+          "value": 20.0,
+          "value_max": 24.0,
+          "unit": "°C",
+          "context": "Recommended room-air temperature in summer.",
+          "status": "uncertain",
+          "ocr_raw": "In summer, 20–24°C is comfortable"
+        },
+        {
+          "label": "Comfortable winter room temperature",
+          "value": 21.0,
+          "value_max": null,
+          "unit": "°C",
+          "context": "Recommended winter temperature, with the printed tolerance ±1°C.",
+          "status": "uncertain",
+          "ocr_raw": "in winter about 21°C (± 1°C)"
+        },
+        {
+          "label": "Winter room-temperature tolerance",
+          "value": 1.0,
+          "value_max": null,
+          "unit": "°C",
+          "context": "Printed as ±1°C around the approximate winter recommendation of 21°C.",
+          "status": "uncertain",
+          "ocr_raw": "about 21°C (± 1°C)"
+        },
+        {
+          "label": "Maximum difference between surrounding-surface and air temperatures",
+          "value": 2.0,
+          "value_max": 3.0,
+          "unit": "°C",
+          "context": "The temperature of surrounding surfaces should not differ from air temperature by more than this amount.",
+          "status": "uncertain",
+          "ocr_raw": "should not differ from the air temperature by more than 2–3°C"
+        },
+        {
+          "label": "Minimum floor temperature",
+          "value": 17.0,
+          "value_max": null,
+          "unit": "°C",
+          "context": "Floor temperature should be greater than this value to avoid large heat transfers through the feet.",
+          "status": "uncertain",
+          "ocr_raw": "floor temperature should be greater than 17°C"
+        },
+        {
+          "label": "Comfortable relative humidity",
+          "value": 40.0,
+          "value_max": 50.0,
+          "unit": "%",
+          "context": "Relative humidity range stated to be thermally comfortable.",
+          "status": "uncertain",
+          "ocr_raw": "Relative humidity of 40–50% is thermally comfortable."
+        },
+        {
+          "label": "Low relative-humidity threshold",
+          "value": 30.0,
+          "value_max": null,
+          "unit": "%",
+          "context": "If humidity is below this value, dust particles can fly.",
+          "status": "uncertain",
+          "ocr_raw": "If the humidity is less than 30%, dust particles can fly."
+        },
+        {
+          "label": "Maximum indoor carbon-dioxide content",
+          "value": 0.1,
+          "value_max": null,
+          "unit": "% by volume",
+          "context": "The stated CO₂ content should not be exceeded; the text associates this with required air changes.",
+          "status": "uncertain",
+          "ocr_raw": "A CO₂ content of 0.10% by volume should not be exceeded"
+        },
+        {
+          "label": "Required air changes in living rooms and bedrooms",
+          "value": 2.0,
+          "value_max": 3.0,
+          "unit": "air changes per hour",
+          "context": "Required to meet the stated indoor-air condition in living rooms and bedrooms.",
+          "status": "uncertain",
+          "ocr_raw": "which requires 2–3 air changes per hour in living rooms and bedrooms."
+        },
+        {
+          "label": "Fresh air required per person",
+          "value": 32.0,
+          "value_max": null,
+          "unit": "m³/h",
+          "context": "Approximate fresh-air requirement per person.",
+          "status": "uncertain",
+          "ocr_raw": "The fresh air required by a person is about 32.0 m3 /h."
+        },
+        {
+          "label": "Living-room air changes per room volume per person",
+          "value": 0.4,
+          "value_max": 0.8,
+          "unit": "× room volume per person/h",
+          "context": "Stated air-change range for living rooms.",
+          "status": "uncertain",
+          "ocr_raw": "Air changes in living rooms: 0.4–0.8 x room volume per person/h."
+        }
+      ],
+      "figure_refs": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8"
+      ],
+      "cross_refs": [],
+      "keywords": [
+        "room climate",
+        "thermal comfort",
+        "heat loss",
+        "body temperature regulation",
+        "air humidity",
+        "fresh air",
+        "ventilation",
+        "carbon dioxide"
+      ],
+      "tags_architectural": [
+        "ventilation",
+        "daylighting"
+      ],
+      "confidence": 0.96
+    }
+  ]
+}

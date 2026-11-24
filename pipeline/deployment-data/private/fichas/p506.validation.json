@@ -1,0 +1,148 @@
+{
+  "model": "gpt-6-luna",
+  "checks": {
+    "checks": [
+      {
+        "ficha_index": 0,
+        "dimension_index": 0,
+        "status": "verified",
+        "value": null,
+        "value_max": null,
+        "reason": "The text explicitly gives an azimuth angle of 245\u00b0."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 1,
+        "status": "verified",
+        "value": null,
+        "value_max": null,
+        "reason": "The text explicitly gives an elevation of 20\u00b0."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 2,
+        "status": "verified",
+        "value": null,
+        "value_max": null,
+        "reason": "The example specifies latitude 51\u00b0 north."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 3,
+        "status": "verified",
+        "value": null,
+        "value_max": null,
+        "reason": "The example specifies 21 March."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 4,
+        "status": "verified",
+        "value": null,
+        "value_max": null,
+        "reason": "The example specifies 16:00."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 5,
+        "status": "verified",
+        "value": null,
+        "value_max": null,
+        "reason": "The text says shadows can be transferred at 1:1 onto the copied path of the sun."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 6,
+        "status": "verified",
+        "value": null,
+        "value_max": null,
+        "reason": "The diagram label specifies a transparent dome, height 3 cm."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 7,
+        "status": "verified",
+        "value": null,
+        "value_max": null,
+        "reason": "The diagram label specifies a base diameter of \u226514 cm with compass."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 8,
+        "status": "verified",
+        "value": null,
+        "value_max": null,
+        "reason": "The text specifies a 60\u2013100 cm concave mirror."
+      }
+    ]
+  },
+  "automatic": [
+    {
+      "ficha_index": 0,
+      "dimension_index": 0,
+      "issues": [
+        "Unknown unit"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 1,
+      "issues": [
+        "Unknown unit"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 2,
+      "issues": [
+        "Unknown unit"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 3,
+      "issues": [
+        "Unknown unit"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 4,
+      "issues": [
+        "Unknown unit"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 5,
+      "issues": [
+        "Unknown unit"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 6,
+      "issues": []
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 7,
+      "issues": []
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 8,
+      "issues": []
+    }
+  ],
+  "usage": [
+    {
+      "prompt_tokens": 4680,
+      "completion_tokens": 1062
+    },
+    {
+      "prompt_tokens": 4140,
+      "completion_tokens": 348
+    }
+  ]
+}

@@ -1,0 +1,283 @@
+{
+  "fichas": [
+    {
+      "id": "4122fb96e4bd1976-187-vision-0",
+      "pdf_page": 187,
+      "book_page": 174,
+      "chapter": "ACCOMMODATION",
+      "section": "Catering",
+      "title": "Restaurant dining dimensions and clearances",
+      "summary": "Guidance for comfortable dining describes personal table area, suitable table widths and depths, and clearances between tables, chairs, walls, and diners. Round tables may require additional space.",
+      "building_type": "Restaurant",
+      "spaces": [
+        "Dining area",
+        "Dining table",
+        "Space between table and wall"
+      ],
+      "uses": [
+        "Comfortable dining",
+        "Seating diners",
+        "Providing access behind seated diners"
+      ],
+      "furniture_equipment": [
+        "Dining tables",
+        "Chairs",
+        "Dishes and bowls"
+      ],
+      "dimensions": [
+        {
+          "label": "Table area width per person",
+          "value": 60.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Approximate width of table area required per diner.",
+          "status": "uncertain",
+          "ocr_raw": "around 60 cm wide"
+        },
+        {
+          "label": "Table area depth per person",
+          "value": 30.0,
+          "value_max": 40.0,
+          "unit": "cm",
+          "context": "Approximate depth of table area required per diner.",
+          "status": "uncertain",
+          "ocr_raw": "30-40 em deep"
+        },
+        {
+          "label": "Additional central space for dishes",
+          "value": 20.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Additional space in the centre of the table, sometimes desirable for dishes and large bowls.",
+          "status": "uncertain",
+          "ocr_raw": "20 cm space in the centre"
+        },
+        {
+          "label": "Dining table overall width",
+          "value": 80.0,
+          "value_max": 85.0,
+          "unit": "cm",
+          "context": "Suitable overall width for a dining table.",
+          "status": "uncertain",
+          "ocr_raw": "80-85 cm"
+        },
+        {
+          "label": "Table width when food is served on plates",
+          "value": 70.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "The text says this width is sufficient when food is served on plates.",
+          "status": "uncertain",
+          "ocr_raw": "70 cm is sufficient"
+        },
+        {
+          "label": "Fast-food table depth",
+          "value": 60.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Table depth stated for fast food.",
+          "status": "uncertain",
+          "ocr_raw": "60 cm table depth"
+        },
+        {
+          "label": "Table-to-wall distance",
+          "value": 75.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Minimum distance between table and wall; the chair alone requires 50 cm of space.",
+          "status": "uncertain",
+          "ocr_raw": "Distance between table and wall ;;;;75 em"
+        },
+        {
+          "label": "Chair space",
+          "value": 50.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Space required by the chair alone between table and wall.",
+          "status": "uncertain",
+          "ocr_raw": "space of 50 em"
+        },
+        {
+          "label": "Table-to-wall distance with access",
+          "value": 100.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Distance when the space between table and wall is also used for access.",
+          "status": "uncertain",
+          "ocr_raw": "distance should be ;;;;1 00 em"
+        },
+        {
+          "label": "Additional space for round tables",
+          "value": 50.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "The text states that round tables need a little more space, a difference of up to this amount.",
+          "status": "uncertain",
+          "ocr_raw": "a difference of up to 50 cm"
+        }
+      ],
+      "figure_refs": [
+        "1"
+      ],
+      "cross_refs": [
+        "Dining rooms p. 152"
+      ],
+      "keywords": [
+        "restaurant",
+        "dining",
+        "table dimensions",
+        "chair clearance",
+        "access"
+      ],
+      "tags_architectural": [
+        "ergonomics",
+        "anthropometry",
+        "clearance",
+        "circulation"
+      ],
+      "confidence": 0.95
+    },
+    {
+      "id": "4122fb96e4bd1976-187-vision-1",
+      "pdf_page": 187,
+      "book_page": 174,
+      "chapter": "ACCOMMODATION",
+      "section": "Catering",
+      "title": "Space required for waiter and diner",
+      "summary": "Illustrations show spatial arrangements and dimensions for diners seated at tables and for waiter movement and service around them.",
+      "building_type": "Restaurant",
+      "spaces": [
+        "Dining area",
+        "Waiter circulation area",
+        "Table seating area"
+      ],
+      "uses": [
+        "Seating diners",
+        "Serving diners",
+        "Allowing waiter movement"
+      ],
+      "furniture_equipment": [
+        "Dining tables",
+        "Chairs"
+      ],
+      "dimensions": [],
+      "figure_refs": [
+        "1"
+      ],
+      "cross_refs": [],
+      "keywords": [
+        "waiter",
+        "diner",
+        "service",
+        "seating",
+        "circulation"
+      ],
+      "tags_architectural": [
+        "circulation",
+        "clearance",
+        "ergonomics"
+      ],
+      "confidence": 0.72
+    },
+    {
+      "id": "4122fb96e4bd1976-187-vision-2",
+      "pdf_page": 187,
+      "book_page": 174,
+      "chapter": "ACCOMMODATION",
+      "section": "Catering",
+      "title": "Breakfast and dinner place settings",
+      "summary": "Diagrams identify tableware and glassware for breakfast, informal dinner, and formal dinner settings. The page also illustrates space around settings.",
+      "building_type": "Restaurant",
+      "spaces": [
+        "Dining table",
+        "Place setting"
+      ],
+      "uses": [
+        "Breakfast dining",
+        "Informal dinner dining",
+        "Formal dinner dining"
+      ],
+      "furniture_equipment": [
+        "Tea or coffee pot",
+        "Milk jug",
+        "Jam or butter bowl",
+        "Sugar bowl",
+        "Dessert fork",
+        "Dessert knife",
+        "Coffee or tea spoon",
+        "Dessert plate",
+        "Napkin",
+        "Saucer",
+        "Coffee cup",
+        "Fork",
+        "Knife",
+        "Soup or dessert spoon",
+        "Spoon",
+        "Beer glass",
+        "Wine or dessert wine glass",
+        "Soup bowl",
+        "Dinner plate",
+        "Fish fork",
+        "Fish knife",
+        "Liqueur or dessert wine glass"
+      ],
+      "dimensions": [],
+      "figure_refs": [
+        "2",
+        "3",
+        "4"
+      ],
+      "cross_refs": [],
+      "keywords": [
+        "breakfast setting",
+        "informal dinner setting",
+        "formal dinner setting",
+        "tableware"
+      ],
+      "tags_architectural": [
+        "ergonomics"
+      ],
+      "confidence": 0.93
+    },
+    {
+      "id": "4122fb96e4bd1976-187-vision-3",
+      "pdf_page": 187,
+      "book_page": 174,
+      "chapter": "ACCOMMODATION",
+      "section": "Catering",
+      "title": "Tables and seating layouts",
+      "summary": "A range of illustrated table configurations shows seating arrangements for different group sizes, including rectangular, round, and other shaped tables. Dimension labels accompany some layouts.",
+      "building_type": "Restaurant",
+      "spaces": [
+        "Dining room",
+        "Table seating area"
+      ],
+      "uses": [
+        "Arranging tables and seats",
+        "Seating dining groups"
+      ],
+      "furniture_equipment": [
+        "Rectangular tables",
+        "Round tables",
+        "Other shaped tables",
+        "Chairs"
+      ],
+      "dimensions": [],
+      "figure_refs": [
+        "5"
+      ],
+      "cross_refs": [],
+      "keywords": [
+        "tables",
+        "seating",
+        "table layouts",
+        "group dining"
+      ],
+      "tags_architectural": [
+        "spatial_proportion",
+        "modularity"
+      ],
+      "confidence": 0.74
+    }
+  ]
+}

@@ -1,0 +1,203 @@
+{
+  "fichas": [
+    {
+      "id": "4122fb96e4bd1976-425-vision-0",
+      "pdf_page": 425,
+      "book_page": 412,
+      "chapter": "TRANSPORT",
+      "section": "Railways",
+      "title": "UK Structure Gauges and Clearances",
+      "summary": "Diagrams and notes specify minimum lateral and overhead clearances for railway tracks and structures, including platform clearances. The stated clearances apply to straight, level track unless otherwise noted; adjustments are required for curvature and cant. Dimensions are in millimetres. The standard structure gauge accommodates overhead electrification up to 25 kV.",
+      "building_type": "Railway infrastructure",
+      "spaces": [
+        "Railway tracks",
+        "Platforms",
+        "Areas between adjacent tracks",
+        "Platform canopy and overhead structures"
+      ],
+      "uses": [
+        "Set minimum clearances for construction, reconstruction, and alterations to track and structures",
+        "Coordinate trackside structures and overhead electrification",
+        "Maintain passenger platform clearances"
+      ],
+      "furniture_equipment": [
+        "Platforms",
+        "Platform columns",
+        "Overhead line equipment",
+        "Signal posts",
+        "Bridge girders",
+        "Guard and check rails",
+        "Train stops"
+      ],
+      "dimensions": [
+        {
+          "label": "Platform clearance from edge to nearest building structure or platform furniture",
+          "value": 2500.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Minimum for line speeds up to 165 km/h.",
+          "status": "verified",
+          "ocr_raw": "shall be 2500mm for speeds up to 165km/h"
+        },
+        {
+          "label": "Platform clearance from edge to nearest building structure or platform furniture",
+          "value": 3000.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Minimum for line speeds greater than 165 km/h.",
+          "status": "verified",
+          "ocr_raw": "for\nspeeds greater than 165km/h the minimum dimension\nshall be 3000 mm"
+        },
+        {
+          "label": "Clearance to face of any column",
+          "value": 2000.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Minimum distance from the platform edge to the face of any column.",
+          "status": "verified",
+          "ocr_raw": "The minimum distance to the face of\nany column shall be 2000mm."
+        },
+        {
+          "label": "Preferred clearance from rail level to underside of structures",
+          "value": 4780.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Preferred increase for overhead equipment design flexibility; greater clearance may be required in some locations.",
+          "status": "verified",
+          "ocr_raw": "the minimum dimension between rail level\nand the underside of the structures should be\nincreased, preferably to 4780mm or more"
+        },
+        {
+          "label": "Vertical clearance to platform canopy",
+          "value": 2500.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Up to 2000 mm minimum from the platform edge, for line speeds up to 165 km/h.",
+          "status": "verified",
+          "ocr_raw": "Vertical clearances to the canopy above the platform\nshall be 2500mm up to 2000mm minimum from the\nplatform edge"
+        },
+        {
+          "label": "Vertical clearance to platform canopy",
+          "value": 3000.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Up to 2000 mm minimum from the platform edge where line speed exceeds 165 km/h.",
+          "status": "verified",
+          "ocr_raw": "or up to 3000mm where the line speed\nexceeds 165km/h"
+        },
+        {
+          "label": "Minimum headroom beyond applicable platform-edge zone",
+          "value": 2300.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "At distances beyond 2000 mm or 3000 mm from the platform edge, as applicable.",
+          "status": "verified",
+          "ocr_raw": "At distances beyond 2000mm or\n3000mm from the platform edge, as applicable, the\nminimum headroom shall be 2300mm."
+        },
+        {
+          "label": "Guidance minimum lateral platform dimension",
+          "value": 730.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Platform clearance subject to HMRI stepping distances and the particular kinematic envelope.",
+          "status": "verified",
+          "ocr_raw": "The minimum lateral dimension is 730mm\nand is shown for guidance."
+        },
+        {
+          "label": "Increase to clearance dimensions where practicable",
+          "value": 300.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Increase to facilitate an access walkway.",
+          "status": "verified",
+          "ocr_raw": "these dimensions shall\nbe increased by 300 mm"
+        },
+        {
+          "label": "Adjacent track centre-line spacing",
+          "value": 1700.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Shown for standard 6 foot.",
+          "status": "verified",
+          "ocr_raw": "1700\n\n(for standard 6 foot)"
+        },
+        {
+          "label": "Height above rail level for applicable lower structure gauge diagram",
+          "value": 1089.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Diagram applies at and below this height above rail level (ARL).",
+          "status": "verified",
+          "ocr_raw": "Standard structure gauge applicable at and below 1089 mm above rail level (ARL)"
+        },
+        {
+          "label": "Maximum height for bridge girders, dwarf signals, and other lineside equipment in platform space",
+          "value": 915.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Height above rail level (ARL).",
+          "status": "verified",
+          "ocr_raw": "up to a height of 915mm ARL"
+        },
+        {
+          "label": "Horizontal stepping distance",
+          "value": 275.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Maximum, calculated from the centre of the bottom of the door opening, unless dispensation is sought.",
+          "status": "verified",
+          "ocr_raw": "~\n\n~see notes!\n\n~E\n\n-ru\n0\"'\nrum\n\n~\n\n'\n\n~]\nru-\n\n.,m\n\n''\n''\n\n•\n\n'\n'''\n'\n\nsee note 11\n\n''\n''\n\nc>-\n\n~1\n\n~·~\n\n.emO>\n(!)\n\n\"\"'\nE\"'\nruro\n\n''\n'\n\n~\"E\n\n''\n\nHl\nE ro\n\"'\"\n:£~\nE.E\n\n'''\n'\n''\n\n16~\n\nI\n\nI'\n'\n\n2185\n2340\n(\"3196)\n\nI\n\nI\n\nI\n\n1.\n\n3400\n\ncentre~ line\n\nof track\n\n8080\n(•9 7 92 )\n\nThis diagram illustrates minimum lateral and overhead\nclearances to be adopted in construction or\nreconstruction and for alterations or additions to\nexisting track and structures for line speeds up to\n165km/h (!OOmph).\n\nAll dimensions are in mm.\n* The dimension to be used when line speed exceeds\n165 km/h (100 mph).\nThe clearance dimensions given are valid for straight\n\nand level track only and due allowance must be made\nfor the effects of horizontal and vertical curvature,\nincluding super-elevation (cant).\nThe standard structure gauge allows for overhead\nelectrification with voltages up to 25kV. However, to\npermit some flexibility in the design of overhead\nequipment, the minimum dimension between rail level\nand the underside of the structures should be\nincreased, preferably to 4780mm or more if this can be\nachieved with reasonable economy. The proximity of\ntrack features such as level crossings or OHE\nsectioning may require greater than 4780mm.\nPermissible infringements in respect of conductor rail\nequipment, guard and check rails, train stops and\nstructures in the space between adjacent tracks are not\nshown.\nThe minimum dimensions of a single face platform\nmeasured from the edge of the platform to the face of\nthe nearest building structure or platform furniture\n\n8\n\n~\n\nsee no!Q!\n\n§lr:J\\1\n00\n\n•\n\n~\n\nI\n\n.i.\n\ncentre-ltne\n\nof t~ack\n\ncolumns\nand other\n; - fixed\nworks on\nplatforms,\nincluding\nfaces of\nbuildings\n\n0\n\n~~-\n\n1432\n\n2090\n\n·'\n\n~~\n\nsee note 12\n\n('2490)\n\n1906\n\n\\1\n\n~\n\n'\n\n~\n\ncaters for 2 5kV\nelectrificatio\n\nI\n\nIJ ID\n\n.C<=\n\nclear area\n\n'i'~\n\n~ ----:;:\n\nrail Ieve I\n\nas far as is practicable\nthis space t o be kept\nclear of permanent\nobstruction s, but may\nbe used for signalling\napparatus a nd bridge\n\n2340\n('3196)\n\ngirders\n\nshall be 2500mm for speeds up to 165km/h and for\nspeeds greater than 165km/h the minimum dimension\nshall be 3000 mm. The minimum distance to the face of\nany column shall be 2000mm.\nNearest face of all other structures including masts\ncarrying overhead line equipment of electrified\nrailways.\nNearest face of signal posts and other isolated\nstructures less than 2m in length but excluding masts\ncarrying overhead line equipment on electrified\nrailways.\n10 Vertical clearances to the canopy above the platform\nshall be 2500mm up to 2000mm minimum from the\nplatform edge or up to 3000mm where the line speed\nexceeds 165km/h. At distances beyond 2000mm or\n3000mm from the platform edge, as applicable, the\nminimum headroom shall be 2300mm.\n11 Platform clearances are subject to the maintenance of\nHMRI stepping distances and specific requirements\nshall be calculated from the particular kinematic\nenvelope with an allowance made for structural\nclearance. The minimum lateral dimension is 730mm\nand is shown for guidance.\n12 Where reasonably practicable these dimensions shall\nbe increased by 300 mm to facilitate the provision of an\naccess walkway in accordance with CC/RT5203\nInfrastructure Requirements for Personal Safety in\n\nRespect of Clearance and Access.\n\nStandard structure gauge\n\nA\n\ncentre-line\nof adjacent\ntracks\n1700\n\n(for standard 6 foot)\n\nB\n\n1&21\n\ncentre-line\nof track\n\nRAILWAYS\n\nTracks\nFreight transport\nStations\nStation buildings\nPlatforms\nPlatform furniture\n\nrail level\n\ne\n\nAll dimensions are in mm.\nThe dimensions shown are for\nstraight\nalignment\nand\nappropriate adjustments must\nbe made for curvature. Except\nfor dispensation which allows\nstation platforms on curves\nwith a radius greater than 360m\nto be placed at standard\ndimensions (as shown), the\namount of platform set-back for\ncurves with a radius less than\n360m shall be determined by\nNetwork Rail.\nBridge girders, dwarf signals\nand other lineside equipment\nup to a height of 915mm ARL\nmay be positioned in the space\navailable for platforms.\n\nThe minimum dimension of a\nsingle face platform shall be\n2500 mm for speeds up to\n165km/h and for speeds greater\nthan 165km/h the minimum\ndistance shall be increased to\n3000 mm.\nThe\nminimum\ndistance to the face of any\ncolumn shall be 2000 mm.\nPlatform clearances are subject\nto the maintenance of HMRI\nstepping distances and specific\nrequirements shall be calculated\nfrom the particular kinematic\nenvelope with an allowance\nmade for structural clearance.\nThe minimum lateral dimension\nis 730 mm and is shown for\nguidance.\n\nStandard structure gauge applicable at and below 1089 mm above rail level (ARL)\n\n412\n\nkey\n\nabutments, piers, stanchions etc.\n(clear of platform)\n8 columns and other works on\nplatforms\n\nA\n\n.-.\n\n~~eaar~ f~~~~ductor rails and\n\n-\n\nCD\n\nRAILWAYS\n\nboundary fo rplatform\n\nd station\n~~ footbridges\nawnmgs an which\n\n~\n\nru~\n\nareas for guard and check rails\nonly\nareas available for dwarf\nsignals, bridge girders and\nother lineside equipment\nunhatched areas so marked are\nfor permanent way, signal\nfittings and fourth rail\nelectrification\n\nUK StructureGauges and Clearances\nNetwork Rail shall give consideration to passenger safety by limiting the maximum stepping distance from the top edge of the\nplatform to the top edge of the\nstep board or floor of passenger\nrolling stock.\nThe following maximum dimensions for stepping distances,\ncalculated from the centre of the\nbottom of the door opening, shall\napply unless dispensation has\nbeen sought from HSV/HMRI\nfor site specific cases relating\nto identified rolling stock. All\nsuch cases must be recorded in\nwriting and maintained for future\nreference.\nhorizontal\nvertical\ndiagonal\n\n275 mm\n250mm\n350mm\n\n\f"
+        },
+        {
+          "label": "Vertical stepping distance",
+          "value": 250.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Maximum, calculated from the centre of the bottom of the door opening, unless dispensation is sought.",
+          "status": "verified",
+          "ocr_raw": "~\n\n~see notes!\n\n~E\n\n-ru\n0\"'\nrum\n\n~\n\n'\n\n~]\nru-\n\n.,m\n\n''\n''\n\n•\n\n'\n'''\n'\n\nsee note 11\n\n''\n''\n\nc>-\n\n~1\n\n~·~\n\n.emO>\n(!)\n\n\"\"'\nE\"'\nruro\n\n''\n'\n\n~\"E\n\n''\n\nHl\nE ro\n\"'\"\n:£~\nE.E\n\n'''\n'\n''\n\n16~\n\nI\n\nI'\n'\n\n2185\n2340\n(\"3196)\n\nI\n\nI\n\nI\n\n1.\n\n3400\n\ncentre~ line\n\nof track\n\n8080\n(•9 7 92 )\n\nThis diagram illustrates minimum lateral and overhead\nclearances to be adopted in construction or\nreconstruction and for alterations or additions to\nexisting track and structures for line speeds up to\n165km/h (!OOmph).\n\nAll dimensions are in mm.\n* The dimension to be used when line speed exceeds\n165 km/h (100 mph).\nThe clearance dimensions given are valid for straight\n\nand level track only and due allowance must be made\nfor the effects of horizontal and vertical curvature,\nincluding super-elevation (cant).\nThe standard structure gauge allows for overhead\nelectrification with voltages up to 25kV. However, to\npermit some flexibility in the design of overhead\nequipment, the minimum dimension between rail level\nand the underside of the structures should be\nincreased, preferably to 4780mm or more if this can be\nachieved with reasonable economy. The proximity of\ntrack features such as level crossings or OHE\nsectioning may require greater than 4780mm.\nPermissible infringements in respect of conductor rail\nequipment, guard and check rails, train stops and\nstructures in the space between adjacent tracks are not\nshown.\nThe minimum dimensions of a single face platform\nmeasured from the edge of the platform to the face of\nthe nearest building structure or platform furniture\n\n8\n\n~\n\nsee no!Q!\n\n§lr:J\\1\n00\n\n•\n\n~\n\nI\n\n.i.\n\ncentre-ltne\n\nof t~ack\n\ncolumns\nand other\n; - fixed\nworks on\nplatforms,\nincluding\nfaces of\nbuildings\n\n0\n\n~~-\n\n1432\n\n2090\n\n·'\n\n~~\n\nsee note 12\n\n('2490)\n\n1906\n\n\\1\n\n~\n\n'\n\n~\n\ncaters for 2 5kV\nelectrificatio\n\nI\n\nIJ ID\n\n.C<=\n\nclear area\n\n'i'~\n\n~ ----:;:\n\nrail Ieve I\n\nas far as is practicable\nthis space t o be kept\nclear of permanent\nobstruction s, but may\nbe used for signalling\napparatus a nd bridge\n\n2340\n('3196)\n\ngirders\n\nshall be 2500mm for speeds up to 165km/h and for\nspeeds greater than 165km/h the minimum dimension\nshall be 3000 mm. The minimum distance to the face of\nany column shall be 2000mm.\nNearest face of all other structures including masts\ncarrying overhead line equipment of electrified\nrailways.\nNearest face of signal posts and other isolated\nstructures less than 2m in length but excluding masts\ncarrying overhead line equipment on electrified\nrailways.\n10 Vertical clearances to the canopy above the platform\nshall be 2500mm up to 2000mm minimum from the\nplatform edge or up to 3000mm where the line speed\nexceeds 165km/h. At distances beyond 2000mm or\n3000mm from the platform edge, as applicable, the\nminimum headroom shall be 2300mm.\n11 Platform clearances are subject to the maintenance of\nHMRI stepping distances and specific requirements\nshall be calculated from the particular kinematic\nenvelope with an allowance made for structural\nclearance. The minimum lateral dimension is 730mm\nand is shown for guidance.\n12 Where reasonably practicable these dimensions shall\nbe increased by 300 mm to facilitate the provision of an\naccess walkway in accordance with CC/RT5203\nInfrastructure Requirements for Personal Safety in\n\nRespect of Clearance and Access.\n\nStandard structure gauge\n\nA\n\ncentre-line\nof adjacent\ntracks\n1700\n\n(for standard 6 foot)\n\nB\n\n1&21\n\ncentre-line\nof track\n\nRAILWAYS\n\nTracks\nFreight transport\nStations\nStation buildings\nPlatforms\nPlatform furniture\n\nrail level\n\ne\n\nAll dimensions are in mm.\nThe dimensions shown are for\nstraight\nalignment\nand\nappropriate adjustments must\nbe made for curvature. Except\nfor dispensation which allows\nstation platforms on curves\nwith a radius greater than 360m\nto be placed at standard\ndimensions (as shown), the\namount of platform set-back for\ncurves with a radius less than\n360m shall be determined by\nNetwork Rail.\nBridge girders, dwarf signals\nand other lineside equipment\nup to a height of 915mm ARL\nmay be positioned in the space\navailable for platforms.\n\nThe minimum dimension of a\nsingle face platform shall be\n2500 mm for speeds up to\n165km/h and for speeds greater\nthan 165km/h the minimum\ndistance shall be increased to\n3000 mm.\nThe\nminimum\ndistance to the face of any\ncolumn shall be 2000 mm.\nPlatform clearances are subject\nto the maintenance of HMRI\nstepping distances and specific\nrequirements shall be calculated\nfrom the particular kinematic\nenvelope with an allowance\nmade for structural clearance.\nThe minimum lateral dimension\nis 730 mm and is shown for\nguidance.\n\nStandard structure gauge applicable at and below 1089 mm above rail level (ARL)\n\n412\n\nkey\n\nabutments, piers, stanchions etc.\n(clear of platform)\n8 columns and other works on\nplatforms\n\nA\n\n.-.\n\n~~eaar~ f~~~~ductor rails and\n\n-\n\nCD\n\nRAILWAYS\n\nboundary fo rplatform\n\nd station\n~~ footbridges\nawnmgs an which\n\n~\n\nru~\n\nareas for guard and check rails\nonly\nareas available for dwarf\nsignals, bridge girders and\nother lineside equipment\nunhatched areas so marked are\nfor permanent way, signal\nfittings and fourth rail\nelectrification\n\nUK StructureGauges and Clearances\nNetwork Rail shall give consideration to passenger safety by limiting the maximum stepping distance from the top edge of the\nplatform to the top edge of the\nstep board or floor of passenger\nrolling stock.\nThe following maximum dimensions for stepping distances,\ncalculated from the centre of the\nbottom of the door opening, shall\napply unless dispensation has\nbeen sought from HSV/HMRI\nfor site specific cases relating\nto identified rolling stock. All\nsuch cases must be recorded in\nwriting and maintained for future\nreference.\nhorizontal\nvertical\ndiagonal\n\n275 mm\n250mm\n350mm\n\n\f"
+        },
+        {
+          "label": "Diagonal stepping distance",
+          "value": 350.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Maximum, calculated from the centre of the bottom of the door opening, unless dispensation is sought.",
+          "status": "verified",
+          "ocr_raw": "~\n\n~see notes!\n\n~E\n\n-ru\n0\"'\nrum\n\n~\n\n'\n\n~]\nru-\n\n.,m\n\n''\n''\n\n•\n\n'\n'''\n'\n\nsee note 11\n\n''\n''\n\nc>-\n\n~1\n\n~·~\n\n.emO>\n(!)\n\n\"\"'\nE\"'\nruro\n\n''\n'\n\n~\"E\n\n''\n\nHl\nE ro\n\"'\"\n:£~\nE.E\n\n'''\n'\n''\n\n16~\n\nI\n\nI'\n'\n\n2185\n2340\n(\"3196)\n\nI\n\nI\n\nI\n\n1.\n\n3400\n\ncentre~ line\n\nof track\n\n8080\n(•9 7 92 )\n\nThis diagram illustrates minimum lateral and overhead\nclearances to be adopted in construction or\nreconstruction and for alterations or additions to\nexisting track and structures for line speeds up to\n165km/h (!OOmph).\n\nAll dimensions are in mm.\n* The dimension to be used when line speed exceeds\n165 km/h (100 mph).\nThe clearance dimensions given are valid for straight\n\nand level track only and due allowance must be made\nfor the effects of horizontal and vertical curvature,\nincluding super-elevation (cant).\nThe standard structure gauge allows for overhead\nelectrification with voltages up to 25kV. However, to\npermit some flexibility in the design of overhead\nequipment, the minimum dimension between rail level\nand the underside of the structures should be\nincreased, preferably to 4780mm or more if this can be\nachieved with reasonable economy. The proximity of\ntrack features such as level crossings or OHE\nsectioning may require greater than 4780mm.\nPermissible infringements in respect of conductor rail\nequipment, guard and check rails, train stops and\nstructures in the space between adjacent tracks are not\nshown.\nThe minimum dimensions of a single face platform\nmeasured from the edge of the platform to the face of\nthe nearest building structure or platform furniture\n\n8\n\n~\n\nsee no!Q!\n\n§lr:J\\1\n00\n\n•\n\n~\n\nI\n\n.i.\n\ncentre-ltne\n\nof t~ack\n\ncolumns\nand other\n; - fixed\nworks on\nplatforms,\nincluding\nfaces of\nbuildings\n\n0\n\n~~-\n\n1432\n\n2090\n\n·'\n\n~~\n\nsee note 12\n\n('2490)\n\n1906\n\n\\1\n\n~\n\n'\n\n~\n\ncaters for 2 5kV\nelectrificatio\n\nI\n\nIJ ID\n\n.C<=\n\nclear area\n\n'i'~\n\n~ ----:;:\n\nrail Ieve I\n\nas far as is practicable\nthis space t o be kept\nclear of permanent\nobstruction s, but may\nbe used for signalling\napparatus a nd bridge\n\n2340\n('3196)\n\ngirders\n\nshall be 2500mm for speeds up to 165km/h and for\nspeeds greater than 165km/h the minimum dimension\nshall be 3000 mm. The minimum distance to the face of\nany column shall be 2000mm.\nNearest face of all other structures including masts\ncarrying overhead line equipment of electrified\nrailways.\nNearest face of signal posts and other isolated\nstructures less than 2m in length but excluding masts\ncarrying overhead line equipment on electrified\nrailways.\n10 Vertical clearances to the canopy above the platform\nshall be 2500mm up to 2000mm minimum from the\nplatform edge or up to 3000mm where the line speed\nexceeds 165km/h. At distances beyond 2000mm or\n3000mm from the platform edge, as applicable, the\nminimum headroom shall be 2300mm.\n11 Platform clearances are subject to the maintenance of\nHMRI stepping distances and specific requirements\nshall be calculated from the particular kinematic\nenvelope with an allowance made for structural\nclearance. The minimum lateral dimension is 730mm\nand is shown for guidance.\n12 Where reasonably practicable these dimensions shall\nbe increased by 300 mm to facilitate the provision of an\naccess walkway in accordance with CC/RT5203\nInfrastructure Requirements for Personal Safety in\n\nRespect of Clearance and Access.\n\nStandard structure gauge\n\nA\n\ncentre-line\nof adjacent\ntracks\n1700\n\n(for standard 6 foot)\n\nB\n\n1&21\n\ncentre-line\nof track\n\nRAILWAYS\n\nTracks\nFreight transport\nStations\nStation buildings\nPlatforms\nPlatform furniture\n\nrail level\n\ne\n\nAll dimensions are in mm.\nThe dimensions shown are for\nstraight\nalignment\nand\nappropriate adjustments must\nbe made for curvature. Except\nfor dispensation which allows\nstation platforms on curves\nwith a radius greater than 360m\nto be placed at standard\ndimensions (as shown), the\namount of platform set-back for\ncurves with a radius less than\n360m shall be determined by\nNetwork Rail.\nBridge girders, dwarf signals\nand other lineside equipment\nup to a height of 915mm ARL\nmay be positioned in the space\navailable for platforms.\n\nThe minimum dimension of a\nsingle face platform shall be\n2500 mm for speeds up to\n165km/h and for speeds greater\nthan 165km/h the minimum\ndistance shall be increased to\n3000 mm.\nThe\nminimum\ndistance to the face of any\ncolumn shall be 2000 mm.\nPlatform clearances are subject\nto the maintenance of HMRI\nstepping distances and specific\nrequirements shall be calculated\nfrom the particular kinematic\nenvelope with an allowance\nmade for structural clearance.\nThe minimum lateral dimension\nis 730 mm and is shown for\nguidance.\n\nStandard structure gauge applicable at and below 1089 mm above rail level (ARL)\n\n412\n\nkey\n\nabutments, piers, stanchions etc.\n(clear of platform)\n8 columns and other works on\nplatforms\n\nA\n\n.-.\n\n~~eaar~ f~~~~ductor rails and\n\n-\n\nCD\n\nRAILWAYS\n\nboundary fo rplatform\n\nd station\n~~ footbridges\nawnmgs an which\n\n~\n\nru~\n\nareas for guard and check rails\nonly\nareas available for dwarf\nsignals, bridge girders and\nother lineside equipment\nunhatched areas so marked are\nfor permanent way, signal\nfittings and fourth rail\nelectrification\n\nUK StructureGauges and Clearances\nNetwork Rail shall give consideration to passenger safety by limiting the maximum stepping distance from the top edge of the\nplatform to the top edge of the\nstep board or floor of passenger\nrolling stock.\nThe following maximum dimensions for stepping distances,\ncalculated from the centre of the\nbottom of the door opening, shall\napply unless dispensation has\nbeen sought from HSV/HMRI\nfor site specific cases relating\nto identified rolling stock. All\nsuch cases must be recorded in\nwriting and maintained for future\nreference.\nhorizontal\nvertical\ndiagonal\n\n275 mm\n250mm\n350mm\n\n\f"
+        },
+        {
+          "label": "Track-centre-line to indicated clearance boundary",
+          "value": 2340.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Diagram dimension; a starred alternative is printed for higher line speeds.",
+          "status": "verified",
+          "ocr_raw": "~\n\n~see notes!\n\n~E\n\n-ru\n0\"'\nrum\n\n~\n\n'\n\n~]\nru-\n\n.,m\n\n''\n''\n\n•\n\n'\n'''\n'\n\nsee note 11\n\n''\n''\n\nc>-\n\n~1\n\n~·~\n\n.emO>\n(!)\n\n\"\"'\nE\"'\nruro\n\n''\n'\n\n~\"E\n\n''\n\nHl\nE ro\n\"'\"\n:£~\nE.E\n\n'''\n'\n''\n\n16~\n\nI\n\nI'\n'\n\n2185\n2340\n(\"3196)\n\nI\n\nI\n\nI\n\n1.\n\n3400\n\ncentre~ line\n\nof track\n\n8080\n(•9 7 92 )\n\nThis diagram illustrates minimum lateral and overhead\nclearances to be adopted in construction or\nreconstruction and for alterations or additions to\nexisting track and structures for line speeds up to\n165km/h (!OOmph).\n\nAll dimensions are in mm.\n* The dimension to be used when line speed exceeds\n165 km/h (100 mph).\nThe clearance dimensions given are valid for straight\n\nand level track only and due allowance must be made\nfor the effects of horizontal and vertical curvature,\nincluding super-elevation (cant).\nThe standard structure gauge allows for overhead\nelectrification with voltages up to 25kV. However, to\npermit some flexibility in the design of overhead\nequipment, the minimum dimension between rail level\nand the underside of the structures should be\nincreased, preferably to 4780mm or more if this can be\nachieved with reasonable economy. The proximity of\ntrack features such as level crossings or OHE\nsectioning may require greater than 4780mm.\nPermissible infringements in respect of conductor rail\nequipment, guard and check rails, train stops and\nstructures in the space between adjacent tracks are not\nshown.\nThe minimum dimensions of a single face platform\nmeasured from the edge of the platform to the face of\nthe nearest building structure or platform furniture\n\n8\n\n~\n\nsee no!Q!\n\n§lr:J\\1\n00\n\n•\n\n~\n\nI\n\n.i.\n\ncentre-ltne\n\nof t~ack\n\ncolumns\nand other\n; - fixed\nworks on\nplatforms,\nincluding\nfaces of\nbuildings\n\n0\n\n~~-\n\n1432\n\n2090\n\n·'\n\n~~\n\nsee note 12\n\n('2490)\n\n1906\n\n\\1\n\n~\n\n'\n\n~\n\ncaters for 2 5kV\nelectrificatio\n\nI\n\nIJ ID\n\n.C<=\n\nclear area\n\n'i'~\n\n~ ----:;:\n\nrail Ieve I\n\nas far as is practicable\nthis space t o be kept\nclear of permanent\nobstruction s, but may\nbe used for signalling\napparatus a nd bridge\n\n2340\n('3196)\n\ngirders\n\nshall be 2500mm for speeds up to 165km/h and for\nspeeds greater than 165km/h the minimum dimension\nshall be 3000 mm. The minimum distance to the face of\nany column shall be 2000mm.\nNearest face of all other structures including masts\ncarrying overhead line equipment of electrified\nrailways.\nNearest face of signal posts and other isolated\nstructures less than 2m in length but excluding masts\ncarrying overhead line equipment on electrified\nrailways.\n10 Vertical clearances to the canopy above the platform\nshall be 2500mm up to 2000mm minimum from the\nplatform edge or up to 3000mm where the line speed\nexceeds 165km/h. At distances beyond 2000mm or\n3000mm from the platform edge, as applicable, the\nminimum headroom shall be 2300mm.\n11 Platform clearances are subject to the maintenance of\nHMRI stepping distances and specific requirements\nshall be calculated from the particular kinematic\nenvelope with an allowance made for structural\nclearance. The minimum lateral dimension is 730mm\nand is shown for guidance.\n12 Where reasonably practicable these dimensions shall\nbe increased by 300 mm to facilitate the provision of an\naccess walkway in accordance with CC/RT5203\nInfrastructure Requirements for Personal Safety in\n\nRespect of Clearance and Access.\n\nStandard structure gauge\n\nA\n\ncentre-line\nof adjacent\ntracks\n1700\n\n(for standard 6 foot)\n\nB\n\n1&21\n\ncentre-line\nof track\n\nRAILWAYS\n\nTracks\nFreight transport\nStations\nStation buildings\nPlatforms\nPlatform furniture\n\nrail level\n\ne\n\nAll dimensions are in mm.\nThe dimensions shown are for\nstraight\nalignment\nand\nappropriate adjustments must\nbe made for curvature. Except\nfor dispensation which allows\nstation platforms on curves\nwith a radius greater than 360m\nto be placed at standard\ndimensions (as shown), the\namount of platform set-back for\ncurves with a radius less than\n360m shall be determined by\nNetwork Rail.\nBridge girders, dwarf signals\nand other lineside equipment\nup to a height of 915mm ARL\nmay be positioned in the space\navailable for platforms.\n\nThe minimum dimension of a\nsingle face platform shall be\n2500 mm for speeds up to\n165km/h and for speeds greater\nthan 165km/h the minimum\ndistance shall be increased to\n3000 mm.\nThe\nminimum\ndistance to the face of any\ncolumn shall be 2000 mm.\nPlatform clearances are subject\nto the maintenance of HMRI\nstepping distances and specific\nrequirements shall be calculated\nfrom the particular kinematic\nenvelope with an allowance\nmade for structural clearance.\nThe minimum lateral dimension\nis 730 mm and is shown for\nguidance.\n\nStandard structure gauge applicable at and below 1089 mm above rail level (ARL)\n\n412\n\nkey\n\nabutments, piers, stanchions etc.\n(clear of platform)\n8 columns and other works on\nplatforms\n\nA\n\n.-.\n\n~~eaar~ f~~~~ductor rails and\n\n-\n\nCD\n\nRAILWAYS\n\nboundary fo rplatform\n\nd station\n~~ footbridges\nawnmgs an which\n\n~\n\nru~\n\nareas for guard and check rails\nonly\nareas available for dwarf\nsignals, bridge girders and\nother lineside equipment\nunhatched areas so marked are\nfor permanent way, signal\nfittings and fourth rail\nelectrification\n\nUK StructureGauges and Clearances\nNetwork Rail shall give consideration to passenger safety by limiting the maximum stepping distance from the top edge of the\nplatform to the top edge of the\nstep board or floor of passenger\nrolling stock.\nThe following maximum dimensions for stepping distances,\ncalculated from the centre of the\nbottom of the door opening, shall\napply unless dispensation has\nbeen sought from HSV/HMRI\nfor site specific cases relating\nto identified rolling stock. All\nsuch cases must be recorded in\nwriting and maintained for future\nreference.\nhorizontal\nvertical\ndiagonal\n\n275 mm\n250mm\n350mm\n\n\f"
+        }
+      ],
+      "figure_refs": [
+        "3 Standard structure gauge",
+        "4 Standard structure gauge applicable at and below 1089 mm above rail level (ARL)"
+      ],
+      "cross_refs": [
+        "CC/RT5203 Infrastructure Requirements for Personal Safety in Respect of Clearance and Access"
+      ],
+      "keywords": [
+        "railway structure gauge",
+        "clearance",
+        "platform",
+        "track",
+        "overhead electrification",
+        "stepping distance",
+        "rail level"
+      ],
+      "tags_architectural": [
+        "circulation",
+        "clearance",
+        "safety",
+        "accessibility"
+      ],
+      "confidence": 0.91
+    }
+  ]
+}

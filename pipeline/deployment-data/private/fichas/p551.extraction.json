@@ -1,0 +1,100 @@
+{
+  "fichas": [
+    {
+      "id": "4122fb96e4bd1976-551-vision-0",
+      "pdf_page": 551,
+      "book_page": 538,
+      "chapter": "BUILDING SERVICES",
+      "section": "Chimneys and Ventilation Shafts",
+      "title": "Open Fireplaces",
+      "summary": "Open fireplaces must be structurally stable and made from noncombustible materials, such as fireclay, suitable bricks or blocks, fireproof concrete, or grey cast iron; smoke hoods may be steel, brass, or copper sheet. Each fireplace requires its own appropriately sized chimney. The fireplace and chimney should be adjacent, and the flue pipe connects to the chimney at the stated angle. Adequate air supply is required, and combustible components and objects must be kept clear of the combustion chamber. The page illustrates fireplace layouts, construction and floor protection, and provides a dimension table for fireplace types.",
+      "building_type": "Residential fireplace",
+      "spaces": [
+        "Room containing an open fireplace",
+        "Combustion chamber",
+        "Chimney and flue",
+        "Air duct"
+      ],
+      "uses": [
+        "Heating",
+        "Combustion air supply",
+        "Smoke exhaust"
+      ],
+      "furniture_equipment": [
+        "Open fireplace",
+        "Chimney",
+        "Flue pipe",
+        "Fire grate",
+        "Air duct",
+        "Fireplace tools"
+      ],
+      "dimensions": [
+        {
+          "label": "Minimum room floor area",
+          "value": 12.0,
+          "value_max": null,
+          "unit": "m²",
+          "context": "Open fireplaces must not be installed in rooms with less than this floor area.",
+          "status": "uncertain",
+          "ocr_raw": "less than 12 m2 floor area"
+        },
+        {
+          "label": "Effective chimney height",
+          "value": 4.5,
+          "value_max": null,
+          "unit": "m",
+          "context": "At least; measured from the smoke flue connection to the chimney top.",
+          "status": "uncertain",
+          "ocr_raw": "The effective chimney height from smoke flue connection to chimney top ≥4.5 m."
+        },
+        {
+          "label": "Flue pipe connection angle",
+          "value": 45.0,
+          "value_max": null,
+          "unit": "°",
+          "context": "Angle at which the flue pipe connects to the chimney.",
+          "status": "uncertain",
+          "ocr_raw": "The flue pipe is connected to the chimney at an angle of 45°"
+        },
+        {
+          "label": "Clearance from combustion chamber",
+          "value": 80.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Minimum clear space to combustible building components and objects, to the front, sides, and upwards.",
+          "status": "uncertain",
+          "ocr_raw": "There must be at least 80 cm clear space from the combustion chamber (to the front, sides and upwards) to combustible building components and objects"
+        }
+      ],
+      "figure_refs": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10"
+      ],
+      "cross_refs": [
+        "see also: Fire protection, pp. 511 ff."
+      ],
+      "keywords": [
+        "open fireplace",
+        "chimney",
+        "ventilation",
+        "combustion air",
+        "fireplace dimensions",
+        "fire protection"
+      ],
+      "tags_architectural": [
+        "safety",
+        "clearance",
+        "ventilation"
+      ],
+      "confidence": 0.94
+    }
+  ]
+}

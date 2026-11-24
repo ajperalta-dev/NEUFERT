@@ -1,0 +1,138 @@
+{
+  "model": "gpt-6-luna",
+  "checks": {
+    "checks": [
+      {
+        "ficha_index": 0,
+        "dimension_index": 0,
+        "status": "verified",
+        "value": 0.6666666667,
+        "value_max": null,
+        "reason": "Figure explicitly states ceiling height over 2/3 of the floor area; proposed ratio matches the printed fraction."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 1,
+        "status": "verified",
+        "value": 2.3,
+        "value_max": null,
+        "reason": "Figure states minimum ceiling height of 2.30 m."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 2,
+        "status": "verified",
+        "value": 1.4,
+        "value_max": null,
+        "reason": "Figure states minimum slab level of +1.40 m."
+      },
+      {
+        "ficha_index": 1,
+        "dimension_index": 0,
+        "status": "verified",
+        "value": 2.0,
+        "value_max": null,
+        "reason": "Text says complete inclusion for clear ceiling height of at least 2 m."
+      },
+      {
+        "ficha_index": 1,
+        "dimension_index": 1,
+        "status": "verified",
+        "value": 1.0,
+        "value_max": null,
+        "reason": "Text says half inclusion from a clear ceiling height of at least 1 m."
+      },
+      {
+        "ficha_index": 1,
+        "dimension_index": 2,
+        "status": "verified",
+        "value": 2.0,
+        "value_max": null,
+        "reason": "Text specifies the half-inclusion range as less than 2 m."
+      },
+      {
+        "ficha_index": 2,
+        "dimension_index": 0,
+        "status": "verified",
+        "value": 1.5,
+        "value_max": null,
+        "reason": "Text gives the lower endpoint as 1.50 m for indirectly usable areas."
+      },
+      {
+        "ficha_index": 2,
+        "dimension_index": 1,
+        "status": "verified",
+        "value": 2.3,
+        "value_max": null,
+        "reason": "Text gives the upper endpoint as 2.30 m for indirectly usable areas."
+      },
+      {
+        "ficha_index": 2,
+        "dimension_index": 2,
+        "status": "verified",
+        "value": 1.5,
+        "value_max": null,
+        "reason": "Text excludes areas with clear ceiling height of 1.50 m or less."
+      }
+    ]
+  },
+  "automatic": [
+    {
+      "ficha_index": 0,
+      "dimension_index": 0,
+      "issues": [
+        "Unknown unit"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 1,
+      "issues": []
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 2,
+      "issues": []
+    },
+    {
+      "ficha_index": 1,
+      "dimension_index": 0,
+      "issues": []
+    },
+    {
+      "ficha_index": 1,
+      "dimension_index": 1,
+      "issues": []
+    },
+    {
+      "ficha_index": 1,
+      "dimension_index": 2,
+      "issues": []
+    },
+    {
+      "ficha_index": 2,
+      "dimension_index": 0,
+      "issues": []
+    },
+    {
+      "ficha_index": 2,
+      "dimension_index": 1,
+      "issues": []
+    },
+    {
+      "ficha_index": 2,
+      "dimension_index": 2,
+      "issues": []
+    }
+  ],
+  "usage": [
+    {
+      "prompt_tokens": 5054,
+      "completion_tokens": 1701
+    },
+    {
+      "prompt_tokens": 4880,
+      "completion_tokens": 493
+    }
+  ]
+}

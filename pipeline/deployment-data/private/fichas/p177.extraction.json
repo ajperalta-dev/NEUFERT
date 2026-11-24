@@ -1,0 +1,256 @@
+{
+  "fichas": [
+    {
+      "id": "4122fb96e4bd1976-177-vision-0",
+      "pdf_page": 177,
+      "book_page": 164,
+      "chapter": "RESIDENTIAL BUILDINGS",
+      "section": "Rooms",
+      "title": "Wine cellars",
+      "summary": "Wine cellars are preferably located below ground on all sides, next to the house, with the north side recommended. The text specifies humidity and temperature conditions, flexible ventilation, low lighting, insulated construction when air conditioning is used, and porous materials for floors, walls, and storage racks. Wines are arranged by temperature gradient: sparkling wines near the floor, white wines in the middle, and red wines higher up. Figures illustrate racks, an air-conditioned cupboard and door, storage temperatures, and cellar plans and sections.",
+      "building_type": "Residential building wine cellar",
+      "spaces": [
+        "Wine cellar",
+        "Storage area",
+        "Cellar access"
+      ],
+      "uses": [
+        "Wine storage",
+        "Wine aging",
+        "Temperature- and humidity-regulated storage"
+      ],
+      "furniture_equipment": [
+        "Wine racks",
+        "Breeze-block rack units",
+        "Quarried natural-stone racks",
+        "Sand-lime rack blocks",
+        "Clay tubes and ornamental blocks",
+        "Air-conditioned cupboard",
+        "Air-conditioned door",
+        "Ventilation supply and exhaust"
+      ],
+      "dimensions": [
+        {
+          "label": "Relative humidity",
+          "value": 70.0,
+          "value_max": null,
+          "unit": "%",
+          "context": "Ideal wine-cellar humidity.",
+          "status": "uncertain",
+          "ocr_raw": "Ideal conditions are 70% humidity"
+        },
+        {
+          "label": "Recommended cellar temperature lower bound",
+          "value": 10.0,
+          "value_max": 12.0,
+          "unit": "°C",
+          "context": "Ideal wine-cellar temperature range.",
+          "status": "uncertain",
+          "ocr_raw": "10–12 °C"
+        },
+        {
+          "label": "Temperature above which wines age quicker",
+          "value": 12.0,
+          "value_max": null,
+          "unit": "°C",
+          "context": "The text says wines age quicker with every degree above this temperature.",
+          "status": "uncertain",
+          "ocr_raw": "with every degree above 12°C."
+        },
+        {
+          "label": "Temperature range stated not to damage wine",
+          "value": 1.0,
+          "value_max": 10.0,
+          "unit": "°C",
+          "context": "Temperature range stated as not damaging wine.",
+          "status": "uncertain",
+          "ocr_raw": "(Temperatures of 1–10°C do not damage wine.)"
+        },
+        {
+          "label": "Insulated door height",
+          "value": 2.01,
+          "value_max": null,
+          "unit": "m",
+          "context": "Sealed coated and insulated steel-plate door; OCR lists dimensions as 2.01 × 0.63 m.",
+          "status": "uncertain",
+          "ocr_raw": "A sealed door (2.01 x 0.63 m)"
+        },
+        {
+          "label": "Insulated door width",
+          "value": 0.63,
+          "value_max": null,
+          "unit": "m",
+          "context": "Sealed coated and insulated steel-plate door; OCR lists dimensions as 2.01 × 0.63 m.",
+          "status": "uncertain",
+          "ocr_raw": "A sealed door (2.01 x 0.63 m)"
+        },
+        {
+          "label": "Wine rack width",
+          "value": 97.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Breeze-block wine rack figure 3.",
+          "status": "uncertain",
+          "ocr_raw": "97"
+        },
+        {
+          "label": "Wine rack height",
+          "value": 1.8,
+          "value_max": null,
+          "unit": "m",
+          "context": "Breeze-block wine rack figure 3.",
+          "status": "uncertain",
+          "ocr_raw": "1.80"
+        },
+        {
+          "label": "Air-conditioned cupboard height",
+          "value": 1.48,
+          "value_max": null,
+          "unit": "m",
+          "context": "Figure 9, air-conditioned cupboard for wine.",
+          "status": "uncertain",
+          "ocr_raw": "1.48"
+        },
+        {
+          "label": "Air-conditioned cupboard width",
+          "value": 1.07,
+          "value_max": null,
+          "unit": "m",
+          "context": "Figure 9, air-conditioned cupboard for wine.",
+          "status": "uncertain",
+          "ocr_raw": "1.07"
+        },
+        {
+          "label": "Air-conditioned door height",
+          "value": 2.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Figure 10, air-conditioned door for wine; view.",
+          "status": "uncertain",
+          "ocr_raw": "2.0"
+        },
+        {
+          "label": "Air-conditioned door width",
+          "value": 1.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Figure 10, air-conditioned door for wine; ground plan dimension.",
+          "status": "uncertain",
+          "ocr_raw": "1.0"
+        },
+        {
+          "label": "Vaulted cellar height range",
+          "value": 2.4,
+          "value_max": 4.5,
+          "unit": "m",
+          "context": "Figure 12, vaulted cellar section; dimension shown as a range.",
+          "status": "uncertain",
+          "ocr_raw": "2.40–4.50"
+        },
+        {
+          "label": "Cellar plan width",
+          "value": 1.8,
+          "value_max": null,
+          "unit": "m",
+          "context": "Figure 14, installed in a cellar; plan dimension.",
+          "status": "uncertain",
+          "ocr_raw": "1.80"
+        },
+        {
+          "label": "Cellar plan length",
+          "value": 5.5,
+          "value_max": null,
+          "unit": "m",
+          "context": "Figure 14, installed in a cellar; plan dimension.",
+          "status": "uncertain",
+          "ocr_raw": "5.50"
+        },
+        {
+          "label": "Cellar plan grid spacing",
+          "value": 25.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Figure 13 plan; length dimension is marked in a 25 cm grid.",
+          "status": "uncertain",
+          "ocr_raw": "Length 25 cm grid"
+        },
+        {
+          "label": "Storage temperature for red wine",
+          "value": 16.0,
+          "value_max": 18.0,
+          "unit": "°C",
+          "context": "Figure 11 storage-temperature chart.",
+          "status": "uncertain",
+          "ocr_raw": "16°–18°C Red wine"
+        },
+        {
+          "label": "Storage temperature for white wine",
+          "value": 10.0,
+          "value_max": 13.0,
+          "unit": "°C",
+          "context": "Figure 11 storage-temperature chart.",
+          "status": "uncertain",
+          "ocr_raw": "10°–13°C White wine"
+        },
+        {
+          "label": "Storage temperature for rosé or dessert wine",
+          "value": 8.0,
+          "value_max": 10.0,
+          "unit": "°C",
+          "context": "Figure 11 storage-temperature chart.",
+          "status": "uncertain",
+          "ocr_raw": "8°–10°C Rosé or dessert wine"
+        },
+        {
+          "label": "Storage temperature for sparkling wine",
+          "value": 6.0,
+          "value_max": null,
+          "unit": "°C",
+          "context": "Figure 11 storage-temperature chart.",
+          "status": "uncertain",
+          "ocr_raw": "6°C Sparkling wine"
+        }
+      ],
+      "figure_refs": [
+        "1 Bottles",
+        "2 Example of stacking in storage",
+        "3 Wine rack/breeze block",
+        "4 Wine rack of quarried natural stone",
+        "5 Rack heights",
+        "6 Sand-lime rack blocks",
+        "7 Inspection rack",
+        "8 Clay tubes and ornamental blocks",
+        "9 Air-conditioned cupboard for wine",
+        "10 Air-conditioned door for wine",
+        "11 Storage temperatures for wines",
+        "12 Vaulted cellar",
+        "13 Plan",
+        "14 Installed in a cellar",
+        "15 Plan"
+      ],
+      "cross_refs": [
+        "Figure 2 → 3",
+        "Figure 5 → 4",
+        "Figure 7 → 6",
+        "Figure 9 → 10",
+        "Figure 12 → plan 13",
+        "Figure 14 → plan 15"
+      ],
+      "keywords": [
+        "wine cellar",
+        "wine storage",
+        "humidity",
+        "temperature",
+        "ventilation",
+        "wine rack",
+        "cellar construction"
+      ],
+      "tags_architectural": [
+        "ventilation",
+        "daylighting",
+        "spatial_proportion"
+      ],
+      "confidence": 0.91
+    }
+  ]
+}

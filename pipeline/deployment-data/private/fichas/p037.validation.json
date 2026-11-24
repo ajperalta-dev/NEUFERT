@@ -1,0 +1,384 @@
+{
+  "model": "gpt-6-luna",
+  "checks": {
+    "checks": [
+      {
+        "ficha_index": 0,
+        "dimension_index": 0,
+        "status": "verified",
+        "value": 1.5,
+        "value_max": null,
+        "reason": "Text explicitly states 1.50 m\u00b2."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 1,
+        "status": "verified",
+        "value": 1.5,
+        "value_max": null,
+        "reason": "Text states entrance hall 1.50 \u00d7 1.50 m."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 2,
+        "status": "verified",
+        "value": 1.5,
+        "value_max": null,
+        "reason": "Text states entrance hall 1.50 \u00d7 1.50 m."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 3,
+        "status": "verified",
+        "value": 1.7,
+        "value_max": null,
+        "reason": "Text states single-leaf lobby 1.70 \u00d7 1.60 m."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 4,
+        "status": "verified",
+        "value": 1.6,
+        "value_max": null,
+        "reason": "Text states single-leaf lobby 1.70 \u00d7 1.60 m."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 5,
+        "status": "verified",
+        "value": 60.0,
+        "value_max": null,
+        "reason": "Text explicitly states a parapet height of 60 cm."
+      },
+      {
+        "ficha_index": 1,
+        "dimension_index": 0,
+        "status": "verified",
+        "value": 22.0,
+        "value_max": null,
+        "reason": "Text states 22 m\u00b2 for one person."
+      },
+      {
+        "ficha_index": 1,
+        "dimension_index": 1,
+        "status": "verified",
+        "value": 24.0,
+        "value_max": null,
+        "reason": "Text states 24 m\u00b2 for 2\u20134 people."
+      },
+      {
+        "ficha_index": 1,
+        "dimension_index": 2,
+        "status": "verified",
+        "value": 26.0,
+        "value_max": null,
+        "reason": "Text states 26 m\u00b2 for five people."
+      },
+      {
+        "ficha_index": 1,
+        "dimension_index": 3,
+        "status": "verified",
+        "value": 28.0,
+        "value_max": null,
+        "reason": "Text states 28 m\u00b2 for six people."
+      },
+      {
+        "ficha_index": 1,
+        "dimension_index": 4,
+        "status": "verified",
+        "value": 3.75,
+        "value_max": null,
+        "reason": "Text states minimum room width 3.75 m."
+      },
+      {
+        "ficha_index": 1,
+        "dimension_index": 5,
+        "status": "verified",
+        "value": 4.5,
+        "value_max": null,
+        "reason": "Text states a minimum seating-area size of 4.5 m\u00b2."
+      },
+      {
+        "ficha_index": 1,
+        "dimension_index": 6,
+        "status": "verified",
+        "value": 1.5,
+        "value_max": null,
+        "reason": "Text states movement area at least 1.50 m wide."
+      },
+      {
+        "ficha_index": 1,
+        "dimension_index": 7,
+        "status": "verified",
+        "value": 1.5,
+        "value_max": null,
+        "reason": "Text states movement area at least 1.50 m deep."
+      },
+      {
+        "ficha_index": 1,
+        "dimension_index": 8,
+        "status": "verified",
+        "value": 15.0,
+        "value_max": null,
+        "reason": "Text states the floor area normally increases by about 15 m\u00b2."
+      },
+      {
+        "ficha_index": 1,
+        "dimension_index": 9,
+        "status": "verified",
+        "value": 23.75,
+        "value_max": null,
+        "reason": "Figure 8 caption states 23.75 m\u00b2."
+      },
+      {
+        "ficha_index": 2,
+        "dimension_index": 0,
+        "status": "verified",
+        "value": 1.4,
+        "value_max": null,
+        "reason": "Figure 2 dimension line labels 1.40 m."
+      },
+      {
+        "ficha_index": 2,
+        "dimension_index": 1,
+        "status": "verified",
+        "value": 2.25,
+        "value_max": null,
+        "reason": "Figure 3 shows 2.25 m on the vertical dimension line."
+      },
+      {
+        "ficha_index": 2,
+        "dimension_index": 2,
+        "status": "verified",
+        "value": 2.2,
+        "value_max": null,
+        "reason": "Figure 3 shows 2.20 m on the bottom dimension line."
+      },
+      {
+        "ficha_index": 2,
+        "dimension_index": 3,
+        "status": "verified",
+        "value": 3.1,
+        "value_max": null,
+        "reason": "Figure 4 labels the top dimension 3.10 m."
+      },
+      {
+        "ficha_index": 2,
+        "dimension_index": 4,
+        "status": "verified",
+        "value": 1.5,
+        "value_max": null,
+        "reason": "Figure 4 labels the vertical dimension 1.50 m."
+      },
+      {
+        "ficha_index": 2,
+        "dimension_index": 5,
+        "status": "verified",
+        "value": 3.75,
+        "value_max": null,
+        "reason": "Figure 7 marks the width as \u2265 3.75 m."
+      },
+      {
+        "ficha_index": 2,
+        "dimension_index": 6,
+        "status": "verified",
+        "value": 5.5,
+        "value_max": null,
+        "reason": "Figure 7 labels the side dimension 5.50 m."
+      },
+      {
+        "ficha_index": 2,
+        "dimension_index": 7,
+        "status": "verified",
+        "value": 4.75,
+        "value_max": null,
+        "reason": "Figure 8 labels the overall top dimension 4.75 m."
+      },
+      {
+        "ficha_index": 2,
+        "dimension_index": 8,
+        "status": "verified",
+        "value": 5.0,
+        "value_max": null,
+        "reason": "Figure 8 labels the overall side dimension 5.00 m."
+      },
+      {
+        "ficha_index": 2,
+        "dimension_index": 9,
+        "status": "verified",
+        "value": 40.0,
+        "value_max": 45.0,
+        "reason": "Figure 9 caption states 40\u201345 m\u00b2."
+      },
+      {
+        "ficha_index": 2,
+        "dimension_index": 10,
+        "status": "verified",
+        "value": 50.0,
+        "value_max": 55.0,
+        "reason": "Figure 10 caption states 50\u201355 m\u00b2."
+      }
+    ]
+  },
+  "automatic": [
+    {
+      "ficha_index": 0,
+      "dimension_index": 0,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 1,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 2,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 3,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 4,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 5,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 1,
+      "dimension_index": 0,
+      "issues": []
+    },
+    {
+      "ficha_index": 1,
+      "dimension_index": 1,
+      "issues": []
+    },
+    {
+      "ficha_index": 1,
+      "dimension_index": 2,
+      "issues": []
+    },
+    {
+      "ficha_index": 1,
+      "dimension_index": 3,
+      "issues": []
+    },
+    {
+      "ficha_index": 1,
+      "dimension_index": 4,
+      "issues": []
+    },
+    {
+      "ficha_index": 1,
+      "dimension_index": 5,
+      "issues": []
+    },
+    {
+      "ficha_index": 1,
+      "dimension_index": 6,
+      "issues": []
+    },
+    {
+      "ficha_index": 1,
+      "dimension_index": 7,
+      "issues": []
+    },
+    {
+      "ficha_index": 1,
+      "dimension_index": 8,
+      "issues": []
+    },
+    {
+      "ficha_index": 1,
+      "dimension_index": 9,
+      "issues": []
+    },
+    {
+      "ficha_index": 2,
+      "dimension_index": 0,
+      "issues": []
+    },
+    {
+      "ficha_index": 2,
+      "dimension_index": 1,
+      "issues": []
+    },
+    {
+      "ficha_index": 2,
+      "dimension_index": 2,
+      "issues": [
+        "European decimal comma; check transcription"
+      ]
+    },
+    {
+      "ficha_index": 2,
+      "dimension_index": 3,
+      "issues": []
+    },
+    {
+      "ficha_index": 2,
+      "dimension_index": 4,
+      "issues": []
+    },
+    {
+      "ficha_index": 2,
+      "dimension_index": 5,
+      "issues": []
+    },
+    {
+      "ficha_index": 2,
+      "dimension_index": 6,
+      "issues": []
+    },
+    {
+      "ficha_index": 2,
+      "dimension_index": 7,
+      "issues": []
+    },
+    {
+      "ficha_index": 2,
+      "dimension_index": 8,
+      "issues": []
+    },
+    {
+      "ficha_index": 2,
+      "dimension_index": 9,
+      "issues": []
+    },
+    {
+      "ficha_index": 2,
+      "dimension_index": 10,
+      "issues": []
+    }
+  ],
+  "usage": [
+    {
+      "prompt_tokens": 4570,
+      "completion_tokens": 2373
+    },
+    {
+      "prompt_tokens": 5979,
+      "completion_tokens": 1295
+    }
+  ]
+}

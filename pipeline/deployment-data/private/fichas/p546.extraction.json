@@ -1,0 +1,399 @@
+{
+  "fichas": [
+    {
+      "id": "4122fb96e4bd1976-546-vision-0",
+      "pdf_page": 546,
+      "book_page": 533,
+      "chapter": "BUILDING SERVICES",
+      "section": "Domestic Installation",
+      "title": "Heating surfaces and room air movement",
+      "summary": "Radiator location affects room air circulation: radiators below windows intercept air cooled by the glazing, while radiators on internal walls can produce cool air near the floor and warm air near the ceiling. Surface heating in floor, ceiling, or wall areas provides uniform radiant heat at low temperatures. Convectors heat air directly and can be recessed or clad; their performance depends on recess height. The page also compares room-temperature curves and the effects of radiator covers.",
+      "building_type": "Residential buildings",
+      "spaces": [
+        "Heated rooms",
+        "Window niches",
+        "Room perimeter areas"
+      ],
+      "uses": [
+        "Space heating",
+        "Reducing draughts near windows",
+        "Comparing room air movement and perceived warmth"
+      ],
+      "furniture_equipment": [
+        "Sectional radiators",
+        "Surface-heating systems",
+        "Underfloor convectors",
+        "Radiator covers"
+      ],
+      "dimensions": [
+        {
+          "label": "Radiant heat emitted by sectional radiators",
+          "value": 40.0,
+          "value_max": null,
+          "unit": "%",
+          "context": "Heat released as radiation by sectional radiators.",
+          "status": "uncertain",
+          "ocr_raw": "They release 40% of their heat as radiation."
+        },
+        {
+          "label": "Radiant heat emitted by panel radiators",
+          "value": 40.0,
+          "value_max": null,
+          "unit": "%",
+          "context": "Panel radiators can emit up to this proportion of their heat as radiation.",
+          "status": "uncertain",
+          "ocr_raw": "They can emit up to 40% of their heat as radiation"
+        },
+        {
+          "label": "Panel radiator constructional depth",
+          "value": 2.0,
+          "value_max": 5.0,
+          "unit": "cm",
+          "context": "Shallow constructional depth of panel radiators.",
+          "status": "uncertain",
+          "ocr_raw": "shallow constructional depth (2–5 cm)"
+        },
+        {
+          "label": "Number of panels in practice",
+          "value": 3.0,
+          "value_max": null,
+          "unit": "panels",
+          "context": "Maximum number stated as used in practice.",
+          "status": "uncertain",
+          "ocr_raw": "In practice, up to three panels are used."
+        },
+        {
+          "label": "Minimum overall height for radiator cover",
+          "value": 70.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Cover dimension; diagram note says 120 mm is better.",
+          "status": "uncertain",
+          "ocr_raw": "B distance from floor · min. 70mm (120mm better)"
+        },
+        {
+          "label": "Preferred distance from floor for radiator cover",
+          "value": 120.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Diagram recommendation; preferred over the stated 70 mm minimum.",
+          "status": "uncertain",
+          "ocr_raw": "B distance from floor · min. 70mm (120mm better)"
+        },
+        {
+          "label": "Minimum separation of cover from wall",
+          "value": 50.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Radiator-cover diagram dimension.",
+          "status": "uncertain",
+          "ocr_raw": "K separation from wall of covering (min. 50mm)"
+        }
+      ],
+      "figure_refs": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "11",
+        "12"
+      ],
+      "cross_refs": [
+        "p. 534"
+      ],
+      "keywords": [
+        "heating surfaces",
+        "radiators",
+        "air circulation",
+        "surface heating",
+        "convectors",
+        "radiator covers",
+        "room temperature"
+      ],
+      "tags_architectural": [
+        "ventilation",
+        "spatial_proportion"
+      ],
+      "confidence": 0.96
+    },
+    {
+      "id": "4122fb96e4bd1976-546-vision-1",
+      "pdf_page": 546,
+      "book_page": 533,
+      "chapter": "BUILDING SERVICES",
+      "section": "Domestic Installation",
+      "title": "Radiator types and standard dimensions",
+      "summary": "The page describes tubular steel, steel, cast-iron, and panel radiators, with standardised cast-iron and steel radiator tables giving height, boss spacing, and depth in millimetres. Tubular radiators are available in multiple rows; panel radiators may include convector plates. Cast-iron and steel radiator dimensions are specified by DIN 4703-1.",
+      "building_type": "Residential buildings",
+      "spaces": [
+        "Heated rooms",
+        "Window niches"
+      ],
+      "uses": [
+        "Selecting radiator type and size",
+        "Comparing standard radiator dimensions",
+        "Heating rooms with warm-water systems"
+      ],
+      "furniture_equipment": [
+        "Steel-tube radiators",
+        "Cast-iron radiators",
+        "Steel radiators",
+        "Panel radiators",
+        "Convector plates"
+      ],
+      "dimensions": [
+        {
+          "label": "Tubular radiator rows",
+          "value": 2.0,
+          "value_max": 6.0,
+          "unit": "rows",
+          "context": "Available tubular radiator configurations.",
+          "status": "uncertain",
+          "ocr_raw": "Steel tube radiators are available as 2–6-row tubular radiators"
+        },
+        {
+          "label": "Tubular radiator overall height",
+          "value": 190.0,
+          "value_max": 2800.0,
+          "unit": "mm",
+          "context": "Height range shown beside the tubular radiator illustration.",
+          "status": "uncertain",
+          "ocr_raw": "190–2800 mm height"
+        },
+        {
+          "label": "Cast-iron radiator height",
+          "value": 280.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Standardised cast-iron radiator table, DIN 4703-1; row with boss spacing 220 mm and depth 250 mm.",
+          "status": "uncertain",
+          "ocr_raw": "280 220 250"
+        },
+        {
+          "label": "Cast-iron radiator boss spacing",
+          "value": 220.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Standardised cast-iron radiator table, DIN 4703-1; corresponding height 280 mm.",
+          "status": "uncertain",
+          "ocr_raw": "280 220 250"
+        },
+        {
+          "label": "Cast-iron radiator depth",
+          "value": 250.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Standardised cast-iron radiator table, DIN 4703-1; corresponding height 280 mm.",
+          "status": "uncertain",
+          "ocr_raw": "280 220 250"
+        },
+        {
+          "label": "Cast-iron radiator height",
+          "value": 430.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Standardised cast-iron radiator table, DIN 4703-1; boss spacing 350 mm, depths 70, 110, 160, or 220 mm.",
+          "status": "uncertain",
+          "ocr_raw": "430 350 70, 110, 160, 220"
+        },
+        {
+          "label": "Cast-iron radiator boss spacing",
+          "value": 350.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Standardised cast-iron radiator table, DIN 4703-1; corresponding height 430 mm.",
+          "status": "uncertain",
+          "ocr_raw": "430 350 70, 110, 160, 220"
+        },
+        {
+          "label": "Cast-iron radiator height",
+          "value": 580.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Standardised cast-iron radiator table, DIN 4703-1; boss spacing 500 mm, depths 70, 110, 160, or 220 mm.",
+          "status": "uncertain",
+          "ocr_raw": "580 500 70, 110, 160, 220"
+        },
+        {
+          "label": "Cast-iron radiator boss spacing",
+          "value": 500.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Standardised cast-iron radiator table, DIN 4703-1; corresponding height 580 mm.",
+          "status": "uncertain",
+          "ocr_raw": "580 500 70, 110, 160, 220"
+        },
+        {
+          "label": "Cast-iron radiator height",
+          "value": 680.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Standardised cast-iron radiator table, DIN 4703-1; boss spacing 600 mm and depth 160 mm.",
+          "status": "uncertain",
+          "ocr_raw": "680 600 160"
+        },
+        {
+          "label": "Cast-iron radiator boss spacing",
+          "value": 600.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Standardised cast-iron radiator table, DIN 4703-1; corresponding height 680 mm.",
+          "status": "uncertain",
+          "ocr_raw": "680 600 160"
+        },
+        {
+          "label": "Cast-iron radiator height",
+          "value": 980.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Standardised cast-iron radiator table, DIN 4703-1; boss spacing 900 mm, depths 70, 160, or 220 mm.",
+          "status": "uncertain",
+          "ocr_raw": "980 900 70, 160, 220"
+        },
+        {
+          "label": "Cast-iron radiator boss spacing",
+          "value": 900.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Standardised cast-iron radiator table, DIN 4703-1; corresponding height 980 mm.",
+          "status": "uncertain",
+          "ocr_raw": "980 900 70, 160, 220"
+        },
+        {
+          "label": "Steel radiator height",
+          "value": 300.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Standardised steel radiator table, DIN 4703-1; boss spacing 200 mm, depths 160 or 250 mm.",
+          "status": "uncertain",
+          "ocr_raw": "300 200 160, 250"
+        },
+        {
+          "label": "Steel radiator boss spacing",
+          "value": 200.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Standardised steel radiator table, DIN 4703-1; corresponding height 300 mm.",
+          "status": "uncertain",
+          "ocr_raw": "300 200 160, 250"
+        },
+        {
+          "label": "Steel radiator height",
+          "value": 450.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Standardised steel radiator table, DIN 4703-1; boss spacing 350 mm, depths 70, 110, 160, or 220 mm.",
+          "status": "uncertain",
+          "ocr_raw": "450 350 70, 110, 160, 220"
+        },
+        {
+          "label": "Steel radiator boss spacing",
+          "value": 350.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Standardised steel radiator table, DIN 4703-1; corresponding height 450 mm.",
+          "status": "uncertain",
+          "ocr_raw": "450 350 70, 110, 160, 220"
+        },
+        {
+          "label": "Steel radiator height",
+          "value": 600.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Standardised steel radiator table, DIN 4703-1; boss spacing 600 mm, depths 70, 110, 160, or 220 mm.",
+          "status": "uncertain",
+          "ocr_raw": "600 600 70, 110, 160, 220"
+        },
+        {
+          "label": "Steel radiator boss spacing",
+          "value": 600.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Standardised steel radiator table, DIN 4703-1; corresponding height 600 mm.",
+          "status": "uncertain",
+          "ocr_raw": "600 600 70, 110, 160, 220"
+        },
+        {
+          "label": "Steel radiator height",
+          "value": 1000.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Standardised steel radiator table, DIN 4703-1; boss spacing 900 mm, depths 70, 110, 160, or 220 mm.",
+          "status": "uncertain",
+          "ocr_raw": "1000 900 70, 110, 160, 220"
+        },
+        {
+          "label": "Steel radiator boss spacing",
+          "value": 900.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Standardised steel radiator table, DIN 4703-1; corresponding height 1000 mm.",
+          "status": "uncertain",
+          "ocr_raw": "1000 900 70, 110, 160, 220"
+        },
+        {
+          "label": "Tubular radiator unit length",
+          "value": 46.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Length of each unit in the tubular radiator illustration.",
+          "status": "uncertain",
+          "ocr_raw": "length of each unit 46mm"
+        },
+        {
+          "label": "Panel radiator radiation, 2-row with 2-row convector plates",
+          "value": 14.0,
+          "value_max": null,
+          "unit": "%",
+          "context": "Approximate radiation proportion for this panel arrangement.",
+          "status": "uncertain",
+          "ocr_raw": "2-row with 2-row convector plates, approx 14% radiation"
+        },
+        {
+          "label": "Panel radiator radiation, 2-row with 1-row convector plates",
+          "value": 18.0,
+          "value_max": null,
+          "unit": "%",
+          "context": "Approximate radiation proportion for this panel arrangement.",
+          "status": "uncertain",
+          "ocr_raw": "2-row with 1-row convector plates, approx 18% radiation"
+        },
+        {
+          "label": "Panel radiator radiation, 2-row without convector plates",
+          "value": 21.0,
+          "value_max": null,
+          "unit": "%",
+          "context": "Approximate radiation proportion for this panel arrangement.",
+          "status": "uncertain",
+          "ocr_raw": "2-row without convector plates, approx 21%. radiation"
+        }
+      ],
+      "figure_refs": [
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10"
+      ],
+      "cross_refs": [
+        "DIN 4703",
+        "DIN 4703-1"
+      ],
+      "keywords": [
+        "radiators",
+        "cast iron",
+        "steel",
+        "tubular radiator",
+        "panel radiator",
+        "convector plates",
+        "standard dimensions"
+      ],
+      "tags_architectural": [
+        "ergonomics",
+        "modularity"
+      ],
+      "confidence": 0.95
+    }
+  ]
+}

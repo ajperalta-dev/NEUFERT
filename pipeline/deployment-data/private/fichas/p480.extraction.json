@@ -1,0 +1,189 @@
+{
+  "fichas": [
+    {
+      "id": "4122fb96e4bd1976-480-vision-0",
+      "pdf_page": 480,
+      "book_page": 467,
+      "chapter": "BUILDING SERVICES",
+      "section": "Renewable Energy",
+      "title": "Photovoltaics: solar yield and modules",
+      "summary": "Photovoltaic cells convert direct and diffused sunlight into electricity. Avoid shading, especially partial shadows. Solar yield depends on climate, panel alignment and tilt; the text describes due-south orientation as optimal in northern latitudes. Modules differ in type, performance, efficiency and appearance.",
+      "building_type": "Buildings using photovoltaic solar energy",
+      "spaces": [],
+      "uses": [
+        "Generate renewable electricity",
+        "Provide building-integrated solar energy"
+      ],
+      "furniture_equipment": [
+        "Photovoltaic cells",
+        "Solar modules"
+      ],
+      "dimensions": [
+        {
+          "label": "Average annual yield",
+          "value": 800.0,
+          "value_max": 900.0,
+          "unit": "kWh/m²",
+          "context": "Expected at good locations, with Germany given as an example.",
+          "status": "uncertain",
+          "ocr_raw": "At good locations, in Germany for example, an average annual yield of 800-900 kWh/m 2 can be expected"
+        },
+        {
+          "label": "Annual yield under optimum conditions",
+          "value": 1100.0,
+          "value_max": null,
+          "unit": "kWh/m²",
+          "context": "Approximate yield under optimum conditions.",
+          "status": "uncertain",
+          "ocr_raw": "or under optimum conditions approx. 1100 kWh/m 2"
+        },
+        {
+          "label": "Panel area per installed capacity",
+          "value": 7.5,
+          "value_max": null,
+          "unit": "m²/kW",
+          "context": "Rule of thumb for required panel area per installed capacity.",
+          "status": "uncertain",
+          "ocr_raw": "A rule of thumb is to expect to require 7.5 m2 of panels for each kW of installed capacity."
+        }
+      ],
+      "figure_refs": [
+        "1"
+      ],
+      "cross_refs": [
+        "Shell -> refs"
+      ],
+      "keywords": [
+        "photovoltaics",
+        "solar cells",
+        "solar modules",
+        "solar yield",
+        "panel orientation",
+        "tilt",
+        "shading"
+      ],
+      "tags_architectural": [
+        "daylighting"
+      ],
+      "confidence": 0.98
+    },
+    {
+      "id": "4122fb96e4bd1976-480-vision-1",
+      "pdf_page": 480,
+      "book_page": 467,
+      "chapter": "BUILDING SERVICES",
+      "section": "Renewable Energy",
+      "title": "Grid-connected photovoltaic system",
+      "summary": "A grid-connected system converts solar-cell direct current to alternating current with an inverter and feeds electricity into the grid through a separate feed-in meter. Large installations may use tracking, separate solar generators and grid-feed-in equipment. The text states that grid-connected systems operate automatically without maintenance and describes payment for electricity fed into the public grid under the Renewable Energy Law (EEG).",
+      "building_type": "Building with a grid-connected photovoltaic installation",
+      "spaces": [
+        "Roof",
+        "Building interior"
+      ],
+      "uses": [
+        "Generate electricity for the building and grid",
+        "Feed solar-generated electricity into the public grid"
+      ],
+      "furniture_equipment": [
+        "Solar modules",
+        "Inverter",
+        "Generator connection box",
+        "House supply box",
+        "Main distribution",
+        "Feed-in meter",
+        "Meters"
+      ],
+      "dimensions": [
+        {
+          "label": "Minimum system lifetime",
+          "value": 20.0,
+          "value_max": null,
+          "unit": "years",
+          "context": "Stated lifetime of grid-connected systems.",
+          "status": "uncertain",
+          "ocr_raw": "Grid-connected systems work completely automatically without maintenance and have a lifetime of at least 20 years."
+        }
+      ],
+      "figure_refs": [
+        "2"
+      ],
+      "cross_refs": [
+        "Bohne -> refs"
+      ],
+      "keywords": [
+        "grid-connected photovoltaic system",
+        "inverter",
+        "feed-in meter",
+        "tracking",
+        "electricity"
+      ],
+      "tags_architectural": [
+        "adaptability"
+      ],
+      "confidence": 0.97
+    },
+    {
+      "id": "4122fb96e4bd1976-480-vision-2",
+      "pdf_page": 480,
+      "book_page": 467,
+      "chapter": "BUILDING SERVICES",
+      "section": "Renewable Energy",
+      "title": "Photovoltaic integration in roofs and façades",
+      "summary": "Photovoltaic elements may be integrated into the building envelope or mounted subsequently, and may serve as sound, visual, sun and weather protection. Roof arrangements include mounting on the roof, integration into the roof covering, or use as the roof itself. Façade modules should be back-ventilated to avoid reduced yield; the diagram compares good, bad and absent back-ventilation and indicates possible yield reductions.",
+      "building_type": "Building with roof- or façade-integrated photovoltaics",
+      "spaces": [
+        "Roof",
+        "Façade"
+      ],
+      "uses": [
+        "Generate electricity",
+        "Provide sound, visual, sun and weather protection"
+      ],
+      "furniture_equipment": [
+        "Photovoltaic modules",
+        "Roof-mounted photovoltaic elements",
+        "Roof-integrated photovoltaic elements",
+        "Façade-mounted photovoltaic elements"
+      ],
+      "dimensions": [
+        {
+          "label": "Yield reduction with bad back-ventilation",
+          "value": 5.0,
+          "value_max": null,
+          "unit": "%",
+          "context": "Diagram annotation for photovoltaic elements on a façade.",
+          "status": "uncertain",
+          "ocr_raw": "Bad back-ventilation ~5% temperature loss"
+        },
+        {
+          "label": "Yield reduction with no back-ventilation",
+          "value": 10.0,
+          "value_max": null,
+          "unit": "%",
+          "context": "Diagram annotation for photovoltaic elements on a façade.",
+          "status": "uncertain",
+          "ocr_raw": "No back-ventilation ~10% temperature loss"
+        }
+      ],
+      "figure_refs": [
+        "3",
+        "4"
+      ],
+      "cross_refs": [
+        "Bohne -> refs"
+      ],
+      "keywords": [
+        "building envelope",
+        "roof integration",
+        "façade",
+        "back-ventilation",
+        "weather protection"
+      ],
+      "tags_architectural": [
+        "ventilation",
+        "adaptability"
+      ],
+      "confidence": 0.95
+    }
+  ]
+}

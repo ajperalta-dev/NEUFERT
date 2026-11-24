@@ -1,0 +1,33 @@
+{
+  "$schema": "https://openapi.vercel.sh/vercel.json",
+  "services": {
+    "app": {
+      "root": "app",
+      "framework": "nextjs",
+      "bindings": [
+        {
+          "type": "service",
+          "service": "pipeline",
+          "format": "url",
+          "env": "NEUFERT_PIPELINE_URL"
+        }
+      ]
+    },
+    "pipeline": {
+      "root": "pipeline",
+      "runtime": "container",
+      "entrypoint": "Dockerfile",
+      "bindings": [
+        { "type": "service", "service": "state", "format": "url", "env": "NEUFERT_STATE_URL" }
+      ]
+    },
+    "state": {
+      "root": "cloud-state",
+      "framework": "express",
+      "entrypoint": "server.js"
+    }
+  },
+  "rewrites": [
+    { "source": "/(.*)", "destination": { "service": "app" } }
+  ]
+}

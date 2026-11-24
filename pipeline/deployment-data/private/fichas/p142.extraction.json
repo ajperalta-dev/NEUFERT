@@ -1,0 +1,249 @@
+{
+  "fichas": [
+    {
+      "id": "4122fb96e4bd1976-142-vision-0",
+      "pdf_page": 142,
+      "book_page": 129,
+      "chapter": "BUILDING COMPONENTS",
+      "section": "Lifts",
+      "title": "Disability-friendly lift control panel",
+      "summary": "A disability-friendly control panel is positioned centrally in the lift car, within reach above floor level. Buttons should be horizontal, contrasting, raised-labelled, and accompanied by acoustic signals.",
+      "building_type": "Lift",
+      "spaces": [
+        "Lift car",
+        "Control panel"
+      ],
+      "uses": [
+        "Allow passengers with disabilities to operate lift controls"
+      ],
+      "furniture_equipment": [
+        "Control panel",
+        "Buttons",
+        "Raised labels",
+        "Acoustic signals"
+      ],
+      "dimensions": [
+        {
+          "label": "Control panel height above floor level",
+          "value": 85.0,
+          "value_max": 100.0,
+          "unit": "cm",
+          "context": "Above floor level or car floor in the central area of the lift car",
+          "status": "uncertain",
+          "ocr_raw": "height of 85-100 em above floor level or car floor level in the central area of the lift car"
+        },
+        {
+          "label": "Button size",
+          "value": 3.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Buttons are ideally horizontal and about 3 × 3 cm",
+          "status": "uncertain",
+          "ocr_raw": "buttons about 3 x 3 cm"
+        }
+      ],
+      "figure_refs": [
+        "1",
+        "2"
+      ],
+      "cross_refs": [],
+      "keywords": [
+        "lift",
+        "control panel",
+        "disability-friendly",
+        "buttons",
+        "accessibility"
+      ],
+      "tags_architectural": [
+        "accessibility",
+        "ergonomics",
+        "anthropometry"
+      ],
+      "confidence": 0.96
+    },
+    {
+      "id": "4122fb96e4bd1976-142-vision-1",
+      "pdf_page": 142,
+      "book_page": 129,
+      "chapter": "BUILDING COMPONENTS",
+      "section": "Lifts",
+      "title": "Collective lift control systems",
+      "summary": "Single-button collective control primarily serves car calls and considers landing calls during downward travel. Two-button collective control serves calls according to direction and is suited to buildings with frequent intermediate-floor traffic. For groups of lifts, calls and destination instructions can be considered across the group.",
+      "building_type": "Lift systems",
+      "spaces": [
+        "Lift car",
+        "Lift landings"
+      ],
+      "uses": [
+        "Coordinate car and landing calls",
+        "Serve passengers travelling between floors",
+        "Manage lift groups"
+      ],
+      "furniture_equipment": [
+        "Lift call buttons",
+        "Lift control system"
+      ],
+      "dimensions": [],
+      "figure_refs": [
+        "3",
+        "4",
+        "5"
+      ],
+      "cross_refs": [],
+      "keywords": [
+        "single-button collective control",
+        "two-button collective control",
+        "landing calls",
+        "car calls",
+        "lift group"
+      ],
+      "tags_architectural": [
+        "circulation"
+      ],
+      "confidence": 0.98
+    },
+    {
+      "id": "4122fb96e4bd1976-142-vision-2",
+      "pdf_page": 142,
+      "book_page": 129,
+      "chapter": "BUILDING COMPONENTS",
+      "section": "Lifts",
+      "title": "Destination floor control system",
+      "summary": "Passengers enter their intended destination at a terminal and are assigned a lift. Cars normally have no selection buttons. In lift groups, this system can optimize transport capacity and integrate special lifts; identification methods can also provide access control.",
+      "building_type": "Lift systems",
+      "spaces": [
+        "Lift waiting area",
+        "Lift access points",
+        "Lift cars"
+      ],
+      "uses": [
+        "Assign passengers to lifts by destination",
+        "Optimize transport in lift groups",
+        "Control access using identification"
+      ],
+      "furniture_equipment": [
+        "Destination terminal",
+        "Card reader",
+        "PIN code"
+      ],
+      "dimensions": [],
+      "figure_refs": [
+        "3"
+      ],
+      "cross_refs": [
+        "Lifts in high-rise buildings p. 246"
+      ],
+      "keywords": [
+        "destination floor control",
+        "lift assignment",
+        "access control",
+        "high-rise buildings",
+        "transport capacity"
+      ],
+      "tags_architectural": [
+        "circulation",
+        "safety"
+      ],
+      "confidence": 0.98
+    },
+    {
+      "id": "4122fb96e4bd1976-142-vision-3",
+      "pdf_page": 142,
+      "book_page": 129,
+      "chapter": "BUILDING COMPONENTS",
+      "section": "Lifts",
+      "title": "Double-decker lifts",
+      "summary": "Two cars fixed one above the other serve different floors and increase transport capacity for the same shaft size. Access levels and sky lobbies require two levels; escalators may separate passenger flows to odd- and even-numbered floors.",
+      "building_type": "Double-decker lift",
+      "spaces": [
+        "Lift shaft",
+        "Access level",
+        "Sky lobby",
+        "Panorama and restaurant levels"
+      ],
+      "uses": [
+        "Transport passengers to different floors",
+        "Serve express routes to a sky lobby",
+        "Serve panorama and restaurant levels"
+      ],
+      "furniture_equipment": [
+        "Two vertically fixed lift cars",
+        "Escalators"
+      ],
+      "dimensions": [],
+      "figure_refs": [
+        "6"
+      ],
+      "cross_refs": [
+        "Lifts in high-rise buildings p. 246"
+      ],
+      "keywords": [
+        "double-decker lift",
+        "shaft",
+        "sky lobby",
+        "express lift",
+        "passenger flow"
+      ],
+      "tags_architectural": [
+        "circulation"
+      ],
+      "confidence": 0.97
+    },
+    {
+      "id": "4122fb96e4bd1976-142-vision-4",
+      "pdf_page": 142,
+      "book_page": 129,
+      "chapter": "BUILDING COMPONENTS",
+      "section": "Lifts",
+      "title": "Multi-car lift systems",
+      "summary": "Two or more independently driven cars with counterweights travel above and below one another in the same guide rails. Destination selection assigns calls and coordinates cars. The system can increase transport capacity, but cars cannot overtake, so travel between the lowest and highest stops may require changing cars; at least one conventional express lift is recommended.",
+      "building_type": "Multi-car lift system",
+      "spaces": [
+        "Lift shaft",
+        "Lift cars",
+        "Lift stops"
+      ],
+      "uses": [
+        "Increase passenger transport capacity",
+        "Coordinate multiple cars in one shaft",
+        "Transport passengers between floors"
+      ],
+      "furniture_equipment": [
+        "Lift cars",
+        "Traction sheave drives",
+        "Counterweights",
+        "Destination selection control"
+      ],
+      "dimensions": [
+        {
+          "label": "Increase in transport capacity",
+          "value": 30.0,
+          "value_max": null,
+          "unit": "%",
+          "context": "For the same number of shafts",
+          "status": "uncertain",
+          "ocr_raw": "This system can achieve 30% more transport capacity for the same number of shafts."
+        }
+      ],
+      "figure_refs": [
+        "7"
+      ],
+      "cross_refs": [
+        "4",
+        "5"
+      ],
+      "keywords": [
+        "multi-car lift",
+        "destination selection",
+        "guide rails",
+        "transport capacity",
+        "express lift"
+      ],
+      "tags_architectural": [
+        "circulation",
+        "safety"
+      ],
+      "confidence": 0.98
+    }
+  ]
+}

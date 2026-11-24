@@ -1,0 +1,321 @@
+{
+  "model": "gpt-6-luna",
+  "checks": {
+    "checks": [
+      {
+        "ficha_index": 0,
+        "dimension_index": 0,
+        "status": "verified",
+        "value": 2.5,
+        "value_max": null,
+        "reason": "Text visibly states less than 2.50 m from the plot boundary."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 1,
+        "status": "verified",
+        "value": 40.0,
+        "value_max": null,
+        "reason": "Text visibly states not more than 40 m."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 2,
+        "status": "verified",
+        "value": 90.0,
+        "value_max": null,
+        "reason": "The page specifies F 90A walls and a 90 min fire resistance class for cables and pipes."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 3,
+        "status": "verified",
+        "value": 30.0,
+        "value_max": null,
+        "reason": "Text and figure 6 visibly state a minimum of 30 cm above the roof."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 4,
+        "status": "verified",
+        "value": 50.0,
+        "value_max": null,
+        "reason": "Text visibly states a minimum of 50 cm for soft roof covering and industrial buildings."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 5,
+        "status": "verified",
+        "value": 5.0,
+        "value_max": null,
+        "reason": "Corner diagrams visibly label the separation/extension as at least 5 m."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 6,
+        "status": "verified",
+        "value": 40.0,
+        "value_max": null,
+        "reason": "Figure 5 visibly states the fire compartment wall is located at most 40 m from the external corner."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 7,
+        "status": "verified",
+        "value": 120.0,
+        "value_max": null,
+        "reason": "Figure 5 visibly labels the angle as \u2265120\u00b0; the proposed value and degree unit are visible."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 8,
+        "status": "verified",
+        "value": 240.0,
+        "value_max": null,
+        "reason": "The table lists 240 mm for the single-skin masonry entry with bulk density class \u22651.4."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 9,
+        "status": "verified",
+        "value": 300.0,
+        "value_max": null,
+        "reason": "The table lists 300 mm for the single-skin masonry entry with bulk density class \u22651.0."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 10,
+        "status": "verified",
+        "value": 240.0,
+        "value_max": null,
+        "reason": "The table lists 240 mm for the single-skin calcium silicate block entry."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 11,
+        "status": "verified",
+        "value": 165.0,
+        "value_max": null,
+        "reason": "The table lists 165 mm for single-skin vertically cored brick panels."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 12,
+        "status": "verified",
+        "value": 240.0,
+        "value_max": null,
+        "reason": "The table lists 240 mm for single-skin composite panels with two skins of brick."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 13,
+        "status": "verified",
+        "value": 200.0,
+        "value_max": null,
+        "reason": "The table lists 200 mm for single-skin unreinforced concrete."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 14,
+        "status": "verified",
+        "value": 120.0,
+        "value_max": null,
+        "reason": "The table lists 120 mm for single-skin non-load-bearing reinforced concrete wall components."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 15,
+        "status": "verified",
+        "value": 140.0,
+        "value_max": null,
+        "reason": "The table lists 140 mm for single-skin load-bearing reinforced concrete wall components."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 16,
+        "status": "verified",
+        "value": 250.0,
+        "value_max": null,
+        "reason": "The table lists 250 mm for single-skin lightweight concrete with bulk density class \u22651.4."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 17,
+        "status": "verified",
+        "value": 300.0,
+        "value_max": null,
+        "reason": "The table lists 300 mm for single-skin lightweight concrete with bulk density class \u22650.8."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 18,
+        "status": "verified",
+        "value": 175.0,
+        "value_max": null,
+        "reason": "The table lists 175 mm for single-skin non-load-bearing aerated concrete wall components."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 19,
+        "status": "verified",
+        "value": 200.0,
+        "value_max": null,
+        "reason": "The table lists 200 mm for single-skin load-bearing aerated concrete wall components."
+      }
+    ]
+  },
+  "automatic": [
+    {
+      "ficha_index": 0,
+      "dimension_index": 0,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 1,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 2,
+      "issues": [
+        "Unknown unit",
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 3,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 4,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 5,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 6,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 7,
+      "issues": [
+        "Unknown unit",
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 8,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 9,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 10,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 11,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 12,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 13,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 14,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 15,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 16,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 17,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 18,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 19,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    }
+  ],
+  "usage": [
+    {
+      "prompt_tokens": 4965,
+      "completion_tokens": 2246
+    },
+    {
+      "prompt_tokens": 5582,
+      "completion_tokens": 1077
+    }
+  ]
+}

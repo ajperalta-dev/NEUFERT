@@ -1,0 +1,60 @@
+{
+  "model": "gpt-6-luna",
+  "checks": {
+    "checks": [
+      {
+        "ficha_index": 0,
+        "dimension_index": 0,
+        "status": "verified",
+        "value": 40.0,
+        "value_max": null,
+        "reason": "The text visibly states \u201cwidth approx. 40 cm\u201d; the proposed value and unit agree."
+      },
+      {
+        "ficha_index": 2,
+        "dimension_index": 0,
+        "status": "verified",
+        "value": 8.0,
+        "value_max": null,
+        "reason": "The text visibly states that fa\u00e7ades over 8 m in height require additional mechanical fixing."
+      },
+      {
+        "ficha_index": 4,
+        "dimension_index": 0,
+        "status": "verified",
+        "value": 50.0,
+        "value_max": 60.0,
+        "reason": "The text visibly states \u201ccannot be heated over 50\u201360\u00b0C\u201d; the proposed range and unit agree."
+      }
+    ]
+  },
+  "automatic": [
+    {
+      "ficha_index": 0,
+      "dimension_index": 0,
+      "issues": []
+    },
+    {
+      "ficha_index": 2,
+      "dimension_index": 0,
+      "issues": []
+    },
+    {
+      "ficha_index": 4,
+      "dimension_index": 0,
+      "issues": [
+        "Unknown unit"
+      ]
+    }
+  ],
+  "usage": [
+    {
+      "prompt_tokens": 4650,
+      "completion_tokens": 1543
+    },
+    {
+      "prompt_tokens": 4519,
+      "completion_tokens": 215
+    }
+  ]
+}

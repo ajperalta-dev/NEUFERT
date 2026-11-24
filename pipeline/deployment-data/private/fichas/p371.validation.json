@@ -1,0 +1,162 @@
+{
+  "model": "gpt-6-luna",
+  "checks": {
+    "checks": [
+      {
+        "ficha_index": 0,
+        "dimension_index": 0,
+        "status": "verified",
+        "value": 1.3,
+        "value_max": null,
+        "reason": "Figure 1 visibly labels the dimension 1.30; the proposed metre unit is consistent with the printed decimal dimension."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 1,
+        "status": "verified",
+        "value": 1.2,
+        "value_max": null,
+        "reason": "Figure 1 visibly labels the dimension 1.20; the proposed metre unit is consistent with the printed decimal dimension."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 2,
+        "status": "uncertain",
+        "value": 0.9,
+        "value_max": null,
+        "reason": "Figure 1 prints 90, but does not show a unit. The proposed 0.9 m conversion cannot be verified from the drawing alone."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 3,
+        "status": "uncertain",
+        "value": 0.45,
+        "value_max": null,
+        "reason": "Figure 1 prints 45, but does not show a unit. The proposed 0.45 m conversion cannot be verified from the drawing alone."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 4,
+        "status": "uncertain",
+        "value": 0.95,
+        "value_max": null,
+        "reason": "Figure 2 prints 95, but does not show a unit. The proposed 0.95 m conversion cannot be verified from the drawing alone."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 5,
+        "status": "verified",
+        "value": 2.15,
+        "value_max": null,
+        "reason": "Figure 2 visibly labels the vertical dimension 2.15; the proposed metre unit is consistent with the printed decimal dimension."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 6,
+        "status": "verified",
+        "value": 1.45,
+        "value_max": null,
+        "reason": "Figure 3 visibly labels both dimensions 1.45; the proposed metre unit is consistent with the printed decimal dimensions."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 7,
+        "status": "verified",
+        "value": 1.0,
+        "value_max": null,
+        "reason": "Figure 4 visibly labels both dimensions 1.00; the proposed metre unit is consistent with the printed decimal dimensions."
+      },
+      {
+        "ficha_index": 2,
+        "dimension_index": 0,
+        "status": "verified",
+        "value": 40.0,
+        "value_max": null,
+        "reason": "The equipment schedule explicitly lists 40 m\u00b2."
+      },
+      {
+        "ficha_index": 2,
+        "dimension_index": 1,
+        "status": "verified",
+        "value": 80.0,
+        "value_max": null,
+        "reason": "The equipment schedule explicitly lists 80 m\u00b2."
+      },
+      {
+        "ficha_index": 2,
+        "dimension_index": 2,
+        "status": "verified",
+        "value": 200.0,
+        "value_max": null,
+        "reason": "The equipment schedule explicitly lists 200 m\u00b2, and Figure 6 caption also identifies a 200 m\u00b2 fitness room."
+      }
+    ]
+  },
+  "automatic": [
+    {
+      "ficha_index": 0,
+      "dimension_index": 0,
+      "issues": []
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 1,
+      "issues": []
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 2,
+      "issues": []
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 3,
+      "issues": []
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 4,
+      "issues": []
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 5,
+      "issues": []
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 6,
+      "issues": []
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 7,
+      "issues": []
+    },
+    {
+      "ficha_index": 2,
+      "dimension_index": 0,
+      "issues": []
+    },
+    {
+      "ficha_index": 2,
+      "dimension_index": 1,
+      "issues": []
+    },
+    {
+      "ficha_index": 2,
+      "dimension_index": 2,
+      "issues": []
+    }
+  ],
+  "usage": [
+    {
+      "prompt_tokens": 4833,
+      "completion_tokens": 1547
+    },
+    {
+      "prompt_tokens": 4595,
+      "completion_tokens": 857
+    }
+  ]
+}

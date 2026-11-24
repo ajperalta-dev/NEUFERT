@@ -1,0 +1,184 @@
+{
+  "fichas": [
+    {
+      "id": "4122fb96e4bd1976-505-vision-0",
+      "pdf_page": 505,
+      "book_page": 492,
+      "chapter": "BUILDING SERVICES",
+      "section": "Daylight",
+      "title": "Sunlight and window orientation",
+      "summary": "Explains how sun paths and window orientation affect sunlight entering rooms. East and west windows receive low horizontal rays at the equinoxes, while south-facing windows receive flatter winter rays and steeper summer rays. South-east and south-west windows are described as receiving pleasant, deeply penetrating sunshine in summer and winter. North-east and north-west windows receive no winter sun but some early-year and autumn sunshine; in summer, sunlight enters more horizontally. The sun-path diagram is for a north European countryside location.",
+      "building_type": "Residential buildings",
+      "spaces": [
+        "Rooms with east- or west-facing windows",
+        "Rooms with south-facing windows",
+        "Rooms with south-east- or south-west-facing windows",
+        "Rooms with north-east- or north-west-facing windows"
+      ],
+      "uses": [
+        "Orient windows to manage seasonal sunlight",
+        "Provide sunshine to rooms in autumn and winter and in the morning",
+        "Limit unwanted midday and afternoon summer sun"
+      ],
+      "furniture_equipment": [],
+      "dimensions": [
+        {
+          "label": "Latitude",
+          "value": 51.5,
+          "value_max": null,
+          "unit": "degrees",
+          "context": "Latitude stated for the north European countryside sun-path diagram.",
+          "status": "uncertain",
+          "ocr_raw": "51.5° latitude"
+        }
+      ],
+      "figure_refs": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9"
+      ],
+      "cross_refs": [
+        "p. 499 Directing sunlight"
+      ],
+      "keywords": [
+        "daylight",
+        "insolation",
+        "sun path",
+        "window orientation",
+        "seasonal sunlight",
+        "solar exposure"
+      ],
+      "tags_architectural": [
+        "daylighting",
+        "spatial_proportion"
+      ],
+      "confidence": 0.94
+    },
+    {
+      "id": "4122fb96e4bd1976-505-vision-1",
+      "pdf_page": 505,
+      "book_page": 492,
+      "chapter": "BUILDING SERVICES",
+      "section": "Daylight",
+      "title": "Building orientation and flat layouts",
+      "summary": "Compares block orientations and their daylight implications. A north–south block receives sun on both sides but has no windows on its north or south sides, so rooms receive no sun in November, December, and January. An east–west block is recommended for small flats, with living rooms and bedrooms to the south and service spaces to the north. A north-west–south-east block is presented as favourable for larger flats; a north-east–south-west block is recommended for three- and four-room flats, with living and bedroom spaces to the south-east and utility and subsidiary rooms to the north-west.",
+      "building_type": "Residential flats and apartment blocks",
+      "spaces": [
+        "Living rooms",
+        "Bedrooms",
+        "Children’s rooms",
+        "Stairs",
+        "Bathroom",
+        "Lobby",
+        "Kitchenette",
+        "Utility rooms",
+        "Subsidiary rooms"
+      ],
+      "uses": [
+        "Orient flats to improve access to sunlight",
+        "Place service spaces on less sunny sides",
+        "Arrange rooms according to block orientation and dwelling size"
+      ],
+      "furniture_equipment": [],
+      "dimensions": [
+        {
+          "label": "Flat size",
+          "value": 1.0,
+          "value_max": 2.0,
+          "unit": "rooms",
+          "context": "Recommended east–west block layout for small flats.",
+          "status": "uncertain",
+          "ocr_raw": "1–2 rooms"
+        },
+        {
+          "label": "Flat size",
+          "value": 3.0,
+          "value_max": 4.0,
+          "unit": "rooms",
+          "context": "Recommended north-east–south-west block orientation.",
+          "status": "uncertain",
+          "ocr_raw": "three- and four-room flats"
+        }
+      ],
+      "figure_refs": [
+        "10",
+        "11",
+        "12",
+        "13"
+      ],
+      "cross_refs": [],
+      "keywords": [
+        "building orientation",
+        "flat layout",
+        "apartment planning",
+        "solar access",
+        "room arrangement"
+      ],
+      "tags_architectural": [
+        "daylighting",
+        "circulation",
+        "adaptability"
+      ],
+      "confidence": 0.92
+    },
+    {
+      "id": "4122fb96e4bd1976-505-vision-2",
+      "pdf_page": 505,
+      "book_page": 492,
+      "chapter": "BUILDING SERVICES",
+      "section": "Daylight",
+      "title": "Solar exposure and external shading",
+      "summary": "Describes seasonal solar exposure at different building sides and methods of controlling it. South-facing windows and walls admit warmth and sunlight in winter and help keep sun and heat out in summer. East-facing terraces can receive broad, mostly wind-protected sunlight. Deciduous trees are recommended to shade west-facing areas in summer while allowing winter sun through after their leaves fall. A planked fence or balcony parapet can admit and deflect sunshine while providing protection from overlooking and wind.",
+      "building_type": "Residential buildings",
+      "spaces": [
+        "South-facing rooms",
+        "East-facing terraces",
+        "West-facing outdoor areas",
+        "Balconies"
+      ],
+      "uses": [
+        "Admit winter sun and warmth",
+        "Reduce summer solar heat gain",
+        "Shade west-facing spaces",
+        "Provide wind and privacy protection while allowing sunlight"
+      ],
+      "furniture_equipment": [
+        "Windows",
+        "Walls",
+        "Deciduous trees",
+        "Planked fence",
+        "Balcony parapet"
+      ],
+      "dimensions": [],
+      "figure_refs": [
+        "14",
+        "15",
+        "16",
+        "17"
+      ],
+      "cross_refs": [],
+      "keywords": [
+        "solar protection",
+        "shading",
+        "deciduous trees",
+        "terrace",
+        "balcony parapet",
+        "privacy",
+        "wind protection"
+      ],
+      "tags_architectural": [
+        "daylighting",
+        "ventilation",
+        "adaptability",
+        "safety"
+      ],
+      "confidence": 0.94
+    }
+  ]
+}

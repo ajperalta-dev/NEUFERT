@@ -1,0 +1,562 @@
+{
+  "fichas": [
+    {
+      "id": "4122fb96e4bd1976-229-vision-0",
+      "pdf_page": 229,
+      "book_page": 216,
+      "chapter": "CULTURAL VENUES",
+      "section": "Theatres",
+      "title": "Scenery workshops and workshop building",
+      "summary": "Guidance for the area, arrangement, and equipment of scenery-production workshops. A ground-floor workshop plan identifies painting, assembly, sewing, carpentry, storage, and support spaces. Workshops should be on one level and grouped around an assembly room; workplace and accident-prevention requirements must be considered.",
+      "building_type": "Theatre workshop building",
+      "spaces": [
+        "Painting room",
+        "Sewing room",
+        "Carpenter's shop",
+        "Bench room",
+        "Machine room",
+        "Upholstery workshop",
+        "Metalwork workshop",
+        "Sculpture workshop",
+        "Assembly room",
+        "Timber store",
+        "Paint store",
+        "Paint-mixing room",
+        "Sculpture store",
+        "Spraying room",
+        "Construction room",
+        "Loading ramp",
+        "Supervisor's room",
+        "Steel store",
+        "WC"
+      ],
+      "uses": [
+        "Paint scenery backdrops and cycloramas",
+        "Join material in the sewing room",
+        "Produce and test-assemble scenery",
+        "Store timber, paint, sculpture materials, and steel",
+        "Provide technical production workshops"
+      ],
+      "furniture_equipment": [
+        "Thick dividing curtain for spraying work",
+        "Underfloor heating",
+        "Wooden floors",
+        "Gallery overlooking the painting floor"
+      ],
+      "dimensions": [
+        {
+          "label": "Workshop area relative to main stage",
+          "value": 4.0,
+          "value_max": 5.0,
+          "unit": "times",
+          "context": "Medium-sized theatres and multi-purpose theatres; scenery workshop area relative to main stage area.",
+          "status": "uncertain",
+          "ocr_raw": "The area required for scenery workshops is 4-5 times the main stage area for medium-sized theatres"
+        },
+        {
+          "label": "Workshop area relative to main stage",
+          "value": 10.0,
+          "value_max": null,
+          "unit": "times",
+          "context": "Large opera houses or double theatres (opera and theatre); scenery workshop area relative to main stage area.",
+          "status": "uncertain",
+          "ocr_raw": "in large opera houses or double theatres (opera and theatre), 10 times"
+        },
+        {
+          "label": "Cyclorama average size",
+          "value": 10.0,
+          "value_max": 36.0,
+          "unit": "m",
+          "context": "Average cyclorama dimensions, expressed as 10 × 36 m; value is the first printed axis and value_max the second axis.",
+          "status": "uncertain",
+          "ocr_raw": "The average size of a cyclorama is 10 × 36 m."
+        },
+        {
+          "label": "Sewing room area relative to painting room",
+          "value": 0.25,
+          "value_max": null,
+          "unit": "ratio",
+          "context": "Sewing room size is about one quarter of the painting room; printed fraction is ¼.",
+          "status": "uncertain",
+          "ocr_raw": "with a size about ¼ of the painting room"
+        },
+        {
+          "label": "Timber store capacity",
+          "value": 3.0,
+          "value_max": 10.0,
+          "unit": "productions",
+          "context": "Adjoining timber store for productions.",
+          "status": "uncertain",
+          "ocr_raw": "an adjoining timber store for 3–10 productions"
+        },
+        {
+          "label": "Upholstery area relative to painting room",
+          "value": 0.1,
+          "value_max": null,
+          "unit": "ratio",
+          "context": "Approximate upholstery area as a fraction of painting-room area; printed fraction is 1/10.",
+          "status": "uncertain",
+          "ocr_raw": "approx. 1/10 area of painting room"
+        },
+        {
+          "label": "Assembly room area relative to stage",
+          "value": 1.0,
+          "value_max": null,
+          "unit": "ratio",
+          "context": "Assembly room has the same floor area as the stage.",
+          "status": "uncertain",
+          "ocr_raw": "has the same floor area as the stage"
+        },
+        {
+          "label": "Assembly room height above proscenium",
+          "value": 2.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Assembly room height is proscenium height plus this amount.",
+          "status": "uncertain",
+          "ocr_raw": "The height should be proscenium plus 2 m"
+        },
+        {
+          "label": "Assembly room diameter",
+          "value": 9.0,
+          "value_max": 10.0,
+          "unit": "m",
+          "context": "Assembly room diameter.",
+          "status": "uncertain",
+          "ocr_raw": "diameter 9–10 m."
+        },
+        {
+          "label": "Paint store area",
+          "value": 30.0,
+          "value_max": null,
+          "unit": "m²",
+          "context": "Room 1 in the workshop-building ground-floor plan.",
+          "status": "uncertain",
+          "ocr_raw": "1 paint store; 30m2"
+        },
+        {
+          "label": "Paint-mixing room area",
+          "value": 30.0,
+          "value_max": null,
+          "unit": "m²",
+          "context": "Room 2 in the workshop-building ground-floor plan.",
+          "status": "uncertain",
+          "ocr_raw": "2 paint mixing; 30m2"
+        },
+        {
+          "label": "Sculpture store area",
+          "value": 78.0,
+          "value_max": null,
+          "unit": "m²",
+          "context": "Room 3 in the workshop-building ground-floor plan.",
+          "status": "uncertain",
+          "ocr_raw": "3 sculpture store; 78m2"
+        },
+        {
+          "label": "Sculptors' room area",
+          "value": 130.0,
+          "value_max": null,
+          "unit": "m²",
+          "context": "Room 4 in the workshop-building ground-floor plan.",
+          "status": "uncertain",
+          "ocr_raw": "4 sculptors; 130m2"
+        },
+        {
+          "label": "Spraying room area",
+          "value": 78.0,
+          "value_max": null,
+          "unit": "m²",
+          "context": "Room 5 in the workshop-building ground-floor plan.",
+          "status": "uncertain",
+          "ocr_raw": "5 spraying room; 78m2"
+        },
+        {
+          "label": "Construction room area",
+          "value": 144.0,
+          "value_max": null,
+          "unit": "m²",
+          "context": "Room 7 in the workshop-building ground-floor plan.",
+          "status": "uncertain",
+          "ocr_raw": "7 construction room; 144m2"
+        },
+        {
+          "label": "Metalworking shop area",
+          "value": 204.0,
+          "value_max": null,
+          "unit": "m²",
+          "context": "Room 8 in the workshop-building ground-floor plan.",
+          "status": "uncertain",
+          "ocr_raw": "8 metalworking shop; 204m2"
+        },
+        {
+          "label": "Supervisor's room area",
+          "value": 12.0,
+          "value_max": null,
+          "unit": "m²",
+          "context": "Room 9 in the workshop-building ground-floor plan.",
+          "status": "uncertain",
+          "ocr_raw": "9 supervisor; 12m2"
+        },
+        {
+          "label": "Wood store area",
+          "value": 174.0,
+          "value_max": null,
+          "unit": "m²",
+          "context": "Room 11 in the workshop-building ground-floor plan.",
+          "status": "uncertain",
+          "ocr_raw": "11 wood store; 174m2"
+        },
+        {
+          "label": "Supervisor's room area",
+          "value": 12.0,
+          "value_max": null,
+          "unit": "m²",
+          "context": "Room 12 in the workshop-building ground-floor plan.",
+          "status": "uncertain",
+          "ocr_raw": "12 supervisor; 12m2"
+        },
+        {
+          "label": "Steel store area",
+          "value": 96.0,
+          "value_max": null,
+          "unit": "m²",
+          "context": "Room 13 in the workshop-building ground-floor plan.",
+          "status": "uncertain",
+          "ocr_raw": "13 steel store; 96m2"
+        }
+      ],
+      "figure_refs": [
+        "1 — Workshop building, ground floor"
+      ],
+      "cross_refs": [
+        "Dressing rooms: figures 2–9"
+      ],
+      "keywords": [
+        "scenery production",
+        "workshops",
+        "painting room",
+        "cyclorama",
+        "assembly room",
+        "timber store"
+      ],
+      "tags_architectural": [
+        "spatial_proportion",
+        "safety"
+      ],
+      "confidence": 0.91
+    },
+    {
+      "id": "4122fb96e4bd1976-229-vision-1",
+      "pdf_page": 229,
+      "book_page": 216,
+      "chapter": "CULTURAL VENUES",
+      "section": "Theatres",
+      "title": "Theatre personnel and dressing rooms",
+      "summary": "Personnel accommodation includes artistic staff, stage management, and administration. Modern arrangements place these rooms on one side of the stage, opposite the technical side, potentially across several floors. The illustrated room types include soloist, chorus, orchestra, additional chorus or extras, ballet, technical staff, and make-up rooms.",
+      "building_type": "Theatre",
+      "spaces": [
+        "Soloist dressing room",
+        "Chorus dressing room",
+        "Orchestra dressing and tuning-up room",
+        "Dressing room for additional chorus and/or extras",
+        "Dressing room for ballet group",
+        "Changing and rest room for technical staff",
+        "Make-up room",
+        "Make-up artist's work room",
+        "Administration",
+        "Stage manager's room"
+      ],
+      "uses": [
+        "Changing and dressing for performers",
+        "Dressing and tuning up for orchestra players",
+        "Changing and resting for technical staff",
+        "Make-up and make-up work",
+        "Accommodation for artistic staff, administration, and stage management"
+      ],
+      "furniture_equipment": [],
+      "dimensions": [
+        {
+          "label": "Soloist dressing-room area per person",
+          "value": 3.8,
+          "value_max": 5.0,
+          "unit": "m²/person",
+          "context": "Soloist dressing-room plan 2; minimum area indicated.",
+          "status": "uncertain",
+          "ocr_raw": "Soloist dressing room ≥3.8–5 m²/person"
+        },
+        {
+          "label": "Soloist dressing-room area per person",
+          "value": 5.0,
+          "value_max": null,
+          "unit": "m²/person",
+          "context": "Soloist dressing-room plan 3; minimum area indicated.",
+          "status": "uncertain",
+          "ocr_raw": "Soloist dressing room ≥5 m²/person"
+        },
+        {
+          "label": "Chorus dressing-room area per person",
+          "value": 2.75,
+          "value_max": null,
+          "unit": "m²/person",
+          "context": "Chorus dressing room plan 4; minimum area indicated.",
+          "status": "uncertain",
+          "ocr_raw": "Chorus dressing room ≥2.75 m²/person"
+        },
+        {
+          "label": "Orchestra dressing and tuning-up area per person",
+          "value": 2.0,
+          "value_max": null,
+          "unit": "m²/person",
+          "context": "Dressing and tuning-up room for orchestra players; minimum area indicated.",
+          "status": "uncertain",
+          "ocr_raw": "Dressing and tuning-up room for orchestra players ≥2 m²/person"
+        },
+        {
+          "label": "Additional chorus or extras dressing-room area per person",
+          "value": 1.65,
+          "value_max": null,
+          "unit": "m²/person",
+          "context": "Dressing room for additional chorus and/or extras; minimum area indicated.",
+          "status": "uncertain",
+          "ocr_raw": "Dressing room for additional chorus and/or extras ≥1.65 m²/person"
+        },
+        {
+          "label": "Ballet dressing-room area per person",
+          "value": 4.0,
+          "value_max": null,
+          "unit": "m²/person",
+          "context": "Dressing room for ballet group; minimum area indicated.",
+          "status": "uncertain",
+          "ocr_raw": "Dressing room for ballet group ≥4 m²/person"
+        },
+        {
+          "label": "Room module dimension",
+          "value": 3.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Repeated plan dimension shown above personnel-room diagrams.",
+          "status": "uncertain",
+          "ocr_raw": "3.0"
+        },
+        {
+          "label": "Room module dimension",
+          "value": 3.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Repeated plan dimension shown above personnel-room diagrams.",
+          "status": "uncertain",
+          "ocr_raw": "3.0"
+        }
+      ],
+      "figure_refs": [
+        "2 — Soloist dressing room",
+        "3 — Soloist dressing room",
+        "4 — Chorus dressing room",
+        "5 — Dressing and tuning-up room for orchestra players",
+        "6 — Dressing room for additional chorus and/or extras",
+        "7 — Changing and rest room for technical staff",
+        "8 — Dressing room for ballet group",
+        "9 — Make-up room and work room for make-up artist"
+      ],
+      "cross_refs": [
+        "Typical floor plans: figures 2–9"
+      ],
+      "keywords": [
+        "personnel rooms",
+        "dressing rooms",
+        "performers",
+        "orchestra",
+        "chorus",
+        "ballet",
+        "make-up"
+      ],
+      "tags_architectural": [
+        "ergonomics",
+        "spatial_proportion"
+      ],
+      "confidence": 0.87
+    },
+    {
+      "id": "4122fb96e4bd1976-229-vision-2",
+      "pdf_page": 229,
+      "book_page": 216,
+      "chapter": "CULTURAL VENUES",
+      "section": "Theatres",
+      "title": "Sanitary facilities for theatre visitors, performers, and workshop staff",
+      "summary": "The page provides fixture-count guidelines for visitors, theatre and opera performers, and workshop staff, with provisions to be separated for women and men. Visitor composition is assumed to be three-fifths women and two-fifths men. Accessible visitor provision includes a wheelchair-accessible WC.",
+      "building_type": "Theatre",
+      "spaces": [
+        "Visitor sanitary facilities",
+        "Performer sanitary facilities",
+        "Workshop staff sanitary facilities",
+        "Wheelchair-accessible WC"
+      ],
+      "uses": [
+        "Provide sanitary facilities for visitors",
+        "Provide sanitary facilities for performers, including chorus, ballet, and extras",
+        "Provide sanitary facilities for workshop staff"
+      ],
+      "furniture_equipment": [
+        "WC",
+        "Washbasin",
+        "Urinal",
+        "Shower",
+        "Bath",
+        "Foot washbasin",
+        "Wheelchair-accessible WC"
+      ],
+      "dimensions": [
+        {
+          "label": "Female visitors covered by guideline",
+          "value": 30.0,
+          "value_max": 40.0,
+          "unit": "visitors",
+          "context": "Visitor sanitary-facility guideline for female visitors.",
+          "status": "uncertain",
+          "ocr_raw": "for 30–40 female visitors"
+        },
+        {
+          "label": "Male visitors covered by guideline",
+          "value": 40.0,
+          "value_max": 50.0,
+          "unit": "visitors",
+          "context": "Visitor sanitary-facility guideline for male visitors.",
+          "status": "uncertain",
+          "ocr_raw": "for 40–50 male visitors"
+        },
+        {
+          "label": "Visitors covered by accessible provision",
+          "value": 1000.0,
+          "value_max": null,
+          "unit": "visitors",
+          "context": "Visitor sanitary-facility guideline; provision listed as one wheelchair-accessible WC.",
+          "status": "uncertain",
+          "ocr_raw": "for 1000 visitors"
+        },
+        {
+          "label": "Female performers covered by guideline",
+          "value": 10.0,
+          "value_max": null,
+          "unit": "performers",
+          "context": "Theatre and opera performers, including chorus, ballet, and extras.",
+          "status": "uncertain",
+          "ocr_raw": "for 10 female performers"
+        },
+        {
+          "label": "Male performers covered by guideline",
+          "value": 15.0,
+          "value_max": null,
+          "unit": "performers",
+          "context": "Theatre and opera performers, including chorus, ballet, and extras.",
+          "status": "uncertain",
+          "ocr_raw": "for 15 male performers"
+        },
+        {
+          "label": "Soloist dressing-room provision threshold",
+          "value": 1.0,
+          "value_max": null,
+          "unit": "room",
+          "context": "Performer sanitary-facility provision for a room for one soloist.",
+          "status": "uncertain",
+          "ocr_raw": "for room for 1 soloist"
+        },
+        {
+          "label": "Soloist dressing rooms provision threshold",
+          "value": 2.0,
+          "value_max": null,
+          "unit": "soloists",
+          "context": "Performer sanitary-facility provision for dressing rooms for two soloists.",
+          "status": "uncertain",
+          "ocr_raw": "for dressing rooms for 2 soloists"
+        },
+        {
+          "label": "Ballet, chorus member, or extra provision threshold",
+          "value": 4.0,
+          "value_max": null,
+          "unit": "people",
+          "context": "Performer sanitary-facility provision for every four ballet, chorus members, or extras.",
+          "status": "uncertain",
+          "ocr_raw": "for every 4 ballet, chorus member or extra"
+        },
+        {
+          "label": "Female workshop staff covered by guideline",
+          "value": 15.0,
+          "value_max": null,
+          "unit": "people",
+          "context": "Workshop staff sanitary-facility guideline for women.",
+          "status": "uncertain",
+          "ocr_raw": "for 15 women"
+        },
+        {
+          "label": "Male workshop staff covered by guideline",
+          "value": 20.0,
+          "value_max": null,
+          "unit": "people",
+          "context": "Workshop staff sanitary-facility guideline for men.",
+          "status": "uncertain",
+          "ocr_raw": "for 20 men"
+        },
+        {
+          "label": "Workshop staff provision threshold",
+          "value": 4.0,
+          "value_max": null,
+          "unit": "people",
+          "context": "Staff of workshops etc.; provision listed as one washbasin.",
+          "status": "uncertain",
+          "ocr_raw": "for 4 people"
+        },
+        {
+          "label": "Workshop staff provision threshold",
+          "value": 5.0,
+          "value_max": null,
+          "unit": "people",
+          "context": "Staff of workshops etc.; provision listed as one shower.",
+          "status": "uncertain",
+          "ocr_raw": "for 5 people"
+        },
+        {
+          "label": "Workshop staff provision threshold",
+          "value": 10.0,
+          "value_max": null,
+          "unit": "people",
+          "context": "Staff of workshops etc.; provision listed as one bath.",
+          "status": "uncertain",
+          "ocr_raw": "for 10 people"
+        },
+        {
+          "label": "Female visitor composition",
+          "value": 3.0,
+          "value_max": null,
+          "unit": "ratio",
+          "context": "Visitor composition assumption: women to total in the printed fraction 3/5.",
+          "status": "uncertain",
+          "ocr_raw": "3/5 women"
+        },
+        {
+          "label": "Male visitor composition",
+          "value": 2.0,
+          "value_max": null,
+          "unit": "ratio",
+          "context": "Visitor composition assumption: men to total in the printed fraction 2/5.",
+          "status": "uncertain",
+          "ocr_raw": "2/5 men"
+        }
+      ],
+      "figure_refs": [
+        "10 — Guidelines for sanitary facilities in theatres"
+      ],
+      "cross_refs": [],
+      "keywords": [
+        "sanitary facilities",
+        "visitors",
+        "performers",
+        "workshop staff",
+        "accessibility"
+      ],
+      "tags_architectural": [
+        "accessibility"
+      ],
+      "confidence": 0.88
+    }
+  ]
+}

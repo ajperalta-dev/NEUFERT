@@ -1,0 +1,49 @@
+{
+  "model": "gpt-6-luna",
+  "checks": {
+    "checks": [
+      {
+        "ficha_index": 2,
+        "dimension_index": 0,
+        "status": "verified",
+        "value": 50.0,
+        "value_max": 100.0,
+        "reason": "The text states \u201c50\u2013100 years.\u201d"
+      },
+      {
+        "ficha_index": 2,
+        "dimension_index": 1,
+        "status": "verified",
+        "value": 2.0,
+        "value_max": 3.0,
+        "reason": "The text states \u201c(2\u20133 generations).\u201d"
+      }
+    ]
+  },
+  "automatic": [
+    {
+      "ficha_index": 2,
+      "dimension_index": 0,
+      "issues": [
+        "Unknown unit"
+      ]
+    },
+    {
+      "ficha_index": 2,
+      "dimension_index": 1,
+      "issues": [
+        "Unknown unit"
+      ]
+    }
+  ],
+  "usage": [
+    {
+      "prompt_tokens": 4856,
+      "completion_tokens": 1101
+    },
+    {
+      "prompt_tokens": 3880,
+      "completion_tokens": 132
+    }
+  ]
+}

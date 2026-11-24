@@ -1,0 +1,238 @@
+{
+  "fichas": [
+    {
+      "id": "4122fb96e4bd1976-493-vision-0",
+      "pdf_page": 493,
+      "book_page": 480,
+      "chapter": "BUILDING SERVICES",
+      "section": "Building Physics",
+      "title": "Sound Insulation, Sound Absorption, and Protection from External Noise",
+      "summary": "Guidance on reducing noise from building services, including plumbing fixtures, pipework, filling and emptying sounds, heating boilers, and ventilation ducts. Sound absorption reduces reflected sound rather than sound transmitted through building components or direct sound. External-noise protection uses building layout, insulated construction and openings, blinds, and landscaping. Illustrations show pipe clips, a boiler foundation, metal/rubber elements, duct silencers, room sound absorption, and sound reduction by open-air obstructions.",
+      "building_type": "Residential buildings and building services",
+      "spaces": [
+        "Living rooms",
+        "Bedrooms",
+        "Services rooms",
+        "Rooms containing ventilation and air-conditioning ducts"
+      ],
+      "uses": [
+        "Reduce plumbing fixture and pipework noise",
+        "Isolate boilers and service connections from structure",
+        "Reduce sound transmission through ventilation ducts",
+        "Reduce reflected sound and reverberation in rooms",
+        "Protect occupied rooms from external noise"
+      ],
+      "furniture_equipment": [
+        "Sound-insulated pipe clip",
+        "Sound-insulated boiler foundation",
+        "Metal/rubber element",
+        "Sound-absorbing ventilation-duct silencer",
+        "Sound-insulated valves",
+        "Sound dampers",
+        "Aerators",
+        "Rubber compensators",
+        "Sound-insulating blinds"
+      ],
+      "dimensions": [
+        {
+          "label": "Concrete layer thickness",
+          "value": 12.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Sound-insulated boiler foundation construction detail",
+          "status": "uncertain",
+          "ocr_raw": "concrete B25 12cm"
+        },
+        {
+          "label": "Bitumen felt surface mass",
+          "value": 500.0,
+          "value_max": null,
+          "unit": "g/m²",
+          "context": "Sound-insulated boiler foundation construction detail; bitumen felt layers",
+          "status": "uncertain",
+          "ocr_raw": "bitumen felt 500 g/m²"
+        },
+        {
+          "label": "Cork sheet thickness",
+          "value": 5.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Sound-insulated boiler foundation construction detail",
+          "status": "uncertain",
+          "ocr_raw": "cork sheet 5cm"
+        },
+        {
+          "label": "Boiler foundation width",
+          "value": 90.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Sound-insulated boiler foundation detail",
+          "status": "uncertain",
+          "ocr_raw": "90 cm wide"
+        },
+        {
+          "label": "Maximum permissible sound level from services",
+          "value": 35.0,
+          "value_max": null,
+          "unit": "dB(A)",
+          "context": "Services in neighbouring residential units",
+          "status": "uncertain",
+          "ocr_raw": "The maximum permissible sound level from services in neighbouring residential units is 35 dB (A)."
+        },
+        {
+          "label": "Fixture sound level, test group I",
+          "value": 20.0,
+          "value_max": null,
+          "unit": "dB(A)",
+          "context": "Test group I valves; approved for anywhere; printed as an upper limit",
+          "status": "uncertain",
+          "ocr_raw": "Test group I with ≤20 dB (A) fixture sound level is approved for anywhere"
+        },
+        {
+          "label": "Fixture sound level, test group II",
+          "value": 30.0,
+          "value_max": null,
+          "unit": "dB(A)",
+          "context": "Test group II valves; approved only for internal house walls and walls adjoining services rooms; printed as an upper limit",
+          "status": "uncertain",
+          "ocr_raw": "test group II with ≤30 dB (A) fixture sound level is approved only for internal house walls and for walls adjoining services rooms."
+        },
+        {
+          "label": "Reverberation time",
+          "value": 1.5,
+          "value_max": null,
+          "unit": "s",
+          "context": "Example used to describe equivalent sound-absorbing area for a room",
+          "status": "uncertain",
+          "ocr_raw": "For a reverberation time of 1.5 s"
+        },
+        {
+          "label": "Equivalent sound-absorbing area per room volume",
+          "value": 0.1,
+          "value_max": null,
+          "unit": "m²/m³",
+          "context": "For a reverberation time of 1.5 s; equivalent sound-absorbing area A per room volume V",
+          "status": "uncertain",
+          "ocr_raw": "the equivalent sound-absorbing area (A) would have to be 0.1 m² per m³ of room volume (V)"
+        },
+        {
+          "label": "Equivalent sound-absorbing area multiplier",
+          "value": 2.0,
+          "value_max": null,
+          "unit": "ratio",
+          "context": "For half the stated reverberation time, the equivalent sound-absorbing area would be twice as large",
+          "status": "uncertain",
+          "ocr_raw": "for half the reverberation time, it would be twice the size."
+        },
+        {
+          "label": "Sound radius multiplier",
+          "value": 1.25,
+          "value_max": null,
+          "unit": "× previous sound radius",
+          "context": "Sound absorption graph annotation",
+          "status": "uncertain",
+          "ocr_raw": "1.25 x previous sound radius"
+        },
+        {
+          "label": "Sound radius multiplier",
+          "value": 2.5,
+          "value_max": null,
+          "unit": "× sound radius",
+          "context": "Sound absorption graph annotation",
+          "status": "uncertain",
+          "ocr_raw": "2.5 x sound radius"
+        },
+        {
+          "label": "Open-air obstruction angle",
+          "value": 30.0,
+          "value_max": null,
+          "unit": "°",
+          "context": "Printed example for reading the sound-reduction graph",
+          "status": "uncertain",
+          "ocr_raw": "example: a = 30°"
+        },
+        {
+          "label": "Obstruction height",
+          "value": 2.5,
+          "value_max": null,
+          "unit": "m",
+          "context": "Printed example for reading the sound-reduction graph",
+          "status": "uncertain",
+          "ocr_raw": "h = 2.50 m"
+        },
+        {
+          "label": "Frequency",
+          "value": 500.0,
+          "value_max": null,
+          "unit": "Hz",
+          "context": "Medium-range frequency in the open-air obstruction example",
+          "status": "uncertain",
+          "ocr_raw": "at 500 Hz (medium range frequency)"
+        },
+        {
+          "label": "Wavelength",
+          "value": 0.68,
+          "value_max": null,
+          "unit": "m",
+          "context": "Printed example for the 500 Hz sound frequency",
+          "status": "uncertain",
+          "ocr_raw": "wavelength λ = 340/500 = 0.68"
+        },
+        {
+          "label": "Height-to-wavelength ratio",
+          "value": 3.68,
+          "value_max": null,
+          "unit": "ratio",
+          "context": "Printed open-air obstruction example, h/λ",
+          "status": "uncertain",
+          "ocr_raw": "h/λ = 2.5/0.68 = 3.68"
+        },
+        {
+          "label": "Sound reduction",
+          "value": 17.0,
+          "value_max": null,
+          "unit": "dB",
+          "context": "Printed open-air obstruction example",
+          "status": "uncertain",
+          "ocr_raw": "sound reduction = 17 dB"
+        }
+      ],
+      "figure_refs": [
+        "1 Sound-insulated pipe clip",
+        "2 Sound-insulated boiler foundation",
+        "3 Metal/rubber element",
+        "4 Ventilation duct fitted with sound-absorbing material (silencer)",
+        "5 Sound absorption measures and reflected sound",
+        "6 Echo radius and sound-absorbing capacity of a room",
+        "7 Sound reduction effect of open-air obstructions",
+        "8 Diagram showing dimensions"
+      ],
+      "cross_refs": [
+        "→ 1",
+        "→ 2",
+        "→ 4",
+        "→ 5",
+        "→ 7",
+        "→ 8"
+      ],
+      "keywords": [
+        "sound insulation",
+        "sound absorption",
+        "services noise",
+        "plumbing fixtures",
+        "pipework",
+        "boiler foundation",
+        "ventilation ducts",
+        "silencers",
+        "external noise",
+        "reverberation",
+        "echo radius"
+      ],
+      "tags_architectural": [
+        "circulation",
+        "safety"
+      ],
+      "confidence": 0.94
+    }
+  ]
+}

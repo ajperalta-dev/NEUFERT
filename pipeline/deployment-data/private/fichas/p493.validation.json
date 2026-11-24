@@ -1,0 +1,301 @@
+{
+  "model": "gpt-6-luna",
+  "checks": {
+    "checks": [
+      {
+        "ficha_index": 0,
+        "dimension_index": 0,
+        "status": "verified",
+        "value": 12.0,
+        "value_max": null,
+        "reason": "The foundation construction note visibly states concrete B25, 12 cm."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 1,
+        "status": "verified",
+        "value": 500.0,
+        "value_max": null,
+        "reason": "The construction note visibly states bitumen felt 500 g/m\u00b2."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 2,
+        "status": "verified",
+        "value": 5.0,
+        "value_max": null,
+        "reason": "The construction note visibly states cork sheet 5 cm."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 3,
+        "status": "verified",
+        "value": 90.0,
+        "value_max": null,
+        "reason": "The figure caption visibly says the boiler foundation is 90 cm wide."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 4,
+        "status": "verified",
+        "value": 35.0,
+        "value_max": null,
+        "reason": "The text visibly states a maximum permissible sound level of 35 dB(A)."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 5,
+        "status": "verified",
+        "value": 20.0,
+        "value_max": null,
+        "reason": "The text visibly gives test group I as \u226420 dB(A)."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 6,
+        "status": "verified",
+        "value": 30.0,
+        "value_max": null,
+        "reason": "The text visibly gives test group II as \u226430 dB(A)."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 7,
+        "status": "verified",
+        "value": 1.5,
+        "value_max": null,
+        "reason": "The sound-absorption text visibly states a reverberation time of 1.5 s."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 8,
+        "status": "verified",
+        "value": 0.1,
+        "value_max": null,
+        "reason": "The text visibly gives 0.1 m\u00b2 per m\u00b3 of room volume."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 9,
+        "status": "verified",
+        "value": 2.0,
+        "value_max": null,
+        "reason": "The text visibly says the area would be twice as large for half the reverberation time."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 10,
+        "status": "verified",
+        "value": 1.25,
+        "value_max": null,
+        "reason": "The graph annotation visibly reads \u201c1.25 x previous sound radius.\u201d"
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 11,
+        "status": "verified",
+        "value": 2.5,
+        "value_max": null,
+        "reason": "The graph annotation visibly reads \u201c2.5 x sound radius.\u201d"
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 12,
+        "status": "verified",
+        "value": 30.0,
+        "value_max": null,
+        "reason": "The printed example visibly states \u03b1 = 30\u00b0."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 13,
+        "status": "verified",
+        "value": 2.5,
+        "value_max": null,
+        "reason": "The printed example visibly states h = 2.50 m; this agrees with 2.5 m."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 14,
+        "status": "verified",
+        "value": 500.0,
+        "value_max": null,
+        "reason": "The printed example visibly states 500 Hz."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 15,
+        "status": "uncertain",
+        "value": 0.68,
+        "value_max": null,
+        "reason": "The printed example shows \u03bb = 340/500 = 0.68, but no unit is visibly attached to 0.68."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 16,
+        "status": "verified",
+        "value": 3.68,
+        "value_max": null,
+        "reason": "The printed example visibly states h/\u03bb = 2.5/0.68 = 3.68."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 17,
+        "status": "verified",
+        "value": 17.0,
+        "value_max": null,
+        "reason": "The printed example visibly states a sound reduction of 17 dB."
+      }
+    ]
+  },
+  "automatic": [
+    {
+      "ficha_index": 0,
+      "dimension_index": 0,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 1,
+      "issues": [
+        "Unknown unit",
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 2,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 3,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 4,
+      "issues": [
+        "Unknown unit",
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 5,
+      "issues": [
+        "Unknown unit",
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 6,
+      "issues": [
+        "Unknown unit",
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 7,
+      "issues": [
+        "Unknown unit",
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 8,
+      "issues": [
+        "Unknown unit",
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 9,
+      "issues": [
+        "Unknown unit",
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 10,
+      "issues": [
+        "Unknown unit",
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 11,
+      "issues": [
+        "Unknown unit",
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 12,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 13,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 14,
+      "issues": [
+        "Unknown unit",
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 15,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 16,
+      "issues": [
+        "Unknown unit",
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 17,
+      "issues": [
+        "Unknown unit",
+        "Mixed length units; check figure units"
+      ]
+    }
+  ],
+  "usage": [
+    {
+      "prompt_tokens": 5163,
+      "completion_tokens": 1621
+    },
+    {
+      "prompt_tokens": 5163,
+      "completion_tokens": 981
+    }
+  ]
+}

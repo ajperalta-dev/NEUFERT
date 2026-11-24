@@ -1,0 +1,91 @@
+{
+  "model": "gpt-6-luna",
+  "checks": {
+    "checks": [
+      {
+        "ficha_index": 0,
+        "dimension_index": 0,
+        "status": "verified",
+        "value": 2500.0,
+        "value_max": null,
+        "reason": "The text states \u201cmore than 2500 years.\u201d"
+      },
+      {
+        "ficha_index": 1,
+        "dimension_index": 0,
+        "status": "verified",
+        "value": 11500.0,
+        "value_max": null,
+        "reason": "The figure caption gives \u201c11,500 seats.\u201d"
+      },
+      {
+        "ficha_index": 2,
+        "dimension_index": 0,
+        "status": "verified",
+        "value": 1.0,
+        "value_max": 9.0,
+        "reason": "The figure label states the higher backstage section has a slope \u201cup to 1:9.\u201d"
+      },
+      {
+        "ficha_index": 2,
+        "dimension_index": 1,
+        "status": "verified",
+        "value": 1.1,
+        "value_max": null,
+        "reason": "The figure label says the front stage section is raised \u201c1.10m above floor level D.\u201d"
+      },
+      {
+        "ficha_index": 2,
+        "dimension_index": 2,
+        "status": "verified",
+        "value": 60.0,
+        "value_max": null,
+        "reason": "The figure label says the final backdrop is \u201cat least 60m from M.\u201d"
+      }
+    ]
+  },
+  "automatic": [
+    {
+      "ficha_index": 0,
+      "dimension_index": 0,
+      "issues": [
+        "Unknown unit"
+      ]
+    },
+    {
+      "ficha_index": 1,
+      "dimension_index": 0,
+      "issues": [
+        "Unknown unit",
+        "European decimal comma; check transcription"
+      ]
+    },
+    {
+      "ficha_index": 2,
+      "dimension_index": 0,
+      "issues": [
+        "Unknown unit"
+      ]
+    },
+    {
+      "ficha_index": 2,
+      "dimension_index": 1,
+      "issues": []
+    },
+    {
+      "ficha_index": 2,
+      "dimension_index": 2,
+      "issues": []
+    }
+  ],
+  "usage": [
+    {
+      "prompt_tokens": 4614,
+      "completion_tokens": 1440
+    },
+    {
+      "prompt_tokens": 4452,
+      "completion_tokens": 356
+    }
+  ]
+}

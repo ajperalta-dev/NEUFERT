@@ -1,0 +1,565 @@
+{
+  "fichas": [
+    {
+      "id": "4122fb96e4bd1976-536-vision-0",
+      "pdf_page": 536,
+      "book_page": 523,
+      "chapter": "BUILDING SERVICES",
+      "section": "Domestic Installation",
+      "title": "Design units for sanitary appliances",
+      "summary": "Table of design units (DU) and single-branch pipe nominal diameters for sanitary appliances. The kitchen-sink and dishwasher entry is marked as having a common trap.",
+      "building_type": "Domestic buildings",
+      "spaces": [
+        "Bathrooms",
+        "Kitchens",
+        "Sanitary areas"
+      ],
+      "uses": [
+        "Size drainage branches according to sanitary appliance design units",
+        "Identify listed single-branch pipe nominal diameters"
+      ],
+      "furniture_equipment": [
+        "Washbasin",
+        "Bidet",
+        "Shower",
+        "Urinal",
+        "Bath tub",
+        "Kitchen sink",
+        "Dishwasher",
+        "Washing machine",
+        "WC",
+        "Floor gully"
+      ],
+      "dimensions": [
+        {
+          "label": "Design units",
+          "value": 0.5,
+          "value_max": null,
+          "unit": "DU",
+          "context": "Washbasin or bidet",
+          "status": "verified",
+          "ocr_raw": "washbasin, bidet\n\n0.5"
+        },
+        {
+          "label": "Design units",
+          "value": 0.6,
+          "value_max": null,
+          "unit": "DU",
+          "context": "Shower without plug",
+          "status": "verified",
+          "ocr_raw": "shower without plug\n\n0.6"
+        },
+        {
+          "label": "Design units",
+          "value": 0.8,
+          "value_max": null,
+          "unit": "DU",
+          "context": "Shower with plug",
+          "status": "verified",
+          "ocr_raw": "shower with plug\n\n0.8"
+        },
+        {
+          "label": "Design units",
+          "value": 0.8,
+          "value_max": null,
+          "unit": "DU",
+          "context": "Single urinal with flush cistern",
+          "status": "verified",
+          "ocr_raw": "single urinal with flush cistern\n\n0.8"
+        },
+        {
+          "label": "Design units",
+          "value": 0.5,
+          "value_max": null,
+          "unit": "DU",
+          "context": "Single urinal with pressure flush",
+          "status": "verified",
+          "ocr_raw": "single urinal with pressure flush\n\n0.5"
+        },
+        {
+          "label": "Design units",
+          "value": 0.2,
+          "value_max": null,
+          "unit": "DU",
+          "context": "Standing urinal",
+          "status": "verified",
+          "ocr_raw": "DOMESTIC INSTALLATION\nDrainage\n\nSanitary appliance\n\nDesign units (DU)\n\nSingle branch pipe\n\nwashbasin, bidet\n\n0.5\n\nDN40\n\nshower without plug\n\n0.6\n\nON 50\n\nshower with plug\n\n0.8\n\nDN 50\n\nsingle urinal with flush cistern\n\n0.8\n\nDN 50\n\nsingle urinal with pressure flush\n\n0.5\n0.2\n\nDN 50\n\nurinal without water flushing\n\n0.1\n\nDN 50\n\nbath tub\n\n0.8\n\nkitchen sink and dishwasher'\n\n0.8\n\n26\n\n40\n\n34\n\n50\n\n44\n49\n\nON 50\n\n60\n\n56\n\nDN 50\n\n70\n\n68\n\n80\n\n75\n\n90\n\n79\n\n0.8\n\nDN 50\n\nwashing machine up to 6 kg\n\n0.8\n\nON 50\n\n1.5\n\nMin. internal diameter d;m!o (mm)\n\n30\n\n56\n\ndishwasher\n\nwashing machine up to 12 kg\n\nNominal diameter (ON)\n\nON 50\n\nstanding urinal\n\nPipe sizing\nThe determined dimensions, given as nominal diameters (ON) and\nthe associated minimum internal diameters, are given in ...... e.\n\n100\n\n96\n\n125\n\n113\n\n150\n\n146\n\nON 56/60\n\nWC with 4.0/4.5 I cistern\n\n1.8\n\nON 80/DN 90\n\nWC with 6.0 I cistern/pressure flush\n\n2.0\n\nON 80-DN 100\n\n200\n\n184\n\nWC with 7.5 I cistern/pressure flush\n\n2.0\n\nsee remark in DIN\n\n225\n\n207\n\nWC with 9.0 I cistern/pressure flush\n\n2.5\n\nON 100\n\n250\n\n230\n\n300\n\n290\n\nfloor gully DN 50\n\n0.8\n\nDN 50\n\nfloor gully ON 70\n\n1.5\n\nON 70\n\nfloor gully ON 100\n\n2.0\n\nDN 100\n\ne\n\nNominal diameters (ON) with the relevant minimum internal diameters d1mlo\n(corresponds to Table 1, DIN EN 12056-2)\n\n*with common trap\n\n0\n\nDesign units (DU) to be assumed for various sanitary appliances (Table 4, DIN\n1986-100)\n\nSection of pipework\n\nMinimum fall\n\nunvented branch pipe\n\n1.0%\n\nStandard and section\nDIN EN 12056-2, Table 5\n\nvented branch pipe\n\n0.5%\n\nDIN 1986-100, section 8.3.2.2\nDIN EN 12056-2, Table 8\n\nground and collector pipes\na) for wastewater\n\n0.5%\n\nDIN 1986-100, section 8.3.4.\n\nb) for rainwater (degree of filling\n0.7)\n\n0.5%\n\nDIN 1986-100, section 9.3.5.2\n\nground and collector pipes ON 90\n(lavatory pan with flush volume\n4.5-61)\n\n1.5%\n\nDIN 1986-100, TableA.2\n\nDOMESTIC\nINSTALLATION\nDIN 1986-100, section 9.3.5.2\n\nground pipes for rainwater outside\nthe building (degree of filling 0.7)\nAnti-siphonage pipe\n\nIndirect vent pipe\n\nDirect vent pipe\n\nSecondary\nvent pipe\n\nf) Ventilation systems for wastewater drainage (Wellpott -> refs)\n\nup to DN 200\n\n0.5%t\n\nfrom ON 250\n\n1: ON'\n\n' flow velocity max. 2.5 m/s. Behind a shaft with open flow-through, design can be\nbased on full filling without over-pressure.\n\nC) Minimum falls for pipes, unpressurised drainage\n\n8\n\nA soil and vent stack can be joined together with one common vent pipe at the\n\nuppermost point of the pipework (Wellpott -> refs)\n\nVenting of pipework -t f) + 8\nDrainage systems are still differentiated according to the type\nof venting. The main types are soil and vent stack (single-pipe\nsystem) and soil stack with separate vent pipe. Apart from the\nsoil and vent stack, different systems use anti-siphonage pipes;\nindirect vent pipe; direct vent pipe; secondary venting; and soil\nand vent stack with an additional venting valve. The cross-section\nof a common vent pipe for more than one stack must be at least\nas big as half the sum of the single cross-sections of the single\nstack. The nominal size of a common vent pipe must be at least\none nominal size larger than the largest size of the relevant stack.\n\n523\n\nDrainage\nVentilation\nHeating\nSmall sewage\ntreatment plants\nBS EN 476\nBS 8515\nDIN 1986\nDIN EN 12056\n\n\f"
+        },
+        {
+          "label": "Design units",
+          "value": 0.1,
+          "value_max": null,
+          "unit": "DU",
+          "context": "Urinal without water flushing",
+          "status": "verified",
+          "ocr_raw": "urinal without water flushing\n\n0.1"
+        },
+        {
+          "label": "Design units",
+          "value": 0.8,
+          "value_max": null,
+          "unit": "DU",
+          "context": "Bath tub",
+          "status": "verified",
+          "ocr_raw": "bath tub\n\n0.8"
+        },
+        {
+          "label": "Design units",
+          "value": 0.8,
+          "value_max": null,
+          "unit": "DU",
+          "context": "Kitchen sink and dishwasher, common trap",
+          "status": "verified",
+          "ocr_raw": "DOMESTIC INSTALLATION\nDrainage\n\nSanitary appliance\n\nDesign units (DU)\n\nSingle branch pipe\n\nwashbasin, bidet\n\n0.5\n\nDN40\n\nshower without plug\n\n0.6\n\nON 50\n\nshower with plug\n\n0.8\n\nDN 50\n\nsingle urinal with flush cistern\n\n0.8\n\nDN 50\n\nsingle urinal with pressure flush\n\n0.5\n0.2\n\nDN 50\n\nurinal without water flushing\n\n0.1\n\nDN 50\n\nbath tub\n\n0.8\n\nkitchen sink and dishwasher'\n\n0.8\n\n26\n\n40\n\n34\n\n50\n\n44\n49\n\nON 50\n\n60\n\n56\n\nDN 50\n\n70\n\n68\n\n80\n\n75\n\n90\n\n79\n\n0.8\n\nDN 50\n\nwashing machine up to 6 kg\n\n0.8\n\nON 50\n\n1.5\n\nMin. internal diameter d;m!o (mm)\n\n30\n\n56\n\ndishwasher\n\nwashing machine up to 12 kg\n\nNominal diameter (ON)\n\nON 50\n\nstanding urinal\n\nPipe sizing\nThe determined dimensions, given as nominal diameters (ON) and\nthe associated minimum internal diameters, are given in ...... e.\n\n100\n\n96\n\n125\n\n113\n\n150\n\n146\n\nON 56/60\n\nWC with 4.0/4.5 I cistern\n\n1.8\n\nON 80/DN 90\n\nWC with 6.0 I cistern/pressure flush\n\n2.0\n\nON 80-DN 100\n\n200\n\n184\n\nWC with 7.5 I cistern/pressure flush\n\n2.0\n\nsee remark in DIN\n\n225\n\n207\n\nWC with 9.0 I cistern/pressure flush\n\n2.5\n\nON 100\n\n250\n\n230\n\n300\n\n290\n\nfloor gully DN 50\n\n0.8\n\nDN 50\n\nfloor gully ON 70\n\n1.5\n\nON 70\n\nfloor gully ON 100\n\n2.0\n\nDN 100\n\ne\n\nNominal diameters (ON) with the relevant minimum internal diameters d1mlo\n(corresponds to Table 1, DIN EN 12056-2)\n\n*with common trap\n\n0\n\nDesign units (DU) to be assumed for various sanitary appliances (Table 4, DIN\n1986-100)\n\nSection of pipework\n\nMinimum fall\n\nunvented branch pipe\n\n1.0%\n\nStandard and section\nDIN EN 12056-2, Table 5\n\nvented branch pipe\n\n0.5%\n\nDIN 1986-100, section 8.3.2.2\nDIN EN 12056-2, Table 8\n\nground and collector pipes\na) for wastewater\n\n0.5%\n\nDIN 1986-100, section 8.3.4.\n\nb) for rainwater (degree of filling\n0.7)\n\n0.5%\n\nDIN 1986-100, section 9.3.5.2\n\nground and collector pipes ON 90\n(lavatory pan with flush volume\n4.5-61)\n\n1.5%\n\nDIN 1986-100, TableA.2\n\nDOMESTIC\nINSTALLATION\nDIN 1986-100, section 9.3.5.2\n\nground pipes for rainwater outside\nthe building (degree of filling 0.7)\nAnti-siphonage pipe\n\nIndirect vent pipe\n\nDirect vent pipe\n\nSecondary\nvent pipe\n\nf) Ventilation systems for wastewater drainage (Wellpott -> refs)\n\nup to DN 200\n\n0.5%t\n\nfrom ON 250\n\n1: ON'\n\n' flow velocity max. 2.5 m/s. Behind a shaft with open flow-through, design can be\nbased on full filling without over-pressure.\n\nC) Minimum falls for pipes, unpressurised drainage\n\n8\n\nA soil and vent stack can be joined together with one common vent pipe at the\n\nuppermost point of the pipework (Wellpott -> refs)\n\nVenting of pipework -t f) + 8\nDrainage systems are still differentiated according to the type\nof venting. The main types are soil and vent stack (single-pipe\nsystem) and soil stack with separate vent pipe. Apart from the\nsoil and vent stack, different systems use anti-siphonage pipes;\nindirect vent pipe; direct vent pipe; secondary venting; and soil\nand vent stack with an additional venting valve. The cross-section\nof a common vent pipe for more than one stack must be at least\nas big as half the sum of the single cross-sections of the single\nstack. The nominal size of a common vent pipe must be at least\none nominal size larger than the largest size of the relevant stack.\n\n523\n\nDrainage\nVentilation\nHeating\nSmall sewage\ntreatment plants\nBS EN 476\nBS 8515\nDIN 1986\nDIN EN 12056\n\n\f"
+        },
+        {
+          "label": "Design units",
+          "value": 0.8,
+          "value_max": null,
+          "unit": "DU",
+          "context": "Dishwasher",
+          "status": "verified",
+          "ocr_raw": "DOMESTIC INSTALLATION\nDrainage\n\nSanitary appliance\n\nDesign units (DU)\n\nSingle branch pipe\n\nwashbasin, bidet\n\n0.5\n\nDN40\n\nshower without plug\n\n0.6\n\nON 50\n\nshower with plug\n\n0.8\n\nDN 50\n\nsingle urinal with flush cistern\n\n0.8\n\nDN 50\n\nsingle urinal with pressure flush\n\n0.5\n0.2\n\nDN 50\n\nurinal without water flushing\n\n0.1\n\nDN 50\n\nbath tub\n\n0.8\n\nkitchen sink and dishwasher'\n\n0.8\n\n26\n\n40\n\n34\n\n50\n\n44\n49\n\nON 50\n\n60\n\n56\n\nDN 50\n\n70\n\n68\n\n80\n\n75\n\n90\n\n79\n\n0.8\n\nDN 50\n\nwashing machine up to 6 kg\n\n0.8\n\nON 50\n\n1.5\n\nMin. internal diameter d;m!o (mm)\n\n30\n\n56\n\ndishwasher\n\nwashing machine up to 12 kg\n\nNominal diameter (ON)\n\nON 50\n\nstanding urinal\n\nPipe sizing\nThe determined dimensions, given as nominal diameters (ON) and\nthe associated minimum internal diameters, are given in ...... e.\n\n100\n\n96\n\n125\n\n113\n\n150\n\n146\n\nON 56/60\n\nWC with 4.0/4.5 I cistern\n\n1.8\n\nON 80/DN 90\n\nWC with 6.0 I cistern/pressure flush\n\n2.0\n\nON 80-DN 100\n\n200\n\n184\n\nWC with 7.5 I cistern/pressure flush\n\n2.0\n\nsee remark in DIN\n\n225\n\n207\n\nWC with 9.0 I cistern/pressure flush\n\n2.5\n\nON 100\n\n250\n\n230\n\n300\n\n290\n\nfloor gully DN 50\n\n0.8\n\nDN 50\n\nfloor gully ON 70\n\n1.5\n\nON 70\n\nfloor gully ON 100\n\n2.0\n\nDN 100\n\ne\n\nNominal diameters (ON) with the relevant minimum internal diameters d1mlo\n(corresponds to Table 1, DIN EN 12056-2)\n\n*with common trap\n\n0\n\nDesign units (DU) to be assumed for various sanitary appliances (Table 4, DIN\n1986-100)\n\nSection of pipework\n\nMinimum fall\n\nunvented branch pipe\n\n1.0%\n\nStandard and section\nDIN EN 12056-2, Table 5\n\nvented branch pipe\n\n0.5%\n\nDIN 1986-100, section 8.3.2.2\nDIN EN 12056-2, Table 8\n\nground and collector pipes\na) for wastewater\n\n0.5%\n\nDIN 1986-100, section 8.3.4.\n\nb) for rainwater (degree of filling\n0.7)\n\n0.5%\n\nDIN 1986-100, section 9.3.5.2\n\nground and collector pipes ON 90\n(lavatory pan with flush volume\n4.5-61)\n\n1.5%\n\nDIN 1986-100, TableA.2\n\nDOMESTIC\nINSTALLATION\nDIN 1986-100, section 9.3.5.2\n\nground pipes for rainwater outside\nthe building (degree of filling 0.7)\nAnti-siphonage pipe\n\nIndirect vent pipe\n\nDirect vent pipe\n\nSecondary\nvent pipe\n\nf) Ventilation systems for wastewater drainage (Wellpott -> refs)\n\nup to DN 200\n\n0.5%t\n\nfrom ON 250\n\n1: ON'\n\n' flow velocity max. 2.5 m/s. Behind a shaft with open flow-through, design can be\nbased on full filling without over-pressure.\n\nC) Minimum falls for pipes, unpressurised drainage\n\n8\n\nA soil and vent stack can be joined together with one common vent pipe at the\n\nuppermost point of the pipework (Wellpott -> refs)\n\nVenting of pipework -t f) + 8\nDrainage systems are still differentiated according to the type\nof venting. The main types are soil and vent stack (single-pipe\nsystem) and soil stack with separate vent pipe. Apart from the\nsoil and vent stack, different systems use anti-siphonage pipes;\nindirect vent pipe; direct vent pipe; secondary venting; and soil\nand vent stack with an additional venting valve. The cross-section\nof a common vent pipe for more than one stack must be at least\nas big as half the sum of the single cross-sections of the single\nstack. The nominal size of a common vent pipe must be at least\none nominal size larger than the largest size of the relevant stack.\n\n523\n\nDrainage\nVentilation\nHeating\nSmall sewage\ntreatment plants\nBS EN 476\nBS 8515\nDIN 1986\nDIN EN 12056\n\n\f"
+        },
+        {
+          "label": "Design units",
+          "value": 0.8,
+          "value_max": null,
+          "unit": "DU",
+          "context": "Washing machine up to 6 kg",
+          "status": "verified",
+          "ocr_raw": "washing machine up to 6 kg\n\n0.8"
+        },
+        {
+          "label": "Design units",
+          "value": 1.5,
+          "value_max": null,
+          "unit": "DU",
+          "context": "Washing machine up to 12 kg",
+          "status": "verified",
+          "ocr_raw": "DOMESTIC INSTALLATION\nDrainage\n\nSanitary appliance\n\nDesign units (DU)\n\nSingle branch pipe\n\nwashbasin, bidet\n\n0.5\n\nDN40\n\nshower without plug\n\n0.6\n\nON 50\n\nshower with plug\n\n0.8\n\nDN 50\n\nsingle urinal with flush cistern\n\n0.8\n\nDN 50\n\nsingle urinal with pressure flush\n\n0.5\n0.2\n\nDN 50\n\nurinal without water flushing\n\n0.1\n\nDN 50\n\nbath tub\n\n0.8\n\nkitchen sink and dishwasher'\n\n0.8\n\n26\n\n40\n\n34\n\n50\n\n44\n49\n\nON 50\n\n60\n\n56\n\nDN 50\n\n70\n\n68\n\n80\n\n75\n\n90\n\n79\n\n0.8\n\nDN 50\n\nwashing machine up to 6 kg\n\n0.8\n\nON 50\n\n1.5\n\nMin. internal diameter d;m!o (mm)\n\n30\n\n56\n\ndishwasher\n\nwashing machine up to 12 kg\n\nNominal diameter (ON)\n\nON 50\n\nstanding urinal\n\nPipe sizing\nThe determined dimensions, given as nominal diameters (ON) and\nthe associated minimum internal diameters, are given in ...... e.\n\n100\n\n96\n\n125\n\n113\n\n150\n\n146\n\nON 56/60\n\nWC with 4.0/4.5 I cistern\n\n1.8\n\nON 80/DN 90\n\nWC with 6.0 I cistern/pressure flush\n\n2.0\n\nON 80-DN 100\n\n200\n\n184\n\nWC with 7.5 I cistern/pressure flush\n\n2.0\n\nsee remark in DIN\n\n225\n\n207\n\nWC with 9.0 I cistern/pressure flush\n\n2.5\n\nON 100\n\n250\n\n230\n\n300\n\n290\n\nfloor gully DN 50\n\n0.8\n\nDN 50\n\nfloor gully ON 70\n\n1.5\n\nON 70\n\nfloor gully ON 100\n\n2.0\n\nDN 100\n\ne\n\nNominal diameters (ON) with the relevant minimum internal diameters d1mlo\n(corresponds to Table 1, DIN EN 12056-2)\n\n*with common trap\n\n0\n\nDesign units (DU) to be assumed for various sanitary appliances (Table 4, DIN\n1986-100)\n\nSection of pipework\n\nMinimum fall\n\nunvented branch pipe\n\n1.0%\n\nStandard and section\nDIN EN 12056-2, Table 5\n\nvented branch pipe\n\n0.5%\n\nDIN 1986-100, section 8.3.2.2\nDIN EN 12056-2, Table 8\n\nground and collector pipes\na) for wastewater\n\n0.5%\n\nDIN 1986-100, section 8.3.4.\n\nb) for rainwater (degree of filling\n0.7)\n\n0.5%\n\nDIN 1986-100, section 9.3.5.2\n\nground and collector pipes ON 90\n(lavatory pan with flush volume\n4.5-61)\n\n1.5%\n\nDIN 1986-100, TableA.2\n\nDOMESTIC\nINSTALLATION\nDIN 1986-100, section 9.3.5.2\n\nground pipes for rainwater outside\nthe building (degree of filling 0.7)\nAnti-siphonage pipe\n\nIndirect vent pipe\n\nDirect vent pipe\n\nSecondary\nvent pipe\n\nf) Ventilation systems for wastewater drainage (Wellpott -> refs)\n\nup to DN 200\n\n0.5%t\n\nfrom ON 250\n\n1: ON'\n\n' flow velocity max. 2.5 m/s. Behind a shaft with open flow-through, design can be\nbased on full filling without over-pressure.\n\nC) Minimum falls for pipes, unpressurised drainage\n\n8\n\nA soil and vent stack can be joined together with one common vent pipe at the\n\nuppermost point of the pipework (Wellpott -> refs)\n\nVenting of pipework -t f) + 8\nDrainage systems are still differentiated according to the type\nof venting. The main types are soil and vent stack (single-pipe\nsystem) and soil stack with separate vent pipe. Apart from the\nsoil and vent stack, different systems use anti-siphonage pipes;\nindirect vent pipe; direct vent pipe; secondary venting; and soil\nand vent stack with an additional venting valve. The cross-section\nof a common vent pipe for more than one stack must be at least\nas big as half the sum of the single cross-sections of the single\nstack. The nominal size of a common vent pipe must be at least\none nominal size larger than the largest size of the relevant stack.\n\n523\n\nDrainage\nVentilation\nHeating\nSmall sewage\ntreatment plants\nBS EN 476\nBS 8515\nDIN 1986\nDIN EN 12056\n\n\f"
+        },
+        {
+          "label": "Design units",
+          "value": 1.8,
+          "value_max": null,
+          "unit": "DU",
+          "context": "WC with 4.0/4.5 l cistern",
+          "status": "verified",
+          "ocr_raw": "DOMESTIC INSTALLATION\nDrainage\n\nSanitary appliance\n\nDesign units (DU)\n\nSingle branch pipe\n\nwashbasin, bidet\n\n0.5\n\nDN40\n\nshower without plug\n\n0.6\n\nON 50\n\nshower with plug\n\n0.8\n\nDN 50\n\nsingle urinal with flush cistern\n\n0.8\n\nDN 50\n\nsingle urinal with pressure flush\n\n0.5\n0.2\n\nDN 50\n\nurinal without water flushing\n\n0.1\n\nDN 50\n\nbath tub\n\n0.8\n\nkitchen sink and dishwasher'\n\n0.8\n\n26\n\n40\n\n34\n\n50\n\n44\n49\n\nON 50\n\n60\n\n56\n\nDN 50\n\n70\n\n68\n\n80\n\n75\n\n90\n\n79\n\n0.8\n\nDN 50\n\nwashing machine up to 6 kg\n\n0.8\n\nON 50\n\n1.5\n\nMin. internal diameter d;m!o (mm)\n\n30\n\n56\n\ndishwasher\n\nwashing machine up to 12 kg\n\nNominal diameter (ON)\n\nON 50\n\nstanding urinal\n\nPipe sizing\nThe determined dimensions, given as nominal diameters (ON) and\nthe associated minimum internal diameters, are given in ...... e.\n\n100\n\n96\n\n125\n\n113\n\n150\n\n146\n\nON 56/60\n\nWC with 4.0/4.5 I cistern\n\n1.8\n\nON 80/DN 90\n\nWC with 6.0 I cistern/pressure flush\n\n2.0\n\nON 80-DN 100\n\n200\n\n184\n\nWC with 7.5 I cistern/pressure flush\n\n2.0\n\nsee remark in DIN\n\n225\n\n207\n\nWC with 9.0 I cistern/pressure flush\n\n2.5\n\nON 100\n\n250\n\n230\n\n300\n\n290\n\nfloor gully DN 50\n\n0.8\n\nDN 50\n\nfloor gully ON 70\n\n1.5\n\nON 70\n\nfloor gully ON 100\n\n2.0\n\nDN 100\n\ne\n\nNominal diameters (ON) with the relevant minimum internal diameters d1mlo\n(corresponds to Table 1, DIN EN 12056-2)\n\n*with common trap\n\n0\n\nDesign units (DU) to be assumed for various sanitary appliances (Table 4, DIN\n1986-100)\n\nSection of pipework\n\nMinimum fall\n\nunvented branch pipe\n\n1.0%\n\nStandard and section\nDIN EN 12056-2, Table 5\n\nvented branch pipe\n\n0.5%\n\nDIN 1986-100, section 8.3.2.2\nDIN EN 12056-2, Table 8\n\nground and collector pipes\na) for wastewater\n\n0.5%\n\nDIN 1986-100, section 8.3.4.\n\nb) for rainwater (degree of filling\n0.7)\n\n0.5%\n\nDIN 1986-100, section 9.3.5.2\n\nground and collector pipes ON 90\n(lavatory pan with flush volume\n4.5-61)\n\n1.5%\n\nDIN 1986-100, TableA.2\n\nDOMESTIC\nINSTALLATION\nDIN 1986-100, section 9.3.5.2\n\nground pipes for rainwater outside\nthe building (degree of filling 0.7)\nAnti-siphonage pipe\n\nIndirect vent pipe\n\nDirect vent pipe\n\nSecondary\nvent pipe\n\nf) Ventilation systems for wastewater drainage (Wellpott -> refs)\n\nup to DN 200\n\n0.5%t\n\nfrom ON 250\n\n1: ON'\n\n' flow velocity max. 2.5 m/s. Behind a shaft with open flow-through, design can be\nbased on full filling without over-pressure.\n\nC) Minimum falls for pipes, unpressurised drainage\n\n8\n\nA soil and vent stack can be joined together with one common vent pipe at the\n\nuppermost point of the pipework (Wellpott -> refs)\n\nVenting of pipework -t f) + 8\nDrainage systems are still differentiated according to the type\nof venting. The main types are soil and vent stack (single-pipe\nsystem) and soil stack with separate vent pipe. Apart from the\nsoil and vent stack, different systems use anti-siphonage pipes;\nindirect vent pipe; direct vent pipe; secondary venting; and soil\nand vent stack with an additional venting valve. The cross-section\nof a common vent pipe for more than one stack must be at least\nas big as half the sum of the single cross-sections of the single\nstack. The nominal size of a common vent pipe must be at least\none nominal size larger than the largest size of the relevant stack.\n\n523\n\nDrainage\nVentilation\nHeating\nSmall sewage\ntreatment plants\nBS EN 476\nBS 8515\nDIN 1986\nDIN EN 12056\n\n\f"
+        },
+        {
+          "label": "Design units",
+          "value": 2.0,
+          "value_max": null,
+          "unit": "DU",
+          "context": "WC with 6.0 l cistern or pressure flush",
+          "status": "verified",
+          "ocr_raw": "DOMESTIC INSTALLATION\nDrainage\n\nSanitary appliance\n\nDesign units (DU)\n\nSingle branch pipe\n\nwashbasin, bidet\n\n0.5\n\nDN40\n\nshower without plug\n\n0.6\n\nON 50\n\nshower with plug\n\n0.8\n\nDN 50\n\nsingle urinal with flush cistern\n\n0.8\n\nDN 50\n\nsingle urinal with pressure flush\n\n0.5\n0.2\n\nDN 50\n\nurinal without water flushing\n\n0.1\n\nDN 50\n\nbath tub\n\n0.8\n\nkitchen sink and dishwasher'\n\n0.8\n\n26\n\n40\n\n34\n\n50\n\n44\n49\n\nON 50\n\n60\n\n56\n\nDN 50\n\n70\n\n68\n\n80\n\n75\n\n90\n\n79\n\n0.8\n\nDN 50\n\nwashing machine up to 6 kg\n\n0.8\n\nON 50\n\n1.5\n\nMin. internal diameter d;m!o (mm)\n\n30\n\n56\n\ndishwasher\n\nwashing machine up to 12 kg\n\nNominal diameter (ON)\n\nON 50\n\nstanding urinal\n\nPipe sizing\nThe determined dimensions, given as nominal diameters (ON) and\nthe associated minimum internal diameters, are given in ...... e.\n\n100\n\n96\n\n125\n\n113\n\n150\n\n146\n\nON 56/60\n\nWC with 4.0/4.5 I cistern\n\n1.8\n\nON 80/DN 90\n\nWC with 6.0 I cistern/pressure flush\n\n2.0\n\nON 80-DN 100\n\n200\n\n184\n\nWC with 7.5 I cistern/pressure flush\n\n2.0\n\nsee remark in DIN\n\n225\n\n207\n\nWC with 9.0 I cistern/pressure flush\n\n2.5\n\nON 100\n\n250\n\n230\n\n300\n\n290\n\nfloor gully DN 50\n\n0.8\n\nDN 50\n\nfloor gully ON 70\n\n1.5\n\nON 70\n\nfloor gully ON 100\n\n2.0\n\nDN 100\n\ne\n\nNominal diameters (ON) with the relevant minimum internal diameters d1mlo\n(corresponds to Table 1, DIN EN 12056-2)\n\n*with common trap\n\n0\n\nDesign units (DU) to be assumed for various sanitary appliances (Table 4, DIN\n1986-100)\n\nSection of pipework\n\nMinimum fall\n\nunvented branch pipe\n\n1.0%\n\nStandard and section\nDIN EN 12056-2, Table 5\n\nvented branch pipe\n\n0.5%\n\nDIN 1986-100, section 8.3.2.2\nDIN EN 12056-2, Table 8\n\nground and collector pipes\na) for wastewater\n\n0.5%\n\nDIN 1986-100, section 8.3.4.\n\nb) for rainwater (degree of filling\n0.7)\n\n0.5%\n\nDIN 1986-100, section 9.3.5.2\n\nground and collector pipes ON 90\n(lavatory pan with flush volume\n4.5-61)\n\n1.5%\n\nDIN 1986-100, TableA.2\n\nDOMESTIC\nINSTALLATION\nDIN 1986-100, section 9.3.5.2\n\nground pipes for rainwater outside\nthe building (degree of filling 0.7)\nAnti-siphonage pipe\n\nIndirect vent pipe\n\nDirect vent pipe\n\nSecondary\nvent pipe\n\nf) Ventilation systems for wastewater drainage (Wellpott -> refs)\n\nup to DN 200\n\n0.5%t\n\nfrom ON 250\n\n1: ON'\n\n' flow velocity max. 2.5 m/s. Behind a shaft with open flow-through, design can be\nbased on full filling without over-pressure.\n\nC) Minimum falls for pipes, unpressurised drainage\n\n8\n\nA soil and vent stack can be joined together with one common vent pipe at the\n\nuppermost point of the pipework (Wellpott -> refs)\n\nVenting of pipework -t f) + 8\nDrainage systems are still differentiated according to the type\nof venting. The main types are soil and vent stack (single-pipe\nsystem) and soil stack with separate vent pipe. Apart from the\nsoil and vent stack, different systems use anti-siphonage pipes;\nindirect vent pipe; direct vent pipe; secondary venting; and soil\nand vent stack with an additional venting valve. The cross-section\nof a common vent pipe for more than one stack must be at least\nas big as half the sum of the single cross-sections of the single\nstack. The nominal size of a common vent pipe must be at least\none nominal size larger than the largest size of the relevant stack.\n\n523\n\nDrainage\nVentilation\nHeating\nSmall sewage\ntreatment plants\nBS EN 476\nBS 8515\nDIN 1986\nDIN EN 12056\n\n\f"
+        },
+        {
+          "label": "Design units",
+          "value": 2.0,
+          "value_max": null,
+          "unit": "DU",
+          "context": "WC with 7.5 l cistern or pressure flush",
+          "status": "verified",
+          "ocr_raw": "DOMESTIC INSTALLATION\nDrainage\n\nSanitary appliance\n\nDesign units (DU)\n\nSingle branch pipe\n\nwashbasin, bidet\n\n0.5\n\nDN40\n\nshower without plug\n\n0.6\n\nON 50\n\nshower with plug\n\n0.8\n\nDN 50\n\nsingle urinal with flush cistern\n\n0.8\n\nDN 50\n\nsingle urinal with pressure flush\n\n0.5\n0.2\n\nDN 50\n\nurinal without water flushing\n\n0.1\n\nDN 50\n\nbath tub\n\n0.8\n\nkitchen sink and dishwasher'\n\n0.8\n\n26\n\n40\n\n34\n\n50\n\n44\n49\n\nON 50\n\n60\n\n56\n\nDN 50\n\n70\n\n68\n\n80\n\n75\n\n90\n\n79\n\n0.8\n\nDN 50\n\nwashing machine up to 6 kg\n\n0.8\n\nON 50\n\n1.5\n\nMin. internal diameter d;m!o (mm)\n\n30\n\n56\n\ndishwasher\n\nwashing machine up to 12 kg\n\nNominal diameter (ON)\n\nON 50\n\nstanding urinal\n\nPipe sizing\nThe determined dimensions, given as nominal diameters (ON) and\nthe associated minimum internal diameters, are given in ...... e.\n\n100\n\n96\n\n125\n\n113\n\n150\n\n146\n\nON 56/60\n\nWC with 4.0/4.5 I cistern\n\n1.8\n\nON 80/DN 90\n\nWC with 6.0 I cistern/pressure flush\n\n2.0\n\nON 80-DN 100\n\n200\n\n184\n\nWC with 7.5 I cistern/pressure flush\n\n2.0\n\nsee remark in DIN\n\n225\n\n207\n\nWC with 9.0 I cistern/pressure flush\n\n2.5\n\nON 100\n\n250\n\n230\n\n300\n\n290\n\nfloor gully DN 50\n\n0.8\n\nDN 50\n\nfloor gully ON 70\n\n1.5\n\nON 70\n\nfloor gully ON 100\n\n2.0\n\nDN 100\n\ne\n\nNominal diameters (ON) with the relevant minimum internal diameters d1mlo\n(corresponds to Table 1, DIN EN 12056-2)\n\n*with common trap\n\n0\n\nDesign units (DU) to be assumed for various sanitary appliances (Table 4, DIN\n1986-100)\n\nSection of pipework\n\nMinimum fall\n\nunvented branch pipe\n\n1.0%\n\nStandard and section\nDIN EN 12056-2, Table 5\n\nvented branch pipe\n\n0.5%\n\nDIN 1986-100, section 8.3.2.2\nDIN EN 12056-2, Table 8\n\nground and collector pipes\na) for wastewater\n\n0.5%\n\nDIN 1986-100, section 8.3.4.\n\nb) for rainwater (degree of filling\n0.7)\n\n0.5%\n\nDIN 1986-100, section 9.3.5.2\n\nground and collector pipes ON 90\n(lavatory pan with flush volume\n4.5-61)\n\n1.5%\n\nDIN 1986-100, TableA.2\n\nDOMESTIC\nINSTALLATION\nDIN 1986-100, section 9.3.5.2\n\nground pipes for rainwater outside\nthe building (degree of filling 0.7)\nAnti-siphonage pipe\n\nIndirect vent pipe\n\nDirect vent pipe\n\nSecondary\nvent pipe\n\nf) Ventilation systems for wastewater drainage (Wellpott -> refs)\n\nup to DN 200\n\n0.5%t\n\nfrom ON 250\n\n1: ON'\n\n' flow velocity max. 2.5 m/s. Behind a shaft with open flow-through, design can be\nbased on full filling without over-pressure.\n\nC) Minimum falls for pipes, unpressurised drainage\n\n8\n\nA soil and vent stack can be joined together with one common vent pipe at the\n\nuppermost point of the pipework (Wellpott -> refs)\n\nVenting of pipework -t f) + 8\nDrainage systems are still differentiated according to the type\nof venting. The main types are soil and vent stack (single-pipe\nsystem) and soil stack with separate vent pipe. Apart from the\nsoil and vent stack, different systems use anti-siphonage pipes;\nindirect vent pipe; direct vent pipe; secondary venting; and soil\nand vent stack with an additional venting valve. The cross-section\nof a common vent pipe for more than one stack must be at least\nas big as half the sum of the single cross-sections of the single\nstack. The nominal size of a common vent pipe must be at least\none nominal size larger than the largest size of the relevant stack.\n\n523\n\nDrainage\nVentilation\nHeating\nSmall sewage\ntreatment plants\nBS EN 476\nBS 8515\nDIN 1986\nDIN EN 12056\n\n\f"
+        },
+        {
+          "label": "Design units",
+          "value": 2.5,
+          "value_max": null,
+          "unit": "DU",
+          "context": "WC with 9.0 l cistern or pressure flush",
+          "status": "verified",
+          "ocr_raw": "DOMESTIC INSTALLATION\nDrainage\n\nSanitary appliance\n\nDesign units (DU)\n\nSingle branch pipe\n\nwashbasin, bidet\n\n0.5\n\nDN40\n\nshower without plug\n\n0.6\n\nON 50\n\nshower with plug\n\n0.8\n\nDN 50\n\nsingle urinal with flush cistern\n\n0.8\n\nDN 50\n\nsingle urinal with pressure flush\n\n0.5\n0.2\n\nDN 50\n\nurinal without water flushing\n\n0.1\n\nDN 50\n\nbath tub\n\n0.8\n\nkitchen sink and dishwasher'\n\n0.8\n\n26\n\n40\n\n34\n\n50\n\n44\n49\n\nON 50\n\n60\n\n56\n\nDN 50\n\n70\n\n68\n\n80\n\n75\n\n90\n\n79\n\n0.8\n\nDN 50\n\nwashing machine up to 6 kg\n\n0.8\n\nON 50\n\n1.5\n\nMin. internal diameter d;m!o (mm)\n\n30\n\n56\n\ndishwasher\n\nwashing machine up to 12 kg\n\nNominal diameter (ON)\n\nON 50\n\nstanding urinal\n\nPipe sizing\nThe determined dimensions, given as nominal diameters (ON) and\nthe associated minimum internal diameters, are given in ...... e.\n\n100\n\n96\n\n125\n\n113\n\n150\n\n146\n\nON 56/60\n\nWC with 4.0/4.5 I cistern\n\n1.8\n\nON 80/DN 90\n\nWC with 6.0 I cistern/pressure flush\n\n2.0\n\nON 80-DN 100\n\n200\n\n184\n\nWC with 7.5 I cistern/pressure flush\n\n2.0\n\nsee remark in DIN\n\n225\n\n207\n\nWC with 9.0 I cistern/pressure flush\n\n2.5\n\nON 100\n\n250\n\n230\n\n300\n\n290\n\nfloor gully DN 50\n\n0.8\n\nDN 50\n\nfloor gully ON 70\n\n1.5\n\nON 70\n\nfloor gully ON 100\n\n2.0\n\nDN 100\n\ne\n\nNominal diameters (ON) with the relevant minimum internal diameters d1mlo\n(corresponds to Table 1, DIN EN 12056-2)\n\n*with common trap\n\n0\n\nDesign units (DU) to be assumed for various sanitary appliances (Table 4, DIN\n1986-100)\n\nSection of pipework\n\nMinimum fall\n\nunvented branch pipe\n\n1.0%\n\nStandard and section\nDIN EN 12056-2, Table 5\n\nvented branch pipe\n\n0.5%\n\nDIN 1986-100, section 8.3.2.2\nDIN EN 12056-2, Table 8\n\nground and collector pipes\na) for wastewater\n\n0.5%\n\nDIN 1986-100, section 8.3.4.\n\nb) for rainwater (degree of filling\n0.7)\n\n0.5%\n\nDIN 1986-100, section 9.3.5.2\n\nground and collector pipes ON 90\n(lavatory pan with flush volume\n4.5-61)\n\n1.5%\n\nDIN 1986-100, TableA.2\n\nDOMESTIC\nINSTALLATION\nDIN 1986-100, section 9.3.5.2\n\nground pipes for rainwater outside\nthe building (degree of filling 0.7)\nAnti-siphonage pipe\n\nIndirect vent pipe\n\nDirect vent pipe\n\nSecondary\nvent pipe\n\nf) Ventilation systems for wastewater drainage (Wellpott -> refs)\n\nup to DN 200\n\n0.5%t\n\nfrom ON 250\n\n1: ON'\n\n' flow velocity max. 2.5 m/s. Behind a shaft with open flow-through, design can be\nbased on full filling without over-pressure.\n\nC) Minimum falls for pipes, unpressurised drainage\n\n8\n\nA soil and vent stack can be joined together with one common vent pipe at the\n\nuppermost point of the pipework (Wellpott -> refs)\n\nVenting of pipework -t f) + 8\nDrainage systems are still differentiated according to the type\nof venting. The main types are soil and vent stack (single-pipe\nsystem) and soil stack with separate vent pipe. Apart from the\nsoil and vent stack, different systems use anti-siphonage pipes;\nindirect vent pipe; direct vent pipe; secondary venting; and soil\nand vent stack with an additional venting valve. The cross-section\nof a common vent pipe for more than one stack must be at least\nas big as half the sum of the single cross-sections of the single\nstack. The nominal size of a common vent pipe must be at least\none nominal size larger than the largest size of the relevant stack.\n\n523\n\nDrainage\nVentilation\nHeating\nSmall sewage\ntreatment plants\nBS EN 476\nBS 8515\nDIN 1986\nDIN EN 12056\n\n\f"
+        },
+        {
+          "label": "Design units",
+          "value": 0.8,
+          "value_max": null,
+          "unit": "DU",
+          "context": "Floor gully DN 50",
+          "status": "verified",
+          "ocr_raw": "floor gully DN 50\n\n0.8"
+        },
+        {
+          "label": "Design units",
+          "value": 1.5,
+          "value_max": null,
+          "unit": "DU",
+          "context": "Floor gully DN 70",
+          "status": "verified",
+          "ocr_raw": "DOMESTIC INSTALLATION\nDrainage\n\nSanitary appliance\n\nDesign units (DU)\n\nSingle branch pipe\n\nwashbasin, bidet\n\n0.5\n\nDN40\n\nshower without plug\n\n0.6\n\nON 50\n\nshower with plug\n\n0.8\n\nDN 50\n\nsingle urinal with flush cistern\n\n0.8\n\nDN 50\n\nsingle urinal with pressure flush\n\n0.5\n0.2\n\nDN 50\n\nurinal without water flushing\n\n0.1\n\nDN 50\n\nbath tub\n\n0.8\n\nkitchen sink and dishwasher'\n\n0.8\n\n26\n\n40\n\n34\n\n50\n\n44\n49\n\nON 50\n\n60\n\n56\n\nDN 50\n\n70\n\n68\n\n80\n\n75\n\n90\n\n79\n\n0.8\n\nDN 50\n\nwashing machine up to 6 kg\n\n0.8\n\nON 50\n\n1.5\n\nMin. internal diameter d;m!o (mm)\n\n30\n\n56\n\ndishwasher\n\nwashing machine up to 12 kg\n\nNominal diameter (ON)\n\nON 50\n\nstanding urinal\n\nPipe sizing\nThe determined dimensions, given as nominal diameters (ON) and\nthe associated minimum internal diameters, are given in ...... e.\n\n100\n\n96\n\n125\n\n113\n\n150\n\n146\n\nON 56/60\n\nWC with 4.0/4.5 I cistern\n\n1.8\n\nON 80/DN 90\n\nWC with 6.0 I cistern/pressure flush\n\n2.0\n\nON 80-DN 100\n\n200\n\n184\n\nWC with 7.5 I cistern/pressure flush\n\n2.0\n\nsee remark in DIN\n\n225\n\n207\n\nWC with 9.0 I cistern/pressure flush\n\n2.5\n\nON 100\n\n250\n\n230\n\n300\n\n290\n\nfloor gully DN 50\n\n0.8\n\nDN 50\n\nfloor gully ON 70\n\n1.5\n\nON 70\n\nfloor gully ON 100\n\n2.0\n\nDN 100\n\ne\n\nNominal diameters (ON) with the relevant minimum internal diameters d1mlo\n(corresponds to Table 1, DIN EN 12056-2)\n\n*with common trap\n\n0\n\nDesign units (DU) to be assumed for various sanitary appliances (Table 4, DIN\n1986-100)\n\nSection of pipework\n\nMinimum fall\n\nunvented branch pipe\n\n1.0%\n\nStandard and section\nDIN EN 12056-2, Table 5\n\nvented branch pipe\n\n0.5%\n\nDIN 1986-100, section 8.3.2.2\nDIN EN 12056-2, Table 8\n\nground and collector pipes\na) for wastewater\n\n0.5%\n\nDIN 1986-100, section 8.3.4.\n\nb) for rainwater (degree of filling\n0.7)\n\n0.5%\n\nDIN 1986-100, section 9.3.5.2\n\nground and collector pipes ON 90\n(lavatory pan with flush volume\n4.5-61)\n\n1.5%\n\nDIN 1986-100, TableA.2\n\nDOMESTIC\nINSTALLATION\nDIN 1986-100, section 9.3.5.2\n\nground pipes for rainwater outside\nthe building (degree of filling 0.7)\nAnti-siphonage pipe\n\nIndirect vent pipe\n\nDirect vent pipe\n\nSecondary\nvent pipe\n\nf) Ventilation systems for wastewater drainage (Wellpott -> refs)\n\nup to DN 200\n\n0.5%t\n\nfrom ON 250\n\n1: ON'\n\n' flow velocity max. 2.5 m/s. Behind a shaft with open flow-through, design can be\nbased on full filling without over-pressure.\n\nC) Minimum falls for pipes, unpressurised drainage\n\n8\n\nA soil and vent stack can be joined together with one common vent pipe at the\n\nuppermost point of the pipework (Wellpott -> refs)\n\nVenting of pipework -t f) + 8\nDrainage systems are still differentiated according to the type\nof venting. The main types are soil and vent stack (single-pipe\nsystem) and soil stack with separate vent pipe. Apart from the\nsoil and vent stack, different systems use anti-siphonage pipes;\nindirect vent pipe; direct vent pipe; secondary venting; and soil\nand vent stack with an additional venting valve. The cross-section\nof a common vent pipe for more than one stack must be at least\nas big as half the sum of the single cross-sections of the single\nstack. The nominal size of a common vent pipe must be at least\none nominal size larger than the largest size of the relevant stack.\n\n523\n\nDrainage\nVentilation\nHeating\nSmall sewage\ntreatment plants\nBS EN 476\nBS 8515\nDIN 1986\nDIN EN 12056\n\n\f"
+        },
+        {
+          "label": "Design units",
+          "value": 2.0,
+          "value_max": null,
+          "unit": "DU",
+          "context": "Floor gully DN 100",
+          "status": "verified",
+          "ocr_raw": "DOMESTIC INSTALLATION\nDrainage\n\nSanitary appliance\n\nDesign units (DU)\n\nSingle branch pipe\n\nwashbasin, bidet\n\n0.5\n\nDN40\n\nshower without plug\n\n0.6\n\nON 50\n\nshower with plug\n\n0.8\n\nDN 50\n\nsingle urinal with flush cistern\n\n0.8\n\nDN 50\n\nsingle urinal with pressure flush\n\n0.5\n0.2\n\nDN 50\n\nurinal without water flushing\n\n0.1\n\nDN 50\n\nbath tub\n\n0.8\n\nkitchen sink and dishwasher'\n\n0.8\n\n26\n\n40\n\n34\n\n50\n\n44\n49\n\nON 50\n\n60\n\n56\n\nDN 50\n\n70\n\n68\n\n80\n\n75\n\n90\n\n79\n\n0.8\n\nDN 50\n\nwashing machine up to 6 kg\n\n0.8\n\nON 50\n\n1.5\n\nMin. internal diameter d;m!o (mm)\n\n30\n\n56\n\ndishwasher\n\nwashing machine up to 12 kg\n\nNominal diameter (ON)\n\nON 50\n\nstanding urinal\n\nPipe sizing\nThe determined dimensions, given as nominal diameters (ON) and\nthe associated minimum internal diameters, are given in ...... e.\n\n100\n\n96\n\n125\n\n113\n\n150\n\n146\n\nON 56/60\n\nWC with 4.0/4.5 I cistern\n\n1.8\n\nON 80/DN 90\n\nWC with 6.0 I cistern/pressure flush\n\n2.0\n\nON 80-DN 100\n\n200\n\n184\n\nWC with 7.5 I cistern/pressure flush\n\n2.0\n\nsee remark in DIN\n\n225\n\n207\n\nWC with 9.0 I cistern/pressure flush\n\n2.5\n\nON 100\n\n250\n\n230\n\n300\n\n290\n\nfloor gully DN 50\n\n0.8\n\nDN 50\n\nfloor gully ON 70\n\n1.5\n\nON 70\n\nfloor gully ON 100\n\n2.0\n\nDN 100\n\ne\n\nNominal diameters (ON) with the relevant minimum internal diameters d1mlo\n(corresponds to Table 1, DIN EN 12056-2)\n\n*with common trap\n\n0\n\nDesign units (DU) to be assumed for various sanitary appliances (Table 4, DIN\n1986-100)\n\nSection of pipework\n\nMinimum fall\n\nunvented branch pipe\n\n1.0%\n\nStandard and section\nDIN EN 12056-2, Table 5\n\nvented branch pipe\n\n0.5%\n\nDIN 1986-100, section 8.3.2.2\nDIN EN 12056-2, Table 8\n\nground and collector pipes\na) for wastewater\n\n0.5%\n\nDIN 1986-100, section 8.3.4.\n\nb) for rainwater (degree of filling\n0.7)\n\n0.5%\n\nDIN 1986-100, section 9.3.5.2\n\nground and collector pipes ON 90\n(lavatory pan with flush volume\n4.5-61)\n\n1.5%\n\nDIN 1986-100, TableA.2\n\nDOMESTIC\nINSTALLATION\nDIN 1986-100, section 9.3.5.2\n\nground pipes for rainwater outside\nthe building (degree of filling 0.7)\nAnti-siphonage pipe\n\nIndirect vent pipe\n\nDirect vent pipe\n\nSecondary\nvent pipe\n\nf) Ventilation systems for wastewater drainage (Wellpott -> refs)\n\nup to DN 200\n\n0.5%t\n\nfrom ON 250\n\n1: ON'\n\n' flow velocity max. 2.5 m/s. Behind a shaft with open flow-through, design can be\nbased on full filling without over-pressure.\n\nC) Minimum falls for pipes, unpressurised drainage\n\n8\n\nA soil and vent stack can be joined together with one common vent pipe at the\n\nuppermost point of the pipework (Wellpott -> refs)\n\nVenting of pipework -t f) + 8\nDrainage systems are still differentiated according to the type\nof venting. The main types are soil and vent stack (single-pipe\nsystem) and soil stack with separate vent pipe. Apart from the\nsoil and vent stack, different systems use anti-siphonage pipes;\nindirect vent pipe; direct vent pipe; secondary venting; and soil\nand vent stack with an additional venting valve. The cross-section\nof a common vent pipe for more than one stack must be at least\nas big as half the sum of the single cross-sections of the single\nstack. The nominal size of a common vent pipe must be at least\none nominal size larger than the largest size of the relevant stack.\n\n523\n\nDrainage\nVentilation\nHeating\nSmall sewage\ntreatment plants\nBS EN 476\nBS 8515\nDIN 1986\nDIN EN 12056\n\n\f"
+        }
+      ],
+      "figure_refs": [
+        "1"
+      ],
+      "cross_refs": [
+        "Table 4, DIN 1986-100"
+      ],
+      "keywords": [
+        "drainage",
+        "design units",
+        "sanitary appliances",
+        "branch pipe"
+      ],
+      "tags_architectural": [
+        "safety"
+      ],
+      "confidence": 0.99
+    },
+    {
+      "id": "4122fb96e4bd1976-536-vision-1",
+      "pdf_page": 536,
+      "book_page": 523,
+      "chapter": "BUILDING SERVICES",
+      "section": "Domestic Installation",
+      "title": "Drainage pipe nominal and minimum internal diameters",
+      "summary": "Reference table pairs nominal pipe diameters (DN) with their minimum internal diameters. The text directs readers to the corresponding standards table.",
+      "building_type": "Domestic buildings",
+      "spaces": [
+        "Drainage system"
+      ],
+      "uses": [
+        "Select nominal diameters and check minimum internal diameters for drainage pipes"
+      ],
+      "furniture_equipment": [
+        "Drainage pipes"
+      ],
+      "dimensions": [
+        {
+          "label": "Minimum internal diameter",
+          "value": 26.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Nominal diameter DN 30",
+          "status": "verified",
+          "ocr_raw": "DOMESTIC INSTALLATION\nDrainage\n\nSanitary appliance\n\nDesign units (DU)\n\nSingle branch pipe\n\nwashbasin, bidet\n\n0.5\n\nDN40\n\nshower without plug\n\n0.6\n\nON 50\n\nshower with plug\n\n0.8\n\nDN 50\n\nsingle urinal with flush cistern\n\n0.8\n\nDN 50\n\nsingle urinal with pressure flush\n\n0.5\n0.2\n\nDN 50\n\nurinal without water flushing\n\n0.1\n\nDN 50\n\nbath tub\n\n0.8\n\nkitchen sink and dishwasher'\n\n0.8\n\n26\n\n40\n\n34\n\n50\n\n44\n49\n\nON 50\n\n60\n\n56\n\nDN 50\n\n70\n\n68\n\n80\n\n75\n\n90\n\n79\n\n0.8\n\nDN 50\n\nwashing machine up to 6 kg\n\n0.8\n\nON 50\n\n1.5\n\nMin. internal diameter d;m!o (mm)\n\n30\n\n56\n\ndishwasher\n\nwashing machine up to 12 kg\n\nNominal diameter (ON)\n\nON 50\n\nstanding urinal\n\nPipe sizing\nThe determined dimensions, given as nominal diameters (ON) and\nthe associated minimum internal diameters, are given in ...... e.\n\n100\n\n96\n\n125\n\n113\n\n150\n\n146\n\nON 56/60\n\nWC with 4.0/4.5 I cistern\n\n1.8\n\nON 80/DN 90\n\nWC with 6.0 I cistern/pressure flush\n\n2.0\n\nON 80-DN 100\n\n200\n\n184\n\nWC with 7.5 I cistern/pressure flush\n\n2.0\n\nsee remark in DIN\n\n225\n\n207\n\nWC with 9.0 I cistern/pressure flush\n\n2.5\n\nON 100\n\n250\n\n230\n\n300\n\n290\n\nfloor gully DN 50\n\n0.8\n\nDN 50\n\nfloor gully ON 70\n\n1.5\n\nON 70\n\nfloor gully ON 100\n\n2.0\n\nDN 100\n\ne\n\nNominal diameters (ON) with the relevant minimum internal diameters d1mlo\n(corresponds to Table 1, DIN EN 12056-2)\n\n*with common trap\n\n0\n\nDesign units (DU) to be assumed for various sanitary appliances (Table 4, DIN\n1986-100)\n\nSection of pipework\n\nMinimum fall\n\nunvented branch pipe\n\n1.0%\n\nStandard and section\nDIN EN 12056-2, Table 5\n\nvented branch pipe\n\n0.5%\n\nDIN 1986-100, section 8.3.2.2\nDIN EN 12056-2, Table 8\n\nground and collector pipes\na) for wastewater\n\n0.5%\n\nDIN 1986-100, section 8.3.4.\n\nb) for rainwater (degree of filling\n0.7)\n\n0.5%\n\nDIN 1986-100, section 9.3.5.2\n\nground and collector pipes ON 90\n(lavatory pan with flush volume\n4.5-61)\n\n1.5%\n\nDIN 1986-100, TableA.2\n\nDOMESTIC\nINSTALLATION\nDIN 1986-100, section 9.3.5.2\n\nground pipes for rainwater outside\nthe building (degree of filling 0.7)\nAnti-siphonage pipe\n\nIndirect vent pipe\n\nDirect vent pipe\n\nSecondary\nvent pipe\n\nf) Ventilation systems for wastewater drainage (Wellpott -> refs)\n\nup to DN 200\n\n0.5%t\n\nfrom ON 250\n\n1: ON'\n\n' flow velocity max. 2.5 m/s. Behind a shaft with open flow-through, design can be\nbased on full filling without over-pressure.\n\nC) Minimum falls for pipes, unpressurised drainage\n\n8\n\nA soil and vent stack can be joined together with one common vent pipe at the\n\nuppermost point of the pipework (Wellpott -> refs)\n\nVenting of pipework -t f) + 8\nDrainage systems are still differentiated according to the type\nof venting. The main types are soil and vent stack (single-pipe\nsystem) and soil stack with separate vent pipe. Apart from the\nsoil and vent stack, different systems use anti-siphonage pipes;\nindirect vent pipe; direct vent pipe; secondary venting; and soil\nand vent stack with an additional venting valve. The cross-section\nof a common vent pipe for more than one stack must be at least\nas big as half the sum of the single cross-sections of the single\nstack. The nominal size of a common vent pipe must be at least\none nominal size larger than the largest size of the relevant stack.\n\n523\n\nDrainage\nVentilation\nHeating\nSmall sewage\ntreatment plants\nBS EN 476\nBS 8515\nDIN 1986\nDIN EN 12056\n\n\f"
+        },
+        {
+          "label": "Minimum internal diameter",
+          "value": 34.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Nominal diameter DN 40",
+          "status": "verified",
+          "ocr_raw": "40\n\n34"
+        },
+        {
+          "label": "Minimum internal diameter",
+          "value": 44.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Nominal diameter DN 50",
+          "status": "verified",
+          "ocr_raw": "50\n\n44"
+        },
+        {
+          "label": "Minimum internal diameter",
+          "value": 49.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Nominal diameter DN 56",
+          "status": "verified",
+          "ocr_raw": "DOMESTIC INSTALLATION\nDrainage\n\nSanitary appliance\n\nDesign units (DU)\n\nSingle branch pipe\n\nwashbasin, bidet\n\n0.5\n\nDN40\n\nshower without plug\n\n0.6\n\nON 50\n\nshower with plug\n\n0.8\n\nDN 50\n\nsingle urinal with flush cistern\n\n0.8\n\nDN 50\n\nsingle urinal with pressure flush\n\n0.5\n0.2\n\nDN 50\n\nurinal without water flushing\n\n0.1\n\nDN 50\n\nbath tub\n\n0.8\n\nkitchen sink and dishwasher'\n\n0.8\n\n26\n\n40\n\n34\n\n50\n\n44\n49\n\nON 50\n\n60\n\n56\n\nDN 50\n\n70\n\n68\n\n80\n\n75\n\n90\n\n79\n\n0.8\n\nDN 50\n\nwashing machine up to 6 kg\n\n0.8\n\nON 50\n\n1.5\n\nMin. internal diameter d;m!o (mm)\n\n30\n\n56\n\ndishwasher\n\nwashing machine up to 12 kg\n\nNominal diameter (ON)\n\nON 50\n\nstanding urinal\n\nPipe sizing\nThe determined dimensions, given as nominal diameters (ON) and\nthe associated minimum internal diameters, are given in ...... e.\n\n100\n\n96\n\n125\n\n113\n\n150\n\n146\n\nON 56/60\n\nWC with 4.0/4.5 I cistern\n\n1.8\n\nON 80/DN 90\n\nWC with 6.0 I cistern/pressure flush\n\n2.0\n\nON 80-DN 100\n\n200\n\n184\n\nWC with 7.5 I cistern/pressure flush\n\n2.0\n\nsee remark in DIN\n\n225\n\n207\n\nWC with 9.0 I cistern/pressure flush\n\n2.5\n\nON 100\n\n250\n\n230\n\n300\n\n290\n\nfloor gully DN 50\n\n0.8\n\nDN 50\n\nfloor gully ON 70\n\n1.5\n\nON 70\n\nfloor gully ON 100\n\n2.0\n\nDN 100\n\ne\n\nNominal diameters (ON) with the relevant minimum internal diameters d1mlo\n(corresponds to Table 1, DIN EN 12056-2)\n\n*with common trap\n\n0\n\nDesign units (DU) to be assumed for various sanitary appliances (Table 4, DIN\n1986-100)\n\nSection of pipework\n\nMinimum fall\n\nunvented branch pipe\n\n1.0%\n\nStandard and section\nDIN EN 12056-2, Table 5\n\nvented branch pipe\n\n0.5%\n\nDIN 1986-100, section 8.3.2.2\nDIN EN 12056-2, Table 8\n\nground and collector pipes\na) for wastewater\n\n0.5%\n\nDIN 1986-100, section 8.3.4.\n\nb) for rainwater (degree of filling\n0.7)\n\n0.5%\n\nDIN 1986-100, section 9.3.5.2\n\nground and collector pipes ON 90\n(lavatory pan with flush volume\n4.5-61)\n\n1.5%\n\nDIN 1986-100, TableA.2\n\nDOMESTIC\nINSTALLATION\nDIN 1986-100, section 9.3.5.2\n\nground pipes for rainwater outside\nthe building (degree of filling 0.7)\nAnti-siphonage pipe\n\nIndirect vent pipe\n\nDirect vent pipe\n\nSecondary\nvent pipe\n\nf) Ventilation systems for wastewater drainage (Wellpott -> refs)\n\nup to DN 200\n\n0.5%t\n\nfrom ON 250\n\n1: ON'\n\n' flow velocity max. 2.5 m/s. Behind a shaft with open flow-through, design can be\nbased on full filling without over-pressure.\n\nC) Minimum falls for pipes, unpressurised drainage\n\n8\n\nA soil and vent stack can be joined together with one common vent pipe at the\n\nuppermost point of the pipework (Wellpott -> refs)\n\nVenting of pipework -t f) + 8\nDrainage systems are still differentiated according to the type\nof venting. The main types are soil and vent stack (single-pipe\nsystem) and soil stack with separate vent pipe. Apart from the\nsoil and vent stack, different systems use anti-siphonage pipes;\nindirect vent pipe; direct vent pipe; secondary venting; and soil\nand vent stack with an additional venting valve. The cross-section\nof a common vent pipe for more than one stack must be at least\nas big as half the sum of the single cross-sections of the single\nstack. The nominal size of a common vent pipe must be at least\none nominal size larger than the largest size of the relevant stack.\n\n523\n\nDrainage\nVentilation\nHeating\nSmall sewage\ntreatment plants\nBS EN 476\nBS 8515\nDIN 1986\nDIN EN 12056\n\n\f"
+        },
+        {
+          "label": "Minimum internal diameter",
+          "value": 56.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Nominal diameter DN 60",
+          "status": "verified",
+          "ocr_raw": "60\n\n56"
+        },
+        {
+          "label": "Minimum internal diameter",
+          "value": 68.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Nominal diameter DN 70",
+          "status": "verified",
+          "ocr_raw": "70\n\n68"
+        },
+        {
+          "label": "Minimum internal diameter",
+          "value": 75.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Nominal diameter DN 80",
+          "status": "verified",
+          "ocr_raw": "80\n\n75"
+        },
+        {
+          "label": "Minimum internal diameter",
+          "value": 79.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Nominal diameter DN 90",
+          "status": "verified",
+          "ocr_raw": "90\n\n79"
+        },
+        {
+          "label": "Minimum internal diameter",
+          "value": 96.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Nominal diameter DN 100",
+          "status": "verified",
+          "ocr_raw": "100\n\n96"
+        },
+        {
+          "label": "Minimum internal diameter",
+          "value": 113.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Nominal diameter DN 125",
+          "status": "verified",
+          "ocr_raw": "125\n\n113"
+        },
+        {
+          "label": "Minimum internal diameter",
+          "value": 146.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Nominal diameter DN 150",
+          "status": "verified",
+          "ocr_raw": "150\n\n146"
+        },
+        {
+          "label": "Minimum internal diameter",
+          "value": 184.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Nominal diameter DN 200",
+          "status": "verified",
+          "ocr_raw": "200\n\n184"
+        },
+        {
+          "label": "Minimum internal diameter",
+          "value": 207.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Nominal diameter DN 225",
+          "status": "verified",
+          "ocr_raw": "225\n\n207"
+        },
+        {
+          "label": "Minimum internal diameter",
+          "value": 230.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Nominal diameter DN 250",
+          "status": "verified",
+          "ocr_raw": "250\n\n230"
+        },
+        {
+          "label": "Minimum internal diameter",
+          "value": 290.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Nominal diameter DN 300",
+          "status": "verified",
+          "ocr_raw": "300\n\n290"
+        }
+      ],
+      "figure_refs": [
+        "4"
+      ],
+      "cross_refs": [
+        "Table 1, DIN EN 12056-2"
+      ],
+      "keywords": [
+        "drainage",
+        "pipe sizing",
+        "nominal diameter",
+        "internal diameter"
+      ],
+      "tags_architectural": [],
+      "confidence": 0.99
+    },
+    {
+      "id": "4122fb96e4bd1976-536-vision-2",
+      "pdf_page": 536,
+      "book_page": 523,
+      "chapter": "BUILDING SERVICES",
+      "section": "Domestic Installation",
+      "title": "Minimum falls for unpressurised drainage pipes",
+      "summary": "Table gives minimum falls for branch pipes and ground or collector pipes, with standards and sections cited. The rainwater ground-pipe entry outside the building has no legible minimum fall stated in the table.",
+      "building_type": "Domestic buildings",
+      "spaces": [
+        "Drainage system",
+        "Ground and collector pipe routes"
+      ],
+      "uses": [
+        "Set minimum gradients for unpressurised wastewater and rainwater drainage"
+      ],
+      "furniture_equipment": [
+        "Unvented branch pipe",
+        "Vented branch pipe",
+        "Ground and collector pipes"
+      ],
+      "dimensions": [
+        {
+          "label": "Minimum fall",
+          "value": 1.0,
+          "value_max": null,
+          "unit": "%",
+          "context": "Unvented branch pipe",
+          "status": "verified",
+          "ocr_raw": "unvented branch pipe\n\n1.0%"
+        },
+        {
+          "label": "Minimum fall",
+          "value": 0.5,
+          "value_max": null,
+          "unit": "%",
+          "context": "Vented branch pipe",
+          "status": "verified",
+          "ocr_raw": "vented branch pipe\n\n0.5%"
+        },
+        {
+          "label": "Minimum fall",
+          "value": 0.5,
+          "value_max": null,
+          "unit": "%",
+          "context": "Ground and collector pipes for wastewater",
+          "status": "verified",
+          "ocr_raw": "ground and collector pipes\na) for wastewater\n\n0.5%"
+        },
+        {
+          "label": "Minimum fall",
+          "value": 0.5,
+          "value_max": null,
+          "unit": "%",
+          "context": "Ground and collector pipes for rainwater, degree of filling 0.7",
+          "status": "verified",
+          "ocr_raw": "b) for rainwater (degree of filling\n0.7)\n\n0.5%"
+        },
+        {
+          "label": "Minimum fall",
+          "value": 1.5,
+          "value_max": null,
+          "unit": "%",
+          "context": "Ground and collector pipes DN 90; lavatory pan with flush volume 4.5–6 l",
+          "status": "verified",
+          "ocr_raw": "DOMESTIC INSTALLATION\nDrainage\n\nSanitary appliance\n\nDesign units (DU)\n\nSingle branch pipe\n\nwashbasin, bidet\n\n0.5\n\nDN40\n\nshower without plug\n\n0.6\n\nON 50\n\nshower with plug\n\n0.8\n\nDN 50\n\nsingle urinal with flush cistern\n\n0.8\n\nDN 50\n\nsingle urinal with pressure flush\n\n0.5\n0.2\n\nDN 50\n\nurinal without water flushing\n\n0.1\n\nDN 50\n\nbath tub\n\n0.8\n\nkitchen sink and dishwasher'\n\n0.8\n\n26\n\n40\n\n34\n\n50\n\n44\n49\n\nON 50\n\n60\n\n56\n\nDN 50\n\n70\n\n68\n\n80\n\n75\n\n90\n\n79\n\n0.8\n\nDN 50\n\nwashing machine up to 6 kg\n\n0.8\n\nON 50\n\n1.5\n\nMin. internal diameter d;m!o (mm)\n\n30\n\n56\n\ndishwasher\n\nwashing machine up to 12 kg\n\nNominal diameter (ON)\n\nON 50\n\nstanding urinal\n\nPipe sizing\nThe determined dimensions, given as nominal diameters (ON) and\nthe associated minimum internal diameters, are given in ...... e.\n\n100\n\n96\n\n125\n\n113\n\n150\n\n146\n\nON 56/60\n\nWC with 4.0/4.5 I cistern\n\n1.8\n\nON 80/DN 90\n\nWC with 6.0 I cistern/pressure flush\n\n2.0\n\nON 80-DN 100\n\n200\n\n184\n\nWC with 7.5 I cistern/pressure flush\n\n2.0\n\nsee remark in DIN\n\n225\n\n207\n\nWC with 9.0 I cistern/pressure flush\n\n2.5\n\nON 100\n\n250\n\n230\n\n300\n\n290\n\nfloor gully DN 50\n\n0.8\n\nDN 50\n\nfloor gully ON 70\n\n1.5\n\nON 70\n\nfloor gully ON 100\n\n2.0\n\nDN 100\n\ne\n\nNominal diameters (ON) with the relevant minimum internal diameters d1mlo\n(corresponds to Table 1, DIN EN 12056-2)\n\n*with common trap\n\n0\n\nDesign units (DU) to be assumed for various sanitary appliances (Table 4, DIN\n1986-100)\n\nSection of pipework\n\nMinimum fall\n\nunvented branch pipe\n\n1.0%\n\nStandard and section\nDIN EN 12056-2, Table 5\n\nvented branch pipe\n\n0.5%\n\nDIN 1986-100, section 8.3.2.2\nDIN EN 12056-2, Table 8\n\nground and collector pipes\na) for wastewater\n\n0.5%\n\nDIN 1986-100, section 8.3.4.\n\nb) for rainwater (degree of filling\n0.7)\n\n0.5%\n\nDIN 1986-100, section 9.3.5.2\n\nground and collector pipes ON 90\n(lavatory pan with flush volume\n4.5-61)\n\n1.5%\n\nDIN 1986-100, TableA.2\n\nDOMESTIC\nINSTALLATION\nDIN 1986-100, section 9.3.5.2\n\nground pipes for rainwater outside\nthe building (degree of filling 0.7)\nAnti-siphonage pipe\n\nIndirect vent pipe\n\nDirect vent pipe\n\nSecondary\nvent pipe\n\nf) Ventilation systems for wastewater drainage (Wellpott -> refs)\n\nup to DN 200\n\n0.5%t\n\nfrom ON 250\n\n1: ON'\n\n' flow velocity max. 2.5 m/s. Behind a shaft with open flow-through, design can be\nbased on full filling without over-pressure.\n\nC) Minimum falls for pipes, unpressurised drainage\n\n8\n\nA soil and vent stack can be joined together with one common vent pipe at the\n\nuppermost point of the pipework (Wellpott -> refs)\n\nVenting of pipework -t f) + 8\nDrainage systems are still differentiated according to the type\nof venting. The main types are soil and vent stack (single-pipe\nsystem) and soil stack with separate vent pipe. Apart from the\nsoil and vent stack, different systems use anti-siphonage pipes;\nindirect vent pipe; direct vent pipe; secondary venting; and soil\nand vent stack with an additional venting valve. The cross-section\nof a common vent pipe for more than one stack must be at least\nas big as half the sum of the single cross-sections of the single\nstack. The nominal size of a common vent pipe must be at least\none nominal size larger than the largest size of the relevant stack.\n\n523\n\nDrainage\nVentilation\nHeating\nSmall sewage\ntreatment plants\nBS EN 476\nBS 8515\nDIN 1986\nDIN EN 12056\n\n\f"
+        },
+        {
+          "label": "Minimum fall",
+          "value": 0.5,
+          "value_max": null,
+          "unit": "%",
+          "context": "Ground pipes for rainwater outside the building, degree of filling 0.7; value has a footnote marker",
+          "status": "verified",
+          "ocr_raw": "DOMESTIC INSTALLATION\nDrainage\n\nSanitary appliance\n\nDesign units (DU)\n\nSingle branch pipe\n\nwashbasin, bidet\n\n0.5\n\nDN40\n\nshower without plug\n\n0.6\n\nON 50\n\nshower with plug\n\n0.8\n\nDN 50\n\nsingle urinal with flush cistern\n\n0.8\n\nDN 50\n\nsingle urinal with pressure flush\n\n0.5\n0.2\n\nDN 50\n\nurinal without water flushing\n\n0.1\n\nDN 50\n\nbath tub\n\n0.8\n\nkitchen sink and dishwasher'\n\n0.8\n\n26\n\n40\n\n34\n\n50\n\n44\n49\n\nON 50\n\n60\n\n56\n\nDN 50\n\n70\n\n68\n\n80\n\n75\n\n90\n\n79\n\n0.8\n\nDN 50\n\nwashing machine up to 6 kg\n\n0.8\n\nON 50\n\n1.5\n\nMin. internal diameter d;m!o (mm)\n\n30\n\n56\n\ndishwasher\n\nwashing machine up to 12 kg\n\nNominal diameter (ON)\n\nON 50\n\nstanding urinal\n\nPipe sizing\nThe determined dimensions, given as nominal diameters (ON) and\nthe associated minimum internal diameters, are given in ...... e.\n\n100\n\n96\n\n125\n\n113\n\n150\n\n146\n\nON 56/60\n\nWC with 4.0/4.5 I cistern\n\n1.8\n\nON 80/DN 90\n\nWC with 6.0 I cistern/pressure flush\n\n2.0\n\nON 80-DN 100\n\n200\n\n184\n\nWC with 7.5 I cistern/pressure flush\n\n2.0\n\nsee remark in DIN\n\n225\n\n207\n\nWC with 9.0 I cistern/pressure flush\n\n2.5\n\nON 100\n\n250\n\n230\n\n300\n\n290\n\nfloor gully DN 50\n\n0.8\n\nDN 50\n\nfloor gully ON 70\n\n1.5\n\nON 70\n\nfloor gully ON 100\n\n2.0\n\nDN 100\n\ne\n\nNominal diameters (ON) with the relevant minimum internal diameters d1mlo\n(corresponds to Table 1, DIN EN 12056-2)\n\n*with common trap\n\n0\n\nDesign units (DU) to be assumed for various sanitary appliances (Table 4, DIN\n1986-100)\n\nSection of pipework\n\nMinimum fall\n\nunvented branch pipe\n\n1.0%\n\nStandard and section\nDIN EN 12056-2, Table 5\n\nvented branch pipe\n\n0.5%\n\nDIN 1986-100, section 8.3.2.2\nDIN EN 12056-2, Table 8\n\nground and collector pipes\na) for wastewater\n\n0.5%\n\nDIN 1986-100, section 8.3.4.\n\nb) for rainwater (degree of filling\n0.7)\n\n0.5%\n\nDIN 1986-100, section 9.3.5.2\n\nground and collector pipes ON 90\n(lavatory pan with flush volume\n4.5-61)\n\n1.5%\n\nDIN 1986-100, TableA.2\n\nDOMESTIC\nINSTALLATION\nDIN 1986-100, section 9.3.5.2\n\nground pipes for rainwater outside\nthe building (degree of filling 0.7)\nAnti-siphonage pipe\n\nIndirect vent pipe\n\nDirect vent pipe\n\nSecondary\nvent pipe\n\nf) Ventilation systems for wastewater drainage (Wellpott -> refs)\n\nup to DN 200\n\n0.5%t\n\nfrom ON 250\n\n1: ON'\n\n' flow velocity max. 2.5 m/s. Behind a shaft with open flow-through, design can be\nbased on full filling without over-pressure.\n\nC) Minimum falls for pipes, unpressurised drainage\n\n8\n\nA soil and vent stack can be joined together with one common vent pipe at the\n\nuppermost point of the pipework (Wellpott -> refs)\n\nVenting of pipework -t f) + 8\nDrainage systems are still differentiated according to the type\nof venting. The main types are soil and vent stack (single-pipe\nsystem) and soil stack with separate vent pipe. Apart from the\nsoil and vent stack, different systems use anti-siphonage pipes;\nindirect vent pipe; direct vent pipe; secondary venting; and soil\nand vent stack with an additional venting valve. The cross-section\nof a common vent pipe for more than one stack must be at least\nas big as half the sum of the single cross-sections of the single\nstack. The nominal size of a common vent pipe must be at least\none nominal size larger than the largest size of the relevant stack.\n\n523\n\nDrainage\nVentilation\nHeating\nSmall sewage\ntreatment plants\nBS EN 476\nBS 8515\nDIN 1986\nDIN EN 12056\n\n\f"
+        },
+        {
+          "label": "Minimum fall",
+          "value": 1.0,
+          "value_max": null,
+          "unit": "DN⁻¹",
+          "context": "Pipes from DN 250; table prints the unit notation DN⁻¹",
+          "status": "verified",
+          "ocr_raw": "DOMESTIC INSTALLATION\nDrainage\n\nSanitary appliance\n\nDesign units (DU)\n\nSingle branch pipe\n\nwashbasin, bidet\n\n0.5\n\nDN40\n\nshower without plug\n\n0.6\n\nON 50\n\nshower with plug\n\n0.8\n\nDN 50\n\nsingle urinal with flush cistern\n\n0.8\n\nDN 50\n\nsingle urinal with pressure flush\n\n0.5\n0.2\n\nDN 50\n\nurinal without water flushing\n\n0.1\n\nDN 50\n\nbath tub\n\n0.8\n\nkitchen sink and dishwasher'\n\n0.8\n\n26\n\n40\n\n34\n\n50\n\n44\n49\n\nON 50\n\n60\n\n56\n\nDN 50\n\n70\n\n68\n\n80\n\n75\n\n90\n\n79\n\n0.8\n\nDN 50\n\nwashing machine up to 6 kg\n\n0.8\n\nON 50\n\n1.5\n\nMin. internal diameter d;m!o (mm)\n\n30\n\n56\n\ndishwasher\n\nwashing machine up to 12 kg\n\nNominal diameter (ON)\n\nON 50\n\nstanding urinal\n\nPipe sizing\nThe determined dimensions, given as nominal diameters (ON) and\nthe associated minimum internal diameters, are given in ...... e.\n\n100\n\n96\n\n125\n\n113\n\n150\n\n146\n\nON 56/60\n\nWC with 4.0/4.5 I cistern\n\n1.8\n\nON 80/DN 90\n\nWC with 6.0 I cistern/pressure flush\n\n2.0\n\nON 80-DN 100\n\n200\n\n184\n\nWC with 7.5 I cistern/pressure flush\n\n2.0\n\nsee remark in DIN\n\n225\n\n207\n\nWC with 9.0 I cistern/pressure flush\n\n2.5\n\nON 100\n\n250\n\n230\n\n300\n\n290\n\nfloor gully DN 50\n\n0.8\n\nDN 50\n\nfloor gully ON 70\n\n1.5\n\nON 70\n\nfloor gully ON 100\n\n2.0\n\nDN 100\n\ne\n\nNominal diameters (ON) with the relevant minimum internal diameters d1mlo\n(corresponds to Table 1, DIN EN 12056-2)\n\n*with common trap\n\n0\n\nDesign units (DU) to be assumed for various sanitary appliances (Table 4, DIN\n1986-100)\n\nSection of pipework\n\nMinimum fall\n\nunvented branch pipe\n\n1.0%\n\nStandard and section\nDIN EN 12056-2, Table 5\n\nvented branch pipe\n\n0.5%\n\nDIN 1986-100, section 8.3.2.2\nDIN EN 12056-2, Table 8\n\nground and collector pipes\na) for wastewater\n\n0.5%\n\nDIN 1986-100, section 8.3.4.\n\nb) for rainwater (degree of filling\n0.7)\n\n0.5%\n\nDIN 1986-100, section 9.3.5.2\n\nground and collector pipes ON 90\n(lavatory pan with flush volume\n4.5-61)\n\n1.5%\n\nDIN 1986-100, TableA.2\n\nDOMESTIC\nINSTALLATION\nDIN 1986-100, section 9.3.5.2\n\nground pipes for rainwater outside\nthe building (degree of filling 0.7)\nAnti-siphonage pipe\n\nIndirect vent pipe\n\nDirect vent pipe\n\nSecondary\nvent pipe\n\nf) Ventilation systems for wastewater drainage (Wellpott -> refs)\n\nup to DN 200\n\n0.5%t\n\nfrom ON 250\n\n1: ON'\n\n' flow velocity max. 2.5 m/s. Behind a shaft with open flow-through, design can be\nbased on full filling without over-pressure.\n\nC) Minimum falls for pipes, unpressurised drainage\n\n8\n\nA soil and vent stack can be joined together with one common vent pipe at the\n\nuppermost point of the pipework (Wellpott -> refs)\n\nVenting of pipework -t f) + 8\nDrainage systems are still differentiated according to the type\nof venting. The main types are soil and vent stack (single-pipe\nsystem) and soil stack with separate vent pipe. Apart from the\nsoil and vent stack, different systems use anti-siphonage pipes;\nindirect vent pipe; direct vent pipe; secondary venting; and soil\nand vent stack with an additional venting valve. The cross-section\nof a common vent pipe for more than one stack must be at least\nas big as half the sum of the single cross-sections of the single\nstack. The nominal size of a common vent pipe must be at least\none nominal size larger than the largest size of the relevant stack.\n\n523\n\nDrainage\nVentilation\nHeating\nSmall sewage\ntreatment plants\nBS EN 476\nBS 8515\nDIN 1986\nDIN EN 12056\n\n\f"
+        }
+      ],
+      "figure_refs": [
+        "5"
+      ],
+      "cross_refs": [
+        "DIN EN 12056-2, Table 5",
+        "DIN EN 12056-2, Table 8",
+        "DIN 1986-100, sections 8.3.2.2, 8.3.4, 9.3.5.2 and Table A.2"
+      ],
+      "keywords": [
+        "minimum fall",
+        "pipe gradient",
+        "unpressurised drainage",
+        "rainwater",
+        "wastewater"
+      ],
+      "tags_architectural": [
+        "circulation"
+      ],
+      "confidence": 0.93
+    },
+    {
+      "id": "4122fb96e4bd1976-536-vision-3",
+      "pdf_page": 536,
+      "book_page": 523,
+      "chapter": "BUILDING SERVICES",
+      "section": "Domestic Installation",
+      "title": "Venting systems for wastewater drainage",
+      "summary": "Drainage layouts are differentiated by venting type, including single-pipe soil-and-vent stacks, separate vent pipes, anti-siphonage pipes, indirect and direct vent pipes, secondary venting, and an additional venting valve. A common vent pipe serving multiple stacks must have a cross-section at least half the sum of the individual stack cross-sections and a nominal size at least one size larger than the largest relevant stack. A soil-and-vent stack may connect to a common vent pipe at the uppermost point.",
+      "building_type": "Domestic buildings",
+      "spaces": [
+        "Wastewater drainage system",
+        "Pipe shafts"
+      ],
+      "uses": [
+        "Vent wastewater drainage pipework",
+        "Connect stacks to common vent pipes"
+      ],
+      "furniture_equipment": [
+        "Soil stack",
+        "Vent stack",
+        "Common vent pipe",
+        "Anti-siphonage pipe",
+        "Indirect vent pipe",
+        "Direct vent pipe",
+        "Secondary vent pipe",
+        "Venting valve"
+      ],
+      "dimensions": [
+        {
+          "label": "Minimum common vent pipe cross-section relative to summed stack cross-sections",
+          "value": 0.5,
+          "value_max": null,
+          "unit": "ratio fraction",
+          "context": "At least half the sum of the individual cross-sections for more than one stack; the text states 'at least as big as half the sum'",
+          "status": "corrected",
+          "ocr_raw": "The cross-section\nof a common vent pipe for more than one stack must be at least\nas big as half the sum of the single cross-sections of the single\nstack."
+        },
+        {
+          "label": "Common vent pipe nominal size increase",
+          "value": 1.0,
+          "value_max": null,
+          "unit": "nominal size",
+          "context": "At least one nominal size larger than the largest relevant stack",
+          "status": "verified",
+          "ocr_raw": "The nominal size of a common vent pipe must be at least\none nominal size larger than the largest size of the relevant stack."
+        }
+      ],
+      "figure_refs": [
+        "2",
+        "3"
+      ],
+      "cross_refs": [
+        "Wellpott → refs"
+      ],
+      "keywords": [
+        "ventilation",
+        "wastewater drainage",
+        "soil stack",
+        "common vent pipe"
+      ],
+      "tags_architectural": [
+        "ventilation"
+      ],
+      "confidence": 0.96
+    }
+  ]
+}

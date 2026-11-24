@@ -1,0 +1,168 @@
+{
+  "fichas": [
+    {
+      "id": "4122fb96e4bd1976-182-vision-0",
+      "pdf_page": 182,
+      "book_page": 169,
+      "chapter": "ACCOMMODATION",
+      "section": "Elderly People's Accommodation",
+      "title": "Nursing and Care Homes for the Elderly",
+      "summary": "Nursing and care homes provide support for chronically ill and vulnerable elderly people, with activating therapy and a separation between residential and operational areas. The page gives room-size and entrance guidelines, describes residential groups and care-department requirements, and illustrates care-room layouts and the first floor of Haus Gisingen.",
+      "building_type": "Nursing and care home for elderly people",
+      "spaces": [
+        "One-bed care room",
+        "Two-bed care room",
+        "Residential group communal living room",
+        "Tea kitchen",
+        "Adapted bathroom",
+        "Nurses' sitting and handover rooms",
+        "WC and cloakroom",
+        "Care-department bathroom",
+        "Cleaning room",
+        "Washroom",
+        "Equipment and wheelchair room",
+        "Administration rooms",
+        "Consulting rooms",
+        "Function and common rooms",
+        "Cafeteria",
+        "Occupational therapy room",
+        "Gymnastics room",
+        "Chiropody room",
+        "Hairdresser",
+        "Corridors",
+        "Entrance hall",
+        "Air space",
+        "Terrace"
+      ],
+      "uses": [
+        "Residential care and accommodation for elderly people",
+        "Nursing and support for chronically ill and vulnerable residents",
+        "Activating therapy, rehabilitation, and medical and care-related assistance",
+        "Short-term care and hospital aftercare",
+        "Communal meals and social interaction"
+      ],
+      "furniture_equipment": [
+        "Tea-kitchen equipment",
+        "WC",
+        "Washbasin",
+        "Shower",
+        "Acid-resistant bath suitable for medical baths",
+        "Bidet",
+        "Bucket sink",
+        "Sluice for human waste",
+        "Equipment and wheelchairs"
+      ],
+      "dimensions": [
+        {
+          "label": "Individual room area",
+          "value": 18.0,
+          "value_max": null,
+          "unit": "m²",
+          "context": "Guideline room area stated for individual rooms in the residential accommodation guidance.",
+          "status": "uncertain",
+          "ocr_raw": "individual rooms = 18 m²"
+        },
+        {
+          "label": "Single-room area",
+          "value": 20.0,
+          "value_max": null,
+          "unit": "m²",
+          "context": "Guideline room area stated for single rooms.",
+          "status": "uncertain",
+          "ocr_raw": "single rooms, 20 m²"
+        },
+        {
+          "label": "Double-room area",
+          "value": 20.0,
+          "value_max": null,
+          "unit": "m²",
+          "context": "Guideline room area stated for double rooms.",
+          "status": "uncertain",
+          "ocr_raw": "20 m² double rooms"
+        },
+        {
+          "label": "Separate single-bedroom area",
+          "value": 7.0,
+          "value_max": null,
+          "unit": "m²",
+          "context": "Area stated for a single bedroom when the bedroom is separate.",
+          "status": "uncertain",
+          "ocr_raw": "If the bedroom is separate = 7 m² single"
+        },
+        {
+          "label": "Separate double-bedroom area",
+          "value": 12.0,
+          "value_max": null,
+          "unit": "m²",
+          "context": "Area stated for a double bedroom when the bedroom is separate.",
+          "status": "uncertain",
+          "ocr_raw": "12 m² double room"
+        },
+        {
+          "label": "Minimum entrance width",
+          "value": 1.25,
+          "value_max": null,
+          "unit": "m",
+          "context": "One dimension of the recommended minimum entrance size for wheelchair suitability.",
+          "status": "uncertain",
+          "ocr_raw": "minimum size of 1.25 m x 1.25 m"
+        },
+        {
+          "label": "Minimum entrance depth",
+          "value": 1.25,
+          "value_max": null,
+          "unit": "m",
+          "context": "Other dimension of the recommended minimum entrance size for wheelchair suitability.",
+          "status": "uncertain",
+          "ocr_raw": "minimum size of 1.25 m x 1.25 m"
+        },
+        {
+          "label": "People per residential group",
+          "value": 8.0,
+          "value_max": 10.0,
+          "unit": "people",
+          "context": "Approximate number of elderly people in a residential group.",
+          "status": "uncertain",
+          "ocr_raw": "approx. 8–10 elderly people"
+        },
+        {
+          "label": "Individual rooms share",
+          "value": 50.0,
+          "value_max": null,
+          "unit": "%",
+          "context": "Share stated in the residential accommodation guideline; the OCR wording links residential accommodation and individual rooms.",
+          "status": "uncertain",
+          "ocr_raw": "residential = 50% individual rooms"
+        }
+      ],
+      "figure_refs": [
+        "1 — One-bed care room",
+        "2 — Two-bed care room",
+        "3 — One-bed care room",
+        "4 — Two-bed care room",
+        "5 — Section",
+        "6 — 'Haus Gisingen' care home for the elderly, Feldkirch/Vorarlberg, first floor"
+      ],
+      "cross_refs": [
+        "1–4",
+        "Section → 6"
+      ],
+      "keywords": [
+        "elderly accommodation",
+        "nursing home",
+        "care home",
+        "care room",
+        "short-term care",
+        "residential group",
+        "wheelchair entrance",
+        "activating therapy"
+      ],
+      "tags_architectural": [
+        "accessibility",
+        "circulation",
+        "adaptability"
+      ],
+      "confidence": 0.88
+    }
+  ]
+}

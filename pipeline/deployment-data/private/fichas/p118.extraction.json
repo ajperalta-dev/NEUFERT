@@ -1,0 +1,227 @@
+{
+  "fichas": [
+    {
+      "id": "4122fb96e4bd1976-118-vision-0",
+      "pdf_page": 118,
+      "book_page": 105,
+      "chapter": "BUILDING COMPONENTS",
+      "section": "Glass",
+      "title": "Insulated glazing: construction and pane-surface numbering",
+      "summary": "Insulated glazing consists of two or three panes. Pane combinations, coatings, and the sealed space between panes influence its specific properties. Coatings are numbered by pane-surface position; the diagrams identify positions 1–6 and show outside and inside orientation.",
+      "building_type": "Glazing system",
+      "spaces": [
+        "Space between panes"
+      ],
+      "uses": [
+        "Thermal insulation",
+        "Solar control"
+      ],
+      "furniture_equipment": [],
+      "dimensions": [
+        {
+          "label": "Number of panes",
+          "value": 2.0,
+          "value_max": 3.0,
+          "unit": "panes",
+          "context": "Possible pane count in insulated glazing.",
+          "status": "uncertain",
+          "ocr_raw": "Insulated glazing can consist of two or three panes."
+        },
+        {
+          "label": "Coating position",
+          "value": 2.0,
+          "value_max": null,
+          "unit": "position",
+          "context": "Diagram notes coating at positions 2 or 3 as unfavourable in the illustrated arrangement.",
+          "status": "uncertain",
+          "ocr_raw": "Coating (unfavourable on side 2 or 3)"
+        },
+        {
+          "label": "Coating position",
+          "value": 3.0,
+          "value_max": null,
+          "unit": "position",
+          "context": "Diagram notes coating at positions 2 or 3 as unfavourable in the illustrated arrangement.",
+          "status": "uncertain",
+          "ocr_raw": "Coating (unfavourable on side 2 or 3)"
+        }
+      ],
+      "figure_refs": [
+        "1",
+        "2"
+      ],
+      "cross_refs": [],
+      "keywords": [
+        "insulated glazing",
+        "double glazing",
+        "panes",
+        "coatings",
+        "spacer",
+        "pane surfaces"
+      ],
+      "tags_architectural": [
+        "adaptability"
+      ],
+      "confidence": 0.95
+    },
+    {
+      "id": "4122fb96e4bd1976-118-vision-1",
+      "pdf_page": 118,
+      "book_page": 105,
+      "chapter": "BUILDING COMPONENTS",
+      "section": "Glass",
+      "title": "Thermally insulating double-glazed units",
+      "summary": "Thermally insulating double glazing uses a precious-metal coating, commonly at position 3, to achieve low thermal conductivity. Inert-gas filling can improve insulation further. The units are intended to retain high visual and overall energy transmittance for passive solar gain; applying the coating at position 2 reduces overall energy transmission.",
+      "building_type": "Thermally insulating double-glazed glazing",
+      "spaces": [
+        "Space between panes"
+      ],
+      "uses": [
+        "Thermal insulation",
+        "Passive solar energy gain"
+      ],
+      "furniture_equipment": [],
+      "dimensions": [
+        {
+          "label": "Thermal insulation coating position",
+          "value": 3.0,
+          "value_max": null,
+          "unit": "position",
+          "context": "Typical position of the precious-metal coating for thermally insulating double-glazed units.",
+          "status": "uncertain",
+          "ocr_raw": "The low coefficients of thermal conductivity (Ug-value) are achieved through a coating of precious metal in position 3."
+        },
+        {
+          "label": "Alternative thermal insulation coating position",
+          "value": 2.0,
+          "value_max": null,
+          "unit": "position",
+          "context": "The text says overall energy passing through is reduced when the coating is applied at this position.",
+          "status": "uncertain",
+          "ocr_raw": "If the thermal insulation coating is applied to position 2, then the overall energy passing through is reduced."
+        },
+        {
+          "label": "Insulation regulation year",
+          "value": 1995.0,
+          "value_max": null,
+          "unit": "year",
+          "context": "Germany’s Insulation Regulations were introduced in this year, according to the text.",
+          "status": "uncertain",
+          "ocr_raw": "Regulations in 1995"
+        },
+        {
+          "label": "Energy Saving Regulations year",
+          "value": 2002.0,
+          "value_max": null,
+          "unit": "year",
+          "context": "Germany’s Energy Saving Regulations (EnEV) were introduced in this year, according to the text.",
+          "status": "uncertain",
+          "ocr_raw": "in 2002"
+        }
+      ],
+      "figure_refs": [
+        "3",
+        "4"
+      ],
+      "cross_refs": [
+        "EnEV → refs"
+      ],
+      "keywords": [
+        "low-E glazing",
+        "thermal insulation",
+        "double glazing",
+        "inert gas",
+        "solar gain",
+        "transmittance"
+      ],
+      "tags_architectural": [
+        "daylighting"
+      ],
+      "confidence": 0.94
+    },
+    {
+      "id": "4122fb96e4bd1976-118-vision-2",
+      "pdf_page": 118,
+      "book_page": 105,
+      "chapter": "BUILDING COMPONENTS",
+      "section": "Glass",
+      "title": "Solar control glass",
+      "summary": "Solar control glass combines high visual transmittance with low overall energy transmittance, limiting passive solar gain. A thin precious-metal coating is protected in the cavity between panes. Units are labelled with visual and overall energy transmittance values, and are available in different colours and exterior reflection grades. The text advises checking manufacturer samples because exact colour matching and undistorted reflections cannot always be achieved.",
+      "building_type": "Solar-control insulated glazing",
+      "spaces": [
+        "Space between panes"
+      ],
+      "uses": [
+        "Solar control",
+        "Daylighting"
+      ],
+      "furniture_equipment": [],
+      "dimensions": [
+        {
+          "label": "Visible transmittance, blue 50/27 example",
+          "value": 50.0,
+          "value_max": null,
+          "unit": "%",
+          "context": "Visible transmittance in the solar-control glazing data table; the paired product designation is 50/27.",
+          "status": "uncertain",
+          "ocr_raw": "blue 50/27 50 28"
+        },
+        {
+          "label": "Overall energy transmittance, blue 50/27 example",
+          "value": 28.0,
+          "value_max": null,
+          "unit": "%",
+          "context": "Overall energy transmittance in the solar-control glazing data table; the paired product designation is 50/27.",
+          "status": "uncertain",
+          "ocr_raw": "blue 50/27 50 28"
+        },
+        {
+          "label": "Construction layer thickness",
+          "value": 6.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "First glass layer in the listed solar-control insulating-glass construction, shown as 6 (16) 4 mm.",
+          "status": "uncertain",
+          "ocr_raw": "Construction layers 6 (16) 4 mm."
+        },
+        {
+          "label": "Space between panes",
+          "value": 16.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Cavity dimension in the listed construction, shown as 6 (16) 4 mm.",
+          "status": "uncertain",
+          "ocr_raw": "Construction layers 6 (16) 4 mm."
+        },
+        {
+          "label": "Construction layer thickness",
+          "value": 4.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Second glass layer in the listed solar-control insulating-glass construction, shown as 6 (16) 4 mm.",
+          "status": "uncertain",
+          "ocr_raw": "Construction layers 6 (16) 4 mm."
+        }
+      ],
+      "figure_refs": [
+        "5"
+      ],
+      "cross_refs": [
+        "EnEV → refs"
+      ],
+      "keywords": [
+        "solar control",
+        "visual transmittance",
+        "energy transmittance",
+        "coating",
+        "colour",
+        "reflection",
+        "argon filling"
+      ],
+      "tags_architectural": [
+        "daylighting"
+      ],
+      "confidence": 0.93
+    }
+  ]
+}

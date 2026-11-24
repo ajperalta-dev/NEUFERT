@@ -1,0 +1,300 @@
+{
+  "fichas": [
+    {
+      "id": "4122fb96e4bd1976-478-vision-0",
+      "pdf_page": 478,
+      "book_page": 465,
+      "chapter": "SUPPLY AND DISPOSAL",
+      "section": "Emergency Power Rooms",
+      "title": "Emergency Generator Rooms",
+      "summary": "Diesel generator sets provide emergency power during outages. The room layout, ventilation, exhaust, sound insulation, and openings depend on generator capacity and configuration. Diagrams show separate air supply and extraction, and an exhaust route to above the roof. Spring dampers can reduce sound transmission into the structure.",
+      "building_type": "Emergency power room",
+      "spaces": [
+        "Generator room",
+        "Ventilation space or shaft",
+        "Exhaust shaft"
+      ],
+      "uses": [
+        "Provide emergency electricity during power cuts",
+        "Supply emergency and safety lighting, lifts, and other critical loads",
+        "House diesel generator equipment"
+      ],
+      "furniture_equipment": [
+        "Diesel motor and generator",
+        "Fuel tank",
+        "Switching cabinet",
+        "Battery",
+        "Compressor",
+        "Exhaust pipe",
+        "Ventilation and extraction ducts",
+        "Sound damper",
+        "Elastic supports or spring dampers"
+      ],
+      "dimensions": [
+        {
+          "label": "Generator capacity",
+          "value": 5.0,
+          "value_max": 2000.0,
+          "unit": "kVA",
+          "context": " stated performance range for diesel generator sets",
+          "status": "uncertain",
+          "ocr_raw": "The performance range is between 5 and 2000 kVA"
+        },
+        {
+          "label": "Room size (first printed component)",
+          "value": 5.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Generator capacity 20–60 kVA; first component of room size as printed",
+          "status": "uncertain",
+          "ocr_raw": "20–60 | 5.0–4.0"
+        },
+        {
+          "label": "Room size (second printed component)",
+          "value": 4.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Generator capacity 20–60 kVA; second component of room size as printed",
+          "status": "uncertain",
+          "ocr_raw": "20–60 | 5.0–4.0"
+        },
+        {
+          "label": "Room size (first printed component)",
+          "value": 6.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Generator capacity 100–200 kVA; first component of room size as printed",
+          "status": "uncertain",
+          "ocr_raw": "100–200 | 6.0–4.5"
+        },
+        {
+          "label": "Room size (second printed component)",
+          "value": 4.5,
+          "value_max": null,
+          "unit": "m",
+          "context": "Generator capacity 100–200 kVA; second component of room size as printed",
+          "status": "uncertain",
+          "ocr_raw": "100–200 | 6.0–4.5"
+        },
+        {
+          "label": "Room size (first printed component)",
+          "value": 7.5,
+          "value_max": null,
+          "unit": "m",
+          "context": "Generator capacity 250–500 kVA; first component of room size as printed",
+          "status": "uncertain",
+          "ocr_raw": "250–500 | 7.5–5.0"
+        },
+        {
+          "label": "Room size (second printed component)",
+          "value": 5.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Generator capacity 250–500 kVA; second component of room size as printed",
+          "status": "uncertain",
+          "ocr_raw": "250–500 | 7.5–5.0"
+        },
+        {
+          "label": "Room size (first printed component)",
+          "value": 10.5,
+          "value_max": null,
+          "unit": "m",
+          "context": "Generator capacity 650–1500 kVA; first component of room size as printed",
+          "status": "uncertain",
+          "ocr_raw": "650–1500 | 10.5–5.5"
+        },
+        {
+          "label": "Room size (second printed component)",
+          "value": 5.5,
+          "value_max": null,
+          "unit": "m",
+          "context": "Generator capacity 650–1500 kVA; second component of room size as printed",
+          "status": "uncertain",
+          "ocr_raw": "650–1500 | 10.5–5.5"
+        },
+        {
+          "label": "Room height",
+          "value": 3.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Generator capacity 20–60 kVA",
+          "status": "uncertain",
+          "ocr_raw": "Room height (m) | 3.0"
+        },
+        {
+          "label": "Room height",
+          "value": 3.5,
+          "value_max": null,
+          "unit": "m",
+          "context": "Generator capacity 100–200 kVA",
+          "status": "uncertain",
+          "ocr_raw": "Room height (m) | 3.5"
+        },
+        {
+          "label": "Room height",
+          "value": 4.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Generator capacity 250–500 kVA",
+          "status": "uncertain",
+          "ocr_raw": "Room height (m) | 4.0"
+        },
+        {
+          "label": "Room height",
+          "value": 4.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Generator capacity 650–1500 kVA",
+          "status": "uncertain",
+          "ocr_raw": "Room height (m) | 4.0"
+        },
+        {
+          "label": "Door width (printed value)",
+          "value": 2.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Generator capacity 20–60 kVA; paired table entry, order retained as printed",
+          "status": "uncertain",
+          "ocr_raw": "Door width (m) | 2.0–1.5"
+        },
+        {
+          "label": "Door width (printed value)",
+          "value": 1.5,
+          "value_max": null,
+          "unit": "m",
+          "context": "Generator capacity 20–60 kVA; paired table entry, order retained as printed",
+          "status": "uncertain",
+          "ocr_raw": "Door width (m) | 2.0–1.5"
+        },
+        {
+          "label": "Door width (printed value)",
+          "value": 2.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Generator capacity 100–200 kVA; paired table entry, order retained as printed",
+          "status": "uncertain",
+          "ocr_raw": "Door width (m) | 2.0–1.5"
+        },
+        {
+          "label": "Door width (printed value)",
+          "value": 1.5,
+          "value_max": null,
+          "unit": "m",
+          "context": "Generator capacity 100–200 kVA; paired table entry, order retained as printed",
+          "status": "uncertain",
+          "ocr_raw": "Door width (m) | 2.0–1.5"
+        },
+        {
+          "label": "Door width (printed value)",
+          "value": 2.2,
+          "value_max": null,
+          "unit": "m",
+          "context": "Generator capacity 250–500 kVA; paired table entry, order retained as printed",
+          "status": "uncertain",
+          "ocr_raw": "Door width (m) | 2.2–2.0"
+        },
+        {
+          "label": "Door width (printed value)",
+          "value": 2.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Generator capacity 250–500 kVA; paired table entry, order retained as printed",
+          "status": "uncertain",
+          "ocr_raw": "Door width (m) | 2.2–2.0"
+        },
+        {
+          "label": "Door width (printed value)",
+          "value": 2.2,
+          "value_max": null,
+          "unit": "m",
+          "context": "Generator capacity 650–1500 kVA; paired table entry, order retained as printed",
+          "status": "uncertain",
+          "ocr_raw": "Door width (m) | 2.2–2.0"
+        },
+        {
+          "label": "Door width (printed value)",
+          "value": 2.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Generator capacity 650–1500 kVA; paired table entry, order retained as printed",
+          "status": "uncertain",
+          "ocr_raw": "Door width (m) | 2.2–2.0"
+        }
+      ],
+      "figure_refs": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "cross_refs": [],
+      "keywords": [
+        "diesel generator",
+        "emergency power",
+        "generator room",
+        "ventilation",
+        "exhaust",
+        "noise insulation"
+      ],
+      "tags_architectural": [
+        "ventilation",
+        "safety"
+      ],
+      "confidence": 0.91
+    },
+    {
+      "id": "4122fb96e4bd1976-478-vision-1",
+      "pdf_page": 478,
+      "book_page": 465,
+      "chapter": "SUPPLY AND DISPOSAL",
+      "section": "Emergency Power Rooms",
+      "title": "Uninterruptible Power Supply (UPS) Systems",
+      "summary": "Static UPS systems use batteries that are continuously charged from the mains to bridge the interval between a power cut and emergency power switching. They protect connected equipment from outages and power-quality disturbances. UPS systems cover a short interruption; diesel generators can supply power for longer outages.",
+      "building_type": "Emergency power facility",
+      "spaces": [
+        "UPS equipment area"
+      ],
+      "uses": [
+        "Maintain uninterrupted power during transfer to emergency supply",
+        "Protect connected equipment from power cuts, voltage variations, lightning effects, and frequency fluctuations"
+      ],
+      "furniture_equipment": [
+        "Static UPS system",
+        "Batteries"
+      ],
+      "dimensions": [
+        {
+          "label": "Maximum transfer gap",
+          "value": 15.0,
+          "value_max": null,
+          "unit": "seconds",
+          "context": "Maximum stated interval between a power cut and switching to emergency power",
+          "status": "uncertain",
+          "ocr_raw": "There is normally a gap of at most 15 seconds between the power cut and the switching to emergency power."
+        },
+        {
+          "label": "UPS outage duration",
+          "value": 30.0,
+          "value_max": 60.0,
+          "unit": "minutes",
+          "context": "Stated power-cut duration UPS systems are designed to cope with",
+          "status": "uncertain",
+          "ocr_raw": "UPS systems are designed to cope with a power cut of at most 30–60 minutes"
+        }
+      ],
+      "figure_refs": [],
+      "cross_refs": [],
+      "keywords": [
+        "UPS",
+        "uninterruptible power",
+        "battery",
+        "emergency power",
+        "power quality"
+      ],
+      "tags_architectural": [
+        "safety"
+      ],
+      "confidence": 0.94
+    }
+  ]
+}

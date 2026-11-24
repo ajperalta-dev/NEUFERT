@@ -1,0 +1,70 @@
+{
+  "fichas": [
+    {
+      "id": "4122fb96e4bd1976-489-vision-0",
+      "pdf_page": 489,
+      "book_page": 476,
+      "chapter": "BUILDING SERVICES",
+      "section": "Building Physics",
+      "title": "Energy Pass and Building Energy Performance",
+      "summary": "Explains the energy pass required under the Energy Saving Regulation (EnEV), the distinction between primary energy demand, final energy demand, and energy consumption, and the use of graphic comparisons to communicate a building’s energy performance. The figures show producer energy-price development, an example annual energy-demand comparison, and a sample residential energy pass. Calculated values use standardized conditions and do not predict actual consumption; energy consumption values are based on heating and hot-water costs and adjusted for climate. Energy passes may include modernization recommendations.",
+      "building_type": "Residential and non-residential buildings",
+      "spaces": [],
+      "uses": [
+        "Document and compare building energy demand or consumption",
+        "Communicate energy efficiency and support building marketing, investment, and purchase or rental decisions"
+      ],
+      "furniture_equipment": [],
+      "dimensions": [
+        {
+          "label": "Example annual energy demand for this building",
+          "value": 125.0,
+          "value_max": null,
+          "unit": "kWh/(m²·a)",
+          "context": "Example indicated on the graphic comparison of annual energy demand.",
+          "status": "uncertain",
+          "ocr_raw": "This building\n125.0 kWh/(m 2a)"
+        },
+        {
+          "label": "Public-building display threshold",
+          "value": 1000.0,
+          "value_max": null,
+          "unit": "m²",
+          "context": "Energy passes must also be displayed for public buildings exceeding this area.",
+          "status": "uncertain",
+          "ocr_raw": "Energy passes also have to be displayed for public buildings > iOOO m2"
+        },
+        {
+          "label": "Energy-pass validity period",
+          "value": 10.0,
+          "value_max": null,
+          "unit": "years",
+          "context": "Validity period for energy passes issued by qualified neutral building experts.",
+          "status": "uncertain",
+          "ocr_raw": "They are issued by qualified neutral building experts and are valid for i 0 years."
+        }
+      ],
+      "figure_refs": [
+        "1",
+        "2",
+        "3"
+      ],
+      "cross_refs": [
+        "see → 2",
+        "EnEV → refs"
+      ],
+      "keywords": [
+        "energy pass",
+        "Energy Saving Regulation",
+        "EnEV",
+        "primary energy demand",
+        "final energy demand",
+        "energy consumption value",
+        "energy efficiency",
+        "modernisation recommendation"
+      ],
+      "tags_architectural": [],
+      "confidence": 0.91
+    }
+  ]
+}

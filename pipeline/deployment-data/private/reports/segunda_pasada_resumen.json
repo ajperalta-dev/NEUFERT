@@ -1,0 +1,20 @@
+{
+  "before": {
+    "uncertain": 61,
+    "corrected": 1
+  },
+  "after": {
+    "uncertain": 61,
+    "verified": 1
+  },
+  "chapters": {
+    "BASICS": {
+      "uncertain -> uncertain": 60,
+      "uncertain -> verified": 1,
+      "corrected -> uncertain": 1
+    }
+  },
+  "warnings": [
+    "Same model as first pass; independent cropped prompt only."
+  ]
+}

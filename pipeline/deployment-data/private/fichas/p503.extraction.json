@@ -1,0 +1,180 @@
+{
+  "fichas": [
+    {
+      "id": "4122fb96e4bd1976-503-vision-0",
+      "pdf_page": 503,
+      "book_page": 490,
+      "chapter": "BUILDING SERVICES",
+      "section": "Daylight",
+      "title": "Insolation and Sun Paths",
+      "summary": "Explains how to assess insolation on a planned building by overlaying its compass-oriented plan on sun-path diagrams. The diagrams show solar paths for the summer solstice and the spring and autumn equinoxes at 51.5° north. The text describes latitude adjustments, azimuth and local-time readings, possible and actual sunshine duration, and the seasonal delay between solar elevation and outdoor warmth.",
+      "building_type": "General buildings",
+      "spaces": [],
+      "uses": [
+        "Assessing sunlight and insolation on a planned building",
+        "Interpreting sun-path diagrams for different seasons and latitudes",
+        "Estimating possible and actual sunshine duration"
+      ],
+      "furniture_equipment": [],
+      "dimensions": [
+        {
+          "label": "Reference latitude",
+          "value": 51.5,
+          "value_max": null,
+          "unit": "degrees north",
+          "context": "Latitude used for the illustrated sun paths; London, Cardiff and Dortmund are given as examples.",
+          "status": "uncertain",
+          "ocr_raw": "latitude 51.5° north (London- Cardiff- Dortmund) → ①"
+        },
+        {
+          "label": "Southern-area latitude",
+          "value": 48.0,
+          "value_max": null,
+          "unit": "degrees north",
+          "context": "For the southern area, 3.5° is added to calculated solar elevations.",
+          "status": "uncertain",
+          "ocr_raw": "latitude 48° north (Freiburg im Breisgau – Munich – Salzburg – Vienna), 3.5° should be added to the calculated solar elevations."
+        },
+        {
+          "label": "Solar-elevation adjustment for southern areas",
+          "value": 3.5,
+          "value_max": null,
+          "unit": "degrees",
+          "context": "Added to calculated solar elevations for the stated southern area.",
+          "status": "uncertain",
+          "ocr_raw": "3.5° should be added to the calculated solar elevations."
+        },
+        {
+          "label": "Northern-area latitude",
+          "value": 55.0,
+          "value_max": null,
+          "unit": "degrees north",
+          "context": "For the northern area, 3.5° is deducted from calculated solar elevations.",
+          "status": "uncertain",
+          "ocr_raw": "latitude 55° north (Edinburgh – Newcastle – Bornholm – Königsberg), 3.5° should be deducted."
+        },
+        {
+          "label": "Solar-elevation adjustment for northern areas",
+          "value": 3.5,
+          "value_max": null,
+          "unit": "degrees",
+          "context": "Deducted for the stated northern area.",
+          "status": "uncertain",
+          "ocr_raw": "3.5° should be deducted."
+        },
+        {
+          "label": "Reference longitude",
+          "value": 15.0,
+          "value_max": null,
+          "unit": "degrees east",
+          "context": "Longitude used for the standard local times within Germany; identified as the Central European Time meridian.",
+          "status": "uncertain",
+          "ocr_raw": "locations at longitude 15° east (Görlitz – Stargard – Bornholm = meridian of Central European Time)."
+        },
+        {
+          "label": "Local-time adjustment per degree of longitude",
+          "value": 4.0,
+          "value_max": null,
+          "unit": "minutes per degree",
+          "context": "The local time is earlier east of 15° longitude and later west of it.",
+          "status": "uncertain",
+          "ocr_raw": "the local time is 4 minutes earlier than the standard time for every degree of longitude; for locations to the west of 15° = 4 minutes later than the standard time per degree."
+        },
+        {
+          "label": "Greenwich longitude",
+          "value": 0.0,
+          "value_max": null,
+          "unit": "degrees longitude",
+          "context": "The text states that local time in Greenwich is 60 minutes later than standard time.",
+          "status": "uncertain",
+          "ocr_raw": "In London, specifically in Greenwich at 0° longitude, the local time is therefore 60 minutes later than the standard time."
+        },
+        {
+          "label": "Greenwich local-time difference",
+          "value": 60.0,
+          "value_max": null,
+          "unit": "minutes",
+          "context": "Local time in Greenwich is stated to be later than standard time.",
+          "status": "uncertain",
+          "ocr_raw": "the local time is therefore 60 minutes later than the standard time."
+        },
+        {
+          "label": "Possible insolation duration, May to July",
+          "value": 16.0,
+          "value_max": 16.75,
+          "unit": "hours",
+          "context": "Possible duration during the days from 21 May to 21 July; the printed range is retained in the OCR text.",
+          "status": "uncertain",
+          "ocr_raw": "The possible duration of insolation during the days from 21 May to 21 July = 1616% hours"
+        },
+        {
+          "label": "Actual insolation relative to possible duration",
+          "value": 40.0,
+          "value_max": null,
+          "unit": "percent",
+          "context": "The text says actual insolation is scarcely this proportion of the possible-duration figures because of clouds and mist.",
+          "status": "uncertain",
+          "ocr_raw": "The actual amount of insolation is scarcely 40% of the above figures on account of clouds and mist."
+        },
+        {
+          "label": "Warmth-curve delay",
+          "value": 1.0,
+          "value_max": null,
+          "unit": "month",
+          "context": "Approximate delay compared with the solar-elevation curve.",
+          "status": "uncertain",
+          "ocr_raw": "The warmth curve is delayed by about 1 month compared to the solar elevation curve"
+        },
+        {
+          "label": "Monthly change in insolation duration",
+          "value": 2.0,
+          "value_max": null,
+          "unit": "hours per month",
+          "context": "The text says duration changes by almost this amount per month between the stated seasonal ranges.",
+          "status": "uncertain",
+          "ocr_raw": "the duration of insolation changes by almost 2 hours per month."
+        },
+        {
+          "label": "Berlin insolation in July",
+          "value": 50.0,
+          "value_max": null,
+          "unit": "percent",
+          "context": "Described as an almost value for Berlin in July.",
+          "status": "uncertain",
+          "ocr_raw": "Berlin has relatively favourable conditions (in July almost 50%, Stuttgart 35%)."
+        },
+        {
+          "label": "Stuttgart insolation",
+          "value": 35.0,
+          "value_max": null,
+          "unit": "percent",
+          "context": "Given as a comparative example of actual insolation conditions.",
+          "status": "uncertain",
+          "ocr_raw": "Berlin has relatively favourable conditions (in July almost 50%, Stuttgart 35%)."
+        }
+      ],
+      "figure_refs": [
+        "1: Path of the sun at the summer solstice (about 21 June), longest day of the year, at latitude 51.5° north (London – Cardiff – Dortmund)",
+        "2: Path of the sun at the spring equinox (about 21 March) and autumn equinox (about 23 September)"
+      ],
+      "cross_refs": [
+        "BS 8206-2",
+        "DIN 5034"
+      ],
+      "keywords": [
+        "daylight",
+        "insolation",
+        "sun path",
+        "solar elevation",
+        "azimuth",
+        "sunshine duration",
+        "local time",
+        "solar warmth"
+      ],
+      "tags_architectural": [
+        "daylighting"
+      ],
+      "confidence": 0.86
+    }
+  ]
+}

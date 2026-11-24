@@ -1,0 +1,190 @@
+{
+  "fichas": [
+    {
+      "id": "4122fb96e4bd1976-292-vision-0",
+      "pdf_page": 292,
+      "book_page": 279,
+      "chapter": "INDUSTRY AND TRADE",
+      "section": "Workshops",
+      "title": "Meat Processing Plant",
+      "summary": "A meat-processing plant with production on the ground floor and offices, laboratories, canteen, kitchen, washing and changing rooms on the first floor. Production includes sausages, cold meat, ham and delicatessen goods. The building accommodates groups of rooms with different temperature requirements and receives pork halves, beef quarters and coarsely dismembered wrapped pieces.",
+      "building_type": "Meat processing plant",
+      "spaces": [
+        "Production area",
+        "Plant",
+        "Raw sausage meat room",
+        "Sausage production room",
+        "Sausage cooling room",
+        "Filling room",
+        "Cutting/mixing room",
+        "Cutting room",
+        "Colouring room",
+        "Hot and cold smoke room",
+        "Cold rooms",
+        "Freezer rooms",
+        "Freezer store",
+        "Cold room for packaged goods",
+        "Packing area",
+        "Dispatch and weighing area",
+        "Delivery area",
+        "Kitchen",
+        "Canteen",
+        "Offices",
+        "Laboratory",
+        "First-aid room",
+        "Changing rooms",
+        "Washing rooms",
+        "WC and showers",
+        "Cleaning room",
+        "Alkaline solvents room",
+        "Acid solvents room",
+        "Workshop",
+        "Boot room",
+        "Foreman room",
+        "Computing room",
+        "Meeting room",
+        "Secretary's office",
+        "Entrance",
+        "Heating room",
+        "Cooling-equipment room",
+        "Cartons store",
+        "Refuse room",
+        "Container-washing room",
+        "Electricity mains room",
+        "Porter room"
+      ],
+      "uses": [
+        "Processing meat and producing sausages, cold meat, ham and delicatessen goods",
+        "Receiving and storing meat and packaged goods",
+        "Filling, cutting, mixing, smoking, cooling and packing products",
+        "Staff welfare, administration, laboratory work and plant support"
+      ],
+      "furniture_equipment": [
+        "Filling machines",
+        "Weighing equipment",
+        "Production and packing equipment",
+        "Cooling equipment",
+        "Heating equipment"
+      ],
+      "dimensions": [
+        {
+          "label": "Production area",
+          "value": 4500.0,
+          "value_max": null,
+          "unit": "m²",
+          "context": "Area on the ground floor used to produce sausages, cold meat, ham and delicatessen goods.",
+          "status": "verified",
+          "ocr_raw": "area of 4500 m2"
+        },
+        {
+          "label": "Daily production",
+          "value": 25.0,
+          "value_max": null,
+          "unit": "t/day",
+          "context": "Approximate daily production.",
+          "status": "verified",
+          "ocr_raw": "Daily production is about 25 t."
+        },
+        {
+          "label": "Social rooms, offices and WC temperature",
+          "value": 20.0,
+          "value_max": null,
+          "unit": "°C",
+          "context": "Required room temperature for social rooms, offices and WC.",
+          "status": "verified",
+          "ocr_raw": "social rooms, offices, WC, 20°C"
+        },
+        {
+          "label": "Production rooms temperature",
+          "value": 18.0,
+          "value_max": null,
+          "unit": "°C",
+          "context": "Required temperature stated for production rooms.",
+          "status": "verified",
+          "ocr_raw": "production rooms,\n\n18°C"
+        },
+        {
+          "label": "Air-conditioned rooms temperature",
+          "value": 14.0,
+          "value_max": 18.0,
+          "unit": "°C",
+          "context": "Required temperature range for air-conditioned rooms.",
+          "status": "verified",
+          "ocr_raw": "air-conditioned rooms, 14-18°C"
+        },
+        {
+          "label": "Cool rooms temperature",
+          "value": 10.0,
+          "value_max": 12.0,
+          "unit": "°C",
+          "context": "Required temperature range for cool rooms.",
+          "status": "verified",
+          "ocr_raw": "cool rooms, 10-12°C"
+        },
+        {
+          "label": "Cold rooms temperature",
+          "value": 0.0,
+          "value_max": 8.0,
+          "unit": "°C",
+          "context": "Required temperature range for cold rooms.",
+          "status": "verified",
+          "ocr_raw": "cold\nrooms, 0-8°C"
+        },
+        {
+          "label": "Deep-freeze temperature",
+          "value": -20.0,
+          "value_max": null,
+          "unit": "°C",
+          "context": "Required temperature for deep-freeze rooms.",
+          "status": "verified",
+          "ocr_raw": "deep-freeze, -20°C"
+        },
+        {
+          "label": "Plan dimension",
+          "value": 84.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Dimension marked along the top edge of the ground-floor plan.",
+          "status": "uncertain",
+          "ocr_raw": "WORKSHOPS\nMeat Processing Plant\nOn the ground floor --> 0, sausages, cold meat, ham and delicatessen goods are produced in an area of 4500 m2 • Offices,\nlaboratories, canteen, kitchen, washing and changing rooms are\nlocated on the first floor--> f). Daily production is about 25 t. The\nbuilding requires various groups of rooms with different room temperatures: social rooms, offices, WC, 20°C; production rooms,\n\n18°C; air-conditioned rooms, 14-18°C; cool rooms, 10-12°C; cold\nrooms, 0-8°C; deep-freeze, -20°C. High physical requirements for\nconstruction and materials.\nProduction building: raw material is delivered in form of halves\nof pork, quarters of beef and coarsely dismembered, wrapped\npieces.\n\nCD managing director\n\n® WC/showers\n® freezer store\n\n@ delivery cold room\n@ freezer room\n@ meat cold room\n(D offal processing\n\n® alkaline solvents\n® acid solvents\n\n@) cleaning room\n@ first aid room\n\n0\n\nSection-> f)-\n\n@workshop\n@boot room\n@foreman\n@office\n\n@· computing\n@foreman\n@)WCs\n\n@entrance\n@>kitchen\n\n@ production\n\n0\n\nf) First floor\nWORKSHOPS\nJoinery\nCarpenter's shop\nMetalwork\nVehicle repairs\nBakery\nMeat processing\nplant\nOther trades\nLaundry\n\nII I I I I I I I I I I I I I I I II I\nII II I II I I I I I I I I I I I I I\nI II I I II I I I I I II I I II I I\n\nw\n\n11111111\nIIIlO\nIIIIIIIIIIUIIW\ncold room for packaged goods\n\nllllllllllllllll\nWJIIIIIIIIIIII\n\nD\nD\nD\nD\nD\nD\nD\nD\nD\nD\n\nFire station\n\noo\no~s:wn\n\n00\n\no~c::: I IIC21\n\noopacliing\n\noC':ls:x::J n\n\n=0\n1\n\n8\n\n@\nDD\n\nDO\n\n0\n\n! 1\n\n0\n\noo\n\no~c::::dl\n\nEl\n\n8 n\n\ncartons\n\n@\ncooling\nequipment\n\n88\n\nDD\nDDDDDD\n6.00\n\nspices\n\n6.00\n\nC) Ground floor, Thuringer Fleischzentrum\n\nElectrlcs: Jena GmbH\nZPN Rhinstr. 149 Berlin\nPlanning: AG Neufert, Mittmann, Gref.\n\n279\n\n\f"
+        },
+        {
+          "label": "Plan dimension",
+          "value": 54.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Dimension marked along the right edge of the ground-floor plan.",
+          "status": "uncertain",
+          "ocr_raw": "WORKSHOPS\nMeat Processing Plant\nOn the ground floor --> 0, sausages, cold meat, ham and delicatessen goods are produced in an area of 4500 m2 • Offices,\nlaboratories, canteen, kitchen, washing and changing rooms are\nlocated on the first floor--> f). Daily production is about 25 t. The\nbuilding requires various groups of rooms with different room temperatures: social rooms, offices, WC, 20°C; production rooms,\n\n18°C; air-conditioned rooms, 14-18°C; cool rooms, 10-12°C; cold\nrooms, 0-8°C; deep-freeze, -20°C. High physical requirements for\nconstruction and materials.\nProduction building: raw material is delivered in form of halves\nof pork, quarters of beef and coarsely dismembered, wrapped\npieces.\n\nCD managing director\n\n® WC/showers\n® freezer store\n\n@ delivery cold room\n@ freezer room\n@ meat cold room\n(D offal processing\n\n® alkaline solvents\n® acid solvents\n\n@) cleaning room\n@ first aid room\n\n0\n\nSection-> f)-\n\n@workshop\n@boot room\n@foreman\n@office\n\n@· computing\n@foreman\n@)WCs\n\n@entrance\n@>kitchen\n\n@ production\n\n0\n\nf) First floor\nWORKSHOPS\nJoinery\nCarpenter's shop\nMetalwork\nVehicle repairs\nBakery\nMeat processing\nplant\nOther trades\nLaundry\n\nII I I I I I I I I I I I I I I I II I\nII II I II I I I I I I I I I I I I I\nI II I I II I I I I I II I I II I I\n\nw\n\n11111111\nIIIlO\nIIIIIIIIIIUIIW\ncold room for packaged goods\n\nllllllllllllllll\nWJIIIIIIIIIIII\n\nD\nD\nD\nD\nD\nD\nD\nD\nD\nD\n\nFire station\n\noo\no~s:wn\n\n00\n\no~c::: I IIC21\n\noopacliing\n\noC':ls:x::J n\n\n=0\n1\n\n8\n\n@\nDD\n\nDO\n\n0\n\n! 1\n\n0\n\noo\n\no~c::::dl\n\nEl\n\n8 n\n\ncartons\n\n@\ncooling\nequipment\n\n88\n\nDD\nDDDDDD\n6.00\n\nspices\n\n6.00\n\nC) Ground floor, Thuringer Fleischzentrum\n\nElectrlcs: Jena GmbH\nZPN Rhinstr. 149 Berlin\nPlanning: AG Neufert, Mittmann, Gref.\n\n279\n\n\f"
+        },
+        {
+          "label": "Plan grid dimension",
+          "value": 6.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Repeated dimension markers along the lower edge of the ground-floor plan; the OCR shows two occurrences.",
+          "status": "uncertain",
+          "ocr_raw": "WORKSHOPS\nMeat Processing Plant\nOn the ground floor --> 0, sausages, cold meat, ham and delicatessen goods are produced in an area of 4500 m2 • Offices,\nlaboratories, canteen, kitchen, washing and changing rooms are\nlocated on the first floor--> f). Daily production is about 25 t. The\nbuilding requires various groups of rooms with different room temperatures: social rooms, offices, WC, 20°C; production rooms,\n\n18°C; air-conditioned rooms, 14-18°C; cool rooms, 10-12°C; cold\nrooms, 0-8°C; deep-freeze, -20°C. High physical requirements for\nconstruction and materials.\nProduction building: raw material is delivered in form of halves\nof pork, quarters of beef and coarsely dismembered, wrapped\npieces.\n\nCD managing director\n\n® WC/showers\n® freezer store\n\n@ delivery cold room\n@ freezer room\n@ meat cold room\n(D offal processing\n\n® alkaline solvents\n® acid solvents\n\n@) cleaning room\n@ first aid room\n\n0\n\nSection-> f)-\n\n@workshop\n@boot room\n@foreman\n@office\n\n@· computing\n@foreman\n@)WCs\n\n@entrance\n@>kitchen\n\n@ production\n\n0\n\nf) First floor\nWORKSHOPS\nJoinery\nCarpenter's shop\nMetalwork\nVehicle repairs\nBakery\nMeat processing\nplant\nOther trades\nLaundry\n\nII I I I I I I I I I I I I I I I II I\nII II I II I I I I I I I I I I I I I\nI II I I II I I I I I II I I II I I\n\nw\n\n11111111\nIIIlO\nIIIIIIIIIIUIIW\ncold room for packaged goods\n\nllllllllllllllll\nWJIIIIIIIIIIII\n\nD\nD\nD\nD\nD\nD\nD\nD\nD\nD\n\nFire station\n\noo\no~s:wn\n\n00\n\no~c::: I IIC21\n\noopacliing\n\noC':ls:x::J n\n\n=0\n1\n\n8\n\n@\nDD\n\nDO\n\n0\n\n! 1\n\n0\n\noo\n\no~c::::dl\n\nEl\n\n8 n\n\ncartons\n\n@\ncooling\nequipment\n\n88\n\nDD\nDDDDDD\n6.00\n\nspices\n\n6.00\n\nC) Ground floor, Thuringer Fleischzentrum\n\nElectrlcs: Jena GmbH\nZPN Rhinstr. 149 Berlin\nPlanning: AG Neufert, Mittmann, Gref.\n\n279\n\n\f"
+        }
+      ],
+      "figure_refs": [
+        "1 (Section)",
+        "2 (First floor)",
+        "3 (Ground floor, Thüringer Fleischzentrum)"
+      ],
+      "cross_refs": [],
+      "keywords": [
+        "meat processing",
+        "food production",
+        "cold storage",
+        "temperature control",
+        "industrial plant"
+      ],
+      "tags_architectural": [
+        "circulation",
+        "safety"
+      ],
+      "confidence": 0.96
+    }
+  ]
+}

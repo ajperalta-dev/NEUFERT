@@ -1,0 +1,62 @@
+{
+  "model": "gpt-6-luna",
+  "checks": {
+    "checks": [
+      {
+        "ficha_index": 0,
+        "dimension_index": 0,
+        "status": "verified",
+        "value": 125.0,
+        "value_max": null,
+        "reason": "Figure 2 visibly labels this building as 125,0 kWh/(m\u00b2a), agreeing with the proposed value and unit."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 1,
+        "status": "verified",
+        "value": 1000.0,
+        "value_max": null,
+        "reason": "The text says public-building energy passes must be displayed for areas > 1000 m\u00b2."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 2,
+        "status": "verified",
+        "value": 10.0,
+        "value_max": null,
+        "reason": "The text visibly states that energy passes are valid for 10 years."
+      }
+    ]
+  },
+  "automatic": [
+    {
+      "ficha_index": 0,
+      "dimension_index": 0,
+      "issues": [
+        "Unknown unit"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 1,
+      "issues": []
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 2,
+      "issues": [
+        "Unknown unit"
+      ]
+    }
+  ],
+  "usage": [
+    {
+      "prompt_tokens": 5162,
+      "completion_tokens": 732
+    },
+    {
+      "prompt_tokens": 3536,
+      "completion_tokens": 289
+    }
+  ]
+}

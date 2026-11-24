@@ -1,0 +1,128 @@
+{
+  "fichas": [
+    {
+      "id": "4122fb96e4bd1976-66-vision-0",
+      "pdf_page": 66,
+      "book_page": 53,
+      "chapter": "DESIGN PROCESS",
+      "section": "Refurbishment",
+      "title": "Recording and Surveying Existing Buildings",
+      "summary": "Existing-building documentation should be undertaken before decisions about construction measures and future use. Site drawings and a room schedule help identify defects and building condition, and provide a basis for design, cost estimation, defect mapping and construction documentation. Investigations should minimize damage; intrusive work should be agreed with the client and historic buildings authority and performed by experts. A room schedule records each room in text and graphics, including necessary measures and completed work.",
+      "building_type": "Existing historic building",
+      "spaces": [
+        "Existing building",
+        "Rooms",
+        "Entrance hall"
+      ],
+      "uses": [
+        "Survey and document existing conditions",
+        "Support refurbishment planning and cost estimation",
+        "Record room information and work undertaken"
+      ],
+      "furniture_equipment": [
+        "Survey drawings",
+        "Measurement sheet",
+        "As-built plan",
+        "As-built elevation",
+        "Room schedule",
+        "Sketches",
+        "Photographs"
+      ],
+      "dimensions": [],
+      "figure_refs": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "cross_refs": [
+        "p. 51"
+      ],
+      "keywords": [
+        "refurbishment",
+        "recording existing buildings",
+        "building survey",
+        "room schedule",
+        "as-built drawings",
+        "building condition"
+      ],
+      "tags_architectural": [
+        "adaptability",
+        "circulation"
+      ],
+      "confidence": 0.96
+    },
+    {
+      "id": "4122fb96e4bd1976-66-vision-1",
+      "pdf_page": 66,
+      "book_page": 53,
+      "chapter": "DESIGN PROCESS",
+      "section": "Refurbishment",
+      "title": "Measurement Precision Stages for Existing Buildings",
+      "summary": "The page presents five stages of recording and measurement, from schematic recording for layout planning and approximate floor-area calculations to exact measurement for demanding archaeology and building research. Drawing scales are shown in the source table but are reproduction scales, not physical dimensions. Stages I and II may be extended up to stage V for difficult historic-building projects and scientific investigations.",
+      "building_type": "Existing historic building",
+      "spaces": [],
+      "uses": [
+        "Select an appropriate level of building survey precision",
+        "Inform restoration, construction drawings and scientific investigation"
+      ],
+      "furniture_equipment": [
+        "Measurement and survey drawings"
+      ],
+      "dimensions": [
+        {
+          "label": "Stage II measurement precision",
+          "value": 10.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Precision tolerance for stage II survey; the source prints ± 10 cm.",
+          "status": "uncertain",
+          "ocr_raw": "II 1:50 precision ± 10 cm"
+        },
+        {
+          "label": "Stage III measurement precision",
+          "value": 2.5,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Precision tolerance for stage III survey; the source prints ± 2.5 cm.",
+          "status": "uncertain",
+          "ocr_raw": "III 1:50 precision ± 2.5 cm"
+        },
+        {
+          "label": "Stage IV measurement precision",
+          "value": 0.5,
+          "value_max": 2.0,
+          "unit": "cm",
+          "context": "Precision tolerance range for stage IV survey; the source prints ± 2–0.5 cm.",
+          "status": "uncertain",
+          "ocr_raw": "IV 1:25–1:10 precision ± 2–0.5 cm"
+        },
+        {
+          "label": "Stage V measurement precision",
+          "value": 0.1,
+          "value_max": 2.0,
+          "unit": "cm",
+          "context": "Precision tolerance range for stage V survey; the source prints ± 2–0.1 cm.",
+          "status": "uncertain",
+          "ocr_raw": "V 1:25–1:1 precision ± 2–0.1 cm"
+        }
+      ],
+      "figure_refs": [
+        "6"
+      ],
+      "cross_refs": [],
+      "keywords": [
+        "measurement precision",
+        "survey stages",
+        "historic deformation",
+        "building research",
+        "survey scale"
+      ],
+      "tags_architectural": [
+        "adaptability"
+      ],
+      "confidence": 0.95
+    }
+  ]
+}

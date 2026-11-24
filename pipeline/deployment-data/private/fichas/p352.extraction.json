@@ -1,0 +1,507 @@
+{
+  "fichas": [
+    {
+      "id": "4122fb96e4bd1976-352-vision-0",
+      "pdf_page": 352,
+      "book_page": 339,
+      "chapter": "SPORT AND LEISURE",
+      "section": "Sports Facilities",
+      "title": "Rowing and Paddling Craft",
+      "summary": "Illustrated reference of racing and touring rowing boats, kayaks, canoes, and a dragon boat. Printed craft dimensions are shown in the accompanying drawings; paired values identify different craft variants where indicated.",
+      "building_type": "Water-sport craft",
+      "spaces": [],
+      "uses": [
+        "Rowing",
+        "Kayaking",
+        "Canoeing",
+        "Water-sport racing and touring"
+      ],
+      "furniture_equipment": [
+        "Oars",
+        "Single-bladed paddles",
+        "Double-bladed paddles"
+      ],
+      "dimensions": [
+        {
+          "label": "Racing shell length",
+          "value": 8.5,
+          "value_max": null,
+          "unit": "m",
+          "context": "Single racing shell; drawing dimension.",
+          "status": "uncertain",
+          "ocr_raw": "8.5"
+        },
+        {
+          "label": "Racing shell width",
+          "value": 1.65,
+          "value_max": 1.7,
+          "unit": "m",
+          "context": "Single racing shell; drawing dimension.",
+          "status": "uncertain",
+          "ocr_raw": "1.65–1.70"
+        },
+        {
+          "label": "Coxless pair/four length",
+          "value": 11.0,
+          "value_max": 13.5,
+          "unit": "m",
+          "context": "Length dimensions for the pair/four variants; drawing notation does not assign each endpoint to a variant.",
+          "status": "uncertain",
+          "ocr_raw": "11.0/13.5"
+        },
+        {
+          "label": "Racing shell: eight length",
+          "value": 19.5,
+          "value_max": null,
+          "unit": "m",
+          "context": "Eight-person racing shell; drawing dimension.",
+          "status": "uncertain",
+          "ocr_raw": "19.50"
+        },
+        {
+          "label": "Racing skiff length",
+          "value": 7.5,
+          "value_max": 17.5,
+          "unit": "m",
+          "context": "Drawing lists dimensions for single/four/eight variants; the printed intermediate value is 12.5.",
+          "status": "uncertain",
+          "ocr_raw": "7.5/12.5/17.5"
+        },
+        {
+          "label": "Racing skiff intermediate listed length",
+          "value": 12.5,
+          "value_max": null,
+          "unit": "m",
+          "context": "One of the three dimensions printed for racing skiff single/four/eight; variant assignment is not explicit.",
+          "status": "uncertain",
+          "ocr_raw": "7.5/12.5/17.5"
+        },
+        {
+          "label": "Touring skiff length",
+          "value": 6.5,
+          "value_max": 8.5,
+          "unit": "m",
+          "context": "Drawing lists dimensions for single/pair variants as 6.50–7.0 and 8.25–8.5; the endpoints are retained as a range.",
+          "status": "uncertain",
+          "ocr_raw": "6.50–7.0/8.25–8.5"
+        },
+        {
+          "label": "Touring skiff four/eight lengths",
+          "value": 10.5,
+          "value_max": 11.0,
+          "unit": "m",
+          "context": "One printed length range for touring skiff four/eight.",
+          "status": "uncertain",
+          "ocr_raw": "10.50–11.00/17.50"
+        },
+        {
+          "label": "Touring skiff four/eight additional listed length",
+          "value": 17.5,
+          "value_max": null,
+          "unit": "m",
+          "context": "Additional printed length for touring skiff four/eight.",
+          "status": "uncertain",
+          "ocr_raw": "10.50–11.00/17.50"
+        },
+        {
+          "label": "Seagoing gig length",
+          "value": 8.5,
+          "value_max": 10.5,
+          "unit": "m",
+          "context": "Pair/four variants; drawing notation lists both lengths without assigning endpoints.",
+          "status": "uncertain",
+          "ocr_raw": "8.5/10.5"
+        },
+        {
+          "label": "Touring boat length",
+          "value": 11.5,
+          "value_max": null,
+          "unit": "m",
+          "context": "Touring boat; drawing dimension.",
+          "status": "uncertain",
+          "ocr_raw": "11.5"
+        },
+        {
+          "label": "Canoe length",
+          "value": 4.0,
+          "value_max": 6.5,
+          "unit": "m",
+          "context": "Canoe with single-bladed paddle; drawing prints 4.0–5.2/4.0–6.5 for variants.",
+          "status": "uncertain",
+          "ocr_raw": "4.0–5.2/4.0–6.5"
+        },
+        {
+          "label": "Canoe length, additional printed range",
+          "value": 4.0,
+          "value_max": 5.2,
+          "unit": "m",
+          "context": "Canoe with single-bladed paddle; one of two printed variant ranges.",
+          "status": "uncertain",
+          "ocr_raw": "4.0–5.2/4.0–6.5"
+        },
+        {
+          "label": "Racing canoe length",
+          "value": 11.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Racing canoe, eight with cox; drawing dimension.",
+          "status": "uncertain",
+          "ocr_raw": "11.0"
+        },
+        {
+          "label": "Touring crew canoe listed dimension",
+          "value": 6.0,
+          "value_max": 7.0,
+          "unit": "m",
+          "context": "Touring crew canoe, eight and ten with cox; drawing notation lists 6.0/7.0 and separately 9.0.",
+          "status": "uncertain",
+          "ocr_raw": "6.0 / 7.0"
+        },
+        {
+          "label": "Touring crew canoe additional listed dimension",
+          "value": 9.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Touring crew canoe, eight and ten with cox; separate drawing dimension.",
+          "status": "uncertain",
+          "ocr_raw": "9.0"
+        },
+        {
+          "label": "Dragon boat length",
+          "value": 12.49,
+          "value_max": null,
+          "unit": "m",
+          "context": "Dragon boat, IDBF racing standard; drawing dimension.",
+          "status": "uncertain",
+          "ocr_raw": "12.49"
+        },
+        {
+          "label": "Kayak length",
+          "value": 4.8,
+          "value_max": 6.5,
+          "unit": "m",
+          "context": "Kayak with double-bladed paddle, single/pair; first printed length range.",
+          "status": "uncertain",
+          "ocr_raw": "4.8–6.5/4.0–5.2"
+        },
+        {
+          "label": "Kayak additional listed length range",
+          "value": 4.0,
+          "value_max": 5.2,
+          "unit": "m",
+          "context": "Kayak with double-bladed paddle, single/pair; second printed length range.",
+          "status": "uncertain",
+          "ocr_raw": "4.8–6.5/4.0–5.2"
+        },
+        {
+          "label": "Kayak length, four",
+          "value": 11.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Kayak with double-bladed paddle, four; drawing dimension.",
+          "status": "uncertain",
+          "ocr_raw": "11.0"
+        },
+        {
+          "label": "Touring boat width",
+          "value": 1.4,
+          "value_max": null,
+          "unit": "m",
+          "context": "Touring boat; drawing dimension.",
+          "status": "uncertain",
+          "ocr_raw": "1.40"
+        },
+        {
+          "label": "Touring boat height",
+          "value": 1.8,
+          "value_max": null,
+          "unit": "m",
+          "context": "Touring boat; drawing dimension.",
+          "status": "uncertain",
+          "ocr_raw": "1.80"
+        }
+      ],
+      "figure_refs": [
+        "1–14"
+      ],
+      "cross_refs": [],
+      "keywords": [
+        "rowing boat",
+        "racing shell",
+        "racing skiff",
+        "touring skiff",
+        "seagoing gig",
+        "touring boat",
+        "kayak",
+        "canoe",
+        "dragon boat"
+      ],
+      "tags_architectural": [
+        "ergonomics"
+      ],
+      "confidence": 0.78
+    },
+    {
+      "id": "4122fb96e4bd1976-352-vision-1",
+      "pdf_page": 352,
+      "book_page": 339,
+      "chapter": "SPORT AND LEISURE",
+      "section": "Sports Facilities",
+      "title": "Boathouse and Boat Storage",
+      "summary": "Boathouse planning guidance covers north-facing daylight openings, boat-carrying doors, internal storage, and an adjoining shore strip for boat preparation, water taps, and trailer parking. Nearby lawn or woodland may support camping.",
+      "building_type": "Boathouse",
+      "spaces": [
+        "Boat storage area",
+        "Entrance and storage area",
+        "Shore strip",
+        "Adjacent lawn or woodland (if possible)"
+      ],
+      "uses": [
+        "Store and prepare boats and oars",
+        "Carry boats into and out of the boathouse",
+        "Clean and prepare boats at the shore",
+        "Park trailers"
+      ],
+      "furniture_equipment": [
+        "North-facing windows or skylights",
+        "Boat racks",
+        "Clamping ring above a pit for hanging boats",
+        "Water taps",
+        "Trailer parking"
+      ],
+      "dimensions": [
+        {
+          "label": "Boathouse door width",
+          "value": 2.5,
+          "value_max": null,
+          "unit": "m",
+          "context": "Door opening; printed as approximately at least 2.50 × 2.75 m. First component retained as width.",
+          "status": "uncertain",
+          "ocr_raw": "Doors ≥2.50 × 2.75 m"
+        },
+        {
+          "label": "Boathouse door height",
+          "value": 2.75,
+          "value_max": null,
+          "unit": "m",
+          "context": "Door opening; printed as approximately at least 2.50 × 2.75 m. Second component retained as height.",
+          "status": "uncertain",
+          "ocr_raw": "Doors ≥2.50 × 2.75 m"
+        },
+        {
+          "label": "Boathouse width",
+          "value": 6.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Minimum indicated boathouse width.",
+          "status": "uncertain",
+          "ocr_raw": "Boathouse width ≥6.00 m"
+        },
+        {
+          "label": "Boathouse length",
+          "value": 30.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Length described as ideal.",
+          "status": "uncertain",
+          "ocr_raw": "length ideally 30 m"
+        },
+        {
+          "label": "Boathouse height",
+          "value": 4.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Height described as desirable if possible.",
+          "status": "uncertain",
+          "ocr_raw": "height 4.0 m if possible"
+        },
+        {
+          "label": "Oar length",
+          "value": 3.8,
+          "value_max": null,
+          "unit": "m",
+          "context": "Oar storage and equipment guidance.",
+          "status": "uncertain",
+          "ocr_raw": "Oars 3.80 m long"
+        },
+        {
+          "label": "Oar spoon length",
+          "value": 15.0,
+          "value_max": 18.0,
+          "unit": "cm",
+          "context": "Spoon dimension for oars.",
+          "status": "uncertain",
+          "ocr_raw": "spoons 15–18 cm"
+        },
+        {
+          "label": "Shore strip width",
+          "value": 20.0,
+          "value_max": 30.0,
+          "unit": "m",
+          "context": "Width required between boathouse and water jetty for cleaning and preparing boats.",
+          "status": "uncertain",
+          "ocr_raw": "shore strip ≥20–30 m wide"
+        }
+      ],
+      "figure_refs": [
+        "15"
+      ],
+      "cross_refs": [
+        "15"
+      ],
+      "keywords": [
+        "boathouse",
+        "boat storage",
+        "shore strip",
+        "oar storage",
+        "boat preparation"
+      ],
+      "tags_architectural": [
+        "daylighting",
+        "circulation",
+        "adaptability"
+      ],
+      "confidence": 0.91
+    },
+    {
+      "id": "4122fb96e4bd1976-352-vision-2",
+      "pdf_page": 352,
+      "book_page": 339,
+      "chapter": "SPORT AND LEISURE",
+      "section": "Sports Facilities",
+      "title": "Indoor Rowing Basin and Double-Sided Sculling Pool",
+      "summary": "A training rowing basin uses shortened oars and water circulation to create currents similar to open water. The text recommends combining the facility with a sports hall or indoor pool and their changing rooms. An accompanying plan and section depict a double-sided sculling pool with compensating channels.",
+      "building_type": "Indoor rowing training facility",
+      "spaces": [
+        "Rowing basin",
+        "Double-sided sculling pool",
+        "Compensating channels",
+        "Changing rooms"
+      ],
+      "uses": [
+        "Indoor rowing training",
+        "Simulate open-water currents"
+      ],
+      "furniture_equipment": [
+        "Rowing basin for an eight",
+        "Shortened oars"
+      ],
+      "dimensions": [
+        {
+          "label": "Basin length for an eight",
+          "value": 12.6,
+          "value_max": null,
+          "unit": "m",
+          "context": "Textual dimension for the rowing training basin; other component of the printed size is its width.",
+          "status": "uncertain",
+          "ocr_raw": "basin size for an eight 12.60 × 7.60 m"
+        },
+        {
+          "label": "Basin width for an eight",
+          "value": 7.6,
+          "value_max": null,
+          "unit": "m",
+          "context": "Textual dimension for the rowing training basin.",
+          "status": "uncertain",
+          "ocr_raw": "basin size for an eight 12.60 × 7.60 m"
+        },
+        {
+          "label": "Double-sided sculling pool length",
+          "value": 10.96,
+          "value_max": null,
+          "unit": "m",
+          "context": "Plan dimension for the pool.",
+          "status": "uncertain",
+          "ocr_raw": "10.96"
+        },
+        {
+          "label": "Double-sided sculling pool width",
+          "value": 6.92,
+          "value_max": null,
+          "unit": "m",
+          "context": "Dimension printed within the pool plan.",
+          "status": "uncertain",
+          "ocr_raw": "6.92"
+        },
+        {
+          "label": "Pool section dimension",
+          "value": 7.1,
+          "value_max": null,
+          "unit": "m",
+          "context": "Dimension shown beside the section of the double-sided sculling pool; exact axis is not labeled in the OCR.",
+          "status": "uncertain",
+          "ocr_raw": "7.10"
+        },
+        {
+          "label": "Pool section dimension",
+          "value": 1.25,
+          "value_max": null,
+          "unit": "m",
+          "context": "Dimension shown at the base of the pool section; exact axis is not labeled in the OCR.",
+          "status": "uncertain",
+          "ocr_raw": "1.25"
+        }
+      ],
+      "figure_refs": [
+        "17"
+      ],
+      "cross_refs": [
+        "17"
+      ],
+      "keywords": [
+        "rowing basin",
+        "sculling pool",
+        "indoor training",
+        "water circulation",
+        "compensating channels"
+      ],
+      "tags_architectural": [
+        "circulation",
+        "adaptability"
+      ],
+      "confidence": 0.84
+    },
+    {
+      "id": "4122fb96e4bd1976-352-vision-3",
+      "pdf_page": 352,
+      "book_page": 339,
+      "chapter": "SPORT AND LEISURE",
+      "section": "Sports Facilities",
+      "title": "Boat Stands",
+      "summary": "The drawing shows boat stands in section and elevation and specifies their spacing.",
+      "building_type": "Boat storage installation",
+      "spaces": [
+        "Boat stand storage area"
+      ],
+      "uses": [
+        "Support and store boats"
+      ],
+      "furniture_equipment": [
+        "Boat stands"
+      ],
+      "dimensions": [
+        {
+          "label": "Spacing between boat stands",
+          "value": 2.0,
+          "value_max": 2.5,
+          "unit": "m",
+          "context": "Interval between stands.",
+          "status": "uncertain",
+          "ocr_raw": "Boat stands every 2.00–2.50 m"
+        }
+      ],
+      "figure_refs": [
+        "16"
+      ],
+      "cross_refs": [],
+      "keywords": [
+        "boat stands",
+        "boat storage"
+      ],
+      "tags_architectural": [
+        "modularity"
+      ],
+      "confidence": 0.96
+    }
+  ]
+}

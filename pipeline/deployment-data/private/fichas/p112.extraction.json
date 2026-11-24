@@ -1,0 +1,242 @@
+{
+  "fichas": [
+    {
+      "id": "4122fb96e4bd1976-112-vision-0",
+      "pdf_page": 112,
+      "book_page": 99,
+      "chapter": "BUILDING COMPONENTS",
+      "section": "Windows",
+      "title": "Windows: Thermal Insulation",
+      "summary": "Overview of window forms by casement and frame type, window placement in walls, insulation and sun-protection arrangements, thermal-transmittance limits, and joint-permeability classes. The text discusses thermal and sound insulation, natural ventilation, dimensional tolerances, and airtightness requirements.",
+      "building_type": "Windows and glazed building elements",
+      "spaces": [],
+      "uses": [
+        "Provide thermal and sound insulation",
+        "Admit daylight while limiting heat transfer",
+        "Provide natural ventilation, including in strong wind and rain when an external impact pane is used",
+        "Meet airtightness and minimum air-change requirements"
+      ],
+      "furniture_equipment": [
+        "Single window",
+        "Double window as combined window",
+        "Double window as box window",
+        "Window frame in recessed jamb",
+        "Window frame in plain jamb",
+        "Window frame in all-round jamb",
+        "Impact pane",
+        "Sunshade equipment",
+        "External windows and French windows",
+        "Roof windows",
+        "Glazing",
+        "Curtain walls",
+        "Glass roofs"
+      ],
+      "dimensions": [
+        {
+          "label": "Maximum dimensional tolerance for window and door openings",
+          "value": 12.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "For openings up to 3 m long; maximum permitted tolerance.",
+          "status": "uncertain",
+          "ocr_raw": "up to 3 m long are max. 12 mm"
+        },
+        {
+          "label": "Maximum dimensional tolerance for window and door elements",
+          "value": 16.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "For elements up to 6 m; maximum permitted tolerance.",
+          "status": "uncertain",
+          "ocr_raw": "for elements up to 6 m, max. 16 mm"
+        },
+        {
+          "label": "Maximum thermal transmittance Umax",
+          "value": 1.3,
+          "value_max": null,
+          "unit": "W/(m² × K)",
+          "context": "Row 2a, external windows and French windows; residential buildings and zones of non-residential buildings with interior temperatures >19°C.",
+          "status": "uncertain",
+          "ocr_raw": "external windows, French windows 1.30 2)"
+        },
+        {
+          "label": "Maximum thermal transmittance Umax",
+          "value": 1.9,
+          "value_max": null,
+          "unit": "W/(m² × K)",
+          "context": "Row 2a, external windows and French windows; zones of non-residential buildings with interior temperatures 12–19°C.",
+          "status": "uncertain",
+          "ocr_raw": "1.90 2)"
+        },
+        {
+          "label": "Maximum thermal transmittance Umax",
+          "value": 1.4,
+          "value_max": null,
+          "unit": "W/(m² × K)",
+          "context": "Row 2b, roof windows; residential buildings and zones of non-residential buildings with interior temperatures >19°C.",
+          "status": "uncertain",
+          "ocr_raw": "roof windows 1.40 2)"
+        },
+        {
+          "label": "Maximum thermal transmittance Umax",
+          "value": 1.9,
+          "value_max": null,
+          "unit": "W/(m² × K)",
+          "context": "Row 2b, roof windows; zones of non-residential buildings with interior temperatures 12–19°C.",
+          "status": "uncertain",
+          "ocr_raw": "1.90 2)"
+        },
+        {
+          "label": "Maximum thermal transmittance Umax",
+          "value": 1.1,
+          "value_max": null,
+          "unit": "W/(m² × K)",
+          "context": "Row 2c, glazing; residential buildings and zones of non-residential buildings with interior temperatures >19°C.",
+          "status": "uncertain",
+          "ocr_raw": "glazing 1.10 3)"
+        },
+        {
+          "label": "Maximum thermal transmittance Umax",
+          "value": 1.4,
+          "value_max": null,
+          "unit": "W/(m² × K)",
+          "context": "Row 2d, curtain walls; residential buildings and zones of non-residential buildings with interior temperatures >19°C.",
+          "status": "uncertain",
+          "ocr_raw": "curtain walls 1.40 4)"
+        },
+        {
+          "label": "Maximum thermal transmittance Umax",
+          "value": 1.9,
+          "value_max": null,
+          "unit": "W/(m² × K)",
+          "context": "Row 2d, curtain walls; zones of non-residential buildings with interior temperatures 12–19°C.",
+          "status": "uncertain",
+          "ocr_raw": "1.90 4)"
+        },
+        {
+          "label": "Maximum thermal transmittance Umax",
+          "value": 1.9,
+          "value_max": null,
+          "unit": "W/(m² × K)",
+          "context": "Row 2e, curtain walls; residential buildings and zones of non-residential buildings with interior temperatures >19°C.",
+          "status": "uncertain",
+          "ocr_raw": "curtain walls 1.90 4)"
+        },
+        {
+          "label": "Maximum thermal transmittance Umax",
+          "value": 2.0,
+          "value_max": null,
+          "unit": "W/(m² × K)",
+          "context": "Row 2f, glass roofs; residential buildings and zones of non-residential buildings with interior temperatures >19°C.",
+          "status": "uncertain",
+          "ocr_raw": "glass roofs 2.00 3)"
+        },
+        {
+          "label": "Maximum thermal transmittance Umax",
+          "value": 2.7,
+          "value_max": null,
+          "unit": "W/(m² × K)",
+          "context": "Row 2f, glass roofs; zones of non-residential buildings with interior temperatures 12–19°C.",
+          "status": "uncertain",
+          "ocr_raw": "2.70 3)"
+        },
+        {
+          "label": "Maximum thermal transmittance Umax",
+          "value": 2.0,
+          "value_max": null,
+          "unit": "W/(m² × K)",
+          "context": "Row 3a, external windows, French windows, and roof windows with special glazing; residential buildings and zones of non-residential buildings with interior temperatures >19°C.",
+          "status": "uncertain",
+          "ocr_raw": "external windows, French windows, roof windows with special glazing 2.00 2)"
+        },
+        {
+          "label": "Maximum thermal transmittance Umax",
+          "value": 2.8,
+          "value_max": null,
+          "unit": "W/(m² × K)",
+          "context": "Row 3a, external windows, French windows, and roof windows with special glazing; zones of non-residential buildings with interior temperatures 12–19°C.",
+          "status": "uncertain",
+          "ocr_raw": "2.80 2)"
+        },
+        {
+          "label": "Maximum thermal transmittance Umax",
+          "value": 1.6,
+          "value_max": null,
+          "unit": "W/(m² × K)",
+          "context": "Row 3b, special glazing; residential buildings and zones of non-residential buildings with interior temperatures >19°C.",
+          "status": "uncertain",
+          "ocr_raw": "special glazing 1.60 3)"
+        },
+        {
+          "label": "Maximum thermal transmittance Umax",
+          "value": 2.3,
+          "value_max": null,
+          "unit": "W/(m² × K)",
+          "context": "Row 3c, curtain walls with special glazing; residential buildings and zones of non-residential buildings with interior temperatures >19°C.",
+          "status": "uncertain",
+          "ocr_raw": "curtain walls with special glazing 2.3 4)"
+        },
+        {
+          "label": "Maximum thermal transmittance Umax",
+          "value": 3.0,
+          "value_max": null,
+          "unit": "W/(m² × K)",
+          "context": "Row 3c, curtain walls with special glazing; zones of non-residential buildings with interior temperatures 12–19°C.",
+          "status": "uncertain",
+          "ocr_raw": "3.0 4)"
+        },
+        {
+          "label": "Joint permeability class",
+          "value": 2.0,
+          "value_max": null,
+          "unit": "class",
+          "context": "External windows, French windows, and roof windows in buildings with up to 2 full storeys.",
+          "status": "uncertain",
+          "ocr_raw": "up to 2 2"
+        },
+        {
+          "label": "Joint permeability class",
+          "value": 3.0,
+          "value_max": null,
+          "unit": "class",
+          "context": "External windows, French windows, and roof windows in buildings with more than 2 full storeys.",
+          "status": "uncertain",
+          "ocr_raw": "more than 2 3"
+        }
+      ],
+      "figure_refs": [
+        "1: Window forms according to type of casement",
+        "2: Window forms according to type of frame (left: outside, right: inside)",
+        "3: Location of window in the wall (left: outside, right: inside)",
+        "4: Joint permeability classes in external windows, French windows and roof windows",
+        "5: Maximum values approach for single building elements"
+      ],
+      "cross_refs": [
+        "Glass, pp. 107 ff.",
+        "Building physics, pp. 471 ff.",
+        "Daylight, pp. 488 ff.",
+        "Solar gains calculation, p. 474 ff."
+      ],
+      "keywords": [
+        "windows",
+        "thermal insulation",
+        "thermal transmittance",
+        "U-value",
+        "window frame",
+        "casement",
+        "jamb",
+        "curtain wall",
+        "glazing",
+        "roof window",
+        "joint permeability",
+        "airtightness",
+        "impact pane",
+        "sun protection"
+      ],
+      "tags_architectural": [
+        "ventilation"
+      ],
+      "confidence": 0.96
+    }
+  ]
+}

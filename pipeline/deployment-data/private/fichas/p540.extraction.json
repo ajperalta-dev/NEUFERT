@@ -1,0 +1,201 @@
+{
+  "fichas": [
+    {
+      "id": "4122fb96e4bd1976-540-vision-0",
+      "pdf_page": 540,
+      "book_page": 527,
+      "chapter": "BUILDING SERVICES",
+      "section": "Domestic Installation",
+      "title": "Backflow prevention devices",
+      "summary": "Application areas and approved backflow prevention device types are tabulated for faeces-free water and precipitation water, wastewater containing faeces, and rainwater utilisation facilities. The page also illustrates a wastewater lifting-pump arrangement and describes protection against sewer back-up.",
+      "building_type": "Building drainage system",
+      "spaces": [
+        "Drainage system",
+        "Pumping sump"
+      ],
+      "uses": [
+        "Select backflow prevention devices for the stated water categories",
+        "Protect discharge locations below the sewer back-up level"
+      ],
+      "furniture_equipment": [
+        "Backflow preventer",
+        "Collection tank",
+        "Sump pump",
+        "Manual membrane pump",
+        "Shut-off valve",
+        "Control system",
+        "Pressure pipe"
+      ],
+      "dimensions": [],
+      "figure_refs": [
+        "Figure 1: Application areas for backflow prevention devices",
+        "Figure 2: Wastewater lifting pump as double system",
+        "Figure 3: Back-up in the discharge pipe of a combined drainage system"
+      ],
+      "cross_refs": [
+        "DIN EN 13564-1",
+        "DIN 1986-100, Table 2",
+        "DIN 1997",
+        "DIN 19578",
+        "DIN 1989-1",
+        "DIN EN 12056-4",
+        "DIN 12056-4"
+      ],
+      "keywords": [
+        "backflow prevention",
+        "wastewater lifting pump",
+        "back-up level",
+        "drainage",
+        "rainwater"
+      ],
+      "tags_architectural": [
+        "safety"
+      ],
+      "confidence": 0.92
+    },
+    {
+      "id": "4122fb96e4bd1976-540-vision-1",
+      "pdf_page": 540,
+      "book_page": 527,
+      "chapter": "BUILDING SERVICES",
+      "section": "Domestic Installation",
+      "title": "Roof drainage with pressurised flow",
+      "summary": "Pressurised roof drainage requires hydraulic certification for each project. Backing-up at the outlet is not considered roof flooding when outlet requirements are met. Roofs subject to regular flooding require waterproofing and structural design to the flooding level. When discharging into unpressurised pipework, reduce flow velocity to limit kinetic energy.",
+      "building_type": "Building drainage system",
+      "spaces": [
+        "Roof surface",
+        "Roof outlet",
+        "Drainage pipework"
+      ],
+      "uses": [
+        "Drain roof surfaces using pressurised-flow drainage",
+        "Manage discharge into unpressurised pipework"
+      ],
+      "furniture_equipment": [
+        "Roof outlet",
+        "Drainage pipework"
+      ],
+      "dimensions": [
+        {
+          "label": "Maximum flow velocity after reduction",
+          "value": 2.5,
+          "value_max": null,
+          "unit": "m/s",
+          "context": "Flow velocity is to be reduced to less than this value when pressurised drainage feeds into an unpressurised pipework system.",
+          "status": "uncertain",
+          "ocr_raw": "<2.5 m/s"
+        }
+      ],
+      "figure_refs": [],
+      "cross_refs": [
+        "DIN 19599"
+      ],
+      "keywords": [
+        "roof drainage",
+        "pressurised flow",
+        "hydraulic certification",
+        "flooding level",
+        "flow velocity"
+      ],
+      "tags_architectural": [
+        "safety"
+      ],
+      "confidence": 0.96
+    },
+    {
+      "id": "4122fb96e4bd1976-540-vision-2",
+      "pdf_page": 540,
+      "book_page": 527,
+      "chapter": "BUILDING SERVICES",
+      "section": "Domestic Installation",
+      "title": "Sewer back-up and special wastewater",
+      "summary": "Discharge locations below the sewer back-up level require protection by an automatic wastewater lifting pump with a back-up loop or a backflow prevention device. Double lifting systems are specified where wastewater flow must not be interrupted. The text also calls for flooding and overloading certification in relevant cases and treatment or separation of commercial and industrial wastewater before discharge to a public foul sewer.",
+      "building_type": "Building drainage system",
+      "spaces": [
+        "Discharge locations below sewer back-up level",
+        "House entrances",
+        "Cellar entrances",
+        "Garage access drives",
+        "Internal courtyards",
+        "Commercial and industrial wastewater drainage"
+      ],
+      "uses": [
+        "Prevent sewer back-up at low-level discharge points",
+        "Provide continuous wastewater pumping with a double lifting system where required",
+        "Treat commercial and industrial wastewater before discharge",
+        "Separate mineral oil or volatile liquids from wastewater"
+      ],
+      "furniture_equipment": [
+        "Automatic wastewater lifting pump",
+        "Back-up loop",
+        "Backflow prevention device",
+        "Grease separator",
+        "Separator for volatile liquids",
+        "Starch separator",
+        "Emulsion splitting plant",
+        "Silt trap",
+        "Sampling chamber"
+      ],
+      "dimensions": [
+        {
+          "label": "Design rainfall event",
+          "value": 100.0,
+          "value_max": null,
+          "unit": "year return period",
+          "context": "Design the stated pumps so a hundred-year event cannot cause damage.",
+          "status": "uncertain",
+          "ocr_raw": "r5(100)"
+        },
+        {
+          "label": "Rainfall assumed for flooding certification",
+          "value": 30.0,
+          "value_max": null,
+          "unit": "year return period",
+          "context": "Flooding certification for larger areas below the sewer back-up level assumes this rainfall event.",
+          "status": "uncertain",
+          "ocr_raw": "r15(30)"
+        },
+        {
+          "label": "Minimum design rainfall event",
+          "value": 2.0,
+          "value_max": null,
+          "unit": "year return period",
+          "context": "The wastewater lifting pump should be designed for at least this event.",
+          "status": "uncertain",
+          "ocr_raw": "r5(2)"
+        },
+        {
+          "label": "Rainstorm event for flooding and overloading certifications",
+          "value": 100.0,
+          "value_max": null,
+          "unit": "year return period",
+          "context": "Flooding and overloading certifications are to be obtained for this rainstorm event.",
+          "status": "uncertain",
+          "ocr_raw": "r5(100)"
+        }
+      ],
+      "figure_refs": [
+        "Figure 2: Wastewater lifting pump as double system",
+        "Figure 3: Back-up in the discharge pipe of a combined drainage system"
+      ],
+      "cross_refs": [
+        "DIN EN 12056-4",
+        "DIN 752-4",
+        "DIN 1999",
+        "DIN EN 752-4",
+        "Wellpott, Bohne -> refs"
+      ],
+      "keywords": [
+        "sewer back-up",
+        "double lifting system",
+        "flooding certification",
+        "special wastewater",
+        "separators"
+      ],
+      "tags_architectural": [
+        "safety"
+      ],
+      "confidence": 0.88
+    }
+  ]
+}

@@ -1,0 +1,301 @@
+{
+  "fichas": [
+    {
+      "id": "4122fb96e4bd1976-331-vision-0",
+      "pdf_page": 331,
+      "book_page": 318,
+      "chapter": "SPORT AND LEISURE",
+      "section": "Stadiums",
+      "title": "Stadiums: Overview and spectator stands",
+      "summary": "Overview of stadium layouts, site planning, orientation, spectator viewing and circulation, evacuation stair capacity, support facilities, parking, and stand sections. Stadium forms include U-shaped, segmented, semi-circular-ended, curved-sided, and horseshoe layouts. The text recommends planning for terrain, transport and utilities, avoiding nearby industry, and orienting European arenas northeast–southwest so spectators generally have the sun behind them. The symbolic stair-width formula is given as number of spectators divided by evacuation time in seconds multiplied by 1.25; no value is calculated here.",
+      "building_type": "Sports stadium",
+      "spaces": [
+        "Playing field and running track",
+        "Spectator stands",
+        "Entrances and turnstiles",
+        "Access passages and stairs",
+        "First-aid treatment and rest room",
+        "First-aid store room",
+        "Toilets with lobbies",
+        "Public safety room",
+        "Commentary boxes",
+        "Media switchroom",
+        "Car parking",
+        "Coach parking"
+      ],
+      "uses": [
+        "Hosting sports events",
+        "Seating and viewing sports",
+        "Admitting and evacuating spectators",
+        "Providing first aid and public safety facilities",
+        "Broadcast commentary and media operations"
+      ],
+      "furniture_equipment": [
+        "Turnstiles",
+        "Pay booths",
+        "Loudspeakers",
+        "Commentary boxes",
+        "Media boxes",
+        "Switchroom equipment"
+      ],
+      "dimensions": [
+        {
+          "label": "Circus Maximus spectator capacity",
+          "value": 180000.0,
+          "value_max": null,
+          "unit": "spectators",
+          "context": "Historical example of the capacity of the Circus Maximus in Rome.",
+          "status": "uncertain",
+          "ocr_raw": "the Circus Maximus in Rome had room for 180,000 spectators"
+        },
+        {
+          "label": "Football pitch layout length",
+          "value": 70.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "First component of the printed 70 × 109 m football-pitch layout; the source does not identify which axis this component represents.",
+          "status": "uncertain",
+          "ocr_raw": "70 x 109 m layout of a football pitch"
+        },
+        {
+          "label": "Football pitch layout length",
+          "value": 109.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Second component of the printed 70 × 109 m football-pitch layout; the source does not identify which axis this component represents.",
+          "status": "uncertain",
+          "ocr_raw": "70 x 109 m layout of a football pitch"
+        },
+        {
+          "label": "Seating and standing-place gradient",
+          "value": 1.0,
+          "value_max": 2.0,
+          "unit": "ratio",
+          "context": "Vitruvius's recommended fixed gradient for rows of seating and standing places; printed ratio 1:2.",
+          "status": "uncertain",
+          "ocr_raw": "a fixed gradient of 1:2 for both rows of seating and standing places"
+        },
+        {
+          "label": "Spectators in Amsterdam stadium evacuation example",
+          "value": 5000.0,
+          "value_max": null,
+          "unit": "spectators",
+          "context": "Basis of the stated evacuation-time and stair-width example.",
+          "status": "uncertain",
+          "ocr_raw": "each 5000 spectators at the Amsterdam stadium"
+        },
+        {
+          "label": "Amsterdam stadium evacuation time",
+          "value": 7.0,
+          "value_max": null,
+          "unit": "minutes",
+          "context": "Time for 5,000 spectators to leave using the stated 9.5 m wide stairs; also expressed as 420 seconds.",
+          "status": "uncertain",
+          "ocr_raw": "require 7 minutes (or 420 seconds) to leave using the 9.5 m wide stairs provided"
+        },
+        {
+          "label": "Amsterdam stadium evacuation time",
+          "value": 420.0,
+          "value_max": null,
+          "unit": "seconds",
+          "context": "Equivalent time given for the Amsterdam stadium evacuation example.",
+          "status": "uncertain",
+          "ocr_raw": "7 minutes (or 420 seconds)"
+        },
+        {
+          "label": "Evacuation stair width",
+          "value": 9.5,
+          "value_max": null,
+          "unit": "m",
+          "context": "Width of the stairs in the Amsterdam stadium evacuation example.",
+          "status": "uncertain",
+          "ocr_raw": "using the 9.5 m wide stairs provided"
+        },
+        {
+          "label": "Los Angeles evacuation time",
+          "value": 12.0,
+          "value_max": null,
+          "unit": "minutes",
+          "context": "Comparative spectator evacuation time stated for Los Angeles.",
+          "status": "uncertain",
+          "ocr_raw": "in Los Angeles 12 minutes"
+        },
+        {
+          "label": "Turin evacuation time",
+          "value": 9.0,
+          "value_max": null,
+          "unit": "minutes",
+          "context": "Comparative spectator evacuation time stated for Turin.",
+          "status": "uncertain",
+          "ocr_raw": "in Turin 9 minutes"
+        },
+        {
+          "label": "Stair-width rate factor",
+          "value": 1.25,
+          "value_max": null,
+          "unit": "spectators per second per m stair width",
+          "context": "Printed rate factor in the evacuation calculation and stair-width formula; retain the source's displayed expression 5000 / (9.5 × 420) = 1.25 s spectators leave, with units as described in the text.",
+          "status": "uncertain",
+          "ocr_raw": "5000 / 9.5 x 420 = 1.25 s spectators leave"
+        },
+        {
+          "label": "Viewing distance",
+          "value": 110.0,
+          "value_max": 196.0,
+          "unit": "m",
+          "context": "Distance range shown in figure 6, whose caption states that viewing distance determines the size of the sports ground.",
+          "status": "uncertain",
+          "ocr_raw": "110–196m"
+        },
+        {
+          "label": "Viewing distance",
+          "value": 92.0,
+          "value_max": 146.0,
+          "unit": "m",
+          "context": "Distance range shown in figure 6, whose caption states that viewing distance determines the size of the sports ground.",
+          "status": "uncertain",
+          "ocr_raw": "92–146 m"
+        },
+        {
+          "label": "First-aid room group provision threshold",
+          "value": 20000.0,
+          "value_max": null,
+          "unit": "spectators",
+          "context": "A group of first-aid rooms is stated to be necessary for every 20,000 spectators.",
+          "status": "uncertain",
+          "ocr_raw": "A group of rooms is necessary for every 20,000 spectators"
+        },
+        {
+          "label": "First-aid treatment and rest room area",
+          "value": 15.0,
+          "value_max": null,
+          "unit": "m²",
+          "context": "Area specified for the treatment and rest room in each first-aid room group.",
+          "status": "uncertain",
+          "ocr_raw": "treatment and rest room 15 m²"
+        },
+        {
+          "label": "First-aid store room area",
+          "value": 2.0,
+          "value_max": null,
+          "unit": "m²",
+          "context": "Area specified for the store room in each first-aid room group.",
+          "status": "uncertain",
+          "ocr_raw": "store room 2 m²"
+        },
+        {
+          "label": "Public safety room provision threshold",
+          "value": 30000.0,
+          "value_max": null,
+          "unit": "spectators",
+          "context": "For stadiums with capacity above this figure, an additional room for public safety personnel is stated to be required.",
+          "status": "uncertain",
+          "ocr_raw": "For stadiums with room for more than 30,000 spectators"
+        },
+        {
+          "label": "Public safety room area",
+          "value": 15.0,
+          "value_max": null,
+          "unit": "m²",
+          "context": "Room for public safety personnel in stadiums with capacity above 30,000 spectators.",
+          "status": "uncertain",
+          "ocr_raw": "there should also be a 15 m² room for public safety personnel"
+        },
+        {
+          "label": "Commentary box area",
+          "value": 1.5,
+          "value_max": null,
+          "unit": "m²",
+          "context": "Area of each commentary box in the main stand.",
+          "status": "uncertain",
+          "ocr_raw": "each box 1.5 m²"
+        },
+        {
+          "label": "Media boxes per switchroom",
+          "value": 5.0,
+          "value_max": null,
+          "unit": "media boxes",
+          "context": "A switchroom is specified behind every five media boxes.",
+          "status": "uncertain",
+          "ocr_raw": "Behind every five media boxes, a switchroom"
+        },
+        {
+          "label": "Media switchroom area",
+          "value": 4.0,
+          "value_max": null,
+          "unit": "m²",
+          "context": "Area specified for the switchroom behind every five media boxes.",
+          "status": "uncertain",
+          "ocr_raw": "a switchroom of 4 m²"
+        },
+        {
+          "label": "Car parking provision",
+          "value": 1.0,
+          "value_max": 4.0,
+          "unit": "ratio",
+          "context": "One car parking space for every four spectators; printed relation 1:4.",
+          "status": "uncertain",
+          "ocr_raw": "One car parking space for every four spectators"
+        },
+        {
+          "label": "Stand-section horizontal dimension",
+          "value": 80.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Figure 8 upper stand section shows three repeated 80 cm annotations; OCR prints 80 + 80 + 80. The unit is not legible in the OCR and is read from the diagram's dimension convention, so uncertain.",
+          "status": "uncertain",
+          "ocr_raw": "80 + 80 + 80"
+        },
+        {
+          "label": "Stand-section gradient",
+          "value": 1.0,
+          "value_max": 2.0,
+          "unit": "ratio",
+          "context": "Gradient marked beside the upper stand section in figure 8; printed ratio 1:2.",
+          "status": "uncertain",
+          "ocr_raw": "1:2"
+        },
+        {
+          "label": "Stand-section gradient",
+          "value": 1.0,
+          "value_max": 3.0,
+          "unit": "ratio",
+          "context": "Gradient marked beside the lower stand section in figure 8; printed ratio 1:3.",
+          "status": "uncertain",
+          "ocr_raw": "1:3"
+        }
+      ],
+      "figure_refs": [
+        "1 U-shaped layout",
+        "2 USA = segmented layout",
+        "3 Amsterdam = semi-circular ends",
+        "4 Rotterdam = curved sides and corners; only for football",
+        "5 Budapest = horseshoe around transverse axis",
+        "6 Viewing distance determines size of sports ground",
+        "7 Spectator traffic routes at various stadiums",
+        "8 Stand sections"
+      ],
+      "cross_refs": [
+        "p. 323"
+      ],
+      "keywords": [
+        "stadium planning",
+        "spectator stands",
+        "football pitch",
+        "stadium layout",
+        "spectator evacuation",
+        "viewing distance",
+        "first aid",
+        "commentary boxes",
+        "parking"
+      ],
+      "tags_architectural": [
+        "circulation",
+        "safety",
+        "spatial_proportion",
+        "clearance"
+      ],
+      "confidence": 0.89
+    }
+  ]
+}

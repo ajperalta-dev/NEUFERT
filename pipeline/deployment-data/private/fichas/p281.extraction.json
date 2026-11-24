@@ -1,0 +1,331 @@
+{
+  "fichas": [
+    {
+      "id": "4122fb96e4bd1976-281-vision-0",
+      "pdf_page": 281,
+      "book_page": 268,
+      "chapter": "INDUSTRY AND TRADE",
+      "section": "Industry",
+      "title": "Warehousing",
+      "summary": "Warehousing connects production and marketing within the material-flow process. The page classifies static and dynamic storage systems, illustrates storage arrangements within production, compares centralised and decentralised storage, and gives basic warehouse traffic, aisle, and rack-height dimensions.",
+      "building_type": "Industrial warehouse",
+      "spaces": [
+        "Storage areas",
+        "Racking and shelving areas",
+        "Warehouse traffic routes",
+        "Production areas",
+        "Picking and dispatch areas"
+      ],
+      "uses": [
+        "Store raw materials, consumables, bought-in parts, intermediate production, and finished goods",
+        "Buffer the flow between market and production",
+        "Support goods movement and order fulfilment"
+      ],
+      "furniture_equipment": [
+        "Racks",
+        "Hand shelves",
+        "Pallet storage",
+        "Forklifts",
+        "High-bay forklifts",
+        "Stacking crane",
+        "Conveyors",
+        "Powered stackers"
+      ],
+      "dimensions": [
+        {
+          "label": "Pedestrian route width",
+          "value": 1.25,
+          "value_max": null,
+          "unit": "m",
+          "context": "Minimum width for pedestrian traffic routes inside warehouses",
+          "status": "uncertain",
+          "ocr_raw": "min. 1.25 m"
+        },
+        {
+          "label": "Pedestrian and powered stacker route width",
+          "value": 0.5,
+          "value_max": null,
+          "unit": "m",
+          "context": "Vehicle width plus 2 × 0.50 m for pedestrians and powered stackers",
+          "status": "uncertain",
+          "ocr_raw": "vehicle width + 2 x 0.50 m"
+        },
+        {
+          "label": "Passage width between racks, manual operation",
+          "value": 0.75,
+          "value_max": null,
+          "unit": "m",
+          "context": "Minimum passage width between racks with manual operation",
+          "status": "uncertain",
+          "ocr_raw": "min. 0.75 m"
+        },
+        {
+          "label": "Passage width between racks, forklift with swivelling forks",
+          "value": 0.5,
+          "value_max": null,
+          "unit": "m",
+          "context": "Forklift width plus 2 × 0.50 m",
+          "status": "uncertain",
+          "ocr_raw": "forklift width + 2 x 0.50 m"
+        },
+        {
+          "label": "Passage width between racks, forklift with rigid forks",
+          "value": 0.5,
+          "value_max": null,
+          "unit": "m",
+          "context": "Forklift plus fork plus 0.50 m",
+          "status": "uncertain",
+          "ocr_raw": "forklift+ fork+ 0.50 m"
+        },
+        {
+          "label": "Hand-shelf rack height, single-storey",
+          "value": 3.0,
+          "value_max": 3.0,
+          "unit": "m",
+          "context": "Hand shelves, single-storey; printed as “up to 3.0 m”",
+          "status": "uncertain",
+          "ocr_raw": "up to 3.0 m"
+        },
+        {
+          "label": "Hand-shelf rack height, two-storey",
+          "value": 6.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Hand shelves, two-storey; printed parenthetically as “up to 6.0 m”",
+          "status": "uncertain",
+          "ocr_raw": "(up to 6.0 m)"
+        },
+        {
+          "label": "Pallet warehouse height with forklift operation",
+          "value": 6.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Maximum stated height",
+          "status": "uncertain",
+          "ocr_raw": "up to 6.0 m"
+        },
+        {
+          "label": "High-bay warehouse height with high-bay forklifts",
+          "value": 9.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Maximum stated height",
+          "status": "uncertain",
+          "ocr_raw": "up to 9.0 m"
+        },
+        {
+          "label": "High-bay warehouse height with stacking crane",
+          "value": 25.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Maximum stated height",
+          "status": "uncertain",
+          "ocr_raw": "up to 25.0 m"
+        }
+      ],
+      "figure_refs": [
+        "1",
+        "2",
+        "5",
+        "6",
+        "7"
+      ],
+      "cross_refs": [],
+      "keywords": [
+        "warehousing",
+        "material flow",
+        "storage systems",
+        "centralised storage",
+        "decentralised storage",
+        "warehouse traffic",
+        "rack heights"
+      ],
+      "tags_architectural": [
+        "circulation",
+        "clearance",
+        "modularity",
+        "adaptability",
+        "safety"
+      ],
+      "confidence": 0.98
+    },
+    {
+      "id": "4122fb96e4bd1976-281-vision-1",
+      "pdf_page": 281,
+      "book_page": 268,
+      "chapter": "INDUSTRY AND TRADE",
+      "section": "Industry",
+      "title": "Comparison of Possible Uses of a Warehouse",
+      "summary": "Diagrams compare warehouse layouts and building forms, including single- and multi-storey arrangements, with stated plan dimensions, heights, and comparative percentages of land use.",
+      "building_type": "Industrial warehouse",
+      "spaces": [
+        "Warehouse floor",
+        "Storage aisles",
+        "Loading or goods movement area"
+      ],
+      "uses": [
+        "Compare possible warehouse layouts and building forms",
+        "Assess storage arrangements and land use"
+      ],
+      "furniture_equipment": [
+        "Storage racks",
+        "Warehouse shelving"
+      ],
+      "dimensions": [
+        {
+          "label": "Plan length",
+          "value": 30.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Warehouse plan dimension shown for examples A and C",
+          "status": "uncertain",
+          "ocr_raw": "30.00"
+        },
+        {
+          "label": "Plan width",
+          "value": 12.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Warehouse plan dimension shown for examples A and C",
+          "status": "uncertain",
+          "ocr_raw": "12.00"
+        },
+        {
+          "label": "Height",
+          "value": 5.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Warehouse section dimension shown for examples A and C",
+          "status": "uncertain",
+          "ocr_raw": "5.00"
+        },
+        {
+          "label": "Height",
+          "value": 6.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Warehouse example A",
+          "status": "uncertain",
+          "ocr_raw": "6.0"
+        },
+        {
+          "label": "Height",
+          "value": 9.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Warehouse example B",
+          "status": "uncertain",
+          "ocr_raw": "9.0"
+        },
+        {
+          "label": "Plan width",
+          "value": 12.5,
+          "value_max": null,
+          "unit": "m",
+          "context": "Warehouse example B",
+          "status": "uncertain",
+          "ocr_raw": "12.5"
+        },
+        {
+          "label": "Height",
+          "value": 25.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Warehouse example C",
+          "status": "uncertain",
+          "ocr_raw": "25.0"
+        },
+        {
+          "label": "Comparative land-use figure",
+          "value": 100.0,
+          "value_max": null,
+          "unit": "%",
+          "context": "Warehouse example A",
+          "status": "uncertain",
+          "ocr_raw": "100%"
+        },
+        {
+          "label": "Comparative land-use figure",
+          "value": 165.0,
+          "value_max": null,
+          "unit": "%",
+          "context": "Warehouse example B",
+          "status": "uncertain",
+          "ocr_raw": "165%"
+        },
+        {
+          "label": "Comparative land-use figure",
+          "value": 250.0,
+          "value_max": null,
+          "unit": "%",
+          "context": "Warehouse example C",
+          "status": "uncertain",
+          "ocr_raw": "250%"
+        }
+      ],
+      "figure_refs": [
+        "3"
+      ],
+      "cross_refs": [],
+      "keywords": [
+        "warehouse layout",
+        "land use",
+        "warehouse dimensions",
+        "industrial building"
+      ],
+      "tags_architectural": [
+        "spatial_proportion",
+        "modularity"
+      ],
+      "confidence": 0.91
+    },
+    {
+      "id": "4122fb96e4bd1976-281-vision-2",
+      "pdf_page": 281,
+      "book_page": 268,
+      "chapter": "INDUSTRY AND TRADE",
+      "section": "Industry",
+      "title": "Picking and Order Assembly",
+      "summary": "Picking collects articles from the warehouse and prepares them for dispatch against an order. It may be single-stage or two-stage, with an intermediate picking zone for temporary storage and allocation. Systems range from manual, one-dimensional man-to-goods picking to systems with automated transport and goods-to-man operation.",
+      "building_type": "Industrial warehouse",
+      "spaces": [
+        "Storage area",
+        "Picking area",
+        "Intermediate picking zone",
+        "Dispatch area",
+        "Check-out area"
+      ],
+      "uses": [
+        "Collect articles from storage for an order",
+        "Temporarily store and allocate articles among orders",
+        "Prepare orders for dispatch"
+      ],
+      "furniture_equipment": [
+        "Storage racks",
+        "Conveyors",
+        "Transport vehicles",
+        "Automated transport equipment"
+      ],
+      "dimensions": [],
+      "figure_refs": [
+        "4"
+      ],
+      "cross_refs": [],
+      "keywords": [
+        "picking",
+        "order assembly",
+        "dispatch",
+        "man to goods",
+        "goods to man",
+        "manual picking",
+        "automated transport"
+      ],
+      "tags_architectural": [
+        "circulation",
+        "ergonomics",
+        "adaptability"
+      ],
+      "confidence": 0.98
+    }
+  ]
+}

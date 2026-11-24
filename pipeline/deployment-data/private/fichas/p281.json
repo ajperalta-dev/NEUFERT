@@ -1,0 +1,331 @@
+{
+  "fichas": [
+    {
+      "id": "4122fb96e4bd1976-281-vision-0",
+      "pdf_page": 281,
+      "book_page": 268,
+      "chapter": "INDUSTRY AND TRADE",
+      "section": "Industry",
+      "title": "Warehousing",
+      "summary": "Warehousing connects production and marketing within the material-flow process. The page classifies static and dynamic storage systems, illustrates storage arrangements within production, compares centralised and decentralised storage, and gives basic warehouse traffic, aisle, and rack-height dimensions.",
+      "building_type": "Industrial warehouse",
+      "spaces": [
+        "Storage areas",
+        "Racking and shelving areas",
+        "Warehouse traffic routes",
+        "Production areas",
+        "Picking and dispatch areas"
+      ],
+      "uses": [
+        "Store raw materials, consumables, bought-in parts, intermediate production, and finished goods",
+        "Buffer the flow between market and production",
+        "Support goods movement and order fulfilment"
+      ],
+      "furniture_equipment": [
+        "Racks",
+        "Hand shelves",
+        "Pallet storage",
+        "Forklifts",
+        "High-bay forklifts",
+        "Stacking crane",
+        "Conveyors",
+        "Powered stackers"
+      ],
+      "dimensions": [
+        {
+          "label": "Pedestrian route width",
+          "value": 1.25,
+          "value_max": null,
+          "unit": "m",
+          "context": "Minimum width for pedestrian traffic routes inside warehouses",
+          "status": "verified",
+          "ocr_raw": "min. 1.25 m"
+        },
+        {
+          "label": "Pedestrian and powered stacker route width",
+          "value": 0.5,
+          "value_max": null,
+          "unit": "m",
+          "context": "Vehicle width plus 2 × 0.50 m for pedestrians and powered stackers",
+          "status": "verified",
+          "ocr_raw": "vehicle width + 2 x 0.50 m"
+        },
+        {
+          "label": "Passage width between racks, manual operation",
+          "value": 0.75,
+          "value_max": null,
+          "unit": "m",
+          "context": "Minimum passage width between racks with manual operation",
+          "status": "verified",
+          "ocr_raw": "min. 0.75 m"
+        },
+        {
+          "label": "Passage width between racks, forklift with swivelling forks",
+          "value": 0.5,
+          "value_max": null,
+          "unit": "m",
+          "context": "Forklift width plus 2 × 0.50 m",
+          "status": "verified",
+          "ocr_raw": "forklift width + 2 x 0.50 m"
+        },
+        {
+          "label": "Passage width between racks, forklift with rigid forks",
+          "value": 0.5,
+          "value_max": null,
+          "unit": "m",
+          "context": "Forklift plus fork plus 0.50 m",
+          "status": "verified",
+          "ocr_raw": "forklift+ fork+ 0.50 m"
+        },
+        {
+          "label": "Hand-shelf rack height, single-storey",
+          "value": 3.0,
+          "value_max": 3.0,
+          "unit": "m",
+          "context": "Hand shelves, single-storey; printed as “up to 3.0 m”",
+          "status": "verified",
+          "ocr_raw": "up to 3.0 m"
+        },
+        {
+          "label": "Hand-shelf rack height, two-storey",
+          "value": 6.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Hand shelves, two-storey; printed parenthetically as “up to 6.0 m”",
+          "status": "verified",
+          "ocr_raw": "(up to 6.0 m)"
+        },
+        {
+          "label": "Pallet warehouse height with forklift operation",
+          "value": 6.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Maximum stated height",
+          "status": "verified",
+          "ocr_raw": "up to 6.0 m"
+        },
+        {
+          "label": "High-bay warehouse height with high-bay forklifts",
+          "value": 9.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Maximum stated height",
+          "status": "verified",
+          "ocr_raw": "up to 9.0 m"
+        },
+        {
+          "label": "High-bay warehouse height with stacking crane",
+          "value": 25.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Maximum stated height",
+          "status": "verified",
+          "ocr_raw": "up to 25.0 m"
+        }
+      ],
+      "figure_refs": [
+        "1",
+        "2",
+        "5",
+        "6",
+        "7"
+      ],
+      "cross_refs": [],
+      "keywords": [
+        "warehousing",
+        "material flow",
+        "storage systems",
+        "centralised storage",
+        "decentralised storage",
+        "warehouse traffic",
+        "rack heights"
+      ],
+      "tags_architectural": [
+        "circulation",
+        "clearance",
+        "modularity",
+        "adaptability",
+        "safety"
+      ],
+      "confidence": 0.98
+    },
+    {
+      "id": "4122fb96e4bd1976-281-vision-1",
+      "pdf_page": 281,
+      "book_page": 268,
+      "chapter": "INDUSTRY AND TRADE",
+      "section": "Industry",
+      "title": "Comparison of Possible Uses of a Warehouse",
+      "summary": "Diagrams compare warehouse layouts and building forms, including single- and multi-storey arrangements, with stated plan dimensions, heights, and comparative percentages of land use.",
+      "building_type": "Industrial warehouse",
+      "spaces": [
+        "Warehouse floor",
+        "Storage aisles",
+        "Loading or goods movement area"
+      ],
+      "uses": [
+        "Compare possible warehouse layouts and building forms",
+        "Assess storage arrangements and land use"
+      ],
+      "furniture_equipment": [
+        "Storage racks",
+        "Warehouse shelving"
+      ],
+      "dimensions": [
+        {
+          "label": "Plan length",
+          "value": 30.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Warehouse plan dimension shown for examples A and C",
+          "status": "uncertain",
+          "ocr_raw": "INDUSTRY\n\nStore for\nRaw material\n\nSupplier 1\n\nConsumables\n\nSupplier2\n\nBought-in parts\n\nSupplierS\n\nProduction\n\n0\n\nIntermediate\nproduction\nFinished goods\n\nConsumer\n\nWaste\n\nWaste disposal\n\nWarehouse as a buffer between market and production\n(FOhrer, Stormer--> refs)\n\nWarehousing\n\nBasics\nStorage is part of the material flow process and logistically forms\nthe connection between production and marketing --7 0. Storage\nis cost-intensive and does not create economic value, leading to\nattempts to minimise the storage quantities and times or effectively combine the storage and transport of materials and goods\nthrough flexible 'just-in-time production'.\n\nThere is a wide range of different static and dynamic storage\nsystems available for each storage situation and the goods needing storage --7 f). The spatial arrangement of the different warehouses in the production process can also be dealt with in various\nways --7 e.\n\n~~Production\n:,o Store ,o:.\n\n=~::::::::.'.'.'\n\n......... .\n\nA\n\nB\n\nStore and production\nStore and production\n\nc\n\n0 Storage requirements and material flow within the production process\nwarehousing\n\nINDUSTRY\nBasics\n·Shed\n\nconstruction\nMulti-storey\nindustrial\nbuildings\nTransport\nWarehousing\nSubsidiary rooms\nExamples\n\npush·through\nrack store\n\ngood use of space and land\n\nf} Classification of warehouse systems (excerpt)\n\ngood for building adaptation\n\nlow cost of disposition\n\nuse of special equipment\n\nhigh equipment costs\n\nprompt fulfilment of orders\n\nlow labour costs\ngood opportunities for automation\nAdvantages of centralised and decentralised storage\n\ntraffic routes inside warehouses\npedestrians\n\npedestrians and powered stackers\n\nmin. 1.25 m\nvehicle width + 2 x 0.50 m\n\npassage widths between racks\n\nwith manual operation\nwith forklift operation (swivelling forks)\nwith forklift operation (rigid forks)\n\nmin. 0.75 m\nforklift width + 2 x 0.50 m\nforklift+ fork+ 0.50 m\n\nrack heights (depending on equipment)\nhand shelves single-storey (two-storey)\npallet warehouse with forklift operation\nhigh-bay warehouse with high-bay forklifts\nhigh-bay warehouse with stacking crane\n\n0\n\n8\n\nComparison of possible uses of a warehouse\n\nup to 3.0 m (up to 6.0 m)\nup to 6.0 m\nup to 9.0 m\nup to 25.0 m\n\nBasic dimensions in warehouses (MBO, Workplace Regulations, Industrial\nBuilding Guidelines, ZH, Health and Safety Regulations)\n\nPicking\nPicking, or order assembly, denotes collecting articles out of the\nwarehouse and making them ready for dispatch in accordance\nwith an order. This can be single-stage picking (specific to one\norder) or two-stage picking, with an intermediate picking zone for\ntemporary storage and assignment of the articles to a number of\norders.\nconsignment system\nstatic assembly\none-dimensional movement\nmanual picking\n\nconsignment system\ndynamic assembly\none-dimensional movement\nmanual picking\n\nconsignment system\n\ndecentrallsed oheck·out\n\ncentralised check-out\n\ndecentralised check-out\n\ne\n\nAlternative systems of picking\n\n268\n\ndynamic assembly\n\ntwo-dimensional movement\nmanual picking\n\nThe work is performed flexibly and with no technical support, or\nvery little, as a 'man to goods' system --7 0, left, or for more capacity with partly or fully automated transport vehicles and complex infrastructure as a 'goods to man' system --7 0, centre and\nright.\n\n\f"
+        },
+        {
+          "label": "Plan width",
+          "value": 12.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Warehouse plan dimension shown for examples A and C",
+          "status": "uncertain",
+          "ocr_raw": "INDUSTRY\n\nStore for\nRaw material\n\nSupplier 1\n\nConsumables\n\nSupplier2\n\nBought-in parts\n\nSupplierS\n\nProduction\n\n0\n\nIntermediate\nproduction\nFinished goods\n\nConsumer\n\nWaste\n\nWaste disposal\n\nWarehouse as a buffer between market and production\n(FOhrer, Stormer--> refs)\n\nWarehousing\n\nBasics\nStorage is part of the material flow process and logistically forms\nthe connection between production and marketing --7 0. Storage\nis cost-intensive and does not create economic value, leading to\nattempts to minimise the storage quantities and times or effectively combine the storage and transport of materials and goods\nthrough flexible 'just-in-time production'.\n\nThere is a wide range of different static and dynamic storage\nsystems available for each storage situation and the goods needing storage --7 f). The spatial arrangement of the different warehouses in the production process can also be dealt with in various\nways --7 e.\n\n~~Production\n:,o Store ,o:.\n\n=~::::::::.'.'.'\n\n......... .\n\nA\n\nB\n\nStore and production\nStore and production\n\nc\n\n0 Storage requirements and material flow within the production process\nwarehousing\n\nINDUSTRY\nBasics\n·Shed\n\nconstruction\nMulti-storey\nindustrial\nbuildings\nTransport\nWarehousing\nSubsidiary rooms\nExamples\n\npush·through\nrack store\n\ngood use of space and land\n\nf} Classification of warehouse systems (excerpt)\n\ngood for building adaptation\n\nlow cost of disposition\n\nuse of special equipment\n\nhigh equipment costs\n\nprompt fulfilment of orders\n\nlow labour costs\ngood opportunities for automation\nAdvantages of centralised and decentralised storage\n\ntraffic routes inside warehouses\npedestrians\n\npedestrians and powered stackers\n\nmin. 1.25 m\nvehicle width + 2 x 0.50 m\n\npassage widths between racks\n\nwith manual operation\nwith forklift operation (swivelling forks)\nwith forklift operation (rigid forks)\n\nmin. 0.75 m\nforklift width + 2 x 0.50 m\nforklift+ fork+ 0.50 m\n\nrack heights (depending on equipment)\nhand shelves single-storey (two-storey)\npallet warehouse with forklift operation\nhigh-bay warehouse with high-bay forklifts\nhigh-bay warehouse with stacking crane\n\n0\n\n8\n\nComparison of possible uses of a warehouse\n\nup to 3.0 m (up to 6.0 m)\nup to 6.0 m\nup to 9.0 m\nup to 25.0 m\n\nBasic dimensions in warehouses (MBO, Workplace Regulations, Industrial\nBuilding Guidelines, ZH, Health and Safety Regulations)\n\nPicking\nPicking, or order assembly, denotes collecting articles out of the\nwarehouse and making them ready for dispatch in accordance\nwith an order. This can be single-stage picking (specific to one\norder) or two-stage picking, with an intermediate picking zone for\ntemporary storage and assignment of the articles to a number of\norders.\nconsignment system\nstatic assembly\none-dimensional movement\nmanual picking\n\nconsignment system\ndynamic assembly\none-dimensional movement\nmanual picking\n\nconsignment system\n\ndecentrallsed oheck·out\n\ncentralised check-out\n\ndecentralised check-out\n\ne\n\nAlternative systems of picking\n\n268\n\ndynamic assembly\n\ntwo-dimensional movement\nmanual picking\n\nThe work is performed flexibly and with no technical support, or\nvery little, as a 'man to goods' system --7 0, left, or for more capacity with partly or fully automated transport vehicles and complex infrastructure as a 'goods to man' system --7 0, centre and\nright.\n\n\f"
+        },
+        {
+          "label": "Height",
+          "value": 5.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Warehouse section dimension shown for examples A and C",
+          "status": "uncertain",
+          "ocr_raw": "INDUSTRY\n\nStore for\nRaw material\n\nSupplier 1\n\nConsumables\n\nSupplier2\n\nBought-in parts\n\nSupplierS\n\nProduction\n\n0\n\nIntermediate\nproduction\nFinished goods\n\nConsumer\n\nWaste\n\nWaste disposal\n\nWarehouse as a buffer between market and production\n(FOhrer, Stormer--> refs)\n\nWarehousing\n\nBasics\nStorage is part of the material flow process and logistically forms\nthe connection between production and marketing --7 0. Storage\nis cost-intensive and does not create economic value, leading to\nattempts to minimise the storage quantities and times or effectively combine the storage and transport of materials and goods\nthrough flexible 'just-in-time production'.\n\nThere is a wide range of different static and dynamic storage\nsystems available for each storage situation and the goods needing storage --7 f). The spatial arrangement of the different warehouses in the production process can also be dealt with in various\nways --7 e.\n\n~~Production\n:,o Store ,o:.\n\n=~::::::::.'.'.'\n\n......... .\n\nA\n\nB\n\nStore and production\nStore and production\n\nc\n\n0 Storage requirements and material flow within the production process\nwarehousing\n\nINDUSTRY\nBasics\n·Shed\n\nconstruction\nMulti-storey\nindustrial\nbuildings\nTransport\nWarehousing\nSubsidiary rooms\nExamples\n\npush·through\nrack store\n\ngood use of space and land\n\nf} Classification of warehouse systems (excerpt)\n\ngood for building adaptation\n\nlow cost of disposition\n\nuse of special equipment\n\nhigh equipment costs\n\nprompt fulfilment of orders\n\nlow labour costs\ngood opportunities for automation\nAdvantages of centralised and decentralised storage\n\ntraffic routes inside warehouses\npedestrians\n\npedestrians and powered stackers\n\nmin. 1.25 m\nvehicle width + 2 x 0.50 m\n\npassage widths between racks\n\nwith manual operation\nwith forklift operation (swivelling forks)\nwith forklift operation (rigid forks)\n\nmin. 0.75 m\nforklift width + 2 x 0.50 m\nforklift+ fork+ 0.50 m\n\nrack heights (depending on equipment)\nhand shelves single-storey (two-storey)\npallet warehouse with forklift operation\nhigh-bay warehouse with high-bay forklifts\nhigh-bay warehouse with stacking crane\n\n0\n\n8\n\nComparison of possible uses of a warehouse\n\nup to 3.0 m (up to 6.0 m)\nup to 6.0 m\nup to 9.0 m\nup to 25.0 m\n\nBasic dimensions in warehouses (MBO, Workplace Regulations, Industrial\nBuilding Guidelines, ZH, Health and Safety Regulations)\n\nPicking\nPicking, or order assembly, denotes collecting articles out of the\nwarehouse and making them ready for dispatch in accordance\nwith an order. This can be single-stage picking (specific to one\norder) or two-stage picking, with an intermediate picking zone for\ntemporary storage and assignment of the articles to a number of\norders.\nconsignment system\nstatic assembly\none-dimensional movement\nmanual picking\n\nconsignment system\ndynamic assembly\none-dimensional movement\nmanual picking\n\nconsignment system\n\ndecentrallsed oheck·out\n\ncentralised check-out\n\ndecentralised check-out\n\ne\n\nAlternative systems of picking\n\n268\n\ndynamic assembly\n\ntwo-dimensional movement\nmanual picking\n\nThe work is performed flexibly and with no technical support, or\nvery little, as a 'man to goods' system --7 0, left, or for more capacity with partly or fully automated transport vehicles and complex infrastructure as a 'goods to man' system --7 0, centre and\nright.\n\n\f"
+        },
+        {
+          "label": "Height",
+          "value": 6.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Warehouse example A",
+          "status": "uncertain",
+          "ocr_raw": "6.0"
+        },
+        {
+          "label": "Height",
+          "value": 9.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Warehouse example B",
+          "status": "uncertain",
+          "ocr_raw": "9.0"
+        },
+        {
+          "label": "Plan width",
+          "value": 12.5,
+          "value_max": null,
+          "unit": "m",
+          "context": "Warehouse example B",
+          "status": "uncertain",
+          "ocr_raw": "INDUSTRY\n\nStore for\nRaw material\n\nSupplier 1\n\nConsumables\n\nSupplier2\n\nBought-in parts\n\nSupplierS\n\nProduction\n\n0\n\nIntermediate\nproduction\nFinished goods\n\nConsumer\n\nWaste\n\nWaste disposal\n\nWarehouse as a buffer between market and production\n(FOhrer, Stormer--> refs)\n\nWarehousing\n\nBasics\nStorage is part of the material flow process and logistically forms\nthe connection between production and marketing --7 0. Storage\nis cost-intensive and does not create economic value, leading to\nattempts to minimise the storage quantities and times or effectively combine the storage and transport of materials and goods\nthrough flexible 'just-in-time production'.\n\nThere is a wide range of different static and dynamic storage\nsystems available for each storage situation and the goods needing storage --7 f). The spatial arrangement of the different warehouses in the production process can also be dealt with in various\nways --7 e.\n\n~~Production\n:,o Store ,o:.\n\n=~::::::::.'.'.'\n\n......... .\n\nA\n\nB\n\nStore and production\nStore and production\n\nc\n\n0 Storage requirements and material flow within the production process\nwarehousing\n\nINDUSTRY\nBasics\n·Shed\n\nconstruction\nMulti-storey\nindustrial\nbuildings\nTransport\nWarehousing\nSubsidiary rooms\nExamples\n\npush·through\nrack store\n\ngood use of space and land\n\nf} Classification of warehouse systems (excerpt)\n\ngood for building adaptation\n\nlow cost of disposition\n\nuse of special equipment\n\nhigh equipment costs\n\nprompt fulfilment of orders\n\nlow labour costs\ngood opportunities for automation\nAdvantages of centralised and decentralised storage\n\ntraffic routes inside warehouses\npedestrians\n\npedestrians and powered stackers\n\nmin. 1.25 m\nvehicle width + 2 x 0.50 m\n\npassage widths between racks\n\nwith manual operation\nwith forklift operation (swivelling forks)\nwith forklift operation (rigid forks)\n\nmin. 0.75 m\nforklift width + 2 x 0.50 m\nforklift+ fork+ 0.50 m\n\nrack heights (depending on equipment)\nhand shelves single-storey (two-storey)\npallet warehouse with forklift operation\nhigh-bay warehouse with high-bay forklifts\nhigh-bay warehouse with stacking crane\n\n0\n\n8\n\nComparison of possible uses of a warehouse\n\nup to 3.0 m (up to 6.0 m)\nup to 6.0 m\nup to 9.0 m\nup to 25.0 m\n\nBasic dimensions in warehouses (MBO, Workplace Regulations, Industrial\nBuilding Guidelines, ZH, Health and Safety Regulations)\n\nPicking\nPicking, or order assembly, denotes collecting articles out of the\nwarehouse and making them ready for dispatch in accordance\nwith an order. This can be single-stage picking (specific to one\norder) or two-stage picking, with an intermediate picking zone for\ntemporary storage and assignment of the articles to a number of\norders.\nconsignment system\nstatic assembly\none-dimensional movement\nmanual picking\n\nconsignment system\ndynamic assembly\none-dimensional movement\nmanual picking\n\nconsignment system\n\ndecentrallsed oheck·out\n\ncentralised check-out\n\ndecentralised check-out\n\ne\n\nAlternative systems of picking\n\n268\n\ndynamic assembly\n\ntwo-dimensional movement\nmanual picking\n\nThe work is performed flexibly and with no technical support, or\nvery little, as a 'man to goods' system --7 0, left, or for more capacity with partly or fully automated transport vehicles and complex infrastructure as a 'goods to man' system --7 0, centre and\nright.\n\n\f"
+        },
+        {
+          "label": "Height",
+          "value": 25.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Warehouse example C",
+          "status": "uncertain",
+          "ocr_raw": "25.0"
+        },
+        {
+          "label": "Comparative land-use figure",
+          "value": 100.0,
+          "value_max": null,
+          "unit": "%",
+          "context": "Warehouse example A",
+          "status": "verified",
+          "ocr_raw": "INDUSTRY\n\nStore for\nRaw material\n\nSupplier 1\n\nConsumables\n\nSupplier2\n\nBought-in parts\n\nSupplierS\n\nProduction\n\n0\n\nIntermediate\nproduction\nFinished goods\n\nConsumer\n\nWaste\n\nWaste disposal\n\nWarehouse as a buffer between market and production\n(FOhrer, Stormer--> refs)\n\nWarehousing\n\nBasics\nStorage is part of the material flow process and logistically forms\nthe connection between production and marketing --7 0. Storage\nis cost-intensive and does not create economic value, leading to\nattempts to minimise the storage quantities and times or effectively combine the storage and transport of materials and goods\nthrough flexible 'just-in-time production'.\n\nThere is a wide range of different static and dynamic storage\nsystems available for each storage situation and the goods needing storage --7 f). The spatial arrangement of the different warehouses in the production process can also be dealt with in various\nways --7 e.\n\n~~Production\n:,o Store ,o:.\n\n=~::::::::.'.'.'\n\n......... .\n\nA\n\nB\n\nStore and production\nStore and production\n\nc\n\n0 Storage requirements and material flow within the production process\nwarehousing\n\nINDUSTRY\nBasics\n·Shed\n\nconstruction\nMulti-storey\nindustrial\nbuildings\nTransport\nWarehousing\nSubsidiary rooms\nExamples\n\npush·through\nrack store\n\ngood use of space and land\n\nf} Classification of warehouse systems (excerpt)\n\ngood for building adaptation\n\nlow cost of disposition\n\nuse of special equipment\n\nhigh equipment costs\n\nprompt fulfilment of orders\n\nlow labour costs\ngood opportunities for automation\nAdvantages of centralised and decentralised storage\n\ntraffic routes inside warehouses\npedestrians\n\npedestrians and powered stackers\n\nmin. 1.25 m\nvehicle width + 2 x 0.50 m\n\npassage widths between racks\n\nwith manual operation\nwith forklift operation (swivelling forks)\nwith forklift operation (rigid forks)\n\nmin. 0.75 m\nforklift width + 2 x 0.50 m\nforklift+ fork+ 0.50 m\n\nrack heights (depending on equipment)\nhand shelves single-storey (two-storey)\npallet warehouse with forklift operation\nhigh-bay warehouse with high-bay forklifts\nhigh-bay warehouse with stacking crane\n\n0\n\n8\n\nComparison of possible uses of a warehouse\n\nup to 3.0 m (up to 6.0 m)\nup to 6.0 m\nup to 9.0 m\nup to 25.0 m\n\nBasic dimensions in warehouses (MBO, Workplace Regulations, Industrial\nBuilding Guidelines, ZH, Health and Safety Regulations)\n\nPicking\nPicking, or order assembly, denotes collecting articles out of the\nwarehouse and making them ready for dispatch in accordance\nwith an order. This can be single-stage picking (specific to one\norder) or two-stage picking, with an intermediate picking zone for\ntemporary storage and assignment of the articles to a number of\norders.\nconsignment system\nstatic assembly\none-dimensional movement\nmanual picking\n\nconsignment system\ndynamic assembly\none-dimensional movement\nmanual picking\n\nconsignment system\n\ndecentrallsed oheck·out\n\ncentralised check-out\n\ndecentralised check-out\n\ne\n\nAlternative systems of picking\n\n268\n\ndynamic assembly\n\ntwo-dimensional movement\nmanual picking\n\nThe work is performed flexibly and with no technical support, or\nvery little, as a 'man to goods' system --7 0, left, or for more capacity with partly or fully automated transport vehicles and complex infrastructure as a 'goods to man' system --7 0, centre and\nright.\n\n\f"
+        },
+        {
+          "label": "Comparative land-use figure",
+          "value": 165.0,
+          "value_max": null,
+          "unit": "%",
+          "context": "Warehouse example B",
+          "status": "verified",
+          "ocr_raw": "INDUSTRY\n\nStore for\nRaw material\n\nSupplier 1\n\nConsumables\n\nSupplier2\n\nBought-in parts\n\nSupplierS\n\nProduction\n\n0\n\nIntermediate\nproduction\nFinished goods\n\nConsumer\n\nWaste\n\nWaste disposal\n\nWarehouse as a buffer between market and production\n(FOhrer, Stormer--> refs)\n\nWarehousing\n\nBasics\nStorage is part of the material flow process and logistically forms\nthe connection between production and marketing --7 0. Storage\nis cost-intensive and does not create economic value, leading to\nattempts to minimise the storage quantities and times or effectively combine the storage and transport of materials and goods\nthrough flexible 'just-in-time production'.\n\nThere is a wide range of different static and dynamic storage\nsystems available for each storage situation and the goods needing storage --7 f). The spatial arrangement of the different warehouses in the production process can also be dealt with in various\nways --7 e.\n\n~~Production\n:,o Store ,o:.\n\n=~::::::::.'.'.'\n\n......... .\n\nA\n\nB\n\nStore and production\nStore and production\n\nc\n\n0 Storage requirements and material flow within the production process\nwarehousing\n\nINDUSTRY\nBasics\n·Shed\n\nconstruction\nMulti-storey\nindustrial\nbuildings\nTransport\nWarehousing\nSubsidiary rooms\nExamples\n\npush·through\nrack store\n\ngood use of space and land\n\nf} Classification of warehouse systems (excerpt)\n\ngood for building adaptation\n\nlow cost of disposition\n\nuse of special equipment\n\nhigh equipment costs\n\nprompt fulfilment of orders\n\nlow labour costs\ngood opportunities for automation\nAdvantages of centralised and decentralised storage\n\ntraffic routes inside warehouses\npedestrians\n\npedestrians and powered stackers\n\nmin. 1.25 m\nvehicle width + 2 x 0.50 m\n\npassage widths between racks\n\nwith manual operation\nwith forklift operation (swivelling forks)\nwith forklift operation (rigid forks)\n\nmin. 0.75 m\nforklift width + 2 x 0.50 m\nforklift+ fork+ 0.50 m\n\nrack heights (depending on equipment)\nhand shelves single-storey (two-storey)\npallet warehouse with forklift operation\nhigh-bay warehouse with high-bay forklifts\nhigh-bay warehouse with stacking crane\n\n0\n\n8\n\nComparison of possible uses of a warehouse\n\nup to 3.0 m (up to 6.0 m)\nup to 6.0 m\nup to 9.0 m\nup to 25.0 m\n\nBasic dimensions in warehouses (MBO, Workplace Regulations, Industrial\nBuilding Guidelines, ZH, Health and Safety Regulations)\n\nPicking\nPicking, or order assembly, denotes collecting articles out of the\nwarehouse and making them ready for dispatch in accordance\nwith an order. This can be single-stage picking (specific to one\norder) or two-stage picking, with an intermediate picking zone for\ntemporary storage and assignment of the articles to a number of\norders.\nconsignment system\nstatic assembly\none-dimensional movement\nmanual picking\n\nconsignment system\ndynamic assembly\none-dimensional movement\nmanual picking\n\nconsignment system\n\ndecentrallsed oheck·out\n\ncentralised check-out\n\ndecentralised check-out\n\ne\n\nAlternative systems of picking\n\n268\n\ndynamic assembly\n\ntwo-dimensional movement\nmanual picking\n\nThe work is performed flexibly and with no technical support, or\nvery little, as a 'man to goods' system --7 0, left, or for more capacity with partly or fully automated transport vehicles and complex infrastructure as a 'goods to man' system --7 0, centre and\nright.\n\n\f"
+        },
+        {
+          "label": "Comparative land-use figure",
+          "value": 250.0,
+          "value_max": null,
+          "unit": "%",
+          "context": "Warehouse example C",
+          "status": "verified",
+          "ocr_raw": "INDUSTRY\n\nStore for\nRaw material\n\nSupplier 1\n\nConsumables\n\nSupplier2\n\nBought-in parts\n\nSupplierS\n\nProduction\n\n0\n\nIntermediate\nproduction\nFinished goods\n\nConsumer\n\nWaste\n\nWaste disposal\n\nWarehouse as a buffer between market and production\n(FOhrer, Stormer--> refs)\n\nWarehousing\n\nBasics\nStorage is part of the material flow process and logistically forms\nthe connection between production and marketing --7 0. Storage\nis cost-intensive and does not create economic value, leading to\nattempts to minimise the storage quantities and times or effectively combine the storage and transport of materials and goods\nthrough flexible 'just-in-time production'.\n\nThere is a wide range of different static and dynamic storage\nsystems available for each storage situation and the goods needing storage --7 f). The spatial arrangement of the different warehouses in the production process can also be dealt with in various\nways --7 e.\n\n~~Production\n:,o Store ,o:.\n\n=~::::::::.'.'.'\n\n......... .\n\nA\n\nB\n\nStore and production\nStore and production\n\nc\n\n0 Storage requirements and material flow within the production process\nwarehousing\n\nINDUSTRY\nBasics\n·Shed\n\nconstruction\nMulti-storey\nindustrial\nbuildings\nTransport\nWarehousing\nSubsidiary rooms\nExamples\n\npush·through\nrack store\n\ngood use of space and land\n\nf} Classification of warehouse systems (excerpt)\n\ngood for building adaptation\n\nlow cost of disposition\n\nuse of special equipment\n\nhigh equipment costs\n\nprompt fulfilment of orders\n\nlow labour costs\ngood opportunities for automation\nAdvantages of centralised and decentralised storage\n\ntraffic routes inside warehouses\npedestrians\n\npedestrians and powered stackers\n\nmin. 1.25 m\nvehicle width + 2 x 0.50 m\n\npassage widths between racks\n\nwith manual operation\nwith forklift operation (swivelling forks)\nwith forklift operation (rigid forks)\n\nmin. 0.75 m\nforklift width + 2 x 0.50 m\nforklift+ fork+ 0.50 m\n\nrack heights (depending on equipment)\nhand shelves single-storey (two-storey)\npallet warehouse with forklift operation\nhigh-bay warehouse with high-bay forklifts\nhigh-bay warehouse with stacking crane\n\n0\n\n8\n\nComparison of possible uses of a warehouse\n\nup to 3.0 m (up to 6.0 m)\nup to 6.0 m\nup to 9.0 m\nup to 25.0 m\n\nBasic dimensions in warehouses (MBO, Workplace Regulations, Industrial\nBuilding Guidelines, ZH, Health and Safety Regulations)\n\nPicking\nPicking, or order assembly, denotes collecting articles out of the\nwarehouse and making them ready for dispatch in accordance\nwith an order. This can be single-stage picking (specific to one\norder) or two-stage picking, with an intermediate picking zone for\ntemporary storage and assignment of the articles to a number of\norders.\nconsignment system\nstatic assembly\none-dimensional movement\nmanual picking\n\nconsignment system\ndynamic assembly\none-dimensional movement\nmanual picking\n\nconsignment system\n\ndecentrallsed oheck·out\n\ncentralised check-out\n\ndecentralised check-out\n\ne\n\nAlternative systems of picking\n\n268\n\ndynamic assembly\n\ntwo-dimensional movement\nmanual picking\n\nThe work is performed flexibly and with no technical support, or\nvery little, as a 'man to goods' system --7 0, left, or for more capacity with partly or fully automated transport vehicles and complex infrastructure as a 'goods to man' system --7 0, centre and\nright.\n\n\f"
+        }
+      ],
+      "figure_refs": [
+        "3"
+      ],
+      "cross_refs": [],
+      "keywords": [
+        "warehouse layout",
+        "land use",
+        "warehouse dimensions",
+        "industrial building"
+      ],
+      "tags_architectural": [
+        "spatial_proportion",
+        "modularity"
+      ],
+      "confidence": 0.91
+    },
+    {
+      "id": "4122fb96e4bd1976-281-vision-2",
+      "pdf_page": 281,
+      "book_page": 268,
+      "chapter": "INDUSTRY AND TRADE",
+      "section": "Industry",
+      "title": "Picking and Order Assembly",
+      "summary": "Picking collects articles from the warehouse and prepares them for dispatch against an order. It may be single-stage or two-stage, with an intermediate picking zone for temporary storage and allocation. Systems range from manual, one-dimensional man-to-goods picking to systems with automated transport and goods-to-man operation.",
+      "building_type": "Industrial warehouse",
+      "spaces": [
+        "Storage area",
+        "Picking area",
+        "Intermediate picking zone",
+        "Dispatch area",
+        "Check-out area"
+      ],
+      "uses": [
+        "Collect articles from storage for an order",
+        "Temporarily store and allocate articles among orders",
+        "Prepare orders for dispatch"
+      ],
+      "furniture_equipment": [
+        "Storage racks",
+        "Conveyors",
+        "Transport vehicles",
+        "Automated transport equipment"
+      ],
+      "dimensions": [],
+      "figure_refs": [
+        "4"
+      ],
+      "cross_refs": [],
+      "keywords": [
+        "picking",
+        "order assembly",
+        "dispatch",
+        "man to goods",
+        "goods to man",
+        "manual picking",
+        "automated transport"
+      ],
+      "tags_architectural": [
+        "circulation",
+        "ergonomics",
+        "adaptability"
+      ],
+      "confidence": 0.98
+    }
+  ]
+}

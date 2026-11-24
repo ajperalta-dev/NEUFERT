@@ -1,0 +1,58 @@
+{
+  "model": "gpt-6-luna",
+  "checks": {
+    "checks": [
+      {
+        "ficha_index": 0,
+        "dimension_index": 0,
+        "status": "verified",
+        "value": 10.0,
+        "value_max": null,
+        "reason": "The ground-floor plan scale bar is labeled 0\u201310 m."
+      },
+      {
+        "ficha_index": 1,
+        "dimension_index": 0,
+        "status": "verified",
+        "value": 30.0,
+        "value_max": null,
+        "reason": "The text states \u201ca naturally lit 30 m high hotel lobby.\u201d"
+      },
+      {
+        "ficha_index": 1,
+        "dimension_index": 1,
+        "status": "verified",
+        "value": 10.0,
+        "value_max": null,
+        "reason": "The standard-floor plan scale bar is labeled 0\u201310 m."
+      }
+    ]
+  },
+  "automatic": [
+    {
+      "ficha_index": 0,
+      "dimension_index": 0,
+      "issues": []
+    },
+    {
+      "ficha_index": 1,
+      "dimension_index": 0,
+      "issues": []
+    },
+    {
+      "ficha_index": 1,
+      "dimension_index": 1,
+      "issues": []
+    }
+  ],
+  "usage": [
+    {
+      "prompt_tokens": 4194,
+      "completion_tokens": 943
+    },
+    {
+      "prompt_tokens": 3810,
+      "completion_tokens": 218
+    }
+  ]
+}

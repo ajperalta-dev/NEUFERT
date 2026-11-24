@@ -1,0 +1,115 @@
+{
+  "fichas": [
+    {
+      "id": "4122fb96e4bd1976-80-vision-0",
+      "pdf_page": 80,
+      "book_page": 67,
+      "chapter": "BUILDING COMPONENTS",
+      "section": "Foundations",
+      "title": "Building Excavations",
+      "summary": "Guidance on investigating soil and groundwater conditions and designing building excavations. Basement excavation sides are generally battered; recommended maximum slope angles depend on soil type. Protective covering, slope banks, or structural support may be needed to prevent erosion or collapse. A working space is recommended between the excavation support or batter and the building foundation.",
+      "building_type": "Building excavation",
+      "spaces": [
+        "Building excavation",
+        "Working space",
+        "Battered slope",
+        "Basement excavation"
+      ],
+      "uses": [
+        "Excavating for building foundations and basements",
+        "Investigating soil and groundwater conditions",
+        "Protecting and supporting excavation sides"
+      ],
+      "furniture_equipment": [
+        "Plumb line",
+        "Profile",
+        "Props",
+        "Formwork",
+        "Walers",
+        "Shotcrete",
+        "Soil nails",
+        "Sheet piles",
+        "Earth anchors",
+        "Steel beams",
+        "Round or squared timber",
+        "Trench planks",
+        "Bored piles",
+        "Diaphragm walls"
+      ],
+      "dimensions": [
+        {
+          "label": "Maximum slope angle for non-cohesive or soft cohesive soils",
+          "value": 45.0,
+          "value_max": null,
+          "unit": "degrees",
+          "context": "Basement excavation batter; maximum angle without calculation of structural safety",
+          "status": "uncertain",
+          "ocr_raw": "a) non-cohesive or soft, cohesive soils ... 13 ~450."
+        },
+        {
+          "label": "Maximum slope angle for stiff or semi-hard cohesive soils",
+          "value": 60.0,
+          "value_max": null,
+          "unit": "degrees",
+          "context": "Basement excavation batter; maximum angle without calculation of structural safety",
+          "status": "uncertain",
+          "ocr_raw": "b) stiff or semi-hard, cohesive soils ... 13 ~60°"
+        },
+        {
+          "label": "Maximum slope angle for rock",
+          "value": 80.0,
+          "value_max": null,
+          "unit": "degrees",
+          "context": "Basement excavation batter; maximum angle without calculation of structural safety",
+          "status": "uncertain",
+          "ocr_raw": "c) rock ... 13 ~soo."
+        },
+        {
+          "label": "Working space",
+          "value": 50.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Minimum space between the foot of the batter or support construction and the building",
+          "status": "uncertain",
+          "ocr_raw": "A working space of ~50 em should be provided"
+        }
+      ],
+      "figure_refs": [
+        "1 Building excavation with working space and battered side",
+        "2 Building excavation with working space and support",
+        "3 Battered side to building excavation with banks to catch slipping material",
+        "4 Shotcrete applied to slope",
+        "5 Steel beam support with concrete filling",
+        "6 Sheet pile wall with earth anchors",
+        "7 Wall support with round timbers",
+        "8 Vertical support with trench planks",
+        "9 Wall support with thick vertical boards"
+      ],
+      "cross_refs": [
+        "→ 1",
+        "→ 2",
+        "→ 3",
+        "→ 4",
+        "→ 6",
+        "→ 7",
+        "→ 8",
+        "→ 9"
+      ],
+      "keywords": [
+        "foundations",
+        "building excavations",
+        "soil investigation",
+        "groundwater",
+        "battered slopes",
+        "excavation support",
+        "slope failure",
+        "soil samples"
+      ],
+      "tags_architectural": [
+        "safety",
+        "clearance"
+      ],
+      "confidence": 0.88
+    }
+  ]
+}

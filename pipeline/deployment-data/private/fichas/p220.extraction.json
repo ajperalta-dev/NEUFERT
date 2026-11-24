@@ -1,0 +1,345 @@
+{
+  "fichas": [
+    {
+      "id": "4122fb96e4bd1976-220-vision-0",
+      "pdf_page": 220,
+      "book_page": 207,
+      "chapter": "CULTURAL VENUES",
+      "section": "Museums and Art Galleries",
+      "title": "Museum: General Functional Scheme",
+      "summary": "A museum collects, documents, receives, researches, interprets, and communicates objects that testify to human cultural development. The functional scheme distinguishes public controlled areas, exhibition spaces, administration, and restoration areas, with separate visitor and artwork delivery access. Museum types are described by the origins and nature of their collections.",
+      "building_type": "Museum and art gallery",
+      "spaces": [
+        "Public controlled area",
+        "Visitors’ entrance",
+        "Entrance and orientation",
+        "Cloakroom",
+        "Pay desk",
+        "WC",
+        "Cafe and bar",
+        "Restaurant",
+        "Shop",
+        "Conference rooms",
+        "Exhibition area",
+        "Permanent exhibition",
+        "Temporary exhibition",
+        "Library",
+        "Lecture hall",
+        "Delivery of works of art",
+        "Private area",
+        "Administration",
+        "Director’s office",
+        "Catalogues",
+        "Copy room",
+        "Archive",
+        "Store",
+        "Restoration and conservation workshops"
+      ],
+      "uses": [
+        "Exhibiting permanent and temporary collections",
+        "Welcoming and orienting visitors",
+        "Providing visitor amenities and public facilities",
+        "Holding lectures and conferences",
+        "Cataloguing, copying, and archiving collection information",
+        "Receiving and delivering works of art",
+        "Administering the museum",
+        "Storing, restoring, and conserving collections"
+      ],
+      "furniture_equipment": [],
+      "dimensions": [],
+      "figure_refs": [
+        "1 Functional scheme"
+      ],
+      "cross_refs": [
+        "Lighting, pp. 501 ff."
+      ],
+      "keywords": [
+        "museum",
+        "art gallery",
+        "functional scheme",
+        "ethnology museum",
+        "science museum",
+        "cultural history museum",
+        "collection",
+        "exhibition",
+        "administration",
+        "restoration"
+      ],
+      "tags_architectural": [
+        "circulation",
+        "adaptability"
+      ],
+      "confidence": 0.96
+    },
+    {
+      "id": "4122fb96e4bd1976-220-vision-1",
+      "pdf_page": 220,
+      "book_page": 207,
+      "chapter": "CULTURAL VENUES",
+      "section": "Museums and Art Galleries",
+      "title": "Museum Display Lighting",
+      "summary": "Museum display objects should be protected from direct daylight and ultraviolet radiation. Display rooms need flexible lighting without permanently built-in or fixed wall and ceiling lights, and must be capable of complete darkening. The page illustrates indirect and north-facing daylighting approaches and gives illumination guidance by object sensitivity.",
+      "building_type": "Museum and art gallery",
+      "spaces": [
+        "Display rooms",
+        "Exhibition rooms",
+        "Entrance area",
+        "Cafe",
+        "Library"
+      ],
+      "uses": [
+        "Illuminating displayed objects while limiting damage",
+        "Providing flexible artificial lighting",
+        "Using filtered indirect light or north-facing roof and side lighting",
+        "Darkening display rooms completely when required"
+      ],
+      "furniture_equipment": [
+        "Flexible lighting systems",
+        "Suspended glass ceiling",
+        "North-facing rooflight",
+        "Screens"
+      ],
+      "dimensions": [
+        {
+          "label": "Illuminance for very sensitive display objects",
+          "value": 50.0,
+          "value_max": 80.0,
+          "unit": "lx",
+          "context": "Recommended illuminance range for very sensitive display objects.",
+          "status": "uncertain",
+          "ocr_raw": "Very sensitive display objects 50–80 lx"
+        },
+        {
+          "label": "Illuminance for sensitive display objects",
+          "value": 100.0,
+          "value_max": 150.0,
+          "unit": "lx",
+          "context": "Recommended illuminance range for sensitive display objects.",
+          "status": "uncertain",
+          "ocr_raw": "Sensitive display objects: 100–150 lx"
+        },
+        {
+          "label": "Illuminance for less sensitive display objects",
+          "value": 150.0,
+          "value_max": 300.0,
+          "unit": "lx",
+          "context": "Recommended illuminance range for less sensitive display objects.",
+          "status": "uncertain",
+          "ocr_raw": "Less sensitive display objects: 150–300 lx"
+        },
+        {
+          "label": "Maximum UV radiation",
+          "value": 25.0,
+          "value_max": null,
+          "unit": "W/m²",
+          "context": "UV radiation must not exceed this level.",
+          "status": "uncertain",
+          "ocr_raw": "UV radiation must not be exceed 25 W/m²."
+        },
+        {
+          "label": "Display room width shown in figure 6",
+          "value": 10.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Dimension marked beneath the well-lit display room diagram; unit inferred from the architectural drawing scale notation, not printed alongside the number.",
+          "status": "uncertain",
+          "ocr_raw": "10.00"
+        }
+      ],
+      "figure_refs": [
+        "2 Indirect lighting filtered through suspended glass ceiling",
+        "3 Lighting of display from rooflight facing north",
+        "4 Indirect lighting filtered through suspended glass ceiling",
+        "5 Side lighting from north",
+        "6 Well-lit display room according to Boston tests",
+        "7 Uniformly lit gallery with light according to S. Hurst Seager"
+      ],
+      "cross_refs": [
+        "Lighting, pp. 501 ff."
+      ],
+      "keywords": [
+        "museum lighting",
+        "daylight",
+        "ultraviolet radiation",
+        "illuminance",
+        "display room",
+        "north light",
+        "filtered light"
+      ],
+      "tags_architectural": [
+        "daylighting",
+        "adaptability",
+        "safety"
+      ],
+      "confidence": 0.89
+    },
+    {
+      "id": "4122fb96e4bd1976-220-vision-2",
+      "pdf_page": 220,
+      "book_page": 207,
+      "chapter": "CULTURAL VENUES",
+      "section": "Museums and Art Galleries",
+      "title": "Museum Store and Display Room Climate",
+      "summary": "Climate recommendations vary by collection material and season. Store and display temperatures are specified for winter and summer, with an upper summer limit; cooler conditions are recommended for insect-sensitive collections and photographic materials. Relative humidity targets differ by material, and rapid or seasonal humidity fluctuations should be limited.",
+      "building_type": "Museum and art gallery",
+      "spaces": [
+        "Collection store",
+        "Display areas",
+        "Display rooms"
+      ],
+      "uses": [
+        "Preserving stored and displayed collections through temperature and humidity control",
+        "Reducing insect reproduction in science and ethnography collections",
+        "Storing photographic and film materials in cool, dry conditions"
+      ],
+      "furniture_equipment": [
+        "Climate control systems"
+      ],
+      "dimensions": [
+        {
+          "label": "Store and display temperature in winter",
+          "value": 15.0,
+          "value_max": 18.0,
+          "unit": "°C",
+          "context": "Ideal temperature range in winter for stores and display areas.",
+          "status": "uncertain",
+          "ocr_raw": "15–18°C in the winter"
+        },
+        {
+          "label": "Store and display temperature in summer",
+          "value": 20.0,
+          "value_max": 22.0,
+          "unit": "°C",
+          "context": "Ideal temperature range in summer for stores and display areas.",
+          "status": "uncertain",
+          "ocr_raw": "20–22°C in the summer"
+        },
+        {
+          "label": "Maximum summer temperature",
+          "value": 26.0,
+          "value_max": null,
+          "unit": "°C",
+          "context": "Short peaks excepted, this temperature should not be exceeded in summer.",
+          "status": "uncertain",
+          "ocr_raw": "Except as short peaks, in the summer 26°C should not be exceeded."
+        },
+        {
+          "label": "Optimal temperature for science and ethnography collections",
+          "value": 12.0,
+          "value_max": 13.0,
+          "unit": "°C",
+          "context": "Recommended optimal temperature because insect reproduction is very limited below 15°C.",
+          "status": "uncertain",
+          "ocr_raw": "a temperature of 12–13°C is optimal."
+        },
+        {
+          "label": "Insect reproduction threshold",
+          "value": 15.0,
+          "value_max": null,
+          "unit": "°C",
+          "context": "Insect reproduction is described as very limited under this temperature.",
+          "status": "uncertain",
+          "ocr_raw": "the reproduction of insects is very limited under 15°C"
+        },
+        {
+          "label": "Maximum storage temperature for photo and film material",
+          "value": 16.0,
+          "value_max": null,
+          "unit": "°C",
+          "context": "Photo and film material should be stored at temperatures under this value.",
+          "status": "uncertain",
+          "ocr_raw": "stored cool and dry at temperatures under 16°C"
+        },
+        {
+          "label": "Ideal storage temperature for photo and film material",
+          "value": 5.0,
+          "value_max": null,
+          "unit": "°C",
+          "context": "Approximate ideal temperature for photo and film material.",
+          "status": "uncertain",
+          "ocr_raw": "ideally at approx. 5°C"
+        },
+        {
+          "label": "Relative humidity for wood",
+          "value": 55.0,
+          "value_max": 60.0,
+          "unit": "%",
+          "context": "Optimal relative humidity for wood.",
+          "status": "uncertain",
+          "ocr_raw": "for wood 55–60%"
+        },
+        {
+          "label": "Relative humidity for canvas",
+          "value": 50.0,
+          "value_max": 55.0,
+          "unit": "%",
+          "context": "Optimal relative humidity for canvas.",
+          "status": "uncertain",
+          "ocr_raw": "canvas 50–55%"
+        },
+        {
+          "label": "Relative humidity for paper",
+          "value": 45.0,
+          "value_max": 50.0,
+          "unit": "%",
+          "context": "Optimal relative humidity for paper.",
+          "status": "uncertain",
+          "ocr_raw": "paper 45–50%"
+        },
+        {
+          "label": "Maximum relative humidity for metals",
+          "value": 40.0,
+          "value_max": null,
+          "unit": "%",
+          "context": "Maximum relative humidity specified for metals.",
+          "status": "uncertain",
+          "ocr_raw": "metals, max. 40%"
+        },
+        {
+          "label": "Maximum relative humidity variation within one hour",
+          "value": 2.5,
+          "value_max": null,
+          "unit": "%",
+          "context": "Variation within one hour should not exceed this amount.",
+          "status": "uncertain",
+          "ocr_raw": "the variation within one hour should not exceed 2.5%"
+        },
+        {
+          "label": "Maximum relative humidity variation in one day",
+          "value": 5.0,
+          "value_max": null,
+          "unit": "%",
+          "context": "Variation in one day should not exceed this amount.",
+          "status": "uncertain",
+          "ocr_raw": "or not more than 5% in one day."
+        },
+        {
+          "label": "Seasonal relative humidity variation",
+          "value": -5.0,
+          "value_max": 5.0,
+          "unit": "%",
+          "context": "Seasonal variation limits: −5% in winter and +5% in summer.",
+          "status": "uncertain",
+          "ocr_raw": "Seasonal variations should not be more than +5% in summer or −5% in winter."
+        }
+      ],
+      "figure_refs": [],
+      "cross_refs": [],
+      "keywords": [
+        "museum climate",
+        "temperature",
+        "relative humidity",
+        "collection preservation",
+        "wood",
+        "canvas",
+        "paper",
+        "metals",
+        "photographic materials"
+      ],
+      "tags_architectural": [
+        "safety"
+      ],
+      "confidence": 0.96
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "fichas": [
+    {
+      "id": "4122fb96e4bd1976-270-vision-0",
+      "pdf_page": 270,
+      "book_page": 257,
+      "chapter": "RETAIL",
+      "section": "Retail Outlets",
+      "title": "Checkout and Waiting Zones",
+      "summary": "Illustrates checkout desk configurations and a self-service supermarket waiting zone. In specialised supermarkets with closed sales areas, checkout rows form the only exit; the passage width should allow shopping trolleys, pushchairs and wheelchairs to pass. Checkout types include single, area, floor, central and row arrangements, with conveyor belts and stationary scanners common.",
+      "building_type": "Retail outlet",
+      "spaces": [
+        "Checkout area",
+        "Self-service supermarket",
+        "Waiting zone",
+        "Packing zone",
+        "Entry/exit"
+      ],
+      "uses": [
+        "Processing purchases",
+        "Providing accessible passage through checkout rows",
+        "Repacking purchases",
+        "Queuing and waiting"
+      ],
+      "furniture_equipment": [
+        "Single cash desk",
+        "Area or floor cash desk",
+        "Island cash desk",
+        "Checkout row",
+        "Checkout desk",
+        "Conveyor belt",
+        "Stationary scanner",
+        "Packing area",
+        "Shelves",
+        "Cashiers",
+        "Checkout trolleys",
+        "Basket stack",
+        "Basket shelf"
+      ],
+      "dimensions": [
+        {
+          "label": "Minimum passage width between checkouts",
+          "value": 1.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Passage between checkouts in specialised supermarkets; sufficient for trolleys, pushchairs and wheelchairs.",
+          "status": "verified",
+          "ocr_raw": "i.e. min. 1 m."
+        }
+      ],
+      "figure_refs": [
+        "1 Single cash desk, straight",
+        "2 Single cash desk, angled",
+        "3 Area or floor cash desk",
+        "4 Island cash desk with large packing area",
+        "5 Checkout desk in self-service supermarket",
+        "6 Variant of 5",
+        "7 Variant of 5",
+        "8 Variant of 5",
+        "9 Checkout with before- and after-sale conveyor belt",
+        "10 Repacking checkout",
+        "11 Waiting zone, self-service area",
+        "12 Double checkout",
+        "13 Island cash desk",
+        "14 Section through small island cash desk"
+      ],
+      "cross_refs": [],
+      "keywords": [
+        "checkout",
+        "cash desk",
+        "self-service",
+        "supermarket",
+        "waiting zone",
+        "packing zone",
+        "cashier",
+        "retail"
+      ],
+      "tags_architectural": [
+        "accessibility",
+        "circulation",
+        "clearance"
+      ],
+      "confidence": 0.91
+    }
+  ]
+}

@@ -1,0 +1,109 @@
+{
+  "model": "gpt-6-luna",
+  "checks": {
+    "checks": [
+      {
+        "ficha_index": 0,
+        "dimension_index": 0,
+        "status": "verified",
+        "value": 1000.0,
+        "value_max": null,
+        "reason": "The prefix table prints k (kilo-) = 10\u00b3 (thousand); the proposed multiplier agrees."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 1,
+        "status": "verified",
+        "value": 0.01,
+        "value_max": null,
+        "reason": "The prefix table prints c (centi-) = 1/100 (hundredth); the proposed multiplier agrees."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 2,
+        "status": "verified",
+        "value": 0.001,
+        "value_max": null,
+        "reason": "The prefix table prints m (milli-) = 10\u207b\u00b3 (thousandth); the proposed multiplier agrees."
+      },
+      {
+        "ficha_index": 1,
+        "dimension_index": 0,
+        "status": "verified",
+        "value": 0.8598,
+        "value_max": null,
+        "reason": "The thermal-resistance conversion visibly gives 1 m\u00b2h K/kcal = 0.8598 m\u00b2K/W, agreeing with the proposed value and units."
+      },
+      {
+        "ficha_index": 1,
+        "dimension_index": 1,
+        "status": "verified",
+        "value": 1.163,
+        "value_max": null,
+        "reason": "The thermal-conductivity conversion visibly gives 1 kcal/m h K = 1.163 W/m K, agreeing with the proposed value and units."
+      },
+      {
+        "ficha_index": 1,
+        "dimension_index": 2,
+        "status": "verified",
+        "value": 1.163,
+        "value_max": null,
+        "reason": "The thermal-transmittance conversion visibly gives 1 kcal/m\u00b2 h K = 1.163 W/m\u00b2K, agreeing with the proposed value and units."
+      }
+    ]
+  },
+  "automatic": [
+    {
+      "ficha_index": 0,
+      "dimension_index": 0,
+      "issues": [
+        "Unknown unit"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 1,
+      "issues": [
+        "Unknown unit"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 2,
+      "issues": [
+        "Unknown unit"
+      ]
+    },
+    {
+      "ficha_index": 1,
+      "dimension_index": 0,
+      "issues": [
+        "Unknown unit"
+      ]
+    },
+    {
+      "ficha_index": 1,
+      "dimension_index": 1,
+      "issues": [
+        "Unknown unit"
+      ]
+    },
+    {
+      "ficha_index": 1,
+      "dimension_index": 2,
+      "issues": [
+        "Unknown unit"
+      ]
+    }
+  ],
+  "usage": [
+    {
+      "prompt_tokens": 5392,
+      "completion_tokens": 1081
+    },
+    {
+      "prompt_tokens": 4009,
+      "completion_tokens": 541
+    }
+  ]
+}

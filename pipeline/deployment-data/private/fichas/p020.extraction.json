@@ -1,0 +1,298 @@
+{
+  "fichas": [
+    {
+      "id": "4122fb96e4bd1976-20-vision-0",
+      "pdf_page": 20,
+      "book_page": 7,
+      "chapter": "BASICS",
+      "section": "Drawings",
+      "title": "Line types and thicknesses in construction drawings",
+      "summary": "A reference table specifies line types, their applications, line-group widths, and text sizes for construction drawings. It distinguishes section boundaries, visible and hidden edges, dimensioning lines, section-plane indicators, axes, and elements in front of or over the section plane. Notes describe when line groups I and IV are used and recommend standard line widths for drawings made with ink and standardised equipment.",
+      "building_type": "Construction drawings",
+      "spaces": [],
+      "uses": [
+        "Representing building elements and drawing conventions",
+        "Selecting line weights and line types for construction drawings"
+      ],
+      "furniture_equipment": [],
+      "dimensions": [
+        {
+          "label": "Line width",
+          "value": 0.5,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Heavy solid line; boundary of areas in section; line group I",
+          "status": "uncertain",
+          "ocr_raw": "solid line (heavy) ... boundary of areas in section ... 0.5"
+        },
+        {
+          "label": "Line width",
+          "value": 0.5,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Heavy solid line; boundary of areas in section; line group II",
+          "status": "uncertain",
+          "ocr_raw": "solid line (heavy) ... boundary of areas in section ... 0.5"
+        },
+        {
+          "label": "Line width",
+          "value": 1.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Heavy solid line; boundary of areas in section; line group III",
+          "status": "uncertain",
+          "ocr_raw": "solid line (heavy) ... boundary of areas in section ... 1.0"
+        },
+        {
+          "label": "Line width",
+          "value": 1.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Heavy solid line; boundary of areas in section; line group IV",
+          "status": "uncertain",
+          "ocr_raw": "solid line (heavy) ... boundary of areas in section ... 1.0"
+        },
+        {
+          "label": "Line width",
+          "value": 0.18,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Fine solid line; dimension lines, extension lines, pointer lines, walking lines and outlines of cut-outs; line group I",
+          "status": "uncertain",
+          "ocr_raw": "solid line (fine) ... dimension lines, extension lines, pointer lines, walking lines, outlines of cut-outs ... 0.18"
+        },
+        {
+          "label": "Line width",
+          "value": 0.25,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Fine solid line; dimension lines, extension lines, pointer lines, walking lines and outlines of cut-outs; line group II",
+          "status": "uncertain",
+          "ocr_raw": "solid line (fine) ... dimension lines, extension lines, pointer lines, walking lines, outlines of cut-outs ... 0.25"
+        },
+        {
+          "label": "Line width",
+          "value": 0.35,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Fine solid line; dimension lines, extension lines, pointer lines, walking lines and outlines of cut-outs; line group III",
+          "status": "uncertain",
+          "ocr_raw": "solid line (fine) ... dimension lines, extension lines, pointer lines, walking lines, outlines of cut-outs ... 0.35"
+        },
+        {
+          "label": "Line width",
+          "value": 0.5,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Fine solid line; dimension lines, extension lines, pointer lines, walking lines and outlines of cut-outs; line group IV",
+          "status": "uncertain",
+          "ocr_raw": "solid line (fine) ... dimension lines, extension lines, pointer lines, walking lines, outlines of cut-outs ... 0.5"
+        },
+        {
+          "label": "Text size",
+          "value": 2.5,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Text size for line group I",
+          "status": "uncertain",
+          "ocr_raw": "text size ... 2.5"
+        },
+        {
+          "label": "Text size",
+          "value": 3.5,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Text size for line group II",
+          "status": "uncertain",
+          "ocr_raw": "text size ... 3.5"
+        },
+        {
+          "label": "Text size",
+          "value": 5.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Text size for line group III",
+          "status": "uncertain",
+          "ocr_raw": "text size ... 5.0"
+        },
+        {
+          "label": "Text size",
+          "value": 7.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Text size for line group IV",
+          "status": "uncertain",
+          "ocr_raw": "text size ... 7.0"
+        },
+        {
+          "label": "Scale",
+          "value": 2.0,
+          "value_max": null,
+          "unit": "ratio",
+          "context": "Line group I is used when a drawing prepared with line group III is reduced at a ratio of 2:1; the complete printed ratio is 2:1.",
+          "status": "uncertain",
+          "ocr_raw": "Line group I is only to be used when a drawing has been prepared with line group III, was reduced in the ratio of 2:1"
+        }
+      ],
+      "figure_refs": [
+        "1"
+      ],
+      "cross_refs": [
+        "Paper formats",
+        "Technical drawings",
+        "Layout of drawings",
+        "Construction drawings",
+        "Construction drawing symbols",
+        "DIN 1356"
+      ],
+      "keywords": [
+        "line types",
+        "line weight",
+        "line width",
+        "line groups",
+        "construction drawings",
+        "scale",
+        "text size"
+      ],
+      "tags_architectural": [],
+      "confidence": 0.96
+    },
+    {
+      "id": "4122fb96e4bd1976-20-vision-1",
+      "pdf_page": 20,
+      "book_page": 7,
+      "chapter": "BASICS",
+      "section": "Drawings",
+      "title": "Dimensioning conventions and units",
+      "summary": "Dimensioning comprises a dimension figure, dimension line, extension line and dimension arrow. Figures are normally placed above the continuous dimension line and arranged to be readable from below or from the right. Dimension lines are solid and parallel to the measured length; extension lines move dimensions outside the area when they cannot be placed directly at its edge. The page illustrates alternative dimension units and dimensioning outside a drawing, including a note that millimetres are a recent trend and standard practice in the UK.",
+      "building_type": "Construction drawings",
+      "spaces": [],
+      "uses": [
+        "Communicating dimensions on drawings",
+        "Choosing and labelling dimension units",
+        "Dimensioning elements outside a drawing"
+      ],
+      "furniture_equipment": [],
+      "dimensions": [
+        {
+          "label": "Scale",
+          "value": 1.0,
+          "value_max": null,
+          "unit": "ratio",
+          "context": "Example of dimensioning outside the drawing at scale 1:100; the complete printed scale is 1:100.",
+          "status": "uncertain",
+          "ocr_raw": "Dimensioning outside the drawing (scale 1:100, units = cm)"
+        },
+        {
+          "label": "Scale",
+          "value": 1.0,
+          "value_max": null,
+          "unit": "ratio",
+          "context": "Example of dimensioning pillars and openings at scale 1:50; the complete printed scale is 1:50.",
+          "status": "uncertain",
+          "ocr_raw": "Dimensioning of pillars and openings, e.g. scale 1:50 cm, units = cm"
+        },
+        {
+          "label": "Scale",
+          "value": 1.0,
+          "value_max": null,
+          "unit": "ratio",
+          "context": "Example of dimensioning with coordinates at scale 1:50; the complete printed scale is 1:50.",
+          "status": "uncertain",
+          "ocr_raw": "Dimensioning with coordinates, e.g. scale 1:50 m, cm, units cm and mm"
+        },
+        {
+          "label": "Dimension",
+          "value": 24.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Example dimension in the table for dimensions under 1 m, with centimetres as the unit.",
+          "status": "uncertain",
+          "ocr_raw": "cm ... dimensions <1 m, e.g. ... 24"
+        },
+        {
+          "label": "Dimension",
+          "value": 88.5,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Example dimension in the table for dimensions under 1 m, with centimetres as the unit.",
+          "status": "uncertain",
+          "ocr_raw": "cm ... dimensions <1 m, e.g. ... 88.5"
+        },
+        {
+          "label": "Dimension",
+          "value": 388.5,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Example dimension in the table for dimensions greater than 1 m, with centimetres as the unit.",
+          "status": "uncertain",
+          "ocr_raw": "cm ... dimensions >1 m, e.g. ... 388.5"
+        },
+        {
+          "label": "Dimension",
+          "value": 240.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Example dimension in the table for dimensions under 1 m, with millimetres as the unit.",
+          "status": "uncertain",
+          "ocr_raw": "mm ... dimensions <1 m, e.g. ... 240"
+        }
+      ],
+      "figure_refs": [
+        "2",
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "cross_refs": [
+        "UK dimensioning practice, p. 6"
+      ],
+      "keywords": [
+        "dimensioning",
+        "dimension figure",
+        "dimension line",
+        "extension line",
+        "dimension arrow",
+        "units",
+        "centimetres",
+        "millimetres",
+        "scale"
+      ],
+      "tags_architectural": [
+        "circulation"
+      ],
+      "confidence": 0.91
+    },
+    {
+      "id": "4122fb96e4bd1976-20-vision-2",
+      "pdf_page": 20,
+      "book_page": 7,
+      "chapter": "BASICS",
+      "section": "Drawings",
+      "title": "Axis-field grid",
+      "summary": "An example drawing uses an axis-field grid with numbered and lettered grid references to locate positions. The illustration labels the horizontal direction as axis and the vertical direction as field.",
+      "building_type": "Construction drawings",
+      "spaces": [],
+      "uses": [
+        "Locating and identifying positions on a drawing using a grid"
+      ],
+      "furniture_equipment": [],
+      "dimensions": [],
+      "figure_refs": [
+        "8"
+      ],
+      "cross_refs": [],
+      "keywords": [
+        "axis-field grid",
+        "axes",
+        "grid references",
+        "drawing conventions"
+      ],
+      "tags_architectural": [
+        "modularity"
+      ],
+      "confidence": 0.88
+    }
+  ]
+}

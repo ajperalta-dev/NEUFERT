@@ -1,0 +1,154 @@
+{
+  "model": "gpt-6-luna",
+  "checks": {
+    "checks": [
+      {
+        "ficha_index": 1,
+        "dimension_index": 0,
+        "status": "verified",
+        "value": 3.0,
+        "value_max": null,
+        "reason": "The table prints 3 in the % fee column for work phase 1."
+      },
+      {
+        "ficha_index": 1,
+        "dimension_index": 1,
+        "status": "verified",
+        "value": 7.0,
+        "value_max": null,
+        "reason": "The table prints 7 in the % fee column for work phase 2."
+      },
+      {
+        "ficha_index": 1,
+        "dimension_index": 2,
+        "status": "verified",
+        "value": 11.0,
+        "value_max": null,
+        "reason": "The table prints 11 in the % fee column for work phase 3."
+      },
+      {
+        "ficha_index": 1,
+        "dimension_index": 3,
+        "status": "verified",
+        "value": 6.0,
+        "value_max": null,
+        "reason": "The table prints 6 in the % fee column for work phase 4."
+      },
+      {
+        "ficha_index": 1,
+        "dimension_index": 4,
+        "status": "verified",
+        "value": 25.0,
+        "value_max": null,
+        "reason": "The table prints 25 in the % fee column for work phase 5."
+      },
+      {
+        "ficha_index": 1,
+        "dimension_index": 5,
+        "status": "verified",
+        "value": 10.0,
+        "value_max": null,
+        "reason": "The table prints 10 in the % fee column for work phase 6."
+      },
+      {
+        "ficha_index": 1,
+        "dimension_index": 6,
+        "status": "verified",
+        "value": 4.0,
+        "value_max": null,
+        "reason": "The table prints 4 in the % fee column for work phase 7."
+      },
+      {
+        "ficha_index": 1,
+        "dimension_index": 7,
+        "status": "verified",
+        "value": 31.0,
+        "value_max": null,
+        "reason": "The table prints 31 in the % fee column for work phase 8."
+      },
+      {
+        "ficha_index": 1,
+        "dimension_index": 8,
+        "status": "verified",
+        "value": 3.0,
+        "value_max": null,
+        "reason": "The table prints 3 in the % fee column for work phase 9."
+      }
+    ]
+  },
+  "automatic": [
+    {
+      "ficha_index": 1,
+      "dimension_index": 0,
+      "issues": [
+        "Unknown unit"
+      ]
+    },
+    {
+      "ficha_index": 1,
+      "dimension_index": 1,
+      "issues": [
+        "Unknown unit"
+      ]
+    },
+    {
+      "ficha_index": 1,
+      "dimension_index": 2,
+      "issues": [
+        "Unknown unit"
+      ]
+    },
+    {
+      "ficha_index": 1,
+      "dimension_index": 3,
+      "issues": [
+        "Unknown unit"
+      ]
+    },
+    {
+      "ficha_index": 1,
+      "dimension_index": 4,
+      "issues": [
+        "Unknown unit"
+      ]
+    },
+    {
+      "ficha_index": 1,
+      "dimension_index": 5,
+      "issues": [
+        "Unknown unit"
+      ]
+    },
+    {
+      "ficha_index": 1,
+      "dimension_index": 6,
+      "issues": [
+        "Unknown unit"
+      ]
+    },
+    {
+      "ficha_index": 1,
+      "dimension_index": 7,
+      "issues": [
+        "Unknown unit"
+      ]
+    },
+    {
+      "ficha_index": 1,
+      "dimension_index": 8,
+      "issues": [
+        "Unknown unit"
+      ]
+    }
+  ],
+  "usage": [
+    {
+      "prompt_tokens": 5239,
+      "completion_tokens": 1543
+    },
+    {
+      "prompt_tokens": 4638,
+      "completion_tokens": 442
+    }
+  ]
+}

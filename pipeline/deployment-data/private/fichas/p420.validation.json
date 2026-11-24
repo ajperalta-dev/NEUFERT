@@ -1,0 +1,164 @@
+{
+  "model": "gpt-6-luna",
+  "checks": {
+    "checks": [
+      {
+        "ficha_index": 0,
+        "dimension_index": 0,
+        "status": "uncertain",
+        "value": 14.0,
+        "value_max": null,
+        "reason": "The drawing shows 14.0, but no unit is visibly stated."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 1,
+        "status": "uncertain",
+        "value": 24.0,
+        "value_max": null,
+        "reason": "The drawing shows 24.0, but no unit is visibly stated."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 2,
+        "status": "uncertain",
+        "value": 20.0,
+        "value_max": null,
+        "reason": "The drawing shows 20.0, but no unit is visibly stated."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 3,
+        "status": "uncertain",
+        "value": 19.5,
+        "value_max": null,
+        "reason": "The drawing shows 19.5, but no unit is visibly stated."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 4,
+        "status": "uncertain",
+        "value": 13.5,
+        "value_max": null,
+        "reason": "The drawing shows 13.5, but no unit is visibly stated."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 5,
+        "status": "verified",
+        "value": 45.0,
+        "value_max": null,
+        "reason": "The drawing explicitly shows 45\u00b0."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 6,
+        "status": "uncertain",
+        "value": 15.0,
+        "value_max": null,
+        "reason": "The drawing shows \u226515.00; the proposed threshold matches, but no unit is visibly stated."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 7,
+        "status": "uncertain",
+        "value": 3.0,
+        "value_max": null,
+        "reason": "The drawing shows \u22653.00; the proposed threshold matches, but no unit is visibly stated."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 8,
+        "status": "uncertain",
+        "value": 15.0,
+        "value_max": null,
+        "reason": "The drawing shows \u226515.00; the proposed threshold matches, but no unit is visibly stated."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 9,
+        "status": "uncertain",
+        "value": 4.0,
+        "value_max": null,
+        "reason": "The drawing shows 4.0, but no unit is visibly stated."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 10,
+        "status": "uncertain",
+        "value": 6.5,
+        "value_max": null,
+        "reason": "The drawing shows 6.5, but no unit is visibly stated."
+      }
+    ]
+  },
+  "automatic": [
+    {
+      "ficha_index": 0,
+      "dimension_index": 0,
+      "issues": []
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 1,
+      "issues": []
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 2,
+      "issues": []
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 3,
+      "issues": []
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 4,
+      "issues": []
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 5,
+      "issues": [
+        "Unknown unit"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 6,
+      "issues": []
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 7,
+      "issues": []
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 8,
+      "issues": []
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 9,
+      "issues": []
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 10,
+      "issues": []
+    }
+  ],
+  "usage": [
+    {
+      "prompt_tokens": 4034,
+      "completion_tokens": 1375
+    },
+    {
+      "prompt_tokens": 4383,
+      "completion_tokens": 976
+    }
+  ]
+}

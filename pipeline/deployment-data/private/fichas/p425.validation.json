@@ -1,0 +1,227 @@
+{
+  "model": "gpt-6-luna",
+  "checks": {
+    "checks": [
+      {
+        "ficha_index": 0,
+        "dimension_index": 0,
+        "status": "verified",
+        "value": 2500.0,
+        "value_max": null,
+        "reason": "The note visibly states 2500 mm for speeds up to 165 km/h."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 1,
+        "status": "verified",
+        "value": 3000.0,
+        "value_max": null,
+        "reason": "The note visibly states 3000 mm for speeds greater than 165 km/h."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 2,
+        "status": "verified",
+        "value": 2000.0,
+        "value_max": null,
+        "reason": "The note visibly states that the minimum distance to a column is 2000 mm."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 3,
+        "status": "verified",
+        "value": 4780.0,
+        "value_max": null,
+        "reason": "The note visibly recommends increasing the dimension to preferably 4780 mm or more."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 4,
+        "status": "verified",
+        "value": 2500.0,
+        "value_max": null,
+        "reason": "The note visibly states 2500 mm for canopy clearance in the applicable platform-edge zone."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 5,
+        "status": "verified",
+        "value": 3000.0,
+        "value_max": null,
+        "reason": "The note visibly states 3000 mm for the applicable platform-edge zone where line speed exceeds 165 km/h."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 6,
+        "status": "verified",
+        "value": 2300.0,
+        "value_max": null,
+        "reason": "The note visibly states a minimum headroom of 2300 mm beyond the applicable platform-edge zone."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 7,
+        "status": "verified",
+        "value": 730.0,
+        "value_max": null,
+        "reason": "The note visibly states a minimum lateral dimension of 730 mm."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 8,
+        "status": "verified",
+        "value": 300.0,
+        "value_max": null,
+        "reason": "The note visibly says these dimensions shall be increased by 300 mm where reasonably practicable."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 9,
+        "status": "verified",
+        "value": 1700.0,
+        "value_max": null,
+        "reason": "The diagram visibly labels 1700 for standard 6 foot; the notes state all dimensions are in mm."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 10,
+        "status": "verified",
+        "value": 1089.0,
+        "value_max": null,
+        "reason": "The figure caption visibly states that the gauge applies at and below 1089 mm above rail level."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 11,
+        "status": "verified",
+        "value": 915.0,
+        "value_max": null,
+        "reason": "The note visibly states up to a height of 915 mm ARL."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 12,
+        "status": "verified",
+        "value": 275.0,
+        "value_max": null,
+        "reason": "The text visibly lists a horizontal stepping distance of 275 mm."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 13,
+        "status": "verified",
+        "value": 250.0,
+        "value_max": null,
+        "reason": "The text visibly lists a vertical stepping distance of 250 mm."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 14,
+        "status": "verified",
+        "value": 350.0,
+        "value_max": null,
+        "reason": "The text visibly lists a diagonal stepping distance of 350 mm."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 15,
+        "status": "verified",
+        "value": 2340.0,
+        "value_max": null,
+        "reason": "The diagram visibly labels 2340 mm and also prints the starred alternative (*3196)."
+      }
+    ]
+  },
+  "automatic": [
+    {
+      "ficha_index": 0,
+      "dimension_index": 0,
+      "issues": []
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 1,
+      "issues": []
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 2,
+      "issues": []
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 3,
+      "issues": []
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 4,
+      "issues": []
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 5,
+      "issues": []
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 6,
+      "issues": []
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 7,
+      "issues": []
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 8,
+      "issues": []
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 9,
+      "issues": []
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 10,
+      "issues": []
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 11,
+      "issues": []
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 12,
+      "issues": []
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 13,
+      "issues": []
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 14,
+      "issues": []
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 15,
+      "issues": []
+    }
+  ],
+  "usage": [
+    {
+      "prompt_tokens": 5119,
+      "completion_tokens": 1489
+    },
+    {
+      "prompt_tokens": 4693,
+      "completion_tokens": 998
+    }
+  ]
+}

@@ -1,0 +1,326 @@
+{
+  "model": "gpt-6-luna",
+  "checks": {
+    "checks": [
+      {
+        "ficha_index": 0,
+        "dimension_index": 0,
+        "status": "uncertain",
+        "value": null,
+        "value_max": null,
+        "reason": "The drawing shows \u201c25\u201d for nominal diameter, but no unit is specified."
+      },
+      {
+        "ficha_index": 1,
+        "dimension_index": 0,
+        "status": "verified",
+        "value": null,
+        "value_max": null,
+        "reason": "The table shows 8.8\u201328.1 kW."
+      },
+      {
+        "ficha_index": 1,
+        "dimension_index": 1,
+        "status": "verified",
+        "value": null,
+        "value_max": null,
+        "reason": "The table shows 1.14\u20133.62 m\u00b3/h."
+      },
+      {
+        "ficha_index": 1,
+        "dimension_index": 2,
+        "status": "verified",
+        "value": null,
+        "value_max": null,
+        "reason": "The table shows 9.5\u201328.4 kW."
+      },
+      {
+        "ficha_index": 1,
+        "dimension_index": 3,
+        "status": "verified",
+        "value": null,
+        "value_max": null,
+        "reason": "The table shows 1.23\u20133.67 m\u00b3/h."
+      },
+      {
+        "ficha_index": 1,
+        "dimension_index": 4,
+        "status": "verified",
+        "value": null,
+        "value_max": null,
+        "reason": "The table shows 5.1\u201313.9 kW."
+      },
+      {
+        "ficha_index": 1,
+        "dimension_index": 5,
+        "status": "verified",
+        "value": null,
+        "value_max": null,
+        "reason": "The table shows 0.70\u20131.91 m\u00b3/h."
+      },
+      {
+        "ficha_index": 1,
+        "dimension_index": 6,
+        "status": "verified",
+        "value": null,
+        "value_max": null,
+        "reason": "The table shows 2.6\u201360.3 kW."
+      },
+      {
+        "ficha_index": 1,
+        "dimension_index": 7,
+        "status": "verified",
+        "value": null,
+        "value_max": null,
+        "reason": "The table shows 0.34\u20137.79 m\u00b3/h."
+      },
+      {
+        "ficha_index": 2,
+        "dimension_index": 0,
+        "status": "verified",
+        "value": null,
+        "value_max": null,
+        "reason": "The caption states the compartment is 1 m wide."
+      },
+      {
+        "ficha_index": 2,
+        "dimension_index": 1,
+        "status": "verified",
+        "value": null,
+        "value_max": null,
+        "reason": "The caption states the compartment is 0.30 m deep."
+      },
+      {
+        "ficha_index": 3,
+        "dimension_index": 0,
+        "status": "verified",
+        "value": null,
+        "value_max": null,
+        "reason": "The text states openings are approximately 10 cm\u00b2."
+      },
+      {
+        "ficha_index": 3,
+        "dimension_index": 1,
+        "status": "verified",
+        "value": null,
+        "value_max": null,
+        "reason": "The trench detail visibly labels \u22652.00, consistent with 2 m."
+      },
+      {
+        "ficha_index": 4,
+        "dimension_index": 0,
+        "status": "verified",
+        "value": null,
+        "value_max": null,
+        "reason": "The note states a minimum size of 1 m\u00b3/kW."
+      },
+      {
+        "ficha_index": 4,
+        "dimension_index": 1,
+        "status": "verified",
+        "value": null,
+        "value_max": null,
+        "reason": "The note specifies boiler output \u226550 kW."
+      },
+      {
+        "ficha_index": 4,
+        "dimension_index": 2,
+        "status": "verified",
+        "value": null,
+        "value_max": null,
+        "reason": "The note states an opening cross-section of 150 cm\u00b2 per kW."
+      },
+      {
+        "ficha_index": 4,
+        "dimension_index": 3,
+        "status": "verified",
+        "value": null,
+        "value_max": null,
+        "reason": "The printed formula includes the additive term +2 cm\u00b2."
+      },
+      {
+        "ficha_index": 4,
+        "dimension_index": 4,
+        "status": "verified",
+        "value": null,
+        "value_max": null,
+        "reason": "The example states boiler output 65 kW."
+      },
+      {
+        "ficha_index": 4,
+        "dimension_index": 5,
+        "status": "verified",
+        "value": null,
+        "value_max": null,
+        "reason": "The example gives an opening area of 180 cm\u00b2."
+      },
+      {
+        "ficha_index": 4,
+        "dimension_index": 6,
+        "status": "verified",
+        "value": null,
+        "value_max": null,
+        "reason": "The diagram caption states heating room \u226535 kW."
+      },
+      {
+        "ficha_index": 4,
+        "dimension_index": 7,
+        "status": "verified",
+        "value": null,
+        "value_max": null,
+        "reason": "The lower diagram labels the clearance \u22651.8 m."
+      }
+    ]
+  },
+  "automatic": [
+    {
+      "ficha_index": 0,
+      "dimension_index": 0,
+      "issues": [
+        "Unknown unit"
+      ]
+    },
+    {
+      "ficha_index": 1,
+      "dimension_index": 0,
+      "issues": [
+        "Unknown unit"
+      ]
+    },
+    {
+      "ficha_index": 1,
+      "dimension_index": 1,
+      "issues": [
+        "Unknown unit"
+      ]
+    },
+    {
+      "ficha_index": 1,
+      "dimension_index": 2,
+      "issues": [
+        "Unknown unit"
+      ]
+    },
+    {
+      "ficha_index": 1,
+      "dimension_index": 3,
+      "issues": [
+        "Unknown unit"
+      ]
+    },
+    {
+      "ficha_index": 1,
+      "dimension_index": 4,
+      "issues": [
+        "Unknown unit"
+      ]
+    },
+    {
+      "ficha_index": 1,
+      "dimension_index": 5,
+      "issues": [
+        "Unknown unit"
+      ]
+    },
+    {
+      "ficha_index": 1,
+      "dimension_index": 6,
+      "issues": [
+        "Unknown unit"
+      ]
+    },
+    {
+      "ficha_index": 1,
+      "dimension_index": 7,
+      "issues": [
+        "Unknown unit"
+      ]
+    },
+    {
+      "ficha_index": 2,
+      "dimension_index": 0,
+      "issues": []
+    },
+    {
+      "ficha_index": 2,
+      "dimension_index": 1,
+      "issues": []
+    },
+    {
+      "ficha_index": 3,
+      "dimension_index": 0,
+      "issues": [
+        "Unknown unit"
+      ]
+    },
+    {
+      "ficha_index": 3,
+      "dimension_index": 1,
+      "issues": []
+    },
+    {
+      "ficha_index": 4,
+      "dimension_index": 0,
+      "issues": [
+        "Unknown unit"
+      ]
+    },
+    {
+      "ficha_index": 4,
+      "dimension_index": 1,
+      "issues": [
+        "Unknown unit"
+      ]
+    },
+    {
+      "ficha_index": 4,
+      "dimension_index": 2,
+      "issues": [
+        "Unknown unit"
+      ]
+    },
+    {
+      "ficha_index": 4,
+      "dimension_index": 3,
+      "issues": [
+        "Unknown unit"
+      ]
+    },
+    {
+      "ficha_index": 4,
+      "dimension_index": 4,
+      "issues": [
+        "Unknown unit"
+      ]
+    },
+    {
+      "ficha_index": 4,
+      "dimension_index": 5,
+      "issues": [
+        "Unknown unit"
+      ]
+    },
+    {
+      "ficha_index": 4,
+      "dimension_index": 6,
+      "issues": [
+        "Unknown unit"
+      ]
+    },
+    {
+      "ficha_index": 4,
+      "dimension_index": 7,
+      "issues": []
+    }
+  ],
+  "usage": [
+    {
+      "prompt_tokens": 4531,
+      "completion_tokens": 2383
+    },
+    {
+      "prompt_tokens": 5797,
+      "completion_tokens": 855
+    }
+  ]
+}

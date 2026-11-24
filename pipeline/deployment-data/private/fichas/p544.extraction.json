@@ -1,0 +1,164 @@
+{
+  "fichas": [
+    {
+      "id": "4122fb96e4bd1976-544-vision-0",
+      "pdf_page": 544,
+      "book_page": 531,
+      "chapter": "BUILDING SERVICES",
+      "section": "Domestic Installation",
+      "title": "Air-conditioning plant room arrangement",
+      "summary": "Air-handling equipment must have a dedicated air-conditioning plant room in buildings of more than three storeys when connecting ductwork serves more than one storey or fire compartment. Plant rooms are commonly located on a services floor near, but not combined in the same room with, the heating and cooling plants. Their connection to vertical installation shafts and their distances from areas of demand should be considered. Services-floor placement affects the building’s appearance and requires intake and extract louvres.",
+      "building_type": "Buildings with air-conditioning and ventilation systems",
+      "spaces": [
+        "Air-conditioning plant room",
+        "Heating plant room",
+        "Cooling plant room",
+        "Services floor",
+        "Vertical installation shafts"
+      ],
+      "uses": [
+        "House air-handling equipment",
+        "Distribute air to multiple storeys or fire compartments"
+      ],
+      "furniture_equipment": [
+        "Air-handling equipment",
+        "Heating plant and distribution",
+        "Chiller",
+        "Intake and extract louvres"
+      ],
+      "dimensions": [
+        {
+          "label": "Storey threshold",
+          "value": 3.0,
+          "value_max": null,
+          "unit": "storeys",
+          "context": "Dedicated service room required in buildings of more than three storeys, subject to the connecting-ductwork condition.",
+          "status": "uncertain",
+          "ocr_raw": "in buildings of more than three storeys"
+        }
+      ],
+      "figure_refs": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "cross_refs": [
+        "531"
+      ],
+      "keywords": [
+        "air-conditioning plant room",
+        "air handling",
+        "services floor",
+        "fire protection",
+        "ductwork"
+      ],
+      "tags_architectural": [
+        "circulation",
+        "safety",
+        "adaptability"
+      ],
+      "confidence": 0.95
+    },
+    {
+      "id": "4122fb96e4bd1976-544-vision-1",
+      "pdf_page": 544,
+      "book_page": 531,
+      "chapter": "BUILDING SERVICES",
+      "section": "Domestic Installation",
+      "title": "Sizing air-conditioning plant rooms",
+      "summary": "Approximate air-conditioning plant-room area and height can be estimated from assumed volume flow and the type of air handling. The page presents charts for systems accommodating several units, with separate guidance for smaller and larger systems, and cites VDI 3803 and VDI Guideline 2052.",
+      "building_type": "Administration building or other building with air-conditioning plant",
+      "spaces": [
+        "Air-conditioning plant room"
+      ],
+      "uses": [
+        "Estimate plant-room area and height from volume flow and air-handling type"
+      ],
+      "furniture_equipment": [
+        "Air-handling units"
+      ],
+      "dimensions": [
+        {
+          "label": "Air-flow capacity",
+          "value": 50.0,
+          "value_max": null,
+          "unit": "m³/s",
+          "context": "The chart is described as applying to air flows of up to this amount for smaller systems.",
+          "status": "uncertain",
+          "ocr_raw": "for air flows of up to 50m³/s"
+        }
+      ],
+      "figure_refs": [
+        "5",
+        "6"
+      ],
+      "cross_refs": [
+        "531"
+      ],
+      "keywords": [
+        "plant-room sizing",
+        "volume flow",
+        "room area",
+        "room height",
+        "VDI 3803",
+        "VDI Guideline 2052"
+      ],
+      "tags_architectural": [
+        "spatial_proportion"
+      ],
+      "confidence": 0.94
+    },
+    {
+      "id": "4122fb96e4bd1976-544-vision-2",
+      "pdf_page": 544,
+      "book_page": 531,
+      "chapter": "BUILDING SERVICES",
+      "section": "Domestic Installation",
+      "title": "Façade ventilation systems",
+      "summary": "Decentralised ventilation units are placed near façades and connected directly by ducts. Outside air is supplied directly from the façade to the unit, avoiding the need for a further air-conditioning installation in the building. Configurations include underfloor supply, combined supply and extract, and systems with central extract. Wind pressure and the façade temperature boundary layer can affect volume flow and supply-air temperature.",
+      "building_type": "Buildings with decentralised ventilation",
+      "spaces": [
+        "Office",
+        "Corridor",
+        "Façade zone",
+        "Double floor"
+      ],
+      "uses": [
+        "Supply outside air near the façade",
+        "Extract air locally or through a central extract-air plant",
+        "Provide combined air supply and extract"
+      ],
+      "furniture_equipment": [
+        "Underfloor air supply unit",
+        "Combined parapet air supply and extract unit",
+        "Ceiling extract device",
+        "Central extract-air plant",
+        "Heat-reclamation device"
+      ],
+      "dimensions": [],
+      "figure_refs": [
+        "7",
+        "8",
+        "9"
+      ],
+      "cross_refs": [
+        "531"
+      ],
+      "keywords": [
+        "façade ventilation",
+        "decentralised ventilation",
+        "underfloor air supply",
+        "air extract",
+        "heat reclamation",
+        "wind pressure"
+      ],
+      "tags_architectural": [
+        "ventilation",
+        "adaptability",
+        "daylighting"
+      ],
+      "confidence": 0.96
+    }
+  ]
+}

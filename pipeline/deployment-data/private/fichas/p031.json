@@ -1,0 +1,427 @@
+{
+  "fichas": [
+    {
+      "id": "4122fb96e4bd1976-31-vision-0",
+      "pdf_page": 31,
+      "book_page": 18,
+      "chapter": "BASICS",
+      "section": "Drawings",
+      "title": "Gas Installation Symbols",
+      "summary": "A legend of plan and installation symbols for gas pipes, connections, fittings, shut-off devices, meters, appliances, and exhaust systems. Pipe symbols may indicate nominal diameter; appliance symbols distinguish several gas-heating and cooking devices.",
+      "building_type": "Building gas installation",
+      "spaces": [],
+      "uses": [
+        "Represent gas pipe routes and connections in technical drawings",
+        "Identify gas appliances, fittings, meters, and exhaust components"
+      ],
+      "furniture_equipment": [
+        "Gas pipes",
+        "Flexible hose",
+        "Isolating piece",
+        "Pressure regulator",
+        "Gas meter",
+        "Shut-off tap",
+        "Shut-off gate valve",
+        "Shut-off valve",
+        "Thermally activated shut-off device",
+        "Gas stove",
+        "Gas oven",
+        "Gas refrigerator",
+        "Gas heat pump",
+        "Gas room heater",
+        "Gas water heaters",
+        "Exhaust gas/flue pipe",
+        "Filter"
+      ],
+      "dimensions": [
+        {
+          "label": "Nominal diameter notation",
+          "value": 25.0,
+          "value_max": null,
+          "unit": "unspecified",
+          "context": "Example value shown for an exposed horizontal pipe; the symbol specifies nominal diameter.",
+          "status": "uncertain",
+          "ocr_raw": "25"
+        }
+      ],
+      "figure_refs": [],
+      "cross_refs": [],
+      "keywords": [
+        "gas installation",
+        "drawing symbols",
+        "pipe symbols",
+        "gas appliances",
+        "exhaust systems"
+      ],
+      "tags_architectural": [
+        "safety"
+      ],
+      "confidence": 0.96
+    },
+    {
+      "id": "4122fb96e4bd1976-31-vision-1",
+      "pdf_page": 31,
+      "book_page": 18,
+      "chapter": "BASICS",
+      "section": "Drawings",
+      "title": "Gas Appliance Heating Capacities and Gas Volume Flows",
+      "summary": "A table compares heating-capacity and gas-volume-flow ranges for gas water heaters, circulating water heaters, storage water heaters, and heating stoves or boilers.",
+      "building_type": "Gas appliances",
+      "spaces": [],
+      "uses": [
+        "Compare listed appliance heating capacities",
+        "Compare listed gas volume flows"
+      ],
+      "furniture_equipment": [
+        "Gas water heater",
+        "Circulating water heater",
+        "Storage water heater",
+        "Heating stove/boiler"
+      ],
+      "dimensions": [
+        {
+          "label": "Heating capacity, gas water heater",
+          "value": 8.8,
+          "value_max": 28.1,
+          "unit": "kW",
+          "context": "Gas water heater row.",
+          "status": "verified",
+          "ocr_raw": "8.8-28.1"
+        },
+        {
+          "label": "Gas volume flow, gas water heater",
+          "value": 1.14,
+          "value_max": 3.62,
+          "unit": "m³/h",
+          "context": "Gas water heater row.",
+          "status": "verified",
+          "ocr_raw": "1.14-3.62"
+        },
+        {
+          "label": "Heating capacity, circulating water heater",
+          "value": 9.5,
+          "value_max": 28.4,
+          "unit": "kW",
+          "context": "Circulating water heater row.",
+          "status": "verified",
+          "ocr_raw": "9.5-28.4"
+        },
+        {
+          "label": "Gas volume flow, circulating water heater",
+          "value": 1.23,
+          "value_max": 3.67,
+          "unit": "m³/h",
+          "context": "Circulating water heater row.",
+          "status": "verified",
+          "ocr_raw": "1.23-3.67"
+        },
+        {
+          "label": "Heating capacity, storage water heater",
+          "value": 5.1,
+          "value_max": 13.9,
+          "unit": "kW",
+          "context": "Storage water heater row.",
+          "status": "verified",
+          "ocr_raw": "5.1-13.9"
+        },
+        {
+          "label": "Gas volume flow, storage water heater",
+          "value": 0.7,
+          "value_max": 1.91,
+          "unit": "m³/h",
+          "context": "Storage water heater row.",
+          "status": "verified",
+          "ocr_raw": "0.70-1.91"
+        },
+        {
+          "label": "Heating capacity, heating stove/boiler",
+          "value": 2.6,
+          "value_max": 60.3,
+          "unit": "kW",
+          "context": "Heating stove/boiler row.",
+          "status": "verified",
+          "ocr_raw": "2.6-B0.3"
+        },
+        {
+          "label": "Gas volume flow, heating stove/boiler",
+          "value": 0.34,
+          "value_max": 7.79,
+          "unit": "m³/h",
+          "context": "Heating stove/boiler row.",
+          "status": "verified",
+          "ocr_raw": "0.34-7.79"
+        }
+      ],
+      "figure_refs": [],
+      "cross_refs": [],
+      "keywords": [
+        "gas appliances",
+        "heating capacity",
+        "gas volume flow",
+        "water heater",
+        "boiler"
+      ],
+      "tags_architectural": [
+        "safety"
+      ],
+      "confidence": 0.91
+    },
+    {
+      "id": "4122fb96e4bd1976-31-vision-2",
+      "pdf_page": 31,
+      "book_page": 18,
+      "chapter": "BASICS",
+      "section": "Drawings",
+      "title": "Gas Supply Connections and Meter Arrangements",
+      "summary": "Installation drawings show gas supply connections at a building, a cellar meter, meters on each storey, and a gas supply arrangement with a regulator and shut-off components. A separate detail shows a combined water-and-gas house supply compartment.",
+      "building_type": "Building gas and utility installation",
+      "spaces": [
+        "Cellar",
+        "Building exterior",
+        "Utility service compartment"
+      ],
+      "uses": [
+        "Route the building gas service and risers",
+        "Locate meters, regulators, shut-offs, and appliance branch lines",
+        "Coordinate water and gas house-supply connections"
+      ],
+      "furniture_equipment": [
+        "House introduction combination",
+        "Pressure regulator",
+        "Shut-off",
+        "Gas meter",
+        "Riser",
+        "Gas supply line",
+        "Branch line",
+        "Device connecting fitting",
+        "Thermally activated device",
+        "Gas equipment",
+        "Power cable",
+        "Steel service pipe",
+        "Casing",
+        "Integrated insulating joints"
+      ],
+      "dimensions": [
+        {
+          "label": "Width of combined water-and-gas compartment",
+          "value": 1.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "House supply connection for water and gas in one compartment.",
+          "status": "verified",
+          "ocr_raw": "1 m\nwide"
+        },
+        {
+          "label": "Depth of combined water-and-gas compartment",
+          "value": 0.3,
+          "value_max": null,
+          "unit": "m",
+          "context": "House supply connection for water and gas in one compartment.",
+          "status": "verified",
+          "ocr_raw": "0.30 m deep"
+        }
+      ],
+      "figure_refs": [
+        "2",
+        "5",
+        "6",
+        "7",
+        "9"
+      ],
+      "cross_refs": [],
+      "keywords": [
+        "gas supply",
+        "house connection",
+        "gas meter",
+        "pressure regulator",
+        "riser",
+        "utility compartment"
+      ],
+      "tags_architectural": [
+        "safety",
+        "circulation"
+      ],
+      "confidence": 0.94
+    },
+    {
+      "id": "4122fb96e4bd1976-31-vision-3",
+      "pdf_page": 31,
+      "book_page": 18,
+      "chapter": "BASICS",
+      "section": "Drawings",
+      "title": "Laying Gas Pipes",
+      "summary": "Notes and details distinguish freely installed gas lines, pipes laid under plaster, and pipelines in shafts or channels. The text calls for frost-free routing where applicable and ventilation openings for shafts, channels, and suspended ceilings. A buried-pipe detail states that the pipe on undisturbed soil need not be frost-free.",
+      "building_type": "Building gas installation",
+      "spaces": [
+        "Building exterior",
+        "Pipe shaft or channel",
+        "Suspended ceiling"
+      ],
+      "uses": [
+        "Select gas-pipe routing and installation locations",
+        "Ventilate shafts, channels, and suspended-ceiling installations",
+        "Identify buried gas-pipe installation conditions"
+      ],
+      "furniture_equipment": [
+        "Gas pipes",
+        "Pipe shaft",
+        "Pipe channel",
+        "Suspended ceiling",
+        "Warning tape",
+        "Sand bed"
+      ],
+      "dimensions": [
+        {
+          "label": "Ventilation opening area",
+          "value": 10.0,
+          "value_max": null,
+          "unit": "cm²",
+          "context": "Approximate opening area stated for gas pipelines in shafts or channels.",
+          "status": "verified",
+          "ocr_raw": "Openings\napproximately 10 cm2"
+        },
+        {
+          "label": "Buried-pipe detail dimension",
+          "value": 2.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Dimension printed alongside the gas-pipe trench detail; the OCR reads “≥ 50 / ≥ 2.00” and the exact association of the first value is unclear.",
+          "status": "verified",
+          "ocr_raw": "Gas installations\n\nDRAWINGS\nGas Installation Symbols\n\nexposed horizontal pipe\n(stating nominal diameter)\n\n25\n\ngas storage water heater\n\nconcealed horizontal pipe\n(stating nominal diameter)\n\nDRAWINGS\n\nPaper formats\nTechnical\ndrawings\nLayout of\ndrawings\nConstruction\n\nGas\nappliance\n\nHeating\ncapacity\n(kW)\n\nGas\nvolume flow\n(m 3/h)\n\ngas water\nheater\n\n8.8-28.1\n\n1.14-3.62\n\ncirculating\nwater heater\n\n9.5-28.4\n\n1.23-3.67\n\nstorage\nwater heater\n\n5.1-13.9\n\n0.70-1.91\n\nriser pipe\n\nheating\nstove/boiler\n\n2.6-B0.3\n\n0.34-7.79\n\ncontinuously rising pipe\n\n0\n\nchange of cross-section\n(stating nominal diameter)\n\n)(\n\n~\nrn'ln\n\ngas pipe house entry\n\ngas room heater for external wall\n\nconnection (stating connection\ncapacity)\n\ngas heating boiler\n\ndrawings\nConstruction\ndrawing symbols\nWater supply\nsymbols\nElectrical\ninstallation\nsymbols\nSecurity\n\nflexible hose\n\nisolating piece\n\ninstallation\ndownpipe\n\nsymbols\nGas installation\nsymbols\nDrawing by hand\nComputer-aided\ndrawing\n\nConnection specifications for gas\nappliances\n\n~\n\ncrossing of two pipes\n\nwithout connection\n\nIntroduction and\ninclined feed tube\n\ncrossing connection\nbranch location\n\n---j RT\n\ncleaning T-piece\n\n-+ RK\n\nf) House supply connection at right\nangles to front of building\n\nlong-threaded connection\n\n1 house introduction\ncombination\n2 pressure regulator\nB 3 shut-off\n4gas meter\n5 riser\n6 gas supply line\n7 branch line\n8 devices connecting fitting\nthennally activated device\n9 gas equipment: stove,\nwater heater\n\nscrewed connection\n\nIJ\n\nflanged connection\n\n~\n\nwelded connection\n\n-txKJ--\n\nshut-off tap\n\n---{;::(K)--\n\nshut-off gate valve\n\n~\n\nshut-offvalve\nthermally activated shut-off\ndevice\n\nelbow valve\n\n~\n\n9 Gas meter in\n\npressure regulator\n\n[><Xl\n~\n\n800\n\n1 power cable, local area\nnetwork management\n2 steel service pipe\n3 casing\n4 pull out\n5 shut off the main with\nintegrated insulating joints\n6 boundary between gas valve\nunit (GVU) and installer\n7 pressure regulator\n\ngas stove (four rings)\n\nm\n\ngas oven (four rings)\n\ngas refrigerator\n\nand flue gas flap valve\n\n0\n\nGas meters on each storey\n\n1 A gas line installed free, gas lines can also be\nlaid outside the building, such as a gas heater\non the roof. A gas line needs to be frost-free.\n2 Gas pipe laid under plaster.\n3 Gas pipelines in shafls or channels have\nto be loaded and ventilated. Openings\napproximately 10 cm2• For suspended\nceilings, these openings are placed\ndiagonally.\n\ne\n\ngas heat pump\n\nLaying gas pipes\n\nexhaust gas/flue pipe\n(stating diameter)\n1 Minimum size 1 m 3/kW\n2 Combustion air opening in\nboiler output to ~50 kW cmZ\nat ground level\n3 Combustion air opening at\nabout 50 kW boiler capacities.\nCross-section of the opening\nof 150 cm 2 per kW + 2cm 2 ,\nthe over 50 kW goes out.\nExample: boiler output 65 kW\n50kW+ 15 kW\n150 cm 2 + (15 x 2 = 30) cm 2\n= 180 cm 2\n\nexhaust gas systems\n(stating dimensions), also for\nexhaust gas flue/chimney\nfilter\n\ngas room heater\n\ncontinuous flow gas water\nheater\n\ncombi gas water heater\n\n18\n\n8 Flow-operated safety device\n\ncellar\n\n~ gasmeter\n\n~\n\nGas pipe laid on undisturbed soil;\ndoes not have to be frost-free\n\ncleaning K-piece\n\njjj\n\n~\n\n8\n\nt) House supply connection for water\nand gas in one compartment 1 m\nwide and 0.30 m deep\n\n(!) Heating room ~35 kW\n\n\f"
+        }
+      ],
+      "figure_refs": [
+        "3",
+        "8"
+      ],
+      "cross_refs": [],
+      "keywords": [
+        "gas pipe laying",
+        "pipe shaft",
+        "ventilation",
+        "frost-free",
+        "buried gas pipe"
+      ],
+      "tags_architectural": [
+        "safety",
+        "ventilation"
+      ],
+      "confidence": 0.82
+    },
+    {
+      "id": "4122fb96e4bd1976-31-vision-4",
+      "pdf_page": 31,
+      "book_page": 18,
+      "chapter": "BASICS",
+      "section": "Drawings",
+      "title": "Combustion Air and Heating Room Requirements",
+      "summary": "The page gives a minimum-size criterion and combustion-air opening guidance for boiler rooms. For boiler capacities above about 50 kW, it describes an opening cross-section and illustrates a 65 kW example. A separate heating-room detail is marked at approximately 35 kW or greater.",
+      "building_type": "Boiler and heating room",
+      "spaces": [
+        "Heating room",
+        "Boiler room"
+      ],
+      "uses": [
+        "Provide combustion air for gas-heating equipment",
+        "Check the stated boiler-room opening guidance",
+        "Identify the heating-room capacity category shown"
+      ],
+      "furniture_equipment": [
+        "Boiler",
+        "Combustion-air opening",
+        "Gas-heating equipment"
+      ],
+      "dimensions": [
+        {
+          "label": "Minimum size criterion",
+          "value": 1.0,
+          "value_max": null,
+          "unit": "m³/kW",
+          "context": "Minimum size stated in the notes beside the boiler-room diagrams.",
+          "status": "verified",
+          "ocr_raw": "Minimum size 1 m 3/kW"
+        },
+        {
+          "label": "Boiler-output threshold for combustion-air opening note",
+          "value": 50.0,
+          "value_max": null,
+          "unit": "kW",
+          "context": "Threshold stated for the combustion-air opening at ground level.",
+          "status": "verified",
+          "ocr_raw": "Gas installations\n\nDRAWINGS\nGas Installation Symbols\n\nexposed horizontal pipe\n(stating nominal diameter)\n\n25\n\ngas storage water heater\n\nconcealed horizontal pipe\n(stating nominal diameter)\n\nDRAWINGS\n\nPaper formats\nTechnical\ndrawings\nLayout of\ndrawings\nConstruction\n\nGas\nappliance\n\nHeating\ncapacity\n(kW)\n\nGas\nvolume flow\n(m 3/h)\n\ngas water\nheater\n\n8.8-28.1\n\n1.14-3.62\n\ncirculating\nwater heater\n\n9.5-28.4\n\n1.23-3.67\n\nstorage\nwater heater\n\n5.1-13.9\n\n0.70-1.91\n\nriser pipe\n\nheating\nstove/boiler\n\n2.6-B0.3\n\n0.34-7.79\n\ncontinuously rising pipe\n\n0\n\nchange of cross-section\n(stating nominal diameter)\n\n)(\n\n~\nrn'ln\n\ngas pipe house entry\n\ngas room heater for external wall\n\nconnection (stating connection\ncapacity)\n\ngas heating boiler\n\ndrawings\nConstruction\ndrawing symbols\nWater supply\nsymbols\nElectrical\ninstallation\nsymbols\nSecurity\n\nflexible hose\n\nisolating piece\n\ninstallation\ndownpipe\n\nsymbols\nGas installation\nsymbols\nDrawing by hand\nComputer-aided\ndrawing\n\nConnection specifications for gas\nappliances\n\n~\n\ncrossing of two pipes\n\nwithout connection\n\nIntroduction and\ninclined feed tube\n\ncrossing connection\nbranch location\n\n---j RT\n\ncleaning T-piece\n\n-+ RK\n\nf) House supply connection at right\nangles to front of building\n\nlong-threaded connection\n\n1 house introduction\ncombination\n2 pressure regulator\nB 3 shut-off\n4gas meter\n5 riser\n6 gas supply line\n7 branch line\n8 devices connecting fitting\nthennally activated device\n9 gas equipment: stove,\nwater heater\n\nscrewed connection\n\nIJ\n\nflanged connection\n\n~\n\nwelded connection\n\n-txKJ--\n\nshut-off tap\n\n---{;::(K)--\n\nshut-off gate valve\n\n~\n\nshut-offvalve\nthermally activated shut-off\ndevice\n\nelbow valve\n\n~\n\n9 Gas meter in\n\npressure regulator\n\n[><Xl\n~\n\n800\n\n1 power cable, local area\nnetwork management\n2 steel service pipe\n3 casing\n4 pull out\n5 shut off the main with\nintegrated insulating joints\n6 boundary between gas valve\nunit (GVU) and installer\n7 pressure regulator\n\ngas stove (four rings)\n\nm\n\ngas oven (four rings)\n\ngas refrigerator\n\nand flue gas flap valve\n\n0\n\nGas meters on each storey\n\n1 A gas line installed free, gas lines can also be\nlaid outside the building, such as a gas heater\non the roof. A gas line needs to be frost-free.\n2 Gas pipe laid under plaster.\n3 Gas pipelines in shafls or channels have\nto be loaded and ventilated. Openings\napproximately 10 cm2• For suspended\nceilings, these openings are placed\ndiagonally.\n\ne\n\ngas heat pump\n\nLaying gas pipes\n\nexhaust gas/flue pipe\n(stating diameter)\n1 Minimum size 1 m 3/kW\n2 Combustion air opening in\nboiler output to ~50 kW cmZ\nat ground level\n3 Combustion air opening at\nabout 50 kW boiler capacities.\nCross-section of the opening\nof 150 cm 2 per kW + 2cm 2 ,\nthe over 50 kW goes out.\nExample: boiler output 65 kW\n50kW+ 15 kW\n150 cm 2 + (15 x 2 = 30) cm 2\n= 180 cm 2\n\nexhaust gas systems\n(stating dimensions), also for\nexhaust gas flue/chimney\nfilter\n\ngas room heater\n\ncontinuous flow gas water\nheater\n\ncombi gas water heater\n\n18\n\n8 Flow-operated safety device\n\ncellar\n\n~ gasmeter\n\n~\n\nGas pipe laid on undisturbed soil;\ndoes not have to be frost-free\n\ncleaning K-piece\n\njjj\n\n~\n\n8\n\nt) House supply connection for water\nand gas in one compartment 1 m\nwide and 0.30 m deep\n\n(!) Heating room ~35 kW\n\n\f"
+        },
+        {
+          "label": "Combustion-air opening cross-section coefficient",
+          "value": 150.0,
+          "value_max": null,
+          "unit": "cm² per kW",
+          "context": "Opening cross-section wording for about 50 kW boiler capacities; retain as printed, without deriving a total.",
+          "status": "verified",
+          "ocr_raw": "150 cm 2 per kW"
+        },
+        {
+          "label": "Additional opening cross-section coefficient",
+          "value": 2.0,
+          "value_max": null,
+          "unit": "cm²",
+          "context": "Printed additive term in the opening formula for capacity above 50 kW.",
+          "status": "verified",
+          "ocr_raw": "+ 2cm 2"
+        },
+        {
+          "label": "Example boiler output",
+          "value": 65.0,
+          "value_max": null,
+          "unit": "kW",
+          "context": "Worked example printed for boiler output.",
+          "status": "verified",
+          "ocr_raw": "Example: boiler output 65 kW"
+        },
+        {
+          "label": "Example combustion-air opening area",
+          "value": 180.0,
+          "value_max": null,
+          "unit": "cm²",
+          "context": "Printed result of the worked 65 kW example.",
+          "status": "verified",
+          "ocr_raw": "= 180 cm 2"
+        },
+        {
+          "label": "Heating-room capacity category",
+          "value": 35.0,
+          "value_max": null,
+          "unit": "kW",
+          "context": "Heating-room detail captioned with a greater-than-or-equal threshold.",
+          "status": "verified",
+          "ocr_raw": "Gas installations\n\nDRAWINGS\nGas Installation Symbols\n\nexposed horizontal pipe\n(stating nominal diameter)\n\n25\n\ngas storage water heater\n\nconcealed horizontal pipe\n(stating nominal diameter)\n\nDRAWINGS\n\nPaper formats\nTechnical\ndrawings\nLayout of\ndrawings\nConstruction\n\nGas\nappliance\n\nHeating\ncapacity\n(kW)\n\nGas\nvolume flow\n(m 3/h)\n\ngas water\nheater\n\n8.8-28.1\n\n1.14-3.62\n\ncirculating\nwater heater\n\n9.5-28.4\n\n1.23-3.67\n\nstorage\nwater heater\n\n5.1-13.9\n\n0.70-1.91\n\nriser pipe\n\nheating\nstove/boiler\n\n2.6-B0.3\n\n0.34-7.79\n\ncontinuously rising pipe\n\n0\n\nchange of cross-section\n(stating nominal diameter)\n\n)(\n\n~\nrn'ln\n\ngas pipe house entry\n\ngas room heater for external wall\n\nconnection (stating connection\ncapacity)\n\ngas heating boiler\n\ndrawings\nConstruction\ndrawing symbols\nWater supply\nsymbols\nElectrical\ninstallation\nsymbols\nSecurity\n\nflexible hose\n\nisolating piece\n\ninstallation\ndownpipe\n\nsymbols\nGas installation\nsymbols\nDrawing by hand\nComputer-aided\ndrawing\n\nConnection specifications for gas\nappliances\n\n~\n\ncrossing of two pipes\n\nwithout connection\n\nIntroduction and\ninclined feed tube\n\ncrossing connection\nbranch location\n\n---j RT\n\ncleaning T-piece\n\n-+ RK\n\nf) House supply connection at right\nangles to front of building\n\nlong-threaded connection\n\n1 house introduction\ncombination\n2 pressure regulator\nB 3 shut-off\n4gas meter\n5 riser\n6 gas supply line\n7 branch line\n8 devices connecting fitting\nthennally activated device\n9 gas equipment: stove,\nwater heater\n\nscrewed connection\n\nIJ\n\nflanged connection\n\n~\n\nwelded connection\n\n-txKJ--\n\nshut-off tap\n\n---{;::(K)--\n\nshut-off gate valve\n\n~\n\nshut-offvalve\nthermally activated shut-off\ndevice\n\nelbow valve\n\n~\n\n9 Gas meter in\n\npressure regulator\n\n[><Xl\n~\n\n800\n\n1 power cable, local area\nnetwork management\n2 steel service pipe\n3 casing\n4 pull out\n5 shut off the main with\nintegrated insulating joints\n6 boundary between gas valve\nunit (GVU) and installer\n7 pressure regulator\n\ngas stove (four rings)\n\nm\n\ngas oven (four rings)\n\ngas refrigerator\n\nand flue gas flap valve\n\n0\n\nGas meters on each storey\n\n1 A gas line installed free, gas lines can also be\nlaid outside the building, such as a gas heater\non the roof. A gas line needs to be frost-free.\n2 Gas pipe laid under plaster.\n3 Gas pipelines in shafls or channels have\nto be loaded and ventilated. Openings\napproximately 10 cm2• For suspended\nceilings, these openings are placed\ndiagonally.\n\ne\n\ngas heat pump\n\nLaying gas pipes\n\nexhaust gas/flue pipe\n(stating diameter)\n1 Minimum size 1 m 3/kW\n2 Combustion air opening in\nboiler output to ~50 kW cmZ\nat ground level\n3 Combustion air opening at\nabout 50 kW boiler capacities.\nCross-section of the opening\nof 150 cm 2 per kW + 2cm 2 ,\nthe over 50 kW goes out.\nExample: boiler output 65 kW\n50kW+ 15 kW\n150 cm 2 + (15 x 2 = 30) cm 2\n= 180 cm 2\n\nexhaust gas systems\n(stating dimensions), also for\nexhaust gas flue/chimney\nfilter\n\ngas room heater\n\ncontinuous flow gas water\nheater\n\ncombi gas water heater\n\n18\n\n8 Flow-operated safety device\n\ncellar\n\n~ gasmeter\n\n~\n\nGas pipe laid on undisturbed soil;\ndoes not have to be frost-free\n\ncleaning K-piece\n\njjj\n\n~\n\n8\n\nt) House supply connection for water\nand gas in one compartment 1 m\nwide and 0.30 m deep\n\n(!) Heating room ~35 kW\n\n\f"
+        },
+        {
+          "label": "Heating-room clearance",
+          "value": 1.8,
+          "value_max": null,
+          "unit": "m",
+          "context": "Vertical clearance shown in the lower heating-room diagram.",
+          "status": "verified",
+          "ocr_raw": "Gas installations\n\nDRAWINGS\nGas Installation Symbols\n\nexposed horizontal pipe\n(stating nominal diameter)\n\n25\n\ngas storage water heater\n\nconcealed horizontal pipe\n(stating nominal diameter)\n\nDRAWINGS\n\nPaper formats\nTechnical\ndrawings\nLayout of\ndrawings\nConstruction\n\nGas\nappliance\n\nHeating\ncapacity\n(kW)\n\nGas\nvolume flow\n(m 3/h)\n\ngas water\nheater\n\n8.8-28.1\n\n1.14-3.62\n\ncirculating\nwater heater\n\n9.5-28.4\n\n1.23-3.67\n\nstorage\nwater heater\n\n5.1-13.9\n\n0.70-1.91\n\nriser pipe\n\nheating\nstove/boiler\n\n2.6-B0.3\n\n0.34-7.79\n\ncontinuously rising pipe\n\n0\n\nchange of cross-section\n(stating nominal diameter)\n\n)(\n\n~\nrn'ln\n\ngas pipe house entry\n\ngas room heater for external wall\n\nconnection (stating connection\ncapacity)\n\ngas heating boiler\n\ndrawings\nConstruction\ndrawing symbols\nWater supply\nsymbols\nElectrical\ninstallation\nsymbols\nSecurity\n\nflexible hose\n\nisolating piece\n\ninstallation\ndownpipe\n\nsymbols\nGas installation\nsymbols\nDrawing by hand\nComputer-aided\ndrawing\n\nConnection specifications for gas\nappliances\n\n~\n\ncrossing of two pipes\n\nwithout connection\n\nIntroduction and\ninclined feed tube\n\ncrossing connection\nbranch location\n\n---j RT\n\ncleaning T-piece\n\n-+ RK\n\nf) House supply connection at right\nangles to front of building\n\nlong-threaded connection\n\n1 house introduction\ncombination\n2 pressure regulator\nB 3 shut-off\n4gas meter\n5 riser\n6 gas supply line\n7 branch line\n8 devices connecting fitting\nthennally activated device\n9 gas equipment: stove,\nwater heater\n\nscrewed connection\n\nIJ\n\nflanged connection\n\n~\n\nwelded connection\n\n-txKJ--\n\nshut-off tap\n\n---{;::(K)--\n\nshut-off gate valve\n\n~\n\nshut-offvalve\nthermally activated shut-off\ndevice\n\nelbow valve\n\n~\n\n9 Gas meter in\n\npressure regulator\n\n[><Xl\n~\n\n800\n\n1 power cable, local area\nnetwork management\n2 steel service pipe\n3 casing\n4 pull out\n5 shut off the main with\nintegrated insulating joints\n6 boundary between gas valve\nunit (GVU) and installer\n7 pressure regulator\n\ngas stove (four rings)\n\nm\n\ngas oven (four rings)\n\ngas refrigerator\n\nand flue gas flap valve\n\n0\n\nGas meters on each storey\n\n1 A gas line installed free, gas lines can also be\nlaid outside the building, such as a gas heater\non the roof. A gas line needs to be frost-free.\n2 Gas pipe laid under plaster.\n3 Gas pipelines in shafls or channels have\nto be loaded and ventilated. Openings\napproximately 10 cm2• For suspended\nceilings, these openings are placed\ndiagonally.\n\ne\n\ngas heat pump\n\nLaying gas pipes\n\nexhaust gas/flue pipe\n(stating diameter)\n1 Minimum size 1 m 3/kW\n2 Combustion air opening in\nboiler output to ~50 kW cmZ\nat ground level\n3 Combustion air opening at\nabout 50 kW boiler capacities.\nCross-section of the opening\nof 150 cm 2 per kW + 2cm 2 ,\nthe over 50 kW goes out.\nExample: boiler output 65 kW\n50kW+ 15 kW\n150 cm 2 + (15 x 2 = 30) cm 2\n= 180 cm 2\n\nexhaust gas systems\n(stating dimensions), also for\nexhaust gas flue/chimney\nfilter\n\ngas room heater\n\ncontinuous flow gas water\nheater\n\ncombi gas water heater\n\n18\n\n8 Flow-operated safety device\n\ncellar\n\n~ gasmeter\n\n~\n\nGas pipe laid on undisturbed soil;\ndoes not have to be frost-free\n\ncleaning K-piece\n\njjj\n\n~\n\n8\n\nt) House supply connection for water\nand gas in one compartment 1 m\nwide and 0.30 m deep\n\n(!) Heating room ~35 kW\n\n\f"
+        }
+      ],
+      "figure_refs": [
+        "10"
+      ],
+      "cross_refs": [],
+      "keywords": [
+        "combustion air",
+        "boiler room",
+        "heating room",
+        "gas boiler",
+        "opening area"
+      ],
+      "tags_architectural": [
+        "safety",
+        "ventilation",
+        "clearance"
+      ],
+      "confidence": 0.86
+    }
+  ]
+}

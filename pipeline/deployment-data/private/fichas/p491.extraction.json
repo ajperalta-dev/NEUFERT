@@ -1,0 +1,385 @@
+{
+  "fichas": [
+    {
+      "id": "4122fb96e4bd1976-491-vision-0",
+      "pdf_page": 491,
+      "book_page": 478,
+      "chapter": "BUILDING SERVICES",
+      "section": "Building Physics",
+      "title": "Sound insulation: airborne transmission and secondary paths",
+      "summary": "Explains airborne sound transmission through building elements, the influence of boundary frequency, and the reduction in insulation caused by secondary-path transmission. Notes that party walls should have substantial surface mass and that doors and windows can strongly affect overall insulation.",
+      "building_type": "Residential and workplace buildings",
+      "spaces": [
+        "Party walls between flats or houses",
+        "Neighbouring homes and workplaces"
+      ],
+      "uses": [
+        "Limit airborne sound transmission between buildings and occupied spaces",
+        "Account for secondary-path transmission when evaluating sound insulation"
+      ],
+      "furniture_equipment": [],
+      "dimensions": [
+        {
+          "label": "Density of particularly effective secondary-path panels",
+          "value": 10.0,
+          "value_max": 160.0,
+          "unit": "kg/m²",
+          "context": "Surface density range stated for panels that bend stiffly and are particularly effective as secondary paths.",
+          "status": "uncertain",
+          "ocr_raw": "panels which bend stiffly and have a density of 10–160 kg/m²"
+        },
+        {
+          "label": "Party-wall mass per unit area",
+          "value": 400.0,
+          "value_max": null,
+          "unit": "kg/m²",
+          "context": "Minimum recommended mass per unit area for party walls between flats or houses.",
+          "status": "uncertain",
+          "ocr_raw": "party walls between flats or houses should always weigh at least 400 kg/m²"
+        }
+      ],
+      "figure_refs": [
+        "1 Airborne sound transmission",
+        "2 Standard curve for airborne sound",
+        "3 Secondary path for sound through adjacent single-layer building element",
+        "4 Diagonal transmission"
+      ],
+      "cross_refs": [
+        "p. 477"
+      ],
+      "keywords": [
+        "airborne sound",
+        "sound insulation",
+        "secondary path",
+        "party wall",
+        "boundary frequency"
+      ],
+      "tags_architectural": [
+        "safety"
+      ],
+      "confidence": 0.94
+    },
+    {
+      "id": "4122fb96e4bd1976-491-vision-1",
+      "pdf_page": 491,
+      "book_page": 478,
+      "chapter": "BUILDING SERVICES",
+      "section": "Building Physics",
+      "title": "Sound insulation of doors and windows",
+      "summary": "Compares stated sound-insulation limits for door and window configurations. The text emphasizes that openings can reduce the insulation of a wall and that improving their sound insulation may be a priority.",
+      "building_type": "Residential and workplace buildings",
+      "spaces": [
+        "Doors and windows in separating walls"
+      ],
+      "uses": [
+        "Compare sound-insulation values of door and window arrangements",
+        "Identify openings as potential weak points in airborne sound insulation"
+      ],
+      "furniture_equipment": [],
+      "dimensions": [
+        {
+          "label": "Simple door with threshold, without special sealing",
+          "value": 20.0,
+          "value_max": null,
+          "unit": "dB",
+          "context": "Sound-insulation value stated as an upper limit.",
+          "status": "uncertain",
+          "ocr_raw": "simple door with threshold, without special sealing ... up to 20 dB"
+        },
+        {
+          "label": "Heavy door with threshold and good sealing",
+          "value": 30.0,
+          "value_max": null,
+          "unit": "dB",
+          "context": "Sound-insulation value stated as an upper limit.",
+          "status": "uncertain",
+          "ocr_raw": "heavy door, with threshold and good sealing ... up to 30 dB"
+        },
+        {
+          "label": "Double doors with threshold, without special sealing, opening individually",
+          "value": 40.0,
+          "value_max": null,
+          "unit": "dB",
+          "context": "Sound-insulation value stated as an upper limit.",
+          "status": "uncertain",
+          "ocr_raw": "double doors with threshold, without special sealing, opening individually ... up to 40 dB"
+        },
+        {
+          "label": "Heavy double doors with threshold and good sealing",
+          "value": 50.0,
+          "value_max": null,
+          "unit": "dB",
+          "context": "Sound-insulation value stated as an upper limit.",
+          "status": "uncertain",
+          "ocr_raw": "heavy double doors, with threshold and good sealing ... up to 50 dB"
+        },
+        {
+          "label": "Door with sound insulation",
+          "value": 15.0,
+          "value_max": null,
+          "unit": "dB",
+          "context": "Sound-insulation value stated as an upper limit.",
+          "status": "uncertain",
+          "ocr_raw": "door with sound insulation ... up to 15 dB"
+        },
+        {
+          "label": "Simple window without additional sealing",
+          "value": 25.0,
+          "value_max": null,
+          "unit": "dB",
+          "context": "Sound-insulation value stated as an upper limit.",
+          "status": "uncertain",
+          "ocr_raw": "simple window, without additional sealing ... up to 25 dB"
+        },
+        {
+          "label": "Simple window with good sealing",
+          "value": 25.0,
+          "value_max": null,
+          "unit": "dB",
+          "context": "Sound-insulation value stated as an upper limit.",
+          "status": "uncertain",
+          "ocr_raw": "simple window, with good sealing ... up to 25 dB"
+        },
+        {
+          "label": "Double window without special sealing",
+          "value": 30.0,
+          "value_max": null,
+          "unit": "dB",
+          "context": "Sound-insulation value stated as an upper limit.",
+          "status": "uncertain",
+          "ocr_raw": "double window, without special sealing ... up to 30 dB"
+        },
+        {
+          "label": "Double window with good sealing",
+          "value": 32.0,
+          "value_max": null,
+          "unit": "dB",
+          "context": "Sound-insulation value stated as an upper limit.",
+          "status": "uncertain",
+          "ocr_raw": "double window, with good sealing ... up to 32 dB"
+        },
+        {
+          "label": "Double glazing 4/12–16/4 mm",
+          "value": 32.0,
+          "value_max": null,
+          "unit": "dB",
+          "context": "Sound-insulation value stated as an upper limit; glazing construction is printed as 4/12–16/4 mm.",
+          "status": "uncertain",
+          "ocr_raw": "double glazing 4/12–16/4 mm ... up to 32 dB"
+        }
+      ],
+      "figure_refs": [
+        "5 Sound insulation of doors and windows"
+      ],
+      "cross_refs": [],
+      "keywords": [
+        "doors",
+        "windows",
+        "sealing",
+        "double glazing",
+        "sound insulation"
+      ],
+      "tags_architectural": [
+        "safety"
+      ],
+      "confidence": 0.89
+    },
+    {
+      "id": "4122fb96e4bd1976-491-vision-2",
+      "pdf_page": 491,
+      "book_page": 478,
+      "chapter": "BUILDING SERVICES",
+      "section": "Building Physics",
+      "title": "Minimum sound-insulation requirements for occupied rooms",
+      "summary": "Table excerpt gives airborne and impact sound-insulation values for separating elements in multi-storey residential and mixed-use buildings, schools, and accommodation or healthcare settings. The stated partitioning-element values include the effects of materials and secondary paths in the installed condition; door values apply only to transmission through the door.",
+      "building_type": "Residential, educational, healthcare, and mixed-use buildings",
+      "spaces": [
+        "Residential units",
+        "Common hallways and stairwells",
+        "Cellars and stair spaces",
+        "Classrooms",
+        "Bedrooms",
+        "Patient rooms",
+        "Examination and consulting rooms"
+      ],
+      "uses": [
+        "Reference minimum sound-insulation requirements for separating building elements",
+        "Compare stated airborne and impact sound-insulation values by building use"
+      ],
+      "furniture_equipment": [],
+      "dimensions": [
+        {
+          "label": "Party walls between residential units: airborne sound insulation R'w",
+          "value": 53.0,
+          "value_max": null,
+          "unit": "dB",
+          "context": "Minimum requirement in multi-storey buildings with residential and working areas.",
+          "status": "uncertain",
+          "ocr_raw": "residential units, party walls 53"
+        },
+        {
+          "label": "Walls between common hallways and stairwells: airborne sound insulation R'w",
+          "value": 52.0,
+          "value_max": null,
+          "unit": "dB",
+          "context": "Minimum requirement in multi-storey buildings with residential and working areas.",
+          "status": "uncertain",
+          "ocr_raw": "walls between common hallways and stairwells 52"
+        },
+        {
+          "label": "Floor slabs and stairs separating residential units: airborne sound insulation R'w",
+          "value": 54.0,
+          "value_max": null,
+          "unit": "dB",
+          "context": "Minimum requirement in multi-storey buildings with residential and working areas.",
+          "status": "uncertain",
+          "ocr_raw": "floor slabs and stairs separating residential units 54"
+        },
+        {
+          "label": "Floor slabs and stairs separating residential units: impact sound insulation L'n,w",
+          "value": 53.0,
+          "value_max": null,
+          "unit": "dB",
+          "context": "Minimum requirement in multi-storey buildings with residential and working areas.",
+          "status": "uncertain",
+          "ocr_raw": "floor slabs and stairs separating residential units 54 53"
+        },
+        {
+          "label": "Floor slabs over cellars, common hallways, and stair spaces: airborne sound insulation R'w",
+          "value": 52.0,
+          "value_max": null,
+          "unit": "dB",
+          "context": "Minimum requirement in multi-storey buildings with residential and working areas.",
+          "status": "uncertain",
+          "ocr_raw": "floor slabs over cellars, common hallways and stair spaces 52"
+        },
+        {
+          "label": "Floor slabs over cellars, common hallways, and stair spaces: impact sound insulation L'n,w",
+          "value": 53.0,
+          "value_max": null,
+          "unit": "dB",
+          "context": "Minimum requirement in multi-storey buildings with residential and working areas.",
+          "status": "uncertain",
+          "ocr_raw": "floor slabs over cellars, common hallways and stair spaces 52 53"
+        },
+        {
+          "label": "Stair flights and landings: impact sound insulation L'n,w",
+          "value": 58.0,
+          "value_max": null,
+          "unit": "dB",
+          "context": "Minimum requirement in multi-storey buildings with residential and working areas.",
+          "status": "uncertain",
+          "ocr_raw": "stair flights and landings 58"
+        },
+        {
+          "label": "Doors from stairwells into flat corridors: airborne sound insulation R'w",
+          "value": 27.0,
+          "value_max": null,
+          "unit": "dB",
+          "context": "Minimum requirement in multi-storey buildings with residential and working areas.",
+          "status": "uncertain",
+          "ocr_raw": "doors from stairwells into flat corridors 27"
+        },
+        {
+          "label": "Walls between classrooms and stairwells: airborne sound insulation R'w",
+          "value": 47.0,
+          "value_max": null,
+          "unit": "dB",
+          "context": "Minimum requirement for schools and educational institutions.",
+          "status": "uncertain",
+          "ocr_raw": "walls between classrooms and stairwells 47"
+        },
+        {
+          "label": "Floor slabs between classrooms: airborne sound insulation R'w",
+          "value": 55.0,
+          "value_max": null,
+          "unit": "dB",
+          "context": "Minimum requirement for schools and educational institutions.",
+          "status": "uncertain",
+          "ocr_raw": "floor slabs between classrooms 55 53"
+        },
+        {
+          "label": "Floor slabs between classrooms: impact sound insulation L'n,w",
+          "value": 53.0,
+          "value_max": null,
+          "unit": "dB",
+          "context": "Minimum requirement for schools and educational institutions.",
+          "status": "uncertain",
+          "ocr_raw": "floor slabs between classrooms 55 53"
+        },
+        {
+          "label": "Doors from classrooms into corridors: airborne sound insulation R'w",
+          "value": 53.0,
+          "value_max": null,
+          "unit": "dB",
+          "context": "Minimum requirement for schools and educational institutions.",
+          "status": "uncertain",
+          "ocr_raw": "doors from classrooms into corridors 53"
+        },
+        {
+          "label": "Walls of bedrooms, patient rooms, and examination rooms: airborne sound insulation R'w",
+          "value": 47.0,
+          "value_max": null,
+          "unit": "dB",
+          "context": "Minimum requirement for accommodation, hospitals, and sanatoriums.",
+          "status": "uncertain",
+          "ocr_raw": "walls of bedrooms, patient rooms and examination rooms 47"
+        },
+        {
+          "label": "Floor slabs in general: airborne sound insulation R'w",
+          "value": 54.0,
+          "value_max": null,
+          "unit": "dB",
+          "context": "Minimum requirement for accommodation, hospitals, and sanatoriums.",
+          "status": "uncertain",
+          "ocr_raw": "floor slabs in general 54 53"
+        },
+        {
+          "label": "Floor slabs in general: impact sound insulation L'n,w",
+          "value": 53.0,
+          "value_max": null,
+          "unit": "dB",
+          "context": "Minimum requirement for accommodation, hospitals, and sanatoriums.",
+          "status": "uncertain",
+          "ocr_raw": "floor slabs in general 54 53"
+        },
+        {
+          "label": "Stair flights and landings: impact sound insulation L'n,w",
+          "value": 58.0,
+          "value_max": null,
+          "unit": "dB",
+          "context": "Minimum requirement for accommodation, hospitals, and sanatoriums.",
+          "status": "uncertain",
+          "ocr_raw": "stair flights and landings 58"
+        },
+        {
+          "label": "Doors to examination and consulting rooms: airborne sound insulation R'w",
+          "value": 37.0,
+          "value_max": null,
+          "unit": "dB",
+          "context": "Minimum requirement for accommodation, hospitals, and sanatoriums.",
+          "status": "uncertain",
+          "ocr_raw": "doors to examination and consulting rooms 37"
+        }
+      ],
+      "figure_refs": [
+        "7 Protection of occupied rooms against sound transmission from neighbouring residential and working areas (minimum requirements, excerpt)"
+      ],
+      "cross_refs": [
+        "refs"
+      ],
+      "keywords": [
+        "minimum requirements",
+        "airborne sound insulation",
+        "impact sound insulation",
+        "residential",
+        "schools",
+        "hospitals"
+      ],
+      "tags_architectural": [
+        "safety"
+      ],
+      "confidence": 0.85
+    }
+  ]
+}

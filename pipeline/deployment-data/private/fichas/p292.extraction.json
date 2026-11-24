@@ -1,0 +1,190 @@
+{
+  "fichas": [
+    {
+      "id": "4122fb96e4bd1976-292-vision-0",
+      "pdf_page": 292,
+      "book_page": 279,
+      "chapter": "INDUSTRY AND TRADE",
+      "section": "Workshops",
+      "title": "Meat Processing Plant",
+      "summary": "A meat-processing plant with production on the ground floor and offices, laboratories, canteen, kitchen, washing and changing rooms on the first floor. Production includes sausages, cold meat, ham and delicatessen goods. The building accommodates groups of rooms with different temperature requirements and receives pork halves, beef quarters and coarsely dismembered wrapped pieces.",
+      "building_type": "Meat processing plant",
+      "spaces": [
+        "Production area",
+        "Plant",
+        "Raw sausage meat room",
+        "Sausage production room",
+        "Sausage cooling room",
+        "Filling room",
+        "Cutting/mixing room",
+        "Cutting room",
+        "Colouring room",
+        "Hot and cold smoke room",
+        "Cold rooms",
+        "Freezer rooms",
+        "Freezer store",
+        "Cold room for packaged goods",
+        "Packing area",
+        "Dispatch and weighing area",
+        "Delivery area",
+        "Kitchen",
+        "Canteen",
+        "Offices",
+        "Laboratory",
+        "First-aid room",
+        "Changing rooms",
+        "Washing rooms",
+        "WC and showers",
+        "Cleaning room",
+        "Alkaline solvents room",
+        "Acid solvents room",
+        "Workshop",
+        "Boot room",
+        "Foreman room",
+        "Computing room",
+        "Meeting room",
+        "Secretary's office",
+        "Entrance",
+        "Heating room",
+        "Cooling-equipment room",
+        "Cartons store",
+        "Refuse room",
+        "Container-washing room",
+        "Electricity mains room",
+        "Porter room"
+      ],
+      "uses": [
+        "Processing meat and producing sausages, cold meat, ham and delicatessen goods",
+        "Receiving and storing meat and packaged goods",
+        "Filling, cutting, mixing, smoking, cooling and packing products",
+        "Staff welfare, administration, laboratory work and plant support"
+      ],
+      "furniture_equipment": [
+        "Filling machines",
+        "Weighing equipment",
+        "Production and packing equipment",
+        "Cooling equipment",
+        "Heating equipment"
+      ],
+      "dimensions": [
+        {
+          "label": "Production area",
+          "value": 4500.0,
+          "value_max": null,
+          "unit": "m²",
+          "context": "Area on the ground floor used to produce sausages, cold meat, ham and delicatessen goods.",
+          "status": "uncertain",
+          "ocr_raw": "area of 4500 m²"
+        },
+        {
+          "label": "Daily production",
+          "value": 25.0,
+          "value_max": null,
+          "unit": "t/day",
+          "context": "Approximate daily production.",
+          "status": "uncertain",
+          "ocr_raw": "Daily production is about 25 t."
+        },
+        {
+          "label": "Social rooms, offices and WC temperature",
+          "value": 20.0,
+          "value_max": null,
+          "unit": "°C",
+          "context": "Required room temperature for social rooms, offices and WC.",
+          "status": "uncertain",
+          "ocr_raw": "social rooms, offices, WC, 20°C"
+        },
+        {
+          "label": "Production rooms temperature",
+          "value": 18.0,
+          "value_max": null,
+          "unit": "°C",
+          "context": "Required temperature stated for production rooms.",
+          "status": "uncertain",
+          "ocr_raw": "production rooms, 18°C"
+        },
+        {
+          "label": "Air-conditioned rooms temperature",
+          "value": 14.0,
+          "value_max": 18.0,
+          "unit": "°C",
+          "context": "Required temperature range for air-conditioned rooms.",
+          "status": "uncertain",
+          "ocr_raw": "air-conditioned rooms, 14-18°C"
+        },
+        {
+          "label": "Cool rooms temperature",
+          "value": 10.0,
+          "value_max": 12.0,
+          "unit": "°C",
+          "context": "Required temperature range for cool rooms.",
+          "status": "uncertain",
+          "ocr_raw": "cool rooms, 10-12°C"
+        },
+        {
+          "label": "Cold rooms temperature",
+          "value": 0.0,
+          "value_max": 8.0,
+          "unit": "°C",
+          "context": "Required temperature range for cold rooms.",
+          "status": "uncertain",
+          "ocr_raw": "cold rooms, 0-8°C"
+        },
+        {
+          "label": "Deep-freeze temperature",
+          "value": -20.0,
+          "value_max": null,
+          "unit": "°C",
+          "context": "Required temperature for deep-freeze rooms.",
+          "status": "uncertain",
+          "ocr_raw": "deep-freeze, -20°C"
+        },
+        {
+          "label": "Plan dimension",
+          "value": 84.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Dimension marked along the top edge of the ground-floor plan.",
+          "status": "uncertain",
+          "ocr_raw": "84.00"
+        },
+        {
+          "label": "Plan dimension",
+          "value": 54.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Dimension marked along the right edge of the ground-floor plan.",
+          "status": "uncertain",
+          "ocr_raw": "54.00"
+        },
+        {
+          "label": "Plan grid dimension",
+          "value": 6.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Repeated dimension markers along the lower edge of the ground-floor plan; the OCR shows two occurrences.",
+          "status": "uncertain",
+          "ocr_raw": "6.00 6.00"
+        }
+      ],
+      "figure_refs": [
+        "1 (Section)",
+        "2 (First floor)",
+        "3 (Ground floor, Thüringer Fleischzentrum)"
+      ],
+      "cross_refs": [],
+      "keywords": [
+        "meat processing",
+        "food production",
+        "cold storage",
+        "temperature control",
+        "industrial plant"
+      ],
+      "tags_architectural": [
+        "circulation",
+        "safety"
+      ],
+      "confidence": 0.96
+    }
+  ]
+}

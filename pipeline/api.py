@@ -1,4 +1,5 @@
 import json
+import os
 import uuid
 from pathlib import Path
 from fastapi import FastAPI, HTTPException, Query, Request
@@ -108,7 +109,10 @@ def page_words(doc:str,number:int,q:str=Query('',max_length=1000)):
 @app.get('/api/assets/{asset:path}')
 def asset(asset:str):
     path=(PRIVATE/asset).resolve()
-    if not path.is_relative_to(PRIVATE.resolve()) or path.suffix not in ('.webp','.png') or not path.is_file():raise HTTPException(404)
+    roots=[PRIVATE.resolve()]
+    if os.getenv('NEUFERT_CLOUD')=='1':
+        roots.append((Path(__file__).parent/'deployment-data/private').resolve())
+    if not any(path.is_relative_to(root) for root in roots) or path.suffix not in ('.webp','.png') or not path.is_file():raise HTTPException(404)
     return FileResponse(path,media_type='image/png' if path.suffix=='.png' else 'image/webp')
 
 class Collection(BaseModel):

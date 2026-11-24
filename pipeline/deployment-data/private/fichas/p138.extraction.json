@@ -1,0 +1,430 @@
+{
+  "fichas": [
+    {
+      "id": "4122fb96e4bd1976-138-vision-0",
+      "pdf_page": 138,
+      "book_page": 125,
+      "chapter": "BUILDING COMPONENTS",
+      "section": "Stairs",
+      "title": "Escape routes and escape openings",
+      "summary": "Escape routes are shown using roof windows, external platforms, escape balconies, gangways, and ladder extensions. Escape openings are illustrated with clear-opening dimensions; the diagrams also show height-related conditions for roof escape routes.",
+      "building_type": "Building escape route",
+      "spaces": [
+        "Occupied room",
+        "Roof",
+        "Escape balcony",
+        "External platform",
+        "Gangway"
+      ],
+      "uses": [
+        "Provide escape from a building",
+        "Provide an escape opening through a roof or wall"
+      ],
+      "furniture_equipment": [
+        "Escape window",
+        "Sliding window",
+        "External platform",
+        "Escape balcony",
+        "Gangway",
+        "Railing",
+        "Ladder"
+      ],
+      "dimensions": [
+        {
+          "label": "Clear opening width",
+          "value": 0.9,
+          "value_max": null,
+          "unit": "m",
+          "context": "Minimum clear opening for windows necessary for escape",
+          "status": "uncertain",
+          "ocr_raw": "All windows necessary for escape min. 0.90 × 1.20 clear opening"
+        },
+        {
+          "label": "Clear opening height",
+          "value": 1.2,
+          "value_max": null,
+          "unit": "m",
+          "context": "Minimum clear opening for windows necessary for escape",
+          "status": "uncertain",
+          "ocr_raw": "All windows necessary for escape min. 0.90 × 1.20 clear opening"
+        },
+        {
+          "label": "Clear opening width",
+          "value": 0.9,
+          "value_max": null,
+          "unit": "m",
+          "context": "Sliding window, fully opening; clear opening",
+          "status": "uncertain",
+          "ocr_raw": "Clear opening 0.90 × 1.20"
+        },
+        {
+          "label": "Clear opening height",
+          "value": 1.2,
+          "value_max": null,
+          "unit": "m",
+          "context": "Sliding window, fully opening; clear opening",
+          "status": "uncertain",
+          "ocr_raw": "Clear opening 0.90 × 1.20"
+        },
+        {
+          "label": "Building height",
+          "value": 8.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Roof escape route condition: turntable ladder required at or above this height",
+          "status": "uncertain",
+          "ocr_raw": "If ≥ 8.0 m, turn table ladder is required"
+        },
+        {
+          "label": "Escape route height",
+          "value": 8.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Height indicated in escape route diagram",
+          "status": "uncertain",
+          "ocr_raw": "≤ 8.0"
+        }
+      ],
+      "figure_refs": [
+        "1 Escape routes",
+        "2 Roof window as escape route",
+        "3 Escape route with external platform",
+        "4 Escape balcony/platform",
+        "6 Escape with gangway",
+        "7 Escape ladder extension"
+      ],
+      "cross_refs": [
+        "Dimensions → 9",
+        "occupants → 1 – 4 + 13"
+      ],
+      "keywords": [
+        "escape route",
+        "escape window",
+        "roof window",
+        "escape balcony",
+        "platform",
+        "gangway"
+      ],
+      "tags_architectural": [
+        "accessibility",
+        "circulation",
+        "safety",
+        "clearance"
+      ],
+      "confidence": 0.91
+    },
+    {
+      "id": "4122fb96e4bd1976-138-vision-1",
+      "pdf_page": 138,
+      "book_page": 125,
+      "chapter": "BUILDING COMPONENTS",
+      "section": "Stairs",
+      "title": "Access and escape ladders",
+      "summary": "Fixed access ladders provide access to roofs, chimneys, silos, containers, tanks, machines, and plant. For buildings over 5 m high, access ladders require back protection. The page illustrates single-run, stepped, fixed, retractable, and emergency ladders, including transfer platforms and wall-fixing guidance.",
+      "building_type": "Building access and escape equipment",
+      "spaces": [
+        "Roof",
+        "Chimney",
+        "Silo",
+        "Container",
+        "Tank",
+        "Machine",
+        "Plant"
+      ],
+      "uses": [
+        "Provide access to roofs and other elevated building components",
+        "Support emergency rescue and escape",
+        "Provide ladder access with back protection, landings, or transfer platforms"
+      ],
+      "furniture_equipment": [
+        "Fixed access ladder",
+        "Single-run access ladder",
+        "Stepped access ladder",
+        "Retractable access ladder",
+        "Emergency ladder",
+        "Back protection hoops",
+        "Wall fixings",
+        "Landing",
+        "Transfer platform",
+        "Handrail"
+      ],
+      "dimensions": [
+        {
+          "label": "Building height threshold",
+          "value": 5.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Back protection required for access ladders on buildings over this height",
+          "status": "uncertain",
+          "ocr_raw": "For buildings over 5 m high, access ladders are required to have back protection."
+        },
+        {
+          "label": "Maximum climbing height per ladder run",
+          "value": 10.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Maximum climbing height for each ladder run",
+          "status": "uncertain",
+          "ocr_raw": "Each ladder run has a maximum climbing height of 10 m"
+        },
+        {
+          "label": "Hoop diameter",
+          "value": 0.7,
+          "value_max": null,
+          "unit": "m",
+          "context": "Back protection hoop diameter",
+          "status": "uncertain",
+          "ocr_raw": "Hoop diameter 0.70 m."
+        },
+        {
+          "label": "Ladder extension above access level",
+          "value": 1.1,
+          "value_max": null,
+          "unit": "m",
+          "context": "Dimension shown at ladder extensions and access arrangements",
+          "status": "uncertain",
+          "ocr_raw": "1.10"
+        },
+        {
+          "label": "Back protection height",
+          "value": 2.2,
+          "value_max": 3.0,
+          "unit": "m",
+          "context": "Dimension shown for ladder back protection",
+          "status": "uncertain",
+          "ocr_raw": "2.20–3.00"
+        },
+        {
+          "label": "Building-height range",
+          "value": 3.0,
+          "value_max": 4.0,
+          "unit": "m",
+          "context": "Table row; back protection marked with a dash and three pairs of wall fixings",
+          "status": "uncertain",
+          "ocr_raw": "3.0 – 4.0 — 3"
+        },
+        {
+          "label": "Building-height range",
+          "value": 4.0,
+          "value_max": 5.0,
+          "unit": "m",
+          "context": "Table row; back protection marked with a dash and three pairs of wall fixings",
+          "status": "uncertain",
+          "ocr_raw": "4.0 – 5.0 — 3"
+        },
+        {
+          "label": "Building-height range",
+          "value": 5.0,
+          "value_max": 6.0,
+          "unit": "m",
+          "context": "Table row; back protection indicated; four pairs of wall fixings",
+          "status": "uncertain",
+          "ocr_raw": "5.0 – 6.0 BP 4"
+        },
+        {
+          "label": "Building-height range",
+          "value": 6.0,
+          "value_max": 7.0,
+          "unit": "m",
+          "context": "Table row; back protection indicated; four pairs of wall fixings",
+          "status": "uncertain",
+          "ocr_raw": "6.0 – 7.0 BP 4"
+        },
+        {
+          "label": "Building-height range",
+          "value": 7.0,
+          "value_max": 8.0,
+          "unit": "m",
+          "context": "Table row; back protection indicated; five pairs of wall fixings",
+          "status": "uncertain",
+          "ocr_raw": "7.0 – 8.0 BP 5"
+        },
+        {
+          "label": "Building-height range",
+          "value": 8.0,
+          "value_max": 9.0,
+          "unit": "m",
+          "context": "Table row; back protection indicated; five pairs of wall fixings",
+          "status": "uncertain",
+          "ocr_raw": "8.0 – 9.0 BP 5"
+        },
+        {
+          "label": "Building-height range",
+          "value": 9.0,
+          "value_max": 10.0,
+          "unit": "m",
+          "context": "Table row; back protection indicated; six pairs of wall fixings",
+          "status": "uncertain",
+          "ocr_raw": "9.0 – 10.0 BP 6"
+        },
+        {
+          "label": "Building-height range",
+          "value": 10.0,
+          "value_max": 11.0,
+          "unit": "m",
+          "context": "Stepped construction; back protection indicated; eight pairs of wall fixings",
+          "status": "uncertain",
+          "ocr_raw": "10.0 – 11.0 BP 8"
+        },
+        {
+          "label": "Building-height range",
+          "value": 19.0,
+          "value_max": 20.0,
+          "unit": "m",
+          "context": "Stepped construction; back protection indicated; thirteen pairs of wall fixings",
+          "status": "uncertain",
+          "ocr_raw": "19.0 – 20.0 BP 13"
+        },
+        {
+          "label": "Wall-fixing count",
+          "value": 3.0,
+          "value_max": null,
+          "unit": "pairs",
+          "context": "Pairs of wall fixings for building height 3.0–4.0 m",
+          "status": "uncertain",
+          "ocr_raw": "3.0 – 4.0 — 3"
+        },
+        {
+          "label": "Wall-fixing count",
+          "value": 3.0,
+          "value_max": null,
+          "unit": "pairs",
+          "context": "Pairs of wall fixings for building height 4.0–5.0 m",
+          "status": "uncertain",
+          "ocr_raw": "4.0 – 5.0 — 3"
+        },
+        {
+          "label": "Wall-fixing count",
+          "value": 4.0,
+          "value_max": null,
+          "unit": "pairs",
+          "context": "Pairs of wall fixings for building height 5.0–6.0 m and 6.0–7.0 m",
+          "status": "uncertain",
+          "ocr_raw": "5.0 – 6.0 BP 4; 6.0 – 7.0 BP 4"
+        },
+        {
+          "label": "Wall-fixing count",
+          "value": 5.0,
+          "value_max": null,
+          "unit": "pairs",
+          "context": "Pairs of wall fixings for building height 7.0–8.0 m and 8.0–9.0 m",
+          "status": "uncertain",
+          "ocr_raw": "7.0 – 8.0 BP 5; 8.0 – 9.0 BP 5"
+        },
+        {
+          "label": "Wall-fixing count",
+          "value": 6.0,
+          "value_max": null,
+          "unit": "pairs",
+          "context": "Pairs of wall fixings for building height 9.0–10.0 m",
+          "status": "uncertain",
+          "ocr_raw": "9.0 – 10.0 BP 6"
+        },
+        {
+          "label": "Wall-fixing count",
+          "value": 8.0,
+          "value_max": null,
+          "unit": "pairs",
+          "context": "Stepped construction for building height 10.0–11.0 m",
+          "status": "uncertain",
+          "ocr_raw": "10.0 – 11.0 BP 8"
+        },
+        {
+          "label": "Wall-fixing count",
+          "value": 13.0,
+          "value_max": null,
+          "unit": "pairs",
+          "context": "Stepped construction for building height 19.0–20.0 m",
+          "status": "uncertain",
+          "ocr_raw": "19.0 – 20.0 BP 13"
+        },
+        {
+          "label": "Building height",
+          "value": 5.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Diagram range for single-run access ladder",
+          "status": "uncertain",
+          "ocr_raw": "≥ 5.0"
+        },
+        {
+          "label": "Building height",
+          "value": 10.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Diagram maximum for single-run access ladder",
+          "status": "uncertain",
+          "ocr_raw": "≤ 10.0"
+        },
+        {
+          "label": "Ladder climbing height",
+          "value": 20.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Diagram for stepped access ladder; climbing height equals building height",
+          "status": "uncertain",
+          "ocr_raw": "Climbing height = building height ≤ 20 m"
+        },
+        {
+          "label": "Ladder-run height",
+          "value": 10.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Access ladder with transfer platforms; maximum height between changeover landings",
+          "status": "uncertain",
+          "ocr_raw": "≤ 10.0"
+        },
+        {
+          "label": "Ladder landing interval",
+          "value": 10.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Access ladder with transfer platforms",
+          "status": "uncertain",
+          "ocr_raw": "≤ 10.0"
+        },
+        {
+          "label": "Emergency ladder height",
+          "value": 8.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Maximum height indicated at emergency ladder diagram",
+          "status": "uncertain",
+          "ocr_raw": "≤ 8.0"
+        }
+      ],
+      "figure_refs": [
+        "5 Retractable access",
+        "8 Platform with handrail",
+        "9 Single-run access ladder",
+        "10 Stepped access ladder",
+        "11 Fixed access ladder",
+        "12 Access ladder with transfer platforms",
+        "13 Emergency ladder"
+      ],
+      "cross_refs": [
+        "Dimensions → 9",
+        "stepped construction → 10 + 12",
+        "occupants → 1 – 4 + 13"
+      ],
+      "keywords": [
+        "access ladder",
+        "fixed ladder",
+        "back protection",
+        "wall fixings",
+        "stepped ladder",
+        "transfer platform",
+        "emergency ladder",
+        "landing"
+      ],
+      "tags_architectural": [
+        "accessibility",
+        "circulation",
+        "safety",
+        "ergonomics",
+        "clearance"
+      ],
+      "confidence": 0.86
+    }
+  ]
+}

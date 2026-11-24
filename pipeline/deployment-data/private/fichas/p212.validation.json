@@ -1,0 +1,215 @@
+{
+  "model": "gpt-6-luna",
+  "checks": {
+    "checks": [
+      {
+        "ficha_index": 0,
+        "dimension_index": 0,
+        "status": "verified",
+        "value": null,
+        "value_max": null,
+        "reason": "The text visibly lists 100 seats."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 1,
+        "status": "verified",
+        "value": null,
+        "value_max": null,
+        "reason": "The text visibly lists 150 seats."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 2,
+        "status": "verified",
+        "value": null,
+        "value_max": null,
+        "reason": "The text and figure 1 visibly indicate 200 seats."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 3,
+        "status": "verified",
+        "value": null,
+        "value_max": null,
+        "reason": "The text visibly lists 300 seats."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 4,
+        "status": "verified",
+        "value": null,
+        "value_max": null,
+        "reason": "The text and figure 2 visibly indicate 400 seats."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 5,
+        "status": "verified",
+        "value": null,
+        "value_max": null,
+        "reason": "The text visibly lists 600 seats."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 6,
+        "status": "verified",
+        "value": null,
+        "value_max": null,
+        "reason": "The text and figure 3 visibly indicate 800 seats."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 7,
+        "status": "verified",
+        "value": null,
+        "value_max": null,
+        "reason": "The text explicitly states an approximate ceiling height of 3.5 m for theatres up to 200 seats."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 8,
+        "status": "uncertain",
+        "value": null,
+        "value_max": null,
+        "reason": "The plan visibly prints 11.40, but does not state a unit; the proposed unit m cannot be confirmed from the drawing."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 9,
+        "status": "uncertain",
+        "value": null,
+        "value_max": null,
+        "reason": "The plan visibly prints 10.50, but does not state a unit; the proposed unit m cannot be confirmed from the drawing."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 10,
+        "status": "uncertain",
+        "value": null,
+        "value_max": null,
+        "reason": "The podium plan visibly prints 3.00, but does not state a unit; the proposed unit m cannot be confirmed from the drawing."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 11,
+        "status": "uncertain",
+        "value": null,
+        "value_max": null,
+        "reason": "The section visibly prints 1.80, but does not state a unit or identify the reference points."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 12,
+        "status": "uncertain",
+        "value": null,
+        "value_max": null,
+        "reason": "The section visibly prints 1.20, but does not state a unit or identify the reference points."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 13,
+        "status": "uncertain",
+        "value": null,
+        "value_max": null,
+        "reason": "The section visibly prints 1.00, but does not state a unit or identify the reference points."
+      }
+    ]
+  },
+  "automatic": [
+    {
+      "ficha_index": 0,
+      "dimension_index": 0,
+      "issues": [
+        "Unknown unit"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 1,
+      "issues": [
+        "Unknown unit"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 2,
+      "issues": [
+        "Unknown unit"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 3,
+      "issues": [
+        "Unknown unit"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 4,
+      "issues": [
+        "Unknown unit"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 5,
+      "issues": [
+        "Unknown unit"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 6,
+      "issues": [
+        "Unknown unit"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 7,
+      "issues": []
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 8,
+      "issues": []
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 9,
+      "issues": []
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 10,
+      "issues": []
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 11,
+      "issues": []
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 12,
+      "issues": []
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 13,
+      "issues": []
+    }
+  ],
+  "usage": [
+    {
+      "prompt_tokens": 4045,
+      "completion_tokens": 1527
+    },
+    {
+      "prompt_tokens": 4527,
+      "completion_tokens": 732
+    }
+  ]
+}

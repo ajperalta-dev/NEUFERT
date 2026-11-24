@@ -1,0 +1,243 @@
+{
+  "model": "gpt-6-luna",
+  "checks": {
+    "checks": [
+      {
+        "ficha_index": 0,
+        "dimension_index": 0,
+        "status": "verified",
+        "value": 1.0,
+        "value_max": 10.0,
+        "reason": "The text lists rigid-platform heights of 1, 3, 5 and 10 m."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 1,
+        "status": "verified",
+        "value": 1.0,
+        "value_max": 3.0,
+        "reason": "The text lists springboard heights of 1 and 3 m."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 2,
+        "status": "verified",
+        "value": 24.0,
+        "value_max": 28.0,
+        "reason": "The text states 24\u201328 \u00b0C."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 3,
+        "status": "verified",
+        "value": 22.4,
+        "value_max": null,
+        "reason": "The pool diagram prints 22.40 m as one possible dimension."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 4,
+        "status": "verified",
+        "value": 16.66,
+        "value_max": null,
+        "reason": "The pool diagram prints 16.66 m as the other possible dimension."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 5,
+        "status": "verified",
+        "value": 25.0,
+        "value_max": null,
+        "reason": "The pool diagram prints 25.00 m for the alternative pool length."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 6,
+        "status": "verified",
+        "value": 15.0,
+        "value_max": null,
+        "reason": "The pool diagram prints 15.00 m for the alternative pool width."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 7,
+        "status": "verified",
+        "value": 4.5,
+        "value_max": null,
+        "reason": "The diagram states a water depth of at least 4.50 m."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 8,
+        "status": "verified",
+        "value": 5.0,
+        "value_max": null,
+        "reason": "The diagram states a recommended depth of 5.00 m."
+      },
+      {
+        "ficha_index": 1,
+        "dimension_index": 0,
+        "status": "verified",
+        "value": 30.0,
+        "value_max": null,
+        "reason": "The playing-area diagram prints 30.00 m."
+      },
+      {
+        "ficha_index": 1,
+        "dimension_index": 1,
+        "status": "verified",
+        "value": 20.0,
+        "value_max": null,
+        "reason": "The playing-area diagram prints 20.00 m."
+      },
+      {
+        "ficha_index": 1,
+        "dimension_index": 2,
+        "status": "verified",
+        "value": 50.0,
+        "value_max": null,
+        "reason": "The overall pool dimension is printed as 50.00 m."
+      },
+      {
+        "ficha_index": 1,
+        "dimension_index": 3,
+        "status": "verified",
+        "value": 3.0,
+        "value_max": null,
+        "reason": "The goal front view prints 3.00 m."
+      },
+      {
+        "ficha_index": 1,
+        "dimension_index": 4,
+        "status": "verified",
+        "value": 2.0,
+        "value_max": null,
+        "reason": "The goal side view prints 2.00 m."
+      },
+      {
+        "ficha_index": 1,
+        "dimension_index": 5,
+        "status": "verified",
+        "value": 25.0,
+        "value_max": null,
+        "reason": "The note specifies a hook-in goal in a 25 m pool."
+      },
+      {
+        "ficha_index": 1,
+        "dimension_index": 6,
+        "status": "verified",
+        "value": 70.0,
+        "value_max": null,
+        "reason": "The note specifies at least 70 cm."
+      }
+    ]
+  },
+  "automatic": [
+    {
+      "ficha_index": 0,
+      "dimension_index": 0,
+      "issues": []
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 1,
+      "issues": []
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 2,
+      "issues": [
+        "Unknown unit"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 3,
+      "issues": []
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 4,
+      "issues": []
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 5,
+      "issues": []
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 6,
+      "issues": []
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 7,
+      "issues": []
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 8,
+      "issues": []
+    },
+    {
+      "ficha_index": 1,
+      "dimension_index": 0,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 1,
+      "dimension_index": 1,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 1,
+      "dimension_index": 2,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 1,
+      "dimension_index": 3,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 1,
+      "dimension_index": 4,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 1,
+      "dimension_index": 5,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 1,
+      "dimension_index": 6,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    }
+  ],
+  "usage": [
+    {
+      "prompt_tokens": 5075,
+      "completion_tokens": 1546
+    },
+    {
+      "prompt_tokens": 4840,
+      "completion_tokens": 837
+    }
+  ]
+}

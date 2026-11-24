@@ -1,0 +1,84 @@
+{
+  "model": "gpt-6-luna",
+  "checks": {
+    "checks": [
+      {
+        "ficha_index": 1,
+        "dimension_index": 0,
+        "status": "uncertain",
+        "value": null,
+        "value_max": null,
+        "reason": "The figure visibly labels the meeting details 5, but does not state a unit; mm cannot be verified from the drawing."
+      },
+      {
+        "ficha_index": 1,
+        "dimension_index": 1,
+        "status": "uncertain",
+        "value": null,
+        "value_max": null,
+        "reason": "The figure visibly labels the meeting details 62.5, but does not state a unit; mm cannot be verified from the drawing."
+      },
+      {
+        "ficha_index": 2,
+        "dimension_index": 0,
+        "status": "verified",
+        "value": null,
+        "value_max": null,
+        "reason": "The printed note explicitly states that the unit is 125 mm for width and height."
+      },
+      {
+        "ficha_index": 2,
+        "dimension_index": 1,
+        "status": "verified",
+        "value": null,
+        "value_max": null,
+        "reason": "The example explicitly prints 1125 as the width result, in a note specifying millimetres."
+      },
+      {
+        "ficha_index": 2,
+        "dimension_index": 2,
+        "status": "verified",
+        "value": null,
+        "value_max": null,
+        "reason": "The example explicitly prints 1375 as the height result, in a note specifying millimetres."
+      }
+    ]
+  },
+  "automatic": [
+    {
+      "ficha_index": 1,
+      "dimension_index": 0,
+      "issues": []
+    },
+    {
+      "ficha_index": 1,
+      "dimension_index": 1,
+      "issues": []
+    },
+    {
+      "ficha_index": 2,
+      "dimension_index": 0,
+      "issues": []
+    },
+    {
+      "ficha_index": 2,
+      "dimension_index": 1,
+      "issues": []
+    },
+    {
+      "ficha_index": 2,
+      "dimension_index": 2,
+      "issues": []
+    }
+  ],
+  "usage": [
+    {
+      "prompt_tokens": 4452,
+      "completion_tokens": 982
+    },
+    {
+      "prompt_tokens": 4077,
+      "completion_tokens": 381
+    }
+  ]
+}

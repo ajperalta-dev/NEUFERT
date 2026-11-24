@@ -1,0 +1,307 @@
+{
+  "fichas": [
+    {
+      "id": "4122fb96e4bd1976-23-vision-0",
+      "pdf_page": 23,
+      "book_page": 10,
+      "chapter": "BASICS",
+      "section": "Drawings",
+      "title": "Construction drawing symbols: windows",
+      "summary": "Plan symbols show window openings set in wall reveals, including inward- and outward-opening single and double windows, box windows, sash windows, and sliding windows. The left side of a window drawing is shown with a wall niche and the right side without.",
+      "building_type": "Architectural drawing reference",
+      "spaces": [],
+      "uses": [
+        "Represent window types and opening direction in construction drawings"
+      ],
+      "furniture_equipment": [],
+      "dimensions": [
+        {
+          "label": "Drawing scale",
+          "value": 1.0,
+          "value_max": null,
+          "unit": "ratio",
+          "context": "Windows set in reveals; printed scale 1:100.",
+          "status": "uncertain",
+          "ocr_raw": "Windows set in reveals, scale 1:100"
+        },
+        {
+          "label": "Drawing scale",
+          "value": 1.0,
+          "value_max": null,
+          "unit": "ratio",
+          "context": "Sash window; printed scale 1:100.",
+          "status": "uncertain",
+          "ocr_raw": "Sash window, scale 1:100"
+        },
+        {
+          "label": "Drawing scale",
+          "value": 1.0,
+          "value_max": null,
+          "unit": "ratio",
+          "context": "Sliding window; printed scale 1:100.",
+          "status": "uncertain",
+          "ocr_raw": "Sliding window, scale 1:100"
+        }
+      ],
+      "figure_refs": [
+        "1–8"
+      ],
+      "cross_refs": [
+        "1–8"
+      ],
+      "keywords": [
+        "windows",
+        "window reveals",
+        "construction drawing symbols",
+        "opening direction",
+        "box window",
+        "sash window",
+        "sliding window"
+      ],
+      "tags_architectural": [
+        "daylighting"
+      ],
+      "confidence": 0.95
+    },
+    {
+      "id": "4122fb96e4bd1976-23-vision-1",
+      "pdf_page": 23,
+      "book_page": 10,
+      "chapter": "BASICS",
+      "section": "Drawings",
+      "title": "Construction drawing symbols: doors and folding partition",
+      "summary": "Plan symbols identify single- and double-leaf doors, pivoting and sliding doors, revolving doors, threshold conditions, a lifting sliding mechanism, and a folding partition. The accompanying note says revolving doors can replace wind lobbies and that their leaves can be folded aside at peak times.",
+      "building_type": "Architectural drawing reference",
+      "spaces": [
+        "Doorways",
+        "Building entrances"
+      ],
+      "uses": [
+        "Represent door type, operation, and threshold conditions in construction drawings",
+        "Show revolving-door alternatives to wind lobbies"
+      ],
+      "furniture_equipment": [],
+      "dimensions": [
+        {
+          "label": "Drawing scale",
+          "value": 1.0,
+          "value_max": null,
+          "unit": "ratio",
+          "context": "Doors; printed scale 1:100.",
+          "status": "uncertain",
+          "ocr_raw": "Doors, scale 1:100"
+        }
+      ],
+      "figure_refs": [
+        "9–24"
+      ],
+      "cross_refs": [
+        "21–23"
+      ],
+      "keywords": [
+        "doors",
+        "revolving doors",
+        "wind lobbies",
+        "sliding door",
+        "pivoting door",
+        "threshold",
+        "folding partition",
+        "construction drawing symbols"
+      ],
+      "tags_architectural": [
+        "circulation",
+        "safety"
+      ],
+      "confidence": 0.96
+    },
+    {
+      "id": "4122fb96e4bd1976-23-vision-2",
+      "pdf_page": 23,
+      "book_page": 10,
+      "chapter": "BASICS",
+      "section": "Drawings",
+      "title": "Construction drawing symbols: stairs",
+      "summary": "Stairwell plan symbols illustrate stairs with one flight and two flights across cellar, ground-floor, upper-floor, and attic levels. The notes instruct that stair sections on floor plans are shown at about one-third storey height or 1 m above floor level, with steps numbered continuously from ±0.000; steps below that level receive a minus sign, and the centre-line starts with a circle and ends with an arrow.",
+      "building_type": "Architectural drawing reference",
+      "spaces": [
+        "Cellar",
+        "Ground floor",
+        "Upper floor",
+        "Attic",
+        "Stairwell"
+      ],
+      "uses": [
+        "Represent stair flights and direction in floor plans",
+        "Number stair steps continuously across levels",
+        "Indicate stair section location on floor plans"
+      ],
+      "furniture_equipment": [],
+      "dimensions": [
+        {
+          "label": "Risers",
+          "value": 12.0,
+          "value_max": null,
+          "unit": "risers",
+          "context": "Stairs with one flight, cellar diagram.",
+          "status": "uncertain",
+          "ocr_raw": "12 risers"
+        },
+        {
+          "label": "Stair notation",
+          "value": 18.5,
+          "value_max": null,
+          "unit": "unspecified",
+          "context": "Printed stair notation 18.5/25; components and units are not identified in the text.",
+          "status": "uncertain",
+          "ocr_raw": "18.5/25"
+        },
+        {
+          "label": "Risers",
+          "value": 16.0,
+          "value_max": null,
+          "unit": "risers",
+          "context": "Stairs with one flight, ground-floor diagram.",
+          "status": "uncertain",
+          "ocr_raw": "16 risers"
+        },
+        {
+          "label": "Stair notation",
+          "value": 17.5,
+          "value_max": null,
+          "unit": "unspecified",
+          "context": "Printed stair notation 17.5/29; components and units are not identified in the text.",
+          "status": "uncertain",
+          "ocr_raw": "17.5/29"
+        },
+        {
+          "label": "Risers",
+          "value": 16.0,
+          "value_max": null,
+          "unit": "risers",
+          "context": "Stairs with one flight, upper-floor diagram.",
+          "status": "uncertain",
+          "ocr_raw": "16 risers"
+        },
+        {
+          "label": "Stair notation",
+          "value": 17.5,
+          "value_max": null,
+          "unit": "unspecified",
+          "context": "Printed stair notation 17.5/29; components and units are not identified in the text.",
+          "status": "uncertain",
+          "ocr_raw": "17.5/29"
+        },
+        {
+          "label": "Section height above floor level",
+          "value": 1.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Alternative height for the horizontal section through the stairwell on each floor's plan.",
+          "status": "uncertain",
+          "ocr_raw": "or 1 m above floor level"
+        },
+        {
+          "label": "Risers",
+          "value": 8.0,
+          "value_max": null,
+          "unit": "risers",
+          "context": "Stairs with two flights, cellar diagram.",
+          "status": "uncertain",
+          "ocr_raw": "8 risers"
+        },
+        {
+          "label": "Stair notation",
+          "value": 18.5,
+          "value_max": null,
+          "unit": "unspecified",
+          "context": "Printed stair notation 18.5/25; components and units are not identified in the text.",
+          "status": "uncertain",
+          "ocr_raw": "18.5/25"
+        },
+        {
+          "label": "Risers",
+          "value": 8.0,
+          "value_max": null,
+          "unit": "risers",
+          "context": "Stairs with two flights, ground-floor diagram.",
+          "status": "uncertain",
+          "ocr_raw": "8 risers"
+        },
+        {
+          "label": "Stair notation",
+          "value": 17.5,
+          "value_max": null,
+          "unit": "unspecified",
+          "context": "Printed stair notation 17.5/29; components and units are not identified in the text.",
+          "status": "uncertain",
+          "ocr_raw": "17.5/29"
+        },
+        {
+          "label": "Risers",
+          "value": 4.0,
+          "value_max": null,
+          "unit": "risers",
+          "context": "Stairs with two flights, ground-floor diagram.",
+          "status": "uncertain",
+          "ocr_raw": "4 risers"
+        },
+        {
+          "label": "Stair notation",
+          "value": 18.75,
+          "value_max": null,
+          "unit": "unspecified",
+          "context": "Printed stair notation 18.75/25; components and units are not identified in the text.",
+          "status": "uncertain",
+          "ocr_raw": "18.75/25"
+        },
+        {
+          "label": "Risers",
+          "value": 16.0,
+          "value_max": null,
+          "unit": "risers",
+          "context": "Stairs with two flights, upper-floor diagram.",
+          "status": "uncertain",
+          "ocr_raw": "16 risers"
+        },
+        {
+          "label": "Stair notation",
+          "value": 17.5,
+          "value_max": null,
+          "unit": "unspecified",
+          "context": "Printed stair notation 17.5/29; components and units are not identified in the text.",
+          "status": "uncertain",
+          "ocr_raw": "17.5/29"
+        },
+        {
+          "label": "Section height above storey level",
+          "value": 0.3333333333,
+          "value_max": null,
+          "unit": "storey",
+          "context": "The stairwell horizontal section is shown at about one-third storey height.",
+          "status": "uncertain",
+          "ocr_raw": "about ⅓ storey height"
+        }
+      ],
+      "figure_refs": [
+        "25–26"
+      ],
+      "cross_refs": [
+        "25–26"
+      ],
+      "keywords": [
+        "stairs",
+        "stairwell",
+        "one-flight stair",
+        "two-flight stair",
+        "step numbering",
+        "section height",
+        "floor levels"
+      ],
+      "tags_architectural": [
+        "circulation",
+        "safety"
+      ],
+      "confidence": 0.91
+    }
+  ]
+}

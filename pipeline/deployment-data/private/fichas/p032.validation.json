@@ -1,0 +1,64 @@
+{
+  "model": "gpt-6-luna",
+  "checks": {
+    "checks": [
+      {
+        "ficha_index": 0,
+        "dimension_index": 0,
+        "status": "verified",
+        "value": 0.5,
+        "value_max": null,
+        "reason": "The text explicitly specifies faint 0.5 cm divisions; the figure also labels half-centimetre spacing."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 1,
+        "status": "uncertain",
+        "value": 1.0,
+        "value_max": null,
+        "reason": "The text mentions finer millimetre divisions, but does not explicitly state that each division is 1 mm. The figure\u2019s 10 mm label does not establish a 1 mm division."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 2,
+        "status": "verified",
+        "value": 2.0,
+        "value_max": null,
+        "reason": "The text explicitly says to turn over 2 cm of the paper\u2019s edge."
+      }
+    ]
+  },
+  "automatic": [
+    {
+      "ficha_index": 0,
+      "dimension_index": 0,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 1,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 2,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    }
+  ],
+  "usage": [
+    {
+      "prompt_tokens": 4311,
+      "completion_tokens": 770
+    },
+    {
+      "prompt_tokens": 3670,
+      "completion_tokens": 430
+    }
+  ]
+}

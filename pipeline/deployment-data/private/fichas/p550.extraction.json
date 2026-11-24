@@ -1,0 +1,321 @@
+{
+  "fichas": [
+    {
+      "id": "4122fb96e4bd1976-550-vision-0",
+      "pdf_page": 550,
+      "book_page": 537,
+      "chapter": "BUILDING SERVICES",
+      "section": "Chimneys and Ventilation Shafts",
+      "title": "Chimneys",
+      "summary": "Overview of chimney functions, connection rules, cross-sections, fire protection, roof clearances, heights, and construction. The page illustrates chimney types, roof access, chimney tops, foundations, and ventilation-duct blocks.",
+      "building_type": "Building services",
+      "spaces": [
+        "Roof",
+        "Fireplace",
+        "Boiler room",
+        "Roof space"
+      ],
+      "uses": [
+        "Carry flue gases from fireplaces and appliances to the open air above the roof",
+        "Ventilate the heating room",
+        "Provide cleaning access to chimneys"
+      ],
+      "furniture_equipment": [
+        "Chimney flue liner",
+        "Chimney block",
+        "Thermal insulation",
+        "Cleaning opening",
+        "Fireplace connection",
+        "Roof access hatch",
+        "Walkways, standing gratings, or steps",
+        "Sheet-metal cladding",
+        "Back-ventilation layer"
+      ],
+      "dimensions": [
+        {
+          "label": "Nominal heat output requiring an individual chimney",
+          "value": 20.0,
+          "value_max": null,
+          "unit": "kW",
+          "context": "Fireplaces above this nominal heat output must be connected to their own chimney; gas fires and appliances have a separate threshold.",
+          "status": "uncertain",
+          "ocr_raw": "each fireplace with a nominal heat output of more than 20 kW (for gas fires and appliances, more than 30 kW)"
+        },
+        {
+          "label": "Gas appliance nominal heat output requiring an individual chimney",
+          "value": 30.0,
+          "value_max": null,
+          "unit": "kW",
+          "context": "Gas fires and appliances above this nominal heat output must be connected to their own chimney.",
+          "status": "uncertain",
+          "ocr_raw": "for gas fires and appliances, more than 30 kW"
+        },
+        {
+          "label": "Building height requiring individual chimneys",
+          "value": 5.0,
+          "value_max": null,
+          "unit": "full storeys",
+          "context": "Each fireplace in buildings exceeding this number of full storeys must have its own chimney.",
+          "status": "uncertain",
+          "ocr_raw": "each fireplace in buildings of more than five full storeys"
+        },
+        {
+          "label": "Maximum fireplaces on a shared chimney",
+          "value": 3.0,
+          "value_max": null,
+          "unit": "fireplaces",
+          "context": "Shared chimneys may connect up to this number of fireplaces for solid or liquid fuel, or gas.",
+          "status": "uncertain",
+          "ocr_raw": "Shared chimneys may connect up to three fireplaces"
+        },
+        {
+          "label": "Shared solid- or liquid-fuel fireplace nominal heating capacity",
+          "value": 20.0,
+          "value_max": null,
+          "unit": "kW",
+          "context": "Maximum nominal heating capacity stated for each fireplace connected to a shared chimney.",
+          "status": "uncertain",
+          "ocr_raw": "three fireplaces for solid or liquid fuel with a nominal heating capacity of up to 20 kW"
+        },
+        {
+          "label": "Shared gas fireplace nominal heating capacity",
+          "value": 30.0,
+          "value_max": null,
+          "unit": "kW",
+          "context": "Maximum nominal heating capacity stated for each gas fireplace connected to a shared chimney.",
+          "status": "uncertain",
+          "ocr_raw": "three gas fireplaces with nominal heating capacity of up to 30 kW"
+        },
+        {
+          "label": "Minimum cross-sectional area for shaped-brick chimneys",
+          "value": 100.0,
+          "value_max": null,
+          "unit": "cm²",
+          "context": "Minimum clear cross-sectional area.",
+          "status": "uncertain",
+          "ocr_raw": "The minimum cross-sectional area for chimneys made of shaped bricks is 100 cm²"
+        },
+        {
+          "label": "Minimum side length for shaped-brick chimneys",
+          "value": 10.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Minimum side length of the clear cross-section.",
+          "status": "uncertain",
+          "ocr_raw": "the minimum side length 10 cm"
+        },
+        {
+          "label": "Minimum cross-sectional area for masonry chimneys",
+          "value": 140.0,
+          "value_max": null,
+          "unit": "cm²",
+          "context": "Minimum clear cross-sectional area for masonry chimneys.",
+          "status": "uncertain",
+          "ocr_raw": "for masonry chimneys 140 cm²"
+        },
+        {
+          "label": "Minimum side length for masonry chimneys",
+          "value": 13.5,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Minimum side length of the clear cross-section for masonry chimneys.",
+          "status": "uncertain",
+          "ocr_raw": "13.5 cm"
+        },
+        {
+          "label": "Maximum longer-to-shorter side ratio",
+          "value": 1.5,
+          "value_max": null,
+          "unit": "ratio",
+          "context": "The longer side may not exceed 1.5 times the shorter side; expressed as a ratio, 1.5:1.",
+          "status": "uncertain",
+          "ocr_raw": "The longer side may not be more than 1.5 times the shorter."
+        },
+        {
+          "label": "Chimney separation from combustible and flame-resistant materials",
+          "value": 5.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Minimum separation of the external chimney surface from combustible and flame-resistant building materials.",
+          "status": "uncertain",
+          "ocr_raw": "The external surfaces of chimneys must be ≥5 cm from both combustible and flame-resistant building materials."
+        },
+        {
+          "label": "Insulated gap for noncombustible materials",
+          "value": 2.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Gap where noncombustible building materials are separated from the chimney instead of being in direct contact.",
+          "status": "uncertain",
+          "ocr_raw": "separated by a 2 cm wide insulated gap."
+        },
+        {
+          "label": "Minimum chimney height",
+          "value": 4.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Distance from fireplace level to chimney top; joint chimneys have a separate minimum.",
+          "status": "uncertain",
+          "ocr_raw": "The minimum height (distance from fireplace level to chimney top) is 4 m"
+        },
+        {
+          "label": "Minimum height for joint chimneys",
+          "value": 5.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Distance from fireplace level to chimney top.",
+          "status": "uncertain",
+          "ocr_raw": "for joint chimneys 5 m"
+        },
+        {
+          "label": "Chimney top above highest roof point",
+          "value": 40.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Minimum height above the highest point of roofs with a pitch of at least 20°.",
+          "status": "uncertain",
+          "ocr_raw": "Chimney tops must be ≥40 cm above the highest point of roofs with a pitch ≥20°"
+        },
+        {
+          "label": "Roof pitch threshold for chimney-top clearance",
+          "value": 20.0,
+          "value_max": null,
+          "unit": "°",
+          "context": "For roofs at or above this pitch, the chimney top must be at least 40 cm above the highest roof point.",
+          "status": "uncertain",
+          "ocr_raw": "roofs with a pitch ≥20°"
+        },
+        {
+          "label": "Chimney-top clearance above other roof surfaces",
+          "value": 1.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Height above other roof surfaces, as an alternative to the clearance specified for pitched roofs.",
+          "status": "uncertain",
+          "ocr_raw": "or 1.00 m from other roof surfaces."
+        },
+        {
+          "label": "Chimney clearance above nearby roof structures",
+          "value": 1.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Chimneys near roof structures must clear the structure by at least this amount; applies when the chimney is nearer than 1.5–3 times the structure height.",
+          "status": "uncertain",
+          "ocr_raw": "Chimneys which are nearer to roof structures than 1.5–3 times the height of the structure must clear the structure by ≥1 m."
+        },
+        {
+          "label": "Proximity threshold relative to roof-structure height",
+          "value": 1.5,
+          "value_max": 3.0,
+          "unit": "times the structure height",
+          "context": "Distance threshold: the chimney is considered near a roof structure when nearer than 1.5–3 times its height. This is a printed range, not a descending range.",
+          "status": "uncertain",
+          "ocr_raw": "nearer to roof structures than 1.5–3 times the height of the structure"
+        },
+        {
+          "label": "Chimney top above perimeter parapet",
+          "value": 1.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Minimum height above roofs with a perimeter parapet.",
+          "status": "uncertain",
+          "ocr_raw": "Chimney tops above roofs with a perimeter parapet must be ≥1 m above the parapet"
+        },
+        {
+          "label": "Maximum external chimney surface temperature",
+          "value": 100.0,
+          "value_max": null,
+          "unit": "°C",
+          "context": "Maximum permitted temperature of the chimney's external surface.",
+          "status": "uncertain",
+          "ocr_raw": "the temperature of the external surface may not exceed 100°C."
+        },
+        {
+          "label": "Cleaning-opening dimensions",
+          "value": 10.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Minimum stated cleaning-opening size; the printed notation gives paired dimensions, ≥10/18 cm.",
+          "status": "uncertain",
+          "ocr_raw": "Each chimney has a cleaning opening → ⑦ (≥10/18 cm, at least 20 cm below the lowest fireplace connection)."
+        },
+        {
+          "label": "Cleaning-opening second dimension",
+          "value": 18.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Paired with the 10 cm dimension in the printed cleaning-opening notation.",
+          "status": "uncertain",
+          "ocr_raw": "Each chimney has a cleaning opening → ⑦ (≥10/18 cm, at least 20 cm below the lowest fireplace connection)."
+        },
+        {
+          "label": "Cleaning opening below lowest fireplace connection",
+          "value": 20.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Minimum distance below the lowest fireplace connection.",
+          "status": "uncertain",
+          "ocr_raw": "at least 20 cm below the lowest fireplace connection"
+        },
+        {
+          "label": "Roof pitch requiring roof access provisions",
+          "value": 15.0,
+          "value_max": null,
+          "unit": "°",
+          "context": "If the roof pitch exceeds this value, walkways, standing gratings, or steps are required.",
+          "status": "uncertain",
+          "ocr_raw": "If roof pitch > 15°, walkways, standing gratings or steps are required"
+        },
+        {
+          "label": "Roof access hatch dimensions",
+          "value": 42.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "First dimension in the access-hatch notation ≥42/52.",
+          "status": "uncertain",
+          "ocr_raw": "Access hatch ≥ 42/52"
+        },
+        {
+          "label": "Roof access hatch second dimension",
+          "value": 52.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Second dimension in the access-hatch notation ≥42/52.",
+          "status": "uncertain",
+          "ocr_raw": "Access hatch ≥ 42/52"
+        }
+      ],
+      "figure_refs": [
+        "1 Chimney heights above roofs",
+        "2 Wind and chimney draught",
+        "3 Modular chimney installation",
+        "4 Pre-assembled chimney (storey height)",
+        "5 Roof access",
+        "6 Chimney top/sheet metal cladding",
+        "7 Chimney foundation",
+        "8 Distance from timber joist floor to chimney",
+        "9 Multi-skin chimney block",
+        "10 Chimney block with ventilation ducts"
+      ],
+      "cross_refs": [
+        "see also: Fire protection pp. 511 ff."
+      ],
+      "keywords": [
+        "chimney",
+        "flue gases",
+        "cross-section",
+        "fire protection",
+        "chimney height",
+        "roof clearance",
+        "cleaning opening",
+        "prefabricated chimney",
+        "ventilation ducts"
+      ],
+      "tags_architectural": [
+        "safety",
+        "ventilation"
+      ],
+      "confidence": 0.91
+    }
+  ]
+}

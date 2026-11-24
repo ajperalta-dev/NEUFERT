@@ -1,0 +1,393 @@
+{
+  "fichas": [
+    {
+      "id": "4122fb96e4bd1976-518-vision-0",
+      "pdf_page": 518,
+      "book_page": 505,
+      "chapter": "BUILDING SERVICES",
+      "section": "Lighting",
+      "title": "Direct, symmetrical lighting",
+      "summary": "Direct symmetrical lighting is recommended for general lighting in workrooms, meeting rooms, public-access rooms and traffic zones. The page gives guidance on fitting shading angles and the assumed radiation angle for system design.",
+      "building_type": "Workrooms, meeting rooms, public-access rooms and traffic zones",
+      "spaces": [
+        "Workrooms",
+        "Meeting rooms",
+        "Rooms with public access",
+        "Traffic zones"
+      ],
+      "uses": [
+        "General lighting"
+      ],
+      "furniture_equipment": [
+        "Light fittings"
+      ],
+      "dimensions": [
+        {
+          "label": "Fitting shading angle",
+          "value": 30.0,
+          "value_max": null,
+          "unit": "°",
+          "context": "Work and meeting rooms",
+          "status": "uncertain",
+          "ocr_raw": "The shading angle of the light fittings in work and meeting rooms is 30°"
+        },
+        {
+          "label": "Fitting shading angle",
+          "value": 40.0,
+          "value_max": null,
+          "unit": "°",
+          "context": "Very high visual comfort; the text says this angle and more",
+          "status": "uncertain",
+          "ocr_raw": "in conditions of very high visual comfort 40° and more"
+        },
+        {
+          "label": "Radiation angle",
+          "value": 70.0,
+          "value_max": 90.0,
+          "unit": "°",
+          "context": "First assumption for lighting-system design",
+          "status": "uncertain",
+          "ocr_raw": "a radiation angle of between 70° and 90° should be the first assumption"
+        }
+      ],
+      "figure_refs": [
+        "1"
+      ],
+      "cross_refs": [
+        "p. 508"
+      ],
+      "keywords": [
+        "direct lighting",
+        "symmetrical lighting",
+        "general lighting",
+        "shading angle",
+        "radiation angle"
+      ],
+      "tags_architectural": [
+        "daylighting"
+      ],
+      "confidence": 0.97
+    },
+    {
+      "id": "4122fb96e4bd1976-518-vision-1",
+      "pdf_page": 518,
+      "book_page": 505,
+      "chapter": "BUILDING SERVICES",
+      "section": "Lighting",
+      "title": "Wallwashers",
+      "summary": "The page describes wallwashing arrangements for uniform wall illumination, including ceiling-grid or downlight wallwashers, rail-mounted wallwashers that also light part of the room, and ceiling-installed wallwashers that illuminate only the wall. Rail-mounted types are also described for display lighting in exhibitions and museums.",
+      "building_type": "Interior spaces, exhibitions and museums",
+      "spaces": [
+        "Rooms with walls to illuminate",
+        "Exhibition spaces",
+        "Museums"
+      ],
+      "uses": [
+        "Uniform wall illumination",
+        "Partial room lighting",
+        "Display lighting"
+      ],
+      "furniture_equipment": [
+        "Ceiling-grid wallwashers",
+        "Power-supply-rail wallwashers",
+        "Ceiling-installed wallwashers",
+        "Fluorescent lamps",
+        "Halogen filament lamps"
+      ],
+      "dimensions": [
+        {
+          "label": "Vertical illuminance",
+          "value": 500.0,
+          "value_max": null,
+          "unit": "lx",
+          "context": "Up to this illuminance can be achieved with a power-supply-rail wallwasher that also lights part of the room",
+          "status": "uncertain",
+          "ocr_raw": "illuminance of up to 500 lx (vertical) can be achieved"
+        },
+        {
+          "label": "Vertical lighting level",
+          "value": 50.0,
+          "value_max": null,
+          "unit": "lx",
+          "context": "Display lighting with a power-supply-rail wallwasher that does not light the room",
+          "status": "uncertain",
+          "ocr_raw": "Vertical lighting level from 50 lx, 150 lx and 300 lx can be produced for the lighting of displays."
+        },
+        {
+          "label": "Vertical lighting level",
+          "value": 150.0,
+          "value_max": null,
+          "unit": "lx",
+          "context": "Display lighting with a power-supply-rail wallwasher that does not light the room",
+          "status": "uncertain",
+          "ocr_raw": "Vertical lighting level from 50 lx, 150 lx and 300 lx can be produced for the lighting of displays."
+        },
+        {
+          "label": "Vertical lighting level",
+          "value": 300.0,
+          "value_max": null,
+          "unit": "lx",
+          "context": "Display lighting with a power-supply-rail wallwasher that does not light the room",
+          "status": "uncertain",
+          "ocr_raw": "Vertical lighting level from 50 lx, 150 lx and 300 lx can be produced for the lighting of displays."
+        }
+      ],
+      "figure_refs": [
+        "2",
+        "3",
+        "4",
+        "11"
+      ],
+      "cross_refs": [
+        "11"
+      ],
+      "keywords": [
+        "wallwasher",
+        "wall illumination",
+        "display lighting",
+        "power supply rail",
+        "exhibition lighting"
+      ],
+      "tags_architectural": [
+        "daylighting"
+      ],
+      "confidence": 0.97
+    },
+    {
+      "id": "4122fb96e4bd1976-518-vision-2",
+      "pdf_page": 518,
+      "book_page": 505,
+      "chapter": "BUILDING SERVICES",
+      "section": "Lighting",
+      "title": "Directional spotlights and narrow-beam lighting",
+      "summary": "Ceiling-mounted directional spotlights can create spatially differentiated lighting; their reflectors can be aimed vertically and horizontally. Narrow-beam rail lights offer selected beam angles, and their cones and spectra can be modified with lenses and filters. Glare protection is provided by louvres or anti-glare flaps.",
+      "building_type": "Interior spaces",
+      "spaces": [
+        "Rooms requiring spatially differentiated lighting",
+        "Museums",
+        "Exhibitions",
+        "Shops"
+      ],
+      "uses": [
+        "Accent lighting",
+        "Directional lighting",
+        "Spot, flood and washer beam effects",
+        "Lighting objects and displays"
+      ],
+      "furniture_equipment": [
+        "Directional spotlights",
+        "Power-supply-rail spotlights",
+        "Reflectors",
+        "Sculpture lenses",
+        "Fresnel lenses",
+        "Ultraviolet filters",
+        "Infrared filters",
+        "Colour filters",
+        "Louvres",
+        "Anti-glare flaps",
+        "Halogen filament lamps"
+      ],
+      "dimensions": [
+        {
+          "label": "Vertical reflector rotation",
+          "value": 40.0,
+          "value_max": null,
+          "unit": "°",
+          "context": "Maximum stated vertical rotation of closely bundled reflectors",
+          "status": "uncertain",
+          "ocr_raw": "reflectors can be rotated vertically up to 40°"
+        },
+        {
+          "label": "Horizontal reflector rotation",
+          "value": 360.0,
+          "value_max": null,
+          "unit": "°",
+          "context": "Horizontal rotation of closely bundled reflectors",
+          "status": "uncertain",
+          "ocr_raw": "and horizontally through 360°"
+        },
+        {
+          "label": "Preferred radiation angle",
+          "value": 10.0,
+          "value_max": null,
+          "unit": "°",
+          "context": "‘Spot’ beam on a power-supply rail",
+          "status": "uncertain",
+          "ocr_raw": "Preferred radiation angles: 10° (‘spot’), 30° (‘flood’), 90° (‘washer’)."
+        },
+        {
+          "label": "Preferred radiation angle",
+          "value": 30.0,
+          "value_max": null,
+          "unit": "°",
+          "context": "‘Flood’ beam on a power-supply rail",
+          "status": "uncertain",
+          "ocr_raw": "Preferred radiation angles: 10° (‘spot’), 30° (‘flood’), 90° (‘washer’)."
+        },
+        {
+          "label": "Preferred radiation angle",
+          "value": 90.0,
+          "value_max": null,
+          "unit": "°",
+          "context": "‘Washer’ beam on a power-supply rail",
+          "status": "uncertain",
+          "ocr_raw": "Preferred radiation angles: 10° (‘spot’), 30° (‘flood’), 90° (‘washer’)."
+        }
+      ],
+      "figure_refs": [
+        "5",
+        "12"
+      ],
+      "cross_refs": [],
+      "keywords": [
+        "directional spotlight",
+        "narrow beam",
+        "spot",
+        "flood",
+        "washer",
+        "glare protection"
+      ],
+      "tags_architectural": [
+        "safety"
+      ],
+      "confidence": 0.97
+    },
+    {
+      "id": "4122fb96e4bd1976-518-vision-3",
+      "pdf_page": 518,
+      "book_page": 505,
+      "chapter": "BUILDING SERVICES",
+      "section": "Lighting",
+      "title": "Indirect and direct/indirect lighting",
+      "summary": "Indirect lighting can create a bright room impression with low lighting levels and without reflected glare, but requires sufficient room height and careful coordination with the ceiling architecture. The page sets a ceiling-luminance limit for workplace lighting and notes higher energy consumption than direct lighting. Direct/indirect lighting is preferred when ceiling height is sufficient; the stated light distribution is 70% direct and 30% indirect.",
+      "building_type": "Workplaces and interior rooms",
+      "spaces": [
+        "Workplaces",
+        "Rooms with sufficient ceiling height"
+      ],
+      "uses": [
+        "Indirect ambient lighting",
+        "Direct/indirect lighting"
+      ],
+      "furniture_equipment": [
+        "Indirect-lighting fittings",
+        "Fluorescent tubes",
+        "Halogen filament lamps",
+        "Filament lamps",
+        "Ceiling architecture"
+      ],
+      "dimensions": [
+        {
+          "label": "Ceiling luminance upper limit",
+          "value": 1000.0,
+          "value_max": null,
+          "unit": "cd/m²",
+          "context": "For workplace lighting, above the radiation angle of 65°",
+          "status": "uncertain",
+          "ocr_raw": "an upper limit to ceiling luminance of 1000 cd/m² (above the radiation angle of 65°) should be observed."
+        },
+        {
+          "label": "Radiation angle",
+          "value": 65.0,
+          "value_max": null,
+          "unit": "°",
+          "context": "Ceiling-luminance limit applies above this radiation angle",
+          "status": "uncertain",
+          "ocr_raw": "1000 cd/m² (above the radiation angle of 65°)"
+        },
+        {
+          "label": "Direct component",
+          "value": 70.0,
+          "value_max": null,
+          "unit": "%",
+          "context": "Direct/indirect lighting distribution; the page states 70% direct and 30% indirect",
+          "status": "uncertain",
+          "ocr_raw": "(70% direct, 30% indirect)"
+        },
+        {
+          "label": "Indirect component",
+          "value": 30.0,
+          "value_max": null,
+          "unit": "%",
+          "context": "Direct/indirect lighting distribution; the page states 70% direct and 30% indirect",
+          "status": "uncertain",
+          "ocr_raw": "(70% direct, 30% indirect)"
+        },
+        {
+          "label": "Ceiling height",
+          "value": 3.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Approximate sufficient ceiling height indicated for preferring direct/indirect lighting",
+          "status": "uncertain",
+          "ocr_raw": "as long as the ceiling height is sufficient (h ≅ 3 m)"
+        }
+      ],
+      "figure_refs": [
+        "6",
+        "7"
+      ],
+      "cross_refs": [],
+      "keywords": [
+        "indirect lighting",
+        "direct/indirect lighting",
+        "ceiling luminance",
+        "reflected glare",
+        "energy consumption"
+      ],
+      "tags_architectural": [
+        "daylighting",
+        "spatial_proportion"
+      ],
+      "confidence": 0.96
+    },
+    {
+      "id": "4122fb96e4bd1976-518-vision-4",
+      "pdf_page": 518,
+      "book_page": 505,
+      "chapter": "BUILDING SERVICES",
+      "section": "Lighting",
+      "title": "Ceiling uplighters, floor downlighters and wall lights",
+      "summary": "Ceiling uplighters and floor downlighters provide area lighting for ceilings or floors. Wall lights are used predominantly for decorative wall lighting and light effects, with limited illumination of the ceiling and floor.",
+      "building_type": "Interior spaces",
+      "spaces": [
+        "Ceilings",
+        "Floors",
+        "Walls"
+      ],
+      "uses": [
+        "Area lighting of ceilings or floors",
+        "Decorative wall lighting",
+        "Lighting effects"
+      ],
+      "furniture_equipment": [
+        "Ceiling uplighters",
+        "Floor downlighters",
+        "Wall lights",
+        "Halogen filament lamps",
+        "Fluorescent tubes",
+        "High-pressure discharge lamps",
+        "Colour filters",
+        "Prisms"
+      ],
+      "dimensions": [],
+      "figure_refs": [
+        "8",
+        "9",
+        "10"
+      ],
+      "cross_refs": [],
+      "keywords": [
+        "ceiling uplighter",
+        "floor downlighter",
+        "wall light",
+        "decorative lighting",
+        "light effects"
+      ],
+      "tags_architectural": [
+        "daylighting"
+      ],
+      "confidence": 0.95
+    }
+  ]
+}

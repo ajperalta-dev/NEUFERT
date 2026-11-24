@@ -1,0 +1,253 @@
+{
+  "model": "gpt-6-luna",
+  "checks": {
+    "checks": [
+      {
+        "ficha_index": 0,
+        "dimension_index": 0,
+        "status": "verified",
+        "value": 125.0,
+        "value_max": null,
+        "reason": "The text explicitly states whole multiples of 125 mm."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 1,
+        "status": "verified",
+        "value": 100.0,
+        "value_max": null,
+        "reason": "The text explicitly states 100 mm according to British Standards."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 2,
+        "status": "verified",
+        "value": 875.0,
+        "value_max": null,
+        "reason": "The text gives the example wall opening as 875 mm wide."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 3,
+        "status": "verified",
+        "value": 2000.0,
+        "value_max": null,
+        "reason": "The text gives the example wall opening as 2000 mm high."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 4,
+        "status": "uncertain",
+        "value": 625.0,
+        "value_max": 2500.0,
+        "reason": "The diagram visibly shows values from 625 to 2500, but does not print their unit."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 5,
+        "status": "uncertain",
+        "value": 1875.0,
+        "value_max": 2500.0,
+        "reason": "The diagram visibly shows heights from 1875 to 2500, but does not print their unit."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 6,
+        "status": "uncertain",
+        "value": 875.0,
+        "value_max": null,
+        "reason": "The table shows 875 for variant 1, but does not print the dimension unit."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 7,
+        "status": "uncertain",
+        "value": 1875.0,
+        "value_max": null,
+        "reason": "The table shows 1875 for variant 1, but does not print the dimension unit."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 8,
+        "status": "uncertain",
+        "value": 625.0,
+        "value_max": null,
+        "reason": "The table shows 625 for variant 2, but does not print the dimension unit."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 9,
+        "status": "uncertain",
+        "value": 2000.0,
+        "value_max": null,
+        "reason": "The table shows 2000 for variants 2\u20135, but does not print the dimension unit."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 10,
+        "status": "uncertain",
+        "value": 750.0,
+        "value_max": null,
+        "reason": "The table shows 750 for variant 3, but does not print the dimension unit."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 11,
+        "status": "uncertain",
+        "value": 875.0,
+        "value_max": null,
+        "reason": "The table shows 875 for variant 4, but does not print the dimension unit."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 12,
+        "status": "uncertain",
+        "value": 1000.0,
+        "value_max": null,
+        "reason": "The table shows 1000 for variant 5, but does not print the dimension unit."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 13,
+        "status": "uncertain",
+        "value": 750.0,
+        "value_max": null,
+        "reason": "The table shows 750 for variant 6, but does not print the dimension unit."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 14,
+        "status": "uncertain",
+        "value": 2125.0,
+        "value_max": null,
+        "reason": "The table shows 2125 for variants 6\u20139, but does not print the dimension unit."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 15,
+        "status": "uncertain",
+        "value": 875.0,
+        "value_max": null,
+        "reason": "The table shows 875 for variant 7, but does not print the dimension unit."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 16,
+        "status": "uncertain",
+        "value": 1000.0,
+        "value_max": null,
+        "reason": "The table shows 1000 for variant 8, but does not print the dimension unit."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 17,
+        "status": "uncertain",
+        "value": 1125.0,
+        "value_max": null,
+        "reason": "The table shows 1125 for variant 9, but does not print the dimension unit."
+      }
+    ]
+  },
+  "automatic": [
+    {
+      "ficha_index": 0,
+      "dimension_index": 0,
+      "issues": []
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 1,
+      "issues": []
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 2,
+      "issues": []
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 3,
+      "issues": []
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 4,
+      "issues": []
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 5,
+      "issues": []
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 6,
+      "issues": []
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 7,
+      "issues": []
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 8,
+      "issues": []
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 9,
+      "issues": []
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 10,
+      "issues": []
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 11,
+      "issues": []
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 12,
+      "issues": []
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 13,
+      "issues": []
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 14,
+      "issues": []
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 15,
+      "issues": []
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 16,
+      "issues": []
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 17,
+      "issues": []
+    }
+  ],
+  "usage": [
+    {
+      "prompt_tokens": 4884,
+      "completion_tokens": 1915
+    },
+    {
+      "prompt_tokens": 5164,
+      "completion_tokens": 1171
+    }
+  ]
+}

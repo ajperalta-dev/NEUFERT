@@ -1,0 +1,359 @@
+{
+  "fichas": [
+    {
+      "id": "4122fb96e4bd1976-53-vision-0",
+      "pdf_page": 53,
+      "book_page": 40,
+      "chapter": "BASICS",
+      "section": "Visual Perception",
+      "title": "Visual Perception: The Eye",
+      "summary": "Explains how still and scanning images affect architectural perception, including field of view, detailed vision, perceived ceiling height, optical illusions, and the sizing and placement of details. It connects visual perception with spatial proportion, readability, street widths, and architectural rhythm.",
+      "building_type": "Architectural design principles",
+      "spaces": [
+        "Rooms",
+        "Streets",
+        "Architectural interiors"
+      ],
+      "uses": [
+        "Relate ceiling height and wall spacing to perceived security, openness, and proportion",
+        "Estimate visual fields and viewing distances",
+        "Determine the legibility and apparent size of details",
+        "Plan street widths for overview and observation of detail",
+        "Position or shape building elements for visibility"
+      ],
+      "furniture_equipment": [
+        "Book",
+        "Jewellery box",
+        "Bedside table"
+      ],
+      "dimensions": [
+        {
+          "label": "Horizontal human field of view",
+          "value": 54.0,
+          "value_max": null,
+          "unit": "degrees",
+          "context": "With steady head and moving eye",
+          "status": "uncertain",
+          "ocr_raw": "54° horizontally"
+        },
+        {
+          "label": "Upward human field of view",
+          "value": 27.0,
+          "value_max": null,
+          "unit": "degrees",
+          "context": "With steady head and moving eye",
+          "status": "uncertain",
+          "ocr_raw": "27° upwards"
+        },
+        {
+          "label": "Downward human field of view",
+          "value": 10.0,
+          "value_max": null,
+          "unit": "degrees",
+          "context": "With steady head and moving eye",
+          "status": "uncertain",
+          "ocr_raw": "10° downwards."
+        },
+        {
+          "label": "Fixed normal-eye field of vision",
+          "value": 1.0,
+          "value_max": null,
+          "unit": "degrees",
+          "context": "Perimeter covered by the field of vision of the fixed normal eye",
+          "status": "uncertain",
+          "ocr_raw": "The field of vision of the fixed normal eye covers 1° of the perimeter"
+        },
+        {
+          "label": "Field of detailed vision",
+          "value": 0.0166667,
+          "value_max": null,
+          "unit": "degrees",
+          "context": "Angular field for precise distinction of details; printed as 0°1′",
+          "status": "uncertain",
+          "ocr_raw": "The eye makes precise distinctions in only 0°1′ of the perimeter = field of detailed vision (readability)."
+        },
+        {
+          "label": "Illustrated viewing distance",
+          "value": 0.8,
+          "value_max": null,
+          "unit": "m",
+          "context": "Fixed normal-eye field-of-vision diagram",
+          "status": "uncertain",
+          "ocr_raw": "0.80"
+        },
+        {
+          "label": "Illustrated small dimension",
+          "value": 0.014,
+          "value_max": null,
+          "unit": "m",
+          "context": "Fixed normal-eye field-of-vision diagram; unit is not stated in the OCR",
+          "status": "uncertain",
+          "ocr_raw": "0.014"
+        },
+        {
+          "label": "Low-ceiling room diagram dimension",
+          "value": 3.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Diagram comparing still-image perception of a low-ceiling room; unit inferred from architectural diagram convention, not printed",
+          "status": "uncertain",
+          "ocr_raw": "3.00"
+        },
+        {
+          "label": "Low-ceiling room diagram dimension",
+          "value": 3.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Horizontal dimension in low-ceiling room diagram; unit inferred from architectural diagram convention, not printed",
+          "status": "uncertain",
+          "ocr_raw": "3,00"
+        },
+        {
+          "label": "Human figure height in room diagrams",
+          "value": 1.7,
+          "value_max": null,
+          "unit": "m",
+          "context": "Person shown beside room diagrams; unit inferred from architectural diagram convention, not printed",
+          "status": "uncertain",
+          "ocr_raw": "1.70"
+        },
+        {
+          "label": "Borderline-distance diagram dimension",
+          "value": 0.7,
+          "value_max": null,
+          "unit": "m",
+          "context": "Diagram of borderline distances; unit inferred from architectural diagram convention, not printed",
+          "status": "uncertain",
+          "ocr_raw": "0.7"
+        },
+        {
+          "label": "Borderline-distance diagram dimension",
+          "value": 0.3,
+          "value_max": null,
+          "unit": "m",
+          "context": "Diagram of borderline distances; unit inferred from architectural diagram convention, not printed",
+          "status": "uncertain",
+          "ocr_raw": "0.3"
+        },
+        {
+          "label": "Borderline-distance diagram dimension",
+          "value": 3.3,
+          "value_max": null,
+          "unit": "m",
+          "context": "Horizontal dimension in borderline-distances diagram; unit inferred from architectural diagram convention, not printed",
+          "status": "uncertain",
+          "ocr_raw": "3.30"
+        },
+        {
+          "label": "Borderline-distance diagram dimension",
+          "value": 4.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Overall horizontal dimension in borderline-distances diagram; unit inferred from architectural diagram convention, not printed",
+          "status": "uncertain",
+          "ocr_raw": "4.00"
+        },
+        {
+          "label": "Illustrated height",
+          "value": 2.5,
+          "value_max": null,
+          "unit": "m",
+          "context": "Dimension shown in borderline-distances diagram; unit inferred from architectural diagram convention, not printed",
+          "status": "uncertain",
+          "ocr_raw": "2.5"
+        },
+        {
+          "label": "Illustrated height",
+          "value": 3.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Dimension shown in borderline-distances diagram; unit inferred from architectural diagram convention, not printed",
+          "status": "uncertain",
+          "ocr_raw": "3.00"
+        },
+        {
+          "label": "Example viewing distance E",
+          "value": 700.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Example of text intended to remain legible at a distance",
+          "status": "uncertain",
+          "ocr_raw": "text still be legible at a distance E = 700 m"
+        },
+        {
+          "label": "Minimum letter width d",
+          "value": 0.204,
+          "value_max": null,
+          "unit": "m",
+          "context": "Example calculation for legibility at E = 700 m",
+          "status": "uncertain",
+          "ocr_raw": "the width d of the letters must be ≥ 700 m × tan 0°1′ = 0.204 m"
+        },
+        {
+          "label": "Normal letter height h",
+          "value": 1.02,
+          "value_max": null,
+          "unit": "m",
+          "context": "Example calculation; stated as five times letter width d",
+          "status": "uncertain",
+          "ocr_raw": "the normal height h for many fonts is 5 × d = 5 × 0.204 = 1.02 m"
+        },
+        {
+          "label": "Letter-height to letter-width ratio",
+          "value": 5.0,
+          "value_max": null,
+          "unit": "ratio",
+          "context": "Normal height h for many fonts is five times width d",
+          "status": "uncertain",
+          "ocr_raw": "the normal height h for many fonts is 5 × d"
+        },
+        {
+          "label": "Angle of detailed vision",
+          "value": 0.0166667,
+          "value_max": null,
+          "unit": "degrees",
+          "context": "Illustration for calculating the size of distinguishable building elements; printed as 0°1′",
+          "status": "uncertain",
+          "ocr_raw": "0°1′"
+        },
+        {
+          "label": "Illustrated horizontal distance",
+          "value": 20.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Diagram for calculating distinguishable building-element size; unit inferred from architectural diagram convention, not printed",
+          "status": "uncertain",
+          "ocr_raw": "20.0"
+        },
+        {
+          "label": "Illustrated vertical dimension",
+          "value": 10.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Diagram for calculating distinguishable building-element size; unit inferred from architectural diagram convention, not printed",
+          "status": "uncertain",
+          "ocr_raw": "10.0"
+        },
+        {
+          "label": "Illustrated dimension",
+          "value": 0.65,
+          "value_max": null,
+          "unit": "m",
+          "context": "Diagram for calculating distinguishable building-element size; unit inferred from architectural diagram convention, not printed",
+          "status": "uncertain",
+          "ocr_raw": "0.65"
+        },
+        {
+          "label": "Illustrated angle",
+          "value": 26.5667,
+          "value_max": null,
+          "unit": "degrees",
+          "context": "Diagram for calculating distinguishable building-element size; printed as degrees and minutes",
+          "status": "uncertain",
+          "ocr_raw": "26°34′"
+        },
+        {
+          "label": "Street-width viewing angle",
+          "value": 18.0,
+          "value_max": null,
+          "unit": "degrees",
+          "context": "Angle marked in street-width diagram",
+          "status": "uncertain",
+          "ocr_raw": "18°"
+        },
+        {
+          "label": "Street-width viewing angle",
+          "value": 27.0,
+          "value_max": null,
+          "unit": "degrees",
+          "context": "Angle marked in street-width diagram",
+          "status": "uncertain",
+          "ocr_raw": "27°"
+        },
+        {
+          "label": "Street-width viewing angle",
+          "value": 45.0,
+          "value_max": null,
+          "unit": "degrees",
+          "context": "Angle marked in street-width diagram",
+          "status": "uncertain",
+          "ocr_raw": "45°"
+        },
+        {
+          "label": "Details viewing distance",
+          "value": 2.0,
+          "value_max": null,
+          "unit": "ratio",
+          "context": "Diagram marks details at 2h",
+          "status": "uncertain",
+          "ocr_raw": "2h"
+        },
+        {
+          "label": "Overall-appearance viewing distance",
+          "value": 2.0,
+          "value_max": null,
+          "unit": "ratio",
+          "context": "Diagram marks overall appearance at 2h",
+          "status": "uncertain",
+          "ocr_raw": "Overall appearance 2h"
+        },
+        {
+          "label": "Overall-view viewing distance",
+          "value": 3.0,
+          "value_max": null,
+          "unit": "ratio",
+          "context": "Diagram marks overall view with surroundings at 3h",
+          "status": "uncertain",
+          "ocr_raw": "Overall view with surroundings 3h"
+        },
+        {
+          "label": "Detail visibility adjustment",
+          "value": 1.5,
+          "value_max": null,
+          "unit": "ratio",
+          "context": "If lighting is not good, diagram note says size should be increased to 1.5 times",
+          "status": "uncertain",
+          "ocr_raw": "Applicable with good lighting; otherwise 1.5 to twice the size"
+        }
+      ],
+      "figure_refs": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9"
+      ],
+      "cross_refs": [
+        "pp. 30–33",
+        "p. 39",
+        "pp. 30–33",
+        "Maertens → refs",
+        "Neufert → refs"
+      ],
+      "keywords": [
+        "visual perception",
+        "field of view",
+        "field of vision",
+        "detailed vision",
+        "readability",
+        "still image",
+        "scanned image",
+        "architectural rhythm",
+        "optical illusion",
+        "ceiling height",
+        "viewing distance"
+      ],
+      "tags_architectural": [
+        "spatial_proportion",
+        "anthropometry",
+        "ergonomics",
+        "circulation"
+      ],
+      "confidence": 0.87
+    }
+  ]
+}

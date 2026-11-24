@@ -1,0 +1,722 @@
+{
+  "model": "gpt-6-luna",
+  "checks": {
+    "checks": [
+      {
+        "ficha_index": 0,
+        "dimension_index": 0,
+        "status": "verified",
+        "value": null,
+        "value_max": null,
+        "reason": "The text prints \u226450 m\u00b2 = 2.50 m."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 1,
+        "status": "verified",
+        "value": null,
+        "value_max": null,
+        "reason": "The text prints >50 m\u00b2 = 2.75 m for areas up to 100 m\u00b2."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 2,
+        "status": "verified",
+        "value": null,
+        "value_max": null,
+        "reason": "The text prints >100 m\u00b2 \u22653.00 m."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 3,
+        "status": "verified",
+        "value": null,
+        "value_max": null,
+        "reason": "The text prints above or below galleries \u22652.50 m."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 4,
+        "status": "verified",
+        "value": null,
+        "value_max": null,
+        "reason": "The text prints emergency exits 1.0 m wide per 150 people."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 5,
+        "status": "verified",
+        "value": null,
+        "value_max": null,
+        "reason": "The text prints minimum clear aisle width 0.80 m."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 6,
+        "status": "verified",
+        "value": null,
+        "value_max": null,
+        "reason": "The text prints doors 0.90 m."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 7,
+        "status": "verified",
+        "value": null,
+        "value_max": null,
+        "reason": "The text prints usable width \u22641.10 m."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 8,
+        "status": "verified",
+        "value": null,
+        "value_max": null,
+        "reason": "The text prints clear walk-through height \u22642.10 m."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 9,
+        "status": "verified",
+        "value": null,
+        "value_max": null,
+        "reason": "The text prints window area \u22641/10 of the restaurant floor area; 1/10 is exactly 0.1."
+      },
+      {
+        "ficha_index": 1,
+        "dimension_index": 0,
+        "status": "uncertain",
+        "value": null,
+        "value_max": null,
+        "reason": "The drawing visibly labels repeated spacings 1.00, but supplies no unit key; other labels in the figures use mixed numerical conventions."
+      },
+      {
+        "ficha_index": 1,
+        "dimension_index": 1,
+        "status": "uncertain",
+        "value": null,
+        "value_max": null,
+        "reason": "The alcove drawing visibly labels 1.80, but the figure does not explicitly specify its unit."
+      },
+      {
+        "ficha_index": 1,
+        "dimension_index": 2,
+        "status": "uncertain",
+        "value": null,
+        "value_max": null,
+        "reason": "The parallel-arrangement drawing visibly labels 2.425, but the figure does not explicitly specify its unit."
+      },
+      {
+        "ficha_index": 1,
+        "dimension_index": 3,
+        "status": "uncertain",
+        "value": null,
+        "value_max": null,
+        "reason": "The parallel-arrangement drawing visibly labels 3.05, but the figure does not explicitly specify its unit."
+      },
+      {
+        "ficha_index": 1,
+        "dimension_index": 4,
+        "status": "uncertain",
+        "value": null,
+        "value_max": null,
+        "reason": "The diagonal-arrangement drawing visibly labels 1.95, but the figure does not explicitly specify its unit."
+      },
+      {
+        "ficha_index": 1,
+        "dimension_index": 5,
+        "status": "uncertain",
+        "value": null,
+        "value_max": null,
+        "reason": "The diagonal-arrangement drawing visibly labels 1.70, but the figure does not explicitly specify its unit."
+      },
+      {
+        "ficha_index": 1,
+        "dimension_index": 6,
+        "status": "uncertain",
+        "value": null,
+        "value_max": null,
+        "reason": "The closest-table-spacing drawing visibly labels 1.575, but the figure does not explicitly specify its unit."
+      },
+      {
+        "ficha_index": 1,
+        "dimension_index": 7,
+        "status": "uncertain",
+        "value": null,
+        "value_max": null,
+        "reason": "The caf\u00e9 drawing visibly labels 1.825, but the figure does not explicitly specify its unit."
+      },
+      {
+        "ficha_index": 1,
+        "dimension_index": 8,
+        "status": "uncertain",
+        "value": null,
+        "value_max": null,
+        "reason": "The Zuntz-table drawing visibly labels 68 twice, but does not explicitly specify that the unit is cm."
+      },
+      {
+        "ficha_index": 2,
+        "dimension_index": 0,
+        "status": "verified",
+        "value": null,
+        "value_max": null,
+        "reason": "Table 9 prints \u2264100 m\u00b2 and \u22651.10 m."
+      },
+      {
+        "ficha_index": 2,
+        "dimension_index": 1,
+        "status": "verified",
+        "value": null,
+        "value_max": null,
+        "reason": "Table 9 prints \u2264250 m\u00b2 and \u22651.30 m."
+      },
+      {
+        "ficha_index": 2,
+        "dimension_index": 2,
+        "status": "verified",
+        "value": null,
+        "value_max": null,
+        "reason": "Table 9 prints \u2264500 m\u00b2 and \u22651.65 m."
+      },
+      {
+        "ficha_index": 2,
+        "dimension_index": 3,
+        "status": "verified",
+        "value": null,
+        "value_max": null,
+        "reason": "Table 9 prints \u22641000 m\u00b2 and \u22651.80 m."
+      },
+      {
+        "ficha_index": 2,
+        "dimension_index": 4,
+        "status": "verified",
+        "value": null,
+        "value_max": null,
+        "reason": "Table 9 prints >1000 m\u00b2 and \u22652.10 m."
+      },
+      {
+        "ficha_index": 2,
+        "dimension_index": 5,
+        "status": "verified",
+        "value": 1.4,
+        "value_max": 1.6,
+        "reason": "The printed guidance gives total dining-room space as 1.4\u20131.6 m\u00b2/place."
+      },
+      {
+        "ficha_index": 2,
+        "dimension_index": 6,
+        "status": "verified",
+        "value": null,
+        "value_max": null,
+        "reason": "Table 13 prints main aisles minimum 2.00 m wide."
+      },
+      {
+        "ficha_index": 2,
+        "dimension_index": 7,
+        "status": "verified",
+        "value": null,
+        "value_max": null,
+        "reason": "Table 13 prints intermediate aisles minimum 0.90 m wide."
+      },
+      {
+        "ficha_index": 2,
+        "dimension_index": 8,
+        "status": "verified",
+        "value": null,
+        "value_max": null,
+        "reason": "Table 13 prints side aisles minimum 1.20 m wide."
+      },
+      {
+        "ficha_index": 2,
+        "dimension_index": 9,
+        "status": "verified",
+        "value": null,
+        "value_max": null,
+        "reason": "Table 11 prints exclusive-restaurant kitchen floor area 0.7 m\u00b2/cover."
+      },
+      {
+        "ficha_index": 2,
+        "dimension_index": 10,
+        "status": "verified",
+        "value": null,
+        "value_max": null,
+        "reason": "Table 11 prints exclusive-restaurant dining-room floor area 1.8\u20132.0 m\u00b2/seat."
+      },
+      {
+        "ficha_index": 2,
+        "dimension_index": 11,
+        "status": "corrected",
+        "value": 0.6666666667,
+        "value_max": null,
+        "reason": "Table 11 visibly prints seat occupancy as the fraction 2/3, not 23; this is the exact fraction expressed numerically."
+      },
+      {
+        "ficha_index": 2,
+        "dimension_index": 12,
+        "status": "verified",
+        "value": 0.5,
+        "value_max": 0.6,
+        "reason": "Table 11 prints rapid-turnover kitchen floor area 0.5\u20130.6 m\u00b2/cover."
+      },
+      {
+        "ficha_index": 2,
+        "dimension_index": 13,
+        "status": "verified",
+        "value": 1.4,
+        "value_max": 1.6,
+        "reason": "Table 11 prints rapid-turnover dining-room floor area 1.4\u20131.6 m\u00b2/seat."
+      },
+      {
+        "ficha_index": 2,
+        "dimension_index": 14,
+        "status": "verified",
+        "value": 0.4,
+        "value_max": 0.5,
+        "reason": "Table 11 prints standard-restaurant kitchen floor area 0.4\u20130.5 m\u00b2/cover."
+      },
+      {
+        "ficha_index": 2,
+        "dimension_index": 15,
+        "status": "verified",
+        "value": 1.6,
+        "value_max": 1.8,
+        "reason": "Table 11 prints standard-restaurant dining-room floor area 1.6\u20131.8 m\u00b2/seat."
+      },
+      {
+        "ficha_index": 2,
+        "dimension_index": 16,
+        "status": "verified",
+        "value": 0.3,
+        "value_max": 0.4,
+        "reason": "Table 11 prints inn/guest-house kitchen floor area 0.3\u20130.4 m\u00b2/cover."
+      },
+      {
+        "ficha_index": 2,
+        "dimension_index": 17,
+        "status": "verified",
+        "value": 1.6,
+        "value_max": 1.8,
+        "reason": "Table 11 prints inn/guest-house dining-room floor area 1.6\u20131.8 m\u00b2/seat."
+      },
+      {
+        "ficha_index": 2,
+        "dimension_index": 18,
+        "status": "verified",
+        "value": null,
+        "value_max": null,
+        "reason": "Table 11 says to add approximately 80% for storerooms, personnel rooms, etc."
+      },
+      {
+        "ficha_index": 2,
+        "dimension_index": 19,
+        "status": "verified",
+        "value": null,
+        "value_max": null,
+        "reason": "Table 11 prints square tables, 4 places, waiter service: 1.25 m\u00b2/place."
+      },
+      {
+        "ficha_index": 2,
+        "dimension_index": 20,
+        "status": "verified",
+        "value": null,
+        "value_max": null,
+        "reason": "Table 11 prints square tables, 4 places, self-service: 1.25 m\u00b2/place."
+      },
+      {
+        "ficha_index": 2,
+        "dimension_index": 21,
+        "status": "verified",
+        "value": null,
+        "value_max": null,
+        "reason": "Table 11 prints rectangular tables, 4 places, waiter service: 1.10 m\u00b2/place."
+      },
+      {
+        "ficha_index": 2,
+        "dimension_index": 22,
+        "status": "verified",
+        "value": null,
+        "value_max": null,
+        "reason": "Table 11 prints rectangular tables, 4 places, self-service: 1.25 m\u00b2/place."
+      },
+      {
+        "ficha_index": 2,
+        "dimension_index": 23,
+        "status": "verified",
+        "value": null,
+        "value_max": null,
+        "reason": "Table 11 prints rectangular tables, 6 places, waiter service: 1.00 m\u00b2/place."
+      },
+      {
+        "ficha_index": 2,
+        "dimension_index": 24,
+        "status": "verified",
+        "value": null,
+        "value_max": null,
+        "reason": "Table 11 prints rectangular tables, 6 places, self-service: 1.05 m\u00b2/place."
+      },
+      {
+        "ficha_index": 2,
+        "dimension_index": 25,
+        "status": "verified",
+        "value": null,
+        "value_max": null,
+        "reason": "Table 11 prints rectangular tables, 8 places, waiter service: 1.10 m\u00b2/place."
+      },
+      {
+        "ficha_index": 2,
+        "dimension_index": 26,
+        "status": "verified",
+        "value": null,
+        "value_max": null,
+        "reason": "Table 11 prints rectangular tables, 8 places, self-service: 1.10 m\u00b2/place."
+      },
+      {
+        "ficha_index": 2,
+        "dimension_index": 27,
+        "status": "verified",
+        "value": null,
+        "value_max": null,
+        "reason": "Table 10 prints the \u226450 dining-place threshold."
+      },
+      {
+        "ficha_index": 2,
+        "dimension_index": 28,
+        "status": "verified",
+        "value": null,
+        "value_max": null,
+        "reason": "Table 10 prints the >50\u2013200 dining-place range."
+      },
+      {
+        "ficha_index": 2,
+        "dimension_index": 29,
+        "status": "verified",
+        "value": null,
+        "value_max": null,
+        "reason": "Table 10 prints the >200\u2013400 dining-place range."
+      }
+    ]
+  },
+  "automatic": [
+    {
+      "ficha_index": 0,
+      "dimension_index": 0,
+      "issues": []
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 1,
+      "issues": []
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 2,
+      "issues": []
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 3,
+      "issues": []
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 4,
+      "issues": []
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 5,
+      "issues": []
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 6,
+      "issues": []
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 7,
+      "issues": []
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 8,
+      "issues": []
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 9,
+      "issues": [
+        "Unknown unit"
+      ]
+    },
+    {
+      "ficha_index": 1,
+      "dimension_index": 0,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 1,
+      "dimension_index": 1,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 1,
+      "dimension_index": 2,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 1,
+      "dimension_index": 3,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 1,
+      "dimension_index": 4,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 1,
+      "dimension_index": 5,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 1,
+      "dimension_index": 6,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 1,
+      "dimension_index": 7,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 1,
+      "dimension_index": 8,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 2,
+      "dimension_index": 0,
+      "issues": []
+    },
+    {
+      "ficha_index": 2,
+      "dimension_index": 1,
+      "issues": []
+    },
+    {
+      "ficha_index": 2,
+      "dimension_index": 2,
+      "issues": []
+    },
+    {
+      "ficha_index": 2,
+      "dimension_index": 3,
+      "issues": []
+    },
+    {
+      "ficha_index": 2,
+      "dimension_index": 4,
+      "issues": []
+    },
+    {
+      "ficha_index": 2,
+      "dimension_index": 5,
+      "issues": [
+        "Unknown unit"
+      ]
+    },
+    {
+      "ficha_index": 2,
+      "dimension_index": 6,
+      "issues": []
+    },
+    {
+      "ficha_index": 2,
+      "dimension_index": 7,
+      "issues": []
+    },
+    {
+      "ficha_index": 2,
+      "dimension_index": 8,
+      "issues": []
+    },
+    {
+      "ficha_index": 2,
+      "dimension_index": 9,
+      "issues": [
+        "Unknown unit",
+        "OCR range not represented"
+      ]
+    },
+    {
+      "ficha_index": 2,
+      "dimension_index": 10,
+      "issues": [
+        "Unknown unit"
+      ]
+    },
+    {
+      "ficha_index": 2,
+      "dimension_index": 11,
+      "issues": [
+        "Unknown unit",
+        "OCR range not represented"
+      ]
+    },
+    {
+      "ficha_index": 2,
+      "dimension_index": 12,
+      "issues": [
+        "Unknown unit"
+      ]
+    },
+    {
+      "ficha_index": 2,
+      "dimension_index": 13,
+      "issues": [
+        "Unknown unit"
+      ]
+    },
+    {
+      "ficha_index": 2,
+      "dimension_index": 14,
+      "issues": [
+        "Unknown unit"
+      ]
+    },
+    {
+      "ficha_index": 2,
+      "dimension_index": 15,
+      "issues": [
+        "Unknown unit"
+      ]
+    },
+    {
+      "ficha_index": 2,
+      "dimension_index": 16,
+      "issues": [
+        "Unknown unit"
+      ]
+    },
+    {
+      "ficha_index": 2,
+      "dimension_index": 17,
+      "issues": [
+        "Unknown unit"
+      ]
+    },
+    {
+      "ficha_index": 2,
+      "dimension_index": 18,
+      "issues": [
+        "Unknown unit"
+      ]
+    },
+    {
+      "ficha_index": 2,
+      "dimension_index": 19,
+      "issues": [
+        "Unknown unit"
+      ]
+    },
+    {
+      "ficha_index": 2,
+      "dimension_index": 20,
+      "issues": [
+        "Unknown unit"
+      ]
+    },
+    {
+      "ficha_index": 2,
+      "dimension_index": 21,
+      "issues": [
+        "Unknown unit"
+      ]
+    },
+    {
+      "ficha_index": 2,
+      "dimension_index": 22,
+      "issues": [
+        "Unknown unit"
+      ]
+    },
+    {
+      "ficha_index": 2,
+      "dimension_index": 23,
+      "issues": [
+        "Unknown unit"
+      ]
+    },
+    {
+      "ficha_index": 2,
+      "dimension_index": 24,
+      "issues": [
+        "Unknown unit"
+      ]
+    },
+    {
+      "ficha_index": 2,
+      "dimension_index": 25,
+      "issues": [
+        "Unknown unit"
+      ]
+    },
+    {
+      "ficha_index": 2,
+      "dimension_index": 26,
+      "issues": [
+        "Unknown unit"
+      ]
+    },
+    {
+      "ficha_index": 2,
+      "dimension_index": 27,
+      "issues": [
+        "Unknown unit"
+      ]
+    },
+    {
+      "ficha_index": 2,
+      "dimension_index": 28,
+      "issues": [
+        "Unknown unit"
+      ]
+    },
+    {
+      "ficha_index": 2,
+      "dimension_index": 29,
+      "issues": [
+        "Unknown unit"
+      ]
+    }
+  ],
+  "usage": [
+    {
+      "prompt_tokens": 5001,
+      "completion_tokens": 4043
+    },
+    {
+      "prompt_tokens": 8218,
+      "completion_tokens": 2361
+    }
+  ]
+}

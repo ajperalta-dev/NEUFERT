@@ -1,0 +1,60 @@
+{
+  "model": "gpt-6-luna",
+  "checks": {
+    "checks": [
+      {
+        "ficha_index": 0,
+        "dimension_index": 0,
+        "status": "verified",
+        "value": 1.0,
+        "value_max": null,
+        "reason": "The text visibly states \u22651 m\u00b2."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 1,
+        "status": "verified",
+        "value": 75.0,
+        "value_max": null,
+        "reason": "The text visibly states a clear width of 75 cm."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 2,
+        "status": "verified",
+        "value": 2.0,
+        "value_max": null,
+        "reason": "The text visibly states 2% of the floor area."
+      }
+    ]
+  },
+  "automatic": [
+    {
+      "ficha_index": 0,
+      "dimension_index": 0,
+      "issues": []
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 1,
+      "issues": []
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 2,
+      "issues": [
+        "Unknown unit"
+      ]
+    }
+  ],
+  "usage": [
+    {
+      "prompt_tokens": 4243,
+      "completion_tokens": 1053
+    },
+    {
+      "prompt_tokens": 3858,
+      "completion_tokens": 255
+    }
+  ]
+}

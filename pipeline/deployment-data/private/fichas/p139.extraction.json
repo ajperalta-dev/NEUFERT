@@ -1,0 +1,384 @@
+{
+  "fichas": [
+    {
+      "id": "4122fb96e4bd1976-139-vision-0",
+      "pdf_page": 139,
+      "book_page": 126,
+      "chapter": "BUILDING COMPONENTS",
+      "section": "Escalators",
+      "title": "Escalators for Shops, Offices, and Transport Facilities",
+      "summary": "Escalators provide continuous transport for large numbers of people and are not treated as stairs for building-regulation purposes. The page covers planning openings and pits, step widths, capacities, speeds, slopes, circulation arrangements, and safety requirements. A 35° pitch is more space-efficient, while 30° is required for travel heights of at least 6 m; 27–28° is recommended where possible in transport facilities. Provide queuing space at both ends.",
+      "building_type": "Commercial and public buildings",
+      "spaces": [
+        "Escalator opening",
+        "Escalator pit",
+        "Level 1 and level 2 access areas",
+        "Queuing areas at escalator ends"
+      ],
+      "uses": [
+        "Continuous movement of people between levels",
+        "Passenger circulation in department stores, offices, administration buildings, trade fair halls, airports, underground railway stations, and public transport facilities"
+      ],
+      "furniture_equipment": [
+        "Escalator",
+        "Emergency stop buttons",
+        "Side guards",
+        "Drain provision"
+      ],
+      "dimensions": [
+        {
+          "label": "Opening in floor",
+          "value": 6.2,
+          "value_max": null,
+          "unit": "m",
+          "context": "Floor opening shown in the longitudinal section.",
+          "status": "uncertain",
+          "ocr_raw": "opening in floor 6.20m"
+        },
+        {
+          "label": "Pit opening length",
+          "value": 3.75,
+          "value_max": null,
+          "unit": "m",
+          "context": "Possible opening for a 3.75 m pit, as shown in the foundation plan.",
+          "status": "uncertain",
+          "ocr_raw": "possible opening for 3.75m pit"
+        },
+        {
+          "label": "Step width",
+          "value": 60.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Worldwide standard; one person without hand luggage, noted as no longer permissible in Europe.",
+          "status": "uncertain",
+          "ocr_raw": "60 cm (1 person without hand luggage, no longer permissible in Europe)"
+        },
+        {
+          "label": "Step width",
+          "value": 80.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Worldwide standard for 1–2 people.",
+          "status": "uncertain",
+          "ocr_raw": "80 cm (1–2 people)"
+        },
+        {
+          "label": "Step width",
+          "value": 100.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Worldwide standard for 2 people; provides room for people carrying loads.",
+          "status": "uncertain",
+          "ocr_raw": "100 cm (2 people)"
+        },
+        {
+          "label": "Queuing area depth",
+          "value": 2.5,
+          "value_max": null,
+          "unit": "m",
+          "context": "Minimum depth recommended at both the bottom and top of the escalator.",
+          "status": "uncertain",
+          "ocr_raw": "≥2.50 m deep"
+        },
+        {
+          "label": "Escalator pitch",
+          "value": 30.0,
+          "value_max": null,
+          "unit": "degrees",
+          "context": "One of the stated standard pitches; required for travel heights of at least 6 m.",
+          "status": "uncertain",
+          "ocr_raw": "30 or 35° ... For travel heights ≥6 m, the 30° escalator is required"
+        },
+        {
+          "label": "Escalator pitch",
+          "value": 35.0,
+          "value_max": null,
+          "unit": "degrees",
+          "context": "More economical in space than a 30° escalator; transportation capacity is about the same.",
+          "status": "uncertain",
+          "ocr_raw": "The 35° escalator is more economical because it requires less space."
+        },
+        {
+          "label": "Recommended pitch range",
+          "value": 27.0,
+          "value_max": 28.0,
+          "unit": "degrees",
+          "context": "Pitch to use if possible when escalators are installed as part of transport facilities.",
+          "status": "uncertain",
+          "ocr_raw": "a pitch of 27–28° should be used if possible"
+        },
+        {
+          "label": "Transport-facility pitch",
+          "value": 18.0,
+          "value_max": null,
+          "unit": "degrees",
+          "context": "Pitch listed among those subject to stringent requirements under Bostrab.",
+          "status": "uncertain",
+          "ocr_raw": "pitches 27, 18 and 30°"
+        },
+        {
+          "label": "Step gradient relationship",
+          "value": 16.0,
+          "value_max": null,
+          "unit": "ratio",
+          "context": "Gradient relationship stated as 16 × 30 cm, described as a comfortable step size.",
+          "status": "uncertain",
+          "ocr_raw": "16 x 30 cm, a comfortable size for a step"
+        },
+        {
+          "label": "Step gradient relationship",
+          "value": 30.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Second stated component of the 16 × 30 cm gradient relationship.",
+          "status": "uncertain",
+          "ocr_raw": "16 x 30 cm, a comfortable size for a step"
+        },
+        {
+          "label": "Escalator speed",
+          "value": 0.5,
+          "value_max": null,
+          "unit": "m/s",
+          "context": "Normally not exceeded in department stores, offices, administration buildings, trade fair halls, and airports.",
+          "status": "uncertain",
+          "ocr_raw": "speed is normally no higher than 0.5 m/s"
+        },
+        {
+          "label": "Escalator speed",
+          "value": 0.65,
+          "value_max": null,
+          "unit": "m/s",
+          "context": "Preferred in underground railway stations and public transport facilities.",
+          "status": "uncertain",
+          "ocr_raw": "0.65 m/s is preferred"
+        },
+        {
+          "label": "Capacity table step width",
+          "value": 800.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Step-width column in the dimensions and capacities table.",
+          "status": "uncertain",
+          "ocr_raw": "step width 800"
+        },
+        {
+          "label": "Capacity table step width",
+          "value": 1000.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Step-width column in the dimensions and capacities table.",
+          "status": "uncertain",
+          "ocr_raw": "step width 1000"
+        },
+        {
+          "label": "A dimension at 800 mm step width",
+          "value": 80.0,
+          "value_max": 820.0,
+          "unit": "mm",
+          "context": "Dimension A in the escalator dimensions table.",
+          "status": "uncertain",
+          "ocr_raw": "A 80–820"
+        },
+        {
+          "label": "A dimension at 1000 mm step width",
+          "value": 1005.0,
+          "value_max": 1020.0,
+          "unit": "mm",
+          "context": "Dimension A in the escalator dimensions table.",
+          "status": "uncertain",
+          "ocr_raw": "A 1005–1020"
+        },
+        {
+          "label": "B dimension at 800 mm step width",
+          "value": 1320.0,
+          "value_max": 1420.0,
+          "unit": "mm",
+          "context": "Dimension B in the escalator dimensions table.",
+          "status": "uncertain",
+          "ocr_raw": "B 1320–1420"
+        },
+        {
+          "label": "B dimension at 1000 mm step width",
+          "value": 1570.0,
+          "value_max": 1620.0,
+          "unit": "mm",
+          "context": "Dimension B in the escalator dimensions table.",
+          "status": "uncertain",
+          "ocr_raw": "B 1570–1620"
+        },
+        {
+          "label": "C dimension at 800 mm step width",
+          "value": 1480.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Dimension C in the escalator dimensions table.",
+          "status": "uncertain",
+          "ocr_raw": "C 1480"
+        },
+        {
+          "label": "C dimension at 1000 mm step width",
+          "value": 1680.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Dimension C in the escalator dimensions table.",
+          "status": "uncertain",
+          "ocr_raw": "C 1680"
+        },
+        {
+          "label": "Capacity at 800 mm step width",
+          "value": 7000.0,
+          "value_max": 8000.0,
+          "unit": "people/h",
+          "context": "Capacity table; printed as a range for the 800 mm step-width column.",
+          "status": "uncertain",
+          "ocr_raw": "7000–8000 people"
+        },
+        {
+          "label": "Capacity at 1000 mm step width",
+          "value": 8000.0,
+          "value_max": 10000.0,
+          "unit": "people/h",
+          "context": "Capacity table; printed as a range for the 1000 mm step-width column.",
+          "status": "uncertain",
+          "ocr_raw": "8000–10000 people"
+        },
+        {
+          "label": "Capacity at 0.5 m/s, one-person width",
+          "value": 4000.0,
+          "value_max": null,
+          "unit": "people/h",
+          "context": "Capacity data table, with a width sufficient for 1 person.",
+          "status": "uncertain",
+          "ocr_raw": "0.5 m/sec ... 4000"
+        },
+        {
+          "label": "Capacity at 0.5 m/s, two-person width",
+          "value": 8000.0,
+          "value_max": null,
+          "unit": "people/h",
+          "context": "Capacity data table, with a width sufficient for 2 people next to each other.",
+          "status": "uncertain",
+          "ocr_raw": "0.5 m/sec ... 8000"
+        },
+        {
+          "label": "Capacity at 0.65 m/s, one-person width",
+          "value": 5000.0,
+          "value_max": null,
+          "unit": "people/h",
+          "context": "Capacity data table, with a width sufficient for 1 person.",
+          "status": "uncertain",
+          "ocr_raw": "0.65 m/sec ... 5000"
+        },
+        {
+          "label": "Capacity at 0.65 m/s, two-person width",
+          "value": 1000.0,
+          "value_max": null,
+          "unit": "people/h",
+          "context": "Capacity data table, with a width sufficient for 2 people next to each other; OCR/table value retained as printed.",
+          "status": "uncertain",
+          "ocr_raw": "0.65 m/sec ... 1000"
+        },
+        {
+          "label": "Average shopping area per escalator",
+          "value": 1500.0,
+          "value_max": null,
+          "unit": "m²",
+          "context": "Current average stated for department stores.",
+          "status": "uncertain",
+          "ocr_raw": "1500 m² at present"
+        },
+        {
+          "label": "Optimum shopping area per escalator",
+          "value": 500.0,
+          "value_max": 700.0,
+          "unit": "m²",
+          "context": "Suggested lower optimum range for department stores.",
+          "status": "uncertain",
+          "ocr_raw": "500–700 m²"
+        },
+        {
+          "label": "Storey height in example",
+          "value": 4.5,
+          "value_max": null,
+          "unit": "m",
+          "context": "Example used to illustrate escalator length on plan.",
+          "status": "uncertain",
+          "ocr_raw": "storey height 4.50 m"
+        },
+        {
+          "label": "Length-on-plan factor for 30° pitch",
+          "value": 1.732,
+          "value_max": null,
+          "unit": "factor",
+          "context": "Printed multiplier of storey height for 30° pitch; not a dimension by itself.",
+          "status": "uncertain",
+          "ocr_raw": "For 30° pitch = 1.732 x storey height"
+        },
+        {
+          "label": "Length-on-plan factor for 35° pitch",
+          "value": 1.428,
+          "value_max": null,
+          "unit": "factor",
+          "context": "Printed multiplier of storey height for 35° pitch; not a dimension by itself.",
+          "status": "uncertain",
+          "ocr_raw": "For 35° pitch = 1.428 x storey height"
+        },
+        {
+          "label": "Approximate length including level access and exit areas",
+          "value": 9.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Approximate length stated in the example for a 4.50 m storey height and 30° pitch.",
+          "status": "uncertain",
+          "ocr_raw": "this gives a length of approx. 9 m"
+        },
+        {
+          "label": "People standing on escalator simultaneously",
+          "value": 20.0,
+          "value_max": null,
+          "unit": "people",
+          "context": "Approximate number for the example escalator length.",
+          "status": "uncertain",
+          "ocr_raw": "about 20 people can stand on the escalator at the same time"
+        }
+      ],
+      "figure_refs": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9"
+      ],
+      "cross_refs": [
+        "Dimensions and capacities → 1, 2, 4",
+        "Capacity data → 3–5",
+        "Transport-facility dimensions and capacities → 1–2, 4",
+        "Length on plan → 1"
+      ],
+      "keywords": [
+        "escalator",
+        "moving walkway",
+        "step width",
+        "transport capacity",
+        "pitch",
+        "escalator speed",
+        "pit",
+        "floor opening",
+        "queuing area",
+        "emergency stop"
+      ],
+      "tags_architectural": [
+        "circulation",
+        "accessibility",
+        "safety",
+        "clearance",
+        "ergonomics"
+      ],
+      "confidence": 0.91
+    }
+  ]
+}

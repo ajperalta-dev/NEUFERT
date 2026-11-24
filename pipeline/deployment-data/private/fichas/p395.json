@@ -1,0 +1,380 @@
+{
+  "fichas": [
+    {
+      "id": "4122fb96e4bd1976-395-vision-0",
+      "pdf_page": 395,
+      "book_page": 382,
+      "chapter": "TRANSPORT",
+      "section": "Roads",
+      "title": "Footpaths and Cycle Ways",
+      "summary": "Guidance for pedestrian and cycle routes emphasizes varied, interesting walking areas, weather protection, and adequate widths and safety separation. Combined footpaths and cycleways are also referenced to page 384.",
+      "building_type": "Road and public-realm infrastructure",
+      "spaces": [
+        "Roadside footpaths",
+        "Roadside cycleways",
+        "Combined footpaths and cycleways",
+        "Separate footpaths",
+        "Separate cycleways",
+        "Residential access for pedestrians"
+      ],
+      "uses": [
+        "Pedestrian movement",
+        "One-way and two-way cycle traffic",
+        "Non-vehicle residential access"
+      ],
+      "furniture_equipment": [
+        "Trees",
+        "Arcades",
+        "Protecting roofs"
+      ],
+      "dimensions": [
+        {
+          "label": "Roadside pavement width",
+          "value": 2.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Recommended minimum width if possible; includes a minimum 1.50 m walking width and 0.50 m safety distance from the carriageway.",
+          "status": "verified",
+          "ocr_raw": "Roadside pavements should if possible not\nbe narrower than 2 m (of which 1.50 m min. width and 0.50 m\nsafety distance from the carriageway)."
+        },
+        {
+          "label": "Minimum walking width within roadside pavement",
+          "value": 1.5,
+          "value_max": null,
+          "unit": "m",
+          "context": "Minimum width stated as part of the roadside pavement recommendation.",
+          "status": "verified",
+          "ocr_raw": "1.50 m min. width"
+        },
+        {
+          "label": "Safety distance from carriageway",
+          "value": 0.5,
+          "value_max": null,
+          "unit": "m",
+          "context": "Safety distance included in the roadside pavement recommendation.",
+          "status": "verified",
+          "ocr_raw": "0.50 m\nsafety distance from the carriageway"
+        },
+        {
+          "label": "Ideal minimum pavement width near schools and other facilities",
+          "value": 3.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Near schools, shopping centres, leisure facilities, etc.",
+          "status": "verified",
+          "ocr_raw": "Near schools, shopping centres,\nleisure facilities etc., a min. width of 3 m is ideal."
+        },
+        {
+          "label": "Roadside cycleway width, one-way traffic",
+          "value": 1.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Minimum width for one-way cycle traffic.",
+          "status": "verified",
+          "ocr_raw": "Roadside cycle ways should be min. 1.00 m wide for one-way\ntraffic"
+        },
+        {
+          "label": "Roadside cycleway width, two-way traffic",
+          "value": 2.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Stated width for two-way cycle traffic; minimum width is listed separately.",
+          "status": "verified",
+          "ocr_raw": "2.00 m (min. 1.60 m) wide for two-way traffic"
+        },
+        {
+          "label": "Minimum roadside cycleway width, two-way traffic",
+          "value": 1.6,
+          "value_max": null,
+          "unit": "m",
+          "context": "Minimum width for two-way cycle traffic.",
+          "status": "verified",
+          "ocr_raw": "min. 1.60 m"
+        },
+        {
+          "label": "Safety strip added to the road",
+          "value": 0.75,
+          "value_max": null,
+          "unit": "m",
+          "context": "Safety strip specified alongside roadside cycleways.",
+          "status": "verified",
+          "ocr_raw": "with\nsafety strips of 0.75 m added to the road"
+        },
+        {
+          "label": "Combined footpath and cycleway width",
+          "value": 2.5,
+          "value_max": null,
+          "unit": "m",
+          "context": "Stated width; the minimum width is listed separately.",
+          "status": "verified",
+          "ocr_raw": "Combined footpaths\nand cycle ways should be 2.50 m (min. 2.00 m) wide"
+        },
+        {
+          "label": "Minimum combined footpath and cycleway width",
+          "value": 2.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Minimum width for combined footpaths and cycleways.",
+          "status": "verified",
+          "ocr_raw": "(min. 2.00 m)"
+        }
+      ],
+      "figure_refs": [
+        "1 — Roadside footpath",
+        "2 — Roadside cycle way",
+        "3 — Combined footpath and cycle way",
+        "4 — Cycle track",
+        "5 — Separate footpath",
+        "6 — Separate cycle way",
+        "7 — Residential access, not for vehicles"
+      ],
+      "cross_refs": [
+        "p. 384"
+      ],
+      "keywords": [
+        "footpath",
+        "cycleway",
+        "pedestrian",
+        "bicycle",
+        "roadside pavement",
+        "safety strip",
+        "residential access"
+      ],
+      "tags_architectural": [
+        "circulation",
+        "accessibility",
+        "clearance",
+        "safety"
+      ],
+      "confidence": 0.97
+    },
+    {
+      "id": "4122fb96e4bd1976-395-vision-1",
+      "pdf_page": 395,
+      "book_page": 382,
+      "chapter": "TRANSPORT",
+      "section": "Roads",
+      "title": "Road Cross-Sections and Design Parameters",
+      "summary": "A design-parameter table accompanies diagrams of pedestrian and cycle traffic areas. It gives road-related parameters including curve radii, longitudinal slope, rounded brow and dip radii, and minimum clear height. Bracketed values indicate minimum dimensions in existing built-up areas; some dimensions are identified as exceptional cases.",
+      "building_type": "Road and public-realm infrastructure",
+      "spaces": [
+        "Road cross-sections",
+        "Pedestrian and cycle traffic areas",
+        "Intersections"
+      ],
+      "uses": [
+        "Road design",
+        "Pedestrian and cyclist circulation",
+        "Drainage"
+      ],
+      "furniture_equipment": [
+        "Roadside planting",
+        "Paving"
+      ],
+      "dimensions": [
+        {
+          "label": "Minimum clear height",
+          "value": 2.5,
+          "value_max": null,
+          "unit": "m",
+          "context": "Minimum clear height in the design-parameter table; shown for the pedestrian/cycle-area entries.",
+          "status": "verified",
+          "ocr_raw": "cross-sections1!\n\nROADS\n\nValues of design parameters\n\n{values in brackets are\nminimum dimensions in\n\nexistin! built-up area)\n\nJl\n-2.25\n\nmin.\n\n/'\n\nszl\n\nRs\n\nmax\n[%]\n\nmin min height\n\n[m]\n\n:r.:c--\n\nII\n\nR,\n\nmin\n\n11'-'-'-\n\n~0.75~w~~-255)\n\nRs\n\n[m] [m]\n\n6(12)81\n\nclear\n[m]\n\n2.50\n\n(-0.50) ?;1.50\n\n0 Roadside footpath\n\n~\n\n10\n(2)11\n\n~~\n[2.00~ ~~0.25\"\n\n?;0.7S''L\n(?;0.50)1 (1.60)?;1.50\n(1.00)\n\nas for relevant\ntype of road\n\n30\n\n10\n\nFootpaths and Cycle Ways\n\n2.50\n\nL_\n\nAreas for walking should always be designed to be varied and\ninteresting, also taking into account likely children's usage.\nWeather protection can be provided by trees, arcades and maybe\nprotecting roofs. Roadside pavements should if possible not\nbe narrower than 2 m (of which 1.50 m min. width and 0.50 m\nsafety distance from the carriageway). A much wider pavement\nis, however, often appropriate. Near schools, shopping centres,\nleisure facilities etc., a min. width of 3 m is ideal. ~ 0- 0\nRoadside cycle ways should be min. 1.00 m wide for one-way\ntraffic and 2.00 m (min. 1.60 m) wide for two-way traffic, with\nsafety strips of 0.75 m added to the road. Combined footpaths\nand cycle ways should be 2.50 m (min. 2.00 m) wide ~ p. 384.\nPS/GS\n\n2.5%-..\n10\n(2)11\n\n3\n(4 in) <250 m) 81 30\n(8 in <30 m)81\n\n10\n\n?;0.75'~· l \"'4.00 I· h\"'0.75''\n\n(?;0.50) 1\n\ne\n\nh\n\n3\n(4 in <250 m)'l\n(8 in <30 m)81\n\n2.5%-..\n\n.......-2.5%\n\n,._2.5%\n\n..,_2.5'%\n\n0\n\n0.700.700.70\n\njP'~ +w1· G+ E·I·\nBasic widths for utilities and layout In road space\nE\n\n= electricity\n\nG\n\n\"' gas\n\n\"'water\nDH\n\"' district heating\nT\n= telephone cable\nCS\n= combined sewer\nFW\n= foul water drain\nRD\n= rainwater drain\nF\n= footpath\nR\n= cycle riding\nMV\n= motor vehicle\nPS/GS = parking or green strip\nW\n\n30\n\n10\n\n2.50\n\n(?;0.50)\n\nCycle track\n\n~~!.\n\nPS/GS\n\n2.50\n\ne\n10\n(2)1\n\nMV\n\nc\n\n6(12)81\n\n2.50\n\n~0.75M~0.2551\n\nIll\n\n(?; 0.50) \"'1.50\n\nf) Separate footpath\n\n~:I\n\n.\n\n30\n\n10\n(2)'1\n\n~0.75611. QJ_~0.255l\n\n3\n(4 over <250\n30\nm)81\n(8 over <30 m)81\n\n10\n\n==~~'-='==lijj\n\n2.50\n\n(?;o.sorr;:60f\n\ne\n\n!I\n\nSeparate cycle way\n3.0\n\n,~:oo;~ ~\n\n6(12)'1\n\nM;+-C\nROADS\n\n8\n\n::~\n\n:~\n\n-~===~11\n\n3.50\n(2.50)\n\nResidential access, not for vehicles\n\nStreet spaces\n\nTypes of road\nMotorways\nTraffic space\nInter-urban roads\nCross-sections\nIntersections\nFootpaths and\ncycle ways\nBicycle traffic/\nstorage\nTraffic calming\nNoise protection\n\nNotes\n11slight deviations from the given\n\ndimensions can be necessary to suit\nthe size of paving slabs\n1Smlo = 0.5% (drainage)\n3\n>length of non-vehicle residential access:\nup to 2 storeys \"'80 m, 3 storeys \"'60 m,\n4 and more storeys \"'50 m\n2\n\n4>with separated drainage system\n\n4.00-4.50 m\n'I additional width suggestions: continuous\nrows of trees require at least 2.50 m\nwide planting strip\nB) two-way traffic only in exceptional\n\ncases\n7) rounded out radius at intersections\n\n81in exceptional cases\n\nAbbreviations: ->\nP = pedestrian\nC = cyclist\n\n0- 0\n\nR 1 = radius of curves\n\nS\n\n= longitudinal slope\n\n1\n\nR 8 = rounded out brow radius\n\n11\n:~\n\nRs = rounded out dip radius\n\n0 -8 Pedestrian and cycle traffic areas\nflower bed\nspecial purpose areas\n\n~W'=~~\"\"\"\"\"'dll\n\nwith boilards 50/50\n\neli)- 0 Examples of the layout of street space in built-up areas\n\n382\n\n\f"
+        },
+        {
+          "label": "Longitudinal slope",
+          "value": 6.0,
+          "value_max": 12.0,
+          "unit": "%",
+          "context": "Design-parameter table; OCR prints 6(12), with a footnote marking exceptional cases.",
+          "status": "verified",
+          "ocr_raw": "cross-sections1!\n\nROADS\n\nValues of design parameters\n\n{values in brackets are\nminimum dimensions in\n\nexistin! built-up area)\n\nJl\n-2.25\n\nmin.\n\n/'\n\nszl\n\nRs\n\nmax\n[%]\n\nmin min height\n\n[m]\n\n:r.:c--\n\nII\n\nR,\n\nmin\n\n11'-'-'-\n\n~0.75~w~~-255)\n\nRs\n\n[m] [m]\n\n6(12)81\n\nclear\n[m]\n\n2.50\n\n(-0.50) ?;1.50\n\n0 Roadside footpath\n\n~\n\n10\n(2)11\n\n~~\n[2.00~ ~~0.25\"\n\n?;0.7S''L\n(?;0.50)1 (1.60)?;1.50\n(1.00)\n\nas for relevant\ntype of road\n\n30\n\n10\n\nFootpaths and Cycle Ways\n\n2.50\n\nL_\n\nAreas for walking should always be designed to be varied and\ninteresting, also taking into account likely children's usage.\nWeather protection can be provided by trees, arcades and maybe\nprotecting roofs. Roadside pavements should if possible not\nbe narrower than 2 m (of which 1.50 m min. width and 0.50 m\nsafety distance from the carriageway). A much wider pavement\nis, however, often appropriate. Near schools, shopping centres,\nleisure facilities etc., a min. width of 3 m is ideal. ~ 0- 0\nRoadside cycle ways should be min. 1.00 m wide for one-way\ntraffic and 2.00 m (min. 1.60 m) wide for two-way traffic, with\nsafety strips of 0.75 m added to the road. Combined footpaths\nand cycle ways should be 2.50 m (min. 2.00 m) wide ~ p. 384.\nPS/GS\n\n2.5%-..\n10\n(2)11\n\n3\n(4 in) <250 m) 81 30\n(8 in <30 m)81\n\n10\n\n?;0.75'~· l \"'4.00 I· h\"'0.75''\n\n(?;0.50) 1\n\ne\n\nh\n\n3\n(4 in <250 m)'l\n(8 in <30 m)81\n\n2.5%-..\n\n.......-2.5%\n\n,._2.5%\n\n..,_2.5'%\n\n0\n\n0.700.700.70\n\njP'~ +w1· G+ E·I·\nBasic widths for utilities and layout In road space\nE\n\n= electricity\n\nG\n\n\"' gas\n\n\"'water\nDH\n\"' district heating\nT\n= telephone cable\nCS\n= combined sewer\nFW\n= foul water drain\nRD\n= rainwater drain\nF\n= footpath\nR\n= cycle riding\nMV\n= motor vehicle\nPS/GS = parking or green strip\nW\n\n30\n\n10\n\n2.50\n\n(?;0.50)\n\nCycle track\n\n~~!.\n\nPS/GS\n\n2.50\n\ne\n10\n(2)1\n\nMV\n\nc\n\n6(12)81\n\n2.50\n\n~0.75M~0.2551\n\nIll\n\n(?; 0.50) \"'1.50\n\nf) Separate footpath\n\n~:I\n\n.\n\n30\n\n10\n(2)'1\n\n~0.75611. QJ_~0.255l\n\n3\n(4 over <250\n30\nm)81\n(8 over <30 m)81\n\n10\n\n==~~'-='==lijj\n\n2.50\n\n(?;o.sorr;:60f\n\ne\n\n!I\n\nSeparate cycle way\n3.0\n\n,~:oo;~ ~\n\n6(12)'1\n\nM;+-C\nROADS\n\n8\n\n::~\n\n:~\n\n-~===~11\n\n3.50\n(2.50)\n\nResidential access, not for vehicles\n\nStreet spaces\n\nTypes of road\nMotorways\nTraffic space\nInter-urban roads\nCross-sections\nIntersections\nFootpaths and\ncycle ways\nBicycle traffic/\nstorage\nTraffic calming\nNoise protection\n\nNotes\n11slight deviations from the given\n\ndimensions can be necessary to suit\nthe size of paving slabs\n1Smlo = 0.5% (drainage)\n3\n>length of non-vehicle residential access:\nup to 2 storeys \"'80 m, 3 storeys \"'60 m,\n4 and more storeys \"'50 m\n2\n\n4>with separated drainage system\n\n4.00-4.50 m\n'I additional width suggestions: continuous\nrows of trees require at least 2.50 m\nwide planting strip\nB) two-way traffic only in exceptional\n\ncases\n7) rounded out radius at intersections\n\n81in exceptional cases\n\nAbbreviations: ->\nP = pedestrian\nC = cyclist\n\n0- 0\n\nR 1 = radius of curves\n\nS\n\n= longitudinal slope\n\n1\n\nR 8 = rounded out brow radius\n\n11\n:~\n\nRs = rounded out dip radius\n\n0 -8 Pedestrian and cycle traffic areas\nflower bed\nspecial purpose areas\n\n~W'=~~\"\"\"\"\"'dll\n\nwith boilards 50/50\n\neli)- 0 Examples of the layout of street space in built-up areas\n\n382\n\n\f"
+        },
+        {
+          "label": "Longitudinal slope for some road entries",
+          "value": 3.0,
+          "value_max": null,
+          "unit": "%",
+          "context": "Design-parameter table; the associated parenthetical notes specify exceptional cases by length.",
+          "status": "verified",
+          "ocr_raw": "cross-sections1!\n\nROADS\n\nValues of design parameters\n\n{values in brackets are\nminimum dimensions in\n\nexistin! built-up area)\n\nJl\n-2.25\n\nmin.\n\n/'\n\nszl\n\nRs\n\nmax\n[%]\n\nmin min height\n\n[m]\n\n:r.:c--\n\nII\n\nR,\n\nmin\n\n11'-'-'-\n\n~0.75~w~~-255)\n\nRs\n\n[m] [m]\n\n6(12)81\n\nclear\n[m]\n\n2.50\n\n(-0.50) ?;1.50\n\n0 Roadside footpath\n\n~\n\n10\n(2)11\n\n~~\n[2.00~ ~~0.25\"\n\n?;0.7S''L\n(?;0.50)1 (1.60)?;1.50\n(1.00)\n\nas for relevant\ntype of road\n\n30\n\n10\n\nFootpaths and Cycle Ways\n\n2.50\n\nL_\n\nAreas for walking should always be designed to be varied and\ninteresting, also taking into account likely children's usage.\nWeather protection can be provided by trees, arcades and maybe\nprotecting roofs. Roadside pavements should if possible not\nbe narrower than 2 m (of which 1.50 m min. width and 0.50 m\nsafety distance from the carriageway). A much wider pavement\nis, however, often appropriate. Near schools, shopping centres,\nleisure facilities etc., a min. width of 3 m is ideal. ~ 0- 0\nRoadside cycle ways should be min. 1.00 m wide for one-way\ntraffic and 2.00 m (min. 1.60 m) wide for two-way traffic, with\nsafety strips of 0.75 m added to the road. Combined footpaths\nand cycle ways should be 2.50 m (min. 2.00 m) wide ~ p. 384.\nPS/GS\n\n2.5%-..\n10\n(2)11\n\n3\n(4 in) <250 m) 81 30\n(8 in <30 m)81\n\n10\n\n?;0.75'~· l \"'4.00 I· h\"'0.75''\n\n(?;0.50) 1\n\ne\n\nh\n\n3\n(4 in <250 m)'l\n(8 in <30 m)81\n\n2.5%-..\n\n.......-2.5%\n\n,._2.5%\n\n..,_2.5'%\n\n0\n\n0.700.700.70\n\njP'~ +w1· G+ E·I·\nBasic widths for utilities and layout In road space\nE\n\n= electricity\n\nG\n\n\"' gas\n\n\"'water\nDH\n\"' district heating\nT\n= telephone cable\nCS\n= combined sewer\nFW\n= foul water drain\nRD\n= rainwater drain\nF\n= footpath\nR\n= cycle riding\nMV\n= motor vehicle\nPS/GS = parking or green strip\nW\n\n30\n\n10\n\n2.50\n\n(?;0.50)\n\nCycle track\n\n~~!.\n\nPS/GS\n\n2.50\n\ne\n10\n(2)1\n\nMV\n\nc\n\n6(12)81\n\n2.50\n\n~0.75M~0.2551\n\nIll\n\n(?; 0.50) \"'1.50\n\nf) Separate footpath\n\n~:I\n\n.\n\n30\n\n10\n(2)'1\n\n~0.75611. QJ_~0.255l\n\n3\n(4 over <250\n30\nm)81\n(8 over <30 m)81\n\n10\n\n==~~'-='==lijj\n\n2.50\n\n(?;o.sorr;:60f\n\ne\n\n!I\n\nSeparate cycle way\n3.0\n\n,~:oo;~ ~\n\n6(12)'1\n\nM;+-C\nROADS\n\n8\n\n::~\n\n:~\n\n-~===~11\n\n3.50\n(2.50)\n\nResidential access, not for vehicles\n\nStreet spaces\n\nTypes of road\nMotorways\nTraffic space\nInter-urban roads\nCross-sections\nIntersections\nFootpaths and\ncycle ways\nBicycle traffic/\nstorage\nTraffic calming\nNoise protection\n\nNotes\n11slight deviations from the given\n\ndimensions can be necessary to suit\nthe size of paving slabs\n1Smlo = 0.5% (drainage)\n3\n>length of non-vehicle residential access:\nup to 2 storeys \"'80 m, 3 storeys \"'60 m,\n4 and more storeys \"'50 m\n2\n\n4>with separated drainage system\n\n4.00-4.50 m\n'I additional width suggestions: continuous\nrows of trees require at least 2.50 m\nwide planting strip\nB) two-way traffic only in exceptional\n\ncases\n7) rounded out radius at intersections\n\n81in exceptional cases\n\nAbbreviations: ->\nP = pedestrian\nC = cyclist\n\n0- 0\n\nR 1 = radius of curves\n\nS\n\n= longitudinal slope\n\n1\n\nR 8 = rounded out brow radius\n\n11\n:~\n\nRs = rounded out dip radius\n\n0 -8 Pedestrian and cycle traffic areas\nflower bed\nspecial purpose areas\n\n~W'=~~\"\"\"\"\"'dll\n\nwith boilards 50/50\n\neli)- 0 Examples of the layout of street space in built-up areas\n\n382\n\n\f"
+        },
+        {
+          "label": "Curve radius",
+          "value": 10.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "R₁ minimum, as shown in the design-parameter table.",
+          "status": "verified",
+          "ocr_raw": "cross-sections1!\n\nROADS\n\nValues of design parameters\n\n{values in brackets are\nminimum dimensions in\n\nexistin! built-up area)\n\nJl\n-2.25\n\nmin.\n\n/'\n\nszl\n\nRs\n\nmax\n[%]\n\nmin min height\n\n[m]\n\n:r.:c--\n\nII\n\nR,\n\nmin\n\n11'-'-'-\n\n~0.75~w~~-255)\n\nRs\n\n[m] [m]\n\n6(12)81\n\nclear\n[m]\n\n2.50\n\n(-0.50) ?;1.50\n\n0 Roadside footpath\n\n~\n\n10\n(2)11\n\n~~\n[2.00~ ~~0.25\"\n\n?;0.7S''L\n(?;0.50)1 (1.60)?;1.50\n(1.00)\n\nas for relevant\ntype of road\n\n30\n\n10\n\nFootpaths and Cycle Ways\n\n2.50\n\nL_\n\nAreas for walking should always be designed to be varied and\ninteresting, also taking into account likely children's usage.\nWeather protection can be provided by trees, arcades and maybe\nprotecting roofs. Roadside pavements should if possible not\nbe narrower than 2 m (of which 1.50 m min. width and 0.50 m\nsafety distance from the carriageway). A much wider pavement\nis, however, often appropriate. Near schools, shopping centres,\nleisure facilities etc., a min. width of 3 m is ideal. ~ 0- 0\nRoadside cycle ways should be min. 1.00 m wide for one-way\ntraffic and 2.00 m (min. 1.60 m) wide for two-way traffic, with\nsafety strips of 0.75 m added to the road. Combined footpaths\nand cycle ways should be 2.50 m (min. 2.00 m) wide ~ p. 384.\nPS/GS\n\n2.5%-..\n10\n(2)11\n\n3\n(4 in) <250 m) 81 30\n(8 in <30 m)81\n\n10\n\n?;0.75'~· l \"'4.00 I· h\"'0.75''\n\n(?;0.50) 1\n\ne\n\nh\n\n3\n(4 in <250 m)'l\n(8 in <30 m)81\n\n2.5%-..\n\n.......-2.5%\n\n,._2.5%\n\n..,_2.5'%\n\n0\n\n0.700.700.70\n\njP'~ +w1· G+ E·I·\nBasic widths for utilities and layout In road space\nE\n\n= electricity\n\nG\n\n\"' gas\n\n\"'water\nDH\n\"' district heating\nT\n= telephone cable\nCS\n= combined sewer\nFW\n= foul water drain\nRD\n= rainwater drain\nF\n= footpath\nR\n= cycle riding\nMV\n= motor vehicle\nPS/GS = parking or green strip\nW\n\n30\n\n10\n\n2.50\n\n(?;0.50)\n\nCycle track\n\n~~!.\n\nPS/GS\n\n2.50\n\ne\n10\n(2)1\n\nMV\n\nc\n\n6(12)81\n\n2.50\n\n~0.75M~0.2551\n\nIll\n\n(?; 0.50) \"'1.50\n\nf) Separate footpath\n\n~:I\n\n.\n\n30\n\n10\n(2)'1\n\n~0.75611. QJ_~0.255l\n\n3\n(4 over <250\n30\nm)81\n(8 over <30 m)81\n\n10\n\n==~~'-='==lijj\n\n2.50\n\n(?;o.sorr;:60f\n\ne\n\n!I\n\nSeparate cycle way\n3.0\n\n,~:oo;~ ~\n\n6(12)'1\n\nM;+-C\nROADS\n\n8\n\n::~\n\n:~\n\n-~===~11\n\n3.50\n(2.50)\n\nResidential access, not for vehicles\n\nStreet spaces\n\nTypes of road\nMotorways\nTraffic space\nInter-urban roads\nCross-sections\nIntersections\nFootpaths and\ncycle ways\nBicycle traffic/\nstorage\nTraffic calming\nNoise protection\n\nNotes\n11slight deviations from the given\n\ndimensions can be necessary to suit\nthe size of paving slabs\n1Smlo = 0.5% (drainage)\n3\n>length of non-vehicle residential access:\nup to 2 storeys \"'80 m, 3 storeys \"'60 m,\n4 and more storeys \"'50 m\n2\n\n4>with separated drainage system\n\n4.00-4.50 m\n'I additional width suggestions: continuous\nrows of trees require at least 2.50 m\nwide planting strip\nB) two-way traffic only in exceptional\n\ncases\n7) rounded out radius at intersections\n\n81in exceptional cases\n\nAbbreviations: ->\nP = pedestrian\nC = cyclist\n\n0- 0\n\nR 1 = radius of curves\n\nS\n\n= longitudinal slope\n\n1\n\nR 8 = rounded out brow radius\n\n11\n:~\n\nRs = rounded out dip radius\n\n0 -8 Pedestrian and cycle traffic areas\nflower bed\nspecial purpose areas\n\n~W'=~~\"\"\"\"\"'dll\n\nwith boilards 50/50\n\neli)- 0 Examples of the layout of street space in built-up areas\n\n382\n\n\f"
+        },
+        {
+          "label": "Rounded out brow radius",
+          "value": 30.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Rᵦ minimum, as shown in the design-parameter table.",
+          "status": "verified",
+          "ocr_raw": "cross-sections1!\n\nROADS\n\nValues of design parameters\n\n{values in brackets are\nminimum dimensions in\n\nexistin! built-up area)\n\nJl\n-2.25\n\nmin.\n\n/'\n\nszl\n\nRs\n\nmax\n[%]\n\nmin min height\n\n[m]\n\n:r.:c--\n\nII\n\nR,\n\nmin\n\n11'-'-'-\n\n~0.75~w~~-255)\n\nRs\n\n[m] [m]\n\n6(12)81\n\nclear\n[m]\n\n2.50\n\n(-0.50) ?;1.50\n\n0 Roadside footpath\n\n~\n\n10\n(2)11\n\n~~\n[2.00~ ~~0.25\"\n\n?;0.7S''L\n(?;0.50)1 (1.60)?;1.50\n(1.00)\n\nas for relevant\ntype of road\n\n30\n\n10\n\nFootpaths and Cycle Ways\n\n2.50\n\nL_\n\nAreas for walking should always be designed to be varied and\ninteresting, also taking into account likely children's usage.\nWeather protection can be provided by trees, arcades and maybe\nprotecting roofs. Roadside pavements should if possible not\nbe narrower than 2 m (of which 1.50 m min. width and 0.50 m\nsafety distance from the carriageway). A much wider pavement\nis, however, often appropriate. Near schools, shopping centres,\nleisure facilities etc., a min. width of 3 m is ideal. ~ 0- 0\nRoadside cycle ways should be min. 1.00 m wide for one-way\ntraffic and 2.00 m (min. 1.60 m) wide for two-way traffic, with\nsafety strips of 0.75 m added to the road. Combined footpaths\nand cycle ways should be 2.50 m (min. 2.00 m) wide ~ p. 384.\nPS/GS\n\n2.5%-..\n10\n(2)11\n\n3\n(4 in) <250 m) 81 30\n(8 in <30 m)81\n\n10\n\n?;0.75'~· l \"'4.00 I· h\"'0.75''\n\n(?;0.50) 1\n\ne\n\nh\n\n3\n(4 in <250 m)'l\n(8 in <30 m)81\n\n2.5%-..\n\n.......-2.5%\n\n,._2.5%\n\n..,_2.5'%\n\n0\n\n0.700.700.70\n\njP'~ +w1· G+ E·I·\nBasic widths for utilities and layout In road space\nE\n\n= electricity\n\nG\n\n\"' gas\n\n\"'water\nDH\n\"' district heating\nT\n= telephone cable\nCS\n= combined sewer\nFW\n= foul water drain\nRD\n= rainwater drain\nF\n= footpath\nR\n= cycle riding\nMV\n= motor vehicle\nPS/GS = parking or green strip\nW\n\n30\n\n10\n\n2.50\n\n(?;0.50)\n\nCycle track\n\n~~!.\n\nPS/GS\n\n2.50\n\ne\n10\n(2)1\n\nMV\n\nc\n\n6(12)81\n\n2.50\n\n~0.75M~0.2551\n\nIll\n\n(?; 0.50) \"'1.50\n\nf) Separate footpath\n\n~:I\n\n.\n\n30\n\n10\n(2)'1\n\n~0.75611. QJ_~0.255l\n\n3\n(4 over <250\n30\nm)81\n(8 over <30 m)81\n\n10\n\n==~~'-='==lijj\n\n2.50\n\n(?;o.sorr;:60f\n\ne\n\n!I\n\nSeparate cycle way\n3.0\n\n,~:oo;~ ~\n\n6(12)'1\n\nM;+-C\nROADS\n\n8\n\n::~\n\n:~\n\n-~===~11\n\n3.50\n(2.50)\n\nResidential access, not for vehicles\n\nStreet spaces\n\nTypes of road\nMotorways\nTraffic space\nInter-urban roads\nCross-sections\nIntersections\nFootpaths and\ncycle ways\nBicycle traffic/\nstorage\nTraffic calming\nNoise protection\n\nNotes\n11slight deviations from the given\n\ndimensions can be necessary to suit\nthe size of paving slabs\n1Smlo = 0.5% (drainage)\n3\n>length of non-vehicle residential access:\nup to 2 storeys \"'80 m, 3 storeys \"'60 m,\n4 and more storeys \"'50 m\n2\n\n4>with separated drainage system\n\n4.00-4.50 m\n'I additional width suggestions: continuous\nrows of trees require at least 2.50 m\nwide planting strip\nB) two-way traffic only in exceptional\n\ncases\n7) rounded out radius at intersections\n\n81in exceptional cases\n\nAbbreviations: ->\nP = pedestrian\nC = cyclist\n\n0- 0\n\nR 1 = radius of curves\n\nS\n\n= longitudinal slope\n\n1\n\nR 8 = rounded out brow radius\n\n11\n:~\n\nRs = rounded out dip radius\n\n0 -8 Pedestrian and cycle traffic areas\nflower bed\nspecial purpose areas\n\n~W'=~~\"\"\"\"\"'dll\n\nwith boilards 50/50\n\neli)- 0 Examples of the layout of street space in built-up areas\n\n382\n\n\f"
+        },
+        {
+          "label": "Rounded out dip radius",
+          "value": 10.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Rₛ minimum, as shown in the design-parameter table.",
+          "status": "verified",
+          "ocr_raw": "cross-sections1!\n\nROADS\n\nValues of design parameters\n\n{values in brackets are\nminimum dimensions in\n\nexistin! built-up area)\n\nJl\n-2.25\n\nmin.\n\n/'\n\nszl\n\nRs\n\nmax\n[%]\n\nmin min height\n\n[m]\n\n:r.:c--\n\nII\n\nR,\n\nmin\n\n11'-'-'-\n\n~0.75~w~~-255)\n\nRs\n\n[m] [m]\n\n6(12)81\n\nclear\n[m]\n\n2.50\n\n(-0.50) ?;1.50\n\n0 Roadside footpath\n\n~\n\n10\n(2)11\n\n~~\n[2.00~ ~~0.25\"\n\n?;0.7S''L\n(?;0.50)1 (1.60)?;1.50\n(1.00)\n\nas for relevant\ntype of road\n\n30\n\n10\n\nFootpaths and Cycle Ways\n\n2.50\n\nL_\n\nAreas for walking should always be designed to be varied and\ninteresting, also taking into account likely children's usage.\nWeather protection can be provided by trees, arcades and maybe\nprotecting roofs. Roadside pavements should if possible not\nbe narrower than 2 m (of which 1.50 m min. width and 0.50 m\nsafety distance from the carriageway). A much wider pavement\nis, however, often appropriate. Near schools, shopping centres,\nleisure facilities etc., a min. width of 3 m is ideal. ~ 0- 0\nRoadside cycle ways should be min. 1.00 m wide for one-way\ntraffic and 2.00 m (min. 1.60 m) wide for two-way traffic, with\nsafety strips of 0.75 m added to the road. Combined footpaths\nand cycle ways should be 2.50 m (min. 2.00 m) wide ~ p. 384.\nPS/GS\n\n2.5%-..\n10\n(2)11\n\n3\n(4 in) <250 m) 81 30\n(8 in <30 m)81\n\n10\n\n?;0.75'~· l \"'4.00 I· h\"'0.75''\n\n(?;0.50) 1\n\ne\n\nh\n\n3\n(4 in <250 m)'l\n(8 in <30 m)81\n\n2.5%-..\n\n.......-2.5%\n\n,._2.5%\n\n..,_2.5'%\n\n0\n\n0.700.700.70\n\njP'~ +w1· G+ E·I·\nBasic widths for utilities and layout In road space\nE\n\n= electricity\n\nG\n\n\"' gas\n\n\"'water\nDH\n\"' district heating\nT\n= telephone cable\nCS\n= combined sewer\nFW\n= foul water drain\nRD\n= rainwater drain\nF\n= footpath\nR\n= cycle riding\nMV\n= motor vehicle\nPS/GS = parking or green strip\nW\n\n30\n\n10\n\n2.50\n\n(?;0.50)\n\nCycle track\n\n~~!.\n\nPS/GS\n\n2.50\n\ne\n10\n(2)1\n\nMV\n\nc\n\n6(12)81\n\n2.50\n\n~0.75M~0.2551\n\nIll\n\n(?; 0.50) \"'1.50\n\nf) Separate footpath\n\n~:I\n\n.\n\n30\n\n10\n(2)'1\n\n~0.75611. QJ_~0.255l\n\n3\n(4 over <250\n30\nm)81\n(8 over <30 m)81\n\n10\n\n==~~'-='==lijj\n\n2.50\n\n(?;o.sorr;:60f\n\ne\n\n!I\n\nSeparate cycle way\n3.0\n\n,~:oo;~ ~\n\n6(12)'1\n\nM;+-C\nROADS\n\n8\n\n::~\n\n:~\n\n-~===~11\n\n3.50\n(2.50)\n\nResidential access, not for vehicles\n\nStreet spaces\n\nTypes of road\nMotorways\nTraffic space\nInter-urban roads\nCross-sections\nIntersections\nFootpaths and\ncycle ways\nBicycle traffic/\nstorage\nTraffic calming\nNoise protection\n\nNotes\n11slight deviations from the given\n\ndimensions can be necessary to suit\nthe size of paving slabs\n1Smlo = 0.5% (drainage)\n3\n>length of non-vehicle residential access:\nup to 2 storeys \"'80 m, 3 storeys \"'60 m,\n4 and more storeys \"'50 m\n2\n\n4>with separated drainage system\n\n4.00-4.50 m\n'I additional width suggestions: continuous\nrows of trees require at least 2.50 m\nwide planting strip\nB) two-way traffic only in exceptional\n\ncases\n7) rounded out radius at intersections\n\n81in exceptional cases\n\nAbbreviations: ->\nP = pedestrian\nC = cyclist\n\n0- 0\n\nR 1 = radius of curves\n\nS\n\n= longitudinal slope\n\n1\n\nR 8 = rounded out brow radius\n\n11\n:~\n\nRs = rounded out dip radius\n\n0 -8 Pedestrian and cycle traffic areas\nflower bed\nspecial purpose areas\n\n~W'=~~\"\"\"\"\"'dll\n\nwith boilards 50/50\n\neli)- 0 Examples of the layout of street space in built-up areas\n\n382\n\n\f"
+        },
+        {
+          "label": "Footpath width in separate footpath diagram",
+          "value": 1.5,
+          "value_max": null,
+          "unit": "m",
+          "context": "Diagram labels the width as at least 1.50 m; safety offsets are shown separately.",
+          "status": "uncertain",
+          "ocr_raw": "cross-sections1!\n\nROADS\n\nValues of design parameters\n\n{values in brackets are\nminimum dimensions in\n\nexistin! built-up area)\n\nJl\n-2.25\n\nmin.\n\n/'\n\nszl\n\nRs\n\nmax\n[%]\n\nmin min height\n\n[m]\n\n:r.:c--\n\nII\n\nR,\n\nmin\n\n11'-'-'-\n\n~0.75~w~~-255)\n\nRs\n\n[m] [m]\n\n6(12)81\n\nclear\n[m]\n\n2.50\n\n(-0.50) ?;1.50\n\n0 Roadside footpath\n\n~\n\n10\n(2)11\n\n~~\n[2.00~ ~~0.25\"\n\n?;0.7S''L\n(?;0.50)1 (1.60)?;1.50\n(1.00)\n\nas for relevant\ntype of road\n\n30\n\n10\n\nFootpaths and Cycle Ways\n\n2.50\n\nL_\n\nAreas for walking should always be designed to be varied and\ninteresting, also taking into account likely children's usage.\nWeather protection can be provided by trees, arcades and maybe\nprotecting roofs. Roadside pavements should if possible not\nbe narrower than 2 m (of which 1.50 m min. width and 0.50 m\nsafety distance from the carriageway). A much wider pavement\nis, however, often appropriate. Near schools, shopping centres,\nleisure facilities etc., a min. width of 3 m is ideal. ~ 0- 0\nRoadside cycle ways should be min. 1.00 m wide for one-way\ntraffic and 2.00 m (min. 1.60 m) wide for two-way traffic, with\nsafety strips of 0.75 m added to the road. Combined footpaths\nand cycle ways should be 2.50 m (min. 2.00 m) wide ~ p. 384.\nPS/GS\n\n2.5%-..\n10\n(2)11\n\n3\n(4 in) <250 m) 81 30\n(8 in <30 m)81\n\n10\n\n?;0.75'~· l \"'4.00 I· h\"'0.75''\n\n(?;0.50) 1\n\ne\n\nh\n\n3\n(4 in <250 m)'l\n(8 in <30 m)81\n\n2.5%-..\n\n.......-2.5%\n\n,._2.5%\n\n..,_2.5'%\n\n0\n\n0.700.700.70\n\njP'~ +w1· G+ E·I·\nBasic widths for utilities and layout In road space\nE\n\n= electricity\n\nG\n\n\"' gas\n\n\"'water\nDH\n\"' district heating\nT\n= telephone cable\nCS\n= combined sewer\nFW\n= foul water drain\nRD\n= rainwater drain\nF\n= footpath\nR\n= cycle riding\nMV\n= motor vehicle\nPS/GS = parking or green strip\nW\n\n30\n\n10\n\n2.50\n\n(?;0.50)\n\nCycle track\n\n~~!.\n\nPS/GS\n\n2.50\n\ne\n10\n(2)1\n\nMV\n\nc\n\n6(12)81\n\n2.50\n\n~0.75M~0.2551\n\nIll\n\n(?; 0.50) \"'1.50\n\nf) Separate footpath\n\n~:I\n\n.\n\n30\n\n10\n(2)'1\n\n~0.75611. QJ_~0.255l\n\n3\n(4 over <250\n30\nm)81\n(8 over <30 m)81\n\n10\n\n==~~'-='==lijj\n\n2.50\n\n(?;o.sorr;:60f\n\ne\n\n!I\n\nSeparate cycle way\n3.0\n\n,~:oo;~ ~\n\n6(12)'1\n\nM;+-C\nROADS\n\n8\n\n::~\n\n:~\n\n-~===~11\n\n3.50\n(2.50)\n\nResidential access, not for vehicles\n\nStreet spaces\n\nTypes of road\nMotorways\nTraffic space\nInter-urban roads\nCross-sections\nIntersections\nFootpaths and\ncycle ways\nBicycle traffic/\nstorage\nTraffic calming\nNoise protection\n\nNotes\n11slight deviations from the given\n\ndimensions can be necessary to suit\nthe size of paving slabs\n1Smlo = 0.5% (drainage)\n3\n>length of non-vehicle residential access:\nup to 2 storeys \"'80 m, 3 storeys \"'60 m,\n4 and more storeys \"'50 m\n2\n\n4>with separated drainage system\n\n4.00-4.50 m\n'I additional width suggestions: continuous\nrows of trees require at least 2.50 m\nwide planting strip\nB) two-way traffic only in exceptional\n\ncases\n7) rounded out radius at intersections\n\n81in exceptional cases\n\nAbbreviations: ->\nP = pedestrian\nC = cyclist\n\n0- 0\n\nR 1 = radius of curves\n\nS\n\n= longitudinal slope\n\n1\n\nR 8 = rounded out brow radius\n\n11\n:~\n\nRs = rounded out dip radius\n\n0 -8 Pedestrian and cycle traffic areas\nflower bed\nspecial purpose areas\n\n~W'=~~\"\"\"\"\"'dll\n\nwith boilards 50/50\n\neli)- 0 Examples of the layout of street space in built-up areas\n\n382\n\n\f"
+        },
+        {
+          "label": "Combined footpath and cycleway width in diagram",
+          "value": 2.5,
+          "value_max": null,
+          "unit": "m",
+          "context": "Diagram label for combined footpath and cycleway.",
+          "status": "uncertain",
+          "ocr_raw": "2.50"
+        },
+        {
+          "label": "Cycle track width in diagram",
+          "value": 4.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Diagram label for cycle track; nearby safety offsets are separate.",
+          "status": "uncertain",
+          "ocr_raw": "cross-sections1!\n\nROADS\n\nValues of design parameters\n\n{values in brackets are\nminimum dimensions in\n\nexistin! built-up area)\n\nJl\n-2.25\n\nmin.\n\n/'\n\nszl\n\nRs\n\nmax\n[%]\n\nmin min height\n\n[m]\n\n:r.:c--\n\nII\n\nR,\n\nmin\n\n11'-'-'-\n\n~0.75~w~~-255)\n\nRs\n\n[m] [m]\n\n6(12)81\n\nclear\n[m]\n\n2.50\n\n(-0.50) ?;1.50\n\n0 Roadside footpath\n\n~\n\n10\n(2)11\n\n~~\n[2.00~ ~~0.25\"\n\n?;0.7S''L\n(?;0.50)1 (1.60)?;1.50\n(1.00)\n\nas for relevant\ntype of road\n\n30\n\n10\n\nFootpaths and Cycle Ways\n\n2.50\n\nL_\n\nAreas for walking should always be designed to be varied and\ninteresting, also taking into account likely children's usage.\nWeather protection can be provided by trees, arcades and maybe\nprotecting roofs. Roadside pavements should if possible not\nbe narrower than 2 m (of which 1.50 m min. width and 0.50 m\nsafety distance from the carriageway). A much wider pavement\nis, however, often appropriate. Near schools, shopping centres,\nleisure facilities etc., a min. width of 3 m is ideal. ~ 0- 0\nRoadside cycle ways should be min. 1.00 m wide for one-way\ntraffic and 2.00 m (min. 1.60 m) wide for two-way traffic, with\nsafety strips of 0.75 m added to the road. Combined footpaths\nand cycle ways should be 2.50 m (min. 2.00 m) wide ~ p. 384.\nPS/GS\n\n2.5%-..\n10\n(2)11\n\n3\n(4 in) <250 m) 81 30\n(8 in <30 m)81\n\n10\n\n?;0.75'~· l \"'4.00 I· h\"'0.75''\n\n(?;0.50) 1\n\ne\n\nh\n\n3\n(4 in <250 m)'l\n(8 in <30 m)81\n\n2.5%-..\n\n.......-2.5%\n\n,._2.5%\n\n..,_2.5'%\n\n0\n\n0.700.700.70\n\njP'~ +w1· G+ E·I·\nBasic widths for utilities and layout In road space\nE\n\n= electricity\n\nG\n\n\"' gas\n\n\"'water\nDH\n\"' district heating\nT\n= telephone cable\nCS\n= combined sewer\nFW\n= foul water drain\nRD\n= rainwater drain\nF\n= footpath\nR\n= cycle riding\nMV\n= motor vehicle\nPS/GS = parking or green strip\nW\n\n30\n\n10\n\n2.50\n\n(?;0.50)\n\nCycle track\n\n~~!.\n\nPS/GS\n\n2.50\n\ne\n10\n(2)1\n\nMV\n\nc\n\n6(12)81\n\n2.50\n\n~0.75M~0.2551\n\nIll\n\n(?; 0.50) \"'1.50\n\nf) Separate footpath\n\n~:I\n\n.\n\n30\n\n10\n(2)'1\n\n~0.75611. QJ_~0.255l\n\n3\n(4 over <250\n30\nm)81\n(8 over <30 m)81\n\n10\n\n==~~'-='==lijj\n\n2.50\n\n(?;o.sorr;:60f\n\ne\n\n!I\n\nSeparate cycle way\n3.0\n\n,~:oo;~ ~\n\n6(12)'1\n\nM;+-C\nROADS\n\n8\n\n::~\n\n:~\n\n-~===~11\n\n3.50\n(2.50)\n\nResidential access, not for vehicles\n\nStreet spaces\n\nTypes of road\nMotorways\nTraffic space\nInter-urban roads\nCross-sections\nIntersections\nFootpaths and\ncycle ways\nBicycle traffic/\nstorage\nTraffic calming\nNoise protection\n\nNotes\n11slight deviations from the given\n\ndimensions can be necessary to suit\nthe size of paving slabs\n1Smlo = 0.5% (drainage)\n3\n>length of non-vehicle residential access:\nup to 2 storeys \"'80 m, 3 storeys \"'60 m,\n4 and more storeys \"'50 m\n2\n\n4>with separated drainage system\n\n4.00-4.50 m\n'I additional width suggestions: continuous\nrows of trees require at least 2.50 m\nwide planting strip\nB) two-way traffic only in exceptional\n\ncases\n7) rounded out radius at intersections\n\n81in exceptional cases\n\nAbbreviations: ->\nP = pedestrian\nC = cyclist\n\n0- 0\n\nR 1 = radius of curves\n\nS\n\n= longitudinal slope\n\n1\n\nR 8 = rounded out brow radius\n\n11\n:~\n\nRs = rounded out dip radius\n\n0 -8 Pedestrian and cycle traffic areas\nflower bed\nspecial purpose areas\n\n~W'=~~\"\"\"\"\"'dll\n\nwith boilards 50/50\n\neli)- 0 Examples of the layout of street space in built-up areas\n\n382\n\n\f"
+        }
+      ],
+      "figure_refs": [
+        "1–7 — Pedestrian and cycle traffic areas"
+      ],
+      "cross_refs": [],
+      "keywords": [
+        "road cross-section",
+        "design parameters",
+        "longitudinal slope",
+        "curve radius",
+        "drainage",
+        "clear height"
+      ],
+      "tags_architectural": [
+        "circulation",
+        "clearance",
+        "safety"
+      ],
+      "confidence": 0.76
+    },
+    {
+      "id": "4122fb96e4bd1976-395-vision-2",
+      "pdf_page": 395,
+      "book_page": 382,
+      "chapter": "TRANSPORT",
+      "section": "Roads",
+      "title": "Street-Space Layouts in Built-Up Areas",
+      "summary": "Examples illustrate the allocation of street space among pedestrian and cycle routes, parking, planting, utilities, and motor-vehicle space. The page lists utility abbreviations and notes additional planting-strip width guidance and non-vehicle residential-access lengths.",
+      "building_type": "Urban street and public-realm infrastructure",
+      "spaces": [
+        "Footpaths",
+        "Cycle routes",
+        "Roadway",
+        "Parking bays",
+        "Planting strips",
+        "Utility corridors",
+        "Residential access"
+      ],
+      "uses": [
+        "Street-space planning",
+        "Utility coordination",
+        "Pedestrian and bicycle circulation",
+        "Parking",
+        "Street-tree planting"
+      ],
+      "furniture_equipment": [
+        "Trees",
+        "Bollards",
+        "Flower beds",
+        "Parking bays",
+        "Utility services"
+      ],
+      "dimensions": [
+        {
+          "label": "Continuous tree planting strip width",
+          "value": 2.5,
+          "value_max": null,
+          "unit": "m",
+          "context": "Additional width suggestion: continuous rows of trees require at least this planting-strip width.",
+          "status": "verified",
+          "ocr_raw": "continuous\nrows of trees require at least 2.50 m\nwide planting strip"
+        },
+        {
+          "label": "Non-vehicle residential access length, up to 2 storeys",
+          "value": 80.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Maximum length stated in the notes for residential access serving up to 2 storeys.",
+          "status": "verified",
+          "ocr_raw": "cross-sections1!\n\nROADS\n\nValues of design parameters\n\n{values in brackets are\nminimum dimensions in\n\nexistin! built-up area)\n\nJl\n-2.25\n\nmin.\n\n/'\n\nszl\n\nRs\n\nmax\n[%]\n\nmin min height\n\n[m]\n\n:r.:c--\n\nII\n\nR,\n\nmin\n\n11'-'-'-\n\n~0.75~w~~-255)\n\nRs\n\n[m] [m]\n\n6(12)81\n\nclear\n[m]\n\n2.50\n\n(-0.50) ?;1.50\n\n0 Roadside footpath\n\n~\n\n10\n(2)11\n\n~~\n[2.00~ ~~0.25\"\n\n?;0.7S''L\n(?;0.50)1 (1.60)?;1.50\n(1.00)\n\nas for relevant\ntype of road\n\n30\n\n10\n\nFootpaths and Cycle Ways\n\n2.50\n\nL_\n\nAreas for walking should always be designed to be varied and\ninteresting, also taking into account likely children's usage.\nWeather protection can be provided by trees, arcades and maybe\nprotecting roofs. Roadside pavements should if possible not\nbe narrower than 2 m (of which 1.50 m min. width and 0.50 m\nsafety distance from the carriageway). A much wider pavement\nis, however, often appropriate. Near schools, shopping centres,\nleisure facilities etc., a min. width of 3 m is ideal. ~ 0- 0\nRoadside cycle ways should be min. 1.00 m wide for one-way\ntraffic and 2.00 m (min. 1.60 m) wide for two-way traffic, with\nsafety strips of 0.75 m added to the road. Combined footpaths\nand cycle ways should be 2.50 m (min. 2.00 m) wide ~ p. 384.\nPS/GS\n\n2.5%-..\n10\n(2)11\n\n3\n(4 in) <250 m) 81 30\n(8 in <30 m)81\n\n10\n\n?;0.75'~· l \"'4.00 I· h\"'0.75''\n\n(?;0.50) 1\n\ne\n\nh\n\n3\n(4 in <250 m)'l\n(8 in <30 m)81\n\n2.5%-..\n\n.......-2.5%\n\n,._2.5%\n\n..,_2.5'%\n\n0\n\n0.700.700.70\n\njP'~ +w1· G+ E·I·\nBasic widths for utilities and layout In road space\nE\n\n= electricity\n\nG\n\n\"' gas\n\n\"'water\nDH\n\"' district heating\nT\n= telephone cable\nCS\n= combined sewer\nFW\n= foul water drain\nRD\n= rainwater drain\nF\n= footpath\nR\n= cycle riding\nMV\n= motor vehicle\nPS/GS = parking or green strip\nW\n\n30\n\n10\n\n2.50\n\n(?;0.50)\n\nCycle track\n\n~~!.\n\nPS/GS\n\n2.50\n\ne\n10\n(2)1\n\nMV\n\nc\n\n6(12)81\n\n2.50\n\n~0.75M~0.2551\n\nIll\n\n(?; 0.50) \"'1.50\n\nf) Separate footpath\n\n~:I\n\n.\n\n30\n\n10\n(2)'1\n\n~0.75611. QJ_~0.255l\n\n3\n(4 over <250\n30\nm)81\n(8 over <30 m)81\n\n10\n\n==~~'-='==lijj\n\n2.50\n\n(?;o.sorr;:60f\n\ne\n\n!I\n\nSeparate cycle way\n3.0\n\n,~:oo;~ ~\n\n6(12)'1\n\nM;+-C\nROADS\n\n8\n\n::~\n\n:~\n\n-~===~11\n\n3.50\n(2.50)\n\nResidential access, not for vehicles\n\nStreet spaces\n\nTypes of road\nMotorways\nTraffic space\nInter-urban roads\nCross-sections\nIntersections\nFootpaths and\ncycle ways\nBicycle traffic/\nstorage\nTraffic calming\nNoise protection\n\nNotes\n11slight deviations from the given\n\ndimensions can be necessary to suit\nthe size of paving slabs\n1Smlo = 0.5% (drainage)\n3\n>length of non-vehicle residential access:\nup to 2 storeys \"'80 m, 3 storeys \"'60 m,\n4 and more storeys \"'50 m\n2\n\n4>with separated drainage system\n\n4.00-4.50 m\n'I additional width suggestions: continuous\nrows of trees require at least 2.50 m\nwide planting strip\nB) two-way traffic only in exceptional\n\ncases\n7) rounded out radius at intersections\n\n81in exceptional cases\n\nAbbreviations: ->\nP = pedestrian\nC = cyclist\n\n0- 0\n\nR 1 = radius of curves\n\nS\n\n= longitudinal slope\n\n1\n\nR 8 = rounded out brow radius\n\n11\n:~\n\nRs = rounded out dip radius\n\n0 -8 Pedestrian and cycle traffic areas\nflower bed\nspecial purpose areas\n\n~W'=~~\"\"\"\"\"'dll\n\nwith boilards 50/50\n\neli)- 0 Examples of the layout of street space in built-up areas\n\n382\n\n\f"
+        },
+        {
+          "label": "Non-vehicle residential access length, 3 storeys",
+          "value": 60.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Maximum length stated in the notes for residential access serving 3 storeys.",
+          "status": "verified",
+          "ocr_raw": "cross-sections1!\n\nROADS\n\nValues of design parameters\n\n{values in brackets are\nminimum dimensions in\n\nexistin! built-up area)\n\nJl\n-2.25\n\nmin.\n\n/'\n\nszl\n\nRs\n\nmax\n[%]\n\nmin min height\n\n[m]\n\n:r.:c--\n\nII\n\nR,\n\nmin\n\n11'-'-'-\n\n~0.75~w~~-255)\n\nRs\n\n[m] [m]\n\n6(12)81\n\nclear\n[m]\n\n2.50\n\n(-0.50) ?;1.50\n\n0 Roadside footpath\n\n~\n\n10\n(2)11\n\n~~\n[2.00~ ~~0.25\"\n\n?;0.7S''L\n(?;0.50)1 (1.60)?;1.50\n(1.00)\n\nas for relevant\ntype of road\n\n30\n\n10\n\nFootpaths and Cycle Ways\n\n2.50\n\nL_\n\nAreas for walking should always be designed to be varied and\ninteresting, also taking into account likely children's usage.\nWeather protection can be provided by trees, arcades and maybe\nprotecting roofs. Roadside pavements should if possible not\nbe narrower than 2 m (of which 1.50 m min. width and 0.50 m\nsafety distance from the carriageway). A much wider pavement\nis, however, often appropriate. Near schools, shopping centres,\nleisure facilities etc., a min. width of 3 m is ideal. ~ 0- 0\nRoadside cycle ways should be min. 1.00 m wide for one-way\ntraffic and 2.00 m (min. 1.60 m) wide for two-way traffic, with\nsafety strips of 0.75 m added to the road. Combined footpaths\nand cycle ways should be 2.50 m (min. 2.00 m) wide ~ p. 384.\nPS/GS\n\n2.5%-..\n10\n(2)11\n\n3\n(4 in) <250 m) 81 30\n(8 in <30 m)81\n\n10\n\n?;0.75'~· l \"'4.00 I· h\"'0.75''\n\n(?;0.50) 1\n\ne\n\nh\n\n3\n(4 in <250 m)'l\n(8 in <30 m)81\n\n2.5%-..\n\n.......-2.5%\n\n,._2.5%\n\n..,_2.5'%\n\n0\n\n0.700.700.70\n\njP'~ +w1· G+ E·I·\nBasic widths for utilities and layout In road space\nE\n\n= electricity\n\nG\n\n\"' gas\n\n\"'water\nDH\n\"' district heating\nT\n= telephone cable\nCS\n= combined sewer\nFW\n= foul water drain\nRD\n= rainwater drain\nF\n= footpath\nR\n= cycle riding\nMV\n= motor vehicle\nPS/GS = parking or green strip\nW\n\n30\n\n10\n\n2.50\n\n(?;0.50)\n\nCycle track\n\n~~!.\n\nPS/GS\n\n2.50\n\ne\n10\n(2)1\n\nMV\n\nc\n\n6(12)81\n\n2.50\n\n~0.75M~0.2551\n\nIll\n\n(?; 0.50) \"'1.50\n\nf) Separate footpath\n\n~:I\n\n.\n\n30\n\n10\n(2)'1\n\n~0.75611. QJ_~0.255l\n\n3\n(4 over <250\n30\nm)81\n(8 over <30 m)81\n\n10\n\n==~~'-='==lijj\n\n2.50\n\n(?;o.sorr;:60f\n\ne\n\n!I\n\nSeparate cycle way\n3.0\n\n,~:oo;~ ~\n\n6(12)'1\n\nM;+-C\nROADS\n\n8\n\n::~\n\n:~\n\n-~===~11\n\n3.50\n(2.50)\n\nResidential access, not for vehicles\n\nStreet spaces\n\nTypes of road\nMotorways\nTraffic space\nInter-urban roads\nCross-sections\nIntersections\nFootpaths and\ncycle ways\nBicycle traffic/\nstorage\nTraffic calming\nNoise protection\n\nNotes\n11slight deviations from the given\n\ndimensions can be necessary to suit\nthe size of paving slabs\n1Smlo = 0.5% (drainage)\n3\n>length of non-vehicle residential access:\nup to 2 storeys \"'80 m, 3 storeys \"'60 m,\n4 and more storeys \"'50 m\n2\n\n4>with separated drainage system\n\n4.00-4.50 m\n'I additional width suggestions: continuous\nrows of trees require at least 2.50 m\nwide planting strip\nB) two-way traffic only in exceptional\n\ncases\n7) rounded out radius at intersections\n\n81in exceptional cases\n\nAbbreviations: ->\nP = pedestrian\nC = cyclist\n\n0- 0\n\nR 1 = radius of curves\n\nS\n\n= longitudinal slope\n\n1\n\nR 8 = rounded out brow radius\n\n11\n:~\n\nRs = rounded out dip radius\n\n0 -8 Pedestrian and cycle traffic areas\nflower bed\nspecial purpose areas\n\n~W'=~~\"\"\"\"\"'dll\n\nwith boilards 50/50\n\neli)- 0 Examples of the layout of street space in built-up areas\n\n382\n\n\f"
+        },
+        {
+          "label": "Non-vehicle residential access length, 4 or more storeys",
+          "value": 50.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Maximum length stated in the notes for residential access serving 4 and more storeys.",
+          "status": "verified",
+          "ocr_raw": "cross-sections1!\n\nROADS\n\nValues of design parameters\n\n{values in brackets are\nminimum dimensions in\n\nexistin! built-up area)\n\nJl\n-2.25\n\nmin.\n\n/'\n\nszl\n\nRs\n\nmax\n[%]\n\nmin min height\n\n[m]\n\n:r.:c--\n\nII\n\nR,\n\nmin\n\n11'-'-'-\n\n~0.75~w~~-255)\n\nRs\n\n[m] [m]\n\n6(12)81\n\nclear\n[m]\n\n2.50\n\n(-0.50) ?;1.50\n\n0 Roadside footpath\n\n~\n\n10\n(2)11\n\n~~\n[2.00~ ~~0.25\"\n\n?;0.7S''L\n(?;0.50)1 (1.60)?;1.50\n(1.00)\n\nas for relevant\ntype of road\n\n30\n\n10\n\nFootpaths and Cycle Ways\n\n2.50\n\nL_\n\nAreas for walking should always be designed to be varied and\ninteresting, also taking into account likely children's usage.\nWeather protection can be provided by trees, arcades and maybe\nprotecting roofs. Roadside pavements should if possible not\nbe narrower than 2 m (of which 1.50 m min. width and 0.50 m\nsafety distance from the carriageway). A much wider pavement\nis, however, often appropriate. Near schools, shopping centres,\nleisure facilities etc., a min. width of 3 m is ideal. ~ 0- 0\nRoadside cycle ways should be min. 1.00 m wide for one-way\ntraffic and 2.00 m (min. 1.60 m) wide for two-way traffic, with\nsafety strips of 0.75 m added to the road. Combined footpaths\nand cycle ways should be 2.50 m (min. 2.00 m) wide ~ p. 384.\nPS/GS\n\n2.5%-..\n10\n(2)11\n\n3\n(4 in) <250 m) 81 30\n(8 in <30 m)81\n\n10\n\n?;0.75'~· l \"'4.00 I· h\"'0.75''\n\n(?;0.50) 1\n\ne\n\nh\n\n3\n(4 in <250 m)'l\n(8 in <30 m)81\n\n2.5%-..\n\n.......-2.5%\n\n,._2.5%\n\n..,_2.5'%\n\n0\n\n0.700.700.70\n\njP'~ +w1· G+ E·I·\nBasic widths for utilities and layout In road space\nE\n\n= electricity\n\nG\n\n\"' gas\n\n\"'water\nDH\n\"' district heating\nT\n= telephone cable\nCS\n= combined sewer\nFW\n= foul water drain\nRD\n= rainwater drain\nF\n= footpath\nR\n= cycle riding\nMV\n= motor vehicle\nPS/GS = parking or green strip\nW\n\n30\n\n10\n\n2.50\n\n(?;0.50)\n\nCycle track\n\n~~!.\n\nPS/GS\n\n2.50\n\ne\n10\n(2)1\n\nMV\n\nc\n\n6(12)81\n\n2.50\n\n~0.75M~0.2551\n\nIll\n\n(?; 0.50) \"'1.50\n\nf) Separate footpath\n\n~:I\n\n.\n\n30\n\n10\n(2)'1\n\n~0.75611. QJ_~0.255l\n\n3\n(4 over <250\n30\nm)81\n(8 over <30 m)81\n\n10\n\n==~~'-='==lijj\n\n2.50\n\n(?;o.sorr;:60f\n\ne\n\n!I\n\nSeparate cycle way\n3.0\n\n,~:oo;~ ~\n\n6(12)'1\n\nM;+-C\nROADS\n\n8\n\n::~\n\n:~\n\n-~===~11\n\n3.50\n(2.50)\n\nResidential access, not for vehicles\n\nStreet spaces\n\nTypes of road\nMotorways\nTraffic space\nInter-urban roads\nCross-sections\nIntersections\nFootpaths and\ncycle ways\nBicycle traffic/\nstorage\nTraffic calming\nNoise protection\n\nNotes\n11slight deviations from the given\n\ndimensions can be necessary to suit\nthe size of paving slabs\n1Smlo = 0.5% (drainage)\n3\n>length of non-vehicle residential access:\nup to 2 storeys \"'80 m, 3 storeys \"'60 m,\n4 and more storeys \"'50 m\n2\n\n4>with separated drainage system\n\n4.00-4.50 m\n'I additional width suggestions: continuous\nrows of trees require at least 2.50 m\nwide planting strip\nB) two-way traffic only in exceptional\n\ncases\n7) rounded out radius at intersections\n\n81in exceptional cases\n\nAbbreviations: ->\nP = pedestrian\nC = cyclist\n\n0- 0\n\nR 1 = radius of curves\n\nS\n\n= longitudinal slope\n\n1\n\nR 8 = rounded out brow radius\n\n11\n:~\n\nRs = rounded out dip radius\n\n0 -8 Pedestrian and cycle traffic areas\nflower bed\nspecial purpose areas\n\n~W'=~~\"\"\"\"\"'dll\n\nwith boilards 50/50\n\neli)- 0 Examples of the layout of street space in built-up areas\n\n382\n\n\f"
+        },
+        {
+          "label": "Street-space slope shown in layout diagrams",
+          "value": 2.5,
+          "value_max": null,
+          "unit": "%",
+          "context": "Slope labels repeated on the street-space cross-section diagrams.",
+          "status": "verified",
+          "ocr_raw": "2.5%"
+        }
+      ],
+      "figure_refs": [
+        "8 — Basic widths for utilities and layout in road space",
+        "9 — Utility layout example",
+        "10–14 — Examples of the layout of street space in built-up areas"
+      ],
+      "cross_refs": [
+        "p. 384"
+      ],
+      "keywords": [
+        "street space",
+        "utilities",
+        "planting strip",
+        "parking bay",
+        "street trees",
+        "roadway",
+        "built-up areas"
+      ],
+      "tags_architectural": [
+        "circulation",
+        "safety",
+        "adaptability"
+      ],
+      "confidence": 0.88
+    }
+  ]
+}

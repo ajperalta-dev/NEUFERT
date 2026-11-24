@@ -1,0 +1,197 @@
+{
+  "fichas": [
+    {
+      "id": "4122fb96e4bd1976-435-vision-0",
+      "pdf_page": 435,
+      "book_page": 422,
+      "chapter": "TRANSPORT",
+      "section": "Aviation",
+      "title": "Terminal concepts",
+      "summary": "Airport terminals are selected according to gate arrangement, connections between gates and buildings, capacity, required area, and potential for extension. Modular linear terminals with satellite units are common; transporter concepts provide a lower-capacity alternative, while pier concepts require sufficient space between piers for aircraft taxiing.",
+      "building_type": "Airport terminal",
+      "spaces": [
+        "Main terminal building",
+        "Satellite terminal",
+        "Terminal piers",
+        "Apron",
+        "Approach road",
+        "Car park"
+      ],
+      "uses": [
+        "Passenger processing and access to aircraft",
+        "Connecting terminal buildings to gates and satellite units",
+        "Transporting passengers between terminal and aircraft",
+        "Providing aircraft taxiing space between piers"
+      ],
+      "furniture_equipment": [
+        "Jet bridges (passenger boarding bridges)",
+        "Passenger buses/transporters"
+      ],
+      "dimensions": [],
+      "figure_refs": [
+        "2 Linear concept with satellites",
+        "3 Transporter concept",
+        "4 Pier concept"
+      ],
+      "cross_refs": [
+        "→ 2",
+        "→ 3",
+        "→ 4",
+        "→ 1"
+      ],
+      "keywords": [
+        "airport",
+        "terminal",
+        "linear concept",
+        "satellite",
+        "transporter",
+        "pier",
+        "extension"
+      ],
+      "tags_architectural": [
+        "modularity",
+        "circulation",
+        "adaptability"
+      ],
+      "confidence": 0.97
+    },
+    {
+      "id": "4122fb96e4bd1976-435-vision-1",
+      "pdf_page": 435,
+      "book_page": 422,
+      "chapter": "TRANSPORT",
+      "section": "Aviation",
+      "title": "Passenger steps and loading bridges",
+      "summary": "Illustrations show mobile and integrated passenger stairs and a rotatable, extendible loading bridge. The bridge is height-adjustable to the boarding level; direct access from the terminal to aircraft is normally provided by jet bridges.",
+      "building_type": "Airport terminal boarding access",
+      "spaces": [
+        "Terminal-to-aircraft boarding connection"
+      ],
+      "uses": [
+        "Boarding and disembarking passengers",
+        "Providing adjustable access between terminal and aircraft"
+      ],
+      "furniture_equipment": [
+        "Mobile passenger stairs",
+        "Integrated passenger stairs",
+        "Rotatable and extendible loading bridge",
+        "Jet bridge"
+      ],
+      "dimensions": [
+        {
+          "label": "Bridge height",
+          "value": 4.5,
+          "value_max": null,
+          "unit": "m",
+          "context": "Dimension indicated on the loading-bridge side elevation.",
+          "status": "uncertain",
+          "ocr_raw": "4.50"
+        },
+        {
+          "label": "Bridge dimension",
+          "value": 1.37,
+          "value_max": null,
+          "unit": "m",
+          "context": "Dimension indicated beneath the loading-bridge side elevation.",
+          "status": "uncertain",
+          "ocr_raw": "1.37"
+        },
+        {
+          "label": "Bridge length",
+          "value": 10.68,
+          "value_max": 25.63,
+          "unit": "m",
+          "context": "Dimension indicated beneath the loading-bridge side elevation.",
+          "status": "uncertain",
+          "ocr_raw": "10.68–25.63"
+        },
+        {
+          "label": "Bridge dimension",
+          "value": 7.06,
+          "value_max": null,
+          "unit": "m",
+          "context": "Dimension indicated beneath the loading-bridge side elevation.",
+          "status": "uncertain",
+          "ocr_raw": "7.06"
+        },
+        {
+          "label": "Rotation",
+          "value": 175.0,
+          "value_max": null,
+          "unit": "degrees",
+          "context": "Rotation shown for the loading bridge in plan.",
+          "status": "uncertain",
+          "ocr_raw": "175° rotation"
+        }
+      ],
+      "figure_refs": [
+        "1 Passenger steps and loading bridges"
+      ],
+      "cross_refs": [
+        "→ 1"
+      ],
+      "keywords": [
+        "boarding bridge",
+        "passenger stairs",
+        "jet bridge",
+        "boarding level",
+        "rotation"
+      ],
+      "tags_architectural": [
+        "circulation",
+        "adaptability"
+      ],
+      "confidence": 0.91
+    },
+    {
+      "id": "4122fb96e4bd1976-435-vision-2",
+      "pdf_page": 435,
+      "book_page": 422,
+      "chapter": "TRANSPORT",
+      "section": "Aviation",
+      "title": "Apron",
+      "summary": "The apron accommodates aircraft parking and movement areas, operational roads, and parking for handling vehicles. Operational roads should connect apron and other airport operating areas efficiently and safely, with as few crossings as possible with taxiing aircraft or other operations. Roads may run in front of or behind aircraft or beside the ends of the tarmac; roads passing beneath loading bridges require clearance for handling vehicles. Mechanised and containerised aircraft handling requires sufficient space for vehicles and machinery.",
+      "building_type": "Airport apron",
+      "spaces": [
+        "Aircraft parking areas",
+        "Apron taxiways",
+        "Operational roads",
+        "Handling-vehicle parking areas"
+      ],
+      "uses": [
+        "Parking aircraft",
+        "Aircraft movement",
+        "Routing handling-vehicle traffic",
+        "Connecting the apron with other airport operating areas",
+        "Aircraft loading and ground handling"
+      ],
+      "furniture_equipment": [
+        "Handling vehicles",
+        "Handling machinery",
+        "Container transporter",
+        "Container lift",
+        "Underground fuel ring main"
+      ],
+      "dimensions": [],
+      "figure_refs": [
+        "5 Handling vehicles and machinery on the airport apron"
+      ],
+      "cross_refs": [],
+      "keywords": [
+        "apron",
+        "aircraft parking",
+        "apron taxiway",
+        "operational roads",
+        "handling vehicles",
+        "clearance",
+        "containerisation"
+      ],
+      "tags_architectural": [
+        "circulation",
+        "clearance",
+        "safety"
+      ],
+      "confidence": 0.97
+    }
+  ]
+}

@@ -1,0 +1,202 @@
+{
+  "fichas": [
+    {
+      "id": "4122fb96e4bd1976-246-vision-0",
+      "pdf_page": 246,
+      "book_page": 233,
+      "chapter": "ADMINISTRATION AND OFFICES",
+      "section": "Office Buildings",
+      "title": "Open-plan offices",
+      "summary": "Open-plan offices are described as suitable for large groups doing shared work and routine activities requiring relatively little concentration. The text discusses their historical rationale and drawbacks, including long room depths, high building-services costs, limited conversion flexibility, social control, and optical and acoustic disturbance.",
+      "building_type": "Office building",
+      "spaces": [
+        "Undivided open-plan office",
+        "Separate rooms for IT machines"
+      ],
+      "uses": [
+        "Shared work by large groups",
+        "Routine activities with a low concentration threshold"
+      ],
+      "furniture_equipment": [
+        "IT machines"
+      ],
+      "dimensions": [
+        {
+          "label": "Room depth",
+          "value": 20.0,
+          "value_max": 30.0,
+          "unit": "m",
+          "context": "Extensive room depths associated with open-plan offices",
+          "status": "uncertain",
+          "ocr_raw": "20-30 m"
+        }
+      ],
+      "figure_refs": [
+        "4"
+      ],
+      "cross_refs": [
+        "Mies van der Rohe: '... clearly laid-out, undivided, only structured ...' (→ refs)",
+        "Henkel (→ refs)"
+      ],
+      "keywords": [
+        "open-plan office",
+        "office organisation",
+        "shared work",
+        "room depth",
+        "building services",
+        "flexibility"
+      ],
+      "tags_architectural": [
+        "circulation",
+        "spatial_proportion",
+        "daylighting",
+        "ventilation"
+      ],
+      "confidence": 0.94
+    },
+    {
+      "id": "4122fb96e4bd1976-246-vision-1",
+      "pdf_page": 246,
+      "book_page": 233,
+      "chapter": "ADMINISTRATION AND OFFICES",
+      "section": "Office Buildings",
+      "title": "Single-room offices",
+      "summary": "Single-room offices suit independent or concentrated work, either by one person or by very small groups that need to exchange information constantly. The text notes their use in Germany since World War II and their continuing suitability where workplace requirements or high-rise building structures favor this arrangement.",
+      "building_type": "Office building",
+      "spaces": [
+        "Single-person room",
+        "Small-group office"
+      ],
+      "uses": [
+        "Independent work",
+        "Concentrated work",
+        "Information exchange within very small groups"
+      ],
+      "furniture_equipment": [],
+      "dimensions": [],
+      "figure_refs": [
+        "1",
+        "2"
+      ],
+      "cross_refs": [
+        "Gruner, Jahr (→)",
+        "Steidle, Kissler (→)",
+        "New offices for the Federal Environment Office, Dessau, Sauerbruch, Hutton (→)"
+      ],
+      "keywords": [
+        "single-room office",
+        "concentrated work",
+        "office organisation",
+        "high-rise office"
+      ],
+      "tags_architectural": [
+        "spatial_proportion"
+      ],
+      "confidence": 0.93
+    },
+    {
+      "id": "4122fb96e4bd1976-246-vision-2",
+      "pdf_page": 246,
+      "book_page": 233,
+      "chapter": "ADMINISTRATION AND OFFICES",
+      "section": "Office Buildings",
+      "title": "Reversible offices",
+      "summary": "Reversible offices were an attempt to improve open-plan working conditions by allowing partitions to create a more effective single-room or cubicle layout when concentrated work was needed. The text notes the increased technical input required for flexibility and describes how user dissatisfaction, energy costs, and new technologies contributed to the form being questioned.",
+      "building_type": "Office building",
+      "spaces": [
+        "Open-plan office area",
+        "Partitionable single-room or cubicle areas"
+      ],
+      "uses": [
+        "Flexible work organisation",
+        "Creating more concentrated work areas"
+      ],
+      "furniture_equipment": [
+        "Partitions"
+      ],
+      "dimensions": [],
+      "figure_refs": [
+        "3"
+      ],
+      "cross_refs": [
+        "OVA building, Mannheim (first example)"
+      ],
+      "keywords": [
+        "reversible office",
+        "partitions",
+        "cubicles",
+        "flexibility",
+        "open-plan office"
+      ],
+      "tags_architectural": [
+        "adaptability",
+        "modularity",
+        "daylighting",
+        "ventilation"
+      ],
+      "confidence": 0.94
+    },
+    {
+      "id": "4122fb96e4bd1976-246-vision-3",
+      "pdf_page": 246,
+      "book_page": 233,
+      "chapter": "ADMINISTRATION AND OFFICES",
+      "section": "Office Buildings",
+      "title": "Group-room offices",
+      "summary": "Group rooms, described as smaller open-plan arrangements, suit work groups that exchange information constantly. They seek to allow more individual choice and improve light, air, and individuality. The text says full air conditioning may be omitted in favor of back-up ventilation, opening windows, and radiators. Linked and partially zoned group rooms may connect through reversible small-room zones and be zoned for common areas when required.",
+      "building_type": "Office building",
+      "spaces": [
+        "Group rooms",
+        "Reversible small-room zones",
+        "Common areas",
+        "Small spaces",
+        "Core areas"
+      ],
+      "uses": [
+        "Work by groups with constant information exchange",
+        "Partially zoning linked rooms for common areas"
+      ],
+      "furniture_equipment": [
+        "Radiators"
+      ],
+      "dimensions": [
+        {
+          "label": "Maximum distance to a window",
+          "value": 7.5,
+          "value_max": null,
+          "unit": "m",
+          "context": "Maximum size of the workplace surroundings, expressed as distance to a window",
+          "status": "uncertain",
+          "ocr_raw": "max. 7.5 m to a window"
+        }
+      ],
+      "figure_refs": [
+        "5",
+        "6",
+        "7",
+        "8",
+        "9"
+      ],
+      "cross_refs": [
+        "Changes at the workplace, p. 232",
+        "State Central Bank of Hesse, Frankfurt am Main, 1988 (fig. 9)"
+      ],
+      "keywords": [
+        "group-room office",
+        "group offices",
+        "zoning",
+        "small rooms",
+        "workplace surroundings",
+        "back-up ventilation"
+      ],
+      "tags_architectural": [
+        "adaptability",
+        "modularity",
+        "daylighting",
+        "ventilation",
+        "spatial_proportion"
+      ],
+      "confidence": 0.94
+    }
+  ]
+}

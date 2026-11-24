@@ -1,0 +1,45 @@
+{
+  "model": "gpt-6-luna",
+  "checks": {
+    "checks": [
+      {
+        "ficha_index": 3,
+        "dimension_index": 0,
+        "status": "verified",
+        "value": null,
+        "value_max": null,
+        "reason": "The printed text states \u201c15 \u00d7 5 m\u201d; the proposed 15.0 m agrees."
+      },
+      {
+        "ficha_index": 3,
+        "dimension_index": 1,
+        "status": "verified",
+        "value": null,
+        "value_max": null,
+        "reason": "The printed text states \u201c15 \u00d7 5 m\u201d; the proposed 5.0 m agrees."
+      }
+    ]
+  },
+  "automatic": [
+    {
+      "ficha_index": 3,
+      "dimension_index": 0,
+      "issues": []
+    },
+    {
+      "ficha_index": 3,
+      "dimension_index": 1,
+      "issues": []
+    }
+  ],
+  "usage": [
+    {
+      "prompt_tokens": 4247,
+      "completion_tokens": 1464
+    },
+    {
+      "prompt_tokens": 4296,
+      "completion_tokens": 121
+    }
+  ]
+}

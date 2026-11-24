@@ -1,0 +1,281 @@
+{
+  "fichas": [
+    {
+      "id": "4122fb96e4bd1976-235-vision-0",
+      "pdf_page": 235,
+      "book_page": 222,
+      "chapter": "CULTURAL VENUES",
+      "section": "Cinemas",
+      "title": "Cinema projection and auditorium",
+      "summary": "Design guidance for cinema projection rooms, picture formats, screens, and auditoriums. Projection rooms require equipment-company consultation, equipment clearances, ventilation and extraction, and sound insulation. Auditorium guidance addresses sightlines, lighting, acoustics, and screen placement.",
+      "building_type": "Cinema",
+      "spaces": [
+        "Projection room",
+        "Auditorium",
+        "Screen area"
+      ],
+      "uses": [
+        "Projecting films",
+        "Viewing films",
+        "Controlling projection, hall lighting, stage lighting, and curtains"
+      ],
+      "furniture_equipment": [
+        "Film projectors",
+        "Horizontal film tray",
+        "Projection screen",
+        "Deflection mirror",
+        "Retracting blinds or curtains",
+        "Sound system"
+      ],
+      "dimensions": [
+        {
+          "label": "Projector clearance at back and operator side",
+          "value": 1.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Projection room; spacing from the projector at the back and on the operator side",
+          "status": "uncertain",
+          "ocr_raw": "It has 1 m spacing from the projector at the back and on the operator side"
+        },
+        {
+          "label": "Projection room height",
+          "value": 2.8,
+          "value_max": null,
+          "unit": "m",
+          "context": "Projection room",
+          "status": "uncertain",
+          "ocr_raw": "2.80 m height"
+        },
+        {
+          "label": "Film width",
+          "value": 16.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Film widths listed for cinema projection",
+          "status": "uncertain",
+          "ocr_raw": "Film widths are 16 mm, 35 mm and 70 mm."
+        },
+        {
+          "label": "Film width",
+          "value": 35.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Film widths listed for cinema projection",
+          "status": "uncertain",
+          "ocr_raw": "Film widths are 16 mm, 35 mm and 70 mm."
+        },
+        {
+          "label": "Film width",
+          "value": 70.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Film widths listed for cinema projection",
+          "status": "uncertain",
+          "ocr_raw": "Film widths are 16 mm, 35 mm and 70 mm."
+        },
+        {
+          "label": "Projection beam deviation limit",
+          "value": 5.0,
+          "value_max": null,
+          "unit": "degrees",
+          "context": "Maximum horizontal and vertical deviation from screen centre before redirection by a deflection mirror",
+          "status": "uncertain",
+          "ocr_raw": "max. 5°"
+        },
+        {
+          "label": "Film reel length",
+          "value": 4000.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Automated projection with a horizontal film tray; reels shown without pause",
+          "status": "uncertain",
+          "ocr_raw": "showing 4000 m reels without pause"
+        },
+        {
+          "label": "Cinemascope picture aspect ratio",
+          "value": 2.34,
+          "value_max": null,
+          "unit": "ratio",
+          "context": "Picture height-to-width relationship; printed as 1:2.34",
+          "status": "uncertain",
+          "ocr_raw": "1:2.34 (Cinemascope)"
+        },
+        {
+          "label": "Wide-screen picture aspect ratio",
+          "value": 1.66,
+          "value_max": null,
+          "unit": "ratio",
+          "context": "Picture height-to-width relationship; printed as 1:1.66",
+          "status": "uncertain",
+          "ocr_raw": "1:1.66 (wide screen)"
+        },
+        {
+          "label": "Back-row viewing angle to outer edge of picture",
+          "value": 38.0,
+          "value_max": null,
+          "unit": "degrees",
+          "context": "Maximum angle for Cinemascope; accompanying distance relation is printed as 3:2",
+          "status": "uncertain",
+          "ocr_raw": "38° = distance of the back row : screen = 3:2"
+        },
+        {
+          "label": "Back-row distance to screen ratio",
+          "value": 3.0,
+          "value_max": null,
+          "unit": "ratio",
+          "context": "Cinemascope; complete printed ratio is 3:2",
+          "status": "uncertain",
+          "ocr_raw": "distance of the back row : screen = 3:2"
+        },
+        {
+          "label": "Minimum screen-to-wall distance",
+          "value": 120.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Screen distance from wall with BTX; text says this may be reduced depending on cinema size and system",
+          "status": "uncertain",
+          "ocr_raw": "is min. 120 em; according to cinema size and system this can be reduced to 50 em"
+        },
+        {
+          "label": "Reduced screen-to-wall distance",
+          "value": 50.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Possible screen distance from wall when setting up the sound system",
+          "status": "uncertain",
+          "ocr_raw": "this can be reduced to 50 em on the setting up of the sound system"
+        },
+        {
+          "label": "Minimum screen lower-edge height above floor",
+          "value": 1.2,
+          "value_max": null,
+          "unit": "m",
+          "context": "Auditorium; minimum height of the lower edge of the screen",
+          "status": "uncertain",
+          "ocr_raw": "The lower edge of the screen should be min. 1.20 m above the floor"
+        },
+        {
+          "label": "First-row viewing angle to picture centre",
+          "value": 30.0,
+          "value_max": null,
+          "unit": "degrees",
+          "context": "Auditorium; maximum viewing angle from the first row of seats to the centre of the picture",
+          "status": "uncertain",
+          "ocr_raw": "should not exceed 30°"
+        },
+        {
+          "label": "Screen format ratio",
+          "value": 1.37,
+          "value_max": null,
+          "unit": "ratio",
+          "context": "Diagram; normal screen format, printed as 1:1.37",
+          "status": "uncertain",
+          "ocr_raw": "normal screen 1:1.37"
+        },
+        {
+          "label": "Screen format ratio",
+          "value": 1.66,
+          "value_max": null,
+          "unit": "ratio",
+          "context": "Diagram; wide screen format, printed as 1:1.66",
+          "status": "uncertain",
+          "ocr_raw": "wide screen 1:1.66"
+        },
+        {
+          "label": "Screen format ratio",
+          "value": 1.85,
+          "value_max": null,
+          "unit": "ratio",
+          "context": "Diagram; wide screen format, printed as 1:1.85",
+          "status": "uncertain",
+          "ocr_raw": "wide screen 1:1.85"
+        },
+        {
+          "label": "Screen format ratio",
+          "value": 2.0,
+          "value_max": null,
+          "unit": "ratio",
+          "context": "Diagram; 'Kinoton' format, printed as 1:2",
+          "status": "uncertain",
+          "ocr_raw": "'Kinoton' format 1:2"
+        },
+        {
+          "label": "Screen format ratio",
+          "value": 2.34,
+          "value_max": null,
+          "unit": "ratio",
+          "context": "Diagram; Cinemascope format, printed as 1:2.34",
+          "status": "uncertain",
+          "ocr_raw": "Cinemascope 1:2.34"
+        },
+        {
+          "label": "Auditorium plan dimension",
+          "value": 25.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Plan-view diagram; dimension marked A",
+          "status": "uncertain",
+          "ocr_raw": "25.00"
+        },
+        {
+          "label": "Auditorium plan dimension",
+          "value": 17.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Plan-view diagram; dimension marked across the screen area",
+          "status": "uncertain",
+          "ocr_raw": "17.00"
+        },
+        {
+          "label": "Picture width",
+          "value": 20.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Diagram of picture formats with the same picture height",
+          "status": "uncertain",
+          "ocr_raw": "20.00 m"
+        },
+        {
+          "label": "Picture width",
+          "value": 10.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Diagram of picture formats with the same picture width",
+          "status": "uncertain",
+          "ocr_raw": "10.00 m"
+        }
+      ],
+      "figure_refs": [
+        "1 Optimal auditorium",
+        "2 Picture formats with same picture height",
+        "3 Picture formats with same picture width",
+        "4 Permissible disturbance level",
+        "5 Permissible reverberation time depending on frequency",
+        "6 Reverberation time relative to auditorium volume"
+      ],
+      "cross_refs": [
+        "p. 223"
+      ],
+      "keywords": [
+        "cinema",
+        "projection",
+        "projection room",
+        "auditorium",
+        "screen",
+        "picture formats",
+        "sightlines",
+        "reverberation",
+        "acoustics"
+      ],
+      "tags_architectural": [
+        "circulation",
+        "clearance",
+        "safety",
+        "daylighting",
+        "ventilation",
+        "spatial_proportion"
+      ],
+      "confidence": 0.88
+    }
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "model": "gpt-6-luna",
+  "checks": {
+    "checks": [
+      {
+        "ficha_index": 0,
+        "dimension_index": 0,
+        "status": "verified",
+        "value": 15.0,
+        "value_max": null,
+        "reason": "The text visibly states \u201cMinimum area for stores 15 m\u00b2,\u201d matching the value and unit."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 1,
+        "status": "verified",
+        "value": 8.0,
+        "value_max": 10.0,
+        "reason": "The text visibly states approximately 8\u201310 m\u00b2 per employee for all stores, matching the range and unit."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 2,
+        "status": "uncertain",
+        "value": 10.0,
+        "value_max": null,
+        "reason": "The floor plan visibly labels this dimension 10.0, but no unit is printed alongside it, so the proposed unit cannot be verified."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 3,
+        "status": "uncertain",
+        "value": 18.0,
+        "value_max": null,
+        "reason": "The floor plan visibly labels this dimension 18.0, but no unit is printed alongside it, so the proposed unit cannot be verified."
+      }
+    ]
+  },
+  "automatic": [
+    {
+      "ficha_index": 0,
+      "dimension_index": 0,
+      "issues": []
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 1,
+      "issues": [
+        "Unknown unit"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 2,
+      "issues": []
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 3,
+      "issues": []
+    }
+  ],
+  "usage": [
+    {
+      "prompt_tokens": 4450,
+      "completion_tokens": 942
+    },
+    {
+      "prompt_tokens": 3762,
+      "completion_tokens": 408
+    }
+  ]
+}

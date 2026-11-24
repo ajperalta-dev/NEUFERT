@@ -1,0 +1,45 @@
+{
+  "model": "gpt-6-luna",
+  "checks": {
+    "checks": [
+      {
+        "ficha_index": 0,
+        "dimension_index": 0,
+        "status": "verified",
+        "value": 80.0,
+        "value_max": null,
+        "reason": "The conventional-roof diagram visibly says \u201cup to 80\u00b0,\u201d matching the proposed value and unit."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 1,
+        "status": "verified",
+        "value": 35.0,
+        "value_max": null,
+        "reason": "The green-roof diagram visibly says \u201cup to 35\u00b0,\u201d matching the proposed value and unit."
+      }
+    ]
+  },
+  "automatic": [
+    {
+      "ficha_index": 0,
+      "dimension_index": 0,
+      "issues": []
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 1,
+      "issues": []
+    }
+  ],
+  "usage": [
+    {
+      "prompt_tokens": 4228,
+      "completion_tokens": 743
+    },
+    {
+      "prompt_tokens": 3502,
+      "completion_tokens": 238
+    }
+  ]
+}

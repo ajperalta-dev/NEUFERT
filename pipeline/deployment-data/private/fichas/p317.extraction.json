@@ -1,0 +1,295 @@
+{
+  "fichas": [
+    {
+      "id": "4122fb96e4bd1976-317-vision-0",
+      "pdf_page": 317,
+      "book_page": 304,
+      "chapter": "HEALTH",
+      "section": "Hospitals",
+      "title": "Physiotherapy department: planning and spaces",
+      "summary": "Physiotherapy is divided into completely separated wet and dry areas and accessed through reception. The department may be on the ground floor and should receive natural ventilation through rooflights or light shafts. Decentralised therapy rooms may also be located near wards.",
+      "building_type": "Hospital physiotherapy department",
+      "spaces": [
+        "Reception area",
+        "Wet treatment area",
+        "Dry treatment area",
+        "Exercise bath",
+        "Four-cell bath",
+        "Butterfly bath",
+        "Inhalation rooms",
+        "Massage baths",
+        "Hand-foot baths",
+        "Changing rooms for women and men",
+        "Wheelchair-friendly toilet",
+        "Staff and patient toilets",
+        "Lounge",
+        "Laundry store",
+        "Waiting zone",
+        "Cleaning room",
+        "Exercise-bath service rooms",
+        "Gymnastics rooms",
+        "Single therapy rooms"
+      ],
+      "uses": [
+        "Group physiotherapy treatment",
+        "Individual therapy",
+        "Bobath concept therapy",
+        "Exercise therapy",
+        "Bath-based treatment",
+        "Massage",
+        "Inhalation treatment"
+      ],
+      "furniture_equipment": [],
+      "dimensions": [
+        {
+          "label": "Exercise bath",
+          "value": 4.0,
+          "value_max": 6.0,
+          "unit": "m",
+          "context": "Approximate bath dimensions, as printed in the department description.",
+          "status": "uncertain",
+          "ocr_raw": "exercise bath (approx. 4 x 6 m)"
+        },
+        {
+          "label": "Gymnastics room area",
+          "value": 40.0,
+          "value_max": 50.0,
+          "unit": "m2",
+          "context": "Approximate area of a gymnastics room for group treatment.",
+          "status": "uncertain",
+          "ocr_raw": "gymnastics rooms (approx. 40–50 m2)"
+        },
+        {
+          "label": "Single therapy room area",
+          "value": 20.0,
+          "value_max": null,
+          "unit": "m2",
+          "context": "Approximate area for a single therapy room used for Bobath concept and exercise therapy.",
+          "status": "uncertain",
+          "ocr_raw": "single therapy rooms (approx. 20 m2)"
+        },
+        {
+          "label": "Clear ceiling height",
+          "value": 3.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Minimum clear ceiling height in the dry area.",
+          "status": "uncertain",
+          "ocr_raw": "The clear ceiling height must be min. 3.00 m."
+        }
+      ],
+      "figure_refs": [],
+      "cross_refs": [],
+      "keywords": [
+        "physiotherapy",
+        "wet area",
+        "dry area",
+        "exercise bath",
+        "gymnastics",
+        "therapy rooms",
+        "natural ventilation"
+      ],
+      "tags_architectural": [
+        "accessibility",
+        "ventilation",
+        "circulation"
+      ],
+      "confidence": 0.98
+    },
+    {
+      "id": "4122fb96e4bd1976-317-vision-1",
+      "pdf_page": 317,
+      "book_page": 304,
+      "chapter": "HEALTH",
+      "section": "Hospitals",
+      "title": "Physiotherapy, Berlin-Spandau Hospital",
+      "summary": "First-floor physiotherapy plan organized around an atrium, with reception and waiting areas, an exercise pool, changing rooms, gym and treatment spaces. The caption identifies the facility as Berlin-Spandau Hospital, today Vivantes Clinic Berlin-Spandau.",
+      "building_type": "Hospital physiotherapy department",
+      "spaces": [
+        "Atrium",
+        "Reception",
+        "Waiting area",
+        "Exercise pool",
+        "Ladies changing",
+        "Gents changing",
+        "Gym",
+        "Massage and electrotherapy",
+        "Medical bath",
+        "Cryotherapy",
+        "Equipment room",
+        "Inhalation",
+        "Extension"
+      ],
+      "uses": [
+        "Physiotherapy",
+        "Gymnastics",
+        "Pool-based exercise",
+        "Massage and electrotherapy",
+        "Cryotherapy"
+      ],
+      "furniture_equipment": [
+        "Exercise pool",
+        "Gym equipment",
+        "Treatment equipment"
+      ],
+      "dimensions": [],
+      "figure_refs": [
+        "1"
+      ],
+      "cross_refs": [],
+      "keywords": [
+        "Berlin-Spandau Hospital",
+        "Vivantes Clinic",
+        "first floor",
+        "atrium",
+        "exercise pool"
+      ],
+      "tags_architectural": [
+        "circulation",
+        "spatial_proportion"
+      ],
+      "confidence": 0.94
+    },
+    {
+      "id": "4122fb96e4bd1976-317-vision-2",
+      "pdf_page": 317,
+      "book_page": 304,
+      "chapter": "HEALTH",
+      "section": "Hospitals",
+      "title": "Physiotherapy, Thüringen Clinics, Saalfeld-Rudolstadt",
+      "summary": "Ground-floor plan of a physiotherapy department. The drawing labels a physical therapy area and a separate spa/sauna area.",
+      "building_type": "Hospital physiotherapy department",
+      "spaces": [
+        "Physical therapy area",
+        "Spa/sauna area",
+        "Treatment rooms",
+        "Gymnastics room",
+        "Exercise pool",
+        "Elevator hall"
+      ],
+      "uses": [
+        "Physiotherapy",
+        "Treatment",
+        "Gymnastics",
+        "Exercise pool use",
+        "Spa and sauna"
+      ],
+      "furniture_equipment": [],
+      "dimensions": [
+        {
+          "label": "Physical therapy area",
+          "value": 371.0,
+          "value_max": null,
+          "unit": "m2",
+          "context": "Area printed above the plan.",
+          "status": "uncertain",
+          "ocr_raw": "Physical Therapy 371 m²"
+        },
+        {
+          "label": "Spa/sauna area",
+          "value": 150.0,
+          "value_max": null,
+          "unit": "m2",
+          "context": "Area printed below the plan.",
+          "status": "uncertain",
+          "ocr_raw": "Spa/Sauna 150 m²"
+        }
+      ],
+      "figure_refs": [
+        "2"
+      ],
+      "cross_refs": [],
+      "keywords": [
+        "Thüringen Clinics",
+        "Saalfeld-Rudolstadt",
+        "ground floor",
+        "physical therapy",
+        "spa",
+        "sauna"
+      ],
+      "tags_architectural": [
+        "circulation",
+        "spatial_proportion"
+      ],
+      "confidence": 0.9
+    },
+    {
+      "id": "4122fb96e4bd1976-317-vision-3",
+      "pdf_page": 317,
+      "book_page": 304,
+      "chapter": "HEALTH",
+      "section": "Hospitals",
+      "title": "Physiotherapy, Helios Clinic, Gotha",
+      "summary": "Physiotherapy plan for the Helios Clinic in Gotha, with a central waiting and patient-centre area and rooms for physiotherapy, occupational therapy, massage, wet treatment and related services. The legend identifies a special-use area and a pharmacy by area.",
+      "building_type": "Hospital physiotherapy department",
+      "spaces": [
+        "Waiting",
+        "Patient centre",
+        "Physiotherapy treatment rooms",
+        "Physiotherapy gymnastic treatment area",
+        "Occupational therapy",
+        "Wet treatment",
+        "Rest room",
+        "Clean laundry",
+        "Dirty laundry",
+        "Services",
+        "Tea kitchen",
+        "Massage rooms",
+        "Stimulation electricity",
+        "Fango",
+        "Cleaner",
+        "Patient changing"
+      ],
+      "uses": [
+        "Physiotherapy",
+        "Gymnastics",
+        "Occupational therapy",
+        "Massage",
+        "Wet treatment",
+        "Fango treatment",
+        "Spa and sauna"
+      ],
+      "furniture_equipment": [
+        "Treatment equipment",
+        "Patient seating"
+      ],
+      "dimensions": [
+        {
+          "label": "Special-use area",
+          "value": 66.0,
+          "value_max": null,
+          "unit": "m2",
+          "context": "Area identified in the plan legend.",
+          "status": "uncertain",
+          "ocr_raw": "Special use (66 m²)"
+        },
+        {
+          "label": "Pharmacy area",
+          "value": 132.0,
+          "value_max": null,
+          "unit": "m2",
+          "context": "Area identified in the plan legend.",
+          "status": "uncertain",
+          "ocr_raw": "Pharmacy (132 m²)"
+        }
+      ],
+      "figure_refs": [
+        "3"
+      ],
+      "cross_refs": [],
+      "keywords": [
+        "Helios Clinic",
+        "Gotha",
+        "patient centre",
+        "physiotherapy",
+        "occupational therapy",
+        "wet treatment"
+      ],
+      "tags_architectural": [
+        "circulation",
+        "spatial_proportion"
+      ],
+      "confidence": 0.91
+    }
+  ]
+}

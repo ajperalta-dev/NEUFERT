@@ -1,0 +1,712 @@
+{
+  "fichas": [
+    {
+      "id": "4122fb96e4bd1976-296-vision-0",
+      "pdf_page": 296,
+      "book_page": 283,
+      "chapter": "INDUSTRY AND TRADE",
+      "section": "Workshops",
+      "title": "Fire station: program and room areas",
+      "summary": "Outlines possible programs for a local-call fire sub-station and a larger station serving local and regional call-outs. Lists rooms and minimum room areas in units (U); the unit is used to determine minimum floor areas.",
+      "building_type": "Fire station",
+      "spaces": [
+        "Fire engine parking",
+        "Equipment room",
+        "Special-equipment store",
+        "Training room",
+        "Staff rooms",
+        "On-call lounge",
+        "Kitchenette",
+        "Administration",
+        "Chief's office",
+        "Control room",
+        "Hose maintenance workshop",
+        "Hose washing and testing room",
+        "Hose store",
+        "Hose drying tower",
+        "Breathing-equipment workshop",
+        "Vehicle and equipment workshop",
+        "Washing hall",
+        "Building-services rooms",
+        "Room for ABC (disaster) service"
+      ],
+      "uses": [
+        "Fire response and call-outs",
+        "Preventative fire protection",
+        "Technical assistance",
+        "Vehicle and equipment maintenance",
+        "Training and exercises",
+        "Administration and control"
+      ],
+      "furniture_equipment": [
+        "Fire engines",
+        "Ambulances, if stationed",
+        "Battery charging station",
+        "Hose-drying installation",
+        "Exercise wall"
+      ],
+      "dimensions": [
+        {
+          "label": "Equipment room area",
+          "value": 1.0,
+          "value_max": null,
+          "unit": "U",
+          "context": "Room-area allocation",
+          "status": "uncertain",
+          "ocr_raw": "equipment room 1 U"
+        },
+        {
+          "label": "Special-equipment store area",
+          "value": 1.0,
+          "value_max": null,
+          "unit": "U",
+          "context": "Room-area allocation",
+          "status": "uncertain",
+          "ocr_raw": "store room for special equipment 1 U"
+        },
+        {
+          "label": "Training room area",
+          "value": 4.0,
+          "value_max": null,
+          "unit": "U",
+          "context": "Room-area allocation",
+          "status": "uncertain",
+          "ocr_raw": "training room 4 U"
+        },
+        {
+          "label": "Associated side room area",
+          "value": 1.0,
+          "value_max": null,
+          "unit": "U",
+          "context": "Room-area allocation",
+          "status": "uncertain",
+          "ocr_raw": "associated side room 1 U"
+        },
+        {
+          "label": "Staff rooms area",
+          "value": 3.0,
+          "value_max": null,
+          "unit": "U",
+          "context": "Washroom, showers, WC, changing room, and drying room",
+          "status": "uncertain",
+          "ocr_raw": "washroom, showers, WC, changing room, drying room 3 U"
+        },
+        {
+          "label": "On-call lounge and kitchenette area",
+          "value": 3.0,
+          "value_max": null,
+          "unit": "U",
+          "context": "Room-area allocation",
+          "status": "uncertain",
+          "ocr_raw": "on-call lounge, kitchenette 3 U"
+        },
+        {
+          "label": "Room for fire service chief area",
+          "value": 1.0,
+          "value_max": null,
+          "unit": "U",
+          "context": "Room-area allocation",
+          "status": "uncertain",
+          "ocr_raw": "room for fire service chief 1 U"
+        },
+        {
+          "label": "Control room area",
+          "value": 1.0,
+          "value_max": null,
+          "unit": "U",
+          "context": "Room-area allocation",
+          "status": "uncertain",
+          "ocr_raw": "control room 1 U"
+        },
+        {
+          "label": "Hose maintenance workshop and hose washing/testing room area",
+          "value": 8.0,
+          "value_max": null,
+          "unit": "U",
+          "context": "Minimum room area; OCR also gives minimum room dimensions",
+          "status": "uncertain",
+          "ocr_raw": "workshops: hose maintenance workshop, hose washing and testing room (min. 26 m long and 3 m wide) 8 U"
+        },
+        {
+          "label": "Hose washing and testing room minimum length",
+          "value": 26.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Minimum room dimension",
+          "status": "uncertain",
+          "ocr_raw": "min. 26 m long and 3 m wide"
+        },
+        {
+          "label": "Hose washing and testing room minimum width",
+          "value": 3.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Minimum room dimension",
+          "status": "uncertain",
+          "ocr_raw": "min. 26 m long and 3 m wide"
+        },
+        {
+          "label": "Hose-drying tower clear height",
+          "value": 23.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Clear height of tower",
+          "status": "uncertain",
+          "ocr_raw": "hose drying tower with exercise wall (clear height of tower 23 m)"
+        },
+        {
+          "label": "Hose washing and testing room area for horizontal drying installation",
+          "value": 9.0,
+          "value_max": null,
+          "unit": "U",
+          "context": "Minimum area if a horizontal hose-drying installation is used instead of a hose-drying room",
+          "status": "uncertain",
+          "ocr_raw": "whose min. area must then be 9 U"
+        },
+        {
+          "label": "Hose washing and testing room clear height for horizontal drying installation",
+          "value": 3.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Minimum clear height if horizontal hose-drying installation is used",
+          "status": "uncertain",
+          "ocr_raw": "clear height min. 3 m"
+        },
+        {
+          "label": "Breathing-equipment workshop area",
+          "value": 4.0,
+          "value_max": null,
+          "unit": "U",
+          "context": "Room-area allocation",
+          "status": "uncertain",
+          "ocr_raw": "breathing equipment workshop 4 U"
+        },
+        {
+          "label": "ABC (disaster) service room area",
+          "value": 4.0,
+          "value_max": null,
+          "unit": "U",
+          "context": "Room-area allocation",
+          "status": "uncertain",
+          "ocr_raw": "room for ABC (disaster) service 4 U"
+        },
+        {
+          "label": "Battery charging station area",
+          "value": 2.0,
+          "value_max": null,
+          "unit": "U",
+          "context": "Vehicle and equipment workshop; next to existing parking place",
+          "status": "uncertain",
+          "ocr_raw": "battery charging station, next door to existing parking place 2 U"
+        },
+        {
+          "label": "Washing hall area",
+          "value": 4.0,
+          "value_max": null,
+          "unit": "U",
+          "context": "Vehicle and equipment workshop",
+          "status": "uncertain",
+          "ocr_raw": "washing hall 4 U"
+        },
+        {
+          "label": "Heating and fuel room area",
+          "value": 1.0,
+          "value_max": null,
+          "unit": "U",
+          "context": "Building services",
+          "status": "uncertain",
+          "ocr_raw": "heating, fuel room 1 U"
+        }
+      ],
+      "figure_refs": [
+        "1",
+        "8"
+      ],
+      "cross_refs": [
+        "→ 7",
+        "→ 8"
+      ],
+      "keywords": [
+        "fire station",
+        "room program",
+        "room areas",
+        "fire service",
+        "workshops"
+      ],
+      "tags_architectural": [
+        "circulation",
+        "safety",
+        "adaptability"
+      ],
+      "confidence": 0.96
+    },
+    {
+      "id": "4122fb96e4bd1976-296-vision-1",
+      "pdf_page": 296,
+      "book_page": 283,
+      "chapter": "INDUSTRY AND TRADE",
+      "section": "Workshops",
+      "title": "Fire station site and access dimensions",
+      "summary": "Illustrations show fire-service access roads, a vehicle access passage, turning geometry, a through passage, pedestrian access, and a curve-width table. Includes the stated clearances and slope conditions.",
+      "building_type": "Fire station",
+      "spaces": [
+        "Fire-service access road",
+        "Vehicle access passage",
+        "Setting-up area",
+        "Public road",
+        "Through passage",
+        "Pedestrian access"
+      ],
+      "uses": [
+        "Fire-appliance access",
+        "Vehicle maneuvering",
+        "Ladder rescue operations",
+        "Pedestrian entry"
+      ],
+      "furniture_equipment": [
+        "Fire-service vehicles"
+      ],
+      "dimensions": [
+        {
+          "label": "Vehicle access passage clear height",
+          "value": 3.5,
+          "value_max": null,
+          "unit": "m",
+          "context": "Passage clearance, for passage length at least 12 m",
+          "status": "uncertain",
+          "ocr_raw": "clear height ≥ 3.5 m if the passage length ≥ 12 m, width ≥ 3.5 m"
+        },
+        {
+          "label": "Vehicle access passage minimum length condition",
+          "value": 12.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Passage length condition for the stated clear height",
+          "status": "uncertain",
+          "ocr_raw": "passage length ≥ 12 m"
+        },
+        {
+          "label": "Vehicle access passage minimum width",
+          "value": 3.5,
+          "value_max": null,
+          "unit": "m",
+          "context": "Vehicle access passage",
+          "status": "uncertain",
+          "ocr_raw": "width ≥ 3.5 m"
+        },
+        {
+          "label": "Maximum gradient",
+          "value": 10.0,
+          "value_max": null,
+          "unit": "%",
+          "context": "Through passage",
+          "status": "uncertain",
+          "ocr_raw": "Maximum gradient 10%"
+        },
+        {
+          "label": "Clear height in through passage",
+          "value": 3.5,
+          "value_max": null,
+          "unit": "m",
+          "context": "Through passage",
+          "status": "uncertain",
+          "ocr_raw": "Clear height ≥ 3.50"
+        },
+        {
+          "label": "Fire-service access clearance",
+          "value": 3.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Access diagram clearance",
+          "status": "uncertain",
+          "ocr_raw": "≥ 3.0 m"
+        },
+        {
+          "label": "Pedestrian access passage clearance",
+          "value": 2.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Diagram labels passage clearance",
+          "status": "uncertain",
+          "ocr_raw": "With passage clearance ≥ 2 m"
+        },
+        {
+          "label": "External curve diameter",
+          "value": 21.0,
+          "value_max": 24.0,
+          "unit": "m",
+          "context": "Curve-width table; external diameter range",
+          "status": "uncertain",
+          "ocr_raw": "21–24 m"
+        },
+        {
+          "label": "Minimum width at external diameter 21–24 m",
+          "value": 5.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Curve-width table",
+          "status": "uncertain",
+          "ocr_raw": "21–24 m 5.0 m"
+        },
+        {
+          "label": "External curve diameter",
+          "value": 24.0,
+          "value_max": 30.0,
+          "unit": "m",
+          "context": "Curve-width table; external diameter range",
+          "status": "uncertain",
+          "ocr_raw": "24–30 m"
+        },
+        {
+          "label": "Minimum width at external diameter 24–30 m",
+          "value": 4.5,
+          "value_max": null,
+          "unit": "m",
+          "context": "Curve-width table",
+          "status": "uncertain",
+          "ocr_raw": "24–30 m 4.5 m"
+        },
+        {
+          "label": "External curve diameter",
+          "value": 30.0,
+          "value_max": 40.0,
+          "unit": "m",
+          "context": "Curve-width table; external diameter range",
+          "status": "uncertain",
+          "ocr_raw": "30–40 m"
+        },
+        {
+          "label": "Minimum width at external diameter 30–40 m",
+          "value": 4.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Curve-width table",
+          "status": "uncertain",
+          "ocr_raw": "30–40 m 4.0"
+        },
+        {
+          "label": "External curve diameter",
+          "value": 40.0,
+          "value_max": 80.0,
+          "unit": "m",
+          "context": "Curve-width table; external diameter range",
+          "status": "uncertain",
+          "ocr_raw": "40–80"
+        },
+        {
+          "label": "Minimum width at external diameter 40–80 m",
+          "value": 3.5,
+          "value_max": null,
+          "unit": "m",
+          "context": "Curve-width table",
+          "status": "uncertain",
+          "ocr_raw": "40–80 3.5"
+        },
+        {
+          "label": "External curve diameter",
+          "value": 80.0,
+          "value_max": 140.0,
+          "unit": "m",
+          "context": "Curve-width table; external diameter range",
+          "status": "uncertain",
+          "ocr_raw": "80–140"
+        },
+        {
+          "label": "Minimum width at external diameter 80–140 m",
+          "value": 3.2,
+          "value_max": null,
+          "unit": "m",
+          "context": "Curve-width table",
+          "status": "uncertain",
+          "ocr_raw": "80–140 3.2"
+        },
+        {
+          "label": "External curve diameter",
+          "value": 140.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Curve-width table",
+          "status": "uncertain",
+          "ocr_raw": "140"
+        },
+        {
+          "label": "Minimum width at external curve diameter 140 m",
+          "value": 3.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Curve-width table",
+          "status": "uncertain",
+          "ocr_raw": "140 3.0"
+        }
+      ],
+      "figure_refs": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "cross_refs": [],
+      "keywords": [
+        "fire station",
+        "fire-service access",
+        "vehicle passage",
+        "turning curve",
+        "clearance"
+      ],
+      "tags_architectural": [
+        "circulation",
+        "clearance",
+        "safety"
+      ],
+      "confidence": 0.91
+    },
+    {
+      "id": "4122fb96e4bd1976-296-vision-2",
+      "pdf_page": 296,
+      "book_page": 283,
+      "chapter": "INDUSTRY AND TRADE",
+      "section": "Workshops",
+      "title": "Fire station parking places and gates",
+      "summary": "A parking-place table gives stall widths and lengths, gate drive-through dimensions, and calculated unit allocations for four parking-place sizes. The page notes that the unit is based on the largest parking place where several sizes occur.",
+      "building_type": "Fire station",
+      "spaces": [
+        "Vehicle parking places",
+        "Vehicle gates",
+        "Parking bays"
+      ],
+      "uses": [
+        "Parking fire-service vehicles",
+        "Vehicle entry and exit"
+      ],
+      "furniture_equipment": [
+        "Parking-place gates",
+        "Parking bays",
+        "Pillars, if present"
+      ],
+      "dimensions": [
+        {
+          "label": "Parking-place size 1 minimum width",
+          "value": 4.5,
+          "value_max": null,
+          "unit": "m",
+          "context": "Parking place; avoid if possible",
+          "status": "uncertain",
+          "ocr_raw": "1 (avoid if possible) 4.5"
+        },
+        {
+          "label": "Parking-place size 1 minimum length",
+          "value": 8.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Parking place; avoid if possible",
+          "status": "uncertain",
+          "ocr_raw": "1 (avoid if possible) 8"
+        },
+        {
+          "label": "Parking-place size 1 gate drive-through width",
+          "value": 3.5,
+          "value_max": null,
+          "unit": "m",
+          "context": "Gate drive-through dimensions",
+          "status": "uncertain",
+          "ocr_raw": "3.5 × 3.5"
+        },
+        {
+          "label": "Parking-place size 1 gate drive-through height",
+          "value": 3.5,
+          "value_max": null,
+          "unit": "m",
+          "context": "Gate drive-through dimensions",
+          "status": "uncertain",
+          "ocr_raw": "3.5 × 3.5"
+        },
+        {
+          "label": "Parking-place size 1 area allocation",
+          "value": 9.0,
+          "value_max": null,
+          "unit": "U",
+          "context": "Calculated according to figure 8",
+          "status": "uncertain",
+          "ocr_raw": "9"
+        },
+        {
+          "label": "Parking-place size 2 minimum width",
+          "value": 4.5,
+          "value_max": null,
+          "unit": "m",
+          "context": "Parking place",
+          "status": "uncertain",
+          "ocr_raw": "2 4.5 10"
+        },
+        {
+          "label": "Parking-place size 2 minimum length",
+          "value": 10.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Parking place",
+          "status": "uncertain",
+          "ocr_raw": "2 4.5 10"
+        },
+        {
+          "label": "Parking-place size 2 area allocation",
+          "value": 11.25,
+          "value_max": null,
+          "unit": "U",
+          "context": "Calculated according to figure 8",
+          "status": "uncertain",
+          "ocr_raw": "11.25"
+        },
+        {
+          "label": "Parking-place size 3 minimum width",
+          "value": 4.5,
+          "value_max": null,
+          "unit": "m",
+          "context": "Parking place",
+          "status": "uncertain",
+          "ocr_raw": "3 4.5 12.5"
+        },
+        {
+          "label": "Parking-place size 3 minimum length",
+          "value": 12.5,
+          "value_max": null,
+          "unit": "m",
+          "context": "Parking place",
+          "status": "uncertain",
+          "ocr_raw": "3 4.5 12.5"
+        },
+        {
+          "label": "Parking-place size 3 area allocation",
+          "value": 14.0,
+          "value_max": null,
+          "unit": "U",
+          "context": "Calculated according to figure 8",
+          "status": "uncertain",
+          "ocr_raw": "14"
+        },
+        {
+          "label": "Parking-place size 4 minimum width",
+          "value": 4.5,
+          "value_max": null,
+          "unit": "m",
+          "context": "Parking place",
+          "status": "uncertain",
+          "ocr_raw": "4 4.5 12.5"
+        },
+        {
+          "label": "Parking-place size 4 minimum length",
+          "value": 12.5,
+          "value_max": null,
+          "unit": "m",
+          "context": "Parking place",
+          "status": "uncertain",
+          "ocr_raw": "4 4.5 12.5"
+        },
+        {
+          "label": "Parking-place size 4 gate drive-through width",
+          "value": 3.5,
+          "value_max": null,
+          "unit": "m",
+          "context": "Gate drive-through dimensions",
+          "status": "uncertain",
+          "ocr_raw": "3.5 × 4"
+        },
+        {
+          "label": "Parking-place size 4 gate drive-through height",
+          "value": 4.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Gate drive-through dimensions",
+          "status": "uncertain",
+          "ocr_raw": "3.5 × 4"
+        },
+        {
+          "label": "Parking-place size 4 area allocation",
+          "value": 14.0,
+          "value_max": null,
+          "unit": "U",
+          "context": "Calculated according to figure 8",
+          "status": "uncertain",
+          "ocr_raw": "14"
+        },
+        {
+          "label": "Pillar clearance",
+          "value": 0.5,
+          "value_max": null,
+          "unit": "m",
+          "context": "Clearance shown in parking-place and gate diagram",
+          "status": "uncertain",
+          "ocr_raw": "0.5 min"
+        }
+      ],
+      "figure_refs": [
+        "6",
+        "7"
+      ],
+      "cross_refs": [
+        "→ 6",
+        "→ 7",
+        "→ 8"
+      ],
+      "keywords": [
+        "parking places",
+        "gates",
+        "fire station",
+        "vehicle access",
+        "parking dimensions"
+      ],
+      "tags_architectural": [
+        "circulation",
+        "clearance",
+        "safety",
+        "ergonomics"
+      ],
+      "confidence": 0.9
+    },
+    {
+      "id": "4122fb96e4bd1976-296-vision-3",
+      "pdf_page": 296,
+      "book_page": 283,
+      "chapter": "INDUSTRY AND TRADE",
+      "section": "Workshops",
+      "title": "Usual dimensions of current fire-service vehicles",
+      "summary": "A table lists fire-service vehicle types and their actual total permissible weight, wheelbase, turning-circle dimension, length, width, and greatest height for 4WD vehicles with roof lights. The source describes these as usual dimensions from one of the largest German manufacturers.",
+      "building_type": "Fire station",
+      "spaces": [
+        "Fire-engine parking",
+        "Vehicle workshop",
+        "Vehicle access and turning areas"
+      ],
+      "uses": [
+        "Parking and accommodating fire-service vehicles",
+        "Planning vehicle access and maneuvering"
+      ],
+      "furniture_equipment": [
+        "Fire engines",
+        "Water tenders",
+        "Foam tenders",
+        "Turntable ladders",
+        "Equipment trucks",
+        "Hose truck"
+      ],
+      "dimensions": [],
+      "figure_refs": [
+        "9"
+      ],
+      "cross_refs": [],
+      "keywords": [
+        "fire-service vehicles",
+        "vehicle dimensions",
+        "fire engines",
+        "turning circle",
+        "wheelbase"
+      ],
+      "tags_architectural": [
+        "circulation",
+        "clearance",
+        "safety"
+      ],
+      "confidence": 0.88
+    }
+  ]
+}

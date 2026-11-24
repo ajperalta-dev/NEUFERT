@@ -1,0 +1,204 @@
+{
+  "model": "gpt-6-luna",
+  "checks": {
+    "checks": [
+      {
+        "ficha_index": 0,
+        "dimension_index": 0,
+        "status": "verified",
+        "value": 0.6,
+        "value_max": null,
+        "reason": "The table shows 0.6 under m\u00b2/resident for ages 0\u20136."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 1,
+        "status": "verified",
+        "value": 200.0,
+        "value_max": null,
+        "reason": "The table says \u201cup to 200\u201d and \u201cin sight\u201d; the column specifies distance from home in m."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 2,
+        "status": "verified",
+        "value": 2.0,
+        "value_max": null,
+        "reason": "The 0\u20136 row shows 2 in the (min.) column."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 3,
+        "status": "verified",
+        "value": 0.5,
+        "value_max": null,
+        "reason": "The table shows 0.5 under m\u00b2/resident for ages 6\u201312."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 4,
+        "status": "verified",
+        "value": 400.0,
+        "value_max": null,
+        "reason": "The table says \u201cup to 400\u201d in the distance-from-home column, specified in m."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 5,
+        "status": "verified",
+        "value": 5.0,
+        "value_max": null,
+        "reason": "The 6\u201312 row shows 5 in the (min.) column."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 6,
+        "status": "verified",
+        "value": 0.9,
+        "value_max": null,
+        "reason": "The table shows 0.9 under m\u00b2/resident for ages 12\u201318."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 7,
+        "status": "verified",
+        "value": 1000.0,
+        "value_max": null,
+        "reason": "The table says \u201cup to 1000\u201d in the distance-from-home column, specified in m."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 8,
+        "status": "verified",
+        "value": 15.0,
+        "value_max": null,
+        "reason": "The 12\u201318 row shows 15 in the (min.) column."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 9,
+        "status": "verified",
+        "value": 3.0,
+        "value_max": null,
+        "reason": "The text states that the requirement applies to three flats or more."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 10,
+        "status": "verified",
+        "value": 5.0,
+        "value_max": null,
+        "reason": "The text states 5 m\u00b2 playing area per residential unit."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 11,
+        "status": "verified",
+        "value": 40.0,
+        "value_max": null,
+        "reason": "The text states a minimum playground area of 40 m\u00b2."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 12,
+        "status": "verified",
+        "value": 1.0,
+        "value_max": null,
+        "reason": "The text states that outdoor play areas must be fenced at least 1 m high."
+      }
+    ]
+  },
+  "automatic": [
+    {
+      "ficha_index": 0,
+      "dimension_index": 0,
+      "issues": [
+        "Unknown unit"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 1,
+      "issues": []
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 2,
+      "issues": [
+        "Unknown unit"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 3,
+      "issues": [
+        "Unknown unit"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 4,
+      "issues": []
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 5,
+      "issues": [
+        "Unknown unit"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 6,
+      "issues": [
+        "Unknown unit"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 7,
+      "issues": []
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 8,
+      "issues": [
+        "Unknown unit"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 9,
+      "issues": [
+        "Unknown unit"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 10,
+      "issues": [
+        "Unknown unit"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 11,
+      "issues": []
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 12,
+      "issues": []
+    }
+  ],
+  "usage": [
+    {
+      "prompt_tokens": 4328,
+      "completion_tokens": 1611
+    },
+    {
+      "prompt_tokens": 4575,
+      "completion_tokens": 622
+    }
+  ]
+}

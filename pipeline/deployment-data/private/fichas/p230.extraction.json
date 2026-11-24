@@ -1,0 +1,374 @@
+{
+  "fichas": [
+    {
+      "id": "4122fb96e4bd1976-230-vision-0",
+      "pdf_page": 230,
+      "book_page": 217,
+      "chapter": "CULTURAL VENUES",
+      "section": "Theatres",
+      "title": "Rehearsal rooms",
+      "summary": "Theatre rehearsal provision includes at least one rehearsal stage corresponding in dimensions to the main stage. Multipurpose theatres and opera houses may also require orchestra and chorus rehearsal rooms, soloist rehearsal rooms, and a ballet room. The page illustrates typical plans for large-stage, chorus, and orchestra rehearsals.",
+      "building_type": "Theatre",
+      "spaces": [
+        "Rehearsal stage",
+        "Chorus rehearsal room",
+        "Orchestra rehearsal room",
+        "Soloist rehearsal room",
+        "Ballet room"
+      ],
+      "uses": [
+        "Rehearsing productions away from the main stage",
+        "Orchestra rehearsal",
+        "Chorus rehearsal"
+      ],
+      "furniture_equipment": [],
+      "dimensions": [
+        {
+          "label": "Area per singer",
+          "value": 1.4,
+          "value_max": null,
+          "unit": "m²/singer",
+          "context": "Chorus rehearsal room; approximate area per singer.",
+          "status": "uncertain",
+          "ocr_raw": "ca. 1.4m2/singer"
+        },
+        {
+          "label": "Minimum room area",
+          "value": 50.0,
+          "value_max": null,
+          "unit": "m²",
+          "context": "Chorus rehearsal room; stated minimum.",
+          "status": "uncertain",
+          "ocr_raw": "minimum 50 m²"
+        },
+        {
+          "label": "Volume per singer",
+          "value": 7.0,
+          "value_max": null,
+          "unit": "m³/singer",
+          "context": "Chorus rehearsal room; approximate volume per singer.",
+          "status": "uncertain",
+          "ocr_raw": "ca. 7 m3/singer"
+        },
+        {
+          "label": "Area per musician",
+          "value": 2.0,
+          "value_max": 2.4,
+          "unit": "m²/musician",
+          "context": "Orchestra rehearsal room; approximate area per musician.",
+          "status": "uncertain",
+          "ocr_raw": "ca. 2.0-2.4m2/musician"
+        },
+        {
+          "label": "Volume per musician",
+          "value": 8.0,
+          "value_max": 10.0,
+          "unit": "m³/musician",
+          "context": "Orchestra rehearsal room; approximate volume per musician.",
+          "status": "uncertain",
+          "ocr_raw": "ca. 8.0-10m3/musician"
+        }
+      ],
+      "figure_refs": [
+        "1 Large rehearsal stage, typical plan",
+        "2 Chorus rehearsal room, typical plan",
+        "3 Orchestra rehearsal room, typical plan"
+      ],
+      "cross_refs": [],
+      "keywords": [
+        "rehearsal stage",
+        "chorus",
+        "orchestra",
+        "opera house",
+        "multipurpose theatre"
+      ],
+      "tags_architectural": [
+        "spatial_proportion"
+      ],
+      "confidence": 0.97
+    },
+    {
+      "id": "4122fb96e4bd1976-230-vision-1",
+      "pdf_page": 230,
+      "book_page": 217,
+      "chapter": "CULTURAL VENUES",
+      "section": "Theatres",
+      "title": "Technical rooms",
+      "summary": "Technical rooms accommodate building services and electrical infrastructure. Their provision is determined by local conditions and specialist design work.",
+      "building_type": "Theatre",
+      "spaces": [
+        "Transformer room",
+        "Medium-voltage switch room",
+        "Low-voltage switch room",
+        "Emergency power supply battery room",
+        "Air-conditioning and ventilation plant room",
+        "Water-supply room"
+      ],
+      "uses": [
+        "Housing electrical switchgear and transformers",
+        "Providing emergency power, ventilation, air conditioning, and water-supply services"
+      ],
+      "furniture_equipment": [
+        "Transformers",
+        "Medium- and low-voltage switchgear",
+        "Emergency power supply batteries",
+        "Air-conditioning and ventilation plant",
+        "Rainwater-system equipment"
+      ],
+      "dimensions": [],
+      "figure_refs": [
+        "4 Entrance floor of Heilbronn City Theatre"
+      ],
+      "cross_refs": [],
+      "keywords": [
+        "technical rooms",
+        "building services",
+        "transformer",
+        "switchgear",
+        "ventilation",
+        "water supply"
+      ],
+      "tags_architectural": [],
+      "confidence": 0.91
+    },
+    {
+      "id": "4122fb96e4bd1976-230-vision-2",
+      "pdf_page": 230,
+      "book_page": 217,
+      "chapter": "CULTURAL VENUES",
+      "section": "Theatres",
+      "title": "Public rooms and foyers",
+      "summary": "Traditional theatre foyers may be divided into a lobby, restaurant or buffet, and smokers’ foyer. Contemporary foyers are also expected to support exhibitions, performances, and regular plays. The text gives approximate foyer area per spectator and notes that a more realistic range may be lower.",
+      "building_type": "Theatre",
+      "spaces": [
+        "Entrance foyer",
+        "Lobby",
+        "Restaurant or buffet",
+        "Smokers’ foyer",
+        "Studio foyer"
+      ],
+      "uses": [
+        "Waiting and gathering before performances",
+        "Exhibitions",
+        "Performances and regular plays"
+      ],
+      "furniture_equipment": [],
+      "dimensions": [
+        {
+          "label": "Foyer area per spectator",
+          "value": 0.8,
+          "value_max": 2.0,
+          "unit": "m²/spectator",
+          "context": "General stated area range for theatre foyers.",
+          "status": "uncertain",
+          "ocr_raw": "Area of the foyers 0.8-2.0 m2/spectator"
+        },
+        {
+          "label": "Foyer area per spectator, more realistic",
+          "value": 0.6,
+          "value_max": 0.8,
+          "unit": "m²/spectator",
+          "context": "More realistic foyer area range stated in the text.",
+          "status": "uncertain",
+          "ocr_raw": "more realistic is 0.6-0.8 m2/spectator"
+        }
+      ],
+      "figure_refs": [
+        "4 Entrance floor of Heilbronn City Theatre"
+      ],
+      "cross_refs": [],
+      "keywords": [
+        "foyer",
+        "lobby",
+        "public rooms",
+        "exhibition",
+        "buffet"
+      ],
+      "tags_architectural": [
+        "circulation"
+      ],
+      "confidence": 0.96
+    },
+    {
+      "id": "4122fb96e4bd1976-230-vision-3",
+      "pdf_page": 230,
+      "book_page": 217,
+      "chapter": "CULTURAL VENUES",
+      "section": "Theatres",
+      "title": "Cloakrooms, queues, and sanitary facilities",
+      "summary": "Cloakroom provision is expressed per visitor, with optional lockers. The foyer also serves as a waiting and queuing area, with associated WCs. The text specifies WC proportions for men and women and minimum provision of one WC for each.",
+      "building_type": "Theatre",
+      "spaces": [
+        "Cloakroom",
+        "Foyer",
+        "Waiting and queuing area",
+        "Men’s WC",
+        "Women’s WC",
+        "Entrance hall"
+      ],
+      "uses": [
+        "Storing visitors’ coats",
+        "Waiting and queuing",
+        "Providing visitor sanitary facilities"
+      ],
+      "furniture_equipment": [
+        "Cloakroom rail",
+        "Lockers",
+        "Day and evening cash desks"
+      ],
+      "dimensions": [
+        {
+          "label": "Cloakroom rail length",
+          "value": 4.0,
+          "value_max": null,
+          "unit": "running m/100 visitors",
+          "context": "Cloakroom provision per 100 visitors.",
+          "status": "uncertain",
+          "ocr_raw": "Per 100 visitors: 4 running m of rail"
+        },
+        {
+          "label": "Locker provision",
+          "value": 1.0,
+          "value_max": null,
+          "unit": "locker/4 visitors",
+          "context": "Optional locker provision.",
+          "status": "uncertain",
+          "ocr_raw": "one locker for every four visitors"
+        },
+        {
+          "label": "WC provision",
+          "value": 1.0,
+          "value_max": null,
+          "unit": "WC/100 people",
+          "context": "Associated WC provision stated for the foyer.",
+          "status": "uncertain",
+          "ocr_raw": "one WC/100 people"
+        },
+        {
+          "label": "Men’s share of WCs",
+          "value": 1.0,
+          "value_max": null,
+          "unit": "fraction",
+          "context": "The text allocates one third of the WCs to men.",
+          "status": "uncertain",
+          "ocr_raw": "1/3 gents"
+        },
+        {
+          "label": "Women’s share of WCs",
+          "value": 2.0,
+          "value_max": null,
+          "unit": "fractions",
+          "context": "The text allocates two thirds of the WCs to women.",
+          "status": "uncertain",
+          "ocr_raw": "2/3 ladies"
+        },
+        {
+          "label": "Minimum men’s WCs",
+          "value": 1.0,
+          "value_max": null,
+          "unit": "WC",
+          "context": "Minimum provision, regardless of the stated proportion.",
+          "status": "uncertain",
+          "ocr_raw": "min. one gents’ WC"
+        },
+        {
+          "label": "Minimum women’s WCs",
+          "value": 1.0,
+          "value_max": null,
+          "unit": "WC",
+          "context": "Minimum provision, regardless of the stated proportion.",
+          "status": "uncertain",
+          "ocr_raw": "and one ladies’ WC"
+        }
+      ],
+      "figure_refs": [
+        "4 Entrance floor of Heilbronn City Theatre"
+      ],
+      "cross_refs": [
+        "p. 216"
+      ],
+      "keywords": [
+        "cloakroom",
+        "coat rail",
+        "lockers",
+        "queue",
+        "WCs",
+        "cash desks"
+      ],
+      "tags_architectural": [
+        "circulation",
+        "accessibility"
+      ],
+      "confidence": 0.95
+    },
+    {
+      "id": "4122fb96e4bd1976-230-vision-4",
+      "pdf_page": 230,
+      "book_page": 217,
+      "chapter": "CULTURAL VENUES",
+      "section": "Theatres",
+      "title": "Theatre evacuation plans and emergency access",
+      "summary": "The page shows evacuation plans for the Trier and Lünen city theatres and refers to local conditions and Public Assembly Regulations for external access and emergency exits. It notes the principle that audiences should have enclosed emergency stairs for each tier.",
+      "building_type": "Theatre",
+      "spaces": [
+        "Auditorium tiers",
+        "Enclosed emergency stairs",
+        "External access",
+        "Emergency exits"
+      ],
+      "uses": [
+        "Evacuating audiences",
+        "Providing emergency egress from auditorium tiers"
+      ],
+      "furniture_equipment": [],
+      "dimensions": [
+        {
+          "label": "Trier City Theatre seating capacity",
+          "value": 626.0,
+          "value_max": null,
+          "unit": "seats",
+          "context": "Capacity given in the caption to the evacuation plan.",
+          "status": "uncertain",
+          "ocr_raw": "Evacuation plan, Trier City Theatre (626 seats)"
+        },
+        {
+          "label": "Lünen City Theatre seating capacity",
+          "value": 765.0,
+          "value_max": null,
+          "unit": "seats",
+          "context": "Capacity given in the caption to the evacuation plan.",
+          "status": "uncertain",
+          "ocr_raw": "Evacuation plan, Lünen City Theatre (765 seats)"
+        },
+        {
+          "label": "Year of Vienna theatre fire",
+          "value": 1881.0,
+          "value_max": null,
+          "unit": "year",
+          "context": "Historical event associated in the text with changes to audience emergency-stair requirements.",
+          "status": "uncertain",
+          "ocr_raw": "The Vienna theatre fire in 1881"
+        }
+      ],
+      "figure_refs": [
+        "5 Evacuation plan, Trier City Theatre",
+        "6 Evacuation plan, Lünen City Theatre"
+      ],
+      "cross_refs": [
+        "p. 211"
+      ],
+      "keywords": [
+        "evacuation",
+        "emergency exits",
+        "emergency stairs",
+        "Public Assembly Regulations",
+        "auditorium"
+      ],
+      "tags_architectural": [
+        "safety",
+        "circulation"
+      ],
+      "confidence": 0.93
+    }
+  ]
+}

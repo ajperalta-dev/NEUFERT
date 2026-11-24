@@ -1,0 +1,123 @@
+{
+  "fichas": [
+    {
+      "id": "4122fb96e4bd1976-504-vision-0",
+      "pdf_page": 504,
+      "book_page": 491,
+      "chapter": "BUILDING SERVICES",
+      "section": "Daylight",
+      "title": "Daylight: Insolation and Sun-Path Diagrams",
+      "summary": "Explains how sun position, seasonal daylight and shadowing affect building elevations and sides. Sun-path diagrams show the winter-solstice path for latitude 51.5° north and the sun’s midday positions on significant dates. A shadow-construction method transfers azimuth and solar altitude information between plan and elevation. Separate diagrams illustrate sunshine and shadow conditions at the summer solstice, equinox and winter solstice.",
+      "building_type": "General building design",
+      "spaces": [
+        "Building elevations",
+        "Building plans"
+      ],
+      "uses": [
+        "Assess seasonal sunshine and shadow on building sides",
+        "Determine shadow boundaries for a chosen time and date using plan and elevation"
+      ],
+      "furniture_equipment": [],
+      "dimensions": [
+        {
+          "label": "Latitude",
+          "value": 51.5,
+          "value_max": null,
+          "unit": "degrees north",
+          "context": "Latitude used for the winter-solstice sun-path diagram (London–Dortmund).",
+          "status": "uncertain",
+          "ocr_raw": "latitude 51.5° north (London – Dortmund)"
+        },
+        {
+          "label": "Winter-solstice daylight",
+          "value": 7.5,
+          "value_max": null,
+          "unit": "hours",
+          "context": "Day length shown on the sun-path diagram; the diagram also labels 16.5 hours of night.",
+          "status": "uncertain",
+          "ocr_raw": "7.5 h day; 16.5 h night"
+        },
+        {
+          "label": "Winter-solstice night",
+          "value": 16.5,
+          "value_max": null,
+          "unit": "hours",
+          "context": "Night length shown on the sun-path diagram.",
+          "status": "uncertain",
+          "ocr_raw": "16.5 h night"
+        },
+        {
+          "label": "Solar position angle",
+          "value": 15.1,
+          "value_max": null,
+          "unit": "degrees",
+          "context": "One of the angles shown in the diagram of the sun’s midday position on significant days.",
+          "status": "uncertain",
+          "ocr_raw": "15.1°"
+        },
+        {
+          "label": "Solar position angle",
+          "value": 38.5,
+          "value_max": null,
+          "unit": "degrees",
+          "context": "One of the angles shown in the diagram of the sun’s midday position on significant days.",
+          "status": "uncertain",
+          "ocr_raw": "38.5°"
+        },
+        {
+          "label": "Solar position angle",
+          "value": 61.9,
+          "value_max": null,
+          "unit": "degrees",
+          "context": "One of the angles shown in the diagram of the sun’s midday position on significant days.",
+          "status": "uncertain",
+          "ocr_raw": "61.9°"
+        },
+        {
+          "label": "Solar altitude",
+          "value": 37.1,
+          "value_max": null,
+          "unit": "degrees",
+          "context": "Solar altitude illustrated in the shadow-construction example.",
+          "status": "uncertain",
+          "ocr_raw": "37.1° solar altitude"
+        },
+        {
+          "label": "Azimuth",
+          "value": 19.0,
+          "value_max": null,
+          "unit": "degrees",
+          "context": "Azimuth shown in the shadow-construction example.",
+          "status": "uncertain",
+          "ocr_raw": "azimuth 19°"
+        }
+      ],
+      "figure_refs": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7"
+      ],
+      "cross_refs": [
+        "p. 490"
+      ],
+      "keywords": [
+        "daylight",
+        "insolation",
+        "sun path",
+        "solstice",
+        "equinox",
+        "shadow construction",
+        "solar altitude",
+        "azimuth"
+      ],
+      "tags_architectural": [
+        "daylighting"
+      ],
+      "confidence": 0.92
+    }
+  ]
+}

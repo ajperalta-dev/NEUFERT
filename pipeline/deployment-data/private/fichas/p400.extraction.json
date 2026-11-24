@@ -1,0 +1,941 @@
+{
+  "fichas": [
+    {
+      "id": "4122fb96e4bd1976-400-vision-0",
+      "pdf_page": 400,
+      "book_page": 387,
+      "chapter": "TRANSPORT",
+      "section": "Parking Facilities",
+      "title": "Parking Facilities: Vehicles—Cars",
+      "summary": "Reference sheet showing typical bicycle, motorcycle, and car dimensions, turning radii, and vehicle weights for space requirements and regulations for garages, parking spaces, and access and exit driveways. Dimensions are shown in metres and weights in tonnes.",
+      "building_type": "Parking facilities",
+      "spaces": [
+        "Garages",
+        "Parking spaces",
+        "Access and exit driveways"
+      ],
+      "uses": [
+        "Assessing vehicle space requirements",
+        "Planning parking and driveway layouts"
+      ],
+      "furniture_equipment": [],
+      "dimensions": [
+        {
+          "label": "Bicycle length",
+          "value": 1.7,
+          "value_max": 1.9,
+          "unit": "m",
+          "context": "Typical bicycle; length range.",
+          "status": "uncertain",
+          "ocr_raw": "1.70-1.90"
+        },
+        {
+          "label": "Bicycle width",
+          "value": 0.6,
+          "value_max": null,
+          "unit": "m",
+          "context": "Typical bicycle; width.",
+          "status": "uncertain",
+          "ocr_raw": "60"
+        },
+        {
+          "label": "Bicycle height",
+          "value": 1.0,
+          "value_max": 1.25,
+          "unit": "m",
+          "context": "Typical bicycle; height range.",
+          "status": "uncertain",
+          "ocr_raw": "1.00-1.25"
+        },
+        {
+          "label": "Motorcycle length",
+          "value": 2.25,
+          "value_max": null,
+          "unit": "m",
+          "context": "Typical motorcycle; length.",
+          "status": "uncertain",
+          "ocr_raw": "2.25"
+        },
+        {
+          "label": "Motorcycle width",
+          "value": 0.75,
+          "value_max": null,
+          "unit": "m",
+          "context": "Typical motorcycle; width.",
+          "status": "uncertain",
+          "ocr_raw": "75"
+        },
+        {
+          "label": "Motorcycle height",
+          "value": 2.05,
+          "value_max": 2.1,
+          "unit": "m",
+          "context": "Typical motorcycle; height range.",
+          "status": "uncertain",
+          "ocr_raw": "2.05-2.10"
+        },
+        {
+          "label": "Motorcycle height, front view",
+          "value": 1.8,
+          "value_max": null,
+          "unit": "m",
+          "context": "Typical motorcycle; front-view height.",
+          "status": "uncertain",
+          "ocr_raw": "1.80"
+        },
+        {
+          "label": "Motorcycle weight",
+          "value": 0.6,
+          "value_max": null,
+          "unit": "t",
+          "context": "Typical motorcycle; weight.",
+          "status": "uncertain",
+          "ocr_raw": "0.6t"
+        },
+        {
+          "label": "Mini length",
+          "value": 3.05,
+          "value_max": null,
+          "unit": "m",
+          "context": "Mini; length.",
+          "status": "uncertain",
+          "ocr_raw": "3.05"
+        },
+        {
+          "label": "Mini width",
+          "value": 1.41,
+          "value_max": null,
+          "unit": "m",
+          "context": "Mini; width components are printed as 1.41 and 95.",
+          "status": "uncertain",
+          "ocr_raw": "1.41---95"
+        },
+        {
+          "label": "Mini height",
+          "value": 1.35,
+          "value_max": null,
+          "unit": "m",
+          "context": "Mini; height.",
+          "status": "uncertain",
+          "ocr_raw": "1.35"
+        },
+        {
+          "label": "Mini turning radius",
+          "value": 4.8,
+          "value_max": null,
+          "unit": "m",
+          "context": "Mini; turning radius.",
+          "status": "uncertain",
+          "ocr_raw": "radius 4.8"
+        },
+        {
+          "label": "Mini weight",
+          "value": 0.6,
+          "value_max": null,
+          "unit": "t",
+          "context": "Mini; weight.",
+          "status": "uncertain",
+          "ocr_raw": "0.6t"
+        },
+        {
+          "label": "VW Lupo length",
+          "value": 3.52,
+          "value_max": null,
+          "unit": "m",
+          "context": "VW Lupo; length.",
+          "status": "uncertain",
+          "ocr_raw": "3.52"
+        },
+        {
+          "label": "VW Lupo width",
+          "value": 1.64,
+          "value_max": null,
+          "unit": "m",
+          "context": "VW Lupo; width components are printed as 1.64 and 1.13.",
+          "status": "uncertain",
+          "ocr_raw": "1.64 +1.13"
+        },
+        {
+          "label": "VW Lupo height",
+          "value": 1.46,
+          "value_max": null,
+          "unit": "m",
+          "context": "VW Lupo; height.",
+          "status": "uncertain",
+          "ocr_raw": "1.46"
+        },
+        {
+          "label": "VW Lupo turning radius",
+          "value": 4.92,
+          "value_max": null,
+          "unit": "m",
+          "context": "VW Lupo; turning radius.",
+          "status": "uncertain",
+          "ocr_raw": "radius 4.92"
+        },
+        {
+          "label": "VW Lupo weight",
+          "value": 0.9,
+          "value_max": null,
+          "unit": "t",
+          "context": "VW Lupo; weight.",
+          "status": "uncertain",
+          "ocr_raw": "0.9t"
+        },
+        {
+          "label": "VW Polo length",
+          "value": 3.71,
+          "value_max": null,
+          "unit": "m",
+          "context": "VW Polo; length.",
+          "status": "uncertain",
+          "ocr_raw": "3.71"
+        },
+        {
+          "label": "VW Polo width",
+          "value": 1.65,
+          "value_max": null,
+          "unit": "m",
+          "context": "VW Polo; width components are printed as 1.65 and 1.10.",
+          "status": "uncertain",
+          "ocr_raw": "1.65 +1.10"
+        },
+        {
+          "label": "VW Polo height",
+          "value": 1.42,
+          "value_max": null,
+          "unit": "m",
+          "context": "VW Polo; height.",
+          "status": "uncertain",
+          "ocr_raw": "1.42"
+        },
+        {
+          "label": "VW Polo turning radius",
+          "value": 5.45,
+          "value_max": null,
+          "unit": "m",
+          "context": "VW Polo; turning radius.",
+          "status": "uncertain",
+          "ocr_raw": "radius 5.45"
+        },
+        {
+          "label": "VW Polo weight",
+          "value": 0.92,
+          "value_max": null,
+          "unit": "t",
+          "context": "VW Polo; weight.",
+          "status": "uncertain",
+          "ocr_raw": "0.92t"
+        },
+        {
+          "label": "New Beetle length",
+          "value": 4.08,
+          "value_max": null,
+          "unit": "m",
+          "context": "New Beetle; length.",
+          "status": "uncertain",
+          "ocr_raw": "4.08"
+        },
+        {
+          "label": "New Beetle width",
+          "value": 1.72,
+          "value_max": null,
+          "unit": "m",
+          "context": "New Beetle; width components are printed as 1.72 and 94.",
+          "status": "uncertain",
+          "ocr_raw": "1.72 +94"
+        },
+        {
+          "label": "New Beetle height",
+          "value": 1.49,
+          "value_max": null,
+          "unit": "m",
+          "context": "New Beetle; height.",
+          "status": "uncertain",
+          "ocr_raw": "1.49"
+        },
+        {
+          "label": "New Beetle turning radius",
+          "value": 5.45,
+          "value_max": null,
+          "unit": "m",
+          "context": "New Beetle; turning radius.",
+          "status": "uncertain",
+          "ocr_raw": "radius 5.45"
+        },
+        {
+          "label": "New Beetle weight",
+          "value": 1.2,
+          "value_max": null,
+          "unit": "t",
+          "context": "New Beetle; weight.",
+          "status": "uncertain",
+          "ocr_raw": "1.2t"
+        },
+        {
+          "label": "VW Bora length",
+          "value": 4.15,
+          "value_max": null,
+          "unit": "m",
+          "context": "VW Bora; length.",
+          "status": "uncertain",
+          "ocr_raw": "4.15"
+        },
+        {
+          "label": "VW Bora width",
+          "value": 1.73,
+          "value_max": null,
+          "unit": "m",
+          "context": "VW Bora; width components are printed as 1.73 and 90.",
+          "status": "uncertain",
+          "ocr_raw": "1.73 +90"
+        },
+        {
+          "label": "VW Bora height",
+          "value": 1.44,
+          "value_max": null,
+          "unit": "m",
+          "context": "VW Bora; height.",
+          "status": "uncertain",
+          "ocr_raw": "1.44"
+        },
+        {
+          "label": "VW Bora turning radius",
+          "value": 5.45,
+          "value_max": null,
+          "unit": "m",
+          "context": "VW Bora; turning radius.",
+          "status": "uncertain",
+          "ocr_raw": "radius 5.45"
+        },
+        {
+          "label": "VW Bora weight",
+          "value": 1.2,
+          "value_max": null,
+          "unit": "t",
+          "context": "VW Bora; weight.",
+          "status": "uncertain",
+          "ocr_raw": "1.2t"
+        },
+        {
+          "label": "VW Golf length",
+          "value": 4.15,
+          "value_max": null,
+          "unit": "m",
+          "context": "VW Golf; length.",
+          "status": "uncertain",
+          "ocr_raw": "4.15"
+        },
+        {
+          "label": "VW Golf width",
+          "value": 1.73,
+          "value_max": null,
+          "unit": "m",
+          "context": "VW Golf; width components are printed as 1.73 and 1.10.",
+          "status": "uncertain",
+          "ocr_raw": "1.73 +1.10"
+        },
+        {
+          "label": "VW Golf height",
+          "value": 1.44,
+          "value_max": null,
+          "unit": "m",
+          "context": "VW Golf; height.",
+          "status": "uncertain",
+          "ocr_raw": "1.44"
+        },
+        {
+          "label": "VW Golf turning radius",
+          "value": 5.45,
+          "value_max": null,
+          "unit": "m",
+          "context": "VW Golf; turning radius.",
+          "status": "uncertain",
+          "ocr_raw": "radius 5.45"
+        },
+        {
+          "label": "VW Golf weight",
+          "value": 1.08,
+          "value_max": null,
+          "unit": "t",
+          "context": "VW Golf; weight.",
+          "status": "uncertain",
+          "ocr_raw": "1.08t"
+        },
+        {
+          "label": "VW Passat length",
+          "value": 4.67,
+          "value_max": null,
+          "unit": "m",
+          "context": "VW Passat; length.",
+          "status": "uncertain",
+          "ocr_raw": "4.67"
+        },
+        {
+          "label": "VW Passat width",
+          "value": 1.74,
+          "value_max": null,
+          "unit": "m",
+          "context": "VW Passat; width components are printed as 1.74 and 96.",
+          "status": "uncertain",
+          "ocr_raw": "1.74 +96"
+        },
+        {
+          "label": "VW Passat height",
+          "value": 1.49,
+          "value_max": null,
+          "unit": "m",
+          "context": "VW Passat; height.",
+          "status": "uncertain",
+          "ocr_raw": "1.49"
+        },
+        {
+          "label": "VW Passat turning radius",
+          "value": 5.7,
+          "value_max": null,
+          "unit": "m",
+          "context": "VW Passat; turning radius.",
+          "status": "uncertain",
+          "ocr_raw": "radius 5.70"
+        },
+        {
+          "label": "VW Passat weight",
+          "value": 1.25,
+          "value_max": null,
+          "unit": "t",
+          "context": "VW Passat; weight.",
+          "status": "uncertain",
+          "ocr_raw": "1.25t"
+        },
+        {
+          "label": "VW Passat estate length",
+          "value": 4.67,
+          "value_max": null,
+          "unit": "m",
+          "context": "VW Passat estate; length.",
+          "status": "uncertain",
+          "ocr_raw": "4.67"
+        },
+        {
+          "label": "VW Passat estate width",
+          "value": 1.74,
+          "value_max": null,
+          "unit": "m",
+          "context": "VW Passat estate; width components are printed as 1.74 and 96.",
+          "status": "uncertain",
+          "ocr_raw": "1.74 +96"
+        },
+        {
+          "label": "VW Passat estate height",
+          "value": 1.49,
+          "value_max": null,
+          "unit": "m",
+          "context": "VW Passat estate; height.",
+          "status": "uncertain",
+          "ocr_raw": "1.49"
+        },
+        {
+          "label": "VW Passat estate turning radius",
+          "value": 5.7,
+          "value_max": null,
+          "unit": "m",
+          "context": "VW Passat estate; turning radius.",
+          "status": "uncertain",
+          "ocr_raw": "radius 5.70"
+        },
+        {
+          "label": "VW Passat estate weight",
+          "value": 1.25,
+          "value_max": null,
+          "unit": "t",
+          "context": "VW Passat estate; weight.",
+          "status": "uncertain",
+          "ocr_raw": "1.25t"
+        },
+        {
+          "label": "Sharan length",
+          "value": 4.61,
+          "value_max": null,
+          "unit": "m",
+          "context": "Sharan; length.",
+          "status": "uncertain",
+          "ocr_raw": "4.61"
+        },
+        {
+          "label": "Sharan width",
+          "value": 1.81,
+          "value_max": null,
+          "unit": "m",
+          "context": "Sharan; width components are printed as 1.81 and 79.",
+          "status": "uncertain",
+          "ocr_raw": "1.81 +79"
+        },
+        {
+          "label": "Sharan height",
+          "value": 1.73,
+          "value_max": null,
+          "unit": "m",
+          "context": "Sharan; height.",
+          "status": "uncertain",
+          "ocr_raw": "1.73"
+        },
+        {
+          "label": "Sharan turning radius",
+          "value": 5.85,
+          "value_max": null,
+          "unit": "m",
+          "context": "Sharan; turning radius.",
+          "status": "uncertain",
+          "ocr_raw": "radius 5.85"
+        },
+        {
+          "label": "Sharan weight",
+          "value": 1.56,
+          "value_max": null,
+          "unit": "t",
+          "context": "Sharan; weight.",
+          "status": "uncertain",
+          "ocr_raw": "1.56t"
+        },
+        {
+          "label": "Audi A3 length",
+          "value": 4.15,
+          "value_max": null,
+          "unit": "m",
+          "context": "Audi A3; length.",
+          "status": "uncertain",
+          "ocr_raw": "4.15"
+        },
+        {
+          "label": "Audi A3 width",
+          "value": 1.72,
+          "value_max": null,
+          "unit": "m",
+          "context": "Audi A3; width components are printed as 1.72 and 1.11.",
+          "status": "uncertain",
+          "ocr_raw": "1.72 +1.11"
+        },
+        {
+          "label": "Audi A3 height",
+          "value": 1.42,
+          "value_max": null,
+          "unit": "m",
+          "context": "Audi A3; height.",
+          "status": "uncertain",
+          "ocr_raw": "1.42"
+        },
+        {
+          "label": "Audi A3 turning radius",
+          "value": 5.45,
+          "value_max": null,
+          "unit": "m",
+          "context": "Audi A3; turning radius.",
+          "status": "uncertain",
+          "ocr_raw": "radius 5.45"
+        },
+        {
+          "label": "Audi A3 weight",
+          "value": 1.1,
+          "value_max": null,
+          "unit": "t",
+          "context": "Audi A3; weight.",
+          "status": "uncertain",
+          "ocr_raw": "1.1t"
+        },
+        {
+          "label": "Audi A4 length",
+          "value": 4.48,
+          "value_max": null,
+          "unit": "m",
+          "context": "Audi A4; length.",
+          "status": "uncertain",
+          "ocr_raw": "4.48"
+        },
+        {
+          "label": "Audi A4 width",
+          "value": 1.73,
+          "value_max": null,
+          "unit": "m",
+          "context": "Audi A4; width components are printed as 1.73 and 98.",
+          "status": "uncertain",
+          "ocr_raw": "1.73 +98"
+        },
+        {
+          "label": "Audi A4 height",
+          "value": 1.41,
+          "value_max": null,
+          "unit": "m",
+          "context": "Audi A4; height.",
+          "status": "uncertain",
+          "ocr_raw": "1.41"
+        },
+        {
+          "label": "Audi A4 turning radius",
+          "value": 5.58,
+          "value_max": null,
+          "unit": "m",
+          "context": "Audi A4; turning radius.",
+          "status": "uncertain",
+          "ocr_raw": "radius 5.58"
+        },
+        {
+          "label": "Audi A4 weight",
+          "value": 1.2,
+          "value_max": null,
+          "unit": "t",
+          "context": "Audi A4; weight.",
+          "status": "uncertain",
+          "ocr_raw": "1.2t"
+        },
+        {
+          "label": "Audi A4 estate length",
+          "value": 4.48,
+          "value_max": null,
+          "unit": "m",
+          "context": "Audi A4 estate; length.",
+          "status": "uncertain",
+          "ocr_raw": "4.48"
+        },
+        {
+          "label": "Audi A4 estate width",
+          "value": 1.73,
+          "value_max": null,
+          "unit": "m",
+          "context": "Audi A4 estate; width components are printed as 1.73 and 98.",
+          "status": "uncertain",
+          "ocr_raw": "1.73 +98"
+        },
+        {
+          "label": "Audi A4 estate height",
+          "value": 1.41,
+          "value_max": null,
+          "unit": "m",
+          "context": "Audi A4 estate; height.",
+          "status": "uncertain",
+          "ocr_raw": "1.41"
+        },
+        {
+          "label": "Audi A4 estate turning radius",
+          "value": 5.58,
+          "value_max": null,
+          "unit": "m",
+          "context": "Audi A4 estate; turning radius.",
+          "status": "uncertain",
+          "ocr_raw": "radius 5.58"
+        },
+        {
+          "label": "Audi A4 estate weight",
+          "value": 1.3,
+          "value_max": null,
+          "unit": "t",
+          "context": "Audi A4 estate; weight.",
+          "status": "uncertain",
+          "ocr_raw": "1.3t"
+        },
+        {
+          "label": "Audi A6 length",
+          "value": 4.79,
+          "value_max": null,
+          "unit": "m",
+          "context": "Audi A6; length.",
+          "status": "uncertain",
+          "ocr_raw": "4.79"
+        },
+        {
+          "label": "Audi A6 width",
+          "value": 1.81,
+          "value_max": null,
+          "unit": "m",
+          "context": "Audi A6; width components are printed as 1.81 and 96.",
+          "status": "uncertain",
+          "ocr_raw": "1.81 +96"
+        },
+        {
+          "label": "Audi A6 height",
+          "value": 1.45,
+          "value_max": null,
+          "unit": "m",
+          "context": "Audi A6; height.",
+          "status": "uncertain",
+          "ocr_raw": "1.45"
+        },
+        {
+          "label": "Audi A6 turning radius",
+          "value": 5.84,
+          "value_max": null,
+          "unit": "m",
+          "context": "Audi A6; turning radius.",
+          "status": "uncertain",
+          "ocr_raw": "radius 5.84"
+        },
+        {
+          "label": "Audi A6 weight",
+          "value": 1.4,
+          "value_max": null,
+          "unit": "t",
+          "context": "Audi A6; weight.",
+          "status": "uncertain",
+          "ocr_raw": "1.4t"
+        },
+        {
+          "label": "Audi A6 estate length",
+          "value": 4.79,
+          "value_max": null,
+          "unit": "m",
+          "context": "Audi A6 estate; length.",
+          "status": "uncertain",
+          "ocr_raw": "4.79"
+        },
+        {
+          "label": "Audi A6 estate width",
+          "value": 1.81,
+          "value_max": null,
+          "unit": "m",
+          "context": "Audi A6 estate; width components are printed as 1.81 and 96.",
+          "status": "uncertain",
+          "ocr_raw": "1.81 +96"
+        },
+        {
+          "label": "Audi A6 estate height",
+          "value": 1.45,
+          "value_max": null,
+          "unit": "m",
+          "context": "Audi A6 estate; height.",
+          "status": "uncertain",
+          "ocr_raw": "1.45"
+        },
+        {
+          "label": "Audi A6 estate turning radius",
+          "value": 5.84,
+          "value_max": null,
+          "unit": "m",
+          "context": "Audi A6 estate; turning radius.",
+          "status": "uncertain",
+          "ocr_raw": "radius 5.84"
+        },
+        {
+          "label": "Audi A6 estate weight",
+          "value": 1.5,
+          "value_max": null,
+          "unit": "t",
+          "context": "Audi A6 estate; weight.",
+          "status": "uncertain",
+          "ocr_raw": "1.5t"
+        },
+        {
+          "label": "BMW 3 series length",
+          "value": 4.43,
+          "value_max": null,
+          "unit": "m",
+          "context": "BMW 3 series; length.",
+          "status": "uncertain",
+          "ocr_raw": "4.43"
+        },
+        {
+          "label": "BMW 3 series width",
+          "value": 1.7,
+          "value_max": null,
+          "unit": "m",
+          "context": "BMW 3 series; width components are printed as 1.70 and 92.",
+          "status": "uncertain",
+          "ocr_raw": "1.70 +92"
+        },
+        {
+          "label": "BMW 3 series height",
+          "value": 1.35,
+          "value_max": null,
+          "unit": "m",
+          "context": "BMW 3 series; height.",
+          "status": "uncertain",
+          "ocr_raw": "1.35"
+        },
+        {
+          "label": "BMW 3 series turning radius",
+          "value": 5.19,
+          "value_max": null,
+          "unit": "m",
+          "context": "BMW 3 series; turning radius.",
+          "status": "uncertain",
+          "ocr_raw": "radius 5.19"
+        },
+        {
+          "label": "BMW 3 series weight",
+          "value": 1.36,
+          "value_max": null,
+          "unit": "t",
+          "context": "BMW 3 series; weight.",
+          "status": "uncertain",
+          "ocr_raw": "1.36t"
+        },
+        {
+          "label": "BMW 3 series Touring length",
+          "value": 4.43,
+          "value_max": null,
+          "unit": "m",
+          "context": "BMW 3 series Touring; length.",
+          "status": "uncertain",
+          "ocr_raw": "4.43"
+        },
+        {
+          "label": "BMW 3 series Touring width",
+          "value": 1.7,
+          "value_max": null,
+          "unit": "m",
+          "context": "BMW 3 series Touring; width components are printed as 1.70 and 92.",
+          "status": "uncertain",
+          "ocr_raw": "1.70 +92"
+        },
+        {
+          "label": "BMW 3 series Touring height",
+          "value": 1.35,
+          "value_max": null,
+          "unit": "m",
+          "context": "BMW 3 series Touring; height.",
+          "status": "uncertain",
+          "ocr_raw": "1.35"
+        },
+        {
+          "label": "BMW 3 series Touring turning radius",
+          "value": 5.19,
+          "value_max": null,
+          "unit": "m",
+          "context": "BMW 3 series Touring; turning radius.",
+          "status": "uncertain",
+          "ocr_raw": "radius 5.19"
+        },
+        {
+          "label": "BMW 3 series Touring weight",
+          "value": 1.36,
+          "value_max": null,
+          "unit": "t",
+          "context": "BMW 3 series Touring; weight.",
+          "status": "uncertain",
+          "ocr_raw": "1.36t"
+        },
+        {
+          "label": "BMW 5 series length",
+          "value": 4.77,
+          "value_max": null,
+          "unit": "m",
+          "context": "BMW 5 series; length.",
+          "status": "uncertain",
+          "ocr_raw": "4.77"
+        },
+        {
+          "label": "BMW 5 series width",
+          "value": 1.8,
+          "value_max": null,
+          "unit": "m",
+          "context": "BMW 5 series; width components are printed as 1.80 and 96.",
+          "status": "uncertain",
+          "ocr_raw": "1.80 +96"
+        },
+        {
+          "label": "BMW 5 series height",
+          "value": 1.41,
+          "value_max": null,
+          "unit": "m",
+          "context": "BMW 5 series; height.",
+          "status": "uncertain",
+          "ocr_raw": "1.41"
+        },
+        {
+          "label": "BMW 5 series turning radius",
+          "value": 5.5,
+          "value_max": null,
+          "unit": "m",
+          "context": "BMW 5 series; turning radius.",
+          "status": "uncertain",
+          "ocr_raw": "radius 5.50"
+        },
+        {
+          "label": "BMW 5 series weight",
+          "value": 1.5,
+          "value_max": null,
+          "unit": "t",
+          "context": "BMW 5 series; weight.",
+          "status": "uncertain",
+          "ocr_raw": "1.5t"
+        },
+        {
+          "label": "BMW 5 series Touring length",
+          "value": 4.8,
+          "value_max": null,
+          "unit": "m",
+          "context": "BMW 5 series Touring; length.",
+          "status": "uncertain",
+          "ocr_raw": "4.80"
+        },
+        {
+          "label": "BMW 5 series Touring width",
+          "value": 1.8,
+          "value_max": null,
+          "unit": "m",
+          "context": "BMW 5 series Touring; width components are printed as 1.80 and 96.",
+          "status": "uncertain",
+          "ocr_raw": "1.80 +96"
+        },
+        {
+          "label": "BMW 5 series Touring height",
+          "value": 1.42,
+          "value_max": null,
+          "unit": "m",
+          "context": "BMW 5 series Touring; height.",
+          "status": "uncertain",
+          "ocr_raw": "1.42"
+        },
+        {
+          "label": "BMW 5 series Touring turning radius",
+          "value": 5.5,
+          "value_max": null,
+          "unit": "m",
+          "context": "BMW 5 series Touring; turning radius.",
+          "status": "uncertain",
+          "ocr_raw": "radius 5.50"
+        },
+        {
+          "label": "BMW 5 series Touring weight",
+          "value": 1.57,
+          "value_max": null,
+          "unit": "t",
+          "context": "BMW 5 series Touring; weight.",
+          "status": "uncertain",
+          "ocr_raw": "1.57t"
+        }
+      ],
+      "figure_refs": [
+        "Figures 1–20: Bicycle, motorcycle, Mini, VW Lupo, VW Polo, New Beetle, VW Bora, VW Golf, VW Passat, VW Passat estate, Sharan, Audi A3, Audi A4, Audi A4 estate, Audi A6, Audi A6 estate, BMW 3 series, BMW 3 series Touring, BMW 5 series, BMW 5 series Touring"
+      ],
+      "cross_refs": [
+        "Vehicles – turning",
+        "Parking spaces",
+        "Multi-storey car parks",
+        "Ramps",
+        "Multi-storey car park regulations",
+        "Parking systems",
+        "Vehicles – trucks",
+        "Trucks – parking and turning",
+        "Service areas",
+        "Petrol stations",
+        "Car wash"
+      ],
+      "keywords": [
+        "parking facilities",
+        "cars",
+        "bicycles",
+        "motorcycles",
+        "vehicle dimensions",
+        "turning radius",
+        "vehicle weight",
+        "garages",
+        "parking spaces",
+        "driveways"
+      ],
+      "tags_architectural": [
+        "circulation",
+        "clearance"
+      ],
+      "confidence": 0.77
+    }
+  ]
+}

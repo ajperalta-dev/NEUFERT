@@ -1,0 +1,143 @@
+{
+  "fichas": [
+    {
+      "id": "4122fb96e4bd1976-517-vision-0",
+      "pdf_page": 517,
+      "book_page": 504,
+      "chapter": "BUILDING SERVICES",
+      "section": "Lighting",
+      "title": "Usual lamps for interior lighting",
+      "summary": "A reference matrix relates room height and nominal illuminance to lamp types used in interior spaces. It lists applications including parking garages, offices, workshops, libraries, sales and exhibition spaces, museums, kitchens, theatres, sports halls, and industrial areas. Lamp abbreviations and their descriptions are provided below the matrix.",
+      "building_type": "Various interior building types",
+      "spaces": [
+        "Parking garages",
+        "Packing rooms",
+        "Side rooms",
+        "Workshops",
+        "Restaurants",
+        "Foyers",
+        "Offices",
+        "Teaching rooms",
+        "Cash desks",
+        "Sitting rooms",
+        "Libraries",
+        "Sales rooms",
+        "Exhibition rooms",
+        "Museums and galleries",
+        "Entrance halls",
+        "Department stores",
+        "Supermarkets",
+        "Display windows",
+        "Hotel kitchens",
+        "Concert stages",
+        "Storerooms",
+        "Industrial sheds",
+        "Churches",
+        "Concert halls and theatres",
+        "Lecture theatres and auditoriums",
+        "Sports and multi-purpose halls",
+        "Drawing offices",
+        "Laboratories",
+        "Reading rooms",
+        "Airports and stations",
+        "Traffic zones",
+        "Event halls",
+        "Large kitchens",
+        "Switch rooms",
+        "High-bay warehouses"
+      ],
+      "uses": [
+        "Select lamp types according to room height, nominal illuminance, and room application.",
+        "Reference typical lamp types for interior lighting."
+      ],
+      "furniture_equipment": [
+        "General-purpose lamps",
+        "Parabolic reflector lamps",
+        "Reflector lamps",
+        "Halogen filament lamps",
+        "Low-voltage halogen and reflector lamps",
+        "Fluorescent lamps",
+        "Compact fluorescent lamps",
+        "Mercury vapour lamps",
+        "Sodium vapour lamps",
+        "Halogen metal vapour lamps"
+      ],
+      "dimensions": [
+        {
+          "label": "Nominal illuminance",
+          "value": 200.0,
+          "value_max": null,
+          "unit": "lx",
+          "context": "Upper threshold in illuminance bands for listed room applications.",
+          "status": "verified",
+          "ocr_raw": "up to 200 lx"
+        },
+        {
+          "label": "Nominal illuminance",
+          "value": 500.0,
+          "value_max": null,
+          "unit": "lx",
+          "context": "Upper threshold in illuminance bands for listed room applications.",
+          "status": "verified",
+          "ocr_raw": "up to 500 lx"
+        },
+        {
+          "label": "Nominal illuminance",
+          "value": 750.0,
+          "value_max": null,
+          "unit": "lx",
+          "context": "Upper threshold in illuminance bands for listed room applications.",
+          "status": "verified",
+          "ocr_raw": "up to 750 lx"
+        },
+        {
+          "label": "Room height",
+          "value": 3.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Room-height category up to this threshold.",
+          "status": "verified",
+          "ocr_raw": "up to\n3m"
+        },
+        {
+          "label": "Room height",
+          "value": 3.0,
+          "value_max": 5.0,
+          "unit": "m",
+          "context": "Room-height category.",
+          "status": "verified",
+          "ocr_raw": "3-5m"
+        },
+        {
+          "label": "Room height",
+          "value": 5.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Room-height category above this threshold.",
+          "status": "verified",
+          "ocr_raw": "over\n5m"
+        }
+      ],
+      "figure_refs": [
+        "1 — Usual lamps for interior lighting"
+      ],
+      "cross_refs": [
+        "BS EN 12665",
+        "DIN 5035",
+        "DIN EN 12464"
+      ],
+      "keywords": [
+        "lighting",
+        "lamps",
+        "illuminance",
+        "room height",
+        "interior lighting",
+        "lamp types"
+      ],
+      "tags_architectural": [
+        "daylighting"
+      ],
+      "confidence": 0.92
+    }
+  ]
+}

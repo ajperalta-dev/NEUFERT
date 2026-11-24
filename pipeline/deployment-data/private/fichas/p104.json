@@ -1,0 +1,86 @@
+{
+  "fichas": [
+    {
+      "id": "4122fb96e4bd1976-104-vision-0",
+      "pdf_page": 104,
+      "book_page": 91,
+      "chapter": "BUILDING COMPONENTS",
+      "section": "Roofs",
+      "title": "Flat Roofs",
+      "summary": "Flat roofs are defined by slopes up to 5%, with a generally recommended minimum slope of 2% and a recommended constructed minimum of 5% (3°) to account for construction tolerances and deflection. The page compares planar and linear structural systems and describes slabs, trusses, beam grillages, and space frames, with illustrated construction examples.",
+      "building_type": "Roof",
+      "spaces": [],
+      "uses": [
+        "Covering buildings, including industrial sheds",
+        "Transferring roof loads through planar or linear structural systems"
+      ],
+      "furniture_equipment": [],
+      "dimensions": [
+        {
+          "label": "Maximum defining slope",
+          "value": 5.0,
+          "value_max": null,
+          "unit": "%",
+          "context": "Flat roofs are defined as roofs with a slope of up to 5%.",
+          "status": "verified",
+          "ocr_raw": "Flat roofs are defined as roofs with a slope of up to 5%."
+        },
+        {
+          "label": "Generally recommended minimum slope",
+          "value": 2.0,
+          "value_max": null,
+          "unit": "%",
+          "context": "General recommendation for flat roofs.",
+          "status": "verified",
+          "ocr_raw": "Flat roofs should generally have a minimum slope of 2%."
+        },
+        {
+          "label": "Recommended constructed minimum slope",
+          "value": 5.0,
+          "value_max": null,
+          "unit": "%",
+          "context": "Recommended slope to account for flatness tolerances and construction deflection; the text also gives an angular equivalent.",
+          "status": "verified",
+          "ocr_raw": "it is recommended to construct flat\nroofs with a minimum slope of 5% (3°)."
+        },
+        {
+          "label": "Angular equivalent of recommended slope",
+          "value": 3.0,
+          "value_max": null,
+          "unit": "°",
+          "context": "Angular equivalent given alongside the recommended constructed minimum slope.",
+          "status": "verified",
+          "ocr_raw": "minimum slope of 5% (3°)."
+        }
+      ],
+      "figure_refs": [
+        "1: Flat roof structures (selection): slabs, trusses, beam grillages",
+        "2: Guyed structure: Fleetguard factory, Quimper; Arch.: Rogers & Partner",
+        "3: Upper and middle nodes of space frames (KEBA tube nodes)",
+        "4: Space frame with KEBA tube node connections (example)"
+      ],
+      "cross_refs": [
+        "Truss structures → 1–2",
+        "Beam grillages → 1–2",
+        "Space frames → 3–4",
+        "Space frame details → 3"
+      ],
+      "keywords": [
+        "flat roofs",
+        "roof construction",
+        "planar structures",
+        "linear structures",
+        "slabs",
+        "trusses",
+        "beam grillages",
+        "space frames",
+        "reinforced concrete",
+        "steel"
+      ],
+      "tags_architectural": [
+        "spatial_proportion"
+      ],
+      "confidence": 0.97
+    }
+  ]
+}

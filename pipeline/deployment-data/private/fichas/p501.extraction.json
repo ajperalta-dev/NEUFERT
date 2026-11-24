@@ -1,0 +1,223 @@
+{
+  "fichas": [
+    {
+      "id": "4122fb96e4bd1976-501-vision-0",
+      "pdf_page": 501,
+      "book_page": 488,
+      "chapter": "BUILDING SERVICES",
+      "section": "Daylight",
+      "title": "Daylight: physical basics",
+      "summary": "Introduces daylight requirements for permanently occupied rooms, the visible spectrum and its wavelengths, and the units used to describe illumination and daylight in interiors. The page also diagrams electromagnetic radiation and the seasons in the northern hemisphere.",
+      "building_type": "General buildings",
+      "spaces": [
+        "Internal rooms",
+        "Rooms for permanent human occupation"
+      ],
+      "uses": [
+        "Provide sufficient daylight in permanently occupied rooms",
+        "Maintain a reasonable visual connection with the outside",
+        "Understand the visible spectrum and daylight measurements"
+      ],
+      "furniture_equipment": [],
+      "dimensions": [
+        {
+          "label": "Visible-light wavelength",
+          "value": 380.0,
+          "value_max": 780.0,
+          "unit": "nm",
+          "context": "Approximate wavelength range of visible light; the page also labels the spectrum endpoints as 380 and 780 nanometres.",
+          "status": "uncertain",
+          "ocr_raw": "wavelengths of approx. 380–780 nm"
+        },
+        {
+          "label": "Earth's axial angle",
+          "value": 23.5,
+          "value_max": null,
+          "unit": "degrees",
+          "context": "Angle of the earth’s axis, cited in the explanation of the sun’s apparent position and seasonal changes.",
+          "status": "uncertain",
+          "ocr_raw": "The angle of the earth’s axis of 23.5°"
+        },
+        {
+          "label": "Daylight illuminance unit",
+          "value": 1.0,
+          "value_max": null,
+          "unit": "%",
+          "context": "The page states that daylight in internal rooms is given in percent; this is a unit reference, not a recommended daylight level.",
+          "status": "uncertain",
+          "ocr_raw": "daylight in internal rooms is given in %"
+        }
+      ],
+      "figure_refs": [
+        "1 Energy spectrum of electromagnetic radiation",
+        "2 The seasons – in the northern hemisphere"
+      ],
+      "cross_refs": [
+        "DIN 5034",
+        "Workplace Guidelines",
+        "state building regulations"
+      ],
+      "keywords": [
+        "daylight",
+        "visible light",
+        "wavelength",
+        "electromagnetic radiation",
+        "illuminance",
+        "lux",
+        "seasons"
+      ],
+      "tags_architectural": [
+        "daylighting"
+      ],
+      "confidence": 0.96
+    },
+    {
+      "id": "4122fb96e4bd1976-501-vision-1",
+      "pdf_page": 501,
+      "book_page": 488,
+      "chapter": "BUILDING SERVICES",
+      "section": "Daylight",
+      "title": "Position of the sun: azimuth and elevation",
+      "summary": "Explains the sun’s position using azimuth and elevation angles, and relates its apparent seasonal path to date, time and latitude. It gives cardinal azimuth bearings, solstice declinations, and example noon angles for London at latitude 51° north.",
+      "building_type": "General buildings",
+      "spaces": [
+        "Site and building surroundings"
+      ],
+      "uses": [
+        "Determine the sun’s position for a particular location and time of year",
+        "Assess solar orientation and elevation for daylight and sunlight design"
+      ],
+      "furniture_equipment": [],
+      "dimensions": [
+        {
+          "label": "Azimuth: north",
+          "value": 0.0,
+          "value_max": null,
+          "unit": "degrees",
+          "context": "Horizontal angle measured from north.",
+          "status": "uncertain",
+          "ocr_raw": "0° = north"
+        },
+        {
+          "label": "Azimuth: east",
+          "value": 90.0,
+          "value_max": null,
+          "unit": "degrees",
+          "context": "Horizontal angle measured from north.",
+          "status": "uncertain",
+          "ocr_raw": "90° = east"
+        },
+        {
+          "label": "Azimuth: south",
+          "value": 180.0,
+          "value_max": null,
+          "unit": "degrees",
+          "context": "Horizontal angle measured from north; given for the sun at noon in the example.",
+          "status": "uncertain",
+          "ocr_raw": "180° = south"
+        },
+        {
+          "label": "Azimuth: west",
+          "value": 270.0,
+          "value_max": null,
+          "unit": "degrees",
+          "context": "Horizontal angle measured from north.",
+          "status": "uncertain",
+          "ocr_raw": "270° = west"
+        },
+        {
+          "label": "Winter-solstice solar declination",
+          "value": -23.5,
+          "value_max": null,
+          "unit": "degrees",
+          "context": "Solar declination on 21 December, identified as the winter solstice and shortest day.",
+          "status": "uncertain",
+          "ocr_raw": "On 21 December is the winter solstice (shortest day) with solar declination -23.5°"
+        },
+        {
+          "label": "Summer-solstice solar declination",
+          "value": 23.5,
+          "value_max": null,
+          "unit": "degrees",
+          "context": "Solar declination on 21 June, identified as the summer solstice and longest day.",
+          "status": "uncertain",
+          "ocr_raw": "21 June is the summer solstice (longest day) with solar declination +23.5°"
+        },
+        {
+          "label": "Equinox solar declination",
+          "value": 0.0,
+          "value_max": null,
+          "unit": "degrees",
+          "context": "Declination on the equinox dates; the text identifies 21 March and 23 September.",
+          "status": "uncertain",
+          "ocr_raw": "on the equinox dates of 21 May and 23 September, the day and night are of equal length and the declination of the sun is 0°."
+        },
+        {
+          "label": "Example latitude",
+          "value": 51.0,
+          "value_max": null,
+          "unit": "degrees north",
+          "context": "Example location is London; at noon the sun’s azimuth is 180°.",
+          "status": "uncertain",
+          "ocr_raw": "at latitude 51° north (London)"
+        },
+        {
+          "label": "Noon zenith angle at example latitude",
+          "value": 51.0,
+          "value_max": null,
+          "unit": "degrees",
+          "context": "Example for latitude 51° north at noon (azimuth 180°), on the equinox dates.",
+          "status": "uncertain",
+          "ocr_raw": "the zenith angle at noon (αs = 180°) is 51°"
+        },
+        {
+          "label": "Noon sun elevation at example latitude",
+          "value": 39.0,
+          "value_max": null,
+          "unit": "degrees",
+          "context": "Sun elevation above the horizon in the London example at an equinox.",
+          "status": "uncertain",
+          "ocr_raw": "90° - 51° = 39°"
+        },
+        {
+          "label": "Noon sun elevation at summer solstice",
+          "value": 62.5,
+          "value_max": null,
+          "unit": "degrees",
+          "context": "Example elevation at noon on 21 June; the text states it is about 23.5° higher than at the equinoxes.",
+          "status": "uncertain",
+          "ocr_raw": "39° + 23.5° = 62.5°"
+        },
+        {
+          "label": "Noon sun elevation at winter solstice",
+          "value": 15.5,
+          "value_max": null,
+          "unit": "degrees",
+          "context": "Example elevation at noon on 21 December; the text states it is about 23.5° lower than at the equinoxes.",
+          "status": "uncertain",
+          "ocr_raw": "39° - 23.5° = 15.5°"
+        }
+      ],
+      "figure_refs": [
+        "2 The seasons – in the northern hemisphere",
+        "3 Azimuth angle – αs",
+        "4 Elevation angle – γs"
+      ],
+      "cross_refs": [],
+      "keywords": [
+        "sun position",
+        "azimuth",
+        "elevation angle",
+        "solar declination",
+        "zenith angle",
+        "latitude",
+        "equinox",
+        "solstice"
+      ],
+      "tags_architectural": [
+        "daylighting"
+      ],
+      "confidence": 0.91
+    }
+  ]
+}

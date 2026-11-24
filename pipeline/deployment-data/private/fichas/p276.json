@@ -1,0 +1,160 @@
+{
+  "fichas": [
+    {
+      "id": "4122fb96e4bd1976-276-vision-0",
+      "pdf_page": 276,
+      "book_page": 263,
+      "chapter": "INDUSTRY AND TRADE",
+      "section": "Industry",
+      "title": "Industrial Buildings: Basics and Planning",
+      "summary": "Industrial buildings support the production of goods and may include production buildings, warehouses, technical and administrative buildings, and transport systems. Their design is shaped by production needs, environmental and workplace regulations, fire protection, and product-specific requirements. Layout planning coordinates production and building parameters and informs a scaled room-allocation plan; the resulting design may need to accommodate changing production concepts.",
+      "building_type": "Industrial building",
+      "spaces": [
+        "Production buildings",
+        "Warehouses",
+        "Technical buildings",
+        "Administration buildings",
+        "Transport systems"
+      ],
+      "uses": [
+        "Production of goods",
+        "Storage of raw materials and finished products",
+        "Packaging and consignment",
+        "Administration",
+        "Transport"
+      ],
+      "furniture_equipment": [],
+      "dimensions": [],
+      "figure_refs": [
+        "Planning diagram of a factory (figure 1)",
+        "Basic planning regulations for the construction of industrial and commercial buildings (selection) (figure 2)"
+      ],
+      "cross_refs": [
+        "p. 56",
+        "p. 500"
+      ],
+      "keywords": [
+        "industrial buildings",
+        "factory planning",
+        "layout planning",
+        "room allocation plan",
+        "environmental protection",
+        "workplace regulations",
+        "fire protection"
+      ],
+      "tags_architectural": [
+        "adaptability",
+        "circulation"
+      ],
+      "confidence": 0.96
+    },
+    {
+      "id": "4122fb96e4bd1976-276-vision-1",
+      "pdf_page": 276,
+      "book_page": 263,
+      "chapter": "INDUSTRY AND TRADE",
+      "section": "Industry",
+      "title": "Life Cycles of Products and Industrial Buildings",
+      "summary": "Industrial buildings pass through economic phases analogous to product life cycles. Product cycles may be shorter than the life of a normal building, making adaptability, suitability for letting, and resale value increasingly important. The diagram contrasts product phases with building phases, including rebuilding and demolition.",
+      "building_type": "Industrial building",
+      "spaces": [],
+      "uses": [
+        "Support successive production cycles",
+        "Adapt to changing economic and product phases",
+        "Allow rebuilding and eventual demolition"
+      ],
+      "furniture_equipment": [],
+      "dimensions": [
+        {
+          "label": "Product cycle",
+          "value": 5.0,
+          "value_max": 7.0,
+          "unit": "years",
+          "context": "Text states that ever shorter product cycles are 5–7 years.",
+          "status": "verified",
+          "ocr_raw": "Ever shorter product\ncycles (5-7 years)"
+        },
+        {
+          "label": "Product life cycle shown in diagram",
+          "value": 5.0,
+          "value_max": null,
+          "unit": "years",
+          "context": "Duration printed beside the product life-cycle row.",
+          "status": "verified",
+          "ocr_raw": "5 years"
+        },
+        {
+          "label": "Building life cycle shown in diagram",
+          "value": 25.0,
+          "value_max": null,
+          "unit": "years",
+          "context": "Duration printed beside the building life-cycle row.",
+          "status": "verified",
+          "ocr_raw": "25 years"
+        }
+      ],
+      "figure_refs": [
+        "Life cycles of products (above) and buildings (below) (figure 5)"
+      ],
+      "cross_refs": [],
+      "keywords": [
+        "life cycles",
+        "product development",
+        "market introduction",
+        "growth",
+        "maturity",
+        "market saturation",
+        "decline",
+        "building use",
+        "rebuilding"
+      ],
+      "tags_architectural": [
+        "adaptability"
+      ],
+      "confidence": 0.96
+    },
+    {
+      "id": "4122fb96e4bd1976-276-vision-2",
+      "pdf_page": 276,
+      "book_page": 263,
+      "chapter": "INDUSTRY AND TRADE",
+      "section": "Industry",
+      "title": "Additive and Integrative Industrial Typologies",
+      "summary": "Industrial buildings are classified as additive or integrative plants. Additive plants comprise purpose-shaped functional units arranged in planar or linear structures, often along a production line; units can be extended, developed, or exchanged separately. Integrative plants assemble functional units within a neutral structure to reduce access areas and support reuse, with extension possibilities planned into the building structure.",
+      "building_type": "Industrial building",
+      "spaces": [
+        "Production",
+        "Store",
+        "Administration or subsidiary room",
+        "Extension area",
+        "Car park",
+        "Logistics yard"
+      ],
+      "uses": [
+        "Arrange production functions in additive or integrated layouts",
+        "Enable extension and replacement of functional units",
+        "Reduce access areas and support reuse"
+      ],
+      "furniture_equipment": [],
+      "dimensions": [],
+      "figure_refs": [
+        "Additive typology: Fagus Werk, Alfeld (figure 3)",
+        "Integrated typology: ‘open workspace’ (figure 4)"
+      ],
+      "cross_refs": [],
+      "keywords": [
+        "additive typology",
+        "integrative typology",
+        "factory layout",
+        "production line",
+        "extension",
+        "reusability"
+      ],
+      "tags_architectural": [
+        "adaptability",
+        "circulation"
+      ],
+      "confidence": 0.95
+    }
+  ]
+}

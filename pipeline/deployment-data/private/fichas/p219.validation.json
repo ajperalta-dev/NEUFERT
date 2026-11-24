@@ -1,0 +1,289 @@
+{
+  "model": "gpt-6-luna",
+  "checks": {
+    "checks": [
+      {
+        "ficha_index": 0,
+        "dimension_index": 0,
+        "status": "verified",
+        "value": null,
+        "value_max": null,
+        "reason": "The text visibly prints 7.20 \u00d7 7.20 m."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 1,
+        "status": "verified",
+        "value": null,
+        "value_max": null,
+        "reason": "The text visibly prints 7.20 \u00d7 8.40 m."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 2,
+        "status": "verified",
+        "value": null,
+        "value_max": null,
+        "reason": "The text visibly prints 7.20 \u00d7 8.40 m."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 3,
+        "status": "verified",
+        "value": null,
+        "value_max": null,
+        "reason": "The text visibly prints 8.40 \u00d7 8.40 m."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 4,
+        "status": "verified",
+        "value": null,
+        "value_max": null,
+        "reason": "The text visibly prints normal storey height 4.0 m."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 5,
+        "status": "verified",
+        "value": null,
+        "value_max": null,
+        "reason": "The text visibly prints clear room height \u22653.0 m."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 6,
+        "status": "verified",
+        "value": null,
+        "value_max": null,
+        "reason": "The text visibly prints 120 \u00d7 120 cm."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 7,
+        "status": "verified",
+        "value": null,
+        "value_max": null,
+        "reason": "The text visibly prints 120 \u00d7 120 cm."
+      },
+      {
+        "ficha_index": 2,
+        "dimension_index": 0,
+        "status": "uncertain",
+        "value": null,
+        "value_max": null,
+        "reason": "The plan visibly shows 3.12+3.12, but no unit is printed."
+      },
+      {
+        "ficha_index": 2,
+        "dimension_index": 1,
+        "status": "uncertain",
+        "value": null,
+        "value_max": null,
+        "reason": "The figure shows 30, but no unit is printed."
+      },
+      {
+        "ficha_index": 2,
+        "dimension_index": 2,
+        "status": "uncertain",
+        "value": null,
+        "value_max": null,
+        "reason": "The figure shows 87.5, but no unit is printed."
+      },
+      {
+        "ficha_index": 2,
+        "dimension_index": 3,
+        "status": "uncertain",
+        "value": null,
+        "value_max": null,
+        "reason": "The figure shows 30, but no unit is printed."
+      },
+      {
+        "ficha_index": 2,
+        "dimension_index": 4,
+        "status": "uncertain",
+        "value": null,
+        "value_max": null,
+        "reason": "The figure shows 2.00, but no unit is printed."
+      },
+      {
+        "ficha_index": 2,
+        "dimension_index": 5,
+        "status": "uncertain",
+        "value": null,
+        "value_max": null,
+        "reason": "The figure shows 1.40, but no unit is printed."
+      },
+      {
+        "ficha_index": 2,
+        "dimension_index": 6,
+        "status": "uncertain",
+        "value": null,
+        "value_max": null,
+        "reason": "The figure shows 0.60, but no unit is printed."
+      },
+      {
+        "ficha_index": 2,
+        "dimension_index": 7,
+        "status": "uncertain",
+        "value": null,
+        "value_max": null,
+        "reason": "The figure shows 40, but no unit is printed."
+      },
+      {
+        "ficha_index": 2,
+        "dimension_index": 8,
+        "status": "uncertain",
+        "value": null,
+        "value_max": null,
+        "reason": "The figure shows 62.5, but no unit is printed."
+      },
+      {
+        "ficha_index": 2,
+        "dimension_index": 9,
+        "status": "uncertain",
+        "value": null,
+        "value_max": null,
+        "reason": "The figure shows 40, but no unit is printed."
+      }
+    ]
+  },
+  "automatic": [
+    {
+      "ficha_index": 0,
+      "dimension_index": 0,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 1,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 2,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 3,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 4,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 5,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 6,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 7,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 2,
+      "dimension_index": 0,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 2,
+      "dimension_index": 1,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 2,
+      "dimension_index": 2,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 2,
+      "dimension_index": 3,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 2,
+      "dimension_index": 4,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 2,
+      "dimension_index": 5,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 2,
+      "dimension_index": 6,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 2,
+      "dimension_index": 7,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 2,
+      "dimension_index": 8,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 2,
+      "dimension_index": 9,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    }
+  ],
+  "usage": [
+    {
+      "prompt_tokens": 4335,
+      "completion_tokens": 1863
+    },
+    {
+      "prompt_tokens": 5181,
+      "completion_tokens": 803
+    }
+  ]
+}

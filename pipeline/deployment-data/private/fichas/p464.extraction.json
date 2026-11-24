@@ -1,0 +1,556 @@
+{
+  "fichas": [
+    {
+      "id": "4122fb96e4bd1976-464-vision-0",
+      "pdf_page": 464,
+      "book_page": 451,
+      "chapter": "AGRICULTURE",
+      "section": "Farmyards",
+      "title": "Ventilation systems in animal housing",
+      "summary": "Overview of convection and forced ventilation, including shaft, eaves-ridge, pressurised, extract and balanced-pressure systems. The page gives operating conditions and energy requirements, illustrates fan types and an earth-filter system, and describes sizing air openings using printed formulas and variables.",
+      "building_type": "Animal housing and farm buildings",
+      "spaces": [
+        "Animal housing",
+        "Ventilation openings",
+        "Ventilation shafts",
+        "Earth-filter system"
+      ],
+      "uses": [
+        "Ventilating animal housing",
+        "Managing indoor air movement and air quality",
+        "Filtering incoming air"
+      ],
+      "furniture_equipment": [
+        "Axial fan",
+        "Radial fan",
+        "Dust filter mat",
+        "Pressure chamber",
+        "Pump sump",
+        "Floor grid"
+      ],
+      "dimensions": [
+        {
+          "label": "Air intake speed",
+          "value": 2.0,
+          "value_max": 5.0,
+          "unit": "m/s",
+          "context": "Recommended intake speed according to building width.",
+          "status": "uncertain",
+          "ocr_raw": "The air intake speed should be between 2.0 and 5.0 m/s"
+        },
+        {
+          "label": "Minimum stack height",
+          "value": 5.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Minimum height stated for shaft ventilation.",
+          "status": "uncertain",
+          "ocr_raw": "at least 5 m stack height required"
+        },
+        {
+          "label": "Energy requirement, pressurised ventilation",
+          "value": 105.0,
+          "value_max": 125.0,
+          "unit": "kWh/LU/year",
+          "context": "Energy requirement stated for pressurised ventilation.",
+          "status": "uncertain",
+          "ocr_raw": "energy requirement: 105--125 kWh/LU/year"
+        },
+        {
+          "label": "Energy requirement, extract ventilation",
+          "value": 98.0,
+          "value_max": 105.0,
+          "unit": "kWh/LU/year",
+          "context": "Energy requirement stated for extract ventilation.",
+          "status": "uncertain",
+          "ocr_raw": "energy requirements: 98-105 kWh/LU/year"
+        },
+        {
+          "label": "Capital cost relative to extract ventilation",
+          "value": 1.5,
+          "value_max": 2.0,
+          "unit": "times",
+          "context": "Balanced-pressure ventilation capital cost relative to extract ventilation.",
+          "status": "uncertain",
+          "ocr_raw": "high capital cost (1.5 to 2 times that of extract ventilation)"
+        },
+        {
+          "label": "Energy requirement, balanced-pressure ventilation",
+          "value": 205.0,
+          "value_max": null,
+          "unit": "kWh/LU/year",
+          "context": "Energy requirement stated for balanced-pressure ventilation.",
+          "status": "uncertain",
+          "ocr_raw": "energy requirement: 205 kWh/LU/year"
+        },
+        {
+          "label": "Dust filter mat area",
+          "value": 1.1,
+          "value_max": null,
+          "unit": "m²",
+          "context": "Area given for the stated air quantity.",
+          "status": "uncertain",
+          "ocr_raw": "dust filter mat (1.1 m2 for 1000m3 air)"
+        },
+        {
+          "label": "Air quantity for dust filter mat reference",
+          "value": 1000.0,
+          "value_max": null,
+          "unit": "m³",
+          "context": "Air quantity associated with the filter mat area.",
+          "status": "uncertain",
+          "ocr_raw": "dust filter mat (1.1 m2 for 1000m3 air)"
+        },
+        {
+          "label": "Earth-filter system dimension",
+          "value": 2.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Approximate dimension shown on the system drawing.",
+          "status": "uncertain",
+          "ocr_raw": "ca. 2.00"
+        },
+        {
+          "label": "Earth-filter system extent",
+          "value": 7.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Extent indicated on the system drawing.",
+          "status": "uncertain",
+          "ocr_raw": "up to about 7.00"
+        },
+        {
+          "label": "Earth-filter system dimension",
+          "value": 1.0,
+          "value_max": 1.2,
+          "unit": "m",
+          "context": "Dimension shown on the system drawing.",
+          "status": "uncertain",
+          "ocr_raw": "1.00-1.20"
+        },
+        {
+          "label": "Earth-filter system dimension",
+          "value": 1.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Dimension shown on the system drawing.",
+          "status": "uncertain",
+          "ocr_raw": "1.00"
+        },
+        {
+          "label": "Earth-filter system gradient",
+          "value": 2.0,
+          "value_max": null,
+          "unit": "%",
+          "context": "Gradient marked on the system drawing.",
+          "status": "uncertain",
+          "ocr_raw": "2%"
+        }
+      ],
+      "figure_refs": [
+        "1 Categorisation of ventilation systems",
+        "2 Shaft ventilation",
+        "3 Eaves-ridge ventilation",
+        "4 Pressurised ventilation",
+        "5 Extract ventilation",
+        "6 Balanced pressure ventilation",
+        "7 Fan types",
+        "8 Earth filter system (design by Zeisig)"
+      ],
+      "cross_refs": [
+        "Figures 1–8"
+      ],
+      "keywords": [
+        "animal housing",
+        "ventilation",
+        "convection ventilation",
+        "forced ventilation",
+        "shaft ventilation",
+        "eaves-ridge ventilation",
+        "pressurised ventilation",
+        "extract ventilation",
+        "balanced-pressure ventilation",
+        "earth filter",
+        "fans"
+      ],
+      "tags_architectural": [
+        "ventilation"
+      ],
+      "confidence": 0.89
+    },
+    {
+      "id": "4122fb96e4bd1976-464-vision-1",
+      "pdf_page": 464,
+      "book_page": 451,
+      "chapter": "AGRICULTURE",
+      "section": "Farmyards",
+      "title": "Recommended air speeds and permissible gas concentrations",
+      "summary": "Tables list recommended air speeds at specified air temperatures and permissible concentrations of carbon dioxide, ammonia and hydrogen sulphide in animal housing, alongside maximum workplace concentrations.",
+      "building_type": "Animal housing",
+      "spaces": [
+        "Animal housing"
+      ],
+      "uses": [
+        "Setting ventilation air speeds",
+        "Checking indoor gas concentrations"
+      ],
+      "furniture_equipment": [],
+      "dimensions": [
+        {
+          "label": "Recommended air speed",
+          "value": 0.15,
+          "value_max": null,
+          "unit": "m/s",
+          "context": "At the table's under-18 °C entry.",
+          "status": "uncertain",
+          "ocr_raw": "under 18 0.15"
+        },
+        {
+          "label": "Recommended air speed",
+          "value": 0.2,
+          "value_max": null,
+          "unit": "m/s",
+          "context": "At the 20 °C entry.",
+          "status": "uncertain",
+          "ocr_raw": "20 0.20"
+        },
+        {
+          "label": "Recommended air speed",
+          "value": 0.24,
+          "value_max": null,
+          "unit": "m/s",
+          "context": "At the over-22 °C entry.",
+          "status": "uncertain",
+          "ocr_raw": "over 22 0.24"
+        },
+        {
+          "label": "Recommended air speed",
+          "value": 0.35,
+          "value_max": null,
+          "unit": "m/s",
+          "context": "At 24 °C.",
+          "status": "uncertain",
+          "ocr_raw": "24 0.35"
+        },
+        {
+          "label": "Recommended air speed",
+          "value": 0.5,
+          "value_max": null,
+          "unit": "m/s",
+          "context": "At 26 °C.",
+          "status": "uncertain",
+          "ocr_raw": "26 0.50"
+        },
+        {
+          "label": "Carbon dioxide concentration for animals",
+          "value": 3.5,
+          "value_max": null,
+          "unit": "l/m³",
+          "context": "Permissible concentration for animals.",
+          "status": "uncertain",
+          "ocr_raw": "carbon dioxide 3.50"
+        },
+        {
+          "label": "Maximum workplace carbon dioxide concentration",
+          "value": 5.0,
+          "value_max": null,
+          "unit": "l/m³",
+          "context": "Maximum workplace concentration.",
+          "status": "uncertain",
+          "ocr_raw": "carbon dioxide 3.50 5.00"
+        },
+        {
+          "label": "Ammonia concentration for animals",
+          "value": 0.05,
+          "value_max": null,
+          "unit": "l/m³",
+          "context": "Permissible concentration for animals.",
+          "status": "uncertain",
+          "ocr_raw": "ammonia 0.05"
+        },
+        {
+          "label": "Maximum workplace ammonia concentration",
+          "value": 0.05,
+          "value_max": null,
+          "unit": "l/m³",
+          "context": "Maximum workplace concentration.",
+          "status": "uncertain",
+          "ocr_raw": "ammonia 0.05 0.05"
+        },
+        {
+          "label": "Hydrogen sulphide concentration for animals",
+          "value": 0.01,
+          "value_max": null,
+          "unit": "l/m³",
+          "context": "Permissible concentration for animals.",
+          "status": "uncertain",
+          "ocr_raw": "hydrogen sulphide 0.01"
+        },
+        {
+          "label": "Maximum workplace hydrogen sulphide concentration",
+          "value": 0.01,
+          "value_max": null,
+          "unit": "l/m³",
+          "context": "Maximum workplace concentration.",
+          "status": "uncertain",
+          "ocr_raw": "hydrogen sulphide 0.01 0.01"
+        }
+      ],
+      "figure_refs": [
+        "9 Recommended air speed according to temperature",
+        "10 Permissible gas concentration in animal housing"
+      ],
+      "cross_refs": [
+        "Figures 9–10"
+      ],
+      "keywords": [
+        "air speed",
+        "gas concentration",
+        "carbon dioxide",
+        "ammonia",
+        "hydrogen sulphide",
+        "animal housing"
+      ],
+      "tags_architectural": [
+        "ventilation",
+        "safety"
+      ],
+      "confidence": 0.8
+    },
+    {
+      "id": "4122fb96e4bd1976-464-vision-2",
+      "pdf_page": 464,
+      "book_page": 451,
+      "chapter": "AGRICULTURE",
+      "section": "Farmyards",
+      "title": "Air temperature and relative humidity for animals",
+      "summary": "A reference table lists optimal air-temperature ranges and relative humidity for animal groups, as well as recommended calculated winter values. The footnote says that as animals age, temperature should gradually decrease from the higher to the lower value; asterisks appear on several printed ranges.",
+      "building_type": "Animal housing",
+      "spaces": [
+        "Animal housing",
+        "Chick zones"
+      ],
+      "uses": [
+        "Setting animal-house temperatures and relative humidity",
+        "Planning zone heating for young animals"
+      ],
+      "furniture_equipment": [
+        "Zone heating"
+      ],
+      "dimensions": [
+        {
+          "label": "Optimal air temperature, milk cows, suckling calves, bullocks, young breeding cattle and calving",
+          "value": 0.0,
+          "value_max": 20.0,
+          "unit": "°C",
+          "context": "Optimal range; associated relative humidity 60–80%.",
+          "status": "uncertain",
+          "ocr_raw": "milk cows, suckling calves, bullocks, young breeding cattle and calving 0–20 60–80"
+        },
+        {
+          "label": "Optimal air temperature, young fattening cattle and bullocks",
+          "value": 18.0,
+          "value_max": 20.0,
+          "unit": "°C",
+          "context": "Printed range is 20–18*; endpoints normalized to ascending order. Relative humidity 60–80%.",
+          "status": "uncertain",
+          "ocr_raw": "young fattening cattle, bullocks 20–18* 60–80"
+        },
+        {
+          "label": "Optimal air temperature, fattening calves",
+          "value": 16.0,
+          "value_max": 20.0,
+          "unit": "°C",
+          "context": "Printed range is 20–16*; endpoints normalized to ascending order. Relative humidity 60–80%.",
+          "status": "uncertain",
+          "ocr_raw": "fattening calves 20–16* 60–80"
+        },
+        {
+          "label": "Optimal air temperature, gilts, dry and carrying sows, boars",
+          "value": 5.0,
+          "value_max": 15.0,
+          "unit": "°C",
+          "context": "Optimal range; relative humidity 60–80%.",
+          "status": "uncertain",
+          "ocr_raw": "gilts, dry and carrying sows, boars 5–15 60–80"
+        },
+        {
+          "label": "Optimal air temperature, fattening pigs",
+          "value": 19.0,
+          "value_max": 20.0,
+          "unit": "°C",
+          "context": "Printed range is 20–19*; endpoints normalized to ascending order. Relative humidity 60–80%.",
+          "status": "uncertain",
+          "ocr_raw": "fattening pigs 20–19* 60–80"
+        },
+        {
+          "label": "Optimal air temperature, sows and piglets",
+          "value": 12.0,
+          "value_max": 16.0,
+          "unit": "°C",
+          "context": "Range listed in the table; relative humidity 60–80%.",
+          "status": "uncertain",
+          "ocr_raw": "sows and piglets: 12–16 60–80"
+        },
+        {
+          "label": "Optimal air temperature, piglets at birth using zone heating",
+          "value": 30.0,
+          "value_max": 32.0,
+          "unit": "°C",
+          "context": "Relative humidity 40–60%.",
+          "status": "uncertain",
+          "ocr_raw": "piglets at birth (using zone heating) 30–32 40–60"
+        },
+        {
+          "label": "Optimal air temperature, piglets to 6 weeks",
+          "value": 20.0,
+          "value_max": 22.0,
+          "unit": "°C",
+          "context": "Relative humidity 60–70%.",
+          "status": "uncertain",
+          "ocr_raw": "piglets to 6 weeks 20–22 60–70"
+        },
+        {
+          "label": "Optimal air temperature, growing piglets to 30 kg",
+          "value": 18.0,
+          "value_max": 22.0,
+          "unit": "°C",
+          "context": "Printed range is 22–18*; endpoints normalized to ascending order. Relative humidity 60–80%.",
+          "status": "uncertain",
+          "ocr_raw": "growing piglets to 30 kg 22–18* 60–80"
+        },
+        {
+          "label": "Optimal air temperature, cage-reared hens, approximately 5 kg to approximately 20 kg, age 2–6 weeks",
+          "value": 22.0,
+          "value_max": 26.0,
+          "unit": "°C",
+          "context": "Printed range is 26–22*; endpoints normalized to ascending order. Relative humidity 40–60%.",
+          "status": "uncertain",
+          "ocr_raw": "cage-reared hens from approx. 5 kg to approx. 20 kg (2–6 weeks) 26–22* 40–60"
+        },
+        {
+          "label": "Optimal air temperature, hen chicks with zone heating",
+          "value": 18.0,
+          "value_max": 32.0,
+          "unit": "°C",
+          "context": "Printed range is 32–18*; endpoints normalized to ascending order. Chick-zone temperature is stated to be 3 °C lower for each week of life. Relative humidity 60–70%.",
+          "status": "uncertain",
+          "ocr_raw": "hen chicks with zone heating, temperature in chick zone, each week of life 3°C lower 32–18* 60–70"
+        },
+        {
+          "label": "Weekly chick-zone temperature decrease",
+          "value": 3.0,
+          "value_max": null,
+          "unit": "°C",
+          "context": "Stated decrease for each week of life.",
+          "status": "uncertain",
+          "ocr_raw": "each week of life 3°C lower"
+        },
+        {
+          "label": "Optimal air temperature, young and laying hens",
+          "value": 15.0,
+          "value_max": 22.0,
+          "unit": "°C",
+          "context": "Optimal range; relative humidity 60–80%.",
+          "status": "uncertain",
+          "ocr_raw": "young and laying hens 15–22 60–80"
+        },
+        {
+          "label": "Optimal air temperature, turkey chicks with zone heating",
+          "value": 18.0,
+          "value_max": 36.0,
+          "unit": "°C",
+          "context": "Printed range is 36–18*; endpoints normalized to ascending order. Chick-zone temperature is stated to be 3 °C lower for each week of life. Relative humidity 60–80%.",
+          "status": "uncertain",
+          "ocr_raw": "turkey chicks with zone heating, temperature in chick zone, each week of life 3°C lower 36–18* 60–80"
+        },
+        {
+          "label": "Weekly turkey chick-zone temperature decrease",
+          "value": 3.0,
+          "value_max": null,
+          "unit": "°C",
+          "context": "Stated decrease for each week of life.",
+          "status": "uncertain",
+          "ocr_raw": "each week of life 3°C lower"
+        },
+        {
+          "label": "Optimal air temperature, fattening turkeys from 7th week",
+          "value": 10.0,
+          "value_max": 19.0,
+          "unit": "°C",
+          "context": "Printed range is 19–10*; endpoints normalized to ascending order. Relative humidity 60–80%.",
+          "status": "uncertain",
+          "ocr_raw": "fattening turkeys from 7th week 19–10* 60–80"
+        },
+        {
+          "label": "Optimal air temperature, ducks",
+          "value": 10.0,
+          "value_max": 30.0,
+          "unit": "°C",
+          "context": "Printed range is 30–10*; endpoints normalized to ascending order. Relative humidity 60–80%.",
+          "status": "uncertain",
+          "ocr_raw": "ducks 30–10* 60–80"
+        },
+        {
+          "label": "Optimal air temperature, workhorses",
+          "value": 10.0,
+          "value_max": 15.0,
+          "unit": "°C",
+          "context": "Optimal range; relative humidity 60–80%.",
+          "status": "uncertain",
+          "ocr_raw": "workhorses 10–15 60–80"
+        },
+        {
+          "label": "Optimal air temperature, riding and racing horses",
+          "value": 15.0,
+          "value_max": 17.0,
+          "unit": "°C",
+          "context": "Optimal range; relative humidity 60–80%.",
+          "status": "uncertain",
+          "ocr_raw": "riding, racing horses 15–17 60–80"
+        },
+        {
+          "label": "Optimal air temperature, breeding sheep",
+          "value": 6.0,
+          "value_max": 14.0,
+          "unit": "°C",
+          "context": "Optimal range; relative humidity 60–80%.",
+          "status": "uncertain",
+          "ocr_raw": "breeding sheep 6–14 60–80"
+        },
+        {
+          "label": "Optimal air temperature, fattening sheep",
+          "value": 14.0,
+          "value_max": 16.0,
+          "unit": "°C",
+          "context": "Printed range is 16–14*; endpoints normalized to ascending order. Relative humidity 60–80%.",
+          "status": "uncertain",
+          "ocr_raw": "fattening sheep 16–14* 60–80"
+        }
+      ],
+      "figure_refs": [
+        "11 Air temperature and relative humidity in keeping various animals"
+      ],
+      "cross_refs": [
+        "Figure 11"
+      ],
+      "keywords": [
+        "animal housing",
+        "air temperature",
+        "relative humidity",
+        "zone heating",
+        "cattle",
+        "pigs",
+        "poultry",
+        "turkeys",
+        "horses",
+        "sheep"
+      ],
+      "tags_architectural": [
+        "ventilation",
+        "adaptability"
+      ],
+      "confidence": 0.82
+    }
+  ]
+}

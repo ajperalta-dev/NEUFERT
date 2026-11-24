@@ -1,0 +1,495 @@
+{
+  "model": "gpt-6-luna",
+  "checks": {
+    "checks": [
+      {
+        "ficha_index": 0,
+        "dimension_index": 0,
+        "status": "verified",
+        "value": 5.0,
+        "value_max": null,
+        "reason": "The text explicitly states train length plus 5 m."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 1,
+        "status": "verified",
+        "value": 3.0,
+        "value_max": null,
+        "reason": "The text explicitly states side platforms 3 m."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 2,
+        "status": "verified",
+        "value": 6.0,
+        "value_max": null,
+        "reason": "The text explicitly states central platforms with stairs at the platform end 6 m."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 3,
+        "status": "verified",
+        "value": 7.0,
+        "value_max": null,
+        "reason": "The text explicitly states 7 m for stairs within the usable platform length."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 4,
+        "status": "verified",
+        "value": 3.5,
+        "value_max": null,
+        "reason": "The text explicitly states tram-stop platform minimum 3.50 m."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 5,
+        "status": "verified",
+        "value": 5.5,
+        "value_max": null,
+        "reason": "The text explicitly states 5.50 m for waiting shelters and two-sided platforms."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 6,
+        "status": "verified",
+        "value": 1.5,
+        "value_max": null,
+        "reason": "The text explicitly states a permissible minimum road-space width of 1.50 m."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 7,
+        "status": "verified",
+        "value": 2.0,
+        "value_max": null,
+        "reason": "The text explicitly states 2 m as the minimum side-exit width where space is restricted."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 8,
+        "status": "verified",
+        "value": 0.85,
+        "value_max": null,
+        "reason": "The text explicitly states a safety space 0.85 m wide."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 9,
+        "status": "verified",
+        "value": 0.6,
+        "value_max": null,
+        "reason": "The text explicitly states fixed-stair width should be a multiple of 0.60 m."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 10,
+        "status": "verified",
+        "value": 2.4,
+        "value_max": null,
+        "reason": "The text explicitly states at least 2.40 m."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 11,
+        "status": "verified",
+        "value": 6.0,
+        "value_max": null,
+        "reason": "The text explicitly states a middle handrail for stairs wider than 6.00 m."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 12,
+        "status": "verified",
+        "value": 1.0,
+        "value_max": 1.5,
+        "reason": "The printed text gives 1\u20131\u00bd-track escalators; the proposed range agrees."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 13,
+        "status": "verified",
+        "value": 2.0,
+        "value_max": null,
+        "reason": "The printed text says preferably 2-track escalators."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 14,
+        "status": "verified",
+        "value": 800.0,
+        "value_max": 1000.0,
+        "reason": "The printed text gives 800/1000 mm step width."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 15,
+        "status": "verified",
+        "value": 1.4,
+        "value_max": 1.65,
+        "reason": "The printed text gives construction widths between 1.40 and 1.65 m."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 16,
+        "status": "verified",
+        "value": 1.0,
+        "value_max": null,
+        "reason": "The text explicitly states a camber of at least 1%."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 17,
+        "status": "verified",
+        "value": 3.0,
+        "value_max": 5.0,
+        "reason": "The printed text gives a maximum of 3\u20135% in tunnel stops."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 18,
+        "status": "verified",
+        "value": 2.0,
+        "value_max": 3.0,
+        "reason": "The printed text gives 2\u20133% in open-air stops."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 19,
+        "status": "verified",
+        "value": 1.1,
+        "value_max": null,
+        "reason": "The lift table gives 1.10 m as the first dimension for the 8-person entry."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 20,
+        "status": "verified",
+        "value": 1.4,
+        "value_max": null,
+        "reason": "The lift table gives 1.40 m as the second dimension for the 8-person entry."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 21,
+        "status": "verified",
+        "value": 630.0,
+        "value_max": null,
+        "reason": "The lift table lists capacity 630 kg for the 8-person entry."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 22,
+        "status": "verified",
+        "value": 1.1,
+        "value_max": null,
+        "reason": "The lift table gives 1.10 m as the first dimension for the 13-person entry."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 23,
+        "status": "verified",
+        "value": 2.1,
+        "value_max": null,
+        "reason": "The lift table gives 2.10 m as the second dimension for the 13-person entry."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 24,
+        "status": "verified",
+        "value": 1000.0,
+        "value_max": null,
+        "reason": "The lift table lists capacity 1000 kg for the 13-person entry."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 25,
+        "status": "verified",
+        "value": 1.4,
+        "value_max": null,
+        "reason": "The lift table gives 1.40 m as the first dimension for the 19-person entry."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 26,
+        "status": "verified",
+        "value": 2.1,
+        "value_max": null,
+        "reason": "The lift table gives 2.10 m as the second dimension for the 19-person entry."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 27,
+        "status": "verified",
+        "value": 1450.0,
+        "value_max": null,
+        "reason": "The lift table lists capacity 1450 kg for the 19-person entry."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 28,
+        "status": "verified",
+        "value": 8.0,
+        "value_max": null,
+        "reason": "The lift table's first row is marked 8 people."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 29,
+        "status": "verified",
+        "value": 13.0,
+        "value_max": null,
+        "reason": "The lift table's second row is marked 13 people."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 30,
+        "status": "verified",
+        "value": 19.0,
+        "value_max": null,
+        "reason": "The lift table's third row is marked 19 people."
+      }
+    ]
+  },
+  "automatic": [
+    {
+      "ficha_index": 0,
+      "dimension_index": 0,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 1,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 2,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 3,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 4,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 5,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 6,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 7,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 8,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 9,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 10,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 11,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 12,
+      "issues": [
+        "Unknown unit",
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 13,
+      "issues": [
+        "Unknown unit",
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 14,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 15,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 16,
+      "issues": [
+        "Unknown unit",
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 17,
+      "issues": [
+        "Unknown unit",
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 18,
+      "issues": [
+        "Unknown unit",
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 19,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 20,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 21,
+      "issues": [
+        "Unknown unit",
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 22,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 23,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 24,
+      "issues": [
+        "Unknown unit",
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 25,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 26,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 27,
+      "issues": [
+        "Unknown unit",
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 28,
+      "issues": [
+        "Unknown unit",
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 29,
+      "issues": [
+        "Unknown unit",
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 30,
+      "issues": [
+        "Unknown unit",
+        "Mixed length units; check figure units"
+      ]
+    }
+  ],
+  "usage": [
+    {
+      "prompt_tokens": 4753,
+      "completion_tokens": 2500
+    },
+    {
+      "prompt_tokens": 6270,
+      "completion_tokens": 1362
+    }
+  ]
+}

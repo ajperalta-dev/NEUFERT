@@ -1,0 +1,301 @@
+{
+  "model": "gpt-6-luna",
+  "checks": {
+    "checks": [
+      {
+        "ficha_index": 0,
+        "dimension_index": 0,
+        "status": "verified",
+        "value": 1.5,
+        "value_max": null,
+        "reason": "Text visibly states a free movement area of at least 1.5 m\u00b2."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 1,
+        "status": "verified",
+        "value": 60.0,
+        "value_max": 78.0,
+        "reason": "Furniture text visibly gives variable-height desk 60\u201378 cm."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 2,
+        "status": "verified",
+        "value": 42.0,
+        "value_max": 54.0,
+        "reason": "Furniture text visibly gives variable-height chair 42\u201354 cm."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 3,
+        "status": "verified",
+        "value": 72.0,
+        "value_max": null,
+        "reason": "Furniture text visibly gives fixed-height desk 72 cm."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 4,
+        "status": "verified",
+        "value": 42.0,
+        "value_max": 50.0,
+        "reason": "Furniture text visibly gives chair height 42\u201350 cm."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 5,
+        "status": "verified",
+        "value": 0.0,
+        "value_max": 15.0,
+        "reason": "Furniture text visibly gives footstool height 00\u201315 cm."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 6,
+        "status": "verified",
+        "value": 120.0,
+        "value_max": null,
+        "reason": "Text visibly specifies a 120 \u00d7 80 cm desktop working area; width is 120 cm."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 7,
+        "status": "verified",
+        "value": 80.0,
+        "value_max": null,
+        "reason": "Text visibly specifies a 120 \u00d7 80 cm desktop working area; depth is 80 cm."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 8,
+        "status": "verified",
+        "value": 200.0,
+        "value_max": null,
+        "reason": "Text visibly specifies at least 200 \u00d7 80 cm for specialist employees; width is 200 cm."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 9,
+        "status": "verified",
+        "value": 80.0,
+        "value_max": null,
+        "reason": "Text visibly specifies at least 200 \u00d7 80 cm for specialist employees; depth is 80 cm."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 10,
+        "status": "verified",
+        "value": 20.0,
+        "value_max": 50.0,
+        "reason": "Text visibly gives a furniture coefficient of reflection of 20\u201350%."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 11,
+        "status": "verified",
+        "value": 300.0,
+        "value_max": 500.0,
+        "reason": "Text visibly gives lighting intensity of 300\u2013500 lx."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 12,
+        "status": "verified",
+        "value": 70.0,
+        "value_max": null,
+        "reason": "Text visibly gives the approximate ceiling reflection coefficient as 70%."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 13,
+        "status": "verified",
+        "value": 50.0,
+        "value_max": null,
+        "reason": "Text visibly gives the approximate wall reflection coefficient as 50%."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 14,
+        "status": "verified",
+        "value": 20.0,
+        "value_max": 50.0,
+        "reason": "Text visibly gives partition reflection coefficients of 20\u201350%."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 15,
+        "status": "verified",
+        "value": 90.0,
+        "value_max": null,
+        "reason": "Text visibly states an approximate 90\u00b0 working angle for the upper arm and elbow."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 16,
+        "status": "verified",
+        "value": 90.0,
+        "value_max": null,
+        "reason": "Text visibly states a 90\u00b0 angle for the thigh and lower leg."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 17,
+        "status": "verified",
+        "value": 60.0,
+        "value_max": null,
+        "reason": "Figure 1 visibly labels the permissible vertical field of view as 60\u00b0."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 18,
+        "status": "verified",
+        "value": 30.0,
+        "value_max": null,
+        "reason": "Figure 2 visibly labels the preferred horizontal field of vision as 30\u00b0."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 19,
+        "status": "verified",
+        "value": 65.0,
+        "value_max": null,
+        "reason": "Figure 2 visibly labels the permissible horizontal field of vision as 65\u00b0."
+      }
+    ]
+  },
+  "automatic": [
+    {
+      "ficha_index": 0,
+      "dimension_index": 0,
+      "issues": []
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 1,
+      "issues": []
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 2,
+      "issues": []
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 3,
+      "issues": []
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 4,
+      "issues": []
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 5,
+      "issues": [
+        "Plausibility limit; visual review required"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 6,
+      "issues": []
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 7,
+      "issues": []
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 8,
+      "issues": []
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 9,
+      "issues": []
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 10,
+      "issues": [
+        "Unknown unit"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 11,
+      "issues": [
+        "Unknown unit"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 12,
+      "issues": [
+        "Unknown unit"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 13,
+      "issues": [
+        "Unknown unit"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 14,
+      "issues": [
+        "Unknown unit"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 15,
+      "issues": [
+        "Unknown unit"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 16,
+      "issues": [
+        "Unknown unit"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 17,
+      "issues": [
+        "Unknown unit"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 18,
+      "issues": [
+        "Unknown unit"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 19,
+      "issues": [
+        "Unknown unit"
+      ]
+    }
+  ],
+  "usage": [
+    {
+      "prompt_tokens": 4918,
+      "completion_tokens": 1748
+    },
+    {
+      "prompt_tokens": 5058,
+      "completion_tokens": 941
+    }
+  ]
+}

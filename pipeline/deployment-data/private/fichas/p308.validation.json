@@ -1,0 +1,611 @@
+{
+  "model": "gpt-6-luna",
+  "checks": {
+    "checks": [
+      {
+        "ficha_index": 0,
+        "dimension_index": 0,
+        "status": "verified",
+        "value": 1.5,
+        "value_max": null,
+        "reason": "Text explicitly states generally accessible corridors should be at least 1.50 m wide."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 1,
+        "status": "verified",
+        "value": 2.25,
+        "value_max": null,
+        "reason": "Text explicitly states bed-transport corridors need usable width of at least 2.25 m."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 2,
+        "status": "verified",
+        "value": 2.4,
+        "value_max": null,
+        "reason": "Text reads 2.40 m; the scan/OCR rendering \u201cmin.\u201d is a visibly unclear unit rendering, not a different dimension."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 3,
+        "status": "verified",
+        "value": 25.0,
+        "value_max": null,
+        "reason": "Text states windows for lighting and ventilation should not be wider than 25 m apart."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 4,
+        "status": "verified",
+        "value": 3.0,
+        "value_max": null,
+        "reason": "Main-corridor drawing labels the dimension 3.00; the corridor dimensions are in metres as stated in the adjacent text."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 5,
+        "status": "verified",
+        "value": 3.5,
+        "value_max": 4.0,
+        "reason": "Service-corridor drawing visibly labels the range ~3.50\u20134.00; corridor dimensions are in metres."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 6,
+        "status": "verified",
+        "value": 2.25,
+        "value_max": null,
+        "reason": "Working-corridor drawing explicitly labels the clearance \u201cat least 2.25 m.\u201d"
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 7,
+        "status": "verified",
+        "value": 2.3,
+        "value_max": null,
+        "reason": "Intensive-care corridor drawing labels 2.30; corridor dimensions are in metres."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 8,
+        "status": "verified",
+        "value": 4.7,
+        "value_max": null,
+        "reason": "Lift-lobby drawing labels 4.70; corridor/lobby drawing dimensions are in metres."
+      },
+      {
+        "ficha_index": 1,
+        "dimension_index": 0,
+        "status": "verified",
+        "value": 885.0,
+        "value_max": null,
+        "reason": "Printed door schedule reads standard door (unfinished): 885 \u00d7 2135 mm."
+      },
+      {
+        "ficha_index": 1,
+        "dimension_index": 1,
+        "status": "verified",
+        "value": 2135.0,
+        "value_max": null,
+        "reason": "Printed door schedule reads standard door (unfinished): 885 \u00d7 2135 mm."
+      },
+      {
+        "ficha_index": 1,
+        "dimension_index": 2,
+        "status": "verified",
+        "value": 1260.0,
+        "value_max": 1375.0,
+        "reason": "Printed door schedule reads doors through which beds pass: 1260\u20131375 \u00d7 2135 mm."
+      },
+      {
+        "ficha_index": 1,
+        "dimension_index": 3,
+        "status": "verified",
+        "value": 2135.0,
+        "value_max": null,
+        "reason": "Printed door schedule reads doors through which beds pass: 1260\u20131375 \u00d7 2135 mm."
+      },
+      {
+        "ficha_index": 1,
+        "dimension_index": 4,
+        "status": "verified",
+        "value": 2400.0,
+        "value_max": null,
+        "reason": "Printed door schedule reads double corridor doors: 2400 \u00d7 2400 mm."
+      },
+      {
+        "ficha_index": 1,
+        "dimension_index": 5,
+        "status": "verified",
+        "value": 2400.0,
+        "value_max": null,
+        "reason": "Printed door schedule reads double corridor doors: 2400 \u00d7 2400 mm."
+      },
+      {
+        "ficha_index": 2,
+        "dimension_index": 0,
+        "status": "verified",
+        "value": 1.5,
+        "value_max": 2.5,
+        "reason": "Text explicitly gives emergency stair and landing usable width as at least 1.50 m and not more than 2.50 m."
+      },
+      {
+        "ficha_index": 2,
+        "dimension_index": 1,
+        "status": "verified",
+        "value": 17.0,
+        "value_max": null,
+        "reason": "Text explicitly states risers of 17 cm are permissible."
+      },
+      {
+        "ficha_index": 2,
+        "dimension_index": 2,
+        "status": "verified",
+        "value": 30.0,
+        "value_max": null,
+        "reason": "Text explicitly recommends treads of 30 cm."
+      },
+      {
+        "ficha_index": 3,
+        "dimension_index": 0,
+        "status": "verified",
+        "value": 0.9,
+        "value_max": null,
+        "reason": "Printed text explicitly gives clear car dimensions as 0.90 \u00d7 1.20 m."
+      },
+      {
+        "ficha_index": 3,
+        "dimension_index": 1,
+        "status": "verified",
+        "value": 1.2,
+        "value_max": null,
+        "reason": "Printed text explicitly gives clear car dimensions as 0.90 \u00d7 1.20 m."
+      },
+      {
+        "ficha_index": 3,
+        "dimension_index": 2,
+        "status": "verified",
+        "value": 1.25,
+        "value_max": null,
+        "reason": "Printed text explicitly gives shaft dimensions as 1.25 \u00d7 1.50 m."
+      },
+      {
+        "ficha_index": 3,
+        "dimension_index": 3,
+        "status": "verified",
+        "value": 1.5,
+        "value_max": null,
+        "reason": "Printed text explicitly gives shaft dimensions as 1.25 \u00d7 1.50 m."
+      },
+      {
+        "ficha_index": 3,
+        "dimension_index": 4,
+        "status": "verified",
+        "value": 100.0,
+        "value_max": null,
+        "reason": "Text explicitly states one multi-purpose lift should be provided for every 100 beds."
+      },
+      {
+        "ficha_index": 3,
+        "dimension_index": 5,
+        "status": "verified",
+        "value": 1600.0,
+        "value_max": null,
+        "reason": "The table visibly lists permissible loads of 1600, 2000, and 2500 kg."
+      },
+      {
+        "ficha_index": 3,
+        "dimension_index": 6,
+        "status": "verified",
+        "value": 2000.0,
+        "value_max": null,
+        "reason": "The table visibly lists permissible loads of 1600, 2000, and 2500 kg."
+      },
+      {
+        "ficha_index": 3,
+        "dimension_index": 7,
+        "status": "verified",
+        "value": 2500.0,
+        "value_max": null,
+        "reason": "The table visibly lists permissible loads of 1600, 2000, and 2500 kg."
+      },
+      {
+        "ficha_index": 3,
+        "dimension_index": 8,
+        "status": "uncertain",
+        "value": 2400.0,
+        "value_max": null,
+        "reason": "The table shows 2400 for the shaft width, but no unit is printed for this table dimension."
+      },
+      {
+        "ficha_index": 3,
+        "dimension_index": 9,
+        "status": "uncertain",
+        "value": 2700.0,
+        "value_max": null,
+        "reason": "The table shows 2700 for the shaft width, but no unit is printed for this table dimension."
+      },
+      {
+        "ficha_index": 3,
+        "dimension_index": 10,
+        "status": "uncertain",
+        "value": 3000.0,
+        "value_max": null,
+        "reason": "The table shows 3000 for the shaft depth, but no unit is printed for this table dimension."
+      },
+      {
+        "ficha_index": 3,
+        "dimension_index": 11,
+        "status": "uncertain",
+        "value": 3300.0,
+        "value_max": null,
+        "reason": "The table shows 3300 for the shaft depth, but no unit is printed for this table dimension."
+      },
+      {
+        "ficha_index": 3,
+        "dimension_index": 12,
+        "status": "uncertain",
+        "value": 1400.0,
+        "value_max": null,
+        "reason": "The table shows 1400 for car width, but no unit is printed for this table dimension."
+      },
+      {
+        "ficha_index": 3,
+        "dimension_index": 13,
+        "status": "uncertain",
+        "value": 1500.0,
+        "value_max": null,
+        "reason": "The table shows 1500 for car width, but no unit is printed for this table dimension."
+      },
+      {
+        "ficha_index": 3,
+        "dimension_index": 14,
+        "status": "uncertain",
+        "value": 1800.0,
+        "value_max": null,
+        "reason": "The table shows 1800 for car width, but no unit is printed for this table dimension."
+      },
+      {
+        "ficha_index": 3,
+        "dimension_index": 15,
+        "status": "uncertain",
+        "value": 2400.0,
+        "value_max": null,
+        "reason": "The table shows 2400 for car depth, but no unit is printed for this table dimension."
+      },
+      {
+        "ficha_index": 3,
+        "dimension_index": 16,
+        "status": "uncertain",
+        "value": 2700.0,
+        "value_max": null,
+        "reason": "The table shows 2700 for car depth, but no unit is printed for this table dimension."
+      },
+      {
+        "ficha_index": 3,
+        "dimension_index": 17,
+        "status": "uncertain",
+        "value": 1300.0,
+        "value_max": null,
+        "reason": "The table shows 1300 for car door width, but no unit is printed for this table dimension."
+      },
+      {
+        "ficha_index": 3,
+        "dimension_index": 18,
+        "status": "uncertain",
+        "value": 2300.0,
+        "value_max": null,
+        "reason": "The table shows 2300 in the first car-door-height row, but no unit is printed for this table dimension."
+      },
+      {
+        "ficha_index": 3,
+        "dimension_index": 19,
+        "status": "uncertain",
+        "value": 2100.0,
+        "value_max": null,
+        "reason": "The table shows 2100 in the second car-door-height row, but no unit is printed for this table dimension."
+      },
+      {
+        "ficha_index": 3,
+        "dimension_index": 20,
+        "status": "verified",
+        "value": 21.0,
+        "value_max": null,
+        "reason": "The table visibly lists permissible numbers of people as 21, 26, and 33; people is the row's stated unit."
+      },
+      {
+        "ficha_index": 3,
+        "dimension_index": 21,
+        "status": "verified",
+        "value": 26.0,
+        "value_max": null,
+        "reason": "The table visibly lists permissible numbers of people as 21, 26, and 33; people is the row's stated unit."
+      },
+      {
+        "ficha_index": 3,
+        "dimension_index": 22,
+        "status": "verified",
+        "value": 33.0,
+        "value_max": null,
+        "reason": "The table visibly lists permissible numbers of people as 21, 26, and 33; people is the row's stated unit."
+      }
+    ]
+  },
+  "automatic": [
+    {
+      "ficha_index": 0,
+      "dimension_index": 0,
+      "issues": []
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 1,
+      "issues": []
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 2,
+      "issues": []
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 3,
+      "issues": []
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 4,
+      "issues": []
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 5,
+      "issues": []
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 6,
+      "issues": []
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 7,
+      "issues": []
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 8,
+      "issues": []
+    },
+    {
+      "ficha_index": 1,
+      "dimension_index": 0,
+      "issues": []
+    },
+    {
+      "ficha_index": 1,
+      "dimension_index": 1,
+      "issues": []
+    },
+    {
+      "ficha_index": 1,
+      "dimension_index": 2,
+      "issues": []
+    },
+    {
+      "ficha_index": 1,
+      "dimension_index": 3,
+      "issues": []
+    },
+    {
+      "ficha_index": 1,
+      "dimension_index": 4,
+      "issues": []
+    },
+    {
+      "ficha_index": 1,
+      "dimension_index": 5,
+      "issues": []
+    },
+    {
+      "ficha_index": 2,
+      "dimension_index": 0,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 2,
+      "dimension_index": 1,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 2,
+      "dimension_index": 2,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 3,
+      "dimension_index": 0,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 3,
+      "dimension_index": 1,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 3,
+      "dimension_index": 2,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 3,
+      "dimension_index": 3,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 3,
+      "dimension_index": 4,
+      "issues": [
+        "Unknown unit",
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 3,
+      "dimension_index": 5,
+      "issues": [
+        "Unknown unit",
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 3,
+      "dimension_index": 6,
+      "issues": [
+        "Unknown unit",
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 3,
+      "dimension_index": 7,
+      "issues": [
+        "Unknown unit",
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 3,
+      "dimension_index": 8,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 3,
+      "dimension_index": 9,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 3,
+      "dimension_index": 10,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 3,
+      "dimension_index": 11,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 3,
+      "dimension_index": 12,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 3,
+      "dimension_index": 13,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 3,
+      "dimension_index": 14,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 3,
+      "dimension_index": 15,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 3,
+      "dimension_index": 16,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 3,
+      "dimension_index": 17,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 3,
+      "dimension_index": 18,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 3,
+      "dimension_index": 19,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 3,
+      "dimension_index": 20,
+      "issues": [
+        "Unknown unit",
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 3,
+      "dimension_index": 21,
+      "issues": [
+        "Unknown unit",
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 3,
+      "dimension_index": 22,
+      "issues": [
+        "Unknown unit",
+        "Mixed length units; check figure units"
+      ]
+    }
+  ],
+  "usage": [
+    {
+      "prompt_tokens": 4651,
+      "completion_tokens": 3749
+    },
+    {
+      "prompt_tokens": 7750,
+      "completion_tokens": 2083
+    }
+  ]
+}

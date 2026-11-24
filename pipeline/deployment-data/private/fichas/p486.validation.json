@@ -1,0 +1,60 @@
+{
+  "model": "gpt-6-luna",
+  "checks": {
+    "checks": [
+      {
+        "ficha_index": 0,
+        "dimension_index": 0,
+        "status": "verified",
+        "value": 20.0,
+        "value_max": null,
+        "reason": "The text states that the air gap with a panel-like external skin is a minimum of 20 mm."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 1,
+        "status": "verified",
+        "value": 40.0,
+        "value_max": null,
+        "reason": "The text states that the air gap with a brickwork outer skin is a minimum of 40 mm."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 2,
+        "status": "verified",
+        "value": 10.0,
+        "value_max": null,
+        "reason": "The text explicitly states a minimum fall of 10% between the air inlet and outlet."
+      }
+    ]
+  },
+  "automatic": [
+    {
+      "ficha_index": 0,
+      "dimension_index": 0,
+      "issues": []
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 1,
+      "issues": []
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 2,
+      "issues": [
+        "Unknown unit"
+      ]
+    }
+  ],
+  "usage": [
+    {
+      "prompt_tokens": 10636,
+      "completion_tokens": 1605
+    },
+    {
+      "prompt_tokens": 3746,
+      "completion_tokens": 227
+    }
+  ]
+}

@@ -1,0 +1,222 @@
+{
+  "fichas": [
+    {
+      "id": "4122fb96e4bd1976-91-vision-0",
+      "pdf_page": 91,
+      "book_page": 78,
+      "chapter": "BUILDING COMPONENTS",
+      "section": "Walls",
+      "title": "Composite concrete wall constructions",
+      "summary": "Reinforced concrete walls may be cast on site or precast. Solid concrete used externally requires additional thermal insulation, either as an external insulation system or as a multi-leaf construction. Two-layer reinforced concrete walls with core insulation are used particularly for large-format external wall elements.",
+      "building_type": "External wall construction",
+      "spaces": [],
+      "uses": [
+        "External walls",
+        "Large-format external wall elements"
+      ],
+      "furniture_equipment": [],
+      "dimensions": [
+        {
+          "label": "Thermal transmittance, two-layer concrete",
+          "value": 0.22,
+          "value_max": 0.24,
+          "unit": "W/(m²·K)",
+          "context": "Diagram 1, two-layer concrete wall",
+          "status": "uncertain",
+          "ocr_raw": "0.22–0.24 W/(m²·K)"
+        },
+        {
+          "label": "Thermal transmittance, concrete with external thermal insulation system",
+          "value": 0.22,
+          "value_max": 0.3,
+          "unit": "W/(m²·K)",
+          "context": "Diagram 2, concrete with external thermal insulation system",
+          "status": "uncertain",
+          "ocr_raw": "0.22–0.30 W/(m²·K)"
+        },
+        {
+          "label": "Thermal transmittance, two leaves of aerated concrete",
+          "value": 0.37,
+          "value_max": null,
+          "unit": "W/(m²·K)",
+          "context": "Diagram 3, two leaves of aerated concrete",
+          "status": "uncertain",
+          "ocr_raw": "0.37 W/(m²·K)"
+        }
+      ],
+      "figure_refs": [
+        "1 — Two-layer concrete",
+        "2 — Concrete with external thermal insulation system",
+        "3 — Two leaves of aerated concrete"
+      ],
+      "cross_refs": [
+        "p. 75"
+      ],
+      "keywords": [
+        "reinforced concrete",
+        "thermal insulation",
+        "external wall",
+        "multi-leaf construction",
+        "precast"
+      ],
+      "tags_architectural": [
+        "daylighting",
+        "ventilation"
+      ],
+      "confidence": 0.96
+    },
+    {
+      "id": "4122fb96e4bd1976-91-vision-1",
+      "pdf_page": 91,
+      "book_page": 78,
+      "chapter": "BUILDING COMPONENTS",
+      "section": "Walls",
+      "title": "Timber-framed and insulated masonry walls",
+      "summary": "The page illustrates timber-framed walls, log-house construction, and masonry walls with external insulation or cladding. Timber framing is described as economical and common, with vertical loads transferred through studs; framed panels may be prefabricated with thermal insulation. Timber walls require sufficient roof overhang and replaceable cladding in splash areas.",
+      "building_type": "External wall construction",
+      "spaces": [],
+      "uses": [
+        "External walls",
+        "Timber-framed construction",
+        "Log-house construction"
+      ],
+      "furniture_equipment": [],
+      "dimensions": [
+        {
+          "label": "Thermal transmittance, masonry with external thermal insulation system",
+          "value": 0.17,
+          "value_max": 0.27,
+          "unit": "W/(m²·K)",
+          "context": "Diagram 4, masonry with external thermal insulation system",
+          "status": "uncertain",
+          "ocr_raw": "0.17–0.27 W/(m²·K)"
+        },
+        {
+          "label": "Thermal transmittance, low-energy wall (Heckmann Ökohaus)",
+          "value": 0.23,
+          "value_max": null,
+          "unit": "W/(m²·K)",
+          "context": "Diagram 5, low-energy wall",
+          "status": "uncertain",
+          "ocr_raw": "0.23 W/(m²·K)"
+        },
+        {
+          "label": "Thermal transmittance, masonry with external cladding",
+          "value": 0.11,
+          "value_max": 0.19,
+          "unit": "W/(m²·K)",
+          "context": "Diagram 6, masonry with external cladding",
+          "status": "uncertain",
+          "ocr_raw": "0.11–0.19 W/(m²·K)"
+        },
+        {
+          "label": "Thermal transmittance, stud framing with lightweight clay elements",
+          "value": 0.24,
+          "value_max": null,
+          "unit": "W/(m²·K)",
+          "context": "Diagram 7, stud framing with lightweight clay elements",
+          "status": "uncertain",
+          "ocr_raw": "0.24 W/(m²·K)"
+        },
+        {
+          "label": "Thermal transmittance, timber framing with insulation between the posts",
+          "value": 0.27,
+          "value_max": null,
+          "unit": "W/(m²·K)",
+          "context": "Diagram 8, timber framing with insulation between the posts",
+          "status": "uncertain",
+          "ocr_raw": "0.27 W/(m²·K)"
+        },
+        {
+          "label": "Thermal transmittance, timber framing with lightweight clay blocks",
+          "value": 0.14,
+          "value_max": null,
+          "unit": "W/(m²·K)",
+          "context": "Diagram 9, timber framing with lightweight clay blocks",
+          "status": "uncertain",
+          "ocr_raw": "0.14 W/(m²·K)"
+        },
+        {
+          "label": "Thermal transmittance, laminated timber sections for log-house construction",
+          "value": 0.55,
+          "value_max": null,
+          "unit": "W/(m²·K)",
+          "context": "Diagram 10, laminated timber sections for log-house construction",
+          "status": "uncertain",
+          "ocr_raw": "0.55 W/(m²·K)"
+        }
+      ],
+      "figure_refs": [
+        "4 — Masonry with external thermal insulation system",
+        "5 — Low-energy wall (Heckmann Ökohaus)",
+        "6 — Masonry with external cladding",
+        "7 — Stud framing with lightweight clay elements",
+        "8 — Timber framing (insulation between the posts)",
+        "9 — Timber framing with lightweight clay blocks",
+        "10 — Laminated timber sections for log house construction"
+      ],
+      "cross_refs": [
+        "p. 75",
+        "p. 78, figure 10"
+      ],
+      "keywords": [
+        "timber framing",
+        "masonry",
+        "thermal insulation",
+        "external cladding",
+        "log-house construction",
+        "lightweight clay blocks"
+      ],
+      "tags_architectural": [
+        "ventilation",
+        "adaptability"
+      ],
+      "confidence": 0.94
+    },
+    {
+      "id": "4122fb96e4bd1976-91-vision-2",
+      "pdf_page": 91,
+      "book_page": 78,
+      "chapter": "BUILDING COMPONENTS",
+      "section": "Walls",
+      "title": "Non-load-bearing external walls and curtain walls",
+      "summary": "Light, often prefabricated panels are used as non-load-bearing external walls in framed buildings, reducing load at slab edges and enabling rapid assembly and later replacement. Curtain walls may use prefabricated metal-glass construction, façade panels, multi-layer façade elements with windows and parapets, or precast concrete elements. They are commonly fixed to slabs or framed columns with brackets or anchors.",
+      "building_type": "Non-load-bearing external wall and curtain wall",
+      "spaces": [],
+      "uses": [
+        "Non-load-bearing external enclosure",
+        "Curtain walling",
+        "Prefabricated façade construction"
+      ],
+      "furniture_equipment": [
+        "Fixing brackets",
+        "Anchors"
+      ],
+      "dimensions": [],
+      "figure_refs": [
+        "11 — Framed construction with non-load-bearing masonry panels",
+        "12 — Curtain wall with back-ventilated façade",
+        "13 — Curtain wall of multi-layer façade elements",
+        "14 — Curtain wall as double façade"
+      ],
+      "cross_refs": [
+        "pp. 104 ff.",
+        "pp. 471 ff."
+      ],
+      "keywords": [
+        "curtain wall",
+        "non-load-bearing wall",
+        "prefabrication",
+        "façade panels",
+        "back ventilation",
+        "double façade"
+      ],
+      "tags_architectural": [
+        "circulation",
+        "adaptability",
+        "ventilation"
+      ],
+      "confidence": 0.97
+    }
+  ]
+}

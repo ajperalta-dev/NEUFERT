@@ -1,0 +1,86 @@
+{
+  "id": "4122fb96e4bd1976-488-0",
+  "titulo_original": "BUILDING PHYSICS",
+  "titulo_de": null,
+  "titulo_es": null,
+  "titulo_en": "BUILDING PHYSICS",
+  "tipologia_edificio": [],
+  "espacios": [],
+  "dimensiones": [
+    {
+      "nombre": "Medida extraída",
+      "valor": 535.86,
+      "unidad": "m",
+      "contexto": "heated  volume  Va:  535.86 m 3 usable building area  AN  -   0.32'Va:  171m 2 Building  eleme"
+    },
+    {
+      "nombre": "Medida extraída",
+      "valor": 171.0,
+      "unidad": "m",
+      "contexto": " volume  Va:  535.86 m 3 usable building area  AN  -   0.32'Va:  171m 2 Building  element  Description  Area  Thermal  transmittance  "
+    },
+    {
+      "nombre": "Medida extraída",
+      "valor": 407.253,
+      "unidad": "m",
+      "contexto": "771  W/K  0.000  W/K  14.720  W/K  98.316  W/K  W/K 98.316  W/K  407.253  m'  m'  W/K 109.314  W/K 0.922  m'  specific gain  A'g'0.9'  FF*Fs"
+    },
+    {
+      "nombre": "Medida extraída",
+      "valor": 0.922,
+      "unidad": "m",
+      "contexto": " 98.316  W/K  W/K 98.316  W/K  407.253  m'  m'  W/K 109.314  W/K 0.922  m'  specific gain  A'g'0.9'  FF*Fs*Fc 2.83  2.11  2.55  1.59 855.0"
+    }
+  ],
+  "usos": [],
+  "mobiliario": [],
+  "pagina_pdf": 488,
+  "pagina_impresa": "475",
+  "bbox": [
+    56.0099983215332,
+    60.3589973449707,
+    571.4052124023438,
+    780.7500610351562
+  ],
+  "figuras": [
+    {
+      "id": "4122fb96e4bd1976-488-0-1",
+      "entry_id": "4122fb96e4bd1976-488-0",
+      "bbox": [
+        325.45001220703125,
+        507.8399658203125,
+        518.4100341796875,
+        724.7999877929688
+      ],
+      "image": "4122fb96e4bd1976/figures/0488-1.webp",
+      "method": "embedded-image"
+    },
+    {
+      "id": "4122fb96e4bd1976-488-0-0",
+      "entry_id": "4122fb96e4bd1976-488-0",
+      "bbox": [
+        55.689998626708984,
+        561.5999145507812,
+        230.41000366210938,
+        693.1199951171875
+      ],
+      "image": "4122fb96e4bd1976/figures/0488-0.webp",
+      "method": "embedded-image"
+    },
+    {
+      "id": "4122fb96e4bd1976-488-0-2",
+      "entry_id": "4122fb96e4bd1976-488-0",
+      "bbox": [
+        526.0900268554688,
+        609.5899658203125,
+        581.77001953125,
+        641.2699584960938
+      ],
+      "image": "4122fb96e4bd1976/figures/0488-2.webp",
+      "method": "embedded-image"
+    }
+  ],
+  "confianza": 0.58,
+  "requiere_revision": true,
+  "texto": "heated  volume \nVa: \n535.86 m 3\nusable building area \nAN  -   0.32'Va: \n171m 2\nBuilding  element \nDescription \nArea \nThermal  transmittance  U \nTemperature correction \nfactor \nm2 \nFX \nexternal wall \n147.35 \n0.24 \n1.00 \ndormer wall \neast/west \n0.00 \n0.17 \n1.00 \nwindows \nnorth \n9.41 \n0.80 \n1.00 \neast/west \n7.01 \n0.80 \n1.00 \nsouth \n8.50 \n0.80 \n1.00 \nroof \n3.28 \n0.80 \n1.00 \nfront door \nnorth \n3.50 \n1.40 \n1.00 \nroof pitch \nto  outside  air \n159.78 \n0.13 \n1.00 \nfloors \nto  insulated  roof  space \n0.00 \n0.19 \n0.50 \nfloor slab \nto ground \n154.95 \n0.19 \n0.50 \nsum: \n493.78 \nsum  A'U'F \nthermal  bridge \nHwa \nsupplement \ntransmission  heat  loss  HT \nI \nsum A'U'F+Hwa \nair volume V \nbuilding  up  to 3 full storeys \n0.76  v. \nbuilding over 3 full storeys \no.8o·v. \nventilation  heat  loss  Hv \nairtightness n 50  >  3.0  h- 1 \n0.70'0.34'Ve\nairtightness n 50  <  3.0  h- 1 \n0.60'0.34'Ve\nenvelope area factor \nAN. \nsolar  heat  gain  of \nelement \narea \noverall  degree  of  energy \nFr \nFs \nFe \ntransparent  building \ntransmittance  g \nelements \nwindows north \n9.41 \n0.53 \n0.70 \n0.90 \n1.00 \nwindows  east/west \n7.01 \n0.53 \n0.70 \n0.90 \n1.00 \nwindows south \n8.50 \n0.53 \n0.70 \n0.90 \n1.00 \nfront door \n3.50 \n0.80 \n0.70 \n0.90 \n1.00 \nsolar  gain  of  opaque \ndegree  of  absorption  a \nform factor F 1 \nbuilding  elements \nexternal walls \n0.50 \n0.50 \nroof pitch \n0.80 \n1.00 \ninternal  heat  gain \nsurface~specific  solid  construction \n5 W/m 2  50 Wh/m 3 K'V• \nspecific  thermal  mass\nCwirk~Ve \nlight construction \n15  Wh/m 3 K'Ve \nannual heating energy \nabsolute \nQh=Q,+Qy-Q, \ndemand \nspecific \nQ'h \nplant  input  number  eP \nep \nprimary  energy  demand \nexisting \nQp  exstg.  =  ep'(Q\"h + 12.5) \nQ'P \npermissible \nQ\"p  perm.=  50.94 +  75.29'AN 0   + 2600/(100  +AN)\nspecific transmission  heat  Joss  related to \nexisting \nHff  exstg.  =  HT/A \nenvelope  area  H'T \npermissible \nH'T perm.  =  0.3 + 0.15/(ANe)\nfinal  energy  demand \nheating \ngas/oil/electricity \nqWE,E \noperating energy \nelectricity \nq HE,E\nTerrace \nOl \n\"'  \"'  \"'\n\"' \n\": \n\"'\n0 \n0 \n\"' \n\"' \nci\n0 \n~~ \nco \nN\n60 \n<DO \n\"!\"'t\n\"' \"' \n<'i\n\"'  \"'\n11.99 \n36'11\nCross-section  a·a \n0 \nCalculation example: determination  of  the annual primary energy demand  of  a property,  EnEV  2007\nBUILDING PHYSICS\nThermal  Insulation\nHeat  loss \nUnit\n35.364 \nW/K \n0.000 \nW/K \n7.528 \nW/K \n5.608 \nW/K \n6.800 \nW/K \n2.624 \nW/K \n4.900 \nW/K \n20.771 \nW/K \n0.000 \nW/K \n14.720 \nW/K \n98.316 \nW/K \nW/K\n98.316 \nW/K \n407.253 \nm' \nm' \nW/K\n109.314 \nW/K\n0.922 \nm' \nspecific gain  A'g'0.9' \nFF*Fs*Fc\n2.83 \n2.11 \n2.55 \n1.59\n855.00 26793.00 \nw \nWh\n5597.00 \nkWh/a \n33.11 \nkWh/m 2 a\n1.29 \n58.94 \nkWh/m 2 a \n116.52 \nkWh/m 2 a \n0.24 \nW/m 2 K \n0.77 \nW/m 2 K \n51.80 \nkWh/m 2 a \n2.30 \nkWh/m 2 a\n11.99\n475\nBUILDING \nPHYSICS\nThermal \ninsulation \nSound insulation \nRoom  acoustics \nLightning \nprotection\nBS  EN  ISO 9229 \nBS  EN  ISO \n13370 \nBS  EN  ISO \n13790 \nDIN  EN  832 \nDIN 4108 \nDIN  EN  12524 \nDIN  V 18599\nEnEV 2007"
+}

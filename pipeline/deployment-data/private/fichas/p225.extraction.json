@@ -1,0 +1,293 @@
+{
+  "fichas": [
+    {
+      "id": "4122fb96e4bd1976-225-vision-0",
+      "pdf_page": 225,
+      "book_page": 212,
+      "chapter": "CULTURAL VENUES",
+      "section": "Theatres",
+      "title": "Auditorium seating, sightlines, and layout",
+      "summary": "Auditorium seating gradients are derived from sightlines. The text discusses full sight super-elevation on every second row, seating arranged in arcs, side-aisle steps, proscenium proportions, audience perception, and acoustic distribution. Tiered theatres should provide a sufficiently deep view of the stage from the uppermost level.",
+      "building_type": "Theatre",
+      "spaces": [
+        "Auditorium",
+        "Stalls",
+        "Tiers",
+        "Stage",
+        "Side aisle",
+        "Proscenium"
+      ],
+      "uses": [
+        "Arrange seating to provide sightlines to the stage",
+        "Set seating gradients and aisle steps",
+        "Support audience alignment and mutual perception",
+        "Coordinate auditorium proportions and acoustics"
+      ],
+      "furniture_equipment": [
+        "Audience seating"
+      ],
+      "dimensions": [
+        {
+          "label": "Forstages height, maximum",
+          "value": 1.1,
+          "value_max": null,
+          "unit": "m",
+          "context": "Maximum forestage height indicated in the seating-gradient diagram.",
+          "status": "uncertain",
+          "ocr_raw": "forstage height max. 1.1m"
+        },
+        {
+          "label": "Forstages height, minimum",
+          "value": 0.6,
+          "value_max": 0.9,
+          "unit": "m",
+          "context": "Minimum forestage-height range indicated in the seating-gradient diagram.",
+          "status": "uncertain",
+          "ocr_raw": "min. 0.60-0.90m"
+        },
+        {
+          "label": "Eye level when sitting",
+          "value": 1.1,
+          "value_max": 1.5,
+          "unit": "m",
+          "context": "Eye-level range shown in the seating-gradient diagram.",
+          "status": "uncertain",
+          "ocr_raw": "eye level when sitting 1.10–1.50m"
+        },
+        {
+          "label": "Sight super-elevation",
+          "value": 12.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Full sight super-elevation; the text says every second row requires it when spectators sit sensibly.",
+          "status": "uncertain",
+          "ocr_raw": "only every second row requires full sight super-elevation (12 cm)"
+        },
+        {
+          "label": "Alternative super-elevation increment",
+          "value": 6.0,
+          "value_max": null,
+          "unit": "cm per row",
+          "context": "Diagram notes an alternative increment for each row.",
+          "status": "uncertain",
+          "ocr_raw": "(or 6cm per row)"
+        },
+        {
+          "label": "Stepped side-aisle rise",
+          "value": 10.0,
+          "value_max": 19.0,
+          "unit": "cm",
+          "context": "Rise of the stepped side aisle.",
+          "status": "uncertain",
+          "ocr_raw": "The stepped side aisle must rise 10–19 cm"
+        },
+        {
+          "label": "Minimum side-aisle tread",
+          "value": 26.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Minimum tread depth for the stepped side aisle.",
+          "status": "uncertain",
+          "ocr_raw": "the tread must not be less than 26 cm"
+        },
+        {
+          "label": "Proscenium width-to-height ratio",
+          "value": 1.6,
+          "value_max": null,
+          "unit": "ratio",
+          "context": "Stalls-theatre proportion, expressed as width to height; the printed terms give height 1 and width 1.6.",
+          "status": "uncertain",
+          "ocr_raw": "proscenium height 1\nproscenium width 1.6"
+        },
+        {
+          "label": "Variable seat width",
+          "value": 0.5,
+          "value_max": 0.56,
+          "unit": "m",
+          "context": "Sequence of variable seat widths used to offset seats in a row; an intermediate width is also printed.",
+          "status": "uncertain",
+          "ocr_raw": "variable seat widths (0,50–0.53–0.56)"
+        },
+        {
+          "label": "Intermediate variable seat width",
+          "value": 0.53,
+          "value_max": null,
+          "unit": "m",
+          "context": "Intermediate value in the printed sequence of variable seat widths.",
+          "status": "uncertain",
+          "ocr_raw": "variable seat widths (0,50–0.53–0.56)"
+        },
+        {
+          "label": "Minimum height shown in tiered-theatre diagram",
+          "value": 2.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Minimum height indicated in the tiered-theatre view-of-stage figure.",
+          "status": "uncertain",
+          "ocr_raw": "min. 2 m"
+        },
+        {
+          "label": "Proscenium height in field-of-perception diagram",
+          "value": 1.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Height labeled in the proscenium-arch field-of-perception figure.",
+          "status": "uncertain",
+          "ocr_raw": "proscenium height = 1.0 m"
+        }
+      ],
+      "figure_refs": [
+        "1 Elevation of seating (gradient)",
+        "2 Gradient curve and its modification",
+        "3 Offsetting of the seats in a row",
+        "4 Contact relationship between the audience and the stage and with each other",
+        "5 Field of perception and proportions of the proscenium arch",
+        "6 Tiered theatre and view of stage",
+        "7 Acoustic distribution in the auditorium"
+      ],
+      "cross_refs": [
+        "p. 213",
+        "p. 220"
+      ],
+      "keywords": [
+        "sightlines",
+        "seating gradient",
+        "super-elevation",
+        "proscenium",
+        "auditorium layout",
+        "tiered theatre",
+        "audience perception",
+        "side aisle"
+      ],
+      "tags_architectural": [
+        "circulation",
+        "ergonomics",
+        "anthropometry",
+        "clearance",
+        "spatial_proportion",
+        "safety"
+      ],
+      "confidence": 0.91
+    },
+    {
+      "id": "4122fb96e4bd1976-225-vision-1",
+      "pdf_page": 225,
+      "book_page": 212,
+      "chapter": "CULTURAL VENUES",
+      "section": "Theatres",
+      "title": "Flexible experimental theatre spaces",
+      "summary": "Neutral or open theatre spaces allow different arrangements of spectators and stage areas. The page describes mobile stage platforms and audience stands on a fixed floor, or technically more elaborate movable floor podiums. It gives capacity guidance and an example area calculation for the simpler option.",
+      "building_type": "Experimental theatre",
+      "spaces": [
+        "Flexible audience area",
+        "Stage area",
+        "Open theatre space"
+      ],
+      "uses": [
+        "Arrange spectators and stage areas in different configurations",
+        "Provide adaptable performance space",
+        "Accommodate audiences using mobile platforms, stands, or movable floor podiums"
+      ],
+      "furniture_equipment": [
+        "Mobile stage platforms",
+        "Mobile audience stands",
+        "Moveable floor podiums"
+      ],
+      "dimensions": [
+        {
+          "label": "Capacity for larger-space movable-podium solution",
+          "value": 150.0,
+          "value_max": 450.0,
+          "unit": "people",
+          "context": "The text describes this solution as used in larger spaces for a minimum stated capacity range or more.",
+          "status": "uncertain",
+          "ocr_raw": "used only in larger spaces for min. 150–450 or more people."
+        },
+        {
+          "label": "Maximum capacity for simpler option A",
+          "value": 199.0,
+          "value_max": null,
+          "unit": "places",
+          "context": "The simpler option is stated to be suitable up to this capacity; regulations apply from 200.",
+          "status": "uncertain",
+          "ocr_raw": "Size: up to max. 199 places, because the regulations apply from 200."
+        },
+        {
+          "label": "Regulation threshold",
+          "value": 200.0,
+          "value_max": null,
+          "unit": "places",
+          "context": "The text states that regulations apply from this number of places.",
+          "status": "uncertain",
+          "ocr_raw": "the regulations apply from 200."
+        },
+        {
+          "label": "Area allowance per seat",
+          "value": 0.5,
+          "value_max": null,
+          "unit": "m² per seat",
+          "context": "Area factor used in the printed example for 199 seats.",
+          "status": "uncertain",
+          "ocr_raw": "199 seats x 0.5 m²"
+        },
+        {
+          "label": "Example audience area",
+          "value": 100.0,
+          "value_max": null,
+          "unit": "m²",
+          "context": "Printed audience-area component in the example.",
+          "status": "uncertain",
+          "ocr_raw": "199 seats x 0.5 m² =100 m²"
+        },
+        {
+          "label": "Stage-area share",
+          "value": 1.0,
+          "value_max": null,
+          "unit": "fraction",
+          "context": "The stage area is labeled as one third in the printed calculation.",
+          "status": "uncertain",
+          "ocr_raw": "30 m² (1/3) stage area"
+        },
+        {
+          "label": "Example stage area",
+          "value": 30.0,
+          "value_max": null,
+          "unit": "m²",
+          "context": "Printed stage-area component of the example calculation.",
+          "status": "uncertain",
+          "ocr_raw": "30 m² (1/3) stage area"
+        },
+        {
+          "label": "Example total area",
+          "value": 130.0,
+          "value_max": null,
+          "unit": "m²",
+          "context": "Printed total area in the example calculation.",
+          "status": "uncertain",
+          "ocr_raw": "199 seats x 0.5 m² =100 m² (2/3) + 30 m² (1/3) stage area =130 m²."
+        }
+      ],
+      "figure_refs": [
+        "Proportions of an experimental space"
+      ],
+      "cross_refs": [
+        "p. 213"
+      ],
+      "keywords": [
+        "experimental space",
+        "open theatre",
+        "flexible layout",
+        "mobile platforms",
+        "movable podiums",
+        "audience capacity",
+        "area"
+      ],
+      "tags_architectural": [
+        "adaptability",
+        "modularity",
+        "spatial_proportion"
+      ],
+      "confidence": 0.91
+    }
+  ]
+}

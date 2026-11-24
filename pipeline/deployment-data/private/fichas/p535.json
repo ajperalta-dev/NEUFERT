@@ -1,0 +1,172 @@
+{
+  "fichas": [
+    {
+      "id": "4122fb96e4bd1976-535-vision-0",
+      "pdf_page": 535,
+      "book_page": 522,
+      "chapter": "BUILDING SERVICES",
+      "section": "Domestic Installation",
+      "title": "Building drainage systems and pipework",
+      "summary": "Building drainage systems are designed to operate by gravity where possible. The page outlines standards applying inside and outside buildings, explains combined and separate wastewater and rainwater systems, and defines downpipes, ground pipes, vent pipes, collector pipes, branch waste pipes, and sewer connections. DIN EN 12056 describes four drainage systems that differ in filling degree, branch-pipe arrangement, and separation of pipework; systems I and IV are stated to be permissible in Germany.",
+      "building_type": "Residential, business, institutional, and industrial buildings",
+      "spaces": [
+        "Building interior",
+        "Roof",
+        "Floor slab",
+        "Cellar",
+        "Plot",
+        "Public sewer"
+      ],
+      "uses": [
+        "Drain wastewater and rainwater",
+        "Ventilate drainage pipework",
+        "Connect building drainage to the public sewer"
+      ],
+      "furniture_equipment": [],
+      "dimensions": [],
+      "figure_refs": [
+        "1 — Areas where standards and regulations apply",
+        "2 — Combined and separate systems",
+        "3 — Drainage system I",
+        "4 — Drainage system IV",
+        "5 — Drainage systems and filling degrees"
+      ],
+      "cross_refs": [
+        "→ 1",
+        "→ 2",
+        "→ 3–4",
+        "→ 5"
+      ],
+      "keywords": [
+        "drainage",
+        "wastewater",
+        "rainwater",
+        "combined drain",
+        "separate system",
+        "downpipe",
+        "ground pipe",
+        "vent pipe",
+        "collector pipe",
+        "branch waste pipe",
+        "sewer connection",
+        "DIN EN 12056",
+        "DIN EN 752",
+        "DIN 1986-100"
+      ],
+      "tags_architectural": [
+        "circulation",
+        "safety"
+      ],
+      "confidence": 0.97
+    },
+    {
+      "id": "4122fb96e4bd1976-535-vision-1",
+      "pdf_page": 535,
+      "book_page": 522,
+      "chapter": "BUILDING SERVICES",
+      "section": "Domestic Installation",
+      "title": "Wastewater drainage design and discharge factors",
+      "summary": "Wastewater pipework is designed from the expected flow, which depends on the use and type of drainage. The page gives the symbolic relationship Qww = K × √Σ(DU), defines the discharge terms, and lists typical discharge factors by building-use frequency. Total wastewater discharge is expressed as Qtot = Qww + Qc + Qp. The decisive design value is the larger of Qww and Qtot, or the wastewater discharge of the sanitary appliance with the largest connection value.",
+      "building_type": "Buildings with wastewater drainage",
+      "spaces": [
+        "Sanitary spaces",
+        "Drainage pipework"
+      ],
+      "uses": [
+        "Estimate wastewater discharge for drainage design",
+        "Select a discharge factor according to building use",
+        "Account for permanent discharge and pumped flow"
+      ],
+      "furniture_equipment": [
+        "Sanitary appliances"
+      ],
+      "dimensions": [
+        {
+          "label": "Discharge factor K",
+          "value": 0.5,
+          "value_max": null,
+          "unit": "dimensionless",
+          "context": "Typical factor for irregular use, e.g. houses, guest houses, and offices.",
+          "status": "verified",
+          "ocr_raw": "irregular use, e.g. in houses, guest houses, offices\n\n0.5"
+        },
+        {
+          "label": "Discharge factor K",
+          "value": 0.7,
+          "value_max": null,
+          "unit": "dimensionless",
+          "context": "Typical factor for regular use, e.g. hospitals, schools, restaurants, and hotels.",
+          "status": "verified",
+          "ocr_raw": "regular use, e.g. in hospitals, schools, restaurants, hotels\n\n0.7"
+        },
+        {
+          "label": "Discharge factor K",
+          "value": 1.0,
+          "value_max": null,
+          "unit": "dimensionless",
+          "context": "Typical factor for frequent use, e.g. public toilets and/or showers.",
+          "status": "verified",
+          "ocr_raw": "frequent use, e.g. in public toilets and/or showers\n\n1.0"
+        },
+        {
+          "label": "Discharge factor K",
+          "value": 1.2,
+          "value_max": null,
+          "unit": "dimensionless",
+          "context": "Typical factor for special use, e.g. laboratories.",
+          "status": "verified",
+          "ocr_raw": "special use, e.g. laboratories\n\n1.2"
+        },
+        {
+          "label": "Degree of filling",
+          "value": 0.5,
+          "value_max": null,
+          "unit": "ratio",
+          "context": "System I: single downpipe; partially filled branch pipe; degree of filling 0.5.",
+          "status": "verified",
+          "ocr_raw": "single downpipe, partially filled branch pipe, degree of filling 0.5"
+        },
+        {
+          "label": "Degree of filling",
+          "value": 0.7,
+          "value_max": null,
+          "unit": "ratio",
+          "context": "System II: single downpipe; system branch pipe, partially filled; degree of filling 0.7.",
+          "status": "verified",
+          "ocr_raw": "single down pipe, system branch pipe, partially filled, degree of filling 0.7"
+        },
+        {
+          "label": "Degree of filling",
+          "value": 1.0,
+          "value_max": null,
+          "unit": "ratio",
+          "context": "System III: single downpipe with full branch pipe; degree of filling 1.0.",
+          "status": "verified",
+          "ocr_raw": "DOMESTIC INSTALLATION\nDrainage\n\nDrainage systems for buildings and sites\nDrainage systems for buildings are constructed to work under\ngravity wherever possible. The European standard DIN EN 12056\napplies to all drainage systems operating under gravity inside\nresidential, business, institutional or industrial buildings. Additional\nrequirements for Germany are given in DIN 1986-100. Outside the\nbuilding, DIN EN 752 and further regulations apply~ 0.\n\nDIN EN 752\nDIN 1986-100\nDIN EN 1610\nATV A 127\nATV A 139\nATV A 142\n\nDIN EN 12056\nDIN 1986--100\n\n0\n\nAreas where standards and regulations apply (Wellpott, Bohne ---. refs)\n\nCalculation\nCalculations are based on the assumed flow in the pipework, which\ndepends on the type of use and of drainage. A basic distinction\nis made between wastewater and rainwater, and it needs to be\ndecided whether collected wastewater and rainwater are drained\ninto a combined system or have to remain separated according to\nlocal by-laws~ f).\nDescription of drainage pipes\nA downpipe is the vertical pipe in a building carrying wastewater or\nrainwater down to a horizontal pipe and is ventilated above the roof.\nA ground pipe is the inaccessible pipe laid underground or under\na floor slab, carrying groundwater from down pipes, branch waste\npipes and floor drains.\n\nCombined drain\n\nA vent pipe is the downpipe's extension above the roof to provide\npressure balance above unpressurised drainage by means of\nventilation.\nWastewater drain\nRainwater\n\nf) Combined and separate systems (Wellpott ---. refs)\n\nCollector pipes have the same function as ground pipes, but they\nare suspended below the cellar ceiling or on cellar walls.\nBranch waste pipes connect the odour trap in the sanitary\nappliance to the further pipework. The sewer connection is the\npipe connecting the last shaft on the plot to the public sewer.\nDesign of wastewater drainage\nThe expected flow of wastewater can be calculated as follows:\nQww = K x\nOww\n\nK\nDU\n\nDOMESTIC\nINSTALLATION\n\nDrainage\nVentilation\nHeating\nSmall sewage\ntreatment plants\n\n~L.(DU)\n\nwhere:\n\nwastewater discharge 1/s\ndischarge factor\nDesign Units 1/s\n\nTypical discharge factors are:\n\nBS EN 476\nBS 8515\nDIN EN 752\nDIN EN 1610\nDIN 1986\nDIN EN 12056\n\nv\n\nC) Drainage system I (Wellpott, Bohne Q\n---.refs)\n\nDrainage system IV (Wellpott, Bohne\n-;refs)\n\nSystem I\n\nsingle downpipe, partially filled branch pipe, degree of filling 0.5\n\nSystem II\n\nsingle down pipe, system branch pipe, partially filled, degree of filling 0.7\n\nSystem Ill\n\nsingle downplpe with full branch pipe, degree of filling 1.0\n\nSystem IV\n\nseparation into two pipe systems (greywater, wastewater)\n\ne\n\nDrainage systems: for Germany, systems I and IV are permissible\n\n522\n\nType of building\n\nDischarge factor K\n\nirregular use, e.g. in houses, guest houses, offices\n\n0.5\n\nregular use, e.g. in hospitals, schools, restaurants, hotels\n\n0.7\n\nfrequent use, e.g. in public toilets and/or showers\n\n1.0\n\nspecial use, e.g. laboratories\n\n1.2\n\nThe total wastewater discharge is:\nQtot = Qww + Qc + QP where:\nOtot\ntotal wastewater discharge 1/s\nOww\nwastewater discharge 1/s\nOc\npermanent discharge 1/s\nOp\npumped flow 1/s\nThe larger value (Qww or Q10J or the value of the wastewater discharge\nof the sanitary appliance with the largest connection value is decisive\nfor design purposes. DIN EN 12056-2 defines four of the various\ndrainage systems in Europe. These differ according to the degree\nof filling, the branch waste pipes and the separation or not of the\npipework ~ 0. For Germany, systems I and IV are permissible ~\n\ne-e.\n\n\f"
+        }
+      ],
+      "figure_refs": [
+        "3 — Drainage system I",
+        "4 — Drainage system IV",
+        "5 — Drainage systems and filling degrees"
+      ],
+      "cross_refs": [
+        "→ 5",
+        "→ 3–4"
+      ],
+      "keywords": [
+        "wastewater discharge",
+        "discharge factor",
+        "Design Units",
+        "permanent discharge",
+        "pumped flow",
+        "drainage system",
+        "degree of filling"
+      ],
+      "tags_architectural": [
+        "safety"
+      ],
+      "confidence": 0.96
+    }
+  ]
+}

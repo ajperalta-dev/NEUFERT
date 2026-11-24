@@ -1,0 +1,217 @@
+{
+  "fichas": [
+    {
+      "id": "4122fb96e4bd1976-312-vision-0",
+      "pdf_page": 312,
+      "book_page": 299,
+      "chapter": "HEALTH",
+      "section": "Hospitals",
+      "title": "Reception and emergency provision",
+      "summary": "The accident and emergency unit should be quickly accessible to stretcher patients via the ambulance hall and to ambulant patients from the main entrance. It comprises small examination and treatment rooms, with additional plastering, first-aid and surgery rooms; the X-ray department should be nearby. Provide storage for stretchers and wheelchairs in the ambulance hall, and group clinical service doctors, surgeons and anaesthetists nearby.",
+      "building_type": "Hospital accident and emergency department",
+      "spaces": [
+        "Ambulance hall",
+        "Examination and treatment rooms",
+        "Plaster room",
+        "First-aid room",
+        "Surgery rooms",
+        "Nearby X-ray department"
+      ],
+      "uses": [
+        "Emergency reception and treatment",
+        "Examination of patients",
+        "Plaster treatment",
+        "Treatment of shock",
+        "Surgery",
+        "Stretcher and wheelchair storage"
+      ],
+      "furniture_equipment": [
+        "Couch",
+        "Small operating light",
+        "Cupboard units with sink",
+        "Patient cubicles, if required",
+        "Plastering bench",
+        "Stretchers",
+        "Wheelchairs"
+      ],
+      "dimensions": [
+        {
+          "label": "Minimum clear access road height",
+          "value": 3.5,
+          "value_max": null,
+          "unit": "m",
+          "context": "Ambulance access route to the ambulance hall",
+          "status": "verified",
+          "ocr_raw": "clear\naccess road height= min. 3.50 m"
+        },
+        {
+          "label": "Examination and treatment room area",
+          "value": 16.0,
+          "value_max": 21.0,
+          "unit": "m²",
+          "context": "Small rooms in the accident and emergency department",
+          "status": "verified",
+          "ocr_raw": "examination and treatment rooms (16-21 m2)"
+        }
+      ],
+      "figure_refs": [
+        "1 — Clinical medical unit"
+      ],
+      "cross_refs": [],
+      "keywords": [
+        "accident and emergency",
+        "ambulance hall",
+        "examination",
+        "treatment",
+        "hospital"
+      ],
+      "tags_architectural": [
+        "circulation",
+        "accessibility",
+        "safety"
+      ],
+      "confidence": 0.95
+    },
+    {
+      "id": "4122fb96e4bd1976-312-vision-1",
+      "pdf_page": 312,
+      "book_page": 299,
+      "chapter": "HEALTH",
+      "section": "Hospitals",
+      "title": "Clinical medical service and specialist treatment rooms",
+      "summary": "Clinical medical service comprises the management rooms of individual specialist departments or clinics. Its classic facilities include a medical superintendent’s room with office support, a senior doctor’s room, and an examination room with waiting area and toilets. Specialist provisions described include rooms for ophthalmology, ear, nose and throat, and urology. The clinical medical service rooms form the core of the hospital’s ground-floor outpatient zone.",
+      "building_type": "Hospital outpatient clinical medical service",
+      "spaces": [
+        "Medical superintendent’s room",
+        "Office support",
+        "Senior doctor’s room",
+        "Examination room",
+        "Waiting area",
+        "Toilets",
+        "Ophthalmology treatment room",
+        "Squint treatment room",
+        "Laser room",
+        "Ear, nose and throat treatment room",
+        "Urology treatment room",
+        "Instrument room"
+      ],
+      "uses": [
+        "Clinical department management",
+        "Outpatient examination",
+        "Ophthalmology treatment",
+        "Ear, nose and throat examination",
+        "Urological treatment and endoscopic examination"
+      ],
+      "furniture_equipment": [
+        "Slit lamp",
+        "Treatment table or treatment chair",
+        "Endoscopic examination table",
+        "Suspended irrigator",
+        "Floor drainage",
+        "Sink"
+      ],
+      "dimensions": [
+        {
+          "label": "Ophthalmology treatment room area",
+          "value": 25.0,
+          "value_max": null,
+          "unit": "m²",
+          "context": "Room with slit lamp; capable of being darkened",
+          "status": "verified",
+          "ocr_raw": "Treatment room (25 m2) with slit lamp, capable\nof being darkened"
+        },
+        {
+          "label": "Ear, nose and throat treatment room area",
+          "value": 25.0,
+          "value_max": 30.0,
+          "unit": "m²",
+          "context": "Room capable of being darkened, with treatment table or treatment chair",
+          "status": "verified",
+          "ocr_raw": "Treatment room (25-30 m2), capable\nof being darkened, with treatment table or treatment chair for\nexaminations."
+        },
+        {
+          "label": "Urology treatment room area",
+          "value": 25.0,
+          "value_max": 30.0,
+          "unit": "m²",
+          "context": "Room for urological treatment connected with X-ray diagnosis",
+          "status": "verified",
+          "ocr_raw": "The treatment room (25-30 m2) has a table for endoscopic\nexaminations and is equipped with suspended irrigator and floor\ndrainage."
+        }
+      ],
+      "figure_refs": [
+        "1 — Clinical medical unit",
+        "2 — Interdisciplinary clinical medical service"
+      ],
+      "cross_refs": [],
+      "keywords": [
+        "clinical medical service",
+        "outpatient",
+        "ophthalmology",
+        "ear nose and throat",
+        "urology"
+      ],
+      "tags_architectural": [
+        "circulation",
+        "daylighting"
+      ],
+      "confidence": 0.97
+    },
+    {
+      "id": "4122fb96e4bd1976-312-vision-2",
+      "pdf_page": 312,
+      "book_page": 299,
+      "chapter": "HEALTH",
+      "section": "Hospitals",
+      "title": "Functional diagnosis and endoscopy department",
+      "summary": "Functional diagnosis addresses examinations of heart, thorax and circulation functions. Examination rooms should be accessible through patient cabins and, where needed, preparation rooms. The endoscopy department includes examination and treatment rooms, patient WCs, a bedded waiting area and a rest room. The page states that the number of beds is twice the number of endoscopy rooms.",
+      "building_type": "Hospital functional diagnosis and endoscopy department",
+      "spaces": [
+        "Functional diagnosis examination rooms",
+        "Patient cabins",
+        "Preparation rooms, if required",
+        "Endoscopy examination and treatment rooms",
+        "Patient WCs",
+        "Bedded waiting area",
+        "Rest room"
+      ],
+      "uses": [
+        "Functional diagnosis",
+        "Heart and thorax examinations",
+        "Endoscopy",
+        "Patient preparation and recovery"
+      ],
+      "furniture_equipment": [
+        "Endoscope",
+        "Beds"
+      ],
+      "dimensions": [
+        {
+          "label": "Beds per endoscopy room",
+          "value": 2.0,
+          "value_max": null,
+          "unit": "ratio",
+          "context": "Beds = number of endoscopy rooms × 2; the printed relationship is a multiplier, not a room dimension",
+          "status": "verified",
+          "ocr_raw": "beds = no. of endoscopy rooms x 2"
+        }
+      ],
+      "figure_refs": [
+        "3 — Endoscopic and functional diagnosis department, with beds, at Beizig Hospital"
+      ],
+      "cross_refs": [],
+      "keywords": [
+        "functional diagnosis",
+        "endoscopy",
+        "patient cabins",
+        "recovery",
+        "Beizig Hospital"
+      ],
+      "tags_architectural": [
+        "circulation",
+        "accessibility"
+      ],
+      "confidence": 0.96
+    }
+  ]
+}

@@ -1,0 +1,97 @@
+{
+  "fichas": [
+    {
+      "id": "4122fb96e4bd1976-494-vision-0",
+      "pdf_page": 494,
+      "book_page": 481,
+      "chapter": "BUILDING SERVICES",
+      "section": "Building Physics",
+      "title": "Sound Insulation: Structure-Borne Sound",
+      "summary": "Structure-borne sound is vibration in solid bodies caused by airborne sound or direct mechanical excitation. The page describes measures to limit its excitation and transmission, including elastic isolation for pipes, equipment, lifts, and foundations; correct placement and loading of springs; and avoiding resonance. It also notes that double elastic suspension can improve sound insulation, while unfavourable interactions can worsen it.",
+      "building_type": "Building services",
+      "spaces": [
+        "Water installations",
+        "Baths and shower areas",
+        "Lift shafts",
+        "Equipment foundations",
+        "Ceilings"
+      ],
+      "uses": [
+        "Reduce structure-borne sound transmission and vibration",
+        "Isolate pipes, equipment, and lifts from the building structure",
+        "Support equipment on elastic or sound-insulated foundations"
+      ],
+      "furniture_equipment": [
+        "Single-spring elements",
+        "Nickel-steel springs",
+        "Neoprene supports",
+        "Rubber granulate panels",
+        "Mineral fibre",
+        "Pumps and equipment",
+        "Ventilator",
+        "Elastic pipe fixings",
+        "Expansion compensators"
+      ],
+      "dimensions": [
+        {
+          "label": "Wall surface loading for pipework fixing",
+          "value": 250.0,
+          "value_max": null,
+          "unit": "kg/m²",
+          "context": "Pipework is to be fixed to walls with surface loading greater than this threshold.",
+          "status": "uncertain",
+          "ocr_raw": ">250 kg/m²"
+        },
+        {
+          "label": "Mineral fibre lining at separate lift shaft joints",
+          "value": 3.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Separate lift shafts are described as having joints filled with at least this thickness of mineral fibre.",
+          "status": "uncertain",
+          "ocr_raw": ">3 cm mineral fibre"
+        },
+        {
+          "label": "Loading for flat insulation layers",
+          "value": 0.5,
+          "value_max": null,
+          "unit": "N/mm²",
+          "context": "The loading for flat insulation layers should normally be greater than this value.",
+          "status": "uncertain",
+          "ocr_raw": ">0.5 N/mm²"
+        }
+      ],
+      "figure_refs": [
+        "1 — Examples of single-spring elements",
+        "2 — Installing equipment with elastic insert in foundation",
+        "3 — Effect of elastic bearing",
+        "4 — Adaptation of springs to the centre of gravity",
+        "5 — Light wall = great excitation; heavy wall = little excitation",
+        "6 — Excitation of structure-borne sound",
+        "7 — Separate lift shaft with ≥3 cm mineral fibre lining",
+        "8 — Top of shaft with neoprene support",
+        "9 — Double elastic suspension for ventilator",
+        "10 — Example of rubber-bonded metal ceiling element"
+      ],
+      "cross_refs": [
+        "DIN 4109"
+      ],
+      "keywords": [
+        "structure-borne sound",
+        "sound insulation",
+        "elastic bearing",
+        "vibration isolation",
+        "spring mounting",
+        "lift shaft",
+        "pipework",
+        "equipment foundations",
+        "resonance"
+      ],
+      "tags_architectural": [
+        "safety",
+        "clearance"
+      ],
+      "confidence": 0.95
+    }
+  ]
+}

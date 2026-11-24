@@ -1,0 +1,128 @@
+{
+  "fichas": [
+    {
+      "id": "4122fb96e4bd1976-394-vision-0",
+      "pdf_page": 394,
+      "book_page": 381,
+      "chapter": "TRANSPORT",
+      "section": "Roads",
+      "title": "Intersections",
+      "summary": "Intersections are classified as grade-separated, where roads cross at different levels and connect by ramps or slip roads, or at-grade, including T-junctions and crossroads. Illustrated treatments include turn-widened approaches, grade-separated junctions, carriageway narrowing, roundabouts, and staggered crossings. Roundabouts can reduce serious accidents, noise, and speed, and may remove the need for traffic-light control. Staggered crossings are suitable for slower traffic in residential areas. Building restrictions apply alongside federal main roads.",
+      "building_type": "Road intersection",
+      "spaces": [
+        "Road carriageways",
+        "At-grade T-junctions",
+        "At-grade crossroads",
+        "Grade-separated junctions",
+        "Roundabouts",
+        "Staggered road crossings"
+      ],
+      "uses": [
+        "Connect roads at the same or different levels",
+        "Accommodate turning traffic",
+        "Manage traffic flow and speed",
+        "Provide crossings suitable for slower residential traffic"
+      ],
+      "furniture_equipment": [
+        "Traffic lights",
+        "Slip roads",
+        "Ramps",
+        "Pedestrian islands",
+        "Paved inner circle"
+      ],
+      "dimensions": [
+        {
+          "label": "Small roundabout diameter",
+          "value": 25.0,
+          "value_max": 40.0,
+          "unit": "m",
+          "context": "Text description of small roundabouts; the figure caption gives a different range.",
+          "status": "uncertain",
+          "ocr_raw": "Small roundabouts are defined as diameter = 25–40 m"
+        },
+        {
+          "label": "Small roundabout diameter",
+          "value": 25.0,
+          "value_max": 35.0,
+          "unit": "m",
+          "context": "Figure 14 caption; differs from the range in the accompanying text.",
+          "status": "uncertain",
+          "ocr_raw": "Small roundabout, D = 25–35 m, inner circle paved"
+        },
+        {
+          "label": "Large roundabout diameter threshold",
+          "value": 40.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Large roundabouts are described in the text as greater than this diameter.",
+          "status": "uncertain",
+          "ocr_raw": "large roundabouts >40 m"
+        },
+        {
+          "label": "Large roundabout diameter threshold",
+          "value": 40.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Figure 15 caption specifies a diameter greater than this threshold.",
+          "status": "uncertain",
+          "ocr_raw": "Larger roundabout, D >40 m, with pedestrian islands"
+        },
+        {
+          "label": "Federal main-road building restriction distance",
+          "value": 20.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Building is forbidden within this distance, measured from the outer edge of the carriageway.",
+          "status": "uncertain",
+          "ocr_raw": "Building is forbidden within 20 m of federal main roads, measured from the outer edge of the carriageway."
+        },
+        {
+          "label": "Federal main-road building restriction distance",
+          "value": 40.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Building is restricted up to this distance from the edge of the carriageway.",
+          "status": "uncertain",
+          "ocr_raw": "Building is restricted up to 40 m from the edge of the carriageway."
+        }
+      ],
+      "figure_refs": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12",
+        "13",
+        "14",
+        "15",
+        "16"
+      ],
+      "cross_refs": [
+        "p. 378 Motorways"
+      ],
+      "keywords": [
+        "roads",
+        "intersections",
+        "T-junction",
+        "crossroads",
+        "grade-separated",
+        "at-grade",
+        "roundabout",
+        "staggered crossing",
+        "building restrictions"
+      ],
+      "tags_architectural": [
+        "circulation",
+        "safety"
+      ],
+      "confidence": 0.98
+    }
+  ]
+}

@@ -1,0 +1,224 @@
+{
+  "fichas": [
+    {
+      "id": "4122fb96e4bd1976-85-vision-0",
+      "pdf_page": 85,
+      "book_page": 72,
+      "chapter": "BUILDING COMPONENTS",
+      "section": "Foundations",
+      "title": "Basement drainage",
+      "summary": "Drainage layers and pipes can relieve water pressure against basement walls. The system includes drainage pipes and inspection, flushing, and control shafts; drainage must discharge reliably, with pumping protected against backflow where required.",
+      "building_type": "Basement",
+      "spaces": [
+        "Basement",
+        "External excavation",
+        "Drainage route",
+        "Inspection and flushing shafts",
+        "Pump sump"
+      ],
+      "uses": [
+        "Relieve water pressure against external basement walls",
+        "Collect and convey groundwater to a sewer, stream, or permeable subsoil",
+        "Inspect and flush drainage pipes",
+        "Pump drainage where gravity discharge is not possible"
+      ],
+      "furniture_equipment": [
+        "Drainage layer",
+        "Drainage pipes",
+        "Inspection and flushing shafts",
+        "Control and collector shaft",
+        "Pump sump",
+        "Backflow preventer valve"
+      ],
+      "dimensions": [
+        {
+          "label": "Drainage pipe nominal diameter",
+          "value": 100.0,
+          "value_max": null,
+          "unit": "DN",
+          "context": "Recommended drainage pipe",
+          "status": "uncertain",
+          "ocr_raw": "Drainage pipe, DN 100"
+        },
+        {
+          "label": "Pipe fall",
+          "value": 0.5,
+          "value_max": null,
+          "unit": "%",
+          "context": "Drainage system; plan indicates minimum fall",
+          "status": "uncertain",
+          "ocr_raw": "fall ≥ 0.5%"
+        },
+        {
+          "label": "Flushing and control pipe nominal diameter",
+          "value": 300.0,
+          "value_max": null,
+          "unit": "DN",
+          "context": "Flushing and control pipe",
+          "status": "uncertain",
+          "ocr_raw": "DN 300"
+        },
+        {
+          "label": "Flushing, control, and collector shaft nominal diameter",
+          "value": 1000.0,
+          "value_max": null,
+          "unit": "DN",
+          "context": "Flushing, control, and collector shaft",
+          "status": "uncertain",
+          "ocr_raw": "Flushing, control, and collector shaft, DN 1000."
+        },
+        {
+          "label": "Operating roughness",
+          "value": 2.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Round drainage pipes",
+          "status": "uncertain",
+          "ocr_raw": "operating roughness kb = 2 mm"
+        },
+        {
+          "label": "Minimum flow speed when pipe is full",
+          "value": 0.25,
+          "value_max": null,
+          "unit": "m/s",
+          "context": "Drainage pipe flowing full",
+          "status": "uncertain",
+          "ocr_raw": "v = 0.25 m/s"
+        },
+        {
+          "label": "Area threshold for full-area drainage",
+          "value": 2000.0,
+          "value_max": null,
+          "unit": "m²",
+          "context": "Full-area drainage should be provided for larger areas",
+          "status": "uncertain",
+          "ocr_raw": "For areas over 2000 m², full-area drainage should be provided"
+        },
+        {
+          "label": "Drainpipe diameter",
+          "value": 150.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Cross-section A–B",
+          "status": "uncertain",
+          "ocr_raw": "drainpipe dia. 150mm"
+        },
+        {
+          "label": "Surface filter thickness",
+          "value": 15.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Cross-section A–B; sand/gravel surface filter",
+          "status": "uncertain",
+          "ocr_raw": "surface filter 15cm sand/gravel"
+        },
+        {
+          "label": "Filter material particle size",
+          "value": 4.0,
+          "value_max": 32.0,
+          "unit": "mm",
+          "context": "Wall drainage mixed infill; sandy gravel",
+          "status": "uncertain",
+          "ocr_raw": "sandy gravel 4–32mm"
+        },
+        {
+          "label": "Filter material particle size",
+          "value": 32.0,
+          "value_max": 63.0,
+          "unit": "mm",
+          "context": "Coarse gravel/rubble in staged filter detail",
+          "status": "uncertain",
+          "ocr_raw": "coarse gravel/rubble 32–63 mm"
+        },
+        {
+          "label": "Sand infill particle size",
+          "value": 0.0,
+          "value_max": 4.0,
+          "unit": "mm",
+          "context": "Piped drainage filter detail",
+          "status": "uncertain",
+          "ocr_raw": "sand infill 0–4mm"
+        }
+      ],
+      "figure_refs": [
+        "1. Building walls built against a slope must be well drained",
+        "2. Area drainage with seepage pipes and ring drainage, with a pumped sump",
+        "3. Cross-section A–B",
+        "4. Piped drainage with mixed filter",
+        "5. Piped drainage with staged filter",
+        "8. Design example for circular drainage pipes"
+      ],
+      "cross_refs": [
+        "→ 8",
+        "→ 2"
+      ],
+      "keywords": [
+        "basement drainage",
+        "drainage pipes",
+        "groundwater",
+        "seepage pipes",
+        "inspection shaft",
+        "pump sump",
+        "backflow prevention"
+      ],
+      "tags_architectural": [
+        "safety",
+        "adaptability"
+      ],
+      "confidence": 0.95
+    },
+    {
+      "id": "4122fb96e4bd1976-85-vision-1",
+      "pdf_page": 85,
+      "book_page": 72,
+      "chapter": "BUILDING COMPONENTS",
+      "section": "Foundations",
+      "title": "Tanking against water pressure",
+      "summary": "Where pressurized water cannot be diverted by drainage, basement floor and wall elements must be watertight or protected by a continuous waterproofing layer. The waterproofing must tolerate aggressive water and structural movement; joints require waterstops or raised edges, and exterior protective coatings provide additional protection.",
+      "building_type": "Basement",
+      "spaces": [
+        "Basement",
+        "Cellar floor",
+        "Basement walls",
+        "Construction joint"
+      ],
+      "uses": [
+        "Resist water pressure where drainage is not feasible",
+        "Waterproof basement floors and walls",
+        "Protect basement construction against aggressive water and movement"
+      ],
+      "furniture_equipment": [
+        "Watertight concrete",
+        "Continuous waterproofing layer",
+        "Bituminous sheeting",
+        "Metal waterproofing",
+        "Plastic foil",
+        "Bentonite waterproofing",
+        "Waterstop",
+        "Raised edge",
+        "Bitumen- or artificial-resin-based protective coating"
+      ],
+      "dimensions": [],
+      "figure_refs": [
+        "6. Basement tanking against water pressure",
+        "7. Basement tanking against water pressure"
+      ],
+      "cross_refs": [
+        "→ p. 71",
+        "→ 6–7"
+      ],
+      "keywords": [
+        "tanking",
+        "waterproofing",
+        "water pressure",
+        "watertight concrete",
+        "construction joint",
+        "basement"
+      ],
+      "tags_architectural": [
+        "safety"
+      ],
+      "confidence": 0.96
+    }
+  ]
+}

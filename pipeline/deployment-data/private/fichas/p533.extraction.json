@@ -1,0 +1,299 @@
+{
+  "fichas": [
+    {
+      "id": "4122fb96e4bd1976-533-vision-0",
+      "pdf_page": 533,
+      "book_page": 520,
+      "chapter": "BUILDING SERVICES",
+      "section": "Fire Protection",
+      "title": "Sprinkler Systems",
+      "summary": "Automatically actuated fire-fighting systems consist of regularly spaced closed sprinklers connected to permanently installed, pressurised pipework. The page describes wet, dry, rapid-reaction dry, tandem, and pre-action systems; sprinkler types and spray patterns; applications; design factors; and example fire-hazard-class water quantities and effective areas. Pipework should remain exposed or be concealed only by a suspended ceiling to enable repair and maintenance.",
+      "building_type": "Fire protection system",
+      "spaces": [
+        "Protected areas in buildings",
+        "Areas subject to frost"
+      ],
+      "uses": [
+        "Automatic fire fighting",
+        "Protecting areas where building fire-safety or escape-route requirements apply",
+        "Distributing water over a protected area when a sprinkler activates"
+      ],
+      "furniture_equipment": [
+        "Sprinklers",
+        "Sprinkler pipework",
+        "Wet and dry alarm valves",
+        "Mechanical-acoustic alarm",
+        "Intermediate tank",
+        "Sprinkler pump",
+        "Compressor plant",
+        "Smoke or flame detectors"
+      ],
+      "dimensions": [
+        {
+          "label": "Temperature above highest normally expected air temperature",
+          "value": 30.0,
+          "value_max": null,
+          "unit": "°C",
+          "context": "Approximate sprinkler operating-temperature threshold above the highest normally expected air temperature.",
+          "status": "uncertain",
+          "ocr_raw": "approx. 30°C above the highest normally expected air temperature"
+        },
+        {
+          "label": "Umbrella sprinkler spray width",
+          "value": 4.6,
+          "value_max": null,
+          "unit": "m",
+          "context": "Example spray-characteristics diagram; width indicated as an upper limit.",
+          "status": "uncertain",
+          "ocr_raw": "up to 4.6m"
+        },
+        {
+          "label": "Umbrella sprinkler spray span",
+          "value": 6.5,
+          "value_max": null,
+          "unit": "m",
+          "context": "Overall span shown in the example spray-characteristics diagram.",
+          "status": "uncertain",
+          "ocr_raw": "6.5m"
+        },
+        {
+          "label": "Normal sprinkler spray width",
+          "value": 3.75,
+          "value_max": null,
+          "unit": "m",
+          "context": "Example spray-characteristics diagram; width indicated as an upper limit.",
+          "status": "uncertain",
+          "ocr_raw": "up to 3.75m"
+        },
+        {
+          "label": "Normal sprinkler spray span",
+          "value": 4.45,
+          "value_max": null,
+          "unit": "m",
+          "context": "Overall span shown in the example spray-characteristics diagram.",
+          "status": "uncertain",
+          "ocr_raw": "4.45m"
+        },
+        {
+          "label": "Minimum water quantity, LH",
+          "value": 2.25,
+          "value_max": null,
+          "unit": "mm/min",
+          "context": "VdS CEA Guidelines table, LH fire-hazard class.",
+          "status": "uncertain",
+          "ocr_raw": "LH 2.25"
+        },
+        {
+          "label": "Effective area, LH wet/pre-action system",
+          "value": 84.0,
+          "value_max": null,
+          "unit": "m²",
+          "context": "VdS CEA Guidelines table, LH fire-hazard class; the adjacent dry/wet-dry layout is prohibited according to OH1.",
+          "status": "uncertain",
+          "ocr_raw": "LH 2.25 84 prohibited layout according to OH1"
+        },
+        {
+          "label": "Minimum water quantity, OH1",
+          "value": 5.0,
+          "value_max": null,
+          "unit": "mm/min",
+          "context": "VdS CEA Guidelines table, OH1 fire-hazard class.",
+          "status": "uncertain",
+          "ocr_raw": "OH1 5.0"
+        },
+        {
+          "label": "Effective area, OH1 wet/pre-action system",
+          "value": 72.0,
+          "value_max": null,
+          "unit": "m²",
+          "context": "VdS CEA Guidelines table, OH1 fire-hazard class.",
+          "status": "uncertain",
+          "ocr_raw": "OH1 5.0 72 90"
+        },
+        {
+          "label": "Effective area, OH1 dry/wet-dry system",
+          "value": 90.0,
+          "value_max": null,
+          "unit": "m²",
+          "context": "VdS CEA Guidelines table, OH1 fire-hazard class.",
+          "status": "uncertain",
+          "ocr_raw": "OH1 5.0 72 90"
+        },
+        {
+          "label": "Minimum water quantity, OH2",
+          "value": 5.0,
+          "value_max": null,
+          "unit": "mm/min",
+          "context": "VdS CEA Guidelines table, OH2 fire-hazard class.",
+          "status": "uncertain",
+          "ocr_raw": "OH2 5.0"
+        },
+        {
+          "label": "Effective area, OH2 wet/pre-action system",
+          "value": 144.0,
+          "value_max": null,
+          "unit": "m²",
+          "context": "VdS CEA Guidelines table, OH2 fire-hazard class.",
+          "status": "uncertain",
+          "ocr_raw": "OH2 5.0 144 180"
+        },
+        {
+          "label": "Effective area, OH2 dry/wet-dry system",
+          "value": 180.0,
+          "value_max": null,
+          "unit": "m²",
+          "context": "VdS CEA Guidelines table, OH2 fire-hazard class.",
+          "status": "uncertain",
+          "ocr_raw": "OH2 5.0 144 180"
+        },
+        {
+          "label": "Minimum water quantity, OH3",
+          "value": 5.0,
+          "value_max": null,
+          "unit": "mm/min",
+          "context": "VdS CEA Guidelines table, OH3 fire-hazard class.",
+          "status": "uncertain",
+          "ocr_raw": "OH3 5.0"
+        },
+        {
+          "label": "Effective area, OH3 wet/pre-action system",
+          "value": 216.0,
+          "value_max": null,
+          "unit": "m²",
+          "context": "VdS CEA Guidelines table, OH3 fire-hazard class.",
+          "status": "uncertain",
+          "ocr_raw": "OH3 5.0 216 270"
+        },
+        {
+          "label": "Effective area, OH3 dry/wet-dry system",
+          "value": 270.0,
+          "value_max": null,
+          "unit": "m²",
+          "context": "VdS CEA Guidelines table, OH3 fire-hazard class.",
+          "status": "uncertain",
+          "ocr_raw": "OH3 5.0 216 270"
+        },
+        {
+          "label": "Minimum water quantity, OH4",
+          "value": 5.0,
+          "value_max": null,
+          "unit": "mm/min",
+          "context": "VdS CEA Guidelines table, OH4 fire-hazard class; the dry/wet-dry layout is prohibited according to HHP1.",
+          "status": "uncertain",
+          "ocr_raw": "OH4 5.0 360 prohibited layout according to HHP1"
+        },
+        {
+          "label": "Effective area, OH4 wet/pre-action system",
+          "value": 360.0,
+          "value_max": null,
+          "unit": "m²",
+          "context": "VdS CEA Guidelines table, OH4 fire-hazard class.",
+          "status": "uncertain",
+          "ocr_raw": "OH4 5.0 360"
+        },
+        {
+          "label": "Minimum water quantity, HHP1",
+          "value": 7.5,
+          "value_max": null,
+          "unit": "mm/min",
+          "context": "VdS CEA Guidelines table, HHP1 fire-hazard class.",
+          "status": "uncertain",
+          "ocr_raw": "HHP1 7.5"
+        },
+        {
+          "label": "Effective area, HHP1 wet/pre-action system",
+          "value": 260.0,
+          "value_max": null,
+          "unit": "m²",
+          "context": "VdS CEA Guidelines table, HHP1 fire-hazard class.",
+          "status": "uncertain",
+          "ocr_raw": "HHP1 7.5 260 325"
+        },
+        {
+          "label": "Effective area, HHP1 dry/wet-dry system",
+          "value": 325.0,
+          "value_max": null,
+          "unit": "m²",
+          "context": "VdS CEA Guidelines table, HHP1 fire-hazard class.",
+          "status": "uncertain",
+          "ocr_raw": "HHP1 7.5 260 325"
+        },
+        {
+          "label": "Minimum water quantity, HHP2",
+          "value": 10.0,
+          "value_max": null,
+          "unit": "mm/min",
+          "context": "VdS CEA Guidelines table, HHP2 fire-hazard class.",
+          "status": "uncertain",
+          "ocr_raw": "HHP2 10.0"
+        },
+        {
+          "label": "Effective area, HHP2 wet/pre-action system",
+          "value": 260.0,
+          "value_max": null,
+          "unit": "m²",
+          "context": "VdS CEA Guidelines table, HHP2 fire-hazard class.",
+          "status": "uncertain",
+          "ocr_raw": "HHP2 10.0 260 325"
+        },
+        {
+          "label": "Effective area, HHP2 dry/wet-dry system",
+          "value": 325.0,
+          "value_max": null,
+          "unit": "m²",
+          "context": "VdS CEA Guidelines table, HHP2 fire-hazard class.",
+          "status": "uncertain",
+          "ocr_raw": "HHP2 10.0 260 325"
+        },
+        {
+          "label": "Minimum water quantity, HHP3",
+          "value": 12.5,
+          "value_max": null,
+          "unit": "mm/min",
+          "context": "VdS CEA Guidelines table, HHP3 fire-hazard class.",
+          "status": "uncertain",
+          "ocr_raw": "HHP3 12.5"
+        },
+        {
+          "label": "Effective area, HHP3 wet/pre-action system",
+          "value": 260.0,
+          "value_max": null,
+          "unit": "m²",
+          "context": "VdS CEA Guidelines table, HHP3 fire-hazard class.",
+          "status": "uncertain",
+          "ocr_raw": "HHP3 12.5 260 325"
+        },
+        {
+          "label": "Effective area, HHP3 dry/wet-dry system",
+          "value": 325.0,
+          "value_max": null,
+          "unit": "m²",
+          "context": "VdS CEA Guidelines table, HHP3 fire-hazard class.",
+          "status": "uncertain",
+          "ocr_raw": "HHP3 12.5 260 325"
+        }
+      ],
+      "figure_refs": [
+        "1",
+        "2",
+        "3"
+      ],
+      "cross_refs": [
+        "VdS CEA Guidelines → p. 511"
+      ],
+      "keywords": [
+        "sprinkler systems",
+        "wet sprinkler systems",
+        "dry sprinkler systems",
+        "pre-action sprinkler systems",
+        "fire hazard classes",
+        "sprinkler coverage",
+        "fire protection"
+      ],
+      "tags_architectural": [
+        "safety"
+      ],
+      "confidence": 0.94
+    }
+  ]
+}

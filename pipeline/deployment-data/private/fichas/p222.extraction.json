@@ -1,0 +1,239 @@
+{
+  "fichas": [
+    {
+      "id": "4122fb96e4bd1976-222-vision-0",
+      "pdf_page": 222,
+      "book_page": 209,
+      "chapter": "CULTURAL VENUES",
+      "section": "Theatres",
+      "title": "Historical Review of Theatres",
+      "summary": "Theatre design involves complex functional relationships shaped by a tradition extending across many societies. The page surveys ancient, medieval, and Renaissance theatre forms, including audience arrangements, stages, and scenery systems.",
+      "building_type": "Theatre",
+      "spaces": [
+        "auditorium",
+        "stage",
+        "backstage",
+        "spectator seating"
+      ],
+      "uses": [
+        "theatrical performance",
+        "audience viewing"
+      ],
+      "furniture_equipment": [],
+      "dimensions": [
+        {
+          "label": "Historical tradition",
+          "value": 2500.0,
+          "value_max": null,
+          "unit": "years",
+          "context": "Theatre building tradition; the text says it has been interpreted by various societies for more than this duration.",
+          "status": "uncertain",
+          "ocr_raw": "interpreted by various societies for more than 2500 years"
+        }
+      ],
+      "figure_refs": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9"
+      ],
+      "cross_refs": [
+        "p. 210"
+      ],
+      "keywords": [
+        "theatre history",
+        "theatre design",
+        "auditorium",
+        "stage",
+        "spectator seating"
+      ],
+      "tags_architectural": [
+        "circulation",
+        "spatial_proportion"
+      ],
+      "confidence": 0.96
+    },
+    {
+      "id": "4122fb96e4bd1976-222-vision-1",
+      "pdf_page": 222,
+      "book_page": 209,
+      "chapter": "CULTURAL VENUES",
+      "section": "Theatres",
+      "title": "Ancient Greek and Roman Theatres",
+      "summary": "Greek theatres were located near towns and embedded in the landscape. The Theatre of Dionysos is presented as the starting point of European theatre building. The Theatre of Marcellus was Rome’s first theatre built completely of stone, with seating rows and the stage’s back wall connected at the same height.",
+      "building_type": "Ancient theatre",
+      "spaces": [
+        "auditorium",
+        "stage",
+        "seating"
+      ],
+      "uses": [
+        "theatrical performance",
+        "audience viewing"
+      ],
+      "furniture_equipment": [],
+      "dimensions": [
+        {
+          "label": "Seating capacity",
+          "value": 11500.0,
+          "value_max": null,
+          "unit": "seats",
+          "context": "Theatre of Marcellus, Rome.",
+          "status": "uncertain",
+          "ocr_raw": "11,500 seats"
+        }
+      ],
+      "figure_refs": [
+        "1",
+        "2"
+      ],
+      "cross_refs": [
+        "p. 210"
+      ],
+      "keywords": [
+        "ancient theatre",
+        "Greek theatre",
+        "Roman theatre",
+        "Theatre of Dionysos",
+        "Theatre of Marcellus"
+      ],
+      "tags_architectural": [
+        "spatial_proportion"
+      ],
+      "confidence": 0.97
+    },
+    {
+      "id": "4122fb96e4bd1976-222-vision-2",
+      "pdf_page": 222,
+      "book_page": 209,
+      "chapter": "CULTURAL VENUES",
+      "section": "Theatres",
+      "title": "Medieval Stage Theatre and Swan Theatre",
+      "summary": "Medieval theatre could use temporary stages and buildings. At the Swan Theatre, a curtain separated the front and back stages, while an upper stage served for balcony or siege scenes. The drawing also identifies changing rooms, backstage, orchestra, proscenium, and audience areas organized by social rank.",
+      "building_type": "Medieval theatre",
+      "spaces": [
+        "temporary stage",
+        "front stage",
+        "back stage",
+        "upper stage",
+        "changing room",
+        "orchestra",
+        "audience seating"
+      ],
+      "uses": [
+        "theatrical performance",
+        "balcony scenes",
+        "siege scenes"
+      ],
+      "furniture_equipment": [
+        "curtain"
+      ],
+      "dimensions": [
+        {
+          "label": "Backstage slope",
+          "value": 1.0,
+          "value_max": 9.0,
+          "unit": "ratio",
+          "context": "Higher backstage section slope, expressed as 1:9.",
+          "status": "uncertain",
+          "ocr_raw": "higher backstage section, slope up to 1:9"
+        },
+        {
+          "label": "Front stage elevation",
+          "value": 1.1,
+          "value_max": null,
+          "unit": "m",
+          "context": "Front stage section raised above floor level D.",
+          "status": "uncertain",
+          "ocr_raw": "front stage section, raised 1.10m above floor level D"
+        },
+        {
+          "label": "Distance to final backdrop",
+          "value": 60.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Final backdrop of the perspective stage set was at least this far from wall M.",
+          "status": "uncertain",
+          "ocr_raw": "final back-drop of perspective stage set, at least 60m from M"
+        }
+      ],
+      "figure_refs": [
+        "3",
+        "4",
+        "5"
+      ],
+      "cross_refs": [
+        "p. 210"
+      ],
+      "keywords": [
+        "medieval theatre",
+        "Swan Theatre",
+        "stage",
+        "backstage",
+        "audience seating",
+        "proscenium"
+      ],
+      "tags_architectural": [
+        "circulation",
+        "spatial_proportion"
+      ],
+      "confidence": 0.9
+    },
+    {
+      "id": "4122fb96e4bd1976-222-vision-3",
+      "pdf_page": 222,
+      "book_page": 209,
+      "chapter": "CULTURAL VENUES",
+      "section": "Theatres",
+      "title": "Renaissance Theatres",
+      "summary": "Early Italian Renaissance theatres were temporary wooden installations in existing halls. The page describes Vasari’s reusable wooden system, Teatro Olimpico as a permanent theatre reviving ancient traditions with semicircular rising audience seating and a stage house with façade, and Teatro Farnese as the first building with a movable scenery system in a deep stage space. The Teatro Farnese audience boxes were arranged in a horseshoe.",
+      "building_type": "Renaissance theatre",
+      "spaces": [
+        "auditorium",
+        "stage house",
+        "deep stage space",
+        "loggia courtyards",
+        "spectator boxes"
+      ],
+      "uses": [
+        "theatrical performance",
+        "audience viewing",
+        "movable scenery"
+      ],
+      "furniture_equipment": [
+        "reusable wooden theatre installation",
+        "movable scenery system"
+      ],
+      "dimensions": [],
+      "figure_refs": [
+        "5",
+        "6",
+        "7",
+        "8",
+        "9"
+      ],
+      "cross_refs": [
+        "p. 210"
+      ],
+      "keywords": [
+        "Renaissance theatre",
+        "Teatro Olimpico",
+        "Teatro Farnese",
+        "Teatro San Carlo",
+        "movable scenery",
+        "horseshoe seating"
+      ],
+      "tags_architectural": [
+        "circulation",
+        "spatial_proportion",
+        "adaptability"
+      ],
+      "confidence": 0.95
+    }
+  ]
+}

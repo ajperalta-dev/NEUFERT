@@ -1,0 +1,319 @@
+{
+  "model": "gpt-6-luna",
+  "checks": {
+    "checks": [
+      {
+        "ficha_index": 0,
+        "dimension_index": 0,
+        "status": "verified",
+        "value": null,
+        "value_max": null,
+        "reason": "The drawing explicitly states \u201cminimum thickness: 20 mm softwood planks.\u201d"
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 1,
+        "status": "verified",
+        "value": null,
+        "value_max": null,
+        "reason": "The plan explicitly states \u201cshelf minimum width: 300 mm.\u201d"
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 2,
+        "status": "uncertain",
+        "value": null,
+        "value_max": null,
+        "reason": "The drawing shows 10.00, but no unit is printed with the figure dimension."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 3,
+        "status": "uncertain",
+        "value": null,
+        "value_max": null,
+        "reason": "The drawing shows 5.35, but no unit is printed with the figure dimension."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 4,
+        "status": "uncertain",
+        "value": null,
+        "value_max": null,
+        "reason": "The drawing shows 1.50, but no unit is printed with the figure dimension."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 5,
+        "status": "uncertain",
+        "value": null,
+        "value_max": null,
+        "reason": "The drawing shows 2.00 (min), but no unit is printed with the figure dimension."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 6,
+        "status": "uncertain",
+        "value": null,
+        "value_max": null,
+        "reason": "The drawing shows 3.00, but no unit is printed with the figure dimension."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 7,
+        "status": "verified",
+        "value": null,
+        "value_max": null,
+        "reason": "The shooting programme explicitly gives air rifle as 10 m."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 8,
+        "status": "verified",
+        "value": null,
+        "value_max": null,
+        "reason": "The shooting programme explicitly gives Zimmerstutzen rifle as 15 m."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 9,
+        "status": "verified",
+        "value": null,
+        "value_max": null,
+        "reason": "The shooting programme explicitly gives small-calibre rifle as 50 m."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 10,
+        "status": "verified",
+        "value": null,
+        "value_max": null,
+        "reason": "The shooting programme explicitly gives sport rifle as 100 m."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 11,
+        "status": "verified",
+        "value": null,
+        "value_max": null,
+        "reason": "The shooting programme explicitly gives large-calibre rifle as 300 m."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 12,
+        "status": "verified",
+        "value": null,
+        "value_max": null,
+        "reason": "The shooting programme explicitly gives GK standard rifle as 300 m."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 13,
+        "status": "verified",
+        "value": null,
+        "value_max": null,
+        "reason": "The shooting programme explicitly gives air pistol as 10 m."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 14,
+        "status": "verified",
+        "value": null,
+        "value_max": null,
+        "reason": "The shooting programme explicitly gives Olympic quick-fire pistol as 25 m."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 15,
+        "status": "verified",
+        "value": null,
+        "value_max": null,
+        "reason": "The shooting programme explicitly gives free pistol as 50 m."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 16,
+        "status": "verified",
+        "value": null,
+        "value_max": null,
+        "reason": "The text explicitly gives moving boar as 10 m and 50 m."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 17,
+        "status": "verified",
+        "value": null,
+        "value_max": null,
+        "reason": "The text explicitly gives international crossbow conditions as 10 and 30 m."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 18,
+        "status": "verified",
+        "value": null,
+        "value_max": null,
+        "reason": "Figure 5's caption explicitly states \u201cCombined 100 m range.\u201d"
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 19,
+        "status": "verified",
+        "value": null,
+        "value_max": null,
+        "reason": "Figure 5's caption explicitly states \u201c50 m small-calibre range.\u201d"
+      }
+    ]
+  },
+  "automatic": [
+    {
+      "ficha_index": 0,
+      "dimension_index": 0,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 1,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 2,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 3,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 4,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 5,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 6,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 7,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 8,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 9,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 10,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 11,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 12,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 13,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 14,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 15,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 16,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 17,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 18,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 19,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    }
+  ],
+  "usage": [
+    {
+      "prompt_tokens": 4713,
+      "completion_tokens": 1426
+    },
+    {
+      "prompt_tokens": 5005,
+      "completion_tokens": 963
+    }
+  ]
+}

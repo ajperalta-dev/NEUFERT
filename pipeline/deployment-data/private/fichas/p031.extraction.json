@@ -1,0 +1,427 @@
+{
+  "fichas": [
+    {
+      "id": "4122fb96e4bd1976-31-vision-0",
+      "pdf_page": 31,
+      "book_page": 18,
+      "chapter": "BASICS",
+      "section": "Drawings",
+      "title": "Gas Installation Symbols",
+      "summary": "A legend of plan and installation symbols for gas pipes, connections, fittings, shut-off devices, meters, appliances, and exhaust systems. Pipe symbols may indicate nominal diameter; appliance symbols distinguish several gas-heating and cooking devices.",
+      "building_type": "Building gas installation",
+      "spaces": [],
+      "uses": [
+        "Represent gas pipe routes and connections in technical drawings",
+        "Identify gas appliances, fittings, meters, and exhaust components"
+      ],
+      "furniture_equipment": [
+        "Gas pipes",
+        "Flexible hose",
+        "Isolating piece",
+        "Pressure regulator",
+        "Gas meter",
+        "Shut-off tap",
+        "Shut-off gate valve",
+        "Shut-off valve",
+        "Thermally activated shut-off device",
+        "Gas stove",
+        "Gas oven",
+        "Gas refrigerator",
+        "Gas heat pump",
+        "Gas room heater",
+        "Gas water heaters",
+        "Exhaust gas/flue pipe",
+        "Filter"
+      ],
+      "dimensions": [
+        {
+          "label": "Nominal diameter notation",
+          "value": 25.0,
+          "value_max": null,
+          "unit": "unspecified",
+          "context": "Example value shown for an exposed horizontal pipe; the symbol specifies nominal diameter.",
+          "status": "uncertain",
+          "ocr_raw": "25"
+        }
+      ],
+      "figure_refs": [],
+      "cross_refs": [],
+      "keywords": [
+        "gas installation",
+        "drawing symbols",
+        "pipe symbols",
+        "gas appliances",
+        "exhaust systems"
+      ],
+      "tags_architectural": [
+        "safety"
+      ],
+      "confidence": 0.96
+    },
+    {
+      "id": "4122fb96e4bd1976-31-vision-1",
+      "pdf_page": 31,
+      "book_page": 18,
+      "chapter": "BASICS",
+      "section": "Drawings",
+      "title": "Gas Appliance Heating Capacities and Gas Volume Flows",
+      "summary": "A table compares heating-capacity and gas-volume-flow ranges for gas water heaters, circulating water heaters, storage water heaters, and heating stoves or boilers.",
+      "building_type": "Gas appliances",
+      "spaces": [],
+      "uses": [
+        "Compare listed appliance heating capacities",
+        "Compare listed gas volume flows"
+      ],
+      "furniture_equipment": [
+        "Gas water heater",
+        "Circulating water heater",
+        "Storage water heater",
+        "Heating stove/boiler"
+      ],
+      "dimensions": [
+        {
+          "label": "Heating capacity, gas water heater",
+          "value": 8.8,
+          "value_max": 28.1,
+          "unit": "kW",
+          "context": "Gas water heater row.",
+          "status": "uncertain",
+          "ocr_raw": "8.8-28.1"
+        },
+        {
+          "label": "Gas volume flow, gas water heater",
+          "value": 1.14,
+          "value_max": 3.62,
+          "unit": "m³/h",
+          "context": "Gas water heater row.",
+          "status": "uncertain",
+          "ocr_raw": "1.14-3.62"
+        },
+        {
+          "label": "Heating capacity, circulating water heater",
+          "value": 9.5,
+          "value_max": 28.4,
+          "unit": "kW",
+          "context": "Circulating water heater row.",
+          "status": "uncertain",
+          "ocr_raw": "9.5-28.4"
+        },
+        {
+          "label": "Gas volume flow, circulating water heater",
+          "value": 1.23,
+          "value_max": 3.67,
+          "unit": "m³/h",
+          "context": "Circulating water heater row.",
+          "status": "uncertain",
+          "ocr_raw": "1.23-3.67"
+        },
+        {
+          "label": "Heating capacity, storage water heater",
+          "value": 5.1,
+          "value_max": 13.9,
+          "unit": "kW",
+          "context": "Storage water heater row.",
+          "status": "uncertain",
+          "ocr_raw": "5.1-13.9"
+        },
+        {
+          "label": "Gas volume flow, storage water heater",
+          "value": 0.7,
+          "value_max": 1.91,
+          "unit": "m³/h",
+          "context": "Storage water heater row.",
+          "status": "uncertain",
+          "ocr_raw": "0.70-1.91"
+        },
+        {
+          "label": "Heating capacity, heating stove/boiler",
+          "value": 2.6,
+          "value_max": 60.3,
+          "unit": "kW",
+          "context": "Heating stove/boiler row.",
+          "status": "uncertain",
+          "ocr_raw": "2.6-B0.3"
+        },
+        {
+          "label": "Gas volume flow, heating stove/boiler",
+          "value": 0.34,
+          "value_max": 7.79,
+          "unit": "m³/h",
+          "context": "Heating stove/boiler row.",
+          "status": "uncertain",
+          "ocr_raw": "0.34-7.79"
+        }
+      ],
+      "figure_refs": [],
+      "cross_refs": [],
+      "keywords": [
+        "gas appliances",
+        "heating capacity",
+        "gas volume flow",
+        "water heater",
+        "boiler"
+      ],
+      "tags_architectural": [
+        "safety"
+      ],
+      "confidence": 0.91
+    },
+    {
+      "id": "4122fb96e4bd1976-31-vision-2",
+      "pdf_page": 31,
+      "book_page": 18,
+      "chapter": "BASICS",
+      "section": "Drawings",
+      "title": "Gas Supply Connections and Meter Arrangements",
+      "summary": "Installation drawings show gas supply connections at a building, a cellar meter, meters on each storey, and a gas supply arrangement with a regulator and shut-off components. A separate detail shows a combined water-and-gas house supply compartment.",
+      "building_type": "Building gas and utility installation",
+      "spaces": [
+        "Cellar",
+        "Building exterior",
+        "Utility service compartment"
+      ],
+      "uses": [
+        "Route the building gas service and risers",
+        "Locate meters, regulators, shut-offs, and appliance branch lines",
+        "Coordinate water and gas house-supply connections"
+      ],
+      "furniture_equipment": [
+        "House introduction combination",
+        "Pressure regulator",
+        "Shut-off",
+        "Gas meter",
+        "Riser",
+        "Gas supply line",
+        "Branch line",
+        "Device connecting fitting",
+        "Thermally activated device",
+        "Gas equipment",
+        "Power cable",
+        "Steel service pipe",
+        "Casing",
+        "Integrated insulating joints"
+      ],
+      "dimensions": [
+        {
+          "label": "Width of combined water-and-gas compartment",
+          "value": 1.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "House supply connection for water and gas in one compartment.",
+          "status": "uncertain",
+          "ocr_raw": "1 m wide"
+        },
+        {
+          "label": "Depth of combined water-and-gas compartment",
+          "value": 0.3,
+          "value_max": null,
+          "unit": "m",
+          "context": "House supply connection for water and gas in one compartment.",
+          "status": "uncertain",
+          "ocr_raw": "0.30 m deep"
+        }
+      ],
+      "figure_refs": [
+        "2",
+        "5",
+        "6",
+        "7",
+        "9"
+      ],
+      "cross_refs": [],
+      "keywords": [
+        "gas supply",
+        "house connection",
+        "gas meter",
+        "pressure regulator",
+        "riser",
+        "utility compartment"
+      ],
+      "tags_architectural": [
+        "safety",
+        "circulation"
+      ],
+      "confidence": 0.94
+    },
+    {
+      "id": "4122fb96e4bd1976-31-vision-3",
+      "pdf_page": 31,
+      "book_page": 18,
+      "chapter": "BASICS",
+      "section": "Drawings",
+      "title": "Laying Gas Pipes",
+      "summary": "Notes and details distinguish freely installed gas lines, pipes laid under plaster, and pipelines in shafts or channels. The text calls for frost-free routing where applicable and ventilation openings for shafts, channels, and suspended ceilings. A buried-pipe detail states that the pipe on undisturbed soil need not be frost-free.",
+      "building_type": "Building gas installation",
+      "spaces": [
+        "Building exterior",
+        "Pipe shaft or channel",
+        "Suspended ceiling"
+      ],
+      "uses": [
+        "Select gas-pipe routing and installation locations",
+        "Ventilate shafts, channels, and suspended-ceiling installations",
+        "Identify buried gas-pipe installation conditions"
+      ],
+      "furniture_equipment": [
+        "Gas pipes",
+        "Pipe shaft",
+        "Pipe channel",
+        "Suspended ceiling",
+        "Warning tape",
+        "Sand bed"
+      ],
+      "dimensions": [
+        {
+          "label": "Ventilation opening area",
+          "value": 10.0,
+          "value_max": null,
+          "unit": "cm²",
+          "context": "Approximate opening area stated for gas pipelines in shafts or channels.",
+          "status": "uncertain",
+          "ocr_raw": "Openings approximately 10 cm²"
+        },
+        {
+          "label": "Buried-pipe detail dimension",
+          "value": 2.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Dimension printed alongside the gas-pipe trench detail; the OCR reads “≥ 50 / ≥ 2.00” and the exact association of the first value is unclear.",
+          "status": "uncertain",
+          "ocr_raw": "≥ 50\n≥ 2.00"
+        }
+      ],
+      "figure_refs": [
+        "3",
+        "8"
+      ],
+      "cross_refs": [],
+      "keywords": [
+        "gas pipe laying",
+        "pipe shaft",
+        "ventilation",
+        "frost-free",
+        "buried gas pipe"
+      ],
+      "tags_architectural": [
+        "safety",
+        "ventilation"
+      ],
+      "confidence": 0.82
+    },
+    {
+      "id": "4122fb96e4bd1976-31-vision-4",
+      "pdf_page": 31,
+      "book_page": 18,
+      "chapter": "BASICS",
+      "section": "Drawings",
+      "title": "Combustion Air and Heating Room Requirements",
+      "summary": "The page gives a minimum-size criterion and combustion-air opening guidance for boiler rooms. For boiler capacities above about 50 kW, it describes an opening cross-section and illustrates a 65 kW example. A separate heating-room detail is marked at approximately 35 kW or greater.",
+      "building_type": "Boiler and heating room",
+      "spaces": [
+        "Heating room",
+        "Boiler room"
+      ],
+      "uses": [
+        "Provide combustion air for gas-heating equipment",
+        "Check the stated boiler-room opening guidance",
+        "Identify the heating-room capacity category shown"
+      ],
+      "furniture_equipment": [
+        "Boiler",
+        "Combustion-air opening",
+        "Gas-heating equipment"
+      ],
+      "dimensions": [
+        {
+          "label": "Minimum size criterion",
+          "value": 1.0,
+          "value_max": null,
+          "unit": "m³/kW",
+          "context": "Minimum size stated in the notes beside the boiler-room diagrams.",
+          "status": "uncertain",
+          "ocr_raw": "Minimum size 1 m³/kW"
+        },
+        {
+          "label": "Boiler-output threshold for combustion-air opening note",
+          "value": 50.0,
+          "value_max": null,
+          "unit": "kW",
+          "context": "Threshold stated for the combustion-air opening at ground level.",
+          "status": "uncertain",
+          "ocr_raw": "≥50 kW"
+        },
+        {
+          "label": "Combustion-air opening cross-section coefficient",
+          "value": 150.0,
+          "value_max": null,
+          "unit": "cm² per kW",
+          "context": "Opening cross-section wording for about 50 kW boiler capacities; retain as printed, without deriving a total.",
+          "status": "uncertain",
+          "ocr_raw": "150 cm² per kW"
+        },
+        {
+          "label": "Additional opening cross-section coefficient",
+          "value": 2.0,
+          "value_max": null,
+          "unit": "cm²",
+          "context": "Printed additive term in the opening formula for capacity above 50 kW.",
+          "status": "uncertain",
+          "ocr_raw": "+ 2cm²"
+        },
+        {
+          "label": "Example boiler output",
+          "value": 65.0,
+          "value_max": null,
+          "unit": "kW",
+          "context": "Worked example printed for boiler output.",
+          "status": "uncertain",
+          "ocr_raw": "Example: boiler output 65 kW"
+        },
+        {
+          "label": "Example combustion-air opening area",
+          "value": 180.0,
+          "value_max": null,
+          "unit": "cm²",
+          "context": "Printed result of the worked 65 kW example.",
+          "status": "uncertain",
+          "ocr_raw": "= 180 cm²"
+        },
+        {
+          "label": "Heating-room capacity category",
+          "value": 35.0,
+          "value_max": null,
+          "unit": "kW",
+          "context": "Heating-room detail captioned with a greater-than-or-equal threshold.",
+          "status": "uncertain",
+          "ocr_raw": "Heating room ≥35 kW"
+        },
+        {
+          "label": "Heating-room clearance",
+          "value": 1.8,
+          "value_max": null,
+          "unit": "m",
+          "context": "Vertical clearance shown in the lower heating-room diagram.",
+          "status": "uncertain",
+          "ocr_raw": "≥ 1.8 m"
+        }
+      ],
+      "figure_refs": [
+        "10"
+      ],
+      "cross_refs": [],
+      "keywords": [
+        "combustion air",
+        "boiler room",
+        "heating room",
+        "gas boiler",
+        "opening area"
+      ],
+      "tags_architectural": [
+        "safety",
+        "ventilation",
+        "clearance"
+      ],
+      "confidence": 0.86
+    }
+  ]
+}

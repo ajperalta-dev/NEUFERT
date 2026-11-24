@@ -1,0 +1,151 @@
+{
+  "fichas": [
+    {
+      "id": "4122fb96e4bd1976-485-vision-0",
+      "pdf_page": 485,
+      "book_page": 472,
+      "chapter": "BUILDING SERVICES",
+      "section": "Building Physics",
+      "title": "Water vapour diffusion and condensation in building elements",
+      "summary": "Explains how temperature and relative humidity affect water vapour and condensation, and how vapour-pressure diffusion through building layers depends on diffusion resistance. Diagrams illustrate sufficient insulation, layer sequence, surface air-film limits and vapour-barrier placement. Tables give dew points, maximum partial vapour pressures and surface-air-film proportions.",
+      "building_type": "Building physics reference",
+      "spaces": [],
+      "uses": [
+        "Assess water vapour diffusion and condensation risk in building elements",
+        "Guide thermal insulation, layer sequencing and vapour-barrier placement"
+      ],
+      "furniture_equipment": [],
+      "dimensions": [
+        {
+          "label": "Atmospheric air pressure",
+          "value": 1.0,
+          "value_max": null,
+          "unit": "bar",
+          "context": "Atmospheric air pressure; the text also gives its equivalent as 1000 mbar.",
+          "status": "uncertain",
+          "ocr_raw": "The atmospheric air pressure Is 1 bar or 1000 mbar (also called hecto-pascal)."
+        },
+        {
+          "label": "Outside surface air-film thickness",
+          "value": 0.5,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Surface air-film thickness used in the diffusion discussion; the text says surface air-film layers can be neglected because of their lack of thickness.",
+          "status": "uncertain",
+          "ocr_raw": "(outside 0.5, inside 2 em)."
+        },
+        {
+          "label": "Inside surface air-film thickness",
+          "value": 2.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Surface air-film thickness used in the diffusion discussion; the text says surface air-film layers can be neglected because of their lack of thickness.",
+          "status": "uncertain",
+          "ocr_raw": "(outside 0.5, inside 2 em)."
+        },
+        {
+          "label": "Wall thickness in diffusion example",
+          "value": 24.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Extruded clay block wall in the printed partial-vapour-pressure calculation example.",
+          "status": "uncertain",
+          "ocr_raw": "Wall (24 em extruded clay block)"
+        },
+        {
+          "label": "Internal plaster thickness in diffusion example",
+          "value": 1.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Internal plaster layer in the printed partial-vapour-pressure calculation example.",
+          "status": "uncertain",
+          "ocr_raw": "Internal plaster (1.0 em)"
+        },
+        {
+          "label": "Water vapour equivalent",
+          "value": 0.6,
+          "value_max": null,
+          "unit": "mbar",
+          "context": "The text gives this as equivalent to 1 g water/kg air.",
+          "status": "uncertain",
+          "ocr_raw": "(0.6 mbar = 1 g water/kg air)."
+        },
+        {
+          "label": "Dew-point table air temperature",
+          "value": 15.0,
+          "value_max": 30.0,
+          "unit": "°C",
+          "context": "Air-temperature rows in the dew-point table; the table also includes 16°C through 29°C.",
+          "status": "uncertain",
+          "ocr_raw": "Air temperature ... 30°C ... 15•c"
+        },
+        {
+          "label": "Dew-point table relative humidity",
+          "value": 35.0,
+          "value_max": 85.0,
+          "unit": "%",
+          "context": "Relative-humidity columns in the dew-point table.",
+          "status": "uncertain",
+          "ocr_raw": "Dew point temperature at a relative humidity of: 35% 40% 45% 50% 55% 60% 65% 70% 75% 80% 85%"
+        },
+        {
+          "label": "Maximum partial vapour pressure table temperature",
+          "value": -10.0,
+          "value_max": 25.0,
+          "unit": "°C",
+          "context": "Temperature rows in the maximum partial vapour pressure table.",
+          "status": "uncertain",
+          "ocr_raw": "Temp. °C ... -10 -5 ±0 +5 + 10 +15 +20 +25"
+        },
+        {
+          "label": "Maximum partial vapour pressure of air",
+          "value": 26.9,
+          "value_max": 323.0,
+          "unit": "kp/m²",
+          "context": "Values shown in the maximum partial vapour pressure table, across its listed temperature rows.",
+          "status": "uncertain",
+          "ocr_raw": "Max. partial vapour pressure of air (kp/m2) 26.9 40.9 62.3 88.9 125.2 173.9 238.1 323.0"
+        }
+      ],
+      "figure_refs": [
+        "Figure 1: Dew point temperatures of air, depending on air temperature and relative humidity",
+        "Figure 2: Partial vapour pressure of air",
+        "Figure 3: Max. proportion of the surface air film or up to the vapour limit ('X')",
+        "Figure 4: Partial water vapour pressure remains under the maximum possible; no condensation",
+        "Figure 5: Too great a proportion of surface air film due to too little insulation; condensation at and in building element",
+        "Figure 6: Layer factor and correct curve gradient",
+        "Figure 7: Incorrect sequence of layers; condensation inside the building element",
+        "Figure 8: Vapour barrier on cold side; condensation in building element",
+        "Figure 9: Vapour barrier on warm side prevents formation of condensation",
+        "Figure 10: Calculation of partial vapour pressure"
+      ],
+      "cross_refs": [
+        "-> f)",
+        "-> 8",
+        "-> 4",
+        "-> 9",
+        "-> 5",
+        "-> 6",
+        "-> 7",
+        "-> 8",
+        "-> 9"
+      ],
+      "keywords": [
+        "water vapour diffusion",
+        "condensation",
+        "partial vapour pressure",
+        "relative humidity",
+        "dew point",
+        "thermal insulation",
+        "vapour barrier",
+        "diffusion resistance",
+        "surface air film"
+      ],
+      "tags_architectural": [
+        "safety",
+        "adaptability"
+      ],
+      "confidence": 0.9
+    }
+  ]
+}

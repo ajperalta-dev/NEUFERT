@@ -1,0 +1,149 @@
+{
+  "model": "gpt-6-luna",
+  "checks": {
+    "checks": [
+      {
+        "ficha_index": 1,
+        "dimension_index": 0,
+        "status": "verified",
+        "value": 15.0,
+        "value_max": null,
+        "reason": "Figure 3 caption visibly says \u201cBuilding depth approx. 15 m.\u201d"
+      },
+      {
+        "ficha_index": 1,
+        "dimension_index": 1,
+        "status": "verified",
+        "value": 12.9,
+        "value_max": null,
+        "reason": "Figure 3 caption visibly says \u201cspacing of the supply shafts 12.90 m.\u201d"
+      },
+      {
+        "ficha_index": 1,
+        "dimension_index": 2,
+        "status": "verified",
+        "value": 90.0,
+        "value_max": null,
+        "reason": "Figure 3 caption visibly says \u201cthe smallest letting unit approx. 90 m\u00b2.\u201d"
+      },
+      {
+        "ficha_index": 2,
+        "dimension_index": 0,
+        "status": "verified",
+        "value": 15.0,
+        "value_max": null,
+        "reason": "Figure 5 visibly labels the room depth as 15 m."
+      },
+      {
+        "ficha_index": 2,
+        "dimension_index": 1,
+        "status": "verified",
+        "value": 9.0,
+        "value_max": null,
+        "reason": "Figure 5 visibly labels the room depth as 9 m."
+      },
+      {
+        "ficha_index": 2,
+        "dimension_index": 2,
+        "status": "verified",
+        "value": 7.5,
+        "value_max": null,
+        "reason": "Figure 5 visibly labels the room depth as 7.5 m."
+      },
+      {
+        "ficha_index": 2,
+        "dimension_index": 3,
+        "status": "verified",
+        "value": 6.0,
+        "value_max": null,
+        "reason": "Figure 5 visibly labels the room depth as 6 m."
+      },
+      {
+        "ficha_index": 2,
+        "dimension_index": 4,
+        "status": "verified",
+        "value": 5.0,
+        "value_max": null,
+        "reason": "Figure 5 visibly labels the room depth as 5 m."
+      },
+      {
+        "ficha_index": 2,
+        "dimension_index": 5,
+        "status": "verified",
+        "value": 3.5,
+        "value_max": null,
+        "reason": "Figure 5 visibly labels the room depth as 3.5 m."
+      },
+      {
+        "ficha_index": 2,
+        "dimension_index": 6,
+        "status": "verified",
+        "value": 15.0,
+        "value_max": null,
+        "reason": "Figure 6 caption visibly says \u201cin a 15 m wide plan.\u201d"
+      }
+    ]
+  },
+  "automatic": [
+    {
+      "ficha_index": 1,
+      "dimension_index": 0,
+      "issues": []
+    },
+    {
+      "ficha_index": 1,
+      "dimension_index": 1,
+      "issues": []
+    },
+    {
+      "ficha_index": 1,
+      "dimension_index": 2,
+      "issues": []
+    },
+    {
+      "ficha_index": 2,
+      "dimension_index": 0,
+      "issues": []
+    },
+    {
+      "ficha_index": 2,
+      "dimension_index": 1,
+      "issues": []
+    },
+    {
+      "ficha_index": 2,
+      "dimension_index": 2,
+      "issues": []
+    },
+    {
+      "ficha_index": 2,
+      "dimension_index": 3,
+      "issues": []
+    },
+    {
+      "ficha_index": 2,
+      "dimension_index": 4,
+      "issues": []
+    },
+    {
+      "ficha_index": 2,
+      "dimension_index": 5,
+      "issues": []
+    },
+    {
+      "ficha_index": 2,
+      "dimension_index": 6,
+      "issues": []
+    }
+  ],
+  "usage": [
+    {
+      "prompt_tokens": 4614,
+      "completion_tokens": 1401
+    },
+    {
+      "prompt_tokens": 4407,
+      "completion_tokens": 541
+    }
+  ]
+}

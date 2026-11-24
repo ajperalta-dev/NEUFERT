@@ -1,0 +1,120 @@
+{
+  "fichas": [
+    {
+      "id": "4122fb96e4bd1976-291-vision-0",
+      "pdf_page": 291,
+      "book_page": 278,
+      "chapter": "INDUSTRY AND TRADE",
+      "section": "Workshops",
+      "title": "Bakery",
+      "summary": "Bakery planning organizes storage, production, sales, building services, administration, and social or ancillary rooms around the production workflow. Separate bakery and pastry workrooms according to their differing climate requirements. Workroom area accounts for equipment, handling and processing, intermediate storage, side counters, circulation, and lost space. The page also shows example bakery and large-bakery floor plans.",
+      "building_type": "Bakery",
+      "spaces": [
+        "Raw-material store",
+        "Ingredients room",
+        "Packaging store",
+        "Dough-preparation area",
+        "Dough-processing area",
+        "Baking area",
+        "Finished-products store",
+        "Pastry/confectionery room",
+        "Cooling room",
+        "Shop and sales area",
+        "Office and administration rooms",
+        "Social and ancillary rooms",
+        "Building services rooms",
+        "Yard",
+        "Dispatch area"
+      ],
+      "uses": [
+        "Store raw materials, ingredients, and packaging; keep daily supplies in work areas.",
+        "Prepare, process, ferment, and bake dough; cool and store finished products.",
+        "Separate warm, humid bakery work from cooler pastry work.",
+        "Sell finished products and dispatch goods.",
+        "Plan room connections and work processes to support short routes between storage and work areas."
+      ],
+      "furniture_equipment": [
+        "Kneading machine and kneading bowl",
+        "Scales",
+        "Water-mixing basin",
+        "Ingredients and work tables",
+        "Mixer",
+        "Dough-processing machines",
+        "Oven",
+        "Fermentation room",
+        "Finishing table",
+        "Hand basin",
+        "Baking-tray washing machine",
+        "Cooling table",
+        "Mixing and whipping machine",
+        "Orbital paddle mixer",
+        "Gas cooker",
+        "Deep-fat cooker",
+        "Sink with floor drain and dishwasher",
+        "Cream cooler",
+        "Froster",
+        "Shelving and racks"
+      ],
+      "dimensions": [
+        {
+          "label": "Minimum area for stores",
+          "value": 15.0,
+          "value_max": null,
+          "unit": "m²",
+          "context": "Minimum area stated for stores.",
+          "status": "uncertain",
+          "ocr_raw": "Minimum area for stores 15 m2"
+        },
+        {
+          "label": "Store area per employee",
+          "value": 8.0,
+          "value_max": 10.0,
+          "unit": "m² per employee",
+          "context": "Approximate area for all stores, per employee.",
+          "status": "uncertain",
+          "ocr_raw": "approx. 8-1 0 m2 per employee for all stores."
+        },
+        {
+          "label": "Example bakery floor-plan dimension",
+          "value": 10.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Dimension marked on the example floor plan of a bakery; axis/context is not specified in the text.",
+          "status": "uncertain",
+          "ocr_raw": "10.0"
+        },
+        {
+          "label": "Example bakery floor-plan dimension",
+          "value": 18.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Dimension marked on the example floor plan of a bakery; axis/context is not specified in the text.",
+          "status": "uncertain",
+          "ocr_raw": "18.0"
+        }
+      ],
+      "figure_refs": [
+        "1 Functional scheme",
+        "2 Room connection plan",
+        "3 Example: floor plan of a bakery",
+        "4 Example: floor plan of a large bakery"
+      ],
+      "cross_refs": [],
+      "keywords": [
+        "bakery",
+        "workshops",
+        "room allocation",
+        "storage",
+        "production workflow",
+        "pastry",
+        "floor plan"
+      ],
+      "tags_architectural": [
+        "circulation",
+        "spatial_proportion",
+        "ventilation"
+      ],
+      "confidence": 0.96
+    }
+  ]
+}

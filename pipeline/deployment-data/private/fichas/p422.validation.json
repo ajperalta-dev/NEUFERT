@@ -1,0 +1,986 @@
+{
+  "model": "gpt-6-luna",
+  "checks": {
+    "checks": [
+      {
+        "ficha_index": 0,
+        "dimension_index": 0,
+        "status": "verified",
+        "value": 4.5,
+        "value_max": null,
+        "reason": "Figure text prints an axle base of 4.5 m."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 1,
+        "status": "verified",
+        "value": 4.5,
+        "value_max": null,
+        "reason": "Figure text prints an axle base under 4.5 m."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 2,
+        "status": "verified",
+        "value": 100.0,
+        "value_max": null,
+        "reason": "Figure text prints falling track with R < 100 m."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 3,
+        "status": "verified",
+        "value": 6.5,
+        "value_max": 8.0,
+        "reason": "Figure text prints 6.5\u20138.0 m axle base."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 4,
+        "status": "verified",
+        "value": 6.5,
+        "value_max": null,
+        "reason": "Figure text prints up to 6.5 m axle base."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 5,
+        "status": "verified",
+        "value": 300.0,
+        "value_max": null,
+        "reason": "Curved-radii list prints main lines at \u2265300 m."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 6,
+        "status": "verified",
+        "value": 180.0,
+        "value_max": null,
+        "reason": "Curved-radii list prints station tracks at \u2265180 m."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 7,
+        "status": "verified",
+        "value": 180.0,
+        "value_max": null,
+        "reason": "Curved-radii list prints branch lines with main-line rolling stock at \u2265180 m."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 8,
+        "status": "verified",
+        "value": 100.0,
+        "value_max": null,
+        "reason": "Curved-radii list prints branch lines without main-line rolling stock at \u2265100 m."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 9,
+        "status": "verified",
+        "value": 140.0,
+        "value_max": null,
+        "reason": "Curved-radii list prints sidings used by main-line engines at \u2265140 m."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 10,
+        "status": "verified",
+        "value": 100.0,
+        "value_max": null,
+        "reason": "Curved-radii list prints sidings not used by main-line engines at preferably \u2265100 m."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 11,
+        "status": "verified",
+        "value": 35.0,
+        "value_max": null,
+        "reason": "Curved-radii list prints the minimum at \u226535 m."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 12,
+        "status": "verified",
+        "value": 35.0,
+        "value_max": 100.0,
+        "reason": "Text prints 100 m > R \u2265 35 m."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 13,
+        "status": "verified",
+        "value": 130.0,
+        "value_max": null,
+        "reason": "Text prints the threshold radius >130 m."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 14,
+        "status": "verified",
+        "value": 1.0,
+        "value_max": null,
+        "reason": "Narrow-gauge list prints 1.00 m gauge track."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 15,
+        "status": "verified",
+        "value": 50.0,
+        "value_max": null,
+        "reason": "Narrow-gauge list prints R \u226550 m for 1.00 m gauge track."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 16,
+        "status": "verified",
+        "value": 0.75,
+        "value_max": null,
+        "reason": "Narrow-gauge list prints 0.75 m gauge track."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 17,
+        "status": "verified",
+        "value": 40.0,
+        "value_max": null,
+        "reason": "Narrow-gauge list prints R \u226540 m for 0.75 m gauge track."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 18,
+        "status": "verified",
+        "value": 0.6,
+        "value_max": null,
+        "reason": "Narrow-gauge list prints 0.60 m gauge track."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 19,
+        "status": "verified",
+        "value": 25.0,
+        "value_max": null,
+        "reason": "Narrow-gauge list prints R \u226525 m for 0.60 m gauge track."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 20,
+        "status": "verified",
+        "value": 0.65,
+        "value_max": null,
+        "reason": "Text prints the bound \u22640.65 m/sec."
+      },
+      {
+        "ficha_index": 1,
+        "dimension_index": 0,
+        "status": "verified",
+        "value": 180.0,
+        "value_max": 200.0,
+        "reason": "Table prints R = 180\u2013200."
+      },
+      {
+        "ficha_index": 1,
+        "dimension_index": 1,
+        "status": "verified",
+        "value": 40.0,
+        "value_max": null,
+        "reason": "Table prints l = 40."
+      },
+      {
+        "ficha_index": 1,
+        "dimension_index": 2,
+        "status": "verified",
+        "value": 0.37,
+        "value_max": null,
+        "reason": "Table prints 0.370 in the m column."
+      },
+      {
+        "ficha_index": 1,
+        "dimension_index": 3,
+        "status": "verified",
+        "value": 0.333,
+        "value_max": null,
+        "reason": "Table prints 0.333 in the m column."
+      },
+      {
+        "ficha_index": 1,
+        "dimension_index": 4,
+        "status": "verified",
+        "value": 320.0,
+        "value_max": null,
+        "reason": "Table prints ramp gradient 1:320."
+      },
+      {
+        "ficha_index": 1,
+        "dimension_index": 5,
+        "status": "verified",
+        "value": 320.0,
+        "value_max": null,
+        "reason": "Table prints the second ramp gradient 1:320."
+      },
+      {
+        "ficha_index": 1,
+        "dimension_index": 6,
+        "status": "verified",
+        "value": 250.0,
+        "value_max": 350.0,
+        "reason": "Table prints R = 250\u2013350."
+      },
+      {
+        "ficha_index": 1,
+        "dimension_index": 7,
+        "status": "verified",
+        "value": 30.0,
+        "value_max": null,
+        "reason": "Table prints l = 30."
+      },
+      {
+        "ficha_index": 1,
+        "dimension_index": 8,
+        "status": "verified",
+        "value": 0.115,
+        "value_max": null,
+        "reason": "Table prints 0.1150 in the m column."
+      },
+      {
+        "ficha_index": 1,
+        "dimension_index": 9,
+        "status": "verified",
+        "value": 0.107,
+        "value_max": null,
+        "reason": "Table prints 0.107 in the m column."
+      },
+      {
+        "ficha_index": 1,
+        "dimension_index": 10,
+        "status": "verified",
+        "value": 300.0,
+        "value_max": null,
+        "reason": "Table prints ramp gradient 1:300."
+      },
+      {
+        "ficha_index": 1,
+        "dimension_index": 11,
+        "status": "verified",
+        "value": 400.0,
+        "value_max": null,
+        "reason": "Table prints the second ramp gradient 1:400."
+      },
+      {
+        "ficha_index": 1,
+        "dimension_index": 12,
+        "status": "verified",
+        "value": 400.0,
+        "value_max": 2000.0,
+        "reason": "Table prints R = 400\u20132000."
+      },
+      {
+        "ficha_index": 1,
+        "dimension_index": 13,
+        "status": "verified",
+        "value": 20.0,
+        "value_max": null,
+        "reason": "Table prints l = 20."
+      },
+      {
+        "ficha_index": 1,
+        "dimension_index": 14,
+        "status": "verified",
+        "value": 0.012,
+        "value_max": null,
+        "reason": "Table prints 0.012 in the m column."
+      },
+      {
+        "ficha_index": 1,
+        "dimension_index": 15,
+        "status": "verified",
+        "value": 0.008,
+        "value_max": null,
+        "reason": "Table prints 0.008 in the m column."
+      },
+      {
+        "ficha_index": 1,
+        "dimension_index": 16,
+        "status": "verified",
+        "value": 310.0,
+        "value_max": null,
+        "reason": "Table prints ramp gradient 1:310."
+      },
+      {
+        "ficha_index": 1,
+        "dimension_index": 17,
+        "status": "verified",
+        "value": 1300.0,
+        "value_max": null,
+        "reason": "Table prints the second ramp gradient 1:1300."
+      },
+      {
+        "ficha_index": 2,
+        "dimension_index": 0,
+        "status": "verified",
+        "value": 3.5,
+        "value_max": null,
+        "reason": "Text prints warning-sign track-centreline spacing \u22653.5 m."
+      },
+      {
+        "ficha_index": 2,
+        "dimension_index": 1,
+        "status": "verified",
+        "value": 8.0,
+        "value_max": null,
+        "reason": "Text points to figure 8 for point length / point-blade length."
+      },
+      {
+        "ficha_index": 2,
+        "dimension_index": 2,
+        "status": "verified",
+        "value": 190.0,
+        "value_max": null,
+        "reason": "Printed point designation is 49\u2013190\u20131:7.5."
+      },
+      {
+        "ficha_index": 2,
+        "dimension_index": 3,
+        "status": "verified",
+        "value": 7.5,
+        "value_max": null,
+        "reason": "Printed point designation gives pitch ratio 1:7.5."
+      },
+      {
+        "ficha_index": 2,
+        "dimension_index": 4,
+        "status": "verified",
+        "value": 25.222,
+        "value_max": null,
+        "reason": "Text prints 25.222 m."
+      },
+      {
+        "ficha_index": 2,
+        "dimension_index": 5,
+        "status": "verified",
+        "value": 12.611,
+        "value_max": null,
+        "reason": "Text prints 12.611 m."
+      },
+      {
+        "ficha_index": 2,
+        "dimension_index": 6,
+        "status": "verified",
+        "value": 190.0,
+        "value_max": null,
+        "reason": "Printed point designation is 49\u2013190\u20131:9."
+      },
+      {
+        "ficha_index": 2,
+        "dimension_index": 7,
+        "status": "verified",
+        "value": 9.0,
+        "value_max": null,
+        "reason": "Printed point designation gives pitch ratio 1:9."
+      },
+      {
+        "ficha_index": 2,
+        "dimension_index": 8,
+        "status": "verified",
+        "value": 27.138,
+        "value_max": null,
+        "reason": "Text prints 27.138 m."
+      },
+      {
+        "ficha_index": 2,
+        "dimension_index": 9,
+        "status": "verified",
+        "value": 10.523,
+        "value_max": null,
+        "reason": "Text prints 10.523 m."
+      },
+      {
+        "ficha_index": 2,
+        "dimension_index": 10,
+        "status": "verified",
+        "value": 300.0,
+        "value_max": null,
+        "reason": "Printed point designation is 49\u2013300\u20131:9."
+      },
+      {
+        "ficha_index": 2,
+        "dimension_index": 11,
+        "status": "verified",
+        "value": 9.0,
+        "value_max": null,
+        "reason": "Printed point designation gives pitch ratio 1:9."
+      },
+      {
+        "ficha_index": 2,
+        "dimension_index": 12,
+        "status": "verified",
+        "value": 33.23,
+        "value_max": null,
+        "reason": "Text prints 33.230 m."
+      },
+      {
+        "ficha_index": 2,
+        "dimension_index": 13,
+        "status": "verified",
+        "value": 16.615,
+        "value_max": null,
+        "reason": "Text prints 16.615 m."
+      },
+      {
+        "ficha_index": 2,
+        "dimension_index": 14,
+        "status": "verified",
+        "value": 2.0,
+        "value_max": 3.0,
+        "reason": "Text prints axle turntables at 2\u20133 m."
+      },
+      {
+        "ficha_index": 2,
+        "dimension_index": 15,
+        "status": "verified",
+        "value": 3.5,
+        "value_max": 10.0,
+        "reason": "Text prints carriage turntables at 3.5\u201310.0 m."
+      },
+      {
+        "ficha_index": 2,
+        "dimension_index": 16,
+        "status": "verified",
+        "value": 12.5,
+        "value_max": 23.0,
+        "reason": "Text prints locomotive turntables at 12.5\u201323.0 m."
+      },
+      {
+        "ficha_index": 2,
+        "dimension_index": 17,
+        "status": "verified",
+        "value": 0.5,
+        "value_max": null,
+        "reason": "Text prints the traverser allowance as +0.5 m."
+      },
+      {
+        "ficha_index": 2,
+        "dimension_index": 18,
+        "status": "verified",
+        "value": 215.0,
+        "value_max": null,
+        "reason": "Table entry ABW 49 prints radius 215 m."
+      },
+      {
+        "ficha_index": 2,
+        "dimension_index": 19,
+        "status": "verified",
+        "value": 4.8,
+        "value_max": null,
+        "reason": "Table entry ABW 49 prints pitch ratio 1:4.8."
+      },
+      {
+        "ficha_index": 2,
+        "dimension_index": 20,
+        "status": "verified",
+        "value": 22.1,
+        "value_max": null,
+        "reason": "Table entry ABW 49 prints overall length 22.100 m."
+      },
+      {
+        "ficha_index": 2,
+        "dimension_index": 21,
+        "status": "verified",
+        "value": 190.0,
+        "value_max": null,
+        "reason": "Table entry EW 49 prints radius 190 m."
+      },
+      {
+        "ficha_index": 2,
+        "dimension_index": 22,
+        "status": "verified",
+        "value": 7.5,
+        "value_max": null,
+        "reason": "Table entry EW 49 prints pitch ratio 1:7.5."
+      },
+      {
+        "ficha_index": 2,
+        "dimension_index": 23,
+        "status": "verified",
+        "value": 30.039,
+        "value_max": null,
+        "reason": "Table entry EW 49 prints overall length 30.039 m."
+      },
+      {
+        "ficha_index": 2,
+        "dimension_index": 24,
+        "status": "verified",
+        "value": 190.0,
+        "value_max": null,
+        "reason": "Table entry EW 49 prints radius 190 m."
+      },
+      {
+        "ficha_index": 2,
+        "dimension_index": 25,
+        "status": "verified",
+        "value": 9.0,
+        "value_max": null,
+        "reason": "Table entry EW 49 prints pitch ratio 1:9."
+      },
+      {
+        "ficha_index": 2,
+        "dimension_index": 26,
+        "status": "verified",
+        "value": 27.138,
+        "value_max": null,
+        "reason": "Table entry EW 49 prints overall length 27.138 m."
+      },
+      {
+        "ficha_index": 2,
+        "dimension_index": 27,
+        "status": "verified",
+        "value": 190.0,
+        "value_max": null,
+        "reason": "Table entry DKW 49 prints radius 190 m."
+      },
+      {
+        "ficha_index": 2,
+        "dimension_index": 28,
+        "status": "verified",
+        "value": 9.0,
+        "value_max": null,
+        "reason": "Table entry DKW 49 prints pitch ratio 1:9."
+      },
+      {
+        "ficha_index": 2,
+        "dimension_index": 29,
+        "status": "verified",
+        "value": 33.23,
+        "value_max": null,
+        "reason": "Table entry DKW 49 prints overall length 33.230 m."
+      },
+      {
+        "ficha_index": 2,
+        "dimension_index": 30,
+        "status": "verified",
+        "value": 190.0,
+        "value_max": null,
+        "reason": "Table entry DW 49 prints radius 190 m."
+      },
+      {
+        "ficha_index": 2,
+        "dimension_index": 31,
+        "status": "verified",
+        "value": 37.661,
+        "value_max": null,
+        "reason": "Table entry DW 49 prints overall length 37.661 m."
+      }
+    ]
+  },
+  "automatic": [
+    {
+      "ficha_index": 0,
+      "dimension_index": 0,
+      "issues": []
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 1,
+      "issues": []
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 2,
+      "issues": []
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 3,
+      "issues": []
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 4,
+      "issues": []
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 5,
+      "issues": []
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 6,
+      "issues": []
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 7,
+      "issues": []
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 8,
+      "issues": []
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 9,
+      "issues": []
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 10,
+      "issues": []
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 11,
+      "issues": []
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 12,
+      "issues": []
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 13,
+      "issues": []
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 14,
+      "issues": []
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 15,
+      "issues": []
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 16,
+      "issues": []
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 17,
+      "issues": []
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 18,
+      "issues": []
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 19,
+      "issues": []
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 20,
+      "issues": [
+        "Unknown unit"
+      ]
+    },
+    {
+      "ficha_index": 1,
+      "dimension_index": 0,
+      "issues": []
+    },
+    {
+      "ficha_index": 1,
+      "dimension_index": 1,
+      "issues": []
+    },
+    {
+      "ficha_index": 1,
+      "dimension_index": 2,
+      "issues": [
+        "Unknown unit"
+      ]
+    },
+    {
+      "ficha_index": 1,
+      "dimension_index": 3,
+      "issues": [
+        "Unknown unit"
+      ]
+    },
+    {
+      "ficha_index": 1,
+      "dimension_index": 4,
+      "issues": [
+        "Unknown unit"
+      ]
+    },
+    {
+      "ficha_index": 1,
+      "dimension_index": 5,
+      "issues": [
+        "Unknown unit"
+      ]
+    },
+    {
+      "ficha_index": 1,
+      "dimension_index": 6,
+      "issues": []
+    },
+    {
+      "ficha_index": 1,
+      "dimension_index": 7,
+      "issues": []
+    },
+    {
+      "ficha_index": 1,
+      "dimension_index": 8,
+      "issues": [
+        "Unknown unit"
+      ]
+    },
+    {
+      "ficha_index": 1,
+      "dimension_index": 9,
+      "issues": [
+        "Unknown unit"
+      ]
+    },
+    {
+      "ficha_index": 1,
+      "dimension_index": 10,
+      "issues": [
+        "Unknown unit"
+      ]
+    },
+    {
+      "ficha_index": 1,
+      "dimension_index": 11,
+      "issues": [
+        "Unknown unit"
+      ]
+    },
+    {
+      "ficha_index": 1,
+      "dimension_index": 12,
+      "issues": [
+        "Plausibility limit; visual review required"
+      ]
+    },
+    {
+      "ficha_index": 1,
+      "dimension_index": 13,
+      "issues": []
+    },
+    {
+      "ficha_index": 1,
+      "dimension_index": 14,
+      "issues": [
+        "Unknown unit"
+      ]
+    },
+    {
+      "ficha_index": 1,
+      "dimension_index": 15,
+      "issues": [
+        "Unknown unit"
+      ]
+    },
+    {
+      "ficha_index": 1,
+      "dimension_index": 16,
+      "issues": [
+        "Unknown unit"
+      ]
+    },
+    {
+      "ficha_index": 1,
+      "dimension_index": 17,
+      "issues": [
+        "Unknown unit"
+      ]
+    },
+    {
+      "ficha_index": 2,
+      "dimension_index": 0,
+      "issues": []
+    },
+    {
+      "ficha_index": 2,
+      "dimension_index": 1,
+      "issues": [
+        "Unknown unit"
+      ]
+    },
+    {
+      "ficha_index": 2,
+      "dimension_index": 2,
+      "issues": []
+    },
+    {
+      "ficha_index": 2,
+      "dimension_index": 3,
+      "issues": [
+        "Unknown unit"
+      ]
+    },
+    {
+      "ficha_index": 2,
+      "dimension_index": 4,
+      "issues": []
+    },
+    {
+      "ficha_index": 2,
+      "dimension_index": 5,
+      "issues": []
+    },
+    {
+      "ficha_index": 2,
+      "dimension_index": 6,
+      "issues": []
+    },
+    {
+      "ficha_index": 2,
+      "dimension_index": 7,
+      "issues": [
+        "Unknown unit"
+      ]
+    },
+    {
+      "ficha_index": 2,
+      "dimension_index": 8,
+      "issues": []
+    },
+    {
+      "ficha_index": 2,
+      "dimension_index": 9,
+      "issues": []
+    },
+    {
+      "ficha_index": 2,
+      "dimension_index": 10,
+      "issues": []
+    },
+    {
+      "ficha_index": 2,
+      "dimension_index": 11,
+      "issues": [
+        "Unknown unit"
+      ]
+    },
+    {
+      "ficha_index": 2,
+      "dimension_index": 12,
+      "issues": []
+    },
+    {
+      "ficha_index": 2,
+      "dimension_index": 13,
+      "issues": []
+    },
+    {
+      "ficha_index": 2,
+      "dimension_index": 14,
+      "issues": []
+    },
+    {
+      "ficha_index": 2,
+      "dimension_index": 15,
+      "issues": []
+    },
+    {
+      "ficha_index": 2,
+      "dimension_index": 16,
+      "issues": []
+    },
+    {
+      "ficha_index": 2,
+      "dimension_index": 17,
+      "issues": []
+    },
+    {
+      "ficha_index": 2,
+      "dimension_index": 18,
+      "issues": []
+    },
+    {
+      "ficha_index": 2,
+      "dimension_index": 19,
+      "issues": [
+        "Unknown unit"
+      ]
+    },
+    {
+      "ficha_index": 2,
+      "dimension_index": 20,
+      "issues": []
+    },
+    {
+      "ficha_index": 2,
+      "dimension_index": 21,
+      "issues": []
+    },
+    {
+      "ficha_index": 2,
+      "dimension_index": 22,
+      "issues": [
+        "Unknown unit"
+      ]
+    },
+    {
+      "ficha_index": 2,
+      "dimension_index": 23,
+      "issues": []
+    },
+    {
+      "ficha_index": 2,
+      "dimension_index": 24,
+      "issues": []
+    },
+    {
+      "ficha_index": 2,
+      "dimension_index": 25,
+      "issues": [
+        "Unknown unit"
+      ]
+    },
+    {
+      "ficha_index": 2,
+      "dimension_index": 26,
+      "issues": []
+    },
+    {
+      "ficha_index": 2,
+      "dimension_index": 27,
+      "issues": []
+    },
+    {
+      "ficha_index": 2,
+      "dimension_index": 28,
+      "issues": [
+        "Unknown unit"
+      ]
+    },
+    {
+      "ficha_index": 2,
+      "dimension_index": 29,
+      "issues": []
+    },
+    {
+      "ficha_index": 2,
+      "dimension_index": 30,
+      "issues": []
+    },
+    {
+      "ficha_index": 2,
+      "dimension_index": 31,
+      "issues": []
+    }
+  ],
+  "usage": [
+    {
+      "prompt_tokens": 4809,
+      "completion_tokens": 4891
+    },
+    {
+      "prompt_tokens": 9567,
+      "completion_tokens": 2828
+    }
+  ]
+}

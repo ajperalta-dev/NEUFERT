@@ -1,0 +1,441 @@
+{
+  "fichas": [
+    {
+      "id": "4122fb96e4bd1976-466-vision-0",
+      "pdf_page": 466,
+      "book_page": 453,
+      "chapter": "AGRICULTURE",
+      "section": "Animal Husbandry",
+      "title": "Rabbit Hutches and Cages",
+      "summary": "Guidance and illustrated examples for rabbit hutches, stacked hutches, wire cages, and breeding cages. Hutches should be ventilated, dry, protected from sun and predators, easy to clean, and equipped with urine drainage. The page gives hutch area per animal, hutch size by rabbit type, stacking guidance, cage mesh dimensions, nesting-box clearance, and climate requirements for breeding and fattening.",
+      "building_type": "Small-animal housing",
+      "spaces": [
+        "Rabbit hutch",
+        "Stacked rabbit hutches",
+        "Wire cage",
+        "Breeding cage",
+        "Nesting box"
+      ],
+      "uses": [
+        "Housing rabbits",
+        "Breeding and fattening rabbits",
+        "Protecting animals from predators and poor climate"
+      ],
+      "furniture_equipment": [
+        "Wooden hutches",
+        "Galvanised wire netting",
+        "Slatted floor",
+        "Urine drainage channel",
+        "Automatic feeder",
+        "Nesting box"
+      ],
+      "dimensions": [
+        {
+          "label": "Hutch area per animal",
+          "value": 0.65,
+          "value_max": 1.0,
+          "unit": "m²",
+          "context": "Area per animal; printed as a range.",
+          "status": "uncertain",
+          "ocr_raw": "hutch area per animal 0.65-1.0m2"
+        },
+        {
+          "label": "Small purebred hutch width",
+          "value": 80.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Table of hutch dimensions; width (w), small purebreds.",
+          "status": "uncertain",
+          "ocr_raw": "small purebreds 80 80 55"
+        },
+        {
+          "label": "Small purebred hutch depth",
+          "value": 80.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Table of hutch dimensions; depth (d), small purebreds.",
+          "status": "uncertain",
+          "ocr_raw": "small purebreds 80 80 55"
+        },
+        {
+          "label": "Small purebred hutch height",
+          "value": 55.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Table of hutch dimensions; height (h), small purebreds.",
+          "status": "uncertain",
+          "ocr_raw": "small purebreds 80 80 55"
+        },
+        {
+          "label": "Medium purebred hutch width",
+          "value": 100.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Table of hutch dimensions; width (w), medium purebreds.",
+          "status": "uncertain",
+          "ocr_raw": "medium purebreds 100 80 65"
+        },
+        {
+          "label": "Medium purebred hutch depth",
+          "value": 80.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Table of hutch dimensions; depth (d), medium purebreds.",
+          "status": "uncertain",
+          "ocr_raw": "medium purebreds 100 80 65"
+        },
+        {
+          "label": "Medium purebred hutch height",
+          "value": 65.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Table of hutch dimensions; height (h), medium purebreds.",
+          "status": "uncertain",
+          "ocr_raw": "medium purebreds 100 80 65"
+        },
+        {
+          "label": "Large purebred hutch width",
+          "value": 120.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Table of hutch dimensions; width (w), large purebreds.",
+          "status": "uncertain",
+          "ocr_raw": "large purebreds 120 80 75"
+        },
+        {
+          "label": "Large purebred hutch depth",
+          "value": 80.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Table of hutch dimensions; depth (d), large purebreds.",
+          "status": "uncertain",
+          "ocr_raw": "large purebreds 120 80 75"
+        },
+        {
+          "label": "Large purebred hutch height",
+          "value": 75.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Table of hutch dimensions; height (h), large purebreds.",
+          "status": "uncertain",
+          "ocr_raw": "large purebreds 120 80 75"
+        },
+        {
+          "label": "Hutch tiers for small purebreds",
+          "value": 3.0,
+          "value_max": null,
+          "unit": "tiers",
+          "context": "Stacking guidance within the stated limits.",
+          "status": "uncertain",
+          "ocr_raw": "for small purebreds three tiers, for large purebreds two tiers within above limits"
+        },
+        {
+          "label": "Hutch tiers for large purebreds",
+          "value": 2.0,
+          "value_max": null,
+          "unit": "tiers",
+          "context": "Stacking guidance within the stated limits.",
+          "status": "uncertain",
+          "ocr_raw": "for small purebreds three tiers, for large purebreds two tiers within above limits"
+        },
+        {
+          "label": "Wire mesh opening",
+          "value": 25.0,
+          "value_max": 25.0,
+          "unit": "mm",
+          "context": "One stated mesh size for cages made entirely from galvanised wire netting.",
+          "status": "uncertain",
+          "ocr_raw": "mesh size 25 x 25 or 12x 70mm"
+        },
+        {
+          "label": "Wire mesh opening",
+          "value": 12.0,
+          "value_max": 70.0,
+          "unit": "mm",
+          "context": "Alternative stated mesh size for cages made entirely from galvanised wire netting.",
+          "status": "uncertain",
+          "ocr_raw": "mesh size 25 x 25 or 12x 70mm"
+        },
+        {
+          "label": "Nesting-box floor below cage base",
+          "value": 70.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Minimum vertical offset for nesting boxes for young animals.",
+          "status": "uncertain",
+          "ocr_raw": "floor of nesting boxes at least 70 mm below base of cage"
+        },
+        {
+          "label": "Hutch volume per doe including offspring",
+          "value": 4.5,
+          "value_max": 5.5,
+          "unit": "m³",
+          "context": "Recommended hutch volume for breeding and fattening rabbits in close rooms.",
+          "status": "uncertain",
+          "ocr_raw": "The hutch volume should be 4.5-5.5 m3 per doe including offspring."
+        },
+        {
+          "label": "Breeding-hutch temperature",
+          "value": 10.0,
+          "value_max": 28.0,
+          "unit": "°C",
+          "context": "Stated temperature range for a breeding hutch.",
+          "status": "uncertain",
+          "ocr_raw": "The temperature in the breeding hutch should be 10-28 °C"
+        },
+        {
+          "label": "Optimal breeding-hutch temperature",
+          "value": 18.0,
+          "value_max": null,
+          "unit": "°C",
+          "context": "Optimal temperature stated for the breeding hutch.",
+          "status": "uncertain",
+          "ocr_raw": "optimally 18 °C"
+        },
+        {
+          "label": "Fattening-hutch temperature",
+          "value": 20.0,
+          "value_max": null,
+          "unit": "°C",
+          "context": "Temperature stated for the fattening hutch.",
+          "status": "uncertain",
+          "ocr_raw": "in the fattening hutch 20°C."
+        }
+      ],
+      "figure_refs": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "cross_refs": [
+        "2",
+        "3",
+        "5",
+        "6"
+      ],
+      "keywords": [
+        "rabbit",
+        "hutch",
+        "wire cage",
+        "breeding",
+        "fattening",
+        "ventilation",
+        "drainage",
+        "nesting box"
+      ],
+      "tags_architectural": [
+        "ventilation",
+        "safety",
+        "adaptability"
+      ],
+      "confidence": 0.91
+    },
+    {
+      "id": "4122fb96e4bd1976-466-vision-1",
+      "pdf_page": 466,
+      "book_page": 453,
+      "chapter": "AGRICULTURE",
+      "section": "Animal Husbandry",
+      "title": "Goat Housing and Feeding",
+      "summary": "Illustrated goat-shed and goat-pen arrangements include tethered stalls, loose housing, deep-litter beds, slatted floors, feeding stands, racks, troughs, and rest alcoves. The guidance addresses orientation, ventilation, lighting, stall and feeding dimensions, animal space requirements, and selected building provisions.",
+      "building_type": "Livestock housing",
+      "spaces": [
+        "Goat shed",
+        "Tethered stall",
+        "Loose box",
+        "Feeding aisle",
+        "Feeding stand",
+        "Deep-litter bed",
+        "Milking stand",
+        "Cheese-making area",
+        "Kids' area",
+        "Rest alcoves"
+      ],
+      "uses": [
+        "Housing goats and young goats",
+        "Feeding and watering goats",
+        "Milking and cheese making",
+        "Collecting urine and dung"
+      ],
+      "furniture_equipment": [
+        "Feed rack",
+        "Water trough",
+        "Feeding grille",
+        "Feeding stand",
+        "Barrier mesh",
+        "Slatted floor",
+        "Deep-litter bed",
+        "Dung-collecting channel"
+      ],
+      "dimensions": [
+        {
+          "label": "Stall area per animal",
+          "value": 1.5,
+          "value_max": 2.0,
+          "unit": "m²",
+          "context": "Area per animal; printed as a range.",
+          "status": "uncertain",
+          "ocr_raw": "stall area per animal 1.5-2.0m2"
+        },
+        {
+          "label": "Stall width per animal",
+          "value": 0.75,
+          "value_max": 1.0,
+          "unit": "m",
+          "context": "Width per animal; printed as a range.",
+          "status": "uncertain",
+          "ocr_raw": "stall width per animal 0.75-1.00 m"
+        },
+        {
+          "label": "Tethered stall depth",
+          "value": 1.8,
+          "value_max": null,
+          "unit": "m",
+          "context": "Depth for a tethered stall.",
+          "status": "uncertain",
+          "ocr_raw": "stall depth, tethered 1.8m"
+        },
+        {
+          "label": "Free stall depth",
+          "value": 2.5,
+          "value_max": 2.8,
+          "unit": "m",
+          "context": "Depth for a free stall; printed as a range.",
+          "status": "uncertain",
+          "ocr_raw": "stall depth, free 2.5-2.8 m"
+        },
+        {
+          "label": "Stall height",
+          "value": 1.7,
+          "value_max": 2.5,
+          "unit": "m",
+          "context": "Stall height; printed as a range.",
+          "status": "uncertain",
+          "ocr_raw": "stall height 1.7-2.5m"
+        },
+        {
+          "label": "Stall temperature",
+          "value": 10.0,
+          "value_max": 20.0,
+          "unit": "°C",
+          "context": "Stated temperature range.",
+          "status": "uncertain",
+          "ocr_raw": "stall temperature 10-20°C"
+        },
+        {
+          "label": "Window area relative to floor area",
+          "value": 1.0,
+          "value_max": 5.0,
+          "unit": "ratio",
+          "context": "Window area is stated as 1/5–1/20 of floor area; the displayed ratio represents the first stated fraction only.",
+          "status": "uncertain",
+          "ocr_raw": "window area = 1/5-1/20 of the floor area."
+        },
+        {
+          "label": "Window area relative to floor area",
+          "value": 1.0,
+          "value_max": 20.0,
+          "unit": "ratio",
+          "context": "Window area is stated as 1/5–1/20 of floor area; the displayed ratio represents the second stated fraction only.",
+          "status": "uncertain",
+          "ocr_raw": "window area = 1/5-1/20 of the floor area."
+        },
+        {
+          "label": "Standing width for tied goats",
+          "value": 75.0,
+          "value_max": 80.0,
+          "unit": "cm",
+          "context": "Width where goats are tied up in numbers; stated range excludes passages.",
+          "status": "uncertain",
+          "ocr_raw": "the standing width should be 75-80 cm"
+        },
+        {
+          "label": "Standing depth for tied goats",
+          "value": 1.5,
+          "value_max": 2.0,
+          "unit": "m",
+          "context": "Depth where goats are tied up in numbers; stated range excludes passages.",
+          "status": "uncertain",
+          "ocr_raw": "depth 1.50-2.00 m"
+        },
+        {
+          "label": "Feeding-rack and trough daily water requirement per goat",
+          "value": 2.0,
+          "value_max": 3.0,
+          "unit": "l/animal/day",
+          "context": "Daily water requirement per goat, printed as a range.",
+          "status": "uncertain",
+          "ocr_raw": "daily requirements per goat: 1.2kg hay, 2.3kg of root crop, 2-3l of water"
+        },
+        {
+          "label": "Ceiling height",
+          "value": 2.5,
+          "value_max": null,
+          "unit": "m",
+          "context": "The printed provision is greater than this height.",
+          "status": "uncertain",
+          "ocr_raw": "ceiling > 2.50 m"
+        },
+        {
+          "label": "Animals served per trough basin",
+          "value": 30.0,
+          "value_max": null,
+          "unit": "animals/basin",
+          "context": "Trough provision.",
+          "status": "uncertain",
+          "ocr_raw": "trough: 1 basin for 30 animals"
+        },
+        {
+          "label": "Goat-housing window proportion",
+          "value": 1.0,
+          "value_max": 15.0,
+          "unit": "ratio",
+          "context": "Windows as a fraction of building height, as printed in the goat-keeping notes.",
+          "status": "uncertain",
+          "ocr_raw": "windows 1/15-1/20 of the building height"
+        },
+        {
+          "label": "Goat-housing window proportion",
+          "value": 1.0,
+          "value_max": 20.0,
+          "unit": "ratio",
+          "context": "Windows as a fraction of building height, as printed in the goat-keeping notes.",
+          "status": "uncertain",
+          "ocr_raw": "windows 1/15-1/20 of the building height"
+        }
+      ],
+      "figure_refs": [
+        "7",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12",
+        "13",
+        "14"
+      ],
+      "cross_refs": [],
+      "keywords": [
+        "goat",
+        "goat shed",
+        "tethered stall",
+        "loose housing",
+        "feeding rack",
+        "trough",
+        "deep litter",
+        "ventilation"
+      ],
+      "tags_architectural": [
+        "ventilation",
+        "daylighting",
+        "circulation",
+        "spatial_proportion",
+        "safety"
+      ],
+      "confidence": 0.86
+    }
+  ]
+}

@@ -1,0 +1,398 @@
+{
+  "model": "gpt-6-luna",
+  "checks": {
+    "checks": [
+      {
+        "ficha_index": 1,
+        "dimension_index": 0,
+        "status": "verified",
+        "value": null,
+        "value_max": null,
+        "reason": "Figure 3 caption visibly reads 20/20 mm."
+      },
+      {
+        "ficha_index": 1,
+        "dimension_index": 1,
+        "status": "verified",
+        "value": null,
+        "value_max": null,
+        "reason": "Figure 3 caption visibly reads 33/33 mm."
+      },
+      {
+        "ficha_index": 1,
+        "dimension_index": 2,
+        "status": "verified",
+        "value": null,
+        "value_max": null,
+        "reason": "Figure 4 caption visibly reads 25/39 and 50/60 mm; the proposed first size is 25 mm."
+      },
+      {
+        "ficha_index": 1,
+        "dimension_index": 3,
+        "status": "verified",
+        "value": null,
+        "value_max": null,
+        "reason": "Figure 4 caption visibly reads 25/39 and 50/60 mm; the proposed second size is 50 mm."
+      },
+      {
+        "ficha_index": 1,
+        "dimension_index": 4,
+        "status": "verified",
+        "value": null,
+        "value_max": null,
+        "reason": "Figure 5 caption visibly reads 50/50 mm."
+      },
+      {
+        "ficha_index": 1,
+        "dimension_index": 5,
+        "status": "verified",
+        "value": null,
+        "value_max": null,
+        "reason": "Figure 5 caption visibly reads 69/69 mm."
+      },
+      {
+        "ficha_index": 1,
+        "dimension_index": 6,
+        "status": "verified",
+        "value": null,
+        "value_max": null,
+        "reason": "Figure 5 caption visibly reads 75/75 mm."
+      },
+      {
+        "ficha_index": 1,
+        "dimension_index": 7,
+        "status": "verified",
+        "value": null,
+        "value_max": null,
+        "reason": "Figure 6 caption visibly reads 35/35 mm."
+      },
+      {
+        "ficha_index": 1,
+        "dimension_index": 8,
+        "status": "verified",
+        "value": null,
+        "value_max": null,
+        "reason": "Figure 6 caption visibly reads 48/48 mm."
+      },
+      {
+        "ficha_index": 1,
+        "dimension_index": 9,
+        "status": "verified",
+        "value": null,
+        "value_max": null,
+        "reason": "Figure 7 caption visibly reads 45/32 mm; the proposed first size is 45 mm."
+      },
+      {
+        "ficha_index": 1,
+        "dimension_index": 10,
+        "status": "verified",
+        "value": null,
+        "value_max": null,
+        "reason": "Figure 8 caption visibly reads 57/80 mm; the proposed first size is 57 mm."
+      },
+      {
+        "ficha_index": 1,
+        "dimension_index": 11,
+        "status": "verified",
+        "value": null,
+        "value_max": null,
+        "reason": "Figure 10 caption visibly reads 100/100 mm."
+      },
+      {
+        "ficha_index": 1,
+        "dimension_index": 12,
+        "status": "verified",
+        "value": null,
+        "value_max": null,
+        "reason": "Figure 10 caption visibly reads 50/50 mm."
+      },
+      {
+        "ficha_index": 3,
+        "dimension_index": 0,
+        "status": "uncertain",
+        "value": null,
+        "value_max": null,
+        "reason": "Figure 21 visibly prints 400/400, but does not explicitly attach a unit to this dimension."
+      },
+      {
+        "ficha_index": 3,
+        "dimension_index": 1,
+        "status": "uncertain",
+        "value": null,
+        "value_max": null,
+        "reason": "Figure 21 visibly prints 300/300, but does not explicitly attach a unit to this dimension."
+      },
+      {
+        "ficha_index": 3,
+        "dimension_index": 2,
+        "status": "uncertain",
+        "value": null,
+        "value_max": null,
+        "reason": "Figure 21 visibly prints 200/200, but does not explicitly attach a unit to this dimension."
+      },
+      {
+        "ficha_index": 3,
+        "dimension_index": 3,
+        "status": "uncertain",
+        "value": null,
+        "value_max": null,
+        "reason": "Figure 21 visibly prints 150/150, but does not explicitly attach a unit to this dimension."
+      },
+      {
+        "ficha_index": 3,
+        "dimension_index": 4,
+        "status": "uncertain",
+        "value": null,
+        "value_max": null,
+        "reason": "Figure 21 visibly prints 100/100, but does not explicitly attach a unit to this dimension."
+      },
+      {
+        "ficha_index": 3,
+        "dimension_index": 5,
+        "status": "uncertain",
+        "value": null,
+        "value_max": null,
+        "reason": "Figure 21 visibly prints M4 395/395, but does not explicitly attach a unit to this dimension."
+      },
+      {
+        "ficha_index": 3,
+        "dimension_index": 6,
+        "status": "uncertain",
+        "value": null,
+        "value_max": null,
+        "reason": "Figure 21 visibly prints M3 296/296, but does not explicitly attach a unit to this dimension."
+      },
+      {
+        "ficha_index": 3,
+        "dimension_index": 7,
+        "status": "uncertain",
+        "value": null,
+        "value_max": null,
+        "reason": "Figure 21 visibly prints M2 197/197, but does not explicitly attach a unit to this dimension."
+      },
+      {
+        "ficha_index": 3,
+        "dimension_index": 8,
+        "status": "uncertain",
+        "value": null,
+        "value_max": null,
+        "reason": "Figure 21 visibly prints M1.5 147/147, but does not explicitly attach a unit to this dimension."
+      },
+      {
+        "ficha_index": 3,
+        "dimension_index": 9,
+        "status": "uncertain",
+        "value": null,
+        "value_max": null,
+        "reason": "Figure 21 visibly prints M1 97/97, but does not explicitly attach a unit to this dimension."
+      },
+      {
+        "ficha_index": 3,
+        "dimension_index": 10,
+        "status": "uncertain",
+        "value": null,
+        "value_max": null,
+        "reason": "Figure 21 visibly prints M0.5 48/48, but does not explicitly attach a unit to this dimension."
+      },
+      {
+        "ficha_index": 3,
+        "dimension_index": 11,
+        "status": "uncertain",
+        "value": null,
+        "value_max": null,
+        "reason": "Figure 22 visibly prints 250/250, but does not explicitly attach a unit to this dimension."
+      },
+      {
+        "ficha_index": 3,
+        "dimension_index": 12,
+        "status": "uncertain",
+        "value": null,
+        "value_max": null,
+        "reason": "Figure 22 visibly prints 250/375; the proposed value matches the first printed number, but no unit is explicitly attached."
+      },
+      {
+        "ficha_index": 3,
+        "dimension_index": 13,
+        "status": "uncertain",
+        "value": null,
+        "value_max": null,
+        "reason": "Figure 22 visibly prints 125/250; the proposed value matches the first printed number, but no unit is explicitly attached."
+      },
+      {
+        "ficha_index": 3,
+        "dimension_index": 14,
+        "status": "uncertain",
+        "value": null,
+        "value_max": null,
+        "reason": "Figure 22 visibly prints 62/250; the proposed value matches the first printed number, but no unit is explicitly attached."
+      },
+      {
+        "ficha_index": 3,
+        "dimension_index": 15,
+        "status": "uncertain",
+        "value": null,
+        "value_max": null,
+        "reason": "Figure 22 visibly states 1/4\u20131/8\u20131/16 divisions of a module, but the proposed unit \u201cdivisions\u201d is not explicitly printed as a unit."
+      }
+    ]
+  },
+  "automatic": [
+    {
+      "ficha_index": 1,
+      "dimension_index": 0,
+      "issues": []
+    },
+    {
+      "ficha_index": 1,
+      "dimension_index": 1,
+      "issues": []
+    },
+    {
+      "ficha_index": 1,
+      "dimension_index": 2,
+      "issues": []
+    },
+    {
+      "ficha_index": 1,
+      "dimension_index": 3,
+      "issues": []
+    },
+    {
+      "ficha_index": 1,
+      "dimension_index": 4,
+      "issues": []
+    },
+    {
+      "ficha_index": 1,
+      "dimension_index": 5,
+      "issues": []
+    },
+    {
+      "ficha_index": 1,
+      "dimension_index": 6,
+      "issues": []
+    },
+    {
+      "ficha_index": 1,
+      "dimension_index": 7,
+      "issues": []
+    },
+    {
+      "ficha_index": 1,
+      "dimension_index": 8,
+      "issues": []
+    },
+    {
+      "ficha_index": 1,
+      "dimension_index": 9,
+      "issues": []
+    },
+    {
+      "ficha_index": 1,
+      "dimension_index": 10,
+      "issues": []
+    },
+    {
+      "ficha_index": 1,
+      "dimension_index": 11,
+      "issues": []
+    },
+    {
+      "ficha_index": 1,
+      "dimension_index": 12,
+      "issues": []
+    },
+    {
+      "ficha_index": 3,
+      "dimension_index": 0,
+      "issues": []
+    },
+    {
+      "ficha_index": 3,
+      "dimension_index": 1,
+      "issues": []
+    },
+    {
+      "ficha_index": 3,
+      "dimension_index": 2,
+      "issues": []
+    },
+    {
+      "ficha_index": 3,
+      "dimension_index": 3,
+      "issues": []
+    },
+    {
+      "ficha_index": 3,
+      "dimension_index": 4,
+      "issues": []
+    },
+    {
+      "ficha_index": 3,
+      "dimension_index": 5,
+      "issues": []
+    },
+    {
+      "ficha_index": 3,
+      "dimension_index": 6,
+      "issues": []
+    },
+    {
+      "ficha_index": 3,
+      "dimension_index": 7,
+      "issues": []
+    },
+    {
+      "ficha_index": 3,
+      "dimension_index": 8,
+      "issues": []
+    },
+    {
+      "ficha_index": 3,
+      "dimension_index": 9,
+      "issues": []
+    },
+    {
+      "ficha_index": 3,
+      "dimension_index": 10,
+      "issues": []
+    },
+    {
+      "ficha_index": 3,
+      "dimension_index": 11,
+      "issues": []
+    },
+    {
+      "ficha_index": 3,
+      "dimension_index": 12,
+      "issues": []
+    },
+    {
+      "ficha_index": 3,
+      "dimension_index": 13,
+      "issues": []
+    },
+    {
+      "ficha_index": 3,
+      "dimension_index": 14,
+      "issues": []
+    },
+    {
+      "ficha_index": 3,
+      "dimension_index": 15,
+      "issues": [
+        "Unknown unit"
+      ]
+    }
+  ],
+  "usage": [
+    {
+      "prompt_tokens": 4264,
+      "completion_tokens": 2690
+    },
+    {
+      "prompt_tokens": 6177,
+      "completion_tokens": 1526
+    }
+  ]
+}

@@ -1,0 +1,233 @@
+{
+  "fichas": [
+    {
+      "id": "4122fb96e4bd1976-323-vision-0",
+      "pdf_page": 323,
+      "book_page": 310,
+      "chapter": "HEALTH",
+      "section": "Hospitals",
+      "title": "Children’s ward with 28 beds",
+      "summary": "Plan example for a children’s ward at Velbert City Hospital. The accompanying text recommends child-friendly design resembling a kindergarten, with provision for teaching, activities, play, and isolation where needed.",
+      "building_type": "Hospital ward",
+      "spaces": [
+        "Bedrooms",
+        "Doctor’s room",
+        "Nurses’ station",
+        "Personal wardrobe",
+        "Treatment room",
+        "Quiet room",
+        "Nurses’ lounge"
+      ],
+      "uses": [
+        "Paediatric inpatient care",
+        "Teaching, activities, and play",
+        "Isolation of patients when required"
+      ],
+      "furniture_equipment": [],
+      "dimensions": [],
+      "figure_refs": [
+        "1"
+      ],
+      "cross_refs": [],
+      "keywords": [
+        "children’s ward",
+        "paediatric care",
+        "isolation",
+        "kindergarten-like design"
+      ],
+      "tags_architectural": [
+        "adaptability"
+      ],
+      "confidence": 0.9
+    },
+    {
+      "id": "4122fb96e4bd1976-323-vision-1",
+      "pdf_page": 323,
+      "book_page": 310,
+      "chapter": "HEALTH",
+      "section": "Hospitals",
+      "title": "Patient rooms for radiology care",
+      "summary": "Plan examples show single- and two-bed rooms with strong radiation protection in a radiology ward’s controlled area, and a four-bed room equipped for basic care. The text says radiotherapy patients should be accommodated in single-bed rooms, with controlled and supervised areas separated in accordance with radiation protection requirements.",
+      "building_type": "Hospital ward",
+      "spaces": [
+        "Single-bed room",
+        "Two-bed room",
+        "Four-bed room",
+        "Controlled area"
+      ],
+      "uses": [
+        "Radiology patient accommodation",
+        "Basic patient care",
+        "Radiation protection"
+      ],
+      "furniture_equipment": [
+        "Basic-care equipment"
+      ],
+      "dimensions": [
+        {
+          "label": "Room width",
+          "value": 3.6,
+          "value_max": null,
+          "unit": "m",
+          "context": "Single- and two-bed room plan; each of the two rooms is dimensioned 3.60 m wide.",
+          "status": "uncertain",
+          "ocr_raw": "3.60"
+        },
+        {
+          "label": "Room depth",
+          "value": 7.2,
+          "value_max": null,
+          "unit": "m",
+          "context": "Single- and two-bed room plan; dimension shown along the room depth.",
+          "status": "uncertain",
+          "ocr_raw": "7.20"
+        },
+        {
+          "label": "Four-bed room width",
+          "value": 7.2,
+          "value_max": null,
+          "unit": "m",
+          "context": "Four-bed room plan; overall horizontal dimension shown beneath the room.",
+          "status": "uncertain",
+          "ocr_raw": "7.20"
+        }
+      ],
+      "figure_refs": [
+        "2",
+        "3"
+      ],
+      "cross_refs": [],
+      "keywords": [
+        "radiology",
+        "radiotherapy",
+        "radiation protection",
+        "patient room"
+      ],
+      "tags_architectural": [
+        "safety"
+      ],
+      "confidence": 0.87
+    },
+    {
+      "id": "4122fb96e4bd1976-323-vision-2",
+      "pdf_page": 323,
+      "book_page": 310,
+      "chapter": "HEALTH",
+      "section": "Hospitals",
+      "title": "Room unit for patients with mild mental illness",
+      "summary": "Plan example of a room unit for patients with mild mental illness and those needing care. The text recommends small care units, short circulation routes, and homely design to support patients’ sense of security.",
+      "building_type": "Psychiatric care unit",
+      "spaces": [
+        "Patient rooms",
+        "Circulation area"
+      ],
+      "uses": [
+        "Care of patients with mild mental illness",
+        "Care of patients needing assistance"
+      ],
+      "furniture_equipment": [],
+      "dimensions": [
+        {
+          "label": "Room-unit depth",
+          "value": 7.2,
+          "value_max": null,
+          "unit": "m",
+          "context": "Dimension marked vertically alongside the room-unit plan.",
+          "status": "uncertain",
+          "ocr_raw": "7.20"
+        },
+        {
+          "label": "First segment width",
+          "value": 3.6,
+          "value_max": null,
+          "unit": "m",
+          "context": "Room-unit plan, first segment in the horizontal dimension chain.",
+          "status": "uncertain",
+          "ocr_raw": "3.60"
+        },
+        {
+          "label": "Second segment width",
+          "value": 3.6,
+          "value_max": null,
+          "unit": "m",
+          "context": "Room-unit plan, second segment in the horizontal dimension chain.",
+          "status": "uncertain",
+          "ocr_raw": "3.60"
+        },
+        {
+          "label": "Third segment width",
+          "value": 7.2,
+          "value_max": null,
+          "unit": "m",
+          "context": "Room-unit plan, third segment in the horizontal dimension chain.",
+          "status": "uncertain",
+          "ocr_raw": "7.20"
+        }
+      ],
+      "figure_refs": [
+        "4"
+      ],
+      "cross_refs": [],
+      "keywords": [
+        "psychiatric care",
+        "room unit",
+        "short circulation routes",
+        "homely design"
+      ],
+      "tags_architectural": [
+        "circulation",
+        "spatial_proportion"
+      ],
+      "confidence": 0.87
+    },
+    {
+      "id": "4122fb96e4bd1976-323-vision-3",
+      "pdf_page": 323,
+      "book_page": 310,
+      "chapter": "HEALTH",
+      "section": "Hospitals",
+      "title": "Psychiatric care at Finsterwalde Hospital",
+      "summary": "Hospital plan example for psychiatric care, captioned as a 70-bed hospital. The drawings identify group-care arrangements labelled 17-bed and 18-bed, patient bedrooms, workrooms, day rooms, dining rooms, therapy spaces, and shared facilities. The accompanying text describes small care units of up to 18 patients and emphasizes short circulation routes and a homely environment.",
+      "building_type": "Psychiatric hospital department",
+      "spaces": [
+        "Group-care units",
+        "Bedrooms",
+        "Workrooms",
+        "Day rooms",
+        "Dining rooms",
+        "Bath room",
+        "Washroom",
+        "Workplace",
+        "Occupational therapy room",
+        "Therapy rooms",
+        "Hall",
+        "Changing rooms",
+        "Staff tea kitchen",
+        "On-call room",
+        "Doctor’s room"
+      ],
+      "uses": [
+        "Psychiatric inpatient care",
+        "Occupational and group therapy",
+        "Dining and social activities"
+      ],
+      "furniture_equipment": [],
+      "dimensions": [],
+      "figure_refs": [
+        "5"
+      ],
+      "cross_refs": [],
+      "keywords": [
+        "psychiatric care",
+        "group care",
+        "hospital plan",
+        "occupational therapy"
+      ],
+      "tags_architectural": [
+        "circulation",
+        "adaptability"
+      ],
+      "confidence": 0.9
+    }
+  ]
+}

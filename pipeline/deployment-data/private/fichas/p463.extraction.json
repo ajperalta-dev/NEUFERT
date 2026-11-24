@@ -1,0 +1,623 @@
+{
+  "fichas": [
+    {
+      "id": "4122fb96e4bd1976-463-vision-0",
+      "pdf_page": 463,
+      "book_page": 450,
+      "chapter": "AGRICULTURE",
+      "section": "Farmyards",
+      "title": "Dung and slurry production and drainage",
+      "summary": "Farm-animal dung and urine production varies with animal type, live weight, fodder and drink. The page describes average solid-dung and slurry production, storage considerations, and regulations concerning pollution risks and watercourses.",
+      "building_type": "Farmyard",
+      "spaces": [
+        "Animal housing",
+        "Solid dung storage",
+        "Slurry pit",
+        "Slurry tank",
+        "Watercourse buffer"
+      ],
+      "uses": [
+        "Collecting and storing animal dung, urine and cleaning water",
+        "Estimating average manure production",
+        "Reducing pollution from farmyard drainage and manure storage"
+      ],
+      "furniture_equipment": [
+        "Dung container",
+        "Slurry pit",
+        "Front loader",
+        "Rear loader",
+        "Rear slewing loader",
+        "Narrow spreader",
+        "Wide spreader",
+        "Pump",
+        "Compressor"
+      ],
+      "dimensions": [
+        {
+          "label": "Large animal unit live weight",
+          "value": 500.0,
+          "value_max": null,
+          "unit": "kg",
+          "context": "Definition of one large animal unit (LU).",
+          "status": "uncertain",
+          "ocr_raw": "1 LU = 500 kg live weight"
+        },
+        {
+          "label": "Straw litter quantity",
+          "value": 1.5,
+          "value_max": 2.0,
+          "unit": "kg/LU/day",
+          "context": "Normal litter quantity associated with solid dung.",
+          "status": "uncertain",
+          "ocr_raw": "The normal litter quantity of 1.5–2 kg of straw per LU/day"
+        },
+        {
+          "label": "Solid dung stacking height",
+          "value": 2.0,
+          "value_max": 2.5,
+          "unit": "m",
+          "context": "Stacking height resulting from the normal litter quantity.",
+          "status": "uncertain",
+          "ocr_raw": "results in a stacking height of solid dung of 2.0–2.5 m"
+        },
+        {
+          "label": "Dung slab area",
+          "value": 0.5,
+          "value_max": null,
+          "unit": "m²/LU × month",
+          "context": "Area equivalent given for solid-dung storage.",
+          "status": "uncertain",
+          "ocr_raw": "equivalent to a dung slab of 0.5 m²/LU × month"
+        },
+        {
+          "label": "Assumed dung area for storage period",
+          "value": 3.0,
+          "value_max": null,
+          "unit": "m²/LU",
+          "context": "Assumption corresponding to six months’ storage, used in the solid-dung discussion.",
+          "status": "uncertain",
+          "ocr_raw": "3 m² dung per LU is assumed (corresponds to 6 months’ storage)"
+        },
+        {
+          "label": "Solid-dung-related slurry production",
+          "value": 0.64,
+          "value_max": null,
+          "unit": "m³/LU × month",
+          "context": "Slurry production stated under the solid-dung discussion, with rainwater contribution assumed.",
+          "status": "uncertain",
+          "ocr_raw": "this gives slurry production of 0.64 m³/LU × month"
+        },
+        {
+          "label": "Free space above highest slurry level",
+          "value": 20.0,
+          "value_max": 30.0,
+          "unit": "cm",
+          "context": "Suggested free space in open slurry tanks to take rainwater.",
+          "status": "uncertain",
+          "ocr_raw": "a free space of 20–30 cm above the highest slurry level"
+        },
+        {
+          "label": "Milk-cow slurry production",
+          "value": 1.4,
+          "value_max": null,
+          "unit": "m³/LU × month",
+          "context": "Approximate slurry production for milk cows.",
+          "status": "uncertain",
+          "ocr_raw": "Milk cows produce about 1.4 m³/LU × month of slurry."
+        },
+        {
+          "label": "Bullock slurry production with maize silage",
+          "value": 1.0,
+          "value_max": null,
+          "unit": "m³/LU × month",
+          "context": "Approximate production under intensive fattening with maize silage fodder.",
+          "status": "uncertain",
+          "ocr_raw": "can reduce slurry production to about 1.0 m³/LU × month"
+        },
+        {
+          "label": "Watercourse separation",
+          "value": 10.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Minimum location distance from watercourses specified in the cited England and Wales regulations.",
+          "status": "uncertain",
+          "ocr_raw": "they may not be located within 10 m of watercourses that might become polluted"
+        }
+      ],
+      "figure_refs": [
+        "1"
+      ],
+      "cross_refs": [],
+      "keywords": [
+        "solid dung",
+        "slurry",
+        "dung drainage",
+        "manure production",
+        "pollution control",
+        "farmyard"
+      ],
+      "tags_architectural": [
+        "safety",
+        "adaptability"
+      ],
+      "confidence": 0.94
+    },
+    {
+      "id": "4122fb96e4bd1976-463-vision-1",
+      "pdf_page": 463,
+      "book_page": 450,
+      "chapter": "AGRICULTURE",
+      "section": "Farmyards",
+      "title": "Farmyard dung and slurry storage systems",
+      "summary": "Illustrated options for storing and removing solid dung and slurry include underground and earth tanks, overground tanks with pumping arrangements, dung stores above or beside slurry pits, and front or side access arrangements. The diagrams identify components and a few construction and layout dimensions.",
+      "building_type": "Farmyard manure storage facility",
+      "spaces": [
+        "Dung store",
+        "Slurry pit",
+        "Underground tank",
+        "Overground tank",
+        "Pumping station",
+        "Catchment duct",
+        "Sump"
+      ],
+      "uses": [
+        "Storing solid dung and slurry",
+        "Pumping and transferring slurry",
+        "Separating or combining solid-dung storage and slurry collection"
+      ],
+      "furniture_equipment": [
+        "Pump sump",
+        "Pump",
+        "Pumping station",
+        "Four-way sliding gate valve",
+        "Blow valve",
+        "Homogenising pump",
+        "Main sluice valve",
+        "Siphon",
+        "Protective fence",
+        "Wooden wall"
+      ],
+      "dimensions": [
+        {
+          "label": "Minimum opening",
+          "value": 80.0,
+          "value_max": null,
+          "unit": "× 80 cm",
+          "context": "Minimum opening indicated on the underground tank diagram.",
+          "status": "uncertain",
+          "ocr_raw": "minimum opening 80 × 80"
+        },
+        {
+          "label": "Minimum pump sump",
+          "value": 80.0,
+          "value_max": null,
+          "unit": "× 80 cm",
+          "context": "Minimum pump sump dimension indicated on the underground tank diagram.",
+          "status": "uncertain",
+          "ocr_raw": "pump sump minimum 80 × 80"
+        },
+        {
+          "label": "Earth tank side slope",
+          "value": 30.0,
+          "value_max": null,
+          "unit": "°",
+          "context": "Slope marked on the earth tank with plastic sealing layers diagram.",
+          "status": "uncertain",
+          "ocr_raw": "30°"
+        },
+        {
+          "label": "Protective fence distance",
+          "value": 10.5,
+          "value_max": null,
+          "unit": "m",
+          "context": "Dimension shown beside the protective fence in the earth tank diagram.",
+          "status": "uncertain",
+          "ocr_raw": "10.50"
+        },
+        {
+          "label": "Earth tank length",
+          "value": 7.5,
+          "value_max": null,
+          "unit": "m",
+          "context": "Length marked on the earth tank with plastic sealing layers diagram.",
+          "status": "uncertain",
+          "ocr_raw": "7.50"
+        },
+        {
+          "label": "Pipe diameter",
+          "value": 300.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Diameter notation on the overground tank with pumping station diagram.",
+          "status": "uncertain",
+          "ocr_raw": "dia. 300"
+        },
+        {
+          "label": "Transfer pump and stirrer distance",
+          "value": 9.0,
+          "value_max": 20.0,
+          "unit": "m",
+          "context": "Distance range indicated on the overground tank with slurry pit diagram.",
+          "status": "uncertain",
+          "ocr_raw": "9–20 m transfer pump and stirrer"
+        },
+        {
+          "label": "Minimum pump sump depth",
+          "value": 1.5,
+          "value_max": null,
+          "unit": "m",
+          "context": "Maximum depth notation shown at the pump sump in the overground tank diagram.",
+          "status": "uncertain",
+          "ocr_raw": "max. 1.5 m"
+        },
+        {
+          "label": "Solid dung store gradient",
+          "value": 2.0,
+          "value_max": 3.0,
+          "unit": "%",
+          "context": "Gradient indicated in the overground tank with pumping station drawing.",
+          "status": "uncertain",
+          "ocr_raw": "gradient 2–3%"
+        }
+      ],
+      "figure_refs": [
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "12"
+      ],
+      "cross_refs": [],
+      "keywords": [
+        "dung store",
+        "slurry tank",
+        "manure storage",
+        "pumping station",
+        "farmyard drainage"
+      ],
+      "tags_architectural": [
+        "circulation",
+        "safety",
+        "adaptability"
+      ],
+      "confidence": 0.87
+    },
+    {
+      "id": "4122fb96e4bd1976-463-vision-2",
+      "pdf_page": 463,
+      "book_page": 450,
+      "chapter": "AGRICULTURE",
+      "section": "Farmyards",
+      "title": "Animal dung and slurry production tables",
+      "summary": "Two tables compare solid-dung and slurry production for several animal and housing categories, and give selected nutrient contents. Values are reported using the table’s stated units; MC means moisture content, and solid dung marked with a footnote is mixed with litter.",
+      "building_type": "Farmyard reference data",
+      "spaces": [
+        "Animal housing",
+        "Solid dung store",
+        "Slurry store"
+      ],
+      "uses": [
+        "Estimating manure storage requirements by animal and housing type",
+        "Comparing manure production and nutrient content"
+      ],
+      "furniture_equipment": [],
+      "dimensions": [
+        {
+          "label": "Horse solid dung production",
+          "value": 7.5,
+          "value_max": null,
+          "unit": "dt/LU/month",
+          "context": "Solid dung production table; horse.",
+          "status": "uncertain",
+          "ocr_raw": "horse 7.5"
+        },
+        {
+          "label": "Cow, tethering stall solid dung production",
+          "value": 9.0,
+          "value_max": null,
+          "unit": "dt/LU/month",
+          "context": "Solid dung production table; cow, tethering stall.",
+          "status": "uncertain",
+          "ocr_raw": "cow, tethering stall 9.0"
+        },
+        {
+          "label": "Bullock, tethering stall solid dung production",
+          "value": 9.0,
+          "value_max": null,
+          "unit": "dt/LU/month",
+          "context": "Solid dung production table; bullock, tethering stall.",
+          "status": "uncertain",
+          "ocr_raw": "bullock, tethering stall 9.0"
+        },
+        {
+          "label": "Bullock, deep straw solid dung production",
+          "value": 15.0,
+          "value_max": null,
+          "unit": "dt/LU/month",
+          "context": "Solid dung production table; bullock, deep straw.",
+          "status": "uncertain",
+          "ocr_raw": "bullock, deep straw 15.0"
+        },
+        {
+          "label": "Sheep solid dung production",
+          "value": 6.5,
+          "value_max": null,
+          "unit": "dt/LU/month",
+          "context": "Solid dung production table; sheep.",
+          "status": "uncertain",
+          "ocr_raw": "sheep 6.5"
+        },
+        {
+          "label": "Pig solid dung production",
+          "value": 5.0,
+          "value_max": null,
+          "unit": "dt/LU/month",
+          "context": "Solid dung production table; pig.",
+          "status": "uncertain",
+          "ocr_raw": "pig 5.0"
+        },
+        {
+          "label": "Pig, deep litter solid dung production",
+          "value": 10.0,
+          "value_max": null,
+          "unit": "dt/LU/month",
+          "context": "Solid dung production table; pig, deep litter.",
+          "status": "uncertain",
+          "ocr_raw": "pig, deep litter 10.0"
+        },
+        {
+          "label": "Laying hen, dry droppings solid dung production",
+          "value": 4.6,
+          "value_max": null,
+          "unit": "dt/LU/month",
+          "context": "Droppings listed at 80% moisture content.",
+          "status": "uncertain",
+          "ocr_raw": "laying hen (dry droppings 80% MC) 4.6"
+        },
+        {
+          "label": "Laying hen, ground-kept droppings solid dung production",
+          "value": 5.5,
+          "value_max": null,
+          "unit": "dt/LU/month",
+          "context": "Droppings listed at 78% moisture content.",
+          "status": "uncertain",
+          "ocr_raw": "laying hen (ground kept droppings 78% MC) 5.5"
+        },
+        {
+          "label": "Fattening chicken solid dung production",
+          "value": 5.9,
+          "value_max": null,
+          "unit": "dt/LU/month",
+          "context": "Ground-kept droppings.",
+          "status": "uncertain",
+          "ocr_raw": "fattening chicken (ground kept droppings) 5.9"
+        },
+        {
+          "label": "Rabbit dry droppings solid dung production",
+          "value": 3.3,
+          "value_max": null,
+          "unit": "dt/LU/month",
+          "context": "Solid dung production table; rabbit, dry droppings.",
+          "status": "uncertain",
+          "ocr_raw": "rabbit (dry droppings) 3.3"
+        },
+        {
+          "label": "Horse slurry production",
+          "value": 1.0,
+          "value_max": null,
+          "unit": "m³/LU/month",
+          "context": "Slurry production column in the solid dung production and composition table.",
+          "status": "uncertain",
+          "ocr_raw": "horse 7.5 1.0"
+        },
+        {
+          "label": "Cow, tethering stall slurry production",
+          "value": 1.2,
+          "value_max": null,
+          "unit": "m³/LU/month",
+          "context": "Slurry production column in the solid dung production and composition table.",
+          "status": "uncertain",
+          "ocr_raw": "cow, tethering stall 9.0 1.2"
+        },
+        {
+          "label": "Bullock, tethering stall slurry production",
+          "value": 0.6,
+          "value_max": null,
+          "unit": "m³/LU/month",
+          "context": "Slurry production column in the solid dung production and composition table.",
+          "status": "uncertain",
+          "ocr_raw": "bullock, tethering stall 9.0 0.6"
+        },
+        {
+          "label": "Bullock, deep straw slurry production",
+          "value": 0.2,
+          "value_max": null,
+          "unit": "m³/LU/month",
+          "context": "Slurry production column; the printed footnote indicates mixed with litter.",
+          "status": "uncertain",
+          "ocr_raw": "bullock, deep straw 15.0 0.2 1)"
+        },
+        {
+          "label": "Sheep slurry production",
+          "value": 0.9,
+          "value_max": null,
+          "unit": "m³/LU/month",
+          "context": "Slurry production column in the solid dung production and composition table.",
+          "status": "uncertain",
+          "ocr_raw": "sheep 6.5 0.9"
+        },
+        {
+          "label": "Pig slurry production",
+          "value": 0.6,
+          "value_max": null,
+          "unit": "m³/LU/month",
+          "context": "Slurry production column in the solid dung production and composition table.",
+          "status": "uncertain",
+          "ocr_raw": "pig 5.0 0.6"
+        },
+        {
+          "label": "Pig, deep litter slurry production",
+          "value": 1.2,
+          "value_max": null,
+          "unit": "m³/LU/month",
+          "context": "Slurry production column; the printed footnote indicates mixed with litter.",
+          "status": "uncertain",
+          "ocr_raw": "pig, deep litter 10.0 1.2 1)"
+        },
+        {
+          "label": "Laying hen, dry droppings slurry production",
+          "value": 0.4,
+          "value_max": null,
+          "unit": "m³/LU/month",
+          "context": "Droppings listed at 80% moisture content.",
+          "status": "uncertain",
+          "ocr_raw": "laying hen (dry droppings 80% MC) 4.6 0.4"
+        },
+        {
+          "label": "Laying hen, ground-kept droppings slurry production",
+          "value": 0.7,
+          "value_max": null,
+          "unit": "m³/LU/month",
+          "context": "Droppings listed at 78% moisture content.",
+          "status": "uncertain",
+          "ocr_raw": "laying hen (ground kept droppings 78% MC) 5.5 0.7"
+        },
+        {
+          "label": "Fattening chicken slurry production",
+          "value": 0.8,
+          "value_max": null,
+          "unit": "m³/LU/month",
+          "context": "Ground-kept droppings.",
+          "status": "uncertain",
+          "ocr_raw": "fattening chicken (ground kept droppings) 5.9 0.8"
+        },
+        {
+          "label": "Rabbit dry droppings slurry production",
+          "value": 0.4,
+          "value_max": null,
+          "unit": "m³/LU/month",
+          "context": "Slurry production table; rabbit, dry droppings.",
+          "status": "uncertain",
+          "ocr_raw": "rabbit (dry droppings) 3.3 0.4"
+        },
+        {
+          "label": "Cow slurry production",
+          "value": 1.4,
+          "value_max": null,
+          "unit": "m³/LU/month",
+          "context": "Slurry production and composition table; cow.",
+          "status": "uncertain",
+          "ocr_raw": "cow 1.4"
+        },
+        {
+          "label": "Pig slurry production",
+          "value": 1.4,
+          "value_max": null,
+          "unit": "m³/LU/month",
+          "context": "Slurry production and composition table; pig.",
+          "status": "uncertain",
+          "ocr_raw": "pig 1.4"
+        },
+        {
+          "label": "Laying hen slurry production",
+          "value": 1.9,
+          "value_max": null,
+          "unit": "m³/LU/month",
+          "context": "Slurry production and composition table; laying hen.",
+          "status": "uncertain",
+          "ocr_raw": "laying hen 1.9"
+        }
+      ],
+      "figure_refs": [
+        "10",
+        "11"
+      ],
+      "cross_refs": [],
+      "keywords": [
+        "manure production",
+        "solid dung",
+        "slurry",
+        "livestock",
+        "nutrient content",
+        "moisture content"
+      ],
+      "tags_architectural": [],
+      "confidence": 0.78
+    },
+    {
+      "id": "4122fb96e4bd1976-463-vision-3",
+      "pdf_page": 463,
+      "book_page": 450,
+      "chapter": "AGRICULTURE",
+      "section": "Farmyards",
+      "title": "Gas traps for slurry pits and flowing slurry channels",
+      "summary": "Two gas-trap details for slurry pits and flowing slurry channels show a dip stick, dam nose, shaft-pipe siphon and stoneware pipe components. The drawing labels pipe diameters and a minimum gradient.",
+      "building_type": "Farmyard slurry drainage infrastructure",
+      "spaces": [
+        "Slurry pit",
+        "Flowing slurry channel",
+        "Drainage shaft"
+      ],
+      "uses": [
+        "Trapping gas in slurry pits and flowing slurry channels",
+        "Conveying slurry through drainage pipes"
+      ],
+      "furniture_equipment": [
+        "Dip stick",
+        "Dam nose",
+        "Stoneware pipe",
+        "Shaft-pipe siphon",
+        "Intermediate piece",
+        "45° bends"
+      ],
+      "dimensions": [
+        {
+          "label": "Pipe diameter",
+          "value": 300.0,
+          "value_max": 400.0,
+          "unit": "mm",
+          "context": "Diameter range indicated for the gas-trap pipework.",
+          "status": "uncertain",
+          "ocr_raw": "Ø300–400 mm"
+        },
+        {
+          "label": "Minimum gradient",
+          "value": 0.5,
+          "value_max": null,
+          "unit": "%",
+          "context": "Minimum gradient indicated on the upper gas-trap detail.",
+          "status": "uncertain",
+          "ocr_raw": "minimum gradient 0.5%"
+        },
+        {
+          "label": "Approximate dimension",
+          "value": 100.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Approximate dimension marked on the lower shaft-pipe siphon detail.",
+          "status": "uncertain",
+          "ocr_raw": "+ca. 100"
+        }
+      ],
+      "figure_refs": [
+        "13"
+      ],
+      "cross_refs": [],
+      "keywords": [
+        "gas trap",
+        "slurry pit",
+        "slurry channel",
+        "siphon",
+        "drainage"
+      ],
+      "tags_architectural": [
+        "safety"
+      ],
+      "confidence": 0.84
+    }
+  ]
+}

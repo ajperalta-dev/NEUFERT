@@ -1,0 +1,336 @@
+{
+  "fichas": [
+    {
+      "id": "4122fb96e4bd1976-305-vision-0",
+      "pdf_page": 305,
+      "book_page": 292,
+      "chapter": "HEALTH",
+      "section": "Hospitals",
+      "title": "Compact hospital planning and space allocation",
+      "summary": "Planning guidance for a compact hospital of approximately 200 beds, including departmental relationships, site organization, space allocation, and provisions for future expansion and changes of use. The site diagram shows patient gardens, staff and visitor parking, emergency and ambulance access, supply and disposal, outpatient services, an operating theatre, X-ray, administration, and a two-corridor system.",
+      "building_type": "Hospital",
+      "spaces": [
+        "Care wards",
+        "Special ward",
+        "Outpatient area",
+        "Functional diagnosis and endoscopy",
+        "Accident and emergency",
+        "X-ray",
+        "Administration",
+        "Cafe",
+        "Utility yard",
+        "Supply and disposal",
+        "Patient garden",
+        "Staff parking",
+        "Visitor/patient parking",
+        "Operating theatre",
+        "Ambulance access",
+        "Main entrance"
+      ],
+      "uses": [
+        "Inpatient care",
+        "Outpatient care",
+        "Emergency care",
+        "Diagnosis and treatment",
+        "Hospital administration",
+        "Supply and waste handling",
+        "Staff and visitor access",
+        "Future expansion and phased construction"
+      ],
+      "furniture_equipment": [],
+      "dimensions": [
+        {
+          "label": "Hospital capacity",
+          "value": 200.0,
+          "value_max": null,
+          "unit": "beds",
+          "context": "Approximate capacity of the compact hospital shown in the vertical diagram and site plan.",
+          "status": "uncertain",
+          "ocr_raw": "Vertical diagram of compactly structured hospital with approx. 200 beds"
+        },
+        {
+          "label": "Care ward capacity",
+          "value": 42.0,
+          "value_max": 48.0,
+          "unit": "beds",
+          "context": "Capacity shown for care wards on the first, second, and third floors in the vertical diagram.",
+          "status": "uncertain",
+          "ocr_raw": "Care 42–48 beds"
+        },
+        {
+          "label": "Special ward capacity",
+          "value": 30.0,
+          "value_max": null,
+          "unit": "beds",
+          "context": "Special ward shown in the vertical diagram.",
+          "status": "uncertain",
+          "ocr_raw": "Special ward 30 beds"
+        },
+        {
+          "label": "Usable area per bed",
+          "value": 42.0,
+          "value_max": null,
+          "unit": "m2/bed",
+          "context": "Approximate usable area assumed for new hospitals intended for regular provision.",
+          "status": "uncertain",
+          "ocr_raw": "approx. 42 m2 usable area per bed"
+        },
+        {
+          "label": "Gross built volume per bed",
+          "value": 200.0,
+          "value_max": 280.0,
+          "unit": "m3/bed",
+          "context": "Approximate gross built volume assumed per bed for new hospitals intended for regular provision.",
+          "status": "uncertain",
+          "ocr_raw": "approx. 200–280 m3 per bed"
+        },
+        {
+          "label": "Site area",
+          "value": 15000.0,
+          "value_max": null,
+          "unit": "m2",
+          "context": "Approximate site area for a hospital of approximately 200 beds and 3–4 storeys, Breitfuss type.",
+          "status": "uncertain",
+          "ocr_raw": "Site: approx. 15,000 m2 for hospital with approx. 200 beds and 3–4 storeys, Breitfuss type"
+        },
+        {
+          "label": "Number of storeys",
+          "value": 3.0,
+          "value_max": 4.0,
+          "unit": "storeys",
+          "context": "Approximate storey count stated for the Breitfuss-type hospital site example.",
+          "status": "uncertain",
+          "ocr_raw": "3–4 storeys"
+        }
+      ],
+      "figure_refs": [
+        "1 — Vertical diagram of compactly structured hospital with approx. 200 beds",
+        "2 — Site: approx. 15,000 m2 for hospital with approx. 200 beds and 3–4 storeys, Breitfuss type"
+      ],
+      "cross_refs": [],
+      "keywords": [
+        "hospital planning",
+        "space allocation",
+        "compact hospital",
+        "site planning",
+        "phased construction",
+        "departmental relationships"
+      ],
+      "tags_architectural": [
+        "circulation",
+        "adaptability"
+      ],
+      "confidence": 0.96
+    },
+    {
+      "id": "4122fb96e4bd1976-305-vision-1",
+      "pdf_page": 305,
+      "book_page": 292,
+      "chapter": "HEALTH",
+      "section": "Hospitals",
+      "title": "Modular coordination for hospital design",
+      "summary": "The page recommends modular coordination as the basis for hospital design. A reference system, basic module, and multiples of the module coordinate the purpose, location, and dimensions of building elements. A basic grid in horizontal and vertical directions defines the load-bearing structure; modular coordination is described as supporting shorter construction times and simpler replacement of finishing elements.",
+      "building_type": "Hospital",
+      "spaces": [
+        "Hospital building elements",
+        "Horizontal and vertical building grid"
+      ],
+      "uses": [
+        "Coordinate building-element dimensions and locations",
+        "Establish the basic grid and load-bearing structure",
+        "Facilitate construction and replacement of finishing elements"
+      ],
+      "furniture_equipment": [],
+      "dimensions": [
+        {
+          "label": "Preferred module",
+          "value": 1.2,
+          "value_max": null,
+          "unit": "m",
+          "context": "Preferred dimension expressed as 12 M for hospital building; OCR prints the equivalence 12 M = 1.20 m.",
+          "status": "uncertain",
+          "ocr_raw": "preferred dimension of 12 M = 1.20 m"
+        },
+        {
+          "label": "Alternative module",
+          "value": 6.0,
+          "value_max": null,
+          "unit": "M",
+          "context": "Alternative preferred module if the 12 M module is too coarse.",
+          "status": "uncertain",
+          "ocr_raw": "preferred dimensions of 6 M or 3 M can be chosen"
+        },
+        {
+          "label": "Alternative module",
+          "value": 3.0,
+          "value_max": null,
+          "unit": "M",
+          "context": "Alternative preferred module if the 12 M module is too coarse.",
+          "status": "uncertain",
+          "ocr_raw": "preferred dimensions of 6 M or 3 M can be chosen"
+        }
+      ],
+      "figure_refs": [],
+      "cross_refs": [],
+      "keywords": [
+        "modular coordination",
+        "reference system",
+        "basic module",
+        "building grid",
+        "load-bearing structure"
+      ],
+      "tags_architectural": [
+        "modularity",
+        "adaptability"
+      ],
+      "confidence": 0.97
+    },
+    {
+      "id": "4122fb96e4bd1976-305-vision-2",
+      "pdf_page": 305,
+      "book_page": 292,
+      "chapter": "HEALTH",
+      "section": "Hospitals",
+      "title": "Structural grid for hospital departments",
+      "summary": "Structural-grid guidance emphasizes route planning and zoning for main functions, subsidiary functions, and traffic. Grids of 7.20 m or 7.80 m are cited as successful in practice; a smaller 3.60 m × 7.20 m grid is also possible. The illustrated examination and treatment-area diagram shows a 28.80 m building depth and additional grid and zone dimensions. Reinforced-concrete slabs without downstand beams are recommended to simplify service routing.",
+      "building_type": "Hospital",
+      "spaces": [
+        "Examination and treatment area",
+        "Treatment zone",
+        "Service zone",
+        "Inner zone",
+        "Office zone",
+        "Corridors",
+        "Operating theatres",
+        "X-ray department",
+        "Lecture rooms",
+        "Demonstration rooms",
+        "Endoscopy rooms",
+        "Laboratory rooms",
+        "Supply and disposal rooms",
+        "Switchgear rooms",
+        "Service and washrooms",
+        "Inner courtyard",
+        "Stairs",
+        "Lifts",
+        "Sanitary rooms",
+        "Archive",
+        "Administration",
+        "Reception",
+        "Chapel",
+        "Staff social rooms",
+        "Doctors’ rooms"
+      ],
+      "uses": [
+        "Organize departmental zones and traffic",
+        "Plan routes and circulation",
+        "Accommodate operational departments",
+        "Route service installations"
+      ],
+      "furniture_equipment": [
+        "Structural columns",
+        "Reinforced-concrete slabs"
+      ],
+      "dimensions": [
+        {
+          "label": "Structural grid spacing",
+          "value": 7.2,
+          "value_max": null,
+          "unit": "m",
+          "context": "One of the structural grid spacings reported as successful in practice; also shown repeatedly in the diagram.",
+          "status": "uncertain",
+          "ocr_raw": "Structural grids of 7.20 m or 7.80 m have proved successful in practice."
+        },
+        {
+          "label": "Structural grid spacing",
+          "value": 7.8,
+          "value_max": null,
+          "unit": "m",
+          "context": "One of the structural grid spacings reported as successful in practice.",
+          "status": "uncertain",
+          "ocr_raw": "Structural grids of 7.20 m or 7.80 m have proved successful in practice."
+        },
+        {
+          "label": "Smaller structural grid",
+          "value": 3.6,
+          "value_max": null,
+          "unit": "m",
+          "context": "First dimension of the example smaller structural grid.",
+          "status": "uncertain",
+          "ocr_raw": "Smaller structural grids (e.g. 3.60 m x 7.20 m) are also possible"
+        },
+        {
+          "label": "Smaller structural grid",
+          "value": 7.2,
+          "value_max": null,
+          "unit": "m",
+          "context": "Second dimension of the example smaller structural grid; the printed two-axis expression is 3.60 m x 7.20 m.",
+          "status": "uncertain",
+          "ocr_raw": "Smaller structural grids (e.g. 3.60 m x 7.20 m) are also possible"
+        },
+        {
+          "label": "Building depth on base floor",
+          "value": 28.8,
+          "value_max": null,
+          "unit": "m",
+          "context": "Building depth dimension shown above the structural-grid diagram.",
+          "status": "uncertain",
+          "ocr_raw": "28.80 m building depth on base floor"
+        },
+        {
+          "label": "Grid dimension",
+          "value": 3.6,
+          "value_max": null,
+          "unit": "m",
+          "context": "Repeated vertical grid dimension indicated at the left of the structural-grid diagram.",
+          "status": "uncertain",
+          "ocr_raw": "3.60"
+        },
+        {
+          "label": "Zone dimension",
+          "value": 4.8,
+          "value_max": null,
+          "unit": "m",
+          "context": "Dimension marked within the examination and treatment-area structural-grid diagram.",
+          "status": "uncertain",
+          "ocr_raw": "4.80"
+        },
+        {
+          "label": "Zone dimension",
+          "value": 2.4,
+          "value_max": null,
+          "unit": "m",
+          "context": "Dimension marked within the examination and treatment-area structural-grid diagram.",
+          "status": "uncertain",
+          "ocr_raw": "2.40"
+        },
+        {
+          "label": "Operating theatre area",
+          "value": 40.0,
+          "value_max": null,
+          "unit": "m2",
+          "context": "Approximate area of larger rooms such as operating theatres, noted in the structural-grid discussion.",
+          "status": "uncertain",
+          "ocr_raw": "operating theatres (approx. 40 m2)"
+        }
+      ],
+      "figure_refs": [
+        "3 — Structural grid for examination and treatment area"
+      ],
+      "cross_refs": [],
+      "keywords": [
+        "structural grid",
+        "column spacing",
+        "department zoning",
+        "service routing",
+        "examination and treatment"
+      ],
+      "tags_architectural": [
+        "circulation",
+        "modularity",
+        "spatial_proportion"
+      ],
+      "confidence": 0.95
+    }
+  ]
+}

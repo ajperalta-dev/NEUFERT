@@ -1,0 +1,128 @@
+{
+  "fichas": [
+    {
+      "id": "4122fb96e4bd1976-486-vision-0",
+      "pdf_page": 486,
+      "book_page": 473,
+      "chapter": "BUILDING SERVICES",
+      "section": "Building Physics",
+      "title": "Thermal insulation construction methods",
+      "summary": "Compares traditional construction without a vapour barrier, warm-roof and warm-façade construction with vapour barriers, and construction with rear-ventilated outer skins. Describes layer arrangements, condensation risks, ventilation requirements, and precautions for insulated façades.",
+      "building_type": "Building envelopes and roofs",
+      "spaces": [],
+      "uses": [
+        "Reduce heat transfer through walls and roofs",
+        "Limit condensation within building elements",
+        "Ventilate rear-ventilated cladding and roof assemblies"
+      ],
+      "furniture_equipment": [
+        "Water-repellent insulation",
+        "Thermal insulation",
+        "Vapour barrier",
+        "Waterproofing",
+        "Fabric-reinforced render",
+        "Plasterboard",
+        "Gravel",
+        "Roof covering and battens",
+        "Vapour-permeable underlay",
+        "Windproof foil"
+      ],
+      "dimensions": [
+        {
+          "label": "Minimum air-gap width for panel-like external skin",
+          "value": 20.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Rear-ventilated outer skin",
+          "status": "uncertain",
+          "ocr_raw": "The width of the air gap with panel-like external skin amounts to min. 20 mm"
+        },
+        {
+          "label": "Minimum air-gap width for brickwork outer skin",
+          "value": 40.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Rear-ventilated outer skin",
+          "status": "uncertain",
+          "ocr_raw": "or for brickwork outer skin min. 40 mm."
+        },
+        {
+          "label": "Minimum fall between air inlet and outlet",
+          "value": 10.0,
+          "value_max": null,
+          "unit": "%",
+          "context": "Functional ventilation",
+          "status": "uncertain",
+          "ocr_raw": "Functional ventilation requires a height difference (minimum fall 10%) between air inlet and outlet."
+        }
+      ],
+      "figure_refs": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "cross_refs": [
+        "p. 472",
+        "p. 92"
+      ],
+      "keywords": [
+        "thermal insulation",
+        "vapour barrier",
+        "condensation",
+        "rear ventilation",
+        "warm roof",
+        "warm façade",
+        "cavity insulation"
+      ],
+      "tags_architectural": [
+        "ventilation"
+      ],
+      "confidence": 0.97
+    },
+    {
+      "id": "4122fb96e4bd1976-486-vision-1",
+      "pdf_page": 486,
+      "book_page": 473,
+      "chapter": "BUILDING SERVICES",
+      "section": "Building Physics",
+      "title": "Thermal bridges and condensation",
+      "summary": "Thermal bridges are parts of building elements with less thermal insulation than surrounding areas. They can lower internal surface temperatures and cause condensation. The page illustrates condensation at corners and junctions and describes ways to improve internal surface temperatures; it also explains how surface-area relationships affect heat loss and condensation risk.",
+      "building_type": "Building envelope junctions",
+      "spaces": [],
+      "uses": [
+        "Identify thermal bridges in building elements",
+        "Reduce condensation and mould risk at internal surfaces",
+        "Improve internal surface temperatures at corners and junctions"
+      ],
+      "furniture_equipment": [
+        "Insulation layer",
+        "External concrete wall",
+        "Internal concrete wall",
+        "Masonry"
+      ],
+      "dimensions": [],
+      "figure_refs": [
+        "7",
+        "8",
+        "9",
+        "10"
+      ],
+      "cross_refs": [
+        "p. 471"
+      ],
+      "keywords": [
+        "thermal bridge",
+        "condensation",
+        "internal corner",
+        "external corner",
+        "surface temperature",
+        "heat loss"
+      ],
+      "tags_architectural": [],
+      "confidence": 0.96
+    }
+  ]
+}

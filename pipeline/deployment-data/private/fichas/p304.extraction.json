@@ -1,0 +1,217 @@
+{
+  "fichas": [
+    {
+      "id": "4122fb96e4bd1976-304-vision-0",
+      "pdf_page": 304,
+      "book_page": 291,
+      "chapter": "HEALTH",
+      "section": "Hospitals",
+      "title": "Hospitals: General, Modular Grid",
+      "summary": "Overview of hospital planning, operational links, space guidelines, and the functional organization of general, teaching, and specialist hospitals. The page emphasizes economical room allocation, short connections between departments, flexibility, and smooth traffic flow. It includes a space guideline for a general hospital with approximately 300 beds and diagrams of departmental cooperation.",
+      "building_type": "Hospital",
+      "spaces": [
+        "Examination and treatment",
+        "Care",
+        "Administration",
+        "Social services",
+        "Supply and waste disposal",
+        "Services",
+        "Residential areas",
+        "Tuition and research areas",
+        "Outpatient area"
+      ],
+      "uses": [
+        "Treating and caring for patients with acute and chronic illnesses",
+        "Medical examination and treatment",
+        "Inpatient care",
+        "Hospital administration and social services",
+        "Supply and waste disposal",
+        "Teaching and research in university hospitals"
+      ],
+      "furniture_equipment": [
+        "Diagnostic and therapeutic equipment",
+        "Medical equipment",
+        "Fittings and furnishings",
+        "Lecture theatres",
+        "Demonstration rooms"
+      ],
+      "dimensions": [
+        {
+          "label": "Hospital capacity in space-guideline example",
+          "value": 300.0,
+          "value_max": null,
+          "unit": "beds",
+          "context": "The space guideline is for a general hospital with regular provision and approximately 300 beds.",
+          "status": "uncertain",
+          "ocr_raw": "For a general hospital with regular provision and approx. 300 beds"
+        },
+        {
+          "label": "Investigation and treatment usable area per bed",
+          "value": 12.0,
+          "value_max": null,
+          "unit": "m²/bed",
+          "context": "Operational departments; usable area per bed.",
+          "status": "uncertain",
+          "ocr_raw": "1.00 investigation and treatment 12.0"
+        },
+        {
+          "label": "Care usable area per bed",
+          "value": 18.0,
+          "value_max": null,
+          "unit": "m²/bed",
+          "context": "Operational departments; usable area per bed.",
+          "status": "uncertain",
+          "ocr_raw": "2.00 care 18.0"
+        },
+        {
+          "label": "Administration usable area per bed",
+          "value": 2.0,
+          "value_max": null,
+          "unit": "m²/bed",
+          "context": "Operational departments; usable area per bed.",
+          "status": "uncertain",
+          "ocr_raw": "3.00 administration 2.0"
+        },
+        {
+          "label": "Social services usable area per bed",
+          "value": 3.0,
+          "value_max": null,
+          "unit": "m²/bed",
+          "context": "Operational departments; usable area per bed.",
+          "status": "uncertain",
+          "ocr_raw": "4.00 social services 3.0"
+        },
+        {
+          "label": "Supply and waste disposal usable area per bed",
+          "value": 7.0,
+          "value_max": null,
+          "unit": "m²/bed",
+          "context": "Operational departments; usable area per bed.",
+          "status": "uncertain",
+          "ocr_raw": "5.00 supply and waste disposal 7.0"
+        },
+        {
+          "label": "Total usable area per bed",
+          "value": 42.0,
+          "value_max": null,
+          "unit": "m²/bed",
+          "context": "Total usable area in the space-guideline table.",
+          "status": "uncertain",
+          "ocr_raw": "Total usable area 42.0 m²"
+        },
+        {
+          "label": "Operational area per bed",
+          "value": 8.0,
+          "value_max": null,
+          "unit": "m²/bed",
+          "context": "Space guideline; operational area.",
+          "status": "uncertain",
+          "ocr_raw": "operational area 8.0 m²"
+        },
+        {
+          "label": "Traffic area per bed",
+          "value": 19.0,
+          "value_max": null,
+          "unit": "m²/bed",
+          "context": "Space guideline; traffic area.",
+          "status": "uncertain",
+          "ocr_raw": "traffic area 19.0 m²"
+        },
+        {
+          "label": "Net floor area per bed",
+          "value": 69.0,
+          "value_max": null,
+          "unit": "m²/bed",
+          "context": "Total net floor area in the space-guideline table.",
+          "status": "uncertain",
+          "ocr_raw": "Total net floor area 69.0 m²"
+        },
+        {
+          "label": "Construction area per bed",
+          "value": 11.0,
+          "value_max": null,
+          "unit": "m²/bed",
+          "context": "Newbuild framed construction; construction area.",
+          "status": "uncertain",
+          "ocr_raw": "construction area (newbuild framed construction) 11.0 m²"
+        },
+        {
+          "label": "Gross floor area per bed",
+          "value": 80.0,
+          "value_max": null,
+          "unit": "m²/bed",
+          "context": "Total gross floor area in the space-guideline table.",
+          "status": "uncertain",
+          "ocr_raw": "Total gross floor area 80.0 m²"
+        },
+        {
+          "label": "Gross floor area to usable area ratio",
+          "value": 1.9,
+          "value_max": null,
+          "unit": "ratio",
+          "context": "The printed table gives gross floor area/usable area as approximately 1.9.",
+          "status": "uncertain",
+          "ocr_raw": "gross floor area/usable area ≈ 1.9"
+        },
+        {
+          "label": "Care area to examination and treatment area ratio",
+          "value": 1.0,
+          "value_max": null,
+          "unit": "ratio",
+          "context": "The text says the ratio of areas for care to areas for examination and treatment is approaching 1:1; retain the complete printed ratio.",
+          "status": "uncertain",
+          "ocr_raw": "the ratio of the areas for care to the areas for examination and treatment is approaching 1:1"
+        },
+        {
+          "label": "Basic-provision hospital capacity upper guideline",
+          "value": 240.0,
+          "value_max": null,
+          "unit": "beds",
+          "context": "Hospitals are divided by provision category; basic provision is up to about 240 beds.",
+          "status": "uncertain",
+          "ocr_raw": "basic provision (up to about 240 beds)"
+        },
+        {
+          "label": "Normal-provision hospital capacity upper guideline",
+          "value": 520.0,
+          "value_max": null,
+          "unit": "beds",
+          "context": "Hospitals are divided by provision category; normal provision is up to about 520 beds.",
+          "status": "uncertain",
+          "ocr_raw": "normal provision (up to about 520 beds)"
+        },
+        {
+          "label": "Main-hospital capacity upper guideline",
+          "value": 800.0,
+          "value_max": null,
+          "unit": "beds",
+          "context": "Hospitals are divided by provision category; main hospitals are up to 800 beds.",
+          "status": "uncertain",
+          "ocr_raw": "main hospitals (up to 800 beds)"
+        }
+      ],
+      "figure_refs": [
+        "1 Operational links",
+        "2 Space guidelines for a general hospital",
+        "3 Diagram of cooperation between medical specialist departments"
+      ],
+      "cross_refs": [],
+      "keywords": [
+        "hospital planning",
+        "operational links",
+        "space guidelines",
+        "general hospital",
+        "university teaching hospital",
+        "specialist hospital",
+        "departmental cooperation",
+        "modular grid"
+      ],
+      "tags_architectural": [
+        "circulation",
+        "adaptability",
+        "spatial_proportion"
+      ],
+      "confidence": 0.98
+    }
+  ]
+}

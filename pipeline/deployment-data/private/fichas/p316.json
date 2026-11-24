@@ -1,0 +1,156 @@
+{
+  "fichas": [
+    {
+      "id": "4122fb96e4bd1976-316-vision-0",
+      "pdf_page": 316,
+      "book_page": 303,
+      "chapter": "HEALTH",
+      "section": "Hospitals",
+      "title": "Maternity unit and delivery suite",
+      "summary": "The maternity unit accommodates normal births and complications, with delivery rooms and provision for caesarean births in or near a theatre. It should connect to post-natal and baby-care areas. The delivery suite includes space for midwives and observation, labour and delivery rooms, and staff and patient support spaces.",
+      "building_type": "Hospital maternity unit",
+      "spaces": [
+        "Special delivery room",
+        "Delivery rooms",
+        "Labour room",
+        "Midwife room",
+        "Observation area",
+        "Parents’ lounge",
+        "Staff rest room",
+        "Staff changing rooms",
+        "Clean and dirty workrooms",
+        "Supplies room",
+        "Waste room",
+        "Reception",
+        "Toilets for staff and patients",
+        "Emergency treatment room",
+        "Abdominal treatment room",
+        "Corridor"
+      ],
+      "uses": [
+        "Normal births",
+        "Births involving complications",
+        "Caesarean births",
+        "Midwife work and observation",
+        "Staff support and changing",
+        "Patient reception and treatment"
+      ],
+      "furniture_equipment": [
+        "Changing table with integrated baby bath",
+        "Radiant heater",
+        "Large observation window",
+        "Relaxation bath"
+      ],
+      "dimensions": [],
+      "figure_refs": [
+        "1 — Maternity/birth assistance, St Elisabeth Hospital, Halle",
+        "2 — Waldbröl District Hospital"
+      ],
+      "cross_refs": [],
+      "keywords": [
+        "maternity unit",
+        "delivery suite",
+        "birth",
+        "caesarean",
+        "midwife",
+        "post-natal care",
+        "baby care"
+      ],
+      "tags_architectural": [
+        "circulation",
+        "adaptability"
+      ],
+      "confidence": 0.95
+    },
+    {
+      "id": "4122fb96e4bd1976-316-vision-1",
+      "pdf_page": 316,
+      "book_page": 303,
+      "chapter": "HEALTH",
+      "section": "Hospitals",
+      "title": "Radiotherapy department",
+      "summary": "Radiotherapy departments require treatment rooms with changing facilities for ambulant patients and waiting space for bedbound patients, alongside clinical, technical, and support rooms. Radiation protection is provided by lead inserts or thick concrete walls. Heavy equipment and shielding favor basement or ground-floor locations. Figures show linear-accelerator and radiotherapy department layouts.",
+      "building_type": "Hospital radiotherapy department",
+      "spaces": [
+        "Treatment rooms",
+        "Changing cubicles",
+        "Waiting area",
+        "Doctors’ rooms",
+        "Switch room",
+        "Localisation room",
+        "Services rooms",
+        "Film development room",
+        "Workshop",
+        "Physics laboratory",
+        "Dose-planning room",
+        "Physicist’s room",
+        "Staff rest room",
+        "Reception",
+        "Staff changing room",
+        "Store",
+        "Shower",
+        "Linear accelerator room"
+      ],
+      "uses": [
+        "Radiation therapy for tumours",
+        "Treatment of ambulant patients",
+        "Waiting for bedbound patients",
+        "Radiation planning and localisation",
+        "Physics support and equipment servicing"
+      ],
+      "furniture_equipment": [
+        "Linear accelerator",
+        "Radiation therapy equipment",
+        "Lead inserts",
+        "Concrete radiation-shielding walls"
+      ],
+      "dimensions": [
+        {
+          "label": "Clear ceiling height of radiation rooms",
+          "value": 3.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Required clear ceiling height.",
+          "status": "verified",
+          "ocr_raw": "The clear ceiling\nheight of radiation rooms must be 3.00 m"
+        },
+        {
+          "label": "Concrete wall thickness, primary radiation area",
+          "value": 3.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Upper thickness stated for the treatment and examination area in the primary radiation area; depends on the exact equipment.",
+          "status": "verified",
+          "ocr_raw": "the concrete walls\ncan, depending on the exact equipment, be up to 3.00 m thick for\nthe treatment and examination area in the primary radiation area"
+        },
+        {
+          "label": "Concrete wall thickness, secondary area",
+          "value": 1.5,
+          "value_max": null,
+          "unit": "m",
+          "context": "Upper thickness stated for the secondary area; depends on the exact equipment.",
+          "status": "verified",
+          "ocr_raw": "and up to 1.50 m thick for the secondary area"
+        }
+      ],
+      "figure_refs": [
+        "3 — Linear accelerator department",
+        "4 — Radiation therapy department, Werner-Forssmann Hospital, Eberswalde"
+      ],
+      "cross_refs": [],
+      "keywords": [
+        "radiotherapy",
+        "radiation therapy",
+        "linear accelerator",
+        "radiation protection",
+        "shielding",
+        "hospital planning"
+      ],
+      "tags_architectural": [
+        "safety",
+        "spatial_proportion"
+      ],
+      "confidence": 0.97
+    }
+  ]
+}

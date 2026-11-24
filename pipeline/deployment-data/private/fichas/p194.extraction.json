@@ -1,0 +1,345 @@
+{
+  "fichas": [
+    {
+      "id": "4122fb96e4bd1976-194-vision-0",
+      "pdf_page": 194,
+      "book_page": 181,
+      "chapter": "ACCOMMODATION",
+      "section": "Catering",
+      "title": "Large kitchens and communal catering",
+      "summary": "Overview of large-kitchen planning for communal catering. The page describes conventional cook-and-serve and cook-and-chill systems, including separation of clean and unclean areas, meal production and service, and cook-chill assembly kitchens. A chart relates kitchen and utility-room space per person to the number of persons; its curves are labeled by room group.",
+      "building_type": "Large kitchen",
+      "spaces": [
+        "Main kitchen",
+        "Cold kitchen",
+        "Cake shop",
+        "Wash cabinet",
+        "Vegetable preparation",
+        "Adjoining rooms",
+        "Meat and fish processing",
+        "Salad kitchen",
+        "Refrigerator",
+        "Stocks"
+      ],
+      "uses": [
+        "Prepare and serve meals to large groups",
+        "Produce, chill, store, portion and reheat meals",
+        "Support communal catering in offices, hospitals, factories, care homes, student refectories, cafeterias and canteens"
+      ],
+      "furniture_equipment": [
+        "Shock cooler",
+        "Conventional cooking equipment",
+        "Reheating equipment",
+        "Service counters"
+      ],
+      "dimensions": [
+        {
+          "label": "Minimum cooking core temperature",
+          "value": 70.0,
+          "value_max": null,
+          "unit": "°C",
+          "context": "Food preparation and cooking; minimum core temperature.",
+          "status": "uncertain",
+          "ocr_raw": "Food preparation and cooking (core temp. min 70°C)"
+        },
+        {
+          "label": "Cooling temperature",
+          "value": 3.0,
+          "value_max": null,
+          "unit": "°C",
+          "context": "Shock cooling; the printed temperature is +3°C.",
+          "status": "uncertain",
+          "ocr_raw": "Shock cooling to + 3°C in max 90 min."
+        },
+        {
+          "label": "Maximum shock-cooling time",
+          "value": 90.0,
+          "value_max": null,
+          "unit": "min",
+          "context": "Maximum time for shock cooling to +3°C.",
+          "status": "uncertain",
+          "ocr_raw": "Shock cooling to + 3°C in max 90 min."
+        },
+        {
+          "label": "Maximum storage and distribution period",
+          "value": 5.0,
+          "value_max": null,
+          "unit": "days",
+          "context": "Maximum period stated for storage and distribution at +3°C.",
+          "status": "uncertain",
+          "ocr_raw": "Storage and distribution in max 5 days at + 3°C"
+        },
+        {
+          "label": "Storage temperature",
+          "value": 3.0,
+          "value_max": null,
+          "unit": "°C",
+          "context": "Storage and distribution; the printed temperature is +3°C.",
+          "status": "uncertain",
+          "ocr_raw": "Storage and distribution in max 5 days at + 3°C"
+        },
+        {
+          "label": "Cold portioning temperature",
+          "value": 10.0,
+          "value_max": null,
+          "unit": "°C",
+          "context": "Flow diagram specifies maximum +10°C for cold portioning.",
+          "status": "uncertain",
+          "ocr_raw": "Cold portioning at max + 10°C"
+        },
+        {
+          "label": "Cold portioning temperature",
+          "value": 12.0,
+          "value_max": null,
+          "unit": "°C",
+          "context": "Body text specifies a portioning temperature of +12°C; this differs from the flow diagram's maximum +10°C.",
+          "status": "uncertain",
+          "ocr_raw": "take place at a temperature of +12°C"
+        },
+        {
+          "label": "Maximum transport temperature",
+          "value": 3.0,
+          "value_max": null,
+          "unit": "°C",
+          "context": "Transport to consumer locations; maximum +3°C.",
+          "status": "uncertain",
+          "ocr_raw": "the transport to the consumer locations at max. +3°C"
+        },
+        {
+          "label": "Chart space-per-person axis",
+          "value": 0.0,
+          "value_max": 0.5,
+          "unit": "m²/person",
+          "context": "Vertical axis of the kitchen and utility-room space chart; plotted scale from 0 to 0.50 m²/person.",
+          "status": "uncertain",
+          "ocr_raw": "m²/Person 0.50 0.45 0.40 0.35 0.30 0.25 0.20 0.15 0.10 0.05 0"
+        },
+        {
+          "label": "Chart persons axis",
+          "value": 0.0,
+          "value_max": 1200.0,
+          "unit": "persons",
+          "context": "Horizontal axis of the kitchen and utility-room space chart.",
+          "status": "uncertain",
+          "ocr_raw": "0 100 200 300 400 500 600 700 800 900 1000 1100 1200 Pers."
+        }
+      ],
+      "figure_refs": [
+        "1"
+      ],
+      "cross_refs": [
+        "p. 179"
+      ],
+      "keywords": [
+        "communal catering",
+        "large kitchens",
+        "cook and serve",
+        "cook and chill",
+        "clean and unclean areas",
+        "space planning"
+      ],
+      "tags_architectural": [
+        "circulation",
+        "safety",
+        "adaptability"
+      ],
+      "confidence": 0.94
+    },
+    {
+      "id": "4122fb96e4bd1976-194-vision-1",
+      "pdf_page": 194,
+      "book_page": 181,
+      "chapter": "ACCOMMODATION",
+      "section": "Catering",
+      "title": "Cook-chill portioning variants and kitchen product routes",
+      "summary": "Cook-chill workflow diagrams show meals being prepared, rapidly cooled, stored, portioned or reheated, then served through different service arrangements. A schematic kitchen plan illustrates product routes through delivery, storage, preparation, cooking, shock cooling, portioning and dispatch. The text stresses uninterrupted cold-chain handling and separation of clean and unclean activities.",
+      "building_type": "Cook-chill kitchen",
+      "spaces": [
+        "Goods reception and delivery",
+        "Storeroom",
+        "Preparation room",
+        "Cooking area",
+        "Shock-cooling area",
+        "Storage room",
+        "Portioning area",
+        "Washing-up area",
+        "Toilets and changing rooms",
+        "Office",
+        "Exit to satellite"
+      ],
+      "uses": [
+        "Prepare and cook meals in advance",
+        "Shock-cool and store meals before service",
+        "Portion, reheat, transport and serve meals",
+        "Assemble meals from externally produced cook-chill products"
+      ],
+      "furniture_equipment": [
+        "Shock cooler",
+        "Hot steamer",
+        "Pallet trolley",
+        "Transport trolley",
+        "Portioning equipment"
+      ],
+      "dimensions": [
+        {
+          "label": "Minimum cooking core temperature",
+          "value": 70.0,
+          "value_max": null,
+          "unit": "°C",
+          "context": "Cooking and reheating stages in the workflow; minimum core temperature.",
+          "status": "uncertain",
+          "ocr_raw": "Food preparation and cooking (core temp. min 70°C) Reheating (core temp. min 70°C)"
+        },
+        {
+          "label": "Shock-cooling temperature",
+          "value": 3.0,
+          "value_max": null,
+          "unit": "°C",
+          "context": "Meals are shock-cooled to +3°C.",
+          "status": "uncertain",
+          "ocr_raw": "Shock cooling to + 3°C in max 90 min."
+        },
+        {
+          "label": "Maximum shock-cooling time",
+          "value": 90.0,
+          "value_max": null,
+          "unit": "min",
+          "context": "Maximum time for shock cooling.",
+          "status": "uncertain",
+          "ocr_raw": "Shock cooling to + 3°C in max 90 min."
+        },
+        {
+          "label": "Maximum storage period",
+          "value": 5.0,
+          "value_max": null,
+          "unit": "days",
+          "context": "Storage and distribution at +3°C.",
+          "status": "uncertain",
+          "ocr_raw": "Storage and distribution in max 5 days at + 3°C"
+        },
+        {
+          "label": "Cold portioning temperature",
+          "value": 10.0,
+          "value_max": null,
+          "unit": "°C",
+          "context": "Maximum temperature shown in workflow diagram.",
+          "status": "uncertain",
+          "ocr_raw": "Cold portioning at max + 10°C"
+        },
+        {
+          "label": "Cold portioning temperature",
+          "value": 12.0,
+          "value_max": null,
+          "unit": "°C",
+          "context": "Temperature stated in body text; differs from the diagram's maximum +10°C.",
+          "status": "uncertain",
+          "ocr_raw": "take place at a temperature of +12°C"
+        },
+        {
+          "label": "Maximum transport temperature",
+          "value": 3.0,
+          "value_max": null,
+          "unit": "°C",
+          "context": "Maximum temperature for transport to consumer locations.",
+          "status": "uncertain",
+          "ocr_raw": "the transport to the consumer locations at max. +3°C"
+        },
+        {
+          "label": "Hot portioning temperature threshold",
+          "value": 8.0,
+          "value_max": null,
+          "unit": "°C",
+          "context": "Temperature notation in the schematic kitchen plan; OCR indicates hot portioning above +8°C.",
+          "status": "uncertain",
+          "ocr_raw": "Portioning (hot) >8°C"
+        }
+      ],
+      "figure_refs": [
+        "2",
+        "3"
+      ],
+      "cross_refs": [
+        "p. 179"
+      ],
+      "keywords": [
+        "cook chill",
+        "portioning",
+        "product routes",
+        "cold chain",
+        "kitchen workflow",
+        "meal service"
+      ],
+      "tags_architectural": [
+        "circulation",
+        "safety",
+        "adaptability"
+      ],
+      "confidence": 0.89
+    },
+    {
+      "id": "4122fb96e4bd1976-194-vision-2",
+      "pdf_page": 194,
+      "book_page": 181,
+      "chapter": "ACCOMMODATION",
+      "section": "Catering",
+      "title": "Gastronorm container sizes and transport containers",
+      "summary": "Illustrations show container sizes in the Gastronorm (GN) system and examples of unperforated and perforated transport and heating containers. The size diagram labels several GN formats; the adjacent container drawing prints overall dimensions.",
+      "building_type": "Catering equipment",
+      "spaces": [],
+      "uses": [
+        "Standardize catering container sizes",
+        "Transport and heat food in Gastronorm containers"
+      ],
+      "furniture_equipment": [
+        "Unperforated container",
+        "Perforated container",
+        "Gastronorm containers"
+      ],
+      "dimensions": [
+        {
+          "label": "Container length",
+          "value": 530.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Dimension printed on the transport and heating container illustration.",
+          "status": "uncertain",
+          "ocr_raw": "530"
+        },
+        {
+          "label": "Container width",
+          "value": 650.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Dimension printed on the transport and heating container illustration.",
+          "status": "uncertain",
+          "ocr_raw": "650"
+        },
+        {
+          "label": "Gastronorm dimension",
+          "value": 325.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Dimension labels in the Gastronorm container-size diagram.",
+          "status": "uncertain",
+          "ocr_raw": "325"
+        }
+      ],
+      "figure_refs": [
+        "4",
+        "5"
+      ],
+      "cross_refs": [],
+      "keywords": [
+        "Gastronorm",
+        "GN",
+        "food containers",
+        "transport containers",
+        "heating containers"
+      ],
+      "tags_architectural": [
+        "modularity"
+      ],
+      "confidence": 0.78
+    }
+  ]
+}

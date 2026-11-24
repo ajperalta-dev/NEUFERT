@@ -1,0 +1,327 @@
+{
+  "fichas": [
+    {
+      "id": "4122fb96e4bd1976-237-vision-0",
+      "pdf_page": 237,
+      "book_page": 224,
+      "chapter": "CULTURAL VENUES",
+      "section": "Cinemas",
+      "title": "Multiplex Cinemas",
+      "summary": "Multiplex cinemas combine auditoriums of varying sizes, often with shopping centres and car parks. They share an entrance and foyer; auditoriums may be stacked. Clear wayfinding, appropriately located screens, generous foyer and concession facilities, and suitable auditorium and projection-room layouts are emphasized.",
+      "building_type": "Multiplex cinema",
+      "spaces": [
+        "Entrance foyer",
+        "Additional floor foyers",
+        "Cinema auditoriums",
+        "Cash desk zone",
+        "Food and drink counters",
+        "Projection room",
+        "Offices",
+        "Archive",
+        "IT room",
+        "Staff rooms",
+        "Catering stores",
+        "Counter stores",
+        "Cool room",
+        "Room for empties",
+        "Rubbish room",
+        "Cleaning equipment room",
+        "Stores for cleaning firm and decoration"
+      ],
+      "uses": [
+        "Film exhibition",
+        "Visitor circulation and wayfinding",
+        "Ticket sales",
+        "Food and drink service",
+        "Events such as premieres and presentations",
+        "Film projection and equipment operation"
+      ],
+      "furniture_equipment": [
+        "Cash desks",
+        "Food and drink counters",
+        "Bar counters",
+        "Cinema seats",
+        "Screens",
+        "Projectors",
+        "Video projectors",
+        "Horizontal film tray equipment",
+        "Control desk",
+        "Rectifier"
+      ],
+      "dimensions": [
+        {
+          "label": "Cash desk floor area",
+          "value": 5.0,
+          "value_max": null,
+          "unit": "m²",
+          "context": "Approximate floor area per cash desk.",
+          "status": "uncertain",
+          "ocr_raw": "approx. 5 m2 floor area/ cash desk"
+        },
+        {
+          "label": "Seat capacity reference",
+          "value": 2500.0,
+          "value_max": null,
+          "unit": "seats",
+          "context": "Example capacity associated with approximately 6–8 cash desks.",
+          "status": "uncertain",
+          "ocr_raw": "for 2500 seats, approx. 6-8 cash desks."
+        },
+        {
+          "label": "Cash desk count",
+          "value": 6.0,
+          "value_max": 8.0,
+          "unit": "cash desks",
+          "context": "Approximate count for a cinema with 2500 seats.",
+          "status": "uncertain",
+          "ocr_raw": "for 2500 seats, approx. 6-8 cash desks."
+        },
+        {
+          "label": "Aisle width",
+          "value": 90.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Minimum aisle width shown in the auditorium plan.",
+          "status": "uncertain",
+          "ocr_raw": "Aisle width min. 90 cm"
+        },
+        {
+          "label": "Seat row step B",
+          "value": 1.2,
+          "value_max": null,
+          "unit": "m",
+          "context": "Seat-row step in the auditorium plan.",
+          "status": "uncertain",
+          "ocr_raw": "Seat row step B = 1.20 m"
+        },
+        {
+          "label": "Cross-passage step B",
+          "value": 1.8,
+          "value_max": null,
+          "unit": "m",
+          "context": "Cross-passage step in the auditorium plan.",
+          "status": "uncertain",
+          "ocr_raw": "Cross-passage step B = 1.80 m"
+        },
+        {
+          "label": "Projection room length",
+          "value": 6.5,
+          "value_max": null,
+          "unit": "m",
+          "context": "Minimum projection-room size; dimension order W × D × H.",
+          "status": "uncertain",
+          "ocr_raw": "Minimum room size: 6.50 x 2.80 x 2.80 m (W x D x H)."
+        },
+        {
+          "label": "Projection room depth",
+          "value": 2.8,
+          "value_max": null,
+          "unit": "m",
+          "context": "Minimum projection-room size; dimension order W × D × H.",
+          "status": "uncertain",
+          "ocr_raw": "Minimum room size: 6.50 x 2.80 x 2.80 m (W x D x H)."
+        },
+        {
+          "label": "Projection room height",
+          "value": 2.8,
+          "value_max": null,
+          "unit": "m",
+          "context": "Minimum projection-room size; dimension order W × D × H.",
+          "status": "uncertain",
+          "ocr_raw": "Minimum room size: 6.50 x 2.80 x 2.80 m (W x D x H)."
+        },
+        {
+          "label": "Projection window width",
+          "value": 150.0,
+          "value_max": 250.0,
+          "unit": "cm",
+          "context": "Approximate window width; one or two projectors.",
+          "status": "uncertain",
+          "ocr_raw": "Projection window size approx. 150/250 x 50 cm (one or two projectors)"
+        },
+        {
+          "label": "Projection window height",
+          "value": 50.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Approximate projection window height; one or two projectors.",
+          "status": "uncertain",
+          "ocr_raw": "Projection window size approx. 150/250 x 50 cm (one or two projectors)"
+        },
+        {
+          "label": "Projection-room noise level before damping",
+          "value": 75.0,
+          "value_max": null,
+          "unit": "dB",
+          "context": "Approximate noise level to be damped by the projection window.",
+          "status": "uncertain",
+          "ocr_raw": "A noise level of approx. 75 dB must be damped to 30 dB by the projection window."
+        },
+        {
+          "label": "Noise level after damping",
+          "value": 30.0,
+          "value_max": null,
+          "unit": "dB",
+          "context": "Target level after damping by the projection window.",
+          "status": "uncertain",
+          "ocr_raw": "A noise level of approx. 75 dB must be damped to 30 dB by the projection window."
+        },
+        {
+          "label": "Maximum working temperature",
+          "value": 22.0,
+          "value_max": null,
+          "unit": "°C",
+          "context": "Projection room working temperature should not exceed this value.",
+          "status": "uncertain",
+          "ocr_raw": "The working temperature should not exceed 22°C in order to protect film copies and equipment."
+        },
+        {
+          "label": "Hall proportion",
+          "value": 1.1,
+          "value_max": null,
+          "unit": "ratio",
+          "context": "Printed hall proportions: 1.1:3 - 1.4:0.5 (W × D × H); retained as printed, not interpreted as separate dimensions.",
+          "status": "uncertain",
+          "ocr_raw": "Hall proportions: 1.1:3 - 1.4:0.5 (W x D x H)"
+        },
+        {
+          "label": "Hall proportion",
+          "value": 1.4,
+          "value_max": null,
+          "unit": "ratio",
+          "context": "Printed hall proportions: 1.1:3 - 1.4:0.5 (W × D × H); retained as printed, not interpreted as separate dimensions.",
+          "status": "uncertain",
+          "ocr_raw": "Hall proportions: 1.1:3 - 1.4:0.5 (W x D x H)"
+        },
+        {
+          "label": "Screen distance A",
+          "value": 1.2,
+          "value_max": 1.5,
+          "unit": "m",
+          "context": "Screen distance A, as specified in the technical-dimensions caption.",
+          "status": "uncertain",
+          "ocr_raw": "Screen distance A = 1.20 - 1.50 m"
+        },
+        {
+          "label": "Curtain storage space B",
+          "value": 10.0,
+          "value_max": null,
+          "unit": "%",
+          "context": "Approximate space at each side, expressed as a share of screen width.",
+          "status": "uncertain",
+          "ocr_raw": "Curtain storage space B: each side approx. 10% of the screen width"
+        },
+        {
+          "label": "Front-row head-to-screen distance C",
+          "value": 75.0,
+          "value_max": null,
+          "unit": "%",
+          "context": "Approximate share of the clear room height.",
+          "status": "uncertain",
+          "ocr_raw": "Distance C (head front row - screen): approx. 75% of the clear room height"
+        },
+        {
+          "label": "Curtain pocket width",
+          "value": 40.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Approximate width.",
+          "status": "uncertain",
+          "ocr_raw": "Width of curtain pocket: approx. 40 cm"
+        },
+        {
+          "label": "Screen curvature reference capacity",
+          "value": 500.0,
+          "value_max": null,
+          "unit": "seats",
+          "context": "Circular-arc screen curvature, centred on the projector, specified from about this seating capacity.",
+          "status": "uncertain",
+          "ocr_raw": "Screen curvature: circular arc (centre projector), from about 500 seats"
+        },
+        {
+          "label": "Screen top below ceiling",
+          "value": 0.3,
+          "value_max": null,
+          "unit": "m",
+          "context": "Approximate distance below ceiling.",
+          "status": "uncertain",
+          "ocr_raw": "Top of screen: about 0.30 m below ceiling"
+        },
+        {
+          "label": "Screen bottom above finished floor level",
+          "value": 0.8,
+          "value_max": null,
+          "unit": "m",
+          "context": "Approximate height above FFL.",
+          "status": "uncertain",
+          "ocr_raw": "bottom of screen: about 0.80 m above FFL"
+        },
+        {
+          "label": "Screen width-to-height ratio",
+          "value": 2.35,
+          "value_max": null,
+          "unit": "ratio",
+          "context": "Screen width equals screen height × 2.35; identified as the largest format, Cinemascope.",
+          "status": "uncertain",
+          "ocr_raw": "Width of screen: screen height x 2.35 (largest format: Cinemascope)"
+        },
+        {
+          "label": "Clear ceiling height above back row",
+          "value": 2.3,
+          "value_max": null,
+          "unit": "m",
+          "context": "Minimum clear ceiling height.",
+          "status": "uncertain",
+          "ocr_raw": "Clear ceiling height above the back row: min. 2.30 m"
+        },
+        {
+          "label": "Projection-room equipment dimension",
+          "value": 2.5,
+          "value_max": null,
+          "unit": "m",
+          "context": "Dimension marked in the projection-room diagram.",
+          "status": "uncertain",
+          "ocr_raw": "2.50 m"
+        },
+        {
+          "label": "Projection-room equipment angle",
+          "value": 15.0,
+          "value_max": null,
+          "unit": "degrees",
+          "context": "Angle marked on both sides in the projection-room diagram.",
+          "status": "uncertain",
+          "ocr_raw": "15°"
+        }
+      ],
+      "figure_refs": [
+        "1 Access to cinema auditoriums",
+        "2 Schematic arrangement of cinema auditoriums on one level",
+        "3 Generalised ground floor plan of a larger auditorium with technical dimensions",
+        "4 Wide screen projection equipment",
+        "5 Projection room"
+      ],
+      "cross_refs": [
+        "p. 225",
+        "p. 235"
+      ],
+      "keywords": [
+        "multiplex cinema",
+        "auditorium",
+        "foyer",
+        "projection room",
+        "screen",
+        "cinema seating",
+        "cash desk",
+        "concessions",
+        "wayfinding"
+      ],
+      "tags_architectural": [
+        "circulation",
+        "clearance",
+        "safety",
+        "spatial_proportion"
+      ],
+      "confidence": 0.88
+    }
+  ]
+}

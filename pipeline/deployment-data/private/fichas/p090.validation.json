@@ -1,0 +1,741 @@
+{
+  "model": "gpt-6-luna",
+  "checks": {
+    "checks": [
+      {
+        "ficha_index": 0,
+        "dimension_index": 0,
+        "status": "verified",
+        "value": null,
+        "value_max": null,
+        "reason": "The text says \u201cmore than two full storeys\u201d; the proposed threshold and unit agree."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 1,
+        "status": "verified",
+        "value": null,
+        "value_max": null,
+        "reason": "The text says \u201cmore than 18 m length\u201d."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 2,
+        "status": "verified",
+        "value": null,
+        "value_max": null,
+        "reason": "The figure caption states building heights \u226420 m."
+      },
+      {
+        "ficha_index": 1,
+        "dimension_index": 0,
+        "status": "verified",
+        "value": null,
+        "value_max": null,
+        "reason": "The table shows internal wall thickness \u226511\u00bd cm."
+      },
+      {
+        "ficha_index": 1,
+        "dimension_index": 1,
+        "status": "verified",
+        "value": null,
+        "value_max": null,
+        "reason": "The table shows internal wall thickness \u226524 cm."
+      },
+      {
+        "ficha_index": 1,
+        "dimension_index": 2,
+        "status": "verified",
+        "value": null,
+        "value_max": null,
+        "reason": "The table shows clear wall height \u2264275 cm."
+      },
+      {
+        "ficha_index": 1,
+        "dimension_index": 3,
+        "status": "verified",
+        "value": null,
+        "value_max": null,
+        "reason": "The table shows solid external wall thickness \u226517\u00bd cm."
+      },
+      {
+        "ficha_index": 1,
+        "dimension_index": 4,
+        "status": "verified",
+        "value": null,
+        "value_max": null,
+        "reason": "The table shows solid external wall thickness \u226524 cm."
+      },
+      {
+        "ficha_index": 1,
+        "dimension_index": 5,
+        "status": "corrected",
+        "value": 24.0,
+        "value_max": null,
+        "reason": "The visible solid-external-wall thickness entry is \u226524 cm, not 12 cm."
+      },
+      {
+        "ficha_index": 1,
+        "dimension_index": 6,
+        "status": "verified",
+        "value": null,
+        "value_max": null,
+        "reason": "The table shows clear wall height \u2264275 cm."
+      },
+      {
+        "ficha_index": 1,
+        "dimension_index": 7,
+        "status": "uncertain",
+        "value": null,
+        "value_max": null,
+        "reason": "The table prints \u201c\u226412 t\u201d; although the table headings indicate cm, the notation\u2019s meaning is unclear, so the proposed value and unit are unchanged."
+      },
+      {
+        "ficha_index": 1,
+        "dimension_index": 8,
+        "status": "verified",
+        "value": null,
+        "value_max": null,
+        "reason": "The table shows an imposed-load limit of \u22645 kN/m\u00b2."
+      },
+      {
+        "ficha_index": 1,
+        "dimension_index": 9,
+        "status": "verified",
+        "value": null,
+        "value_max": null,
+        "reason": "The table shows load-bearing leaf thickness \u226511\u00bd cm."
+      },
+      {
+        "ficha_index": 1,
+        "dimension_index": 10,
+        "status": "verified",
+        "value": null,
+        "value_max": null,
+        "reason": "The table shows load-bearing leaf thickness \u226417\u00bd cm."
+      },
+      {
+        "ficha_index": 1,
+        "dimension_index": 11,
+        "status": "verified",
+        "value": null,
+        "value_max": null,
+        "reason": "The table shows load-bearing leaf thickness \u226524 cm."
+      },
+      {
+        "ficha_index": 1,
+        "dimension_index": 12,
+        "status": "verified",
+        "value": null,
+        "value_max": null,
+        "reason": "The table shows clear wall height \u2264275 cm."
+      },
+      {
+        "ficha_index": 1,
+        "dimension_index": 13,
+        "status": "verified",
+        "value": null,
+        "value_max": null,
+        "reason": "The table shows an imposed-load limit of \u22643 kN/m\u00b2."
+      },
+      {
+        "ficha_index": 1,
+        "dimension_index": 14,
+        "status": "verified",
+        "value": null,
+        "value_max": null,
+        "reason": "The table shows an imposed-load limit of \u22645 kN/m\u00b2."
+      },
+      {
+        "ficha_index": 2,
+        "dimension_index": 0,
+        "status": "verified",
+        "value": null,
+        "value_max": null,
+        "reason": "The table shows wall thickness \u226511\u00bd cm."
+      },
+      {
+        "ficha_index": 2,
+        "dimension_index": 1,
+        "status": "verified",
+        "value": null,
+        "value_max": null,
+        "reason": "The table shows vertical chase depth \u22641 cm."
+      },
+      {
+        "ficha_index": 2,
+        "dimension_index": 2,
+        "status": "verified",
+        "value": null,
+        "value_max": null,
+        "reason": "The table shows vertical chase width \u226410 cm."
+      },
+      {
+        "ficha_index": 2,
+        "dimension_index": 3,
+        "status": "verified",
+        "value": null,
+        "value_max": null,
+        "reason": "The table shows wall thickness \u226517\u00bd cm."
+      },
+      {
+        "ficha_index": 2,
+        "dimension_index": 4,
+        "status": "verified",
+        "value": null,
+        "value_max": null,
+        "reason": "The table shows horizontal/inclined chase depth \u22642\u00bd cm for chase length \u22641.25 m."
+      },
+      {
+        "ficha_index": 2,
+        "dimension_index": 5,
+        "status": "verified",
+        "value": null,
+        "value_max": null,
+        "reason": "The table shows vertical chase depth \u22643 cm."
+      },
+      {
+        "ficha_index": 2,
+        "dimension_index": 6,
+        "status": "verified",
+        "value": null,
+        "value_max": null,
+        "reason": "The table shows vertical chase width \u226410 cm."
+      },
+      {
+        "ficha_index": 2,
+        "dimension_index": 7,
+        "status": "verified",
+        "value": null,
+        "value_max": null,
+        "reason": "The table shows wall thickness \u226524 cm."
+      },
+      {
+        "ficha_index": 2,
+        "dimension_index": 8,
+        "status": "verified",
+        "value": null,
+        "value_max": null,
+        "reason": "The table shows horizontal/inclined chase depth \u22641\u00bd cm for unlimited chase length."
+      },
+      {
+        "ficha_index": 2,
+        "dimension_index": 9,
+        "status": "verified",
+        "value": null,
+        "value_max": null,
+        "reason": "The table shows horizontal/inclined chase depth \u22642\u00bd cm for chase length \u22641.25 m."
+      },
+      {
+        "ficha_index": 2,
+        "dimension_index": 10,
+        "status": "verified",
+        "value": null,
+        "value_max": null,
+        "reason": "The table shows vertical chase depth \u22643 cm."
+      },
+      {
+        "ficha_index": 2,
+        "dimension_index": 11,
+        "status": "verified",
+        "value": null,
+        "value_max": null,
+        "reason": "The table shows vertical chase width \u226415 cm."
+      },
+      {
+        "ficha_index": 2,
+        "dimension_index": 12,
+        "status": "verified",
+        "value": null,
+        "value_max": null,
+        "reason": "The table shows wall thickness \u226530 cm."
+      },
+      {
+        "ficha_index": 2,
+        "dimension_index": 13,
+        "status": "verified",
+        "value": null,
+        "value_max": null,
+        "reason": "The table shows horizontal/inclined chase depth \u22642 cm for unlimited chase length."
+      },
+      {
+        "ficha_index": 2,
+        "dimension_index": 14,
+        "status": "verified",
+        "value": null,
+        "value_max": null,
+        "reason": "The table shows horizontal/inclined chase depth \u22643 cm for chase length \u22641.25 m."
+      },
+      {
+        "ficha_index": 2,
+        "dimension_index": 15,
+        "status": "verified",
+        "value": null,
+        "value_max": null,
+        "reason": "The table shows vertical chase depth \u22643 cm."
+      },
+      {
+        "ficha_index": 2,
+        "dimension_index": 16,
+        "status": "verified",
+        "value": null,
+        "value_max": null,
+        "reason": "The table shows vertical chase width \u226420 cm."
+      },
+      {
+        "ficha_index": 2,
+        "dimension_index": 17,
+        "status": "verified",
+        "value": null,
+        "value_max": null,
+        "reason": "The table shows wall thickness \u226536\u00bd cm."
+      },
+      {
+        "ficha_index": 2,
+        "dimension_index": 18,
+        "status": "verified",
+        "value": null,
+        "value_max": null,
+        "reason": "The table shows horizontal/inclined chase depth \u22642 cm for unlimited chase length."
+      },
+      {
+        "ficha_index": 2,
+        "dimension_index": 19,
+        "status": "verified",
+        "value": null,
+        "value_max": null,
+        "reason": "The table shows horizontal/inclined chase depth \u22643 cm for chase length \u22641.25 m."
+      },
+      {
+        "ficha_index": 2,
+        "dimension_index": 20,
+        "status": "verified",
+        "value": null,
+        "value_max": null,
+        "reason": "The table shows vertical chase depth \u22643 cm."
+      },
+      {
+        "ficha_index": 2,
+        "dimension_index": 21,
+        "status": "verified",
+        "value": null,
+        "value_max": null,
+        "reason": "The table shows vertical chase width \u226420 cm."
+      },
+      {
+        "ficha_index": 2,
+        "dimension_index": 22,
+        "status": "verified",
+        "value": null,
+        "value_max": null,
+        "reason": "The table shows the chase-length category \u22641.25 m."
+      },
+      {
+        "ficha_index": 2,
+        "dimension_index": 23,
+        "status": "verified",
+        "value": null,
+        "value_max": null,
+        "reason": "The table shows distance from openings \u226511\u00bd cm."
+      },
+      {
+        "ficha_index": 2,
+        "dimension_index": 24,
+        "status": "verified",
+        "value": null,
+        "value_max": null,
+        "reason": "The bonded-masonry table shows vertical chase width \u226426 cm."
+      },
+      {
+        "ficha_index": 2,
+        "dimension_index": 25,
+        "status": "verified",
+        "value": null,
+        "value_max": null,
+        "reason": "The bonded-masonry table shows residual wall thickness \u226511\u00bd cm."
+      },
+      {
+        "ficha_index": 2,
+        "dimension_index": 26,
+        "status": "verified",
+        "value": null,
+        "value_max": null,
+        "reason": "The bonded-masonry table shows vertical chase width \u226438\u00bd cm."
+      },
+      {
+        "ficha_index": 2,
+        "dimension_index": 27,
+        "status": "verified",
+        "value": null,
+        "value_max": null,
+        "reason": "The bonded-masonry table shows residual wall thickness \u226517\u00bd cm."
+      },
+      {
+        "ficha_index": 2,
+        "dimension_index": 28,
+        "status": "verified",
+        "value": null,
+        "value_max": null,
+        "reason": "The bonded-masonry table shows residual wall thickness \u226524 cm."
+      },
+      {
+        "ficha_index": 3,
+        "dimension_index": 0,
+        "status": "verified",
+        "value": null,
+        "value_max": null,
+        "reason": "Figure 7 labels the joints as 1 mm."
+      },
+      {
+        "ficha_index": 3,
+        "dimension_index": 1,
+        "status": "verified",
+        "value": null,
+        "value_max": null,
+        "reason": "Figure 11 labels a 5 cm insulation layer."
+      },
+      {
+        "ficha_index": 3,
+        "dimension_index": 2,
+        "status": "verified",
+        "value": null,
+        "value_max": null,
+        "reason": "Figure 12 labels 5 cm Styrofoam."
+      }
+    ]
+  },
+  "automatic": [
+    {
+      "ficha_index": 0,
+      "dimension_index": 0,
+      "issues": [
+        "Unknown unit"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 1,
+      "issues": []
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 2,
+      "issues": []
+    },
+    {
+      "ficha_index": 1,
+      "dimension_index": 0,
+      "issues": []
+    },
+    {
+      "ficha_index": 1,
+      "dimension_index": 1,
+      "issues": []
+    },
+    {
+      "ficha_index": 1,
+      "dimension_index": 2,
+      "issues": []
+    },
+    {
+      "ficha_index": 1,
+      "dimension_index": 3,
+      "issues": []
+    },
+    {
+      "ficha_index": 1,
+      "dimension_index": 4,
+      "issues": []
+    },
+    {
+      "ficha_index": 1,
+      "dimension_index": 5,
+      "issues": []
+    },
+    {
+      "ficha_index": 1,
+      "dimension_index": 6,
+      "issues": []
+    },
+    {
+      "ficha_index": 1,
+      "dimension_index": 7,
+      "issues": []
+    },
+    {
+      "ficha_index": 1,
+      "dimension_index": 8,
+      "issues": [
+        "Unknown unit"
+      ]
+    },
+    {
+      "ficha_index": 1,
+      "dimension_index": 9,
+      "issues": []
+    },
+    {
+      "ficha_index": 1,
+      "dimension_index": 10,
+      "issues": []
+    },
+    {
+      "ficha_index": 1,
+      "dimension_index": 11,
+      "issues": []
+    },
+    {
+      "ficha_index": 1,
+      "dimension_index": 12,
+      "issues": []
+    },
+    {
+      "ficha_index": 1,
+      "dimension_index": 13,
+      "issues": [
+        "Unknown unit"
+      ]
+    },
+    {
+      "ficha_index": 1,
+      "dimension_index": 14,
+      "issues": [
+        "Unknown unit"
+      ]
+    },
+    {
+      "ficha_index": 2,
+      "dimension_index": 0,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 2,
+      "dimension_index": 1,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 2,
+      "dimension_index": 2,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 2,
+      "dimension_index": 3,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 2,
+      "dimension_index": 4,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 2,
+      "dimension_index": 5,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 2,
+      "dimension_index": 6,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 2,
+      "dimension_index": 7,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 2,
+      "dimension_index": 8,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 2,
+      "dimension_index": 9,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 2,
+      "dimension_index": 10,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 2,
+      "dimension_index": 11,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 2,
+      "dimension_index": 12,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 2,
+      "dimension_index": 13,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 2,
+      "dimension_index": 14,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 2,
+      "dimension_index": 15,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 2,
+      "dimension_index": 16,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 2,
+      "dimension_index": 17,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 2,
+      "dimension_index": 18,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 2,
+      "dimension_index": 19,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 2,
+      "dimension_index": 20,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 2,
+      "dimension_index": 21,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 2,
+      "dimension_index": 22,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 2,
+      "dimension_index": 23,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 2,
+      "dimension_index": 24,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 2,
+      "dimension_index": 25,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 2,
+      "dimension_index": 26,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 2,
+      "dimension_index": 27,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 2,
+      "dimension_index": 28,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 3,
+      "dimension_index": 0,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 3,
+      "dimension_index": 1,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 3,
+      "dimension_index": 2,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    }
+  ],
+  "usage": [
+    {
+      "prompt_tokens": 4592,
+      "completion_tokens": 3500
+    },
+    {
+      "prompt_tokens": 7962,
+      "completion_tokens": 2052
+    }
+  ]
+}

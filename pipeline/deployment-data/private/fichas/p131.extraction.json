@@ -1,0 +1,201 @@
+{
+  "fichas": [
+    {
+      "id": "4122fb96e4bd1976-131-vision-0",
+      "pdf_page": 131,
+      "book_page": 118,
+      "chapter": "BUILDING COMPONENTS",
+      "section": "Doors",
+      "title": "Burglar and Attack Alarm Systems",
+      "summary": "Burglar and attack alarm systems monitor and protect people and property by giving early warning of attempted entry. They do not prevent intruders from entering; optimum security combines alarm systems with mechanical protection. The diagram shows detection and monitoring components, alarm equipment, power supply, alarm outputs, and backup recipients.",
+      "building_type": "Security systems for buildings",
+      "spaces": [
+        "Protected premises",
+        "Monitored rooms",
+        "Building envelope",
+        "External areas"
+      ],
+      "uses": [
+        "Monitor and protect people and property",
+        "Give early warning of unauthorised entry",
+        "Trigger alarms and communicate warnings to recipients"
+      ],
+      "furniture_equipment": [
+        "Burglar alarm control room",
+        "Opening, magnetic, lock, and pendulum contacts",
+        "Ultrasonic, high-frequency, infrared, and field-change detectors",
+        "Attack alarm",
+        "Electrical mains and emergency supply",
+        "Acoustic, optical, silent, and internal alarms",
+        "Recording device",
+        "Electromagnetically switched and gas-operated locks",
+        "Telephone and alarm communication devices"
+      ],
+      "dimensions": [
+        {
+          "label": "Electrical mains supply",
+          "value": 220.0,
+          "value_max": 240.0,
+          "unit": "V",
+          "context": "Electrical supply shown in the burglar alarm system components diagram.",
+          "status": "uncertain",
+          "ocr_raw": "220– / 240 V electrical mains"
+        }
+      ],
+      "figure_refs": [
+        "1 Burglar alarm systems – components and function"
+      ],
+      "cross_refs": [
+        "Figure 1"
+      ],
+      "keywords": [
+        "burglar alarm",
+        "attack alarm",
+        "monitoring",
+        "security",
+        "intrusion detection",
+        "alarm system"
+      ],
+      "tags_architectural": [
+        "safety",
+        "accessibility"
+      ],
+      "confidence": 0.94
+    },
+    {
+      "id": "4122fb96e4bd1976-131-vision-1",
+      "pdf_page": 131,
+      "book_page": 118,
+      "chapter": "BUILDING COMPONENTS",
+      "section": "Doors",
+      "title": "Mechanical Protection and Resistance Classes",
+      "summary": "Mechanical protection devices resist intruders and can be overcome only by force, leaving physical traces. Measures include grilles, secure roller shutters and locks, chains, light shafts, and reinforced or resistant glazing. The page describes resistance classes RC1 through RC6 and provides a table correlating resistance classes with window, external-door, and roller-shutter designations; it cautions that old-class evaluations cannot be assigned to new classes.",
+      "building_type": "Building security components",
+      "spaces": [
+        "Entrance doors",
+        "Windows",
+        "Cellar entrances",
+        "Business premises",
+        "Display windows",
+        "Skylights",
+        "Ventilation openings",
+        "Light shafts"
+      ],
+      "uses": [
+        "Delay or resist forced entry",
+        "Protect building openings and vulnerable areas",
+        "Provide mechanical security alongside alarm systems"
+      ],
+      "furniture_equipment": [
+        "Steel grilles",
+        "Roller grilles",
+        "Secure roller shutters",
+        "Secure locks",
+        "Chains",
+        "Wire and steel thread inserts in glass",
+        "Acrylic window panes",
+        "Polycarbonate window panes"
+      ],
+      "dimensions": [
+        {
+          "label": "Break-in attempts defeated by RC2 doors",
+          "value": 80.0,
+          "value_max": null,
+          "unit": "percent",
+          "context": "The text states that doors of resistance class RC2 defeat this share of all break-in attempts.",
+          "status": "uncertain",
+          "ocr_raw": "Doors of this class defeat 80% of all attempts to break in."
+        },
+        {
+          "label": "Resistance class",
+          "value": 1.0,
+          "value_max": 6.0,
+          "unit": "RC class",
+          "context": "Resistance classes listed for building components, from RC1 to RC6.",
+          "status": "uncertain",
+          "ocr_raw": "RC 1; RC 2; RC 3; RC 4; RC 5–6"
+        }
+      ],
+      "figure_refs": [
+        "2 Resistance classes (RC) of building components",
+        "3 Correlation table for the old and new security classes"
+      ],
+      "cross_refs": [
+        "Figure 2",
+        "Figure 3"
+      ],
+      "keywords": [
+        "mechanical protection",
+        "resistance classes",
+        "RC1",
+        "RC2",
+        "RC3",
+        "RC4",
+        "RC5",
+        "RC6",
+        "forced entry",
+        "roller shutters",
+        "security glazing"
+      ],
+      "tags_architectural": [
+        "safety",
+        "clearance"
+      ],
+      "confidence": 0.94
+    },
+    {
+      "id": "4122fb96e4bd1976-131-vision-2",
+      "pdf_page": 131,
+      "book_page": 118,
+      "chapter": "BUILDING COMPONENTS",
+      "section": "Doors",
+      "title": "Open-Air Surveillance Systems",
+      "summary": "Open-air surveillance systems monitor areas outside enclosed rooms, normally extending to the property boundary. They combine mechanical and construction measures, electronic detection, and organisational or personnel measures to deter, detect, delay, and report threats. Examples include fences, walls, barriers, lighting, sensors, video, access control, security staff, and emergency-call planning.",
+      "building_type": "Building and site security systems",
+      "spaces": [
+        "Open areas around buildings",
+        "Property boundary",
+        "Building perimeter"
+      ],
+      "uses": [
+        "Monitor areas outside enclosed rooms",
+        "Protect buildings against events in surrounding areas",
+        "Deter, detect, delay, and report intrusions, sabotage, or spying"
+      ],
+      "furniture_equipment": [
+        "Fences",
+        "Ditches",
+        "Walls",
+        "Barriers",
+        "Gates",
+        "Lighting",
+        "Detectors and sensors",
+        "Video or television equipment",
+        "Access control systems",
+        "Telephone diallers or radio",
+        "Security guards",
+        "Guard dogs"
+      ],
+      "dimensions": [],
+      "figure_refs": [
+        "1 Burglar alarm systems – components and function"
+      ],
+      "cross_refs": [
+        "Figure 1"
+      ],
+      "keywords": [
+        "open-air surveillance",
+        "perimeter security",
+        "access control",
+        "site security",
+        "detection",
+        "security personnel"
+      ],
+      "tags_architectural": [
+        "safety",
+        "circulation"
+      ],
+      "confidence": 0.92
+    }
+  ]
+}

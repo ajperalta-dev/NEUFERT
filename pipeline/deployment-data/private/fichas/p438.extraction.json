@@ -1,0 +1,486 @@
+{
+  "fichas": [
+    {
+      "id": "4122fb96e4bd1976-438-vision-0",
+      "pdf_page": 438,
+      "book_page": 425,
+      "chapter": "EXTERNAL WORKS",
+      "section": "Cemeteries",
+      "title": "Cemetery layout and graves",
+      "summary": "Cemetery planning guidance covers facilities, groundwater and water supply, path and planting layouts, grave types, grave-marker proportions, grave depths, and indicative grave sizes and periods of use. Earth burials are placed along main paths, boundary walls, and path ends; urn burials are placed in planting belts, urn groves, and hedge fences.",
+      "building_type": "Cemetery",
+      "spaces": [
+        "Grave areas",
+        "Group areas",
+        "Main paths",
+        "Planting belt",
+        "Urn groves",
+        "Hedge fences",
+        "Assembly area"
+      ],
+      "uses": [
+        "Burying adults and children",
+        "Providing urn burial areas",
+        "Organizing graves by type and size",
+        "Gathering mourners",
+        "Selling wreaths and flowers"
+      ],
+      "furniture_equipment": [
+        "Gravestones",
+        "Trees",
+        "Shrubs",
+        "Hedges",
+        "Water supply pipe",
+        "WCs"
+      ],
+      "dimensions": [
+        {
+          "label": "Groundwater table depth",
+          "value": 2.5,
+          "value_max": 3.0,
+          "unit": "m",
+          "context": "Depth below ground; may require drainage.",
+          "status": "uncertain",
+          "ocr_raw": "Groundwater table £2.50-3.00 m deep"
+        },
+        {
+          "label": "Group area side length",
+          "value": 30.0,
+          "value_max": 40.0,
+          "unit": "m",
+          "context": "Square group areas; printed as 30 × 30–40 × 40 m.",
+          "status": "uncertain",
+          "ocr_raw": "Dimensions of the group areas: 30 x 30–40 x 40 m."
+        },
+        {
+          "label": "Simple grave marker height",
+          "value": 1.0,
+          "value_max": 1.05,
+          "unit": "m",
+          "context": "Table entry for simple graves; column High.",
+          "status": "uncertain",
+          "ocr_raw": "simple graves 1.0–1.05"
+        },
+        {
+          "label": "Simple grave marker width",
+          "value": 40.0,
+          "value_max": 45.0,
+          "unit": "cm",
+          "context": "Table entry for simple graves; column Wide.",
+          "status": "uncertain",
+          "ocr_raw": "simple graves 40–45"
+        },
+        {
+          "label": "Simple grave marker thickness",
+          "value": 9.0,
+          "value_max": 10.0,
+          "unit": "cm",
+          "context": "Table entry for simple graves; column Thick.",
+          "status": "uncertain",
+          "ocr_raw": "simple graves 9–10"
+        },
+        {
+          "label": "Double grave marker height",
+          "value": 120.0,
+          "value_max": 125.0,
+          "unit": "cm",
+          "context": "Double graves planted at rear; column High.",
+          "status": "uncertain",
+          "ocr_raw": "double graves planted at rear 120–125"
+        },
+        {
+          "label": "Double grave marker width",
+          "value": 50.0,
+          "value_max": 55.0,
+          "unit": "cm",
+          "context": "Double graves planted at rear; column Wide.",
+          "status": "uncertain",
+          "ocr_raw": "double graves planted at rear 50–55"
+        },
+        {
+          "label": "Double grave marker thickness",
+          "value": 10.0,
+          "value_max": 12.0,
+          "unit": "cm",
+          "context": "Double graves planted at rear; column Thick.",
+          "status": "uncertain",
+          "ocr_raw": "double graves planted at rear 10–12"
+        },
+        {
+          "label": "Triple grave marker height",
+          "value": 120.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Triple graves at suitable locations; column High.",
+          "status": "uncertain",
+          "ocr_raw": "triple graves at suitable locations 120"
+        },
+        {
+          "label": "Triple grave marker width",
+          "value": 150.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Triple graves at suitable locations; column Wide.",
+          "status": "uncertain",
+          "ocr_raw": "triple graves at suitable locations 150"
+        },
+        {
+          "label": "Triple grave marker thickness",
+          "value": 13.0,
+          "value_max": 15.0,
+          "unit": "cm",
+          "context": "Triple graves at suitable locations; column Thick.",
+          "status": "uncertain",
+          "ocr_raw": "triple graves at suitable locations 13–15"
+        },
+        {
+          "label": "Adult grave depth",
+          "value": 2.0,
+          "value_max": 2.4,
+          "unit": "m",
+          "context": "Graves for adults in rows.",
+          "status": "uncertain",
+          "ocr_raw": "Graves for adults in rows: 2.00–2.40 m"
+        },
+        {
+          "label": "Grave depth for children up to 10 years",
+          "value": 1.5,
+          "value_max": null,
+          "unit": "m",
+          "context": "Children up to 10 years.",
+          "status": "uncertain",
+          "ocr_raw": "Children up to 10 years: 1.50 m"
+        },
+        {
+          "label": "Grave depth for children up to 3 years",
+          "value": 1.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Children up to 3 years.",
+          "status": "uncertain",
+          "ocr_raw": "Children up to 3 years: 1.00 m"
+        },
+        {
+          "label": "Former grave mound height",
+          "value": 25.0,
+          "value_max": 30.0,
+          "unit": "cm",
+          "context": "Former mound height with stone surround.",
+          "status": "uncertain",
+          "ocr_raw": "Grave mounds were formerly 25–30 cm with stone surround"
+        },
+        {
+          "label": "Current sloping grave mound height",
+          "value": 15.0,
+          "value_max": 20.0,
+          "unit": "cm",
+          "context": "Current sloping mound height; text also notes that mounds may be quite flat.",
+          "status": "uncertain",
+          "ocr_raw": "today sloping and 15–20 cm high or quite flat"
+        },
+        {
+          "label": "Adult grave length",
+          "value": 210.0,
+          "value_max": 250.0,
+          "unit": "cm",
+          "context": "Adult graves in rows; paired size notation is 210 × 75–250 × 120 cm.",
+          "status": "uncertain",
+          "ocr_raw": "210 x 75–250 x 120"
+        },
+        {
+          "label": "Adult grave width",
+          "value": 75.0,
+          "value_max": 120.0,
+          "unit": "cm",
+          "context": "Adult graves in rows; paired size notation is 210 × 75–250 × 120 cm.",
+          "status": "uncertain",
+          "ocr_raw": "210 x 75–250 x 120"
+        },
+        {
+          "label": "Space between adult graves in rows",
+          "value": 30.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Adult graves in rows.",
+          "status": "uncertain",
+          "ocr_raw": "30"
+        },
+        {
+          "label": "Use period for adult graves in rows",
+          "value": 20.0,
+          "value_max": 25.0,
+          "unit": "years",
+          "context": "Rough guide; depends on the soil.",
+          "status": "uncertain",
+          "ocr_raw": "20–25"
+        },
+        {
+          "label": "Length of grave for children up to 10 years",
+          "value": 150.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Paired size notation: 150 × 60–150 × 75 cm.",
+          "status": "uncertain",
+          "ocr_raw": "150 x 60–150 x 75"
+        },
+        {
+          "label": "Width of grave for children up to 10 years",
+          "value": 60.0,
+          "value_max": 75.0,
+          "unit": "cm",
+          "context": "Paired size notation: 150 × 60–150 × 75 cm.",
+          "status": "uncertain",
+          "ocr_raw": "150 x 60–150 x 75"
+        },
+        {
+          "label": "Space between graves for children up to 10 years",
+          "value": 30.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Graves in rows for children up to 10 years old.",
+          "status": "uncertain",
+          "ocr_raw": "30"
+        },
+        {
+          "label": "Use period for graves for children up to 10 years",
+          "value": 20.0,
+          "value_max": null,
+          "unit": "years",
+          "context": "Rough guide; depends on the soil.",
+          "status": "uncertain",
+          "ocr_raw": "20"
+        },
+        {
+          "label": "Length of grave for children up to 3 years",
+          "value": 100.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Paired size notation: 100 × 60 cm.",
+          "status": "uncertain",
+          "ocr_raw": "100 x 60"
+        },
+        {
+          "label": "Width of grave for children up to 3 years",
+          "value": 60.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Paired size notation: 100 × 60 cm.",
+          "status": "uncertain",
+          "ocr_raw": "100 x 60"
+        },
+        {
+          "label": "Space between graves for children up to 3 years",
+          "value": 30.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Graves in rows for children up to 3 years old.",
+          "status": "uncertain",
+          "ocr_raw": "30"
+        },
+        {
+          "label": "Use period for graves for children up to 3 years",
+          "value": 15.0,
+          "value_max": null,
+          "unit": "years",
+          "context": "Rough guide; depends on the soil.",
+          "status": "uncertain",
+          "ocr_raw": "15"
+        },
+        {
+          "label": "Inherited grave length",
+          "value": 300.0,
+          "value_max": 350.0,
+          "unit": "cm",
+          "context": "Inherited graves with hedges; paired size notation is 300 × 150–350 × 150 cm.",
+          "status": "uncertain",
+          "ocr_raw": "300 x 150–350 x 150"
+        },
+        {
+          "label": "Inherited grave width",
+          "value": 150.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Inherited graves with hedges; paired size notation is 300 × 150–350 × 150 cm.",
+          "status": "uncertain",
+          "ocr_raw": "300 x 150–350 x 150"
+        },
+        {
+          "label": "Use period for inherited graves with hedges",
+          "value": 40.0,
+          "value_max": 100.0,
+          "unit": "years",
+          "context": "Rough guide; depends on the soil.",
+          "status": "uncertain",
+          "ocr_raw": "40–100"
+        },
+        {
+          "label": "Crypt length",
+          "value": 300.0,
+          "value_max": 350.0,
+          "unit": "cm",
+          "context": "Crypts; paired size notation is 300 × 120–350 × 150 cm.",
+          "status": "uncertain",
+          "ocr_raw": "300 x 120–350 x 150"
+        },
+        {
+          "label": "Crypt width",
+          "value": 120.0,
+          "value_max": 150.0,
+          "unit": "cm",
+          "context": "Crypts; paired size notation is 300 × 120–350 × 150 cm.",
+          "status": "uncertain",
+          "ocr_raw": "300 x 120–350 x 150"
+        },
+        {
+          "label": "Use period for crypts",
+          "value": 50.0,
+          "value_max": 100.0,
+          "unit": "years",
+          "context": "Rough guide; depends on the soil.",
+          "status": "uncertain",
+          "ocr_raw": "50–100"
+        },
+        {
+          "label": "Urn meadow length",
+          "value": 100.0,
+          "value_max": 150.0,
+          "unit": "cm",
+          "context": "Urn meadows; paired size notation is 100 × 100–150 × 100 cm.",
+          "status": "uncertain",
+          "ocr_raw": "100 x 100–150 x 100"
+        },
+        {
+          "label": "Urn meadow width",
+          "value": 100.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Urn meadows; paired size notation is 100 × 100–150 × 100 cm.",
+          "status": "uncertain",
+          "ocr_raw": "100 x 100–150 x 100"
+        },
+        {
+          "label": "Space between urn meadows",
+          "value": 60.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Space between urn meadows.",
+          "status": "uncertain",
+          "ocr_raw": "60"
+        },
+        {
+          "label": "Use period for urn meadows",
+          "value": 10.0,
+          "value_max": 100.0,
+          "unit": "years",
+          "context": "Rough guide; depends on the soil.",
+          "status": "uncertain",
+          "ocr_raw": "10–100"
+        },
+        {
+          "label": "Prominent place grave length and width",
+          "value": 150.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Square size, printed as 150 × 150 cm.",
+          "status": "uncertain",
+          "ocr_raw": "150 x 150"
+        },
+        {
+          "label": "Space between prominent places",
+          "value": 100.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Space between prominent places.",
+          "status": "uncertain",
+          "ocr_raw": "100"
+        },
+        {
+          "label": "Use period for prominent places",
+          "value": 30.0,
+          "value_max": 100.0,
+          "unit": "years",
+          "context": "Rough guide; depends on the soil.",
+          "status": "uncertain",
+          "ocr_raw": "30–100"
+        }
+      ],
+      "figure_refs": [
+        "1 Graves in rows, head to foot",
+        "2 Graves in rows, head to head, possibly separated by a small hedge",
+        "3 Double graves",
+        "4 Urn burials, separated by a small hedge",
+        "5 Larger family graves: four- or six-place family grave plot",
+        "9 Size and period of use of graves"
+      ],
+      "cross_refs": [
+        "→ 9"
+      ],
+      "keywords": [
+        "cemetery planning",
+        "grave layout",
+        "grave dimensions",
+        "grave depth",
+        "urn burial",
+        "planting"
+      ],
+      "tags_architectural": [
+        "circulation",
+        "spatial_proportion"
+      ],
+      "confidence": 0.88
+    },
+    {
+      "id": "4122fb96e4bd1976-438-vision-1",
+      "pdf_page": 438,
+      "book_page": 425,
+      "chapter": "EXTERNAL WORKS",
+      "section": "Cemeteries",
+      "title": "Columbarium and crematorium chapel",
+      "summary": "A columbarium stores urns not intended for burial, as either a room or a wall with niches. The crematorium chapel serves all denominations and is placed according to cemetery size and layout. Its form affects the funeral ceremony; the functional diagram shows the chapel alongside ancillary rooms.",
+      "building_type": "Cemetery chapel and columbarium",
+      "spaces": [
+        "Columbarium room or niche wall",
+        "Crematorium chapel",
+        "Forecourt",
+        "Cell for deceased",
+        "Mourners",
+        "Clergyman",
+        "Staff room",
+        "Work room",
+        "Cool cell",
+        "WC",
+        "Equipment room"
+      ],
+      "uses": [
+        "Storing urns not intended for burial",
+        "Holding funeral services for all denominations",
+        "Supporting funeral services with ancillary rooms"
+      ],
+      "furniture_equipment": [
+        "Urn niches",
+        "Chapel seating"
+      ],
+      "dimensions": [],
+      "figure_refs": [
+        "6 View of a columbarium",
+        "7 Functional diagram of crematorium chapel and ancillary rooms",
+        "8 Crematorium chapel: typical plans"
+      ],
+      "cross_refs": [
+        "→ 6",
+        "→ 7"
+      ],
+      "keywords": [
+        "columbarium",
+        "crematorium chapel",
+        "funeral service",
+        "urn storage",
+        "ancillary rooms"
+      ],
+      "tags_architectural": [
+        "circulation"
+      ],
+      "confidence": 0.94
+    }
+  ]
+}

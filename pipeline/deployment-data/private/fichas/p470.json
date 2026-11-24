@@ -1,0 +1,311 @@
+{
+  "fichas": [
+    {
+      "id": "4122fb96e4bd1976-470-vision-0",
+      "pdf_page": 470,
+      "book_page": 457,
+      "chapter": "AGRICULTURE",
+      "section": "Animal Husbandry",
+      "title": "Dairy Farming",
+      "summary": "Overview of dairy-cow housing, lying-box design, stall arrangements, and requirements attributed to the Agricultural Investment Support Programme (AFP), the EU Eco Directive, and recommendations for horned cows. The text gives formulas for calculating lying-box dimensions from animal measurements; these formulas are summarized without deriving unprinted values.",
+      "building_type": "Dairy cattle housing",
+      "spaces": [
+        "Cow stalls and lying boxes",
+        "Young-cattle stalls",
+        "Yard",
+        "Feeding places",
+        "Feeding gangways",
+        "Gangways",
+        "Milking and equipment areas",
+        "Calf and young-animal areas"
+      ],
+      "uses": [
+        "Housing dairy cows and young cattle",
+        "Providing lying, feeding, and movement areas",
+        "Planning stalls and box pens",
+        "Supporting animal-welfare-oriented husbandry"
+      ],
+      "furniture_equipment": [
+        "Water bucket",
+        "Separating bars",
+        "Stanchions",
+        "Milking machine",
+        "Feed and equipment areas"
+      ],
+      "dimensions": [
+        {
+          "label": "Space available per stall",
+          "value": 5.0,
+          "value_max": null,
+          "unit": "m² per LU",
+          "context": "AFP; stall space available",
+          "status": "verified",
+          "ocr_raw": "5.0 per LU 11"
+        },
+        {
+          "label": "Space available per animal",
+          "value": 6.0,
+          "value_max": null,
+          "unit": "m² per animal",
+          "context": "EU Eco Directive; stall space available",
+          "status": "verified",
+          "ocr_raw": "6.0 per animal"
+        },
+        {
+          "label": "Space available per LU",
+          "value": 9.0,
+          "value_max": null,
+          "unit": "m² per LU",
+          "context": "Recommendations for horned cows; yard space available",
+          "status": "verified",
+          "ocr_raw": "9.0 per LU'I"
+        },
+        {
+          "label": "Space available per animal",
+          "value": 12.0,
+          "value_max": null,
+          "unit": "m² per animal",
+          "context": "Recommendations for horned cows; yard space available",
+          "status": "verified",
+          "ocr_raw": "12 per animal"
+        },
+        {
+          "label": "Lying-box width",
+          "value": 120.0,
+          "value_max": 130.0,
+          "unit": "cm",
+          "context": "AFP; lying box dimensions",
+          "status": "verified",
+          "ocr_raw": "120-130"
+        },
+        {
+          "label": "Lying-box width",
+          "value": 120.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Recommendations for horned cows; lying box dimensions",
+          "status": "verified",
+          "ocr_raw": "120"
+        },
+        {
+          "label": "Lying-box length",
+          "value": 240.0,
+          "value_max": 250.0,
+          "unit": "cm",
+          "context": "AFP; first printed lying-box length range",
+          "status": "verified",
+          "ocr_raw": "240-250/"
+        },
+        {
+          "label": "Lying-box length",
+          "value": 270.0,
+          "value_max": 280.0,
+          "unit": "cm",
+          "context": "AFP; second printed lying-box length range",
+          "status": "verified",
+          "ocr_raw": "270-280'1"
+        },
+        {
+          "label": "Lying-box length",
+          "value": 270.0,
+          "value_max": 300.0,
+          "unit": "cm",
+          "context": "Recommendations for horned cows; lying-box length",
+          "status": "verified",
+          "ocr_raw": "270-300'1"
+        },
+        {
+          "label": "Separating-bar distance from floor",
+          "value": 60.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "AFP; distance from floor",
+          "status": "verified",
+          "ocr_raw": "60"
+        },
+        {
+          "label": "Feeding-place width",
+          "value": 75.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "AFP",
+          "status": "verified",
+          "ocr_raw": "75"
+        },
+        {
+          "label": "Feeding-place width",
+          "value": 80.0,
+          "value_max": 90.0,
+          "unit": "cm",
+          "context": "Recommendations for horned cows",
+          "status": "verified",
+          "ocr_raw": "80-90"
+        },
+        {
+          "label": "Feeding-gangway width",
+          "value": 350.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "AFP; printed as greater than 350 cm",
+          "status": "verified",
+          "ocr_raw": ">350"
+        },
+        {
+          "label": "Feeding-gangway width",
+          "value": 450.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Recommendations for horned cows",
+          "status": "verified",
+          "ocr_raw": "450"
+        },
+        {
+          "label": "Gangway width",
+          "value": 250.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "AFP; printed as greater than 250 cm",
+          "status": "verified",
+          "ocr_raw": ">250"
+        },
+        {
+          "label": "Gangway width",
+          "value": 400.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Recommendations for horned cows",
+          "status": "verified",
+          "ocr_raw": "400"
+        },
+        {
+          "label": "Animal-to-feeding-place ratio",
+          "value": 1.0,
+          "value_max": null,
+          "unit": "ratio",
+          "context": "AFP; complete printed ratio 1:1 (1:2:1) with footnote marker",
+          "status": "verified",
+          "ocr_raw": "1:1 (1:2:1)31"
+        },
+        {
+          "label": "Animal-to-feeding-place ratio",
+          "value": 1.1,
+          "value_max": 1.2,
+          "unit": "ratio",
+          "context": "Recommendations for horned cows; printed range 1:1.1 to 1:1.2",
+          "status": "verified",
+          "ocr_raw": "1:1.1 to 1:1.2"
+        },
+        {
+          "label": "Animal-to-lying-box ratio",
+          "value": 1.0,
+          "value_max": null,
+          "unit": "ratio",
+          "context": "AFP; complete printed ratio 1:1",
+          "status": "verified",
+          "ocr_raw": "1:1"
+        },
+        {
+          "label": "Animal-to-lying-box ratio",
+          "value": 1.1,
+          "value_max": 1.2,
+          "unit": "ratio",
+          "context": "Recommendations for horned cows; printed range 1:1.1 to 1:1.2",
+          "status": "verified",
+          "ocr_raw": "1:1.1 to 1:1.2"
+        },
+        {
+          "label": "Lighting area as percentage of cowshed floor area",
+          "value": 5.0,
+          "value_max": null,
+          "unit": "%",
+          "context": "AFP",
+          "status": "verified",
+          "ocr_raw": "5"
+        },
+        {
+          "label": "Lying area in deep stall per cow",
+          "value": 4.5,
+          "value_max": null,
+          "unit": "m²",
+          "context": "AFP",
+          "status": "verified",
+          "ocr_raw": "4.5"
+        },
+        {
+          "label": "Lying area in deep stall per cow",
+          "value": 8.0,
+          "value_max": null,
+          "unit": "m²",
+          "context": "Recommendations for horned cows; footnote 5 applies",
+          "status": "verified",
+          "ocr_raw": "8'1"
+        },
+        {
+          "label": "Lying area in deep stall",
+          "value": 6.0,
+          "value_max": null,
+          "unit": "m²",
+          "context": "Recommendations for horned cows; printed as maximum",
+          "status": "verified",
+          "ocr_raw": "max. 6"
+        },
+        {
+          "label": "Maximum gap width",
+          "value": 3.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Recommendations for horned cows",
+          "status": "verified",
+          "ocr_raw": "3"
+        },
+        {
+          "label": "Movement area that can be reckoned from lying area",
+          "value": 3.0,
+          "value_max": null,
+          "unit": "m²",
+          "context": "Footnote: of the lying area, this amount can be reckoned as movement area",
+          "status": "verified",
+          "ocr_raw": "of which 3 m2 can be reckoned as movement area"
+        }
+      ],
+      "figure_refs": [
+        "1 Cow",
+        "2 Young animal in stall",
+        "3 Lying boxes for cows (AFP)",
+        "4 Single stalls for young cattle (14 days to 10 weeks)",
+        "5 Box pens, 3 rows, for dairy cows with young cattle",
+        "6 Box pens, 2 rows, for dairy cows with young cattle",
+        "7 Conventional stalls with stanchions, 2 rows, for dairy cows with young cattle",
+        "8 Requirements for the keeping of dairy cows (Aulendorf → refs)"
+      ],
+      "cross_refs": [
+        "Aulendorf → refs",
+        "Animal Welfare Law",
+        "Animal Welfare, Animal Husbandry Regulations",
+        "Agricultural Investment Support Programme",
+        "EU Eco Directive"
+      ],
+      "keywords": [
+        "dairy farming",
+        "cow sheds",
+        "lying boxes",
+        "young cattle",
+        "animal welfare",
+        "AFP",
+        "EU Eco Directive",
+        "horned cows",
+        "stall dimensions",
+        "feeding gangway"
+      ],
+      "tags_architectural": [
+        "circulation",
+        "ergonomics",
+        "anthropometry",
+        "clearance",
+        "safety",
+        "adaptability"
+      ],
+      "confidence": 0.86
+    }
+  ]
+}

@@ -1,0 +1,523 @@
+{
+  "fichas": [
+    {
+      "id": "4122fb96e4bd1976-134-vision-0",
+      "pdf_page": 134,
+      "book_page": 121,
+      "chapter": "BUILDING COMPONENTS",
+      "section": "Stairs",
+      "title": "Stair regulations and dimensional limits",
+      "summary": "The page presents regulatory stair categories and a table of finished dimensions for residential and other buildings. It also gives limits on travel distance to a legally essential stairway and design requirements for landings, stair pitch, and escape routes.",
+      "building_type": "Residential and other buildings",
+      "spaces": [
+        "Stairways",
+        "Cellars",
+        "Lofts",
+        "Habitable rooms",
+        "Stairwells",
+        "Escape routes"
+      ],
+      "uses": [
+        "Access between levels",
+        "Escape and emergency circulation",
+        "Access to habitable rooms"
+      ],
+      "furniture_equipment": [],
+      "dimensions": [
+        {
+          "label": "Minimum usable stair width",
+          "value": 80.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Stairs leading to habitable rooms in residential buildings with not more than two storeys; finished dimensions.",
+          "status": "uncertain",
+          "ocr_raw": "usable stair width (min) 80"
+        },
+        {
+          "label": "Minimum usable stair width",
+          "value": 80.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Cellar stairs not leading to habitable rooms in residential buildings with not more than two storeys; finished dimensions.",
+          "status": "uncertain",
+          "ocr_raw": "usable stair width (min) 80"
+        },
+        {
+          "label": "Minimum usable stair width",
+          "value": 50.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Loft stairs not leading to habitable rooms in residential buildings with not more than two storeys; finished dimensions.",
+          "status": "uncertain",
+          "ocr_raw": "usable stair width (min) 50"
+        },
+        {
+          "label": "Minimum usable stair width",
+          "value": 100.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Legally essential stairs in other buildings; finished dimensions.",
+          "status": "uncertain",
+          "ocr_raw": "usable stair width (min) 100"
+        },
+        {
+          "label": "Minimum usable stair width",
+          "value": 50.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Non-essential additional stairs in other buildings; finished dimensions.",
+          "status": "uncertain",
+          "ocr_raw": "usable stair width (min) 50"
+        },
+        {
+          "label": "Stair riser",
+          "value": 20.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Residential stairs leading to habitable rooms; finished dimensions.",
+          "status": "uncertain",
+          "ocr_raw": "Stair riser (R) 20"
+        },
+        {
+          "label": "Stair tread",
+          "value": 23.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Residential stairs leading to habitable rooms; finished dimensions.",
+          "status": "uncertain",
+          "ocr_raw": "Stair tread (T) 23"
+        },
+        {
+          "label": "Stair riser",
+          "value": 21.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Cellar and loft stairs not leading to habitable rooms; finished dimensions.",
+          "status": "uncertain",
+          "ocr_raw": "Stair riser (R) 21"
+        },
+        {
+          "label": "Stair tread",
+          "value": 21.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Cellar and loft stairs not leading to habitable rooms; finished dimensions.",
+          "status": "uncertain",
+          "ocr_raw": "Stair tread (T) 21"
+        },
+        {
+          "label": "Stair riser",
+          "value": 19.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Legally essential stairs in other buildings; finished dimensions.",
+          "status": "uncertain",
+          "ocr_raw": "Stair riser (R) 19"
+        },
+        {
+          "label": "Stair tread",
+          "value": 26.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Legally essential stairs in other buildings; finished dimensions.",
+          "status": "uncertain",
+          "ocr_raw": "Stair tread (T) 26"
+        },
+        {
+          "label": "Stair riser",
+          "value": 21.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Non-essential additional stairs in other buildings; finished dimensions.",
+          "status": "uncertain",
+          "ocr_raw": "Stair riser (R) 21"
+        },
+        {
+          "label": "Stair tread",
+          "value": 21.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Non-essential additional stairs in other buildings; finished dimensions.",
+          "status": "uncertain",
+          "ocr_raw": "Stair tread (T) 21"
+        },
+        {
+          "label": "Minimum stair tread including overhang",
+          "value": 26.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Where stair tread is less than 26 cm, overhang must provide a total tread of 26 cm (t + o).",
+          "status": "uncertain",
+          "ocr_raw": "for stairs with a tread <26 cm, the overhang (o) must be at least so large that a total tread of 26 cm (t + o) is given"
+        },
+        {
+          "label": "Minimum stair tread including overhang",
+          "value": 24.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Where stair tread is less than 24 cm, overhang must provide a total tread of 24 cm (t + o).",
+          "status": "uncertain",
+          "ocr_raw": "for stairs with a tread <24 cm, the overhang must be at least so large that a total tread of 24 cm (t + o) is given"
+        },
+        {
+          "label": "Maximum distance to stairwell",
+          "value": 25.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "High-rise buildings; maximum distance of a location in an inhabitable room from a legally essential stairwell.",
+          "status": "uncertain",
+          "ocr_raw": "high-rise buildings 25 m"
+        },
+        {
+          "label": "Maximum distance to stairwell",
+          "value": 30.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Schools, shops, enclosed and underground garages, buildings where people congregate, and hospitals.",
+          "status": "uncertain",
+          "ocr_raw": "schools - shops - enclosed and underground garages - buildings where people congregate (from exit to stairwell) - hospitals 30 m"
+        },
+        {
+          "label": "Maximum distance to stairwell",
+          "value": 35.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Buildings without special status according to LBO; restaurants and hotels.",
+          "status": "uncertain",
+          "ocr_raw": "buildings without special status, according to LBO - restaurants and hotels 35 m"
+        },
+        {
+          "label": "Maximum distance to legally essential stairway or exit",
+          "value": 35.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Every location in inhabited rooms and basements must be within this distance of at least one legally essential stairway or exit.",
+          "status": "uncertain",
+          "ocr_raw": "Every location in inhabited rooms and basements must be ≤35 m from the stairwell of at least one legally essential stairway or exit."
+        },
+        {
+          "label": "Minimum landing width relative to stair width",
+          "value": 1.0,
+          "value_max": null,
+          "unit": "ratio",
+          "context": "Landing width is at least the stair width; the relation is 1:1.",
+          "status": "uncertain",
+          "ocr_raw": "Landing width ≥ stair width."
+        },
+        {
+          "label": "Minimum stairwell door fire-resistance rating",
+          "value": 30.0,
+          "value_max": null,
+          "unit": "minutes",
+          "context": "Self-closing doors at openings from stairwells into specified spaces.",
+          "status": "uncertain",
+          "ocr_raw": "must be fitted with self-closing doors with a fire resistance rating of 30 minutes."
+        }
+      ],
+      "figure_refs": [
+        "Figure 3: Stairs in buildings—limits of dimensions (finished dimensions)",
+        "Figure 4: Maximum distance of any location in an inhabitable room from a stairwell deemed legally essential by MBO (and observe LBO)"
+      ],
+      "cross_refs": [
+        "Table 3, lines 1–5",
+        "MBO",
+        "LBO"
+      ],
+      "keywords": [
+        "stair regulations",
+        "usable stair width",
+        "riser",
+        "tread",
+        "travel distance",
+        "fire resistance",
+        "escape route"
+      ],
+      "tags_architectural": [
+        "circulation",
+        "clearance",
+        "safety"
+      ],
+      "confidence": 0.88
+    },
+    {
+      "id": "4122fb96e4bd1976-134-vision-1",
+      "pdf_page": 134,
+      "book_page": 121,
+      "chapter": "BUILDING COMPONENTS",
+      "section": "Stairs",
+      "title": "Stair inclines and clearance profiles",
+      "summary": "Diagrams describe stair, ramp, and ladder inclines and identify clearance-profile limits around stair flights, walls, handrails, balustrades, ceilings, and stringers. A nearby explanatory passage gives the preferred stair pitch and the stride-length formula for coordinating riser and tread.",
+      "building_type": "Stairs and access routes",
+      "spaces": [
+        "Stair flights",
+        "Ramps",
+        "Ladders",
+        "Stairwell"
+      ],
+      "uses": [
+        "Vertical circulation",
+        "Access between levels"
+      ],
+      "furniture_equipment": [
+        "Handrails",
+        "Balustrades"
+      ],
+      "dimensions": [
+        {
+          "label": "Preferred stair pitch",
+          "value": 30.0,
+          "value_max": null,
+          "unit": "degrees",
+          "context": "The text identifies this as the physiologically best stair pitch for use of climbing effort.",
+          "status": "uncertain",
+          "ocr_raw": "the best use of 'climbing effort' is at a stair pitch of 30°"
+        },
+        {
+          "label": "Riser-to-tread ratio",
+          "value": 17.0,
+          "value_max": null,
+          "unit": "ratio",
+          "context": "Preferred ratio of riser (r) to tread (t), printed as 17/29.",
+          "status": "uncertain",
+          "ocr_raw": "a ratio of riser (r) to tread (t) of 17/29"
+        },
+        {
+          "label": "Adult stride length",
+          "value": 59.0,
+          "value_max": 65.0,
+          "unit": "cm",
+          "context": "Approximate stride length used to determine a suitable stair pitch.",
+          "status": "uncertain",
+          "ocr_raw": "stride length of an adult (approx. 59–65 cm)"
+        },
+        {
+          "label": "Stride-length formula",
+          "value": 2.0,
+          "value_max": null,
+          "unit": "riser coefficient",
+          "context": "The printed formula is 2r + t = 59–65 cm; the coefficient is not a measured dimension.",
+          "status": "uncertain",
+          "ocr_raw": "this formula applies: 2 r + t = 59–65 cm."
+        },
+        {
+          "label": "Minimum side-mounted handrail clearance from wall",
+          "value": 5.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Side-mounted handrail spaced from the wall.",
+          "status": "uncertain",
+          "ocr_raw": "side mounted handrail spaced min. 5 cm from the wall"
+        },
+        {
+          "label": "Clearance profile dimension",
+          "value": 200.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Clearance profile diagram; associated with the vertical stair-clearance dimension.",
+          "status": "uncertain",
+          "ocr_raw": "200"
+        },
+        {
+          "label": "Maximum clear-opening limitation",
+          "value": 25.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Clearance profile diagram; the printed diagram marks a 25 cm limit.",
+          "status": "uncertain",
+          "ocr_raw": "≤ 25"
+        },
+        {
+          "label": "Ramp incline",
+          "value": 1.0,
+          "value_max": null,
+          "unit": "ratio",
+          "context": "Ramp incline shown in the diagram as 1:6.",
+          "status": "uncertain",
+          "ocr_raw": "1 : 6"
+        },
+        {
+          "label": "Outside stair riser",
+          "value": 12.0,
+          "value_max": 16.0,
+          "unit": "cm",
+          "context": "Preferred low outside steps; the accompanying tread dimensions are printed as 41 cm and 30 cm respectively.",
+          "status": "uncertain",
+          "ocr_raw": "dimensions of 12 × 41 to 16 × 30 cm"
+        }
+      ],
+      "figure_refs": [
+        "Figure 1: Incline for ramps, stairs and ladders",
+        "Figure 2: Stairs—clearance profile"
+      ],
+      "cross_refs": [
+        "DIN 18065"
+      ],
+      "keywords": [
+        "stair pitch",
+        "clearance profile",
+        "handrail clearance",
+        "riser",
+        "tread",
+        "ramp incline",
+        "ladder"
+      ],
+      "tags_architectural": [
+        "clearance",
+        "ergonomics",
+        "anthropometry",
+        "circulation",
+        "safety"
+      ],
+      "confidence": 0.75
+    },
+    {
+      "id": "4122fb96e4bd1976-134-vision-2",
+      "pdf_page": 134,
+      "book_page": 121,
+      "chapter": "BUILDING COMPONENTS",
+      "section": "Stairs",
+      "title": "Stair layouts, landings, and transport clearances",
+      "summary": "The illustrated examples compare the plan areas of stairs with and without landings and show clearances for furniture transport, stretcher carrying, and a spiral staircase. The text notes that landings add to the area of a single-flight stair and that legally essential stairways require landings at the stated storey height.",
+      "building_type": "Stairways",
+      "spaces": [
+        "Stair flights",
+        "Landings",
+        "Stairwell",
+        "Furniture transport route",
+        "Stretcher route"
+      ],
+      "uses": [
+        "Vertical circulation",
+        "Furniture transport",
+        "Stretcher transport"
+      ],
+      "furniture_equipment": [
+        "Furniture",
+        "Stretchers"
+      ],
+      "dimensions": [
+        {
+          "label": "Storey height requiring landings in legally essential stairways",
+          "value": 2.75,
+          "value_max": null,
+          "unit": "m",
+          "context": "The text states that stairs with landings are required in legally essential stairways at this storey height or greater.",
+          "status": "uncertain",
+          "ocr_raw": "Stairs with landings are required in legally essential stairways with a storey height of ≥2.75 m."
+        },
+        {
+          "label": "Maximum stair width in illustrated example",
+          "value": 1.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Illustrated stair example caption; image 6 shows 16 pitches and a high level of 2.75 m.",
+          "status": "uncertain",
+          "ocr_raw": "image 6: 16 pitches 17/29, high level 2.75 m; maximum width 1.0 m"
+        },
+        {
+          "label": "Illustrated stair area",
+          "value": 4.2,
+          "value_max": null,
+          "unit": "m²",
+          "context": "Area label for one stair layout without a landing.",
+          "status": "uncertain",
+          "ocr_raw": "4.2 m²"
+        },
+        {
+          "label": "Illustrated stair area",
+          "value": 4.3,
+          "value_max": null,
+          "unit": "m²",
+          "context": "Area label for one stair layout without a landing.",
+          "status": "uncertain",
+          "ocr_raw": "4.3 m²"
+        },
+        {
+          "label": "Illustrated stair area",
+          "value": 4.8,
+          "value_max": null,
+          "unit": "m²",
+          "context": "Area label for one stair layout without a landing.",
+          "status": "uncertain",
+          "ocr_raw": "4.8 m²"
+        },
+        {
+          "label": "Illustrated stair area",
+          "value": 4.7,
+          "value_max": null,
+          "unit": "m²",
+          "context": "Area label for one stair layout without a landing.",
+          "status": "uncertain",
+          "ocr_raw": "4.7 m²"
+        },
+        {
+          "label": "Illustrated stair area",
+          "value": 5.0,
+          "value_max": null,
+          "unit": "m²",
+          "context": "Area label for one stair layout without a landing.",
+          "status": "uncertain",
+          "ocr_raw": "5.0 m²"
+        },
+        {
+          "label": "Illustrated stair area",
+          "value": 5.2,
+          "value_max": null,
+          "unit": "m²",
+          "context": "Area label for one stair layout without a landing.",
+          "status": "uncertain",
+          "ocr_raw": "5.2 m²"
+        },
+        {
+          "label": "Illustrated stair area",
+          "value": 4.9,
+          "value_max": null,
+          "unit": "m²",
+          "context": "Area label for a spiral stair layout.",
+          "status": "uncertain",
+          "ocr_raw": "4.9 m²"
+        },
+        {
+          "label": "Illustrated stair area with landing",
+          "value": 5.4,
+          "value_max": null,
+          "unit": "m²",
+          "context": "Stair with landing; landing adds to the surface area of a single-flight stair.",
+          "status": "uncertain",
+          "ocr_raw": "5.4 m²"
+        },
+        {
+          "label": "Illustrated stair area with landing",
+          "value": 6.2,
+          "value_max": null,
+          "unit": "m²",
+          "context": "Stair with landing; landing adds to the surface area of a single-flight stair.",
+          "status": "uncertain",
+          "ocr_raw": "6.2 m²"
+        }
+      ],
+      "figure_refs": [
+        "Figure 5: Stair layouts without landings",
+        "Figure 6: Stair with landings",
+        "Figure 7: Minimum space required for furniture transport",
+        "Figure 8: For the carrying of stretchers",
+        "Figure 9: For a spiral staircase"
+      ],
+      "cross_refs": [],
+      "keywords": [
+        "stair layout",
+        "landing",
+        "furniture transport",
+        "stretcher",
+        "spiral staircase",
+        "floor area"
+      ],
+      "tags_architectural": [
+        "circulation",
+        "clearance",
+        "spatial_proportion"
+      ],
+      "confidence": 0.81
+    }
+  ]
+}

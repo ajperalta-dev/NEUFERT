@@ -1,0 +1,68 @@
+{
+  "fichas": [
+    {
+      "id": "4122fb96e4bd1976-83-vision-0",
+      "pdf_page": 83,
+      "book_page": 70,
+      "chapter": "BUILDING COMPONENTS",
+      "section": "Foundations",
+      "title": "Deep foundations and piles",
+      "summary": "Deep foundations are used where load-bearing strata lie too deep for shallow foundations. Reinforced-concrete piles transfer building loads through weak ground to load-bearing strata. Pile design depends on ground loading and subsoil conditions, established through investigation boreholes and probing. The page describes pile load-transfer mechanisms, classifications by location, installation, loading, production and installation, and illustrates retaining-wall types, boring depths, pile principles, and a pressed-concrete bored-pile system.",
+      "building_type": "Building foundations",
+      "spaces": [],
+      "uses": [
+        "Transfer building loads through weak ground to load-bearing strata",
+        "Resist ground pressure with retaining-wall elements",
+        "Provide foundations where competent bearing strata are too deep for shallow foundations"
+      ],
+      "furniture_equipment": [],
+      "dimensions": [
+        {
+          "label": "Minimum depth for structural boring",
+          "value": 6.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Guideline shown for structural boring; the diagram also gives symbolic depth conditions.",
+          "status": "uncertain",
+          "ocr_raw": "≥6m"
+        },
+        {
+          "label": "Minimum dimension shown for bored piles",
+          "value": 1.1,
+          "value_max": null,
+          "unit": "m",
+          "context": "Bored-pile principle diagram; associated with a symbolic dimension condition.",
+          "status": "uncertain",
+          "ocr_raw": "≥1.10 m"
+        }
+      ],
+      "figure_refs": [
+        "1 Building elements designed to resist active ground pressure",
+        "2 Minimum depths for structural boring",
+        "3 Bored piles (principle)",
+        "4 Driven piles (principle)",
+        "5 Required depth of load-bearing subsoil under bored piles (guideline values)",
+        "6 Pressed concrete bored pile (Brechtel system)"
+      ],
+      "cross_refs": [
+        "BS EN 12794",
+        "DIN EN 1536"
+      ],
+      "keywords": [
+        "deep foundations",
+        "piles",
+        "bored piles",
+        "driven piles",
+        "retaining walls",
+        "skin friction",
+        "end-bearing",
+        "subsoil",
+        "ground investigation"
+      ],
+      "tags_architectural": [
+        "safety"
+      ],
+      "confidence": 0.9
+    }
+  ]
+}

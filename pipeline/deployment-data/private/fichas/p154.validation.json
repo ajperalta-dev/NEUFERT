@@ -1,0 +1,34 @@
+{
+  "model": "gpt-6-luna",
+  "checks": {
+    "checks": [
+      {
+        "ficha_index": 0,
+        "dimension_index": 0,
+        "status": "verified",
+        "value": null,
+        "value_max": null,
+        "reason": "The text visibly gives an average slope of 8\u201340\u00b0, matching the proposed range and degree unit."
+      }
+    ]
+  },
+  "automatic": [
+    {
+      "ficha_index": 0,
+      "dimension_index": 0,
+      "issues": [
+        "Unknown unit"
+      ]
+    }
+  ],
+  "usage": [
+    {
+      "prompt_tokens": 4177,
+      "completion_tokens": 1167
+    },
+    {
+      "prompt_tokens": 4035,
+      "completion_tokens": 104
+    }
+  ]
+}

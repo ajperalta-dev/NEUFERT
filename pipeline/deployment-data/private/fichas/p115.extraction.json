@@ -1,0 +1,490 @@
+{
+  "fichas": [
+    {
+      "id": "4122fb96e4bd1976-115-vision-0",
+      "pdf_page": 115,
+      "book_page": 102,
+      "chapter": "BUILDING COMPONENTS",
+      "section": "Windows",
+      "title": "Loft Windows",
+      "summary": "Loft window size is determined by the desired quality of living and applicable requirements. The page states that living-room window area should be at least one-eighth of the floor area. Windows may be grouped horizontally or vertically using flashing. Wider living-room windows can be created with rafter trimmers and additional rafters; steeper roofs need shorter windows and flatter roofs longer ones. Diagrams show opening types, installation heights, installation details, and window sizes related to floor area.",
+      "building_type": "Residential loft",
+      "spaces": [
+        "Inhabited loft spaces",
+        "Living rooms",
+        "Secondary rooms"
+      ],
+      "uses": [
+        "Daylighting",
+        "Ventilation",
+        "Escape",
+        "Window grouping"
+      ],
+      "furniture_equipment": [
+        "Pivoting window",
+        "Top-hung sliding window",
+        "Sliding window",
+        "Casement door",
+        "Vertical window unit",
+        "Double top-hung/pivoting window",
+        "Escape window",
+        "Plastic frame",
+        "Flashing",
+        "Rafter trimmers",
+        "Additional rafters"
+      ],
+      "dimensions": [
+        {
+          "label": "Minimum window area as fraction of living-room floor area",
+          "value": 0.125,
+          "value_max": null,
+          "unit": "fraction",
+          "context": "Minimum window area for living rooms; the printed fraction is one-eighth of floor area.",
+          "status": "uncertain",
+          "ocr_raw": "a minimum window area of 1/8 of the floor area for living rooms"
+        },
+        {
+          "label": "Installation height",
+          "value": 1.85,
+          "value_max": null,
+          "unit": "m",
+          "context": "Loft-window installation diagram; lower indicated height.",
+          "status": "uncertain",
+          "ocr_raw": "1.85"
+        },
+        {
+          "label": "Installation height",
+          "value": 2.05,
+          "value_max": null,
+          "unit": "m",
+          "context": "Loft-window installation diagram; upper indicated height.",
+          "status": "uncertain",
+          "ocr_raw": "2.05"
+        },
+        {
+          "label": "Installation height",
+          "value": 90.0,
+          "value_max": 110.0,
+          "unit": "cm",
+          "context": "Installation-height diagram; printed range.",
+          "status": "uncertain",
+          "ocr_raw": "90–110"
+        },
+        {
+          "label": "Installation height",
+          "value": 1.2,
+          "value_max": 1.4,
+          "unit": "m",
+          "context": "Installation-height diagram; printed range.",
+          "status": "uncertain",
+          "ocr_raw": "1.20–1.40"
+        },
+        {
+          "label": "Installation height",
+          "value": 1.0,
+          "value_max": 1.2,
+          "unit": "m",
+          "context": "Installation-height diagram; printed range.",
+          "status": "uncertain",
+          "ocr_raw": "1.00–1.20"
+        },
+        {
+          "label": "Installation height",
+          "value": 90.0,
+          "value_max": 100.0,
+          "unit": "cm",
+          "context": "Installation-height diagram; printed range.",
+          "status": "uncertain",
+          "ocr_raw": "90–100"
+        },
+        {
+          "label": "Viewing height",
+          "value": 2.0,
+          "value_max": 2.3,
+          "unit": "m",
+          "context": "Diagrams with an additional vertical window and a dormer window; printed range.",
+          "status": "uncertain",
+          "ocr_raw": "2.00–2.30"
+        },
+        {
+          "label": "Installation height",
+          "value": 90.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Diagrams with an additional vertical window and a dormer window.",
+          "status": "uncertain",
+          "ocr_raw": "90"
+        },
+        {
+          "label": "Minimum height",
+          "value": 1.85,
+          "value_max": null,
+          "unit": "m",
+          "context": "Vertical-section installation variant.",
+          "status": "uncertain",
+          "ocr_raw": "≥ 1.85"
+        },
+        {
+          "label": "Roof angle",
+          "value": 20.0,
+          "value_max": 75.0,
+          "unit": "degrees",
+          "context": "Vertical-section installation variant; printed angle range.",
+          "status": "uncertain",
+          "ocr_raw": "20–75"
+        },
+        {
+          "label": "Window width",
+          "value": 54.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Window-size chart; paired with height 83 cm.",
+          "status": "uncertain",
+          "ocr_raw": "54/83"
+        },
+        {
+          "label": "Window height",
+          "value": 83.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Window-size chart; paired with width 54 cm.",
+          "status": "uncertain",
+          "ocr_raw": "54/83"
+        },
+        {
+          "label": "Admitted light surface area",
+          "value": 0.21,
+          "value_max": null,
+          "unit": "m²",
+          "context": "Window-size chart; window size 54/83.",
+          "status": "uncertain",
+          "ocr_raw": "0.21"
+        },
+        {
+          "label": "Floor area served",
+          "value": 2.0,
+          "value_max": null,
+          "unit": "m²",
+          "context": "Window-size chart; corresponding floor-area entry.",
+          "status": "uncertain",
+          "ocr_raw": "2"
+        },
+        {
+          "label": "Window width",
+          "value": 54.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Window-size chart; paired with height 103 cm.",
+          "status": "uncertain",
+          "ocr_raw": "54/103"
+        },
+        {
+          "label": "Window height",
+          "value": 103.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Window-size chart; paired with width 54 cm.",
+          "status": "uncertain",
+          "ocr_raw": "54/103"
+        },
+        {
+          "label": "Admitted light surface area",
+          "value": 0.28,
+          "value_max": null,
+          "unit": "m²",
+          "context": "Window-size chart; window size 54/103.",
+          "status": "uncertain",
+          "ocr_raw": "0.28"
+        },
+        {
+          "label": "Floor area served",
+          "value": 2.0,
+          "value_max": 3.0,
+          "unit": "m²",
+          "context": "Window-size chart; corresponding floor-area range.",
+          "status": "uncertain",
+          "ocr_raw": "2–3"
+        },
+        {
+          "label": "Window width",
+          "value": 64.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Window-size chart; paired with height 103 cm.",
+          "status": "uncertain",
+          "ocr_raw": "64/103"
+        },
+        {
+          "label": "Window height",
+          "value": 103.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Window-size chart; paired with width 64 cm.",
+          "status": "uncertain",
+          "ocr_raw": "64/103"
+        },
+        {
+          "label": "Admitted light surface area",
+          "value": 0.36,
+          "value_max": null,
+          "unit": "m²",
+          "context": "Window-size chart; window size 64/103.",
+          "status": "uncertain",
+          "ocr_raw": "0.36"
+        },
+        {
+          "label": "Floor area served",
+          "value": 3.0,
+          "value_max": 4.0,
+          "unit": "m²",
+          "context": "Window-size chart; corresponding floor-area range.",
+          "status": "uncertain",
+          "ocr_raw": "3–4"
+        },
+        {
+          "label": "Window width",
+          "value": 74.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Window-size chart; paired with height 103 cm.",
+          "status": "uncertain",
+          "ocr_raw": "74/103"
+        },
+        {
+          "label": "Window height",
+          "value": 103.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Window-size chart; paired with width 74 cm.",
+          "status": "uncertain",
+          "ocr_raw": "74/103"
+        },
+        {
+          "label": "Admitted light surface area",
+          "value": 0.44,
+          "value_max": null,
+          "unit": "m²",
+          "context": "Window-size chart; window size 74/103.",
+          "status": "uncertain",
+          "ocr_raw": "0.44"
+        },
+        {
+          "label": "Floor area served",
+          "value": 4.0,
+          "value_max": 5.0,
+          "unit": "m²",
+          "context": "Window-size chart; corresponding floor-area range.",
+          "status": "uncertain",
+          "ocr_raw": "4–5"
+        },
+        {
+          "label": "Window width",
+          "value": 74.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Window-size chart; paired with height 123 cm.",
+          "status": "uncertain",
+          "ocr_raw": "74/123"
+        },
+        {
+          "label": "Window height",
+          "value": 123.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Window-size chart; paired with width 74 cm.",
+          "status": "uncertain",
+          "ocr_raw": "74/123"
+        },
+        {
+          "label": "Admitted light surface area",
+          "value": 0.55,
+          "value_max": null,
+          "unit": "m²",
+          "context": "Window-size chart; window size 74/123.",
+          "status": "uncertain",
+          "ocr_raw": "0.55"
+        },
+        {
+          "label": "Floor area served",
+          "value": 6.0,
+          "value_max": 7.0,
+          "unit": "m²",
+          "context": "Window-size chart; corresponding floor-area range.",
+          "status": "uncertain",
+          "ocr_raw": "6–7"
+        },
+        {
+          "label": "Window width",
+          "value": 74.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Window-size chart; paired with height 144 cm.",
+          "status": "uncertain",
+          "ocr_raw": "74/144"
+        },
+        {
+          "label": "Window height",
+          "value": 144.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Window-size chart; paired with width 74 cm.",
+          "status": "uncertain",
+          "ocr_raw": "74/144"
+        },
+        {
+          "label": "Admitted light surface area",
+          "value": 0.66,
+          "value_max": null,
+          "unit": "m²",
+          "context": "Window-size chart; window size 74/144.",
+          "status": "uncertain",
+          "ocr_raw": "0.66"
+        },
+        {
+          "label": "Floor area served",
+          "value": 9.0,
+          "value_max": null,
+          "unit": "m²",
+          "context": "Window-size chart; corresponding floor-area entry.",
+          "status": "uncertain",
+          "ocr_raw": "9"
+        },
+        {
+          "label": "Window width",
+          "value": 144.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Window-size chart; paired with height 123 cm.",
+          "status": "uncertain",
+          "ocr_raw": "144/123"
+        },
+        {
+          "label": "Window height",
+          "value": 123.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Window-size chart; paired with width 144 cm.",
+          "status": "uncertain",
+          "ocr_raw": "144/123"
+        },
+        {
+          "label": "Admitted light surface area",
+          "value": 0.93,
+          "value_max": null,
+          "unit": "m²",
+          "context": "Window-size chart; window size 144/123.",
+          "status": "uncertain",
+          "ocr_raw": "0.93"
+        },
+        {
+          "label": "Floor area served",
+          "value": 11.0,
+          "value_max": null,
+          "unit": "m²",
+          "context": "Window-size chart; corresponding floor-area entry.",
+          "status": "uncertain",
+          "ocr_raw": "11"
+        },
+        {
+          "label": "Window width",
+          "value": 114.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Window-size chart; paired with height 144 cm.",
+          "status": "uncertain",
+          "ocr_raw": "114/144"
+        },
+        {
+          "label": "Window height",
+          "value": 144.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Window-size chart; paired with width 114 cm.",
+          "status": "uncertain",
+          "ocr_raw": "114/144"
+        },
+        {
+          "label": "Admitted light surface area",
+          "value": 1.12,
+          "value_max": null,
+          "unit": "m²",
+          "context": "Window-size chart; window size 114/144.",
+          "status": "uncertain",
+          "ocr_raw": "1.12"
+        },
+        {
+          "label": "Floor area served",
+          "value": 13.0,
+          "value_max": null,
+          "unit": "m²",
+          "context": "Window-size chart; corresponding floor-area entry.",
+          "status": "uncertain",
+          "ocr_raw": "13 m²"
+        },
+        {
+          "label": "Window width",
+          "value": 134.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Window-size chart; paired with height 144 cm.",
+          "status": "uncertain",
+          "ocr_raw": "134/144"
+        },
+        {
+          "label": "Window height",
+          "value": 144.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Window-size chart; paired with width 134 cm.",
+          "status": "uncertain",
+          "ocr_raw": "134/144"
+        },
+        {
+          "label": "Admitted light surface area",
+          "value": 1.36,
+          "value_max": null,
+          "unit": "m²",
+          "context": "Window-size chart; window size 134/144.",
+          "status": "uncertain",
+          "ocr_raw": "1.36"
+        }
+      ],
+      "figure_refs": [
+        "1 Pivoting window",
+        "2 Top-hung window, sliding",
+        "3 Sliding window, casement door",
+        "4 Top-hung window with vertical unit",
+        "5 Installation heights for loft windows",
+        "6 With additional vertical window",
+        "7 As dormer window",
+        "8 Installation variant, vertical section",
+        "9 Horizontal section",
+        "10 Window sizes",
+        "11 Calculation of window size, in relation to floor area",
+        "12 Glass facade with integrated loft windows and external perforated metal screen"
+      ],
+      "cross_refs": [
+        "Dormer windows p. 85",
+        "Flashing → 4"
+      ],
+      "keywords": [
+        "loft windows",
+        "window size",
+        "window area",
+        "opening types",
+        "installation height",
+        "roof windows",
+        "daylighting",
+        "escape window",
+        "window group"
+      ],
+      "tags_architectural": [
+        "daylighting",
+        "ventilation",
+        "safety",
+        "spatial_proportion"
+      ],
+      "confidence": 0.94
+    }
+  ]
+}

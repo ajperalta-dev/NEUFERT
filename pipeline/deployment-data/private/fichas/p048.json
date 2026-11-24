@@ -1,0 +1,170 @@
+{
+  "fichas": [
+    {
+      "id": "4122fb96e4bd1976-48-vision-0",
+      "pdf_page": 48,
+      "book_page": 35,
+      "chapter": "BASICS",
+      "section": "Dimensional Basics and Relationships",
+      "title": "Modular Coordination in Building",
+      "summary": "Explains modular coordination as a dimensional and geometric system for positioning and sizing building components. Describes coordinate planes, boundary and centre-line references, modular and non-modular zones, standard modules, and examples including a precast stair, sloping roof, and polygon traverses.",
+      "building_type": "Building construction and dimensional coordination",
+      "spaces": [
+        "Building structures",
+        "Modular zone",
+        "Non-modular zone"
+      ],
+      "uses": [
+        "Coordinate the dimensions and positions of building components",
+        "Coordinate technical areas such as building, electrical engineering, and transport",
+        "Design and detail building structures, including non-rectangular and curved forms"
+      ],
+      "furniture_equipment": [],
+      "dimensions": [
+        {
+          "label": "Storey height",
+          "value": 30.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Pre-cast reinforced concrete stair example",
+          "status": "verified",
+          "ocr_raw": "Storey height= 30 m"
+        },
+        {
+          "label": "Flight length on plan",
+          "value": 42.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Pre-cast reinforced concrete stair example",
+          "status": "verified",
+          "ocr_raw": "Flight length on plan 42 m"
+        },
+        {
+          "label": "Number of risers",
+          "value": 16.0,
+          "value_max": null,
+          "unit": "risers",
+          "context": "Selected stair configuration in the precast reinforced concrete stair example",
+          "status": "verified",
+          "ocr_raw": "z\n\n/\n\n/\n\n/\n\nvv\n\nv\n\n/\n\n/\n\n//X\n\nv\n\n0\n\ne\n\n0\n\ne\n\nDimensions in Building\n\nCe!!e\nReference\n\nBoundary\nReference\n\nBoundary reference, centre-line\nreference\n\nCoordinate line (intersection of two\nplanes)\n\n~~\n0\n\nDIMENSIONAL BASICS AND RELATIONSHIPS\n\nCoordinate plane\n\nr~r\n\nfJ Coordinate system\n\ne\n\n-\n\n/Y\n\nCoordinate point (intersection of\nthree planes)\n\n0\n\n---\n\nSuperimposed partial coordinate\nsystems\n\nStorey height= 30 m\nFlight length on plan 42 m\nSelected:\n16 risers 18.75/26.2 em\n(assuming/em joints)\n\nC) Pre-cast reinforced concrete stair\n\n.»\n\n4Ii) Application example- sloping\nroof\n\nGeometrical considerations\nA coordinate system is always object-specific. It is used to\ncoordinate building structures and components, and determine\ntheir position and size. From these are derived nominal dimensions\nof building components, plus joint and connection thicknesses\n~ 0 - 0. A coordinate system consists of planes arranged at\nright angles to each other, spaced according to the coordinate\nmeasurements. Depending on the system, these can be of\ndifferent sizes and in all three dimensions.\nBuilding components are normally arranged in one dimension\nbetween two parallel coordinate planes so that they fill the\ncoordinate dimension, including the joint component and\nalso taking tolerances into account. A building component\nis therefore defined in its extent, i.e. its size and position, in\none dimension. This is called boundary reference ~ e. In\nother cases, it can be advantageous not to position a building\ncomponent between two planes but rather to have its centreline coincide with a coordinate plane. The component is thus\nspecified in one dimension, but only in terms of position. This\nis called centre-line reference ~ e. A coordinate system can\nbe sub-divided into various sub-systems for different groups\nof building elements (e.g. load-bearing structures, spacedemarcating components etc.) ~ ().\n\nelement\n\n,;;\n\nm\n\nn9 ·M =\n(n3 - n6)· M\n\nn1 · n =\n(n1 - n9 ) • M\n\nCompensating measure on the\nverticals\n\nIt has become apparent that not all individual components have\nto be modular (e.g. each step in a staircase, windows, doors,\netc.), but only the building elements they are combined into (e.g.\nstaircases, fagade or partition elements etc.) ~ 0. For nonmodular building components which continue along or across\nthe whole building, a non-modular zone can be introduced,\nwhich completely divides the coordinate system into two\nsub-systems. The precondition is that the size of the building\ncomponent in the non-modular zone is already known at the\ntime when the coordinate system is set out, because the nonmodular zone can only have completely specified dimensions\n~ 0. Further ways of arranging non-modular building\ncomponents are the so-called central position and edge position\nin modular zones ~\n\ne.\n\nThe units of the modular system are the basic module M =\n100 mm and the multi-modules 3 M = 300 mm, 6 M = 600 mm\nand 12 M = 1200 mm. There are also standardised non-modular\nsupplementary dimensions I = 25 mm, 50 mm and 75 mm for\nfitting elements or overlapping connections ~ G). Combination\nrules can be used to fit building components of various sizes into\na modular coordinate system.\n\n4f) Construction of a curving roof edge @) Modular polygon traverse--> 0\nfrom regular polygon traverses (site\n\nplan)\n\nDIMENSIONAL\nBASICS AND\nRELATIONSHIPS\nMan as measure\nand purpose\nThe universal\nstandard\nBody\nmeasurements\nand space\n\nrequirements\nGeometrical\nrelationships\n\nDimensions in\n\nNon-modular zone\n\nModular zone with laterally\nconnected, non-modular building\ncomponents\n\nModular coordination in building\nThe modular system is a means of coordinating the dimensions\napplicable to building work. The term 'coordination' is the key:\na modular building standard contains details of a design and\ndetailing system based on coordination as an aid in the design and\nconstruction of buildings. It gives geometrical and dimensional\ndefinitions for the spatial coordination of building components.\nIt also enables technical areas, which depend on each other\nwith regard to geometry and dimensions (e.g. building, electrical\nengineering, transport) to be connected.\n\nNumber groups (e.g. Pythagoras') or factorisation (e.g. continued\nfractions) can be utilised to fit non-rectangular building\ncomponents into a modular coordinate ~ 6). The construction\nof polygon traverses (e.g. triangle, square, pentagon and their\nhalves) can be used to design so-called 'round' building structures\n~0-0.\n\n35\n\nbuilding\nBS EN ISO 8560\nBS 6750\nDIN 18000\n\n\f"
+        },
+        {
+          "label": "Riser and joint dimension notation",
+          "value": 18.75,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Stair selection; OCR gives the paired notation 18.75/26.2 cm and notes assumed centimetre joints; the pairing is retained without assigning a separate component.",
+          "status": "verified",
+          "ocr_raw": "z\n\n/\n\n/\n\n/\n\nvv\n\nv\n\n/\n\n/\n\n//X\n\nv\n\n0\n\ne\n\n0\n\ne\n\nDimensions in Building\n\nCe!!e\nReference\n\nBoundary\nReference\n\nBoundary reference, centre-line\nreference\n\nCoordinate line (intersection of two\nplanes)\n\n~~\n0\n\nDIMENSIONAL BASICS AND RELATIONSHIPS\n\nCoordinate plane\n\nr~r\n\nfJ Coordinate system\n\ne\n\n-\n\n/Y\n\nCoordinate point (intersection of\nthree planes)\n\n0\n\n---\n\nSuperimposed partial coordinate\nsystems\n\nStorey height= 30 m\nFlight length on plan 42 m\nSelected:\n16 risers 18.75/26.2 em\n(assuming/em joints)\n\nC) Pre-cast reinforced concrete stair\n\n.»\n\n4Ii) Application example- sloping\nroof\n\nGeometrical considerations\nA coordinate system is always object-specific. It is used to\ncoordinate building structures and components, and determine\ntheir position and size. From these are derived nominal dimensions\nof building components, plus joint and connection thicknesses\n~ 0 - 0. A coordinate system consists of planes arranged at\nright angles to each other, spaced according to the coordinate\nmeasurements. Depending on the system, these can be of\ndifferent sizes and in all three dimensions.\nBuilding components are normally arranged in one dimension\nbetween two parallel coordinate planes so that they fill the\ncoordinate dimension, including the joint component and\nalso taking tolerances into account. A building component\nis therefore defined in its extent, i.e. its size and position, in\none dimension. This is called boundary reference ~ e. In\nother cases, it can be advantageous not to position a building\ncomponent between two planes but rather to have its centreline coincide with a coordinate plane. The component is thus\nspecified in one dimension, but only in terms of position. This\nis called centre-line reference ~ e. A coordinate system can\nbe sub-divided into various sub-systems for different groups\nof building elements (e.g. load-bearing structures, spacedemarcating components etc.) ~ ().\n\nelement\n\n,;;\n\nm\n\nn9 ·M =\n(n3 - n6)· M\n\nn1 · n =\n(n1 - n9 ) • M\n\nCompensating measure on the\nverticals\n\nIt has become apparent that not all individual components have\nto be modular (e.g. each step in a staircase, windows, doors,\netc.), but only the building elements they are combined into (e.g.\nstaircases, fagade or partition elements etc.) ~ 0. For nonmodular building components which continue along or across\nthe whole building, a non-modular zone can be introduced,\nwhich completely divides the coordinate system into two\nsub-systems. The precondition is that the size of the building\ncomponent in the non-modular zone is already known at the\ntime when the coordinate system is set out, because the nonmodular zone can only have completely specified dimensions\n~ 0. Further ways of arranging non-modular building\ncomponents are the so-called central position and edge position\nin modular zones ~\n\ne.\n\nThe units of the modular system are the basic module M =\n100 mm and the multi-modules 3 M = 300 mm, 6 M = 600 mm\nand 12 M = 1200 mm. There are also standardised non-modular\nsupplementary dimensions I = 25 mm, 50 mm and 75 mm for\nfitting elements or overlapping connections ~ G). Combination\nrules can be used to fit building components of various sizes into\na modular coordinate system.\n\n4f) Construction of a curving roof edge @) Modular polygon traverse--> 0\nfrom regular polygon traverses (site\n\nplan)\n\nDIMENSIONAL\nBASICS AND\nRELATIONSHIPS\nMan as measure\nand purpose\nThe universal\nstandard\nBody\nmeasurements\nand space\n\nrequirements\nGeometrical\nrelationships\n\nDimensions in\n\nNon-modular zone\n\nModular zone with laterally\nconnected, non-modular building\ncomponents\n\nModular coordination in building\nThe modular system is a means of coordinating the dimensions\napplicable to building work. The term 'coordination' is the key:\na modular building standard contains details of a design and\ndetailing system based on coordination as an aid in the design and\nconstruction of buildings. It gives geometrical and dimensional\ndefinitions for the spatial coordination of building components.\nIt also enables technical areas, which depend on each other\nwith regard to geometry and dimensions (e.g. building, electrical\nengineering, transport) to be connected.\n\nNumber groups (e.g. Pythagoras') or factorisation (e.g. continued\nfractions) can be utilised to fit non-rectangular building\ncomponents into a modular coordinate ~ 6). The construction\nof polygon traverses (e.g. triangle, square, pentagon and their\nhalves) can be used to design so-called 'round' building structures\n~0-0.\n\n35\n\nbuilding\nBS EN ISO 8560\nBS 6750\nDIN 18000\n\n\f"
+        },
+        {
+          "label": "Basic module M",
+          "value": 100.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Unit of the modular system",
+          "status": "verified",
+          "ocr_raw": "The units of the modular system are the basic module M =\n100 mm"
+        },
+        {
+          "label": "Multi-module 3 M",
+          "value": 300.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Unit of the modular system",
+          "status": "verified",
+          "ocr_raw": "3 M = 300 mm"
+        },
+        {
+          "label": "Multi-module 6 M",
+          "value": 600.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Unit of the modular system",
+          "status": "verified",
+          "ocr_raw": "6 M = 600 mm"
+        },
+        {
+          "label": "Multi-module 12 M",
+          "value": 1200.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Unit of the modular system",
+          "status": "verified",
+          "ocr_raw": "12 M = 1200 mm"
+        },
+        {
+          "label": "Supplementary dimension",
+          "value": 25.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Standardised non-modular supplementary dimensions for fitting elements or overlapping connections; listed values are 25 mm, 50 mm, and 75 mm.",
+          "status": "verified",
+          "ocr_raw": "standardised non-modular\nsupplementary dimensions I = 25 mm, 50 mm and 75 mm"
+        },
+        {
+          "label": "Supplementary dimension",
+          "value": 50.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Standardised non-modular supplementary dimensions for fitting elements or overlapping connections; listed values are 25 mm, 50 mm, and 75 mm.",
+          "status": "verified",
+          "ocr_raw": "standardised non-modular\nsupplementary dimensions I = 25 mm, 50 mm and 75 mm"
+        },
+        {
+          "label": "Supplementary dimension",
+          "value": 75.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Standardised non-modular supplementary dimensions for fitting elements or overlapping connections; listed values are 25 mm, 50 mm, and 75 mm.",
+          "status": "verified",
+          "ocr_raw": "standardised non-modular\nsupplementary dimensions I = 25 mm, 50 mm and 75 mm"
+        }
+      ],
+      "figure_refs": [
+        "1 Coordinate plane",
+        "2 Coordinate system",
+        "3 Boundary reference, centre-line reference",
+        "4 Coordinate line (intersection of two planes)",
+        "5 Coordinate point (intersection of three planes)",
+        "6 Superimposed partial coordinate systems",
+        "7 Non-modular zone",
+        "8 Modular zone with laterally connected, non-modular building components",
+        "9 Pre-cast reinforced concrete stair element",
+        "10 Application example – sloping roof",
+        "11 Compensating measure on the verticals",
+        "12 Construction of a curving roof edge from regular polygon traverses (site plan)",
+        "13 Modular polygon traverse"
+      ],
+      "cross_refs": [
+        "→ 1–5",
+        "→ 3",
+        "→ 6",
+        "→ 9",
+        "→ 7",
+        "→ 8",
+        "→ 11",
+        "→ 10",
+        "→ 12–13"
+      ],
+      "keywords": [
+        "modular coordination",
+        "coordinate system",
+        "coordinate plane",
+        "boundary reference",
+        "centre-line reference",
+        "modular zone",
+        "non-modular zone",
+        "basic module",
+        "multi-modules",
+        "supplementary dimensions",
+        "building components"
+      ],
+      "tags_architectural": [
+        "modularity",
+        "spatial_proportion"
+      ],
+      "confidence": 0.94
+    }
+  ]
+}

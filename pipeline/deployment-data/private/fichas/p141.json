@@ -1,0 +1,411 @@
+{
+  "fichas": [
+    {
+      "id": "4122fb96e4bd1976-141-vision-0",
+      "pdf_page": 141,
+      "book_page": 128,
+      "chapter": "BUILDING COMPONENTS",
+      "section": "Lifts",
+      "title": "Lifts: principles and drive systems",
+      "summary": "Position lifts at the source of traffic flow, allow sufficient space for waiting and queuing without obstructing stairs, and connect them carefully to traffic routes. The page illustrates traction and hydraulic drive arrangements. Traction lifts ideally have the drive above the shaft; hydraulic lifts commonly use a push cylinder, while pull-cylinder arrangements are also shown.",
+      "building_type": "Buildings with lifts",
+      "spaces": [
+        "Lift shaft",
+        "Waiting and queuing area",
+        "Traffic routes",
+        "Machine room"
+      ],
+      "uses": [
+        "Passenger transport",
+        "Goods transport",
+        "Lift circulation"
+      ],
+      "furniture_equipment": [
+        "Lift car",
+        "Counterweight",
+        "Traction sheave and pulleys",
+        "Hydraulic cylinder",
+        "Pump motor",
+        "Control system"
+      ],
+      "dimensions": [
+        {
+          "label": "Drive ratio",
+          "value": 2.0,
+          "value_max": null,
+          "unit": "ratio",
+          "context": "Traction lift, drive at top.",
+          "status": "verified",
+          "ocr_raw": "Drive at top 2:1"
+        },
+        {
+          "label": "Drive ratio",
+          "value": 1.0,
+          "value_max": null,
+          "unit": "ratio",
+          "context": "Traction lift, top arrangement.",
+          "status": "verified",
+          "ocr_raw": "Top 1:1"
+        },
+        {
+          "label": "Drive ratio",
+          "value": 1.0,
+          "value_max": null,
+          "unit": "ratio",
+          "context": "Traction lift, top adjacent arrangement; OCR prints 1.1.",
+          "status": "verified",
+          "ocr_raw": "Top adjacent 1.1"
+        },
+        {
+          "label": "Drive ratio",
+          "value": 1.0,
+          "value_max": null,
+          "unit": "ratio",
+          "context": "Traction lift, bottom adjacent arrangement; OCR prints 1 :1.",
+          "status": "verified",
+          "ocr_raw": "Bottom adjacent 1 :1"
+        },
+        {
+          "label": "Drive ratio",
+          "value": 2.0,
+          "value_max": null,
+          "unit": "ratio",
+          "context": "Hydraulic lift, direct drive central, one-stage.",
+          "status": "uncertain",
+          "ocr_raw": "LIFTS\nPrinciples\nFor all buildings, lifts should\nnormally be positioned at the\nsource of traffic flow. Provide\nsufficient space for waiting and\nqueuing --+ p. 130 which must\nnot infringe on stairs. Carefully\nplan the connection to the traffic\nroutes. There are two different\ndrive systems for lifts:\nI. Traction sheave drive (for\ncable lifts)--+ 0\n2. Hydraulic lifts --+ f) - 0\n\nLIFTS\n\nPrinciples\nControl\nResidential\nbuildings\nPublic buildings\nSmall goods lifts\nHydraulic lifts\nSpecial lifts\n\nDrive at top 2:1\n\n0\n\nTop 1:1\n\nBottom adjacent 1 :1\n\nTop adjacent 1.1\n\nTraction lifts\n\nTraction lifts: ideally have their\ndrives above the shaft. The\nempty weight of the car and half\nthe live load are balanced by the\ncounterweight. Placing the drive\nat the top or at the bottom next\nto the shaft makes necessary\nadditional pulleys, resulting in\nhigher operating costs. The\nmachinery and control system\ncan be accommodated in a\nseparate machine room or, in the\ncase of lifts without a machine\nroom, placed in the shaft --+\np. 134.\n\nBS EN 81\nBS ISO 4190\nDD CEN/TS 81\nDIN EN 81\nDIN 15306\nDIN 15309\n(In the US\nlifts are called\nelevators.)\n\nD\n\nDirect drive\ncentral 1-stage\n\nDirect central\n\nDirect adjacent\n\nIndirect adjacent\n\n1-stage telescopic\n\n1-stage\n\n2:1\n\nf) Hydraulic lifts\n\nA\n\nc\n\nB\n\nPush piston\nhanging 2:1\n\nPull piston\nhanging 1:1\n\nD\n\nPull piston\nindirect 2:1\n\nIndirect pull piston\nwith additional weight\n\nC) Hydraulic lifts, special versions --;0 -f)\n\ntelescopic sliding\n\ndoor\nopening to one side:\nshaft width = 1.5 x\nclear passage width\n\n+27 em \"'1.60 m\n\n~~~~\n\ncentrally opening\nsliding door: shaft\nwidth = 2 x clear\npassage width + 20 em\n\"'1.80 m suitable for\ncars, which should be\nemptied quickly\n\nsix-part telescopic sliding\nfour-part telescopic\nsliding door: shaft\nwidth depends on the\ntype of drive\n\ndoor: suitable for cars\n\nWith hydraulic lifts, a push\ncylinder is mostly used --+ f) 0. The lifting cylinder can be\narranged directly or indirectly.\nThe arrangement of a direct\ncylinder inside a protective\ntube under the ground is no\nlonger suitable because of the\nrequirements for the protection\nof groundwater. The use of a\npull cylinder --+ 0 B-D can be\nappropriate in some cases. A\npull cylinder in its basic form\nbalances a part of the weight\nof the car. This has even more\neffect with additional weights --+\n0 D, because the pump motor\nruns only when the load is lifted\nby the cylinder, while downward\ntravel is enabled simply by\nopening the valve, which requires\nno energy and almost halves the\nconsumption.\n\nwith wide openings e.g. in\nhospitals and commercial\nbuildings\n\nC) Relationship of door-opening type to shaft width\n\n[], Hi\n1-ao-1\nl-1.10-l\n\nf-- Shaft -i\nwidth 1.60\n\n0\n\nPlans of lifts --;\np.130ff.\n\n128\n\nl--90-l\nf-1.10--l\n\n1-- Shaft -i\nwidth 1.67\n\nWheelchair-suitable\n\ni-B0-1\n\n,_\n\nl-1.1 0 -1\n1-- Shaft -j\nwidth 1.60\nThrough-loading\n\nlflL]m\n1- 80-j\nl--1.10-j\n\nf-S0-1\nl-1.10-j\n\nf-- Shaft -t+- Shaft --1\nwidth\n\n1.60\n\n14 width\n1.60\nDouble\n\nI-BO-{\nl--1.10-l\n\n1-BO-j\nl--1.10-j\n\nf-80-j\nl-1.10-j\n\n1-- Shaft -it- Shaft --It- Shaft -I\nwidth\n\n1.60\n\n12\n\nwidth\n\n12\n\n1.60\nTriple\n\nwidth\n\n1.60\n\n\f"
+        },
+        {
+          "label": "Drive ratio",
+          "value": 1.0,
+          "value_max": null,
+          "unit": "ratio",
+          "context": "Hydraulic lift, indirect adjacent arrangement.",
+          "status": "verified",
+          "ocr_raw": "LIFTS\nPrinciples\nFor all buildings, lifts should\nnormally be positioned at the\nsource of traffic flow. Provide\nsufficient space for waiting and\nqueuing --+ p. 130 which must\nnot infringe on stairs. Carefully\nplan the connection to the traffic\nroutes. There are two different\ndrive systems for lifts:\nI. Traction sheave drive (for\ncable lifts)--+ 0\n2. Hydraulic lifts --+ f) - 0\n\nLIFTS\n\nPrinciples\nControl\nResidential\nbuildings\nPublic buildings\nSmall goods lifts\nHydraulic lifts\nSpecial lifts\n\nDrive at top 2:1\n\n0\n\nTop 1:1\n\nBottom adjacent 1 :1\n\nTop adjacent 1.1\n\nTraction lifts\n\nTraction lifts: ideally have their\ndrives above the shaft. The\nempty weight of the car and half\nthe live load are balanced by the\ncounterweight. Placing the drive\nat the top or at the bottom next\nto the shaft makes necessary\nadditional pulleys, resulting in\nhigher operating costs. The\nmachinery and control system\ncan be accommodated in a\nseparate machine room or, in the\ncase of lifts without a machine\nroom, placed in the shaft --+\np. 134.\n\nBS EN 81\nBS ISO 4190\nDD CEN/TS 81\nDIN EN 81\nDIN 15306\nDIN 15309\n(In the US\nlifts are called\nelevators.)\n\nD\n\nDirect drive\ncentral 1-stage\n\nDirect central\n\nDirect adjacent\n\nIndirect adjacent\n\n1-stage telescopic\n\n1-stage\n\n2:1\n\nf) Hydraulic lifts\n\nA\n\nc\n\nB\n\nPush piston\nhanging 2:1\n\nPull piston\nhanging 1:1\n\nD\n\nPull piston\nindirect 2:1\n\nIndirect pull piston\nwith additional weight\n\nC) Hydraulic lifts, special versions --;0 -f)\n\ntelescopic sliding\n\ndoor\nopening to one side:\nshaft width = 1.5 x\nclear passage width\n\n+27 em \"'1.60 m\n\n~~~~\n\ncentrally opening\nsliding door: shaft\nwidth = 2 x clear\npassage width + 20 em\n\"'1.80 m suitable for\ncars, which should be\nemptied quickly\n\nsix-part telescopic sliding\nfour-part telescopic\nsliding door: shaft\nwidth depends on the\ntype of drive\n\ndoor: suitable for cars\n\nWith hydraulic lifts, a push\ncylinder is mostly used --+ f) 0. The lifting cylinder can be\narranged directly or indirectly.\nThe arrangement of a direct\ncylinder inside a protective\ntube under the ground is no\nlonger suitable because of the\nrequirements for the protection\nof groundwater. The use of a\npull cylinder --+ 0 B-D can be\nappropriate in some cases. A\npull cylinder in its basic form\nbalances a part of the weight\nof the car. This has even more\neffect with additional weights --+\n0 D, because the pump motor\nruns only when the load is lifted\nby the cylinder, while downward\ntravel is enabled simply by\nopening the valve, which requires\nno energy and almost halves the\nconsumption.\n\nwith wide openings e.g. in\nhospitals and commercial\nbuildings\n\nC) Relationship of door-opening type to shaft width\n\n[], Hi\n1-ao-1\nl-1.10-l\n\nf-- Shaft -i\nwidth 1.60\n\n0\n\nPlans of lifts --;\np.130ff.\n\n128\n\nl--90-l\nf-1.10--l\n\n1-- Shaft -i\nwidth 1.67\n\nWheelchair-suitable\n\ni-B0-1\n\n,_\n\nl-1.1 0 -1\n1-- Shaft -j\nwidth 1.60\nThrough-loading\n\nlflL]m\n1- 80-j\nl--1.10-j\n\nf-S0-1\nl-1.10-j\n\nf-- Shaft -t+- Shaft --1\nwidth\n\n1.60\n\n14 width\n1.60\nDouble\n\nI-BO-{\nl--1.10-l\n\n1-BO-j\nl--1.10-j\n\nf-80-j\nl-1.10-j\n\n1-- Shaft -it- Shaft --It- Shaft -I\nwidth\n\n1.60\n\n12\n\nwidth\n\n12\n\n1.60\nTriple\n\nwidth\n\n1.60\n\n\f"
+        },
+        {
+          "label": "Drive ratio",
+          "value": 2.0,
+          "value_max": null,
+          "unit": "ratio",
+          "context": "Hydraulic lift, push piston hanging arrangement.",
+          "status": "verified",
+          "ocr_raw": "Push piston\nhanging 2:1"
+        },
+        {
+          "label": "Drive ratio",
+          "value": 1.0,
+          "value_max": null,
+          "unit": "ratio",
+          "context": "Hydraulic lift, pull piston hanging arrangement.",
+          "status": "verified",
+          "ocr_raw": "Pull piston\nhanging 1:1"
+        },
+        {
+          "label": "Drive ratio",
+          "value": 2.0,
+          "value_max": null,
+          "unit": "ratio",
+          "context": "Hydraulic lift, pull piston indirect arrangement.",
+          "status": "verified",
+          "ocr_raw": "Pull piston\nindirect 2:1"
+        }
+      ],
+      "figure_refs": [
+        "1",
+        "2"
+      ],
+      "cross_refs": [
+        "p. 130",
+        "p. 134"
+      ],
+      "keywords": [
+        "lifts",
+        "traction lift",
+        "hydraulic lift",
+        "lift shaft",
+        "machine room",
+        "counterweight"
+      ],
+      "tags_architectural": [
+        "circulation",
+        "clearance",
+        "safety"
+      ],
+      "confidence": 0.9
+    },
+    {
+      "id": "4122fb96e4bd1976-141-vision-1",
+      "pdf_page": 141,
+      "book_page": 128,
+      "chapter": "BUILDING COMPONENTS",
+      "section": "Lifts",
+      "title": "Lift door-opening types and shaft width",
+      "summary": "The diagrams relate sliding-door configurations to shaft width. A one-sided telescopic sliding door is described with a shaft-width formula and a minimum value; a centrally opening sliding door has a separate formula and minimum. Four-part telescopic doors depend on the drive type, while six-part telescopic doors are suited to cars with wide openings, including in hospitals and commercial buildings.",
+      "building_type": "Buildings with lifts",
+      "spaces": [
+        "Lift shaft",
+        "Lift car entrance"
+      ],
+      "uses": [
+        "Passenger access",
+        "Rapid unloading of lift cars",
+        "Wide-opening access"
+      ],
+      "furniture_equipment": [
+        "Telescopic sliding door",
+        "Centrally opening sliding door",
+        "Four-part telescopic sliding door",
+        "Six-part telescopic sliding door"
+      ],
+      "dimensions": [
+        {
+          "label": "Shaft width multiplier",
+          "value": 1.5,
+          "value_max": null,
+          "unit": "× clear passage width",
+          "context": "Telescopic sliding door opening to one side; printed formula also gives an added allowance.",
+          "status": "verified",
+          "ocr_raw": "LIFTS\nPrinciples\nFor all buildings, lifts should\nnormally be positioned at the\nsource of traffic flow. Provide\nsufficient space for waiting and\nqueuing --+ p. 130 which must\nnot infringe on stairs. Carefully\nplan the connection to the traffic\nroutes. There are two different\ndrive systems for lifts:\nI. Traction sheave drive (for\ncable lifts)--+ 0\n2. Hydraulic lifts --+ f) - 0\n\nLIFTS\n\nPrinciples\nControl\nResidential\nbuildings\nPublic buildings\nSmall goods lifts\nHydraulic lifts\nSpecial lifts\n\nDrive at top 2:1\n\n0\n\nTop 1:1\n\nBottom adjacent 1 :1\n\nTop adjacent 1.1\n\nTraction lifts\n\nTraction lifts: ideally have their\ndrives above the shaft. The\nempty weight of the car and half\nthe live load are balanced by the\ncounterweight. Placing the drive\nat the top or at the bottom next\nto the shaft makes necessary\nadditional pulleys, resulting in\nhigher operating costs. The\nmachinery and control system\ncan be accommodated in a\nseparate machine room or, in the\ncase of lifts without a machine\nroom, placed in the shaft --+\np. 134.\n\nBS EN 81\nBS ISO 4190\nDD CEN/TS 81\nDIN EN 81\nDIN 15306\nDIN 15309\n(In the US\nlifts are called\nelevators.)\n\nD\n\nDirect drive\ncentral 1-stage\n\nDirect central\n\nDirect adjacent\n\nIndirect adjacent\n\n1-stage telescopic\n\n1-stage\n\n2:1\n\nf) Hydraulic lifts\n\nA\n\nc\n\nB\n\nPush piston\nhanging 2:1\n\nPull piston\nhanging 1:1\n\nD\n\nPull piston\nindirect 2:1\n\nIndirect pull piston\nwith additional weight\n\nC) Hydraulic lifts, special versions --;0 -f)\n\ntelescopic sliding\n\ndoor\nopening to one side:\nshaft width = 1.5 x\nclear passage width\n\n+27 em \"'1.60 m\n\n~~~~\n\ncentrally opening\nsliding door: shaft\nwidth = 2 x clear\npassage width + 20 em\n\"'1.80 m suitable for\ncars, which should be\nemptied quickly\n\nsix-part telescopic sliding\nfour-part telescopic\nsliding door: shaft\nwidth depends on the\ntype of drive\n\ndoor: suitable for cars\n\nWith hydraulic lifts, a push\ncylinder is mostly used --+ f) 0. The lifting cylinder can be\narranged directly or indirectly.\nThe arrangement of a direct\ncylinder inside a protective\ntube under the ground is no\nlonger suitable because of the\nrequirements for the protection\nof groundwater. The use of a\npull cylinder --+ 0 B-D can be\nappropriate in some cases. A\npull cylinder in its basic form\nbalances a part of the weight\nof the car. This has even more\neffect with additional weights --+\n0 D, because the pump motor\nruns only when the load is lifted\nby the cylinder, while downward\ntravel is enabled simply by\nopening the valve, which requires\nno energy and almost halves the\nconsumption.\n\nwith wide openings e.g. in\nhospitals and commercial\nbuildings\n\nC) Relationship of door-opening type to shaft width\n\n[], Hi\n1-ao-1\nl-1.10-l\n\nf-- Shaft -i\nwidth 1.60\n\n0\n\nPlans of lifts --;\np.130ff.\n\n128\n\nl--90-l\nf-1.10--l\n\n1-- Shaft -i\nwidth 1.67\n\nWheelchair-suitable\n\ni-B0-1\n\n,_\n\nl-1.1 0 -1\n1-- Shaft -j\nwidth 1.60\nThrough-loading\n\nlflL]m\n1- 80-j\nl--1.10-j\n\nf-S0-1\nl-1.10-j\n\nf-- Shaft -t+- Shaft --1\nwidth\n\n1.60\n\n14 width\n1.60\nDouble\n\nI-BO-{\nl--1.10-l\n\n1-BO-j\nl--1.10-j\n\nf-80-j\nl-1.10-j\n\n1-- Shaft -it- Shaft --It- Shaft -I\nwidth\n\n1.60\n\n12\n\nwidth\n\n12\n\n1.60\nTriple\n\nwidth\n\n1.60\n\n\f"
+        },
+        {
+          "label": "Additional shaft width",
+          "value": 27.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "One-sided telescopic sliding door formula.",
+          "status": "verified",
+          "ocr_raw": "LIFTS\nPrinciples\nFor all buildings, lifts should\nnormally be positioned at the\nsource of traffic flow. Provide\nsufficient space for waiting and\nqueuing --+ p. 130 which must\nnot infringe on stairs. Carefully\nplan the connection to the traffic\nroutes. There are two different\ndrive systems for lifts:\nI. Traction sheave drive (for\ncable lifts)--+ 0\n2. Hydraulic lifts --+ f) - 0\n\nLIFTS\n\nPrinciples\nControl\nResidential\nbuildings\nPublic buildings\nSmall goods lifts\nHydraulic lifts\nSpecial lifts\n\nDrive at top 2:1\n\n0\n\nTop 1:1\n\nBottom adjacent 1 :1\n\nTop adjacent 1.1\n\nTraction lifts\n\nTraction lifts: ideally have their\ndrives above the shaft. The\nempty weight of the car and half\nthe live load are balanced by the\ncounterweight. Placing the drive\nat the top or at the bottom next\nto the shaft makes necessary\nadditional pulleys, resulting in\nhigher operating costs. The\nmachinery and control system\ncan be accommodated in a\nseparate machine room or, in the\ncase of lifts without a machine\nroom, placed in the shaft --+\np. 134.\n\nBS EN 81\nBS ISO 4190\nDD CEN/TS 81\nDIN EN 81\nDIN 15306\nDIN 15309\n(In the US\nlifts are called\nelevators.)\n\nD\n\nDirect drive\ncentral 1-stage\n\nDirect central\n\nDirect adjacent\n\nIndirect adjacent\n\n1-stage telescopic\n\n1-stage\n\n2:1\n\nf) Hydraulic lifts\n\nA\n\nc\n\nB\n\nPush piston\nhanging 2:1\n\nPull piston\nhanging 1:1\n\nD\n\nPull piston\nindirect 2:1\n\nIndirect pull piston\nwith additional weight\n\nC) Hydraulic lifts, special versions --;0 -f)\n\ntelescopic sliding\n\ndoor\nopening to one side:\nshaft width = 1.5 x\nclear passage width\n\n+27 em \"'1.60 m\n\n~~~~\n\ncentrally opening\nsliding door: shaft\nwidth = 2 x clear\npassage width + 20 em\n\"'1.80 m suitable for\ncars, which should be\nemptied quickly\n\nsix-part telescopic sliding\nfour-part telescopic\nsliding door: shaft\nwidth depends on the\ntype of drive\n\ndoor: suitable for cars\n\nWith hydraulic lifts, a push\ncylinder is mostly used --+ f) 0. The lifting cylinder can be\narranged directly or indirectly.\nThe arrangement of a direct\ncylinder inside a protective\ntube under the ground is no\nlonger suitable because of the\nrequirements for the protection\nof groundwater. The use of a\npull cylinder --+ 0 B-D can be\nappropriate in some cases. A\npull cylinder in its basic form\nbalances a part of the weight\nof the car. This has even more\neffect with additional weights --+\n0 D, because the pump motor\nruns only when the load is lifted\nby the cylinder, while downward\ntravel is enabled simply by\nopening the valve, which requires\nno energy and almost halves the\nconsumption.\n\nwith wide openings e.g. in\nhospitals and commercial\nbuildings\n\nC) Relationship of door-opening type to shaft width\n\n[], Hi\n1-ao-1\nl-1.10-l\n\nf-- Shaft -i\nwidth 1.60\n\n0\n\nPlans of lifts --;\np.130ff.\n\n128\n\nl--90-l\nf-1.10--l\n\n1-- Shaft -i\nwidth 1.67\n\nWheelchair-suitable\n\ni-B0-1\n\n,_\n\nl-1.1 0 -1\n1-- Shaft -j\nwidth 1.60\nThrough-loading\n\nlflL]m\n1- 80-j\nl--1.10-j\n\nf-S0-1\nl-1.10-j\n\nf-- Shaft -t+- Shaft --1\nwidth\n\n1.60\n\n14 width\n1.60\nDouble\n\nI-BO-{\nl--1.10-l\n\n1-BO-j\nl--1.10-j\n\nf-80-j\nl-1.10-j\n\n1-- Shaft -it- Shaft --It- Shaft -I\nwidth\n\n1.60\n\n12\n\nwidth\n\n12\n\n1.60\nTriple\n\nwidth\n\n1.60\n\n\f"
+        },
+        {
+          "label": "Minimum shaft width",
+          "value": 1.6,
+          "value_max": null,
+          "unit": "m",
+          "context": "One-sided telescopic sliding door; OCR prints a greater-than-or-equal sign.",
+          "status": "verified",
+          "ocr_raw": "LIFTS\nPrinciples\nFor all buildings, lifts should\nnormally be positioned at the\nsource of traffic flow. Provide\nsufficient space for waiting and\nqueuing --+ p. 130 which must\nnot infringe on stairs. Carefully\nplan the connection to the traffic\nroutes. There are two different\ndrive systems for lifts:\nI. Traction sheave drive (for\ncable lifts)--+ 0\n2. Hydraulic lifts --+ f) - 0\n\nLIFTS\n\nPrinciples\nControl\nResidential\nbuildings\nPublic buildings\nSmall goods lifts\nHydraulic lifts\nSpecial lifts\n\nDrive at top 2:1\n\n0\n\nTop 1:1\n\nBottom adjacent 1 :1\n\nTop adjacent 1.1\n\nTraction lifts\n\nTraction lifts: ideally have their\ndrives above the shaft. The\nempty weight of the car and half\nthe live load are balanced by the\ncounterweight. Placing the drive\nat the top or at the bottom next\nto the shaft makes necessary\nadditional pulleys, resulting in\nhigher operating costs. The\nmachinery and control system\ncan be accommodated in a\nseparate machine room or, in the\ncase of lifts without a machine\nroom, placed in the shaft --+\np. 134.\n\nBS EN 81\nBS ISO 4190\nDD CEN/TS 81\nDIN EN 81\nDIN 15306\nDIN 15309\n(In the US\nlifts are called\nelevators.)\n\nD\n\nDirect drive\ncentral 1-stage\n\nDirect central\n\nDirect adjacent\n\nIndirect adjacent\n\n1-stage telescopic\n\n1-stage\n\n2:1\n\nf) Hydraulic lifts\n\nA\n\nc\n\nB\n\nPush piston\nhanging 2:1\n\nPull piston\nhanging 1:1\n\nD\n\nPull piston\nindirect 2:1\n\nIndirect pull piston\nwith additional weight\n\nC) Hydraulic lifts, special versions --;0 -f)\n\ntelescopic sliding\n\ndoor\nopening to one side:\nshaft width = 1.5 x\nclear passage width\n\n+27 em \"'1.60 m\n\n~~~~\n\ncentrally opening\nsliding door: shaft\nwidth = 2 x clear\npassage width + 20 em\n\"'1.80 m suitable for\ncars, which should be\nemptied quickly\n\nsix-part telescopic sliding\nfour-part telescopic\nsliding door: shaft\nwidth depends on the\ntype of drive\n\ndoor: suitable for cars\n\nWith hydraulic lifts, a push\ncylinder is mostly used --+ f) 0. The lifting cylinder can be\narranged directly or indirectly.\nThe arrangement of a direct\ncylinder inside a protective\ntube under the ground is no\nlonger suitable because of the\nrequirements for the protection\nof groundwater. The use of a\npull cylinder --+ 0 B-D can be\nappropriate in some cases. A\npull cylinder in its basic form\nbalances a part of the weight\nof the car. This has even more\neffect with additional weights --+\n0 D, because the pump motor\nruns only when the load is lifted\nby the cylinder, while downward\ntravel is enabled simply by\nopening the valve, which requires\nno energy and almost halves the\nconsumption.\n\nwith wide openings e.g. in\nhospitals and commercial\nbuildings\n\nC) Relationship of door-opening type to shaft width\n\n[], Hi\n1-ao-1\nl-1.10-l\n\nf-- Shaft -i\nwidth 1.60\n\n0\n\nPlans of lifts --;\np.130ff.\n\n128\n\nl--90-l\nf-1.10--l\n\n1-- Shaft -i\nwidth 1.67\n\nWheelchair-suitable\n\ni-B0-1\n\n,_\n\nl-1.1 0 -1\n1-- Shaft -j\nwidth 1.60\nThrough-loading\n\nlflL]m\n1- 80-j\nl--1.10-j\n\nf-S0-1\nl-1.10-j\n\nf-- Shaft -t+- Shaft --1\nwidth\n\n1.60\n\n14 width\n1.60\nDouble\n\nI-BO-{\nl--1.10-l\n\n1-BO-j\nl--1.10-j\n\nf-80-j\nl-1.10-j\n\n1-- Shaft -it- Shaft --It- Shaft -I\nwidth\n\n1.60\n\n12\n\nwidth\n\n12\n\n1.60\nTriple\n\nwidth\n\n1.60\n\n\f"
+        },
+        {
+          "label": "Shaft width multiplier",
+          "value": 2.0,
+          "value_max": null,
+          "unit": "× clear passage width",
+          "context": "Centrally opening sliding door; printed formula also gives an added allowance.",
+          "status": "verified",
+          "ocr_raw": "LIFTS\nPrinciples\nFor all buildings, lifts should\nnormally be positioned at the\nsource of traffic flow. Provide\nsufficient space for waiting and\nqueuing --+ p. 130 which must\nnot infringe on stairs. Carefully\nplan the connection to the traffic\nroutes. There are two different\ndrive systems for lifts:\nI. Traction sheave drive (for\ncable lifts)--+ 0\n2. Hydraulic lifts --+ f) - 0\n\nLIFTS\n\nPrinciples\nControl\nResidential\nbuildings\nPublic buildings\nSmall goods lifts\nHydraulic lifts\nSpecial lifts\n\nDrive at top 2:1\n\n0\n\nTop 1:1\n\nBottom adjacent 1 :1\n\nTop adjacent 1.1\n\nTraction lifts\n\nTraction lifts: ideally have their\ndrives above the shaft. The\nempty weight of the car and half\nthe live load are balanced by the\ncounterweight. Placing the drive\nat the top or at the bottom next\nto the shaft makes necessary\nadditional pulleys, resulting in\nhigher operating costs. The\nmachinery and control system\ncan be accommodated in a\nseparate machine room or, in the\ncase of lifts without a machine\nroom, placed in the shaft --+\np. 134.\n\nBS EN 81\nBS ISO 4190\nDD CEN/TS 81\nDIN EN 81\nDIN 15306\nDIN 15309\n(In the US\nlifts are called\nelevators.)\n\nD\n\nDirect drive\ncentral 1-stage\n\nDirect central\n\nDirect adjacent\n\nIndirect adjacent\n\n1-stage telescopic\n\n1-stage\n\n2:1\n\nf) Hydraulic lifts\n\nA\n\nc\n\nB\n\nPush piston\nhanging 2:1\n\nPull piston\nhanging 1:1\n\nD\n\nPull piston\nindirect 2:1\n\nIndirect pull piston\nwith additional weight\n\nC) Hydraulic lifts, special versions --;0 -f)\n\ntelescopic sliding\n\ndoor\nopening to one side:\nshaft width = 1.5 x\nclear passage width\n\n+27 em \"'1.60 m\n\n~~~~\n\ncentrally opening\nsliding door: shaft\nwidth = 2 x clear\npassage width + 20 em\n\"'1.80 m suitable for\ncars, which should be\nemptied quickly\n\nsix-part telescopic sliding\nfour-part telescopic\nsliding door: shaft\nwidth depends on the\ntype of drive\n\ndoor: suitable for cars\n\nWith hydraulic lifts, a push\ncylinder is mostly used --+ f) 0. The lifting cylinder can be\narranged directly or indirectly.\nThe arrangement of a direct\ncylinder inside a protective\ntube under the ground is no\nlonger suitable because of the\nrequirements for the protection\nof groundwater. The use of a\npull cylinder --+ 0 B-D can be\nappropriate in some cases. A\npull cylinder in its basic form\nbalances a part of the weight\nof the car. This has even more\neffect with additional weights --+\n0 D, because the pump motor\nruns only when the load is lifted\nby the cylinder, while downward\ntravel is enabled simply by\nopening the valve, which requires\nno energy and almost halves the\nconsumption.\n\nwith wide openings e.g. in\nhospitals and commercial\nbuildings\n\nC) Relationship of door-opening type to shaft width\n\n[], Hi\n1-ao-1\nl-1.10-l\n\nf-- Shaft -i\nwidth 1.60\n\n0\n\nPlans of lifts --;\np.130ff.\n\n128\n\nl--90-l\nf-1.10--l\n\n1-- Shaft -i\nwidth 1.67\n\nWheelchair-suitable\n\ni-B0-1\n\n,_\n\nl-1.1 0 -1\n1-- Shaft -j\nwidth 1.60\nThrough-loading\n\nlflL]m\n1- 80-j\nl--1.10-j\n\nf-S0-1\nl-1.10-j\n\nf-- Shaft -t+- Shaft --1\nwidth\n\n1.60\n\n14 width\n1.60\nDouble\n\nI-BO-{\nl--1.10-l\n\n1-BO-j\nl--1.10-j\n\nf-80-j\nl-1.10-j\n\n1-- Shaft -it- Shaft --It- Shaft -I\nwidth\n\n1.60\n\n12\n\nwidth\n\n12\n\n1.60\nTriple\n\nwidth\n\n1.60\n\n\f"
+        },
+        {
+          "label": "Additional shaft width",
+          "value": 20.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Centrally opening sliding door formula.",
+          "status": "verified",
+          "ocr_raw": "LIFTS\nPrinciples\nFor all buildings, lifts should\nnormally be positioned at the\nsource of traffic flow. Provide\nsufficient space for waiting and\nqueuing --+ p. 130 which must\nnot infringe on stairs. Carefully\nplan the connection to the traffic\nroutes. There are two different\ndrive systems for lifts:\nI. Traction sheave drive (for\ncable lifts)--+ 0\n2. Hydraulic lifts --+ f) - 0\n\nLIFTS\n\nPrinciples\nControl\nResidential\nbuildings\nPublic buildings\nSmall goods lifts\nHydraulic lifts\nSpecial lifts\n\nDrive at top 2:1\n\n0\n\nTop 1:1\n\nBottom adjacent 1 :1\n\nTop adjacent 1.1\n\nTraction lifts\n\nTraction lifts: ideally have their\ndrives above the shaft. The\nempty weight of the car and half\nthe live load are balanced by the\ncounterweight. Placing the drive\nat the top or at the bottom next\nto the shaft makes necessary\nadditional pulleys, resulting in\nhigher operating costs. The\nmachinery and control system\ncan be accommodated in a\nseparate machine room or, in the\ncase of lifts without a machine\nroom, placed in the shaft --+\np. 134.\n\nBS EN 81\nBS ISO 4190\nDD CEN/TS 81\nDIN EN 81\nDIN 15306\nDIN 15309\n(In the US\nlifts are called\nelevators.)\n\nD\n\nDirect drive\ncentral 1-stage\n\nDirect central\n\nDirect adjacent\n\nIndirect adjacent\n\n1-stage telescopic\n\n1-stage\n\n2:1\n\nf) Hydraulic lifts\n\nA\n\nc\n\nB\n\nPush piston\nhanging 2:1\n\nPull piston\nhanging 1:1\n\nD\n\nPull piston\nindirect 2:1\n\nIndirect pull piston\nwith additional weight\n\nC) Hydraulic lifts, special versions --;0 -f)\n\ntelescopic sliding\n\ndoor\nopening to one side:\nshaft width = 1.5 x\nclear passage width\n\n+27 em \"'1.60 m\n\n~~~~\n\ncentrally opening\nsliding door: shaft\nwidth = 2 x clear\npassage width + 20 em\n\"'1.80 m suitable for\ncars, which should be\nemptied quickly\n\nsix-part telescopic sliding\nfour-part telescopic\nsliding door: shaft\nwidth depends on the\ntype of drive\n\ndoor: suitable for cars\n\nWith hydraulic lifts, a push\ncylinder is mostly used --+ f) 0. The lifting cylinder can be\narranged directly or indirectly.\nThe arrangement of a direct\ncylinder inside a protective\ntube under the ground is no\nlonger suitable because of the\nrequirements for the protection\nof groundwater. The use of a\npull cylinder --+ 0 B-D can be\nappropriate in some cases. A\npull cylinder in its basic form\nbalances a part of the weight\nof the car. This has even more\neffect with additional weights --+\n0 D, because the pump motor\nruns only when the load is lifted\nby the cylinder, while downward\ntravel is enabled simply by\nopening the valve, which requires\nno energy and almost halves the\nconsumption.\n\nwith wide openings e.g. in\nhospitals and commercial\nbuildings\n\nC) Relationship of door-opening type to shaft width\n\n[], Hi\n1-ao-1\nl-1.10-l\n\nf-- Shaft -i\nwidth 1.60\n\n0\n\nPlans of lifts --;\np.130ff.\n\n128\n\nl--90-l\nf-1.10--l\n\n1-- Shaft -i\nwidth 1.67\n\nWheelchair-suitable\n\ni-B0-1\n\n,_\n\nl-1.1 0 -1\n1-- Shaft -j\nwidth 1.60\nThrough-loading\n\nlflL]m\n1- 80-j\nl--1.10-j\n\nf-S0-1\nl-1.10-j\n\nf-- Shaft -t+- Shaft --1\nwidth\n\n1.60\n\n14 width\n1.60\nDouble\n\nI-BO-{\nl--1.10-l\n\n1-BO-j\nl--1.10-j\n\nf-80-j\nl-1.10-j\n\n1-- Shaft -it- Shaft --It- Shaft -I\nwidth\n\n1.60\n\n12\n\nwidth\n\n12\n\n1.60\nTriple\n\nwidth\n\n1.60\n\n\f"
+        },
+        {
+          "label": "Minimum shaft width",
+          "value": 1.8,
+          "value_max": null,
+          "unit": "m",
+          "context": "Centrally opening sliding door; OCR prints a greater-than-or-equal sign.",
+          "status": "verified",
+          "ocr_raw": "LIFTS\nPrinciples\nFor all buildings, lifts should\nnormally be positioned at the\nsource of traffic flow. Provide\nsufficient space for waiting and\nqueuing --+ p. 130 which must\nnot infringe on stairs. Carefully\nplan the connection to the traffic\nroutes. There are two different\ndrive systems for lifts:\nI. Traction sheave drive (for\ncable lifts)--+ 0\n2. Hydraulic lifts --+ f) - 0\n\nLIFTS\n\nPrinciples\nControl\nResidential\nbuildings\nPublic buildings\nSmall goods lifts\nHydraulic lifts\nSpecial lifts\n\nDrive at top 2:1\n\n0\n\nTop 1:1\n\nBottom adjacent 1 :1\n\nTop adjacent 1.1\n\nTraction lifts\n\nTraction lifts: ideally have their\ndrives above the shaft. The\nempty weight of the car and half\nthe live load are balanced by the\ncounterweight. Placing the drive\nat the top or at the bottom next\nto the shaft makes necessary\nadditional pulleys, resulting in\nhigher operating costs. The\nmachinery and control system\ncan be accommodated in a\nseparate machine room or, in the\ncase of lifts without a machine\nroom, placed in the shaft --+\np. 134.\n\nBS EN 81\nBS ISO 4190\nDD CEN/TS 81\nDIN EN 81\nDIN 15306\nDIN 15309\n(In the US\nlifts are called\nelevators.)\n\nD\n\nDirect drive\ncentral 1-stage\n\nDirect central\n\nDirect adjacent\n\nIndirect adjacent\n\n1-stage telescopic\n\n1-stage\n\n2:1\n\nf) Hydraulic lifts\n\nA\n\nc\n\nB\n\nPush piston\nhanging 2:1\n\nPull piston\nhanging 1:1\n\nD\n\nPull piston\nindirect 2:1\n\nIndirect pull piston\nwith additional weight\n\nC) Hydraulic lifts, special versions --;0 -f)\n\ntelescopic sliding\n\ndoor\nopening to one side:\nshaft width = 1.5 x\nclear passage width\n\n+27 em \"'1.60 m\n\n~~~~\n\ncentrally opening\nsliding door: shaft\nwidth = 2 x clear\npassage width + 20 em\n\"'1.80 m suitable for\ncars, which should be\nemptied quickly\n\nsix-part telescopic sliding\nfour-part telescopic\nsliding door: shaft\nwidth depends on the\ntype of drive\n\ndoor: suitable for cars\n\nWith hydraulic lifts, a push\ncylinder is mostly used --+ f) 0. The lifting cylinder can be\narranged directly or indirectly.\nThe arrangement of a direct\ncylinder inside a protective\ntube under the ground is no\nlonger suitable because of the\nrequirements for the protection\nof groundwater. The use of a\npull cylinder --+ 0 B-D can be\nappropriate in some cases. A\npull cylinder in its basic form\nbalances a part of the weight\nof the car. This has even more\neffect with additional weights --+\n0 D, because the pump motor\nruns only when the load is lifted\nby the cylinder, while downward\ntravel is enabled simply by\nopening the valve, which requires\nno energy and almost halves the\nconsumption.\n\nwith wide openings e.g. in\nhospitals and commercial\nbuildings\n\nC) Relationship of door-opening type to shaft width\n\n[], Hi\n1-ao-1\nl-1.10-l\n\nf-- Shaft -i\nwidth 1.60\n\n0\n\nPlans of lifts --;\np.130ff.\n\n128\n\nl--90-l\nf-1.10--l\n\n1-- Shaft -i\nwidth 1.67\n\nWheelchair-suitable\n\ni-B0-1\n\n,_\n\nl-1.1 0 -1\n1-- Shaft -j\nwidth 1.60\nThrough-loading\n\nlflL]m\n1- 80-j\nl--1.10-j\n\nf-S0-1\nl-1.10-j\n\nf-- Shaft -t+- Shaft --1\nwidth\n\n1.60\n\n14 width\n1.60\nDouble\n\nI-BO-{\nl--1.10-l\n\n1-BO-j\nl--1.10-j\n\nf-80-j\nl-1.10-j\n\n1-- Shaft -it- Shaft --It- Shaft -I\nwidth\n\n1.60\n\n12\n\nwidth\n\n12\n\n1.60\nTriple\n\nwidth\n\n1.60\n\n\f"
+        }
+      ],
+      "figure_refs": [
+        "3",
+        "4"
+      ],
+      "cross_refs": [],
+      "keywords": [
+        "lift doors",
+        "shaft width",
+        "clear passage width",
+        "telescopic sliding door"
+      ],
+      "tags_architectural": [
+        "accessibility",
+        "clearance",
+        "adaptability"
+      ],
+      "confidence": 0.91
+    },
+    {
+      "id": "4122fb96e4bd1976-141-vision-2",
+      "pdf_page": 141,
+      "book_page": 128,
+      "chapter": "BUILDING COMPONENTS",
+      "section": "Lifts",
+      "title": "Lift plans and shaft dimensions",
+      "summary": "Plans show standard, wheelchair-suitable, through-loading, double, and triple lift arrangements. The diagrams print car, shaft, and depth dimensions; the standard plan also indicates a 630 kg, 8-person car. The double and triple arrangements show repeated shaft-width dimensions and separation notation.",
+      "building_type": "Buildings with lifts",
+      "spaces": [
+        "Lift shaft",
+        "Lift car",
+        "Through-loading lift lobby"
+      ],
+      "uses": [
+        "Passenger transport",
+        "Wheelchair-accessible transport",
+        "Through-loading",
+        "Multiple-car lift installation"
+      ],
+      "furniture_equipment": [
+        "Lift car",
+        "Lift doors",
+        "Wheelchair symbol"
+      ],
+      "dimensions": [
+        {
+          "label": "Rated capacity",
+          "value": 630.0,
+          "value_max": null,
+          "unit": "kg",
+          "context": "Standard lift plan; car also labeled for 8 persons.",
+          "status": "verified",
+          "ocr_raw": "LIFTS\nPrinciples\nFor all buildings, lifts should\nnormally be positioned at the\nsource of traffic flow. Provide\nsufficient space for waiting and\nqueuing --+ p. 130 which must\nnot infringe on stairs. Carefully\nplan the connection to the traffic\nroutes. There are two different\ndrive systems for lifts:\nI. Traction sheave drive (for\ncable lifts)--+ 0\n2. Hydraulic lifts --+ f) - 0\n\nLIFTS\n\nPrinciples\nControl\nResidential\nbuildings\nPublic buildings\nSmall goods lifts\nHydraulic lifts\nSpecial lifts\n\nDrive at top 2:1\n\n0\n\nTop 1:1\n\nBottom adjacent 1 :1\n\nTop adjacent 1.1\n\nTraction lifts\n\nTraction lifts: ideally have their\ndrives above the shaft. The\nempty weight of the car and half\nthe live load are balanced by the\ncounterweight. Placing the drive\nat the top or at the bottom next\nto the shaft makes necessary\nadditional pulleys, resulting in\nhigher operating costs. The\nmachinery and control system\ncan be accommodated in a\nseparate machine room or, in the\ncase of lifts without a machine\nroom, placed in the shaft --+\np. 134.\n\nBS EN 81\nBS ISO 4190\nDD CEN/TS 81\nDIN EN 81\nDIN 15306\nDIN 15309\n(In the US\nlifts are called\nelevators.)\n\nD\n\nDirect drive\ncentral 1-stage\n\nDirect central\n\nDirect adjacent\n\nIndirect adjacent\n\n1-stage telescopic\n\n1-stage\n\n2:1\n\nf) Hydraulic lifts\n\nA\n\nc\n\nB\n\nPush piston\nhanging 2:1\n\nPull piston\nhanging 1:1\n\nD\n\nPull piston\nindirect 2:1\n\nIndirect pull piston\nwith additional weight\n\nC) Hydraulic lifts, special versions --;0 -f)\n\ntelescopic sliding\n\ndoor\nopening to one side:\nshaft width = 1.5 x\nclear passage width\n\n+27 em \"'1.60 m\n\n~~~~\n\ncentrally opening\nsliding door: shaft\nwidth = 2 x clear\npassage width + 20 em\n\"'1.80 m suitable for\ncars, which should be\nemptied quickly\n\nsix-part telescopic sliding\nfour-part telescopic\nsliding door: shaft\nwidth depends on the\ntype of drive\n\ndoor: suitable for cars\n\nWith hydraulic lifts, a push\ncylinder is mostly used --+ f) 0. The lifting cylinder can be\narranged directly or indirectly.\nThe arrangement of a direct\ncylinder inside a protective\ntube under the ground is no\nlonger suitable because of the\nrequirements for the protection\nof groundwater. The use of a\npull cylinder --+ 0 B-D can be\nappropriate in some cases. A\npull cylinder in its basic form\nbalances a part of the weight\nof the car. This has even more\neffect with additional weights --+\n0 D, because the pump motor\nruns only when the load is lifted\nby the cylinder, while downward\ntravel is enabled simply by\nopening the valve, which requires\nno energy and almost halves the\nconsumption.\n\nwith wide openings e.g. in\nhospitals and commercial\nbuildings\n\nC) Relationship of door-opening type to shaft width\n\n[], Hi\n1-ao-1\nl-1.10-l\n\nf-- Shaft -i\nwidth 1.60\n\n0\n\nPlans of lifts --;\np.130ff.\n\n128\n\nl--90-l\nf-1.10--l\n\n1-- Shaft -i\nwidth 1.67\n\nWheelchair-suitable\n\ni-B0-1\n\n,_\n\nl-1.1 0 -1\n1-- Shaft -j\nwidth 1.60\nThrough-loading\n\nlflL]m\n1- 80-j\nl--1.10-j\n\nf-S0-1\nl-1.10-j\n\nf-- Shaft -t+- Shaft --1\nwidth\n\n1.60\n\n14 width\n1.60\nDouble\n\nI-BO-{\nl--1.10-l\n\n1-BO-j\nl--1.10-j\n\nf-80-j\nl-1.10-j\n\n1-- Shaft -it- Shaft --It- Shaft -I\nwidth\n\n1.60\n\n12\n\nwidth\n\n12\n\n1.60\nTriple\n\nwidth\n\n1.60\n\n\f"
+        },
+        {
+          "label": "Passenger capacity",
+          "value": 8.0,
+          "value_max": null,
+          "unit": "persons",
+          "context": "Standard lift plan.",
+          "status": "verified",
+          "ocr_raw": "LIFTS\nPrinciples\nFor all buildings, lifts should\nnormally be positioned at the\nsource of traffic flow. Provide\nsufficient space for waiting and\nqueuing --+ p. 130 which must\nnot infringe on stairs. Carefully\nplan the connection to the traffic\nroutes. There are two different\ndrive systems for lifts:\nI. Traction sheave drive (for\ncable lifts)--+ 0\n2. Hydraulic lifts --+ f) - 0\n\nLIFTS\n\nPrinciples\nControl\nResidential\nbuildings\nPublic buildings\nSmall goods lifts\nHydraulic lifts\nSpecial lifts\n\nDrive at top 2:1\n\n0\n\nTop 1:1\n\nBottom adjacent 1 :1\n\nTop adjacent 1.1\n\nTraction lifts\n\nTraction lifts: ideally have their\ndrives above the shaft. The\nempty weight of the car and half\nthe live load are balanced by the\ncounterweight. Placing the drive\nat the top or at the bottom next\nto the shaft makes necessary\nadditional pulleys, resulting in\nhigher operating costs. The\nmachinery and control system\ncan be accommodated in a\nseparate machine room or, in the\ncase of lifts without a machine\nroom, placed in the shaft --+\np. 134.\n\nBS EN 81\nBS ISO 4190\nDD CEN/TS 81\nDIN EN 81\nDIN 15306\nDIN 15309\n(In the US\nlifts are called\nelevators.)\n\nD\n\nDirect drive\ncentral 1-stage\n\nDirect central\n\nDirect adjacent\n\nIndirect adjacent\n\n1-stage telescopic\n\n1-stage\n\n2:1\n\nf) Hydraulic lifts\n\nA\n\nc\n\nB\n\nPush piston\nhanging 2:1\n\nPull piston\nhanging 1:1\n\nD\n\nPull piston\nindirect 2:1\n\nIndirect pull piston\nwith additional weight\n\nC) Hydraulic lifts, special versions --;0 -f)\n\ntelescopic sliding\n\ndoor\nopening to one side:\nshaft width = 1.5 x\nclear passage width\n\n+27 em \"'1.60 m\n\n~~~~\n\ncentrally opening\nsliding door: shaft\nwidth = 2 x clear\npassage width + 20 em\n\"'1.80 m suitable for\ncars, which should be\nemptied quickly\n\nsix-part telescopic sliding\nfour-part telescopic\nsliding door: shaft\nwidth depends on the\ntype of drive\n\ndoor: suitable for cars\n\nWith hydraulic lifts, a push\ncylinder is mostly used --+ f) 0. The lifting cylinder can be\narranged directly or indirectly.\nThe arrangement of a direct\ncylinder inside a protective\ntube under the ground is no\nlonger suitable because of the\nrequirements for the protection\nof groundwater. The use of a\npull cylinder --+ 0 B-D can be\nappropriate in some cases. A\npull cylinder in its basic form\nbalances a part of the weight\nof the car. This has even more\neffect with additional weights --+\n0 D, because the pump motor\nruns only when the load is lifted\nby the cylinder, while downward\ntravel is enabled simply by\nopening the valve, which requires\nno energy and almost halves the\nconsumption.\n\nwith wide openings e.g. in\nhospitals and commercial\nbuildings\n\nC) Relationship of door-opening type to shaft width\n\n[], Hi\n1-ao-1\nl-1.10-l\n\nf-- Shaft -i\nwidth 1.60\n\n0\n\nPlans of lifts --;\np.130ff.\n\n128\n\nl--90-l\nf-1.10--l\n\n1-- Shaft -i\nwidth 1.67\n\nWheelchair-suitable\n\ni-B0-1\n\n,_\n\nl-1.1 0 -1\n1-- Shaft -j\nwidth 1.60\nThrough-loading\n\nlflL]m\n1- 80-j\nl--1.10-j\n\nf-S0-1\nl-1.10-j\n\nf-- Shaft -t+- Shaft --1\nwidth\n\n1.60\n\n14 width\n1.60\nDouble\n\nI-BO-{\nl--1.10-l\n\n1-BO-j\nl--1.10-j\n\nf-80-j\nl-1.10-j\n\n1-- Shaft -it- Shaft --It- Shaft -I\nwidth\n\n1.60\n\n12\n\nwidth\n\n12\n\n1.60\nTriple\n\nwidth\n\n1.60\n\n\f"
+        },
+        {
+          "label": "Car width",
+          "value": 0.8,
+          "value_max": null,
+          "unit": "m",
+          "context": "Standard lift plan; OCR notation 80, adjacent to the car-width dimension.",
+          "status": "uncertain",
+          "ocr_raw": "80"
+        },
+        {
+          "label": "Car dimension",
+          "value": 1.1,
+          "value_max": null,
+          "unit": "m",
+          "context": "Standard lift plan; OCR notation 1.10.",
+          "status": "uncertain",
+          "ocr_raw": "1.10"
+        },
+        {
+          "label": "Shaft width",
+          "value": 1.6,
+          "value_max": null,
+          "unit": "m",
+          "context": "Standard lift plan.",
+          "status": "uncertain",
+          "ocr_raw": "LIFTS\nPrinciples\nFor all buildings, lifts should\nnormally be positioned at the\nsource of traffic flow. Provide\nsufficient space for waiting and\nqueuing --+ p. 130 which must\nnot infringe on stairs. Carefully\nplan the connection to the traffic\nroutes. There are two different\ndrive systems for lifts:\nI. Traction sheave drive (for\ncable lifts)--+ 0\n2. Hydraulic lifts --+ f) - 0\n\nLIFTS\n\nPrinciples\nControl\nResidential\nbuildings\nPublic buildings\nSmall goods lifts\nHydraulic lifts\nSpecial lifts\n\nDrive at top 2:1\n\n0\n\nTop 1:1\n\nBottom adjacent 1 :1\n\nTop adjacent 1.1\n\nTraction lifts\n\nTraction lifts: ideally have their\ndrives above the shaft. The\nempty weight of the car and half\nthe live load are balanced by the\ncounterweight. Placing the drive\nat the top or at the bottom next\nto the shaft makes necessary\nadditional pulleys, resulting in\nhigher operating costs. The\nmachinery and control system\ncan be accommodated in a\nseparate machine room or, in the\ncase of lifts without a machine\nroom, placed in the shaft --+\np. 134.\n\nBS EN 81\nBS ISO 4190\nDD CEN/TS 81\nDIN EN 81\nDIN 15306\nDIN 15309\n(In the US\nlifts are called\nelevators.)\n\nD\n\nDirect drive\ncentral 1-stage\n\nDirect central\n\nDirect adjacent\n\nIndirect adjacent\n\n1-stage telescopic\n\n1-stage\n\n2:1\n\nf) Hydraulic lifts\n\nA\n\nc\n\nB\n\nPush piston\nhanging 2:1\n\nPull piston\nhanging 1:1\n\nD\n\nPull piston\nindirect 2:1\n\nIndirect pull piston\nwith additional weight\n\nC) Hydraulic lifts, special versions --;0 -f)\n\ntelescopic sliding\n\ndoor\nopening to one side:\nshaft width = 1.5 x\nclear passage width\n\n+27 em \"'1.60 m\n\n~~~~\n\ncentrally opening\nsliding door: shaft\nwidth = 2 x clear\npassage width + 20 em\n\"'1.80 m suitable for\ncars, which should be\nemptied quickly\n\nsix-part telescopic sliding\nfour-part telescopic\nsliding door: shaft\nwidth depends on the\ntype of drive\n\ndoor: suitable for cars\n\nWith hydraulic lifts, a push\ncylinder is mostly used --+ f) 0. The lifting cylinder can be\narranged directly or indirectly.\nThe arrangement of a direct\ncylinder inside a protective\ntube under the ground is no\nlonger suitable because of the\nrequirements for the protection\nof groundwater. The use of a\npull cylinder --+ 0 B-D can be\nappropriate in some cases. A\npull cylinder in its basic form\nbalances a part of the weight\nof the car. This has even more\neffect with additional weights --+\n0 D, because the pump motor\nruns only when the load is lifted\nby the cylinder, while downward\ntravel is enabled simply by\nopening the valve, which requires\nno energy and almost halves the\nconsumption.\n\nwith wide openings e.g. in\nhospitals and commercial\nbuildings\n\nC) Relationship of door-opening type to shaft width\n\n[], Hi\n1-ao-1\nl-1.10-l\n\nf-- Shaft -i\nwidth 1.60\n\n0\n\nPlans of lifts --;\np.130ff.\n\n128\n\nl--90-l\nf-1.10--l\n\n1-- Shaft -i\nwidth 1.67\n\nWheelchair-suitable\n\ni-B0-1\n\n,_\n\nl-1.1 0 -1\n1-- Shaft -j\nwidth 1.60\nThrough-loading\n\nlflL]m\n1- 80-j\nl--1.10-j\n\nf-S0-1\nl-1.10-j\n\nf-- Shaft -t+- Shaft --1\nwidth\n\n1.60\n\n14 width\n1.60\nDouble\n\nI-BO-{\nl--1.10-l\n\n1-BO-j\nl--1.10-j\n\nf-80-j\nl-1.10-j\n\n1-- Shaft -it- Shaft --It- Shaft -I\nwidth\n\n1.60\n\n12\n\nwidth\n\n12\n\n1.60\nTriple\n\nwidth\n\n1.60\n\n\f"
+        },
+        {
+          "label": "Car dimension",
+          "value": 1.4,
+          "value_max": null,
+          "unit": "m",
+          "context": "Standard and wheelchair-suitable lift plans; diagram labels the vertical car dimension.",
+          "status": "uncertain",
+          "ocr_raw": "LIFTS\nPrinciples\nFor all buildings, lifts should\nnormally be positioned at the\nsource of traffic flow. Provide\nsufficient space for waiting and\nqueuing --+ p. 130 which must\nnot infringe on stairs. Carefully\nplan the connection to the traffic\nroutes. There are two different\ndrive systems for lifts:\nI. Traction sheave drive (for\ncable lifts)--+ 0\n2. Hydraulic lifts --+ f) - 0\n\nLIFTS\n\nPrinciples\nControl\nResidential\nbuildings\nPublic buildings\nSmall goods lifts\nHydraulic lifts\nSpecial lifts\n\nDrive at top 2:1\n\n0\n\nTop 1:1\n\nBottom adjacent 1 :1\n\nTop adjacent 1.1\n\nTraction lifts\n\nTraction lifts: ideally have their\ndrives above the shaft. The\nempty weight of the car and half\nthe live load are balanced by the\ncounterweight. Placing the drive\nat the top or at the bottom next\nto the shaft makes necessary\nadditional pulleys, resulting in\nhigher operating costs. The\nmachinery and control system\ncan be accommodated in a\nseparate machine room or, in the\ncase of lifts without a machine\nroom, placed in the shaft --+\np. 134.\n\nBS EN 81\nBS ISO 4190\nDD CEN/TS 81\nDIN EN 81\nDIN 15306\nDIN 15309\n(In the US\nlifts are called\nelevators.)\n\nD\n\nDirect drive\ncentral 1-stage\n\nDirect central\n\nDirect adjacent\n\nIndirect adjacent\n\n1-stage telescopic\n\n1-stage\n\n2:1\n\nf) Hydraulic lifts\n\nA\n\nc\n\nB\n\nPush piston\nhanging 2:1\n\nPull piston\nhanging 1:1\n\nD\n\nPull piston\nindirect 2:1\n\nIndirect pull piston\nwith additional weight\n\nC) Hydraulic lifts, special versions --;0 -f)\n\ntelescopic sliding\n\ndoor\nopening to one side:\nshaft width = 1.5 x\nclear passage width\n\n+27 em \"'1.60 m\n\n~~~~\n\ncentrally opening\nsliding door: shaft\nwidth = 2 x clear\npassage width + 20 em\n\"'1.80 m suitable for\ncars, which should be\nemptied quickly\n\nsix-part telescopic sliding\nfour-part telescopic\nsliding door: shaft\nwidth depends on the\ntype of drive\n\ndoor: suitable for cars\n\nWith hydraulic lifts, a push\ncylinder is mostly used --+ f) 0. The lifting cylinder can be\narranged directly or indirectly.\nThe arrangement of a direct\ncylinder inside a protective\ntube under the ground is no\nlonger suitable because of the\nrequirements for the protection\nof groundwater. The use of a\npull cylinder --+ 0 B-D can be\nappropriate in some cases. A\npull cylinder in its basic form\nbalances a part of the weight\nof the car. This has even more\neffect with additional weights --+\n0 D, because the pump motor\nruns only when the load is lifted\nby the cylinder, while downward\ntravel is enabled simply by\nopening the valve, which requires\nno energy and almost halves the\nconsumption.\n\nwith wide openings e.g. in\nhospitals and commercial\nbuildings\n\nC) Relationship of door-opening type to shaft width\n\n[], Hi\n1-ao-1\nl-1.10-l\n\nf-- Shaft -i\nwidth 1.60\n\n0\n\nPlans of lifts --;\np.130ff.\n\n128\n\nl--90-l\nf-1.10--l\n\n1-- Shaft -i\nwidth 1.67\n\nWheelchair-suitable\n\ni-B0-1\n\n,_\n\nl-1.1 0 -1\n1-- Shaft -j\nwidth 1.60\nThrough-loading\n\nlflL]m\n1- 80-j\nl--1.10-j\n\nf-S0-1\nl-1.10-j\n\nf-- Shaft -t+- Shaft --1\nwidth\n\n1.60\n\n14 width\n1.60\nDouble\n\nI-BO-{\nl--1.10-l\n\n1-BO-j\nl--1.10-j\n\nf-80-j\nl-1.10-j\n\n1-- Shaft -it- Shaft --It- Shaft -I\nwidth\n\n1.60\n\n12\n\nwidth\n\n12\n\n1.60\nTriple\n\nwidth\n\n1.60\n\n\f"
+        },
+        {
+          "label": "Shaft depth",
+          "value": 1.66,
+          "value_max": null,
+          "unit": "m",
+          "context": "Standard and wheelchair-suitable lift plans.",
+          "status": "uncertain",
+          "ocr_raw": "LIFTS\nPrinciples\nFor all buildings, lifts should\nnormally be positioned at the\nsource of traffic flow. Provide\nsufficient space for waiting and\nqueuing --+ p. 130 which must\nnot infringe on stairs. Carefully\nplan the connection to the traffic\nroutes. There are two different\ndrive systems for lifts:\nI. Traction sheave drive (for\ncable lifts)--+ 0\n2. Hydraulic lifts --+ f) - 0\n\nLIFTS\n\nPrinciples\nControl\nResidential\nbuildings\nPublic buildings\nSmall goods lifts\nHydraulic lifts\nSpecial lifts\n\nDrive at top 2:1\n\n0\n\nTop 1:1\n\nBottom adjacent 1 :1\n\nTop adjacent 1.1\n\nTraction lifts\n\nTraction lifts: ideally have their\ndrives above the shaft. The\nempty weight of the car and half\nthe live load are balanced by the\ncounterweight. Placing the drive\nat the top or at the bottom next\nto the shaft makes necessary\nadditional pulleys, resulting in\nhigher operating costs. The\nmachinery and control system\ncan be accommodated in a\nseparate machine room or, in the\ncase of lifts without a machine\nroom, placed in the shaft --+\np. 134.\n\nBS EN 81\nBS ISO 4190\nDD CEN/TS 81\nDIN EN 81\nDIN 15306\nDIN 15309\n(In the US\nlifts are called\nelevators.)\n\nD\n\nDirect drive\ncentral 1-stage\n\nDirect central\n\nDirect adjacent\n\nIndirect adjacent\n\n1-stage telescopic\n\n1-stage\n\n2:1\n\nf) Hydraulic lifts\n\nA\n\nc\n\nB\n\nPush piston\nhanging 2:1\n\nPull piston\nhanging 1:1\n\nD\n\nPull piston\nindirect 2:1\n\nIndirect pull piston\nwith additional weight\n\nC) Hydraulic lifts, special versions --;0 -f)\n\ntelescopic sliding\n\ndoor\nopening to one side:\nshaft width = 1.5 x\nclear passage width\n\n+27 em \"'1.60 m\n\n~~~~\n\ncentrally opening\nsliding door: shaft\nwidth = 2 x clear\npassage width + 20 em\n\"'1.80 m suitable for\ncars, which should be\nemptied quickly\n\nsix-part telescopic sliding\nfour-part telescopic\nsliding door: shaft\nwidth depends on the\ntype of drive\n\ndoor: suitable for cars\n\nWith hydraulic lifts, a push\ncylinder is mostly used --+ f) 0. The lifting cylinder can be\narranged directly or indirectly.\nThe arrangement of a direct\ncylinder inside a protective\ntube under the ground is no\nlonger suitable because of the\nrequirements for the protection\nof groundwater. The use of a\npull cylinder --+ 0 B-D can be\nappropriate in some cases. A\npull cylinder in its basic form\nbalances a part of the weight\nof the car. This has even more\neffect with additional weights --+\n0 D, because the pump motor\nruns only when the load is lifted\nby the cylinder, while downward\ntravel is enabled simply by\nopening the valve, which requires\nno energy and almost halves the\nconsumption.\n\nwith wide openings e.g. in\nhospitals and commercial\nbuildings\n\nC) Relationship of door-opening type to shaft width\n\n[], Hi\n1-ao-1\nl-1.10-l\n\nf-- Shaft -i\nwidth 1.60\n\n0\n\nPlans of lifts --;\np.130ff.\n\n128\n\nl--90-l\nf-1.10--l\n\n1-- Shaft -i\nwidth 1.67\n\nWheelchair-suitable\n\ni-B0-1\n\n,_\n\nl-1.1 0 -1\n1-- Shaft -j\nwidth 1.60\nThrough-loading\n\nlflL]m\n1- 80-j\nl--1.10-j\n\nf-S0-1\nl-1.10-j\n\nf-- Shaft -t+- Shaft --1\nwidth\n\n1.60\n\n14 width\n1.60\nDouble\n\nI-BO-{\nl--1.10-l\n\n1-BO-j\nl--1.10-j\n\nf-80-j\nl-1.10-j\n\n1-- Shaft -it- Shaft --It- Shaft -I\nwidth\n\n1.60\n\n12\n\nwidth\n\n12\n\n1.60\nTriple\n\nwidth\n\n1.60\n\n\f"
+        },
+        {
+          "label": "Car width",
+          "value": 0.9,
+          "value_max": null,
+          "unit": "m",
+          "context": "Wheelchair-suitable lift plan; OCR notation 90.",
+          "status": "uncertain",
+          "ocr_raw": "90"
+        },
+        {
+          "label": "Shaft width",
+          "value": 1.67,
+          "value_max": null,
+          "unit": "m",
+          "context": "Wheelchair-suitable lift plan.",
+          "status": "uncertain",
+          "ocr_raw": "LIFTS\nPrinciples\nFor all buildings, lifts should\nnormally be positioned at the\nsource of traffic flow. Provide\nsufficient space for waiting and\nqueuing --+ p. 130 which must\nnot infringe on stairs. Carefully\nplan the connection to the traffic\nroutes. There are two different\ndrive systems for lifts:\nI. Traction sheave drive (for\ncable lifts)--+ 0\n2. Hydraulic lifts --+ f) - 0\n\nLIFTS\n\nPrinciples\nControl\nResidential\nbuildings\nPublic buildings\nSmall goods lifts\nHydraulic lifts\nSpecial lifts\n\nDrive at top 2:1\n\n0\n\nTop 1:1\n\nBottom adjacent 1 :1\n\nTop adjacent 1.1\n\nTraction lifts\n\nTraction lifts: ideally have their\ndrives above the shaft. The\nempty weight of the car and half\nthe live load are balanced by the\ncounterweight. Placing the drive\nat the top or at the bottom next\nto the shaft makes necessary\nadditional pulleys, resulting in\nhigher operating costs. The\nmachinery and control system\ncan be accommodated in a\nseparate machine room or, in the\ncase of lifts without a machine\nroom, placed in the shaft --+\np. 134.\n\nBS EN 81\nBS ISO 4190\nDD CEN/TS 81\nDIN EN 81\nDIN 15306\nDIN 15309\n(In the US\nlifts are called\nelevators.)\n\nD\n\nDirect drive\ncentral 1-stage\n\nDirect central\n\nDirect adjacent\n\nIndirect adjacent\n\n1-stage telescopic\n\n1-stage\n\n2:1\n\nf) Hydraulic lifts\n\nA\n\nc\n\nB\n\nPush piston\nhanging 2:1\n\nPull piston\nhanging 1:1\n\nD\n\nPull piston\nindirect 2:1\n\nIndirect pull piston\nwith additional weight\n\nC) Hydraulic lifts, special versions --;0 -f)\n\ntelescopic sliding\n\ndoor\nopening to one side:\nshaft width = 1.5 x\nclear passage width\n\n+27 em \"'1.60 m\n\n~~~~\n\ncentrally opening\nsliding door: shaft\nwidth = 2 x clear\npassage width + 20 em\n\"'1.80 m suitable for\ncars, which should be\nemptied quickly\n\nsix-part telescopic sliding\nfour-part telescopic\nsliding door: shaft\nwidth depends on the\ntype of drive\n\ndoor: suitable for cars\n\nWith hydraulic lifts, a push\ncylinder is mostly used --+ f) 0. The lifting cylinder can be\narranged directly or indirectly.\nThe arrangement of a direct\ncylinder inside a protective\ntube under the ground is no\nlonger suitable because of the\nrequirements for the protection\nof groundwater. The use of a\npull cylinder --+ 0 B-D can be\nappropriate in some cases. A\npull cylinder in its basic form\nbalances a part of the weight\nof the car. This has even more\neffect with additional weights --+\n0 D, because the pump motor\nruns only when the load is lifted\nby the cylinder, while downward\ntravel is enabled simply by\nopening the valve, which requires\nno energy and almost halves the\nconsumption.\n\nwith wide openings e.g. in\nhospitals and commercial\nbuildings\n\nC) Relationship of door-opening type to shaft width\n\n[], Hi\n1-ao-1\nl-1.10-l\n\nf-- Shaft -i\nwidth 1.60\n\n0\n\nPlans of lifts --;\np.130ff.\n\n128\n\nl--90-l\nf-1.10--l\n\n1-- Shaft -i\nwidth 1.67\n\nWheelchair-suitable\n\ni-B0-1\n\n,_\n\nl-1.1 0 -1\n1-- Shaft -j\nwidth 1.60\nThrough-loading\n\nlflL]m\n1- 80-j\nl--1.10-j\n\nf-S0-1\nl-1.10-j\n\nf-- Shaft -t+- Shaft --1\nwidth\n\n1.60\n\n14 width\n1.60\nDouble\n\nI-BO-{\nl--1.10-l\n\n1-BO-j\nl--1.10-j\n\nf-80-j\nl-1.10-j\n\n1-- Shaft -it- Shaft --It- Shaft -I\nwidth\n\n1.60\n\n12\n\nwidth\n\n12\n\n1.60\nTriple\n\nwidth\n\n1.60\n\n\f"
+        },
+        {
+          "label": "Shaft depth",
+          "value": 1.78,
+          "value_max": null,
+          "unit": "m",
+          "context": "Through-loading lift plan.",
+          "status": "uncertain",
+          "ocr_raw": "LIFTS\nPrinciples\nFor all buildings, lifts should\nnormally be positioned at the\nsource of traffic flow. Provide\nsufficient space for waiting and\nqueuing --+ p. 130 which must\nnot infringe on stairs. Carefully\nplan the connection to the traffic\nroutes. There are two different\ndrive systems for lifts:\nI. Traction sheave drive (for\ncable lifts)--+ 0\n2. Hydraulic lifts --+ f) - 0\n\nLIFTS\n\nPrinciples\nControl\nResidential\nbuildings\nPublic buildings\nSmall goods lifts\nHydraulic lifts\nSpecial lifts\n\nDrive at top 2:1\n\n0\n\nTop 1:1\n\nBottom adjacent 1 :1\n\nTop adjacent 1.1\n\nTraction lifts\n\nTraction lifts: ideally have their\ndrives above the shaft. The\nempty weight of the car and half\nthe live load are balanced by the\ncounterweight. Placing the drive\nat the top or at the bottom next\nto the shaft makes necessary\nadditional pulleys, resulting in\nhigher operating costs. The\nmachinery and control system\ncan be accommodated in a\nseparate machine room or, in the\ncase of lifts without a machine\nroom, placed in the shaft --+\np. 134.\n\nBS EN 81\nBS ISO 4190\nDD CEN/TS 81\nDIN EN 81\nDIN 15306\nDIN 15309\n(In the US\nlifts are called\nelevators.)\n\nD\n\nDirect drive\ncentral 1-stage\n\nDirect central\n\nDirect adjacent\n\nIndirect adjacent\n\n1-stage telescopic\n\n1-stage\n\n2:1\n\nf) Hydraulic lifts\n\nA\n\nc\n\nB\n\nPush piston\nhanging 2:1\n\nPull piston\nhanging 1:1\n\nD\n\nPull piston\nindirect 2:1\n\nIndirect pull piston\nwith additional weight\n\nC) Hydraulic lifts, special versions --;0 -f)\n\ntelescopic sliding\n\ndoor\nopening to one side:\nshaft width = 1.5 x\nclear passage width\n\n+27 em \"'1.60 m\n\n~~~~\n\ncentrally opening\nsliding door: shaft\nwidth = 2 x clear\npassage width + 20 em\n\"'1.80 m suitable for\ncars, which should be\nemptied quickly\n\nsix-part telescopic sliding\nfour-part telescopic\nsliding door: shaft\nwidth depends on the\ntype of drive\n\ndoor: suitable for cars\n\nWith hydraulic lifts, a push\ncylinder is mostly used --+ f) 0. The lifting cylinder can be\narranged directly or indirectly.\nThe arrangement of a direct\ncylinder inside a protective\ntube under the ground is no\nlonger suitable because of the\nrequirements for the protection\nof groundwater. The use of a\npull cylinder --+ 0 B-D can be\nappropriate in some cases. A\npull cylinder in its basic form\nbalances a part of the weight\nof the car. This has even more\neffect with additional weights --+\n0 D, because the pump motor\nruns only when the load is lifted\nby the cylinder, while downward\ntravel is enabled simply by\nopening the valve, which requires\nno energy and almost halves the\nconsumption.\n\nwith wide openings e.g. in\nhospitals and commercial\nbuildings\n\nC) Relationship of door-opening type to shaft width\n\n[], Hi\n1-ao-1\nl-1.10-l\n\nf-- Shaft -i\nwidth 1.60\n\n0\n\nPlans of lifts --;\np.130ff.\n\n128\n\nl--90-l\nf-1.10--l\n\n1-- Shaft -i\nwidth 1.67\n\nWheelchair-suitable\n\ni-B0-1\n\n,_\n\nl-1.1 0 -1\n1-- Shaft -j\nwidth 1.60\nThrough-loading\n\nlflL]m\n1- 80-j\nl--1.10-j\n\nf-S0-1\nl-1.10-j\n\nf-- Shaft -t+- Shaft --1\nwidth\n\n1.60\n\n14 width\n1.60\nDouble\n\nI-BO-{\nl--1.10-l\n\n1-BO-j\nl--1.10-j\n\nf-80-j\nl-1.10-j\n\n1-- Shaft -it- Shaft --It- Shaft -I\nwidth\n\n1.60\n\n12\n\nwidth\n\n12\n\n1.60\nTriple\n\nwidth\n\n1.60\n\n\f"
+        },
+        {
+          "label": "Shaft width",
+          "value": 1.6,
+          "value_max": null,
+          "unit": "m",
+          "context": "Through-loading lift plan.",
+          "status": "uncertain",
+          "ocr_raw": "LIFTS\nPrinciples\nFor all buildings, lifts should\nnormally be positioned at the\nsource of traffic flow. Provide\nsufficient space for waiting and\nqueuing --+ p. 130 which must\nnot infringe on stairs. Carefully\nplan the connection to the traffic\nroutes. There are two different\ndrive systems for lifts:\nI. Traction sheave drive (for\ncable lifts)--+ 0\n2. Hydraulic lifts --+ f) - 0\n\nLIFTS\n\nPrinciples\nControl\nResidential\nbuildings\nPublic buildings\nSmall goods lifts\nHydraulic lifts\nSpecial lifts\n\nDrive at top 2:1\n\n0\n\nTop 1:1\n\nBottom adjacent 1 :1\n\nTop adjacent 1.1\n\nTraction lifts\n\nTraction lifts: ideally have their\ndrives above the shaft. The\nempty weight of the car and half\nthe live load are balanced by the\ncounterweight. Placing the drive\nat the top or at the bottom next\nto the shaft makes necessary\nadditional pulleys, resulting in\nhigher operating costs. The\nmachinery and control system\ncan be accommodated in a\nseparate machine room or, in the\ncase of lifts without a machine\nroom, placed in the shaft --+\np. 134.\n\nBS EN 81\nBS ISO 4190\nDD CEN/TS 81\nDIN EN 81\nDIN 15306\nDIN 15309\n(In the US\nlifts are called\nelevators.)\n\nD\n\nDirect drive\ncentral 1-stage\n\nDirect central\n\nDirect adjacent\n\nIndirect adjacent\n\n1-stage telescopic\n\n1-stage\n\n2:1\n\nf) Hydraulic lifts\n\nA\n\nc\n\nB\n\nPush piston\nhanging 2:1\n\nPull piston\nhanging 1:1\n\nD\n\nPull piston\nindirect 2:1\n\nIndirect pull piston\nwith additional weight\n\nC) Hydraulic lifts, special versions --;0 -f)\n\ntelescopic sliding\n\ndoor\nopening to one side:\nshaft width = 1.5 x\nclear passage width\n\n+27 em \"'1.60 m\n\n~~~~\n\ncentrally opening\nsliding door: shaft\nwidth = 2 x clear\npassage width + 20 em\n\"'1.80 m suitable for\ncars, which should be\nemptied quickly\n\nsix-part telescopic sliding\nfour-part telescopic\nsliding door: shaft\nwidth depends on the\ntype of drive\n\ndoor: suitable for cars\n\nWith hydraulic lifts, a push\ncylinder is mostly used --+ f) 0. The lifting cylinder can be\narranged directly or indirectly.\nThe arrangement of a direct\ncylinder inside a protective\ntube under the ground is no\nlonger suitable because of the\nrequirements for the protection\nof groundwater. The use of a\npull cylinder --+ 0 B-D can be\nappropriate in some cases. A\npull cylinder in its basic form\nbalances a part of the weight\nof the car. This has even more\neffect with additional weights --+\n0 D, because the pump motor\nruns only when the load is lifted\nby the cylinder, while downward\ntravel is enabled simply by\nopening the valve, which requires\nno energy and almost halves the\nconsumption.\n\nwith wide openings e.g. in\nhospitals and commercial\nbuildings\n\nC) Relationship of door-opening type to shaft width\n\n[], Hi\n1-ao-1\nl-1.10-l\n\nf-- Shaft -i\nwidth 1.60\n\n0\n\nPlans of lifts --;\np.130ff.\n\n128\n\nl--90-l\nf-1.10--l\n\n1-- Shaft -i\nwidth 1.67\n\nWheelchair-suitable\n\ni-B0-1\n\n,_\n\nl-1.1 0 -1\n1-- Shaft -j\nwidth 1.60\nThrough-loading\n\nlflL]m\n1- 80-j\nl--1.10-j\n\nf-S0-1\nl-1.10-j\n\nf-- Shaft -t+- Shaft --1\nwidth\n\n1.60\n\n14 width\n1.60\nDouble\n\nI-BO-{\nl--1.10-l\n\n1-BO-j\nl--1.10-j\n\nf-80-j\nl-1.10-j\n\n1-- Shaft -it- Shaft --It- Shaft -I\nwidth\n\n1.60\n\n12\n\nwidth\n\n12\n\n1.60\nTriple\n\nwidth\n\n1.60\n\n\f"
+        },
+        {
+          "label": "Car width",
+          "value": 0.8,
+          "value_max": null,
+          "unit": "m",
+          "context": "Each car shown in the double and triple lift plans; OCR notation 80.",
+          "status": "uncertain",
+          "ocr_raw": "80"
+        },
+        {
+          "label": "Shaft width",
+          "value": 1.6,
+          "value_max": null,
+          "unit": "m",
+          "context": "Each shaft in the double and triple lift plans.",
+          "status": "uncertain",
+          "ocr_raw": "LIFTS\nPrinciples\nFor all buildings, lifts should\nnormally be positioned at the\nsource of traffic flow. Provide\nsufficient space for waiting and\nqueuing --+ p. 130 which must\nnot infringe on stairs. Carefully\nplan the connection to the traffic\nroutes. There are two different\ndrive systems for lifts:\nI. Traction sheave drive (for\ncable lifts)--+ 0\n2. Hydraulic lifts --+ f) - 0\n\nLIFTS\n\nPrinciples\nControl\nResidential\nbuildings\nPublic buildings\nSmall goods lifts\nHydraulic lifts\nSpecial lifts\n\nDrive at top 2:1\n\n0\n\nTop 1:1\n\nBottom adjacent 1 :1\n\nTop adjacent 1.1\n\nTraction lifts\n\nTraction lifts: ideally have their\ndrives above the shaft. The\nempty weight of the car and half\nthe live load are balanced by the\ncounterweight. Placing the drive\nat the top or at the bottom next\nto the shaft makes necessary\nadditional pulleys, resulting in\nhigher operating costs. The\nmachinery and control system\ncan be accommodated in a\nseparate machine room or, in the\ncase of lifts without a machine\nroom, placed in the shaft --+\np. 134.\n\nBS EN 81\nBS ISO 4190\nDD CEN/TS 81\nDIN EN 81\nDIN 15306\nDIN 15309\n(In the US\nlifts are called\nelevators.)\n\nD\n\nDirect drive\ncentral 1-stage\n\nDirect central\n\nDirect adjacent\n\nIndirect adjacent\n\n1-stage telescopic\n\n1-stage\n\n2:1\n\nf) Hydraulic lifts\n\nA\n\nc\n\nB\n\nPush piston\nhanging 2:1\n\nPull piston\nhanging 1:1\n\nD\n\nPull piston\nindirect 2:1\n\nIndirect pull piston\nwith additional weight\n\nC) Hydraulic lifts, special versions --;0 -f)\n\ntelescopic sliding\n\ndoor\nopening to one side:\nshaft width = 1.5 x\nclear passage width\n\n+27 em \"'1.60 m\n\n~~~~\n\ncentrally opening\nsliding door: shaft\nwidth = 2 x clear\npassage width + 20 em\n\"'1.80 m suitable for\ncars, which should be\nemptied quickly\n\nsix-part telescopic sliding\nfour-part telescopic\nsliding door: shaft\nwidth depends on the\ntype of drive\n\ndoor: suitable for cars\n\nWith hydraulic lifts, a push\ncylinder is mostly used --+ f) 0. The lifting cylinder can be\narranged directly or indirectly.\nThe arrangement of a direct\ncylinder inside a protective\ntube under the ground is no\nlonger suitable because of the\nrequirements for the protection\nof groundwater. The use of a\npull cylinder --+ 0 B-D can be\nappropriate in some cases. A\npull cylinder in its basic form\nbalances a part of the weight\nof the car. This has even more\neffect with additional weights --+\n0 D, because the pump motor\nruns only when the load is lifted\nby the cylinder, while downward\ntravel is enabled simply by\nopening the valve, which requires\nno energy and almost halves the\nconsumption.\n\nwith wide openings e.g. in\nhospitals and commercial\nbuildings\n\nC) Relationship of door-opening type to shaft width\n\n[], Hi\n1-ao-1\nl-1.10-l\n\nf-- Shaft -i\nwidth 1.60\n\n0\n\nPlans of lifts --;\np.130ff.\n\n128\n\nl--90-l\nf-1.10--l\n\n1-- Shaft -i\nwidth 1.67\n\nWheelchair-suitable\n\ni-B0-1\n\n,_\n\nl-1.1 0 -1\n1-- Shaft -j\nwidth 1.60\nThrough-loading\n\nlflL]m\n1- 80-j\nl--1.10-j\n\nf-S0-1\nl-1.10-j\n\nf-- Shaft -t+- Shaft --1\nwidth\n\n1.60\n\n14 width\n1.60\nDouble\n\nI-BO-{\nl--1.10-l\n\n1-BO-j\nl--1.10-j\n\nf-80-j\nl-1.10-j\n\n1-- Shaft -it- Shaft --It- Shaft -I\nwidth\n\n1.60\n\n12\n\nwidth\n\n12\n\n1.60\nTriple\n\nwidth\n\n1.60\n\n\f"
+        },
+        {
+          "label": "Separation",
+          "value": 12.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Dimension notation between shafts in the triple arrangement; unit is not legible in OCR, so cm is inferred from the diagram’s dimension convention.",
+          "status": "uncertain",
+          "ocr_raw": "12"
+        }
+      ],
+      "figure_refs": [
+        "5"
+      ],
+      "cross_refs": [
+        "p. 130 ff."
+      ],
+      "keywords": [
+        "lift plans",
+        "wheelchair-suitable lift",
+        "through-loading lift",
+        "double lift",
+        "triple lift",
+        "shaft dimensions"
+      ],
+      "tags_architectural": [
+        "accessibility",
+        "clearance",
+        "circulation",
+        "ergonomics"
+      ],
+      "confidence": 0.74
+    }
+  ]
+}

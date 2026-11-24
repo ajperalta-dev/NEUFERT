@@ -1,0 +1,94 @@
+{
+  "id": "4122fb96e4bd1976-33-0",
+  "titulo_original": "DRAWINGS",
+  "titulo_de": null,
+  "titulo_es": null,
+  "titulo_en": "DRAWINGS",
+  "tipologia_edificio": [],
+  "espacios": [],
+  "dimensiones": [
+    {
+      "nombre": "Medida extraída",
+      "valor": 1.0,
+      "unidad": "mm",
+      "contexto": "e angle  a  related  to  the x-axis. Measurement  system  Abbr.  1  mm=  1 unit point  pt  2.8346 pt  0.3528 mm inch  in\"  0.0394\"  25."
+    },
+    {
+      "nombre": "Medida extraída",
+      "valor": 0.3528,
+      "unidad": "mm",
+      "contexto": "Measurement  system  Abbr.  1  mm=  1 unit point  pt  2.8346 pt  0.3528 mm inch  in\"  0.0394\"  25.4 mm  8  Conversion  factors  for  common"
+    },
+    {
+      "nombre": "Medida extraída",
+      "valor": 25.4,
+      "unidad": "mm",
+      "contexto": " mm=  1 unit point  pt  2.8346 pt  0.3528 mm inch  in\"  0.0394\"  25.4 mm  8  Conversion  factors  for  common  computer  units Text  laye"
+    }
+  ],
+  "usos": [
+    "trabajar"
+  ],
+  "mobiliario": [],
+  "pagina_pdf": 33,
+  "pagina_impresa": "20",
+  "bbox": [
+    19.62900161743164,
+    60.5989875793457,
+    539.5925903320312,
+    781.17919921875
+  ],
+  "figuras": [
+    {
+      "id": "4122fb96e4bd1976-33-0-1",
+      "entry_id": "4122fb96e4bd1976-33-0",
+      "bbox": [
+        184.5699920654297,
+        107.98994445800781,
+        278.6499938964844,
+        211.6700439453125
+      ],
+      "image": "4122fb96e4bd1976/figures/0033-1.webp",
+      "method": "embedded-image"
+    },
+    {
+      "id": "4122fb96e4bd1976-33-0-3",
+      "entry_id": "4122fb96e4bd1976-33-0",
+      "bbox": [
+        81.83999633789062,
+        451.6700134277344,
+        299.760009765625,
+        493.9100036621094
+      ],
+      "image": "4122fb96e4bd1976/figures/0033-3.webp",
+      "method": "embedded-image"
+    },
+    {
+      "id": "4122fb96e4bd1976-33-0-2",
+      "entry_id": "4122fb96e4bd1976-33-0",
+      "bbox": [
+        72.23999786376953,
+        329.74993896484375,
+        156.72000122070312,
+        419.99005126953125
+      ],
+      "image": "4122fb96e4bd1976/figures/0033-2.webp",
+      "method": "embedded-image"
+    },
+    {
+      "id": "4122fb96e4bd1976-33-0-0",
+      "entry_id": "4122fb96e4bd1976-33-0",
+      "bbox": [
+        7.929998397827148,
+        63.829986572265625,
+        65.52999877929688,
+        94.54998779296875
+      ],
+      "image": "4122fb96e4bd1976/figures/0033-0.webp",
+      "method": "embedded-image"
+    }
+  ],
+  "confianza": 0.58,
+  "requiere_revision": true,
+  "texto": "DRAWINGS\nPaper formats\nTechnical\ndrawings \nLayout  of\ndrawings \nConstruction\ndrawings \nConstruction \ndrawing symbols \nWater supply and \ndrainage symbols\nElectrical \ninstallation\nsymbols \nSecurity \ninstallation\nsymbols \nGas  installation\nsymbols \nDrawing by hand \nComputer-aided\ndrawing\nBS  EN  ISO\n13567 \nISO 13567\ny\n----¥  (X,y)\nI \nI \nI \nI\nX \nX\n0 \nCartesian coordinate system. All \npoints  are  defined through their x \nand y coordinates. The zero point \ncan be set for each drawing  or \nrelated to world coordinates.\nPolar  coordinate system.  All  points \nare defined through their distance I \nfrom the zero point and the angle  a \nrelated  to  the x-axis.\nMeasurement  system \nAbbr. \n1  mm= \n1 unit\npoint \npt \n2.8346 pt \n0.3528 mm\ninch \nin\" \n0.0394\" \n25.4 mm \n8 \nConversion  factors  for  common  computer  units\nText  layer\nDimensions  layer\nFurniture  layer\nOpenings  layer\nConstruction  layer\nSurround  and  title  block  layer \nG  Structuring  of  a CAD drawing  by  arranging groups  of  similar objects on their\nown  layers\nw\nWho-where-what naming of layers with variable field sizes (according  to  CadForum). \nThe  layer  names  have  suitable  abbreviations  containing  2  or  3  pieces  of  information, \neach separated  by  an  underscore. The content should be clear from the first \n20 characters, because some CAD systems restrict the layer names to this length. \nSpecial  characters  should  be  avoided  in  order  to  prevent  exchange  problems.\nWho  (1-5)  =author\npossible  abbreviations  for  authors \nArch \nArchitect \nlArch \nInterior architect \nLArch \nLandscape architect \nBing \nBuilding engineer \nEi \nElectrical engineer \nSt \nStructural engineer \nHLS \nHeating/ventilation/sanitary \nGeom \nSurveyor\nWhat  (13-20)  =description\npossible descriptions \naxes \nstructure \nopenings \nfinishings \nfurniture \nhatching\ndimensioning \nlabelling \ndrawing outline\nWhere (7-11)  =categorisation\npossible  categories \nBS \nbasement \nGR \nground floor \nFL  1 \n1st floor \nEL  _  N \nnorth elevation \nSEC_A \nsection  A-A\nexamples  of  layer names\nArch_GR_axes \nArch_ GR_structure \nArch_GR_finishes \nArch_ GR_hatching\non  smaller projects, the \n2nd category (facultative) can be \nleft out: \nGeom_level  curves \nArch_ structure \nBing_ openings \n9 \nExample of naming layers with variable, understandable labels\n20\nDrawings\nDRAWINGS\nComputer-Aided Drawing\nDrawings are always  an  abstraction  of  reality because they are \nin  two dimensions. The degree  of  abstraction depends on the \ncontent and, above all, on the intended purpose  of  the drawing. \nThe lowest degree  of  abstraction  is  represented by perspectives, \ncollages and renderings, which attempt to come quite close to \nreality.  In  order to produce the desired impression, it  is  particularly \nimportant to leave some free  rein  for the fantasy  of  the viewer. \nDiagrams can be used to explain functional interactions. Working \ndrawings contain  all  the required information about dimensions, \nmaterials and arrangement of the object to be produced.  In  this \ncase,  all  details must be unambiguous and comprehensible for the \nproducer, and therefore have a high degree of abstraction.\nIn  the age of computer-generated images, it still remains important \nto have a command of the rules and regulations of traditional \ndrawing  --+  pp. 39-40.\nComputer-aided drawings \nDrawing with a computer  is  very different from the classic \nmethods  of  drawing  on  paper. There  are  two  basic principles: \nraster graphics,  in  which every pixel of a drawing is saved (image \nprocessing), and vector graphics, where the start, end and the \nproperties  of  a drawing element  are  saved  (CAD).  Because \nthe output appears  on  a monitor screen or plot, there are also \nproblems representing bodies and rooms  in  two  dimensions. \nOnly very simple  CAD  programs work with two-dimensional \ndata models. More common  are  three-dimensional data models \n(object-oriented programs), which produce the desired type  of \nillustration  on  output (monitor, plotting). The information required \nfor this is stored  in  a database  in  the computer. This enables the \nelements  of  a drawing  (line  type, line thickness and colour) to be \nlinked to further information, which  is  not visible, e.g. which layer \nthey belong to, dependence  on  other objects, material properties, \nmanufacturing information, order numbers etc. These properties \ncan be exploited for the structuring  of  content or for further use \n(e.g.  tenders or cost estimation).\nVolume modules permit further simulations. Structural, acoustic, \nclimatic or lighting investigations  can  make precise statements \nabout a building through the use  of  the appropriate software.  3D \nscanners, CNC machines and  3D  plotters also enable the input \nand output of three-dimensional objects.\nData exchange \nBecause data  is  normally processed by a number  of  operators \n(various \nspecialist technicians and \nengineers), \na unified, \nunderstandable  and  clear system  of  organisation  is  important. \nWhen selecting a  CAD  system or deciding the working methods, \nit  is  important to know that  all  future processors  of  the data will \nwork with the same software, or which interfaces can be used  to \nexchange data. Exchange formats usually have a limited range \nof  structuring possibilities and therefore organisation categories, \nwhich  are  not supported, will be lost or have to be recreated, with \nthe associated waste of time. The naming  of  layers is governed \nby  ISO  13567, which, however, uses cryptic abbreviations. \nIt seems more practical to use the more flexible and easily \nunderstood naming system published by the specialist magazine \nCadForum  --7  0."
+}

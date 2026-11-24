@@ -1,0 +1,173 @@
+{
+  "fichas": [
+    {
+      "id": "4122fb96e4bd1976-137-vision-0",
+      "pdf_page": 137,
+      "book_page": 124,
+      "chapter": "BUILDING COMPONENTS",
+      "section": "Stairs",
+      "title": "Spiral Stairs",
+      "summary": "Guidance on choosing and laying out spiral staircases, including usable widths, tread dimensions, landing arrangements, handrail positioning, and geometric methods for constructing winding steps. Spiral stairs are best suited to open spaces and access to galleries or parapets; they are discouraged where every centimetre of tread matters.",
+      "building_type": "Staircase",
+      "spaces": [
+        "Spiral staircase",
+        "Entrance landing",
+        "Gallery",
+        "Open space"
+      ],
+      "uses": [
+        "Connect floors where a spiral stair is appropriate",
+        "Provide access to galleries or parapets",
+        "Construct curved or angled stair treads"
+      ],
+      "furniture_equipment": [
+        "Handrail"
+      ],
+      "dimensions": [
+        {
+          "label": "Niche width",
+          "value": 2.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Staircase comparison in a 2 × 2 m niche",
+          "status": "uncertain",
+          "ocr_raw": "staircases in a 2 x 2 m niche."
+        },
+        {
+          "label": "Niche depth",
+          "value": 2.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Staircase comparison in a 2 × 2 m niche",
+          "status": "uncertain",
+          "ocr_raw": "staircases in a 2 x 2 m niche."
+        },
+        {
+          "label": "Semi-winding staircase usable width",
+          "value": 90.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Captioned usable width",
+          "status": "uncertain",
+          "ocr_raw": "Usable width 90 cm/tread 26.5 cm"
+        },
+        {
+          "label": "Semi-winding staircase tread",
+          "value": 26.5,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Captioned tread dimension",
+          "status": "uncertain",
+          "ocr_raw": "Usable width 90 cm/tread 26.5 cm"
+        },
+        {
+          "label": "Round spiral staircase usable width",
+          "value": 80.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Captioned usable width",
+          "status": "uncertain",
+          "ocr_raw": "Usable width 80 cm/tread 24 cm"
+        },
+        {
+          "label": "Round spiral staircase tread",
+          "value": 24.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Captioned tread dimension",
+          "status": "uncertain",
+          "ocr_raw": "Usable width 80 cm/tread 24 cm"
+        },
+        {
+          "label": "Landing angle",
+          "value": 60.0,
+          "value_max": 72.0,
+          "unit": "°",
+          "context": "Minimum landing angle",
+          "status": "uncertain",
+          "ocr_raw": "Min. landing angle 60–72°"
+        },
+        {
+          "label": "Minimum diameter for sole connecting stair inside houses",
+          "value": 190.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Spiral stair permitted as the sole connecting stair inside houses; usable walking width stated as 80 cm",
+          "status": "uncertain",
+          "ocr_raw": "Spiral staircases are permissible from 190 cm in diameter as the sole connecting stairs inside houses with 80 cm usable walking width"
+        },
+        {
+          "label": "Usable walking width",
+          "value": 80.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Sole connecting spiral stair inside houses",
+          "status": "uncertain",
+          "ocr_raw": "Spiral staircases are permissible from 190 cm in diameter as the sole connecting stairs inside houses with 80 cm usable walking width"
+        },
+        {
+          "label": "Construction example turning angle",
+          "value": 90.0,
+          "value_max": null,
+          "unit": "°",
+          "context": "Arc division method example; also applicable to a 180° turning staircase",
+          "status": "uncertain",
+          "ocr_raw": "in this case for a 90° turning staircase. Also applicable for a 180° turning staircase"
+        },
+        {
+          "label": "Construction example turning angle",
+          "value": 180.0,
+          "value_max": null,
+          "unit": "°",
+          "context": "Proportional division method example; also applicable to a 90° turning staircase",
+          "status": "uncertain",
+          "ocr_raw": "in this case for a 180° turning staircase. Also applicable for a 90° turning staircase."
+        },
+        {
+          "label": "Division ratio sequence",
+          "value": 1.0,
+          "value_max": null,
+          "unit": "ratio",
+          "context": "Divide line AB in the ratio 1:2:3:4…; continue for as many divisions as curved steps",
+          "status": "uncertain",
+          "ocr_raw": "Divide the line AB in the ratio 1:2:3:4 ... (as many divisions as curved steps)."
+        }
+      ],
+      "figure_refs": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11"
+      ],
+      "cross_refs": [
+        "BS 5395-2",
+        "DIN 18056"
+      ],
+      "keywords": [
+        "spiral staircase",
+        "semi-winding staircase",
+        "round spiral staircase",
+        "square spiral staircase",
+        "landing",
+        "winding steps",
+        "arc division method",
+        "proportional division method",
+        "walking line"
+      ],
+      "tags_architectural": [
+        "circulation",
+        "clearance",
+        "safety",
+        "spatial_proportion"
+      ],
+      "confidence": 0.94
+    }
+  ]
+}

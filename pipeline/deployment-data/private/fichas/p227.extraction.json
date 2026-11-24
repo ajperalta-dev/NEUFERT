@@ -1,0 +1,239 @@
+{
+  "fichas": [
+    {
+      "id": "4122fb96e4bd1976-227-vision-0",
+      "pdf_page": 227,
+      "book_page": 214,
+      "chapter": "CULTURAL VENUES",
+      "section": "Theatres",
+      "title": "Scenery stage",
+      "summary": "The classical stage system used a main stage with sliding painted scenery for rapid scene changes. A small rear stage provided space for deeper stage perspectives.",
+      "building_type": "Theatre",
+      "spaces": [
+        "Main stage",
+        "Small rear stage"
+      ],
+      "uses": [
+        "Change scenes by sliding painted scenery",
+        "Provide space for deeper stage perspectives"
+      ],
+      "furniture_equipment": [
+        "Sliding painted scenery",
+        "Soffits"
+      ],
+      "dimensions": [],
+      "figure_refs": [
+        "1"
+      ],
+      "cross_refs": [],
+      "keywords": [
+        "scenery stage",
+        "backdrop theatre",
+        "sliding scenery",
+        "rear stage"
+      ],
+      "tags_architectural": [
+        "adaptability",
+        "spatial_proportion"
+      ],
+      "confidence": 0.95
+    },
+    {
+      "id": "4122fb96e4bd1976-227-vision-1",
+      "pdf_page": 227,
+      "book_page": 214,
+      "chapter": "CULTURAL VENUES",
+      "section": "Theatres",
+      "title": "Full stage",
+      "summary": "A full stage supplements the main stage with wings and understages, allowing complete scenery sets to be prepared and moved during a performance. The technical arrangement of turntables and lifting elements should be established early.",
+      "building_type": "Theatre",
+      "spaces": [
+        "Main stage",
+        "Wings",
+        "Understages",
+        "Rear stage"
+      ],
+      "uses": [
+        "Prepare and change elaborate scenery during performances",
+        "Move scenery using wagons, lifting platforms, or turntables"
+      ],
+      "furniture_equipment": [
+        "Scenery wagons",
+        "Lifting platforms",
+        "Turntables"
+      ],
+      "dimensions": [],
+      "figure_refs": [
+        "2"
+      ],
+      "cross_refs": [],
+      "keywords": [
+        "full stage",
+        "scenery",
+        "wings",
+        "understage",
+        "turntable",
+        "lifting platform"
+      ],
+      "tags_architectural": [
+        "adaptability",
+        "circulation"
+      ],
+      "confidence": 0.95
+    },
+    {
+      "id": "4122fb96e4bd1976-227-vision-2",
+      "pdf_page": 227,
+      "book_page": 214,
+      "chapter": "CULTURAL VENUES",
+      "section": "Theatres",
+      "title": "Proportions and mobile scenery of the stage",
+      "summary": "Stage proportions are developed from auditorium sight lines. The stage serves as both an acting area and a handling and working area. Its mobile scenery surface can use adjustable-height platforms or be divided into separate flats.",
+      "building_type": "Theatre",
+      "spaces": [
+        "Stage",
+        "Auditorium"
+      ],
+      "uses": [
+        "Acting",
+        "Handling and working with scenery",
+        "Adjust scenery surface height and form"
+      ],
+      "furniture_equipment": [
+        "Adjustable-height platforms",
+        "Lifting platforms",
+        "Separate scenery flats"
+      ],
+      "dimensions": [
+        {
+          "label": "Basic scenery platform module side",
+          "value": 1.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Basic module for the mobile scenery surface, stated as 1 × 2 m.",
+          "status": "uncertain",
+          "ocr_raw": "Basic module 1 × 2 m."
+        },
+        {
+          "label": "Basic scenery platform module side",
+          "value": 2.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Basic module for the mobile scenery surface, stated as 1 × 2 m.",
+          "status": "uncertain",
+          "ocr_raw": "Basic module 1 × 2 m."
+        }
+      ],
+      "figure_refs": [
+        "3",
+        "4"
+      ],
+      "cross_refs": [],
+      "keywords": [
+        "stage proportions",
+        "sight lines",
+        "mobile scenery",
+        "platform module"
+      ],
+      "tags_architectural": [
+        "spatial_proportion",
+        "adaptability",
+        "modularity"
+      ],
+      "confidence": 0.93
+    },
+    {
+      "id": "4122fb96e4bd1976-227-vision-3",
+      "pdf_page": 227,
+      "book_page": 214,
+      "chapter": "CULTURAL VENUES",
+      "section": "Theatres",
+      "title": "Section of stage",
+      "summary": "The stage-space size depends on the scenery sets kept ready for rapid movement onto the stage; at least one rear space and one wing are usual. An iron safety curtain must close the fire compartment between auditorium and stage in case of fire, and its space must remain clear of cables and scenery.",
+      "building_type": "Theatre",
+      "spaces": [
+        "Stage space",
+        "Rear stage space",
+        "Wing",
+        "Auditorium"
+      ],
+      "uses": [
+        "Keep scenery sets ready for rapid transfer to the stage",
+        "Separate the auditorium and stage fire compartments with a safety curtain"
+      ],
+      "furniture_equipment": [
+        "Iron safety curtain",
+        "Scenery sets"
+      ],
+      "dimensions": [
+        {
+          "label": "Safety curtain closure time",
+          "value": 30.0,
+          "value_max": null,
+          "unit": "s",
+          "context": "Maximum stated time for closing the fire compartment between auditorium and stage in case of fire.",
+          "status": "uncertain",
+          "ocr_raw": "within 30 s in case of fire."
+        }
+      ],
+      "figure_refs": [
+        "3",
+        "4",
+        "5"
+      ],
+      "cross_refs": [
+        "→ 4"
+      ],
+      "keywords": [
+        "stage section",
+        "safety curtain",
+        "fire compartment",
+        "rear stage",
+        "wing"
+      ],
+      "tags_architectural": [
+        "safety",
+        "clearance",
+        "adaptability"
+      ],
+      "confidence": 0.94
+    },
+    {
+      "id": "4122fb96e4bd1976-227-vision-4",
+      "pdf_page": 227,
+      "book_page": 214,
+      "chapter": "CULTURAL VENUES",
+      "section": "Theatres",
+      "title": "Stage direction room",
+      "summary": "The stage direction room provides control of stage lighting and sound and accommodates sound-mixing, lighting, computer, and projection equipment.",
+      "building_type": "Theatre",
+      "spaces": [
+        "Stage direction room"
+      ],
+      "uses": [
+        "Control stage lighting and sound"
+      ],
+      "furniture_equipment": [
+        "Sound mixing desk",
+        "Lighting controls",
+        "Computer connections",
+        "Projection equipment"
+      ],
+      "dimensions": [],
+      "figure_refs": [
+        "3"
+      ],
+      "cross_refs": [],
+      "keywords": [
+        "stage direction room",
+        "lighting control",
+        "sound control",
+        "projection"
+      ],
+      "tags_architectural": [
+        "adaptability"
+      ],
+      "confidence": 0.95
+    }
+  ]
+}

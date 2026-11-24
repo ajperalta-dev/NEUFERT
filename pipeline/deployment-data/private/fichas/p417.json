@@ -1,0 +1,355 @@
+{
+  "fichas": [
+    {
+      "id": "4122fb96e4bd1976-417-vision-0",
+      "pdf_page": 417,
+      "book_page": 404,
+      "chapter": "TRANSPORT",
+      "section": "Public Transport",
+      "title": "Public Transport: Stops and Stations",
+      "summary": "Design guidance for railway, tram, and other public-transport stops and stations. Covers central and side platform layouts, platform length and width, stairs and escalators, lifts, tram stops, dynamic stops, and platform surfacing. The diagrams include stair layouts and platform cross-sections; a table gives minimum lift sizes by passenger load or potential hindrance.",
+      "building_type": "Public transport stop or station",
+      "spaces": [
+        "Central platform",
+        "Side platform",
+        "Platform stairs",
+        "Lift waiting area",
+        "Tram stop",
+        "Road space"
+      ],
+      "uses": [
+        "Passenger boarding and alighting",
+        "Passenger circulation and wayfinding",
+        "Accessible movement between station levels",
+        "Waiting for public transport",
+        "Protecting passengers at dynamic stops"
+      ],
+      "furniture_equipment": [
+        "Fixed stairs",
+        "Escalators",
+        "Passenger lifts",
+        "Handrails",
+        "Contrasting guide strips",
+        "Slip-resistant profiled platform-edge material",
+        "Traffic light"
+      ],
+      "dimensions": [
+        {
+          "label": "Platform length allowance for imprecise braking",
+          "value": 5.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "For underground and urban rapid transit, platform length is train length plus this allowance.",
+          "status": "verified",
+          "ocr_raw": "platform length is the train length plus 5 m (to allow for imprecise\nbraking)"
+        },
+        {
+          "label": "Minimum width of side platforms",
+          "value": 3.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "General minimum platform width.",
+          "status": "verified",
+          "ocr_raw": "side platforms 3 m"
+        },
+        {
+          "label": "Minimum width of central platforms with stairs at platform end",
+          "value": 6.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "General minimum platform width.",
+          "status": "verified",
+          "ocr_raw": "central platforms with stairs at the end of the platform 6 m"
+        },
+        {
+          "label": "Minimum width of platforms with stairs within usable platform length",
+          "value": 7.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "General minimum platform width.",
+          "status": "verified",
+          "ocr_raw": "with stairs within the usable platform length 7 m."
+        },
+        {
+          "label": "Minimum tram-stop platform width",
+          "value": 3.5,
+          "value_max": null,
+          "unit": "m",
+          "context": "Minimum width stated for tram stops; a greater width is given for waiting shelters and two-sided platforms.",
+          "status": "verified",
+          "ocr_raw": "Tram stops: platform min. 3.50 m"
+        },
+        {
+          "label": "Tram-stop platform width for waiting shelters and two-sided platforms",
+          "value": 5.5,
+          "value_max": null,
+          "unit": "m",
+          "context": "Width to provide space for waiting shelters and two-sided platforms.",
+          "status": "verified",
+          "ocr_raw": "PUBLIC TRANSPORT\nStops and Stations\n\n{OJ]]} Fixed stairs\n~ Escalators\n\nThe design of public transport stops is important. Railway systems\nare normally designed very specifically for the location. Therefore,\nplatform and floor heights in the vehicle have to be matched in order\nto ensure passenger-friendly and accessible entrances and exits.\nPlatform layout\n\nThe layout of central and side platforms depends on construction,\noperational and transport considerations, especially for platforms\nin tunnels.\nStairs within the usable length of platform\n\nCentr:l\n\nplatfor~\n\n~\n\n00\n\nI\n\nI\n\nSide\nplatford\n\nStairs at the platform end\n\n0\n\nStair layout for side and central platforms (Fiedler--> refs)\n\nNo. people/potential hindrance\n8/suitable for disabled\n13/suitable for carrying loads\n19/suitable for cycles\n\nWidth x Depth (m)\n1.10x 1.40\n1.10x2.10\n1.40x2.10\n\nCapacity (kg)\n630\n1000\n1450\n\nf) Minimum size of lifts (Fiedler--> refs)\n\nCentral platforms are simpler for the passengers to navigate, but\ntwo-way carriages are necessary. If stations are lower and an\nintermediate storey is required, then this can be used as a gradeseparated road crossing by general pedestrian traffic. When the\nplatforms are on one side, then twice the number of accesses,\nstairs and installations (kiosks, timetables etc.) are needed. Oneway carriages are possible because doors are required on the\nright-hand side only. When stops are located on viaducts, side\nplatforms are preferable because platforms can be projected,\nso no surface is lost apart from the supports. Successive stops\nshould if possible have the same platform layout (for passenger\norientation).\nPlatform length\n\nThis depends on the length of the longest train intended to stop\nat the station. In the case of underground and urban rapid transit,\nplatform length is the train length plus 5 m (to allow for imprecise\nbraking). Double stops are also possible for trams.\nPlatform width\n\nThe platform width depends on the number of passengers and the\nlocation, type and width of the access and exit routes. Platform,\nstairs and exits should be designed so that the platform can\nbe cleared, without queues, before the next train arrives. The\nminimum widths are, in general:\n- side platforms 3 m\n- central platforms with stairs at the end of the platform 6 m\n-with stairs within the usable platform length 7 m.\n\nC) Cross-section through platforms (Fiedler--> refs)\nStairs\n\nTram stops: platform min. 3.50 m or, to provide space for waiting\n\nPUBLIC\nTRANSPORT\nConditions,\n\nmeans of\ntransport\nStops and\nstations\n\nTraffic spaces\nBus stations\n\nshelters and two-sided platforms, min. 5.50 m. The permissible\nminimum width in the road space (according to BOStrab) of 1.50 m\nshould be improved on out of consideration for the passengers (where\nspace is restricted, 2 m is the minimum for a side exit). Safety space:\n0.85 m wide from the vehicle gauge on the door side of the rail vehicle,\nwhich can also lie on the road pavement.\nDynamic stop: if there is no transport stop island, a traffic light\nshould be placed further back along the road to protect the\npassengers getting in and out.\n\nStaircases can be located at the end of the platform or within\nthe usable platform length. The width of fixed stairs should be\na multiple of 0.60 m (at least 2.40 m) plus width for handrail and\ncleaning channel. Provide a handrail both sides and additionally in\nthe middle of stairs wider than 6.00 m -7 0.\nEscalators provide extra comfort for passengers, and accelerate\nand canalise the traffic flow; they should be used for medium\nand high passenger numbers. 1-1 %-track, or preferably 2-track,\nescalators should be used (800/1 000 mm step width). Construction\nwidths vary between 1.40 and 1.65 m, according to manufacturer.\nLifts\n\nAdditional passenger lifts should be installed (possibly as a refit)\nin above-ground and underground railway stations to aid the\njourneys of disabled people and others with restricted mobility\n(due to pushchairs, luggage etc.) -7 f). Lifts should be easily\nrecognisable with waiting areas outside the main traffic flow.\nPlatform surfacing\n\nQ Dynamic stop (Fiedler--> refs)\n404\n\nTo improve drainage, this should have a camber of at least 1%\n(max. 3-5% in tunnel stops and 2-3% in open-air stops). Platform\nedges should be slip-resistant and made of profiled and clearly\ncoloured material (if appropriate with a broad white band) to help\nthose with poor eyesight. Contrasting guide strips, which can be\nfelt with a white stick, should also be provided for visually impaired\npeople.\n\n\f"
+        },
+        {
+          "label": "Permissible minimum width in road space",
+          "value": 1.5,
+          "value_max": null,
+          "unit": "m",
+          "context": "According to BOStrab; the text says this should be improved where possible for passenger comfort.",
+          "status": "verified",
+          "ocr_raw": "The permissible\nminimum width in the road space (according to BOStrab) of 1.50 m"
+        },
+        {
+          "label": "Minimum width for a side exit where space is restricted",
+          "value": 2.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Road-space side exit under restricted-space conditions.",
+          "status": "verified",
+          "ocr_raw": "where\nspace is restricted, 2 m is the minimum for a side exit"
+        },
+        {
+          "label": "Safety space from vehicle gauge",
+          "value": 0.85,
+          "value_max": null,
+          "unit": "m",
+          "context": "On the door side of the rail vehicle; may also lie on the road pavement.",
+          "status": "verified",
+          "ocr_raw": "Safety space:\n0.85 m wide from the vehicle gauge on the door side of the rail vehicle"
+        },
+        {
+          "label": "Fixed-stair width increment",
+          "value": 0.6,
+          "value_max": null,
+          "unit": "m",
+          "context": "Fixed-stair width should be a multiple of this increment, plus width for handrail and cleaning channel.",
+          "status": "verified",
+          "ocr_raw": "The width of fixed stairs should be\na multiple of 0.60 m"
+        },
+        {
+          "label": "Minimum fixed-stair width",
+          "value": 2.4,
+          "value_max": null,
+          "unit": "m",
+          "context": "Minimum width, in addition to provision for handrail and cleaning channel.",
+          "status": "verified",
+          "ocr_raw": "(at least 2.40 m)"
+        },
+        {
+          "label": "Stair width threshold for an additional middle handrail",
+          "value": 6.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Provide a handrail in the middle of stairs wider than this threshold.",
+          "status": "verified",
+          "ocr_raw": "in\nthe middle of stairs wider than 6.00 m"
+        },
+        {
+          "label": "Escalator track count",
+          "value": 1.0,
+          "value_max": 1.5,
+          "unit": "tracks",
+          "context": "The OCR prints “1-1 %-track”; the image appears to read “1–1½-track”. Two-track escalators are preferred. The printed expression is retained without interpreting it as a descending range.",
+          "status": "verified",
+          "ocr_raw": "PUBLIC TRANSPORT\nStops and Stations\n\n{OJ]]} Fixed stairs\n~ Escalators\n\nThe design of public transport stops is important. Railway systems\nare normally designed very specifically for the location. Therefore,\nplatform and floor heights in the vehicle have to be matched in order\nto ensure passenger-friendly and accessible entrances and exits.\nPlatform layout\n\nThe layout of central and side platforms depends on construction,\noperational and transport considerations, especially for platforms\nin tunnels.\nStairs within the usable length of platform\n\nCentr:l\n\nplatfor~\n\n~\n\n00\n\nI\n\nI\n\nSide\nplatford\n\nStairs at the platform end\n\n0\n\nStair layout for side and central platforms (Fiedler--> refs)\n\nNo. people/potential hindrance\n8/suitable for disabled\n13/suitable for carrying loads\n19/suitable for cycles\n\nWidth x Depth (m)\n1.10x 1.40\n1.10x2.10\n1.40x2.10\n\nCapacity (kg)\n630\n1000\n1450\n\nf) Minimum size of lifts (Fiedler--> refs)\n\nCentral platforms are simpler for the passengers to navigate, but\ntwo-way carriages are necessary. If stations are lower and an\nintermediate storey is required, then this can be used as a gradeseparated road crossing by general pedestrian traffic. When the\nplatforms are on one side, then twice the number of accesses,\nstairs and installations (kiosks, timetables etc.) are needed. Oneway carriages are possible because doors are required on the\nright-hand side only. When stops are located on viaducts, side\nplatforms are preferable because platforms can be projected,\nso no surface is lost apart from the supports. Successive stops\nshould if possible have the same platform layout (for passenger\norientation).\nPlatform length\n\nThis depends on the length of the longest train intended to stop\nat the station. In the case of underground and urban rapid transit,\nplatform length is the train length plus 5 m (to allow for imprecise\nbraking). Double stops are also possible for trams.\nPlatform width\n\nThe platform width depends on the number of passengers and the\nlocation, type and width of the access and exit routes. Platform,\nstairs and exits should be designed so that the platform can\nbe cleared, without queues, before the next train arrives. The\nminimum widths are, in general:\n- side platforms 3 m\n- central platforms with stairs at the end of the platform 6 m\n-with stairs within the usable platform length 7 m.\n\nC) Cross-section through platforms (Fiedler--> refs)\nStairs\n\nTram stops: platform min. 3.50 m or, to provide space for waiting\n\nPUBLIC\nTRANSPORT\nConditions,\n\nmeans of\ntransport\nStops and\nstations\n\nTraffic spaces\nBus stations\n\nshelters and two-sided platforms, min. 5.50 m. The permissible\nminimum width in the road space (according to BOStrab) of 1.50 m\nshould be improved on out of consideration for the passengers (where\nspace is restricted, 2 m is the minimum for a side exit). Safety space:\n0.85 m wide from the vehicle gauge on the door side of the rail vehicle,\nwhich can also lie on the road pavement.\nDynamic stop: if there is no transport stop island, a traffic light\nshould be placed further back along the road to protect the\npassengers getting in and out.\n\nStaircases can be located at the end of the platform or within\nthe usable platform length. The width of fixed stairs should be\na multiple of 0.60 m (at least 2.40 m) plus width for handrail and\ncleaning channel. Provide a handrail both sides and additionally in\nthe middle of stairs wider than 6.00 m -7 0.\nEscalators provide extra comfort for passengers, and accelerate\nand canalise the traffic flow; they should be used for medium\nand high passenger numbers. 1-1 %-track, or preferably 2-track,\nescalators should be used (800/1 000 mm step width). Construction\nwidths vary between 1.40 and 1.65 m, according to manufacturer.\nLifts\n\nAdditional passenger lifts should be installed (possibly as a refit)\nin above-ground and underground railway stations to aid the\njourneys of disabled people and others with restricted mobility\n(due to pushchairs, luggage etc.) -7 f). Lifts should be easily\nrecognisable with waiting areas outside the main traffic flow.\nPlatform surfacing\n\nQ Dynamic stop (Fiedler--> refs)\n404\n\nTo improve drainage, this should have a camber of at least 1%\n(max. 3-5% in tunnel stops and 2-3% in open-air stops). Platform\nedges should be slip-resistant and made of profiled and clearly\ncoloured material (if appropriate with a broad white band) to help\nthose with poor eyesight. Contrasting guide strips, which can be\nfelt with a white stick, should also be provided for visually impaired\npeople.\n\n\f"
+        },
+        {
+          "label": "Preferred escalator track count",
+          "value": 2.0,
+          "value_max": null,
+          "unit": "tracks",
+          "context": "Preferred escalator arrangement; the text also gives a one-to-one-and-a-half-track arrangement.",
+          "status": "verified",
+          "ocr_raw": "or preferably 2-track"
+        },
+        {
+          "label": "Escalator step width",
+          "value": 800.0,
+          "value_max": 1000.0,
+          "unit": "mm",
+          "context": "Step-width alternatives stated for escalators.",
+          "status": "verified",
+          "ocr_raw": "(800/1 000 mm step width)"
+        },
+        {
+          "label": "Escalator construction width",
+          "value": 1.4,
+          "value_max": 1.65,
+          "unit": "m",
+          "context": "Construction-width range, varying according to manufacturer.",
+          "status": "verified",
+          "ocr_raw": "Construction\nwidths vary between 1.40 and 1.65 m"
+        },
+        {
+          "label": "Minimum drainage camber",
+          "value": 1.0,
+          "value_max": null,
+          "unit": "%",
+          "context": "Platform surfacing camber to improve drainage.",
+          "status": "verified",
+          "ocr_raw": "a camber of at least 1%"
+        },
+        {
+          "label": "Maximum platform camber at tunnel stops",
+          "value": 3.0,
+          "value_max": 5.0,
+          "unit": "%",
+          "context": "Maximum camber range stated for tunnel stops.",
+          "status": "verified",
+          "ocr_raw": "max. 3-5% in tunnel stops"
+        },
+        {
+          "label": "Maximum platform camber at open-air stops",
+          "value": 2.0,
+          "value_max": 3.0,
+          "unit": "%",
+          "context": "Maximum camber range stated for open-air stops.",
+          "status": "verified",
+          "ocr_raw": "2-3% in open-air stops"
+        },
+        {
+          "label": "Lift width",
+          "value": 1.1,
+          "value_max": null,
+          "unit": "m",
+          "context": "Minimum lift size table; suitable for 8 people or potential hindrances for disabled passengers.",
+          "status": "verified",
+          "ocr_raw": "PUBLIC TRANSPORT\nStops and Stations\n\n{OJ]]} Fixed stairs\n~ Escalators\n\nThe design of public transport stops is important. Railway systems\nare normally designed very specifically for the location. Therefore,\nplatform and floor heights in the vehicle have to be matched in order\nto ensure passenger-friendly and accessible entrances and exits.\nPlatform layout\n\nThe layout of central and side platforms depends on construction,\noperational and transport considerations, especially for platforms\nin tunnels.\nStairs within the usable length of platform\n\nCentr:l\n\nplatfor~\n\n~\n\n00\n\nI\n\nI\n\nSide\nplatford\n\nStairs at the platform end\n\n0\n\nStair layout for side and central platforms (Fiedler--> refs)\n\nNo. people/potential hindrance\n8/suitable for disabled\n13/suitable for carrying loads\n19/suitable for cycles\n\nWidth x Depth (m)\n1.10x 1.40\n1.10x2.10\n1.40x2.10\n\nCapacity (kg)\n630\n1000\n1450\n\nf) Minimum size of lifts (Fiedler--> refs)\n\nCentral platforms are simpler for the passengers to navigate, but\ntwo-way carriages are necessary. If stations are lower and an\nintermediate storey is required, then this can be used as a gradeseparated road crossing by general pedestrian traffic. When the\nplatforms are on one side, then twice the number of accesses,\nstairs and installations (kiosks, timetables etc.) are needed. Oneway carriages are possible because doors are required on the\nright-hand side only. When stops are located on viaducts, side\nplatforms are preferable because platforms can be projected,\nso no surface is lost apart from the supports. Successive stops\nshould if possible have the same platform layout (for passenger\norientation).\nPlatform length\n\nThis depends on the length of the longest train intended to stop\nat the station. In the case of underground and urban rapid transit,\nplatform length is the train length plus 5 m (to allow for imprecise\nbraking). Double stops are also possible for trams.\nPlatform width\n\nThe platform width depends on the number of passengers and the\nlocation, type and width of the access and exit routes. Platform,\nstairs and exits should be designed so that the platform can\nbe cleared, without queues, before the next train arrives. The\nminimum widths are, in general:\n- side platforms 3 m\n- central platforms with stairs at the end of the platform 6 m\n-with stairs within the usable platform length 7 m.\n\nC) Cross-section through platforms (Fiedler--> refs)\nStairs\n\nTram stops: platform min. 3.50 m or, to provide space for waiting\n\nPUBLIC\nTRANSPORT\nConditions,\n\nmeans of\ntransport\nStops and\nstations\n\nTraffic spaces\nBus stations\n\nshelters and two-sided platforms, min. 5.50 m. The permissible\nminimum width in the road space (according to BOStrab) of 1.50 m\nshould be improved on out of consideration for the passengers (where\nspace is restricted, 2 m is the minimum for a side exit). Safety space:\n0.85 m wide from the vehicle gauge on the door side of the rail vehicle,\nwhich can also lie on the road pavement.\nDynamic stop: if there is no transport stop island, a traffic light\nshould be placed further back along the road to protect the\npassengers getting in and out.\n\nStaircases can be located at the end of the platform or within\nthe usable platform length. The width of fixed stairs should be\na multiple of 0.60 m (at least 2.40 m) plus width for handrail and\ncleaning channel. Provide a handrail both sides and additionally in\nthe middle of stairs wider than 6.00 m -7 0.\nEscalators provide extra comfort for passengers, and accelerate\nand canalise the traffic flow; they should be used for medium\nand high passenger numbers. 1-1 %-track, or preferably 2-track,\nescalators should be used (800/1 000 mm step width). Construction\nwidths vary between 1.40 and 1.65 m, according to manufacturer.\nLifts\n\nAdditional passenger lifts should be installed (possibly as a refit)\nin above-ground and underground railway stations to aid the\njourneys of disabled people and others with restricted mobility\n(due to pushchairs, luggage etc.) -7 f). Lifts should be easily\nrecognisable with waiting areas outside the main traffic flow.\nPlatform surfacing\n\nQ Dynamic stop (Fiedler--> refs)\n404\n\nTo improve drainage, this should have a camber of at least 1%\n(max. 3-5% in tunnel stops and 2-3% in open-air stops). Platform\nedges should be slip-resistant and made of profiled and clearly\ncoloured material (if appropriate with a broad white band) to help\nthose with poor eyesight. Contrasting guide strips, which can be\nfelt with a white stick, should also be provided for visually impaired\npeople.\n\n\f"
+        },
+        {
+          "label": "Lift depth",
+          "value": 1.4,
+          "value_max": null,
+          "unit": "m",
+          "context": "Minimum lift size table; suitable for 8 people or potential hindrances for disabled passengers.",
+          "status": "verified",
+          "ocr_raw": "PUBLIC TRANSPORT\nStops and Stations\n\n{OJ]]} Fixed stairs\n~ Escalators\n\nThe design of public transport stops is important. Railway systems\nare normally designed very specifically for the location. Therefore,\nplatform and floor heights in the vehicle have to be matched in order\nto ensure passenger-friendly and accessible entrances and exits.\nPlatform layout\n\nThe layout of central and side platforms depends on construction,\noperational and transport considerations, especially for platforms\nin tunnels.\nStairs within the usable length of platform\n\nCentr:l\n\nplatfor~\n\n~\n\n00\n\nI\n\nI\n\nSide\nplatford\n\nStairs at the platform end\n\n0\n\nStair layout for side and central platforms (Fiedler--> refs)\n\nNo. people/potential hindrance\n8/suitable for disabled\n13/suitable for carrying loads\n19/suitable for cycles\n\nWidth x Depth (m)\n1.10x 1.40\n1.10x2.10\n1.40x2.10\n\nCapacity (kg)\n630\n1000\n1450\n\nf) Minimum size of lifts (Fiedler--> refs)\n\nCentral platforms are simpler for the passengers to navigate, but\ntwo-way carriages are necessary. If stations are lower and an\nintermediate storey is required, then this can be used as a gradeseparated road crossing by general pedestrian traffic. When the\nplatforms are on one side, then twice the number of accesses,\nstairs and installations (kiosks, timetables etc.) are needed. Oneway carriages are possible because doors are required on the\nright-hand side only. When stops are located on viaducts, side\nplatforms are preferable because platforms can be projected,\nso no surface is lost apart from the supports. Successive stops\nshould if possible have the same platform layout (for passenger\norientation).\nPlatform length\n\nThis depends on the length of the longest train intended to stop\nat the station. In the case of underground and urban rapid transit,\nplatform length is the train length plus 5 m (to allow for imprecise\nbraking). Double stops are also possible for trams.\nPlatform width\n\nThe platform width depends on the number of passengers and the\nlocation, type and width of the access and exit routes. Platform,\nstairs and exits should be designed so that the platform can\nbe cleared, without queues, before the next train arrives. The\nminimum widths are, in general:\n- side platforms 3 m\n- central platforms with stairs at the end of the platform 6 m\n-with stairs within the usable platform length 7 m.\n\nC) Cross-section through platforms (Fiedler--> refs)\nStairs\n\nTram stops: platform min. 3.50 m or, to provide space for waiting\n\nPUBLIC\nTRANSPORT\nConditions,\n\nmeans of\ntransport\nStops and\nstations\n\nTraffic spaces\nBus stations\n\nshelters and two-sided platforms, min. 5.50 m. The permissible\nminimum width in the road space (according to BOStrab) of 1.50 m\nshould be improved on out of consideration for the passengers (where\nspace is restricted, 2 m is the minimum for a side exit). Safety space:\n0.85 m wide from the vehicle gauge on the door side of the rail vehicle,\nwhich can also lie on the road pavement.\nDynamic stop: if there is no transport stop island, a traffic light\nshould be placed further back along the road to protect the\npassengers getting in and out.\n\nStaircases can be located at the end of the platform or within\nthe usable platform length. The width of fixed stairs should be\na multiple of 0.60 m (at least 2.40 m) plus width for handrail and\ncleaning channel. Provide a handrail both sides and additionally in\nthe middle of stairs wider than 6.00 m -7 0.\nEscalators provide extra comfort for passengers, and accelerate\nand canalise the traffic flow; they should be used for medium\nand high passenger numbers. 1-1 %-track, or preferably 2-track,\nescalators should be used (800/1 000 mm step width). Construction\nwidths vary between 1.40 and 1.65 m, according to manufacturer.\nLifts\n\nAdditional passenger lifts should be installed (possibly as a refit)\nin above-ground and underground railway stations to aid the\njourneys of disabled people and others with restricted mobility\n(due to pushchairs, luggage etc.) -7 f). Lifts should be easily\nrecognisable with waiting areas outside the main traffic flow.\nPlatform surfacing\n\nQ Dynamic stop (Fiedler--> refs)\n404\n\nTo improve drainage, this should have a camber of at least 1%\n(max. 3-5% in tunnel stops and 2-3% in open-air stops). Platform\nedges should be slip-resistant and made of profiled and clearly\ncoloured material (if appropriate with a broad white band) to help\nthose with poor eyesight. Contrasting guide strips, which can be\nfelt with a white stick, should also be provided for visually impaired\npeople.\n\n\f"
+        },
+        {
+          "label": "Lift capacity",
+          "value": 630.0,
+          "value_max": null,
+          "unit": "kg",
+          "context": "Minimum lift size table; suitable for 8 people or potential hindrances for disabled passengers.",
+          "status": "verified",
+          "ocr_raw": "PUBLIC TRANSPORT\nStops and Stations\n\n{OJ]]} Fixed stairs\n~ Escalators\n\nThe design of public transport stops is important. Railway systems\nare normally designed very specifically for the location. Therefore,\nplatform and floor heights in the vehicle have to be matched in order\nto ensure passenger-friendly and accessible entrances and exits.\nPlatform layout\n\nThe layout of central and side platforms depends on construction,\noperational and transport considerations, especially for platforms\nin tunnels.\nStairs within the usable length of platform\n\nCentr:l\n\nplatfor~\n\n~\n\n00\n\nI\n\nI\n\nSide\nplatford\n\nStairs at the platform end\n\n0\n\nStair layout for side and central platforms (Fiedler--> refs)\n\nNo. people/potential hindrance\n8/suitable for disabled\n13/suitable for carrying loads\n19/suitable for cycles\n\nWidth x Depth (m)\n1.10x 1.40\n1.10x2.10\n1.40x2.10\n\nCapacity (kg)\n630\n1000\n1450\n\nf) Minimum size of lifts (Fiedler--> refs)\n\nCentral platforms are simpler for the passengers to navigate, but\ntwo-way carriages are necessary. If stations are lower and an\nintermediate storey is required, then this can be used as a gradeseparated road crossing by general pedestrian traffic. When the\nplatforms are on one side, then twice the number of accesses,\nstairs and installations (kiosks, timetables etc.) are needed. Oneway carriages are possible because doors are required on the\nright-hand side only. When stops are located on viaducts, side\nplatforms are preferable because platforms can be projected,\nso no surface is lost apart from the supports. Successive stops\nshould if possible have the same platform layout (for passenger\norientation).\nPlatform length\n\nThis depends on the length of the longest train intended to stop\nat the station. In the case of underground and urban rapid transit,\nplatform length is the train length plus 5 m (to allow for imprecise\nbraking). Double stops are also possible for trams.\nPlatform width\n\nThe platform width depends on the number of passengers and the\nlocation, type and width of the access and exit routes. Platform,\nstairs and exits should be designed so that the platform can\nbe cleared, without queues, before the next train arrives. The\nminimum widths are, in general:\n- side platforms 3 m\n- central platforms with stairs at the end of the platform 6 m\n-with stairs within the usable platform length 7 m.\n\nC) Cross-section through platforms (Fiedler--> refs)\nStairs\n\nTram stops: platform min. 3.50 m or, to provide space for waiting\n\nPUBLIC\nTRANSPORT\nConditions,\n\nmeans of\ntransport\nStops and\nstations\n\nTraffic spaces\nBus stations\n\nshelters and two-sided platforms, min. 5.50 m. The permissible\nminimum width in the road space (according to BOStrab) of 1.50 m\nshould be improved on out of consideration for the passengers (where\nspace is restricted, 2 m is the minimum for a side exit). Safety space:\n0.85 m wide from the vehicle gauge on the door side of the rail vehicle,\nwhich can also lie on the road pavement.\nDynamic stop: if there is no transport stop island, a traffic light\nshould be placed further back along the road to protect the\npassengers getting in and out.\n\nStaircases can be located at the end of the platform or within\nthe usable platform length. The width of fixed stairs should be\na multiple of 0.60 m (at least 2.40 m) plus width for handrail and\ncleaning channel. Provide a handrail both sides and additionally in\nthe middle of stairs wider than 6.00 m -7 0.\nEscalators provide extra comfort for passengers, and accelerate\nand canalise the traffic flow; they should be used for medium\nand high passenger numbers. 1-1 %-track, or preferably 2-track,\nescalators should be used (800/1 000 mm step width). Construction\nwidths vary between 1.40 and 1.65 m, according to manufacturer.\nLifts\n\nAdditional passenger lifts should be installed (possibly as a refit)\nin above-ground and underground railway stations to aid the\njourneys of disabled people and others with restricted mobility\n(due to pushchairs, luggage etc.) -7 f). Lifts should be easily\nrecognisable with waiting areas outside the main traffic flow.\nPlatform surfacing\n\nQ Dynamic stop (Fiedler--> refs)\n404\n\nTo improve drainage, this should have a camber of at least 1%\n(max. 3-5% in tunnel stops and 2-3% in open-air stops). Platform\nedges should be slip-resistant and made of profiled and clearly\ncoloured material (if appropriate with a broad white band) to help\nthose with poor eyesight. Contrasting guide strips, which can be\nfelt with a white stick, should also be provided for visually impaired\npeople.\n\n\f"
+        },
+        {
+          "label": "Lift width",
+          "value": 1.1,
+          "value_max": null,
+          "unit": "m",
+          "context": "Minimum lift size table; suitable for carrying loads, with a listed group of 13 people/potential hindrance.",
+          "status": "verified",
+          "ocr_raw": "PUBLIC TRANSPORT\nStops and Stations\n\n{OJ]]} Fixed stairs\n~ Escalators\n\nThe design of public transport stops is important. Railway systems\nare normally designed very specifically for the location. Therefore,\nplatform and floor heights in the vehicle have to be matched in order\nto ensure passenger-friendly and accessible entrances and exits.\nPlatform layout\n\nThe layout of central and side platforms depends on construction,\noperational and transport considerations, especially for platforms\nin tunnels.\nStairs within the usable length of platform\n\nCentr:l\n\nplatfor~\n\n~\n\n00\n\nI\n\nI\n\nSide\nplatford\n\nStairs at the platform end\n\n0\n\nStair layout for side and central platforms (Fiedler--> refs)\n\nNo. people/potential hindrance\n8/suitable for disabled\n13/suitable for carrying loads\n19/suitable for cycles\n\nWidth x Depth (m)\n1.10x 1.40\n1.10x2.10\n1.40x2.10\n\nCapacity (kg)\n630\n1000\n1450\n\nf) Minimum size of lifts (Fiedler--> refs)\n\nCentral platforms are simpler for the passengers to navigate, but\ntwo-way carriages are necessary. If stations are lower and an\nintermediate storey is required, then this can be used as a gradeseparated road crossing by general pedestrian traffic. When the\nplatforms are on one side, then twice the number of accesses,\nstairs and installations (kiosks, timetables etc.) are needed. Oneway carriages are possible because doors are required on the\nright-hand side only. When stops are located on viaducts, side\nplatforms are preferable because platforms can be projected,\nso no surface is lost apart from the supports. Successive stops\nshould if possible have the same platform layout (for passenger\norientation).\nPlatform length\n\nThis depends on the length of the longest train intended to stop\nat the station. In the case of underground and urban rapid transit,\nplatform length is the train length plus 5 m (to allow for imprecise\nbraking). Double stops are also possible for trams.\nPlatform width\n\nThe platform width depends on the number of passengers and the\nlocation, type and width of the access and exit routes. Platform,\nstairs and exits should be designed so that the platform can\nbe cleared, without queues, before the next train arrives. The\nminimum widths are, in general:\n- side platforms 3 m\n- central platforms with stairs at the end of the platform 6 m\n-with stairs within the usable platform length 7 m.\n\nC) Cross-section through platforms (Fiedler--> refs)\nStairs\n\nTram stops: platform min. 3.50 m or, to provide space for waiting\n\nPUBLIC\nTRANSPORT\nConditions,\n\nmeans of\ntransport\nStops and\nstations\n\nTraffic spaces\nBus stations\n\nshelters and two-sided platforms, min. 5.50 m. The permissible\nminimum width in the road space (according to BOStrab) of 1.50 m\nshould be improved on out of consideration for the passengers (where\nspace is restricted, 2 m is the minimum for a side exit). Safety space:\n0.85 m wide from the vehicle gauge on the door side of the rail vehicle,\nwhich can also lie on the road pavement.\nDynamic stop: if there is no transport stop island, a traffic light\nshould be placed further back along the road to protect the\npassengers getting in and out.\n\nStaircases can be located at the end of the platform or within\nthe usable platform length. The width of fixed stairs should be\na multiple of 0.60 m (at least 2.40 m) plus width for handrail and\ncleaning channel. Provide a handrail both sides and additionally in\nthe middle of stairs wider than 6.00 m -7 0.\nEscalators provide extra comfort for passengers, and accelerate\nand canalise the traffic flow; they should be used for medium\nand high passenger numbers. 1-1 %-track, or preferably 2-track,\nescalators should be used (800/1 000 mm step width). Construction\nwidths vary between 1.40 and 1.65 m, according to manufacturer.\nLifts\n\nAdditional passenger lifts should be installed (possibly as a refit)\nin above-ground and underground railway stations to aid the\njourneys of disabled people and others with restricted mobility\n(due to pushchairs, luggage etc.) -7 f). Lifts should be easily\nrecognisable with waiting areas outside the main traffic flow.\nPlatform surfacing\n\nQ Dynamic stop (Fiedler--> refs)\n404\n\nTo improve drainage, this should have a camber of at least 1%\n(max. 3-5% in tunnel stops and 2-3% in open-air stops). Platform\nedges should be slip-resistant and made of profiled and clearly\ncoloured material (if appropriate with a broad white band) to help\nthose with poor eyesight. Contrasting guide strips, which can be\nfelt with a white stick, should also be provided for visually impaired\npeople.\n\n\f"
+        },
+        {
+          "label": "Lift depth",
+          "value": 2.1,
+          "value_max": null,
+          "unit": "m",
+          "context": "Minimum lift size table; suitable for carrying loads, with a listed group of 13 people/potential hindrance.",
+          "status": "verified",
+          "ocr_raw": "PUBLIC TRANSPORT\nStops and Stations\n\n{OJ]]} Fixed stairs\n~ Escalators\n\nThe design of public transport stops is important. Railway systems\nare normally designed very specifically for the location. Therefore,\nplatform and floor heights in the vehicle have to be matched in order\nto ensure passenger-friendly and accessible entrances and exits.\nPlatform layout\n\nThe layout of central and side platforms depends on construction,\noperational and transport considerations, especially for platforms\nin tunnels.\nStairs within the usable length of platform\n\nCentr:l\n\nplatfor~\n\n~\n\n00\n\nI\n\nI\n\nSide\nplatford\n\nStairs at the platform end\n\n0\n\nStair layout for side and central platforms (Fiedler--> refs)\n\nNo. people/potential hindrance\n8/suitable for disabled\n13/suitable for carrying loads\n19/suitable for cycles\n\nWidth x Depth (m)\n1.10x 1.40\n1.10x2.10\n1.40x2.10\n\nCapacity (kg)\n630\n1000\n1450\n\nf) Minimum size of lifts (Fiedler--> refs)\n\nCentral platforms are simpler for the passengers to navigate, but\ntwo-way carriages are necessary. If stations are lower and an\nintermediate storey is required, then this can be used as a gradeseparated road crossing by general pedestrian traffic. When the\nplatforms are on one side, then twice the number of accesses,\nstairs and installations (kiosks, timetables etc.) are needed. Oneway carriages are possible because doors are required on the\nright-hand side only. When stops are located on viaducts, side\nplatforms are preferable because platforms can be projected,\nso no surface is lost apart from the supports. Successive stops\nshould if possible have the same platform layout (for passenger\norientation).\nPlatform length\n\nThis depends on the length of the longest train intended to stop\nat the station. In the case of underground and urban rapid transit,\nplatform length is the train length plus 5 m (to allow for imprecise\nbraking). Double stops are also possible for trams.\nPlatform width\n\nThe platform width depends on the number of passengers and the\nlocation, type and width of the access and exit routes. Platform,\nstairs and exits should be designed so that the platform can\nbe cleared, without queues, before the next train arrives. The\nminimum widths are, in general:\n- side platforms 3 m\n- central platforms with stairs at the end of the platform 6 m\n-with stairs within the usable platform length 7 m.\n\nC) Cross-section through platforms (Fiedler--> refs)\nStairs\n\nTram stops: platform min. 3.50 m or, to provide space for waiting\n\nPUBLIC\nTRANSPORT\nConditions,\n\nmeans of\ntransport\nStops and\nstations\n\nTraffic spaces\nBus stations\n\nshelters and two-sided platforms, min. 5.50 m. The permissible\nminimum width in the road space (according to BOStrab) of 1.50 m\nshould be improved on out of consideration for the passengers (where\nspace is restricted, 2 m is the minimum for a side exit). Safety space:\n0.85 m wide from the vehicle gauge on the door side of the rail vehicle,\nwhich can also lie on the road pavement.\nDynamic stop: if there is no transport stop island, a traffic light\nshould be placed further back along the road to protect the\npassengers getting in and out.\n\nStaircases can be located at the end of the platform or within\nthe usable platform length. The width of fixed stairs should be\na multiple of 0.60 m (at least 2.40 m) plus width for handrail and\ncleaning channel. Provide a handrail both sides and additionally in\nthe middle of stairs wider than 6.00 m -7 0.\nEscalators provide extra comfort for passengers, and accelerate\nand canalise the traffic flow; they should be used for medium\nand high passenger numbers. 1-1 %-track, or preferably 2-track,\nescalators should be used (800/1 000 mm step width). Construction\nwidths vary between 1.40 and 1.65 m, according to manufacturer.\nLifts\n\nAdditional passenger lifts should be installed (possibly as a refit)\nin above-ground and underground railway stations to aid the\njourneys of disabled people and others with restricted mobility\n(due to pushchairs, luggage etc.) -7 f). Lifts should be easily\nrecognisable with waiting areas outside the main traffic flow.\nPlatform surfacing\n\nQ Dynamic stop (Fiedler--> refs)\n404\n\nTo improve drainage, this should have a camber of at least 1%\n(max. 3-5% in tunnel stops and 2-3% in open-air stops). Platform\nedges should be slip-resistant and made of profiled and clearly\ncoloured material (if appropriate with a broad white band) to help\nthose with poor eyesight. Contrasting guide strips, which can be\nfelt with a white stick, should also be provided for visually impaired\npeople.\n\n\f"
+        },
+        {
+          "label": "Lift capacity",
+          "value": 1000.0,
+          "value_max": null,
+          "unit": "kg",
+          "context": "Minimum lift size table; suitable for carrying loads, with a listed group of 13 people/potential hindrance.",
+          "status": "verified",
+          "ocr_raw": "PUBLIC TRANSPORT\nStops and Stations\n\n{OJ]]} Fixed stairs\n~ Escalators\n\nThe design of public transport stops is important. Railway systems\nare normally designed very specifically for the location. Therefore,\nplatform and floor heights in the vehicle have to be matched in order\nto ensure passenger-friendly and accessible entrances and exits.\nPlatform layout\n\nThe layout of central and side platforms depends on construction,\noperational and transport considerations, especially for platforms\nin tunnels.\nStairs within the usable length of platform\n\nCentr:l\n\nplatfor~\n\n~\n\n00\n\nI\n\nI\n\nSide\nplatford\n\nStairs at the platform end\n\n0\n\nStair layout for side and central platforms (Fiedler--> refs)\n\nNo. people/potential hindrance\n8/suitable for disabled\n13/suitable for carrying loads\n19/suitable for cycles\n\nWidth x Depth (m)\n1.10x 1.40\n1.10x2.10\n1.40x2.10\n\nCapacity (kg)\n630\n1000\n1450\n\nf) Minimum size of lifts (Fiedler--> refs)\n\nCentral platforms are simpler for the passengers to navigate, but\ntwo-way carriages are necessary. If stations are lower and an\nintermediate storey is required, then this can be used as a gradeseparated road crossing by general pedestrian traffic. When the\nplatforms are on one side, then twice the number of accesses,\nstairs and installations (kiosks, timetables etc.) are needed. Oneway carriages are possible because doors are required on the\nright-hand side only. When stops are located on viaducts, side\nplatforms are preferable because platforms can be projected,\nso no surface is lost apart from the supports. Successive stops\nshould if possible have the same platform layout (for passenger\norientation).\nPlatform length\n\nThis depends on the length of the longest train intended to stop\nat the station. In the case of underground and urban rapid transit,\nplatform length is the train length plus 5 m (to allow for imprecise\nbraking). Double stops are also possible for trams.\nPlatform width\n\nThe platform width depends on the number of passengers and the\nlocation, type and width of the access and exit routes. Platform,\nstairs and exits should be designed so that the platform can\nbe cleared, without queues, before the next train arrives. The\nminimum widths are, in general:\n- side platforms 3 m\n- central platforms with stairs at the end of the platform 6 m\n-with stairs within the usable platform length 7 m.\n\nC) Cross-section through platforms (Fiedler--> refs)\nStairs\n\nTram stops: platform min. 3.50 m or, to provide space for waiting\n\nPUBLIC\nTRANSPORT\nConditions,\n\nmeans of\ntransport\nStops and\nstations\n\nTraffic spaces\nBus stations\n\nshelters and two-sided platforms, min. 5.50 m. The permissible\nminimum width in the road space (according to BOStrab) of 1.50 m\nshould be improved on out of consideration for the passengers (where\nspace is restricted, 2 m is the minimum for a side exit). Safety space:\n0.85 m wide from the vehicle gauge on the door side of the rail vehicle,\nwhich can also lie on the road pavement.\nDynamic stop: if there is no transport stop island, a traffic light\nshould be placed further back along the road to protect the\npassengers getting in and out.\n\nStaircases can be located at the end of the platform or within\nthe usable platform length. The width of fixed stairs should be\na multiple of 0.60 m (at least 2.40 m) plus width for handrail and\ncleaning channel. Provide a handrail both sides and additionally in\nthe middle of stairs wider than 6.00 m -7 0.\nEscalators provide extra comfort for passengers, and accelerate\nand canalise the traffic flow; they should be used for medium\nand high passenger numbers. 1-1 %-track, or preferably 2-track,\nescalators should be used (800/1 000 mm step width). Construction\nwidths vary between 1.40 and 1.65 m, according to manufacturer.\nLifts\n\nAdditional passenger lifts should be installed (possibly as a refit)\nin above-ground and underground railway stations to aid the\njourneys of disabled people and others with restricted mobility\n(due to pushchairs, luggage etc.) -7 f). Lifts should be easily\nrecognisable with waiting areas outside the main traffic flow.\nPlatform surfacing\n\nQ Dynamic stop (Fiedler--> refs)\n404\n\nTo improve drainage, this should have a camber of at least 1%\n(max. 3-5% in tunnel stops and 2-3% in open-air stops). Platform\nedges should be slip-resistant and made of profiled and clearly\ncoloured material (if appropriate with a broad white band) to help\nthose with poor eyesight. Contrasting guide strips, which can be\nfelt with a white stick, should also be provided for visually impaired\npeople.\n\n\f"
+        },
+        {
+          "label": "Lift width",
+          "value": 1.4,
+          "value_max": null,
+          "unit": "m",
+          "context": "Minimum lift size table; suitable for cycles, with a listed group of 19 people/potential hindrance.",
+          "status": "verified",
+          "ocr_raw": "PUBLIC TRANSPORT\nStops and Stations\n\n{OJ]]} Fixed stairs\n~ Escalators\n\nThe design of public transport stops is important. Railway systems\nare normally designed very specifically for the location. Therefore,\nplatform and floor heights in the vehicle have to be matched in order\nto ensure passenger-friendly and accessible entrances and exits.\nPlatform layout\n\nThe layout of central and side platforms depends on construction,\noperational and transport considerations, especially for platforms\nin tunnels.\nStairs within the usable length of platform\n\nCentr:l\n\nplatfor~\n\n~\n\n00\n\nI\n\nI\n\nSide\nplatford\n\nStairs at the platform end\n\n0\n\nStair layout for side and central platforms (Fiedler--> refs)\n\nNo. people/potential hindrance\n8/suitable for disabled\n13/suitable for carrying loads\n19/suitable for cycles\n\nWidth x Depth (m)\n1.10x 1.40\n1.10x2.10\n1.40x2.10\n\nCapacity (kg)\n630\n1000\n1450\n\nf) Minimum size of lifts (Fiedler--> refs)\n\nCentral platforms are simpler for the passengers to navigate, but\ntwo-way carriages are necessary. If stations are lower and an\nintermediate storey is required, then this can be used as a gradeseparated road crossing by general pedestrian traffic. When the\nplatforms are on one side, then twice the number of accesses,\nstairs and installations (kiosks, timetables etc.) are needed. Oneway carriages are possible because doors are required on the\nright-hand side only. When stops are located on viaducts, side\nplatforms are preferable because platforms can be projected,\nso no surface is lost apart from the supports. Successive stops\nshould if possible have the same platform layout (for passenger\norientation).\nPlatform length\n\nThis depends on the length of the longest train intended to stop\nat the station. In the case of underground and urban rapid transit,\nplatform length is the train length plus 5 m (to allow for imprecise\nbraking). Double stops are also possible for trams.\nPlatform width\n\nThe platform width depends on the number of passengers and the\nlocation, type and width of the access and exit routes. Platform,\nstairs and exits should be designed so that the platform can\nbe cleared, without queues, before the next train arrives. The\nminimum widths are, in general:\n- side platforms 3 m\n- central platforms with stairs at the end of the platform 6 m\n-with stairs within the usable platform length 7 m.\n\nC) Cross-section through platforms (Fiedler--> refs)\nStairs\n\nTram stops: platform min. 3.50 m or, to provide space for waiting\n\nPUBLIC\nTRANSPORT\nConditions,\n\nmeans of\ntransport\nStops and\nstations\n\nTraffic spaces\nBus stations\n\nshelters and two-sided platforms, min. 5.50 m. The permissible\nminimum width in the road space (according to BOStrab) of 1.50 m\nshould be improved on out of consideration for the passengers (where\nspace is restricted, 2 m is the minimum for a side exit). Safety space:\n0.85 m wide from the vehicle gauge on the door side of the rail vehicle,\nwhich can also lie on the road pavement.\nDynamic stop: if there is no transport stop island, a traffic light\nshould be placed further back along the road to protect the\npassengers getting in and out.\n\nStaircases can be located at the end of the platform or within\nthe usable platform length. The width of fixed stairs should be\na multiple of 0.60 m (at least 2.40 m) plus width for handrail and\ncleaning channel. Provide a handrail both sides and additionally in\nthe middle of stairs wider than 6.00 m -7 0.\nEscalators provide extra comfort for passengers, and accelerate\nand canalise the traffic flow; they should be used for medium\nand high passenger numbers. 1-1 %-track, or preferably 2-track,\nescalators should be used (800/1 000 mm step width). Construction\nwidths vary between 1.40 and 1.65 m, according to manufacturer.\nLifts\n\nAdditional passenger lifts should be installed (possibly as a refit)\nin above-ground and underground railway stations to aid the\njourneys of disabled people and others with restricted mobility\n(due to pushchairs, luggage etc.) -7 f). Lifts should be easily\nrecognisable with waiting areas outside the main traffic flow.\nPlatform surfacing\n\nQ Dynamic stop (Fiedler--> refs)\n404\n\nTo improve drainage, this should have a camber of at least 1%\n(max. 3-5% in tunnel stops and 2-3% in open-air stops). Platform\nedges should be slip-resistant and made of profiled and clearly\ncoloured material (if appropriate with a broad white band) to help\nthose with poor eyesight. Contrasting guide strips, which can be\nfelt with a white stick, should also be provided for visually impaired\npeople.\n\n\f"
+        },
+        {
+          "label": "Lift depth",
+          "value": 2.1,
+          "value_max": null,
+          "unit": "m",
+          "context": "Minimum lift size table; suitable for cycles, with a listed group of 19 people/potential hindrance.",
+          "status": "verified",
+          "ocr_raw": "PUBLIC TRANSPORT\nStops and Stations\n\n{OJ]]} Fixed stairs\n~ Escalators\n\nThe design of public transport stops is important. Railway systems\nare normally designed very specifically for the location. Therefore,\nplatform and floor heights in the vehicle have to be matched in order\nto ensure passenger-friendly and accessible entrances and exits.\nPlatform layout\n\nThe layout of central and side platforms depends on construction,\noperational and transport considerations, especially for platforms\nin tunnels.\nStairs within the usable length of platform\n\nCentr:l\n\nplatfor~\n\n~\n\n00\n\nI\n\nI\n\nSide\nplatford\n\nStairs at the platform end\n\n0\n\nStair layout for side and central platforms (Fiedler--> refs)\n\nNo. people/potential hindrance\n8/suitable for disabled\n13/suitable for carrying loads\n19/suitable for cycles\n\nWidth x Depth (m)\n1.10x 1.40\n1.10x2.10\n1.40x2.10\n\nCapacity (kg)\n630\n1000\n1450\n\nf) Minimum size of lifts (Fiedler--> refs)\n\nCentral platforms are simpler for the passengers to navigate, but\ntwo-way carriages are necessary. If stations are lower and an\nintermediate storey is required, then this can be used as a gradeseparated road crossing by general pedestrian traffic. When the\nplatforms are on one side, then twice the number of accesses,\nstairs and installations (kiosks, timetables etc.) are needed. Oneway carriages are possible because doors are required on the\nright-hand side only. When stops are located on viaducts, side\nplatforms are preferable because platforms can be projected,\nso no surface is lost apart from the supports. Successive stops\nshould if possible have the same platform layout (for passenger\norientation).\nPlatform length\n\nThis depends on the length of the longest train intended to stop\nat the station. In the case of underground and urban rapid transit,\nplatform length is the train length plus 5 m (to allow for imprecise\nbraking). Double stops are also possible for trams.\nPlatform width\n\nThe platform width depends on the number of passengers and the\nlocation, type and width of the access and exit routes. Platform,\nstairs and exits should be designed so that the platform can\nbe cleared, without queues, before the next train arrives. The\nminimum widths are, in general:\n- side platforms 3 m\n- central platforms with stairs at the end of the platform 6 m\n-with stairs within the usable platform length 7 m.\n\nC) Cross-section through platforms (Fiedler--> refs)\nStairs\n\nTram stops: platform min. 3.50 m or, to provide space for waiting\n\nPUBLIC\nTRANSPORT\nConditions,\n\nmeans of\ntransport\nStops and\nstations\n\nTraffic spaces\nBus stations\n\nshelters and two-sided platforms, min. 5.50 m. The permissible\nminimum width in the road space (according to BOStrab) of 1.50 m\nshould be improved on out of consideration for the passengers (where\nspace is restricted, 2 m is the minimum for a side exit). Safety space:\n0.85 m wide from the vehicle gauge on the door side of the rail vehicle,\nwhich can also lie on the road pavement.\nDynamic stop: if there is no transport stop island, a traffic light\nshould be placed further back along the road to protect the\npassengers getting in and out.\n\nStaircases can be located at the end of the platform or within\nthe usable platform length. The width of fixed stairs should be\na multiple of 0.60 m (at least 2.40 m) plus width for handrail and\ncleaning channel. Provide a handrail both sides and additionally in\nthe middle of stairs wider than 6.00 m -7 0.\nEscalators provide extra comfort for passengers, and accelerate\nand canalise the traffic flow; they should be used for medium\nand high passenger numbers. 1-1 %-track, or preferably 2-track,\nescalators should be used (800/1 000 mm step width). Construction\nwidths vary between 1.40 and 1.65 m, according to manufacturer.\nLifts\n\nAdditional passenger lifts should be installed (possibly as a refit)\nin above-ground and underground railway stations to aid the\njourneys of disabled people and others with restricted mobility\n(due to pushchairs, luggage etc.) -7 f). Lifts should be easily\nrecognisable with waiting areas outside the main traffic flow.\nPlatform surfacing\n\nQ Dynamic stop (Fiedler--> refs)\n404\n\nTo improve drainage, this should have a camber of at least 1%\n(max. 3-5% in tunnel stops and 2-3% in open-air stops). Platform\nedges should be slip-resistant and made of profiled and clearly\ncoloured material (if appropriate with a broad white band) to help\nthose with poor eyesight. Contrasting guide strips, which can be\nfelt with a white stick, should also be provided for visually impaired\npeople.\n\n\f"
+        },
+        {
+          "label": "Lift capacity",
+          "value": 1450.0,
+          "value_max": null,
+          "unit": "kg",
+          "context": "Minimum lift size table; suitable for cycles, with a listed group of 19 people/potential hindrance.",
+          "status": "verified",
+          "ocr_raw": "PUBLIC TRANSPORT\nStops and Stations\n\n{OJ]]} Fixed stairs\n~ Escalators\n\nThe design of public transport stops is important. Railway systems\nare normally designed very specifically for the location. Therefore,\nplatform and floor heights in the vehicle have to be matched in order\nto ensure passenger-friendly and accessible entrances and exits.\nPlatform layout\n\nThe layout of central and side platforms depends on construction,\noperational and transport considerations, especially for platforms\nin tunnels.\nStairs within the usable length of platform\n\nCentr:l\n\nplatfor~\n\n~\n\n00\n\nI\n\nI\n\nSide\nplatford\n\nStairs at the platform end\n\n0\n\nStair layout for side and central platforms (Fiedler--> refs)\n\nNo. people/potential hindrance\n8/suitable for disabled\n13/suitable for carrying loads\n19/suitable for cycles\n\nWidth x Depth (m)\n1.10x 1.40\n1.10x2.10\n1.40x2.10\n\nCapacity (kg)\n630\n1000\n1450\n\nf) Minimum size of lifts (Fiedler--> refs)\n\nCentral platforms are simpler for the passengers to navigate, but\ntwo-way carriages are necessary. If stations are lower and an\nintermediate storey is required, then this can be used as a gradeseparated road crossing by general pedestrian traffic. When the\nplatforms are on one side, then twice the number of accesses,\nstairs and installations (kiosks, timetables etc.) are needed. Oneway carriages are possible because doors are required on the\nright-hand side only. When stops are located on viaducts, side\nplatforms are preferable because platforms can be projected,\nso no surface is lost apart from the supports. Successive stops\nshould if possible have the same platform layout (for passenger\norientation).\nPlatform length\n\nThis depends on the length of the longest train intended to stop\nat the station. In the case of underground and urban rapid transit,\nplatform length is the train length plus 5 m (to allow for imprecise\nbraking). Double stops are also possible for trams.\nPlatform width\n\nThe platform width depends on the number of passengers and the\nlocation, type and width of the access and exit routes. Platform,\nstairs and exits should be designed so that the platform can\nbe cleared, without queues, before the next train arrives. The\nminimum widths are, in general:\n- side platforms 3 m\n- central platforms with stairs at the end of the platform 6 m\n-with stairs within the usable platform length 7 m.\n\nC) Cross-section through platforms (Fiedler--> refs)\nStairs\n\nTram stops: platform min. 3.50 m or, to provide space for waiting\n\nPUBLIC\nTRANSPORT\nConditions,\n\nmeans of\ntransport\nStops and\nstations\n\nTraffic spaces\nBus stations\n\nshelters and two-sided platforms, min. 5.50 m. The permissible\nminimum width in the road space (according to BOStrab) of 1.50 m\nshould be improved on out of consideration for the passengers (where\nspace is restricted, 2 m is the minimum for a side exit). Safety space:\n0.85 m wide from the vehicle gauge on the door side of the rail vehicle,\nwhich can also lie on the road pavement.\nDynamic stop: if there is no transport stop island, a traffic light\nshould be placed further back along the road to protect the\npassengers getting in and out.\n\nStaircases can be located at the end of the platform or within\nthe usable platform length. The width of fixed stairs should be\na multiple of 0.60 m (at least 2.40 m) plus width for handrail and\ncleaning channel. Provide a handrail both sides and additionally in\nthe middle of stairs wider than 6.00 m -7 0.\nEscalators provide extra comfort for passengers, and accelerate\nand canalise the traffic flow; they should be used for medium\nand high passenger numbers. 1-1 %-track, or preferably 2-track,\nescalators should be used (800/1 000 mm step width). Construction\nwidths vary between 1.40 and 1.65 m, according to manufacturer.\nLifts\n\nAdditional passenger lifts should be installed (possibly as a refit)\nin above-ground and underground railway stations to aid the\njourneys of disabled people and others with restricted mobility\n(due to pushchairs, luggage etc.) -7 f). Lifts should be easily\nrecognisable with waiting areas outside the main traffic flow.\nPlatform surfacing\n\nQ Dynamic stop (Fiedler--> refs)\n404\n\nTo improve drainage, this should have a camber of at least 1%\n(max. 3-5% in tunnel stops and 2-3% in open-air stops). Platform\nedges should be slip-resistant and made of profiled and clearly\ncoloured material (if appropriate with a broad white band) to help\nthose with poor eyesight. Contrasting guide strips, which can be\nfelt with a white stick, should also be provided for visually impaired\npeople.\n\n\f"
+        },
+        {
+          "label": "Passenger count for lift-size table entry",
+          "value": 8.0,
+          "value_max": null,
+          "unit": "people",
+          "context": "Lift-size table row marked suitable for disabled passengers.",
+          "status": "verified",
+          "ocr_raw": "8/suitable for disabled"
+        },
+        {
+          "label": "Passenger count for lift-size table entry",
+          "value": 13.0,
+          "value_max": null,
+          "unit": "people",
+          "context": "Lift-size table row marked suitable for carrying loads.",
+          "status": "verified",
+          "ocr_raw": "13/suitable for carrying loads"
+        },
+        {
+          "label": "Passenger count for lift-size table entry",
+          "value": 19.0,
+          "value_max": null,
+          "unit": "people",
+          "context": "Lift-size table row marked suitable for cycles.",
+          "status": "verified",
+          "ocr_raw": "19/suitable for cycles"
+        }
+      ],
+      "figure_refs": [
+        "1 Stair layout for side and central platforms (Fiedler → refs)",
+        "2 Minimum size of lifts (Fiedler → refs)",
+        "3 Cross-section through platforms (Fiedler → refs)",
+        "4 Dynamic stop (Fiedler → refs)"
+      ],
+      "cross_refs": [
+        "Fiedler → refs",
+        "→ 1",
+        "→ 2"
+      ],
+      "keywords": [
+        "public transport",
+        "stops and stations",
+        "railway station",
+        "tram stop",
+        "central platform",
+        "side platform",
+        "platform length",
+        "platform width",
+        "stairs",
+        "escalators",
+        "lifts",
+        "dynamic stop",
+        "platform surfacing",
+        "accessibility"
+      ],
+      "tags_architectural": [
+        "accessibility",
+        "circulation",
+        "ergonomics",
+        "anthropometry",
+        "clearance",
+        "safety"
+      ],
+      "confidence": 0.91
+    }
+  ]
+}

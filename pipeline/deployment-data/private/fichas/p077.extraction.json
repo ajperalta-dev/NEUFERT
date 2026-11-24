@@ -1,0 +1,251 @@
+{
+  "fichas": [
+    {
+      "id": "4122fb96e4bd1976-77-vision-0",
+      "pdf_page": 77,
+      "book_page": 64,
+      "chapter": "DESIGN PROCESS",
+      "section": "Design and Construction Management",
+      "title": "Setback Areas",
+      "summary": "Setback areas are spaces between buildings and plot boundaries. The page summarizes where setback areas must be located, when they may overlap, how their depth is measured, and which projections or structures may be exempt. Under the model building regulations, the usual depth is 0.4 × wall height, subject to a minimum; rules vary among state building regulations.",
+      "building_type": "Buildings and plots",
+      "spaces": [
+        "Setback areas",
+        "Plot boundaries",
+        "Public traffic, green, and water areas",
+        "Garden courtyards"
+      ],
+      "uses": [
+        "Maintain required open space between buildings and plot boundaries",
+        "Determine permissible building placement and exceptions under building regulations"
+      ],
+      "furniture_equipment": [],
+      "dimensions": [
+        {
+          "label": "Angle between external walls permitting overlap",
+          "value": 75.0,
+          "value_max": null,
+          "unit": "degrees",
+          "context": "Setback areas may overlap when the external walls are at an angle of more than 75° to each other.",
+          "status": "uncertain",
+          "ocr_raw": "the external walls are at an angle of more than 75° to each other"
+        },
+        {
+          "label": "Setback depth factor",
+          "value": 0.4,
+          "value_max": null,
+          "unit": "factor",
+          "context": "Model building regulations: setback depth is 0.4 × H, with a stated minimum; H is not further defined in this expression on the page.",
+          "status": "uncertain",
+          "ocr_raw": "According to the model building regulations (MBO), it is 0.4 x H"
+        },
+        {
+          "label": "Minimum setback depth",
+          "value": 3.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Minimum under the stated general MBO rule.",
+          "status": "uncertain",
+          "ocr_raw": "but at least 3 m"
+        },
+        {
+          "label": "Setback depth factor in commercial and industrial areas",
+          "value": 0.2,
+          "value_max": null,
+          "unit": "factor",
+          "context": "Alternative factor stated for commercial and industrial areas, with a 3 m minimum.",
+          "status": "uncertain",
+          "ocr_raw": "(0.2 x H, min. 3 m for commercial and industrial areas)"
+        },
+        {
+          "label": "Minimum setback depth in commercial and industrial areas",
+          "value": 3.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Minimum stated alongside the 0.2 × H rule for commercial and industrial areas.",
+          "status": "uncertain",
+          "ocr_raw": "min. 3 m for commercial and industrial areas"
+        },
+        {
+          "label": "Maximum roof pitch included to one third",
+          "value": 70.0,
+          "value_max": null,
+          "unit": "degrees",
+          "context": "Roof height is included to one third for roof pitches up to 70°; the page states that roofs at 70° or more are included fully.",
+          "status": "uncertain",
+          "ocr_raw": "The height of roofs with a pitch of ≤70° is included to one third, ≥70° fully with the wall height"
+        },
+        {
+          "label": "Roof pitch included fully",
+          "value": 70.0,
+          "value_max": null,
+          "unit": "degrees",
+          "context": "The page states that roof height is included fully for roof pitches of 70° or more.",
+          "status": "uncertain",
+          "ocr_raw": "≥70° fully with the wall height"
+        },
+        {
+          "label": "Maximum projection length",
+          "value": 1.5,
+          "value_max": null,
+          "unit": "m",
+          "context": "Projecting building elements may project by a maximum of 1.50 m in front of the outside wall.",
+          "status": "uncertain",
+          "ocr_raw": "project by a max. 1.50 m in front of the outside wall"
+        },
+        {
+          "label": "Minimum distance from opposing plot boundary",
+          "value": 2.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Condition for projections to remain unconsidered in setback-area measurement.",
+          "status": "uncertain",
+          "ocr_raw": "stay at least 2 m distant from the opposing plot boundary"
+        },
+        {
+          "label": "Maximum proportion of outside-wall width occupied by projections",
+          "value": 1.0,
+          "value_max": null,
+          "unit": "third",
+          "context": "Projections remain unconsidered if they take up altogether less than one third of the outside-wall width.",
+          "status": "uncertain",
+          "ocr_raw": "take up altogether less than one third of the width of the outside wall"
+        },
+        {
+          "label": "Maximum average wall height for exempt garages and buildings",
+          "value": 3.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Applies to garages and buildings without occupied rooms or fireplaces in setback areas.",
+          "status": "uncertain",
+          "ocr_raw": "with an average wall height of up to 3 m"
+        },
+        {
+          "label": "Maximum total length per plot boundary for exempt garages and buildings",
+          "value": 9.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Applies to garages and buildings without occupied rooms or fireplaces in setback areas.",
+          "status": "uncertain",
+          "ocr_raw": "a total length per plot boundary of 9 m"
+        },
+        {
+          "label": "Maximum height of independent solar energy systems",
+          "value": 3.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Independent solar energy systems may be within a building's setback area under the stated condition.",
+          "status": "uncertain",
+          "ocr_raw": "solar energy systems independent of the building with a height of up to 3 m"
+        },
+        {
+          "label": "Maximum total length per plot boundary for independent solar energy systems",
+          "value": 9.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Stated limit for independent solar energy systems in setback areas.",
+          "status": "uncertain",
+          "ocr_raw": "a total length per plot boundary of 9 m"
+        },
+        {
+          "label": "Maximum height of retaining walls and closed fencing",
+          "value": 2.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Applies outside commercial and industrial areas; the page gives no height limit here for those areas.",
+          "status": "uncertain",
+          "ocr_raw": "outside these areas with a height of up to 2 m"
+        },
+        {
+          "label": "Maximum setback-area depth opposite plot boundaries where building is not stopped",
+          "value": 15.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "The total depth of setback areas opposite plot boundaries but not stopping building may not exceed this amount on the plot.",
+          "status": "uncertain",
+          "ocr_raw": "may not altogether exceed 15 m on the plot"
+        },
+        {
+          "label": "Roof-height fraction in setback-depth formula",
+          "value": 1.0,
+          "value_max": null,
+          "unit": "third",
+          "context": "Figure formula for a roof pitch of up to 70°: depth = (1/3 RH + WH) × 0.4.",
+          "status": "uncertain",
+          "ocr_raw": "Depth of setback area = (1/3 RH + WH) x 0.4"
+        },
+        {
+          "label": "Setback-depth factor in figure formulas",
+          "value": 0.4,
+          "value_max": null,
+          "unit": "factor",
+          "context": "Printed in the setback-depth formulas accompanying figures 5–7.",
+          "status": "uncertain",
+          "ocr_raw": "Depth of setback area = (1/3 RH + WH) x 0.4"
+        },
+        {
+          "label": "Setback-depth factor for roof pitch over 70°",
+          "value": 0.4,
+          "value_max": null,
+          "unit": "factor",
+          "context": "Figure formula: depth = (RH + WH) × 0.4 for roof pitch over 70°.",
+          "status": "uncertain",
+          "ocr_raw": "Depth of setback area = (RH + WH) x 0.4"
+        },
+        {
+          "label": "Setback-depth factor for roof projections",
+          "value": 0.4,
+          "value_max": null,
+          "unit": "factor",
+          "context": "Figure formula includes wall height, roof projection, and one third of roof height.",
+          "status": "uncertain",
+          "ocr_raw": "Depth of setback area = (WH + RP + 1/3 RH) x 0.4"
+        },
+        {
+          "label": "Maximum projection length relative to building width",
+          "value": 1.0,
+          "value_max": null,
+          "unit": "third",
+          "context": "Figure 8 labels projection length L as a maximum of one third of building width BW.",
+          "status": "uncertain",
+          "ocr_raw": "L = max. 1/3 BW"
+        }
+      ],
+      "figure_refs": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10"
+      ],
+      "cross_refs": [
+        "Figures 1–10",
+        "MBO",
+        "LBO"
+      ],
+      "keywords": [
+        "setback areas",
+        "plot boundaries",
+        "wall height",
+        "roof height",
+        "roof projection",
+        "building regulations",
+        "building elements",
+        "garages",
+        "solar energy systems",
+        "retaining walls",
+        "fencing"
+      ],
+      "tags_architectural": [
+        "spatial_proportion",
+        "safety"
+      ],
+      "confidence": 0.96
+    }
+  ]
+}

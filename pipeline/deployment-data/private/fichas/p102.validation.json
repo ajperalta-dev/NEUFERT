@@ -1,0 +1,777 @@
+{
+  "model": "gpt-6-luna",
+  "checks": {
+    "checks": [
+      {
+        "ficha_index": 0,
+        "dimension_index": 0,
+        "status": "verified",
+        "value": null,
+        "value_max": null,
+        "reason": "Printed as purlin spacing of 70\u2013145 cm for 1.6 m sheets."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 1,
+        "status": "verified",
+        "value": null,
+        "value_max": null,
+        "reason": "Printed as 1.6 m sheets."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 2,
+        "status": "verified",
+        "value": null,
+        "value_max": null,
+        "reason": "Printed as 2.50 m sheets."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 3,
+        "status": "verified",
+        "value": null,
+        "value_max": null,
+        "reason": "Printed as lapped 150 or 200 mm."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 4,
+        "status": "verified",
+        "value": null,
+        "value_max": null,
+        "reason": "Figure 1 gives the load as 0.20 kN/m\u00b2."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 5,
+        "status": "verified",
+        "value": null,
+        "value_max": null,
+        "reason": "Figure 5 gives the load as 0.25 kN/m\u00b2."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 6,
+        "status": "verified",
+        "value": null,
+        "value_max": null,
+        "reason": "The table gives steel pantile roofing a load of 0.15 kN/m\u00b2."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 7,
+        "status": "verified",
+        "value": null,
+        "value_max": null,
+        "reason": "The note says to add 0.1 kN/m\u00b2 if mortar-pointed."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 8,
+        "status": "verified",
+        "value": null,
+        "value_max": null,
+        "reason": "The profile is labeled 177/51."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 9,
+        "status": "verified",
+        "value": null,
+        "value_max": null,
+        "reason": "The profile is labeled 130/30."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 10,
+        "status": "verified",
+        "value": null,
+        "value_max": null,
+        "reason": "The profile 130/30 table gives width 1000 mm."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 11,
+        "status": "verified",
+        "value": null,
+        "value_max": null,
+        "reason": "The load table specifies aluminium 0.7 mm thick."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 12,
+        "status": "verified",
+        "value": null,
+        "value_max": null,
+        "reason": "The load table specifies copper sheet 0.6 mm thick."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 13,
+        "status": "verified",
+        "value": null,
+        "value_max": null,
+        "reason": "The load table specifies galvanised seamed sheeting 0.63 mm thick."
+      },
+      {
+        "ficha_index": 1,
+        "dimension_index": 0,
+        "status": "verified",
+        "value": null,
+        "value_max": null,
+        "reason": "The supplied-form table lists roll length 30\u201340 m."
+      },
+      {
+        "ficha_index": 1,
+        "dimension_index": 1,
+        "status": "verified",
+        "value": null,
+        "value_max": null,
+        "reason": "The supplied-form table lists roll maximum width 0.6 (0.66) m."
+      },
+      {
+        "ficha_index": 1,
+        "dimension_index": 2,
+        "status": "verified",
+        "value": null,
+        "value_max": null,
+        "reason": "The supplied-form table lists roll thickness 0.1\u20132.0 mm."
+      },
+      {
+        "ficha_index": 1,
+        "dimension_index": 3,
+        "status": "verified",
+        "value": null,
+        "value_max": null,
+        "reason": "The supplied-form table lists panel length 2.0 m."
+      },
+      {
+        "ficha_index": 1,
+        "dimension_index": 4,
+        "status": "verified",
+        "value": null,
+        "value_max": null,
+        "reason": "The supplied-form table lists panel maximum width 1.0 m."
+      },
+      {
+        "ficha_index": 1,
+        "dimension_index": 5,
+        "status": "verified",
+        "value": null,
+        "value_max": null,
+        "reason": "The supplied-form table lists panel thickness 0.2\u20132.0 mm."
+      },
+      {
+        "ficha_index": 1,
+        "dimension_index": 6,
+        "status": "verified",
+        "value": null,
+        "value_max": null,
+        "reason": "The supplied-form table lists specific weight 8.93 kg/dm\u00b3."
+      },
+      {
+        "ficha_index": 1,
+        "dimension_index": 7,
+        "status": "uncertain",
+        "value": null,
+        "value_max": null,
+        "reason": "The diagram prints panel width 100, but does not visibly state a unit."
+      },
+      {
+        "ficha_index": 1,
+        "dimension_index": 8,
+        "status": "verified",
+        "value": null,
+        "value_max": null,
+        "reason": "The corrugated-sheet table prints 8\u201310\u00b0."
+      },
+      {
+        "ficha_index": 1,
+        "dimension_index": 9,
+        "status": "verified",
+        "value": null,
+        "value_max": null,
+        "reason": "The corrugated-sheet table prints 10\u201315\u00b0."
+      },
+      {
+        "ficha_index": 1,
+        "dimension_index": 10,
+        "status": "verified",
+        "value": null,
+        "value_max": null,
+        "reason": "The corrugated-sheet table prints over 15\u00b0."
+      },
+      {
+        "ficha_index": 1,
+        "dimension_index": 11,
+        "status": "verified",
+        "value": null,
+        "value_max": null,
+        "reason": "The table pairs 8\u201310\u00b0 with 200 mm overlap."
+      },
+      {
+        "ficha_index": 1,
+        "dimension_index": 12,
+        "status": "verified",
+        "value": null,
+        "value_max": null,
+        "reason": "The table pairs 10\u201315\u00b0 with 150 mm overlap."
+      },
+      {
+        "ficha_index": 1,
+        "dimension_index": 13,
+        "status": "verified",
+        "value": null,
+        "value_max": null,
+        "reason": "The table pairs over 15\u00b0 with 100 mm overlap."
+      },
+      {
+        "ficha_index": 1,
+        "dimension_index": 14,
+        "status": "verified",
+        "value": null,
+        "value_max": null,
+        "reason": "The text specifies gutter-support strip width 20\u201350 mm."
+      },
+      {
+        "ficha_index": 1,
+        "dimension_index": 15,
+        "status": "verified",
+        "value": null,
+        "value_max": null,
+        "reason": "The text specifies gutter-support strip thickness 4\u20136 mm."
+      },
+      {
+        "ficha_index": 2,
+        "dimension_index": 0,
+        "status": "verified",
+        "value": null,
+        "value_max": null,
+        "reason": "The gutter table includes the drainage-area range 25\u201340 m\u00b2."
+      },
+      {
+        "ficha_index": 2,
+        "dimension_index": 1,
+        "status": "verified",
+        "value": null,
+        "value_max": null,
+        "reason": "The table gives 70 mm for roof area up to 25 m\u00b2."
+      },
+      {
+        "ficha_index": 2,
+        "dimension_index": 2,
+        "status": "verified",
+        "value": null,
+        "value_max": null,
+        "reason": "The table gives 80 mm for roof area 25\u201340 m\u00b2."
+      },
+      {
+        "ficha_index": 2,
+        "dimension_index": 3,
+        "status": "verified",
+        "value": null,
+        "value_max": null,
+        "reason": "The table gives 90 mm for roof area 40\u201360 m\u00b2."
+      },
+      {
+        "ficha_index": 2,
+        "dimension_index": 4,
+        "status": "verified",
+        "value": null,
+        "value_max": null,
+        "reason": "The table gives 125 mm for roof area 60\u201390 m\u00b2."
+      },
+      {
+        "ficha_index": 2,
+        "dimension_index": 5,
+        "status": "verified",
+        "value": null,
+        "value_max": null,
+        "reason": "The table gives 150 mm for roof area 90\u2013125 m\u00b2."
+      },
+      {
+        "ficha_index": 2,
+        "dimension_index": 6,
+        "status": "verified",
+        "value": null,
+        "value_max": null,
+        "reason": "The table gives 200 mm for roof area 175\u2013275 m\u00b2."
+      },
+      {
+        "ficha_index": 2,
+        "dimension_index": 7,
+        "status": "verified",
+        "value": null,
+        "value_max": null,
+        "reason": "The downpipe table gives 50 mm for roof area up to 20 m\u00b2."
+      },
+      {
+        "ficha_index": 2,
+        "dimension_index": 8,
+        "status": "verified",
+        "value": null,
+        "value_max": null,
+        "reason": "The downpipe table gives 60 mm for roof area 20\u201350 m\u00b2."
+      },
+      {
+        "ficha_index": 2,
+        "dimension_index": 9,
+        "status": "verified",
+        "value": null,
+        "value_max": null,
+        "reason": "The downpipe table gives 70 mm for roof area 50\u201390 m\u00b2."
+      },
+      {
+        "ficha_index": 2,
+        "dimension_index": 10,
+        "status": "verified",
+        "value": null,
+        "value_max": null,
+        "reason": "The downpipe table gives 80 mm."
+      },
+      {
+        "ficha_index": 2,
+        "dimension_index": 11,
+        "status": "verified",
+        "value": null,
+        "value_max": null,
+        "reason": "The downpipe table gives 100 mm for roof area 90\u2013120 m\u00b2."
+      },
+      {
+        "ficha_index": 2,
+        "dimension_index": 12,
+        "status": "verified",
+        "value": null,
+        "value_max": null,
+        "reason": "The downpipe table gives 125 mm for roof area 100\u2013180 m\u00b2."
+      },
+      {
+        "ficha_index": 2,
+        "dimension_index": 13,
+        "status": "verified",
+        "value": null,
+        "value_max": null,
+        "reason": "The downpipe table gives 150 mm for roof area 180\u2013250 m\u00b2."
+      },
+      {
+        "ficha_index": 2,
+        "dimension_index": 14,
+        "status": "verified",
+        "value": null,
+        "value_max": null,
+        "reason": "The note specifies a minimum wall clearance of 20 mm."
+      },
+      {
+        "ficha_index": 2,
+        "dimension_index": 15,
+        "status": "verified",
+        "value": null,
+        "value_max": null,
+        "reason": "The note specifies pipe-clip spacing of 2 m."
+      },
+      {
+        "ficha_index": 2,
+        "dimension_index": 16,
+        "status": "uncertain",
+        "value": null,
+        "value_max": null,
+        "reason": "The example prints gutter size 333 but does not visibly specify a unit."
+      },
+      {
+        "ficha_index": 2,
+        "dimension_index": 17,
+        "status": "verified",
+        "value": null,
+        "value_max": null,
+        "reason": "The example specifies a 0.75 mm zinc gutter."
+      },
+      {
+        "ficha_index": 2,
+        "dimension_index": 18,
+        "status": "verified",
+        "value": null,
+        "value_max": null,
+        "reason": "The material specification says zinc sheet at least 0.7 mm."
+      },
+      {
+        "ficha_index": 2,
+        "dimension_index": 19,
+        "status": "verified",
+        "value": null,
+        "value_max": null,
+        "reason": "The gutter table lists cut length 200 mm."
+      }
+    ]
+  },
+  "automatic": [
+    {
+      "ficha_index": 0,
+      "dimension_index": 0,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 1,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 2,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 3,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 4,
+      "issues": [
+        "Unknown unit",
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 5,
+      "issues": [
+        "Unknown unit",
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 6,
+      "issues": [
+        "Unknown unit",
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 7,
+      "issues": [
+        "Unknown unit",
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 8,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 9,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 10,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 11,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 12,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 13,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 1,
+      "dimension_index": 0,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 1,
+      "dimension_index": 1,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 1,
+      "dimension_index": 2,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 1,
+      "dimension_index": 3,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 1,
+      "dimension_index": 4,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 1,
+      "dimension_index": 5,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 1,
+      "dimension_index": 6,
+      "issues": [
+        "Unknown unit",
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 1,
+      "dimension_index": 7,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 1,
+      "dimension_index": 8,
+      "issues": [
+        "Unknown unit",
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 1,
+      "dimension_index": 9,
+      "issues": [
+        "Unknown unit",
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 1,
+      "dimension_index": 10,
+      "issues": [
+        "Unknown unit",
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 1,
+      "dimension_index": 11,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 1,
+      "dimension_index": 12,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 1,
+      "dimension_index": 13,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 1,
+      "dimension_index": 14,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 1,
+      "dimension_index": 15,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 2,
+      "dimension_index": 0,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 2,
+      "dimension_index": 1,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 2,
+      "dimension_index": 2,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 2,
+      "dimension_index": 3,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 2,
+      "dimension_index": 4,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 2,
+      "dimension_index": 5,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 2,
+      "dimension_index": 6,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 2,
+      "dimension_index": 7,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 2,
+      "dimension_index": 8,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 2,
+      "dimension_index": 9,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 2,
+      "dimension_index": 10,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 2,
+      "dimension_index": 11,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 2,
+      "dimension_index": 12,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 2,
+      "dimension_index": 13,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 2,
+      "dimension_index": 14,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 2,
+      "dimension_index": 15,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 2,
+      "dimension_index": 16,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 2,
+      "dimension_index": 17,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 2,
+      "dimension_index": 18,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 2,
+      "dimension_index": 19,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    }
+  ],
+  "usage": [
+    {
+      "prompt_tokens": 5511,
+      "completion_tokens": 3501
+    },
+    {
+      "prompt_tokens": 8009,
+      "completion_tokens": 2203
+    }
+  ]
+}

@@ -1,0 +1,300 @@
+{
+  "fichas": [
+    {
+      "id": "4122fb96e4bd1976-140-vision-0",
+      "pdf_page": 140,
+      "book_page": 127,
+      "chapter": "BUILDING COMPONENTS",
+      "section": "Moving Walkways",
+      "title": "Moving Walkways for Shops and Offices",
+      "summary": "Moving walkways, also called conveyors or travelators, transport pedestrians horizontally or on a slight gradient and can also carry prams, wheelchairs, shopping trolleys, bicycles, and bulky luggage. Capacity depends on clear width, speed, and occupancy density. The page describes arrangements, construction, dimensions, speeds, gradients, capacities, and two-way walkway layouts.",
+      "building_type": "Shops and offices",
+      "spaces": [
+        "Horizontal circulation routes",
+        "Sloped circulation routes",
+        "Walkway entry and exit areas"
+      ],
+      "uses": [
+        "Transport pedestrians",
+        "Carry prams, wheelchairs, shopping trolleys, bicycles, and bulky luggage",
+        "Provide one-way, double, scissors, crossover, and converging walkway arrangements",
+        "Connect levels and support two-way circulation"
+      ],
+      "furniture_equipment": [
+        "Moving walkway",
+        "Rubber conveyor belt",
+        "Cleated belt",
+        "Foundation",
+        "Water drain",
+        "Tensioning pulley",
+        "Drive"
+      ],
+      "dimensions": [
+        {
+          "label": "Possible transport capacity",
+          "value": 6000.0,
+          "value_max": 12000.0,
+          "unit": "persons/h",
+          "context": "Moving walkways; stated possible capacity.",
+          "status": "uncertain",
+          "ocr_raw": "Capacities of 6000-12000 pers/h are possible."
+        },
+        {
+          "label": "Maximum gradient",
+          "value": 12.0,
+          "value_max": null,
+          "unit": "degrees",
+          "context": "Maximum moving-walkway gradient; the text also gives its percentage equivalent separately.",
+          "status": "uncertain",
+          "ocr_raw": "Maximum gradient of moving walkways is 12° = 21%."
+        },
+        {
+          "label": "Maximum gradient equivalent",
+          "value": 21.0,
+          "value_max": null,
+          "unit": "%",
+          "context": "Percentage equivalent of the stated maximum gradient.",
+          "status": "uncertain",
+          "ocr_raw": "Maximum gradient of moving walkways is 12° = 21%."
+        },
+        {
+          "label": "Horizontal travel speed",
+          "value": 0.5,
+          "value_max": 0.6,
+          "unit": "m/s",
+          "context": "Normal travel speeds on horizontal installations.",
+          "status": "uncertain",
+          "ocr_raw": "Normal travel speeds are 0.5-0.6 m/s horizontal"
+        },
+        {
+          "label": "Travel speed on gradients up to 4°",
+          "value": 0.75,
+          "value_max": null,
+          "unit": "m/s",
+          "context": "Installations with gradients up to 4° are stated to be slightly faster.",
+          "status": "uncertain",
+          "ocr_raw": "installations with gradients up to 4° are slightly faster at 0.75 m/s."
+        },
+        {
+          "label": "Gradient for faster installations",
+          "value": 4.0,
+          "value_max": null,
+          "unit": "degrees",
+          "context": "Gradient threshold associated with the stated 0.75 m/s speed.",
+          "status": "uncertain",
+          "ocr_raw": "installations with gradients up to 4° are slightly faster at 0.75 m/s."
+        },
+        {
+          "label": "Short walkway length",
+          "value": 30.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Approximate length of short moving walkways.",
+          "status": "uncertain",
+          "ocr_raw": "Short moving walkways are about 30 m long."
+        },
+        {
+          "label": "Long walkway length",
+          "value": 250.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Maximum stated buildable length for long moving walkways.",
+          "status": "uncertain",
+          "ocr_raw": "Long moving walkways can be built up to a length of 250 m."
+        },
+        {
+          "label": "Construction height",
+          "value": 180.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Two-directional moving walkway return route; described as lower than the contrasting construction.",
+          "status": "uncertain",
+          "ocr_raw": "requires a lower construction height of 180 mm"
+        },
+        {
+          "label": "Shopping trolley walkway width",
+          "value": 80.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Illustration of one person with a shopping trolley.",
+          "status": "uncertain",
+          "ocr_raw": "One person with shopping trolley 80 cm wide"
+        },
+        {
+          "label": "Walkway width for two people",
+          "value": 1.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Illustration caption for two people.",
+          "status": "uncertain",
+          "ocr_raw": "Two people, 1 m wide"
+        },
+        {
+          "label": "Load factor",
+          "value": 0.5,
+          "value_max": 0.9,
+          "unit": "factor",
+          "context": "Load-factor range according to use.",
+          "status": "uncertain",
+          "ocr_raw": "the load factor varies between 0.5 and 0.9 (average 0.7) according to the use."
+        },
+        {
+          "label": "Average load factor",
+          "value": 0.7,
+          "value_max": null,
+          "unit": "factor",
+          "context": "Average load factor according to use.",
+          "status": "uncertain",
+          "ocr_raw": "the load factor varies between 0.5 and 0.9 (average 0.7) according to the use."
+        },
+        {
+          "label": "Step area per person",
+          "value": 0.25,
+          "value_max": null,
+          "unit": "m²/person",
+          "context": "Area represented by the denominator in the hourly-capacity formula.",
+          "status": "uncertain",
+          "ocr_raw": "The 0.25 in the denominator represents a step area of 0.25 m²/person."
+        },
+        {
+          "label": "Gradient in cotangent table",
+          "value": 10.0,
+          "value_max": null,
+          "unit": "degrees",
+          "context": "Listed gradient for the cotangent values.",
+          "status": "uncertain",
+          "ocr_raw": "gradient in ° 10° 11° 12°"
+        },
+        {
+          "label": "Cotangent value at 10°",
+          "value": 5.6713,
+          "value_max": null,
+          "unit": "cot B",
+          "context": "Moving-walkway gradient table.",
+          "status": "uncertain",
+          "ocr_raw": "cot B 5.6713 5.1446 4.7046"
+        },
+        {
+          "label": "Gradient in cotangent table",
+          "value": 11.0,
+          "value_max": null,
+          "unit": "degrees",
+          "context": "Listed gradient for the cotangent values.",
+          "status": "uncertain",
+          "ocr_raw": "gradient in ° 10° 11° 12°"
+        },
+        {
+          "label": "Cotangent value at 11°",
+          "value": 5.1446,
+          "value_max": null,
+          "unit": "cot B",
+          "context": "Moving-walkway gradient table.",
+          "status": "uncertain",
+          "ocr_raw": "cot B 5.6713 5.1446 4.7046"
+        },
+        {
+          "label": "Gradient in cotangent table",
+          "value": 12.0,
+          "value_max": null,
+          "unit": "degrees",
+          "context": "Listed gradient for the cotangent values.",
+          "status": "uncertain",
+          "ocr_raw": "gradient in ° 10° 11° 12°"
+        },
+        {
+          "label": "Cotangent value at 12°",
+          "value": 4.7046,
+          "value_max": null,
+          "unit": "cot B",
+          "context": "Moving-walkway gradient table.",
+          "status": "uncertain",
+          "ocr_raw": "cot B 5.6713 5.1446 4.7046"
+        },
+        {
+          "label": "Example transport height",
+          "value": 5.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Worked example for a walkway with a 12° gradient.",
+          "status": "uncertain",
+          "ocr_raw": "e.g. transport height 5 m, gradient 12°"
+        },
+        {
+          "label": "Example gradient",
+          "value": 12.0,
+          "value_max": null,
+          "unit": "degrees",
+          "context": "Worked example for a 5 m transport height.",
+          "status": "uncertain",
+          "ocr_raw": "e.g. transport height 5 m, gradient 12°"
+        },
+        {
+          "label": "Example average length",
+          "value": 23.52,
+          "value_max": null,
+          "unit": "m",
+          "context": "Rounded average length stated in the worked example.",
+          "status": "uncertain",
+          "ocr_raw": "average length = 4.7046 × 5 m = (rounded) 23.52 m"
+        },
+        {
+          "label": "Horizontal walkway capacity",
+          "value": 11000.0,
+          "value_max": null,
+          "unit": "people/h",
+          "context": "Capacity shown in the dimensions and capacities table for the horizontal moving walkway with cleated belt.",
+          "status": "uncertain",
+          "ocr_raw": "11000 people/h"
+        },
+        {
+          "label": "Horizontal walkway transport rate",
+          "value": 40.0,
+          "value_max": null,
+          "unit": "m/min",
+          "context": "Transport capacity shown in the dimensions and capacities table.",
+          "status": "uncertain",
+          "ocr_raw": "40 m/min"
+        }
+      ],
+      "figure_refs": [
+        "1 Section through moving walkway with foundation plan",
+        "2 Cross-section",
+        "3 Dimensions",
+        "4 Arrangement of moving walkways",
+        "5 One person with shopping trolley",
+        "6 Two people",
+        "7 Section through moving walkway with rubber conveyor belt with cleated belt",
+        "8 Plan",
+        "9 Diagrammatical section of a two-way moving walkway",
+        "10 Plan of a two-way moving walkway with horizontal turnaround",
+        "11 Moving walkway with transition curve at top",
+        "12 Dimensions and capacities of horizontal moving walkways"
+      ],
+      "cross_refs": [
+        "→ 9–10",
+        "→ 7–8",
+        "→ 1",
+        "→ 7",
+        "→ 9"
+      ],
+      "keywords": [
+        "moving walkway",
+        "travelator",
+        "conveyor",
+        "pedestrian transport",
+        "walkway capacity",
+        "two-way walkway",
+        "cleated belt",
+        "shopping trolley",
+        "gradient"
+      ],
+      "tags_architectural": [
+        "accessibility",
+        "circulation",
+        "clearance",
+        "safety"
+      ],
+      "confidence": 0.95
+    }
+  ]
+}

@@ -1,0 +1,306 @@
+{
+  "model": "gpt-6-luna",
+  "checks": {
+    "checks": [
+      {
+        "ficha_index": 1,
+        "dimension_index": 0,
+        "status": "verified",
+        "value": null,
+        "value_max": null,
+        "reason": "The table lists a lightning sphere radius of 20 m for class I."
+      },
+      {
+        "ficha_index": 1,
+        "dimension_index": 1,
+        "status": "verified",
+        "value": null,
+        "value_max": null,
+        "reason": "The table lists a lightning sphere radius of 30 m for class II."
+      },
+      {
+        "ficha_index": 1,
+        "dimension_index": 2,
+        "status": "verified",
+        "value": null,
+        "value_max": null,
+        "reason": "The table lists a lightning sphere radius of 45 m for class III."
+      },
+      {
+        "ficha_index": 1,
+        "dimension_index": 3,
+        "status": "verified",
+        "value": null,
+        "value_max": null,
+        "reason": "The table lists a lightning sphere radius of 60 m for class IV."
+      },
+      {
+        "ficha_index": 1,
+        "dimension_index": 4,
+        "status": "verified",
+        "value": null,
+        "value_max": null,
+        "reason": "The table lists effectiveness as 98% for class I."
+      },
+      {
+        "ficha_index": 1,
+        "dimension_index": 5,
+        "status": "verified",
+        "value": null,
+        "value_max": null,
+        "reason": "The table lists effectiveness as 95% for class II."
+      },
+      {
+        "ficha_index": 1,
+        "dimension_index": 6,
+        "status": "verified",
+        "value": null,
+        "value_max": null,
+        "reason": "The table lists effectiveness as 90% for class III."
+      },
+      {
+        "ficha_index": 1,
+        "dimension_index": 7,
+        "status": "verified",
+        "value": null,
+        "value_max": null,
+        "reason": "The table lists effectiveness as 80% for class IV."
+      },
+      {
+        "ficha_index": 1,
+        "dimension_index": 8,
+        "status": "verified",
+        "value": null,
+        "value_max": null,
+        "reason": "The table gives mesh width 5 m \u00d7 5 m for class I."
+      },
+      {
+        "ficha_index": 1,
+        "dimension_index": 9,
+        "status": "verified",
+        "value": null,
+        "value_max": null,
+        "reason": "The table gives mesh width 10 m \u00d7 10 m for class II."
+      },
+      {
+        "ficha_index": 1,
+        "dimension_index": 10,
+        "status": "verified",
+        "value": null,
+        "value_max": null,
+        "reason": "The table gives mesh width 15 m \u00d7 15 m for class III."
+      },
+      {
+        "ficha_index": 1,
+        "dimension_index": 11,
+        "status": "verified",
+        "value": null,
+        "value_max": null,
+        "reason": "The table gives mesh width 20 m \u00d7 20 m for class IV."
+      },
+      {
+        "ficha_index": 1,
+        "dimension_index": 12,
+        "status": "verified",
+        "value": null,
+        "value_max": null,
+        "reason": "The table lists typical down-conductor spacing as 10 m for class I."
+      },
+      {
+        "ficha_index": 1,
+        "dimension_index": 13,
+        "status": "verified",
+        "value": null,
+        "value_max": null,
+        "reason": "The table lists typical down-conductor spacing as 15 m for class II."
+      },
+      {
+        "ficha_index": 1,
+        "dimension_index": 14,
+        "status": "verified",
+        "value": null,
+        "value_max": null,
+        "reason": "The table lists typical down-conductor spacing as 20 m for class III."
+      },
+      {
+        "ficha_index": 1,
+        "dimension_index": 15,
+        "status": "verified",
+        "value": null,
+        "value_max": null,
+        "reason": "The table lists typical down-conductor spacing as 25 m for class IV."
+      },
+      {
+        "ficha_index": 1,
+        "dimension_index": 16,
+        "status": "verified",
+        "value": null,
+        "value_max": null,
+        "reason": "The table visibly lists peak lightning current as 200 kA for class I."
+      },
+      {
+        "ficha_index": 1,
+        "dimension_index": 17,
+        "status": "verified",
+        "value": null,
+        "value_max": null,
+        "reason": "The table visibly lists peak lightning current as 150 kA for class II."
+      },
+      {
+        "ficha_index": 1,
+        "dimension_index": 18,
+        "status": "verified",
+        "value": null,
+        "value_max": null,
+        "reason": "The table visibly lists peak lightning current as 100 kA for class III."
+      },
+      {
+        "ficha_index": 1,
+        "dimension_index": 19,
+        "status": "verified",
+        "value": null,
+        "value_max": null,
+        "reason": "The graph's height axis extends to 60 m."
+      },
+      {
+        "ficha_index": 1,
+        "dimension_index": 20,
+        "status": "verified",
+        "value": null,
+        "value_max": null,
+        "reason": "The building categorisation diagram labels the lightning sphere radius as 20 m."
+      }
+    ]
+  },
+  "automatic": [
+    {
+      "ficha_index": 1,
+      "dimension_index": 0,
+      "issues": []
+    },
+    {
+      "ficha_index": 1,
+      "dimension_index": 1,
+      "issues": []
+    },
+    {
+      "ficha_index": 1,
+      "dimension_index": 2,
+      "issues": []
+    },
+    {
+      "ficha_index": 1,
+      "dimension_index": 3,
+      "issues": []
+    },
+    {
+      "ficha_index": 1,
+      "dimension_index": 4,
+      "issues": [
+        "Unknown unit"
+      ]
+    },
+    {
+      "ficha_index": 1,
+      "dimension_index": 5,
+      "issues": [
+        "Unknown unit"
+      ]
+    },
+    {
+      "ficha_index": 1,
+      "dimension_index": 6,
+      "issues": [
+        "Unknown unit"
+      ]
+    },
+    {
+      "ficha_index": 1,
+      "dimension_index": 7,
+      "issues": [
+        "Unknown unit"
+      ]
+    },
+    {
+      "ficha_index": 1,
+      "dimension_index": 8,
+      "issues": []
+    },
+    {
+      "ficha_index": 1,
+      "dimension_index": 9,
+      "issues": []
+    },
+    {
+      "ficha_index": 1,
+      "dimension_index": 10,
+      "issues": []
+    },
+    {
+      "ficha_index": 1,
+      "dimension_index": 11,
+      "issues": []
+    },
+    {
+      "ficha_index": 1,
+      "dimension_index": 12,
+      "issues": []
+    },
+    {
+      "ficha_index": 1,
+      "dimension_index": 13,
+      "issues": []
+    },
+    {
+      "ficha_index": 1,
+      "dimension_index": 14,
+      "issues": []
+    },
+    {
+      "ficha_index": 1,
+      "dimension_index": 15,
+      "issues": []
+    },
+    {
+      "ficha_index": 1,
+      "dimension_index": 16,
+      "issues": [
+        "Unknown unit"
+      ]
+    },
+    {
+      "ficha_index": 1,
+      "dimension_index": 17,
+      "issues": [
+        "Unknown unit"
+      ]
+    },
+    {
+      "ficha_index": 1,
+      "dimension_index": 18,
+      "issues": [
+        "Unknown unit"
+      ]
+    },
+    {
+      "ficha_index": 1,
+      "dimension_index": 19,
+      "issues": []
+    },
+    {
+      "ficha_index": 1,
+      "dimension_index": 20,
+      "issues": []
+    }
+  ],
+  "usage": [
+    {
+      "prompt_tokens": 4469,
+      "completion_tokens": 1626
+    },
+    {
+      "prompt_tokens": 5055,
+      "completion_tokens": 810
+    }
+  ]
+}

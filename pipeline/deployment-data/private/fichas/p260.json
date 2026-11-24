@@ -1,0 +1,401 @@
+{
+  "fichas": [
+    {
+      "id": "4122fb96e4bd1976-260-vision-0",
+      "pdf_page": 260,
+      "book_page": 247,
+      "chapter": "ADMINISTRATION AND OFFICES",
+      "section": "Libraries",
+      "title": "Library types and functional planning",
+      "summary": "Libraries are organized into user and reading areas, storage, and administration. The page distinguishes public lending, scientific, state, and specialist libraries, and describes circulation, access control, and supporting facilities inside and outside controlled areas.",
+      "building_type": "Library",
+      "spaces": [
+        "User and reading area",
+        "Store",
+        "Administration",
+        "Entrance and exit",
+        "Lending counter or central information",
+        "Cloakrooms or lockers",
+        "Toilets",
+        "Cafeteria",
+        "Newspaper reading corner",
+        "Exhibition room",
+        "Lecture and conference room",
+        "Central information point",
+        "Catalogue area",
+        "Book return and collection point",
+        "Reader information",
+        "Bibliography area",
+        "Copy rooms",
+        "Self-service stores"
+      ],
+      "uses": [
+        "Public lending",
+        "Education and research",
+        "Specialist literature and media collections",
+        "Reading and working",
+        "Book transport",
+        "Book lending and return",
+        "Information and catalogue access",
+        "Lectures and conferences"
+      ],
+      "furniture_equipment": [
+        "Open shelves",
+        "Book-security access control",
+        "Signs and orientation system",
+        "Online catalogue terminals",
+        "Card index and microfiche catalogue",
+        "Copiers",
+        "Lockers"
+      ],
+      "dimensions": [
+        {
+          "label": "Floor loading",
+          "value": 5.0,
+          "value_max": null,
+          "unit": "kN/m²",
+          "context": "User and reading area floor loading.",
+          "status": "verified",
+          "ocr_raw": "The floor in the user and reading area should be designed\nfor a loading of 5.0 kN/m 2 •"
+        },
+        {
+          "label": "Traffic route width",
+          "value": 1.2,
+          "value_max": null,
+          "unit": "m",
+          "context": "Minimum width stated for traffic routes in library areas.",
+          "status": "verified",
+          "ocr_raw": "Traffic routes > 1.20 m wide"
+        },
+        {
+          "label": "Clear distance between shelves in public areas",
+          "value": 1.3,
+          "value_max": 1.4,
+          "unit": "m",
+          "context": "Maximum clear shelf spacing stated for public areas; printed as a range.",
+          "status": "verified",
+          "ocr_raw": "up to max. 1.30-1.40 m"
+        },
+        {
+          "label": "Reading/working place area",
+          "value": 2.5,
+          "value_max": null,
+          "unit": "m²",
+          "context": "Space requirement per single reading or working place.",
+          "status": "verified",
+          "ocr_raw": "Space requirement per single reading/working place 2.5 m2"
+        },
+        {
+          "label": "PC or single working place area",
+          "value": 4.0,
+          "value_max": null,
+          "unit": "m²",
+          "context": "Approximate space requirement per PC or single working place.",
+          "status": "verified",
+          "ocr_raw": "per PC or single\nworking place ~4.0 m2"
+        }
+      ],
+      "figure_refs": [
+        "4",
+        "5"
+      ],
+      "cross_refs": [
+        "p. 236",
+        "p. 250",
+        "p. 251"
+      ],
+      "keywords": [
+        "library planning",
+        "public lending library",
+        "scientific library",
+        "state library",
+        "specialist library",
+        "access control",
+        "reading area",
+        "administration"
+      ],
+      "tags_architectural": [
+        "circulation",
+        "accessibility",
+        "ergonomics",
+        "clearance",
+        "safety"
+      ],
+      "confidence": 0.97
+    },
+    {
+      "id": "4122fb96e4bd1976-260-vision-1",
+      "pdf_page": 260,
+      "book_page": 247,
+      "chapter": "ADMINISTRATION AND OFFICES",
+      "section": "Libraries",
+      "title": "Library shelving layouts and shelf-area diagrams",
+      "summary": "Diagrams show shelving terminology and example floor layouts for stacks closed to the public and self-service areas. They identify shelf blocks, adjacent aisles, shelving aisles, and centre-line distances.",
+      "building_type": "Library",
+      "spaces": [
+        "Stacks",
+        "Self-service area",
+        "Shelving aisles",
+        "Adjacent aisles"
+      ],
+      "uses": [
+        "Book storage",
+        "Self-service access to books"
+      ],
+      "furniture_equipment": [
+        "Single-sided shelving",
+        "Double-sided shelving",
+        "Shelf units"
+      ],
+      "dimensions": [
+        {
+          "label": "Stack shelving block length",
+          "value": 12.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Plan dimension of the standard block of shelf units in the stacks diagram.",
+          "status": "verified",
+          "ocr_raw": "block of shelf units 8.70 x 12.00"
+        },
+        {
+          "label": "Stack shelving block width",
+          "value": 8.7,
+          "value_max": null,
+          "unit": "m",
+          "context": "Plan dimension of the standard block of shelf units in the stacks diagram.",
+          "status": "verified",
+          "ocr_raw": "block of shelf units 8.70 x 12.00"
+        },
+        {
+          "label": "Self-service shelving block length",
+          "value": 8.7,
+          "value_max": null,
+          "unit": "m",
+          "context": "Standard self-service shelving block dimension, paired with 6.00 m.",
+          "status": "verified",
+          "ocr_raw": "standard block 8.70 x 6.00 m"
+        },
+        {
+          "label": "Self-service shelving block width",
+          "value": 6.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Standard self-service shelving block dimension, paired with 8.70 m.",
+          "status": "verified",
+          "ocr_raw": "standard block 8.70 x 6.00 m"
+        },
+        {
+          "label": "Centre-line distance in store",
+          "value": 1.35,
+          "value_max": null,
+          "unit": "m",
+          "context": "Store shelving centre-line distance; diagram also prints an alternative in parentheses.",
+          "status": "verified",
+          "ocr_raw": "store\n\n1.35\n(1.20)\n1.44"
+        },
+        {
+          "label": "Alternative centre-line distance in store",
+          "value": 1.2,
+          "value_max": null,
+          "unit": "m",
+          "context": "Parenthesized alternative store shelving centre-line distance.",
+          "status": "verified",
+          "ocr_raw": "store\n\n1.35\n(1.20)\n1.44"
+        },
+        {
+          "label": "Centre-line distance in store",
+          "value": 1.44,
+          "value_max": null,
+          "unit": "m",
+          "context": "Store shelving centre-line distance shown in the area table.",
+          "status": "verified",
+          "ocr_raw": "store\n\n1.35\n(1.20)\n1.44"
+        },
+        {
+          "label": "Centre-line distance in self-service area",
+          "value": 1.4,
+          "value_max": null,
+          "unit": "m",
+          "context": "Self-service area shelving centre-line distance.",
+          "status": "verified",
+          "ocr_raw": "self-service\narea\n\n1.40\n1.70"
+        },
+        {
+          "label": "Centre-line distance in self-service area",
+          "value": 1.7,
+          "value_max": null,
+          "unit": "m",
+          "context": "Self-service area shelving centre-line distance.",
+          "status": "verified",
+          "ocr_raw": "self-service\narea\n\n1.40\n1.70"
+        },
+        {
+          "label": "Centre-line distance in information and reading room",
+          "value": 1.6,
+          "value_max": null,
+          "unit": "m",
+          "context": "Centre-line distance listed for information and reading room.",
+          "status": "verified",
+          "ocr_raw": "information\narea and\n\n1.60\n2.00"
+        },
+        {
+          "label": "Centre-line distance in information and reading room",
+          "value": 2.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Centre-line distance listed for information and reading room.",
+          "status": "verified",
+          "ocr_raw": "information\narea and\n\n1.60\n2.00"
+        }
+      ],
+      "figure_refs": [
+        "1",
+        "2",
+        "3"
+      ],
+      "cross_refs": [],
+      "keywords": [
+        "shelving",
+        "shelf block",
+        "stack",
+        "self-service",
+        "aisle",
+        "centre-line distance"
+      ],
+      "tags_architectural": [
+        "circulation",
+        "clearance",
+        "modularity"
+      ],
+      "confidence": 0.95
+    },
+    {
+      "id": "4122fb96e4bd1976-260-vision-2",
+      "pdf_page": 260,
+      "book_page": 247,
+      "chapter": "ADMINISTRATION AND OFFICES",
+      "section": "Libraries",
+      "title": "Library floor loads and structural grids",
+      "summary": "Tables provide floor-load assumptions for library areas and list common structural-grid dimensions against library functions. The grid table includes stacks, self-service areas, reading rooms, workplaces, and group workplaces.",
+      "building_type": "Library",
+      "spaces": [
+        "Stacks",
+        "Self-service areas",
+        "Reading room areas",
+        "Workplaces",
+        "Group workplaces",
+        "Administration"
+      ],
+      "uses": [
+        "Book storage",
+        "Self-service book access",
+        "Reading",
+        "Individual work",
+        "Group work"
+      ],
+      "furniture_equipment": [],
+      "dimensions": [
+        {
+          "label": "Floor load for stacks and self-service store on transversely arranged floors",
+          "value": 7.5,
+          "value_max": null,
+          "unit": "kN/m²",
+          "context": "Load assumption for stacks and self-service store, floors arranged transversely.",
+          "status": "verified",
+          "ocr_raw": "on floors arranged\ntransversely\n\n7.5"
+        },
+        {
+          "label": "Floor load for compact systems on transversely arranged floors",
+          "value": 12.5,
+          "value_max": null,
+          "unit": "kN/m²",
+          "context": "Load assumption for compact systems, floors arranged transversely.",
+          "status": "verified",
+          "ocr_raw": "').e\n\nblock of shelf units\n\nLIBRARIES\n\n/~\n\nBasics\n\n~~,r------------~\nJ.,'bc.et'\"\" r\n1 aisle between shelving\n.... ,.. :\n\n~~/\n\nI\n\n--r-\n\n,,'\n\n_1_ ..L.<O<.l-+&4\ndoublesided shelving\n\n(length x depth x height)\nshelf\n(length x depth x height)\n~ single-sided\nshelving\ncentre~line\n\nTypes of library\nPublic lending libraries ~ p. 250: offer a wide range of literature\nand other information, preferably on open shelves. The supply of\nliterature covers all population and age groups. In larger cities,\nthe functions of scientific and public libraries are sometimes\ncombined.\n\ndistance\n\n0\n\nUnsealed sketch to clarify the terms used in the calculation of areas for stock\n\nScientific libraries~ p. 251: collection, acquisition and provision\nof literature on specific subjects for education and research,\nmostly publicly accessible without limitation.\n\nblock of shelf units 8.70 x 12.00\n\nState libraries: federal state and national libraries; collections,\nfor example, of literature produced in the state or a region (legal\ndeposit copies); publicly accessible.\n\nt=========--12.00--========±__,\nadjacent aisle\n\nSpecialist libraries: scientific libraries for the collection of\nspecialist literature and media on specific subjects, often with very\nlimited group of users.\n\n0\n\n••••••••••••••••••••••••••\n\ng\n\n...........\n\nf) Floor area for bookshelves in stacks (stores), which are closed to the public\nr - - - 6.00 - - - ; adjacent aisle\n\nArea\n\nCentreline\ndistance (m)\n\nstore\n\n1.35\n(1.20)\n1.44\n\nself-service\narea\n\n1.40\n1.70\n\ninformation\narea and\n\n1.60\n2.00\n\nm\n\n~~\n\nshelving/\n\n<0\n\n~~\n\nm\n\n~\n\nE\n\n<nO\n\n~;i\n\n~\n\n\"\n~\n\naisleL\n\n~\n\n~\n\nreading\n\nroom\n\n8 Floor area for bookshelves in self-service area, standard block 8.70 x 6.00 m\nLibrary area/floor\ntype\n\nReading room\nand self-service\n\nAdministration\n\nStacks and\nself-service\nstore\n\nCompact\nsystems\n\non floors arranged\ntransversely\n\n7.5\n\n12.5\n\n5.0\n\n5.0\n\non floors not\narranged transversely\n\n8.5\n\n15.0\n\n5.0\n\n5.0\n\n0\n\narea\n\nComponents\nThree areas in every library: user and reading area, store and\nadministration. The space requirement for these areas differs\naccording to the type of library.\nUser and reading area: With a good orientation system\n(signposting of routes, functions and shelves with easily read\nsigns), the reading area with reading and working places should\nif possible be spread over as few floors as possible, also for ease\nof book transport; staggered floors should be avoided. Access\nshould if possible be by stairs. All areas of the user and reading\nroom should also be accessible by lift (book transport, disabilityfriendly). The floor in the user and reading area should be designed\nfor a loading of 5.0 kN/m 2 •\n\nTraffic routes > 1.20 m wide, clear distance between the shelves\n-in public areas always fixed- up to max. 1.30-1.40 m. Entrance\nand reading room area separated by access control with book\nsecurity system. If possible, only one entrance and exit. The\naccess control should ideally be situated near the lending counter/\ncentral information.\nOutside access-controlled area: cloakrooms or lockers for\nclothing and bags/cases, toilets, cafeteria, newspaper reading\ncorner, exhibition room, lecture and conference room (which may\nbe open outside library opening hours), central information point,\npossibly also card index and microfiche catalogue, online catalogue\nterminals, book return, collection point for ordered books.\n\nLoad assumptions for floors (kN/m2)\n\nStructural grid\n3.60\nStacks (St)\nSelf-service areas (S1)\n\n1.20\n\nSelf-service areas (S2)\n\n5.40\n\n6.00\n\n6.60\n\n7.20\n\n8.40\n\n4.20\n\n4.80\n\n1.05\n\n1.08\n\n1.20\n\n1.20\n\n1.10\n\n1.20\n\n1.20\n\n1.20\n\n1.12/1.2\n1.29\n\n1.40\n\n1.37\n\n1.35\n\n1.33\n\n1.32\n\n1.31\n\n1.40\n\n1.50\n\n1.47\n\n1.44\n\n1.60\n\n1.54\n\n1.05\n\n1.10\n\n1.44\n\n1.60\n1.65\n\n1.68\n1.80\n\n1.53\n1.68\n\n1.80\n\n1.71\n\nReading room areas (R)\n\n1.80\n\nWorkplaces (2.25) (W)\n\n2.40\n\n2.10\n\n2.07\n\n2.10\n\n2.40\n\n2.10\n\n2.40\n\n2.10\n\n2.40\n\n2.20\n\n2.40\n\n2.10\n\n3.60\n\n4.20\n\n4.80\n\n3.60\n\n4.00\n\n4.40\n\n3.60\n\n4.20\n\n2.00\n\n1.92\n\nGroup workplaces (G)\n\n0 Suitability of common structural grids for essential functions of a library\n\nInside access-controlled area: reader information, bibliographies,\nonline catalogue terminals, handing out and return of books only\nto be used in reading area, issuing of books in educational book\ncollection, copiers (in separate rooms), book stock on open\nshelves, user workplaces, possibly access to self-service stores.\n\nThe provision of user workplaces in university libraries depends\non the number of students and the distribution of the individual\nsubject groups. Special workplaces for disabled people (wheelchair\nusers, visually impaired), special work tasks (microform reading\nand enlargement devices, PCs, terminals, CD-ROM and similar:\nobserve the guidelines for computer workplaces p. 236!) and single\nworkplaces (cubicles, carrels, single work rooms). The arrangement of the reading places should be in daylight. Space requirement per single reading/working place 2.5 m2 , per PC or single\nworking place ~4.0 m2 • Traffic routes ~1 .20m wide, clear distance\nbetween the shelves, which in public areas should always be\nfixed, up to max. 1.30-1.40 m.\n\n247\n\nLIBRARIES\nBasics\nFittings\nLending counter\nPublic libraries\n\nScientific libraries\nArchives\n\n\f"
+        },
+        {
+          "label": "Floor load for reading room and self-service area on transversely arranged floors",
+          "value": 5.0,
+          "value_max": null,
+          "unit": "kN/m²",
+          "context": "Load assumption for reading room and self-service area, floors arranged transversely.",
+          "status": "verified",
+          "ocr_raw": "').e\n\nblock of shelf units\n\nLIBRARIES\n\n/~\n\nBasics\n\n~~,r------------~\nJ.,'bc.et'\"\" r\n1 aisle between shelving\n.... ,.. :\n\n~~/\n\nI\n\n--r-\n\n,,'\n\n_1_ ..L.<O<.l-+&4\ndoublesided shelving\n\n(length x depth x height)\nshelf\n(length x depth x height)\n~ single-sided\nshelving\ncentre~line\n\nTypes of library\nPublic lending libraries ~ p. 250: offer a wide range of literature\nand other information, preferably on open shelves. The supply of\nliterature covers all population and age groups. In larger cities,\nthe functions of scientific and public libraries are sometimes\ncombined.\n\ndistance\n\n0\n\nUnsealed sketch to clarify the terms used in the calculation of areas for stock\n\nScientific libraries~ p. 251: collection, acquisition and provision\nof literature on specific subjects for education and research,\nmostly publicly accessible without limitation.\n\nblock of shelf units 8.70 x 12.00\n\nState libraries: federal state and national libraries; collections,\nfor example, of literature produced in the state or a region (legal\ndeposit copies); publicly accessible.\n\nt=========--12.00--========±__,\nadjacent aisle\n\nSpecialist libraries: scientific libraries for the collection of\nspecialist literature and media on specific subjects, often with very\nlimited group of users.\n\n0\n\n••••••••••••••••••••••••••\n\ng\n\n...........\n\nf) Floor area for bookshelves in stacks (stores), which are closed to the public\nr - - - 6.00 - - - ; adjacent aisle\n\nArea\n\nCentreline\ndistance (m)\n\nstore\n\n1.35\n(1.20)\n1.44\n\nself-service\narea\n\n1.40\n1.70\n\ninformation\narea and\n\n1.60\n2.00\n\nm\n\n~~\n\nshelving/\n\n<0\n\n~~\n\nm\n\n~\n\nE\n\n<nO\n\n~;i\n\n~\n\n\"\n~\n\naisleL\n\n~\n\n~\n\nreading\n\nroom\n\n8 Floor area for bookshelves in self-service area, standard block 8.70 x 6.00 m\nLibrary area/floor\ntype\n\nReading room\nand self-service\n\nAdministration\n\nStacks and\nself-service\nstore\n\nCompact\nsystems\n\non floors arranged\ntransversely\n\n7.5\n\n12.5\n\n5.0\n\n5.0\n\non floors not\narranged transversely\n\n8.5\n\n15.0\n\n5.0\n\n5.0\n\n0\n\narea\n\nComponents\nThree areas in every library: user and reading area, store and\nadministration. The space requirement for these areas differs\naccording to the type of library.\nUser and reading area: With a good orientation system\n(signposting of routes, functions and shelves with easily read\nsigns), the reading area with reading and working places should\nif possible be spread over as few floors as possible, also for ease\nof book transport; staggered floors should be avoided. Access\nshould if possible be by stairs. All areas of the user and reading\nroom should also be accessible by lift (book transport, disabilityfriendly). The floor in the user and reading area should be designed\nfor a loading of 5.0 kN/m 2 •\n\nTraffic routes > 1.20 m wide, clear distance between the shelves\n-in public areas always fixed- up to max. 1.30-1.40 m. Entrance\nand reading room area separated by access control with book\nsecurity system. If possible, only one entrance and exit. The\naccess control should ideally be situated near the lending counter/\ncentral information.\nOutside access-controlled area: cloakrooms or lockers for\nclothing and bags/cases, toilets, cafeteria, newspaper reading\ncorner, exhibition room, lecture and conference room (which may\nbe open outside library opening hours), central information point,\npossibly also card index and microfiche catalogue, online catalogue\nterminals, book return, collection point for ordered books.\n\nLoad assumptions for floors (kN/m2)\n\nStructural grid\n3.60\nStacks (St)\nSelf-service areas (S1)\n\n1.20\n\nSelf-service areas (S2)\n\n5.40\n\n6.00\n\n6.60\n\n7.20\n\n8.40\n\n4.20\n\n4.80\n\n1.05\n\n1.08\n\n1.20\n\n1.20\n\n1.10\n\n1.20\n\n1.20\n\n1.20\n\n1.12/1.2\n1.29\n\n1.40\n\n1.37\n\n1.35\n\n1.33\n\n1.32\n\n1.31\n\n1.40\n\n1.50\n\n1.47\n\n1.44\n\n1.60\n\n1.54\n\n1.05\n\n1.10\n\n1.44\n\n1.60\n1.65\n\n1.68\n1.80\n\n1.53\n1.68\n\n1.80\n\n1.71\n\nReading room areas (R)\n\n1.80\n\nWorkplaces (2.25) (W)\n\n2.40\n\n2.10\n\n2.07\n\n2.10\n\n2.40\n\n2.10\n\n2.40\n\n2.10\n\n2.40\n\n2.20\n\n2.40\n\n2.10\n\n3.60\n\n4.20\n\n4.80\n\n3.60\n\n4.00\n\n4.40\n\n3.60\n\n4.20\n\n2.00\n\n1.92\n\nGroup workplaces (G)\n\n0 Suitability of common structural grids for essential functions of a library\n\nInside access-controlled area: reader information, bibliographies,\nonline catalogue terminals, handing out and return of books only\nto be used in reading area, issuing of books in educational book\ncollection, copiers (in separate rooms), book stock on open\nshelves, user workplaces, possibly access to self-service stores.\n\nThe provision of user workplaces in university libraries depends\non the number of students and the distribution of the individual\nsubject groups. Special workplaces for disabled people (wheelchair\nusers, visually impaired), special work tasks (microform reading\nand enlargement devices, PCs, terminals, CD-ROM and similar:\nobserve the guidelines for computer workplaces p. 236!) and single\nworkplaces (cubicles, carrels, single work rooms). The arrangement of the reading places should be in daylight. Space requirement per single reading/working place 2.5 m2 , per PC or single\nworking place ~4.0 m2 • Traffic routes ~1 .20m wide, clear distance\nbetween the shelves, which in public areas should always be\nfixed, up to max. 1.30-1.40 m.\n\n247\n\nLIBRARIES\nBasics\nFittings\nLending counter\nPublic libraries\n\nScientific libraries\nArchives\n\n\f"
+        },
+        {
+          "label": "Floor load for administration on transversely arranged floors",
+          "value": 5.0,
+          "value_max": null,
+          "unit": "kN/m²",
+          "context": "Load assumption for administration, floors arranged transversely.",
+          "status": "verified",
+          "ocr_raw": "').e\n\nblock of shelf units\n\nLIBRARIES\n\n/~\n\nBasics\n\n~~,r------------~\nJ.,'bc.et'\"\" r\n1 aisle between shelving\n.... ,.. :\n\n~~/\n\nI\n\n--r-\n\n,,'\n\n_1_ ..L.<O<.l-+&4\ndoublesided shelving\n\n(length x depth x height)\nshelf\n(length x depth x height)\n~ single-sided\nshelving\ncentre~line\n\nTypes of library\nPublic lending libraries ~ p. 250: offer a wide range of literature\nand other information, preferably on open shelves. The supply of\nliterature covers all population and age groups. In larger cities,\nthe functions of scientific and public libraries are sometimes\ncombined.\n\ndistance\n\n0\n\nUnsealed sketch to clarify the terms used in the calculation of areas for stock\n\nScientific libraries~ p. 251: collection, acquisition and provision\nof literature on specific subjects for education and research,\nmostly publicly accessible without limitation.\n\nblock of shelf units 8.70 x 12.00\n\nState libraries: federal state and national libraries; collections,\nfor example, of literature produced in the state or a region (legal\ndeposit copies); publicly accessible.\n\nt=========--12.00--========±__,\nadjacent aisle\n\nSpecialist libraries: scientific libraries for the collection of\nspecialist literature and media on specific subjects, often with very\nlimited group of users.\n\n0\n\n••••••••••••••••••••••••••\n\ng\n\n...........\n\nf) Floor area for bookshelves in stacks (stores), which are closed to the public\nr - - - 6.00 - - - ; adjacent aisle\n\nArea\n\nCentreline\ndistance (m)\n\nstore\n\n1.35\n(1.20)\n1.44\n\nself-service\narea\n\n1.40\n1.70\n\ninformation\narea and\n\n1.60\n2.00\n\nm\n\n~~\n\nshelving/\n\n<0\n\n~~\n\nm\n\n~\n\nE\n\n<nO\n\n~;i\n\n~\n\n\"\n~\n\naisleL\n\n~\n\n~\n\nreading\n\nroom\n\n8 Floor area for bookshelves in self-service area, standard block 8.70 x 6.00 m\nLibrary area/floor\ntype\n\nReading room\nand self-service\n\nAdministration\n\nStacks and\nself-service\nstore\n\nCompact\nsystems\n\non floors arranged\ntransversely\n\n7.5\n\n12.5\n\n5.0\n\n5.0\n\non floors not\narranged transversely\n\n8.5\n\n15.0\n\n5.0\n\n5.0\n\n0\n\narea\n\nComponents\nThree areas in every library: user and reading area, store and\nadministration. The space requirement for these areas differs\naccording to the type of library.\nUser and reading area: With a good orientation system\n(signposting of routes, functions and shelves with easily read\nsigns), the reading area with reading and working places should\nif possible be spread over as few floors as possible, also for ease\nof book transport; staggered floors should be avoided. Access\nshould if possible be by stairs. All areas of the user and reading\nroom should also be accessible by lift (book transport, disabilityfriendly). The floor in the user and reading area should be designed\nfor a loading of 5.0 kN/m 2 •\n\nTraffic routes > 1.20 m wide, clear distance between the shelves\n-in public areas always fixed- up to max. 1.30-1.40 m. Entrance\nand reading room area separated by access control with book\nsecurity system. If possible, only one entrance and exit. The\naccess control should ideally be situated near the lending counter/\ncentral information.\nOutside access-controlled area: cloakrooms or lockers for\nclothing and bags/cases, toilets, cafeteria, newspaper reading\ncorner, exhibition room, lecture and conference room (which may\nbe open outside library opening hours), central information point,\npossibly also card index and microfiche catalogue, online catalogue\nterminals, book return, collection point for ordered books.\n\nLoad assumptions for floors (kN/m2)\n\nStructural grid\n3.60\nStacks (St)\nSelf-service areas (S1)\n\n1.20\n\nSelf-service areas (S2)\n\n5.40\n\n6.00\n\n6.60\n\n7.20\n\n8.40\n\n4.20\n\n4.80\n\n1.05\n\n1.08\n\n1.20\n\n1.20\n\n1.10\n\n1.20\n\n1.20\n\n1.20\n\n1.12/1.2\n1.29\n\n1.40\n\n1.37\n\n1.35\n\n1.33\n\n1.32\n\n1.31\n\n1.40\n\n1.50\n\n1.47\n\n1.44\n\n1.60\n\n1.54\n\n1.05\n\n1.10\n\n1.44\n\n1.60\n1.65\n\n1.68\n1.80\n\n1.53\n1.68\n\n1.80\n\n1.71\n\nReading room areas (R)\n\n1.80\n\nWorkplaces (2.25) (W)\n\n2.40\n\n2.10\n\n2.07\n\n2.10\n\n2.40\n\n2.10\n\n2.40\n\n2.10\n\n2.40\n\n2.20\n\n2.40\n\n2.10\n\n3.60\n\n4.20\n\n4.80\n\n3.60\n\n4.00\n\n4.40\n\n3.60\n\n4.20\n\n2.00\n\n1.92\n\nGroup workplaces (G)\n\n0 Suitability of common structural grids for essential functions of a library\n\nInside access-controlled area: reader information, bibliographies,\nonline catalogue terminals, handing out and return of books only\nto be used in reading area, issuing of books in educational book\ncollection, copiers (in separate rooms), book stock on open\nshelves, user workplaces, possibly access to self-service stores.\n\nThe provision of user workplaces in university libraries depends\non the number of students and the distribution of the individual\nsubject groups. Special workplaces for disabled people (wheelchair\nusers, visually impaired), special work tasks (microform reading\nand enlargement devices, PCs, terminals, CD-ROM and similar:\nobserve the guidelines for computer workplaces p. 236!) and single\nworkplaces (cubicles, carrels, single work rooms). The arrangement of the reading places should be in daylight. Space requirement per single reading/working place 2.5 m2 , per PC or single\nworking place ~4.0 m2 • Traffic routes ~1 .20m wide, clear distance\nbetween the shelves, which in public areas should always be\nfixed, up to max. 1.30-1.40 m.\n\n247\n\nLIBRARIES\nBasics\nFittings\nLending counter\nPublic libraries\n\nScientific libraries\nArchives\n\n\f"
+        },
+        {
+          "label": "Floor load for stacks and self-service store on non-transversely arranged floors",
+          "value": 8.5,
+          "value_max": null,
+          "unit": "kN/m²",
+          "context": "Load assumption for stacks and self-service store, floors not arranged transversely.",
+          "status": "verified",
+          "ocr_raw": "on floors not\narranged transversely\n\n8.5"
+        },
+        {
+          "label": "Floor load for compact systems on non-transversely arranged floors",
+          "value": 15.0,
+          "value_max": null,
+          "unit": "kN/m²",
+          "context": "Load assumption for compact systems, floors not arranged transversely.",
+          "status": "verified",
+          "ocr_raw": "').e\n\nblock of shelf units\n\nLIBRARIES\n\n/~\n\nBasics\n\n~~,r------------~\nJ.,'bc.et'\"\" r\n1 aisle between shelving\n.... ,.. :\n\n~~/\n\nI\n\n--r-\n\n,,'\n\n_1_ ..L.<O<.l-+&4\ndoublesided shelving\n\n(length x depth x height)\nshelf\n(length x depth x height)\n~ single-sided\nshelving\ncentre~line\n\nTypes of library\nPublic lending libraries ~ p. 250: offer a wide range of literature\nand other information, preferably on open shelves. The supply of\nliterature covers all population and age groups. In larger cities,\nthe functions of scientific and public libraries are sometimes\ncombined.\n\ndistance\n\n0\n\nUnsealed sketch to clarify the terms used in the calculation of areas for stock\n\nScientific libraries~ p. 251: collection, acquisition and provision\nof literature on specific subjects for education and research,\nmostly publicly accessible without limitation.\n\nblock of shelf units 8.70 x 12.00\n\nState libraries: federal state and national libraries; collections,\nfor example, of literature produced in the state or a region (legal\ndeposit copies); publicly accessible.\n\nt=========--12.00--========±__,\nadjacent aisle\n\nSpecialist libraries: scientific libraries for the collection of\nspecialist literature and media on specific subjects, often with very\nlimited group of users.\n\n0\n\n••••••••••••••••••••••••••\n\ng\n\n...........\n\nf) Floor area for bookshelves in stacks (stores), which are closed to the public\nr - - - 6.00 - - - ; adjacent aisle\n\nArea\n\nCentreline\ndistance (m)\n\nstore\n\n1.35\n(1.20)\n1.44\n\nself-service\narea\n\n1.40\n1.70\n\ninformation\narea and\n\n1.60\n2.00\n\nm\n\n~~\n\nshelving/\n\n<0\n\n~~\n\nm\n\n~\n\nE\n\n<nO\n\n~;i\n\n~\n\n\"\n~\n\naisleL\n\n~\n\n~\n\nreading\n\nroom\n\n8 Floor area for bookshelves in self-service area, standard block 8.70 x 6.00 m\nLibrary area/floor\ntype\n\nReading room\nand self-service\n\nAdministration\n\nStacks and\nself-service\nstore\n\nCompact\nsystems\n\non floors arranged\ntransversely\n\n7.5\n\n12.5\n\n5.0\n\n5.0\n\non floors not\narranged transversely\n\n8.5\n\n15.0\n\n5.0\n\n5.0\n\n0\n\narea\n\nComponents\nThree areas in every library: user and reading area, store and\nadministration. The space requirement for these areas differs\naccording to the type of library.\nUser and reading area: With a good orientation system\n(signposting of routes, functions and shelves with easily read\nsigns), the reading area with reading and working places should\nif possible be spread over as few floors as possible, also for ease\nof book transport; staggered floors should be avoided. Access\nshould if possible be by stairs. All areas of the user and reading\nroom should also be accessible by lift (book transport, disabilityfriendly). The floor in the user and reading area should be designed\nfor a loading of 5.0 kN/m 2 •\n\nTraffic routes > 1.20 m wide, clear distance between the shelves\n-in public areas always fixed- up to max. 1.30-1.40 m. Entrance\nand reading room area separated by access control with book\nsecurity system. If possible, only one entrance and exit. The\naccess control should ideally be situated near the lending counter/\ncentral information.\nOutside access-controlled area: cloakrooms or lockers for\nclothing and bags/cases, toilets, cafeteria, newspaper reading\ncorner, exhibition room, lecture and conference room (which may\nbe open outside library opening hours), central information point,\npossibly also card index and microfiche catalogue, online catalogue\nterminals, book return, collection point for ordered books.\n\nLoad assumptions for floors (kN/m2)\n\nStructural grid\n3.60\nStacks (St)\nSelf-service areas (S1)\n\n1.20\n\nSelf-service areas (S2)\n\n5.40\n\n6.00\n\n6.60\n\n7.20\n\n8.40\n\n4.20\n\n4.80\n\n1.05\n\n1.08\n\n1.20\n\n1.20\n\n1.10\n\n1.20\n\n1.20\n\n1.20\n\n1.12/1.2\n1.29\n\n1.40\n\n1.37\n\n1.35\n\n1.33\n\n1.32\n\n1.31\n\n1.40\n\n1.50\n\n1.47\n\n1.44\n\n1.60\n\n1.54\n\n1.05\n\n1.10\n\n1.44\n\n1.60\n1.65\n\n1.68\n1.80\n\n1.53\n1.68\n\n1.80\n\n1.71\n\nReading room areas (R)\n\n1.80\n\nWorkplaces (2.25) (W)\n\n2.40\n\n2.10\n\n2.07\n\n2.10\n\n2.40\n\n2.10\n\n2.40\n\n2.10\n\n2.40\n\n2.20\n\n2.40\n\n2.10\n\n3.60\n\n4.20\n\n4.80\n\n3.60\n\n4.00\n\n4.40\n\n3.60\n\n4.20\n\n2.00\n\n1.92\n\nGroup workplaces (G)\n\n0 Suitability of common structural grids for essential functions of a library\n\nInside access-controlled area: reader information, bibliographies,\nonline catalogue terminals, handing out and return of books only\nto be used in reading area, issuing of books in educational book\ncollection, copiers (in separate rooms), book stock on open\nshelves, user workplaces, possibly access to self-service stores.\n\nThe provision of user workplaces in university libraries depends\non the number of students and the distribution of the individual\nsubject groups. Special workplaces for disabled people (wheelchair\nusers, visually impaired), special work tasks (microform reading\nand enlargement devices, PCs, terminals, CD-ROM and similar:\nobserve the guidelines for computer workplaces p. 236!) and single\nworkplaces (cubicles, carrels, single work rooms). The arrangement of the reading places should be in daylight. Space requirement per single reading/working place 2.5 m2 , per PC or single\nworking place ~4.0 m2 • Traffic routes ~1 .20m wide, clear distance\nbetween the shelves, which in public areas should always be\nfixed, up to max. 1.30-1.40 m.\n\n247\n\nLIBRARIES\nBasics\nFittings\nLending counter\nPublic libraries\n\nScientific libraries\nArchives\n\n\f"
+        },
+        {
+          "label": "Floor load for reading room and self-service area on non-transversely arranged floors",
+          "value": 5.0,
+          "value_max": null,
+          "unit": "kN/m²",
+          "context": "Load assumption for reading room and self-service area, floors not arranged transversely.",
+          "status": "verified",
+          "ocr_raw": "').e\n\nblock of shelf units\n\nLIBRARIES\n\n/~\n\nBasics\n\n~~,r------------~\nJ.,'bc.et'\"\" r\n1 aisle between shelving\n.... ,.. :\n\n~~/\n\nI\n\n--r-\n\n,,'\n\n_1_ ..L.<O<.l-+&4\ndoublesided shelving\n\n(length x depth x height)\nshelf\n(length x depth x height)\n~ single-sided\nshelving\ncentre~line\n\nTypes of library\nPublic lending libraries ~ p. 250: offer a wide range of literature\nand other information, preferably on open shelves. The supply of\nliterature covers all population and age groups. In larger cities,\nthe functions of scientific and public libraries are sometimes\ncombined.\n\ndistance\n\n0\n\nUnsealed sketch to clarify the terms used in the calculation of areas for stock\n\nScientific libraries~ p. 251: collection, acquisition and provision\nof literature on specific subjects for education and research,\nmostly publicly accessible without limitation.\n\nblock of shelf units 8.70 x 12.00\n\nState libraries: federal state and national libraries; collections,\nfor example, of literature produced in the state or a region (legal\ndeposit copies); publicly accessible.\n\nt=========--12.00--========±__,\nadjacent aisle\n\nSpecialist libraries: scientific libraries for the collection of\nspecialist literature and media on specific subjects, often with very\nlimited group of users.\n\n0\n\n••••••••••••••••••••••••••\n\ng\n\n...........\n\nf) Floor area for bookshelves in stacks (stores), which are closed to the public\nr - - - 6.00 - - - ; adjacent aisle\n\nArea\n\nCentreline\ndistance (m)\n\nstore\n\n1.35\n(1.20)\n1.44\n\nself-service\narea\n\n1.40\n1.70\n\ninformation\narea and\n\n1.60\n2.00\n\nm\n\n~~\n\nshelving/\n\n<0\n\n~~\n\nm\n\n~\n\nE\n\n<nO\n\n~;i\n\n~\n\n\"\n~\n\naisleL\n\n~\n\n~\n\nreading\n\nroom\n\n8 Floor area for bookshelves in self-service area, standard block 8.70 x 6.00 m\nLibrary area/floor\ntype\n\nReading room\nand self-service\n\nAdministration\n\nStacks and\nself-service\nstore\n\nCompact\nsystems\n\non floors arranged\ntransversely\n\n7.5\n\n12.5\n\n5.0\n\n5.0\n\non floors not\narranged transversely\n\n8.5\n\n15.0\n\n5.0\n\n5.0\n\n0\n\narea\n\nComponents\nThree areas in every library: user and reading area, store and\nadministration. The space requirement for these areas differs\naccording to the type of library.\nUser and reading area: With a good orientation system\n(signposting of routes, functions and shelves with easily read\nsigns), the reading area with reading and working places should\nif possible be spread over as few floors as possible, also for ease\nof book transport; staggered floors should be avoided. Access\nshould if possible be by stairs. All areas of the user and reading\nroom should also be accessible by lift (book transport, disabilityfriendly). The floor in the user and reading area should be designed\nfor a loading of 5.0 kN/m 2 •\n\nTraffic routes > 1.20 m wide, clear distance between the shelves\n-in public areas always fixed- up to max. 1.30-1.40 m. Entrance\nand reading room area separated by access control with book\nsecurity system. If possible, only one entrance and exit. The\naccess control should ideally be situated near the lending counter/\ncentral information.\nOutside access-controlled area: cloakrooms or lockers for\nclothing and bags/cases, toilets, cafeteria, newspaper reading\ncorner, exhibition room, lecture and conference room (which may\nbe open outside library opening hours), central information point,\npossibly also card index and microfiche catalogue, online catalogue\nterminals, book return, collection point for ordered books.\n\nLoad assumptions for floors (kN/m2)\n\nStructural grid\n3.60\nStacks (St)\nSelf-service areas (S1)\n\n1.20\n\nSelf-service areas (S2)\n\n5.40\n\n6.00\n\n6.60\n\n7.20\n\n8.40\n\n4.20\n\n4.80\n\n1.05\n\n1.08\n\n1.20\n\n1.20\n\n1.10\n\n1.20\n\n1.20\n\n1.20\n\n1.12/1.2\n1.29\n\n1.40\n\n1.37\n\n1.35\n\n1.33\n\n1.32\n\n1.31\n\n1.40\n\n1.50\n\n1.47\n\n1.44\n\n1.60\n\n1.54\n\n1.05\n\n1.10\n\n1.44\n\n1.60\n1.65\n\n1.68\n1.80\n\n1.53\n1.68\n\n1.80\n\n1.71\n\nReading room areas (R)\n\n1.80\n\nWorkplaces (2.25) (W)\n\n2.40\n\n2.10\n\n2.07\n\n2.10\n\n2.40\n\n2.10\n\n2.40\n\n2.10\n\n2.40\n\n2.20\n\n2.40\n\n2.10\n\n3.60\n\n4.20\n\n4.80\n\n3.60\n\n4.00\n\n4.40\n\n3.60\n\n4.20\n\n2.00\n\n1.92\n\nGroup workplaces (G)\n\n0 Suitability of common structural grids for essential functions of a library\n\nInside access-controlled area: reader information, bibliographies,\nonline catalogue terminals, handing out and return of books only\nto be used in reading area, issuing of books in educational book\ncollection, copiers (in separate rooms), book stock on open\nshelves, user workplaces, possibly access to self-service stores.\n\nThe provision of user workplaces in university libraries depends\non the number of students and the distribution of the individual\nsubject groups. Special workplaces for disabled people (wheelchair\nusers, visually impaired), special work tasks (microform reading\nand enlargement devices, PCs, terminals, CD-ROM and similar:\nobserve the guidelines for computer workplaces p. 236!) and single\nworkplaces (cubicles, carrels, single work rooms). The arrangement of the reading places should be in daylight. Space requirement per single reading/working place 2.5 m2 , per PC or single\nworking place ~4.0 m2 • Traffic routes ~1 .20m wide, clear distance\nbetween the shelves, which in public areas should always be\nfixed, up to max. 1.30-1.40 m.\n\n247\n\nLIBRARIES\nBasics\nFittings\nLending counter\nPublic libraries\n\nScientific libraries\nArchives\n\n\f"
+        },
+        {
+          "label": "Floor load for administration on non-transversely arranged floors",
+          "value": 5.0,
+          "value_max": null,
+          "unit": "kN/m²",
+          "context": "Load assumption for administration, floors not arranged transversely.",
+          "status": "verified",
+          "ocr_raw": "').e\n\nblock of shelf units\n\nLIBRARIES\n\n/~\n\nBasics\n\n~~,r------------~\nJ.,'bc.et'\"\" r\n1 aisle between shelving\n.... ,.. :\n\n~~/\n\nI\n\n--r-\n\n,,'\n\n_1_ ..L.<O<.l-+&4\ndoublesided shelving\n\n(length x depth x height)\nshelf\n(length x depth x height)\n~ single-sided\nshelving\ncentre~line\n\nTypes of library\nPublic lending libraries ~ p. 250: offer a wide range of literature\nand other information, preferably on open shelves. The supply of\nliterature covers all population and age groups. In larger cities,\nthe functions of scientific and public libraries are sometimes\ncombined.\n\ndistance\n\n0\n\nUnsealed sketch to clarify the terms used in the calculation of areas for stock\n\nScientific libraries~ p. 251: collection, acquisition and provision\nof literature on specific subjects for education and research,\nmostly publicly accessible without limitation.\n\nblock of shelf units 8.70 x 12.00\n\nState libraries: federal state and national libraries; collections,\nfor example, of literature produced in the state or a region (legal\ndeposit copies); publicly accessible.\n\nt=========--12.00--========±__,\nadjacent aisle\n\nSpecialist libraries: scientific libraries for the collection of\nspecialist literature and media on specific subjects, often with very\nlimited group of users.\n\n0\n\n••••••••••••••••••••••••••\n\ng\n\n...........\n\nf) Floor area for bookshelves in stacks (stores), which are closed to the public\nr - - - 6.00 - - - ; adjacent aisle\n\nArea\n\nCentreline\ndistance (m)\n\nstore\n\n1.35\n(1.20)\n1.44\n\nself-service\narea\n\n1.40\n1.70\n\ninformation\narea and\n\n1.60\n2.00\n\nm\n\n~~\n\nshelving/\n\n<0\n\n~~\n\nm\n\n~\n\nE\n\n<nO\n\n~;i\n\n~\n\n\"\n~\n\naisleL\n\n~\n\n~\n\nreading\n\nroom\n\n8 Floor area for bookshelves in self-service area, standard block 8.70 x 6.00 m\nLibrary area/floor\ntype\n\nReading room\nand self-service\n\nAdministration\n\nStacks and\nself-service\nstore\n\nCompact\nsystems\n\non floors arranged\ntransversely\n\n7.5\n\n12.5\n\n5.0\n\n5.0\n\non floors not\narranged transversely\n\n8.5\n\n15.0\n\n5.0\n\n5.0\n\n0\n\narea\n\nComponents\nThree areas in every library: user and reading area, store and\nadministration. The space requirement for these areas differs\naccording to the type of library.\nUser and reading area: With a good orientation system\n(signposting of routes, functions and shelves with easily read\nsigns), the reading area with reading and working places should\nif possible be spread over as few floors as possible, also for ease\nof book transport; staggered floors should be avoided. Access\nshould if possible be by stairs. All areas of the user and reading\nroom should also be accessible by lift (book transport, disabilityfriendly). The floor in the user and reading area should be designed\nfor a loading of 5.0 kN/m 2 •\n\nTraffic routes > 1.20 m wide, clear distance between the shelves\n-in public areas always fixed- up to max. 1.30-1.40 m. Entrance\nand reading room area separated by access control with book\nsecurity system. If possible, only one entrance and exit. The\naccess control should ideally be situated near the lending counter/\ncentral information.\nOutside access-controlled area: cloakrooms or lockers for\nclothing and bags/cases, toilets, cafeteria, newspaper reading\ncorner, exhibition room, lecture and conference room (which may\nbe open outside library opening hours), central information point,\npossibly also card index and microfiche catalogue, online catalogue\nterminals, book return, collection point for ordered books.\n\nLoad assumptions for floors (kN/m2)\n\nStructural grid\n3.60\nStacks (St)\nSelf-service areas (S1)\n\n1.20\n\nSelf-service areas (S2)\n\n5.40\n\n6.00\n\n6.60\n\n7.20\n\n8.40\n\n4.20\n\n4.80\n\n1.05\n\n1.08\n\n1.20\n\n1.20\n\n1.10\n\n1.20\n\n1.20\n\n1.20\n\n1.12/1.2\n1.29\n\n1.40\n\n1.37\n\n1.35\n\n1.33\n\n1.32\n\n1.31\n\n1.40\n\n1.50\n\n1.47\n\n1.44\n\n1.60\n\n1.54\n\n1.05\n\n1.10\n\n1.44\n\n1.60\n1.65\n\n1.68\n1.80\n\n1.53\n1.68\n\n1.80\n\n1.71\n\nReading room areas (R)\n\n1.80\n\nWorkplaces (2.25) (W)\n\n2.40\n\n2.10\n\n2.07\n\n2.10\n\n2.40\n\n2.10\n\n2.40\n\n2.10\n\n2.40\n\n2.20\n\n2.40\n\n2.10\n\n3.60\n\n4.20\n\n4.80\n\n3.60\n\n4.00\n\n4.40\n\n3.60\n\n4.20\n\n2.00\n\n1.92\n\nGroup workplaces (G)\n\n0 Suitability of common structural grids for essential functions of a library\n\nInside access-controlled area: reader information, bibliographies,\nonline catalogue terminals, handing out and return of books only\nto be used in reading area, issuing of books in educational book\ncollection, copiers (in separate rooms), book stock on open\nshelves, user workplaces, possibly access to self-service stores.\n\nThe provision of user workplaces in university libraries depends\non the number of students and the distribution of the individual\nsubject groups. Special workplaces for disabled people (wheelchair\nusers, visually impaired), special work tasks (microform reading\nand enlargement devices, PCs, terminals, CD-ROM and similar:\nobserve the guidelines for computer workplaces p. 236!) and single\nworkplaces (cubicles, carrels, single work rooms). The arrangement of the reading places should be in daylight. Space requirement per single reading/working place 2.5 m2 , per PC or single\nworking place ~4.0 m2 • Traffic routes ~1 .20m wide, clear distance\nbetween the shelves, which in public areas should always be\nfixed, up to max. 1.30-1.40 m.\n\n247\n\nLIBRARIES\nBasics\nFittings\nLending counter\nPublic libraries\n\nScientific libraries\nArchives\n\n\f"
+        },
+        {
+          "label": "Structural grid dimension",
+          "value": 3.6,
+          "value_max": null,
+          "unit": "m",
+          "context": "One of the structural grid dimensions listed for library functions.",
+          "status": "verified",
+          "ocr_raw": "').e\n\nblock of shelf units\n\nLIBRARIES\n\n/~\n\nBasics\n\n~~,r------------~\nJ.,'bc.et'\"\" r\n1 aisle between shelving\n.... ,.. :\n\n~~/\n\nI\n\n--r-\n\n,,'\n\n_1_ ..L.<O<.l-+&4\ndoublesided shelving\n\n(length x depth x height)\nshelf\n(length x depth x height)\n~ single-sided\nshelving\ncentre~line\n\nTypes of library\nPublic lending libraries ~ p. 250: offer a wide range of literature\nand other information, preferably on open shelves. The supply of\nliterature covers all population and age groups. In larger cities,\nthe functions of scientific and public libraries are sometimes\ncombined.\n\ndistance\n\n0\n\nUnsealed sketch to clarify the terms used in the calculation of areas for stock\n\nScientific libraries~ p. 251: collection, acquisition and provision\nof literature on specific subjects for education and research,\nmostly publicly accessible without limitation.\n\nblock of shelf units 8.70 x 12.00\n\nState libraries: federal state and national libraries; collections,\nfor example, of literature produced in the state or a region (legal\ndeposit copies); publicly accessible.\n\nt=========--12.00--========±__,\nadjacent aisle\n\nSpecialist libraries: scientific libraries for the collection of\nspecialist literature and media on specific subjects, often with very\nlimited group of users.\n\n0\n\n••••••••••••••••••••••••••\n\ng\n\n...........\n\nf) Floor area for bookshelves in stacks (stores), which are closed to the public\nr - - - 6.00 - - - ; adjacent aisle\n\nArea\n\nCentreline\ndistance (m)\n\nstore\n\n1.35\n(1.20)\n1.44\n\nself-service\narea\n\n1.40\n1.70\n\ninformation\narea and\n\n1.60\n2.00\n\nm\n\n~~\n\nshelving/\n\n<0\n\n~~\n\nm\n\n~\n\nE\n\n<nO\n\n~;i\n\n~\n\n\"\n~\n\naisleL\n\n~\n\n~\n\nreading\n\nroom\n\n8 Floor area for bookshelves in self-service area, standard block 8.70 x 6.00 m\nLibrary area/floor\ntype\n\nReading room\nand self-service\n\nAdministration\n\nStacks and\nself-service\nstore\n\nCompact\nsystems\n\non floors arranged\ntransversely\n\n7.5\n\n12.5\n\n5.0\n\n5.0\n\non floors not\narranged transversely\n\n8.5\n\n15.0\n\n5.0\n\n5.0\n\n0\n\narea\n\nComponents\nThree areas in every library: user and reading area, store and\nadministration. The space requirement for these areas differs\naccording to the type of library.\nUser and reading area: With a good orientation system\n(signposting of routes, functions and shelves with easily read\nsigns), the reading area with reading and working places should\nif possible be spread over as few floors as possible, also for ease\nof book transport; staggered floors should be avoided. Access\nshould if possible be by stairs. All areas of the user and reading\nroom should also be accessible by lift (book transport, disabilityfriendly). The floor in the user and reading area should be designed\nfor a loading of 5.0 kN/m 2 •\n\nTraffic routes > 1.20 m wide, clear distance between the shelves\n-in public areas always fixed- up to max. 1.30-1.40 m. Entrance\nand reading room area separated by access control with book\nsecurity system. If possible, only one entrance and exit. The\naccess control should ideally be situated near the lending counter/\ncentral information.\nOutside access-controlled area: cloakrooms or lockers for\nclothing and bags/cases, toilets, cafeteria, newspaper reading\ncorner, exhibition room, lecture and conference room (which may\nbe open outside library opening hours), central information point,\npossibly also card index and microfiche catalogue, online catalogue\nterminals, book return, collection point for ordered books.\n\nLoad assumptions for floors (kN/m2)\n\nStructural grid\n3.60\nStacks (St)\nSelf-service areas (S1)\n\n1.20\n\nSelf-service areas (S2)\n\n5.40\n\n6.00\n\n6.60\n\n7.20\n\n8.40\n\n4.20\n\n4.80\n\n1.05\n\n1.08\n\n1.20\n\n1.20\n\n1.10\n\n1.20\n\n1.20\n\n1.20\n\n1.12/1.2\n1.29\n\n1.40\n\n1.37\n\n1.35\n\n1.33\n\n1.32\n\n1.31\n\n1.40\n\n1.50\n\n1.47\n\n1.44\n\n1.60\n\n1.54\n\n1.05\n\n1.10\n\n1.44\n\n1.60\n1.65\n\n1.68\n1.80\n\n1.53\n1.68\n\n1.80\n\n1.71\n\nReading room areas (R)\n\n1.80\n\nWorkplaces (2.25) (W)\n\n2.40\n\n2.10\n\n2.07\n\n2.10\n\n2.40\n\n2.10\n\n2.40\n\n2.10\n\n2.40\n\n2.20\n\n2.40\n\n2.10\n\n3.60\n\n4.20\n\n4.80\n\n3.60\n\n4.00\n\n4.40\n\n3.60\n\n4.20\n\n2.00\n\n1.92\n\nGroup workplaces (G)\n\n0 Suitability of common structural grids for essential functions of a library\n\nInside access-controlled area: reader information, bibliographies,\nonline catalogue terminals, handing out and return of books only\nto be used in reading area, issuing of books in educational book\ncollection, copiers (in separate rooms), book stock on open\nshelves, user workplaces, possibly access to self-service stores.\n\nThe provision of user workplaces in university libraries depends\non the number of students and the distribution of the individual\nsubject groups. Special workplaces for disabled people (wheelchair\nusers, visually impaired), special work tasks (microform reading\nand enlargement devices, PCs, terminals, CD-ROM and similar:\nobserve the guidelines for computer workplaces p. 236!) and single\nworkplaces (cubicles, carrels, single work rooms). The arrangement of the reading places should be in daylight. Space requirement per single reading/working place 2.5 m2 , per PC or single\nworking place ~4.0 m2 • Traffic routes ~1 .20m wide, clear distance\nbetween the shelves, which in public areas should always be\nfixed, up to max. 1.30-1.40 m.\n\n247\n\nLIBRARIES\nBasics\nFittings\nLending counter\nPublic libraries\n\nScientific libraries\nArchives\n\n\f"
+        }
+      ],
+      "figure_refs": [
+        "4",
+        "5"
+      ],
+      "cross_refs": [],
+      "keywords": [
+        "floor loading",
+        "structural grid",
+        "stacks",
+        "compact systems",
+        "reading room",
+        "workplaces"
+      ],
+      "tags_architectural": [
+        "modularity",
+        "safety",
+        "spatial_proportion"
+      ],
+      "confidence": 0.9
+    }
+  ]
+}

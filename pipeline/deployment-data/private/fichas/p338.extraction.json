@@ -1,0 +1,601 @@
+{
+  "fichas": [
+    {
+      "id": "4122fb96e4bd1976-338-vision-0",
+      "pdf_page": 338,
+      "book_page": 325,
+      "chapter": "SPORT AND LEISURE",
+      "section": "Sports Facilities",
+      "title": "Athletics: jumping-event layouts and dimensions",
+      "summary": "Plans, sections, and dimensional guidance for long jump, triple jump, pole vault, and high jump. Notes specify take-off-board clearances, landing-area requirements, lane width for multiple layouts, and run-up, pit, and landing-pad dimensions.",
+      "building_type": "Athletics facility",
+      "spaces": [
+        "Long-jump and triple-jump runway and landing pit",
+        "Pole-vault runway and landing area",
+        "High-jump run-up and landing area"
+      ],
+      "uses": [
+        "Long jump",
+        "Triple jump",
+        "Pole vault",
+        "High jump"
+      ],
+      "furniture_equipment": [
+        "Take-off board",
+        "Landing pit",
+        "Pole-vault uprights and landing pad",
+        "High-jump mat and mat-frame",
+        "Timber underframe"
+      ],
+      "dimensions": [
+        {
+          "label": "Long-jump landing area width",
+          "value": 7.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Long-jump and triple-jump layout; landing area width shown in plan.",
+          "status": "uncertain",
+          "ocr_raw": "7.00"
+        },
+        {
+          "label": "Long-jump landing area length",
+          "value": 9.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Long-jump and triple-jump layout; landing area length shown in plan.",
+          "status": "uncertain",
+          "ocr_raw": "9.00"
+        },
+        {
+          "label": "Long-jump/triple-jump run-up length",
+          "value": 45.0,
+          "value_max": 45.0,
+          "unit": "m",
+          "context": "Table: minimum run-up length for long jump and triple jump.",
+          "status": "uncertain",
+          "ocr_raw": "long jump ≥45¹) ; triple jump ≥45³)"
+        },
+        {
+          "label": "Long-jump/triple-jump runway width",
+          "value": 1.22,
+          "value_max": null,
+          "unit": "m",
+          "context": "Table: width for long jump and triple jump run-ups.",
+          "status": "uncertain",
+          "ocr_raw": "1.22²)"
+        },
+        {
+          "label": "Long-jump/triple-jump pit length",
+          "value": 8.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Table: minimum length for the long-jump and triple-jump pit.",
+          "status": "uncertain",
+          "ocr_raw": "≥8"
+        },
+        {
+          "label": "Long-jump/triple-jump pit width",
+          "value": 2.75,
+          "value_max": null,
+          "unit": "m",
+          "context": "Table: width of the long-jump and triple-jump pit.",
+          "status": "uncertain",
+          "ocr_raw": "2.75"
+        },
+        {
+          "label": "Pole-vault run-up length",
+          "value": 45.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Table: minimum run-up length for pole vault.",
+          "status": "uncertain",
+          "ocr_raw": "≥45"
+        },
+        {
+          "label": "Pole-vault runway width",
+          "value": 1.22,
+          "value_max": null,
+          "unit": "m",
+          "context": "Table: width for pole-vault run-up.",
+          "status": "uncertain",
+          "ocr_raw": "1.22"
+        },
+        {
+          "label": "Pole-vault landing pad length",
+          "value": 5.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Table: minimum length of pole-vault landing pad.",
+          "status": "uncertain",
+          "ocr_raw": "≥5"
+        },
+        {
+          "label": "Pole-vault landing pad width",
+          "value": 5.0,
+          "value_max": 6.0,
+          "unit": "m",
+          "context": "Table: landing-pad width is printed as a range.",
+          "status": "uncertain",
+          "ocr_raw": "5–6"
+        },
+        {
+          "label": "High-jump run-up",
+          "value": 2.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Table: semicircle run-up radius is greater than or equal to 2.00 m.",
+          "status": "uncertain",
+          "ocr_raw": "semicircle r ≥ 2.00 m"
+        },
+        {
+          "label": "High-jump landing area length",
+          "value": 3.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Table: high-jump landing-area length.",
+          "status": "uncertain",
+          "ocr_raw": "3"
+        },
+        {
+          "label": "High-jump landing area width",
+          "value": 5.0,
+          "value_max": 6.0,
+          "unit": "m",
+          "context": "Table: high-jump landing-area width is printed as a range.",
+          "status": "uncertain",
+          "ocr_raw": "5–6"
+        },
+        {
+          "label": "Clear distance from take-off line to end of landing area",
+          "value": 10.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Note: the distance between the take-off line and the end of the landing area must be at least this length.",
+          "status": "uncertain",
+          "ocr_raw": "at least 10 m"
+        },
+        {
+          "label": "High-standard landing area length",
+          "value": 9.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Note: landing-area length for high-standard layouts.",
+          "status": "uncertain",
+          "ocr_raw": "the landing area is 9 m long"
+        },
+        {
+          "label": "Lane width for multiple layouts",
+          "value": 2.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Note: width of each lane in multiple layouts.",
+          "status": "uncertain",
+          "ocr_raw": "the width of each lane is 2 m"
+        },
+        {
+          "label": "Take-off board distance in front of landing area",
+          "value": 11.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Note: take-off-board position; the same note gives 9 m for juniors and 13 m for top athletes.",
+          "status": "uncertain",
+          "ocr_raw": "the take-off board is 11 m in front of the landing area (for juniors 9 m, for top athletes 13 m)"
+        },
+        {
+          "label": "Junior take-off board distance in front of landing area",
+          "value": 9.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Note: junior take-off-board position.",
+          "status": "uncertain",
+          "ocr_raw": "for juniors 9 m"
+        },
+        {
+          "label": "Top-athlete take-off board distance in front of landing area",
+          "value": 13.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Note: take-off-board position for top athletes.",
+          "status": "uncertain",
+          "ocr_raw": "for top athletes 13 m"
+        }
+      ],
+      "figure_refs": [
+        "1 Long jump and triple jump layout",
+        "2 Pole vault layout",
+        "3 Long jump and triple jump details",
+        "4 High jump layout and details",
+        "5 Pole vault details",
+        "6 Sprung stand and landing pad for pole vault",
+        "7 Dimensions for jumping sports"
+      ],
+      "cross_refs": [
+        "→ 1–2",
+        "→ 2",
+        "→ 0"
+      ],
+      "keywords": [
+        "athletics",
+        "long jump",
+        "triple jump",
+        "pole vault",
+        "high jump",
+        "run-up",
+        "landing area",
+        "take-off board"
+      ],
+      "tags_architectural": [
+        "circulation",
+        "clearance",
+        "safety",
+        "spatial_proportion"
+      ],
+      "confidence": 0.87
+    },
+    {
+      "id": "4122fb96e4bd1976-338-vision-1",
+      "pdf_page": 338,
+      "book_page": 325,
+      "chapter": "SPORT AND LEISURE",
+      "section": "Sports Facilities",
+      "title": "Athletics: track dimensions and hurdle events",
+      "summary": "Track-dimension table gives sprint and circular-track start lengths, track lengths, run-out lengths, lane widths, and a safety-zone note. The hurdle table lists event-specific hurdle counts, heights, spacing, and distances before the first and after the last hurdle.",
+      "building_type": "Athletics facility",
+      "spaces": [
+        "Sprint track",
+        "Circular track",
+        "Hurdle track",
+        "Track run-out"
+      ],
+      "uses": [
+        "Sprint running",
+        "Circular-track running",
+        "Hurdle races"
+      ],
+      "furniture_equipment": [
+        "Running track",
+        "Hurdles"
+      ],
+      "dimensions": [
+        {
+          "label": "Sprint start length",
+          "value": 3.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Track dimensions table; sprint track.",
+          "status": "uncertain",
+          "ocr_raw": "sprint 3"
+        },
+        {
+          "label": "Sprint track length",
+          "value": 110.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Track dimensions table; note says 110 m results from 110 m hurdles and other sprint events use 100 m.",
+          "status": "uncertain",
+          "ocr_raw": "Track 110²)"
+        },
+        {
+          "label": "Sprint run-out length",
+          "value": 17.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Track dimensions table; sprint track run-out.",
+          "status": "uncertain",
+          "ocr_raw": "Run-out 17"
+        },
+        {
+          "label": "Width of each track lane",
+          "value": 1.22,
+          "value_max": null,
+          "unit": "m",
+          "context": "Track dimensions table; lane width shown for sprint and circular tracks.",
+          "status": "uncertain",
+          "ocr_raw": "Width of each lane¹) 1.22"
+        },
+        {
+          "label": "Circular track length",
+          "value": 400.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Track dimensions table; circular track.",
+          "status": "uncertain",
+          "ocr_raw": "circular _3) 400"
+        },
+        {
+          "label": "Circular-track start length",
+          "value": 3.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Track dimensions table indicates no additional starting space is necessary; the OCR/table mark is shown as 3) in the start-length column.",
+          "status": "uncertain",
+          "ocr_raw": "_3) ; no additional starting space necessary"
+        },
+        {
+          "label": "Circular-track run-out length",
+          "value": 17.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Track dimensions table; circular track run-out.",
+          "status": "uncertain",
+          "ocr_raw": "Run-out 17"
+        },
+        {
+          "label": "Additional circular-track safety zone",
+          "value": 28.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Note: additional safety zone, not required to be constructed as a track.",
+          "status": "uncertain",
+          "ocr_raw": "an additional 28 cm safety zone"
+        },
+        {
+          "label": "400 m hurdle track length",
+          "value": 400.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Hurdle tracks table; 400 m events.",
+          "status": "uncertain",
+          "ocr_raw": "400"
+        },
+        {
+          "label": "Hurdles in 400 m event",
+          "value": 10.0,
+          "value_max": null,
+          "unit": "hurdles",
+          "context": "Hurdle tracks table; men and women, including listed junior categories.",
+          "status": "uncertain",
+          "ocr_raw": "10"
+        },
+        {
+          "label": "Men's 400 m hurdle height",
+          "value": 0.914,
+          "value_max": null,
+          "unit": "m",
+          "context": "Hurdle tracks table; men and men, junior A + B.",
+          "status": "uncertain",
+          "ocr_raw": "0.914"
+        },
+        {
+          "label": "Women's 400 m hurdle height",
+          "value": 0.762,
+          "value_max": null,
+          "unit": "m",
+          "context": "Hurdle tracks table; women and women, junior A.",
+          "status": "uncertain",
+          "ocr_raw": "0.762"
+        },
+        {
+          "label": "400 m first-hurdle distance",
+          "value": 45.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Hurdle tracks table; men and women, 400 m events.",
+          "status": "uncertain",
+          "ocr_raw": "45.00"
+        },
+        {
+          "label": "400 m hurdle spacing",
+          "value": 35.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Hurdle tracks table; men and women, 400 m events.",
+          "status": "uncertain",
+          "ocr_raw": "35.00"
+        },
+        {
+          "label": "400 m distance after last hurdle",
+          "value": 40.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Hurdle tracks table; men and women, 400 m events.",
+          "status": "uncertain",
+          "ocr_raw": "40.00"
+        },
+        {
+          "label": "Men's 110 m hurdle height",
+          "value": 1.067,
+          "value_max": null,
+          "unit": "m",
+          "context": "Hurdle tracks table; men.",
+          "status": "uncertain",
+          "ocr_raw": "1.067"
+        },
+        {
+          "label": "Men's 110 m first-hurdle distance",
+          "value": 13.72,
+          "value_max": null,
+          "unit": "m",
+          "context": "Hurdle tracks table; men.",
+          "status": "uncertain",
+          "ocr_raw": "13.72"
+        },
+        {
+          "label": "Men's 110 m hurdle spacing",
+          "value": 9.14,
+          "value_max": null,
+          "unit": "m",
+          "context": "Hurdle tracks table; men.",
+          "status": "uncertain",
+          "ocr_raw": "9.14"
+        },
+        {
+          "label": "Men's 110 m distance after last hurdle",
+          "value": 14.02,
+          "value_max": null,
+          "unit": "m",
+          "context": "Hurdle tracks table; men.",
+          "status": "uncertain",
+          "ocr_raw": "14.02"
+        },
+        {
+          "label": "Women's 100 m hurdle height",
+          "value": 0.84,
+          "value_max": null,
+          "unit": "m",
+          "context": "Hurdle tracks table; women and women, junior A; also women, junior B (from 1983).",
+          "status": "uncertain",
+          "ocr_raw": "0.840"
+        },
+        {
+          "label": "Women's 100 m first-hurdle distance",
+          "value": 13.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Hurdle tracks table; women and women, junior A.",
+          "status": "uncertain",
+          "ocr_raw": "13.00"
+        },
+        {
+          "label": "Women's 100 m hurdle spacing",
+          "value": 8.5,
+          "value_max": null,
+          "unit": "m",
+          "context": "Hurdle tracks table; women and women, junior A.",
+          "status": "uncertain",
+          "ocr_raw": "8.50"
+        },
+        {
+          "label": "Women's 100 m distance after last hurdle",
+          "value": 10.5,
+          "value_max": null,
+          "unit": "m",
+          "context": "Hurdle tracks table; women and women, junior A and junior B (from 1984).",
+          "status": "uncertain",
+          "ocr_raw": "10.50"
+        }
+      ],
+      "figure_refs": [
+        "8 Hurdle with counterweight",
+        "9 Hurdle",
+        "13 Track dimensions",
+        "14 Hurdle tracks"
+      ],
+      "cross_refs": [
+        "→ 8"
+      ],
+      "keywords": [
+        "athletics",
+        "running track",
+        "sprint",
+        "circular track",
+        "hurdles",
+        "lane width",
+        "run-out"
+      ],
+      "tags_architectural": [
+        "circulation",
+        "clearance",
+        "safety"
+      ],
+      "confidence": 0.81
+    },
+    {
+      "id": "4122fb96e4bd1976-338-vision-2",
+      "pdf_page": 338,
+      "book_page": 325,
+      "chapter": "SPORT AND LEISURE",
+      "section": "Sports Facilities",
+      "title": "Athletics: steeplechase water jump",
+      "summary": "Plan and section details for an obstacle race with a water trough and a steeplechase water jump. The drawing labels the obstacle-course radius and shows water-jump plan and section dimensions.",
+      "building_type": "Athletics facility",
+      "spaces": [
+        "Steeplechase track",
+        "Water jump and trough"
+      ],
+      "uses": [
+        "Steeplechase",
+        "Obstacle racing"
+      ],
+      "furniture_equipment": [
+        "Water trough",
+        "Water-jump structure",
+        "Drain"
+      ],
+      "dimensions": [
+        {
+          "label": "Obstacle-race radius",
+          "value": 36.5,
+          "value_max": null,
+          "unit": "m",
+          "context": "Obstacle-race plan; radius indicated on the semicircular layout.",
+          "status": "uncertain",
+          "ocr_raw": "R = 36.5"
+        },
+        {
+          "label": "Water-jump length",
+          "value": 3.66,
+          "value_max": null,
+          "unit": "m",
+          "context": "Water-jump plan dimension.",
+          "status": "uncertain",
+          "ocr_raw": "3.66"
+        },
+        {
+          "label": "Water-jump width",
+          "value": 3.66,
+          "value_max": null,
+          "unit": "m",
+          "context": "Water-jump plan dimension; the plan labels the dimension in both directions.",
+          "status": "uncertain",
+          "ocr_raw": "3.66 m"
+        },
+        {
+          "label": "Water-jump depth",
+          "value": 0.5,
+          "value_max": null,
+          "unit": "m",
+          "context": "Water-jump section; depth dimension.",
+          "status": "uncertain",
+          "ocr_raw": "50"
+        },
+        {
+          "label": "Steeplechase water-jump length",
+          "value": 3.66,
+          "value_max": null,
+          "unit": "m",
+          "context": "Steeplechase water-jump section dimension.",
+          "status": "uncertain",
+          "ocr_raw": "3.66"
+        },
+        {
+          "label": "Steeplechase water-jump width",
+          "value": 3.66,
+          "value_max": null,
+          "unit": "m",
+          "context": "Steeplechase water-jump section dimension.",
+          "status": "uncertain",
+          "ocr_raw": "3.66"
+        },
+        {
+          "label": "Water-jump approach length",
+          "value": 3.43,
+          "value_max": 3.45,
+          "unit": "m",
+          "context": "Dimension pair printed above the water-jump detail; preserved as the printed range.",
+          "status": "uncertain",
+          "ocr_raw": "3.43–3.45"
+        }
+      ],
+      "figure_refs": [
+        "10 Obstacle race with 16 m radius and water trough",
+        "11 Water jump",
+        "12 Steeplechase water jump"
+      ],
+      "cross_refs": [],
+      "keywords": [
+        "athletics",
+        "steeplechase",
+        "water jump",
+        "water trough",
+        "obstacle race",
+        "drain"
+      ],
+      "tags_architectural": [
+        "safety",
+        "circulation"
+      ],
+      "confidence": 0.65
+    }
+  ]
+}

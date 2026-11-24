@@ -1,0 +1,229 @@
+{
+  "fichas": [
+    {
+      "id": "4122fb96e4bd1976-88-vision-0",
+      "pdf_page": 88,
+      "book_page": 75,
+      "chapter": "BUILDING COMPONENTS",
+      "section": "Walls",
+      "title": "Brick and Block Masonry Walls",
+      "summary": "Overview of brick and block masonry materials and external wall constructions, illustrated through single-leaf walls, insulated walls, composite masonry, and cavity walls. Single-leaf external walls require materials and mortars with high thermal insulation; cavity walls use a load-bearing inner leaf and a non-load-bearing weather-protection facing, connected by non-rusting steel ties.",
+      "building_type": "Masonry wall construction",
+      "spaces": [],
+      "uses": [
+        "External wall construction",
+        "Thermal insulation",
+        "Weather protection"
+      ],
+      "furniture_equipment": [],
+      "dimensions": [
+        {
+          "label": "Continuous longitudinal joint thickness",
+          "value": 20.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Externally visible masonry; each course has at least two rows of blocks of the same height, separated by a continuous longitudinal joint.",
+          "status": "uncertain",
+          "ocr_raw": "continuous 20 mm thick longitudinal joint"
+        },
+        {
+          "label": "Minimum outer facing thickness",
+          "value": 90.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Non-load-bearing weather-protection facing in cavity walls.",
+          "status": "uncertain",
+          "ocr_raw": "minimum thickness 90 mm"
+        },
+        {
+          "label": "Air gap width",
+          "value": 40.0,
+          "value_max": 150.0,
+          "unit": "mm",
+          "context": "Cavity wall air gap; stated minimum and maximum.",
+          "status": "uncertain",
+          "ocr_raw": "The width of the air gap should be min. 40 mm (max. 150 mm)."
+        }
+      ],
+      "figure_refs": [
+        "1 Single-leaf plastered",
+        "2 Single-leaf faced",
+        "3 Single-leaf with external thermal insulation",
+        "4 Single-leaf with thermal insulation and weather protection",
+        "5 Single-leaf with internal insulation",
+        "6 Tiled cladding on masonry with a high thermal insulation value",
+        "7 Two-leaf composite masonry with internal plaster layer",
+        "8 Faced cavity wall without air gap",
+        "9 Faced cavity wall with air gap",
+        "10 With/without air gap plastered",
+        "11 Brick and block types",
+        "12 DIN brick formats (excerpt)"
+      ],
+      "cross_refs": [
+        "Building physics, p. 471 ff.",
+        "p. 77",
+        "BS 8103-2",
+        "DIN 1053"
+      ],
+      "keywords": [
+        "brick masonry",
+        "block masonry",
+        "single-leaf wall",
+        "cavity wall",
+        "thermal insulation",
+        "weather protection",
+        "air gap",
+        "expansion joint",
+        "ventilation openings"
+      ],
+      "tags_architectural": [
+        "ventilation",
+        "safety"
+      ],
+      "confidence": 0.97
+    },
+    {
+      "id": "4122fb96e4bd1976-88-vision-1",
+      "pdf_page": 88,
+      "book_page": 75,
+      "chapter": "BUILDING COMPONENTS",
+      "section": "Walls",
+      "title": "DIN Brick Formats (Excerpt)",
+      "summary": "Table of thin, normal, two-thin, and three-thin brick formats, with their format abbreviations and length, width, and height in centimetres. The accompanying text states that masonry dimensions are normally multiples of the standard format and thin format.",
+      "building_type": "Brick masonry components",
+      "spaces": [],
+      "uses": [
+        "Brick and block masonry"
+      ],
+      "furniture_equipment": [],
+      "dimensions": [
+        {
+          "label": "Thin format length",
+          "value": 24.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "DIN brick format TF; length.",
+          "status": "uncertain",
+          "ocr_raw": "thin format TF 24 11.5 5.2"
+        },
+        {
+          "label": "Thin format width",
+          "value": 11.5,
+          "value_max": null,
+          "unit": "cm",
+          "context": "DIN brick format TF; width.",
+          "status": "uncertain",
+          "ocr_raw": "thin format TF 24 11.5 5.2"
+        },
+        {
+          "label": "Thin format height",
+          "value": 5.2,
+          "value_max": null,
+          "unit": "cm",
+          "context": "DIN brick format TF; height.",
+          "status": "uncertain",
+          "ocr_raw": "thin format TF 24 11.5 5.2"
+        },
+        {
+          "label": "Normal format length",
+          "value": 24.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "DIN brick format NF; length.",
+          "status": "uncertain",
+          "ocr_raw": "normal format NF 24 11.5 7.1"
+        },
+        {
+          "label": "Normal format width",
+          "value": 11.5,
+          "value_max": null,
+          "unit": "cm",
+          "context": "DIN brick format NF; width.",
+          "status": "uncertain",
+          "ocr_raw": "normal format NF 24 11.5 7.1"
+        },
+        {
+          "label": "Normal format height",
+          "value": 7.1,
+          "value_max": null,
+          "unit": "cm",
+          "context": "DIN brick format NF; height.",
+          "status": "uncertain",
+          "ocr_raw": "normal format NF 24 11.5 7.1"
+        },
+        {
+          "label": "Two thin format length",
+          "value": 24.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "DIN brick format 2 TF; length.",
+          "status": "uncertain",
+          "ocr_raw": "2 thin format 2 TF 24 11.5 11.3"
+        },
+        {
+          "label": "Two thin format width",
+          "value": 11.5,
+          "value_max": null,
+          "unit": "cm",
+          "context": "DIN brick format 2 TF; width.",
+          "status": "uncertain",
+          "ocr_raw": "2 thin format 2 TF 24 11.5 11.3"
+        },
+        {
+          "label": "Two thin format height",
+          "value": 11.3,
+          "value_max": null,
+          "unit": "cm",
+          "context": "DIN brick format 2 TF; height.",
+          "status": "uncertain",
+          "ocr_raw": "2 thin format 2 TF 24 11.5 11.3"
+        },
+        {
+          "label": "Three thin format length",
+          "value": 24.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "DIN brick format 3 TF; length.",
+          "status": "uncertain",
+          "ocr_raw": "3 thin format 3 TF 24 17.5 11.3"
+        },
+        {
+          "label": "Three thin format width",
+          "value": 17.5,
+          "value_max": null,
+          "unit": "cm",
+          "context": "DIN brick format 3 TF; width.",
+          "status": "uncertain",
+          "ocr_raw": "3 thin format 3 TF 24 17.5 11.3"
+        },
+        {
+          "label": "Three thin format height",
+          "value": 11.3,
+          "value_max": null,
+          "unit": "cm",
+          "context": "DIN brick format 3 TF; height.",
+          "status": "uncertain",
+          "ocr_raw": "3 thin format 3 TF 24 17.5 11.3"
+        }
+      ],
+      "figure_refs": [
+        "12 DIN brick formats (excerpt)"
+      ],
+      "cross_refs": [
+        "DIN 1053"
+      ],
+      "keywords": [
+        "DIN brick formats",
+        "thin format",
+        "normal format",
+        "TF",
+        "NF",
+        "masonry dimensions"
+      ],
+      "tags_architectural": [
+        "modularity"
+      ],
+      "confidence": 0.99
+    }
+  ]
+}

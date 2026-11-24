@@ -1,0 +1,58 @@
+{
+  "model": "gpt-6-luna",
+  "checks": {
+    "checks": [
+      {
+        "ficha_index": 0,
+        "dimension_index": 0,
+        "status": "verified",
+        "value": 1.0,
+        "value_max": null,
+        "reason": "The table states \u201cresults in a small range of max. 1 m\u201d; the proposed value and unit agree."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 1,
+        "status": "uncertain",
+        "value": 1.0,
+        "value_max": null,
+        "reason": "The table states \u201crange >1 m.\u201d The visible threshold is 1 m, but the range is greater than that threshold, so the proposed value alone does not fully express it."
+      },
+      {
+        "ficha_index": 1,
+        "dimension_index": 0,
+        "status": "verified",
+        "value": 5.0,
+        "value_max": null,
+        "reason": "The text states cylinders can be supplied with extensions \u201cby multiples of 5 mm on either side\u201d; the proposed increment and unit agree."
+      }
+    ]
+  },
+  "automatic": [
+    {
+      "ficha_index": 0,
+      "dimension_index": 0,
+      "issues": []
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 1,
+      "issues": []
+    },
+    {
+      "ficha_index": 1,
+      "dimension_index": 0,
+      "issues": []
+    }
+  ],
+  "usage": [
+    {
+      "prompt_tokens": 4827,
+      "completion_tokens": 1194
+    },
+    {
+      "prompt_tokens": 4077,
+      "completion_tokens": 391
+    }
+  ]
+}

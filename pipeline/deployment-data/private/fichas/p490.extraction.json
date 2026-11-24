@@ -1,0 +1,181 @@
+{
+  "fichas": [
+    {
+      "id": "4122fb96e4bd1976-490-vision-0",
+      "pdf_page": 490,
+      "book_page": 477,
+      "chapter": "BUILDING SERVICES",
+      "section": "Building Physics",
+      "title": "Sound Insulation",
+      "summary": "Explains sound propagation, hearing and sound-intensity measures, sound reduction and insulation, airborne and impact sound, boundary frequency, and lightweight sound-insulating construction. Heavy, thick elements generally provide sound insulation by mass; flexible cladding with cavity filling can improve insulation by reducing internal sound reflection.",
+      "building_type": "Building physics reference",
+      "spaces": [],
+      "uses": [
+        "Assessing sound insulation and sound reduction in buildings",
+        "Understanding airborne, structure-borne, and impact sound",
+        "Comparing sound levels and boundary frequencies of building elements"
+      ],
+      "furniture_equipment": [],
+      "dimensions": [
+        {
+          "label": "Audible sound frequency range",
+          "value": 20.0,
+          "value_max": 20000.0,
+          "unit": "Hz",
+          "context": "Range of audible sound vibrations.",
+          "status": "uncertain",
+          "ocr_raw": "20–20000 Hz"
+        },
+        {
+          "label": "Frequency range significant for building sound insulation",
+          "value": 100.0,
+          "value_max": 3200.0,
+          "unit": "Hz",
+          "context": "Range stated as significant because human hearing is particularly sensitive to it.",
+          "status": "uncertain",
+          "ocr_raw": "between 100 and 3200 Hz"
+        },
+        {
+          "label": "Frequency equivalent",
+          "value": 1.0,
+          "value_max": null,
+          "unit": "vibration/second",
+          "context": "Definition of one hertz.",
+          "status": "uncertain",
+          "ocr_raw": "1 Hz = 1 vibration/second"
+        },
+        {
+          "label": "Sound-pressure range reference",
+          "value": 1.0333,
+          "value_max": null,
+          "unit": "kg/cm²",
+          "context": "Atmospheric pressure used for comparison with the small pressure variations of sound.",
+          "status": "uncertain",
+          "ocr_raw": "= 1.0333 kg/cm²"
+        },
+        {
+          "label": "Sound-pressure variation when speaking with a raised voice",
+          "value": 1.0,
+          "value_max": null,
+          "unit": "millionth of an atmosphere",
+          "context": "Example of pressure variation relative to atmospheric pressure.",
+          "status": "uncertain",
+          "ocr_raw": "about a millionth of an atmosphere"
+        },
+        {
+          "label": "Sound-pressure range in bels",
+          "value": 12.0,
+          "value_max": null,
+          "unit": "B (bel)",
+          "context": "The audibility-to-pain-threshold range is divided into 12 parts.",
+          "status": "uncertain",
+          "ocr_raw": "12 parts = 12 B (bel)"
+        },
+        {
+          "label": "Decibel relation to bel",
+          "value": 1.0,
+          "value_max": null,
+          "unit": "dB",
+          "context": "One tenth of a bel; stated as just audible as a pressure difference at the standard frequency.",
+          "status": "uncertain",
+          "ocr_raw": "1/10 bel = 1 decibel (dB)"
+        },
+        {
+          "label": "Standard frequency for audibility statement",
+          "value": 1000.0,
+          "value_max": null,
+          "unit": "Hz",
+          "context": "Standard frequency at which a 1 dB pressure difference is described as just audible.",
+          "status": "uncertain",
+          "ocr_raw": "standard frequency of 1000 Hz"
+        },
+        {
+          "label": "Sound-level notation threshold",
+          "value": 60.0,
+          "value_max": null,
+          "unit": "dB",
+          "context": "Sound levels are normally given in dB(A), or above this level in dB(B).",
+          "status": "uncertain",
+          "ocr_raw": "above 60 dB"
+        },
+        {
+          "label": "Longitudinal-wave transmission speed in air",
+          "value": 340.0,
+          "value_max": null,
+          "unit": "m/s",
+          "context": "Transmission speed of a longitudinal sound wave.",
+          "status": "uncertain",
+          "ocr_raw": "340 m/s"
+        },
+        {
+          "label": "Bending-wave boundary-frequency condition speed",
+          "value": 340.0,
+          "value_max": null,
+          "unit": "m/s",
+          "context": "Boundary frequency occurs when the bending-wave transmission speed in a building element is also this speed.",
+          "status": "uncertain",
+          "ocr_raw": "also 340 m/s"
+        },
+        {
+          "label": "Sound-insulation improvement with cladding and cavity filling",
+          "value": 7.0,
+          "value_max": null,
+          "unit": "dB",
+          "context": "Improvement stated as up to this amount with free-standing soft cladding and cavity filling.",
+          "status": "uncertain",
+          "ocr_raw": "up to +7 dB with free-standing soft cladding and cavity filling"
+        },
+        {
+          "label": "Sound-intensity scale",
+          "value": 0.0,
+          "value_max": 130.0,
+          "unit": "dB(A)",
+          "context": "Illustrated scale of sound intensities, with examples listed from the start of hearing perception to very noisy industrial works.",
+          "status": "uncertain",
+          "ocr_raw": "Scale of sound intensities, values in dB(A) 0–10 ... 100–130"
+        },
+        {
+          "label": "Component thickness shown on boundary-frequency chart",
+          "value": 0.5,
+          "value_max": 50.0,
+          "unit": "cm",
+          "context": "Horizontal axis range in the chart of boundary frequency for panels of various materials.",
+          "status": "uncertain",
+          "ocr_raw": "component thickness (cm) 0.5 ... 50"
+        }
+      ],
+      "figure_refs": [
+        "1: Relationship between sound intensity (phon), sound pressure (µb), sound level (dB) and sound intensity (µW/cm²)",
+        "2: Illustration of a bending wave on a wall at normal frequencies",
+        "3: Improvement in sound insulation with free-standing soft cladding and cavity filling",
+        "4: Scale of sound intensities, values in dB(A)",
+        "5: Boundary frequency for panels of various materials"
+      ],
+      "cross_refs": [
+        "BS 8233",
+        "BS EN ISO 717",
+        "DIN 4109"
+      ],
+      "keywords": [
+        "sound",
+        "sound insulation",
+        "sound reduction",
+        "sound absorption",
+        "airborne sound",
+        "structure-borne sound",
+        "impact sound",
+        "sound pressure",
+        "sound intensity",
+        "decibel",
+        "boundary frequency",
+        "bending wave",
+        "cladding",
+        "cavity filling"
+      ],
+      "tags_architectural": [
+        "spatial_proportion"
+      ],
+      "confidence": 0.94
+    }
+  ]
+}

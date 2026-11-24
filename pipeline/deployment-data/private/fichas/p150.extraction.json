@@ -1,0 +1,730 @@
+{
+  "fichas": [
+    {
+      "id": "4122fb96e4bd1976-150-vision-0",
+      "pdf_page": 150,
+      "book_page": 137,
+      "chapter": "RESIDENTIAL BUILDINGS",
+      "section": "Housing Density",
+      "title": "Detached House (Estate)",
+      "summary": "Indicative town-planning parameters for detached houses on estate plots. The page describes detached-house development as the lowest-density end of the illustrated range of housing types.",
+      "building_type": "Detached house",
+      "spaces": [
+        "Residential plot"
+      ],
+      "uses": [
+        "Residential housing"
+      ],
+      "furniture_equipment": [],
+      "dimensions": [
+        {
+          "label": "Plot area",
+          "value": 350.0,
+          "value_max": 450.0,
+          "unit": "m²",
+          "context": "Indicative plot area for a detached house (estate).",
+          "status": "uncertain",
+          "ocr_raw": "plot 350–450 m²"
+        },
+        {
+          "label": "Storeys",
+          "value": 1.0,
+          "value_max": 2.0,
+          "unit": "storeys",
+          "context": "Range shown, with attic noted in addition.",
+          "status": "uncertain",
+          "ocr_raw": "storeys 1–2 (+ attic)"
+        },
+        {
+          "label": "Gross floor area",
+          "value": 150.0,
+          "value_max": 160.0,
+          "unit": "m²",
+          "context": "Indicative gross floor area.",
+          "status": "uncertain",
+          "ocr_raw": "gross floor area 150–160"
+        },
+        {
+          "label": "Floor-area ratio",
+          "value": 0.3,
+          "value_max": 0.5,
+          "unit": "ratio",
+          "context": "Indicative floor-area ratio.",
+          "status": "uncertain",
+          "ocr_raw": "floor-area ratio 0.3–0.5"
+        },
+        {
+          "label": "Inhabitants per hectare",
+          "value": 70.0,
+          "value_max": 90.0,
+          "unit": "inhabitants/ha",
+          "context": "Indicative population density.",
+          "status": "uncertain",
+          "ocr_raw": "inhabitants/ha 70–90"
+        }
+      ],
+      "figure_refs": [
+        "1"
+      ],
+      "cross_refs": [
+        "p. 56",
+        "p. 63"
+      ],
+      "keywords": [
+        "housing density",
+        "detached house",
+        "estate housing",
+        "floor-area ratio"
+      ],
+      "tags_architectural": [
+        "spatial_proportion",
+        "modularity"
+      ],
+      "confidence": 0.97
+    },
+    {
+      "id": "4122fb96e4bd1976-150-vision-1",
+      "pdf_page": 150,
+      "book_page": 137,
+      "chapter": "RESIDENTIAL BUILDINGS",
+      "section": "Housing Density",
+      "title": "Terraced Building",
+      "summary": "Indicative planning parameters for terraced-building development. The figure associates this housing type with a higher density than detached and semi-detached houses.",
+      "building_type": "Terraced building",
+      "spaces": [
+        "Residential plot"
+      ],
+      "uses": [
+        "Residential housing"
+      ],
+      "furniture_equipment": [],
+      "dimensions": [
+        {
+          "label": "Plot area",
+          "value": 625.0,
+          "value_max": null,
+          "unit": "m²",
+          "context": "At least the indicated plot area.",
+          "status": "uncertain",
+          "ocr_raw": "plot ≥625 m²"
+        },
+        {
+          "label": "Storeys",
+          "value": 2.0,
+          "value_max": 4.0,
+          "unit": "storeys",
+          "context": "Range shown, with attic noted in addition.",
+          "status": "uncertain",
+          "ocr_raw": "storeys 2–4 (+ attic)"
+        },
+        {
+          "label": "Gross floor area",
+          "value": 500.0,
+          "value_max": null,
+          "unit": "m²",
+          "context": "At least the indicated gross floor area.",
+          "status": "uncertain",
+          "ocr_raw": "gross floor area ≥500"
+        },
+        {
+          "label": "Floor-area ratio",
+          "value": 0.8,
+          "value_max": null,
+          "unit": "ratio",
+          "context": "At least the indicated floor-area ratio.",
+          "status": "uncertain",
+          "ocr_raw": "floor-area ratio ≥0.8"
+        },
+        {
+          "label": "Inhabitants per hectare",
+          "value": 400.0,
+          "value_max": null,
+          "unit": "inhabitants/ha",
+          "context": "At least the indicated population density.",
+          "status": "uncertain",
+          "ocr_raw": "inhabitants/ha ≥400"
+        }
+      ],
+      "figure_refs": [
+        "1"
+      ],
+      "cross_refs": [
+        "p. 56",
+        "p. 63"
+      ],
+      "keywords": [
+        "housing density",
+        "terraced building",
+        "floor-area ratio"
+      ],
+      "tags_architectural": [
+        "spatial_proportion",
+        "modularity"
+      ],
+      "confidence": 0.97
+    },
+    {
+      "id": "4122fb96e4bd1976-150-vision-2",
+      "pdf_page": 150,
+      "book_page": 137,
+      "chapter": "RESIDENTIAL BUILDINGS",
+      "section": "Housing Density",
+      "title": "Semi-Detached House",
+      "summary": "Indicative planning parameters for semi-detached houses, with plot area, storeys, floor-area ratio, and population density shown in the town-planning comparison.",
+      "building_type": "Semi-detached house",
+      "spaces": [
+        "Residential plot"
+      ],
+      "uses": [
+        "Residential housing"
+      ],
+      "furniture_equipment": [],
+      "dimensions": [
+        {
+          "label": "Plot area",
+          "value": 250.0,
+          "value_max": 300.0,
+          "unit": "m²",
+          "context": "Indicative plot area.",
+          "status": "uncertain",
+          "ocr_raw": "plot 250–300 m²"
+        },
+        {
+          "label": "Storeys",
+          "value": 1.0,
+          "value_max": 2.0,
+          "unit": "storeys",
+          "context": "Range shown, with attic noted in addition.",
+          "status": "uncertain",
+          "ocr_raw": "storeys 1–2 (+ attic)"
+        },
+        {
+          "label": "Gross floor area",
+          "value": 150.0,
+          "value_max": 160.0,
+          "unit": "m²",
+          "context": "Indicative gross floor area.",
+          "status": "uncertain",
+          "ocr_raw": "gross floor area 150–160"
+        },
+        {
+          "label": "Floor-area ratio",
+          "value": 0.5,
+          "value_max": 0.6,
+          "unit": "ratio",
+          "context": "Indicative floor-area ratio.",
+          "status": "uncertain",
+          "ocr_raw": "floor-area ratio 0.5–0.6"
+        },
+        {
+          "label": "Inhabitants per hectare",
+          "value": 115.0,
+          "value_max": 135.0,
+          "unit": "inhabitants/ha",
+          "context": "Indicative population density.",
+          "status": "uncertain",
+          "ocr_raw": "inhabitants/ha 115–135"
+        }
+      ],
+      "figure_refs": [
+        "1"
+      ],
+      "cross_refs": [
+        "p. 56",
+        "p. 63"
+      ],
+      "keywords": [
+        "housing density",
+        "semi-detached house",
+        "floor-area ratio"
+      ],
+      "tags_architectural": [
+        "spatial_proportion",
+        "modularity"
+      ],
+      "confidence": 0.97
+    },
+    {
+      "id": "4122fb96e4bd1976-150-vision-3",
+      "pdf_page": 150,
+      "book_page": 137,
+      "chapter": "RESIDENTIAL BUILDINGS",
+      "section": "Housing Density",
+      "title": "Block Development",
+      "summary": "Indicative planning parameters for block development, including a minimum plot area and floor-area ratio, and a population-density range.",
+      "building_type": "Block development",
+      "spaces": [
+        "Residential plot",
+        "Block interior"
+      ],
+      "uses": [
+        "Residential housing"
+      ],
+      "furniture_equipment": [],
+      "dimensions": [
+        {
+          "label": "Plot area",
+          "value": 1550.0,
+          "value_max": null,
+          "unit": "m²",
+          "context": "At least the indicated plot area.",
+          "status": "uncertain",
+          "ocr_raw": "plot ≥1550 m²"
+        },
+        {
+          "label": "Storeys",
+          "value": 5.0,
+          "value_max": null,
+          "unit": "storeys",
+          "context": "Attic noted in addition.",
+          "status": "uncertain",
+          "ocr_raw": "storeys 5 (+ attic)"
+        },
+        {
+          "label": "Gross floor area",
+          "value": 1250.0,
+          "value_max": null,
+          "unit": "m²",
+          "context": "Indicative gross floor area.",
+          "status": "uncertain",
+          "ocr_raw": "gross floor area 1250"
+        },
+        {
+          "label": "Floor-area ratio",
+          "value": 0.8,
+          "value_max": null,
+          "unit": "ratio",
+          "context": "At least the indicated floor-area ratio.",
+          "status": "uncertain",
+          "ocr_raw": "floor-area ratio ≥0.8"
+        },
+        {
+          "label": "Inhabitants per hectare",
+          "value": 400.0,
+          "value_max": 450.0,
+          "unit": "inhabitants/ha",
+          "context": "Indicative population density.",
+          "status": "uncertain",
+          "ocr_raw": "inhabitants/ha 400–450"
+        }
+      ],
+      "figure_refs": [
+        "1"
+      ],
+      "cross_refs": [
+        "p. 56",
+        "p. 63"
+      ],
+      "keywords": [
+        "housing density",
+        "block development",
+        "floor-area ratio"
+      ],
+      "tags_architectural": [
+        "spatial_proportion",
+        "circulation"
+      ],
+      "confidence": 0.96
+    },
+    {
+      "id": "4122fb96e4bd1976-150-vision-4",
+      "pdf_page": 150,
+      "book_page": 137,
+      "chapter": "RESIDENTIAL BUILDINGS",
+      "section": "Housing Density",
+      "title": "Linked/Courtyard-Garden House",
+      "summary": "Indicative planning parameters for linked or courtyard-garden houses. The text places linked houses among the housing types in the increasing-density sequence from detached houses to multi-storey forms.",
+      "building_type": "Linked or courtyard-garden house",
+      "spaces": [
+        "Residential plot",
+        "Courtyard or garden"
+      ],
+      "uses": [
+        "Residential housing"
+      ],
+      "furniture_equipment": [],
+      "dimensions": [
+        {
+          "label": "Plot area",
+          "value": 200.0,
+          "value_max": 250.0,
+          "unit": "m²",
+          "context": "Indicative plot area.",
+          "status": "uncertain",
+          "ocr_raw": "plot 200–250 m²"
+        },
+        {
+          "label": "Storeys",
+          "value": 1.0,
+          "value_max": 2.0,
+          "unit": "storeys",
+          "context": "Range shown, with attic noted in addition.",
+          "status": "uncertain",
+          "ocr_raw": "storeys 1–2 (+ attic)"
+        },
+        {
+          "label": "Gross floor area",
+          "value": 150.0,
+          "value_max": 160.0,
+          "unit": "m²",
+          "context": "Indicative gross floor area.",
+          "status": "uncertain",
+          "ocr_raw": "gross floor area 150–160"
+        },
+        {
+          "label": "Floor-area ratio",
+          "value": 0.6,
+          "value_max": 0.8,
+          "unit": "ratio",
+          "context": "Indicative floor-area ratio.",
+          "status": "uncertain",
+          "ocr_raw": "floor-area ratio 0.6–0.8"
+        },
+        {
+          "label": "Inhabitants per hectare",
+          "value": 150.0,
+          "value_max": 180.0,
+          "unit": "inhabitants/ha",
+          "context": "Indicative population density.",
+          "status": "uncertain",
+          "ocr_raw": "inhabitants/ha 150–180"
+        }
+      ],
+      "figure_refs": [
+        "1"
+      ],
+      "cross_refs": [
+        "p. 56",
+        "p. 63"
+      ],
+      "keywords": [
+        "housing density",
+        "linked house",
+        "courtyard garden",
+        "floor-area ratio"
+      ],
+      "tags_architectural": [
+        "spatial_proportion",
+        "adaptability"
+      ],
+      "confidence": 0.96
+    },
+    {
+      "id": "4122fb96e4bd1976-150-vision-5",
+      "pdf_page": 150,
+      "book_page": 137,
+      "chapter": "RESIDENTIAL BUILDINGS",
+      "section": "Housing Density",
+      "title": "Narrow High-Rise",
+      "summary": "Indicative parameters for a narrow high-rise residential building, including ten storeys, gross floor area stated per storey, and approximate population density.",
+      "building_type": "Narrow high-rise residential building",
+      "spaces": [
+        "Residential plot"
+      ],
+      "uses": [
+        "Residential housing"
+      ],
+      "furniture_equipment": [],
+      "dimensions": [
+        {
+          "label": "Plot area",
+          "value": 5000.0,
+          "value_max": null,
+          "unit": "m²",
+          "context": "At least the indicated plot area.",
+          "status": "uncertain",
+          "ocr_raw": "plot ≥5000 m²"
+        },
+        {
+          "label": "Storeys",
+          "value": 10.0,
+          "value_max": null,
+          "unit": "storeys",
+          "context": "Number of storeys shown.",
+          "status": "uncertain",
+          "ocr_raw": "storeys 10"
+        },
+        {
+          "label": "Gross floor area",
+          "value": 600.0,
+          "value_max": null,
+          "unit": "m²/storey",
+          "context": "Gross floor area given per storey.",
+          "status": "uncertain",
+          "ocr_raw": "gross floor area 600/storey"
+        },
+        {
+          "label": "Floor-area ratio",
+          "value": 1.2,
+          "value_max": null,
+          "unit": "ratio",
+          "context": "Indicative floor-area ratio.",
+          "status": "uncertain",
+          "ocr_raw": "floor-area ratio 1.2"
+        },
+        {
+          "label": "Inhabitants per hectare",
+          "value": 450.0,
+          "value_max": null,
+          "unit": "inhabitants/ha",
+          "context": "Approximate population density.",
+          "status": "uncertain",
+          "ocr_raw": "inhabitants/ha approx. 450"
+        }
+      ],
+      "figure_refs": [
+        "1"
+      ],
+      "cross_refs": [
+        "p. 56",
+        "p. 63"
+      ],
+      "keywords": [
+        "housing density",
+        "narrow high-rise",
+        "floor-area ratio"
+      ],
+      "tags_architectural": [
+        "spatial_proportion",
+        "circulation"
+      ],
+      "confidence": 0.96
+    },
+    {
+      "id": "4122fb96e4bd1976-150-vision-6",
+      "pdf_page": 150,
+      "book_page": 137,
+      "chapter": "RESIDENTIAL BUILDINGS",
+      "section": "Housing Density",
+      "title": "Terraced House",
+      "summary": "Indicative planning parameters for terraced houses, including plot area, storeys with attic, floor-area ratio, and population density.",
+      "building_type": "Terraced house",
+      "spaces": [
+        "Residential plot"
+      ],
+      "uses": [
+        "Residential housing"
+      ],
+      "furniture_equipment": [],
+      "dimensions": [
+        {
+          "label": "Plot area",
+          "value": 150.0,
+          "value_max": 200.0,
+          "unit": "m²",
+          "context": "Indicative plot area.",
+          "status": "uncertain",
+          "ocr_raw": "plot 150–200 m²"
+        },
+        {
+          "label": "Storeys",
+          "value": 2.0,
+          "value_max": 3.0,
+          "unit": "storeys",
+          "context": "Range shown, with attic noted in addition.",
+          "status": "uncertain",
+          "ocr_raw": "storeys 2–3 (+ attic)"
+        },
+        {
+          "label": "Gross floor area",
+          "value": 130.0,
+          "value_max": 150.0,
+          "unit": "m²",
+          "context": "Indicative gross floor area.",
+          "status": "uncertain",
+          "ocr_raw": "gross floor area 130–150"
+        },
+        {
+          "label": "Floor-area ratio",
+          "value": 0.6,
+          "value_max": 0.9,
+          "unit": "ratio",
+          "context": "Indicative floor-area ratio.",
+          "status": "uncertain",
+          "ocr_raw": "floor-area ratio 0.6–0.9"
+        },
+        {
+          "label": "Inhabitants per hectare",
+          "value": 200.0,
+          "value_max": 250.0,
+          "unit": "inhabitants/ha",
+          "context": "Indicative population density.",
+          "status": "uncertain",
+          "ocr_raw": "inhabitants/ha 200–250"
+        }
+      ],
+      "figure_refs": [
+        "1"
+      ],
+      "cross_refs": [
+        "p. 56",
+        "p. 63"
+      ],
+      "keywords": [
+        "housing density",
+        "terraced house",
+        "floor-area ratio"
+      ],
+      "tags_architectural": [
+        "spatial_proportion",
+        "modularity"
+      ],
+      "confidence": 0.97
+    },
+    {
+      "id": "4122fb96e4bd1976-150-vision-7",
+      "pdf_page": 150,
+      "book_page": 137,
+      "chapter": "RESIDENTIAL BUILDINGS",
+      "section": "Housing Density",
+      "title": "Square High-Rise",
+      "summary": "Indicative parameters for a square high-rise residential building, with ten storeys, gross floor area stated per storey, and approximate population density.",
+      "building_type": "Square high-rise residential building",
+      "spaces": [
+        "Residential plot"
+      ],
+      "uses": [
+        "Residential housing"
+      ],
+      "furniture_equipment": [],
+      "dimensions": [
+        {
+          "label": "Plot area",
+          "value": 1875.0,
+          "value_max": null,
+          "unit": "m²",
+          "context": "At least the indicated plot area.",
+          "status": "uncertain",
+          "ocr_raw": "plot ≥1875 m²"
+        },
+        {
+          "label": "Storeys",
+          "value": 10.0,
+          "value_max": null,
+          "unit": "storeys",
+          "context": "Number of storeys shown.",
+          "status": "uncertain",
+          "ocr_raw": "storeys 10"
+        },
+        {
+          "label": "Gross floor area",
+          "value": 225.0,
+          "value_max": null,
+          "unit": "m²/storey",
+          "context": "Gross floor area given per storey.",
+          "status": "uncertain",
+          "ocr_raw": "gross floor area 225/storey"
+        },
+        {
+          "label": "Floor-area ratio",
+          "value": 1.2,
+          "value_max": null,
+          "unit": "ratio",
+          "context": "Indicative floor-area ratio.",
+          "status": "uncertain",
+          "ocr_raw": "floor-area ratio 1.2"
+        },
+        {
+          "label": "Inhabitants per hectare",
+          "value": 450.0,
+          "value_max": null,
+          "unit": "inhabitants/ha",
+          "context": "Approximate population density.",
+          "status": "uncertain",
+          "ocr_raw": "inhabitants/ha approx. 450"
+        }
+      ],
+      "figure_refs": [
+        "1"
+      ],
+      "cross_refs": [
+        "p. 56",
+        "p. 63"
+      ],
+      "keywords": [
+        "housing density",
+        "square high-rise",
+        "floor-area ratio"
+      ],
+      "tags_architectural": [
+        "spatial_proportion",
+        "circulation"
+      ],
+      "confidence": 0.96
+    },
+    {
+      "id": "4122fb96e4bd1976-150-vision-8",
+      "pdf_page": 150,
+      "book_page": 137,
+      "chapter": "RESIDENTIAL BUILDINGS",
+      "section": "Housing Density",
+      "title": "Stepped House",
+      "summary": "Indicative planning parameters for stepped housing. Gross floor area is stated per terrace, and the diagram shows a stepped building form.",
+      "building_type": "Stepped house",
+      "spaces": [
+        "Residential plot",
+        "Terraces"
+      ],
+      "uses": [
+        "Residential housing"
+      ],
+      "furniture_equipment": [],
+      "dimensions": [
+        {
+          "label": "Storeys",
+          "value": 1.0,
+          "value_max": null,
+          "unit": "storey",
+          "context": "Number of storeys shown.",
+          "status": "uncertain",
+          "ocr_raw": "storeys 1"
+        },
+        {
+          "label": "Gross floor area",
+          "value": 130.0,
+          "value_max": 150.0,
+          "unit": "m²/terrace",
+          "context": "Gross floor area stated per terrace.",
+          "status": "uncertain",
+          "ocr_raw": "gross floor area 130–150/terrace"
+        },
+        {
+          "label": "Floor-area ratio",
+          "value": 1.5,
+          "value_max": 2.0,
+          "unit": "ratio",
+          "context": "Indicative floor-area ratio.",
+          "status": "uncertain",
+          "ocr_raw": "floor-area ratio 1.5–2.0"
+        },
+        {
+          "label": "Inhabitants per hectare",
+          "value": 300.0,
+          "value_max": 350.0,
+          "unit": "inhabitants/ha",
+          "context": "Indicative population density.",
+          "status": "uncertain",
+          "ocr_raw": "inhabitants/ha 300–350"
+        }
+      ],
+      "figure_refs": [
+        "1"
+      ],
+      "cross_refs": [
+        "p. 56",
+        "p. 63"
+      ],
+      "keywords": [
+        "housing density",
+        "stepped house",
+        "terrace",
+        "floor-area ratio"
+      ],
+      "tags_architectural": [
+        "spatial_proportion",
+        "adaptability"
+      ],
+      "confidence": 0.94
+    }
+  ]
+}

@@ -1,0 +1,156 @@
+{
+  "fichas": [
+    {
+      "id": "4122fb96e4bd1976-81-vision-0",
+      "pdf_page": 81,
+      "book_page": 68,
+      "chapter": "BUILDING COMPONENTS",
+      "section": "Foundations",
+      "title": "Underpinning Existing Adjacent Buildings",
+      "summary": "When a new building is erected beside an existing building whose foundations are higher, the existing foundations must be underpinned to reduce the risk of settlement or ground failure. The work requires careful design, planning, construction, and site supervision. Minor deformation may still occur; a pre-work survey is recommended.",
+      "building_type": "Building foundations and adjacent-building construction",
+      "spaces": [
+        "Building excavation",
+        "Existing building foundation",
+        "Underpinning work area"
+      ],
+      "uses": [
+        "Support existing foundations during adjacent excavation and construction",
+        "Reduce the risk of settlement or ground failure"
+      ],
+      "furniture_equipment": [],
+      "dimensions": [
+        {
+          "label": "Settlement of underpinned building",
+          "value": 5.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Settlement up to this amount is generally considered unavoidable.",
+          "status": "uncertain",
+          "ocr_raw": "Fine cracking and settlement of the underpinned building by up to 5 mm is generally considered unavoidable."
+        }
+      ],
+      "figure_refs": [
+        "1 Underpinning existing adjacent structures",
+        "2 Foundations"
+      ],
+      "cross_refs": [
+        "DIN 4123",
+        "→ 1–2"
+      ],
+      "keywords": [
+        "underpinning",
+        "existing building",
+        "adjacent construction",
+        "settlement",
+        "foundation",
+        "site survey"
+      ],
+      "tags_architectural": [
+        "safety",
+        "adaptability"
+      ],
+      "confidence": 0.98
+    },
+    {
+      "id": "4122fb96e4bd1976-81-vision-1",
+      "pdf_page": 81,
+      "book_page": 68,
+      "chapter": "BUILDING COMPONENTS",
+      "section": "Foundations",
+      "title": "Groundwater Control for Building Excavations",
+      "summary": "Excavations below the water table require groundwater management. Open dewatering pumps water from sumps, trenches, and drains; closed dewatering lowers groundwater with underwater pumps. Where lowering the water table could affect nearby soil or buildings, the excavation bottom may need waterproofing, supported excavation walls, and an underwater concrete or grouted base.",
+      "building_type": "Building excavation and foundation construction",
+      "spaces": [
+        "Building excavation",
+        "Excavation base",
+        "Groundwater control area"
+      ],
+      "uses": [
+        "Manage groundwater during excavation",
+        "Reduce buoyancy and water-related risks",
+        "Create a waterproof base where groundwater lowering is unsuitable"
+      ],
+      "furniture_equipment": [
+        "Sump pumps",
+        "Underwater pumps",
+        "Sheet-pile or diaphragm walls",
+        "Underwater concrete base",
+        "Gravel filter",
+        "Drainage pipes"
+      ],
+      "dimensions": [
+        {
+          "label": "Safety distance under excavation base",
+          "value": 50.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Approximate safety distance for lowering groundwater using underwater pumps under the excavation base.",
+          "status": "uncertain",
+          "ocr_raw": "the groundwater is lowered using underwater pumps (with a safety distance of about 50 cm) under the base of the excavation."
+        }
+      ],
+      "figure_refs": [
+        "3 Excavation below the water table – buoyancy of the structure",
+        "4 Open dewatering",
+        "5 Groundwater control and lowering"
+      ],
+      "cross_refs": [
+        "→ 3",
+        "→ 4",
+        "→ 5"
+      ],
+      "keywords": [
+        "groundwater",
+        "dewatering",
+        "underwater concrete",
+        "waterproofing",
+        "excavation",
+        "buoyancy"
+      ],
+      "tags_architectural": [
+        "safety",
+        "adaptability"
+      ],
+      "confidence": 0.98
+    },
+    {
+      "id": "4122fb96e4bd1976-81-vision-2",
+      "pdf_page": 81,
+      "book_page": 68,
+      "chapter": "BUILDING COMPONENTS",
+      "section": "Foundations",
+      "title": "Trenches for Drainage",
+      "summary": "Drainage trenches are shown with different side conditions: unsupported sides are identified as dangerous, batter angles depend on soil type, and partial support is shown as another trench arrangement.",
+      "building_type": "Drainage and excavation works",
+      "spaces": [
+        "Drainage trench",
+        "Trench side support area"
+      ],
+      "uses": [
+        "Collect or convey drainage water",
+        "Provide trench arrangements adapted to soil conditions and support requirements"
+      ],
+      "furniture_equipment": [
+        "Drainpipe",
+        "Trench support"
+      ],
+      "dimensions": [],
+      "figure_refs": [
+        "6 Trenches for drainage"
+      ],
+      "cross_refs": [],
+      "keywords": [
+        "drainage trench",
+        "drainpipe",
+        "batter angle",
+        "soil type",
+        "side support"
+      ],
+      "tags_architectural": [
+        "safety"
+      ],
+      "confidence": 0.96
+    }
+  ]
+}

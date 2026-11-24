@@ -1,0 +1,247 @@
+{
+  "model": "gpt-6-luna",
+  "checks": {
+    "checks": [
+      {
+        "ficha_index": 0,
+        "dimension_index": 0,
+        "status": "verified",
+        "value": 12.0,
+        "value_max": null,
+        "reason": "Text says hydraulic lifts are best used up to 12 m lift height."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 1,
+        "status": "verified",
+        "value": 17.0,
+        "value_max": null,
+        "reason": "Text gives a maximum height of 17 m for direct-acting lifts."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 2,
+        "status": "verified",
+        "value": 20.0,
+        "value_max": null,
+        "reason": "Text gives payloads of as much as 20 t for direct-acting lifts."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 3,
+        "status": "verified",
+        "value": 7.0,
+        "value_max": null,
+        "reason": "Text gives a maximum of 7 t for indirect-acting lifts."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 4,
+        "status": "verified",
+        "value": 34.0,
+        "value_max": null,
+        "reason": "Text gives a maximum height of 34 m for indirect-acting lifts."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 5,
+        "status": "verified",
+        "value": 0.2,
+        "value_max": 0.8,
+        "reason": "Text states operating speed is between 0.2 and 0.8 m/s."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 6,
+        "status": "verified",
+        "value": 3.0,
+        "value_max": null,
+        "reason": "Text states ram retraction must be kept within \u00b13 mm."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 7,
+        "status": "verified",
+        "value": 50.0,
+        "value_max": 100.0,
+        "reason": "Text states lift-door height clearance is a minimum 50\u2013100 mm greater."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 8,
+        "status": "verified",
+        "value": 5.0,
+        "value_max": null,
+        "reason": "Technical-data text states the machine room may be up to a maximum 5 m from the shaft."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 9,
+        "status": "verified",
+        "value": 2000.0,
+        "value_max": null,
+        "reason": "Technical-data table gives width 2000 for Q \u2248 5000 kg; dimensions are in mm."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 10,
+        "status": "verified",
+        "value": 2600.0,
+        "value_max": null,
+        "reason": "Technical-data table gives depth 2600 for Q \u2248 5000 kg; dimensions are in mm."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 11,
+        "status": "verified",
+        "value": 2200.0,
+        "value_max": null,
+        "reason": "Technical-data table gives height 2200 for Q \u2248 5000 kg; dimensions are in mm."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 12,
+        "status": "verified",
+        "value": 2200.0,
+        "value_max": null,
+        "reason": "Technical-data table gives width 2200 for Q \u2248 10000 kg; dimensions are in mm."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 13,
+        "status": "verified",
+        "value": 2800.0,
+        "value_max": null,
+        "reason": "Technical-data table gives depth 2800 for Q \u2248 10000 kg; dimensions are in mm."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 14,
+        "status": "verified",
+        "value": 2700.0,
+        "value_max": null,
+        "reason": "Technical-data table gives height 2700 for Q \u2248 10000 kg; dimensions are in mm."
+      }
+    ]
+  },
+  "automatic": [
+    {
+      "ficha_index": 0,
+      "dimension_index": 0,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 1,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 2,
+      "issues": [
+        "Unknown unit",
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 3,
+      "issues": [
+        "Unknown unit",
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 4,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 5,
+      "issues": [
+        "Unknown unit",
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 6,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 7,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 8,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 9,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 10,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 11,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 12,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 13,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 14,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    }
+  ],
+  "usage": [
+    {
+      "prompt_tokens": 5347,
+      "completion_tokens": 1412
+    },
+    {
+      "prompt_tokens": 4773,
+      "completion_tokens": 776
+    }
+  ]
+}

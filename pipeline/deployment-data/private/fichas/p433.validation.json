@@ -1,0 +1,303 @@
+{
+  "model": "gpt-6-luna",
+  "checks": {
+    "checks": [
+      {
+        "ficha_index": 0,
+        "dimension_index": 0,
+        "status": "verified",
+        "value": null,
+        "value_max": null,
+        "reason": "The text states that large airports have runways up to 4000 m long."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 1,
+        "status": "verified",
+        "value": null,
+        "value_max": null,
+        "reason": "The text gives a runway width of 40\u201365 m."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 2,
+        "status": "verified",
+        "value": null,
+        "value_max": null,
+        "reason": "The text states parallel-runway spacing of more than 1310 m."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 3,
+        "status": "verified",
+        "value": null,
+        "value_max": null,
+        "reason": "The diagram prints landing-area length l = 15,000 m."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 4,
+        "status": "verified",
+        "value": null,
+        "value_max": null,
+        "reason": "The diagram prints landing-area width w = 300/4800 m."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 5,
+        "status": "corrected",
+        "value": 0.02,
+        "value_max": null,
+        "reason": "The diagram prints inclination = 1:50; normalized as the exact fraction 1/50."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 6,
+        "status": "verified",
+        "value": null,
+        "value_max": null,
+        "reason": "The diagram prints take-off-area length l = 15,000 m."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 7,
+        "status": "verified",
+        "value": null,
+        "value_max": null,
+        "reason": "The diagram prints take-off-area width w = 180/1800 m."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 8,
+        "status": "corrected",
+        "value": 0.02,
+        "value_max": null,
+        "reason": "The diagram prints inclination = 1:50; normalized as the exact fraction 1/50."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 9,
+        "status": "verified",
+        "value": null,
+        "value_max": null,
+        "reason": "The diagram prints edge-zone length l = 600 m."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 10,
+        "status": "verified",
+        "value": null,
+        "value_max": null,
+        "reason": "The diagram prints w = runway length + 2 \u00d7 900 m."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 11,
+        "status": "verified",
+        "value": null,
+        "value_max": null,
+        "reason": "The diagram prints runway and safety area (RESA) l = min. 90 m."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 12,
+        "status": "corrected",
+        "value": 0.14285714285714285,
+        "value_max": null,
+        "reason": "The diagram prints side transition area inclination 1:7; normalized as the exact fraction 1/7."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 13,
+        "status": "verified",
+        "value": null,
+        "value_max": null,
+        "reason": "The diagram prints side transition area height h = 100 m."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 14,
+        "status": "corrected",
+        "value": 0.05,
+        "value_max": null,
+        "reason": "The diagram prints upper transition area inclination 1:20; normalized as the exact fraction 1/20."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 15,
+        "status": "verified",
+        "value": null,
+        "value_max": null,
+        "reason": "The diagram prints upper transition area height h = 100 m."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 16,
+        "status": "verified",
+        "value": null,
+        "value_max": null,
+        "reason": "The diagram prints horizontal-area radius r = 3600 m."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 17,
+        "status": "verified",
+        "value": null,
+        "value_max": null,
+        "reason": "The diagram prints h = 45 m above airport height."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 18,
+        "status": "verified",
+        "value": null,
+        "value_max": null,
+        "reason": "The diagram prints \u201cStrips\u201d W = 300 m."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 19,
+        "status": "verified",
+        "value": null,
+        "value_max": null,
+        "reason": "The diagram prints l = runway length + 2 \u00d7 60 m."
+      }
+    ]
+  },
+  "automatic": [
+    {
+      "ficha_index": 0,
+      "dimension_index": 0,
+      "issues": [
+        "Plausibility limit; visual review required"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 1,
+      "issues": []
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 2,
+      "issues": [
+        "Plausibility limit; visual review required"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 3,
+      "issues": [
+        "Plausibility limit; visual review required",
+        "European decimal comma; check transcription"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 4,
+      "issues": [
+        "Plausibility limit; visual review required"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 5,
+      "issues": [
+        "Unknown unit"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 6,
+      "issues": [
+        "Plausibility limit; visual review required",
+        "European decimal comma; check transcription"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 7,
+      "issues": [
+        "Plausibility limit; visual review required"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 8,
+      "issues": [
+        "Unknown unit"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 9,
+      "issues": []
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 10,
+      "issues": []
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 11,
+      "issues": []
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 12,
+      "issues": [
+        "Unknown unit"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 13,
+      "issues": []
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 14,
+      "issues": [
+        "Unknown unit"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 15,
+      "issues": []
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 16,
+      "issues": [
+        "Plausibility limit; visual review required"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 17,
+      "issues": []
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 18,
+      "issues": []
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 19,
+      "issues": []
+    }
+  ],
+  "usage": [
+    {
+      "prompt_tokens": 4965,
+      "completion_tokens": 1864
+    },
+    {
+      "prompt_tokens": 5035,
+      "completion_tokens": 869
+    }
+  ]
+}

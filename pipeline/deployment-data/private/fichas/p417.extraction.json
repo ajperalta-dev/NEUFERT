@@ -1,0 +1,355 @@
+{
+  "fichas": [
+    {
+      "id": "4122fb96e4bd1976-417-vision-0",
+      "pdf_page": 417,
+      "book_page": 404,
+      "chapter": "TRANSPORT",
+      "section": "Public Transport",
+      "title": "Public Transport: Stops and Stations",
+      "summary": "Design guidance for railway, tram, and other public-transport stops and stations. Covers central and side platform layouts, platform length and width, stairs and escalators, lifts, tram stops, dynamic stops, and platform surfacing. The diagrams include stair layouts and platform cross-sections; a table gives minimum lift sizes by passenger load or potential hindrance.",
+      "building_type": "Public transport stop or station",
+      "spaces": [
+        "Central platform",
+        "Side platform",
+        "Platform stairs",
+        "Lift waiting area",
+        "Tram stop",
+        "Road space"
+      ],
+      "uses": [
+        "Passenger boarding and alighting",
+        "Passenger circulation and wayfinding",
+        "Accessible movement between station levels",
+        "Waiting for public transport",
+        "Protecting passengers at dynamic stops"
+      ],
+      "furniture_equipment": [
+        "Fixed stairs",
+        "Escalators",
+        "Passenger lifts",
+        "Handrails",
+        "Contrasting guide strips",
+        "Slip-resistant profiled platform-edge material",
+        "Traffic light"
+      ],
+      "dimensions": [
+        {
+          "label": "Platform length allowance for imprecise braking",
+          "value": 5.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "For underground and urban rapid transit, platform length is train length plus this allowance.",
+          "status": "uncertain",
+          "ocr_raw": "platform length is the train length plus 5 m (to allow for imprecise braking)"
+        },
+        {
+          "label": "Minimum width of side platforms",
+          "value": 3.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "General minimum platform width.",
+          "status": "uncertain",
+          "ocr_raw": "side platforms 3 m"
+        },
+        {
+          "label": "Minimum width of central platforms with stairs at platform end",
+          "value": 6.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "General minimum platform width.",
+          "status": "uncertain",
+          "ocr_raw": "central platforms with stairs at the end of the platform 6 m"
+        },
+        {
+          "label": "Minimum width of platforms with stairs within usable platform length",
+          "value": 7.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "General minimum platform width.",
+          "status": "uncertain",
+          "ocr_raw": "with stairs within the usable platform length 7 m."
+        },
+        {
+          "label": "Minimum tram-stop platform width",
+          "value": 3.5,
+          "value_max": null,
+          "unit": "m",
+          "context": "Minimum width stated for tram stops; a greater width is given for waiting shelters and two-sided platforms.",
+          "status": "uncertain",
+          "ocr_raw": "Tram stops: platform min. 3.50 m"
+        },
+        {
+          "label": "Tram-stop platform width for waiting shelters and two-sided platforms",
+          "value": 5.5,
+          "value_max": null,
+          "unit": "m",
+          "context": "Width to provide space for waiting shelters and two-sided platforms.",
+          "status": "uncertain",
+          "ocr_raw": "to provide space for waiting shelters and two-sided platforms, min. 5.50 m."
+        },
+        {
+          "label": "Permissible minimum width in road space",
+          "value": 1.5,
+          "value_max": null,
+          "unit": "m",
+          "context": "According to BOStrab; the text says this should be improved where possible for passenger comfort.",
+          "status": "uncertain",
+          "ocr_raw": "The permissible minimum width in the road space (according to BOStrab) of 1.50 m"
+        },
+        {
+          "label": "Minimum width for a side exit where space is restricted",
+          "value": 2.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Road-space side exit under restricted-space conditions.",
+          "status": "uncertain",
+          "ocr_raw": "where space is restricted, 2 m is the minimum for a side exit"
+        },
+        {
+          "label": "Safety space from vehicle gauge",
+          "value": 0.85,
+          "value_max": null,
+          "unit": "m",
+          "context": "On the door side of the rail vehicle; may also lie on the road pavement.",
+          "status": "uncertain",
+          "ocr_raw": "Safety space: 0.85 m wide from the vehicle gauge on the door side of the rail vehicle"
+        },
+        {
+          "label": "Fixed-stair width increment",
+          "value": 0.6,
+          "value_max": null,
+          "unit": "m",
+          "context": "Fixed-stair width should be a multiple of this increment, plus width for handrail and cleaning channel.",
+          "status": "uncertain",
+          "ocr_raw": "The width of fixed stairs should be a multiple of 0.60 m"
+        },
+        {
+          "label": "Minimum fixed-stair width",
+          "value": 2.4,
+          "value_max": null,
+          "unit": "m",
+          "context": "Minimum width, in addition to provision for handrail and cleaning channel.",
+          "status": "uncertain",
+          "ocr_raw": "(at least 2.40 m)"
+        },
+        {
+          "label": "Stair width threshold for an additional middle handrail",
+          "value": 6.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Provide a handrail in the middle of stairs wider than this threshold.",
+          "status": "uncertain",
+          "ocr_raw": "in the middle of stairs wider than 6.00 m"
+        },
+        {
+          "label": "Escalator track count",
+          "value": 1.0,
+          "value_max": 1.5,
+          "unit": "tracks",
+          "context": "The OCR prints “1-1 %-track”; the image appears to read “1–1½-track”. Two-track escalators are preferred. The printed expression is retained without interpreting it as a descending range.",
+          "status": "uncertain",
+          "ocr_raw": "1–1½-track, or preferably 2-track, escalators should be used"
+        },
+        {
+          "label": "Preferred escalator track count",
+          "value": 2.0,
+          "value_max": null,
+          "unit": "tracks",
+          "context": "Preferred escalator arrangement; the text also gives a one-to-one-and-a-half-track arrangement.",
+          "status": "uncertain",
+          "ocr_raw": "or preferably 2-track"
+        },
+        {
+          "label": "Escalator step width",
+          "value": 800.0,
+          "value_max": 1000.0,
+          "unit": "mm",
+          "context": "Step-width alternatives stated for escalators.",
+          "status": "uncertain",
+          "ocr_raw": "(800/1000 mm step width)"
+        },
+        {
+          "label": "Escalator construction width",
+          "value": 1.4,
+          "value_max": 1.65,
+          "unit": "m",
+          "context": "Construction-width range, varying according to manufacturer.",
+          "status": "uncertain",
+          "ocr_raw": "Construction widths vary between 1.40 and 1.65 m"
+        },
+        {
+          "label": "Minimum drainage camber",
+          "value": 1.0,
+          "value_max": null,
+          "unit": "%",
+          "context": "Platform surfacing camber to improve drainage.",
+          "status": "uncertain",
+          "ocr_raw": "a camber of at least 1%"
+        },
+        {
+          "label": "Maximum platform camber at tunnel stops",
+          "value": 3.0,
+          "value_max": 5.0,
+          "unit": "%",
+          "context": "Maximum camber range stated for tunnel stops.",
+          "status": "uncertain",
+          "ocr_raw": "max. 3–5% in tunnel stops"
+        },
+        {
+          "label": "Maximum platform camber at open-air stops",
+          "value": 2.0,
+          "value_max": 3.0,
+          "unit": "%",
+          "context": "Maximum camber range stated for open-air stops.",
+          "status": "uncertain",
+          "ocr_raw": "2–3% in open-air stops"
+        },
+        {
+          "label": "Lift width",
+          "value": 1.1,
+          "value_max": null,
+          "unit": "m",
+          "context": "Minimum lift size table; suitable for 8 people or potential hindrances for disabled passengers.",
+          "status": "uncertain",
+          "ocr_raw": "8/suitable for disabled  1.10 x 1.40"
+        },
+        {
+          "label": "Lift depth",
+          "value": 1.4,
+          "value_max": null,
+          "unit": "m",
+          "context": "Minimum lift size table; suitable for 8 people or potential hindrances for disabled passengers.",
+          "status": "uncertain",
+          "ocr_raw": "8/suitable for disabled  1.10 x 1.40"
+        },
+        {
+          "label": "Lift capacity",
+          "value": 630.0,
+          "value_max": null,
+          "unit": "kg",
+          "context": "Minimum lift size table; suitable for 8 people or potential hindrances for disabled passengers.",
+          "status": "uncertain",
+          "ocr_raw": "8/suitable for disabled  1.10 x 1.40  630"
+        },
+        {
+          "label": "Lift width",
+          "value": 1.1,
+          "value_max": null,
+          "unit": "m",
+          "context": "Minimum lift size table; suitable for carrying loads, with a listed group of 13 people/potential hindrance.",
+          "status": "uncertain",
+          "ocr_raw": "13/suitable for carrying loads  1.10 x 2.10"
+        },
+        {
+          "label": "Lift depth",
+          "value": 2.1,
+          "value_max": null,
+          "unit": "m",
+          "context": "Minimum lift size table; suitable for carrying loads, with a listed group of 13 people/potential hindrance.",
+          "status": "uncertain",
+          "ocr_raw": "13/suitable for carrying loads  1.10 x 2.10"
+        },
+        {
+          "label": "Lift capacity",
+          "value": 1000.0,
+          "value_max": null,
+          "unit": "kg",
+          "context": "Minimum lift size table; suitable for carrying loads, with a listed group of 13 people/potential hindrance.",
+          "status": "uncertain",
+          "ocr_raw": "13/suitable for carrying loads  1.10 x 2.10  1000"
+        },
+        {
+          "label": "Lift width",
+          "value": 1.4,
+          "value_max": null,
+          "unit": "m",
+          "context": "Minimum lift size table; suitable for cycles, with a listed group of 19 people/potential hindrance.",
+          "status": "uncertain",
+          "ocr_raw": "19/suitable for cycles  1.40 x 2.10"
+        },
+        {
+          "label": "Lift depth",
+          "value": 2.1,
+          "value_max": null,
+          "unit": "m",
+          "context": "Minimum lift size table; suitable for cycles, with a listed group of 19 people/potential hindrance.",
+          "status": "uncertain",
+          "ocr_raw": "19/suitable for cycles  1.40 x 2.10"
+        },
+        {
+          "label": "Lift capacity",
+          "value": 1450.0,
+          "value_max": null,
+          "unit": "kg",
+          "context": "Minimum lift size table; suitable for cycles, with a listed group of 19 people/potential hindrance.",
+          "status": "uncertain",
+          "ocr_raw": "19/suitable for cycles  1.40 x 2.10  1450"
+        },
+        {
+          "label": "Passenger count for lift-size table entry",
+          "value": 8.0,
+          "value_max": null,
+          "unit": "people",
+          "context": "Lift-size table row marked suitable for disabled passengers.",
+          "status": "uncertain",
+          "ocr_raw": "8/suitable for disabled"
+        },
+        {
+          "label": "Passenger count for lift-size table entry",
+          "value": 13.0,
+          "value_max": null,
+          "unit": "people",
+          "context": "Lift-size table row marked suitable for carrying loads.",
+          "status": "uncertain",
+          "ocr_raw": "13/suitable for carrying loads"
+        },
+        {
+          "label": "Passenger count for lift-size table entry",
+          "value": 19.0,
+          "value_max": null,
+          "unit": "people",
+          "context": "Lift-size table row marked suitable for cycles.",
+          "status": "uncertain",
+          "ocr_raw": "19/suitable for cycles"
+        }
+      ],
+      "figure_refs": [
+        "1 Stair layout for side and central platforms (Fiedler → refs)",
+        "2 Minimum size of lifts (Fiedler → refs)",
+        "3 Cross-section through platforms (Fiedler → refs)",
+        "4 Dynamic stop (Fiedler → refs)"
+      ],
+      "cross_refs": [
+        "Fiedler → refs",
+        "→ 1",
+        "→ 2"
+      ],
+      "keywords": [
+        "public transport",
+        "stops and stations",
+        "railway station",
+        "tram stop",
+        "central platform",
+        "side platform",
+        "platform length",
+        "platform width",
+        "stairs",
+        "escalators",
+        "lifts",
+        "dynamic stop",
+        "platform surfacing",
+        "accessibility"
+      ],
+      "tags_architectural": [
+        "accessibility",
+        "circulation",
+        "ergonomics",
+        "anthropometry",
+        "clearance",
+        "safety"
+      ],
+      "confidence": 0.91
+    }
+  ]
+}

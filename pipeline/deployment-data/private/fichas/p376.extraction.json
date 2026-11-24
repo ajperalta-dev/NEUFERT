@@ -1,0 +1,382 @@
+{
+  "fichas": [
+    {
+      "id": "4122fb96e4bd1976-376-vision-0",
+      "pdf_page": 376,
+      "book_page": 363,
+      "chapter": "SPORT AND LEISURE",
+      "section": "Swimming Pools",
+      "title": "Indoor Public Pools: Changing Areas and Lockers",
+      "summary": "Guidance for estimating public-pool changing-area provision and minimum dimensions for cubicles, lockers, benches, and related fittings. Illustrated layouts show cubicle arrangements, communal changing rooms with and without shoe-removal benches, mixed-type changing areas, wheelchair-accessible cubicles, and locker examples.",
+      "building_type": "Indoor public swimming pool",
+      "spaces": [
+        "Changing area",
+        "Individual changing cubicles",
+        "Family changing cubicles",
+        "Wheelchair-accessible changing cubicles",
+        "Communal changing rooms",
+        "Locker area",
+        "Foot-disinfection point",
+        "Cleaning-equipment room"
+      ],
+      "uses": [
+        "Estimate changing-area provision based on pool water area and a swimming time of about 1.5 hours",
+        "Provide individual, family, and wheelchair-accessible changing facilities",
+        "Provide clothes lockers and communal changing benches",
+        "Provide sanitary and cleaning facilities near the changing area"
+      ],
+      "furniture_equipment": [
+        "Clothes lockers",
+        "Changing benches",
+        "Shoe-removal benches",
+        "Hair-care places with dryers",
+        "Foot-disinfection points",
+        "Bucket sink",
+        "Cleaning equipment"
+      ],
+      "dimensions": [
+        {
+          "label": "Cloakroom places per water area",
+          "value": 0.3,
+          "value_max": 0.4,
+          "unit": "m² per m² water area",
+          "context": "Rough estimate for a swimming time of about 1.5 hours.",
+          "status": "uncertain",
+          "ocr_raw": "no. cloakroom places= 0.3-0.4 m2 water area"
+        },
+        {
+          "label": "Changing places per water area",
+          "value": 0.08,
+          "value_max": 0.1,
+          "unit": "m² per m² water area",
+          "context": "Estimated changing-place provision relative to water area.",
+          "status": "uncertain",
+          "ocr_raw": "No. changing places: 0.08-0.1 m2 water area"
+        },
+        {
+          "label": "Changing places provided as cubicles",
+          "value": 40.0,
+          "value_max": 50.0,
+          "unit": "%",
+          "context": "Share of changing places; the remainder are changing benches in communal rooms.",
+          "status": "uncertain",
+          "ocr_raw": "of which 40-50% as cubicles, the rest as changing benches in communal rooms."
+        },
+        {
+          "label": "Changing places to clothes lockers",
+          "value": 1.0,
+          "value_max": null,
+          "unit": "ratio",
+          "context": "Ratio of changing places to clothes lockers is 1:4.",
+          "status": "uncertain",
+          "ocr_raw": "Ratio of changing places to clothes lockers 1:4."
+        },
+        {
+          "label": "Family or wheelchair cubicles",
+          "value": 10.0,
+          "value_max": null,
+          "unit": "% of cubicles",
+          "context": "Share of cubicles designated as family or wheelchair cubicles.",
+          "status": "uncertain",
+          "ocr_raw": "Family or wheelchair cubicles: 10% of the cubicles"
+        },
+        {
+          "label": "Minimum number of communal changing places",
+          "value": 2.0,
+          "value_max": null,
+          "unit": "places",
+          "context": "Minimum provision in the communal changing area.",
+          "status": "uncertain",
+          "ocr_raw": "No. communal changing places: min. 2"
+        },
+        {
+          "label": "Minimum clothes lockers per communal changing place",
+          "value": 30.0,
+          "value_max": null,
+          "unit": "lockers",
+          "context": "Minimum lockers associated with each communal changing place.",
+          "status": "uncertain",
+          "ocr_raw": "each communal changing place with min. 30 clothes lockers."
+        },
+        {
+          "label": "Cubicle width",
+          "value": 1.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Axis dimension; minimum dimension of installed fittings.",
+          "status": "uncertain",
+          "ocr_raw": "Cubicle: axis dimensions 1.00 m wide"
+        },
+        {
+          "label": "Cubicle depth",
+          "value": 1.25,
+          "value_max": null,
+          "unit": "m",
+          "context": "Axis dimension; minimum dimension of installed fittings.",
+          "status": "uncertain",
+          "ocr_raw": "1.25 m deep"
+        },
+        {
+          "label": "Cubicle height",
+          "value": 2.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Minimum dimension of installed fittings.",
+          "status": "uncertain",
+          "ocr_raw": "2.00 m high."
+        },
+        {
+          "label": "Family changing cubicle width",
+          "value": 1.6,
+          "value_max": null,
+          "unit": "m",
+          "context": "Internal dimension.",
+          "status": "uncertain",
+          "ocr_raw": "Family changing cubicle: internal dimensions 1.60 m wide"
+        },
+        {
+          "label": "Family changing cubicle depth",
+          "value": 1.25,
+          "value_max": null,
+          "unit": "m",
+          "context": "Internal dimension.",
+          "status": "uncertain",
+          "ocr_raw": "1.25 m deep"
+        },
+        {
+          "label": "Family changing cubicle height",
+          "value": 2.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Internal dimension.",
+          "status": "uncertain",
+          "ocr_raw": "2.00 m high."
+        },
+        {
+          "label": "Wheelchair-accessible changing cubicle width",
+          "value": 2.45,
+          "value_max": null,
+          "unit": "m",
+          "context": "Internal dimension.",
+          "status": "uncertain",
+          "ocr_raw": "Changing cubicle for wheelchair users: internal dimensions 2.45 m wide"
+        },
+        {
+          "label": "Wheelchair-accessible changing cubicle depth",
+          "value": 1.5,
+          "value_max": null,
+          "unit": "m",
+          "context": "Internal dimension.",
+          "status": "uncertain",
+          "ocr_raw": "1.50 m deep"
+        },
+        {
+          "label": "Wheelchair-accessible changing cubicle height",
+          "value": 2.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Internal dimension.",
+          "status": "uncertain",
+          "ocr_raw": "2.00 m high"
+        },
+        {
+          "label": "Wheelchair-accessible cubicle clear door width",
+          "value": 0.94,
+          "value_max": null,
+          "unit": "m",
+          "context": "Clear door opening.",
+          "status": "uncertain",
+          "ocr_raw": "clear door width 0.94 m"
+        },
+        {
+          "label": "Standard clothes locker width",
+          "value": 0.25,
+          "value_max": 0.33,
+          "unit": "m",
+          "context": "Axis dimensions; standard locker width options.",
+          "status": "uncertain",
+          "ocr_raw": "0.25 m or 0.33 m wide (axis dimensions)"
+        },
+        {
+          "label": "Clothes locker depth",
+          "value": 0.5,
+          "value_max": null,
+          "unit": "m",
+          "context": "Clear dimension.",
+          "status": "uncertain",
+          "ocr_raw": "0.50 m deep (clear)"
+        },
+        {
+          "label": "Full-height clothes locker height",
+          "value": 1.8,
+          "value_max": null,
+          "unit": "m",
+          "context": "Height for full-height lockers.",
+          "status": "uncertain",
+          "ocr_raw": "1.80 m high for full-height lockers"
+        },
+        {
+          "label": "Stacked clothes locker height",
+          "value": 0.9,
+          "value_max": null,
+          "unit": "m",
+          "context": "Height for stacked lockers.",
+          "status": "uncertain",
+          "ocr_raw": "0.90 m high for stacked lockers."
+        },
+        {
+          "label": "Wheelchair-user clothes locker width",
+          "value": 0.4,
+          "value_max": null,
+          "unit": "m",
+          "context": "Wheelchair-user lockers; the text specifies full-height lockers only.",
+          "status": "uncertain",
+          "ocr_raw": "For wheelchair users, the lockers are 0.40 m wide and should be provided only as full-height lockers"
+        },
+        {
+          "label": "Changing bench seat depth",
+          "value": 0.2,
+          "value_max": 0.25,
+          "unit": "m",
+          "context": "Standard changing bench.",
+          "status": "uncertain",
+          "ocr_raw": "Changing bench: 0.20-0.25 m seat depth"
+        },
+        {
+          "label": "Wheelchair-user changing bench seat depth",
+          "value": 0.4,
+          "value_max": null,
+          "unit": "m",
+          "context": "Changing bench for wheelchair users.",
+          "status": "uncertain",
+          "ocr_raw": "for wheelchair users 0.40 m seat depth"
+        },
+        {
+          "label": "Changing bench seat height",
+          "value": 0.45,
+          "value_max": null,
+          "unit": "m",
+          "context": "Seat height.",
+          "status": "uncertain",
+          "ocr_raw": "0.45 m seat height."
+        },
+        {
+          "label": "Minimum communal changing-room bench length",
+          "value": 7.5,
+          "value_max": null,
+          "unit": "m",
+          "context": "Minimum bench length in communal changing rooms.",
+          "status": "uncertain",
+          "ocr_raw": "Min. 7.50 m bench length in communal changing rooms"
+        },
+        {
+          "label": "Minimum communal bench length for school use",
+          "value": 10.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Minimum bench length when the communal changing room is for school use.",
+          "status": "uncertain",
+          "ocr_raw": "for school use min. 10.00 m"
+        },
+        {
+          "label": "Hair-care places with dryer per guideline unit",
+          "value": 0.03,
+          "value_max": null,
+          "unit": "places per guideline unit",
+          "context": "Sanitary fittings provision.",
+          "status": "uncertain",
+          "ocr_raw": "No. sanitary fittings per guideline unit: 0.03 hair care places with dryer"
+        },
+        {
+          "label": "Foot-disinfection points per guideline unit",
+          "value": 0.015,
+          "value_max": null,
+          "unit": "points per guideline unit",
+          "context": "Sanitary fittings provision.",
+          "status": "uncertain",
+          "ocr_raw": "0.015 foot disinfection points"
+        },
+        {
+          "label": "Bucket sinks per guideline unit",
+          "value": 0.015,
+          "value_max": null,
+          "unit": "sinks per guideline unit",
+          "context": "Sanitary fittings provision.",
+          "status": "uncertain",
+          "ocr_raw": "0.015 bucket sink"
+        },
+        {
+          "label": "Cleaning-equipment room area",
+          "value": 1.0,
+          "value_max": 2.0,
+          "unit": "m²",
+          "context": "Located near the changing area.",
+          "status": "uncertain",
+          "ocr_raw": "cleaning equipment room 1-2 m2, near changing area."
+        },
+        {
+          "label": "Ceiling height",
+          "value": 2.5,
+          "value_max": null,
+          "unit": "m",
+          "context": "Changing-area guidance.",
+          "status": "uncertain",
+          "ocr_raw": "Ceiling height 2.50 m."
+        },
+        {
+          "label": "Foot-disinfection point width",
+          "value": 0.75,
+          "value_max": null,
+          "unit": "m",
+          "context": "Traffic area.",
+          "status": "uncertain",
+          "ocr_raw": "Foot disinfection point (traffic area): 0.75 m wide"
+        },
+        {
+          "label": "Foot-disinfection point depth",
+          "value": 0.5,
+          "value_max": null,
+          "unit": "m",
+          "context": "Traffic area.",
+          "status": "uncertain",
+          "ocr_raw": "0.50 m deep."
+        }
+      ],
+      "figure_refs": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8"
+      ],
+      "cross_refs": [
+        "figs. 6–7",
+        "fig. 8"
+      ],
+      "keywords": [
+        "indoor public pools",
+        "changing area",
+        "changing cubicle",
+        "family cubicle",
+        "wheelchair-accessible cubicle",
+        "communal changing room",
+        "clothes locker",
+        "changing bench",
+        "foot disinfection"
+      ],
+      "tags_architectural": [
+        "accessibility",
+        "ergonomics",
+        "anthropometry",
+        "clearance",
+        "safety",
+        "adaptability",
+        "circulation"
+      ],
+      "confidence": 0.98
+    }
+  ]
+}

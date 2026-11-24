@@ -1,0 +1,603 @@
+{
+  "fichas": [
+    {
+      "id": "4122fb96e4bd1976-215-vision-0",
+      "pdf_page": 215,
+      "book_page": 202,
+      "chapter": "EDUCATION AND RESEARCH",
+      "section": "Universities and Colleges",
+      "title": "Service rooms for lecture theatres",
+      "summary": "Each lecture theatre should have a directly accessible side room that can serve as storage. Lecture theatres with experiments need a preparation area at the same level, close to the podium. Storage and staff rooms support building operation; wheelchair users must also have sufficient space in lecture theatres in line with standards.",
+      "building_type": "University or college",
+      "spaces": [
+        "Lecture theatre",
+        "Side room",
+        "Preparation area",
+        "Technical staff room",
+        "Cleaning staff room",
+        "Storeroom"
+      ],
+      "uses": [
+        "Store equipment and supplies",
+        "Prepare experiments",
+        "Maintain lecture-theatre facilities",
+        "Support cleaning and lecture-theatre operations"
+      ],
+      "furniture_equipment": [
+        "Replacement parts",
+        "Light bulbs",
+        "Fluorescent tubes",
+        "Blackboard or whiteboard",
+        "Clothing"
+      ],
+      "dimensions": [
+        {
+          "label": "Preparation area per seat, rectangular-plan lecture theatre",
+          "value": 0.2,
+          "value_max": 0.25,
+          "unit": "m²/seat",
+          "context": "Guideline for minimum preparation-area size for a rectangular-plan lecture theatre.",
+          "status": "uncertain",
+          "ocr_raw": "for rectangular plan lecture theatre, approx. 0.2–0.25 m²/seat"
+        },
+        {
+          "label": "Preparation area per seat, trapezoidal-plan lecture theatre",
+          "value": 0.15,
+          "value_max": 0.18,
+          "unit": "m²/seat",
+          "context": "Guideline for minimum preparation-area size for a trapezoidal-plan lecture theatre.",
+          "status": "uncertain",
+          "ocr_raw": "trapezoidal plan 0.15–0.18 m²/seat"
+        },
+        {
+          "label": "Preparation area per seat, natural science and pre-clinical subjects",
+          "value": 0.2,
+          "value_max": 0.3,
+          "unit": "m²/seat",
+          "context": "Guideline for preparation-area size for lecture theatres serving natural science and pre-clinical subjects.",
+          "status": "uncertain",
+          "ocr_raw": "natural science and pre-clinical subjects 0.2–0.3 m²/seat"
+        },
+        {
+          "label": "Minimum size per staff or storage room",
+          "value": 15.0,
+          "value_max": null,
+          "unit": "m²",
+          "context": "Minimum size for each room used for storage or staff.",
+          "status": "uncertain",
+          "ocr_raw": "Min. size per room 15 m²"
+        },
+        {
+          "label": "Minimum total area for all side rooms",
+          "value": 50.0,
+          "value_max": 60.0,
+          "unit": "m²",
+          "context": "Minimum space required for all lecture-theatre side rooms.",
+          "status": "uncertain",
+          "ocr_raw": "space required for all side rooms min. 50–60 m²"
+        }
+      ],
+      "figure_refs": [
+        "1 Plan of a university building",
+        "2 Section"
+      ],
+      "cross_refs": [
+        "Places of Assembly Regulations"
+      ],
+      "keywords": [
+        "lecture theatre",
+        "side rooms",
+        "preparation area",
+        "storage",
+        "staff rooms",
+        "accessibility"
+      ],
+      "tags_architectural": [
+        "accessibility",
+        "circulation"
+      ],
+      "confidence": 0.97
+    },
+    {
+      "id": "4122fb96e4bd1976-215-vision-1",
+      "pdf_page": 215,
+      "book_page": 202,
+      "chapter": "EDUCATION AND RESEARCH",
+      "section": "Universities and Colleges",
+      "title": "Computer room",
+      "summary": "The size of a computer room depends on the number and size of computer desks, which in turn depends on the size of the displays. The illustrated plan gives room dimensions and desk-layout measurements.",
+      "building_type": "University or college",
+      "spaces": [
+        "Computer room"
+      ],
+      "uses": [
+        "Computer-based teaching or work"
+      ],
+      "furniture_equipment": [
+        "Computer desks",
+        "Displays"
+      ],
+      "dimensions": [
+        {
+          "label": "Room length",
+          "value": 12.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Dimension shown along the top of the computer-room plan.",
+          "status": "uncertain",
+          "ocr_raw": "12.00"
+        },
+        {
+          "label": "Room width",
+          "value": 9.2,
+          "value_max": null,
+          "unit": "m",
+          "context": "Overall vertical dimension shown beside the computer-room plan.",
+          "status": "uncertain",
+          "ocr_raw": "9.20"
+        },
+        {
+          "label": "Inner vertical dimension",
+          "value": 7.2,
+          "value_max": null,
+          "unit": "m",
+          "context": "Vertical dimension shown within the overall room-width dimension.",
+          "status": "uncertain",
+          "ocr_raw": "7.20"
+        },
+        {
+          "label": "Top vertical margin",
+          "value": 1.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Vertical dimension shown above the 7.20 m dimension in the plan.",
+          "status": "uncertain",
+          "ocr_raw": "1.00"
+        },
+        {
+          "label": "Bottom vertical margin",
+          "value": 1.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Vertical dimension shown below the 7.20 m dimension in the plan.",
+          "status": "uncertain",
+          "ocr_raw": "1.00"
+        },
+        {
+          "label": "Horizontal plan segment",
+          "value": 4.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Dimension shown along the lower left portion of the computer-room plan.",
+          "status": "uncertain",
+          "ocr_raw": "4.00"
+        },
+        {
+          "label": "Horizontal plan segment",
+          "value": 7.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Dimension shown along the lower central portion of the computer-room plan.",
+          "status": "uncertain",
+          "ocr_raw": "7.00"
+        },
+        {
+          "label": "Horizontal plan margin",
+          "value": 1.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Dimension shown along the lower right portion of the computer-room plan.",
+          "status": "uncertain",
+          "ocr_raw": "1.00"
+        },
+        {
+          "label": "Desk dimension",
+          "value": 1.2,
+          "value_max": null,
+          "unit": "m",
+          "context": "Dimension marked beside a desk in the computer-room plan.",
+          "status": "uncertain",
+          "ocr_raw": "1.20"
+        },
+        {
+          "label": "Desk dimension",
+          "value": 0.8,
+          "value_max": null,
+          "unit": "m",
+          "context": "Dimension marked beside a desk in the computer-room plan.",
+          "status": "uncertain",
+          "ocr_raw": "80"
+        }
+      ],
+      "figure_refs": [
+        "3 Dimensions of a computer room"
+      ],
+      "cross_refs": [],
+      "keywords": [
+        "computer room",
+        "computer desks",
+        "displays",
+        "room layout"
+      ],
+      "tags_architectural": [
+        "ergonomics",
+        "spatial_proportion"
+      ],
+      "confidence": 0.84
+    },
+    {
+      "id": "4122fb96e4bd1976-215-vision-2",
+      "pdf_page": 215,
+      "book_page": 202,
+      "chapter": "EDUCATION AND RESEARCH",
+      "section": "Universities and Colleges",
+      "title": "General tuition and seminar rooms",
+      "summary": "Seminar rooms are described for common seating capacities and use mobile double tables. Table layouts can vary for tutorials and group work. Where ventilation is from only one external wall, room depth should be limited in relation to clear ceiling height.",
+      "building_type": "University or college",
+      "spaces": [
+        "General tuition room",
+        "Seminar room"
+      ],
+      "uses": [
+        "Teaching",
+        "Tutorials",
+        "Group work"
+      ],
+      "furniture_equipment": [
+        "Mobile double tables"
+      ],
+      "dimensions": [
+        {
+          "label": "Usual seminar-room capacity",
+          "value": 20.0,
+          "value_max": null,
+          "unit": "seats",
+          "context": "One of the stated usual seminar-room sizes.",
+          "status": "uncertain",
+          "ocr_raw": "Seminar rooms, usual sizes: 20, 40, 50, 60 seats"
+        },
+        {
+          "label": "Usual seminar-room capacity",
+          "value": 40.0,
+          "value_max": null,
+          "unit": "seats",
+          "context": "One of the stated usual seminar-room sizes.",
+          "status": "uncertain",
+          "ocr_raw": "Seminar rooms, usual sizes: 20, 40, 50, 60 seats"
+        },
+        {
+          "label": "Usual seminar-room capacity",
+          "value": 50.0,
+          "value_max": null,
+          "unit": "seats",
+          "context": "One of the stated usual seminar-room sizes.",
+          "status": "uncertain",
+          "ocr_raw": "Seminar rooms, usual sizes: 20, 40, 50, 60 seats"
+        },
+        {
+          "label": "Usual seminar-room capacity",
+          "value": 60.0,
+          "value_max": null,
+          "unit": "seats",
+          "context": "One of the stated usual seminar-room sizes.",
+          "status": "uncertain",
+          "ocr_raw": "Seminar rooms, usual sizes: 20, 40, 50, 60 seats"
+        },
+        {
+          "label": "Mobile double-table width",
+          "value": 1.2,
+          "value_max": null,
+          "unit": "m",
+          "context": "Width of mobile double tables.",
+          "status": "uncertain",
+          "ocr_raw": "mobile double tables, width 1.20 m"
+        },
+        {
+          "label": "Mobile double-table depth",
+          "value": 0.6,
+          "value_max": null,
+          "unit": "m",
+          "context": "Depth of mobile double tables.",
+          "status": "uncertain",
+          "ocr_raw": "depth 0.60 m"
+        },
+        {
+          "label": "Space required per student",
+          "value": 1.9,
+          "value_max": 2.0,
+          "unit": "m²",
+          "context": "Space required per student in a seminar room.",
+          "status": "uncertain",
+          "ocr_raw": "space required per student 1.90–2.00 m"
+        },
+        {
+          "label": "Maximum room depth relative to clear ceiling height",
+          "value": 2.5,
+          "value_max": null,
+          "unit": "times clear ceiling height",
+          "context": "For ventilation from only one external wall, room depth should not exceed this multiple of clear ceiling height.",
+          "status": "uncertain",
+          "ocr_raw": "the depth of the room should not exceed 2.5 x clear ceiling height"
+        },
+        {
+          "label": "Maximum room depth relative to window height",
+          "value": 2.5,
+          "value_max": null,
+          "unit": "times window height",
+          "context": "Diagram for seminar rooms with natural ventilation; the depth limit is shown relative to window height a.",
+          "status": "uncertain",
+          "ocr_raw": "maximum 2.5 a"
+        }
+      ],
+      "figure_refs": [
+        "4 Dimensions of seminar rooms with natural ventilation"
+      ],
+      "cross_refs": [],
+      "keywords": [
+        "seminar room",
+        "teaching",
+        "table layout",
+        "natural ventilation",
+        "room depth"
+      ],
+      "tags_architectural": [
+        "ventilation",
+        "spatial_proportion",
+        "modularity"
+      ],
+      "confidence": 0.97
+    },
+    {
+      "id": "4122fb96e4bd1976-215-vision-3",
+      "pdf_page": 215,
+      "book_page": 202,
+      "chapter": "EDUCATION AND RESEARCH",
+      "section": "Universities and Colleges",
+      "title": "Offices for scientific personnel",
+      "summary": "The page lists indicative office areas for professors, scientific assistants, assistants, and secretaries. A secretary’s office has a larger stated area for double occupation.",
+      "building_type": "University or college",
+      "spaces": [
+        "Professor's office",
+        "Scientific assistant's office",
+        "Assistant's office",
+        "Secretary's office"
+      ],
+      "uses": [
+        "Academic work",
+        "Research support",
+        "Administrative work"
+      ],
+      "furniture_equipment": [
+        "Office furniture"
+      ],
+      "dimensions": [
+        {
+          "label": "Professor's office area",
+          "value": 20.0,
+          "value_max": 24.0,
+          "unit": "m²",
+          "context": "Area listed for a professor's office.",
+          "status": "uncertain",
+          "ocr_raw": "professor 20–24 m²"
+        },
+        {
+          "label": "Scientific assistant's office area",
+          "value": 15.0,
+          "value_max": null,
+          "unit": "m²",
+          "context": "Area listed for a scientific assistant's office.",
+          "status": "uncertain",
+          "ocr_raw": "scientific assistant 15 m²"
+        },
+        {
+          "label": "Assistant's office area",
+          "value": 20.0,
+          "value_max": null,
+          "unit": "m²",
+          "context": "Area listed for an assistant's office.",
+          "status": "uncertain",
+          "ocr_raw": "assistant 20 m²"
+        },
+        {
+          "label": "Secretary's office area",
+          "value": 15.0,
+          "value_max": null,
+          "unit": "m²",
+          "context": "Area listed for a secretary's office.",
+          "status": "uncertain",
+          "ocr_raw": "secretary 15 m²"
+        },
+        {
+          "label": "Secretary's office area for double occupation",
+          "value": 20.0,
+          "value_max": null,
+          "unit": "m²",
+          "context": "Area listed for a secretary's office with double occupation.",
+          "status": "uncertain",
+          "ocr_raw": "double occupation 20 m²"
+        }
+      ],
+      "figure_refs": [
+        "5 Basic equipment for service rooms"
+      ],
+      "cross_refs": [],
+      "keywords": [
+        "offices",
+        "scientific personnel",
+        "university",
+        "workspaces"
+      ],
+      "tags_architectural": [
+        "ergonomics"
+      ],
+      "confidence": 0.98
+    },
+    {
+      "id": "4122fb96e4bd1976-215-vision-4",
+      "pdf_page": 215,
+      "book_page": 202,
+      "chapter": "EDUCATION AND RESEARCH",
+      "section": "Universities and Colleges",
+      "title": "Reading places and book storage",
+      "summary": "The page gives planning dimensions for reading places and book storage, including seating-space allowances, bookcase dimensions and spacing, and approximate storage area per volume quantity. Library cross-reference points to the Libraries section.",
+      "building_type": "Faculty or open-access library",
+      "spaces": [
+        "Reading area",
+        "Book storage area",
+        "Entrance control",
+        "Catalogue area",
+        "Copier room"
+      ],
+      "uses": [
+        "Reading",
+        "Book storage",
+        "Entrance control",
+        "Catalogue access",
+        "Copying"
+      ],
+      "furniture_equipment": [
+        "Reading places",
+        "Bookshelves",
+        "Bookcases",
+        "Storage for cases and bags"
+      ],
+      "dimensions": [
+        {
+          "label": "Reading-place width",
+          "value": 0.9,
+          "value_max": 1.0,
+          "unit": "m",
+          "context": "Width allowance for a reading place.",
+          "status": "uncertain",
+          "ocr_raw": "Width 0.9–1.0 m"
+        },
+        {
+          "label": "Reading-place depth",
+          "value": 0.8,
+          "value_max": null,
+          "unit": "m",
+          "context": "Depth allowance for a reading place.",
+          "status": "uncertain",
+          "ocr_raw": "depth 0.8 m"
+        },
+        {
+          "label": "Space required per reading place",
+          "value": 2.4,
+          "value_max": 2.5,
+          "unit": "m²/place",
+          "context": "Area allowance per reading place.",
+          "status": "uncertain",
+          "ocr_raw": "Space required 2.4–2.5 m² per place"
+        },
+        {
+          "label": "Bookcase shelf count",
+          "value": 6.0,
+          "value_max": 7.0,
+          "unit": "shelves",
+          "context": "Number of shelves specified for bookcases.",
+          "status": "uncertain",
+          "ocr_raw": "Bookcases with 6–7 shelves"
+        },
+        {
+          "label": "Bookcase height",
+          "value": 2.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Bookcase height, described as reaching height.",
+          "status": "uncertain",
+          "ocr_raw": "2 m high (reaching height)"
+        },
+        {
+          "label": "Distance between bookcases",
+          "value": 1.5,
+          "value_max": 1.6,
+          "unit": "m",
+          "context": "Spacing between bookcases.",
+          "status": "uncertain",
+          "ocr_raw": "Distance between bookcases 1.50–1.60 m"
+        },
+        {
+          "label": "Storage area per 200 volumes",
+          "value": 1.0,
+          "value_max": 1.2,
+          "unit": "m²/200 volumes",
+          "context": "Space required for book storage, stated per 200 volumes.",
+          "status": "uncertain",
+          "ocr_raw": "Space required 1.0–1.2 m²/200 vols"
+        },
+        {
+          "label": "Open-access library collection capacity",
+          "value": 30000.0,
+          "value_max": 200000.0,
+          "unit": "volumes",
+          "context": "Storage capacity stated for faculty and open-access libraries on open-access shelves.",
+          "status": "uncertain",
+          "ocr_raw": "Storage for 30 000–200 000 vols on open-access shelves."
+        }
+      ],
+      "figure_refs": [
+        "6 Arrangement of reading places and bookshelves",
+        "7 Arrangement of reading places and bookshelves"
+      ],
+      "cross_refs": [
+        "Libraries, pp. 247 ff."
+      ],
+      "keywords": [
+        "library",
+        "reading places",
+        "bookshelves",
+        "book storage",
+        "open-access shelves"
+      ],
+      "tags_architectural": [
+        "ergonomics",
+        "circulation"
+      ],
+      "confidence": 0.98
+    },
+    {
+      "id": "4122fb96e4bd1976-215-vision-5",
+      "pdf_page": 215,
+      "book_page": 202,
+      "chapter": "EDUCATION AND RESEARCH",
+      "section": "Universities and Colleges",
+      "title": "Cloakroom and WC facilities",
+      "summary": "A rough combined area estimate is given for cloakroom and WC facilities, calculated per seat.",
+      "building_type": "University or college",
+      "spaces": [
+        "Cloakroom",
+        "WC facilities"
+      ],
+      "uses": [
+        "Store coats and belongings",
+        "Provide toilet facilities"
+      ],
+      "furniture_equipment": [
+        "Cloakroom storage",
+        "WC fixtures"
+      ],
+      "dimensions": [
+        {
+          "label": "Combined cloakroom and WC area per seat",
+          "value": 0.15,
+          "value_max": 0.16,
+          "unit": "m²/seat",
+          "context": "Rough estimate for cloakroom and WC facilities together.",
+          "status": "uncertain",
+          "ocr_raw": "Rough estimate for both together: 0.15–0.16 m²/seat"
+        }
+      ],
+      "figure_refs": [],
+      "cross_refs": [],
+      "keywords": [
+        "cloakroom",
+        "toilets",
+        "area allowance"
+      ],
+      "tags_architectural": [
+        "circulation"
+      ],
+      "confidence": 0.97
+    }
+  ]
+}

@@ -1,0 +1,592 @@
+{
+  "fichas": [
+    {
+      "id": "4122fb96e4bd1976-102-vision-0",
+      "pdf_page": 102,
+      "book_page": 89,
+      "chapter": "BUILDING COMPONENTS",
+      "section": "Roofs",
+      "title": "Pitched roof coverings and loads",
+      "summary": "Reference data for corrugated cement-fibre and metal roof coverings, including fixing and minimum-pitch diagrams, covering weights, and sheet-format examples. Copper roofing is described as suitable for cold roofs; the text refers to p. 90.",
+      "building_type": "Building component — pitched roof",
+      "spaces": [],
+      "uses": [
+        "Roof covering",
+        "Roof drainage surface"
+      ],
+      "furniture_equipment": [
+        "Corrugated cement-fibre sheets",
+        "Metal roof sheeting",
+        "Roof battens",
+        "Purlins",
+        "Standing-seam and welted-joint fixings"
+      ],
+      "dimensions": [
+        {
+          "label": "Cement-fibre sheet purlin spacing",
+          "value": 70.0,
+          "value_max": 145.0,
+          "unit": "cm",
+          "context": "For 1.6 m sheets.",
+          "status": "uncertain",
+          "ocr_raw": "purlin spacing of 70–145 cm for 1.6 m sheets"
+        },
+        {
+          "label": "Cement-fibre sheet length",
+          "value": 1.6,
+          "value_max": null,
+          "unit": "m",
+          "context": "Sheet length associated with the stated purlin spacing.",
+          "status": "uncertain",
+          "ocr_raw": "70–145 cm for 1.6 m sheets"
+        },
+        {
+          "label": "Cement-fibre sheet length",
+          "value": 2.5,
+          "value_max": null,
+          "unit": "m",
+          "context": "Long-sheet format; OCR text also gives 1.15 and 1.175 m, whose measurement context is unclear.",
+          "status": "uncertain",
+          "ocr_raw": "of 1.15 and 1.175 m for 2.50 m sheets"
+        },
+        {
+          "label": "Lap length",
+          "value": 150.0,
+          "value_max": 200.0,
+          "unit": "mm",
+          "context": "Cement-fibre corrugated sheets.",
+          "status": "uncertain",
+          "ocr_raw": "lapped 150 or 200 mm"
+        },
+        {
+          "label": "Roof load",
+          "value": 0.2,
+          "value_max": null,
+          "unit": "kN/m²",
+          "context": "Corrugated cement-fibre roofing with shaped pieces for eaves and ridge.",
+          "status": "uncertain",
+          "ocr_raw": "load 0.20 kN/m²"
+        },
+        {
+          "label": "Roof load",
+          "value": 0.25,
+          "value_max": null,
+          "unit": "kN/m²",
+          "context": "Metal sheet roof with welted-joint construction.",
+          "status": "uncertain",
+          "ocr_raw": "load 0.25 kN/m²"
+        },
+        {
+          "label": "Roof load",
+          "value": 0.15,
+          "value_max": null,
+          "unit": "kN/m²",
+          "context": "Steel pantile roofing.",
+          "status": "uncertain",
+          "ocr_raw": "Steel pantile roofing, load 0.15 kN/m²"
+        },
+        {
+          "label": "Additional load for mortar-pointing",
+          "value": 0.1,
+          "value_max": null,
+          "unit": "kN/m²",
+          "context": "Add to the listed pitched-roof covering loads when mortar-pointed.",
+          "status": "uncertain",
+          "ocr_raw": "If mortar-pointed, add 0.1 kN/m²."
+        },
+        {
+          "label": "Corrugated cement-fibre profile height",
+          "value": 51.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Profile 177/51 shown in the sheet diagram.",
+          "status": "uncertain",
+          "ocr_raw": "profile 177/51"
+        },
+        {
+          "label": "Corrugated cement-fibre profile height",
+          "value": 30.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Profile 130/30 shown in the sheet diagram.",
+          "status": "uncertain",
+          "ocr_raw": "profile 130/30"
+        },
+        {
+          "label": "Corrugated cement-fibre sheet width",
+          "value": 1000.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Width shown for the profile 130/30 sheet formats.",
+          "status": "uncertain",
+          "ocr_raw": "width (mm) 1000 1000 1000 1000"
+        },
+        {
+          "label": "Aluminium roof sheet thickness",
+          "value": 0.7,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Aluminium roof, including boarding, in the roof-load list.",
+          "status": "uncertain",
+          "ocr_raw": "aluminium roof (aluminium 0.7 mm thick) incl. boarding"
+        },
+        {
+          "label": "Copper sheet thickness",
+          "value": 0.6,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Copper roof with double seams, including boarding, in the roof-load list.",
+          "status": "uncertain",
+          "ocr_raw": "copper roof with double seams (copper sheet 0.6 mm thick) incl. boarding"
+        },
+        {
+          "label": "Galvanised seamed-sheet thickness",
+          "value": 0.63,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Double standing-seam roof, including underlay and boarding.",
+          "status": "uncertain",
+          "ocr_raw": "double standing seam roof of galvanised seamed sheeting (0.63 mm thick) including underlay and boarding"
+        }
+      ],
+      "figure_refs": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "11"
+      ],
+      "cross_refs": [
+        "p. 90"
+      ],
+      "keywords": [
+        "pitched roofs",
+        "cement fibre roofing",
+        "metal roofing",
+        "copper roofing",
+        "roof covering loads",
+        "roof pitch",
+        "standing seam"
+      ],
+      "tags_architectural": [
+        "safety"
+      ],
+      "confidence": 0.91
+    },
+    {
+      "id": "4122fb96e4bd1976-102-vision-1",
+      "pdf_page": 102,
+      "book_page": 89,
+      "chapter": "BUILDING COMPONENTS",
+      "section": "Roofs",
+      "title": "Metal roofing formats and minimum pitches",
+      "summary": "Diagrams and tables show formats for rolled and large-element metal roof and wall sheets, together with minimum-pitch guidance for coverings and corrugated sheet-metal side laps. The pitch diagram includes angular values; no unprinted conversions are inferred.",
+      "building_type": "Building component — roof and wall cladding",
+      "spaces": [],
+      "uses": [
+        "Roof covering",
+        "Roof and wall cladding"
+      ],
+      "furniture_equipment": [
+        "Rolled copper material",
+        "Large-format roof and wall elements",
+        "Corrugated sheet metal",
+        "Steel pantile sheets"
+      ],
+      "dimensions": [
+        {
+          "label": "Rolled material length",
+          "value": 30.0,
+          "value_max": 40.0,
+          "unit": "m",
+          "context": "Rolls, supplied form.",
+          "status": "uncertain",
+          "ocr_raw": "length (m) 30–40"
+        },
+        {
+          "label": "Rolled material maximum width",
+          "value": 0.6,
+          "value_max": 0.66,
+          "unit": "m",
+          "context": "Rolls; width shown as 0.6 (0.66).",
+          "status": "uncertain",
+          "ocr_raw": "max. width (m) 0.6 (0.66)"
+        },
+        {
+          "label": "Rolled material thickness",
+          "value": 0.1,
+          "value_max": 2.0,
+          "unit": "mm",
+          "context": "Rolls.",
+          "status": "uncertain",
+          "ocr_raw": "thickness (mm) 0.1–2.0"
+        },
+        {
+          "label": "Panel material length",
+          "value": 2.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Panels, supplied form.",
+          "status": "uncertain",
+          "ocr_raw": "length (m) 30–40 2.0"
+        },
+        {
+          "label": "Panel material maximum width",
+          "value": 1.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Panels.",
+          "status": "uncertain",
+          "ocr_raw": "max. width (m) 0.6 (0.66) 1.0"
+        },
+        {
+          "label": "Panel material thickness",
+          "value": 0.2,
+          "value_max": 2.0,
+          "unit": "mm",
+          "context": "Panels.",
+          "status": "uncertain",
+          "ocr_raw": "thickness (mm) 0.1–2.0 0.2–2.0"
+        },
+        {
+          "label": "Specific weight",
+          "value": 8.93,
+          "value_max": null,
+          "unit": "kg/dm³",
+          "context": "Value shown for both rolls and panels in the supplied-form table.",
+          "status": "uncertain",
+          "ocr_raw": "specific wt (kg/dm³) 8.93 8.93"
+        },
+        {
+          "label": "Large roof/wall element panel width",
+          "value": 100.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Dimension shown on the large-element diagram.",
+          "status": "uncertain",
+          "ocr_raw": "panel width 100"
+        },
+        {
+          "label": "Corrugated sheet-metal roof pitch",
+          "value": 8.0,
+          "value_max": null,
+          "unit": "degrees",
+          "context": "Minimum pitch with 200 mm overlap sealed.",
+          "status": "uncertain",
+          "ocr_raw": "8–10° 200mm with sealing of overlap"
+        },
+        {
+          "label": "Corrugated sheet-metal roof pitch",
+          "value": 10.0,
+          "value_max": 15.0,
+          "unit": "degrees",
+          "context": "Minimum pitch with 150 mm overlap without sealing.",
+          "status": "uncertain",
+          "ocr_raw": "10–15° 150mm without sealing of overlap"
+        },
+        {
+          "label": "Corrugated sheet-metal roof pitch",
+          "value": 15.0,
+          "value_max": null,
+          "unit": "degrees",
+          "context": "Pitch over 15°; overlap without sealing.",
+          "status": "uncertain",
+          "ocr_raw": "over 15° 100mm without sealing of overlap"
+        },
+        {
+          "label": "Side lap",
+          "value": 200.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Overlap with sealing, paired in the table with the 8–10° pitch entry.",
+          "status": "uncertain",
+          "ocr_raw": "8–10° 200mm with sealing of overlap"
+        },
+        {
+          "label": "Side lap",
+          "value": 150.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Overlap without sealing, paired in the table with the 10–15° pitch entry.",
+          "status": "uncertain",
+          "ocr_raw": "10–15° 150mm without sealing of overlap"
+        },
+        {
+          "label": "Side lap",
+          "value": 100.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Overlap without sealing, paired in the table with the over-15° pitch entry.",
+          "status": "uncertain",
+          "ocr_raw": "over 15° 100mm without sealing of overlap"
+        },
+        {
+          "label": "Gutter bracket strip width",
+          "value": 20.0,
+          "value_max": 50.0,
+          "unit": "mm",
+          "context": "Typical galvanised steel strip supports for gutters.",
+          "status": "uncertain",
+          "ocr_raw": "Guttering supports normally consist of galvanised steel strips, width 20–50 mm"
+        },
+        {
+          "label": "Gutter support strip thickness",
+          "value": 4.0,
+          "value_max": 6.0,
+          "unit": "mm",
+          "context": "Typical galvanised steel strip supports for gutters.",
+          "status": "uncertain",
+          "ocr_raw": "and thickness 4–6 mm."
+        }
+      ],
+      "figure_refs": [
+        "2",
+        "6",
+        "7",
+        "8",
+        "12",
+        "13"
+      ],
+      "cross_refs": [],
+      "keywords": [
+        "minimum roof pitch",
+        "metal roofing",
+        "sheet formats",
+        "rolled copper",
+        "corrugated sheets",
+        "side lap",
+        "roof cladding"
+      ],
+      "tags_architectural": [
+        "safety"
+      ],
+      "confidence": 0.82
+    },
+    {
+      "id": "4122fb96e4bd1976-102-vision-2",
+      "pdf_page": 102,
+      "book_page": 89,
+      "chapter": "BUILDING COMPONENTS",
+      "section": "Roofs",
+      "title": "Roof gutters and downpipes",
+      "summary": "Reference diagrams and tables cover gutter forms and locations, gutter materials, guideline gutter and downpipe sizes by roof drainage area, and installation notes. Downpipes are to be held with corrosion-protected clips, kept clear of the wall, and supported at the stated spacing.",
+      "building_type": "Building component — roof drainage",
+      "spaces": [],
+      "uses": [
+        "Collect roof runoff",
+        "Convey roof runoff to drainage"
+      ],
+      "furniture_equipment": [
+        "Semicircular gutters",
+        "Rectangular gutters",
+        "Gutter brackets",
+        "Downpipes",
+        "Pipe clips"
+      ],
+      "dimensions": [
+        {
+          "label": "Gutter area capacity range",
+          "value": 25.0,
+          "value_max": 40.0,
+          "unit": "m²",
+          "context": "Guideline gutter sizing table; the printed entries associate drainage areas with gutter diameters and cut lengths.",
+          "status": "uncertain",
+          "ocr_raw": "25–40 80 200 (10-part)"
+        },
+        {
+          "label": "Gutter diameter",
+          "value": 70.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "First gutter-table entry, for roof drainage area up to 25 m².",
+          "status": "uncertain",
+          "ocr_raw": "up to 25 70 200"
+        },
+        {
+          "label": "Gutter diameter",
+          "value": 80.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Gutter-table entry for roof drainage area 25–40 m².",
+          "status": "uncertain",
+          "ocr_raw": "25–40 80 200 (10-part)"
+        },
+        {
+          "label": "Gutter diameter",
+          "value": 90.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Gutter-table entry for roof drainage area 40–60 m².",
+          "status": "uncertain",
+          "ocr_raw": "40–60 90 250 (8-part)"
+        },
+        {
+          "label": "Gutter diameter",
+          "value": 125.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Gutter-table entry for roof drainage area 60–90 m².",
+          "status": "uncertain",
+          "ocr_raw": "60–90 125 285 (7-part)"
+        },
+        {
+          "label": "Gutter diameter",
+          "value": 150.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Gutter-table entry for roof drainage area 90–125 m².",
+          "status": "uncertain",
+          "ocr_raw": "90–125 150 333 (6-part)"
+        },
+        {
+          "label": "Gutter diameter",
+          "value": 200.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Gutter-table entry for roof drainage area 175–275 m².",
+          "status": "uncertain",
+          "ocr_raw": "175–275 200 500 (4-part)"
+        },
+        {
+          "label": "Downpipe diameter",
+          "value": 50.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Guideline downpipe size for roof drainage area up to 20 m².",
+          "status": "uncertain",
+          "ocr_raw": "up to 20 50 167 (12-part)"
+        },
+        {
+          "label": "Downpipe diameter",
+          "value": 60.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Guideline downpipe size for roof drainage area 20–50 m².",
+          "status": "uncertain",
+          "ocr_raw": "20–50 60 200 (10-part)"
+        },
+        {
+          "label": "Downpipe diameter",
+          "value": 70.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Guideline downpipe size for roof drainage area 50–90 m².",
+          "status": "uncertain",
+          "ocr_raw": "50–90 70 250 (8-part)"
+        },
+        {
+          "label": "Downpipe diameter",
+          "value": 80.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Guideline downpipe size for roof drainage area 60–100 m².",
+          "status": "uncertain",
+          "ocr_raw": "60–100 80 285 (7-part)"
+        },
+        {
+          "label": "Downpipe diameter",
+          "value": 100.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Guideline downpipe size for roof drainage area 90–120 m².",
+          "status": "uncertain",
+          "ocr_raw": "90–120 100 333 (6-part)"
+        },
+        {
+          "label": "Downpipe diameter",
+          "value": 125.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Guideline downpipe size for roof drainage area 100–180 m².",
+          "status": "uncertain",
+          "ocr_raw": "100–180 125 400 (5-part)"
+        },
+        {
+          "label": "Downpipe diameter",
+          "value": 150.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Guideline downpipe size for roof drainage area 180–250 m².",
+          "status": "uncertain",
+          "ocr_raw": "180–250 150 500 (4-part)"
+        },
+        {
+          "label": "Minimum downpipe clearance from wall",
+          "value": 20.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Minimum distance between downpipe and wall.",
+          "status": "uncertain",
+          "ocr_raw": "Minimum distance of downpipe from the wall 20 mm."
+        },
+        {
+          "label": "Pipe-clip spacing",
+          "value": 2.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Spacing of pipe clips along downpipe.",
+          "status": "uncertain",
+          "ocr_raw": "Pipe clip spacing 2 m."
+        },
+        {
+          "label": "Gutter bracket example size",
+          "value": 333.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Example specification for a semicircular zinc gutter and bracket.",
+          "status": "uncertain",
+          "ocr_raw": "semi-circular gutter 333 Zn 0.75 mm; with gutter bracket 333 St Zn"
+        },
+        {
+          "label": "Example zinc gutter thickness",
+          "value": 0.75,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Example specification for a semicircular zinc gutter.",
+          "status": "uncertain",
+          "ocr_raw": "semi-circular gutter 333 Zn 0.75 mm"
+        },
+        {
+          "label": "Zinc sheet minimum thickness",
+          "value": 0.7,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Zinc sheet material specification.",
+          "status": "uncertain",
+          "ocr_raw": "Zinc sheet DIN 9721 at least 0.7 mm"
+        },
+        {
+          "label": "Semicircular gutter material cut length",
+          "value": 200.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Cut-length table entry; OCR table alignment is unclear.",
+          "status": "uncertain",
+          "ocr_raw": "200 (10-part)"
+        }
+      ],
+      "figure_refs": [
+        "9",
+        "10",
+        "14",
+        "15"
+      ],
+      "cross_refs": [],
+      "keywords": [
+        "roof drainage",
+        "gutters",
+        "downpipes",
+        "gutter brackets",
+        "pipe clips",
+        "drainage area"
+      ],
+      "tags_architectural": [
+        "safety"
+      ],
+      "confidence": 0.78
+    }
+  ]
+}

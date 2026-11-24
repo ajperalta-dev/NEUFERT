@@ -1,0 +1,201 @@
+{
+  "fichas": [
+    {
+      "id": "4122fb96e4bd1976-540-vision-0",
+      "pdf_page": 540,
+      "book_page": 527,
+      "chapter": "BUILDING SERVICES",
+      "section": "Domestic Installation",
+      "title": "Backflow prevention devices",
+      "summary": "Application areas and approved backflow prevention device types are tabulated for faeces-free water and precipitation water, wastewater containing faeces, and rainwater utilisation facilities. The page also illustrates a wastewater lifting-pump arrangement and describes protection against sewer back-up.",
+      "building_type": "Building drainage system",
+      "spaces": [
+        "Drainage system",
+        "Pumping sump"
+      ],
+      "uses": [
+        "Select backflow prevention devices for the stated water categories",
+        "Protect discharge locations below the sewer back-up level"
+      ],
+      "furniture_equipment": [
+        "Backflow preventer",
+        "Collection tank",
+        "Sump pump",
+        "Manual membrane pump",
+        "Shut-off valve",
+        "Control system",
+        "Pressure pipe"
+      ],
+      "dimensions": [],
+      "figure_refs": [
+        "Figure 1: Application areas for backflow prevention devices",
+        "Figure 2: Wastewater lifting pump as double system",
+        "Figure 3: Back-up in the discharge pipe of a combined drainage system"
+      ],
+      "cross_refs": [
+        "DIN EN 13564-1",
+        "DIN 1986-100, Table 2",
+        "DIN 1997",
+        "DIN 19578",
+        "DIN 1989-1",
+        "DIN EN 12056-4",
+        "DIN 12056-4"
+      ],
+      "keywords": [
+        "backflow prevention",
+        "wastewater lifting pump",
+        "back-up level",
+        "drainage",
+        "rainwater"
+      ],
+      "tags_architectural": [
+        "safety"
+      ],
+      "confidence": 0.92
+    },
+    {
+      "id": "4122fb96e4bd1976-540-vision-1",
+      "pdf_page": 540,
+      "book_page": 527,
+      "chapter": "BUILDING SERVICES",
+      "section": "Domestic Installation",
+      "title": "Roof drainage with pressurised flow",
+      "summary": "Pressurised roof drainage requires hydraulic certification for each project. Backing-up at the outlet is not considered roof flooding when outlet requirements are met. Roofs subject to regular flooding require waterproofing and structural design to the flooding level. When discharging into unpressurised pipework, reduce flow velocity to limit kinetic energy.",
+      "building_type": "Building drainage system",
+      "spaces": [
+        "Roof surface",
+        "Roof outlet",
+        "Drainage pipework"
+      ],
+      "uses": [
+        "Drain roof surfaces using pressurised-flow drainage",
+        "Manage discharge into unpressurised pipework"
+      ],
+      "furniture_equipment": [
+        "Roof outlet",
+        "Drainage pipework"
+      ],
+      "dimensions": [
+        {
+          "label": "Maximum flow velocity after reduction",
+          "value": 2.5,
+          "value_max": null,
+          "unit": "m/s",
+          "context": "Flow velocity is to be reduced to less than this value when pressurised drainage feeds into an unpressurised pipework system.",
+          "status": "verified",
+          "ocr_raw": "<2.5 m/s"
+        }
+      ],
+      "figure_refs": [],
+      "cross_refs": [
+        "DIN 19599"
+      ],
+      "keywords": [
+        "roof drainage",
+        "pressurised flow",
+        "hydraulic certification",
+        "flooding level",
+        "flow velocity"
+      ],
+      "tags_architectural": [
+        "safety"
+      ],
+      "confidence": 0.96
+    },
+    {
+      "id": "4122fb96e4bd1976-540-vision-2",
+      "pdf_page": 540,
+      "book_page": 527,
+      "chapter": "BUILDING SERVICES",
+      "section": "Domestic Installation",
+      "title": "Sewer back-up and special wastewater",
+      "summary": "Discharge locations below the sewer back-up level require protection by an automatic wastewater lifting pump with a back-up loop or a backflow prevention device. Double lifting systems are specified where wastewater flow must not be interrupted. The text also calls for flooding and overloading certification in relevant cases and treatment or separation of commercial and industrial wastewater before discharge to a public foul sewer.",
+      "building_type": "Building drainage system",
+      "spaces": [
+        "Discharge locations below sewer back-up level",
+        "House entrances",
+        "Cellar entrances",
+        "Garage access drives",
+        "Internal courtyards",
+        "Commercial and industrial wastewater drainage"
+      ],
+      "uses": [
+        "Prevent sewer back-up at low-level discharge points",
+        "Provide continuous wastewater pumping with a double lifting system where required",
+        "Treat commercial and industrial wastewater before discharge",
+        "Separate mineral oil or volatile liquids from wastewater"
+      ],
+      "furniture_equipment": [
+        "Automatic wastewater lifting pump",
+        "Back-up loop",
+        "Backflow prevention device",
+        "Grease separator",
+        "Separator for volatile liquids",
+        "Starch separator",
+        "Emulsion splitting plant",
+        "Silt trap",
+        "Sampling chamber"
+      ],
+      "dimensions": [
+        {
+          "label": "Design rainfall event",
+          "value": 100.0,
+          "value_max": null,
+          "unit": "year return period",
+          "context": "Design the stated pumps so a hundred-year event cannot cause damage.",
+          "status": "verified",
+          "ocr_raw": "Application area\n\nApproved types of backflow prevention\ndevice according to DIN EN 13564-1'>\n\nfaeces-free water, precipitation water\n\ntypes 2, 3 and 5\n\nwater containing faeces\n\ntype 3 with marking 'F'\n\nrainwater utilisation facilitiesbl\n\ntypes 0, 1, 2\n\n•> until the introduction of DIN EN 13564-1, DIN 1997 and DIN 19578 apply\nb) only permissible for overflows from underground tanks which are connected to a\nsurface water sewer (see DIN 1989-1)\n\n0 Application areas for backflow prevention devices (corresponds to DIN 1986100, Table 2)\n\nI\nBack-up loop\nLocally specified back-u p level\n'::7\n\nr-~\n\nVenting dia. >70 to above roof\n\n~\n\nControl system\n\nJ'\"'Q\n\nControl cable for level switching\nPressure pipe dia. 100\nMotor cable\nManual membrane pu mp\nShut-off valve\n\n\"\"\"\" ~\n\"'----'\n\n~bnt\n\nLI,\n\n~\n\nBackflow preventer\nCollection tank\n\n'\\\n\nIncoming drain\n\nlt!~TI ~f- r..._\n\nSump pump motor\nPumping sump with\ndrainage pump\n\n0\n0\n\n.,.;\n\nf) Wastewater lifting pump as double system, DIN i 2056-4 (Wellpott, Bohne -> refs)\n\nDOMESTIC INSTALLATION\nDrainage\n\nRoof drainage with pressurised flow\nFor this system, hydraulic certification should be produced\nfor each individual project. The backing-up at the outlet\nrequired for the function does not count as flooding of\nthe roof surface, as long as the requirements of outlets\naccording to DIN 19599 are not exceeded.\nRoof surfaces with, for example, regular flooding are to be\nwaterproofed up to the flooding level and appropriately\nstructurally designed. At the most the difference in level\nbetween the roof outlet and the backing-up level should\nbe assumed for the rainwater pressure drainage system.\nIf a pressure drainage system is fed into an unpressurised\nsystem of pipework, conversion of the high kinetic energy\nshould be ensured by the reduction of the flow velocity to\n<2.5 m/s.\nBacking-up\nDischarge locations below the sewer backing-up level are to\nbe protected against backing-up in the sewer by automatic\nwastewater lifting pumps with backing-up loop or backflow\nprevention device (DIN EN 12056-4). Backflow prevention\ndevices have a limited scope of application --; 0.\nWastewater lifting pumps, in which the flow of wastewater\nmust not be interrupted, are to be installed as double lifting\nsystems --; f). These pumps should also be provided for\nprecipitation water, which is to be drained below the sewer\nbacking-up level. These should be designed so that the\noccurrence of a hundred-year event r51100; cannot cause\ndamage (to surfaces like house entrances, cellar entrances,\ngarage access drives, internal courtyards).\nA flooding certification, required by DIN EN 752-4, assuming\nrainfall of r15130;, is to be produced for larger areas below the\nsewer backing-up level, which do not endanger buildings\nor assets. The wastewater lifting pump should be designed\nfor at least r512;.\nFor roof surfaces which can be drained without the provision\nof an emergency overflow, the planned flooding level must\nbe discussed with and checked by the structural engineer.\nFurthermore, an overloading certification is to be obtained\nfor internally routed drainage systems as far as a pressure\nrelief point. Flooding and overloading certifications are to be\nobtained for a 100-year rainstorm r51100;.\nSpecial wastewater\nWastewater of commercial and industrial origin is generally\nto be treated so that it is permissible to feed it into a public\nfoul sewer. This may require the installation of separation or\ntreatment facilities such as grease separators, separators\nfor volatile liquids, starch separators or emulsion splitting\nplant. For mineral oil or volatile liquids, separators are to\nbe dimensioned according to DIN 1999. These devices\nnormally consist of a silt trap, separator and chamber for\ntaking samples. In particular, areas on which vehicles are\nwashed, maintained or fuelled should be connected to the\ndrains through a separator for volatile liquids.\n\nBacking-up In the discharge pipe of a combined drainage system, resulting\nfrom overloading of the drains after heavy rainfall. Surface water mixed with\nwastewater pours out of the lowest gullies, unless they are protected (Well pot!,\nBohne -> refs)\n\n527\n\nDOMESTIC\nINSTALLATION\nDrainage\n\nVentilation\nHeating\nSmall sewage\ntreatment plants\nBS 6229\nBS 8490\nBS EN 12056\nDIN 752\nDIN 1986\nDIN 1999\nDIN EN 12056\nDIN 19599\n\n\f"
+        },
+        {
+          "label": "Rainfall assumed for flooding certification",
+          "value": 30.0,
+          "value_max": null,
+          "unit": "year return period",
+          "context": "Flooding certification for larger areas below the sewer back-up level assumes this rainfall event.",
+          "status": "verified",
+          "ocr_raw": "Application area\n\nApproved types of backflow prevention\ndevice according to DIN EN 13564-1'>\n\nfaeces-free water, precipitation water\n\ntypes 2, 3 and 5\n\nwater containing faeces\n\ntype 3 with marking 'F'\n\nrainwater utilisation facilitiesbl\n\ntypes 0, 1, 2\n\n•> until the introduction of DIN EN 13564-1, DIN 1997 and DIN 19578 apply\nb) only permissible for overflows from underground tanks which are connected to a\nsurface water sewer (see DIN 1989-1)\n\n0 Application areas for backflow prevention devices (corresponds to DIN 1986100, Table 2)\n\nI\nBack-up loop\nLocally specified back-u p level\n'::7\n\nr-~\n\nVenting dia. >70 to above roof\n\n~\n\nControl system\n\nJ'\"'Q\n\nControl cable for level switching\nPressure pipe dia. 100\nMotor cable\nManual membrane pu mp\nShut-off valve\n\n\"\"\"\" ~\n\"'----'\n\n~bnt\n\nLI,\n\n~\n\nBackflow preventer\nCollection tank\n\n'\\\n\nIncoming drain\n\nlt!~TI ~f- r..._\n\nSump pump motor\nPumping sump with\ndrainage pump\n\n0\n0\n\n.,.;\n\nf) Wastewater lifting pump as double system, DIN i 2056-4 (Wellpott, Bohne -> refs)\n\nDOMESTIC INSTALLATION\nDrainage\n\nRoof drainage with pressurised flow\nFor this system, hydraulic certification should be produced\nfor each individual project. The backing-up at the outlet\nrequired for the function does not count as flooding of\nthe roof surface, as long as the requirements of outlets\naccording to DIN 19599 are not exceeded.\nRoof surfaces with, for example, regular flooding are to be\nwaterproofed up to the flooding level and appropriately\nstructurally designed. At the most the difference in level\nbetween the roof outlet and the backing-up level should\nbe assumed for the rainwater pressure drainage system.\nIf a pressure drainage system is fed into an unpressurised\nsystem of pipework, conversion of the high kinetic energy\nshould be ensured by the reduction of the flow velocity to\n<2.5 m/s.\nBacking-up\nDischarge locations below the sewer backing-up level are to\nbe protected against backing-up in the sewer by automatic\nwastewater lifting pumps with backing-up loop or backflow\nprevention device (DIN EN 12056-4). Backflow prevention\ndevices have a limited scope of application --; 0.\nWastewater lifting pumps, in which the flow of wastewater\nmust not be interrupted, are to be installed as double lifting\nsystems --; f). These pumps should also be provided for\nprecipitation water, which is to be drained below the sewer\nbacking-up level. These should be designed so that the\noccurrence of a hundred-year event r51100; cannot cause\ndamage (to surfaces like house entrances, cellar entrances,\ngarage access drives, internal courtyards).\nA flooding certification, required by DIN EN 752-4, assuming\nrainfall of r15130;, is to be produced for larger areas below the\nsewer backing-up level, which do not endanger buildings\nor assets. The wastewater lifting pump should be designed\nfor at least r512;.\nFor roof surfaces which can be drained without the provision\nof an emergency overflow, the planned flooding level must\nbe discussed with and checked by the structural engineer.\nFurthermore, an overloading certification is to be obtained\nfor internally routed drainage systems as far as a pressure\nrelief point. Flooding and overloading certifications are to be\nobtained for a 100-year rainstorm r51100;.\nSpecial wastewater\nWastewater of commercial and industrial origin is generally\nto be treated so that it is permissible to feed it into a public\nfoul sewer. This may require the installation of separation or\ntreatment facilities such as grease separators, separators\nfor volatile liquids, starch separators or emulsion splitting\nplant. For mineral oil or volatile liquids, separators are to\nbe dimensioned according to DIN 1999. These devices\nnormally consist of a silt trap, separator and chamber for\ntaking samples. In particular, areas on which vehicles are\nwashed, maintained or fuelled should be connected to the\ndrains through a separator for volatile liquids.\n\nBacking-up In the discharge pipe of a combined drainage system, resulting\nfrom overloading of the drains after heavy rainfall. Surface water mixed with\nwastewater pours out of the lowest gullies, unless they are protected (Well pot!,\nBohne -> refs)\n\n527\n\nDOMESTIC\nINSTALLATION\nDrainage\n\nVentilation\nHeating\nSmall sewage\ntreatment plants\nBS 6229\nBS 8490\nBS EN 12056\nDIN 752\nDIN 1986\nDIN 1999\nDIN EN 12056\nDIN 19599\n\n\f"
+        },
+        {
+          "label": "Minimum design rainfall event",
+          "value": 2.0,
+          "value_max": null,
+          "unit": "year return period",
+          "context": "The wastewater lifting pump should be designed for at least this event.",
+          "status": "verified",
+          "ocr_raw": "Application area\n\nApproved types of backflow prevention\ndevice according to DIN EN 13564-1'>\n\nfaeces-free water, precipitation water\n\ntypes 2, 3 and 5\n\nwater containing faeces\n\ntype 3 with marking 'F'\n\nrainwater utilisation facilitiesbl\n\ntypes 0, 1, 2\n\n•> until the introduction of DIN EN 13564-1, DIN 1997 and DIN 19578 apply\nb) only permissible for overflows from underground tanks which are connected to a\nsurface water sewer (see DIN 1989-1)\n\n0 Application areas for backflow prevention devices (corresponds to DIN 1986100, Table 2)\n\nI\nBack-up loop\nLocally specified back-u p level\n'::7\n\nr-~\n\nVenting dia. >70 to above roof\n\n~\n\nControl system\n\nJ'\"'Q\n\nControl cable for level switching\nPressure pipe dia. 100\nMotor cable\nManual membrane pu mp\nShut-off valve\n\n\"\"\"\" ~\n\"'----'\n\n~bnt\n\nLI,\n\n~\n\nBackflow preventer\nCollection tank\n\n'\\\n\nIncoming drain\n\nlt!~TI ~f- r..._\n\nSump pump motor\nPumping sump with\ndrainage pump\n\n0\n0\n\n.,.;\n\nf) Wastewater lifting pump as double system, DIN i 2056-4 (Wellpott, Bohne -> refs)\n\nDOMESTIC INSTALLATION\nDrainage\n\nRoof drainage with pressurised flow\nFor this system, hydraulic certification should be produced\nfor each individual project. The backing-up at the outlet\nrequired for the function does not count as flooding of\nthe roof surface, as long as the requirements of outlets\naccording to DIN 19599 are not exceeded.\nRoof surfaces with, for example, regular flooding are to be\nwaterproofed up to the flooding level and appropriately\nstructurally designed. At the most the difference in level\nbetween the roof outlet and the backing-up level should\nbe assumed for the rainwater pressure drainage system.\nIf a pressure drainage system is fed into an unpressurised\nsystem of pipework, conversion of the high kinetic energy\nshould be ensured by the reduction of the flow velocity to\n<2.5 m/s.\nBacking-up\nDischarge locations below the sewer backing-up level are to\nbe protected against backing-up in the sewer by automatic\nwastewater lifting pumps with backing-up loop or backflow\nprevention device (DIN EN 12056-4). Backflow prevention\ndevices have a limited scope of application --; 0.\nWastewater lifting pumps, in which the flow of wastewater\nmust not be interrupted, are to be installed as double lifting\nsystems --; f). These pumps should also be provided for\nprecipitation water, which is to be drained below the sewer\nbacking-up level. These should be designed so that the\noccurrence of a hundred-year event r51100; cannot cause\ndamage (to surfaces like house entrances, cellar entrances,\ngarage access drives, internal courtyards).\nA flooding certification, required by DIN EN 752-4, assuming\nrainfall of r15130;, is to be produced for larger areas below the\nsewer backing-up level, which do not endanger buildings\nor assets. The wastewater lifting pump should be designed\nfor at least r512;.\nFor roof surfaces which can be drained without the provision\nof an emergency overflow, the planned flooding level must\nbe discussed with and checked by the structural engineer.\nFurthermore, an overloading certification is to be obtained\nfor internally routed drainage systems as far as a pressure\nrelief point. Flooding and overloading certifications are to be\nobtained for a 100-year rainstorm r51100;.\nSpecial wastewater\nWastewater of commercial and industrial origin is generally\nto be treated so that it is permissible to feed it into a public\nfoul sewer. This may require the installation of separation or\ntreatment facilities such as grease separators, separators\nfor volatile liquids, starch separators or emulsion splitting\nplant. For mineral oil or volatile liquids, separators are to\nbe dimensioned according to DIN 1999. These devices\nnormally consist of a silt trap, separator and chamber for\ntaking samples. In particular, areas on which vehicles are\nwashed, maintained or fuelled should be connected to the\ndrains through a separator for volatile liquids.\n\nBacking-up In the discharge pipe of a combined drainage system, resulting\nfrom overloading of the drains after heavy rainfall. Surface water mixed with\nwastewater pours out of the lowest gullies, unless they are protected (Well pot!,\nBohne -> refs)\n\n527\n\nDOMESTIC\nINSTALLATION\nDrainage\n\nVentilation\nHeating\nSmall sewage\ntreatment plants\nBS 6229\nBS 8490\nBS EN 12056\nDIN 752\nDIN 1986\nDIN 1999\nDIN EN 12056\nDIN 19599\n\n\f"
+        },
+        {
+          "label": "Rainstorm event for flooding and overloading certifications",
+          "value": 100.0,
+          "value_max": null,
+          "unit": "year return period",
+          "context": "Flooding and overloading certifications are to be obtained for this rainstorm event.",
+          "status": "verified",
+          "ocr_raw": "Application area\n\nApproved types of backflow prevention\ndevice according to DIN EN 13564-1'>\n\nfaeces-free water, precipitation water\n\ntypes 2, 3 and 5\n\nwater containing faeces\n\ntype 3 with marking 'F'\n\nrainwater utilisation facilitiesbl\n\ntypes 0, 1, 2\n\n•> until the introduction of DIN EN 13564-1, DIN 1997 and DIN 19578 apply\nb) only permissible for overflows from underground tanks which are connected to a\nsurface water sewer (see DIN 1989-1)\n\n0 Application areas for backflow prevention devices (corresponds to DIN 1986100, Table 2)\n\nI\nBack-up loop\nLocally specified back-u p level\n'::7\n\nr-~\n\nVenting dia. >70 to above roof\n\n~\n\nControl system\n\nJ'\"'Q\n\nControl cable for level switching\nPressure pipe dia. 100\nMotor cable\nManual membrane pu mp\nShut-off valve\n\n\"\"\"\" ~\n\"'----'\n\n~bnt\n\nLI,\n\n~\n\nBackflow preventer\nCollection tank\n\n'\\\n\nIncoming drain\n\nlt!~TI ~f- r..._\n\nSump pump motor\nPumping sump with\ndrainage pump\n\n0\n0\n\n.,.;\n\nf) Wastewater lifting pump as double system, DIN i 2056-4 (Wellpott, Bohne -> refs)\n\nDOMESTIC INSTALLATION\nDrainage\n\nRoof drainage with pressurised flow\nFor this system, hydraulic certification should be produced\nfor each individual project. The backing-up at the outlet\nrequired for the function does not count as flooding of\nthe roof surface, as long as the requirements of outlets\naccording to DIN 19599 are not exceeded.\nRoof surfaces with, for example, regular flooding are to be\nwaterproofed up to the flooding level and appropriately\nstructurally designed. At the most the difference in level\nbetween the roof outlet and the backing-up level should\nbe assumed for the rainwater pressure drainage system.\nIf a pressure drainage system is fed into an unpressurised\nsystem of pipework, conversion of the high kinetic energy\nshould be ensured by the reduction of the flow velocity to\n<2.5 m/s.\nBacking-up\nDischarge locations below the sewer backing-up level are to\nbe protected against backing-up in the sewer by automatic\nwastewater lifting pumps with backing-up loop or backflow\nprevention device (DIN EN 12056-4). Backflow prevention\ndevices have a limited scope of application --; 0.\nWastewater lifting pumps, in which the flow of wastewater\nmust not be interrupted, are to be installed as double lifting\nsystems --; f). These pumps should also be provided for\nprecipitation water, which is to be drained below the sewer\nbacking-up level. These should be designed so that the\noccurrence of a hundred-year event r51100; cannot cause\ndamage (to surfaces like house entrances, cellar entrances,\ngarage access drives, internal courtyards).\nA flooding certification, required by DIN EN 752-4, assuming\nrainfall of r15130;, is to be produced for larger areas below the\nsewer backing-up level, which do not endanger buildings\nor assets. The wastewater lifting pump should be designed\nfor at least r512;.\nFor roof surfaces which can be drained without the provision\nof an emergency overflow, the planned flooding level must\nbe discussed with and checked by the structural engineer.\nFurthermore, an overloading certification is to be obtained\nfor internally routed drainage systems as far as a pressure\nrelief point. Flooding and overloading certifications are to be\nobtained for a 100-year rainstorm r51100;.\nSpecial wastewater\nWastewater of commercial and industrial origin is generally\nto be treated so that it is permissible to feed it into a public\nfoul sewer. This may require the installation of separation or\ntreatment facilities such as grease separators, separators\nfor volatile liquids, starch separators or emulsion splitting\nplant. For mineral oil or volatile liquids, separators are to\nbe dimensioned according to DIN 1999. These devices\nnormally consist of a silt trap, separator and chamber for\ntaking samples. In particular, areas on which vehicles are\nwashed, maintained or fuelled should be connected to the\ndrains through a separator for volatile liquids.\n\nBacking-up In the discharge pipe of a combined drainage system, resulting\nfrom overloading of the drains after heavy rainfall. Surface water mixed with\nwastewater pours out of the lowest gullies, unless they are protected (Well pot!,\nBohne -> refs)\n\n527\n\nDOMESTIC\nINSTALLATION\nDrainage\n\nVentilation\nHeating\nSmall sewage\ntreatment plants\nBS 6229\nBS 8490\nBS EN 12056\nDIN 752\nDIN 1986\nDIN 1999\nDIN EN 12056\nDIN 19599\n\n\f"
+        }
+      ],
+      "figure_refs": [
+        "Figure 2: Wastewater lifting pump as double system",
+        "Figure 3: Back-up in the discharge pipe of a combined drainage system"
+      ],
+      "cross_refs": [
+        "DIN EN 12056-4",
+        "DIN 752-4",
+        "DIN 1999",
+        "DIN EN 752-4",
+        "Wellpott, Bohne -> refs"
+      ],
+      "keywords": [
+        "sewer back-up",
+        "double lifting system",
+        "flooding certification",
+        "special wastewater",
+        "separators"
+      ],
+      "tags_architectural": [
+        "safety"
+      ],
+      "confidence": 0.88
+    }
+  ]
+}

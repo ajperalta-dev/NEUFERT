@@ -1,0 +1,372 @@
+{
+  "fichas": [
+    {
+      "id": "4122fb96e4bd1976-421-vision-0",
+      "pdf_page": 421,
+      "book_page": 408,
+      "chapter": "TRANSPORT",
+      "section": "Railways",
+      "title": "Railway tracks",
+      "summary": "Reference sheet covering railway clearance envelopes, track-centre spacing, rail profiles, gauges and sleeper lifetimes, drainage, longitudinal gradients, wheel loads, and standard track-bed cross-sections for single- and double-track lines.",
+      "building_type": "Railway infrastructure",
+      "spaces": [
+        "Open stretches of track",
+        "Stations",
+        "Railway track bed",
+        "Cuttings"
+      ],
+      "uses": [
+        "Set clearances between track centre-lines",
+        "Check standard clearance space for railway vehicles",
+        "Specify track gauge and rail sections",
+        "Design track-bed cross-sections and drainage",
+        "Establish gradients and wheel-load criteria"
+      ],
+      "furniture_equipment": [
+        "Rail tracks",
+        "Rail sleepers",
+        "Pantograph",
+        "Signals",
+        "Track-bed drainage pipes or holes"
+      ],
+      "dimensions": [
+        {
+          "label": "Track-centre distance, open stretches",
+          "value": 4.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "General distance on open stretches; older lines: 3.50 m.",
+          "status": "uncertain",
+          "ocr_raw": "4.00 m (3.50 m on older lines)"
+        },
+        {
+          "label": "Track-centre distance where signals are installed",
+          "value": 4.5,
+          "value_max": null,
+          "unit": "m",
+          "context": "Open stretches of track where signals are installed.",
+          "status": "uncertain",
+          "ocr_raw": "4.50 m"
+        },
+        {
+          "label": "Safety space after every second track",
+          "value": 5.4,
+          "value_max": null,
+          "unit": "m",
+          "context": "Open stretches; safety space after every 2nd track.",
+          "status": "uncertain",
+          "ocr_raw": "5.40 m"
+        },
+        {
+          "label": "Track-centre distance on newly built stretches",
+          "value": 4.5,
+          "value_max": null,
+          "unit": "m",
+          "context": "Newly built stretches with V >200 km/h.",
+          "status": "uncertain",
+          "ocr_raw": "4.50 m"
+        },
+        {
+          "label": "Track-centre distance in stations",
+          "value": 4.5,
+          "value_max": null,
+          "unit": "m",
+          "context": "Station tracks; parenthetical alternative shown in the source is 4.75 m.",
+          "status": "uncertain",
+          "ocr_raw": "4.50 m (4.75 m)"
+        },
+        {
+          "label": "Track-centre distance, main lines straight through",
+          "value": 4.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "In stations, main lines running straight through.",
+          "status": "uncertain",
+          "ocr_raw": "4.00 m"
+        },
+        {
+          "label": "Track-centre distance in sets of 5–6 lines",
+          "value": 6.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "In stations, for sets of 5–6 lines.",
+          "status": "uncertain",
+          "ocr_raw": "6.00 m"
+        },
+        {
+          "label": "Track-centre distance for brake inspection/test tracks",
+          "value": 5.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "In stations, brake inspection/test tracks.",
+          "status": "uncertain",
+          "ocr_raw": "5.00 m"
+        },
+        {
+          "label": "Track-centre distance in carriage-cleaning sidings",
+          "value": 5.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "In stations, sidings for carriage cleaning.",
+          "status": "uncertain",
+          "ocr_raw": "5.00 m"
+        },
+        {
+          "label": "Minimum pantograph working height",
+          "value": 5.6,
+          "value_max": null,
+          "unit": "m",
+          "context": "Minimum working height; depends on type of electricity.",
+          "status": "uncertain",
+          "ocr_raw": "working height pantograph = 5.60 m minimum"
+        },
+        {
+          "label": "Pantograph working-height range",
+          "value": 5.0,
+          "value_max": 5.34,
+          "unit": "m",
+          "context": "Depending on type of electricity.",
+          "status": "uncertain",
+          "ocr_raw": "depending on type of electricity 5.00–5.34 m"
+        },
+        {
+          "label": "Maximum dimension b",
+          "value": 1.58,
+          "value_max": null,
+          "unit": "m",
+          "context": "Clearance diagram; dimensions b, c and d depend on pantograph working-height range (EBO appendix 1).",
+          "status": "uncertain",
+          "ocr_raw": "maximum 1.58 m b"
+        },
+        {
+          "label": "Clearance-space curve radius",
+          "value": 250.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Standard clearance space according to EBO, valid on straight and curved lines with radius ≥250 m.",
+          "status": "uncertain",
+          "ocr_raw": "valid on straight and curved lines with radius ≥250 m"
+        },
+        {
+          "label": "German standard gauge",
+          "value": 1.435,
+          "value_max": null,
+          "unit": "m",
+          "context": "Standard gauge of German Railways; stated as the gauge for 71% of the world's railways.",
+          "status": "uncertain",
+          "ocr_raw": "1.435 m"
+        },
+        {
+          "label": "Gauge tolerance on main lines",
+          "value": -3.0,
+          "value_max": 30.0,
+          "unit": "mm",
+          "context": "Tolerance range on main lines.",
+          "status": "uncertain",
+          "ocr_raw": "−3/+30 mm on main lines"
+        },
+        {
+          "label": "Gauge tolerance on branch lines",
+          "value": -3.0,
+          "value_max": 35.0,
+          "unit": "mm",
+          "context": "Tolerance range on branch lines.",
+          "status": "uncertain",
+          "ocr_raw": "−3/+35 mm on branch lines"
+        },
+        {
+          "label": "Russian railway gauge",
+          "value": 1.52,
+          "value_max": null,
+          "unit": "m",
+          "context": "Other gauges cited for comparison.",
+          "status": "uncertain",
+          "ocr_raw": "Russia 1.520 m"
+        },
+        {
+          "label": "Gauge in Spain and Portugal",
+          "value": 1.668,
+          "value_max": null,
+          "unit": "m",
+          "context": "Other gauges cited for comparison.",
+          "status": "uncertain",
+          "ocr_raw": "Spain and Portugal 1.668 m"
+        },
+        {
+          "label": "South African railway gauge",
+          "value": 1.067,
+          "value_max": null,
+          "unit": "m",
+          "context": "Other gauges cited for comparison.",
+          "status": "uncertain",
+          "ocr_raw": "South Africa 1.067 m"
+        },
+        {
+          "label": "Gauge in Chile, Argentina and India",
+          "value": 1.673,
+          "value_max": null,
+          "unit": "m",
+          "context": "Other gauges cited for comparison.",
+          "status": "uncertain",
+          "ocr_raw": "Chile, Argentina, India 1.673 m"
+        },
+        {
+          "label": "Lifetime of creosote-impregnated timber sleepers",
+          "value": 25.0,
+          "value_max": 40.0,
+          "unit": "years",
+          "context": "Impregnated with creosote (Rüping process).",
+          "status": "uncertain",
+          "ocr_raw": "25–40 years"
+        },
+        {
+          "label": "Lifetime of untreated timber sleepers",
+          "value": 3.0,
+          "value_max": 15.0,
+          "unit": "years",
+          "context": "Timber sleepers, not impregnated.",
+          "status": "uncertain",
+          "ocr_raw": "3–15 years"
+        },
+        {
+          "label": "Lifetime of steel sleepers",
+          "value": 45.0,
+          "value_max": null,
+          "unit": "years",
+          "context": "Approximate lifetime.",
+          "status": "uncertain",
+          "ocr_raw": "about 45 years"
+        },
+        {
+          "label": "Estimated minimum lifetime of concrete sleepers",
+          "value": 40.0,
+          "value_max": null,
+          "unit": "years",
+          "context": "Estimated lifetime; minimum stated.",
+          "status": "uncertain",
+          "ocr_raw": "min. 40 years"
+        },
+        {
+          "label": "Trench depth in cuttings",
+          "value": 0.4,
+          "value_max": 0.6,
+          "unit": "m",
+          "context": "Depth under ground level.",
+          "status": "uncertain",
+          "ocr_raw": "0.4–0.6 m under ground level"
+        },
+        {
+          "label": "Trench-floor slope",
+          "value": 3.0,
+          "value_max": 10.0,
+          "unit": "%",
+          "context": "According to the type of consolidation of the trench floor.",
+          "status": "uncertain",
+          "ocr_raw": "3–10% according to the type of consolidation of the trench floor"
+        },
+        {
+          "label": "Longitudinal gradient, open stretches of main line",
+          "value": 12.5,
+          "value_max": null,
+          "unit": "‰",
+          "context": "Maximum gradient indicated for open stretches of main line.",
+          "status": "uncertain",
+          "ocr_raw": "main line ≤12.5‰"
+        },
+        {
+          "label": "Longitudinal gradient, branch lines and urban railways",
+          "value": 40.0,
+          "value_max": null,
+          "unit": "‰",
+          "context": "Maximum gradient indicated for branch lines and urban railways.",
+          "status": "uncertain",
+          "ocr_raw": "branch lines and urban railways ≤40‰"
+        },
+        {
+          "label": "Longitudinal gradient on station tracks",
+          "value": 2.5,
+          "value_max": null,
+          "unit": "‰",
+          "context": "Maximum gradient indicated for station tracks.",
+          "status": "uncertain",
+          "ocr_raw": "station tracks ≤2.5‰"
+        },
+        {
+          "label": "Specially approved main-line gradient",
+          "value": 25.0,
+          "value_max": null,
+          "unit": "‰",
+          "context": "Gradients up to this value are possible on main lines with special approval.",
+          "status": "uncertain",
+          "ocr_raw": "Gradients of up to 25‰ are possible on main lines with special approval."
+        },
+        {
+          "label": "Static wheel load",
+          "value": 9.0,
+          "value_max": null,
+          "unit": "t",
+          "context": "Static wheel load.",
+          "status": "uncertain",
+          "ocr_raw": "Static wheel load = 9 t."
+        },
+        {
+          "label": "Higher wheel load on sufficiently strong track and supporting structures",
+          "value": 11.25,
+          "value_max": null,
+          "unit": "t",
+          "context": "Higher loads are possible where track and supporting structures are sufficiently strong.",
+          "status": "uncertain",
+          "ocr_raw": "higher wheel loads (up to 11.25 t) are possible."
+        },
+        {
+          "label": "Single-track bed width at least",
+          "value": 6.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Standard track-bed cross-section for single-track lines; minimum dimension shown.",
+          "status": "uncertain",
+          "ocr_raw": "at least 6.0"
+        },
+        {
+          "label": "Two-track bed width at least",
+          "value": 10.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Standard track-bed cross-section for two-track lines; minimum dimension shown.",
+          "status": "uncertain",
+          "ocr_raw": "at least 10.0"
+        }
+      ],
+      "figure_refs": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7"
+      ],
+      "cross_refs": [
+        "EBO appendix 1"
+      ],
+      "keywords": [
+        "railways",
+        "tracks",
+        "track spacing",
+        "clearance",
+        "gauge",
+        "rail sections",
+        "sleepers",
+        "track bed",
+        "gradients",
+        "wheel load"
+      ],
+      "tags_architectural": [
+        "circulation",
+        "safety",
+        "clearance"
+      ],
+      "confidence": 0.92
+    }
+  ]
+}

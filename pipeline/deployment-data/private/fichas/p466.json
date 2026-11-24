@@ -1,0 +1,441 @@
+{
+  "fichas": [
+    {
+      "id": "4122fb96e4bd1976-466-vision-0",
+      "pdf_page": 466,
+      "book_page": 453,
+      "chapter": "AGRICULTURE",
+      "section": "Animal Husbandry",
+      "title": "Rabbit Hutches and Cages",
+      "summary": "Guidance and illustrated examples for rabbit hutches, stacked hutches, wire cages, and breeding cages. Hutches should be ventilated, dry, protected from sun and predators, easy to clean, and equipped with urine drainage. The page gives hutch area per animal, hutch size by rabbit type, stacking guidance, cage mesh dimensions, nesting-box clearance, and climate requirements for breeding and fattening.",
+      "building_type": "Small-animal housing",
+      "spaces": [
+        "Rabbit hutch",
+        "Stacked rabbit hutches",
+        "Wire cage",
+        "Breeding cage",
+        "Nesting box"
+      ],
+      "uses": [
+        "Housing rabbits",
+        "Breeding and fattening rabbits",
+        "Protecting animals from predators and poor climate"
+      ],
+      "furniture_equipment": [
+        "Wooden hutches",
+        "Galvanised wire netting",
+        "Slatted floor",
+        "Urine drainage channel",
+        "Automatic feeder",
+        "Nesting box"
+      ],
+      "dimensions": [
+        {
+          "label": "Hutch area per animal",
+          "value": 0.65,
+          "value_max": 1.0,
+          "unit": "m²",
+          "context": "Area per animal; printed as a range.",
+          "status": "verified",
+          "ocr_raw": "hutch area per animal 0.65-1.0m2"
+        },
+        {
+          "label": "Small purebred hutch width",
+          "value": 80.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Table of hutch dimensions; width (w), small purebreds.",
+          "status": "verified",
+          "ocr_raw": "small purebreds\n80\n80 55"
+        },
+        {
+          "label": "Small purebred hutch depth",
+          "value": 80.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Table of hutch dimensions; depth (d), small purebreds.",
+          "status": "verified",
+          "ocr_raw": "small purebreds\n80\n80 55"
+        },
+        {
+          "label": "Small purebred hutch height",
+          "value": 55.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Table of hutch dimensions; height (h), small purebreds.",
+          "status": "verified",
+          "ocr_raw": "small purebreds\n80\n80 55"
+        },
+        {
+          "label": "Medium purebred hutch width",
+          "value": 100.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Table of hutch dimensions; width (w), medium purebreds.",
+          "status": "verified",
+          "ocr_raw": "medium purebreds 100\n80\n65"
+        },
+        {
+          "label": "Medium purebred hutch depth",
+          "value": 80.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Table of hutch dimensions; depth (d), medium purebreds.",
+          "status": "verified",
+          "ocr_raw": "medium purebreds 100\n80\n65"
+        },
+        {
+          "label": "Medium purebred hutch height",
+          "value": 65.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Table of hutch dimensions; height (h), medium purebreds.",
+          "status": "verified",
+          "ocr_raw": "medium purebreds 100\n80\n65"
+        },
+        {
+          "label": "Large purebred hutch width",
+          "value": 120.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Table of hutch dimensions; width (w), large purebreds.",
+          "status": "verified",
+          "ocr_raw": "large purebreds\n120\n80 75"
+        },
+        {
+          "label": "Large purebred hutch depth",
+          "value": 80.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Table of hutch dimensions; depth (d), large purebreds.",
+          "status": "verified",
+          "ocr_raw": "large purebreds\n120\n80 75"
+        },
+        {
+          "label": "Large purebred hutch height",
+          "value": 75.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Table of hutch dimensions; height (h), large purebreds.",
+          "status": "verified",
+          "ocr_raw": "large purebreds\n120\n80 75"
+        },
+        {
+          "label": "Hutch tiers for small purebreds",
+          "value": 3.0,
+          "value_max": null,
+          "unit": "tiers",
+          "context": "Stacking guidance within the stated limits.",
+          "status": "verified",
+          "ocr_raw": "for small purebreds three tiers, for large\npurebreds two tiers within above limits"
+        },
+        {
+          "label": "Hutch tiers for large purebreds",
+          "value": 2.0,
+          "value_max": null,
+          "unit": "tiers",
+          "context": "Stacking guidance within the stated limits.",
+          "status": "verified",
+          "ocr_raw": "for small purebreds three tiers, for large\npurebreds two tiers within above limits"
+        },
+        {
+          "label": "Wire mesh opening",
+          "value": 25.0,
+          "value_max": 25.0,
+          "unit": "mm",
+          "context": "One stated mesh size for cages made entirely from galvanised wire netting.",
+          "status": "verified",
+          "ocr_raw": "mesh size 25 x 25 or 12x 70mm"
+        },
+        {
+          "label": "Wire mesh opening",
+          "value": 12.0,
+          "value_max": 70.0,
+          "unit": "mm",
+          "context": "Alternative stated mesh size for cages made entirely from galvanised wire netting.",
+          "status": "verified",
+          "ocr_raw": "mesh size 25 x 25 or 12x 70mm"
+        },
+        {
+          "label": "Nesting-box floor below cage base",
+          "value": 70.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Minimum vertical offset for nesting boxes for young animals.",
+          "status": "verified",
+          "ocr_raw": "floor of nesting boxes\nat least 70 mm below base of cage"
+        },
+        {
+          "label": "Hutch volume per doe including offspring",
+          "value": 4.5,
+          "value_max": 5.5,
+          "unit": "m³",
+          "context": "Recommended hutch volume for breeding and fattening rabbits in close rooms.",
+          "status": "verified",
+          "ocr_raw": "The hutch\nvolume should be 4.5-5.5 m3 per\ndoe including offspring."
+        },
+        {
+          "label": "Breeding-hutch temperature",
+          "value": 10.0,
+          "value_max": 28.0,
+          "unit": "°C",
+          "context": "Stated temperature range for a breeding hutch.",
+          "status": "verified",
+          "ocr_raw": "The temperature in the breeding hutch\nshould be 10-28 °C"
+        },
+        {
+          "label": "Optimal breeding-hutch temperature",
+          "value": 18.0,
+          "value_max": null,
+          "unit": "°C",
+          "context": "Optimal temperature stated for the breeding hutch.",
+          "status": "verified",
+          "ocr_raw": "ANIMAL HUSBANDRY\nKeeping Small Animals\n\nhutch area per animal 0.65-1.0m2;\nshould be well ventilated, dry and\nprotected from sun and predators (rats);\nhutches usually made of wood with\ndrainage ~f), 5% gradient\n\nsmall purebreds\n80\n80 55\nmedium purebreds 100\n80\n65\nlarge purebreds\n120\n80 75\n(depth is the same to ease subdivision)\n\nfor small purebreds three tiers, for large\npurebreds two tiers within above limits\n{length unlimited); slatted floor~ 8\nwith drainage facilities and common\nurine collection channel below\n\n0\n\nf) Size of rabbit hutches (em)\n\nC) Stacked rabbit hutches\n\ncage is made entirely from galvanised wire\nnetting, mesh size 25 x 25 or 12x 70mm\n\nwooden or polyurethane nesting boxes\nfor young animals: floor of nesting boxes\nat least 70 mm below base of cage\n\nRabbit (Belgian giant)\n\nopening front or front section between two\nhutches~ f); front wall of galvanised\nwire netting; hutches for female hares with\ndark netting and 10cm high bed\n\n8\n\nFeed rack in hutch\n\nw\n\ne\n\nd\n\nh\n\n0\n\nWire cage with automatic feeder\n\nBreeding cage with nesting\nbox and automatic feeder\n\ntH\"\\\n!---- 0.85-1.25 ~\n\nstall area per animal\nstall width per animal\nstall depth, tethered\n\n1.5-2.0m2\n0.75--1.00 m\n1.8m\n\nstall depth, free\nstall height\n\n2.5-2.8 m\n1.7-2.5m\n\nstall temperature\n\n1D-20oc\n\nf) Goat (German Saanenziege)\ntrough for\nconcentrated\nfeedstuff\n\nstandard dimensions of a feeding rack\nand drinking trough in the feeding aisle\n(transverse aisle); daily requirements\nper goat: 1.2kg hay, 2.3kg of root crop,\n2-31 of water\n\nwire mesh above the rack level; tiled\nflooring at a gradient, with a channel for\nurine; feed rack and water trough serve\nboth stalls\nModern goat housing with feed rack\nand trough between two pens\n\nQ\n\nRabbit hutches\nThese ~ 0 - 0 are often freestanding at wind-protected rear\nsides of barns and houses. Hutches can be stacked 3 x vertically\n~ 0. They should be protected\nagainst rats and mice, and be\neasy to clean and with urine drains\n~ f). For the breeding of fattening and meat rabbits ~ 9 - 0 in\nclose roorns, there are stringent requirements for the construction of\nthe hutch and the climate. Rabbits\nreact to poor climate rnuch more\nsensitively than piglets or chicks.\nThermally insulated buildings with\nforced ventilation are required for\nbreeding and fattening. The hutch\nvolume should be 4.5-5.5 m3 per\ndoe including offspring. The temperature in the breeding hutch\nshould be 10-28 °C, optimally\n18 oc, in the fattening hutch 20 °C.\nGoat sheds\nIf possible these should face to the\neast or south. Dry with good ventilation and lighting, window area =\n1/5-1/20 of the floor area. Where\ngoats are tied up in numbers, the\nstanding width should be 75-80 em,\ndepth 1.50-2.00 rn, without including the passages necessary in front\nand behind the pens. A paddock\nnext door to the south is ideal.\n\nFeed rack and trough for goat\npen\n\nfeeding grille\n\nIiii\n\nbarrier\nmesh\n\nANIMAL\nHUSBANDRY\n\nt\nfeeding\n\nfeeding stand\n\n}---\n\nKeeping small\nanimals\nSheep housing\nLaying hens\nPig keeping\nDairy farming\nFinishing beef\ncattle\nKeeping horses\n\niii\n\n1\n\ntable\n\n90\n\ndeep\nstraw\nbed\nTwo-room goat housing with deep\nlitter bed\n\nQ\n\nMulti-space loose housing with wall-mounted bed niches\n\nLoose box with fully slatted floor\n\n5 kg grass/day and 0.5 kg hay\n6 kg red clover\n1 kg hay/day,\nwater 2-3 litre/animal/day\n\nSummer\nWinter\n\n\"'\n\n~0\n\nfeeding stand\n\nLoose Length of\nrequired housing feeding rack\n\nTethered stall\n\nSpace\n\nmangers\nfeeding aisle\nmangers\n\"':il\n0\n\nll)\n\n\"'c\n\n\"!\n\n0\n\n:;;\n\na;\n\nI\n\nfeeding stand\n\n__L -g·1Jl;.J\nN\n\ngangway\n\n~ cheese making ...\n\"\n0\n\n\\J\n\n4D\n\nTwo-room housing with deep litter bed\n\nc\n\nI\n\nstraw\n\nmilking stand\n\n'0\n\nj\n\n12 goats\n\nkids {young goats)\n\nground plan\n\nI\n\nkids {young goats!\n\nkid\nyoung\nanimal\ngoat\nbuck\n\nm'\n\nem\n\n0.7\n1.2\n\n20\n30-40\n\n40-50\n1.5\n2.2-4.0 80\n\nc7l\n\n~\n\n£\ng>\n\n.3\n\n40\n\n50\n\n50\n\n80\n80\n\n50-70 40\n60\n50\n\nwindows 1/15-1/20 of the building height\nceiling > 2.50 m\ntrough: 1 basm for 30 animals; 0.4 kg straw/day,\n1.5 dVyear/anlmal, dung production 7-15 dVgoat\n\n0 Goat keeping\n453\n\n\f"
+        },
+        {
+          "label": "Fattening-hutch temperature",
+          "value": 20.0,
+          "value_max": null,
+          "unit": "°C",
+          "context": "Temperature stated for the fattening hutch.",
+          "status": "verified",
+          "ocr_raw": "in the fattening hutch 20 °C."
+        }
+      ],
+      "figure_refs": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "cross_refs": [
+        "2",
+        "3",
+        "5",
+        "6"
+      ],
+      "keywords": [
+        "rabbit",
+        "hutch",
+        "wire cage",
+        "breeding",
+        "fattening",
+        "ventilation",
+        "drainage",
+        "nesting box"
+      ],
+      "tags_architectural": [
+        "ventilation",
+        "safety",
+        "adaptability"
+      ],
+      "confidence": 0.91
+    },
+    {
+      "id": "4122fb96e4bd1976-466-vision-1",
+      "pdf_page": 466,
+      "book_page": 453,
+      "chapter": "AGRICULTURE",
+      "section": "Animal Husbandry",
+      "title": "Goat Housing and Feeding",
+      "summary": "Illustrated goat-shed and goat-pen arrangements include tethered stalls, loose housing, deep-litter beds, slatted floors, feeding stands, racks, troughs, and rest alcoves. The guidance addresses orientation, ventilation, lighting, stall and feeding dimensions, animal space requirements, and selected building provisions.",
+      "building_type": "Livestock housing",
+      "spaces": [
+        "Goat shed",
+        "Tethered stall",
+        "Loose box",
+        "Feeding aisle",
+        "Feeding stand",
+        "Deep-litter bed",
+        "Milking stand",
+        "Cheese-making area",
+        "Kids' area",
+        "Rest alcoves"
+      ],
+      "uses": [
+        "Housing goats and young goats",
+        "Feeding and watering goats",
+        "Milking and cheese making",
+        "Collecting urine and dung"
+      ],
+      "furniture_equipment": [
+        "Feed rack",
+        "Water trough",
+        "Feeding grille",
+        "Feeding stand",
+        "Barrier mesh",
+        "Slatted floor",
+        "Deep-litter bed",
+        "Dung-collecting channel"
+      ],
+      "dimensions": [
+        {
+          "label": "Stall area per animal",
+          "value": 1.5,
+          "value_max": 2.0,
+          "unit": "m²",
+          "context": "Area per animal; printed as a range.",
+          "status": "verified",
+          "ocr_raw": "ANIMAL HUSBANDRY\nKeeping Small Animals\n\nhutch area per animal 0.65-1.0m2;\nshould be well ventilated, dry and\nprotected from sun and predators (rats);\nhutches usually made of wood with\ndrainage ~f), 5% gradient\n\nsmall purebreds\n80\n80 55\nmedium purebreds 100\n80\n65\nlarge purebreds\n120\n80 75\n(depth is the same to ease subdivision)\n\nfor small purebreds three tiers, for large\npurebreds two tiers within above limits\n{length unlimited); slatted floor~ 8\nwith drainage facilities and common\nurine collection channel below\n\n0\n\nf) Size of rabbit hutches (em)\n\nC) Stacked rabbit hutches\n\ncage is made entirely from galvanised wire\nnetting, mesh size 25 x 25 or 12x 70mm\n\nwooden or polyurethane nesting boxes\nfor young animals: floor of nesting boxes\nat least 70 mm below base of cage\n\nRabbit (Belgian giant)\n\nopening front or front section between two\nhutches~ f); front wall of galvanised\nwire netting; hutches for female hares with\ndark netting and 10cm high bed\n\n8\n\nFeed rack in hutch\n\nw\n\ne\n\nd\n\nh\n\n0\n\nWire cage with automatic feeder\n\nBreeding cage with nesting\nbox and automatic feeder\n\ntH\"\\\n!---- 0.85-1.25 ~\n\nstall area per animal\nstall width per animal\nstall depth, tethered\n\n1.5-2.0m2\n0.75--1.00 m\n1.8m\n\nstall depth, free\nstall height\n\n2.5-2.8 m\n1.7-2.5m\n\nstall temperature\n\n1D-20oc\n\nf) Goat (German Saanenziege)\ntrough for\nconcentrated\nfeedstuff\n\nstandard dimensions of a feeding rack\nand drinking trough in the feeding aisle\n(transverse aisle); daily requirements\nper goat: 1.2kg hay, 2.3kg of root crop,\n2-31 of water\n\nwire mesh above the rack level; tiled\nflooring at a gradient, with a channel for\nurine; feed rack and water trough serve\nboth stalls\nModern goat housing with feed rack\nand trough between two pens\n\nQ\n\nRabbit hutches\nThese ~ 0 - 0 are often freestanding at wind-protected rear\nsides of barns and houses. Hutches can be stacked 3 x vertically\n~ 0. They should be protected\nagainst rats and mice, and be\neasy to clean and with urine drains\n~ f). For the breeding of fattening and meat rabbits ~ 9 - 0 in\nclose roorns, there are stringent requirements for the construction of\nthe hutch and the climate. Rabbits\nreact to poor climate rnuch more\nsensitively than piglets or chicks.\nThermally insulated buildings with\nforced ventilation are required for\nbreeding and fattening. The hutch\nvolume should be 4.5-5.5 m3 per\ndoe including offspring. The temperature in the breeding hutch\nshould be 10-28 °C, optimally\n18 oc, in the fattening hutch 20 °C.\nGoat sheds\nIf possible these should face to the\neast or south. Dry with good ventilation and lighting, window area =\n1/5-1/20 of the floor area. Where\ngoats are tied up in numbers, the\nstanding width should be 75-80 em,\ndepth 1.50-2.00 rn, without including the passages necessary in front\nand behind the pens. A paddock\nnext door to the south is ideal.\n\nFeed rack and trough for goat\npen\n\nfeeding grille\n\nIiii\n\nbarrier\nmesh\n\nANIMAL\nHUSBANDRY\n\nt\nfeeding\n\nfeeding stand\n\n}---\n\nKeeping small\nanimals\nSheep housing\nLaying hens\nPig keeping\nDairy farming\nFinishing beef\ncattle\nKeeping horses\n\niii\n\n1\n\ntable\n\n90\n\ndeep\nstraw\nbed\nTwo-room goat housing with deep\nlitter bed\n\nQ\n\nMulti-space loose housing with wall-mounted bed niches\n\nLoose box with fully slatted floor\n\n5 kg grass/day and 0.5 kg hay\n6 kg red clover\n1 kg hay/day,\nwater 2-3 litre/animal/day\n\nSummer\nWinter\n\n\"'\n\n~0\n\nfeeding stand\n\nLoose Length of\nrequired housing feeding rack\n\nTethered stall\n\nSpace\n\nmangers\nfeeding aisle\nmangers\n\"':il\n0\n\nll)\n\n\"'c\n\n\"!\n\n0\n\n:;;\n\na;\n\nI\n\nfeeding stand\n\n__L -g·1Jl;.J\nN\n\ngangway\n\n~ cheese making ...\n\"\n0\n\n\\J\n\n4D\n\nTwo-room housing with deep litter bed\n\nc\n\nI\n\nstraw\n\nmilking stand\n\n'0\n\nj\n\n12 goats\n\nkids {young goats)\n\nground plan\n\nI\n\nkids {young goats!\n\nkid\nyoung\nanimal\ngoat\nbuck\n\nm'\n\nem\n\n0.7\n1.2\n\n20\n30-40\n\n40-50\n1.5\n2.2-4.0 80\n\nc7l\n\n~\n\n£\ng>\n\n.3\n\n40\n\n50\n\n50\n\n80\n80\n\n50-70 40\n60\n50\n\nwindows 1/15-1/20 of the building height\nceiling > 2.50 m\ntrough: 1 basm for 30 animals; 0.4 kg straw/day,\n1.5 dVyear/anlmal, dung production 7-15 dVgoat\n\n0 Goat keeping\n453\n\n\f"
+        },
+        {
+          "label": "Stall width per animal",
+          "value": 0.75,
+          "value_max": 1.0,
+          "unit": "m",
+          "context": "Width per animal; printed as a range.",
+          "status": "verified",
+          "ocr_raw": "ANIMAL HUSBANDRY\nKeeping Small Animals\n\nhutch area per animal 0.65-1.0m2;\nshould be well ventilated, dry and\nprotected from sun and predators (rats);\nhutches usually made of wood with\ndrainage ~f), 5% gradient\n\nsmall purebreds\n80\n80 55\nmedium purebreds 100\n80\n65\nlarge purebreds\n120\n80 75\n(depth is the same to ease subdivision)\n\nfor small purebreds three tiers, for large\npurebreds two tiers within above limits\n{length unlimited); slatted floor~ 8\nwith drainage facilities and common\nurine collection channel below\n\n0\n\nf) Size of rabbit hutches (em)\n\nC) Stacked rabbit hutches\n\ncage is made entirely from galvanised wire\nnetting, mesh size 25 x 25 or 12x 70mm\n\nwooden or polyurethane nesting boxes\nfor young animals: floor of nesting boxes\nat least 70 mm below base of cage\n\nRabbit (Belgian giant)\n\nopening front or front section between two\nhutches~ f); front wall of galvanised\nwire netting; hutches for female hares with\ndark netting and 10cm high bed\n\n8\n\nFeed rack in hutch\n\nw\n\ne\n\nd\n\nh\n\n0\n\nWire cage with automatic feeder\n\nBreeding cage with nesting\nbox and automatic feeder\n\ntH\"\\\n!---- 0.85-1.25 ~\n\nstall area per animal\nstall width per animal\nstall depth, tethered\n\n1.5-2.0m2\n0.75--1.00 m\n1.8m\n\nstall depth, free\nstall height\n\n2.5-2.8 m\n1.7-2.5m\n\nstall temperature\n\n1D-20oc\n\nf) Goat (German Saanenziege)\ntrough for\nconcentrated\nfeedstuff\n\nstandard dimensions of a feeding rack\nand drinking trough in the feeding aisle\n(transverse aisle); daily requirements\nper goat: 1.2kg hay, 2.3kg of root crop,\n2-31 of water\n\nwire mesh above the rack level; tiled\nflooring at a gradient, with a channel for\nurine; feed rack and water trough serve\nboth stalls\nModern goat housing with feed rack\nand trough between two pens\n\nQ\n\nRabbit hutches\nThese ~ 0 - 0 are often freestanding at wind-protected rear\nsides of barns and houses. Hutches can be stacked 3 x vertically\n~ 0. They should be protected\nagainst rats and mice, and be\neasy to clean and with urine drains\n~ f). For the breeding of fattening and meat rabbits ~ 9 - 0 in\nclose roorns, there are stringent requirements for the construction of\nthe hutch and the climate. Rabbits\nreact to poor climate rnuch more\nsensitively than piglets or chicks.\nThermally insulated buildings with\nforced ventilation are required for\nbreeding and fattening. The hutch\nvolume should be 4.5-5.5 m3 per\ndoe including offspring. The temperature in the breeding hutch\nshould be 10-28 °C, optimally\n18 oc, in the fattening hutch 20 °C.\nGoat sheds\nIf possible these should face to the\neast or south. Dry with good ventilation and lighting, window area =\n1/5-1/20 of the floor area. Where\ngoats are tied up in numbers, the\nstanding width should be 75-80 em,\ndepth 1.50-2.00 rn, without including the passages necessary in front\nand behind the pens. A paddock\nnext door to the south is ideal.\n\nFeed rack and trough for goat\npen\n\nfeeding grille\n\nIiii\n\nbarrier\nmesh\n\nANIMAL\nHUSBANDRY\n\nt\nfeeding\n\nfeeding stand\n\n}---\n\nKeeping small\nanimals\nSheep housing\nLaying hens\nPig keeping\nDairy farming\nFinishing beef\ncattle\nKeeping horses\n\niii\n\n1\n\ntable\n\n90\n\ndeep\nstraw\nbed\nTwo-room goat housing with deep\nlitter bed\n\nQ\n\nMulti-space loose housing with wall-mounted bed niches\n\nLoose box with fully slatted floor\n\n5 kg grass/day and 0.5 kg hay\n6 kg red clover\n1 kg hay/day,\nwater 2-3 litre/animal/day\n\nSummer\nWinter\n\n\"'\n\n~0\n\nfeeding stand\n\nLoose Length of\nrequired housing feeding rack\n\nTethered stall\n\nSpace\n\nmangers\nfeeding aisle\nmangers\n\"':il\n0\n\nll)\n\n\"'c\n\n\"!\n\n0\n\n:;;\n\na;\n\nI\n\nfeeding stand\n\n__L -g·1Jl;.J\nN\n\ngangway\n\n~ cheese making ...\n\"\n0\n\n\\J\n\n4D\n\nTwo-room housing with deep litter bed\n\nc\n\nI\n\nstraw\n\nmilking stand\n\n'0\n\nj\n\n12 goats\n\nkids {young goats)\n\nground plan\n\nI\n\nkids {young goats!\n\nkid\nyoung\nanimal\ngoat\nbuck\n\nm'\n\nem\n\n0.7\n1.2\n\n20\n30-40\n\n40-50\n1.5\n2.2-4.0 80\n\nc7l\n\n~\n\n£\ng>\n\n.3\n\n40\n\n50\n\n50\n\n80\n80\n\n50-70 40\n60\n50\n\nwindows 1/15-1/20 of the building height\nceiling > 2.50 m\ntrough: 1 basm for 30 animals; 0.4 kg straw/day,\n1.5 dVyear/anlmal, dung production 7-15 dVgoat\n\n0 Goat keeping\n453\n\n\f"
+        },
+        {
+          "label": "Tethered stall depth",
+          "value": 1.8,
+          "value_max": null,
+          "unit": "m",
+          "context": "Depth for a tethered stall.",
+          "status": "verified",
+          "ocr_raw": "ANIMAL HUSBANDRY\nKeeping Small Animals\n\nhutch area per animal 0.65-1.0m2;\nshould be well ventilated, dry and\nprotected from sun and predators (rats);\nhutches usually made of wood with\ndrainage ~f), 5% gradient\n\nsmall purebreds\n80\n80 55\nmedium purebreds 100\n80\n65\nlarge purebreds\n120\n80 75\n(depth is the same to ease subdivision)\n\nfor small purebreds three tiers, for large\npurebreds two tiers within above limits\n{length unlimited); slatted floor~ 8\nwith drainage facilities and common\nurine collection channel below\n\n0\n\nf) Size of rabbit hutches (em)\n\nC) Stacked rabbit hutches\n\ncage is made entirely from galvanised wire\nnetting, mesh size 25 x 25 or 12x 70mm\n\nwooden or polyurethane nesting boxes\nfor young animals: floor of nesting boxes\nat least 70 mm below base of cage\n\nRabbit (Belgian giant)\n\nopening front or front section between two\nhutches~ f); front wall of galvanised\nwire netting; hutches for female hares with\ndark netting and 10cm high bed\n\n8\n\nFeed rack in hutch\n\nw\n\ne\n\nd\n\nh\n\n0\n\nWire cage with automatic feeder\n\nBreeding cage with nesting\nbox and automatic feeder\n\ntH\"\\\n!---- 0.85-1.25 ~\n\nstall area per animal\nstall width per animal\nstall depth, tethered\n\n1.5-2.0m2\n0.75--1.00 m\n1.8m\n\nstall depth, free\nstall height\n\n2.5-2.8 m\n1.7-2.5m\n\nstall temperature\n\n1D-20oc\n\nf) Goat (German Saanenziege)\ntrough for\nconcentrated\nfeedstuff\n\nstandard dimensions of a feeding rack\nand drinking trough in the feeding aisle\n(transverse aisle); daily requirements\nper goat: 1.2kg hay, 2.3kg of root crop,\n2-31 of water\n\nwire mesh above the rack level; tiled\nflooring at a gradient, with a channel for\nurine; feed rack and water trough serve\nboth stalls\nModern goat housing with feed rack\nand trough between two pens\n\nQ\n\nRabbit hutches\nThese ~ 0 - 0 are often freestanding at wind-protected rear\nsides of barns and houses. Hutches can be stacked 3 x vertically\n~ 0. They should be protected\nagainst rats and mice, and be\neasy to clean and with urine drains\n~ f). For the breeding of fattening and meat rabbits ~ 9 - 0 in\nclose roorns, there are stringent requirements for the construction of\nthe hutch and the climate. Rabbits\nreact to poor climate rnuch more\nsensitively than piglets or chicks.\nThermally insulated buildings with\nforced ventilation are required for\nbreeding and fattening. The hutch\nvolume should be 4.5-5.5 m3 per\ndoe including offspring. The temperature in the breeding hutch\nshould be 10-28 °C, optimally\n18 oc, in the fattening hutch 20 °C.\nGoat sheds\nIf possible these should face to the\neast or south. Dry with good ventilation and lighting, window area =\n1/5-1/20 of the floor area. Where\ngoats are tied up in numbers, the\nstanding width should be 75-80 em,\ndepth 1.50-2.00 rn, without including the passages necessary in front\nand behind the pens. A paddock\nnext door to the south is ideal.\n\nFeed rack and trough for goat\npen\n\nfeeding grille\n\nIiii\n\nbarrier\nmesh\n\nANIMAL\nHUSBANDRY\n\nt\nfeeding\n\nfeeding stand\n\n}---\n\nKeeping small\nanimals\nSheep housing\nLaying hens\nPig keeping\nDairy farming\nFinishing beef\ncattle\nKeeping horses\n\niii\n\n1\n\ntable\n\n90\n\ndeep\nstraw\nbed\nTwo-room goat housing with deep\nlitter bed\n\nQ\n\nMulti-space loose housing with wall-mounted bed niches\n\nLoose box with fully slatted floor\n\n5 kg grass/day and 0.5 kg hay\n6 kg red clover\n1 kg hay/day,\nwater 2-3 litre/animal/day\n\nSummer\nWinter\n\n\"'\n\n~0\n\nfeeding stand\n\nLoose Length of\nrequired housing feeding rack\n\nTethered stall\n\nSpace\n\nmangers\nfeeding aisle\nmangers\n\"':il\n0\n\nll)\n\n\"'c\n\n\"!\n\n0\n\n:;;\n\na;\n\nI\n\nfeeding stand\n\n__L -g·1Jl;.J\nN\n\ngangway\n\n~ cheese making ...\n\"\n0\n\n\\J\n\n4D\n\nTwo-room housing with deep litter bed\n\nc\n\nI\n\nstraw\n\nmilking stand\n\n'0\n\nj\n\n12 goats\n\nkids {young goats)\n\nground plan\n\nI\n\nkids {young goats!\n\nkid\nyoung\nanimal\ngoat\nbuck\n\nm'\n\nem\n\n0.7\n1.2\n\n20\n30-40\n\n40-50\n1.5\n2.2-4.0 80\n\nc7l\n\n~\n\n£\ng>\n\n.3\n\n40\n\n50\n\n50\n\n80\n80\n\n50-70 40\n60\n50\n\nwindows 1/15-1/20 of the building height\nceiling > 2.50 m\ntrough: 1 basm for 30 animals; 0.4 kg straw/day,\n1.5 dVyear/anlmal, dung production 7-15 dVgoat\n\n0 Goat keeping\n453\n\n\f"
+        },
+        {
+          "label": "Free stall depth",
+          "value": 2.5,
+          "value_max": 2.8,
+          "unit": "m",
+          "context": "Depth for a free stall; printed as a range.",
+          "status": "verified",
+          "ocr_raw": "ANIMAL HUSBANDRY\nKeeping Small Animals\n\nhutch area per animal 0.65-1.0m2;\nshould be well ventilated, dry and\nprotected from sun and predators (rats);\nhutches usually made of wood with\ndrainage ~f), 5% gradient\n\nsmall purebreds\n80\n80 55\nmedium purebreds 100\n80\n65\nlarge purebreds\n120\n80 75\n(depth is the same to ease subdivision)\n\nfor small purebreds three tiers, for large\npurebreds two tiers within above limits\n{length unlimited); slatted floor~ 8\nwith drainage facilities and common\nurine collection channel below\n\n0\n\nf) Size of rabbit hutches (em)\n\nC) Stacked rabbit hutches\n\ncage is made entirely from galvanised wire\nnetting, mesh size 25 x 25 or 12x 70mm\n\nwooden or polyurethane nesting boxes\nfor young animals: floor of nesting boxes\nat least 70 mm below base of cage\n\nRabbit (Belgian giant)\n\nopening front or front section between two\nhutches~ f); front wall of galvanised\nwire netting; hutches for female hares with\ndark netting and 10cm high bed\n\n8\n\nFeed rack in hutch\n\nw\n\ne\n\nd\n\nh\n\n0\n\nWire cage with automatic feeder\n\nBreeding cage with nesting\nbox and automatic feeder\n\ntH\"\\\n!---- 0.85-1.25 ~\n\nstall area per animal\nstall width per animal\nstall depth, tethered\n\n1.5-2.0m2\n0.75--1.00 m\n1.8m\n\nstall depth, free\nstall height\n\n2.5-2.8 m\n1.7-2.5m\n\nstall temperature\n\n1D-20oc\n\nf) Goat (German Saanenziege)\ntrough for\nconcentrated\nfeedstuff\n\nstandard dimensions of a feeding rack\nand drinking trough in the feeding aisle\n(transverse aisle); daily requirements\nper goat: 1.2kg hay, 2.3kg of root crop,\n2-31 of water\n\nwire mesh above the rack level; tiled\nflooring at a gradient, with a channel for\nurine; feed rack and water trough serve\nboth stalls\nModern goat housing with feed rack\nand trough between two pens\n\nQ\n\nRabbit hutches\nThese ~ 0 - 0 are often freestanding at wind-protected rear\nsides of barns and houses. Hutches can be stacked 3 x vertically\n~ 0. They should be protected\nagainst rats and mice, and be\neasy to clean and with urine drains\n~ f). For the breeding of fattening and meat rabbits ~ 9 - 0 in\nclose roorns, there are stringent requirements for the construction of\nthe hutch and the climate. Rabbits\nreact to poor climate rnuch more\nsensitively than piglets or chicks.\nThermally insulated buildings with\nforced ventilation are required for\nbreeding and fattening. The hutch\nvolume should be 4.5-5.5 m3 per\ndoe including offspring. The temperature in the breeding hutch\nshould be 10-28 °C, optimally\n18 oc, in the fattening hutch 20 °C.\nGoat sheds\nIf possible these should face to the\neast or south. Dry with good ventilation and lighting, window area =\n1/5-1/20 of the floor area. Where\ngoats are tied up in numbers, the\nstanding width should be 75-80 em,\ndepth 1.50-2.00 rn, without including the passages necessary in front\nand behind the pens. A paddock\nnext door to the south is ideal.\n\nFeed rack and trough for goat\npen\n\nfeeding grille\n\nIiii\n\nbarrier\nmesh\n\nANIMAL\nHUSBANDRY\n\nt\nfeeding\n\nfeeding stand\n\n}---\n\nKeeping small\nanimals\nSheep housing\nLaying hens\nPig keeping\nDairy farming\nFinishing beef\ncattle\nKeeping horses\n\niii\n\n1\n\ntable\n\n90\n\ndeep\nstraw\nbed\nTwo-room goat housing with deep\nlitter bed\n\nQ\n\nMulti-space loose housing with wall-mounted bed niches\n\nLoose box with fully slatted floor\n\n5 kg grass/day and 0.5 kg hay\n6 kg red clover\n1 kg hay/day,\nwater 2-3 litre/animal/day\n\nSummer\nWinter\n\n\"'\n\n~0\n\nfeeding stand\n\nLoose Length of\nrequired housing feeding rack\n\nTethered stall\n\nSpace\n\nmangers\nfeeding aisle\nmangers\n\"':il\n0\n\nll)\n\n\"'c\n\n\"!\n\n0\n\n:;;\n\na;\n\nI\n\nfeeding stand\n\n__L -g·1Jl;.J\nN\n\ngangway\n\n~ cheese making ...\n\"\n0\n\n\\J\n\n4D\n\nTwo-room housing with deep litter bed\n\nc\n\nI\n\nstraw\n\nmilking stand\n\n'0\n\nj\n\n12 goats\n\nkids {young goats)\n\nground plan\n\nI\n\nkids {young goats!\n\nkid\nyoung\nanimal\ngoat\nbuck\n\nm'\n\nem\n\n0.7\n1.2\n\n20\n30-40\n\n40-50\n1.5\n2.2-4.0 80\n\nc7l\n\n~\n\n£\ng>\n\n.3\n\n40\n\n50\n\n50\n\n80\n80\n\n50-70 40\n60\n50\n\nwindows 1/15-1/20 of the building height\nceiling > 2.50 m\ntrough: 1 basm for 30 animals; 0.4 kg straw/day,\n1.5 dVyear/anlmal, dung production 7-15 dVgoat\n\n0 Goat keeping\n453\n\n\f"
+        },
+        {
+          "label": "Stall height",
+          "value": 1.7,
+          "value_max": 2.5,
+          "unit": "m",
+          "context": "Stall height; printed as a range.",
+          "status": "verified",
+          "ocr_raw": "ANIMAL HUSBANDRY\nKeeping Small Animals\n\nhutch area per animal 0.65-1.0m2;\nshould be well ventilated, dry and\nprotected from sun and predators (rats);\nhutches usually made of wood with\ndrainage ~f), 5% gradient\n\nsmall purebreds\n80\n80 55\nmedium purebreds 100\n80\n65\nlarge purebreds\n120\n80 75\n(depth is the same to ease subdivision)\n\nfor small purebreds three tiers, for large\npurebreds two tiers within above limits\n{length unlimited); slatted floor~ 8\nwith drainage facilities and common\nurine collection channel below\n\n0\n\nf) Size of rabbit hutches (em)\n\nC) Stacked rabbit hutches\n\ncage is made entirely from galvanised wire\nnetting, mesh size 25 x 25 or 12x 70mm\n\nwooden or polyurethane nesting boxes\nfor young animals: floor of nesting boxes\nat least 70 mm below base of cage\n\nRabbit (Belgian giant)\n\nopening front or front section between two\nhutches~ f); front wall of galvanised\nwire netting; hutches for female hares with\ndark netting and 10cm high bed\n\n8\n\nFeed rack in hutch\n\nw\n\ne\n\nd\n\nh\n\n0\n\nWire cage with automatic feeder\n\nBreeding cage with nesting\nbox and automatic feeder\n\ntH\"\\\n!---- 0.85-1.25 ~\n\nstall area per animal\nstall width per animal\nstall depth, tethered\n\n1.5-2.0m2\n0.75--1.00 m\n1.8m\n\nstall depth, free\nstall height\n\n2.5-2.8 m\n1.7-2.5m\n\nstall temperature\n\n1D-20oc\n\nf) Goat (German Saanenziege)\ntrough for\nconcentrated\nfeedstuff\n\nstandard dimensions of a feeding rack\nand drinking trough in the feeding aisle\n(transverse aisle); daily requirements\nper goat: 1.2kg hay, 2.3kg of root crop,\n2-31 of water\n\nwire mesh above the rack level; tiled\nflooring at a gradient, with a channel for\nurine; feed rack and water trough serve\nboth stalls\nModern goat housing with feed rack\nand trough between two pens\n\nQ\n\nRabbit hutches\nThese ~ 0 - 0 are often freestanding at wind-protected rear\nsides of barns and houses. Hutches can be stacked 3 x vertically\n~ 0. They should be protected\nagainst rats and mice, and be\neasy to clean and with urine drains\n~ f). For the breeding of fattening and meat rabbits ~ 9 - 0 in\nclose roorns, there are stringent requirements for the construction of\nthe hutch and the climate. Rabbits\nreact to poor climate rnuch more\nsensitively than piglets or chicks.\nThermally insulated buildings with\nforced ventilation are required for\nbreeding and fattening. The hutch\nvolume should be 4.5-5.5 m3 per\ndoe including offspring. The temperature in the breeding hutch\nshould be 10-28 °C, optimally\n18 oc, in the fattening hutch 20 °C.\nGoat sheds\nIf possible these should face to the\neast or south. Dry with good ventilation and lighting, window area =\n1/5-1/20 of the floor area. Where\ngoats are tied up in numbers, the\nstanding width should be 75-80 em,\ndepth 1.50-2.00 rn, without including the passages necessary in front\nand behind the pens. A paddock\nnext door to the south is ideal.\n\nFeed rack and trough for goat\npen\n\nfeeding grille\n\nIiii\n\nbarrier\nmesh\n\nANIMAL\nHUSBANDRY\n\nt\nfeeding\n\nfeeding stand\n\n}---\n\nKeeping small\nanimals\nSheep housing\nLaying hens\nPig keeping\nDairy farming\nFinishing beef\ncattle\nKeeping horses\n\niii\n\n1\n\ntable\n\n90\n\ndeep\nstraw\nbed\nTwo-room goat housing with deep\nlitter bed\n\nQ\n\nMulti-space loose housing with wall-mounted bed niches\n\nLoose box with fully slatted floor\n\n5 kg grass/day and 0.5 kg hay\n6 kg red clover\n1 kg hay/day,\nwater 2-3 litre/animal/day\n\nSummer\nWinter\n\n\"'\n\n~0\n\nfeeding stand\n\nLoose Length of\nrequired housing feeding rack\n\nTethered stall\n\nSpace\n\nmangers\nfeeding aisle\nmangers\n\"':il\n0\n\nll)\n\n\"'c\n\n\"!\n\n0\n\n:;;\n\na;\n\nI\n\nfeeding stand\n\n__L -g·1Jl;.J\nN\n\ngangway\n\n~ cheese making ...\n\"\n0\n\n\\J\n\n4D\n\nTwo-room housing with deep litter bed\n\nc\n\nI\n\nstraw\n\nmilking stand\n\n'0\n\nj\n\n12 goats\n\nkids {young goats)\n\nground plan\n\nI\n\nkids {young goats!\n\nkid\nyoung\nanimal\ngoat\nbuck\n\nm'\n\nem\n\n0.7\n1.2\n\n20\n30-40\n\n40-50\n1.5\n2.2-4.0 80\n\nc7l\n\n~\n\n£\ng>\n\n.3\n\n40\n\n50\n\n50\n\n80\n80\n\n50-70 40\n60\n50\n\nwindows 1/15-1/20 of the building height\nceiling > 2.50 m\ntrough: 1 basm for 30 animals; 0.4 kg straw/day,\n1.5 dVyear/anlmal, dung production 7-15 dVgoat\n\n0 Goat keeping\n453\n\n\f"
+        },
+        {
+          "label": "Stall temperature",
+          "value": 10.0,
+          "value_max": 20.0,
+          "unit": "°C",
+          "context": "Stated temperature range.",
+          "status": "verified",
+          "ocr_raw": "ANIMAL HUSBANDRY\nKeeping Small Animals\n\nhutch area per animal 0.65-1.0m2;\nshould be well ventilated, dry and\nprotected from sun and predators (rats);\nhutches usually made of wood with\ndrainage ~f), 5% gradient\n\nsmall purebreds\n80\n80 55\nmedium purebreds 100\n80\n65\nlarge purebreds\n120\n80 75\n(depth is the same to ease subdivision)\n\nfor small purebreds three tiers, for large\npurebreds two tiers within above limits\n{length unlimited); slatted floor~ 8\nwith drainage facilities and common\nurine collection channel below\n\n0\n\nf) Size of rabbit hutches (em)\n\nC) Stacked rabbit hutches\n\ncage is made entirely from galvanised wire\nnetting, mesh size 25 x 25 or 12x 70mm\n\nwooden or polyurethane nesting boxes\nfor young animals: floor of nesting boxes\nat least 70 mm below base of cage\n\nRabbit (Belgian giant)\n\nopening front or front section between two\nhutches~ f); front wall of galvanised\nwire netting; hutches for female hares with\ndark netting and 10cm high bed\n\n8\n\nFeed rack in hutch\n\nw\n\ne\n\nd\n\nh\n\n0\n\nWire cage with automatic feeder\n\nBreeding cage with nesting\nbox and automatic feeder\n\ntH\"\\\n!---- 0.85-1.25 ~\n\nstall area per animal\nstall width per animal\nstall depth, tethered\n\n1.5-2.0m2\n0.75--1.00 m\n1.8m\n\nstall depth, free\nstall height\n\n2.5-2.8 m\n1.7-2.5m\n\nstall temperature\n\n1D-20oc\n\nf) Goat (German Saanenziege)\ntrough for\nconcentrated\nfeedstuff\n\nstandard dimensions of a feeding rack\nand drinking trough in the feeding aisle\n(transverse aisle); daily requirements\nper goat: 1.2kg hay, 2.3kg of root crop,\n2-31 of water\n\nwire mesh above the rack level; tiled\nflooring at a gradient, with a channel for\nurine; feed rack and water trough serve\nboth stalls\nModern goat housing with feed rack\nand trough between two pens\n\nQ\n\nRabbit hutches\nThese ~ 0 - 0 are often freestanding at wind-protected rear\nsides of barns and houses. Hutches can be stacked 3 x vertically\n~ 0. They should be protected\nagainst rats and mice, and be\neasy to clean and with urine drains\n~ f). For the breeding of fattening and meat rabbits ~ 9 - 0 in\nclose roorns, there are stringent requirements for the construction of\nthe hutch and the climate. Rabbits\nreact to poor climate rnuch more\nsensitively than piglets or chicks.\nThermally insulated buildings with\nforced ventilation are required for\nbreeding and fattening. The hutch\nvolume should be 4.5-5.5 m3 per\ndoe including offspring. The temperature in the breeding hutch\nshould be 10-28 °C, optimally\n18 oc, in the fattening hutch 20 °C.\nGoat sheds\nIf possible these should face to the\neast or south. Dry with good ventilation and lighting, window area =\n1/5-1/20 of the floor area. Where\ngoats are tied up in numbers, the\nstanding width should be 75-80 em,\ndepth 1.50-2.00 rn, without including the passages necessary in front\nand behind the pens. A paddock\nnext door to the south is ideal.\n\nFeed rack and trough for goat\npen\n\nfeeding grille\n\nIiii\n\nbarrier\nmesh\n\nANIMAL\nHUSBANDRY\n\nt\nfeeding\n\nfeeding stand\n\n}---\n\nKeeping small\nanimals\nSheep housing\nLaying hens\nPig keeping\nDairy farming\nFinishing beef\ncattle\nKeeping horses\n\niii\n\n1\n\ntable\n\n90\n\ndeep\nstraw\nbed\nTwo-room goat housing with deep\nlitter bed\n\nQ\n\nMulti-space loose housing with wall-mounted bed niches\n\nLoose box with fully slatted floor\n\n5 kg grass/day and 0.5 kg hay\n6 kg red clover\n1 kg hay/day,\nwater 2-3 litre/animal/day\n\nSummer\nWinter\n\n\"'\n\n~0\n\nfeeding stand\n\nLoose Length of\nrequired housing feeding rack\n\nTethered stall\n\nSpace\n\nmangers\nfeeding aisle\nmangers\n\"':il\n0\n\nll)\n\n\"'c\n\n\"!\n\n0\n\n:;;\n\na;\n\nI\n\nfeeding stand\n\n__L -g·1Jl;.J\nN\n\ngangway\n\n~ cheese making ...\n\"\n0\n\n\\J\n\n4D\n\nTwo-room housing with deep litter bed\n\nc\n\nI\n\nstraw\n\nmilking stand\n\n'0\n\nj\n\n12 goats\n\nkids {young goats)\n\nground plan\n\nI\n\nkids {young goats!\n\nkid\nyoung\nanimal\ngoat\nbuck\n\nm'\n\nem\n\n0.7\n1.2\n\n20\n30-40\n\n40-50\n1.5\n2.2-4.0 80\n\nc7l\n\n~\n\n£\ng>\n\n.3\n\n40\n\n50\n\n50\n\n80\n80\n\n50-70 40\n60\n50\n\nwindows 1/15-1/20 of the building height\nceiling > 2.50 m\ntrough: 1 basm for 30 animals; 0.4 kg straw/day,\n1.5 dVyear/anlmal, dung production 7-15 dVgoat\n\n0 Goat keeping\n453\n\n\f"
+        },
+        {
+          "label": "Window area relative to floor area",
+          "value": 1.0,
+          "value_max": 5.0,
+          "unit": "ratio",
+          "context": "Window area is stated as 1/5–1/20 of floor area; the displayed ratio represents the first stated fraction only.",
+          "status": "verified",
+          "ocr_raw": "window area =\n1/5-1/20 of the floor area."
+        },
+        {
+          "label": "Window area relative to floor area",
+          "value": 1.0,
+          "value_max": 20.0,
+          "unit": "ratio",
+          "context": "Window area is stated as 1/5–1/20 of floor area; the displayed ratio represents the second stated fraction only.",
+          "status": "verified",
+          "ocr_raw": "window area =\n1/5-1/20 of the floor area."
+        },
+        {
+          "label": "Standing width for tied goats",
+          "value": 75.0,
+          "value_max": 80.0,
+          "unit": "cm",
+          "context": "Width where goats are tied up in numbers; stated range excludes passages.",
+          "status": "verified",
+          "ocr_raw": "ANIMAL HUSBANDRY\nKeeping Small Animals\n\nhutch area per animal 0.65-1.0m2;\nshould be well ventilated, dry and\nprotected from sun and predators (rats);\nhutches usually made of wood with\ndrainage ~f), 5% gradient\n\nsmall purebreds\n80\n80 55\nmedium purebreds 100\n80\n65\nlarge purebreds\n120\n80 75\n(depth is the same to ease subdivision)\n\nfor small purebreds three tiers, for large\npurebreds two tiers within above limits\n{length unlimited); slatted floor~ 8\nwith drainage facilities and common\nurine collection channel below\n\n0\n\nf) Size of rabbit hutches (em)\n\nC) Stacked rabbit hutches\n\ncage is made entirely from galvanised wire\nnetting, mesh size 25 x 25 or 12x 70mm\n\nwooden or polyurethane nesting boxes\nfor young animals: floor of nesting boxes\nat least 70 mm below base of cage\n\nRabbit (Belgian giant)\n\nopening front or front section between two\nhutches~ f); front wall of galvanised\nwire netting; hutches for female hares with\ndark netting and 10cm high bed\n\n8\n\nFeed rack in hutch\n\nw\n\ne\n\nd\n\nh\n\n0\n\nWire cage with automatic feeder\n\nBreeding cage with nesting\nbox and automatic feeder\n\ntH\"\\\n!---- 0.85-1.25 ~\n\nstall area per animal\nstall width per animal\nstall depth, tethered\n\n1.5-2.0m2\n0.75--1.00 m\n1.8m\n\nstall depth, free\nstall height\n\n2.5-2.8 m\n1.7-2.5m\n\nstall temperature\n\n1D-20oc\n\nf) Goat (German Saanenziege)\ntrough for\nconcentrated\nfeedstuff\n\nstandard dimensions of a feeding rack\nand drinking trough in the feeding aisle\n(transverse aisle); daily requirements\nper goat: 1.2kg hay, 2.3kg of root crop,\n2-31 of water\n\nwire mesh above the rack level; tiled\nflooring at a gradient, with a channel for\nurine; feed rack and water trough serve\nboth stalls\nModern goat housing with feed rack\nand trough between two pens\n\nQ\n\nRabbit hutches\nThese ~ 0 - 0 are often freestanding at wind-protected rear\nsides of barns and houses. Hutches can be stacked 3 x vertically\n~ 0. They should be protected\nagainst rats and mice, and be\neasy to clean and with urine drains\n~ f). For the breeding of fattening and meat rabbits ~ 9 - 0 in\nclose roorns, there are stringent requirements for the construction of\nthe hutch and the climate. Rabbits\nreact to poor climate rnuch more\nsensitively than piglets or chicks.\nThermally insulated buildings with\nforced ventilation are required for\nbreeding and fattening. The hutch\nvolume should be 4.5-5.5 m3 per\ndoe including offspring. The temperature in the breeding hutch\nshould be 10-28 °C, optimally\n18 oc, in the fattening hutch 20 °C.\nGoat sheds\nIf possible these should face to the\neast or south. Dry with good ventilation and lighting, window area =\n1/5-1/20 of the floor area. Where\ngoats are tied up in numbers, the\nstanding width should be 75-80 em,\ndepth 1.50-2.00 rn, without including the passages necessary in front\nand behind the pens. A paddock\nnext door to the south is ideal.\n\nFeed rack and trough for goat\npen\n\nfeeding grille\n\nIiii\n\nbarrier\nmesh\n\nANIMAL\nHUSBANDRY\n\nt\nfeeding\n\nfeeding stand\n\n}---\n\nKeeping small\nanimals\nSheep housing\nLaying hens\nPig keeping\nDairy farming\nFinishing beef\ncattle\nKeeping horses\n\niii\n\n1\n\ntable\n\n90\n\ndeep\nstraw\nbed\nTwo-room goat housing with deep\nlitter bed\n\nQ\n\nMulti-space loose housing with wall-mounted bed niches\n\nLoose box with fully slatted floor\n\n5 kg grass/day and 0.5 kg hay\n6 kg red clover\n1 kg hay/day,\nwater 2-3 litre/animal/day\n\nSummer\nWinter\n\n\"'\n\n~0\n\nfeeding stand\n\nLoose Length of\nrequired housing feeding rack\n\nTethered stall\n\nSpace\n\nmangers\nfeeding aisle\nmangers\n\"':il\n0\n\nll)\n\n\"'c\n\n\"!\n\n0\n\n:;;\n\na;\n\nI\n\nfeeding stand\n\n__L -g·1Jl;.J\nN\n\ngangway\n\n~ cheese making ...\n\"\n0\n\n\\J\n\n4D\n\nTwo-room housing with deep litter bed\n\nc\n\nI\n\nstraw\n\nmilking stand\n\n'0\n\nj\n\n12 goats\n\nkids {young goats)\n\nground plan\n\nI\n\nkids {young goats!\n\nkid\nyoung\nanimal\ngoat\nbuck\n\nm'\n\nem\n\n0.7\n1.2\n\n20\n30-40\n\n40-50\n1.5\n2.2-4.0 80\n\nc7l\n\n~\n\n£\ng>\n\n.3\n\n40\n\n50\n\n50\n\n80\n80\n\n50-70 40\n60\n50\n\nwindows 1/15-1/20 of the building height\nceiling > 2.50 m\ntrough: 1 basm for 30 animals; 0.4 kg straw/day,\n1.5 dVyear/anlmal, dung production 7-15 dVgoat\n\n0 Goat keeping\n453\n\n\f"
+        },
+        {
+          "label": "Standing depth for tied goats",
+          "value": 1.5,
+          "value_max": 2.0,
+          "unit": "m",
+          "context": "Depth where goats are tied up in numbers; stated range excludes passages.",
+          "status": "verified",
+          "ocr_raw": "ANIMAL HUSBANDRY\nKeeping Small Animals\n\nhutch area per animal 0.65-1.0m2;\nshould be well ventilated, dry and\nprotected from sun and predators (rats);\nhutches usually made of wood with\ndrainage ~f), 5% gradient\n\nsmall purebreds\n80\n80 55\nmedium purebreds 100\n80\n65\nlarge purebreds\n120\n80 75\n(depth is the same to ease subdivision)\n\nfor small purebreds three tiers, for large\npurebreds two tiers within above limits\n{length unlimited); slatted floor~ 8\nwith drainage facilities and common\nurine collection channel below\n\n0\n\nf) Size of rabbit hutches (em)\n\nC) Stacked rabbit hutches\n\ncage is made entirely from galvanised wire\nnetting, mesh size 25 x 25 or 12x 70mm\n\nwooden or polyurethane nesting boxes\nfor young animals: floor of nesting boxes\nat least 70 mm below base of cage\n\nRabbit (Belgian giant)\n\nopening front or front section between two\nhutches~ f); front wall of galvanised\nwire netting; hutches for female hares with\ndark netting and 10cm high bed\n\n8\n\nFeed rack in hutch\n\nw\n\ne\n\nd\n\nh\n\n0\n\nWire cage with automatic feeder\n\nBreeding cage with nesting\nbox and automatic feeder\n\ntH\"\\\n!---- 0.85-1.25 ~\n\nstall area per animal\nstall width per animal\nstall depth, tethered\n\n1.5-2.0m2\n0.75--1.00 m\n1.8m\n\nstall depth, free\nstall height\n\n2.5-2.8 m\n1.7-2.5m\n\nstall temperature\n\n1D-20oc\n\nf) Goat (German Saanenziege)\ntrough for\nconcentrated\nfeedstuff\n\nstandard dimensions of a feeding rack\nand drinking trough in the feeding aisle\n(transverse aisle); daily requirements\nper goat: 1.2kg hay, 2.3kg of root crop,\n2-31 of water\n\nwire mesh above the rack level; tiled\nflooring at a gradient, with a channel for\nurine; feed rack and water trough serve\nboth stalls\nModern goat housing with feed rack\nand trough between two pens\n\nQ\n\nRabbit hutches\nThese ~ 0 - 0 are often freestanding at wind-protected rear\nsides of barns and houses. Hutches can be stacked 3 x vertically\n~ 0. They should be protected\nagainst rats and mice, and be\neasy to clean and with urine drains\n~ f). For the breeding of fattening and meat rabbits ~ 9 - 0 in\nclose roorns, there are stringent requirements for the construction of\nthe hutch and the climate. Rabbits\nreact to poor climate rnuch more\nsensitively than piglets or chicks.\nThermally insulated buildings with\nforced ventilation are required for\nbreeding and fattening. The hutch\nvolume should be 4.5-5.5 m3 per\ndoe including offspring. The temperature in the breeding hutch\nshould be 10-28 °C, optimally\n18 oc, in the fattening hutch 20 °C.\nGoat sheds\nIf possible these should face to the\neast or south. Dry with good ventilation and lighting, window area =\n1/5-1/20 of the floor area. Where\ngoats are tied up in numbers, the\nstanding width should be 75-80 em,\ndepth 1.50-2.00 rn, without including the passages necessary in front\nand behind the pens. A paddock\nnext door to the south is ideal.\n\nFeed rack and trough for goat\npen\n\nfeeding grille\n\nIiii\n\nbarrier\nmesh\n\nANIMAL\nHUSBANDRY\n\nt\nfeeding\n\nfeeding stand\n\n}---\n\nKeeping small\nanimals\nSheep housing\nLaying hens\nPig keeping\nDairy farming\nFinishing beef\ncattle\nKeeping horses\n\niii\n\n1\n\ntable\n\n90\n\ndeep\nstraw\nbed\nTwo-room goat housing with deep\nlitter bed\n\nQ\n\nMulti-space loose housing with wall-mounted bed niches\n\nLoose box with fully slatted floor\n\n5 kg grass/day and 0.5 kg hay\n6 kg red clover\n1 kg hay/day,\nwater 2-3 litre/animal/day\n\nSummer\nWinter\n\n\"'\n\n~0\n\nfeeding stand\n\nLoose Length of\nrequired housing feeding rack\n\nTethered stall\n\nSpace\n\nmangers\nfeeding aisle\nmangers\n\"':il\n0\n\nll)\n\n\"'c\n\n\"!\n\n0\n\n:;;\n\na;\n\nI\n\nfeeding stand\n\n__L -g·1Jl;.J\nN\n\ngangway\n\n~ cheese making ...\n\"\n0\n\n\\J\n\n4D\n\nTwo-room housing with deep litter bed\n\nc\n\nI\n\nstraw\n\nmilking stand\n\n'0\n\nj\n\n12 goats\n\nkids {young goats)\n\nground plan\n\nI\n\nkids {young goats!\n\nkid\nyoung\nanimal\ngoat\nbuck\n\nm'\n\nem\n\n0.7\n1.2\n\n20\n30-40\n\n40-50\n1.5\n2.2-4.0 80\n\nc7l\n\n~\n\n£\ng>\n\n.3\n\n40\n\n50\n\n50\n\n80\n80\n\n50-70 40\n60\n50\n\nwindows 1/15-1/20 of the building height\nceiling > 2.50 m\ntrough: 1 basm for 30 animals; 0.4 kg straw/day,\n1.5 dVyear/anlmal, dung production 7-15 dVgoat\n\n0 Goat keeping\n453\n\n\f"
+        },
+        {
+          "label": "Feeding-rack and trough daily water requirement per goat",
+          "value": 2.0,
+          "value_max": 3.0,
+          "unit": "l/animal/day",
+          "context": "Daily water requirement per goat, printed as a range.",
+          "status": "verified",
+          "ocr_raw": "ANIMAL HUSBANDRY\nKeeping Small Animals\n\nhutch area per animal 0.65-1.0m2;\nshould be well ventilated, dry and\nprotected from sun and predators (rats);\nhutches usually made of wood with\ndrainage ~f), 5% gradient\n\nsmall purebreds\n80\n80 55\nmedium purebreds 100\n80\n65\nlarge purebreds\n120\n80 75\n(depth is the same to ease subdivision)\n\nfor small purebreds three tiers, for large\npurebreds two tiers within above limits\n{length unlimited); slatted floor~ 8\nwith drainage facilities and common\nurine collection channel below\n\n0\n\nf) Size of rabbit hutches (em)\n\nC) Stacked rabbit hutches\n\ncage is made entirely from galvanised wire\nnetting, mesh size 25 x 25 or 12x 70mm\n\nwooden or polyurethane nesting boxes\nfor young animals: floor of nesting boxes\nat least 70 mm below base of cage\n\nRabbit (Belgian giant)\n\nopening front or front section between two\nhutches~ f); front wall of galvanised\nwire netting; hutches for female hares with\ndark netting and 10cm high bed\n\n8\n\nFeed rack in hutch\n\nw\n\ne\n\nd\n\nh\n\n0\n\nWire cage with automatic feeder\n\nBreeding cage with nesting\nbox and automatic feeder\n\ntH\"\\\n!---- 0.85-1.25 ~\n\nstall area per animal\nstall width per animal\nstall depth, tethered\n\n1.5-2.0m2\n0.75--1.00 m\n1.8m\n\nstall depth, free\nstall height\n\n2.5-2.8 m\n1.7-2.5m\n\nstall temperature\n\n1D-20oc\n\nf) Goat (German Saanenziege)\ntrough for\nconcentrated\nfeedstuff\n\nstandard dimensions of a feeding rack\nand drinking trough in the feeding aisle\n(transverse aisle); daily requirements\nper goat: 1.2kg hay, 2.3kg of root crop,\n2-31 of water\n\nwire mesh above the rack level; tiled\nflooring at a gradient, with a channel for\nurine; feed rack and water trough serve\nboth stalls\nModern goat housing with feed rack\nand trough between two pens\n\nQ\n\nRabbit hutches\nThese ~ 0 - 0 are often freestanding at wind-protected rear\nsides of barns and houses. Hutches can be stacked 3 x vertically\n~ 0. They should be protected\nagainst rats and mice, and be\neasy to clean and with urine drains\n~ f). For the breeding of fattening and meat rabbits ~ 9 - 0 in\nclose roorns, there are stringent requirements for the construction of\nthe hutch and the climate. Rabbits\nreact to poor climate rnuch more\nsensitively than piglets or chicks.\nThermally insulated buildings with\nforced ventilation are required for\nbreeding and fattening. The hutch\nvolume should be 4.5-5.5 m3 per\ndoe including offspring. The temperature in the breeding hutch\nshould be 10-28 °C, optimally\n18 oc, in the fattening hutch 20 °C.\nGoat sheds\nIf possible these should face to the\neast or south. Dry with good ventilation and lighting, window area =\n1/5-1/20 of the floor area. Where\ngoats are tied up in numbers, the\nstanding width should be 75-80 em,\ndepth 1.50-2.00 rn, without including the passages necessary in front\nand behind the pens. A paddock\nnext door to the south is ideal.\n\nFeed rack and trough for goat\npen\n\nfeeding grille\n\nIiii\n\nbarrier\nmesh\n\nANIMAL\nHUSBANDRY\n\nt\nfeeding\n\nfeeding stand\n\n}---\n\nKeeping small\nanimals\nSheep housing\nLaying hens\nPig keeping\nDairy farming\nFinishing beef\ncattle\nKeeping horses\n\niii\n\n1\n\ntable\n\n90\n\ndeep\nstraw\nbed\nTwo-room goat housing with deep\nlitter bed\n\nQ\n\nMulti-space loose housing with wall-mounted bed niches\n\nLoose box with fully slatted floor\n\n5 kg grass/day and 0.5 kg hay\n6 kg red clover\n1 kg hay/day,\nwater 2-3 litre/animal/day\n\nSummer\nWinter\n\n\"'\n\n~0\n\nfeeding stand\n\nLoose Length of\nrequired housing feeding rack\n\nTethered stall\n\nSpace\n\nmangers\nfeeding aisle\nmangers\n\"':il\n0\n\nll)\n\n\"'c\n\n\"!\n\n0\n\n:;;\n\na;\n\nI\n\nfeeding stand\n\n__L -g·1Jl;.J\nN\n\ngangway\n\n~ cheese making ...\n\"\n0\n\n\\J\n\n4D\n\nTwo-room housing with deep litter bed\n\nc\n\nI\n\nstraw\n\nmilking stand\n\n'0\n\nj\n\n12 goats\n\nkids {young goats)\n\nground plan\n\nI\n\nkids {young goats!\n\nkid\nyoung\nanimal\ngoat\nbuck\n\nm'\n\nem\n\n0.7\n1.2\n\n20\n30-40\n\n40-50\n1.5\n2.2-4.0 80\n\nc7l\n\n~\n\n£\ng>\n\n.3\n\n40\n\n50\n\n50\n\n80\n80\n\n50-70 40\n60\n50\n\nwindows 1/15-1/20 of the building height\nceiling > 2.50 m\ntrough: 1 basm for 30 animals; 0.4 kg straw/day,\n1.5 dVyear/anlmal, dung production 7-15 dVgoat\n\n0 Goat keeping\n453\n\n\f"
+        },
+        {
+          "label": "Ceiling height",
+          "value": 2.5,
+          "value_max": null,
+          "unit": "m",
+          "context": "The printed provision is greater than this height.",
+          "status": "verified",
+          "ocr_raw": "ceiling > 2.50 m"
+        },
+        {
+          "label": "Animals served per trough basin",
+          "value": 30.0,
+          "value_max": null,
+          "unit": "animals/basin",
+          "context": "Trough provision.",
+          "status": "verified",
+          "ocr_raw": "ANIMAL HUSBANDRY\nKeeping Small Animals\n\nhutch area per animal 0.65-1.0m2;\nshould be well ventilated, dry and\nprotected from sun and predators (rats);\nhutches usually made of wood with\ndrainage ~f), 5% gradient\n\nsmall purebreds\n80\n80 55\nmedium purebreds 100\n80\n65\nlarge purebreds\n120\n80 75\n(depth is the same to ease subdivision)\n\nfor small purebreds three tiers, for large\npurebreds two tiers within above limits\n{length unlimited); slatted floor~ 8\nwith drainage facilities and common\nurine collection channel below\n\n0\n\nf) Size of rabbit hutches (em)\n\nC) Stacked rabbit hutches\n\ncage is made entirely from galvanised wire\nnetting, mesh size 25 x 25 or 12x 70mm\n\nwooden or polyurethane nesting boxes\nfor young animals: floor of nesting boxes\nat least 70 mm below base of cage\n\nRabbit (Belgian giant)\n\nopening front or front section between two\nhutches~ f); front wall of galvanised\nwire netting; hutches for female hares with\ndark netting and 10cm high bed\n\n8\n\nFeed rack in hutch\n\nw\n\ne\n\nd\n\nh\n\n0\n\nWire cage with automatic feeder\n\nBreeding cage with nesting\nbox and automatic feeder\n\ntH\"\\\n!---- 0.85-1.25 ~\n\nstall area per animal\nstall width per animal\nstall depth, tethered\n\n1.5-2.0m2\n0.75--1.00 m\n1.8m\n\nstall depth, free\nstall height\n\n2.5-2.8 m\n1.7-2.5m\n\nstall temperature\n\n1D-20oc\n\nf) Goat (German Saanenziege)\ntrough for\nconcentrated\nfeedstuff\n\nstandard dimensions of a feeding rack\nand drinking trough in the feeding aisle\n(transverse aisle); daily requirements\nper goat: 1.2kg hay, 2.3kg of root crop,\n2-31 of water\n\nwire mesh above the rack level; tiled\nflooring at a gradient, with a channel for\nurine; feed rack and water trough serve\nboth stalls\nModern goat housing with feed rack\nand trough between two pens\n\nQ\n\nRabbit hutches\nThese ~ 0 - 0 are often freestanding at wind-protected rear\nsides of barns and houses. Hutches can be stacked 3 x vertically\n~ 0. They should be protected\nagainst rats and mice, and be\neasy to clean and with urine drains\n~ f). For the breeding of fattening and meat rabbits ~ 9 - 0 in\nclose roorns, there are stringent requirements for the construction of\nthe hutch and the climate. Rabbits\nreact to poor climate rnuch more\nsensitively than piglets or chicks.\nThermally insulated buildings with\nforced ventilation are required for\nbreeding and fattening. The hutch\nvolume should be 4.5-5.5 m3 per\ndoe including offspring. The temperature in the breeding hutch\nshould be 10-28 °C, optimally\n18 oc, in the fattening hutch 20 °C.\nGoat sheds\nIf possible these should face to the\neast or south. Dry with good ventilation and lighting, window area =\n1/5-1/20 of the floor area. Where\ngoats are tied up in numbers, the\nstanding width should be 75-80 em,\ndepth 1.50-2.00 rn, without including the passages necessary in front\nand behind the pens. A paddock\nnext door to the south is ideal.\n\nFeed rack and trough for goat\npen\n\nfeeding grille\n\nIiii\n\nbarrier\nmesh\n\nANIMAL\nHUSBANDRY\n\nt\nfeeding\n\nfeeding stand\n\n}---\n\nKeeping small\nanimals\nSheep housing\nLaying hens\nPig keeping\nDairy farming\nFinishing beef\ncattle\nKeeping horses\n\niii\n\n1\n\ntable\n\n90\n\ndeep\nstraw\nbed\nTwo-room goat housing with deep\nlitter bed\n\nQ\n\nMulti-space loose housing with wall-mounted bed niches\n\nLoose box with fully slatted floor\n\n5 kg grass/day and 0.5 kg hay\n6 kg red clover\n1 kg hay/day,\nwater 2-3 litre/animal/day\n\nSummer\nWinter\n\n\"'\n\n~0\n\nfeeding stand\n\nLoose Length of\nrequired housing feeding rack\n\nTethered stall\n\nSpace\n\nmangers\nfeeding aisle\nmangers\n\"':il\n0\n\nll)\n\n\"'c\n\n\"!\n\n0\n\n:;;\n\na;\n\nI\n\nfeeding stand\n\n__L -g·1Jl;.J\nN\n\ngangway\n\n~ cheese making ...\n\"\n0\n\n\\J\n\n4D\n\nTwo-room housing with deep litter bed\n\nc\n\nI\n\nstraw\n\nmilking stand\n\n'0\n\nj\n\n12 goats\n\nkids {young goats)\n\nground plan\n\nI\n\nkids {young goats!\n\nkid\nyoung\nanimal\ngoat\nbuck\n\nm'\n\nem\n\n0.7\n1.2\n\n20\n30-40\n\n40-50\n1.5\n2.2-4.0 80\n\nc7l\n\n~\n\n£\ng>\n\n.3\n\n40\n\n50\n\n50\n\n80\n80\n\n50-70 40\n60\n50\n\nwindows 1/15-1/20 of the building height\nceiling > 2.50 m\ntrough: 1 basm for 30 animals; 0.4 kg straw/day,\n1.5 dVyear/anlmal, dung production 7-15 dVgoat\n\n0 Goat keeping\n453\n\n\f"
+        },
+        {
+          "label": "Goat-housing window proportion",
+          "value": 1.0,
+          "value_max": 15.0,
+          "unit": "ratio",
+          "context": "Windows as a fraction of building height, as printed in the goat-keeping notes.",
+          "status": "verified",
+          "ocr_raw": "windows 1/15-1/20 of the building height"
+        },
+        {
+          "label": "Goat-housing window proportion",
+          "value": 1.0,
+          "value_max": 20.0,
+          "unit": "ratio",
+          "context": "Windows as a fraction of building height, as printed in the goat-keeping notes.",
+          "status": "verified",
+          "ocr_raw": "windows 1/15-1/20 of the building height"
+        }
+      ],
+      "figure_refs": [
+        "7",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12",
+        "13",
+        "14"
+      ],
+      "cross_refs": [],
+      "keywords": [
+        "goat",
+        "goat shed",
+        "tethered stall",
+        "loose housing",
+        "feeding rack",
+        "trough",
+        "deep litter",
+        "ventilation"
+      ],
+      "tags_architectural": [
+        "ventilation",
+        "daylighting",
+        "circulation",
+        "spatial_proportion",
+        "safety"
+      ],
+      "confidence": 0.86
+    }
+  ]
+}

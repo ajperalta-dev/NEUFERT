@@ -1,0 +1,298 @@
+{
+  "model": "gpt-6-luna",
+  "checks": {
+    "checks": [
+      {
+        "ficha_index": 0,
+        "dimension_index": 0,
+        "status": "verified",
+        "value": 150.0,
+        "value_max": null,
+        "reason": "The text states at least 150 kg/m\u00b2 for each plastered layer."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 1,
+        "status": "verified",
+        "value": 30.0,
+        "value_max": null,
+        "reason": "The text states the separating joint must be at least 30 mm thick."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 2,
+        "status": "verified",
+        "value": 50.0,
+        "value_max": null,
+        "reason": "The text gives more than 50 mm as the joint-spacing threshold."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 3,
+        "status": "verified",
+        "value": 100.0,
+        "value_max": null,
+        "reason": "The text states each skin can be 100 kg/m\u00b2 when spacing exceeds 50 mm."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 4,
+        "status": "verified",
+        "value": 200.0,
+        "value_max": null,
+        "reason": "The text gives more than 200 kg/m\u00b2 as the skin-mass threshold."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 5,
+        "status": "verified",
+        "value": 30.0,
+        "value_max": null,
+        "reason": "The text gives more than 30 mm as the joint-thickness threshold."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 6,
+        "status": "verified",
+        "value": 12.0,
+        "value_max": null,
+        "reason": "The text states an improvement of 12 dB."
+      },
+      {
+        "ficha_index": 1,
+        "dimension_index": 0,
+        "status": "verified",
+        "value": 20.0,
+        "value_max": null,
+        "reason": "The floor diagram states dynamic stiffness s\u2032 \u2264 20 MN/m\u00b3."
+      },
+      {
+        "ficha_index": 1,
+        "dimension_index": 1,
+        "status": "verified",
+        "value": 300.0,
+        "value_max": null,
+        "reason": "Figure 6 states vaulted masonry floor slab weight \u2264 300 kg/m\u00b2."
+      },
+      {
+        "ficha_index": 1,
+        "dimension_index": 2,
+        "status": "verified",
+        "value": 300.0,
+        "value_max": 380.0,
+        "reason": "Figure 5 states reinforced-concrete slab weight 300\u2013380 kg/m\u00b2."
+      },
+      {
+        "ficha_index": 1,
+        "dimension_index": 3,
+        "status": "verified",
+        "value": 55.0,
+        "value_max": 57.0,
+        "reason": "Figure 5 states R\u2032w 55\u201357 dB."
+      },
+      {
+        "ficha_index": 1,
+        "dimension_index": 4,
+        "status": "verified",
+        "value": 50.0,
+        "value_max": null,
+        "reason": "Figure 5 states L\u2032n,w approximately 50 dB."
+      },
+      {
+        "ficha_index": 1,
+        "dimension_index": 5,
+        "status": "verified",
+        "value": 58.0,
+        "value_max": null,
+        "reason": "Figure 6 states R\u2032w approximately 58 dB."
+      },
+      {
+        "ficha_index": 1,
+        "dimension_index": 6,
+        "status": "verified",
+        "value": 47.0,
+        "value_max": null,
+        "reason": "Figure 6 states L\u2032n,w approximately 47 dB."
+      },
+      {
+        "ficha_index": 1,
+        "dimension_index": 7,
+        "status": "verified",
+        "value": 45.0,
+        "value_max": null,
+        "reason": "Figure 7 states R\u2032w approximately 45 dB."
+      },
+      {
+        "ficha_index": 1,
+        "dimension_index": 8,
+        "status": "verified",
+        "value": 66.0,
+        "value_max": null,
+        "reason": "Figure 7 states L\u2032n,w approximately 66 dB."
+      },
+      {
+        "ficha_index": 1,
+        "dimension_index": 9,
+        "status": "verified",
+        "value": 54.0,
+        "value_max": null,
+        "reason": "Figure 8 states R\u2032w approximately 54 dB."
+      },
+      {
+        "ficha_index": 1,
+        "dimension_index": 10,
+        "status": "verified",
+        "value": 50.0,
+        "value_max": null,
+        "reason": "Figure 8 states L\u2032n,w approximately 50 dB."
+      },
+      {
+        "ficha_index": 1,
+        "dimension_index": 11,
+        "status": "verified",
+        "value": 3.0,
+        "value_max": null,
+        "reason": "The text states values immediately after completion must be 3 dB better."
+      }
+    ]
+  },
+  "automatic": [
+    {
+      "ficha_index": 0,
+      "dimension_index": 0,
+      "issues": [
+        "Unknown unit"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 1,
+      "issues": []
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 2,
+      "issues": []
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 3,
+      "issues": [
+        "Unknown unit"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 4,
+      "issues": [
+        "Unknown unit"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 5,
+      "issues": []
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 6,
+      "issues": [
+        "Unknown unit"
+      ]
+    },
+    {
+      "ficha_index": 1,
+      "dimension_index": 0,
+      "issues": [
+        "Unknown unit"
+      ]
+    },
+    {
+      "ficha_index": 1,
+      "dimension_index": 1,
+      "issues": [
+        "Unknown unit"
+      ]
+    },
+    {
+      "ficha_index": 1,
+      "dimension_index": 2,
+      "issues": [
+        "Unknown unit"
+      ]
+    },
+    {
+      "ficha_index": 1,
+      "dimension_index": 3,
+      "issues": [
+        "Unknown unit"
+      ]
+    },
+    {
+      "ficha_index": 1,
+      "dimension_index": 4,
+      "issues": [
+        "Unknown unit"
+      ]
+    },
+    {
+      "ficha_index": 1,
+      "dimension_index": 5,
+      "issues": [
+        "Unknown unit"
+      ]
+    },
+    {
+      "ficha_index": 1,
+      "dimension_index": 6,
+      "issues": [
+        "Unknown unit"
+      ]
+    },
+    {
+      "ficha_index": 1,
+      "dimension_index": 7,
+      "issues": [
+        "Unknown unit"
+      ]
+    },
+    {
+      "ficha_index": 1,
+      "dimension_index": 8,
+      "issues": [
+        "Unknown unit"
+      ]
+    },
+    {
+      "ficha_index": 1,
+      "dimension_index": 9,
+      "issues": [
+        "Unknown unit"
+      ]
+    },
+    {
+      "ficha_index": 1,
+      "dimension_index": 10,
+      "issues": [
+        "Unknown unit"
+      ]
+    },
+    {
+      "ficha_index": 1,
+      "dimension_index": 11,
+      "issues": [
+        "Unknown unit"
+      ]
+    }
+  ],
+  "usage": [
+    {
+      "prompt_tokens": 4759,
+      "completion_tokens": 2031
+    },
+    {
+      "prompt_tokens": 5432,
+      "completion_tokens": 800
+    }
+  ]
+}

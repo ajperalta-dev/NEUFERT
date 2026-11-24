@@ -1,0 +1,411 @@
+{
+  "model": "gpt-6-luna",
+  "checks": {
+    "checks": [
+      {
+        "ficha_index": 0,
+        "dimension_index": 0,
+        "status": "verified",
+        "value": null,
+        "value_max": null,
+        "reason": "Text explicitly states 15 m\u00b2 per gambling machine."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 1,
+        "status": "verified",
+        "value": null,
+        "value_max": null,
+        "reason": "Text explicitly states the total may not exceed 10 machines."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 2,
+        "status": "verified",
+        "value": null,
+        "value_max": null,
+        "reason": "Plan label reads \u201carcade A \u2264 150 m\u00b2\u201d."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 3,
+        "status": "verified",
+        "value": null,
+        "value_max": null,
+        "reason": "Plan label reads \u201carcade B \u2264 150 m\u00b2\u201d."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 4,
+        "status": "uncertain",
+        "value": null,
+        "value_max": null,
+        "reason": "Figure 1 shows 1670, but no unit is printed."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 5,
+        "status": "uncertain",
+        "value": null,
+        "value_max": null,
+        "reason": "Figure 1 shows 650, but no unit is printed."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 6,
+        "status": "uncertain",
+        "value": null,
+        "value_max": null,
+        "reason": "Figure 1 shows 610, but no unit is printed."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 7,
+        "status": "uncertain",
+        "value": null,
+        "value_max": null,
+        "reason": "Figure 2 shows 1930, but no unit is printed."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 8,
+        "status": "uncertain",
+        "value": null,
+        "value_max": null,
+        "reason": "Figure 2 shows 1300, but no unit is printed."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 9,
+        "status": "uncertain",
+        "value": null,
+        "value_max": null,
+        "reason": "Figure 2 shows 560, but no unit is printed."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 10,
+        "status": "uncertain",
+        "value": null,
+        "value_max": null,
+        "reason": "Figure 3 shows 1810, but no unit is printed."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 11,
+        "status": "uncertain",
+        "value": null,
+        "value_max": null,
+        "reason": "Figure 3 shows 1680, but no unit is printed."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 12,
+        "status": "uncertain",
+        "value": null,
+        "value_max": null,
+        "reason": "Figure 3 shows 550, but no unit is printed."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 13,
+        "status": "uncertain",
+        "value": null,
+        "value_max": null,
+        "reason": "Figure 3 labels the gaming machine 590 \u00d7 850 \u00d7 290, but no unit is printed."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 14,
+        "status": "uncertain",
+        "value": null,
+        "value_max": null,
+        "reason": "Figure 3 labels the gaming machine 590 \u00d7 850 \u00d7 290, but no unit is printed."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 15,
+        "status": "uncertain",
+        "value": null,
+        "value_max": null,
+        "reason": "Figure 3 labels the gaming machine 590 \u00d7 850 \u00d7 290, but no unit is printed."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 16,
+        "status": "uncertain",
+        "value": null,
+        "value_max": null,
+        "reason": "Figure 4 shows 1640, but no unit is printed."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 17,
+        "status": "uncertain",
+        "value": null,
+        "value_max": null,
+        "reason": "Figure 4 shows 1300, but no unit is printed."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 18,
+        "status": "uncertain",
+        "value": null,
+        "value_max": null,
+        "reason": "Figure 4 shows 1330, but no unit is printed."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 19,
+        "status": "uncertain",
+        "value": null,
+        "value_max": null,
+        "reason": "Figure 5 shows 1600, but no unit is printed."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 20,
+        "status": "uncertain",
+        "value": null,
+        "value_max": null,
+        "reason": "Figure 5 shows 1700, but no unit is printed."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 21,
+        "status": "uncertain",
+        "value": null,
+        "value_max": null,
+        "reason": "Figure 5 shows 1200, but no unit is printed."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 22,
+        "status": "uncertain",
+        "value": null,
+        "value_max": null,
+        "reason": "Figure 6 shows 1300, but no unit is printed."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 23,
+        "status": "uncertain",
+        "value": null,
+        "value_max": null,
+        "reason": "Figure 6 shows 1200, but no unit is printed."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 24,
+        "status": "uncertain",
+        "value": null,
+        "value_max": null,
+        "reason": "Figure 6 shows 1500, but no unit is printed."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 25,
+        "status": "uncertain",
+        "value": null,
+        "value_max": null,
+        "reason": "Figure 7 shows 2600, but no unit is printed."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 26,
+        "status": "uncertain",
+        "value": null,
+        "value_max": null,
+        "reason": "Figure 7 shows 1500, but no unit is printed."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 27,
+        "status": "uncertain",
+        "value": null,
+        "value_max": null,
+        "reason": "Figure 7 shows 800, but no unit is printed."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 28,
+        "status": "uncertain",
+        "value": null,
+        "value_max": null,
+        "reason": "Figure 8 shows 850, but no unit is printed."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 29,
+        "status": "uncertain",
+        "value": null,
+        "value_max": null,
+        "reason": "Figure 8 shows 580, but no unit is printed."
+      }
+    ]
+  },
+  "automatic": [
+    {
+      "ficha_index": 0,
+      "dimension_index": 0,
+      "issues": []
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 1,
+      "issues": [
+        "Unknown unit"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 2,
+      "issues": []
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 3,
+      "issues": []
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 4,
+      "issues": []
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 5,
+      "issues": []
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 6,
+      "issues": []
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 7,
+      "issues": []
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 8,
+      "issues": []
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 9,
+      "issues": []
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 10,
+      "issues": []
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 11,
+      "issues": []
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 12,
+      "issues": []
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 13,
+      "issues": []
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 14,
+      "issues": []
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 15,
+      "issues": []
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 16,
+      "issues": []
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 17,
+      "issues": []
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 18,
+      "issues": []
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 19,
+      "issues": []
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 20,
+      "issues": []
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 21,
+      "issues": []
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 22,
+      "issues": []
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 23,
+      "issues": []
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 24,
+      "issues": []
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 25,
+      "issues": []
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 26,
+      "issues": []
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 27,
+      "issues": []
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 28,
+      "issues": []
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 29,
+      "issues": []
+    }
+  ],
+  "usage": [
+    {
+      "prompt_tokens": 4119,
+      "completion_tokens": 1995
+    },
+    {
+      "prompt_tokens": 5539,
+      "completion_tokens": 1222
+    }
+  ]
+}

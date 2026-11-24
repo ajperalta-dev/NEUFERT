@@ -1,0 +1,670 @@
+{
+  "fichas": [
+    {
+      "id": "4122fb96e4bd1976-262-vision-0",
+      "pdf_page": 262,
+      "book_page": 249,
+      "chapter": "ADMINISTRATION AND OFFICES",
+      "section": "Libraries",
+      "title": "Library user workstations and table spacing",
+      "summary": "Diagrams show a single library-user workplace, spacing between tables, and a formula for estimating the floor area required for an open workstation, including an allowance for adjacent aisles. The printed example states an approximate area of 2.50 m² and gives a worked result of 2.48 m².",
+      "building_type": "Library",
+      "spaces": [
+        "Open workstation",
+        "Reading area",
+        "Adjacent aisle"
+      ],
+      "uses": [
+        "Individual reading or study",
+        "Arranging tables for library users"
+      ],
+      "furniture_equipment": [
+        "Work table",
+        "Seating"
+      ],
+      "dimensions": [
+        {
+          "label": "Single workplace area",
+          "value": 2.5,
+          "value_max": null,
+          "unit": "m²",
+          "context": "Floor area required for an open workstation for a library user; approximate value stated in explanatory text.",
+          "status": "uncertain",
+          "ocr_raw": "the floor area required for an individual workstation is approx. 2.50 m²"
+        },
+        {
+          "label": "Worked workstation floor area",
+          "value": 2.48,
+          "value_max": null,
+          "unit": "m²",
+          "context": "Result printed in the formula example for an individual workstation.",
+          "status": "uncertain",
+          "ocr_raw": "F1 = 2.48 m²"
+        },
+        {
+          "label": "Table width (b)",
+          "value": 0.7,
+          "value_max": null,
+          "unit": "m",
+          "context": "Width of table in the worked formula example; the formula also shows 0.70.",
+          "status": "uncertain",
+          "ocr_raw": "F1 = 1.00 m · (0.70 + 0.95) · (1 + 50/100)"
+        },
+        {
+          "label": "Distance between table centre-lines (e)",
+          "value": 0.95,
+          "value_max": null,
+          "unit": "m",
+          "context": "Distance between centre-lines of tables arranged one behind the other, as used in the worked example.",
+          "status": "uncertain",
+          "ocr_raw": "F1 = 1.00 m · (0.70 + 0.95) · (1 + 50/100)"
+        },
+        {
+          "label": "Percentage allowed for adjacent aisles (N%)",
+          "value": 50.0,
+          "value_max": null,
+          "unit": "percent",
+          "context": "Worked example allowance for adjacent aisles providing access to individual workstations.",
+          "status": "uncertain",
+          "ocr_raw": "(1 + 50/100)"
+        },
+        {
+          "label": "Workstation length shown",
+          "value": 1.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Dimension shown beside the individual workplace diagram.",
+          "status": "uncertain",
+          "ocr_raw": "1.00"
+        },
+        {
+          "label": "Workstation depth shown",
+          "value": 0.6,
+          "value_max": null,
+          "unit": "m",
+          "context": "Dimension shown beside the individual workplace diagram.",
+          "status": "uncertain",
+          "ocr_raw": "60"
+        },
+        {
+          "label": "Workplace/table dimension",
+          "value": 0.7,
+          "value_max": null,
+          "unit": "m",
+          "context": "Dimension shown in the single-workplace diagram.",
+          "status": "uncertain",
+          "ocr_raw": "70"
+        },
+        {
+          "label": "Centre-line spacing segment",
+          "value": 0.95,
+          "value_max": null,
+          "unit": "m",
+          "context": "Dimension segment shown in the single-workplace diagram.",
+          "status": "uncertain",
+          "ocr_raw": "95"
+        },
+        {
+          "label": "Additional table projection",
+          "value": 0.7,
+          "value_max": null,
+          "unit": "m",
+          "context": "Dimension shown to the right of the single-workplace diagram.",
+          "status": "uncertain",
+          "ocr_raw": "70"
+        },
+        {
+          "label": "Minimum spacing between tables",
+          "value": 1.4,
+          "value_max": null,
+          "unit": "m",
+          "context": "Horizontal dimension in the minimum table-spacing diagram.",
+          "status": "uncertain",
+          "ocr_raw": "1.40"
+        },
+        {
+          "label": "Table-spacing diagram dimension",
+          "value": 1.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Vertical dimension shown in the minimum table-spacing diagram.",
+          "status": "uncertain",
+          "ocr_raw": "1.00"
+        }
+      ],
+      "figure_refs": [
+        "1",
+        "2",
+        "3"
+      ],
+      "cross_refs": [
+        "3",
+        "1"
+      ],
+      "keywords": [
+        "library workstation",
+        "table spacing",
+        "floor area",
+        "aisle allowance",
+        "reading"
+      ],
+      "tags_architectural": [
+        "ergonomics",
+        "anthropometry",
+        "clearance",
+        "spatial_proportion"
+      ],
+      "confidence": 0.88
+    },
+    {
+      "id": "4122fb96e4bd1976-262-vision-1",
+      "pdf_page": 262,
+      "book_page": 249,
+      "chapter": "ADMINISTRATION AND OFFICES",
+      "section": "Libraries",
+      "title": "Reading-area clearances and circulation",
+      "summary": "Figures illustrate minimum free room in a reading area, moving books between sitting and standing users, carrels, and aisle and circulation widths. The page labels the carrels as non-lockable protected workplaces.",
+      "building_type": "Library",
+      "spaces": [
+        "Reading area",
+        "Aisle",
+        "Circulation route",
+        "Carrel area"
+      ],
+      "uses": [
+        "Reading and study",
+        "Transporting books between library users",
+        "Accessing workstations and shelving"
+      ],
+      "furniture_equipment": [
+        "Carrels",
+        "Tables",
+        "Seating",
+        "Shelving"
+      ],
+      "dimensions": [
+        {
+          "label": "Minimum free room width",
+          "value": 1.5,
+          "value_max": null,
+          "unit": "m",
+          "context": "Dimension shown in the minimum-free-room-in-reading-area diagram.",
+          "status": "uncertain",
+          "ocr_raw": "150"
+        },
+        {
+          "label": "Minimum free room width",
+          "value": 1.35,
+          "value_max": null,
+          "unit": "m",
+          "context": "Additional dimension shown in the minimum-free-room-in-reading-area diagram.",
+          "status": "uncertain",
+          "ocr_raw": "135"
+        },
+        {
+          "label": "Book-transport clearance",
+          "value": 1.7,
+          "value_max": null,
+          "unit": "m",
+          "context": "Dimension shown in the diagram for transporting books between sitting and standing library users.",
+          "status": "uncertain",
+          "ocr_raw": "1.70"
+        },
+        {
+          "label": "Book-transport clearance",
+          "value": 1.9,
+          "value_max": null,
+          "unit": "m",
+          "context": "Dimension shown in the diagram for transporting books between sitting and standing library users.",
+          "status": "uncertain",
+          "ocr_raw": "1.90"
+        },
+        {
+          "label": "Narrowest aisle",
+          "value": 1.3,
+          "value_max": null,
+          "unit": "m",
+          "context": "Minimum-spacing diagram labels this as the narrowest aisle.",
+          "status": "uncertain",
+          "ocr_raw": "1.30"
+        },
+        {
+          "label": "Circulation route",
+          "value": 1.5,
+          "value_max": null,
+          "unit": "m",
+          "context": "Minimum-spacing diagram labels this dimension as the circulation route.",
+          "status": "uncertain",
+          "ocr_raw": "1.50"
+        },
+        {
+          "label": "Normal width",
+          "value": 2.3,
+          "value_max": null,
+          "unit": "m",
+          "context": "Minimum-spacing diagram labels this dimension as normal width.",
+          "status": "uncertain",
+          "ocr_raw": "2.30"
+        },
+        {
+          "label": "Aisle height shown",
+          "value": 3.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Vertical dimension shown with the minimum-spacing aisle diagram.",
+          "status": "uncertain",
+          "ocr_raw": "3.00"
+        },
+        {
+          "label": "Carrel dimension",
+          "value": 1.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Dimension shown across the carrel diagram.",
+          "status": "uncertain",
+          "ocr_raw": "1.00"
+        },
+        {
+          "label": "Carrel dimension",
+          "value": 0.75,
+          "value_max": null,
+          "unit": "m",
+          "context": "Dimension shown beside the carrel diagram; OCR prints 75.",
+          "status": "uncertain",
+          "ocr_raw": "75"
+        }
+      ],
+      "figure_refs": [
+        "4",
+        "5",
+        "6",
+        "7"
+      ],
+      "cross_refs": [
+        "5",
+        "4"
+      ],
+      "keywords": [
+        "reading area",
+        "clearance",
+        "aisle",
+        "circulation",
+        "carrel",
+        "book transport"
+      ],
+      "tags_architectural": [
+        "circulation",
+        "clearance",
+        "ergonomics",
+        "accessibility"
+      ],
+      "confidence": 0.84
+    },
+    {
+      "id": "4122fb96e4bd1976-262-vision-2",
+      "pdf_page": 262,
+      "book_page": 249,
+      "chapter": "ADMINISTRATION AND OFFICES",
+      "section": "Libraries",
+      "title": "Microfiche reader workplaces",
+      "summary": "Two workplace layouts are shown for microfiche readers, with plan dimensions and areas printed for alternatives A and B. The accompanying text notes the future need for microfilm reader workplaces, especially for newspapers, while describing a tendency toward digitalisation.",
+      "building_type": "Library",
+      "spaces": [
+        "Microfiche reader workplace"
+      ],
+      "uses": [
+        "Reading microfiche and microfilmed media",
+        "Providing access to newspapers and other media"
+      ],
+      "furniture_equipment": [
+        "Microfiche reader",
+        "Work table",
+        "Reader equipment"
+      ],
+      "dimensions": [
+        {
+          "label": "Workplace A area",
+          "value": 2.6,
+          "value_max": null,
+          "unit": "m²",
+          "context": "Area printed inside microfiche reader workplace option A.",
+          "status": "uncertain",
+          "ocr_raw": "A 2.6 m²"
+        },
+        {
+          "label": "Workplace A width",
+          "value": 1.7,
+          "value_max": null,
+          "unit": "m",
+          "context": "Horizontal dimension for option A.",
+          "status": "uncertain",
+          "ocr_raw": "1.70"
+        },
+        {
+          "label": "Workplace A depth",
+          "value": 1.5,
+          "value_max": null,
+          "unit": "m",
+          "context": "Vertical dimension for option A.",
+          "status": "uncertain",
+          "ocr_raw": "1.50"
+        },
+        {
+          "label": "Workplace B area",
+          "value": 3.4,
+          "value_max": null,
+          "unit": "m²",
+          "context": "Area printed inside microfiche reader workplace option B.",
+          "status": "uncertain",
+          "ocr_raw": "B 3.4 m²"
+        },
+        {
+          "label": "Workplace B width",
+          "value": 2.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Horizontal dimension for option B.",
+          "status": "uncertain",
+          "ocr_raw": "2.00"
+        },
+        {
+          "label": "Workplace B depth",
+          "value": 1.7,
+          "value_max": null,
+          "unit": "m",
+          "context": "Vertical dimension for option B.",
+          "status": "uncertain",
+          "ocr_raw": "1.70"
+        }
+      ],
+      "figure_refs": [
+        "8"
+      ],
+      "cross_refs": [],
+      "keywords": [
+        "microfiche",
+        "microfilm",
+        "reader workplace",
+        "digitalisation",
+        "newspapers"
+      ],
+      "tags_architectural": [
+        "ergonomics",
+        "spatial_proportion"
+      ],
+      "confidence": 0.91
+    },
+    {
+      "id": "4122fb96e4bd1976-262-vision-3",
+      "pdf_page": 262,
+      "book_page": 249,
+      "chapter": "ADMINISTRATION AND OFFICES",
+      "section": "Libraries",
+      "title": "Library shelving systems and shelf dimensions",
+      "summary": "Text describes freestanding double shelf units, adjustable shelves, mobile shelving for closed stacks, book capacity, and structural floor-load requirements. Diagrams show shelf heights for adults and children, bookcase shelf counts, and a magazine rack. The text states that mobile units can increase capacity by up to approximately 100% under suitable conditions.",
+      "building_type": "Library",
+      "spaces": [
+        "Stacks",
+        "Accessible shelving area",
+        "Closed stacks"
+      ],
+      "uses": [
+        "Storing books, magazines, and media",
+        "Displaying magazines",
+        "Increasing storage capacity"
+      ],
+      "furniture_equipment": [
+        "Freestanding double shelf units",
+        "Mobile shelf units",
+        "Bookshelves",
+        "Magazine rack",
+        "Adjustable shelves"
+      ],
+      "dimensions": [
+        {
+          "label": "Freestanding double-shelf height",
+          "value": 2.25,
+          "value_max": null,
+          "unit": "m",
+          "context": "Height stated for freestanding double shelf units.",
+          "status": "uncertain",
+          "ocr_raw": "h = 2.25 m"
+        },
+        {
+          "label": "Spacing of verticals",
+          "value": 1.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Spacing stated for vertical profiles in shelving systems.",
+          "status": "uncertain",
+          "ocr_raw": "spacing of verticals = 1.00 m"
+        },
+        {
+          "label": "Shelf depth",
+          "value": 0.25,
+          "value_max": 0.3,
+          "unit": "m",
+          "context": "Stated shelf-depth range; extra depths are also mentioned for atlases and newspaper collected editions.",
+          "status": "uncertain",
+          "ocr_raw": "depth of shelves = 0.25–0.30 m"
+        },
+        {
+          "label": "Minimum shelf-adjustment increment",
+          "value": 15.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Shelves adjustable for height at least at this interval.",
+          "status": "uncertain",
+          "ocr_raw": "shelves adjustable for height min. every 15 mm"
+        },
+        {
+          "label": "Maximum double-shelf height relative to depth",
+          "value": 5.0,
+          "value_max": null,
+          "unit": "ratio",
+          "context": "Height of freestanding double shelves is stated as a maximum of 5 times the depth.",
+          "status": "uncertain",
+          "ocr_raw": "max. 5 x depth"
+        },
+        {
+          "label": "Shelf capacity per running metre",
+          "value": 25.0,
+          "value_max": 30.0,
+          "unit": "volumes/running m",
+          "context": "Capacity calculation stated per running metre of shelving.",
+          "status": "uncertain",
+          "ocr_raw": "at 25–30 vols/running m"
+        },
+        {
+          "label": "Stack shelf spacing",
+          "value": 0.75,
+          "value_max": null,
+          "unit": "m",
+          "context": "Shelf spacing in stacks; text says spacing is longer in accessible areas.",
+          "status": "uncertain",
+          "ocr_raw": "Shelf spacing in stacks > 0.75 m"
+        },
+        {
+          "label": "Potential mobile-shelving capacity increase",
+          "value": 100.0,
+          "value_max": null,
+          "unit": "percent",
+          "context": "Approximate maximum capacity increase stated for mobile shelf units when conditions are suitable.",
+          "status": "uncertain",
+          "ocr_raw": "capacity increase of up to approx. 100%."
+        },
+        {
+          "label": "Required floor load-bearing capacity",
+          "value": 12.5,
+          "value_max": null,
+          "unit": "kN/m²",
+          "context": "Required floor load-bearing capacity for mobile shelf units; text prints a greater-than-or-equal sign.",
+          "status": "uncertain",
+          "ocr_raw": "floor load-bearing capacity ≥12.5 kN/m²"
+        },
+        {
+          "label": "Usual floor load-bearing capacity",
+          "value": 7.5,
+          "value_max": null,
+          "unit": "kN/m²",
+          "context": "Usual floor load-bearing capacity cited for comparison with the mobile-shelving requirement.",
+          "status": "uncertain",
+          "ocr_raw": "the usual 7.5 kN/m²"
+        },
+        {
+          "label": "Adult shelf unit height",
+          "value": 1.8,
+          "value_max": null,
+          "unit": "m",
+          "context": "Height dimension shown for the five-shelf unit.",
+          "status": "uncertain",
+          "ocr_raw": "1.80"
+        },
+        {
+          "label": "Adult shelf unit base dimension",
+          "value": 0.3,
+          "value_max": null,
+          "unit": "m",
+          "context": "Base dimension shown on the five-shelf unit drawing; diagram label is 30.",
+          "status": "uncertain",
+          "ocr_raw": "30"
+        },
+        {
+          "label": "Adult shelf reach height",
+          "value": 1.8,
+          "value_max": null,
+          "unit": "m",
+          "context": "Diagram marks a reach height of no more than 1.80 m.",
+          "status": "uncertain",
+          "ocr_raw": "≤ 1.80"
+        },
+        {
+          "label": "Adult shelf intermediate height",
+          "value": 1.35,
+          "value_max": null,
+          "unit": "m",
+          "context": "Height marked on the five-shelf unit diagram.",
+          "status": "uncertain",
+          "ocr_raw": "1.35"
+        },
+        {
+          "label": "Schoolchildren's shelf unit height",
+          "value": 1.7,
+          "value_max": null,
+          "unit": "m",
+          "context": "Height marked on the schoolchildren's shelf diagram as a maximum.",
+          "status": "uncertain",
+          "ocr_raw": "≤ 1.70"
+        },
+        {
+          "label": "Schoolchildren's shelf intermediate height",
+          "value": 1.3,
+          "value_max": null,
+          "unit": "m",
+          "context": "Height marked on the schoolchildren's shelf diagram.",
+          "status": "uncertain",
+          "ocr_raw": "1.30"
+        },
+        {
+          "label": "Small children's shelf unit height",
+          "value": 1.5,
+          "value_max": null,
+          "unit": "m",
+          "context": "Reach-height dimension marked on the small-children's shelf diagram.",
+          "status": "uncertain",
+          "ocr_raw": "≤ 1.50"
+        },
+        {
+          "label": "Small children's shelf intermediate height",
+          "value": 1.2,
+          "value_max": null,
+          "unit": "m",
+          "context": "Height marked on the small-children's shelf diagram.",
+          "status": "uncertain",
+          "ocr_raw": "1.20"
+        },
+        {
+          "label": "Bookshelf width",
+          "value": 1.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Width shown for the adult bookshelves diagram.",
+          "status": "uncertain",
+          "ocr_raw": "1.00"
+        },
+        {
+          "label": "Bookshelf depth",
+          "value": 0.54,
+          "value_max": null,
+          "unit": "m",
+          "context": "Dimension shown for bookshelf depth in the drawing.",
+          "status": "uncertain",
+          "ocr_raw": "54"
+        },
+        {
+          "label": "Single-sided shelf depth",
+          "value": 0.3,
+          "value_max": null,
+          "unit": "m",
+          "context": "Dimension shown for the single-sided shelf unit.",
+          "status": "uncertain",
+          "ocr_raw": "30"
+        },
+        {
+          "label": "Double-sided shelf dimension",
+          "value": 0.225,
+          "value_max": null,
+          "unit": "m",
+          "context": "Dimension printed beside the double-sided shelf drawing; OCR reads 22,5.",
+          "status": "uncertain",
+          "ocr_raw": "22,5"
+        },
+        {
+          "label": "Magazine rack height",
+          "value": 1.98,
+          "value_max": null,
+          "unit": "m",
+          "context": "Vertical dimension shown for the magazine rack.",
+          "status": "uncertain",
+          "ocr_raw": "1.98"
+        },
+        {
+          "label": "Magazine rack width",
+          "value": 1.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Base width shown for the magazine rack.",
+          "status": "uncertain",
+          "ocr_raw": "1.00"
+        }
+      ],
+      "figure_refs": [
+        "9",
+        "10",
+        "11",
+        "12",
+        "13"
+      ],
+      "cross_refs": [
+        "DIN specialist report 13"
+      ],
+      "keywords": [
+        "library shelving",
+        "book storage",
+        "mobile shelving",
+        "shelf height",
+        "shelf spacing",
+        "magazine rack",
+        "floor loading"
+      ],
+      "tags_architectural": [
+        "ergonomics",
+        "anthropometry",
+        "modularity",
+        "safety",
+        "adaptability"
+      ],
+      "confidence": 0.86
+    }
+  ]
+}

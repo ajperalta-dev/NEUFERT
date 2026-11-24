@@ -1,0 +1,218 @@
+{
+  "fichas": [
+    {
+      "id": "4122fb96e4bd1976-33-vision-0",
+      "pdf_page": 33,
+      "book_page": 20,
+      "chapter": "BASICS",
+      "section": "Drawings",
+      "title": "Drawings and levels of abstraction",
+      "summary": "Architectural drawings abstract reality in two dimensions. Their degree of abstraction depends on their content and intended purpose: perspectives, collages and renderings approximate reality, diagrams explain functional interactions, and working drawings communicate the dimensions, materials and arrangement needed for production with unambiguous detail.",
+      "building_type": "General architectural drawing",
+      "spaces": [],
+      "uses": [
+        "Representing architectural ideas and objects",
+        "Explaining functional interactions",
+        "Communicating production information"
+      ],
+      "furniture_equipment": [],
+      "dimensions": [],
+      "figure_refs": [],
+      "cross_refs": [
+        "pp. 39-40"
+      ],
+      "keywords": [
+        "drawings",
+        "abstraction",
+        "perspectives",
+        "diagrams",
+        "working drawings"
+      ],
+      "tags_architectural": [],
+      "confidence": 0.98
+    },
+    {
+      "id": "4122fb96e4bd1976-33-vision-1",
+      "pdf_page": 33,
+      "book_page": 20,
+      "chapter": "BASICS",
+      "section": "Drawings",
+      "title": "Computer-aided drawings",
+      "summary": "Computer-aided drawing uses raster graphics, which save pixels, and vector graphics, which save drawing elements and their properties. CAD commonly uses three-dimensional, object-oriented data models to generate output views. Drawing elements can be linked to database information such as layer, material and manufacturing data; volume models can also support building simulations and three-dimensional input and output.",
+      "building_type": "Computer-aided design system",
+      "spaces": [],
+      "uses": [
+        "Creating and outputting drawings",
+        "Linking drawing elements to additional information",
+        "Supporting structural, acoustic, climatic and lighting investigations",
+        "Inputting and outputting three-dimensional objects"
+      ],
+      "furniture_equipment": [
+        "Computer",
+        "Monitor",
+        "Plotter",
+        "3D scanner",
+        "CNC machine",
+        "3D plotter"
+      ],
+      "dimensions": [],
+      "figure_refs": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "cross_refs": [],
+      "keywords": [
+        "CAD",
+        "raster graphics",
+        "vector graphics",
+        "data models",
+        "database",
+        "volume models",
+        "simulation"
+      ],
+      "tags_architectural": [],
+      "confidence": 0.97
+    },
+    {
+      "id": "4122fb96e4bd1976-33-vision-2",
+      "pdf_page": 33,
+      "book_page": 20,
+      "chapter": "BASICS",
+      "section": "Drawings",
+      "title": "CAD drawing layers and layer naming",
+      "summary": "A CAD drawing can be structured by arranging similar objects on separate layers, including text, dimensions, furniture, openings, construction, and title-block information. The illustrated naming convention uses author, categorisation and description fields separated by underscores. Names should be understandable, avoid special characters, and communicate their content within the character limits described. ISO 13567 is also identified as a standard governing layer naming.",
+      "building_type": "CAD drawing organization",
+      "spaces": [],
+      "uses": [
+        "Organizing drawing content into layers",
+        "Naming layers for clear communication and data exchange"
+      ],
+      "furniture_equipment": [],
+      "dimensions": [
+        {
+          "label": "Layer-name content clarity limit",
+          "value": 20.0,
+          "value_max": null,
+          "unit": "characters",
+          "context": "Layer content should be clear within the first 20 characters.",
+          "status": "verified",
+          "ocr_raw": "The content should be clear from the first\n20 characters"
+        },
+        {
+          "label": "Author field positions",
+          "value": 1.0,
+          "value_max": 5.0,
+          "unit": "field positions",
+          "context": "Who field in the layer naming convention.",
+          "status": "verified",
+          "ocr_raw": "Who (1-5) =author"
+        },
+        {
+          "label": "Categorisation field positions",
+          "value": 7.0,
+          "value_max": 11.0,
+          "unit": "field positions",
+          "context": "Where field in the layer naming convention.",
+          "status": "verified",
+          "ocr_raw": "Where (7-11) =categorisation"
+        },
+        {
+          "label": "Description field positions",
+          "value": 13.0,
+          "value_max": 20.0,
+          "unit": "field positions",
+          "context": "What field in the layer naming convention.",
+          "status": "verified",
+          "ocr_raw": "What (13-20) =description"
+        }
+      ],
+      "figure_refs": [
+        "4",
+        "5"
+      ],
+      "cross_refs": [
+        "ISO 13567"
+      ],
+      "keywords": [
+        "CAD layers",
+        "layer naming",
+        "ISO 13567",
+        "CadForum",
+        "drawing organization"
+      ],
+      "tags_architectural": [
+        "modularity"
+      ],
+      "confidence": 0.96
+    },
+    {
+      "id": "4122fb96e4bd1976-33-vision-3",
+      "pdf_page": 33,
+      "book_page": 20,
+      "chapter": "BASICS",
+      "section": "Drawings",
+      "title": "Computer-unit conversion factors",
+      "summary": "A conversion table gives relationships between millimetres, points and inches for common computer units.",
+      "building_type": "Technical drawing reference",
+      "spaces": [],
+      "uses": [
+        "Converting computer drawing units"
+      ],
+      "furniture_equipment": [],
+      "dimensions": [
+        {
+          "label": "Millimetres to points",
+          "value": 2.8346,
+          "value_max": null,
+          "unit": "pt per mm",
+          "context": "Conversion factor: 1 mm corresponds to 2.8346 pt.",
+          "status": "verified",
+          "ocr_raw": "DRAWINGS\nComputer-Aided Drawing\n\nDRAWINGS\n\ny\n\nPaper formats\nTechnical\ndrawings\nLayout of\ndrawings\nConstruction\n\ndrawings\nConstruction\ndrawing symbols\nWater supply and\ndrainage symbols\nElectrical\ninstallation\nsymbols\nSecurity\ninstallation\nsymbols\nGas installation\nsymbols\nDrawing by hand\nComputer-aided\n\n----¥ (X,y)\nI\nI\nI\nI\n\nX\n\nX\n\nCartesian coordinate system. All\n0 points\nare defined through their x\n\nPolar coordinate system. All points\nare defined through their distance I\nfrom the zero point and the angle a\nrelated to the x-axis.\n\nand y coordinates. The zero point\ncan be set for each drawing or\nrelated to world coordinates.\n\ndrawing\n\nBS EN ISO\n13567\nISO 13567\n\nMeasurement system\n\nAbbr.\n\n1 mm=\n\npoint\n\npt\n\n2.8346 pt\n\n0.3528 mm\n\ninch\n\nin\"\n\n0.0394\"\n\n25.4 mm\n\n1 unit\n\n8 Conversion factors for common computer units\nText layer\nDimensions layer\nFurniture layer\nOpenings layer\n\nConstruction layer\n\nSurround and title block layer\n\nG Structuring of a CAD drawing by arranging groups of similar objects on their\nown layers\n\nw\nWho-where-what naming of layers with variable field sizes (according to CadForum).\nThe layer names have suitable abbreviations containing 2 or 3 pieces of information,\neach separated by an underscore. The content should be clear from the first\n20 characters, because some CAD systems restrict the layer names to this length.\nSpecial characters should be avoided in order to prevent exchange problems.\nWho (1-5) =author\n\nWhere (7-11) =categorisation\n\npossible abbreviations for authors\nArch\nArchitect\nlArch\nInterior architect\nLArch\nLandscape architect\nBing\nBuilding engineer\nEi\nElectrical engineer\nSt\nStructural engineer\nHLS\nHeating/ventilation/sanitary\nGeom\nSurveyor\n\npossible categories\nBS\nbasement\nGR\nground floor\nFL 1\n1st floor\nEL_ N\nnorth elevation\nSEC_A\nsection A-A\n\nWhat (13-20) =description\n\nexamples of layer names\n\npossible descriptions\naxes\nstructure\nopenings\nfinishings\nfurniture\nhatching\n\nArch_GR_axes\nArch_GR_structure\nArch_GR_finishes\nArch_GR_hatching\n\ndimensioning\nlabelling\ndrawing outline\n\n9\n20\n\non smaller projects, the\n2nd category (facultative) can be\nleft out:\nGeom_level curves\nArch_structure\nBing_openings\n\nExample of naming layers with variable, understandable labels\n\nDrawings\nDrawings are always an abstraction of reality because they are\nin two dimensions. The degree of abstraction depends on the\ncontent and, above all, on the intended purpose of the drawing.\nThe lowest degree of abstraction is represented by perspectives,\ncollages and renderings, which attempt to come quite close to\nreality. In order to produce the desired impression, it is particularly\nimportant to leave some free rein for the fantasy of the viewer.\nDiagrams can be used to explain functional interactions. Working\ndrawings contain all the required information about dimensions,\nmaterials and arrangement of the object to be produced. In this\ncase, all details must be unambiguous and comprehensible for the\nproducer, and therefore have a high degree of abstraction.\n\nIn the age of computer-generated images, it still remains important\nto have a command of the rules and regulations of traditional\ndrawing --+ pp. 39-40.\nComputer-aided drawings\nDrawing with a computer is very different from the classic\nmethods of drawing on paper. There are two basic principles:\nraster graphics, in which every pixel of a drawing is saved (image\nprocessing), and vector graphics, where the start, end and the\nproperties of a drawing element are saved (CAD). Because\nthe output appears on a monitor screen or plot, there are also\nproblems representing bodies and rooms in two dimensions.\nOnly very simple CAD programs work with two-dimensional\ndata models. More common are three-dimensional data models\n(object-oriented programs), which produce the desired type of\nillustration on output (monitor, plotting). The information required\nfor this is stored in a database in the computer. This enables the\nelements of a drawing (line type, line thickness and colour) to be\nlinked to further information, which is not visible, e.g. which layer\nthey belong to, dependence on other objects, material properties,\nmanufacturing information, order numbers etc. These properties\ncan be exploited for the structuring of content or for further use\n(e.g. tenders or cost estimation).\n\nVolume modules permit further simulations. Structural, acoustic,\nclimatic or lighting investigations can make precise statements\nabout a building through the use of the appropriate software. 3D\nscanners, CNC machines and 3D plotters also enable the input\nand output of three-dimensional objects.\nData exchange\nBecause data is normally processed by a number of operators\n(various specialist technicians and engineers), a unified,\nunderstandable and clear system of organisation is important.\nWhen selecting a CAD system or deciding the working methods,\nit is important to know that all future processors of the data will\nwork with the same software, or which interfaces can be used to\nexchange data. Exchange formats usually have a limited range\nof structuring possibilities and therefore organisation categories,\nwhich are not supported, will be lost or have to be recreated, with\nthe associated waste of time. The naming of layers is governed\nby ISO 13567, which, however, uses cryptic abbreviations.\nIt seems more practical to use the more flexible and easily\nunderstood naming system published by the specialist magazine\nCadForum --7 0.\n\n\f"
+        },
+        {
+          "label": "Computer unit to millimetres (point row)",
+          "value": 0.3528,
+          "value_max": null,
+          "unit": "mm per unit",
+          "context": "Conversion factor in the point row of the table.",
+          "status": "verified",
+          "ocr_raw": "DRAWINGS\nComputer-Aided Drawing\n\nDRAWINGS\n\ny\n\nPaper formats\nTechnical\ndrawings\nLayout of\ndrawings\nConstruction\n\ndrawings\nConstruction\ndrawing symbols\nWater supply and\ndrainage symbols\nElectrical\ninstallation\nsymbols\nSecurity\ninstallation\nsymbols\nGas installation\nsymbols\nDrawing by hand\nComputer-aided\n\n----¥ (X,y)\nI\nI\nI\nI\n\nX\n\nX\n\nCartesian coordinate system. All\n0 points\nare defined through their x\n\nPolar coordinate system. All points\nare defined through their distance I\nfrom the zero point and the angle a\nrelated to the x-axis.\n\nand y coordinates. The zero point\ncan be set for each drawing or\nrelated to world coordinates.\n\ndrawing\n\nBS EN ISO\n13567\nISO 13567\n\nMeasurement system\n\nAbbr.\n\n1 mm=\n\npoint\n\npt\n\n2.8346 pt\n\n0.3528 mm\n\ninch\n\nin\"\n\n0.0394\"\n\n25.4 mm\n\n1 unit\n\n8 Conversion factors for common computer units\nText layer\nDimensions layer\nFurniture layer\nOpenings layer\n\nConstruction layer\n\nSurround and title block layer\n\nG Structuring of a CAD drawing by arranging groups of similar objects on their\nown layers\n\nw\nWho-where-what naming of layers with variable field sizes (according to CadForum).\nThe layer names have suitable abbreviations containing 2 or 3 pieces of information,\neach separated by an underscore. The content should be clear from the first\n20 characters, because some CAD systems restrict the layer names to this length.\nSpecial characters should be avoided in order to prevent exchange problems.\nWho (1-5) =author\n\nWhere (7-11) =categorisation\n\npossible abbreviations for authors\nArch\nArchitect\nlArch\nInterior architect\nLArch\nLandscape architect\nBing\nBuilding engineer\nEi\nElectrical engineer\nSt\nStructural engineer\nHLS\nHeating/ventilation/sanitary\nGeom\nSurveyor\n\npossible categories\nBS\nbasement\nGR\nground floor\nFL 1\n1st floor\nEL_ N\nnorth elevation\nSEC_A\nsection A-A\n\nWhat (13-20) =description\n\nexamples of layer names\n\npossible descriptions\naxes\nstructure\nopenings\nfinishings\nfurniture\nhatching\n\nArch_GR_axes\nArch_GR_structure\nArch_GR_finishes\nArch_GR_hatching\n\ndimensioning\nlabelling\ndrawing outline\n\n9\n20\n\non smaller projects, the\n2nd category (facultative) can be\nleft out:\nGeom_level curves\nArch_structure\nBing_openings\n\nExample of naming layers with variable, understandable labels\n\nDrawings\nDrawings are always an abstraction of reality because they are\nin two dimensions. The degree of abstraction depends on the\ncontent and, above all, on the intended purpose of the drawing.\nThe lowest degree of abstraction is represented by perspectives,\ncollages and renderings, which attempt to come quite close to\nreality. In order to produce the desired impression, it is particularly\nimportant to leave some free rein for the fantasy of the viewer.\nDiagrams can be used to explain functional interactions. Working\ndrawings contain all the required information about dimensions,\nmaterials and arrangement of the object to be produced. In this\ncase, all details must be unambiguous and comprehensible for the\nproducer, and therefore have a high degree of abstraction.\n\nIn the age of computer-generated images, it still remains important\nto have a command of the rules and regulations of traditional\ndrawing --+ pp. 39-40.\nComputer-aided drawings\nDrawing with a computer is very different from the classic\nmethods of drawing on paper. There are two basic principles:\nraster graphics, in which every pixel of a drawing is saved (image\nprocessing), and vector graphics, where the start, end and the\nproperties of a drawing element are saved (CAD). Because\nthe output appears on a monitor screen or plot, there are also\nproblems representing bodies and rooms in two dimensions.\nOnly very simple CAD programs work with two-dimensional\ndata models. More common are three-dimensional data models\n(object-oriented programs), which produce the desired type of\nillustration on output (monitor, plotting). The information required\nfor this is stored in a database in the computer. This enables the\nelements of a drawing (line type, line thickness and colour) to be\nlinked to further information, which is not visible, e.g. which layer\nthey belong to, dependence on other objects, material properties,\nmanufacturing information, order numbers etc. These properties\ncan be exploited for the structuring of content or for further use\n(e.g. tenders or cost estimation).\n\nVolume modules permit further simulations. Structural, acoustic,\nclimatic or lighting investigations can make precise statements\nabout a building through the use of the appropriate software. 3D\nscanners, CNC machines and 3D plotters also enable the input\nand output of three-dimensional objects.\nData exchange\nBecause data is normally processed by a number of operators\n(various specialist technicians and engineers), a unified,\nunderstandable and clear system of organisation is important.\nWhen selecting a CAD system or deciding the working methods,\nit is important to know that all future processors of the data will\nwork with the same software, or which interfaces can be used to\nexchange data. Exchange formats usually have a limited range\nof structuring possibilities and therefore organisation categories,\nwhich are not supported, will be lost or have to be recreated, with\nthe associated waste of time. The naming of layers is governed\nby ISO 13567, which, however, uses cryptic abbreviations.\nIt seems more practical to use the more flexible and easily\nunderstood naming system published by the specialist magazine\nCadForum --7 0.\n\n\f"
+        },
+        {
+          "label": "Millimetres to inches",
+          "value": 0.0394,
+          "value_max": null,
+          "unit": "in per mm",
+          "context": "Conversion factor: 1 mm corresponds to 0.0394 inches.",
+          "status": "verified",
+          "ocr_raw": "DRAWINGS\nComputer-Aided Drawing\n\nDRAWINGS\n\ny\n\nPaper formats\nTechnical\ndrawings\nLayout of\ndrawings\nConstruction\n\ndrawings\nConstruction\ndrawing symbols\nWater supply and\ndrainage symbols\nElectrical\ninstallation\nsymbols\nSecurity\ninstallation\nsymbols\nGas installation\nsymbols\nDrawing by hand\nComputer-aided\n\n----¥ (X,y)\nI\nI\nI\nI\n\nX\n\nX\n\nCartesian coordinate system. All\n0 points\nare defined through their x\n\nPolar coordinate system. All points\nare defined through their distance I\nfrom the zero point and the angle a\nrelated to the x-axis.\n\nand y coordinates. The zero point\ncan be set for each drawing or\nrelated to world coordinates.\n\ndrawing\n\nBS EN ISO\n13567\nISO 13567\n\nMeasurement system\n\nAbbr.\n\n1 mm=\n\npoint\n\npt\n\n2.8346 pt\n\n0.3528 mm\n\ninch\n\nin\"\n\n0.0394\"\n\n25.4 mm\n\n1 unit\n\n8 Conversion factors for common computer units\nText layer\nDimensions layer\nFurniture layer\nOpenings layer\n\nConstruction layer\n\nSurround and title block layer\n\nG Structuring of a CAD drawing by arranging groups of similar objects on their\nown layers\n\nw\nWho-where-what naming of layers with variable field sizes (according to CadForum).\nThe layer names have suitable abbreviations containing 2 or 3 pieces of information,\neach separated by an underscore. The content should be clear from the first\n20 characters, because some CAD systems restrict the layer names to this length.\nSpecial characters should be avoided in order to prevent exchange problems.\nWho (1-5) =author\n\nWhere (7-11) =categorisation\n\npossible abbreviations for authors\nArch\nArchitect\nlArch\nInterior architect\nLArch\nLandscape architect\nBing\nBuilding engineer\nEi\nElectrical engineer\nSt\nStructural engineer\nHLS\nHeating/ventilation/sanitary\nGeom\nSurveyor\n\npossible categories\nBS\nbasement\nGR\nground floor\nFL 1\n1st floor\nEL_ N\nnorth elevation\nSEC_A\nsection A-A\n\nWhat (13-20) =description\n\nexamples of layer names\n\npossible descriptions\naxes\nstructure\nopenings\nfinishings\nfurniture\nhatching\n\nArch_GR_axes\nArch_GR_structure\nArch_GR_finishes\nArch_GR_hatching\n\ndimensioning\nlabelling\ndrawing outline\n\n9\n20\n\non smaller projects, the\n2nd category (facultative) can be\nleft out:\nGeom_level curves\nArch_structure\nBing_openings\n\nExample of naming layers with variable, understandable labels\n\nDrawings\nDrawings are always an abstraction of reality because they are\nin two dimensions. The degree of abstraction depends on the\ncontent and, above all, on the intended purpose of the drawing.\nThe lowest degree of abstraction is represented by perspectives,\ncollages and renderings, which attempt to come quite close to\nreality. In order to produce the desired impression, it is particularly\nimportant to leave some free rein for the fantasy of the viewer.\nDiagrams can be used to explain functional interactions. Working\ndrawings contain all the required information about dimensions,\nmaterials and arrangement of the object to be produced. In this\ncase, all details must be unambiguous and comprehensible for the\nproducer, and therefore have a high degree of abstraction.\n\nIn the age of computer-generated images, it still remains important\nto have a command of the rules and regulations of traditional\ndrawing --+ pp. 39-40.\nComputer-aided drawings\nDrawing with a computer is very different from the classic\nmethods of drawing on paper. There are two basic principles:\nraster graphics, in which every pixel of a drawing is saved (image\nprocessing), and vector graphics, where the start, end and the\nproperties of a drawing element are saved (CAD). Because\nthe output appears on a monitor screen or plot, there are also\nproblems representing bodies and rooms in two dimensions.\nOnly very simple CAD programs work with two-dimensional\ndata models. More common are three-dimensional data models\n(object-oriented programs), which produce the desired type of\nillustration on output (monitor, plotting). The information required\nfor this is stored in a database in the computer. This enables the\nelements of a drawing (line type, line thickness and colour) to be\nlinked to further information, which is not visible, e.g. which layer\nthey belong to, dependence on other objects, material properties,\nmanufacturing information, order numbers etc. These properties\ncan be exploited for the structuring of content or for further use\n(e.g. tenders or cost estimation).\n\nVolume modules permit further simulations. Structural, acoustic,\nclimatic or lighting investigations can make precise statements\nabout a building through the use of the appropriate software. 3D\nscanners, CNC machines and 3D plotters also enable the input\nand output of three-dimensional objects.\nData exchange\nBecause data is normally processed by a number of operators\n(various specialist technicians and engineers), a unified,\nunderstandable and clear system of organisation is important.\nWhen selecting a CAD system or deciding the working methods,\nit is important to know that all future processors of the data will\nwork with the same software, or which interfaces can be used to\nexchange data. Exchange formats usually have a limited range\nof structuring possibilities and therefore organisation categories,\nwhich are not supported, will be lost or have to be recreated, with\nthe associated waste of time. The naming of layers is governed\nby ISO 13567, which, however, uses cryptic abbreviations.\nIt seems more practical to use the more flexible and easily\nunderstood naming system published by the specialist magazine\nCadForum --7 0.\n\n\f"
+        },
+        {
+          "label": "Computer unit to millimetres (inch row)",
+          "value": 25.4,
+          "value_max": null,
+          "unit": "mm per unit",
+          "context": "Conversion factor in the inch row of the table.",
+          "status": "verified",
+          "ocr_raw": "DRAWINGS\nComputer-Aided Drawing\n\nDRAWINGS\n\ny\n\nPaper formats\nTechnical\ndrawings\nLayout of\ndrawings\nConstruction\n\ndrawings\nConstruction\ndrawing symbols\nWater supply and\ndrainage symbols\nElectrical\ninstallation\nsymbols\nSecurity\ninstallation\nsymbols\nGas installation\nsymbols\nDrawing by hand\nComputer-aided\n\n----¥ (X,y)\nI\nI\nI\nI\n\nX\n\nX\n\nCartesian coordinate system. All\n0 points\nare defined through their x\n\nPolar coordinate system. All points\nare defined through their distance I\nfrom the zero point and the angle a\nrelated to the x-axis.\n\nand y coordinates. The zero point\ncan be set for each drawing or\nrelated to world coordinates.\n\ndrawing\n\nBS EN ISO\n13567\nISO 13567\n\nMeasurement system\n\nAbbr.\n\n1 mm=\n\npoint\n\npt\n\n2.8346 pt\n\n0.3528 mm\n\ninch\n\nin\"\n\n0.0394\"\n\n25.4 mm\n\n1 unit\n\n8 Conversion factors for common computer units\nText layer\nDimensions layer\nFurniture layer\nOpenings layer\n\nConstruction layer\n\nSurround and title block layer\n\nG Structuring of a CAD drawing by arranging groups of similar objects on their\nown layers\n\nw\nWho-where-what naming of layers with variable field sizes (according to CadForum).\nThe layer names have suitable abbreviations containing 2 or 3 pieces of information,\neach separated by an underscore. The content should be clear from the first\n20 characters, because some CAD systems restrict the layer names to this length.\nSpecial characters should be avoided in order to prevent exchange problems.\nWho (1-5) =author\n\nWhere (7-11) =categorisation\n\npossible abbreviations for authors\nArch\nArchitect\nlArch\nInterior architect\nLArch\nLandscape architect\nBing\nBuilding engineer\nEi\nElectrical engineer\nSt\nStructural engineer\nHLS\nHeating/ventilation/sanitary\nGeom\nSurveyor\n\npossible categories\nBS\nbasement\nGR\nground floor\nFL 1\n1st floor\nEL_ N\nnorth elevation\nSEC_A\nsection A-A\n\nWhat (13-20) =description\n\nexamples of layer names\n\npossible descriptions\naxes\nstructure\nopenings\nfinishings\nfurniture\nhatching\n\nArch_GR_axes\nArch_GR_structure\nArch_GR_finishes\nArch_GR_hatching\n\ndimensioning\nlabelling\ndrawing outline\n\n9\n20\n\non smaller projects, the\n2nd category (facultative) can be\nleft out:\nGeom_level curves\nArch_structure\nBing_openings\n\nExample of naming layers with variable, understandable labels\n\nDrawings\nDrawings are always an abstraction of reality because they are\nin two dimensions. The degree of abstraction depends on the\ncontent and, above all, on the intended purpose of the drawing.\nThe lowest degree of abstraction is represented by perspectives,\ncollages and renderings, which attempt to come quite close to\nreality. In order to produce the desired impression, it is particularly\nimportant to leave some free rein for the fantasy of the viewer.\nDiagrams can be used to explain functional interactions. Working\ndrawings contain all the required information about dimensions,\nmaterials and arrangement of the object to be produced. In this\ncase, all details must be unambiguous and comprehensible for the\nproducer, and therefore have a high degree of abstraction.\n\nIn the age of computer-generated images, it still remains important\nto have a command of the rules and regulations of traditional\ndrawing --+ pp. 39-40.\nComputer-aided drawings\nDrawing with a computer is very different from the classic\nmethods of drawing on paper. There are two basic principles:\nraster graphics, in which every pixel of a drawing is saved (image\nprocessing), and vector graphics, where the start, end and the\nproperties of a drawing element are saved (CAD). Because\nthe output appears on a monitor screen or plot, there are also\nproblems representing bodies and rooms in two dimensions.\nOnly very simple CAD programs work with two-dimensional\ndata models. More common are three-dimensional data models\n(object-oriented programs), which produce the desired type of\nillustration on output (monitor, plotting). The information required\nfor this is stored in a database in the computer. This enables the\nelements of a drawing (line type, line thickness and colour) to be\nlinked to further information, which is not visible, e.g. which layer\nthey belong to, dependence on other objects, material properties,\nmanufacturing information, order numbers etc. These properties\ncan be exploited for the structuring of content or for further use\n(e.g. tenders or cost estimation).\n\nVolume modules permit further simulations. Structural, acoustic,\nclimatic or lighting investigations can make precise statements\nabout a building through the use of the appropriate software. 3D\nscanners, CNC machines and 3D plotters also enable the input\nand output of three-dimensional objects.\nData exchange\nBecause data is normally processed by a number of operators\n(various specialist technicians and engineers), a unified,\nunderstandable and clear system of organisation is important.\nWhen selecting a CAD system or deciding the working methods,\nit is important to know that all future processors of the data will\nwork with the same software, or which interfaces can be used to\nexchange data. Exchange formats usually have a limited range\nof structuring possibilities and therefore organisation categories,\nwhich are not supported, will be lost or have to be recreated, with\nthe associated waste of time. The naming of layers is governed\nby ISO 13567, which, however, uses cryptic abbreviations.\nIt seems more practical to use the more flexible and easily\nunderstood naming system published by the specialist magazine\nCadForum --7 0.\n\n\f"
+        }
+      ],
+      "figure_refs": [
+        "3"
+      ],
+      "cross_refs": [],
+      "keywords": [
+        "measurement system",
+        "conversion factors",
+        "computer units",
+        "millimetres",
+        "points",
+        "inches"
+      ],
+      "tags_architectural": [],
+      "confidence": 0.97
+    }
+  ]
+}

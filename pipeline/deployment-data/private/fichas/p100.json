@@ -1,0 +1,373 @@
+{
+  "fichas": [
+    {
+      "id": "4122fb96e4bd1976-100-vision-0",
+      "pdf_page": 100,
+      "book_page": 87,
+      "chapter": "BUILDING COMPONENTS",
+      "section": "Roofs",
+      "title": "Couple roof",
+      "summary": "A couple roof is formed by two rafters and a ceiling joist, or corresponding strips of a solid ceiling slab, to create a rigid triangle. Roof weight is transferred to the external walls without loading the ceiling, allowing a large roof space without posts. A sprocket traditionally transfers tension at the rafter–ceiling-joist junction and creates a characteristic change of pitch. Modern rafter shoes can avoid this change. Wide buildings may require collar bracing or modern structural systems.",
+      "building_type": "Pitched-roof structure",
+      "spaces": [
+        "Roof space"
+      ],
+      "uses": [
+        "Transfer roof loads to external walls",
+        "Provide a roof space without posts"
+      ],
+      "furniture_equipment": [
+        "Rafters",
+        "Ceiling joist or solid ceiling slab",
+        "Sprocket",
+        "Collar",
+        "Rafter shoes"
+      ],
+      "dimensions": [
+        {
+          "label": "Rafter length threshold",
+          "value": 4.5,
+          "value_max": null,
+          "unit": "m",
+          "context": "Rafter lengths greater than this are stated to lead to uneconomical rafter sections.",
+          "status": "verified",
+          "ocr_raw": "Very\nwide buildings (with rafter lengths of more than 4.5 m) lead to\nuneconomical rafter sections"
+        },
+        {
+          "label": "Suitable building width",
+          "value": 12.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Collar roofs are stated to be suitable for buildings up to this width.",
+          "status": "verified",
+          "ocr_raw": "Collar roofs are suitable for buildings\nup to 12m wide"
+        },
+        {
+          "label": "Rafter length",
+          "value": 8.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Maximum rafter length stated for collar roofs.",
+          "status": "verified",
+          "ocr_raw": "rafter length up to 8 m"
+        },
+        {
+          "label": "Collar length",
+          "value": 4.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Maximum collar length stated for collar roofs.",
+          "status": "verified",
+          "ocr_raw": "collar up to 4 m"
+        },
+        {
+          "label": "Span",
+          "value": 12.5,
+          "value_max": null,
+          "unit": "m",
+          "context": "Dimension shown on the couple roof with hangers and jointed rafters.",
+          "status": "uncertain",
+          "ocr_raw": "12.5\n\n0"
+        }
+      ],
+      "figure_refs": [
+        "1",
+        "2"
+      ],
+      "cross_refs": [
+        "p. 86 ①",
+        "p. 86 ⑨",
+        "p. 86 ⑥",
+        "p. 86 ⑦",
+        "p. 86 ③",
+        "p. 86 ④",
+        "p. 86 ⑤"
+      ],
+      "keywords": [
+        "couple roof",
+        "pitched roof",
+        "rafter",
+        "ceiling joist",
+        "collar roof",
+        "sprocket",
+        "rafter shoes"
+      ],
+      "tags_architectural": [
+        "spatial_proportion"
+      ],
+      "confidence": 0.94
+    },
+    {
+      "id": "4122fb96e4bd1976-100-vision-1",
+      "pdf_page": 100,
+      "book_page": 87,
+      "chapter": "BUILDING COMPONENTS",
+      "section": "Roofs",
+      "title": "Timber-framed couple roof with glued joints",
+      "summary": "The illustrated timber-framed couple roof uses lifetime-guaranteed glued joints and 45° inclined struts arranged as twin supports. Its caption gives a span of no more than 25 m.",
+      "building_type": "Timber-framed pitched-roof structure",
+      "spaces": [
+        "Roof space"
+      ],
+      "uses": [
+        "Span a roof structure using inclined struts and glued joints"
+      ],
+      "furniture_equipment": [
+        "Timber rafters",
+        "Inclined struts",
+        "Glued joints",
+        "Twin supports"
+      ],
+      "dimensions": [
+        {
+          "label": "Strut inclination",
+          "value": 45.0,
+          "value_max": null,
+          "unit": "degrees",
+          "context": "Inclination of the struts in the timber-framed couple roof.",
+          "status": "verified",
+          "ocr_raw": "45°\n\ninclined struts"
+        },
+        {
+          "label": "Span",
+          "value": 25.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "The caption specifies a span of no more than 25 m.",
+          "status": "verified",
+          "ocr_raw": "ROOFS\nPitched Roofs\n\nCouple roof\nThe couple roof is a structural system in which two rafters and\na ceiling joist (or the corresponding strips of a solid ceiling slab)\nform a rigid triangle ---> p. 86 0.\n\n0\n\nThe weight of the roof is transferred to the external walls without\nloading the ceiling. This makes possible large roof spaces without\nposts. The necessary joint to transfer tension at the junction of\nrafter and ceiling joist traditionally leads to the characteristic\nchange of roof pitch in couple roofs, which is constructed with\na sprocket fixed at the top to the rafter and at the bottom to the\nprojecting end of the ceiling joist ---> p. 86 0 (modern couple roofs\nwith upstands at the edge of the solid ceiling slab 'rafter shoes')\ncan be constructed without this change of pitch ---> p. 86 6). Very\nwide buildings (with rafter lengths of more than 4.5 m) lead to\nuneconomical rafter sections; and in these cases they are braced\nwith a collar ---> p. 86 f). Collar roofs are suitable for buildings\nup to 12m wide (rafter length up to 8 m, collar up to 4 m). Much\nlarger widths are possible with modern structures (e.g. latticed\nbeam ....\ncomposite, corrugated web beam - waved web\nsystem ---> 0) or with gang-nail trusses ---> 0.\n\nCouple roof with hangers and jointed rafters\n\ne.\n\nf) Couple roof with jointed rafters, stiffened at three points\n\n24-1.f\n\nI\nH\n\n7.5-12.5\n\n0 Mansard roof\n\n~~\neT Ic T- A~~+\n\nCouple roof in timber framing with lifetime-guaranteed glued joints and 45°\n\ninclined struts as twin supports; span ;:;:;:25 m\n\n!!3%!!\n\nH·L 1 A~\n, ,\n,.~~,\nAT\nBridle joint\n\nA\n\n4350\n\n1-1\n\n12-14\n\nRidge purlin\n\n4660\n\nt---1\n16\n\nWaved web system\nA= Single web beam\nB = Double web bearr\n\n{ftft============:::===::l~j C =Box beam\n\nA\n\n~\n\n·~,.:·\n\n.\n\n8 Butt joint with fish plate\nCouple roof with composite, corrugated web beams (waved web system); ratio\nof profile height to span 1:15-1:20\nGable roof pitches of 6\", 15\" and 25\"\n\nMonopitch roof pitches of 6\", 10\" and 15°\n\n~~\n\n~~\n\nt ___________ --------------'\n\nL__________ ----- _________ J\n\n(a) Falling diagonals with vertical posts\n\n(d) Rising and falling diagonals with vertical posts\n\n~~\n\nEuro prefabricated truss and gang-nail system: depending on octametre sizes,\nfor flat roof, single-pitch and two--pitch roofs\n\nL_______________________ j\n\n[ _________________________ J\n\n(b) Rising diagonals with vertical posts\n\n(c) Rising and falling diagonals\n\ne\n\nTimber truss forms and bracing\n\n87\n\nROOFS\nRoof shapes\nPitched roofs\nFlat roofs\n\n\f"
+        }
+      ],
+      "figure_refs": [
+        "3"
+      ],
+      "cross_refs": [],
+      "keywords": [
+        "timber framing",
+        "couple roof",
+        "glued joints",
+        "inclined struts",
+        "twin supports"
+      ],
+      "tags_architectural": [
+        "spatial_proportion"
+      ],
+      "confidence": 0.94
+    },
+    {
+      "id": "4122fb96e4bd1976-100-vision-2",
+      "pdf_page": 100,
+      "book_page": 87,
+      "chapter": "BUILDING COMPONENTS",
+      "section": "Roofs",
+      "title": "Couple roof with corrugated web beams",
+      "summary": "The illustrated couple roof uses composite corrugated web beams, identified as a waved web system. The diagram distinguishes single-web, double-web, and box beams and states a ratio of profile height to span.",
+      "building_type": "Pitched-roof structure",
+      "spaces": [
+        "Roof space"
+      ],
+      "uses": [
+        "Support a couple roof using composite corrugated web beams"
+      ],
+      "furniture_equipment": [
+        "Composite corrugated web beams",
+        "Single-web beam",
+        "Double-web beam",
+        "Box beam"
+      ],
+      "dimensions": [
+        {
+          "label": "Profile height to span",
+          "value": 1.0,
+          "value_max": null,
+          "unit": "ratio",
+          "context": "The printed ratio is 1:15–1:20; the complete expression is retained here.",
+          "status": "uncertain",
+          "ocr_raw": "ratio\nof profile height to span 1:15-1:20"
+        }
+      ],
+      "figure_refs": [
+        "4"
+      ],
+      "cross_refs": [],
+      "keywords": [
+        "waved web system",
+        "corrugated web beam",
+        "composite beam",
+        "single-web beam",
+        "double-web beam",
+        "box beam"
+      ],
+      "tags_architectural": [
+        "spatial_proportion"
+      ],
+      "confidence": 0.95
+    },
+    {
+      "id": "4122fb96e4bd1976-100-vision-3",
+      "pdf_page": 100,
+      "book_page": 87,
+      "chapter": "BUILDING COMPONENTS",
+      "section": "Roofs",
+      "title": "Euro prefabricated truss and gang-nail system",
+      "summary": "The Euro prefabricated truss and gang-nail system is described for flat, single-pitch, and two-pitch roofs, depending on octametre sizes. The drawing labels a gang-nail nailing plate, upper and lower chords, an upper-chord extension, and a possible cantilever. It lists several gable and monopitch roof pitches.",
+      "building_type": "Prefabricated roof truss",
+      "spaces": [
+        "Roof space"
+      ],
+      "uses": [
+        "Support flat roofs",
+        "Support single-pitch roofs",
+        "Support two-pitch roofs"
+      ],
+      "furniture_equipment": [
+        "Prefabricated truss",
+        "Gang-nail nailing plate",
+        "Upper chord",
+        "Lower chord",
+        "Upper-chord extension"
+      ],
+      "dimensions": [
+        {
+          "label": "Gable roof pitch",
+          "value": 6.0,
+          "value_max": null,
+          "unit": "degrees",
+          "context": "One of the listed gable roof pitches.",
+          "status": "verified",
+          "ocr_raw": "ROOFS\nPitched Roofs\n\nCouple roof\nThe couple roof is a structural system in which two rafters and\na ceiling joist (or the corresponding strips of a solid ceiling slab)\nform a rigid triangle ---> p. 86 0.\n\n0\n\nThe weight of the roof is transferred to the external walls without\nloading the ceiling. This makes possible large roof spaces without\nposts. The necessary joint to transfer tension at the junction of\nrafter and ceiling joist traditionally leads to the characteristic\nchange of roof pitch in couple roofs, which is constructed with\na sprocket fixed at the top to the rafter and at the bottom to the\nprojecting end of the ceiling joist ---> p. 86 0 (modern couple roofs\nwith upstands at the edge of the solid ceiling slab 'rafter shoes')\ncan be constructed without this change of pitch ---> p. 86 6). Very\nwide buildings (with rafter lengths of more than 4.5 m) lead to\nuneconomical rafter sections; and in these cases they are braced\nwith a collar ---> p. 86 f). Collar roofs are suitable for buildings\nup to 12m wide (rafter length up to 8 m, collar up to 4 m). Much\nlarger widths are possible with modern structures (e.g. latticed\nbeam ....\ncomposite, corrugated web beam - waved web\nsystem ---> 0) or with gang-nail trusses ---> 0.\n\nCouple roof with hangers and jointed rafters\n\ne.\n\nf) Couple roof with jointed rafters, stiffened at three points\n\n24-1.f\n\nI\nH\n\n7.5-12.5\n\n0 Mansard roof\n\n~~\neT Ic T- A~~+\n\nCouple roof in timber framing with lifetime-guaranteed glued joints and 45°\n\ninclined struts as twin supports; span ;:;:;:25 m\n\n!!3%!!\n\nH·L 1 A~\n, ,\n,.~~,\nAT\nBridle joint\n\nA\n\n4350\n\n1-1\n\n12-14\n\nRidge purlin\n\n4660\n\nt---1\n16\n\nWaved web system\nA= Single web beam\nB = Double web bearr\n\n{ftft============:::===::l~j C =Box beam\n\nA\n\n~\n\n·~,.:·\n\n.\n\n8 Butt joint with fish plate\nCouple roof with composite, corrugated web beams (waved web system); ratio\nof profile height to span 1:15-1:20\nGable roof pitches of 6\", 15\" and 25\"\n\nMonopitch roof pitches of 6\", 10\" and 15°\n\n~~\n\n~~\n\nt ___________ --------------'\n\nL__________ ----- _________ J\n\n(a) Falling diagonals with vertical posts\n\n(d) Rising and falling diagonals with vertical posts\n\n~~\n\nEuro prefabricated truss and gang-nail system: depending on octametre sizes,\nfor flat roof, single-pitch and two--pitch roofs\n\nL_______________________ j\n\n[ _________________________ J\n\n(b) Rising diagonals with vertical posts\n\n(c) Rising and falling diagonals\n\ne\n\nTimber truss forms and bracing\n\n87\n\nROOFS\nRoof shapes\nPitched roofs\nFlat roofs\n\n\f"
+        },
+        {
+          "label": "Gable roof pitch",
+          "value": 15.0,
+          "value_max": null,
+          "unit": "degrees",
+          "context": "One of the listed gable roof pitches.",
+          "status": "verified",
+          "ocr_raw": "ROOFS\nPitched Roofs\n\nCouple roof\nThe couple roof is a structural system in which two rafters and\na ceiling joist (or the corresponding strips of a solid ceiling slab)\nform a rigid triangle ---> p. 86 0.\n\n0\n\nThe weight of the roof is transferred to the external walls without\nloading the ceiling. This makes possible large roof spaces without\nposts. The necessary joint to transfer tension at the junction of\nrafter and ceiling joist traditionally leads to the characteristic\nchange of roof pitch in couple roofs, which is constructed with\na sprocket fixed at the top to the rafter and at the bottom to the\nprojecting end of the ceiling joist ---> p. 86 0 (modern couple roofs\nwith upstands at the edge of the solid ceiling slab 'rafter shoes')\ncan be constructed without this change of pitch ---> p. 86 6). Very\nwide buildings (with rafter lengths of more than 4.5 m) lead to\nuneconomical rafter sections; and in these cases they are braced\nwith a collar ---> p. 86 f). Collar roofs are suitable for buildings\nup to 12m wide (rafter length up to 8 m, collar up to 4 m). Much\nlarger widths are possible with modern structures (e.g. latticed\nbeam ....\ncomposite, corrugated web beam - waved web\nsystem ---> 0) or with gang-nail trusses ---> 0.\n\nCouple roof with hangers and jointed rafters\n\ne.\n\nf) Couple roof with jointed rafters, stiffened at three points\n\n24-1.f\n\nI\nH\n\n7.5-12.5\n\n0 Mansard roof\n\n~~\neT Ic T- A~~+\n\nCouple roof in timber framing with lifetime-guaranteed glued joints and 45°\n\ninclined struts as twin supports; span ;:;:;:25 m\n\n!!3%!!\n\nH·L 1 A~\n, ,\n,.~~,\nAT\nBridle joint\n\nA\n\n4350\n\n1-1\n\n12-14\n\nRidge purlin\n\n4660\n\nt---1\n16\n\nWaved web system\nA= Single web beam\nB = Double web bearr\n\n{ftft============:::===::l~j C =Box beam\n\nA\n\n~\n\n·~,.:·\n\n.\n\n8 Butt joint with fish plate\nCouple roof with composite, corrugated web beams (waved web system); ratio\nof profile height to span 1:15-1:20\nGable roof pitches of 6\", 15\" and 25\"\n\nMonopitch roof pitches of 6\", 10\" and 15°\n\n~~\n\n~~\n\nt ___________ --------------'\n\nL__________ ----- _________ J\n\n(a) Falling diagonals with vertical posts\n\n(d) Rising and falling diagonals with vertical posts\n\n~~\n\nEuro prefabricated truss and gang-nail system: depending on octametre sizes,\nfor flat roof, single-pitch and two--pitch roofs\n\nL_______________________ j\n\n[ _________________________ J\n\n(b) Rising diagonals with vertical posts\n\n(c) Rising and falling diagonals\n\ne\n\nTimber truss forms and bracing\n\n87\n\nROOFS\nRoof shapes\nPitched roofs\nFlat roofs\n\n\f"
+        },
+        {
+          "label": "Gable roof pitch",
+          "value": 25.0,
+          "value_max": null,
+          "unit": "degrees",
+          "context": "One of the listed gable roof pitches.",
+          "status": "verified",
+          "ocr_raw": "ROOFS\nPitched Roofs\n\nCouple roof\nThe couple roof is a structural system in which two rafters and\na ceiling joist (or the corresponding strips of a solid ceiling slab)\nform a rigid triangle ---> p. 86 0.\n\n0\n\nThe weight of the roof is transferred to the external walls without\nloading the ceiling. This makes possible large roof spaces without\nposts. The necessary joint to transfer tension at the junction of\nrafter and ceiling joist traditionally leads to the characteristic\nchange of roof pitch in couple roofs, which is constructed with\na sprocket fixed at the top to the rafter and at the bottom to the\nprojecting end of the ceiling joist ---> p. 86 0 (modern couple roofs\nwith upstands at the edge of the solid ceiling slab 'rafter shoes')\ncan be constructed without this change of pitch ---> p. 86 6). Very\nwide buildings (with rafter lengths of more than 4.5 m) lead to\nuneconomical rafter sections; and in these cases they are braced\nwith a collar ---> p. 86 f). Collar roofs are suitable for buildings\nup to 12m wide (rafter length up to 8 m, collar up to 4 m). Much\nlarger widths are possible with modern structures (e.g. latticed\nbeam ....\ncomposite, corrugated web beam - waved web\nsystem ---> 0) or with gang-nail trusses ---> 0.\n\nCouple roof with hangers and jointed rafters\n\ne.\n\nf) Couple roof with jointed rafters, stiffened at three points\n\n24-1.f\n\nI\nH\n\n7.5-12.5\n\n0 Mansard roof\n\n~~\neT Ic T- A~~+\n\nCouple roof in timber framing with lifetime-guaranteed glued joints and 45°\n\ninclined struts as twin supports; span ;:;:;:25 m\n\n!!3%!!\n\nH·L 1 A~\n, ,\n,.~~,\nAT\nBridle joint\n\nA\n\n4350\n\n1-1\n\n12-14\n\nRidge purlin\n\n4660\n\nt---1\n16\n\nWaved web system\nA= Single web beam\nB = Double web bearr\n\n{ftft============:::===::l~j C =Box beam\n\nA\n\n~\n\n·~,.:·\n\n.\n\n8 Butt joint with fish plate\nCouple roof with composite, corrugated web beams (waved web system); ratio\nof profile height to span 1:15-1:20\nGable roof pitches of 6\", 15\" and 25\"\n\nMonopitch roof pitches of 6\", 10\" and 15°\n\n~~\n\n~~\n\nt ___________ --------------'\n\nL__________ ----- _________ J\n\n(a) Falling diagonals with vertical posts\n\n(d) Rising and falling diagonals with vertical posts\n\n~~\n\nEuro prefabricated truss and gang-nail system: depending on octametre sizes,\nfor flat roof, single-pitch and two--pitch roofs\n\nL_______________________ j\n\n[ _________________________ J\n\n(b) Rising diagonals with vertical posts\n\n(c) Rising and falling diagonals\n\ne\n\nTimber truss forms and bracing\n\n87\n\nROOFS\nRoof shapes\nPitched roofs\nFlat roofs\n\n\f"
+        },
+        {
+          "label": "Monopitch roof pitch",
+          "value": 6.0,
+          "value_max": null,
+          "unit": "degrees",
+          "context": "One of the listed monopitch roof pitches.",
+          "status": "verified",
+          "ocr_raw": "ROOFS\nPitched Roofs\n\nCouple roof\nThe couple roof is a structural system in which two rafters and\na ceiling joist (or the corresponding strips of a solid ceiling slab)\nform a rigid triangle ---> p. 86 0.\n\n0\n\nThe weight of the roof is transferred to the external walls without\nloading the ceiling. This makes possible large roof spaces without\nposts. The necessary joint to transfer tension at the junction of\nrafter and ceiling joist traditionally leads to the characteristic\nchange of roof pitch in couple roofs, which is constructed with\na sprocket fixed at the top to the rafter and at the bottom to the\nprojecting end of the ceiling joist ---> p. 86 0 (modern couple roofs\nwith upstands at the edge of the solid ceiling slab 'rafter shoes')\ncan be constructed without this change of pitch ---> p. 86 6). Very\nwide buildings (with rafter lengths of more than 4.5 m) lead to\nuneconomical rafter sections; and in these cases they are braced\nwith a collar ---> p. 86 f). Collar roofs are suitable for buildings\nup to 12m wide (rafter length up to 8 m, collar up to 4 m). Much\nlarger widths are possible with modern structures (e.g. latticed\nbeam ....\ncomposite, corrugated web beam - waved web\nsystem ---> 0) or with gang-nail trusses ---> 0.\n\nCouple roof with hangers and jointed rafters\n\ne.\n\nf) Couple roof with jointed rafters, stiffened at three points\n\n24-1.f\n\nI\nH\n\n7.5-12.5\n\n0 Mansard roof\n\n~~\neT Ic T- A~~+\n\nCouple roof in timber framing with lifetime-guaranteed glued joints and 45°\n\ninclined struts as twin supports; span ;:;:;:25 m\n\n!!3%!!\n\nH·L 1 A~\n, ,\n,.~~,\nAT\nBridle joint\n\nA\n\n4350\n\n1-1\n\n12-14\n\nRidge purlin\n\n4660\n\nt---1\n16\n\nWaved web system\nA= Single web beam\nB = Double web bearr\n\n{ftft============:::===::l~j C =Box beam\n\nA\n\n~\n\n·~,.:·\n\n.\n\n8 Butt joint with fish plate\nCouple roof with composite, corrugated web beams (waved web system); ratio\nof profile height to span 1:15-1:20\nGable roof pitches of 6\", 15\" and 25\"\n\nMonopitch roof pitches of 6\", 10\" and 15°\n\n~~\n\n~~\n\nt ___________ --------------'\n\nL__________ ----- _________ J\n\n(a) Falling diagonals with vertical posts\n\n(d) Rising and falling diagonals with vertical posts\n\n~~\n\nEuro prefabricated truss and gang-nail system: depending on octametre sizes,\nfor flat roof, single-pitch and two--pitch roofs\n\nL_______________________ j\n\n[ _________________________ J\n\n(b) Rising diagonals with vertical posts\n\n(c) Rising and falling diagonals\n\ne\n\nTimber truss forms and bracing\n\n87\n\nROOFS\nRoof shapes\nPitched roofs\nFlat roofs\n\n\f"
+        },
+        {
+          "label": "Monopitch roof pitch",
+          "value": 10.0,
+          "value_max": null,
+          "unit": "degrees",
+          "context": "One of the listed monopitch roof pitches.",
+          "status": "verified",
+          "ocr_raw": "ROOFS\nPitched Roofs\n\nCouple roof\nThe couple roof is a structural system in which two rafters and\na ceiling joist (or the corresponding strips of a solid ceiling slab)\nform a rigid triangle ---> p. 86 0.\n\n0\n\nThe weight of the roof is transferred to the external walls without\nloading the ceiling. This makes possible large roof spaces without\nposts. The necessary joint to transfer tension at the junction of\nrafter and ceiling joist traditionally leads to the characteristic\nchange of roof pitch in couple roofs, which is constructed with\na sprocket fixed at the top to the rafter and at the bottom to the\nprojecting end of the ceiling joist ---> p. 86 0 (modern couple roofs\nwith upstands at the edge of the solid ceiling slab 'rafter shoes')\ncan be constructed without this change of pitch ---> p. 86 6). Very\nwide buildings (with rafter lengths of more than 4.5 m) lead to\nuneconomical rafter sections; and in these cases they are braced\nwith a collar ---> p. 86 f). Collar roofs are suitable for buildings\nup to 12m wide (rafter length up to 8 m, collar up to 4 m). Much\nlarger widths are possible with modern structures (e.g. latticed\nbeam ....\ncomposite, corrugated web beam - waved web\nsystem ---> 0) or with gang-nail trusses ---> 0.\n\nCouple roof with hangers and jointed rafters\n\ne.\n\nf) Couple roof with jointed rafters, stiffened at three points\n\n24-1.f\n\nI\nH\n\n7.5-12.5\n\n0 Mansard roof\n\n~~\neT Ic T- A~~+\n\nCouple roof in timber framing with lifetime-guaranteed glued joints and 45°\n\ninclined struts as twin supports; span ;:;:;:25 m\n\n!!3%!!\n\nH·L 1 A~\n, ,\n,.~~,\nAT\nBridle joint\n\nA\n\n4350\n\n1-1\n\n12-14\n\nRidge purlin\n\n4660\n\nt---1\n16\n\nWaved web system\nA= Single web beam\nB = Double web bearr\n\n{ftft============:::===::l~j C =Box beam\n\nA\n\n~\n\n·~,.:·\n\n.\n\n8 Butt joint with fish plate\nCouple roof with composite, corrugated web beams (waved web system); ratio\nof profile height to span 1:15-1:20\nGable roof pitches of 6\", 15\" and 25\"\n\nMonopitch roof pitches of 6\", 10\" and 15°\n\n~~\n\n~~\n\nt ___________ --------------'\n\nL__________ ----- _________ J\n\n(a) Falling diagonals with vertical posts\n\n(d) Rising and falling diagonals with vertical posts\n\n~~\n\nEuro prefabricated truss and gang-nail system: depending on octametre sizes,\nfor flat roof, single-pitch and two--pitch roofs\n\nL_______________________ j\n\n[ _________________________ J\n\n(b) Rising diagonals with vertical posts\n\n(c) Rising and falling diagonals\n\ne\n\nTimber truss forms and bracing\n\n87\n\nROOFS\nRoof shapes\nPitched roofs\nFlat roofs\n\n\f"
+        },
+        {
+          "label": "Monopitch roof pitch",
+          "value": 15.0,
+          "value_max": null,
+          "unit": "degrees",
+          "context": "One of the listed monopitch roof pitches.",
+          "status": "verified",
+          "ocr_raw": "ROOFS\nPitched Roofs\n\nCouple roof\nThe couple roof is a structural system in which two rafters and\na ceiling joist (or the corresponding strips of a solid ceiling slab)\nform a rigid triangle ---> p. 86 0.\n\n0\n\nThe weight of the roof is transferred to the external walls without\nloading the ceiling. This makes possible large roof spaces without\nposts. The necessary joint to transfer tension at the junction of\nrafter and ceiling joist traditionally leads to the characteristic\nchange of roof pitch in couple roofs, which is constructed with\na sprocket fixed at the top to the rafter and at the bottom to the\nprojecting end of the ceiling joist ---> p. 86 0 (modern couple roofs\nwith upstands at the edge of the solid ceiling slab 'rafter shoes')\ncan be constructed without this change of pitch ---> p. 86 6). Very\nwide buildings (with rafter lengths of more than 4.5 m) lead to\nuneconomical rafter sections; and in these cases they are braced\nwith a collar ---> p. 86 f). Collar roofs are suitable for buildings\nup to 12m wide (rafter length up to 8 m, collar up to 4 m). Much\nlarger widths are possible with modern structures (e.g. latticed\nbeam ....\ncomposite, corrugated web beam - waved web\nsystem ---> 0) or with gang-nail trusses ---> 0.\n\nCouple roof with hangers and jointed rafters\n\ne.\n\nf) Couple roof with jointed rafters, stiffened at three points\n\n24-1.f\n\nI\nH\n\n7.5-12.5\n\n0 Mansard roof\n\n~~\neT Ic T- A~~+\n\nCouple roof in timber framing with lifetime-guaranteed glued joints and 45°\n\ninclined struts as twin supports; span ;:;:;:25 m\n\n!!3%!!\n\nH·L 1 A~\n, ,\n,.~~,\nAT\nBridle joint\n\nA\n\n4350\n\n1-1\n\n12-14\n\nRidge purlin\n\n4660\n\nt---1\n16\n\nWaved web system\nA= Single web beam\nB = Double web bearr\n\n{ftft============:::===::l~j C =Box beam\n\nA\n\n~\n\n·~,.:·\n\n.\n\n8 Butt joint with fish plate\nCouple roof with composite, corrugated web beams (waved web system); ratio\nof profile height to span 1:15-1:20\nGable roof pitches of 6\", 15\" and 25\"\n\nMonopitch roof pitches of 6\", 10\" and 15°\n\n~~\n\n~~\n\nt ___________ --------------'\n\nL__________ ----- _________ J\n\n(a) Falling diagonals with vertical posts\n\n(d) Rising and falling diagonals with vertical posts\n\n~~\n\nEuro prefabricated truss and gang-nail system: depending on octametre sizes,\nfor flat roof, single-pitch and two--pitch roofs\n\nL_______________________ j\n\n[ _________________________ J\n\n(b) Rising diagonals with vertical posts\n\n(c) Rising and falling diagonals\n\ne\n\nTimber truss forms and bracing\n\n87\n\nROOFS\nRoof shapes\nPitched roofs\nFlat roofs\n\n\f"
+        }
+      ],
+      "figure_refs": [
+        "5"
+      ],
+      "cross_refs": [],
+      "keywords": [
+        "prefabricated truss",
+        "gang-nail system",
+        "gable roof",
+        "monopitch roof",
+        "flat roof",
+        "cantilever"
+      ],
+      "tags_architectural": [
+        "adaptability"
+      ],
+      "confidence": 0.91
+    },
+    {
+      "id": "4122fb96e4bd1976-100-vision-4",
+      "pdf_page": 100,
+      "book_page": 87,
+      "chapter": "BUILDING COMPONENTS",
+      "section": "Roofs",
+      "title": "Mansard roof",
+      "summary": "The page illustrates a mansard roof form with a change in roof slope and framing beneath the roof. No explanatory text or readable dimensions are provided for this roof type on the page.",
+      "building_type": "Mansard roof",
+      "spaces": [
+        "Roof space"
+      ],
+      "uses": [
+        "Provide a mansard roof form"
+      ],
+      "furniture_equipment": [
+        "Roof rafters",
+        "Roof framing"
+      ],
+      "dimensions": [],
+      "figure_refs": [
+        "6"
+      ],
+      "cross_refs": [],
+      "keywords": [
+        "mansard roof",
+        "roof shape",
+        "pitched roof"
+      ],
+      "tags_architectural": [
+        "spatial_proportion"
+      ],
+      "confidence": 0.78
+    },
+    {
+      "id": "4122fb96e4bd1976-100-vision-5",
+      "pdf_page": 100,
+      "book_page": 87,
+      "chapter": "BUILDING COMPONENTS",
+      "section": "Roofs",
+      "title": "Timber truss forms and bracing",
+      "summary": "The page compares timber truss bracing layouts: falling diagonals with vertical posts, rising diagonals with vertical posts, rising and falling diagonals, and rising and falling diagonals with vertical posts.",
+      "building_type": "Timber roof truss",
+      "spaces": [
+        "Roof space"
+      ],
+      "uses": [
+        "Brace timber roof trusses"
+      ],
+      "furniture_equipment": [
+        "Timber truss members",
+        "Diagonal bracing",
+        "Vertical posts"
+      ],
+      "dimensions": [],
+      "figure_refs": [
+        "8"
+      ],
+      "cross_refs": [],
+      "keywords": [
+        "timber truss",
+        "truss forms",
+        "bracing",
+        "diagonals",
+        "vertical posts"
+      ],
+      "tags_architectural": [],
+      "confidence": 0.93
+    }
+  ]
+}

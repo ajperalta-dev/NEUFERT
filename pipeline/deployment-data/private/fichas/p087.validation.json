@@ -1,0 +1,253 @@
+{
+  "model": "gpt-6-luna",
+  "checks": {
+    "checks": [
+      {
+        "ficha_index": 0,
+        "dimension_index": 0,
+        "status": "verified",
+        "value": 4.0,
+        "value_max": 5.0,
+        "reason": "The text says block length should not be more than four to five times the block height."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 1,
+        "status": "verified",
+        "value": 1.0,
+        "value_max": null,
+        "reason": "The text says block length should not be less than the height."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 2,
+        "status": "verified",
+        "value": 1.5,
+        "value_max": null,
+        "reason": "The text explicitly states every \u22641.5 m; figure 3 also labels the course interval 1.50."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 3,
+        "status": "verified",
+        "value": 1.5,
+        "value_max": null,
+        "reason": "The text explicitly says headers must be at least 1\u00bd times the course height."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 4,
+        "status": "verified",
+        "value": 30.0,
+        "value_max": null,
+        "reason": "The text explicitly states at least 30 cm."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 5,
+        "status": "uncertain",
+        "value": 1.0,
+        "value_max": null,
+        "reason": "The text says stretcher depth should be about equal to course height but does not explicitly print a numerical ratio."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 6,
+        "status": "verified",
+        "value": 10.0,
+        "value_max": null,
+        "reason": "The text explicitly states \u226510 cm in coursed masonry."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 7,
+        "status": "verified",
+        "value": 15.0,
+        "value_max": null,
+        "reason": "The text explicitly states \u226515 cm in ashlar masonry."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 8,
+        "status": "verified",
+        "value": 3.0,
+        "value_max": null,
+        "reason": "The text explicitly says joints should be about 3 cm thick."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 9,
+        "status": "verified",
+        "value": 2.5,
+        "value_max": 5.0,
+        "reason": "The text explicitly states stone cladding thickness of 2.5\u20135 cm."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 10,
+        "status": "verified",
+        "value": 20.0,
+        "value_max": null,
+        "reason": "The strength table lists limestone, travertine, and volcanic tuff at 20 N/mm\u00b2."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 11,
+        "status": "verified",
+        "value": 30.0,
+        "value_max": null,
+        "reason": "The strength table lists weak sandstone and similar stone at 30 N/mm\u00b2."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 12,
+        "status": "verified",
+        "value": 50.0,
+        "value_max": null,
+        "reason": "The strength table lists dense limestone, dolomite, basalt lava, and similar stone at 50 N/mm\u00b2."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 13,
+        "status": "verified",
+        "value": 80.0,
+        "value_max": null,
+        "reason": "The strength table lists quartzitic sandstone, graywacke, and similar stone at 80 N/mm\u00b2."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 14,
+        "status": "verified",
+        "value": 120.0,
+        "value_max": null,
+        "reason": "The strength table lists granite and similar stone at 120 N/mm\u00b2."
+      }
+    ]
+  },
+  "automatic": [
+    {
+      "ficha_index": 0,
+      "dimension_index": 0,
+      "issues": [
+        "Unknown unit",
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 1,
+      "issues": [
+        "Unknown unit",
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 2,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 3,
+      "issues": [
+        "Unknown unit",
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 4,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 5,
+      "issues": [
+        "Unknown unit",
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 6,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 7,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 8,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 9,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 10,
+      "issues": [
+        "Unknown unit",
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 11,
+      "issues": [
+        "Unknown unit",
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 12,
+      "issues": [
+        "Unknown unit",
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 13,
+      "issues": [
+        "Unknown unit",
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 14,
+      "issues": [
+        "Unknown unit",
+        "Mixed length units; check figure units"
+      ]
+    }
+  ],
+  "usage": [
+    {
+      "prompt_tokens": 4901,
+      "completion_tokens": 1557
+    },
+    {
+      "prompt_tokens": 4973,
+      "completion_tokens": 935
+    }
+  ]
+}

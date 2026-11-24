@@ -1,0 +1,149 @@
+{
+  "fichas": [
+    {
+      "id": "4122fb96e4bd1976-72-vision-0",
+      "pdf_page": 72,
+      "book_page": 59,
+      "chapter": "DESIGN PROCESS",
+      "section": "Design and Construction Management",
+      "title": "Building permission and approval exemptions",
+      "summary": "Building construction, alteration, or change of use generally requires approval from the building supervision authorities. The page describes approval-free projects, a building notification procedure, and the simplified approval process for certain buildings within a legally binding development plan.",
+      "building_type": "Building projects",
+      "spaces": [],
+      "uses": [
+        "Assessing whether building approval is required",
+        "Applying approval exemptions and simplified approval procedures"
+      ],
+      "furniture_equipment": [],
+      "dimensions": [
+        {
+          "label": "Gross floor area threshold for an approval-free single-storey building",
+          "value": 10.0,
+          "value_max": null,
+          "unit": "m²",
+          "context": "Approval-free building projects; up to this gross floor area.",
+          "status": "uncertain",
+          "ocr_raw": "single-storey building with a gross floor area up to 10 m2"
+        },
+        {
+          "label": "Garage gross floor area threshold",
+          "value": 30.0,
+          "value_max": null,
+          "unit": "m²",
+          "context": "Approval-free garages, subject to the stated conditions.",
+          "status": "uncertain",
+          "ocr_raw": "garages up to 30 m2"
+        },
+        {
+          "label": "Average wall height limit for garages",
+          "value": 3.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Approval-free garages; average wall height up to this limit.",
+          "status": "uncertain",
+          "ocr_raw": "with average wall heights of up to 3 m"
+        },
+        {
+          "label": "Retaining wall and fencing height limit",
+          "value": 2.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Approval-free retaining walls and fencing; up to this height.",
+          "status": "uncertain",
+          "ocr_raw": "retaining walls and fencing up to 2 m high"
+        }
+      ],
+      "figure_refs": [
+        "1 Building permit process (outline)"
+      ],
+      "cross_refs": [
+        "p. 55"
+      ],
+      "keywords": [
+        "building permission",
+        "approval exemptions",
+        "building notification",
+        "simplified building approval",
+        "building development plan"
+      ],
+      "tags_architectural": [
+        "safety"
+      ],
+      "confidence": 0.97
+    },
+    {
+      "id": "4122fb96e4bd1976-72-vision-1",
+      "pdf_page": 72,
+      "book_page": 59,
+      "chapter": "DESIGN PROCESS",
+      "section": "Design and Construction Management",
+      "title": "Building permit application, issue, and authority supervision",
+      "summary": "The building permit application is prepared with input from other specialists, submitted to the responsible council, and reviewed by the building control authority and other responsible parties. A preliminary decision may be sought on critical questions. Permits can be partial, and permits lapse if work does not start or is interrupted for the stated period. Authority supervision includes checks and final acceptance.",
+      "building_type": "Building projects",
+      "spaces": [],
+      "uses": [
+        "Preparing and submitting a building permit application",
+        "Obtaining preliminary or partial permission",
+        "Authority review, construction supervision, and final acceptance"
+      ],
+      "furniture_equipment": [],
+      "dimensions": [
+        {
+          "label": "Work phase",
+          "value": 4.0,
+          "value_max": null,
+          "unit": "phase",
+          "context": "HOAI work phase for the building permit application.",
+          "status": "uncertain",
+          "ocr_raw": "(HOAI, work phase 4 → refs)"
+        },
+        {
+          "label": "Outline building permission validity",
+          "value": 1.0,
+          "value_max": null,
+          "unit": "year",
+          "context": "Validity period; may be prolonged on application.",
+          "status": "uncertain",
+          "ocr_raw": "Outline building permission is legally binding and valid for one year"
+        },
+        {
+          "label": "Deadline to start building work before permit lapses",
+          "value": 1.0,
+          "value_max": null,
+          "unit": "year",
+          "context": "Building and partial building permits lapse if work is not started within this period after issue.",
+          "status": "uncertain",
+          "ocr_raw": "if building work is not started within one year of their issue"
+        },
+        {
+          "label": "Maximum interruption before permit lapses",
+          "value": 1.0,
+          "value_max": null,
+          "unit": "year",
+          "context": "Building and partial building permits lapse if works are interrupted for more than this period.",
+          "status": "uncertain",
+          "ocr_raw": "or the works are interrupted for more than one year"
+        }
+      ],
+      "figure_refs": [
+        "1 Building permit process (outline)"
+      ],
+      "cross_refs": [
+        "see also: HOAI p. 57"
+      ],
+      "keywords": [
+        "building permit application",
+        "basic services",
+        "special services",
+        "building permit issue",
+        "partial building permit",
+        "building supervision",
+        "final acceptance"
+      ],
+      "tags_architectural": [
+        "safety"
+      ],
+      "confidence": 0.96
+    }
+  ]
+}

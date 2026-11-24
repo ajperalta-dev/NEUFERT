@@ -1,0 +1,123 @@
+{
+  "model": "gpt-6-luna",
+  "checks": {
+    "checks": [
+      {
+        "ficha_index": 0,
+        "dimension_index": 0,
+        "status": "verified",
+        "value": 4.0,
+        "value_max": 6.0,
+        "reason": "The description visibly prints \u201cexercise bath (approx. 4 \u00d7 6 m)\u201d; the values and unit agree."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 1,
+        "status": "verified",
+        "value": 40.0,
+        "value_max": 50.0,
+        "reason": "The description visibly prints \u201cgymnastics rooms (approx. 40\u201350 m\u00b2)\u201d; the range and unit agree."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 2,
+        "status": "verified",
+        "value": 20.0,
+        "value_max": null,
+        "reason": "The description visibly prints \u201csingle therapy rooms (approx. 20 m\u00b2)\u201d; the value and unit agree."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 3,
+        "status": "verified",
+        "value": 3.0,
+        "value_max": null,
+        "reason": "The description visibly prints \u201cmin. 3.00 m\u201d; the value and unit agree."
+      },
+      {
+        "ficha_index": 2,
+        "dimension_index": 0,
+        "status": "verified",
+        "value": 371.0,
+        "value_max": null,
+        "reason": "Figure 2 visibly labels \u201cPhysical Therapy 371 m\u00b2\u201d; the value and unit agree."
+      },
+      {
+        "ficha_index": 2,
+        "dimension_index": 1,
+        "status": "verified",
+        "value": 150.0,
+        "value_max": null,
+        "reason": "Figure 2 visibly labels \u201cSpa/Sauna 150 m\u00b2\u201d; the value and unit agree."
+      },
+      {
+        "ficha_index": 3,
+        "dimension_index": 0,
+        "status": "verified",
+        "value": 66.0,
+        "value_max": null,
+        "reason": "Figure 3\u2019s legend visibly prints \u201cSpecial use (66 m\u00b2)\u201d; the value and unit agree."
+      },
+      {
+        "ficha_index": 3,
+        "dimension_index": 1,
+        "status": "verified",
+        "value": 132.0,
+        "value_max": null,
+        "reason": "Figure 3\u2019s legend visibly prints \u201cPharmacy (132 m\u00b2)\u201d; the value and unit agree."
+      }
+    ]
+  },
+  "automatic": [
+    {
+      "ficha_index": 0,
+      "dimension_index": 0,
+      "issues": []
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 1,
+      "issues": []
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 2,
+      "issues": []
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 3,
+      "issues": []
+    },
+    {
+      "ficha_index": 2,
+      "dimension_index": 0,
+      "issues": []
+    },
+    {
+      "ficha_index": 2,
+      "dimension_index": 1,
+      "issues": []
+    },
+    {
+      "ficha_index": 3,
+      "dimension_index": 0,
+      "issues": []
+    },
+    {
+      "ficha_index": 3,
+      "dimension_index": 1,
+      "issues": []
+    }
+  ],
+  "usage": [
+    {
+      "prompt_tokens": 4252,
+      "completion_tokens": 1646
+    },
+    {
+      "prompt_tokens": 4595,
+      "completion_tokens": 476
+    }
+  ]
+}

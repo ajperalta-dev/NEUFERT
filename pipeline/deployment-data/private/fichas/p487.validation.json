@@ -1,0 +1,49 @@
+{
+  "model": "gpt-6-luna",
+  "checks": {
+    "checks": [
+      {
+        "ficha_index": 1,
+        "dimension_index": 0,
+        "status": "verified",
+        "value": 15.0,
+        "value_max": null,
+        "reason": "The drawing states that a temperature of \u226515\u00b0C can be assumed; the proposed value and unit agree."
+      },
+      {
+        "ficha_index": 2,
+        "dimension_index": 0,
+        "status": "uncertain",
+        "value": 1.2,
+        "value_max": null,
+        "reason": "The drawing prints \u03b3 = 1.2, but does not visibly specify a unit; the proposed value is unchanged."
+      }
+    ]
+  },
+  "automatic": [
+    {
+      "ficha_index": 1,
+      "dimension_index": 0,
+      "issues": [
+        "Unknown unit"
+      ]
+    },
+    {
+      "ficha_index": 2,
+      "dimension_index": 0,
+      "issues": [
+        "Unknown unit"
+      ]
+    }
+  ],
+  "usage": [
+    {
+      "prompt_tokens": 11572,
+      "completion_tokens": 2753
+    },
+    {
+      "prompt_tokens": 4270,
+      "completion_tokens": 279
+    }
+  ]
+}

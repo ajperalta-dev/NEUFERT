@@ -1,0 +1,479 @@
+{
+  "fichas": [
+    {
+      "id": "4122fb96e4bd1976-520-vision-0",
+      "pdf_page": 520,
+      "book_page": 507,
+      "chapter": "BUILDING SERVICES",
+      "section": "Lighting",
+      "title": "Lighting quality criteria",
+      "summary": "Lighting design should meet functional, ergonomic, cost-effectiveness, and architectural requirements. The page covers lighting levels and uniformity, light direction, glare and reflection control, luminance distribution, light colour and colour rendering, point-illuminance calculations, and reflectance values for lighting and building materials. Point illuminance is described using the law of photometric distance; the page presents formulas but no calculated results.",
+      "building_type": "Workplace and interior lighting",
+      "spaces": [
+        "Work area",
+        "Office",
+        "Room interior"
+      ],
+      "uses": [
+        "Provide lighting for visual work",
+        "Reduce direct glare, reflection glare, and monitor-screen mirroring",
+        "Support suitable light colour and colour rendering",
+        "Estimate point illuminance from luminous intensity and spatial geometry"
+      ],
+      "furniture_equipment": [
+        "Luminaires",
+        "Work surfaces",
+        "Monitor screens",
+        "Keyboards",
+        "Paper"
+      ],
+      "dimensions": [
+        {
+          "label": "Illuminance uniformity at visual-work locations",
+          "value": 0.7,
+          "value_max": null,
+          "unit": "ratio",
+          "context": "Uniformity required in locations where visual work is carried out; the text gives 0.5 in comparison with the surroundings as a separate criterion.",
+          "status": "uncertain",
+          "ocr_raw": "In such places, the uniformity must be 0.7, and 0.5 in comparison with the surroundings."
+        },
+        {
+          "label": "Uniformity in comparison with surroundings",
+          "value": 0.5,
+          "value_max": null,
+          "unit": "ratio",
+          "context": "Separate comparison-with-surroundings criterion; the OCR does not specify a unit.",
+          "status": "uncertain",
+          "ocr_raw": "In such places, the uniformity must be 0.7, and 0.5 in comparison with the surroundings."
+        },
+        {
+          "label": "Luminaire shading angle",
+          "value": 30.0,
+          "value_max": null,
+          "unit": "°",
+          "context": "Minimum shading angle cited as a means of limiting direct glare.",
+          "status": "uncertain",
+          "ocr_raw": "by the use of luminaires with shading angles of ≥30°."
+        },
+        {
+          "label": "Luminance of lights that could cause screen reflections",
+          "value": 200.0,
+          "value_max": null,
+          "unit": "cd/m²",
+          "context": "Maximum luminance for lights that could nonetheless cause screen reflections; use of high-gloss reflectors is noted.",
+          "status": "uncertain",
+          "ocr_raw": "Lights which could nonetheless cause screen reflections must have a luminance of ≤200 cd/m² (use of high-gloss reflectors)."
+        },
+        {
+          "label": "Luminance of indirect lighting",
+          "value": 400.0,
+          "value_max": null,
+          "unit": "cd/m²",
+          "context": "Upper limit for indirect lighting luminance.",
+          "status": "uncertain",
+          "ocr_raw": "The luminance of indirect lighting should not exceed 400 cd/m²."
+        },
+        {
+          "label": "Warm white light colour temperature",
+          "value": 3300.0,
+          "value_max": null,
+          "unit": "K",
+          "context": "Warm white is specified as below 3300 K.",
+          "status": "uncertain",
+          "ocr_raw": "warm white light (colour temperature under 3300 K)"
+        },
+        {
+          "label": "Neutral white light colour temperature",
+          "value": 3300.0,
+          "value_max": 5000.0,
+          "unit": "K",
+          "context": "Neutral white light colour-temperature range.",
+          "status": "uncertain",
+          "ocr_raw": "neutral white light (3300 K-5000 K)"
+        },
+        {
+          "label": "Daylight white light colour temperature",
+          "value": 5000.0,
+          "value_max": null,
+          "unit": "K",
+          "context": "Daylight white is specified as over 5000 K.",
+          "status": "uncertain",
+          "ocr_raw": "daylight white light (over 5000 K)"
+        },
+        {
+          "label": "General colour rendering",
+          "value": 1.0,
+          "value_max": null,
+          "unit": "index",
+          "context": "The colour rendering should generally be 1; described as very good colour rendering.",
+          "status": "uncertain",
+          "ocr_raw": "should generally be 1 (very good colour rendering)."
+        },
+        {
+          "label": "Reflectance of aluminium, pure gloss",
+          "value": 80.0,
+          "value_max": 90.0,
+          "unit": "%",
+          "context": "Reflectance of light-fittings material.",
+          "status": "uncertain",
+          "ocr_raw": "aluminium, pure gloss 80–90"
+        },
+        {
+          "label": "Reflectance of aluminium, anodised, matt",
+          "value": 80.0,
+          "value_max": 85.0,
+          "unit": "%",
+          "context": "Reflectance of light-fittings material.",
+          "status": "uncertain",
+          "ocr_raw": "aluminium, anodised, matt 80–85"
+        },
+        {
+          "label": "Reflectance of aluminium, polished",
+          "value": 65.0,
+          "value_max": 75.0,
+          "unit": "%",
+          "context": "Reflectance of light-fittings material.",
+          "status": "uncertain",
+          "ocr_raw": "aluminium, polished 65–75"
+        },
+        {
+          "label": "Reflectance of aluminium, matt",
+          "value": 55.0,
+          "value_max": 76.0,
+          "unit": "%",
+          "context": "Reflectance of light-fittings material; range transcribed as printed in OCR.",
+          "status": "uncertain",
+          "ocr_raw": "aluminium, matt 55–76"
+        },
+        {
+          "label": "Reflectance of aluminium coatings, matt",
+          "value": 55.0,
+          "value_max": 65.0,
+          "unit": "%",
+          "context": "Reflectance of light-fittings material.",
+          "status": "uncertain",
+          "ocr_raw": "aluminium coatings, matt 55–65"
+        },
+        {
+          "label": "Reflectance of chrome, polished",
+          "value": 60.0,
+          "value_max": 70.0,
+          "unit": "%",
+          "context": "Reflectance of light-fittings material.",
+          "status": "uncertain",
+          "ocr_raw": "chrome, polished 60–70"
+        },
+        {
+          "label": "Reflectance of enamel, white",
+          "value": 65.0,
+          "value_max": 75.0,
+          "unit": "%",
+          "context": "Reflectance of light-fittings material.",
+          "status": "uncertain",
+          "ocr_raw": "enamel, white 65–75"
+        },
+        {
+          "label": "Reflectance of paint, pure white",
+          "value": 80.0,
+          "value_max": 85.0,
+          "unit": "%",
+          "context": "Reflectance of light-fittings material.",
+          "status": "uncertain",
+          "ocr_raw": "paint, pure white 80–85"
+        },
+        {
+          "label": "Reflectance of copper, highly polished",
+          "value": 60.0,
+          "value_max": 70.0,
+          "unit": "%",
+          "context": "Reflectance of light-fittings material.",
+          "status": "uncertain",
+          "ocr_raw": "copper, highly polished 60–70"
+        },
+        {
+          "label": "Reflectance of brass, highly polished",
+          "value": 70.0,
+          "value_max": 75.0,
+          "unit": "%",
+          "context": "Reflectance of light-fittings material.",
+          "status": "uncertain",
+          "ocr_raw": "brass, highly polished 70–75"
+        },
+        {
+          "label": "Reflectance of nickel, highly polished",
+          "value": 50.0,
+          "value_max": 60.0,
+          "unit": "%",
+          "context": "Reflectance of light-fittings material.",
+          "status": "uncertain",
+          "ocr_raw": "nickel, highly polished 50–60"
+        },
+        {
+          "label": "Reflectance of paper, white",
+          "value": 70.0,
+          "value_max": 80.0,
+          "unit": "%",
+          "context": "Reflectance of light-fittings material.",
+          "status": "uncertain",
+          "ocr_raw": "paper, white 70–80"
+        },
+        {
+          "label": "Reflectance of silvered mirror behind glass",
+          "value": 80.0,
+          "value_max": 90.0,
+          "unit": "%",
+          "context": "Reflectance of light-fittings material.",
+          "status": "uncertain",
+          "ocr_raw": "silvered mirror behind glass 80–90"
+        },
+        {
+          "label": "Reflectance of silver, highly polished",
+          "value": 90.0,
+          "value_max": 92.0,
+          "unit": "%",
+          "context": "Reflectance of light-fittings material.",
+          "status": "uncertain",
+          "ocr_raw": "silver, highly polished 90–92"
+        },
+        {
+          "label": "Reflectance of oak, light, polished",
+          "value": 25.0,
+          "value_max": 35.0,
+          "unit": "%",
+          "context": "Reflectance of building material.",
+          "status": "uncertain",
+          "ocr_raw": "oak, light, polished 25–35"
+        },
+        {
+          "label": "Reflectance of oak, dark, polished",
+          "value": 10.0,
+          "value_max": 15.0,
+          "unit": "%",
+          "context": "Reflectance of building material.",
+          "status": "uncertain",
+          "ocr_raw": "oak, dark, polished 10–15"
+        },
+        {
+          "label": "Reflectance of granite",
+          "value": 20.0,
+          "value_max": 25.0,
+          "unit": "%",
+          "context": "Reflectance of building material.",
+          "status": "uncertain",
+          "ocr_raw": "granite 20–25"
+        },
+        {
+          "label": "Reflectance of limestone",
+          "value": 35.0,
+          "value_max": 55.0,
+          "unit": "%",
+          "context": "Reflectance of building material.",
+          "status": "uncertain",
+          "ocr_raw": "limestone 35–55"
+        },
+        {
+          "label": "Reflectance of marble, polished",
+          "value": 30.0,
+          "value_max": 70.0,
+          "unit": "%",
+          "context": "Reflectance of building material.",
+          "status": "uncertain",
+          "ocr_raw": "marble, polished 30–70"
+        },
+        {
+          "label": "Reflectance of mortar, light, lime mortar",
+          "value": 40.0,
+          "value_max": 45.0,
+          "unit": "%",
+          "context": "Reflectance of building material.",
+          "status": "uncertain",
+          "ocr_raw": "mortar, light, lime mortar 40–45"
+        },
+        {
+          "label": "Reflectance of mortar, dark",
+          "value": 15.0,
+          "value_max": 25.0,
+          "unit": "%",
+          "context": "Reflectance of building material.",
+          "status": "uncertain",
+          "ocr_raw": "mortar, dark 15–25"
+        },
+        {
+          "label": "Reflectance of sandstone",
+          "value": 20.0,
+          "value_max": 40.0,
+          "unit": "%",
+          "context": "Reflectance of building material.",
+          "status": "uncertain",
+          "ocr_raw": "sandstone 20–40"
+        },
+        {
+          "label": "Reflectance of plywood, rough",
+          "value": 25.0,
+          "value_max": 40.0,
+          "unit": "%",
+          "context": "Reflectance of building material.",
+          "status": "uncertain",
+          "ocr_raw": "plywood, rough 25–40"
+        },
+        {
+          "label": "Reflectance of cement, concrete, rough",
+          "value": 15.0,
+          "value_max": 30.0,
+          "unit": "%",
+          "context": "Reflectance of building material.",
+          "status": "uncertain",
+          "ocr_raw": "cement, concrete, rough 15–30"
+        },
+        {
+          "label": "Reflectance of brick, red, new",
+          "value": 10.0,
+          "value_max": 15.0,
+          "unit": "%",
+          "context": "Reflectance of building material.",
+          "status": "uncertain",
+          "ocr_raw": "brick, red, new 10–15"
+        },
+        {
+          "label": "Reflectance of paint, white",
+          "value": 70.0,
+          "value_max": 75.0,
+          "unit": "%",
+          "context": "Reflectance of paint.",
+          "status": "uncertain",
+          "ocr_raw": "white 70–75"
+        },
+        {
+          "label": "Reflectance of paint, light grey",
+          "value": 40.0,
+          "value_max": 60.0,
+          "unit": "%",
+          "context": "Reflectance of paint.",
+          "status": "uncertain",
+          "ocr_raw": "light grey 40–60"
+        },
+        {
+          "label": "Reflectance of paint, medium grey",
+          "value": 25.0,
+          "value_max": 35.0,
+          "unit": "%",
+          "context": "Reflectance of paint.",
+          "status": "uncertain",
+          "ocr_raw": "medium grey 25–35"
+        },
+        {
+          "label": "Reflectance of paint, dark grey",
+          "value": 15.0,
+          "value_max": 25.0,
+          "unit": "%",
+          "context": "Reflectance of paint.",
+          "status": "uncertain",
+          "ocr_raw": "dark grey 15–25"
+        },
+        {
+          "label": "Reflectance of paint, light blue",
+          "value": 40.0,
+          "value_max": 50.0,
+          "unit": "%",
+          "context": "Reflectance of paint.",
+          "status": "uncertain",
+          "ocr_raw": "light blue 40–50"
+        },
+        {
+          "label": "Reflectance of paint, dark blue",
+          "value": 15.0,
+          "value_max": 20.0,
+          "unit": "%",
+          "context": "Reflectance of paint.",
+          "status": "uncertain",
+          "ocr_raw": "dark blue 15–20"
+        },
+        {
+          "label": "Reflectance of paint, light green",
+          "value": 45.0,
+          "value_max": 55.0,
+          "unit": "%",
+          "context": "Reflectance of paint.",
+          "status": "uncertain",
+          "ocr_raw": "light green 45–55"
+        },
+        {
+          "label": "Reflectance of paint, dark green",
+          "value": 15.0,
+          "value_max": 20.0,
+          "unit": "%",
+          "context": "Reflectance of paint.",
+          "status": "uncertain",
+          "ocr_raw": "dark green 15–20"
+        },
+        {
+          "label": "Reflectance of paint, pale yellow",
+          "value": 50.0,
+          "value_max": 65.0,
+          "unit": "%",
+          "context": "Reflectance of paint.",
+          "status": "uncertain",
+          "ocr_raw": "pale yellow 50–65"
+        },
+        {
+          "label": "Reflectance of paint, brown",
+          "value": 10.0,
+          "value_max": 40.0,
+          "unit": "%",
+          "context": "Reflectance of paint.",
+          "status": "uncertain",
+          "ocr_raw": "brown 10–40"
+        },
+        {
+          "label": "Reflectance of paint, light red",
+          "value": 35.0,
+          "value_max": 50.0,
+          "unit": "%",
+          "context": "Reflectance of paint.",
+          "status": "uncertain",
+          "ocr_raw": "light red 35–50"
+        },
+        {
+          "label": "Reflectance of paint, dark red",
+          "value": 10.0,
+          "value_max": 35.0,
+          "unit": "%",
+          "context": "Reflectance of paint.",
+          "status": "uncertain",
+          "ocr_raw": "dark red 10–35"
+        }
+      ],
+      "figure_refs": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7"
+      ],
+      "cross_refs": [
+        "p. 503 f)",
+        "p. 505"
+      ],
+      "keywords": [
+        "lighting",
+        "quality criteria",
+        "illuminance",
+        "uniformity",
+        "glare",
+        "luminance",
+        "light direction",
+        "colour temperature",
+        "colour rendering",
+        "reflectance",
+        "photometric distance"
+      ],
+      "tags_architectural": [
+        "ergonomics",
+        "daylighting"
+      ],
+      "confidence": 0.9
+    }
+  ]
+}

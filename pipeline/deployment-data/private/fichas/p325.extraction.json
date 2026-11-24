@@ -1,0 +1,138 @@
+{
+  "fichas": [
+    {
+      "id": "4122fb96e4bd1976-325-vision-0",
+      "pdf_page": 325,
+      "book_page": 312,
+      "chapter": "HEALTH",
+      "section": "Hospitals",
+      "title": "Hospital administration, records, and library",
+      "summary": "Hospital administration includes patient-facing offices near the main entrance and internal business offices, with conference and meeting rooms. Records storage should be accessible to working areas where possible; mobile shelving can reduce storage space. Medical libraries should provide open shelving and reading tables with lamps. The Community Hospital, Herdecke/Ruhr, is captioned as having 192 beds.",
+      "building_type": "Hospital",
+      "spaces": [
+        "Patient admission offices",
+        "Administrative director's office",
+        "Accounts department",
+        "Personnel department",
+        "Conference and meeting rooms",
+        "Records rooms",
+        "Medical library",
+        "Patient library"
+      ],
+      "uses": [
+        "Patient admission and assistance to relatives",
+        "Internal hospital administration",
+        "Accounting and personnel work",
+        "Records and file storage",
+        "Medical and patient reading"
+      ],
+      "furniture_equipment": [
+        "Secretarial support",
+        "Mobile shelving",
+        "Open shelving",
+        "Reading tables",
+        "Lamps"
+      ],
+      "dimensions": [
+        {
+          "label": "Bed capacity",
+          "value": 192.0,
+          "value_max": null,
+          "unit": "beds",
+          "context": "Community Hospital, Herdecke/Ruhr, figure caption",
+          "status": "uncertain",
+          "ocr_raw": "192 beds"
+        },
+        {
+          "label": "Shelf loading",
+          "value": 1000.0,
+          "value_max": null,
+          "unit": "kg/m²",
+          "context": "Stated as a loading assumption for shelves, up to this amount",
+          "status": "uncertain",
+          "ocr_raw": "up to 1000 kg/m²"
+        },
+        {
+          "label": "Patient-file storage term",
+          "value": 30.0,
+          "value_max": null,
+          "unit": "years",
+          "context": "Storage term for patient files",
+          "status": "uncertain",
+          "ocr_raw": "The storage term for patient files is 30 years."
+        }
+      ],
+      "figure_refs": [
+        "1 — Community Hospital, Herdecke/Ruhr, 192 beds; entrance hall with administration area"
+      ],
+      "cross_refs": [],
+      "keywords": [
+        "hospital administration",
+        "records",
+        "mobile shelving",
+        "medical library",
+        "patient files"
+      ],
+      "tags_architectural": [
+        "adaptability",
+        "modularity"
+      ],
+      "confidence": 0.96
+    },
+    {
+      "id": "4122fb96e4bd1976-325-vision-1",
+      "pdf_page": 325,
+      "book_page": 312,
+      "chapter": "HEALTH",
+      "section": "Hospitals",
+      "title": "Hospital main entrance, services, and social facilities",
+      "summary": "The main entrance should be recognizable and accessible to vehicle traffic, taxis, patients, and visitors. The entrance hall functions as a waiting and orientation space that separates different traffic flows. Reception may handle telephone calls and post; a nearby cafeteria serves visitors and patients. The page also describes a non-denominational chapel or prayer room with adjoining support spaces and offices for chaplains and social workers.",
+      "building_type": "Hospital",
+      "spaces": [
+        "Main entrance",
+        "Entrance hall",
+        "Reception",
+        "Cafeteria",
+        "Kiosk",
+        "Storage facilities",
+        "Staff rooms",
+        "Chapel or prayer room",
+        "Chaplain's office",
+        "Vestry",
+        "Side rooms",
+        "Social workers' offices"
+      ],
+      "uses": [
+        "Patient and visitor arrival",
+        "Taxi and vehicle access",
+        "Waiting and orientation",
+        "Reception and post handling",
+        "Food and drink service",
+        "Pastoral care and social services"
+      ],
+      "furniture_equipment": [
+        "Coin telephones",
+        "Kiosks for sweets, flowers, and stationery"
+      ],
+      "dimensions": [],
+      "figure_refs": [
+        "2 — Entrance and café, Helios Clinic, Berlin-Buch"
+      ],
+      "cross_refs": [],
+      "keywords": [
+        "main entrance",
+        "entrance hall",
+        "cafeteria",
+        "visitor services",
+        "pastoral care",
+        "social services"
+      ],
+      "tags_architectural": [
+        "accessibility",
+        "circulation",
+        "safety"
+      ],
+      "confidence": 0.95
+    }
+  ]
+}

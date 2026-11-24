@@ -1,0 +1,99 @@
+{
+  "model": "gpt-6-luna",
+  "checks": {
+    "checks": [
+      {
+        "ficha_index": 0,
+        "dimension_index": 0,
+        "status": "verified",
+        "value": 3.5,
+        "value_max": null,
+        "reason": "The text visibly states a minimum clear access road height of 3.50 m."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 1,
+        "status": "verified",
+        "value": 16.0,
+        "value_max": 21.0,
+        "reason": "The text visibly gives examination and treatment rooms as 16\u201321 m\u00b2."
+      },
+      {
+        "ficha_index": 1,
+        "dimension_index": 0,
+        "status": "verified",
+        "value": 25.0,
+        "value_max": null,
+        "reason": "The text visibly gives the ophthalmology treatment room as 25 m\u00b2."
+      },
+      {
+        "ficha_index": 1,
+        "dimension_index": 1,
+        "status": "verified",
+        "value": 25.0,
+        "value_max": 30.0,
+        "reason": "The text visibly gives the ear, nose and throat treatment room as 25\u201330 m\u00b2."
+      },
+      {
+        "ficha_index": 1,
+        "dimension_index": 2,
+        "status": "verified",
+        "value": 25.0,
+        "value_max": 30.0,
+        "reason": "The text visibly gives the urology treatment room as 25\u201330 m\u00b2."
+      },
+      {
+        "ficha_index": 2,
+        "dimension_index": 0,
+        "status": "verified",
+        "value": 2.0,
+        "value_max": null,
+        "reason": "The printed relationship says beds = number of endoscopy rooms \u00d7 2, matching the proposed multiplier and ratio unit."
+      }
+    ]
+  },
+  "automatic": [
+    {
+      "ficha_index": 0,
+      "dimension_index": 0,
+      "issues": []
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 1,
+      "issues": []
+    },
+    {
+      "ficha_index": 1,
+      "dimension_index": 0,
+      "issues": []
+    },
+    {
+      "ficha_index": 1,
+      "dimension_index": 1,
+      "issues": []
+    },
+    {
+      "ficha_index": 1,
+      "dimension_index": 2,
+      "issues": []
+    },
+    {
+      "ficha_index": 2,
+      "dimension_index": 0,
+      "issues": [
+        "Unknown unit"
+      ]
+    }
+  ],
+  "usage": [
+    {
+      "prompt_tokens": 4468,
+      "completion_tokens": 1504
+    },
+    {
+      "prompt_tokens": 4416,
+      "completion_tokens": 387
+    }
+  ]
+}

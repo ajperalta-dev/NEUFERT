@@ -1,0 +1,379 @@
+{
+  "fichas": [
+    {
+      "id": "4122fb96e4bd1976-263-vision-0",
+      "pdf_page": 263,
+      "book_page": 250,
+      "chapter": "ADMINISTRATION AND OFFICES",
+      "section": "Libraries",
+      "title": "Lending counter",
+      "summary": "The lending counter connects entrance areas with catalogue areas, reading rooms, stacks, and administration. It handles issuing and returning books, user information, and monitoring people entering or leaving the reading room. Counter design should reflect the main activity, provide suitable connections and lighting, and account for its use as a permanent workplace.",
+      "building_type": "Library",
+      "spaces": [
+        "Lending counter",
+        "Entrance area",
+        "Catalogue areas",
+        "Reading room",
+        "Stacks",
+        "Administration"
+      ],
+      "uses": [
+        "Issue and return books and other media",
+        "Provide library information",
+        "Monitor access to the reading room",
+        "Support staff work"
+      ],
+      "furniture_equipment": [
+        "Counter",
+        "Computer and telephone connections",
+        "Lighting",
+        "Book transport system, where integrated"
+      ],
+      "dimensions": [
+        {
+          "label": "Counter height",
+          "value": 95.0,
+          "value_max": 105.0,
+          "unit": "cm",
+          "context": "Appropriate counter height depending on the main activity.",
+          "status": "uncertain",
+          "ocr_raw": "95–105 cm"
+        },
+        {
+          "label": "Minimum clear area per media unit in the graph annotation",
+          "value": 10000.0,
+          "value_max": null,
+          "unit": "volumes",
+          "context": "Graph annotation states a stock quantity for every 300 m²; this is a stock-to-area statement, not a counter dimension.",
+          "status": "uncertain",
+          "ocr_raw": "≥ 10 000 volumes for every 300 m²"
+        }
+      ],
+      "figure_refs": [
+        "1 Demands on the lending counter/issue desk"
+      ],
+      "cross_refs": [],
+      "keywords": [
+        "lending counter",
+        "issue desk",
+        "book return",
+        "staff workplace",
+        "library access"
+      ],
+      "tags_architectural": [
+        "ergonomics",
+        "circulation",
+        "safety"
+      ],
+      "confidence": 0.91
+    },
+    {
+      "id": "4122fb96e4bd1976-263-vision-1",
+      "pdf_page": 263,
+      "book_page": 250,
+      "chapter": "ADMINISTRATION AND OFFICES",
+      "section": "Libraries",
+      "title": "Public libraries: spaces and requirements",
+      "summary": "Public libraries provide general literature and media for directly accessible self-service, with zones for adults, children, and young people. They may combine lending with browsing, advice, information, events, and other community uses. Flexible, connected areas and an inviting entrance are recommended; space provision relates to stock size. The page also gives shelving, passage, trolley, and floor-loading guidance.",
+      "building_type": "Public library",
+      "spaces": [
+        "Entrance area",
+        "Adult area",
+        "Children's area",
+        "Young people's area",
+        "Browsing zones",
+        "Display area",
+        "Reading and workstations",
+        "Group rooms",
+        "Events area",
+        "Miscellaneous area",
+        "Administration area",
+        "Stacks or self-service shelves"
+      ],
+      "uses": [
+        "Lending books and other media",
+        "Self-service browsing and display",
+        "Reading and study",
+        "Community information and advice",
+        "Events and cultural activities",
+        "Listening to music and using media"
+      ],
+      "furniture_equipment": [
+        "Self-service display shelves",
+        "Book trolley",
+        "Shelving units",
+        "Goods lift for larger libraries",
+        "Book transport systems for larger libraries"
+      ],
+      "dimensions": [
+        {
+          "label": "Target media provision",
+          "value": 2.0,
+          "value_max": null,
+          "unit": "media units per inhabitant",
+          "context": "Target stock provision for public libraries.",
+          "status": "uncertain",
+          "ocr_raw": "two media units per inhabitant"
+        },
+        {
+          "label": "Minimum usable area",
+          "value": 300.0,
+          "value_max": null,
+          "unit": "m²",
+          "context": "Minimum public library size, associated with 10,000 media units in stock.",
+          "status": "uncertain",
+          "ocr_raw": "a minimum size of 300 m² usable area with 10 000 media units in stock"
+        },
+        {
+          "label": "Stock at minimum usable area",
+          "value": 10000.0,
+          "value_max": null,
+          "unit": "media units",
+          "context": "Stock quantity associated with the minimum 300 m² usable area.",
+          "status": "uncertain",
+          "ocr_raw": "a minimum size of 300 m² usable area with 10 000 media units in stock"
+        },
+        {
+          "label": "Adult-area shelf count",
+          "value": 5.0,
+          "value_max": 6.0,
+          "unit": "shelves",
+          "context": "Recommended number of shelves in adult-area units.",
+          "status": "uncertain",
+          "ocr_raw": "five or six shelves"
+        },
+        {
+          "label": "Adult-area maximum reach height",
+          "value": 1.8,
+          "value_max": null,
+          "unit": "m",
+          "context": "Maximum reach height for adult-area shelving; cross-reference printed as p. 249.",
+          "status": "uncertain",
+          "ocr_raw": "max. reach height 1.80 m → p. 249"
+        },
+        {
+          "label": "Children's-area shelf count",
+          "value": 4.0,
+          "value_max": null,
+          "unit": "shelves",
+          "context": "Recommended number of shelves in children's-area units.",
+          "status": "uncertain",
+          "ocr_raw": "children's area four shelves"
+        },
+        {
+          "label": "Children's-area reach height",
+          "value": 1.2,
+          "value_max": null,
+          "unit": "m",
+          "context": "Reach height for children's-area shelving; cross-reference printed as p. 249.",
+          "status": "uncertain",
+          "ocr_raw": "reach height ~1.20 m → p. 249"
+        },
+        {
+          "label": "Maximum passage length",
+          "value": 3.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Passages should not be longer than this; avoid niches and compartments.",
+          "status": "uncertain",
+          "ocr_raw": "Passages should not be longer than 3 m"
+        },
+        {
+          "label": "Book trolley length",
+          "value": 92.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Book trolley dimensions, listed as L × H × W.",
+          "status": "uncertain",
+          "ocr_raw": "L x H x W: 92 x 99 x 50 cm"
+        },
+        {
+          "label": "Book trolley height",
+          "value": 99.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Book trolley dimensions, listed as L × H × W.",
+          "status": "uncertain",
+          "ocr_raw": "L x H x W: 92 x 99 x 50 cm"
+        },
+        {
+          "label": "Book trolley width",
+          "value": 50.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Book trolley dimensions, listed as L × H × W.",
+          "status": "uncertain",
+          "ocr_raw": "L x H x W: 92 x 99 x 50 cm"
+        },
+        {
+          "label": "Floor loading in public libraries",
+          "value": 5.0,
+          "value_max": null,
+          "unit": "kN/m²",
+          "context": "Stated floor loading for public libraries.",
+          "status": "uncertain",
+          "ocr_raw": "5.0 kN/m²"
+        },
+        {
+          "label": "Floor loading in denser store-type self-service areas",
+          "value": 7.5,
+          "value_max": null,
+          "unit": "kN/m²",
+          "context": "Stated floor loading for store-type self-service areas with denser stacking.",
+          "status": "uncertain",
+          "ocr_raw": "7.5 kN/m²"
+        },
+        {
+          "label": "Floor loading with compact storage",
+          "value": 12.5,
+          "value_max": 15.0,
+          "unit": "kN/m²",
+          "context": "Stated floor loading with compact storage using mobile shelving units; printed as alternatives, not a range.",
+          "status": "uncertain",
+          "ocr_raw": "12.5 or 15.0 kN/m²"
+        }
+      ],
+      "figure_refs": [
+        "2 Functional scheme of a medium-sized library",
+        "3 Scheme: space requirement of a library depending on the amount of stock"
+      ],
+      "cross_refs": [
+        "p. 249"
+      ],
+      "keywords": [
+        "public library",
+        "media stock",
+        "self-service",
+        "shelving",
+        "floor loading",
+        "book trolley",
+        "space planning"
+      ],
+      "tags_architectural": [
+        "circulation",
+        "modularity",
+        "adaptability",
+        "spatial_proportion",
+        "clearance",
+        "ergonomics"
+      ],
+      "confidence": 0.9
+    },
+    {
+      "id": "4122fb96e4bd1976-263-vision-2",
+      "pdf_page": 263,
+      "book_page": 250,
+      "chapter": "ADMINISTRATION AND OFFICES",
+      "section": "Libraries",
+      "title": "Library book-processing route and work areas",
+      "summary": "The functional scheme organizes delivery, technical processing, administration, librarian work, distribution, and stacks or self-service shelves. The sequence accommodates receipt, sorting, cataloguing, binding, restoration, and distribution of books and media.",
+      "building_type": "Library",
+      "spaces": [
+        "Post room and goods entrance or ramp",
+        "Technical processing area",
+        "Administration office",
+        "Librarian office",
+        "Bookbinding workshop",
+        "Restoration workshop",
+        "Material store",
+        "Book sorting room",
+        "Stacks or self-service shelves"
+      ],
+      "uses": [
+        "Receive, book, sort, and distribute deliveries",
+        "Package material for remote lending",
+        "Invoice",
+        "Register titles and assign signatures and subjects",
+        "Process catalogues and take stock",
+        "Bind, label, and restore books",
+        "Sort and distribute books"
+      ],
+      "furniture_equipment": [
+        "Additional media shelf space in librarian office",
+        "Book trolley parking space"
+      ],
+      "dimensions": [
+        {
+          "label": "Additional media shelf space in librarian office",
+          "value": 2.0,
+          "value_max": null,
+          "unit": "m² minimum",
+          "context": "Additional shelf space for media in the librarian office.",
+          "status": "uncertain",
+          "ocr_raw": "Office workplace with additional shelf space for media ≥2 m²"
+        },
+        {
+          "label": "Book trolley parking length",
+          "value": 100.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Parking space for book trolley; printed dimensions are 50 cm × 100 cm.",
+          "status": "uncertain",
+          "ocr_raw": "Parking for book trolley (50 cm x 100 cm)"
+        },
+        {
+          "label": "Book trolley parking width",
+          "value": 50.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Parking space for book trolley; printed dimensions are 50 cm × 100 cm.",
+          "status": "uncertain",
+          "ocr_raw": "Parking for book trolley (50 cm x 100 cm)"
+        },
+        {
+          "label": "Bookbinding workshop area",
+          "value": 50.0,
+          "value_max": null,
+          "unit": "m² maximum",
+          "context": "Maximum stated area for the bookbinding workshop.",
+          "status": "uncertain",
+          "ocr_raw": "Bookbinding workshop ≤50 m²"
+        },
+        {
+          "label": "Restoration workshop area",
+          "value": 200.0,
+          "value_max": null,
+          "unit": "m² maximum",
+          "context": "Maximum stated area for the restoration workshop; the page notes four employees.",
+          "status": "uncertain",
+          "ocr_raw": "Restoration workshop ≤200 m² (for 4 employees)"
+        },
+        {
+          "label": "Material store area",
+          "value": 15.0,
+          "value_max": null,
+          "unit": "m² maximum",
+          "context": "Maximum stated area for the material store.",
+          "status": "uncertain",
+          "ocr_raw": "Material store ≤15 m²"
+        },
+        {
+          "label": "Book sorting room area",
+          "value": 14.0,
+          "value_max": null,
+          "unit": "m² maximum",
+          "context": "Maximum stated area for the book sorting room.",
+          "status": "uncertain",
+          "ocr_raw": "Book sorting room ≤14 m²"
+        }
+      ],
+      "figure_refs": [
+        "4 Route of book processing from delivery to lending"
+      ],
+      "cross_refs": [],
+      "keywords": [
+        "book processing",
+        "technical processing",
+        "library administration",
+        "bookbinding",
+        "restoration",
+        "distribution"
+      ],
+      "tags_architectural": [
+        "circulation",
+        "adaptability"
+      ],
+      "confidence": 0.87
+    }
+  ]
+}

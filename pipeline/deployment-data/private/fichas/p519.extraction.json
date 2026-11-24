@@ -1,0 +1,592 @@
+{
+  "fichas": [
+    {
+      "id": "4122fb96e4bd1976-519-vision-0",
+      "pdf_page": 519,
+      "book_page": 506,
+      "chapter": "BUILDING SERVICES",
+      "section": "Lighting",
+      "title": "Geometry of the lighting layout",
+      "summary": "Lighting spacing between fixtures and from the wall is related to room height. The sheet gives wall offsets and fixture spacing relationships, preferred incidence angles for light on objects and walls, and shading-angle guidance for downlights and grid lights.",
+      "building_type": "Lighting design",
+      "spaces": [
+        "Rooms",
+        "Walls",
+        "Areas illuminated by downlights"
+      ],
+      "uses": [
+        "Determine fixture spacing and distance from walls",
+        "Aim directional spotlights and downlighters",
+        "Control glare"
+      ],
+      "furniture_equipment": [
+        "Downlight wallwashers",
+        "Downlights",
+        "Grid lights",
+        "Directional spotlights",
+        "Downlighters"
+      ],
+      "dimensions": [
+        {
+          "label": "Wall offset for downlight wallwasher",
+          "value": 0.33,
+          "value_max": null,
+          "unit": "room-height ratio",
+          "context": "Distance from wall; figure 1 gives a = ⅓h.",
+          "status": "uncertain",
+          "ocr_raw": "Downlight wallwasher; distance from wall: a = ⅓h"
+        },
+        {
+          "label": "Wall offset for downlight",
+          "value": 0.33,
+          "value_max": null,
+          "unit": "room-height ratio",
+          "context": "Distance from wall; figure 2 gives a = ⅓h.",
+          "status": "uncertain",
+          "ocr_raw": "Downlight; distance from wall: a = ⅓h"
+        },
+        {
+          "label": "Wallwasher light spacing",
+          "value": 1.0,
+          "value_max": 1.5,
+          "unit": "a",
+          "context": "Spacing of lights; figure 3 gives b = 1–1.5a.",
+          "status": "uncertain",
+          "ocr_raw": "Downlight wall washer; spacing of lights: b = 1–1.5a"
+        },
+        {
+          "label": "Downlight spacing",
+          "value": 2.0,
+          "value_max": null,
+          "unit": "a",
+          "context": "Spacing of lights; figure 4 gives b = 2a.",
+          "status": "uncertain",
+          "ocr_raw": "Downlight; spacing of lights: b = 2a"
+        },
+        {
+          "label": "Preferred incidence angle",
+          "value": 30.0,
+          "value_max": 40.0,
+          "unit": "degrees",
+          "context": "Preferred incidence of light onto objects and areas of wall; 30° is identified as optimal.",
+          "status": "uncertain",
+          "ocr_raw": "The preferred incidence of light onto objects and areas of wall is between 30° (optimal) and 40°"
+        },
+        {
+          "label": "Downlight shading angle, wide light",
+          "value": 30.0,
+          "value_max": null,
+          "unit": "degrees",
+          "context": "Wide light; adequate glare protection.",
+          "status": "uncertain",
+          "ocr_raw": "downlights is between 30° (wide light, adequate glare protection)"
+        },
+        {
+          "label": "Downlight shading angle, deep light",
+          "value": 50.0,
+          "value_max": null,
+          "unit": "degrees",
+          "context": "Deep light; high glare protection.",
+          "status": "uncertain",
+          "ocr_raw": "and 50° (deep light, high glare protection)"
+        },
+        {
+          "label": "Grid-light shading angle",
+          "value": 30.0,
+          "value_max": 40.0,
+          "unit": "degrees",
+          "context": "Shading angle for grid lights.",
+          "status": "uncertain",
+          "ocr_raw": "for grid lights between 30° and 40°"
+        },
+        {
+          "label": "Inclination angle of directional spotlights and downlighters",
+          "value": 30.0,
+          "value_max": 40.0,
+          "unit": "degrees",
+          "context": "Figure 5; identified as optimal.",
+          "status": "uncertain",
+          "ocr_raw": "Inclination angle of directional spotlights and downlighters: α = 30°–40° (optimal)"
+        },
+        {
+          "label": "Inclination angle of spotlights for objects and walls",
+          "value": 30.0,
+          "value_max": 40.0,
+          "unit": "degrees",
+          "context": "Figure 6; identified as optimal.",
+          "status": "uncertain",
+          "ocr_raw": "Inclination angle of spotlights for lighting objects and wall: α = 30°–40° (optimal)"
+        }
+      ],
+      "figure_refs": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10"
+      ],
+      "cross_refs": [],
+      "keywords": [
+        "lighting layout",
+        "light spacing",
+        "wall offset",
+        "downlight",
+        "wallwasher",
+        "incidence angle",
+        "shading angle",
+        "glare"
+      ],
+      "tags_architectural": [
+        "daylighting",
+        "safety"
+      ],
+      "confidence": 0.91
+    },
+    {
+      "id": "4122fb96e4bd1976-519-vision-1",
+      "pdf_page": 519,
+      "book_page": 506,
+      "chapter": "BUILDING SERVICES",
+      "section": "Lighting",
+      "title": "Recommended illuminance values",
+      "summary": "A CIE table lists recommended illuminance values for outdoor paths and working areas, rooms with short occupancy, workrooms, and visual tasks of increasing demand. Values are presented in three columns under the heading “Recommended illuminance”; the extracted ranges below retain the lowest and highest listed values for each activity.",
+      "building_type": "Lighting design reference",
+      "spaces": [
+        "Outdoor paths and working areas",
+        "Rooms with short occupancy",
+        "Workrooms",
+        "Visual task areas"
+      ],
+      "uses": [
+        "Select recommended illuminance for activity and visual-task demand"
+      ],
+      "furniture_equipment": [],
+      "dimensions": [
+        {
+          "label": "Illuminance, paths and working areas outdoors",
+          "value": 20.0,
+          "value_max": 50.0,
+          "unit": "lx",
+          "context": "Three listed values: 20, 30, 50.",
+          "status": "uncertain",
+          "ocr_raw": "20 30 50 paths and working areas outdoors"
+        },
+        {
+          "label": "Illuminance, orientation in rooms with short occupancy",
+          "value": 50.0,
+          "value_max": 150.0,
+          "unit": "lx",
+          "context": "Three listed values: 50, 100, 150.",
+          "status": "uncertain",
+          "ocr_raw": "50 100 150 orientation in rooms with short occupancy"
+        },
+        {
+          "label": "Illuminance, workrooms not used constantly",
+          "value": 100.0,
+          "value_max": 200.0,
+          "unit": "lx",
+          "context": "Three listed values: 100, 150, 200.",
+          "status": "uncertain",
+          "ocr_raw": "100 150 200 workrooms not used constantly"
+        },
+        {
+          "label": "Illuminance, visual tasks with few demands",
+          "value": 200.0,
+          "value_max": 500.0,
+          "unit": "lx",
+          "context": "Three listed values: 200, 300, 500.",
+          "status": "uncertain",
+          "ocr_raw": "200 300 500 visual tasks with few demands"
+        },
+        {
+          "label": "Illuminance, visual tasks with medium demands",
+          "value": 300.0,
+          "value_max": 750.0,
+          "unit": "lx",
+          "context": "Three listed values: 300, 500, 750.",
+          "status": "uncertain",
+          "ocr_raw": "300 500 750 visual tasks with medium demands"
+        },
+        {
+          "label": "Illuminance, high-demand visual tasks such as office work",
+          "value": 500.0,
+          "value_max": 1000.0,
+          "unit": "lx",
+          "context": "Three listed values: 500, 750, 1000.",
+          "status": "uncertain",
+          "ocr_raw": "500 750 1000 visual tasks with high demands, e.g. office work"
+        },
+        {
+          "label": "Illuminance, high-demand visual tasks such as fine assembly",
+          "value": 750.0,
+          "value_max": 1500.0,
+          "unit": "lx",
+          "context": "Three listed values: 750, 1000, 1500.",
+          "status": "uncertain",
+          "ocr_raw": "750 1000 1500 visual tasks with high demands, e.g. fine assembly"
+        },
+        {
+          "label": "Illuminance, very-high-demand visual tasks",
+          "value": 1000.0,
+          "value_max": 2000.0,
+          "unit": "lx",
+          "context": "Three listed values: 1000, 1500, 2000.",
+          "status": "uncertain",
+          "ocr_raw": "1000 1500 2000 visual tasks with very high demands, e.g. checking activities"
+        },
+        {
+          "label": "Illuminance, additional lighting for difficult and special visual tasks",
+          "value": 2000.0,
+          "value_max": null,
+          "unit": "lx",
+          "context": "The table gives “over 2000”; this is a lower threshold, not an upper bound.",
+          "status": "uncertain",
+          "ocr_raw": "over 2000 additional lighting for difficult and special visual tasks"
+        }
+      ],
+      "figure_refs": [
+        "11"
+      ],
+      "cross_refs": [],
+      "keywords": [
+        "illuminance",
+        "CIE",
+        "visual tasks",
+        "lighting recommendations"
+      ],
+      "tags_architectural": [
+        "ergonomics"
+      ],
+      "confidence": 0.87
+    },
+    {
+      "id": "4122fb96e4bd1976-519-vision-2",
+      "pdf_page": 519,
+      "book_page": 506,
+      "chapter": "BUILDING SERVICES",
+      "section": "Lighting",
+      "title": "Protection classes for light fittings",
+      "summary": "The IP code indicates degrees of protection against contact and foreign bodies using its first number, and against water penetration using its second number. The page gives the ranges of code numbers and descriptions for each protection level.",
+      "building_type": "Lighting equipment reference",
+      "spaces": [],
+      "uses": [
+        "Interpret IP protection ratings for light fittings"
+      ],
+      "furniture_equipment": [
+        "Light fittings"
+      ],
+      "dimensions": [
+        {
+          "label": "Example IP code",
+          "value": 44.0,
+          "value_max": null,
+          "unit": "IP code",
+          "context": "Example shown as IP 44; its two digits correspond to the two protection categories.",
+          "status": "uncertain",
+          "ocr_raw": "example IP 44"
+        },
+        {
+          "label": "First IP-code digit range",
+          "value": 0.0,
+          "value_max": 6.0,
+          "unit": "code number",
+          "context": "Degree of protection against contact and foreign bodies.",
+          "status": "uncertain",
+          "ocr_raw": "1st number: 0–6"
+        },
+        {
+          "label": "Second IP-code digit range",
+          "value": 0.0,
+          "value_max": 8.0,
+          "unit": "code number",
+          "context": "Degree of protection against water penetration.",
+          "status": "uncertain",
+          "ocr_raw": "2nd number: 0–8"
+        },
+        {
+          "label": "Large foreign-body threshold",
+          "value": 50.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Protection against large foreign bodies greater than 50 mm.",
+          "status": "uncertain",
+          "ocr_raw": "1 protection against large foreign bodies (>50 mm)"
+        },
+        {
+          "label": "Medium foreign-body threshold",
+          "value": 12.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Protection against medium foreign bodies greater than 12 mm.",
+          "status": "uncertain",
+          "ocr_raw": "2 against medium foreign bodies (>12 mm)"
+        },
+        {
+          "label": "Small foreign-body threshold",
+          "value": 2.5,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Protection against small foreign bodies smaller than 2.5 mm.",
+          "status": "uncertain",
+          "ocr_raw": "3 against small foreign bodies (<2.5 mm)"
+        },
+        {
+          "label": "Granular foreign-body threshold",
+          "value": 1.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Protection against granular foreign bodies smaller than 1 mm.",
+          "status": "uncertain",
+          "ocr_raw": "4 against granular foreign bodies (<1 mm)"
+        },
+        {
+          "label": "Water-drop incidence angle",
+          "value": 15.0,
+          "value_max": null,
+          "unit": "degrees",
+          "context": "IP water-protection level 2: water drops at incidence up to 15°.",
+          "status": "uncertain",
+          "ocr_raw": "2 water drops at incidence up to 15°"
+        }
+      ],
+      "figure_refs": [
+        "12"
+      ],
+      "cross_refs": [],
+      "keywords": [
+        "IP code",
+        "light fittings",
+        "foreign bodies",
+        "water penetration",
+        "protection classes"
+      ],
+      "tags_architectural": [
+        "safety"
+      ],
+      "confidence": 0.93
+    },
+    {
+      "id": "4122fb96e4bd1976-519-vision-3",
+      "pdf_page": 519,
+      "book_page": 506,
+      "chapter": "BUILDING SERVICES",
+      "section": "Lighting",
+      "title": "Colour rendering of lighting",
+      "summary": "A table relates lighting stages and colour-rendering index Ra bands to typical applications, including art galleries, residences, offices, hospitals, and industrial settings.",
+      "building_type": "Lighting design reference",
+      "spaces": [
+        "Art galleries",
+        "Residences",
+        "Hotels",
+        "Restaurants",
+        "Offices",
+        "Schools",
+        "Hospitals",
+        "Industrial spaces"
+      ],
+      "uses": [
+        "Select a colour-rendering level appropriate to the application"
+      ],
+      "furniture_equipment": [
+        "Lighting"
+      ],
+      "dimensions": [
+        {
+          "label": "Stage 1A colour-rendering index",
+          "value": 90.0,
+          "value_max": null,
+          "unit": "Ra",
+          "context": "Ra > 90; applications include paint sampling and art galleries.",
+          "status": "uncertain",
+          "ocr_raw": "1A >90 paint sampling, art gallery"
+        },
+        {
+          "label": "Stage 1B colour-rendering index",
+          "value": 80.0,
+          "value_max": 90.0,
+          "unit": "Ra",
+          "context": "Printed band: 90 > Ra > 80; applications include residences, hotels, restaurants, offices, schools, hospitals, and printing/textile industry.",
+          "status": "uncertain",
+          "ocr_raw": "1B 90 > Ra > 80 residence, hotel, restaurant, office, school, hospital, printing/textile industry"
+        },
+        {
+          "label": "Stage 2A colour-rendering index",
+          "value": 70.0,
+          "value_max": 80.0,
+          "unit": "Ra",
+          "context": "Printed bands: 80 > Ra > 70 and 70 > Ra > 60; typical application shown as industry.",
+          "status": "uncertain",
+          "ocr_raw": "2A 80 > Ra > 70 70 > Ra > 60 industry"
+        },
+        {
+          "label": "Stage 3 colour-rendering index",
+          "value": 40.0,
+          "value_max": 60.0,
+          "unit": "Ra",
+          "context": "Printed band: 60 > Ra > 40; industry and other areas with low requirements for colour rendering.",
+          "status": "uncertain",
+          "ocr_raw": "3 60 > Ra > 40 industry and other areas with low requirements for colour rendering"
+        },
+        {
+          "label": "Stage 4 colour-rendering index",
+          "value": 20.0,
+          "value_max": 40.0,
+          "unit": "Ra",
+          "context": "Printed band: 40 > Ra > 20; typical application listed as “ditto.”",
+          "status": "uncertain",
+          "ocr_raw": "4 40 > Ra > 20 ditto"
+        }
+      ],
+      "figure_refs": [
+        "13"
+      ],
+      "cross_refs": [],
+      "keywords": [
+        "colour rendering",
+        "Ra",
+        "lighting stages",
+        "typical applications"
+      ],
+      "tags_architectural": [],
+      "confidence": 0.82
+    },
+    {
+      "id": "4122fb96e4bd1976-519-vision-4",
+      "pdf_page": 519,
+      "book_page": 506,
+      "chapter": "BUILDING SERVICES",
+      "section": "Lighting",
+      "title": "Reflector forms",
+      "summary": "The page describes the light-directing properties of parabolic, spherical, and ellipsoidal reflectors.",
+      "building_type": "Lighting equipment reference",
+      "spaces": [],
+      "uses": [
+        "Identify reflector forms by their light-directing properties"
+      ],
+      "furniture_equipment": [
+        "Parabolic reflector",
+        "Spherical reflector",
+        "Ellipsoidal reflector"
+      ],
+      "dimensions": [],
+      "figure_refs": [
+        "14"
+      ],
+      "cross_refs": [],
+      "keywords": [
+        "reflectors",
+        "parabolic",
+        "spherical",
+        "ellipsoidal",
+        "light distribution"
+      ],
+      "tags_architectural": [],
+      "confidence": 0.96
+    },
+    {
+      "id": "4122fb96e4bd1976-519-vision-5",
+      "pdf_page": 519,
+      "book_page": 506,
+      "chapter": "BUILDING SERVICES",
+      "section": "Lighting",
+      "title": "Shading angle against glare",
+      "summary": "A table relates lamp luminance bands to minimum shading angles. The figure caption also identifies shading-angle examples of 15°, 20°, and 30°.",
+      "building_type": "Lighting design reference",
+      "spaces": [
+        "Areas illuminated by light fittings"
+      ],
+      "uses": [
+        "Choose minimum shading angle in relation to lamp luminance",
+        "Reduce glare"
+      ],
+      "furniture_equipment": [
+        "Light fittings",
+        "Lamps"
+      ],
+      "dimensions": [
+        {
+          "label": "Lamp luminance, first band",
+          "value": 20000.0,
+          "value_max": 50000.0,
+          "unit": "cd/m²",
+          "context": "Associated minimum shading angle: 15°.",
+          "status": "uncertain",
+          "ocr_raw": "20 000 ≤ 50 000"
+        },
+        {
+          "label": "Minimum shading angle for first luminance band",
+          "value": 15.0,
+          "value_max": null,
+          "unit": "degrees",
+          "context": "Minimum shading angle γ associated with the 20,000–50,000 cd/m² band.",
+          "status": "uncertain",
+          "ocr_raw": "Minimum shading angle γ 15°"
+        },
+        {
+          "label": "Lamp luminance, second band",
+          "value": 50000.0,
+          "value_max": 500000.0,
+          "unit": "cd/m²",
+          "context": "Associated minimum shading angle: 20°.",
+          "status": "uncertain",
+          "ocr_raw": "50 000 ≤ 500 000"
+        },
+        {
+          "label": "Minimum shading angle for second luminance band",
+          "value": 20.0,
+          "value_max": null,
+          "unit": "degrees",
+          "context": "Minimum shading angle γ associated with the 50,000–500,000 cd/m² band.",
+          "status": "uncertain",
+          "ocr_raw": "Minimum shading angle γ 20°"
+        },
+        {
+          "label": "Lamp luminance, third band",
+          "value": 500000.0,
+          "value_max": null,
+          "unit": "cd/m²",
+          "context": "The table shows <500,000; no upper bound is printed.",
+          "status": "uncertain",
+          "ocr_raw": "<500 000"
+        },
+        {
+          "label": "Minimum shading angle for third luminance band",
+          "value": 30.0,
+          "value_max": null,
+          "unit": "degrees",
+          "context": "Minimum shading angle γ associated with the <500,000 cd/m² band in the table.",
+          "status": "uncertain",
+          "ocr_raw": "Minimum shading angle γ 30°"
+        },
+        {
+          "label": "Illustrated shading-angle examples",
+          "value": 15.0,
+          "value_max": 30.0,
+          "unit": "degrees",
+          "context": "The caption lists 15°, 20°, and 30° as examples; 20° is not represented as a separate range endpoint here.",
+          "status": "uncertain",
+          "ocr_raw": "Shading angle (γ = 15°/20°/30°)"
+        }
+      ],
+      "figure_refs": [
+        "10",
+        "15"
+      ],
+      "cross_refs": [],
+      "keywords": [
+        "shading angle",
+        "glare",
+        "lamp luminance"
+      ],
+      "tags_architectural": [
+        "safety"
+      ],
+      "confidence": 0.79
+    }
+  ]
+}

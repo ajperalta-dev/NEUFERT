@@ -1,0 +1,797 @@
+{
+  "fichas": [
+    {
+      "id": "4122fb96e4bd1976-346-vision-0",
+      "pdf_page": 346,
+      "book_page": 333,
+      "chapter": "SPORT AND LEISURE",
+      "section": "Sports Facilities",
+      "title": "Water Sport, Marinas: Boat Types",
+      "summary": "Overview of sailing-boat types and standardised racing classes. The page explains that harbour and waterway depth requirements depend on boat type, and illustrates boat profiles with length, beam and draught measurements. A table lists international and national sailing classes with crew, construction class, length/width, draught, sail area and sail markings.",
+      "building_type": "Marina and water-sport facilities",
+      "spaces": [
+        "Harbour",
+        "Marina",
+        "Watercourse"
+      ],
+      "uses": [
+        "Sailing and competitive regattas",
+        "Boat storage and harbour access",
+        "Motor boating"
+      ],
+      "furniture_equipment": [
+        "Dinghy",
+        "Open keelboat",
+        "Open catamaran",
+        "Keelboat cruiser",
+        "Keel cruiser",
+        "Bilgeboard cruiser",
+        "Inflatable boat",
+        "Motor cruiser",
+        "Classic boat",
+        "Motor yacht"
+      ],
+      "dimensions": [
+        {
+          "label": "Specified water depth for dinghies and centreboard boats",
+          "value": 1.25,
+          "value_max": null,
+          "unit": "m",
+          "context": "Harbours, marinas and watercourses; textual guidance",
+          "status": "uncertain",
+          "ocr_raw": "Usually specified are 1.25 m (dinghies, centreboard boats)"
+        },
+        {
+          "label": "Specified water depth for keelboats",
+          "value": 4.0,
+          "value_max": 5.0,
+          "unit": "m",
+          "context": "Harbours, marinas and watercourses; textual guidance",
+          "status": "uncertain",
+          "ocr_raw": "and 4-5 m (keelboats) depth of water."
+        },
+        {
+          "label": "Dinghy length",
+          "value": 4.0,
+          "value_max": 6.2,
+          "unit": "m",
+          "context": "Illustration 1, Dinghy",
+          "status": "uncertain",
+          "ocr_raw": "4.0–6.2 m"
+        },
+        {
+          "label": "Dinghy beam",
+          "value": 1.95,
+          "value_max": 2.0,
+          "unit": "m",
+          "context": "Illustration 1, cross-section",
+          "status": "uncertain",
+          "ocr_raw": "1.95–2.0 m"
+        },
+        {
+          "label": "Dinghy draught",
+          "value": 0.1,
+          "value_max": 1.25,
+          "unit": "m",
+          "context": "Illustration 1, cross-section; indicated as a vertical range",
+          "status": "uncertain",
+          "ocr_raw": "0.1–1.25"
+        },
+        {
+          "label": "Open keelboat length",
+          "value": 4.9,
+          "value_max": 9.5,
+          "unit": "m",
+          "context": "Illustration 2, Open keelboat",
+          "status": "uncertain",
+          "ocr_raw": "4.9–9.5 m"
+        },
+        {
+          "label": "Open keelboat beam",
+          "value": 1.7,
+          "value_max": 2.1,
+          "unit": "m",
+          "context": "Illustration 2, cross-section",
+          "status": "uncertain",
+          "ocr_raw": "1.7–2.1 m"
+        },
+        {
+          "label": "Open keelboat draught",
+          "value": 0.9,
+          "value_max": 1.35,
+          "unit": "m",
+          "context": "Illustration 2, cross-section",
+          "status": "uncertain",
+          "ocr_raw": "0.90–1.35"
+        },
+        {
+          "label": "Open catamaran length",
+          "value": 3.65,
+          "value_max": 6.1,
+          "unit": "m",
+          "context": "Illustration 3, Open catamaran",
+          "status": "uncertain",
+          "ocr_raw": "3.65–6.10"
+        },
+        {
+          "label": "Open catamaran beam",
+          "value": 1.55,
+          "value_max": 3.05,
+          "unit": "m",
+          "context": "Illustration 3, cross-section",
+          "status": "uncertain",
+          "ocr_raw": "1.55–3.05"
+        },
+        {
+          "label": "Keelboat cruiser length",
+          "value": 5.1,
+          "value_max": 10.25,
+          "unit": "m",
+          "context": "Illustration 4, Keelboat cruiser",
+          "status": "uncertain",
+          "ocr_raw": "5.1–10.25 m"
+        },
+        {
+          "label": "Keelboat cruiser beam",
+          "value": 2.0,
+          "value_max": 3.0,
+          "unit": "m",
+          "context": "Illustration 4, cross-section",
+          "status": "uncertain",
+          "ocr_raw": "2.0–3.0"
+        },
+        {
+          "label": "Keel cruiser length",
+          "value": 5.1,
+          "value_max": 10.25,
+          "unit": "m",
+          "context": "Illustration 5, Keel cruiser",
+          "status": "uncertain",
+          "ocr_raw": "5.1–10.25 m"
+        },
+        {
+          "label": "Keel cruiser beam",
+          "value": 2.0,
+          "value_max": 3.1,
+          "unit": "m",
+          "context": "Illustration 5, cross-section",
+          "status": "uncertain",
+          "ocr_raw": "2.0–3.1 m"
+        },
+        {
+          "label": "Bilgeboard cruiser length",
+          "value": 5.2,
+          "value_max": 9.0,
+          "unit": "m",
+          "context": "Illustration 6, Bilgeboard cruiser",
+          "status": "uncertain",
+          "ocr_raw": "5.2–9.0"
+        },
+        {
+          "label": "Bilgeboard cruiser beam",
+          "value": 2.0,
+          "value_max": 2.9,
+          "unit": "m",
+          "context": "Illustration 6, cross-section",
+          "status": "uncertain",
+          "ocr_raw": "2.0–2.9"
+        },
+        {
+          "label": "Inflatable boat length",
+          "value": 4.0,
+          "value_max": 6.0,
+          "unit": "m",
+          "context": "Illustration 7, Inflatable boat",
+          "status": "uncertain",
+          "ocr_raw": "4–6 m"
+        },
+        {
+          "label": "Inflatable boat beam",
+          "value": 2.5,
+          "value_max": null,
+          "unit": "m",
+          "context": "Illustration 7, cross-section",
+          "status": "uncertain",
+          "ocr_raw": "2.5 m"
+        },
+        {
+          "label": "Motor cruiser length",
+          "value": 5.0,
+          "value_max": 9.0,
+          "unit": "m",
+          "context": "Illustration 9, Motor cruiser",
+          "status": "uncertain",
+          "ocr_raw": "5–9 m"
+        },
+        {
+          "label": "Motor cruiser beam",
+          "value": 2.5,
+          "value_max": null,
+          "unit": "m",
+          "context": "Illustration 9, cross-section",
+          "status": "uncertain",
+          "ocr_raw": "2.5 m"
+        },
+        {
+          "label": "Classic boat length",
+          "value": 5.0,
+          "value_max": 9.0,
+          "unit": "m",
+          "context": "Illustration 10, Classic boat",
+          "status": "uncertain",
+          "ocr_raw": "5–9 m"
+        },
+        {
+          "label": "Classic boat beam",
+          "value": 2.5,
+          "value_max": null,
+          "unit": "m",
+          "context": "Illustration 10, cross-section",
+          "status": "uncertain",
+          "ocr_raw": "2.5 m"
+        },
+        {
+          "label": "Motor yacht length",
+          "value": 9.0,
+          "value_max": 15.0,
+          "unit": "m",
+          "context": "Illustration 11, Motor yacht",
+          "status": "uncertain",
+          "ocr_raw": "9–15 m"
+        },
+        {
+          "label": "Motor yacht beam",
+          "value": 4.0,
+          "value_max": 6.0,
+          "unit": "m",
+          "context": "Illustration 11, cross-section",
+          "status": "uncertain",
+          "ocr_raw": "4–6 m"
+        },
+        {
+          "label": "Finn dinghy length",
+          "value": 4.5,
+          "value_max": null,
+          "unit": "m",
+          "context": "International classes table; size length/width",
+          "status": "uncertain",
+          "ocr_raw": "4.50/1.51"
+        },
+        {
+          "label": "Finn dinghy width",
+          "value": 1.51,
+          "value_max": null,
+          "unit": "m",
+          "context": "International classes table; size length/width",
+          "status": "uncertain",
+          "ocr_raw": "4.50/1.51"
+        },
+        {
+          "label": "Finn dinghy draught",
+          "value": 0.85,
+          "value_max": null,
+          "unit": "m",
+          "context": "International classes table",
+          "status": "uncertain",
+          "ocr_raw": "0.85"
+        },
+        {
+          "label": "Flying Dutchman length",
+          "value": 6.05,
+          "value_max": null,
+          "unit": "m",
+          "context": "International classes table; size length/width",
+          "status": "uncertain",
+          "ocr_raw": "6.05/1.80"
+        },
+        {
+          "label": "Flying Dutchman width",
+          "value": 1.8,
+          "value_max": null,
+          "unit": "m",
+          "context": "International classes table; size length/width",
+          "status": "uncertain",
+          "ocr_raw": "6.05/1.80"
+        },
+        {
+          "label": "Flying Dutchman draught",
+          "value": 1.1,
+          "value_max": null,
+          "unit": "m",
+          "context": "International classes table",
+          "status": "uncertain",
+          "ocr_raw": "1.10"
+        },
+        {
+          "label": "Star length",
+          "value": 6.9,
+          "value_max": null,
+          "unit": "m",
+          "context": "International classes table; size length/width",
+          "status": "uncertain",
+          "ocr_raw": "6.90/1.70"
+        },
+        {
+          "label": "Star width",
+          "value": 1.7,
+          "value_max": null,
+          "unit": "m",
+          "context": "International classes table; size length/width",
+          "status": "uncertain",
+          "ocr_raw": "6.90/1.70"
+        },
+        {
+          "label": "Star draught",
+          "value": 1.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "International classes table",
+          "status": "uncertain",
+          "ocr_raw": "1.00"
+        },
+        {
+          "label": "Tempest length",
+          "value": 6.69,
+          "value_max": null,
+          "unit": "m",
+          "context": "International classes table; size length/width",
+          "status": "uncertain",
+          "ocr_raw": "6.69/2.00"
+        },
+        {
+          "label": "Tempest width",
+          "value": 2.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "International classes table; size length/width",
+          "status": "uncertain",
+          "ocr_raw": "6.69/2.00"
+        },
+        {
+          "label": "Tempest draught",
+          "value": 1.13,
+          "value_max": null,
+          "unit": "m",
+          "context": "International classes table",
+          "status": "uncertain",
+          "ocr_raw": "1.13"
+        },
+        {
+          "label": "Dragon length",
+          "value": 8.9,
+          "value_max": null,
+          "unit": "m",
+          "context": "International classes table; size length/width",
+          "status": "uncertain",
+          "ocr_raw": "8.90/1.90"
+        },
+        {
+          "label": "Dragon width",
+          "value": 1.9,
+          "value_max": null,
+          "unit": "m",
+          "context": "International classes table; size length/width",
+          "status": "uncertain",
+          "ocr_raw": "8.90/1.90"
+        },
+        {
+          "label": "Dragon draught",
+          "value": 1.2,
+          "value_max": null,
+          "unit": "m",
+          "context": "International classes table",
+          "status": "uncertain",
+          "ocr_raw": "1.20"
+        },
+        {
+          "label": "Soling length",
+          "value": 8.15,
+          "value_max": null,
+          "unit": "m",
+          "context": "International classes table; size length/width",
+          "status": "uncertain",
+          "ocr_raw": "8.15/1.90"
+        },
+        {
+          "label": "Soling width",
+          "value": 1.9,
+          "value_max": null,
+          "unit": "m",
+          "context": "International classes table; size length/width",
+          "status": "uncertain",
+          "ocr_raw": "8.15/1.90"
+        },
+        {
+          "label": "Soling draught",
+          "value": 1.3,
+          "value_max": null,
+          "unit": "m",
+          "context": "International classes table",
+          "status": "uncertain",
+          "ocr_raw": "1.30"
+        },
+        {
+          "label": "Tornado length",
+          "value": 6.25,
+          "value_max": null,
+          "unit": "m",
+          "context": "International classes table; size length/width",
+          "status": "uncertain",
+          "ocr_raw": "6.25/3.05"
+        },
+        {
+          "label": "Tornado width",
+          "value": 3.05,
+          "value_max": null,
+          "unit": "m",
+          "context": "International classes table; size length/width",
+          "status": "uncertain",
+          "ocr_raw": "6.25/3.05"
+        },
+        {
+          "label": "Tornado draught",
+          "value": 0.8,
+          "value_max": null,
+          "unit": "m",
+          "context": "International classes table",
+          "status": "uncertain",
+          "ocr_raw": "0.80"
+        },
+        {
+          "label": "470 length",
+          "value": 4.7,
+          "value_max": null,
+          "unit": "m",
+          "context": "International classes table; size length/width",
+          "status": "uncertain",
+          "ocr_raw": "4.70/1.58"
+        },
+        {
+          "label": "470 width",
+          "value": 1.58,
+          "value_max": null,
+          "unit": "m",
+          "context": "International classes table; size length/width",
+          "status": "uncertain",
+          "ocr_raw": "4.70/1.58"
+        },
+        {
+          "label": "470 draught",
+          "value": 1.05,
+          "value_max": null,
+          "unit": "m",
+          "context": "International classes table",
+          "status": "uncertain",
+          "ocr_raw": "1.05"
+        },
+        {
+          "label": "5.50-m yacht length",
+          "value": 9.5,
+          "value_max": null,
+          "unit": "m",
+          "context": "International classes table; size length/width",
+          "status": "uncertain",
+          "ocr_raw": "9.50/1.95"
+        },
+        {
+          "label": "5.50-m yacht width",
+          "value": 1.95,
+          "value_max": null,
+          "unit": "m",
+          "context": "International classes table; size length/width",
+          "status": "uncertain",
+          "ocr_raw": "9.50/1.95"
+        },
+        {
+          "label": "5.50-m yacht draught",
+          "value": 1.35,
+          "value_max": null,
+          "unit": "m",
+          "context": "International classes table",
+          "status": "uncertain",
+          "ocr_raw": "1.35"
+        },
+        {
+          "label": "Yngling length",
+          "value": 6.35,
+          "value_max": null,
+          "unit": "m",
+          "context": "International classes table; size length/width",
+          "status": "uncertain",
+          "ocr_raw": "6.35/1.75"
+        },
+        {
+          "label": "Yngling width",
+          "value": 1.75,
+          "value_max": null,
+          "unit": "m",
+          "context": "International classes table; size length/width",
+          "status": "uncertain",
+          "ocr_raw": "6.35/1.75"
+        },
+        {
+          "label": "Yngling draught",
+          "value": 1.05,
+          "value_max": null,
+          "unit": "m",
+          "context": "International classes table",
+          "status": "uncertain",
+          "ocr_raw": "1.05"
+        },
+        {
+          "label": "49er length",
+          "value": 4.99,
+          "value_max": null,
+          "unit": "m",
+          "context": "International classes table; size length/width",
+          "status": "uncertain",
+          "ocr_raw": "4.99/1.7(2.9)"
+        },
+        {
+          "label": "49er width",
+          "value": 1.7,
+          "value_max": null,
+          "unit": "m",
+          "context": "International classes table; OCR of width is unclear",
+          "status": "uncertain",
+          "ocr_raw": "4.99/1.7(2.9)"
+        },
+        {
+          "label": "49er draught",
+          "value": 1.5,
+          "value_max": null,
+          "unit": "m",
+          "context": "International classes table",
+          "status": "uncertain",
+          "ocr_raw": "1.50"
+        },
+        {
+          "label": "Pirate length",
+          "value": 5.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "International classes table; size length/width",
+          "status": "uncertain",
+          "ocr_raw": "5.00/1.62"
+        },
+        {
+          "label": "Pirate width",
+          "value": 1.62,
+          "value_max": null,
+          "unit": "m",
+          "context": "International classes table; size length/width",
+          "status": "uncertain",
+          "ocr_raw": "5.00/1.62"
+        },
+        {
+          "label": "Pirate draught",
+          "value": 0.85,
+          "value_max": null,
+          "unit": "m",
+          "context": "International classes table; printed with plus sign",
+          "status": "uncertain",
+          "ocr_raw": "0.85 +"
+        },
+        {
+          "label": "Optimist length",
+          "value": 2.3,
+          "value_max": null,
+          "unit": "m",
+          "context": "International classes table; size length/width",
+          "status": "uncertain",
+          "ocr_raw": "2.30/1.13"
+        },
+        {
+          "label": "Optimist width",
+          "value": 1.13,
+          "value_max": null,
+          "unit": "m",
+          "context": "International classes table; size length/width",
+          "status": "uncertain",
+          "ocr_raw": "2.30/1.13"
+        },
+        {
+          "label": "Optimist draught",
+          "value": 0.77,
+          "value_max": null,
+          "unit": "m",
+          "context": "International classes table; printed with plus sign",
+          "status": "uncertain",
+          "ocr_raw": "0.77 +"
+        },
+        {
+          "label": "Children and junior cadet length",
+          "value": 3.32,
+          "value_max": null,
+          "unit": "m",
+          "context": "International classes table; size length/width",
+          "status": "uncertain",
+          "ocr_raw": "3.32/1.27"
+        },
+        {
+          "label": "Children and junior cadet width",
+          "value": 1.27,
+          "value_max": null,
+          "unit": "m",
+          "context": "International classes table; size length/width",
+          "status": "uncertain",
+          "ocr_raw": "3.32/1.27"
+        },
+        {
+          "label": "Children and junior cadet draught",
+          "value": 0.74,
+          "value_max": null,
+          "unit": "m",
+          "context": "International classes table; printed with plus sign",
+          "status": "uncertain",
+          "ocr_raw": "0.74 +"
+        },
+        {
+          "label": "OK dinghy length",
+          "value": 4.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "International classes table; size length/width",
+          "status": "uncertain",
+          "ocr_raw": "4.00/1.42"
+        },
+        {
+          "label": "OK dinghy width",
+          "value": 1.42,
+          "value_max": null,
+          "unit": "m",
+          "context": "International classes table; size length/width",
+          "status": "uncertain",
+          "ocr_raw": "4.00/1.42"
+        },
+        {
+          "label": "OK dinghy draught",
+          "value": 0.95,
+          "value_max": null,
+          "unit": "m",
+          "context": "International classes table",
+          "status": "uncertain",
+          "ocr_raw": "0.95"
+        },
+        {
+          "label": "Olympia dinghy length",
+          "value": 5.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "International classes table; size length/width",
+          "status": "uncertain",
+          "ocr_raw": "5.00/1.66"
+        },
+        {
+          "label": "Olympia dinghy width",
+          "value": 1.66,
+          "value_max": null,
+          "unit": "m",
+          "context": "International classes table; size length/width",
+          "status": "uncertain",
+          "ocr_raw": "5.00/1.66"
+        },
+        {
+          "label": "Olympia dinghy draught",
+          "value": 1.06,
+          "value_max": null,
+          "unit": "m",
+          "context": "International classes table; printed with plus sign",
+          "status": "uncertain",
+          "ocr_raw": "1.06 +"
+        },
+        {
+          "label": "420 dinghy length",
+          "value": 4.2,
+          "value_max": null,
+          "unit": "m",
+          "context": "International classes table; size length/width",
+          "status": "uncertain",
+          "ocr_raw": "4.20/1.50"
+        },
+        {
+          "label": "420 dinghy width",
+          "value": 1.5,
+          "value_max": null,
+          "unit": "m",
+          "context": "International classes table; size length/width",
+          "status": "uncertain",
+          "ocr_raw": "4.20/1.50"
+        },
+        {
+          "label": "420 dinghy draught",
+          "value": 0.95,
+          "value_max": null,
+          "unit": "m",
+          "context": "International classes table; printed with plus sign",
+          "status": "uncertain",
+          "ocr_raw": "0.95 +"
+        },
+        {
+          "label": "15 m² Wanderjolle or H-boat length",
+          "value": 6.2,
+          "value_max": null,
+          "unit": "m",
+          "context": "National classes table; size length/width",
+          "status": "uncertain",
+          "ocr_raw": "6.20/1.70"
+        },
+        {
+          "label": "15 m² Wanderjolle or H-boat width",
+          "value": 1.7,
+          "value_max": null,
+          "unit": "m",
+          "context": "National classes table; size length/width",
+          "status": "uncertain",
+          "ocr_raw": "6.20/1.70"
+        },
+        {
+          "label": "15 m² dinghy cruiser length",
+          "value": 6.5,
+          "value_max": null,
+          "unit": "m",
+          "context": "National classes table; size length/width",
+          "status": "uncertain",
+          "ocr_raw": "6.50/1.85"
+        },
+        {
+          "label": "15 m² dinghy cruiser width",
+          "value": 1.85,
+          "value_max": null,
+          "unit": "m",
+          "context": "National classes table; size length/width",
+          "status": "uncertain",
+          "ocr_raw": "6.50/1.85"
+        },
+        {
+          "label": "20 m² dinghy cruiser length",
+          "value": 7.75,
+          "value_max": null,
+          "unit": "m",
+          "context": "National classes table; size length/width",
+          "status": "uncertain",
+          "ocr_raw": "7.75/2.15"
+        },
+        {
+          "label": "20 m² dinghy cruiser width",
+          "value": 2.15,
+          "value_max": null,
+          "unit": "m",
+          "context": "National classes table; size length/width",
+          "status": "uncertain",
+          "ocr_raw": "7.75/2.15"
+        }
+      ],
+      "figure_refs": [
+        "1 Dinghy",
+        "2 Open keelboat",
+        "3 Open catamaran",
+        "4 Keelboat cruiser",
+        "5 Keel cruiser",
+        "6 Bilgeboard cruiser",
+        "7 Inflatable boat",
+        "8 Examples of sailing boat classes and dimensions",
+        "9 Motor cruiser",
+        "10 Classic boat",
+        "11 Motor yacht"
+      ],
+      "cross_refs": [
+        "→ 8 Examples of sailing boat classes and dimensions"
+      ],
+      "keywords": [
+        "water sport",
+        "marinas",
+        "boat types",
+        "sailing boats",
+        "harbour depth",
+        "sailing classes",
+        "draught",
+        "sail area"
+      ],
+      "tags_architectural": [
+        "safety"
+      ],
+      "confidence": 0.82
+    }
+  ]
+}

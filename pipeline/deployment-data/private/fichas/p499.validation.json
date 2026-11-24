@@ -1,0 +1,306 @@
+{
+  "model": "gpt-6-luna",
+  "checks": {
+    "checks": [
+      {
+        "ficha_index": 0,
+        "dimension_index": 0,
+        "status": "verified",
+        "value": 30.0,
+        "value_max": null,
+        "reason": "Figure 9 caption explicitly states a spark gap of 30 mm."
+      },
+      {
+        "ficha_index": 1,
+        "dimension_index": 0,
+        "status": "verified",
+        "value": 30.0,
+        "value_max": null,
+        "reason": "Text explicitly prints galvanised steel strip dimensions 30 \u00d7 3.5 mm."
+      },
+      {
+        "ficha_index": 1,
+        "dimension_index": 1,
+        "status": "verified",
+        "value": 3.5,
+        "value_max": null,
+        "reason": "Text explicitly prints galvanised steel strip dimensions 30 \u00d7 3.5 mm."
+      },
+      {
+        "ficha_index": 1,
+        "dimension_index": 2,
+        "status": "verified",
+        "value": 25.0,
+        "value_max": null,
+        "reason": "Text explicitly prints galvanised steel strip dimensions 25 \u00d7 4.0 mm."
+      },
+      {
+        "ficha_index": 1,
+        "dimension_index": 3,
+        "status": "verified",
+        "value": 4.0,
+        "value_max": null,
+        "reason": "Text explicitly prints galvanised steel strip dimensions 25 \u00d7 4.0 mm."
+      },
+      {
+        "ficha_index": 1,
+        "dimension_index": 4,
+        "status": "verified",
+        "value": 10.0,
+        "value_max": null,
+        "reason": "Text explicitly states round steel diameter = 10 mm."
+      },
+      {
+        "ficha_index": 1,
+        "dimension_index": 5,
+        "status": "verified",
+        "value": 6.0,
+        "value_max": null,
+        "reason": "Text explicitly states rods driven more than 6 m are described as buried."
+      },
+      {
+        "ficha_index": 2,
+        "dimension_index": 0,
+        "status": "verified",
+        "value": 12.0,
+        "value_max": null,
+        "reason": "Table tape-length row, in metres, gives 12 for marshy soil."
+      },
+      {
+        "ficha_index": 2,
+        "dimension_index": 1,
+        "status": "verified",
+        "value": 40.0,
+        "value_max": null,
+        "reason": "Table tape-length row, in metres, gives 40 for loam, clay, stable soil."
+      },
+      {
+        "ficha_index": 2,
+        "dimension_index": 2,
+        "status": "verified",
+        "value": 80.0,
+        "value_max": null,
+        "reason": "Table tape-length row, in metres, gives 80 for damp sand."
+      },
+      {
+        "ficha_index": 2,
+        "dimension_index": 3,
+        "status": "verified",
+        "value": 200.0,
+        "value_max": null,
+        "reason": "Table tape-length row, in metres, gives 200 for damp gravel."
+      },
+      {
+        "ficha_index": 2,
+        "dimension_index": 4,
+        "status": "verified",
+        "value": 400.0,
+        "value_max": null,
+        "reason": "Table tape-length row, in metres, gives 400 for dry sand and gravel."
+      },
+      {
+        "ficha_index": 2,
+        "dimension_index": 5,
+        "status": "verified",
+        "value": 1200.0,
+        "value_max": null,
+        "reason": "Table tape-length row, in metres, gives 1200 for stony ground."
+      },
+      {
+        "ficha_index": 2,
+        "dimension_index": 6,
+        "status": "verified",
+        "value": 6.0,
+        "value_max": null,
+        "reason": "Table rod-depth row for 5 \u03a9, in metres, gives 6 for marshy soil."
+      },
+      {
+        "ficha_index": 2,
+        "dimension_index": 7,
+        "status": "verified",
+        "value": 20.0,
+        "value_max": null,
+        "reason": "Table rod-depth row for 5 \u03a9, in metres, gives 20 for loam, clay, stable soil."
+      },
+      {
+        "ficha_index": 2,
+        "dimension_index": 8,
+        "status": "verified",
+        "value": 40.0,
+        "value_max": null,
+        "reason": "Table rod-depth row for 5 \u03a9, in metres, gives 40 for damp sand."
+      },
+      {
+        "ficha_index": 2,
+        "dimension_index": 9,
+        "status": "verified",
+        "value": 100.0,
+        "value_max": null,
+        "reason": "Table rod-depth row for 5 \u03a9, in metres, gives 100 for damp gravel."
+      },
+      {
+        "ficha_index": 2,
+        "dimension_index": 10,
+        "status": "verified",
+        "value": 200.0,
+        "value_max": null,
+        "reason": "Table rod-depth row for 5 \u03a9, in metres, gives 200 for dry sand and gravel."
+      },
+      {
+        "ficha_index": 2,
+        "dimension_index": 11,
+        "status": "verified",
+        "value": 600.0,
+        "value_max": null,
+        "reason": "Table rod-depth row for 5 \u03a9, in metres, gives 600 for stony ground."
+      },
+      {
+        "ficha_index": 3,
+        "dimension_index": 0,
+        "status": "uncertain",
+        "value": 1.5,
+        "value_max": null,
+        "reason": "The figure shows \u22651.50, but no unit is visibly printed with this annotation."
+      },
+      {
+        "ficha_index": 3,
+        "dimension_index": 1,
+        "status": "uncertain",
+        "value": 5.0,
+        "value_max": null,
+        "reason": "The figure shows \u22655, but no unit is visibly printed with this annotation."
+      }
+    ]
+  },
+  "automatic": [
+    {
+      "ficha_index": 0,
+      "dimension_index": 0,
+      "issues": []
+    },
+    {
+      "ficha_index": 1,
+      "dimension_index": 0,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 1,
+      "dimension_index": 1,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 1,
+      "dimension_index": 2,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 1,
+      "dimension_index": 3,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 1,
+      "dimension_index": 4,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 1,
+      "dimension_index": 5,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 2,
+      "dimension_index": 0,
+      "issues": []
+    },
+    {
+      "ficha_index": 2,
+      "dimension_index": 1,
+      "issues": []
+    },
+    {
+      "ficha_index": 2,
+      "dimension_index": 2,
+      "issues": []
+    },
+    {
+      "ficha_index": 2,
+      "dimension_index": 3,
+      "issues": []
+    },
+    {
+      "ficha_index": 2,
+      "dimension_index": 4,
+      "issues": []
+    },
+    {
+      "ficha_index": 2,
+      "dimension_index": 5,
+      "issues": [
+        "Plausibility limit; visual review required"
+      ]
+    },
+    {
+      "ficha_index": 2,
+      "dimension_index": 6,
+      "issues": []
+    },
+    {
+      "ficha_index": 2,
+      "dimension_index": 7,
+      "issues": []
+    },
+    {
+      "ficha_index": 2,
+      "dimension_index": 8,
+      "issues": []
+    },
+    {
+      "ficha_index": 2,
+      "dimension_index": 9,
+      "issues": []
+    },
+    {
+      "ficha_index": 2,
+      "dimension_index": 10,
+      "issues": []
+    },
+    {
+      "ficha_index": 2,
+      "dimension_index": 11,
+      "issues": []
+    },
+    {
+      "ficha_index": 3,
+      "dimension_index": 0,
+      "issues": []
+    },
+    {
+      "ficha_index": 3,
+      "dimension_index": 1,
+      "issues": []
+    }
+  ],
+  "usage": [
+    {
+      "prompt_tokens": 4651,
+      "completion_tokens": 2175
+    },
+    {
+      "prompt_tokens": 5746,
+      "completion_tokens": 1172
+    }
+  ]
+}

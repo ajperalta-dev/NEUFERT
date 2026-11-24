@@ -1,0 +1,195 @@
+{
+  "fichas": [
+    {
+      "id": "4122fb96e4bd1976-87-vision-0",
+      "pdf_page": 87,
+      "book_page": 74,
+      "chapter": "BUILDING COMPONENTS",
+      "section": "Walls",
+      "title": "Natural Stone Masonry",
+      "summary": "Natural stone walling is categorized as rubble, cyclopean, coursed, ashlar, or composite masonry. The page describes stone cleavage, block proportions, bonding and jointing requirements, mortar, composite construction, cladding, and reference strength values for stone masonry.",
+      "building_type": "Wall construction",
+      "spaces": [],
+      "uses": [
+        "Load-bearing stone wall construction",
+        "Non-load-bearing stone cladding"
+      ],
+      "furniture_equipment": [],
+      "dimensions": [
+        {
+          "label": "Block length to block height",
+          "value": 4.0,
+          "value_max": 5.0,
+          "unit": "ratio",
+          "context": "Block length should not exceed four to five times the block height; it should not be less than the height.",
+          "status": "uncertain",
+          "ocr_raw": "The block length should not be more than four to five times the block height and should not be less than the height"
+        },
+        {
+          "label": "Minimum block length to block height",
+          "value": 1.0,
+          "value_max": null,
+          "unit": "ratio",
+          "context": "Block length should not be less than the block height.",
+          "status": "uncertain",
+          "ocr_raw": "should not be less than the height"
+        },
+        {
+          "label": "Course leveling interval",
+          "value": 1.5,
+          "value_max": null,
+          "unit": "m",
+          "context": "A course should be brought flat and level at intervals no greater than 1.5 m.",
+          "status": "uncertain",
+          "ocr_raw": "a course should be brought flat and level every ≤1.5 m"
+        },
+        {
+          "label": "Minimum header depth to course height",
+          "value": 1.5,
+          "value_max": null,
+          "unit": "ratio",
+          "context": "Header depth into the wall must be at least 1½ times the course height.",
+          "status": "uncertain",
+          "ocr_raw": "The depth (into the wall) of the headers must be at least 1½ times the course height"
+        },
+        {
+          "label": "Minimum header depth",
+          "value": 30.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Header depth into the wall must be at least 30 cm.",
+          "status": "uncertain",
+          "ocr_raw": "but at least 30 cm"
+        },
+        {
+          "label": "Stretcher depth to course height",
+          "value": 1.0,
+          "value_max": null,
+          "unit": "ratio",
+          "context": "Stretcher depth into the wall should be about equal to the course height.",
+          "status": "uncertain",
+          "ocr_raw": "The depth (into the wall) of the stretchers must be about equal to the course height."
+        },
+        {
+          "label": "Minimum vertical-joint cover in coursed masonry",
+          "value": 10.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Vertical joints must be covered by at least 10 cm in coursed masonry.",
+          "status": "uncertain",
+          "ocr_raw": "The vertical joints must be covered by ≥10 cm in coursed masonry"
+        },
+        {
+          "label": "Minimum vertical-joint cover in ashlar masonry",
+          "value": 15.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Vertical joints must be covered by at least 15 cm in ashlar masonry.",
+          "status": "uncertain",
+          "ocr_raw": "and ≥15 cm in ashlar masonry"
+        },
+        {
+          "label": "Joint thickness",
+          "value": 3.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Approximate joint thickness, depending on roughness and working method.",
+          "status": "uncertain",
+          "ocr_raw": "The joints should be about 3 cm thick"
+        },
+        {
+          "label": "Stone cladding thickness",
+          "value": 2.5,
+          "value_max": 5.0,
+          "unit": "cm",
+          "context": "Thickness of non-load-bearing stone cladding fixed to a backing wall with anchors.",
+          "status": "uncertain",
+          "ocr_raw": "Non-load-bearing stone cladding of 2.5–5 cm thickness is fixed to the backing wall with anchors"
+        },
+        {
+          "label": "Minimum compressive strength of limestone, travertine, and volcanic tuff",
+          "value": 20.0,
+          "value_max": null,
+          "unit": "N/mm²",
+          "context": "Minimum compressive strength of building stone listed for limestone, travertine, and volcanic tuff.",
+          "status": "uncertain",
+          "ocr_raw": "limestone, travertine, volcanic tuff 20"
+        },
+        {
+          "label": "Minimum compressive strength of weak sandstone and similar stone",
+          "value": 30.0,
+          "value_max": null,
+          "unit": "N/mm²",
+          "context": "Weak sandstone with clay binder and similar stone.",
+          "status": "uncertain",
+          "ocr_raw": "weak sandstone (with clay binder) and similar 30"
+        },
+        {
+          "label": "Minimum compressive strength of dense limestone, dolomite, basalt lava, and similar stone",
+          "value": 50.0,
+          "value_max": null,
+          "unit": "N/mm²",
+          "context": "Dense (strong) limestone and dolomite (including marble), basalt lava, and similar stone.",
+          "status": "uncertain",
+          "ocr_raw": "dense (strong) limestone and dolomite (incl. marble), basalt lava and similar 50"
+        },
+        {
+          "label": "Minimum compressive strength of quartzitic sandstone, graywacke, and similar stone",
+          "value": 80.0,
+          "value_max": null,
+          "unit": "N/mm²",
+          "context": "Quartzitic sandstone with siliceous binder, graywacke, and similar stone.",
+          "status": "uncertain",
+          "ocr_raw": "quartzitic sandstone (with siliceous binder), graywacke and similar 80"
+        },
+        {
+          "label": "Minimum compressive strength of granite and similar stone",
+          "value": 120.0,
+          "value_max": null,
+          "unit": "N/mm²",
+          "context": "Granite, syenite, diorite, quartz porphyry, black porphyry, diabase, and similar stone.",
+          "status": "uncertain",
+          "ocr_raw": "granite, syenite, diorite, quartz porphyry, black porphyry, diabase and similar 120"
+        }
+      ],
+      "figure_refs": [
+        "1 Dry stone walling / section",
+        "2 Cyclopean masonry of volcanic stone",
+        "3 Rubble masonry",
+        "4 Rubble masonry squared with a hammer into courses",
+        "5 Irregularly coursed masonry",
+        "6 Regularly coursed masonry",
+        "7 Ashlar masonry",
+        "8 Composite masonry",
+        "9 Composite masonry showing the structurally effective section",
+        "10 Stone cladding without structural contribution",
+        "11 Minimum compressive strengths of building stone",
+        "12 Basic values of the permissible compressive stresses for natural stone masonry with normal mortar",
+        "13 Guideline values for the grading of natural stone masonry"
+      ],
+      "cross_refs": [
+        "BS EN 771-6",
+        "BS EN 1745",
+        "BS EN 1996",
+        "DIN 1053"
+      ],
+      "keywords": [
+        "natural stone",
+        "masonry",
+        "rubble masonry",
+        "cyclopean masonry",
+        "coursed masonry",
+        "ashlar masonry",
+        "composite masonry",
+        "stone cladding",
+        "mortar",
+        "compressive strength"
+      ],
+      "tags_architectural": [
+        "safety",
+        "modularity"
+      ],
+      "confidence": 0.91
+    }
+  ]
+}

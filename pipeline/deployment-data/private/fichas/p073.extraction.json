@@ -1,0 +1,346 @@
+{
+  "fichas": [
+    {
+      "id": "4122fb96e4bd1976-73-vision-0",
+      "pdf_page": 73,
+      "book_page": 60,
+      "chapter": "DESIGN PROCESS",
+      "section": "Design and Construction Management",
+      "title": "Detailed design (HOAI work phase 5)",
+      "summary": "Describes the basic and special services for detailed design, including completing the design for construction, producing working drawings and coordinating specialist contributions. The phase also covers continued detailed design during construction.",
+      "building_type": "Building design and construction management",
+      "spaces": [],
+      "uses": [
+        "Complete the design for construction",
+        "Prepare working drawings, details, and construction drawings",
+        "Coordinate specialist contributions",
+        "Continue detailed design during construction"
+      ],
+      "furniture_equipment": [],
+      "dimensions": [
+        {
+          "label": "Room detail drawing scale",
+          "value": 1.0,
+          "value_max": null,
+          "unit": "scale ratio",
+          "context": "Detailed drawings of room extensions; printed scale 1:25 to 1:1.",
+          "status": "uncertain",
+          "ocr_raw": "scale 1:25 to 1:1"
+        },
+        {
+          "label": "Room detail drawing scale",
+          "value": 1.0,
+          "value_max": null,
+          "unit": "scale ratio",
+          "context": "Detailed drawings of rooms and sequence of rooms; printed scale 1:25 to 1:1.",
+          "status": "uncertain",
+          "ocr_raw": "scale 1:25 to 1:1"
+        }
+      ],
+      "figure_refs": [
+        "1 Dimensioned drawing for construction, scale 1:50 (reduced excerpt)",
+        "2 Detail drawing of cellar light shaft, scale 1:20 (reduced)",
+        "3 Room schedule (short form): A2 room description"
+      ],
+      "cross_refs": [
+        "HOAI, work phase 5 → refs",
+        "see also: HOAI p. 57"
+      ],
+      "keywords": [
+        "detailed design",
+        "working drawings",
+        "specialist coordination",
+        "performance specification",
+        "HOAI"
+      ],
+      "tags_architectural": [],
+      "confidence": 0.99
+    },
+    {
+      "id": "4122fb96e4bd1976-73-vision-1",
+      "pdf_page": 73,
+      "book_page": 60,
+      "chapter": "DESIGN PROCESS",
+      "section": "Design and Construction Management",
+      "title": "Means and instruments for construction design",
+      "summary": "Explains construction drawings, detailed drawings, special drawings, and room schedules. Construction drawings show construction details and dimensions; detailed drawings supplement them for selected building sections. Room schedules record dimensions, materials, and equipment, and can support performance specifications and project administration.",
+      "building_type": "Building design documentation",
+      "spaces": [
+        "Building sections",
+        "Rooms or parts of buildings"
+      ],
+      "uses": [
+        "Document construction details and dimensions",
+        "Supplement construction drawings for selected sections",
+        "Record room dimensions, materials, and equipment",
+        "Support tendering, contract award, and invoicing"
+      ],
+      "furniture_equipment": [
+        "Heating installations",
+        "Sanitary installations",
+        "Ventilation installations",
+        "Electrical installations"
+      ],
+      "dimensions": [
+        {
+          "label": "Construction drawing scale",
+          "value": 1.0,
+          "value_max": null,
+          "unit": "scale ratio",
+          "context": "Construction drawings; printed scale 1:50.",
+          "status": "uncertain",
+          "ocr_raw": "scale 1:50"
+        },
+        {
+          "label": "Detailed drawing scale",
+          "value": 1.0,
+          "value_max": null,
+          "unit": "scale ratio",
+          "context": "Detailed drawings supplement construction drawings for certain sections; printed scales 1:20/10/5/1.",
+          "status": "uncertain",
+          "ocr_raw": "scale 1:20/10/5/1"
+        },
+        {
+          "label": "Special drawing scale",
+          "value": 1.0,
+          "value_max": null,
+          "unit": "scale ratio",
+          "context": "Specialist-area drawings; printed scale 1:50, depending on subject.",
+          "status": "uncertain",
+          "ocr_raw": "scale 1:50, depending on subject"
+        }
+      ],
+      "figure_refs": [
+        "1 Dimensioned drawing for construction, scale 1:50 (reduced excerpt)",
+        "2 Detail drawing of cellar light shaft, scale 1:20 (reduced)",
+        "3 Room schedule (short form): A2 room description"
+      ],
+      "cross_refs": [
+        "Detailed design, HOAI work phase 5"
+      ],
+      "keywords": [
+        "construction drawings",
+        "detailed drawings",
+        "special drawings",
+        "room schedules",
+        "building documentation"
+      ],
+      "tags_architectural": [],
+      "confidence": 0.99
+    },
+    {
+      "id": "4122fb96e4bd1976-73-vision-2",
+      "pdf_page": 73,
+      "book_page": 60,
+      "chapter": "DESIGN PROCESS",
+      "section": "Design and Construction Management",
+      "title": "Example short-form room schedule",
+      "summary": "The example room schedule lists room use, area, height, and volume, alongside service connections, environmental values, and remarks. It includes a hall, bathroom/WC, kitchen, loggia, living/dining room, and service room.",
+      "building_type": "Residential building",
+      "spaces": [
+        "Hall",
+        "Bathroom/WC",
+        "Kitchen",
+        "Loggia",
+        "Living/dining room",
+        "Service room"
+      ],
+      "uses": [
+        "Record room use and dimensions",
+        "List heating, ventilation, sanitary, electrical, communications, and transport provisions",
+        "Record temperature, ventilation rate, lighting, and remarks"
+      ],
+      "furniture_equipment": [
+        "Central heating",
+        "Mechanical ventilation",
+        "Bathtub",
+        "Washbasin",
+        "Sink",
+        "WC",
+        "Ceiling light",
+        "Power socket",
+        "Telephone socket",
+        "Entry phone"
+      ],
+      "dimensions": [
+        {
+          "label": "Area",
+          "value": 6.92,
+          "value_max": null,
+          "unit": "m²",
+          "context": "Room W 104, hall; room schedule area.",
+          "status": "uncertain",
+          "ocr_raw": "6.92"
+        },
+        {
+          "label": "Height",
+          "value": 2.47,
+          "value_max": null,
+          "unit": "m",
+          "context": "Room W 104, hall; room schedule height.",
+          "status": "uncertain",
+          "ocr_raw": "2.47"
+        },
+        {
+          "label": "Volume",
+          "value": 14.87,
+          "value_max": null,
+          "unit": "m³",
+          "context": "Room W 104, hall; room schedule volume.",
+          "status": "uncertain",
+          "ocr_raw": "14.87"
+        },
+        {
+          "label": "Area",
+          "value": 3.47,
+          "value_max": null,
+          "unit": "m²",
+          "context": "Room W 204, bathroom/WC; room schedule area.",
+          "status": "uncertain",
+          "ocr_raw": "3.47"
+        },
+        {
+          "label": "Height",
+          "value": 2.475,
+          "value_max": null,
+          "unit": "m",
+          "context": "Room W 204, bathroom/WC; room schedule height.",
+          "status": "uncertain",
+          "ocr_raw": "2.475"
+        },
+        {
+          "label": "Volume",
+          "value": 8.588,
+          "value_max": null,
+          "unit": "m³",
+          "context": "Room W 204, bathroom/WC; room schedule volume.",
+          "status": "uncertain",
+          "ocr_raw": "8.588"
+        },
+        {
+          "label": "Area",
+          "value": 6.09,
+          "value_max": null,
+          "unit": "m²",
+          "context": "Room W 304, kitchen; room schedule area.",
+          "status": "uncertain",
+          "ocr_raw": "6.09"
+        },
+        {
+          "label": "Height",
+          "value": 2.47,
+          "value_max": null,
+          "unit": "m",
+          "context": "Room W 304, kitchen; room schedule height.",
+          "status": "uncertain",
+          "ocr_raw": "2.47"
+        },
+        {
+          "label": "Volume",
+          "value": 15.04,
+          "value_max": null,
+          "unit": "m³",
+          "context": "Room W 304, kitchen; room schedule volume.",
+          "status": "uncertain",
+          "ocr_raw": "15.04"
+        },
+        {
+          "label": "Area",
+          "value": 1.69,
+          "value_max": null,
+          "unit": "m²",
+          "context": "Room W 404, loggia; room schedule area.",
+          "status": "uncertain",
+          "ocr_raw": "1.69"
+        },
+        {
+          "label": "Height",
+          "value": 2.363,
+          "value_max": null,
+          "unit": "m",
+          "context": "Room W 404, loggia; room schedule height.",
+          "status": "uncertain",
+          "ocr_raw": "2.363"
+        },
+        {
+          "label": "Volume",
+          "value": 4.0,
+          "value_max": null,
+          "unit": "m³",
+          "context": "Room W 404, loggia; room schedule volume.",
+          "status": "uncertain",
+          "ocr_raw": "4.000"
+        },
+        {
+          "label": "Area",
+          "value": 19.77,
+          "value_max": null,
+          "unit": "m²",
+          "context": "Room W 504, living/dining room; room schedule area.",
+          "status": "uncertain",
+          "ocr_raw": "19.77"
+        },
+        {
+          "label": "Height",
+          "value": 2.47,
+          "value_max": null,
+          "unit": "m",
+          "context": "Room W 504, living/dining room; room schedule height.",
+          "status": "uncertain",
+          "ocr_raw": "2.47"
+        },
+        {
+          "label": "Volume",
+          "value": 48.63,
+          "value_max": null,
+          "unit": "m³",
+          "context": "Room W 504, living/dining room; room schedule volume.",
+          "status": "uncertain",
+          "ocr_raw": "48.63"
+        },
+        {
+          "label": "Area",
+          "value": 0.36,
+          "value_max": null,
+          "unit": "m²",
+          "context": "Room W 604, service room; room schedule area.",
+          "status": "uncertain",
+          "ocr_raw": "0.36"
+        },
+        {
+          "label": "Height",
+          "value": 2.475,
+          "value_max": null,
+          "unit": "m",
+          "context": "Room W 604, service room; room schedule height.",
+          "status": "uncertain",
+          "ocr_raw": "2.475"
+        },
+        {
+          "label": "Volume",
+          "value": 0.891,
+          "value_max": null,
+          "unit": "m³",
+          "context": "Room W 604, service room; room schedule volume.",
+          "status": "uncertain",
+          "ocr_raw": "0.891"
+        }
+      ],
+      "figure_refs": [
+        "3 Room schedule (short form): A2 room description"
+      ],
+      "cross_refs": [
+        "Means / instruments for construction design — Room schedules"
+      ],
+      "keywords": [
+        "room schedule",
+        "room area",
+        "room height",
+        "room volume",
+        "service connections"
+      ],
+      "tags_architectural": [],
+      "confidence": 0.96
+    }
+  ]
+}

@@ -1,0 +1,479 @@
+{
+  "fichas": [
+    {
+      "id": "4122fb96e4bd1976-207-vision-0",
+      "pdf_page": 207,
+      "book_page": 194,
+      "chapter": "EDUCATION AND RESEARCH",
+      "section": "Schools",
+      "title": "School circulation, escape routes, doors, and stairs",
+      "summary": "Guidance for school circulation and emergency escape routes specifies minimum widths, route lengths, door-opening behavior, stair geometry, and ramp gradient. Horizontal and vertical access routes normally also serve as emergency escape routes.",
+      "building_type": "School",
+      "spaces": [
+        "Corridors",
+        "Classroom areas",
+        "Stairs",
+        "Escape routes",
+        "Ramps"
+      ],
+      "uses": [
+        "Everyday circulation",
+        "Emergency escape"
+      ],
+      "furniture_equipment": [
+        "Doors",
+        "Handrails"
+      ],
+      "dimensions": [
+        {
+          "label": "Minimum escape-route clear width per stated occupant load",
+          "value": 1.0,
+          "value_max": null,
+          "unit": "m per 150 people",
+          "context": "Minimum clear width for escape routes; the text separately states a minimum width of 1.00 m.",
+          "status": "uncertain",
+          "ocr_raw": "min. 1.00 m/150 people"
+        },
+        {
+          "label": "Minimum corridor width in classroom areas",
+          "value": 2.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Classroom-area corridors; an alternative of 1.25 m is stated for up to 180 people.",
+          "status": "uncertain",
+          "ocr_raw": "min. width of corridors in classroom areas is 2.00 m, or 1.25 m with up to 180 people."
+        },
+        {
+          "label": "Alternative corridor width for stated occupant load",
+          "value": 1.25,
+          "value_max": null,
+          "unit": "m",
+          "context": "Classroom-area corridors with up to 180 people.",
+          "status": "uncertain",
+          "ocr_raw": "1.25 m with up to 180 people"
+        },
+        {
+          "label": "Occupant-load limit for alternative corridor width",
+          "value": 180.0,
+          "value_max": null,
+          "unit": "people",
+          "context": "Classroom-area corridor width of 1.25 m.",
+          "status": "uncertain",
+          "ocr_raw": "1.25 m with up to 180 people"
+        },
+        {
+          "label": "Stair width in classroom areas",
+          "value": 1.25,
+          "value_max": null,
+          "unit": "m",
+          "context": "Stairs in classroom areas used as escape routes.",
+          "status": "uncertain",
+          "ocr_raw": "Stairs in classroom areas must be 1.25 m wide"
+        },
+        {
+          "label": "Width of other escape routes",
+          "value": 1.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Escape routes other than stairs in classroom areas.",
+          "status": "uncertain",
+          "ocr_raw": "other escape routes 1.00 m wide"
+        },
+        {
+          "label": "Maximum escape-route length, straight line",
+          "value": 25.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Measured in a straight line from the stairwell door to the farthest workplace.",
+          "status": "uncertain",
+          "ocr_raw": "25 m measured in a straight line from the stairwell door to the farthest work place"
+        },
+        {
+          "label": "Maximum escape-route length, indirect line",
+          "value": 30.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Measured in an indirect line to the centre of the room.",
+          "status": "uncertain",
+          "ocr_raw": "30 m in an indirect line to the centre of the room"
+        },
+        {
+          "label": "Stair width per stated occupant load",
+          "value": 0.8,
+          "value_max": null,
+          "unit": "m per 100 people",
+          "context": "Example stair capacity; minimum width 1.25 m and maximum width 2.50 m are also stated.",
+          "status": "uncertain",
+          "ocr_raw": "stair width: 0.80 m for each 100 people"
+        },
+        {
+          "label": "Minimum stair width in capacity example",
+          "value": 1.25,
+          "value_max": null,
+          "unit": "m",
+          "context": "Stair-width example based on users and average occupancy.",
+          "status": "uncertain",
+          "ocr_raw": "min. 1.25 m"
+        },
+        {
+          "label": "Maximum stair width in capacity example",
+          "value": 2.5,
+          "value_max": null,
+          "unit": "m",
+          "context": "Stair-width example based on users and average occupancy.",
+          "status": "uncertain",
+          "ocr_raw": "but not wider than 2.50 m"
+        },
+        {
+          "label": "Maximum projection of outward-opening door into escape route",
+          "value": 20.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Outward-opening doors must not endanger pupils and may project no more than this into the escape route.",
+          "status": "uncertain",
+          "ocr_raw": "project max. 20 cm into the escape route."
+        },
+        {
+          "label": "Pupil count requiring doors to open in escape direction",
+          "value": 40.0,
+          "value_max": null,
+          "unit": "pupils",
+          "context": "Doors from rooms with more than this number of pupils, or rooms with increased fire risk, must open in the direction of escape.",
+          "status": "uncertain",
+          "ocr_raw": "Doors from rooms with more than 40 pupils or increased fire risk"
+        },
+        {
+          "label": "Stair pace formula riser multiplier",
+          "value": 2.0,
+          "value_max": null,
+          "unit": "risers",
+          "context": "Stair pitch based on length of pace: two risers plus one tread.",
+          "status": "uncertain",
+          "ocr_raw": "2 riser + tread= 59-65 cm"
+        },
+        {
+          "label": "Stair pace length",
+          "value": 59.0,
+          "value_max": 65.0,
+          "unit": "cm",
+          "context": "Length-of-pace relationship for stair pitch, expressed as two risers plus one tread.",
+          "status": "uncertain",
+          "ocr_raw": "2 riser + tread= 59-65 cm"
+        },
+        {
+          "label": "Maximum ramp gradient",
+          "value": 6.0,
+          "value_max": null,
+          "unit": "%",
+          "context": "Ramp gradient; OCR shows a less-than-or-equal symbol.",
+          "status": "uncertain",
+          "ocr_raw": "Ramps ≤6% gradient."
+        }
+      ],
+      "figure_refs": [
+        "1 Doors",
+        "2 Corridors, min. escape route width",
+        "3 Pitch of stairs",
+        "4 Stairs as escape route (according to school building guidelines)"
+      ],
+      "cross_refs": [
+        "→ 1",
+        "→ 2",
+        "→ 3",
+        "→ 4"
+      ],
+      "keywords": [
+        "school circulation",
+        "escape routes",
+        "corridors",
+        "doors",
+        "stairs",
+        "ramps",
+        "fire safety"
+      ],
+      "tags_architectural": [
+        "circulation",
+        "clearance",
+        "safety",
+        "accessibility"
+      ],
+      "confidence": 0.98
+    },
+    {
+      "id": "4122fb96e4bd1976-207-vision-1",
+      "pdf_page": 207,
+      "book_page": 194,
+      "chapter": "EDUCATION AND RESEARCH",
+      "section": "Schools",
+      "title": "School sanitary facilities",
+      "summary": "The page gives example WC accommodation for pupils and staff, a Saxony guideline table for fixture numbers, and recommendations for the location, access, separation, lighting, and ventilation of school toilets.",
+      "building_type": "School",
+      "spaces": [
+        "Class WCs",
+        "Lesson-time WCs",
+        "Break-time WCs",
+        "Teacher WCs",
+        "Toilet lobbies",
+        "Washbasin areas"
+      ],
+      "uses": [
+        "Student sanitary facilities during lessons and breaks",
+        "Teacher sanitary facilities",
+        "Separate access for girls and boys"
+      ],
+      "furniture_equipment": [
+        "WCs",
+        "Urinals",
+        "Washbasins"
+      ],
+      "dimensions": [
+        {
+          "label": "Lesson-time WC area for approximately 100 boys",
+          "value": 15.0,
+          "value_max": null,
+          "unit": "m²",
+          "context": "Example provision for approximately 100 boys.",
+          "status": "uncertain",
+          "ocr_raw": "Lesson-time WC facilities, e.g. for approx. 100 boys, approx. 15 m2"
+        },
+        {
+          "label": "Lesson-time WC area for approximately 100 girls",
+          "value": 15.0,
+          "value_max": null,
+          "unit": "m²",
+          "context": "Example provision for approximately 100 girls.",
+          "status": "uncertain",
+          "ocr_raw": "e.g. for approx. 100 girls, approx. 15 m2"
+        },
+        {
+          "label": "Break-time WC area for approximately 250 girls",
+          "value": 40.0,
+          "value_max": null,
+          "unit": "m²",
+          "context": "Single-row break-time facilities.",
+          "status": "uncertain",
+          "ocr_raw": "facilities for approx. 250 girls, approx. 40 m2"
+        },
+        {
+          "label": "Break-time WC area for approximately 250 boys",
+          "value": 40.0,
+          "value_max": null,
+          "unit": "m²",
+          "context": "Single-row break-time facilities.",
+          "status": "uncertain",
+          "ocr_raw": "for approx. 250 boys, approx. 40 m2"
+        },
+        {
+          "label": "Teacher WC area for approximately 30 teachers",
+          "value": 15.0,
+          "value_max": null,
+          "unit": "m²",
+          "context": "Example teacher WC provision.",
+          "status": "uncertain",
+          "ocr_raw": "Teacher WC facilities, e.g. for approx. 30 teachers, approx. 15 m2"
+        },
+        {
+          "label": "Teacher WC area for approximately 20 women teachers",
+          "value": 10.0,
+          "value_max": null,
+          "unit": "m²",
+          "context": "Example provision for women teachers.",
+          "status": "uncertain",
+          "ocr_raw": "e.g. for approx. 20 women teachers, approx. 10 m2"
+        },
+        {
+          "label": "Break-time WC area for approximately 500 girls",
+          "value": 65.0,
+          "value_max": null,
+          "unit": "m²",
+          "context": "Two-row break-time facilities.",
+          "status": "uncertain",
+          "ocr_raw": "facilities for approx. 500 girls, approx. 65 m2"
+        },
+        {
+          "label": "Break-time WC area for approximately 500 boys",
+          "value": 40.0,
+          "value_max": null,
+          "unit": "m²",
+          "context": "Two-row break-time facilities.",
+          "status": "uncertain",
+          "ocr_raw": "for approx. 500 boys, approx. 40 m2"
+        },
+        {
+          "label": "Boys in sanitary-facility guideline example",
+          "value": 40.0,
+          "value_max": null,
+          "unit": "boys",
+          "context": "Guideline table lists 1 WC and 2 urinals.",
+          "status": "uncertain",
+          "ocr_raw": "40 boys"
+        },
+        {
+          "label": "Girls in sanitary-facility guideline example",
+          "value": 20.0,
+          "value_max": null,
+          "unit": "girls",
+          "context": "Guideline table lists 1 WC and no urinals (shown as a dash).",
+          "status": "uncertain",
+          "ocr_raw": "20 girls"
+        },
+        {
+          "label": "Teachers in sanitary-facility guideline example",
+          "value": 15.0,
+          "value_max": null,
+          "unit": "teachers",
+          "context": "Guideline table lists 1 WC and 1 urinal.",
+          "status": "uncertain",
+          "ocr_raw": "15 teachers"
+        },
+        {
+          "label": "Women teachers in sanitary-facility guideline example",
+          "value": 10.0,
+          "value_max": null,
+          "unit": "women teachers",
+          "context": "Guideline table lists 1 WC and no urinals (shown as a dash).",
+          "status": "uncertain",
+          "ocr_raw": "10 women teachers"
+        },
+        {
+          "label": "WCs for each stated group in guideline table",
+          "value": 1.0,
+          "value_max": null,
+          "unit": "WC",
+          "context": "The table lists one WC for each of the four user groups: 40 boys, 20 girls, 15 teachers, and 10 women teachers.",
+          "status": "uncertain",
+          "ocr_raw": "WC"
+        },
+        {
+          "label": "Urinals for 40 boys in guideline table",
+          "value": 2.0,
+          "value_max": null,
+          "unit": "urinals",
+          "context": "Guideline table entry for 40 boys.",
+          "status": "uncertain",
+          "ocr_raw": "40 boys 1 2"
+        },
+        {
+          "label": "Urinals for 15 teachers in guideline table",
+          "value": 1.0,
+          "value_max": null,
+          "unit": "urinal",
+          "context": "Guideline table entry for 15 teachers.",
+          "status": "uncertain",
+          "ocr_raw": "15 teachers 1 1"
+        },
+        {
+          "label": "Washbasins per boys' WC",
+          "value": 1.0,
+          "value_max": null,
+          "unit": "washbasin per WC",
+          "context": "One washbasin is provided for every boys' WC.",
+          "status": "uncertain",
+          "ocr_raw": "One washbasin is provided for every boys' WC"
+        },
+        {
+          "label": "Washbasins per girls' WCs",
+          "value": 1.0,
+          "value_max": null,
+          "unit": "washbasin per 2 WCs",
+          "context": "One washbasin is provided for every two girls' WCs.",
+          "status": "uncertain",
+          "ocr_raw": "or for every two girls' WCs."
+        },
+        {
+          "label": "Maximum distance from classroom to lesson WC",
+          "value": 40.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Each classroom without a WC should be no more than this distance from a lesson WC; stair access is included in the note.",
+          "status": "uncertain",
+          "ocr_raw": "each classroom without WC should be max. 40 m distance (incl. stairs) from lesson WC"
+        }
+      ],
+      "figure_refs": [
+        "5 Lesson-time WC facilities",
+        "6 Break-time WC facilities, e.g. single-row",
+        "7 Break-time WC facilities, e.g. two-row",
+        "8 Teacher WC facilities",
+        "9 Women teachers' WC facilities",
+        "10 Break-time WC facilities, e.g. two-row",
+        "11 Guideline for number of sanitary facilities",
+        "12 Recommended WC facilities"
+      ],
+      "cross_refs": [
+        "Sanitary facilities → 5–12",
+        "school building guidelines → 11",
+        "Recommended WC facilities → 12"
+      ],
+      "keywords": [
+        "school toilets",
+        "sanitary facilities",
+        "WCs",
+        "urinals",
+        "washbasins",
+        "toilet access",
+        "ventilation"
+      ],
+      "tags_architectural": [
+        "accessibility",
+        "ventilation",
+        "daylighting"
+      ],
+      "confidence": 0.96
+    },
+    {
+      "id": "4122fb96e4bd1976-207-vision-2",
+      "pdf_page": 207,
+      "book_page": 194,
+      "chapter": "EDUCATION AND RESEARCH",
+      "section": "Schools",
+      "title": "School break and communal areas",
+      "summary": "Enclosed break areas are sized by a per-pupil space guideline and should support school events. Dining and multi-purpose rooms, or a roofed connection to a sports hall, may also serve as break areas. Larger schools should provide a communal area for events and celebrations, potentially by temporarily connecting rooms and circulation areas.",
+      "building_type": "School",
+      "spaces": [
+        "Enclosed break areas",
+        "Dining rooms",
+        "Multi-purpose rooms",
+        "Covered sports areas",
+        "Communal areas",
+        "Circulation areas"
+      ],
+      "uses": [
+        "Pupil breaks",
+        "School events and celebrations",
+        "Dining",
+        "Multi-purpose activities"
+      ],
+      "furniture_equipment": [],
+      "dimensions": [
+        {
+          "label": "Enclosed break-area space per pupil",
+          "value": 0.4,
+          "value_max": 0.5,
+          "unit": "m²/pupil",
+          "context": "Space guideline for enclosed break areas.",
+          "status": "uncertain",
+          "ocr_raw": "0.4-0.5 m2/pupil."
+        }
+      ],
+      "figure_refs": [],
+      "cross_refs": [
+        "Saxony → refs"
+      ],
+      "keywords": [
+        "break areas",
+        "communal area",
+        "school events",
+        "dining",
+        "multi-purpose rooms",
+        "covered sports area"
+      ],
+      "tags_architectural": [
+        "adaptability",
+        "spatial_proportion",
+        "circulation"
+      ],
+      "confidence": 0.97
+    }
+  ]
+}

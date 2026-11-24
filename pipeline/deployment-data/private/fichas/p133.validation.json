@@ -1,0 +1,432 @@
+{
+  "model": "gpt-6-luna",
+  "checks": {
+    "checks": [
+      {
+        "ficha_index": 0,
+        "dimension_index": 0,
+        "status": "verified",
+        "value": null,
+        "value_max": null,
+        "reason": "Figure 1 visibly labels the stride 62.5 cm."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 1,
+        "status": "uncertain",
+        "value": null,
+        "value_max": null,
+        "reason": "Figure 2 prints the slope range 1:10\u20131:8, but the proposed ratio fields do not clearly encode that range."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 2,
+        "status": "uncertain",
+        "value": null,
+        "value_max": null,
+        "reason": "Figure 2 prints the slope range 1:10\u20131:8, but the proposed ratio fields do not clearly encode that range."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 3,
+        "status": "uncertain",
+        "value": null,
+        "value_max": null,
+        "reason": "Figure 3 prints 17/29; the proposed value 17 does not encode the full ratio."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 4,
+        "status": "uncertain",
+        "value": null,
+        "value_max": null,
+        "reason": "Figure 5 prints 17/29; the proposed value 17 does not encode the full ratio."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 5,
+        "status": "verified",
+        "value": null,
+        "value_max": null,
+        "reason": "Figure 5 visibly states a maximum of 18 steps before a landing."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 6,
+        "status": "verified",
+        "value": null,
+        "value_max": null,
+        "reason": "Figure 5 visibly states a 4 m storey height without a landing."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 7,
+        "status": "verified",
+        "value": null,
+        "value_max": null,
+        "reason": "Figure 3 labels the handrail height as at least 90 cm."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 8,
+        "status": "uncertain",
+        "value": null,
+        "value_max": null,
+        "reason": "The diagrams visibly show \u22652.0, but do not print a unit for this clearance."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 9,
+        "status": "uncertain",
+        "value": null,
+        "value_max": null,
+        "reason": "Figure 3 visibly shows \u22651.0, but does not print a unit for this clearance."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 10,
+        "status": "verified",
+        "value": null,
+        "value_max": null,
+        "reason": "Figure 10 labels the winding-stair walking-line distance as 35\u201340 cm."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 11,
+        "status": "verified",
+        "value": null,
+        "value_max": null,
+        "reason": "Figure 11 labels the straight-stair walking-line distance as 55 cm."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 12,
+        "status": "uncertain",
+        "value": null,
+        "value_max": null,
+        "reason": "Figure 13 prints 1.875 for the width for three people but does not show a unit."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 13,
+        "status": "verified",
+        "value": null,
+        "value_max": null,
+        "reason": "The text visibly states a minimum usable stair width of 0.80 m."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 14,
+        "status": "uncertain",
+        "value": null,
+        "value_max": null,
+        "reason": "The text prints the complete ratio 17/28; the proposed value 17 does not encode its denominator."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 15,
+        "status": "verified",
+        "value": null,
+        "value_max": null,
+        "reason": "The text visibly gives 0.50 m for stairs not legally essential."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 16,
+        "status": "verified",
+        "value": null,
+        "value_max": null,
+        "reason": "The text visibly gives 1.00 m for legally essential stairs."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 17,
+        "status": "verified",
+        "value": null,
+        "value_max": null,
+        "reason": "The text visibly gives 1.25 m for high-rise flats."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 18,
+        "status": "verified",
+        "value": null,
+        "value_max": null,
+        "reason": "The text visibly specifies runs of \u22653 and \u226418 steps."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 19,
+        "status": "verified",
+        "value": null,
+        "value_max": null,
+        "reason": "The text visibly gives the example landing length as 92 cm."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 20,
+        "status": "verified",
+        "value": null,
+        "value_max": null,
+        "reason": "The text visibly gives the example landing length as 1.55 m."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 21,
+        "status": "uncertain",
+        "value": null,
+        "value_max": null,
+        "reason": "Figure 16 prints \u226580 cm, while the proposed unit is m; the value and unit do not visibly agree as entered."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 22,
+        "status": "uncertain",
+        "value": null,
+        "value_max": null,
+        "reason": "Figure 16 prints \u226580 cm, while the proposed unit is m; the value and unit do not visibly agree as entered."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 23,
+        "status": "verified",
+        "value": null,
+        "value_max": null,
+        "reason": "Figure 16 visibly prints \u22651.25 m for high-rise flats."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 24,
+        "status": "verified",
+        "value": null,
+        "value_max": null,
+        "reason": "Figure 16 visibly prints \u22651.0 m."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 25,
+        "status": "verified",
+        "value": null,
+        "value_max": null,
+        "reason": "Figure 15 visibly states that a central handrail is required when stair width is greater than 4 m."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 26,
+        "status": "uncertain",
+        "value": null,
+        "value_max": null,
+        "reason": "Figure 6 prints a rise of less than 1:4; the proposed fields do not clearly encode this threshold as a ratio."
+      }
+    ]
+  },
+  "automatic": [
+    {
+      "ficha_index": 0,
+      "dimension_index": 0,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 1,
+      "issues": [
+        "Unknown unit",
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 2,
+      "issues": [
+        "Unknown unit",
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 3,
+      "issues": [
+        "Unknown unit",
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 4,
+      "issues": [
+        "Unknown unit",
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 5,
+      "issues": [
+        "Unknown unit",
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 6,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 7,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 8,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 9,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 10,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 11,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 12,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 13,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 14,
+      "issues": [
+        "Unknown unit",
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 15,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 16,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 17,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 18,
+      "issues": [
+        "Unknown unit",
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 19,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 20,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 21,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 22,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 23,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 24,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 25,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 26,
+      "issues": [
+        "Unknown unit",
+        "Mixed length units; check figure units"
+      ]
+    }
+  ],
+  "usage": [
+    {
+      "prompt_tokens": 4720,
+      "completion_tokens": 2278
+    },
+    {
+      "prompt_tokens": 5943,
+      "completion_tokens": 1851
+    }
+  ]
+}

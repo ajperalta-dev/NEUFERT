@@ -1,0 +1,614 @@
+{
+  "fichas": [
+    {
+      "id": "4122fb96e4bd1976-423-vision-0",
+      "pdf_page": 423,
+      "book_page": 410,
+      "chapter": "TRANSPORT",
+      "section": "Railways",
+      "title": "Standard-gauge railway structure gauging and clearances",
+      "summary": "Illustrates standard clearance profiles for main-line passenger tracks and other tracks, including low-level clearances. The profiles distinguish clearance zones for different track situations and identify corners that must be radiused.",
+      "building_type": "Railway infrastructure",
+      "spaces": [
+        "Rail tracks",
+        "Railway structures",
+        "Passenger platforms"
+      ],
+      "uses": [
+        "Set structure-gauging and clearance envelopes around standard-gauge tracks",
+        "Keep the indicated side spaces free"
+      ],
+      "furniture_equipment": [],
+      "dimensions": [
+        {
+          "label": "Track gauge",
+          "value": 1435.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Standard-gauge railway profile; central track gauge shown as 1435 mm.",
+          "status": "uncertain",
+          "ocr_raw": "1435 + 1435"
+        },
+        {
+          "label": "Profile width",
+          "value": 1600.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Main-line passenger profile; half-width dimension on each side of the centreline.",
+          "status": "uncertain",
+          "ocr_raw": "1600"
+        },
+        {
+          "label": "Profile height",
+          "value": 4800.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Overall vertical dimension shown for the main-line profile.",
+          "status": "uncertain",
+          "ocr_raw": "4800"
+        },
+        {
+          "label": "Profile height",
+          "value": 3800.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Vertical dimension shown within the main-line profile.",
+          "status": "uncertain",
+          "ocr_raw": "3800"
+        },
+        {
+          "label": "Profile height",
+          "value": 3050.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Vertical dimension shown within the main-line profile.",
+          "status": "uncertain",
+          "ocr_raw": "3050"
+        },
+        {
+          "label": "Clearance a",
+          "value": 150.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "For immovable objects not firmly connected to the rail; minimum clearance.",
+          "status": "uncertain",
+          "ocr_raw": "a ≥ 150mm for immovable objects which are not firmly connected to the rail"
+        },
+        {
+          "label": "Clearance a",
+          "value": 135.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "For immovable objects firmly connected to the rail; minimum clearance.",
+          "status": "uncertain",
+          "ocr_raw": "a ≥ 135mm for immovable objects which are firmly connected to the rail"
+        },
+        {
+          "label": "Clearance b",
+          "value": 41.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Devices guiding the wheel on the inside of the front surface; minimum clearance.",
+          "status": "uncertain",
+          "ocr_raw": "b = 41 mm for devices guiding the wheel on the inside of the front surface"
+        },
+        {
+          "label": "Clearance b",
+          "value": 45.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Level crossings; minimum clearance.",
+          "status": "uncertain",
+          "ocr_raw": "b ≥ 45mm for level crossings"
+        },
+        {
+          "label": "Clearance b",
+          "value": 70.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "All other cases; minimum clearance.",
+          "status": "uncertain",
+          "ocr_raw": "b ≥ 70mm for all other cases"
+        },
+        {
+          "label": "Curve radius threshold",
+          "value": 250.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Standard clearance profiles apply to straight track plus curves with radii at least this value.",
+          "status": "uncertain",
+          "ocr_raw": "Standard clearance profiles (straight track plus curves with radii ≥250 m)"
+        }
+      ],
+      "figure_refs": [
+        "1 Standard clearance profiles",
+        "2 Standard structure gauging and clearances at low level"
+      ],
+      "cross_refs": [],
+      "keywords": [
+        "standard gauge",
+        "railway clearance",
+        "structure gauging",
+        "track profile",
+        "curve radius"
+      ],
+      "tags_architectural": [
+        "safety",
+        "clearance",
+        "circulation"
+      ],
+      "confidence": 0.91
+    },
+    {
+      "id": "4122fb96e4bd1976-423-vision-1",
+      "pdf_page": 423,
+      "book_page": 410,
+      "chapter": "TRANSPORT",
+      "section": "Railways",
+      "title": "Additional standard-gauge clearance for curves",
+      "summary": "A table specifies necessary increases to standard clearance on the inside and outside of curves with radii below 250 m. The increases differ by curve radius and curve side.",
+      "building_type": "Railway infrastructure",
+      "spaces": [
+        "Rail tracks",
+        "Curved track sections"
+      ],
+      "uses": [
+        "Determine additional structure clearance on curves"
+      ],
+      "furniture_equipment": [],
+      "dimensions": [
+        {
+          "label": "Inside-curve clearance increase",
+          "value": 0.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Curve radius 250 m.",
+          "status": "uncertain",
+          "ocr_raw": "250 0 0"
+        },
+        {
+          "label": "Outside-curve clearance increase",
+          "value": 0.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Curve radius 250 m.",
+          "status": "uncertain",
+          "ocr_raw": "250 0 0"
+        },
+        {
+          "label": "Inside-curve clearance increase",
+          "value": 25.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Curve radius 225 m.",
+          "status": "uncertain",
+          "ocr_raw": "225 25 30"
+        },
+        {
+          "label": "Outside-curve clearance increase",
+          "value": 30.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Curve radius 225 m.",
+          "status": "uncertain",
+          "ocr_raw": "225 25 30"
+        },
+        {
+          "label": "Inside-curve clearance increase",
+          "value": 50.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Curve radius 200 m.",
+          "status": "uncertain",
+          "ocr_raw": "200 50 65"
+        },
+        {
+          "label": "Outside-curve clearance increase",
+          "value": 65.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Curve radius 200 m.",
+          "status": "uncertain",
+          "ocr_raw": "200 50 65"
+        },
+        {
+          "label": "Inside-curve clearance increase",
+          "value": 65.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Curve radius 190 m.",
+          "status": "uncertain",
+          "ocr_raw": "190 65 80"
+        },
+        {
+          "label": "Outside-curve clearance increase",
+          "value": 80.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Curve radius 190 m.",
+          "status": "uncertain",
+          "ocr_raw": "190 65 80"
+        },
+        {
+          "label": "Inside-curve clearance increase",
+          "value": 80.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Curve radius 180 m.",
+          "status": "uncertain",
+          "ocr_raw": "180 80 100"
+        },
+        {
+          "label": "Outside-curve clearance increase",
+          "value": 100.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Curve radius 180 m.",
+          "status": "uncertain",
+          "ocr_raw": "180 80 100"
+        },
+        {
+          "label": "Inside-curve clearance increase",
+          "value": 135.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Curve radius 150 m.",
+          "status": "uncertain",
+          "ocr_raw": "150 135 170"
+        },
+        {
+          "label": "Outside-curve clearance increase",
+          "value": 170.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Curve radius 150 m.",
+          "status": "uncertain",
+          "ocr_raw": "150 135 170"
+        },
+        {
+          "label": "Inside-curve clearance increase",
+          "value": 335.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Curve radius 120 m.",
+          "status": "uncertain",
+          "ocr_raw": "120 335 365"
+        },
+        {
+          "label": "Outside-curve clearance increase",
+          "value": 365.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Curve radius 120 m.",
+          "status": "uncertain",
+          "ocr_raw": "120 335 365"
+        },
+        {
+          "label": "Inside-curve clearance increase",
+          "value": 530.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Curve radius 100 m.",
+          "status": "uncertain",
+          "ocr_raw": "100, .530 570"
+        },
+        {
+          "label": "Outside-curve clearance increase",
+          "value": 570.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Curve radius 100 m.",
+          "status": "uncertain",
+          "ocr_raw": "100, .530 570"
+        }
+      ],
+      "figure_refs": [
+        "3 Necessary increase in the standard clearance for curves with radii <250 m"
+      ],
+      "cross_refs": [],
+      "keywords": [
+        "curve radius",
+        "clearance increase",
+        "railway curves"
+      ],
+      "tags_architectural": [
+        "clearance",
+        "safety"
+      ],
+      "confidence": 0.87
+    },
+    {
+      "id": "4122fb96e4bd1976-423-vision-2",
+      "pdf_page": 423,
+      "book_page": 410,
+      "chapter": "TRANSPORT",
+      "section": "Railways",
+      "title": "Clearance limits for overhead conductor wire",
+      "summary": "Shows the upper clearance limit for stretches with overhead conductor wire and gives half-width dimensions by half the curve radius. It also lists minimum clearance heights beneath structures by structure type.",
+      "building_type": "Railway infrastructure",
+      "spaces": [
+        "Electrified railway tracks",
+        "Tunnels",
+        "Railway structures"
+      ],
+      "uses": [
+        "Set clearance envelopes for electrified railways",
+        "Provide minimum clearance beneath structures"
+      ],
+      "furniture_equipment": [],
+      "dimensions": [
+        {
+          "label": "Overhead-wire voltage",
+          "value": 15.0,
+          "value_max": null,
+          "unit": "kV",
+          "context": "Overhead conductor wire clearance profile.",
+          "status": "uncertain",
+          "ocr_raw": "Top limit of clearance for stretches with overhead conductor wire (15kV)"
+        },
+        {
+          "label": "Half-width a",
+          "value": 1445.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Half the curve radius up to 250 m.",
+          "status": "uncertain",
+          "ocr_raw": "up to 250 1445"
+        },
+        {
+          "label": "Half-width a",
+          "value": 1455.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Half the curve radius 225 m.",
+          "status": "uncertain",
+          "ocr_raw": "225 1455"
+        },
+        {
+          "label": "Half-width a",
+          "value": 1465.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Half the curve radius 200 m.",
+          "status": "uncertain",
+          "ocr_raw": "200 1465"
+        },
+        {
+          "label": "Half-width a",
+          "value": 1475.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Half the curve radius 180 m.",
+          "status": "uncertain",
+          "ocr_raw": "180 1475"
+        },
+        {
+          "label": "Half-width a",
+          "value": 1495.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Half the curve radius 150 m.",
+          "status": "uncertain",
+          "ocr_raw": "150 1495"
+        },
+        {
+          "label": "Half-width a",
+          "value": 1525.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Half the curve radius 120 m.",
+          "status": "uncertain",
+          "ocr_raw": "120 1525"
+        },
+        {
+          "label": "Half-width a",
+          "value": 1555.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Half the curve radius 100 m.",
+          "status": "uncertain",
+          "ocr_raw": "100 1555"
+        },
+        {
+          "label": "Minimum clearance height",
+          "value": 5500.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Heavy superstructures up to 15 m wide and in tunnels.",
+          "status": "uncertain",
+          "ocr_raw": "heavy superstructures up to 15 m wide and in tunnels 5500 mm"
+        },
+        {
+          "label": "Minimum clearance height",
+          "value": 6000.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Heavy superstructures over 15 m wide.",
+          "status": "uncertain",
+          "ocr_raw": "heavy superstructures over 15 m wide 6000 mm"
+        },
+        {
+          "label": "Minimum clearance height",
+          "value": 6000.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Light superstructures, such as footbridges and sheds including doors.",
+          "status": "uncertain",
+          "ocr_raw": "light superstructures, such as footbridges, sheds including doors 6000mm"
+        },
+        {
+          "label": "Minimum clearance height",
+          "value": 6300.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Signal gantries and brackets.",
+          "status": "uncertain",
+          "ocr_raw": "signal gantries and brackets 6300 mm"
+        }
+      ],
+      "figure_refs": [
+        "4 Top limit of clearance for stretches with overhead conductor wire",
+        "5 Dimensions for half the width of the upper limit of the clearance",
+        "6 Minimum clearance under structures"
+      ],
+      "cross_refs": [],
+      "keywords": [
+        "overhead conductor wire",
+        "electrification",
+        "clearance height",
+        "tunnel"
+      ],
+      "tags_architectural": [
+        "safety",
+        "clearance"
+      ],
+      "confidence": 0.9
+    },
+    {
+      "id": "4122fb96e4bd1976-423-vision-3",
+      "pdf_page": 423,
+      "book_page": 410,
+      "chapter": "TRANSPORT",
+      "section": "Railways",
+      "title": "Narrow-gauge railway clearances",
+      "summary": "Shows standard clearance profiles for straight narrow-gauge tracks of 1.00 m and 0.75 m gauge, plus low-level gauging details. Notes European standard dimensions and clearances for doorways, tunnels, buildings, and platform access.",
+      "building_type": "Railway infrastructure",
+      "spaces": [
+        "Narrow-gauge tracks",
+        "Railway tunnels",
+        "Railway entrance doorways",
+        "Platforms",
+        "Pedestrian bridges",
+        "Pedestrian tunnels"
+      ],
+      "uses": [
+        "Provide clearance envelopes for narrow-gauge railway tracks",
+        "Separate buildings and combustible storage from railway land",
+        "Provide passenger access to platforms without crossing tracks"
+      ],
+      "furniture_equipment": [
+        "Platform access stairs"
+      ],
+      "dimensions": [
+        {
+          "label": "Track gauge",
+          "value": 1.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Narrow-gauge railway profile.",
+          "status": "uncertain",
+          "ocr_raw": "gauge = 1.00m"
+        },
+        {
+          "label": "Track gauge",
+          "value": 0.75,
+          "value_max": null,
+          "unit": "m",
+          "context": "Narrow-gauge railway profile.",
+          "status": "uncertain",
+          "ocr_raw": "gauge = 0.75m"
+        },
+        {
+          "label": "Clear doorway width",
+          "value": 3.35,
+          "value_max": null,
+          "unit": "m",
+          "context": "Entrance doorways; minimum clear width indicated.",
+          "status": "uncertain",
+          "ocr_raw": "For entrance doorways the clear width should be ≥3.35m"
+        },
+        {
+          "label": "Clear doorway width",
+          "value": 4.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Entrance doorways in new structures; minimum clear width indicated.",
+          "status": "uncertain",
+          "ocr_raw": "for new structures ≥4.00 m."
+        },
+        {
+          "label": "Additional tunnel wall clearance",
+          "value": 0.4,
+          "value_max": null,
+          "unit": "m",
+          "context": "Beyond the train's kinematic-envelope clearance to the wall on a single-track stretch.",
+          "status": "uncertain",
+          "ocr_raw": "for a single-track stretch of line is 0.40 m"
+        },
+        {
+          "label": "Additional tunnel wall clearance",
+          "value": 30.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Beyond the train's kinematic-envelope clearance to the wall on a double-track stretch.",
+          "status": "uncertain",
+          "ocr_raw": "for a double-track stretch of line it is 30 cm."
+        },
+        {
+          "label": "Building setback from railway land",
+          "value": 7.5,
+          "value_max": null,
+          "unit": "m",
+          "context": "Typical example for a fire-resistant structure with suitable cladding.",
+          "status": "uncertain",
+          "ocr_raw": "a fire resistant structure with suitable cladding must be separated by ≥7.50 m from railway land"
+        },
+        {
+          "label": "Building setback from railway land",
+          "value": 15.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Typical example for soft-covered structures that are not fire resistant; also applies to structures storing combustible materials.",
+          "status": "uncertain",
+          "ocr_raw": "the corresponding distance for soft covered structures that are not fire resistant is ≥15 m"
+        },
+        {
+          "label": "Platform height",
+          "value": 0.38,
+          "value_max": null,
+          "unit": "m",
+          "context": "Platform heights vary by country and can be as small as this value.",
+          "status": "uncertain",
+          "ocr_raw": "Platform heights vary from country to country, and can be as small as 0.38 m."
+        },
+        {
+          "label": "Pedestrian tunnel or bridge width",
+          "value": 2.5,
+          "value_max": 4.0,
+          "unit": "m",
+          "context": "Width range stated for tunnels or bridges providing platform access.",
+          "status": "uncertain",
+          "ocr_raw": "which should have a width of 2.5–4.0 m."
+        },
+        {
+          "label": "Pedestrian tunnel or bridge width",
+          "value": 4.0,
+          "value_max": 8.0,
+          "unit": "m",
+          "context": "Desirable width when circulation is in both directions.",
+          "status": "uncertain",
+          "ocr_raw": "If there is circulation in both directions, 4.00–8.00 m is desirable."
+        }
+      ],
+      "figure_refs": [
+        "7 Standard clearance profiles, straight line track",
+        "8 Standard structure gauging and clearances at low level"
+      ],
+      "cross_refs": [],
+      "keywords": [
+        "narrow gauge",
+        "railway",
+        "platform access",
+        "tunnel clearance",
+        "building setback"
+      ],
+      "tags_architectural": [
+        "accessibility",
+        "circulation",
+        "safety",
+        "clearance"
+      ],
+      "confidence": 0.93
+    }
+  ]
+}

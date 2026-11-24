@@ -1,0 +1,216 @@
+{
+  "fichas": [
+    {
+      "id": "4122fb96e4bd1976-269-vision-0",
+      "pdf_page": 269,
+      "book_page": 256,
+      "chapter": "RETAIL",
+      "section": "Retail Outlets",
+      "title": "Retail Outlet Entrances",
+      "summary": "Guidance describes entrance door widths and clear opening height for retail outlets of different sales areas, alongside illustrated entrance configurations and door types.",
+      "building_type": "Retail outlet",
+      "spaces": [
+        "Retail entrance"
+      ],
+      "uses": [
+        "Provide access to retail sales outlets",
+        "Accommodate accessible entry to larger outlets"
+      ],
+      "furniture_equipment": [
+        "Opening or revolving door",
+        "Sliding door",
+        "Revolving door with side doors",
+        "Folding door"
+      ],
+      "dimensions": [
+        {
+          "label": "Door width for outlets under 2000 m²",
+          "value": 1.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "The text states that door widths can be greater than this for sales outlets under 2000 m².",
+          "status": "uncertain",
+          "ocr_raw": "<2000 m2 the door widths can be >1.00 m"
+        },
+        {
+          "label": "Clear opening width for outlets over 2000 m²",
+          "value": 2.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "The text states that the clear opening width must be greater than this; the sliding-door diagram also marks a central opening of ≥ 2.00.",
+          "status": "uncertain",
+          "ocr_raw": "to those >2000 m2 they must be disability-friendly and have automatic doors. According to the retail regulations, the clear opening width must be >2.00 m"
+        },
+        {
+          "label": "Clear opening height",
+          "value": 2.2,
+          "value_max": null,
+          "unit": "m",
+          "context": "Minimum clear opening height stated for regulated retail entrances; also given in the opening/revolving-door figure caption.",
+          "status": "uncertain",
+          "ocr_raw": "clear opening height of 2.20 m; and the clear height >2.20 m"
+        },
+        {
+          "label": "Side width shown in sliding-door diagram",
+          "value": 1.1,
+          "value_max": null,
+          "unit": "m",
+          "context": "Dimension on each side of the ≥ 2.00 central opening in the sliding-door diagram.",
+          "status": "uncertain",
+          "ocr_raw": "1.10 ≥ 2.00 1.10"
+        }
+      ],
+      "figure_refs": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10"
+      ],
+      "cross_refs": [
+        "2"
+      ],
+      "keywords": [
+        "retail entrance",
+        "door width",
+        "clear opening",
+        "automatic doors",
+        "sliding door",
+        "revolving door",
+        "entrance layout"
+      ],
+      "tags_architectural": [
+        "accessibility",
+        "circulation",
+        "clearance",
+        "safety"
+      ],
+      "confidence": 0.91
+    },
+    {
+      "id": "4122fb96e4bd1976-269-vision-1",
+      "pdf_page": 269,
+      "book_page": 256,
+      "chapter": "RETAIL",
+      "section": "Retail Outlets",
+      "title": "Retail Shop Windows",
+      "summary": "Shop windows present merchandise and invite customers to purchase. Their design depends on the goods and should complement the entrance layout, form, and size. The page distinguishes display-area windows, which separate merchandise from the sales area, from windows that provide a view into the shop; both have illustrated variants.",
+      "building_type": "Retail outlet",
+      "spaces": [
+        "Shop window",
+        "Sales area"
+      ],
+      "uses": [
+        "Display merchandise outside the shop",
+        "Attract customer interest and invite purchases",
+        "Separate displayed goods from the sales area",
+        "Provide a view into the sales area"
+      ],
+      "furniture_equipment": [
+        "Stepped shop-window display with glazed screen behind",
+        "Mobile shop-window display unit with screen behind",
+        "Shop-window display with parapet"
+      ],
+      "dimensions": [],
+      "figure_refs": [
+        "11",
+        "12",
+        "15",
+        "16",
+        "17",
+        "18"
+      ],
+      "cross_refs": [
+        "11",
+        "12",
+        "15",
+        "18",
+        "17"
+      ],
+      "keywords": [
+        "shop window",
+        "display area",
+        "view into shop",
+        "glazed screen",
+        "parapet",
+        "merchandise display"
+      ],
+      "tags_architectural": [
+        "daylighting",
+        "spatial_proportion"
+      ],
+      "confidence": 0.94
+    },
+    {
+      "id": "4122fb96e4bd1976-269-vision-2",
+      "pdf_page": 269,
+      "book_page": 256,
+      "chapter": "RETAIL",
+      "section": "Retail Outlets",
+      "title": "Turnstiles",
+      "summary": "The page illustrates rounded and three-arm turnstile configurations with dimension annotations. The dimension labels are reproduced as printed; the drawing does not state their units.",
+      "building_type": "Retail outlet",
+      "spaces": [
+        "Entrance",
+        "Access control point"
+      ],
+      "uses": [
+        "Control or channel pedestrian entry"
+      ],
+      "furniture_equipment": [
+        "Rounded turnstile",
+        "Three-arm turnstile"
+      ],
+      "dimensions": [
+        {
+          "label": "Rounded turnstile dimension",
+          "value": 1.3,
+          "value_max": null,
+          "unit": "unit not stated",
+          "context": "Dimension shown above the rounded-turnstile illustration.",
+          "status": "uncertain",
+          "ocr_raw": "1.30"
+        },
+        {
+          "label": "Three-arm turnstile dimension",
+          "value": 1.3,
+          "value_max": null,
+          "unit": "unit not stated",
+          "context": "Dimension shown above the three-arm-turnstile illustration.",
+          "status": "uncertain",
+          "ocr_raw": "1.30"
+        },
+        {
+          "label": "Three-arm turnstile vertical dimension",
+          "value": 93.0,
+          "value_max": null,
+          "unit": "unit not stated",
+          "context": "Vertical dimension label alongside the three-arm-turnstile illustration; unit and decimal placement are not stated.",
+          "status": "uncertain",
+          "ocr_raw": "93"
+        }
+      ],
+      "figure_refs": [
+        "13",
+        "14"
+      ],
+      "cross_refs": [],
+      "keywords": [
+        "turnstile",
+        "pedestrian access",
+        "entrance control"
+      ],
+      "tags_architectural": [
+        "circulation",
+        "clearance",
+        "safety"
+      ],
+      "confidence": 0.77
+    }
+  ]
+}

@@ -1,0 +1,379 @@
+{
+  "fichas": [
+    {
+      "id": "4122fb96e4bd1976-499-vision-0",
+      "pdf_page": 499,
+      "book_page": 486,
+      "chapter": "BUILDING SERVICES",
+      "section": "Building Physics",
+      "title": "Lightning protection systems for roofs and structures",
+      "summary": "Illustrated arrangements show lightning protection for steel-framed buildings, metal roofs with timber-clad walls, aluminium roof and wall coverings, chimneys, roof masts, and rooftop metalwork. Conductors connect to earth; metal structures and ventilation ducts on roofs are connected to the lightning protection system. A high-voltage cable roof mast is not directly connected: the illustrated open transmission path has a spark gap.",
+      "building_type": "Buildings requiring lightning protection",
+      "spaces": [
+        "Roof",
+        "Building envelope",
+        "Grounding interface"
+      ],
+      "uses": [
+        "Conduct lightning current to earth",
+        "Connect roof metalwork and rooftop services to the lightning protection system",
+        "Provide a spark gap between a roof mast for high-voltage cable and the open transmission path"
+      ],
+      "furniture_equipment": [
+        "Air terminals",
+        "Lightning conductors",
+        "Conductors to earth",
+        "Earthing electrodes",
+        "Roof guttering",
+        "Voltage surge protection device"
+      ],
+      "dimensions": [
+        {
+          "label": "Spark gap",
+          "value": 30.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Illustrated open transmission path for a roof mast for high-voltage cable; OCR gives 30 mm.",
+          "status": "verified",
+          "ocr_raw": "spark gap of 30 mm"
+        }
+      ],
+      "figure_refs": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10"
+      ],
+      "cross_refs": [],
+      "keywords": [
+        "lightning protection",
+        "air terminal",
+        "lightning conductor",
+        "roof",
+        "earthing",
+        "surge protection",
+        "spark gap"
+      ],
+      "tags_architectural": [
+        "safety"
+      ],
+      "confidence": 0.94
+    },
+    {
+      "id": "4122fb96e4bd1976-499-vision-1",
+      "pdf_page": 499,
+      "book_page": 486,
+      "chapter": "BUILDING SERVICES",
+      "section": "Building Physics",
+      "title": "Earthing electrodes",
+      "summary": "Earthing systems conduct lightning current quickly and uniformly into electrodes. Surface tapes may be laid as a ring or strip, preferably embedded in foundation concrete. Underground rods are driven into the ground to achieve low ground resistance; a rod driven more than 6 m is described as buried. Star-shaped electrodes consist of tapes projecting outward from a conductor.",
+      "building_type": "Buildings with lightning protection",
+      "spaces": [
+        "Foundation",
+        "Ground"
+      ],
+      "uses": [
+        "Disperse lightning current into the ground",
+        "Reduce ground resistance"
+      ],
+      "furniture_equipment": [
+        "Galvanised steel earthing tape",
+        "Round steel electrode",
+        "Underground earthing rods",
+        "Foundation concrete"
+      ],
+      "dimensions": [
+        {
+          "label": "Galvanised steel strip width",
+          "value": 30.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "First stated strip size; paired with a thickness of 3.5 mm.",
+          "status": "verified",
+          "ocr_raw": "30 x 3.5 mm"
+        },
+        {
+          "label": "Galvanised steel strip thickness",
+          "value": 3.5,
+          "value_max": null,
+          "unit": "mm",
+          "context": "First stated strip size; paired with a width of 30 mm.",
+          "status": "verified",
+          "ocr_raw": "30 x 3.5 mm"
+        },
+        {
+          "label": "Galvanised steel strip width",
+          "value": 25.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Second stated strip size; paired with a thickness of 4.0 mm.",
+          "status": "verified",
+          "ocr_raw": "25 x 4.0 mm"
+        },
+        {
+          "label": "Galvanised steel strip thickness",
+          "value": 4.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Second stated strip size; paired with a width of 25 mm.",
+          "status": "verified",
+          "ocr_raw": "25 x 4.0 mm"
+        },
+        {
+          "label": "Round steel electrode diameter",
+          "value": 10.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Diameter of round steel used for surface earthing electrodes.",
+          "status": "verified",
+          "ocr_raw": "diameter= 10 mm"
+        },
+        {
+          "label": "Buried rod threshold depth",
+          "value": 6.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Rods driven more than this depth into the ground are described as buried.",
+          "status": "verified",
+          "ocr_raw": "more than 6 m"
+        }
+      ],
+      "figure_refs": [
+        "12",
+        "13",
+        "14"
+      ],
+      "cross_refs": [
+        "12",
+        "13"
+      ],
+      "keywords": [
+        "earthing electrode",
+        "earthing tape",
+        "earthing rod",
+        "foundation concrete",
+        "ground resistance"
+      ],
+      "tags_architectural": [
+        "safety"
+      ],
+      "confidence": 0.97
+    },
+    {
+      "id": "4122fb96e4bd1976-499-vision-2",
+      "pdf_page": 499,
+      "book_page": 486,
+      "chapter": "BUILDING SERVICES",
+      "section": "Building Physics",
+      "title": "Earthing electrode dimensions by soil type and ground resistance",
+      "summary": "A reference table gives tape lengths and rod depths for earthing electrodes in six soil categories, arranged by ground-resistance levels of 5, 10, 15, and 30 ohms. The values are reproduced as printed; the table headings identify the soil categories as marshy soil, loam/clay/stable soil, damp sand, damp gravel, dry sand and gravel, and stony ground.",
+      "building_type": "Buildings with lightning protection",
+      "spaces": [
+        "Ground"
+      ],
+      "uses": [
+        "Select earthing tape lengths or rod depths with reference to soil type and ground resistance"
+      ],
+      "furniture_equipment": [
+        "Earthing tapes",
+        "Earthing rods"
+      ],
+      "dimensions": [
+        {
+          "label": "Tape length",
+          "value": 12.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Marshy soil; ground-resistance table.",
+          "status": "verified",
+          "ocr_raw": "tape (length, m)\n\n12"
+        },
+        {
+          "label": "Tape length",
+          "value": 40.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Loam, clay, stable soil; ground-resistance table.",
+          "status": "verified",
+          "ocr_raw": "BUILDING PHYSICS\nLightning Protection\n\n0 Steel framed building: steel frame\n\nf) Metal roof with timber-clad wails:\n\nconnected to the 'air terminal' and\nalso to the conductor to earth\n\nroof connected to ridge conductor\n\nC) Main components of a lightning\nprotection system\n\nand conductor to earth\n\ne\n\nEarthing electrodes\nThe earthing system has the task of conducting the lightning\ncurrent quickly and uniformly into earthing electrodes. These\ncan be tapes (surface) or rods (underground, sometimes called\n'buried') earthing electrodes:\nSurface earthing electrodes (earthing tapes) are laid as a ring or\nstrip, preferably embedded in the foundation concrete. Earthing\ntapes consist of galvanised steel strip (30 x 3.5 mm/25 x 4.0 mm)\nor round steel (diameter= 10 mm) ~ 4!) - @).\nUnderground earthing electrodes (rods). These are round or with\nan open profile. They are driven, inside tubes, so deep into the\nground without insulation that a low ground resistance is achieved\n~ 4!)- @). The level of the ground resistance varies according to\nsoil type and moisture content ~ $. If earthing electrode rods\nare driven more than 6 m into the ground, they are described as\n'buried'.\nA star-shaped earthing electrode consists of individual tapes\nprojecting outward in a star shape from a conductor.\n\nAluminium roof covering as an 'air\n\nType of earthing\n\nterminal'\n\nelectrode\n\n\"0\n\n\"i5\n\n,..\"'\n\n.<::\n\nI'!\n\nroof/wall\n4--'l----'l---'i~+'H+'F'~~ connection:\n\n\"0\n\nc\n\nE~\n\n\"!'!> \"'c\n\n0.\n\n0.\n\n·g\n\n&~\n\n\"'\"'\nE\n0\"'\n\nc\n\nE\n\nffim\ne:-iii\n\ne\n,..c\nD)\n\n.9\nU)\n\n\"'\n\n...J\n\n0\n\n0\n\ntape (length, m)\n\n12\n\n40\n\n80\n\n200\n\n400\n\nsignificant\n\nrod (depth, m)\n\n6\n\n20\n\n40\n\n100\n\n200\n\n600\n\ntape (length, m)\n\n6\n\n20\n\n40\n\n100\n\n200\n\n600\n\nmetal contact\n\n2\n\n\"'\n\n\"'\n\nGround\nresistance (il)\n\n::l\n\n\"0\n\nD)\n\npossible, no\n\nas far as\n\n0 Aluminium wail cladding as\n\n,:;_\n~\n\n\"0\n\nc\n\n5,\n\n1200\n\nrod (depth, m)\n\n3\n\n10\n\n20\n\n50\n\n100\n\n300\n\ntape (length, m)\n\n4\n\n13\n\n27\n\n67\n\n133\n\n400\n\nrod (depth, m)\n\n2\n\n7\n\n14\n\n34\n\n70\n\n200\n\ntape (length. m)\n\n2\n\n7\n\n13\n\n33\n\n67\n\n200\n\nrod (depth, m)\n\n1\n\n3\n\n7\n\n17\n\n33\n\n100\n\n5\n10\n15\n30\n\nG Ground resistance of tape and rod earthing electrodes in various soils\n\n0 Aluminium roof and wail\n\nconductor to earth\n\nChimney with\nconductor\nattached to\nridge cable\n\nBUILDING\nPHYSICS\n\nThermal\ninsulation\nSound insulation\nRoom acoustics\nLightning\n\n0 Earthing electrode in unreinforced\n\n8 Lightning conductor on chimney\nprotection\n\nclose to the eaves and connected to\nthe roof guttering\n\nCi) Do not directly connect roof mast for\nhigh-voltage cable; the open trensmission\npath has a spark gap of 30 mm\n\n486\n\ne\n\nconcrete foundation\n\nG) Earthing electrode in reinforced\nconcrete foundation\n\nAll metal structures and ventilation\nducts on the roof are connected to\n\nthe lightning protection system\n\nG:!) Install voltage surge protection\ndevice in steel structures with\n\nelectrical installations\n\ne\n\nLayout of a foundation earthing\nelectrode with waterproofing of tanks\n\n0 Bridging of movement joints\nwith expansion joint on inside of\nbuilding work\n\n\f"
+        },
+        {
+          "label": "Tape length",
+          "value": 80.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Damp sand; ground-resistance table.",
+          "status": "verified",
+          "ocr_raw": "BUILDING PHYSICS\nLightning Protection\n\n0 Steel framed building: steel frame\n\nf) Metal roof with timber-clad wails:\n\nconnected to the 'air terminal' and\nalso to the conductor to earth\n\nroof connected to ridge conductor\n\nC) Main components of a lightning\nprotection system\n\nand conductor to earth\n\ne\n\nEarthing electrodes\nThe earthing system has the task of conducting the lightning\ncurrent quickly and uniformly into earthing electrodes. These\ncan be tapes (surface) or rods (underground, sometimes called\n'buried') earthing electrodes:\nSurface earthing electrodes (earthing tapes) are laid as a ring or\nstrip, preferably embedded in the foundation concrete. Earthing\ntapes consist of galvanised steel strip (30 x 3.5 mm/25 x 4.0 mm)\nor round steel (diameter= 10 mm) ~ 4!) - @).\nUnderground earthing electrodes (rods). These are round or with\nan open profile. They are driven, inside tubes, so deep into the\nground without insulation that a low ground resistance is achieved\n~ 4!)- @). The level of the ground resistance varies according to\nsoil type and moisture content ~ $. If earthing electrode rods\nare driven more than 6 m into the ground, they are described as\n'buried'.\nA star-shaped earthing electrode consists of individual tapes\nprojecting outward in a star shape from a conductor.\n\nAluminium roof covering as an 'air\n\nType of earthing\n\nterminal'\n\nelectrode\n\n\"0\n\n\"i5\n\n,..\"'\n\n.<::\n\nI'!\n\nroof/wall\n4--'l----'l---'i~+'H+'F'~~ connection:\n\n\"0\n\nc\n\nE~\n\n\"!'!> \"'c\n\n0.\n\n0.\n\n·g\n\n&~\n\n\"'\"'\nE\n0\"'\n\nc\n\nE\n\nffim\ne:-iii\n\ne\n,..c\nD)\n\n.9\nU)\n\n\"'\n\n...J\n\n0\n\n0\n\ntape (length, m)\n\n12\n\n40\n\n80\n\n200\n\n400\n\nsignificant\n\nrod (depth, m)\n\n6\n\n20\n\n40\n\n100\n\n200\n\n600\n\ntape (length, m)\n\n6\n\n20\n\n40\n\n100\n\n200\n\n600\n\nmetal contact\n\n2\n\n\"'\n\n\"'\n\nGround\nresistance (il)\n\n::l\n\n\"0\n\nD)\n\npossible, no\n\nas far as\n\n0 Aluminium wail cladding as\n\n,:;_\n~\n\n\"0\n\nc\n\n5,\n\n1200\n\nrod (depth, m)\n\n3\n\n10\n\n20\n\n50\n\n100\n\n300\n\ntape (length, m)\n\n4\n\n13\n\n27\n\n67\n\n133\n\n400\n\nrod (depth, m)\n\n2\n\n7\n\n14\n\n34\n\n70\n\n200\n\ntape (length. m)\n\n2\n\n7\n\n13\n\n33\n\n67\n\n200\n\nrod (depth, m)\n\n1\n\n3\n\n7\n\n17\n\n33\n\n100\n\n5\n10\n15\n30\n\nG Ground resistance of tape and rod earthing electrodes in various soils\n\n0 Aluminium roof and wail\n\nconductor to earth\n\nChimney with\nconductor\nattached to\nridge cable\n\nBUILDING\nPHYSICS\n\nThermal\ninsulation\nSound insulation\nRoom acoustics\nLightning\n\n0 Earthing electrode in unreinforced\n\n8 Lightning conductor on chimney\nprotection\n\nclose to the eaves and connected to\nthe roof guttering\n\nCi) Do not directly connect roof mast for\nhigh-voltage cable; the open trensmission\npath has a spark gap of 30 mm\n\n486\n\ne\n\nconcrete foundation\n\nG) Earthing electrode in reinforced\nconcrete foundation\n\nAll metal structures and ventilation\nducts on the roof are connected to\n\nthe lightning protection system\n\nG:!) Install voltage surge protection\ndevice in steel structures with\n\nelectrical installations\n\ne\n\nLayout of a foundation earthing\nelectrode with waterproofing of tanks\n\n0 Bridging of movement joints\nwith expansion joint on inside of\nbuilding work\n\n\f"
+        },
+        {
+          "label": "Tape length",
+          "value": 200.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Damp gravel; ground-resistance table.",
+          "status": "verified",
+          "ocr_raw": "BUILDING PHYSICS\nLightning Protection\n\n0 Steel framed building: steel frame\n\nf) Metal roof with timber-clad wails:\n\nconnected to the 'air terminal' and\nalso to the conductor to earth\n\nroof connected to ridge conductor\n\nC) Main components of a lightning\nprotection system\n\nand conductor to earth\n\ne\n\nEarthing electrodes\nThe earthing system has the task of conducting the lightning\ncurrent quickly and uniformly into earthing electrodes. These\ncan be tapes (surface) or rods (underground, sometimes called\n'buried') earthing electrodes:\nSurface earthing electrodes (earthing tapes) are laid as a ring or\nstrip, preferably embedded in the foundation concrete. Earthing\ntapes consist of galvanised steel strip (30 x 3.5 mm/25 x 4.0 mm)\nor round steel (diameter= 10 mm) ~ 4!) - @).\nUnderground earthing electrodes (rods). These are round or with\nan open profile. They are driven, inside tubes, so deep into the\nground without insulation that a low ground resistance is achieved\n~ 4!)- @). The level of the ground resistance varies according to\nsoil type and moisture content ~ $. If earthing electrode rods\nare driven more than 6 m into the ground, they are described as\n'buried'.\nA star-shaped earthing electrode consists of individual tapes\nprojecting outward in a star shape from a conductor.\n\nAluminium roof covering as an 'air\n\nType of earthing\n\nterminal'\n\nelectrode\n\n\"0\n\n\"i5\n\n,..\"'\n\n.<::\n\nI'!\n\nroof/wall\n4--'l----'l---'i~+'H+'F'~~ connection:\n\n\"0\n\nc\n\nE~\n\n\"!'!> \"'c\n\n0.\n\n0.\n\n·g\n\n&~\n\n\"'\"'\nE\n0\"'\n\nc\n\nE\n\nffim\ne:-iii\n\ne\n,..c\nD)\n\n.9\nU)\n\n\"'\n\n...J\n\n0\n\n0\n\ntape (length, m)\n\n12\n\n40\n\n80\n\n200\n\n400\n\nsignificant\n\nrod (depth, m)\n\n6\n\n20\n\n40\n\n100\n\n200\n\n600\n\ntape (length, m)\n\n6\n\n20\n\n40\n\n100\n\n200\n\n600\n\nmetal contact\n\n2\n\n\"'\n\n\"'\n\nGround\nresistance (il)\n\n::l\n\n\"0\n\nD)\n\npossible, no\n\nas far as\n\n0 Aluminium wail cladding as\n\n,:;_\n~\n\n\"0\n\nc\n\n5,\n\n1200\n\nrod (depth, m)\n\n3\n\n10\n\n20\n\n50\n\n100\n\n300\n\ntape (length, m)\n\n4\n\n13\n\n27\n\n67\n\n133\n\n400\n\nrod (depth, m)\n\n2\n\n7\n\n14\n\n34\n\n70\n\n200\n\ntape (length. m)\n\n2\n\n7\n\n13\n\n33\n\n67\n\n200\n\nrod (depth, m)\n\n1\n\n3\n\n7\n\n17\n\n33\n\n100\n\n5\n10\n15\n30\n\nG Ground resistance of tape and rod earthing electrodes in various soils\n\n0 Aluminium roof and wail\n\nconductor to earth\n\nChimney with\nconductor\nattached to\nridge cable\n\nBUILDING\nPHYSICS\n\nThermal\ninsulation\nSound insulation\nRoom acoustics\nLightning\n\n0 Earthing electrode in unreinforced\n\n8 Lightning conductor on chimney\nprotection\n\nclose to the eaves and connected to\nthe roof guttering\n\nCi) Do not directly connect roof mast for\nhigh-voltage cable; the open trensmission\npath has a spark gap of 30 mm\n\n486\n\ne\n\nconcrete foundation\n\nG) Earthing electrode in reinforced\nconcrete foundation\n\nAll metal structures and ventilation\nducts on the roof are connected to\n\nthe lightning protection system\n\nG:!) Install voltage surge protection\ndevice in steel structures with\n\nelectrical installations\n\ne\n\nLayout of a foundation earthing\nelectrode with waterproofing of tanks\n\n0 Bridging of movement joints\nwith expansion joint on inside of\nbuilding work\n\n\f"
+        },
+        {
+          "label": "Tape length",
+          "value": 400.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Dry sand and gravel; ground-resistance table.",
+          "status": "verified",
+          "ocr_raw": "BUILDING PHYSICS\nLightning Protection\n\n0 Steel framed building: steel frame\n\nf) Metal roof with timber-clad wails:\n\nconnected to the 'air terminal' and\nalso to the conductor to earth\n\nroof connected to ridge conductor\n\nC) Main components of a lightning\nprotection system\n\nand conductor to earth\n\ne\n\nEarthing electrodes\nThe earthing system has the task of conducting the lightning\ncurrent quickly and uniformly into earthing electrodes. These\ncan be tapes (surface) or rods (underground, sometimes called\n'buried') earthing electrodes:\nSurface earthing electrodes (earthing tapes) are laid as a ring or\nstrip, preferably embedded in the foundation concrete. Earthing\ntapes consist of galvanised steel strip (30 x 3.5 mm/25 x 4.0 mm)\nor round steel (diameter= 10 mm) ~ 4!) - @).\nUnderground earthing electrodes (rods). These are round or with\nan open profile. They are driven, inside tubes, so deep into the\nground without insulation that a low ground resistance is achieved\n~ 4!)- @). The level of the ground resistance varies according to\nsoil type and moisture content ~ $. If earthing electrode rods\nare driven more than 6 m into the ground, they are described as\n'buried'.\nA star-shaped earthing electrode consists of individual tapes\nprojecting outward in a star shape from a conductor.\n\nAluminium roof covering as an 'air\n\nType of earthing\n\nterminal'\n\nelectrode\n\n\"0\n\n\"i5\n\n,..\"'\n\n.<::\n\nI'!\n\nroof/wall\n4--'l----'l---'i~+'H+'F'~~ connection:\n\n\"0\n\nc\n\nE~\n\n\"!'!> \"'c\n\n0.\n\n0.\n\n·g\n\n&~\n\n\"'\"'\nE\n0\"'\n\nc\n\nE\n\nffim\ne:-iii\n\ne\n,..c\nD)\n\n.9\nU)\n\n\"'\n\n...J\n\n0\n\n0\n\ntape (length, m)\n\n12\n\n40\n\n80\n\n200\n\n400\n\nsignificant\n\nrod (depth, m)\n\n6\n\n20\n\n40\n\n100\n\n200\n\n600\n\ntape (length, m)\n\n6\n\n20\n\n40\n\n100\n\n200\n\n600\n\nmetal contact\n\n2\n\n\"'\n\n\"'\n\nGround\nresistance (il)\n\n::l\n\n\"0\n\nD)\n\npossible, no\n\nas far as\n\n0 Aluminium wail cladding as\n\n,:;_\n~\n\n\"0\n\nc\n\n5,\n\n1200\n\nrod (depth, m)\n\n3\n\n10\n\n20\n\n50\n\n100\n\n300\n\ntape (length, m)\n\n4\n\n13\n\n27\n\n67\n\n133\n\n400\n\nrod (depth, m)\n\n2\n\n7\n\n14\n\n34\n\n70\n\n200\n\ntape (length. m)\n\n2\n\n7\n\n13\n\n33\n\n67\n\n200\n\nrod (depth, m)\n\n1\n\n3\n\n7\n\n17\n\n33\n\n100\n\n5\n10\n15\n30\n\nG Ground resistance of tape and rod earthing electrodes in various soils\n\n0 Aluminium roof and wail\n\nconductor to earth\n\nChimney with\nconductor\nattached to\nridge cable\n\nBUILDING\nPHYSICS\n\nThermal\ninsulation\nSound insulation\nRoom acoustics\nLightning\n\n0 Earthing electrode in unreinforced\n\n8 Lightning conductor on chimney\nprotection\n\nclose to the eaves and connected to\nthe roof guttering\n\nCi) Do not directly connect roof mast for\nhigh-voltage cable; the open trensmission\npath has a spark gap of 30 mm\n\n486\n\ne\n\nconcrete foundation\n\nG) Earthing electrode in reinforced\nconcrete foundation\n\nAll metal structures and ventilation\nducts on the roof are connected to\n\nthe lightning protection system\n\nG:!) Install voltage surge protection\ndevice in steel structures with\n\nelectrical installations\n\ne\n\nLayout of a foundation earthing\nelectrode with waterproofing of tanks\n\n0 Bridging of movement joints\nwith expansion joint on inside of\nbuilding work\n\n\f"
+        },
+        {
+          "label": "Tape length",
+          "value": 1200.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Stony ground; ground-resistance table.",
+          "status": "verified",
+          "ocr_raw": "BUILDING PHYSICS\nLightning Protection\n\n0 Steel framed building: steel frame\n\nf) Metal roof with timber-clad wails:\n\nconnected to the 'air terminal' and\nalso to the conductor to earth\n\nroof connected to ridge conductor\n\nC) Main components of a lightning\nprotection system\n\nand conductor to earth\n\ne\n\nEarthing electrodes\nThe earthing system has the task of conducting the lightning\ncurrent quickly and uniformly into earthing electrodes. These\ncan be tapes (surface) or rods (underground, sometimes called\n'buried') earthing electrodes:\nSurface earthing electrodes (earthing tapes) are laid as a ring or\nstrip, preferably embedded in the foundation concrete. Earthing\ntapes consist of galvanised steel strip (30 x 3.5 mm/25 x 4.0 mm)\nor round steel (diameter= 10 mm) ~ 4!) - @).\nUnderground earthing electrodes (rods). These are round or with\nan open profile. They are driven, inside tubes, so deep into the\nground without insulation that a low ground resistance is achieved\n~ 4!)- @). The level of the ground resistance varies according to\nsoil type and moisture content ~ $. If earthing electrode rods\nare driven more than 6 m into the ground, they are described as\n'buried'.\nA star-shaped earthing electrode consists of individual tapes\nprojecting outward in a star shape from a conductor.\n\nAluminium roof covering as an 'air\n\nType of earthing\n\nterminal'\n\nelectrode\n\n\"0\n\n\"i5\n\n,..\"'\n\n.<::\n\nI'!\n\nroof/wall\n4--'l----'l---'i~+'H+'F'~~ connection:\n\n\"0\n\nc\n\nE~\n\n\"!'!> \"'c\n\n0.\n\n0.\n\n·g\n\n&~\n\n\"'\"'\nE\n0\"'\n\nc\n\nE\n\nffim\ne:-iii\n\ne\n,..c\nD)\n\n.9\nU)\n\n\"'\n\n...J\n\n0\n\n0\n\ntape (length, m)\n\n12\n\n40\n\n80\n\n200\n\n400\n\nsignificant\n\nrod (depth, m)\n\n6\n\n20\n\n40\n\n100\n\n200\n\n600\n\ntape (length, m)\n\n6\n\n20\n\n40\n\n100\n\n200\n\n600\n\nmetal contact\n\n2\n\n\"'\n\n\"'\n\nGround\nresistance (il)\n\n::l\n\n\"0\n\nD)\n\npossible, no\n\nas far as\n\n0 Aluminium wail cladding as\n\n,:;_\n~\n\n\"0\n\nc\n\n5,\n\n1200\n\nrod (depth, m)\n\n3\n\n10\n\n20\n\n50\n\n100\n\n300\n\ntape (length, m)\n\n4\n\n13\n\n27\n\n67\n\n133\n\n400\n\nrod (depth, m)\n\n2\n\n7\n\n14\n\n34\n\n70\n\n200\n\ntape (length. m)\n\n2\n\n7\n\n13\n\n33\n\n67\n\n200\n\nrod (depth, m)\n\n1\n\n3\n\n7\n\n17\n\n33\n\n100\n\n5\n10\n15\n30\n\nG Ground resistance of tape and rod earthing electrodes in various soils\n\n0 Aluminium roof and wail\n\nconductor to earth\n\nChimney with\nconductor\nattached to\nridge cable\n\nBUILDING\nPHYSICS\n\nThermal\ninsulation\nSound insulation\nRoom acoustics\nLightning\n\n0 Earthing electrode in unreinforced\n\n8 Lightning conductor on chimney\nprotection\n\nclose to the eaves and connected to\nthe roof guttering\n\nCi) Do not directly connect roof mast for\nhigh-voltage cable; the open trensmission\npath has a spark gap of 30 mm\n\n486\n\ne\n\nconcrete foundation\n\nG) Earthing electrode in reinforced\nconcrete foundation\n\nAll metal structures and ventilation\nducts on the roof are connected to\n\nthe lightning protection system\n\nG:!) Install voltage surge protection\ndevice in steel structures with\n\nelectrical installations\n\ne\n\nLayout of a foundation earthing\nelectrode with waterproofing of tanks\n\n0 Bridging of movement joints\nwith expansion joint on inside of\nbuilding work\n\n\f"
+        },
+        {
+          "label": "Rod depth",
+          "value": 6.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Marshy soil; ground-resistance table, 5 Ω row.",
+          "status": "verified",
+          "ocr_raw": "rod (depth, m)\n\n6"
+        },
+        {
+          "label": "Rod depth",
+          "value": 20.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Loam, clay, stable soil; ground-resistance table, 5 Ω row.",
+          "status": "verified",
+          "ocr_raw": "BUILDING PHYSICS\nLightning Protection\n\n0 Steel framed building: steel frame\n\nf) Metal roof with timber-clad wails:\n\nconnected to the 'air terminal' and\nalso to the conductor to earth\n\nroof connected to ridge conductor\n\nC) Main components of a lightning\nprotection system\n\nand conductor to earth\n\ne\n\nEarthing electrodes\nThe earthing system has the task of conducting the lightning\ncurrent quickly and uniformly into earthing electrodes. These\ncan be tapes (surface) or rods (underground, sometimes called\n'buried') earthing electrodes:\nSurface earthing electrodes (earthing tapes) are laid as a ring or\nstrip, preferably embedded in the foundation concrete. Earthing\ntapes consist of galvanised steel strip (30 x 3.5 mm/25 x 4.0 mm)\nor round steel (diameter= 10 mm) ~ 4!) - @).\nUnderground earthing electrodes (rods). These are round or with\nan open profile. They are driven, inside tubes, so deep into the\nground without insulation that a low ground resistance is achieved\n~ 4!)- @). The level of the ground resistance varies according to\nsoil type and moisture content ~ $. If earthing electrode rods\nare driven more than 6 m into the ground, they are described as\n'buried'.\nA star-shaped earthing electrode consists of individual tapes\nprojecting outward in a star shape from a conductor.\n\nAluminium roof covering as an 'air\n\nType of earthing\n\nterminal'\n\nelectrode\n\n\"0\n\n\"i5\n\n,..\"'\n\n.<::\n\nI'!\n\nroof/wall\n4--'l----'l---'i~+'H+'F'~~ connection:\n\n\"0\n\nc\n\nE~\n\n\"!'!> \"'c\n\n0.\n\n0.\n\n·g\n\n&~\n\n\"'\"'\nE\n0\"'\n\nc\n\nE\n\nffim\ne:-iii\n\ne\n,..c\nD)\n\n.9\nU)\n\n\"'\n\n...J\n\n0\n\n0\n\ntape (length, m)\n\n12\n\n40\n\n80\n\n200\n\n400\n\nsignificant\n\nrod (depth, m)\n\n6\n\n20\n\n40\n\n100\n\n200\n\n600\n\ntape (length, m)\n\n6\n\n20\n\n40\n\n100\n\n200\n\n600\n\nmetal contact\n\n2\n\n\"'\n\n\"'\n\nGround\nresistance (il)\n\n::l\n\n\"0\n\nD)\n\npossible, no\n\nas far as\n\n0 Aluminium wail cladding as\n\n,:;_\n~\n\n\"0\n\nc\n\n5,\n\n1200\n\nrod (depth, m)\n\n3\n\n10\n\n20\n\n50\n\n100\n\n300\n\ntape (length, m)\n\n4\n\n13\n\n27\n\n67\n\n133\n\n400\n\nrod (depth, m)\n\n2\n\n7\n\n14\n\n34\n\n70\n\n200\n\ntape (length. m)\n\n2\n\n7\n\n13\n\n33\n\n67\n\n200\n\nrod (depth, m)\n\n1\n\n3\n\n7\n\n17\n\n33\n\n100\n\n5\n10\n15\n30\n\nG Ground resistance of tape and rod earthing electrodes in various soils\n\n0 Aluminium roof and wail\n\nconductor to earth\n\nChimney with\nconductor\nattached to\nridge cable\n\nBUILDING\nPHYSICS\n\nThermal\ninsulation\nSound insulation\nRoom acoustics\nLightning\n\n0 Earthing electrode in unreinforced\n\n8 Lightning conductor on chimney\nprotection\n\nclose to the eaves and connected to\nthe roof guttering\n\nCi) Do not directly connect roof mast for\nhigh-voltage cable; the open trensmission\npath has a spark gap of 30 mm\n\n486\n\ne\n\nconcrete foundation\n\nG) Earthing electrode in reinforced\nconcrete foundation\n\nAll metal structures and ventilation\nducts on the roof are connected to\n\nthe lightning protection system\n\nG:!) Install voltage surge protection\ndevice in steel structures with\n\nelectrical installations\n\ne\n\nLayout of a foundation earthing\nelectrode with waterproofing of tanks\n\n0 Bridging of movement joints\nwith expansion joint on inside of\nbuilding work\n\n\f"
+        },
+        {
+          "label": "Rod depth",
+          "value": 40.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Damp sand; ground-resistance table, 5 Ω row.",
+          "status": "verified",
+          "ocr_raw": "BUILDING PHYSICS\nLightning Protection\n\n0 Steel framed building: steel frame\n\nf) Metal roof with timber-clad wails:\n\nconnected to the 'air terminal' and\nalso to the conductor to earth\n\nroof connected to ridge conductor\n\nC) Main components of a lightning\nprotection system\n\nand conductor to earth\n\ne\n\nEarthing electrodes\nThe earthing system has the task of conducting the lightning\ncurrent quickly and uniformly into earthing electrodes. These\ncan be tapes (surface) or rods (underground, sometimes called\n'buried') earthing electrodes:\nSurface earthing electrodes (earthing tapes) are laid as a ring or\nstrip, preferably embedded in the foundation concrete. Earthing\ntapes consist of galvanised steel strip (30 x 3.5 mm/25 x 4.0 mm)\nor round steel (diameter= 10 mm) ~ 4!) - @).\nUnderground earthing electrodes (rods). These are round or with\nan open profile. They are driven, inside tubes, so deep into the\nground without insulation that a low ground resistance is achieved\n~ 4!)- @). The level of the ground resistance varies according to\nsoil type and moisture content ~ $. If earthing electrode rods\nare driven more than 6 m into the ground, they are described as\n'buried'.\nA star-shaped earthing electrode consists of individual tapes\nprojecting outward in a star shape from a conductor.\n\nAluminium roof covering as an 'air\n\nType of earthing\n\nterminal'\n\nelectrode\n\n\"0\n\n\"i5\n\n,..\"'\n\n.<::\n\nI'!\n\nroof/wall\n4--'l----'l---'i~+'H+'F'~~ connection:\n\n\"0\n\nc\n\nE~\n\n\"!'!> \"'c\n\n0.\n\n0.\n\n·g\n\n&~\n\n\"'\"'\nE\n0\"'\n\nc\n\nE\n\nffim\ne:-iii\n\ne\n,..c\nD)\n\n.9\nU)\n\n\"'\n\n...J\n\n0\n\n0\n\ntape (length, m)\n\n12\n\n40\n\n80\n\n200\n\n400\n\nsignificant\n\nrod (depth, m)\n\n6\n\n20\n\n40\n\n100\n\n200\n\n600\n\ntape (length, m)\n\n6\n\n20\n\n40\n\n100\n\n200\n\n600\n\nmetal contact\n\n2\n\n\"'\n\n\"'\n\nGround\nresistance (il)\n\n::l\n\n\"0\n\nD)\n\npossible, no\n\nas far as\n\n0 Aluminium wail cladding as\n\n,:;_\n~\n\n\"0\n\nc\n\n5,\n\n1200\n\nrod (depth, m)\n\n3\n\n10\n\n20\n\n50\n\n100\n\n300\n\ntape (length, m)\n\n4\n\n13\n\n27\n\n67\n\n133\n\n400\n\nrod (depth, m)\n\n2\n\n7\n\n14\n\n34\n\n70\n\n200\n\ntape (length. m)\n\n2\n\n7\n\n13\n\n33\n\n67\n\n200\n\nrod (depth, m)\n\n1\n\n3\n\n7\n\n17\n\n33\n\n100\n\n5\n10\n15\n30\n\nG Ground resistance of tape and rod earthing electrodes in various soils\n\n0 Aluminium roof and wail\n\nconductor to earth\n\nChimney with\nconductor\nattached to\nridge cable\n\nBUILDING\nPHYSICS\n\nThermal\ninsulation\nSound insulation\nRoom acoustics\nLightning\n\n0 Earthing electrode in unreinforced\n\n8 Lightning conductor on chimney\nprotection\n\nclose to the eaves and connected to\nthe roof guttering\n\nCi) Do not directly connect roof mast for\nhigh-voltage cable; the open trensmission\npath has a spark gap of 30 mm\n\n486\n\ne\n\nconcrete foundation\n\nG) Earthing electrode in reinforced\nconcrete foundation\n\nAll metal structures and ventilation\nducts on the roof are connected to\n\nthe lightning protection system\n\nG:!) Install voltage surge protection\ndevice in steel structures with\n\nelectrical installations\n\ne\n\nLayout of a foundation earthing\nelectrode with waterproofing of tanks\n\n0 Bridging of movement joints\nwith expansion joint on inside of\nbuilding work\n\n\f"
+        },
+        {
+          "label": "Rod depth",
+          "value": 100.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Damp gravel; ground-resistance table, 5 Ω row.",
+          "status": "verified",
+          "ocr_raw": "BUILDING PHYSICS\nLightning Protection\n\n0 Steel framed building: steel frame\n\nf) Metal roof with timber-clad wails:\n\nconnected to the 'air terminal' and\nalso to the conductor to earth\n\nroof connected to ridge conductor\n\nC) Main components of a lightning\nprotection system\n\nand conductor to earth\n\ne\n\nEarthing electrodes\nThe earthing system has the task of conducting the lightning\ncurrent quickly and uniformly into earthing electrodes. These\ncan be tapes (surface) or rods (underground, sometimes called\n'buried') earthing electrodes:\nSurface earthing electrodes (earthing tapes) are laid as a ring or\nstrip, preferably embedded in the foundation concrete. Earthing\ntapes consist of galvanised steel strip (30 x 3.5 mm/25 x 4.0 mm)\nor round steel (diameter= 10 mm) ~ 4!) - @).\nUnderground earthing electrodes (rods). These are round or with\nan open profile. They are driven, inside tubes, so deep into the\nground without insulation that a low ground resistance is achieved\n~ 4!)- @). The level of the ground resistance varies according to\nsoil type and moisture content ~ $. If earthing electrode rods\nare driven more than 6 m into the ground, they are described as\n'buried'.\nA star-shaped earthing electrode consists of individual tapes\nprojecting outward in a star shape from a conductor.\n\nAluminium roof covering as an 'air\n\nType of earthing\n\nterminal'\n\nelectrode\n\n\"0\n\n\"i5\n\n,..\"'\n\n.<::\n\nI'!\n\nroof/wall\n4--'l----'l---'i~+'H+'F'~~ connection:\n\n\"0\n\nc\n\nE~\n\n\"!'!> \"'c\n\n0.\n\n0.\n\n·g\n\n&~\n\n\"'\"'\nE\n0\"'\n\nc\n\nE\n\nffim\ne:-iii\n\ne\n,..c\nD)\n\n.9\nU)\n\n\"'\n\n...J\n\n0\n\n0\n\ntape (length, m)\n\n12\n\n40\n\n80\n\n200\n\n400\n\nsignificant\n\nrod (depth, m)\n\n6\n\n20\n\n40\n\n100\n\n200\n\n600\n\ntape (length, m)\n\n6\n\n20\n\n40\n\n100\n\n200\n\n600\n\nmetal contact\n\n2\n\n\"'\n\n\"'\n\nGround\nresistance (il)\n\n::l\n\n\"0\n\nD)\n\npossible, no\n\nas far as\n\n0 Aluminium wail cladding as\n\n,:;_\n~\n\n\"0\n\nc\n\n5,\n\n1200\n\nrod (depth, m)\n\n3\n\n10\n\n20\n\n50\n\n100\n\n300\n\ntape (length, m)\n\n4\n\n13\n\n27\n\n67\n\n133\n\n400\n\nrod (depth, m)\n\n2\n\n7\n\n14\n\n34\n\n70\n\n200\n\ntape (length. m)\n\n2\n\n7\n\n13\n\n33\n\n67\n\n200\n\nrod (depth, m)\n\n1\n\n3\n\n7\n\n17\n\n33\n\n100\n\n5\n10\n15\n30\n\nG Ground resistance of tape and rod earthing electrodes in various soils\n\n0 Aluminium roof and wail\n\nconductor to earth\n\nChimney with\nconductor\nattached to\nridge cable\n\nBUILDING\nPHYSICS\n\nThermal\ninsulation\nSound insulation\nRoom acoustics\nLightning\n\n0 Earthing electrode in unreinforced\n\n8 Lightning conductor on chimney\nprotection\n\nclose to the eaves and connected to\nthe roof guttering\n\nCi) Do not directly connect roof mast for\nhigh-voltage cable; the open trensmission\npath has a spark gap of 30 mm\n\n486\n\ne\n\nconcrete foundation\n\nG) Earthing electrode in reinforced\nconcrete foundation\n\nAll metal structures and ventilation\nducts on the roof are connected to\n\nthe lightning protection system\n\nG:!) Install voltage surge protection\ndevice in steel structures with\n\nelectrical installations\n\ne\n\nLayout of a foundation earthing\nelectrode with waterproofing of tanks\n\n0 Bridging of movement joints\nwith expansion joint on inside of\nbuilding work\n\n\f"
+        },
+        {
+          "label": "Rod depth",
+          "value": 200.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Dry sand and gravel; ground-resistance table, 5 Ω row.",
+          "status": "verified",
+          "ocr_raw": "BUILDING PHYSICS\nLightning Protection\n\n0 Steel framed building: steel frame\n\nf) Metal roof with timber-clad wails:\n\nconnected to the 'air terminal' and\nalso to the conductor to earth\n\nroof connected to ridge conductor\n\nC) Main components of a lightning\nprotection system\n\nand conductor to earth\n\ne\n\nEarthing electrodes\nThe earthing system has the task of conducting the lightning\ncurrent quickly and uniformly into earthing electrodes. These\ncan be tapes (surface) or rods (underground, sometimes called\n'buried') earthing electrodes:\nSurface earthing electrodes (earthing tapes) are laid as a ring or\nstrip, preferably embedded in the foundation concrete. Earthing\ntapes consist of galvanised steel strip (30 x 3.5 mm/25 x 4.0 mm)\nor round steel (diameter= 10 mm) ~ 4!) - @).\nUnderground earthing electrodes (rods). These are round or with\nan open profile. They are driven, inside tubes, so deep into the\nground without insulation that a low ground resistance is achieved\n~ 4!)- @). The level of the ground resistance varies according to\nsoil type and moisture content ~ $. If earthing electrode rods\nare driven more than 6 m into the ground, they are described as\n'buried'.\nA star-shaped earthing electrode consists of individual tapes\nprojecting outward in a star shape from a conductor.\n\nAluminium roof covering as an 'air\n\nType of earthing\n\nterminal'\n\nelectrode\n\n\"0\n\n\"i5\n\n,..\"'\n\n.<::\n\nI'!\n\nroof/wall\n4--'l----'l---'i~+'H+'F'~~ connection:\n\n\"0\n\nc\n\nE~\n\n\"!'!> \"'c\n\n0.\n\n0.\n\n·g\n\n&~\n\n\"'\"'\nE\n0\"'\n\nc\n\nE\n\nffim\ne:-iii\n\ne\n,..c\nD)\n\n.9\nU)\n\n\"'\n\n...J\n\n0\n\n0\n\ntape (length, m)\n\n12\n\n40\n\n80\n\n200\n\n400\n\nsignificant\n\nrod (depth, m)\n\n6\n\n20\n\n40\n\n100\n\n200\n\n600\n\ntape (length, m)\n\n6\n\n20\n\n40\n\n100\n\n200\n\n600\n\nmetal contact\n\n2\n\n\"'\n\n\"'\n\nGround\nresistance (il)\n\n::l\n\n\"0\n\nD)\n\npossible, no\n\nas far as\n\n0 Aluminium wail cladding as\n\n,:;_\n~\n\n\"0\n\nc\n\n5,\n\n1200\n\nrod (depth, m)\n\n3\n\n10\n\n20\n\n50\n\n100\n\n300\n\ntape (length, m)\n\n4\n\n13\n\n27\n\n67\n\n133\n\n400\n\nrod (depth, m)\n\n2\n\n7\n\n14\n\n34\n\n70\n\n200\n\ntape (length. m)\n\n2\n\n7\n\n13\n\n33\n\n67\n\n200\n\nrod (depth, m)\n\n1\n\n3\n\n7\n\n17\n\n33\n\n100\n\n5\n10\n15\n30\n\nG Ground resistance of tape and rod earthing electrodes in various soils\n\n0 Aluminium roof and wail\n\nconductor to earth\n\nChimney with\nconductor\nattached to\nridge cable\n\nBUILDING\nPHYSICS\n\nThermal\ninsulation\nSound insulation\nRoom acoustics\nLightning\n\n0 Earthing electrode in unreinforced\n\n8 Lightning conductor on chimney\nprotection\n\nclose to the eaves and connected to\nthe roof guttering\n\nCi) Do not directly connect roof mast for\nhigh-voltage cable; the open trensmission\npath has a spark gap of 30 mm\n\n486\n\ne\n\nconcrete foundation\n\nG) Earthing electrode in reinforced\nconcrete foundation\n\nAll metal structures and ventilation\nducts on the roof are connected to\n\nthe lightning protection system\n\nG:!) Install voltage surge protection\ndevice in steel structures with\n\nelectrical installations\n\ne\n\nLayout of a foundation earthing\nelectrode with waterproofing of tanks\n\n0 Bridging of movement joints\nwith expansion joint on inside of\nbuilding work\n\n\f"
+        },
+        {
+          "label": "Rod depth",
+          "value": 600.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Stony ground; ground-resistance table, 5 Ω row.",
+          "status": "verified",
+          "ocr_raw": "BUILDING PHYSICS\nLightning Protection\n\n0 Steel framed building: steel frame\n\nf) Metal roof with timber-clad wails:\n\nconnected to the 'air terminal' and\nalso to the conductor to earth\n\nroof connected to ridge conductor\n\nC) Main components of a lightning\nprotection system\n\nand conductor to earth\n\ne\n\nEarthing electrodes\nThe earthing system has the task of conducting the lightning\ncurrent quickly and uniformly into earthing electrodes. These\ncan be tapes (surface) or rods (underground, sometimes called\n'buried') earthing electrodes:\nSurface earthing electrodes (earthing tapes) are laid as a ring or\nstrip, preferably embedded in the foundation concrete. Earthing\ntapes consist of galvanised steel strip (30 x 3.5 mm/25 x 4.0 mm)\nor round steel (diameter= 10 mm) ~ 4!) - @).\nUnderground earthing electrodes (rods). These are round or with\nan open profile. They are driven, inside tubes, so deep into the\nground without insulation that a low ground resistance is achieved\n~ 4!)- @). The level of the ground resistance varies according to\nsoil type and moisture content ~ $. If earthing electrode rods\nare driven more than 6 m into the ground, they are described as\n'buried'.\nA star-shaped earthing electrode consists of individual tapes\nprojecting outward in a star shape from a conductor.\n\nAluminium roof covering as an 'air\n\nType of earthing\n\nterminal'\n\nelectrode\n\n\"0\n\n\"i5\n\n,..\"'\n\n.<::\n\nI'!\n\nroof/wall\n4--'l----'l---'i~+'H+'F'~~ connection:\n\n\"0\n\nc\n\nE~\n\n\"!'!> \"'c\n\n0.\n\n0.\n\n·g\n\n&~\n\n\"'\"'\nE\n0\"'\n\nc\n\nE\n\nffim\ne:-iii\n\ne\n,..c\nD)\n\n.9\nU)\n\n\"'\n\n...J\n\n0\n\n0\n\ntape (length, m)\n\n12\n\n40\n\n80\n\n200\n\n400\n\nsignificant\n\nrod (depth, m)\n\n6\n\n20\n\n40\n\n100\n\n200\n\n600\n\ntape (length, m)\n\n6\n\n20\n\n40\n\n100\n\n200\n\n600\n\nmetal contact\n\n2\n\n\"'\n\n\"'\n\nGround\nresistance (il)\n\n::l\n\n\"0\n\nD)\n\npossible, no\n\nas far as\n\n0 Aluminium wail cladding as\n\n,:;_\n~\n\n\"0\n\nc\n\n5,\n\n1200\n\nrod (depth, m)\n\n3\n\n10\n\n20\n\n50\n\n100\n\n300\n\ntape (length, m)\n\n4\n\n13\n\n27\n\n67\n\n133\n\n400\n\nrod (depth, m)\n\n2\n\n7\n\n14\n\n34\n\n70\n\n200\n\ntape (length. m)\n\n2\n\n7\n\n13\n\n33\n\n67\n\n200\n\nrod (depth, m)\n\n1\n\n3\n\n7\n\n17\n\n33\n\n100\n\n5\n10\n15\n30\n\nG Ground resistance of tape and rod earthing electrodes in various soils\n\n0 Aluminium roof and wail\n\nconductor to earth\n\nChimney with\nconductor\nattached to\nridge cable\n\nBUILDING\nPHYSICS\n\nThermal\ninsulation\nSound insulation\nRoom acoustics\nLightning\n\n0 Earthing electrode in unreinforced\n\n8 Lightning conductor on chimney\nprotection\n\nclose to the eaves and connected to\nthe roof guttering\n\nCi) Do not directly connect roof mast for\nhigh-voltage cable; the open trensmission\npath has a spark gap of 30 mm\n\n486\n\ne\n\nconcrete foundation\n\nG) Earthing electrode in reinforced\nconcrete foundation\n\nAll metal structures and ventilation\nducts on the roof are connected to\n\nthe lightning protection system\n\nG:!) Install voltage surge protection\ndevice in steel structures with\n\nelectrical installations\n\ne\n\nLayout of a foundation earthing\nelectrode with waterproofing of tanks\n\n0 Bridging of movement joints\nwith expansion joint on inside of\nbuilding work\n\n\f"
+        }
+      ],
+      "figure_refs": [
+        "11"
+      ],
+      "cross_refs": [],
+      "keywords": [
+        "ground resistance",
+        "soil type",
+        "earthing tape",
+        "earthing rod"
+      ],
+      "tags_architectural": [
+        "safety"
+      ],
+      "confidence": 0.75
+    },
+    {
+      "id": "4122fb96e4bd1976-499-vision-3",
+      "pdf_page": 499,
+      "book_page": 486,
+      "chapter": "BUILDING SERVICES",
+      "section": "Building Physics",
+      "title": "Earthing electrodes at foundations and movement joints",
+      "summary": "Details show earthing electrodes in unreinforced and reinforced concrete foundations, a foundation earthing layout with waterproofing of tanks, and bridging of movement joints with an expansion joint on the inside of building work. The foundation diagrams include printed dimension annotations; the OCR does not make their association with specific components fully clear.",
+      "building_type": "Buildings with concrete foundations",
+      "spaces": [
+        "Foundation",
+        "Below-grade wall",
+        "Movement joint"
+      ],
+      "uses": [
+        "Integrate earthing electrodes with foundation construction",
+        "Coordinate earthing with tank waterproofing",
+        "Bridge movement joints while accommodating movement"
+      ],
+      "furniture_equipment": [
+        "Earthing electrode",
+        "Reinforced concrete foundation",
+        "Unreinforced concrete foundation",
+        "Waterproofing",
+        "Expansion joint"
+      ],
+      "dimensions": [
+        {
+          "label": "Clearance or dimension annotation",
+          "value": 1.5,
+          "value_max": null,
+          "unit": "m",
+          "context": "Foundation earthing details; shown with a greater-than-or-equal symbol. Exact component association is unclear in the source.",
+          "status": "uncertain",
+          "ocr_raw": "BUILDING PHYSICS\nLightning Protection\n\n0 Steel framed building: steel frame\n\nf) Metal roof with timber-clad wails:\n\nconnected to the 'air terminal' and\nalso to the conductor to earth\n\nroof connected to ridge conductor\n\nC) Main components of a lightning\nprotection system\n\nand conductor to earth\n\ne\n\nEarthing electrodes\nThe earthing system has the task of conducting the lightning\ncurrent quickly and uniformly into earthing electrodes. These\ncan be tapes (surface) or rods (underground, sometimes called\n'buried') earthing electrodes:\nSurface earthing electrodes (earthing tapes) are laid as a ring or\nstrip, preferably embedded in the foundation concrete. Earthing\ntapes consist of galvanised steel strip (30 x 3.5 mm/25 x 4.0 mm)\nor round steel (diameter= 10 mm) ~ 4!) - @).\nUnderground earthing electrodes (rods). These are round or with\nan open profile. They are driven, inside tubes, so deep into the\nground without insulation that a low ground resistance is achieved\n~ 4!)- @). The level of the ground resistance varies according to\nsoil type and moisture content ~ $. If earthing electrode rods\nare driven more than 6 m into the ground, they are described as\n'buried'.\nA star-shaped earthing electrode consists of individual tapes\nprojecting outward in a star shape from a conductor.\n\nAluminium roof covering as an 'air\n\nType of earthing\n\nterminal'\n\nelectrode\n\n\"0\n\n\"i5\n\n,..\"'\n\n.<::\n\nI'!\n\nroof/wall\n4--'l----'l---'i~+'H+'F'~~ connection:\n\n\"0\n\nc\n\nE~\n\n\"!'!> \"'c\n\n0.\n\n0.\n\n·g\n\n&~\n\n\"'\"'\nE\n0\"'\n\nc\n\nE\n\nffim\ne:-iii\n\ne\n,..c\nD)\n\n.9\nU)\n\n\"'\n\n...J\n\n0\n\n0\n\ntape (length, m)\n\n12\n\n40\n\n80\n\n200\n\n400\n\nsignificant\n\nrod (depth, m)\n\n6\n\n20\n\n40\n\n100\n\n200\n\n600\n\ntape (length, m)\n\n6\n\n20\n\n40\n\n100\n\n200\n\n600\n\nmetal contact\n\n2\n\n\"'\n\n\"'\n\nGround\nresistance (il)\n\n::l\n\n\"0\n\nD)\n\npossible, no\n\nas far as\n\n0 Aluminium wail cladding as\n\n,:;_\n~\n\n\"0\n\nc\n\n5,\n\n1200\n\nrod (depth, m)\n\n3\n\n10\n\n20\n\n50\n\n100\n\n300\n\ntape (length, m)\n\n4\n\n13\n\n27\n\n67\n\n133\n\n400\n\nrod (depth, m)\n\n2\n\n7\n\n14\n\n34\n\n70\n\n200\n\ntape (length. m)\n\n2\n\n7\n\n13\n\n33\n\n67\n\n200\n\nrod (depth, m)\n\n1\n\n3\n\n7\n\n17\n\n33\n\n100\n\n5\n10\n15\n30\n\nG Ground resistance of tape and rod earthing electrodes in various soils\n\n0 Aluminium roof and wail\n\nconductor to earth\n\nChimney with\nconductor\nattached to\nridge cable\n\nBUILDING\nPHYSICS\n\nThermal\ninsulation\nSound insulation\nRoom acoustics\nLightning\n\n0 Earthing electrode in unreinforced\n\n8 Lightning conductor on chimney\nprotection\n\nclose to the eaves and connected to\nthe roof guttering\n\nCi) Do not directly connect roof mast for\nhigh-voltage cable; the open trensmission\npath has a spark gap of 30 mm\n\n486\n\ne\n\nconcrete foundation\n\nG) Earthing electrode in reinforced\nconcrete foundation\n\nAll metal structures and ventilation\nducts on the roof are connected to\n\nthe lightning protection system\n\nG:!) Install voltage surge protection\ndevice in steel structures with\n\nelectrical installations\n\ne\n\nLayout of a foundation earthing\nelectrode with waterproofing of tanks\n\n0 Bridging of movement joints\nwith expansion joint on inside of\nbuilding work\n\n\f"
+        },
+        {
+          "label": "Dimension annotation",
+          "value": 5.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Foundation earthing detail; shown with a greater-than-or-equal symbol. Exact component association and unit are not legible in OCR, so this dimension is omitted.",
+          "status": "uncertain",
+          "ocr_raw": "BUILDING PHYSICS\nLightning Protection\n\n0 Steel framed building: steel frame\n\nf) Metal roof with timber-clad wails:\n\nconnected to the 'air terminal' and\nalso to the conductor to earth\n\nroof connected to ridge conductor\n\nC) Main components of a lightning\nprotection system\n\nand conductor to earth\n\ne\n\nEarthing electrodes\nThe earthing system has the task of conducting the lightning\ncurrent quickly and uniformly into earthing electrodes. These\ncan be tapes (surface) or rods (underground, sometimes called\n'buried') earthing electrodes:\nSurface earthing electrodes (earthing tapes) are laid as a ring or\nstrip, preferably embedded in the foundation concrete. Earthing\ntapes consist of galvanised steel strip (30 x 3.5 mm/25 x 4.0 mm)\nor round steel (diameter= 10 mm) ~ 4!) - @).\nUnderground earthing electrodes (rods). These are round or with\nan open profile. They are driven, inside tubes, so deep into the\nground without insulation that a low ground resistance is achieved\n~ 4!)- @). The level of the ground resistance varies according to\nsoil type and moisture content ~ $. If earthing electrode rods\nare driven more than 6 m into the ground, they are described as\n'buried'.\nA star-shaped earthing electrode consists of individual tapes\nprojecting outward in a star shape from a conductor.\n\nAluminium roof covering as an 'air\n\nType of earthing\n\nterminal'\n\nelectrode\n\n\"0\n\n\"i5\n\n,..\"'\n\n.<::\n\nI'!\n\nroof/wall\n4--'l----'l---'i~+'H+'F'~~ connection:\n\n\"0\n\nc\n\nE~\n\n\"!'!> \"'c\n\n0.\n\n0.\n\n·g\n\n&~\n\n\"'\"'\nE\n0\"'\n\nc\n\nE\n\nffim\ne:-iii\n\ne\n,..c\nD)\n\n.9\nU)\n\n\"'\n\n...J\n\n0\n\n0\n\ntape (length, m)\n\n12\n\n40\n\n80\n\n200\n\n400\n\nsignificant\n\nrod (depth, m)\n\n6\n\n20\n\n40\n\n100\n\n200\n\n600\n\ntape (length, m)\n\n6\n\n20\n\n40\n\n100\n\n200\n\n600\n\nmetal contact\n\n2\n\n\"'\n\n\"'\n\nGround\nresistance (il)\n\n::l\n\n\"0\n\nD)\n\npossible, no\n\nas far as\n\n0 Aluminium wail cladding as\n\n,:;_\n~\n\n\"0\n\nc\n\n5,\n\n1200\n\nrod (depth, m)\n\n3\n\n10\n\n20\n\n50\n\n100\n\n300\n\ntape (length, m)\n\n4\n\n13\n\n27\n\n67\n\n133\n\n400\n\nrod (depth, m)\n\n2\n\n7\n\n14\n\n34\n\n70\n\n200\n\ntape (length. m)\n\n2\n\n7\n\n13\n\n33\n\n67\n\n200\n\nrod (depth, m)\n\n1\n\n3\n\n7\n\n17\n\n33\n\n100\n\n5\n10\n15\n30\n\nG Ground resistance of tape and rod earthing electrodes in various soils\n\n0 Aluminium roof and wail\n\nconductor to earth\n\nChimney with\nconductor\nattached to\nridge cable\n\nBUILDING\nPHYSICS\n\nThermal\ninsulation\nSound insulation\nRoom acoustics\nLightning\n\n0 Earthing electrode in unreinforced\n\n8 Lightning conductor on chimney\nprotection\n\nclose to the eaves and connected to\nthe roof guttering\n\nCi) Do not directly connect roof mast for\nhigh-voltage cable; the open trensmission\npath has a spark gap of 30 mm\n\n486\n\ne\n\nconcrete foundation\n\nG) Earthing electrode in reinforced\nconcrete foundation\n\nAll metal structures and ventilation\nducts on the roof are connected to\n\nthe lightning protection system\n\nG:!) Install voltage surge protection\ndevice in steel structures with\n\nelectrical installations\n\ne\n\nLayout of a foundation earthing\nelectrode with waterproofing of tanks\n\n0 Bridging of movement joints\nwith expansion joint on inside of\nbuilding work\n\n\f"
+        }
+      ],
+      "figure_refs": [
+        "12",
+        "13",
+        "14",
+        "15"
+      ],
+      "cross_refs": [],
+      "keywords": [
+        "foundation earthing",
+        "reinforced concrete",
+        "waterproofing",
+        "movement joint",
+        "expansion joint"
+      ],
+      "tags_architectural": [
+        "safety",
+        "adaptability"
+      ],
+      "confidence": 0.58
+    }
+  ]
+}

@@ -1,0 +1,431 @@
+{
+  "fichas": [
+    {
+      "id": "4122fb96e4bd1976-252-vision-0",
+      "pdf_page": 252,
+      "book_page": 239,
+      "chapter": "ADMINISTRATION AND OFFICES",
+      "section": "Office Buildings",
+      "title": "Office room typologies",
+      "summary": "Office layouts are classified into single-room and open-plan offices, with group offices, combi-offices, hot-desk offices, satellite offices and reversible office buildings presented as variations or related arrangements.",
+      "building_type": "Office building",
+      "spaces": [
+        "Single rooms",
+        "Open-plan office areas",
+        "Group offices",
+        "Combi-offices",
+        "Satellite offices"
+      ],
+      "uses": [
+        "Organising office work by room size, occupation and communication needs",
+        "Providing options for concentrated work and collaboration"
+      ],
+      "furniture_equipment": [],
+      "dimensions": [],
+      "figure_refs": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "10"
+      ],
+      "cross_refs": [],
+      "keywords": [
+        "office typology",
+        "single-room office",
+        "open-plan office",
+        "group office",
+        "combi-office"
+      ],
+      "tags_architectural": [
+        "circulation",
+        "adaptability"
+      ],
+      "confidence": 0.97
+    },
+    {
+      "id": "4122fb96e4bd1976-252-vision-1",
+      "pdf_page": 252,
+      "book_page": 239,
+      "chapter": "ADMINISTRATION AND OFFICES",
+      "section": "Office Buildings",
+      "title": "Single-room office",
+      "summary": "Single and double offices are arranged in rows along a mostly artificially lit corridor. The text notes that this common layout supports concentrated work but can impede internal communication; jointly used infrastructure may occupy window space in occupied rooms.",
+      "building_type": "Office building",
+      "spaces": [
+        "Single rooms",
+        "Double rooms",
+        "Corridor"
+      ],
+      "uses": [
+        "Individual or small-group office work",
+        "Concentrated work"
+      ],
+      "furniture_equipment": [
+        "Jointly used infrastructure"
+      ],
+      "dimensions": [],
+      "figure_refs": [
+        "1"
+      ],
+      "cross_refs": [],
+      "keywords": [
+        "single-room office",
+        "double office",
+        "corridor",
+        "concentrated work"
+      ],
+      "tags_architectural": [
+        "circulation",
+        "spatial_proportion"
+      ],
+      "confidence": 0.96
+    },
+    {
+      "id": "4122fb96e4bd1976-252-vision-2",
+      "pdf_page": 252,
+      "book_page": 239,
+      "chapter": "ADMINISTRATION AND OFFICES",
+      "section": "Office Buildings",
+      "title": "Open-plan office",
+      "summary": "Large-scale office landscapes, enabled by artificial lighting and ventilation, are associated with openness and free communication. The text notes that economical cubic structures can have high maintenance costs and may be unpopular with users.",
+      "building_type": "Office building",
+      "spaces": [
+        "Open-plan office area"
+      ],
+      "uses": [
+        "Accommodating many workstations",
+        "Supporting communication"
+      ],
+      "furniture_equipment": [
+        "Workstations"
+      ],
+      "dimensions": [
+        {
+          "label": "Workstations",
+          "value": 100.0,
+          "value_max": null,
+          "unit": "workstations",
+          "context": "The text describes large-scale office landscapes with 100 or more workstations.",
+          "status": "uncertain",
+          "ocr_raw": "with 100 or more workstations"
+        }
+      ],
+      "figure_refs": [
+        "3"
+      ],
+      "cross_refs": [],
+      "keywords": [
+        "open-plan office",
+        "office landscape",
+        "artificial lighting",
+        "ventilation",
+        "communication"
+      ],
+      "tags_architectural": [
+        "ventilation",
+        "circulation"
+      ],
+      "confidence": 0.97
+    },
+    {
+      "id": "4122fb96e4bd1976-252-vision-3",
+      "pdf_page": 252,
+      "book_page": 239,
+      "chapter": "ADMINISTRATION AND OFFICES",
+      "section": "Office Buildings",
+      "title": "Group office",
+      "summary": "A group office is used by a single team or department and is presented as suitable for creative, design, coordination and development activities requiring substantial internal communication.",
+      "building_type": "Office building",
+      "spaces": [
+        "Group office"
+      ],
+      "uses": [
+        "Team or departmental work",
+        "Creative, design, coordination and development activities",
+        "Work requiring internal communication"
+      ],
+      "furniture_equipment": [
+        "Workstations"
+      ],
+      "dimensions": [
+        {
+          "label": "Workstations",
+          "value": 4.0,
+          "value_max": 16.0,
+          "unit": "workstations",
+          "context": "Approximate number of workstations in a group office.",
+          "status": "uncertain",
+          "ocr_raw": "approx. 4–16 workstations"
+        }
+      ],
+      "figure_refs": [
+        "2",
+        "5"
+      ],
+      "cross_refs": [],
+      "keywords": [
+        "group office",
+        "team",
+        "department",
+        "internal communication"
+      ],
+      "tags_architectural": [
+        "adaptability",
+        "spatial_proportion"
+      ],
+      "confidence": 0.98
+    },
+    {
+      "id": "4122fb96e4bd1976-252-vision-4",
+      "pdf_page": 252,
+      "book_page": 239,
+      "chapter": "ADMINISTRATION AND OFFICES",
+      "section": "Office Buildings",
+      "title": "Combi-office",
+      "summary": "Very small individual offices, separated by glass walls, connect to a deeper shared zone containing communal infrastructure. The arrangement aims to combine individual concentrated work with shared communication spaces.",
+      "building_type": "Office building",
+      "spaces": [
+        "Small individual offices",
+        "Central connection zone",
+        "Shared infrastructure area"
+      ],
+      "uses": [
+        "Concentrated individual work",
+        "Shared communication and use of infrastructure"
+      ],
+      "furniture_equipment": [
+        "Glass partitions",
+        "Individual workstations",
+        "Communal infrastructure"
+      ],
+      "dimensions": [],
+      "figure_refs": [
+        "4",
+        "10"
+      ],
+      "cross_refs": [],
+      "keywords": [
+        "combi-office",
+        "glass partitions",
+        "connection zone",
+        "shared infrastructure"
+      ],
+      "tags_architectural": [
+        "circulation",
+        "adaptability",
+        "spatial_proportion"
+      ],
+      "confidence": 0.97
+    },
+    {
+      "id": "4122fb96e4bd1976-252-vision-5",
+      "pdf_page": 252,
+      "book_page": 239,
+      "chapter": "ADMINISTRATION AND OFFICES",
+      "section": "Office Buildings",
+      "title": "Hot-desk office / business club",
+      "summary": "Workstations are assigned to functions rather than individuals; users select a suitable location for each activity. The employee’s personal area is limited to a mobile desk or cupboard unit. The arrangement relies on suitable business organisation and technical equipment and may be combined with teleworking or extensive travel.",
+      "building_type": "Office building",
+      "spaces": [
+        "Shared work areas"
+      ],
+      "uses": [
+        "Non-territorial office work",
+        "Activity-based workstation use",
+        "Teleworking support"
+      ],
+      "furniture_equipment": [
+        "Mobile desk/cupboard unit",
+        "Mobile phones",
+        "Laptops"
+      ],
+      "dimensions": [
+        {
+          "label": "Possible savings compared with personalised offices",
+          "value": 20.0,
+          "value_max": 50.0,
+          "unit": "%",
+          "context": "Savings stated for arrangements combined with teleworking or a high proportion of travelling representatives.",
+          "status": "uncertain",
+          "ocr_raw": "savings of 20-50% are possible compared with personalised offices"
+        }
+      ],
+      "figure_refs": [],
+      "cross_refs": [
+        "p. 234"
+      ],
+      "keywords": [
+        "hot desk",
+        "business club",
+        "non-territorial office",
+        "teleworking",
+        "mobile workstation"
+      ],
+      "tags_architectural": [
+        "adaptability",
+        "modularity"
+      ],
+      "confidence": 0.96
+    },
+    {
+      "id": "4122fb96e4bd1976-252-vision-6",
+      "pdf_page": 252,
+      "book_page": 239,
+      "chapter": "ADMINISTRATION AND OFFICES",
+      "section": "Office Buildings",
+      "title": "Satellite office",
+      "summary": "Office space in decentralised locations, such as residential areas near employees, can provide service stations and facilities for companies, small firms or self-employed people. The text describes reducing rush-hour travel and providing infrequently used rooms when needed.",
+      "building_type": "Office building",
+      "spaces": [
+        "Decentralised office space",
+        "Service stations",
+        "Meeting rooms",
+        "Conference rooms",
+        "Training rooms"
+      ],
+      "uses": [
+        "Providing nearby work locations",
+        "Providing branch or rental office space",
+        "Occasional meetings, conferences or training"
+      ],
+      "furniture_equipment": [
+        "Office infrastructure"
+      ],
+      "dimensions": [],
+      "figure_refs": [],
+      "cross_refs": [],
+      "keywords": [
+        "satellite office",
+        "decentralised office",
+        "service station",
+        "meeting room",
+        "conference room",
+        "training room"
+      ],
+      "tags_architectural": [
+        "adaptability"
+      ],
+      "confidence": 0.96
+    },
+    {
+      "id": "4122fb96e4bd1976-252-vision-7",
+      "pdf_page": 252,
+      "book_page": 239,
+      "chapter": "ADMINISTRATION AND OFFICES",
+      "section": "Office Buildings",
+      "title": "Reversible office (Revibüro)",
+      "summary": "A building type that can host different office companies with varying levels of fit-out. Greater adaptability increases equipment costs, and compromises may be needed in office sizes and organisation. The text describes it as suitable for rental to tenants not yet known.",
+      "building_type": "Office building",
+      "spaces": [
+        "Office spaces"
+      ],
+      "uses": [
+        "Accommodating different office companies and tenants",
+        "Rental to tenants not yet known"
+      ],
+      "furniture_equipment": [
+        "Building equipment and fit-out"
+      ],
+      "dimensions": [],
+      "figure_refs": [],
+      "cross_refs": [
+        "pp. 234, 235"
+      ],
+      "keywords": [
+        "reversible office",
+        "Revibüro",
+        "adaptability",
+        "rental office",
+        "tenant"
+      ],
+      "tags_architectural": [
+        "adaptability",
+        "modularity"
+      ],
+      "confidence": 0.95
+    },
+    {
+      "id": "4122fb96e4bd1976-252-vision-8",
+      "pdf_page": 252,
+      "book_page": 239,
+      "chapter": "ADMINISTRATION AND OFFICES",
+      "section": "Office Buildings",
+      "title": "Comparison of room-type floor areas",
+      "summary": "A cost-saving investigation by Prof. H. Sommer compared five alternative room arrangements to obtain quantitative data about space requirements. The chart gives floor areas for standard and comfortable partitioned offices, an open-plan arrangement, a group room and a combi-office.",
+      "building_type": "Office building",
+      "spaces": [
+        "Standard partitioned office",
+        "Comfortable partitioned office",
+        "Open-plan office",
+        "Group room",
+        "Combi-office"
+      ],
+      "uses": [
+        "Comparing space requirements across office arrangements"
+      ],
+      "furniture_equipment": [],
+      "dimensions": [
+        {
+          "label": "Standard partitioned office",
+          "value": 22.4,
+          "value_max": null,
+          "unit": "m²",
+          "context": "Floor area shown in the room-type comparison chart.",
+          "status": "uncertain",
+          "ocr_raw": "22.4 m²"
+        },
+        {
+          "label": "Comfortable partitioned office",
+          "value": 28.9,
+          "value_max": null,
+          "unit": "m²",
+          "context": "Floor area shown in the room-type comparison chart.",
+          "status": "uncertain",
+          "ocr_raw": "28.9 m²"
+        },
+        {
+          "label": "Open-plan",
+          "value": 26.4,
+          "value_max": null,
+          "unit": "m²",
+          "context": "Floor area shown in the room-type comparison chart.",
+          "status": "uncertain",
+          "ocr_raw": "26.4 m²"
+        },
+        {
+          "label": "Group room",
+          "value": 25.6,
+          "value_max": null,
+          "unit": "m²",
+          "context": "Floor area shown in the room-type comparison chart.",
+          "status": "uncertain",
+          "ocr_raw": "25.6 m²"
+        },
+        {
+          "label": "Combi-office",
+          "value": 23.1,
+          "value_max": null,
+          "unit": "m²",
+          "context": "Floor area shown in the room-type comparison chart.",
+          "status": "uncertain",
+          "ocr_raw": "23.1 m²"
+        }
+      ],
+      "figure_refs": [
+        "5"
+      ],
+      "cross_refs": [],
+      "keywords": [
+        "space requirement",
+        "floor area",
+        "room types",
+        "cost-saving investigation"
+      ],
+      "tags_architectural": [
+        "spatial_proportion"
+      ],
+      "confidence": 0.93
+    }
+  ]
+}

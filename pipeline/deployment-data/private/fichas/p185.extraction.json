@@ -1,0 +1,401 @@
+{
+  "fichas": [
+    {
+      "id": "4122fb96e4bd1976-185-vision-0",
+      "pdf_page": 185,
+      "book_page": 172,
+      "chapter": "ACCOMMODATION",
+      "section": "Hotels",
+      "title": "Hotel rooms: planning and room types",
+      "summary": "Hotel rooms are a major part of a hotel's area and an important factor in guest evaluation. Planning balances economic and technical requirements with comfort, spatial division, individuality, and identity. The page illustrates room layouts, bathrooms between rooms, bed spacing, accessible accommodation, apartments, suites, and a DEHOGA classification excerpt.",
+      "building_type": "Hotel",
+      "spaces": [
+        "Guest room",
+        "Bedroom",
+        "Bathroom/WC",
+        "Reception area",
+        "Lobby",
+        "Two-room apartment",
+        "Suite",
+        "Kitchen niche"
+      ],
+      "uses": [
+        "Sleeping",
+        "Living",
+        "Relaxation",
+        "Work",
+        "Guest accommodation"
+      ],
+      "furniture_equipment": [
+        "Bed",
+        "Seating",
+        "Television",
+        "Table",
+        "Luggage shelf",
+        "Cupboard",
+        "Washbasin",
+        "Telephone",
+        "Minibar",
+        "Armchair or sofa",
+        "Coffee table"
+      ],
+      "dimensions": [
+        {
+          "label": "Single room area, 1 Star (Tourist)",
+          "value": 8.0,
+          "value_max": null,
+          "unit": "m²",
+          "context": "Minimum area for 75% of hotel rooms; bathroom excluded.",
+          "status": "uncertain",
+          "ocr_raw": "single room 8 m2"
+        },
+        {
+          "label": "Double room area, 1 Star (Tourist)",
+          "value": 12.0,
+          "value_max": null,
+          "unit": "m²",
+          "context": "Minimum area for 75% of hotel rooms; bathroom excluded.",
+          "status": "uncertain",
+          "ocr_raw": "double room 12 m2"
+        },
+        {
+          "label": "Single room area, 2 Stars (Standard)",
+          "value": 12.0,
+          "value_max": null,
+          "unit": "m²",
+          "context": "Minimum area for 75% of hotel rooms; bathroom and corridor included.",
+          "status": "uncertain",
+          "ocr_raw": "single room 12 m2"
+        },
+        {
+          "label": "Double room area, 2 Stars (Standard)",
+          "value": 16.0,
+          "value_max": null,
+          "unit": "m²",
+          "context": "Minimum area for 75% of hotel rooms; bathroom and corridor included.",
+          "status": "uncertain",
+          "ocr_raw": "double room 16 m2"
+        },
+        {
+          "label": "Single room area, 3 Stars (Comfort)",
+          "value": 14.0,
+          "value_max": null,
+          "unit": "m²",
+          "context": "Minimum area; same area basis as the preceding category.",
+          "status": "uncertain",
+          "ocr_raw": "single room 14 m2"
+        },
+        {
+          "label": "Double room area, 3 Stars (Comfort)",
+          "value": 18.0,
+          "value_max": null,
+          "unit": "m²",
+          "context": "Minimum area; same area basis as the preceding category.",
+          "status": "uncertain",
+          "ocr_raw": "double room 18 m2"
+        },
+        {
+          "label": "Single room area, 4 Stars (First Class)",
+          "value": 16.0,
+          "value_max": null,
+          "unit": "m²",
+          "context": "Minimum area; same area basis as the preceding category.",
+          "status": "uncertain",
+          "ocr_raw": "single room 16 m2"
+        },
+        {
+          "label": "Double room area, 4 Stars (First Class)",
+          "value": 22.0,
+          "value_max": null,
+          "unit": "m²",
+          "context": "Minimum area; same area basis as the preceding category.",
+          "status": "uncertain",
+          "ocr_raw": "double room 22 m2"
+        },
+        {
+          "label": "Single room area, 5 Stars (Luxury)",
+          "value": 18.0,
+          "value_max": null,
+          "unit": "m²",
+          "context": "Minimum room area.",
+          "status": "uncertain",
+          "ocr_raw": "single room 18 m2"
+        },
+        {
+          "label": "Double room area, 5 Stars (Luxury)",
+          "value": 26.0,
+          "value_max": null,
+          "unit": "m²",
+          "context": "Minimum room area.",
+          "status": "uncertain",
+          "ocr_raw": "double room 26 m2"
+        },
+        {
+          "label": "Hotel rooms as suites, 5 Stars (Luxury)",
+          "value": 2.0,
+          "value_max": null,
+          "unit": "%",
+          "context": "Share of hotel rooms required to be suites; at least two suites.",
+          "status": "uncertain",
+          "ocr_raw": "2% of the hotel rooms as suites (at least two)"
+        },
+        {
+          "label": "Accessible room: turning-space diameter",
+          "value": 1.5,
+          "value_max": null,
+          "unit": "m",
+          "context": "Dimension marked in the accessible hotel-room plan.",
+          "status": "uncertain",
+          "ocr_raw": "1.50"
+        },
+        {
+          "label": "Accessible room: turning-space diameter",
+          "value": 1.5,
+          "value_max": null,
+          "unit": "m",
+          "context": "Dimension marked in the accessible hotel-room plan.",
+          "status": "uncertain",
+          "ocr_raw": "1.50"
+        },
+        {
+          "label": "Accessible room: turning-space diameter",
+          "value": 1.5,
+          "value_max": null,
+          "unit": "m",
+          "context": "Dimension marked in the accessible hotel-room plan.",
+          "status": "uncertain",
+          "ocr_raw": "1.50"
+        }
+      ],
+      "figure_refs": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11"
+      ],
+      "cross_refs": [
+        "p. 21"
+      ],
+      "keywords": [
+        "DEHOGA",
+        "hotel classification",
+        "hotel room",
+        "accessible room",
+        "suite",
+        "room area",
+        "bed spacing"
+      ],
+      "tags_architectural": [
+        "accessibility",
+        "circulation",
+        "ergonomics",
+        "anthropometry",
+        "clearance",
+        "adaptability"
+      ],
+      "confidence": 0.88
+    },
+    {
+      "id": "4122fb96e4bd1976-185-vision-1",
+      "pdf_page": 185,
+      "book_page": 172,
+      "chapter": "ACCOMMODATION",
+      "section": "Hotels",
+      "title": "Three-star hotel room layouts and dimensions",
+      "summary": "A plan illustrates a double room and a slightly enlarged single room with furniture and bathroom facilities. The caption identifies them as three-star hotel rooms according to DEHOGA classification. Further diagrams show bathroom arrangements between rooms and minimum distances between beds.",
+      "building_type": "Hotel",
+      "spaces": [
+        "Double room",
+        "Single room",
+        "Bathroom/WC"
+      ],
+      "uses": [
+        "Sleeping",
+        "Guest accommodation"
+      ],
+      "furniture_equipment": [
+        "Bed",
+        "Seating",
+        "Television",
+        "Table",
+        "Luggage shelf",
+        "Cupboard",
+        "Bath/WC"
+      ],
+      "dimensions": [
+        {
+          "label": "Double room area",
+          "value": 18.0,
+          "value_max": null,
+          "unit": "m²",
+          "context": "Three-star hotel room plan.",
+          "status": "uncertain",
+          "ocr_raw": "Double room 18 m2"
+        },
+        {
+          "label": "Single room area",
+          "value": 15.0,
+          "value_max": null,
+          "unit": "m²",
+          "context": "Three-star hotel room plan; caption says the single room is slightly enlarged.",
+          "status": "uncertain",
+          "ocr_raw": "Single room 15 m2"
+        },
+        {
+          "label": "Plan dimension",
+          "value": 4.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Dimension shown above the room plan.",
+          "status": "uncertain",
+          "ocr_raw": "4.00"
+        },
+        {
+          "label": "Plan dimension",
+          "value": 3.5,
+          "value_max": null,
+          "unit": "m",
+          "context": "Dimension shown above the room plan.",
+          "status": "uncertain",
+          "ocr_raw": "3.50"
+        },
+        {
+          "label": "Plan dimension",
+          "value": 3.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Vertical dimension shown beside the room plan.",
+          "status": "uncertain",
+          "ocr_raw": "3.00"
+        },
+        {
+          "label": "Plan dimension",
+          "value": 1.5,
+          "value_max": null,
+          "unit": "m",
+          "context": "Vertical dimension shown beside the room plan.",
+          "status": "uncertain",
+          "ocr_raw": "1.50"
+        },
+        {
+          "label": "Plan dimension",
+          "value": 1.6,
+          "value_max": null,
+          "unit": "m",
+          "context": "Dimension shown below the room plan.",
+          "status": "uncertain",
+          "ocr_raw": "1.60"
+        },
+        {
+          "label": "Plan dimension",
+          "value": 2.2,
+          "value_max": null,
+          "unit": "m",
+          "context": "Dimension shown below the room plan.",
+          "status": "uncertain",
+          "ocr_raw": "2.20"
+        },
+        {
+          "label": "Plan dimension",
+          "value": 2.2,
+          "value_max": null,
+          "unit": "m",
+          "context": "Dimension shown below the room plan.",
+          "status": "uncertain",
+          "ocr_raw": "2.20"
+        },
+        {
+          "label": "Plan dimension",
+          "value": 1.1,
+          "value_max": null,
+          "unit": "m",
+          "context": "Dimension shown below the room plan.",
+          "status": "uncertain",
+          "ocr_raw": "1.1"
+        },
+        {
+          "label": "Minimum distance between hotel beds",
+          "value": 50.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Bed-spacing diagram; dimension unit is not printed in the OCR.",
+          "status": "uncertain",
+          "ocr_raw": "50"
+        },
+        {
+          "label": "Minimum distance between hotel beds",
+          "value": 80.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Bed-spacing diagram; dimension unit is not printed in the OCR.",
+          "status": "uncertain",
+          "ocr_raw": "80"
+        },
+        {
+          "label": "Minimum distance between hotel beds",
+          "value": 50.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Bed-spacing diagram; dimension unit is not printed in the OCR.",
+          "status": "uncertain",
+          "ocr_raw": "50"
+        },
+        {
+          "label": "Bed-spacing diagram dimension",
+          "value": 50.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "One component of the printed dimension string; unit is not printed in the OCR.",
+          "status": "uncertain",
+          "ocr_raw": "50+50+1.50"
+        },
+        {
+          "label": "Bed-spacing diagram dimension",
+          "value": 50.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "One component of the printed dimension string; unit is not printed in the OCR.",
+          "status": "uncertain",
+          "ocr_raw": "50+50+1.50"
+        },
+        {
+          "label": "Bed-spacing diagram dimension",
+          "value": 1.5,
+          "value_max": null,
+          "unit": "m",
+          "context": "One component of the printed dimension string; unit is not printed in the OCR.",
+          "status": "uncertain",
+          "ocr_raw": "50+50+1.50"
+        }
+      ],
+      "figure_refs": [
+        "1",
+        "10"
+      ],
+      "cross_refs": [],
+      "keywords": [
+        "three-star hotel",
+        "double room",
+        "single room",
+        "room plan",
+        "bed spacing",
+        "DEHOGA"
+      ],
+      "tags_architectural": [
+        "circulation",
+        "ergonomics",
+        "anthropometry",
+        "clearance",
+        "spatial_proportion"
+      ],
+      "confidence": 0.76
+    }
+  ]
+}

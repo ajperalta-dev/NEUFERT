@@ -1,0 +1,45 @@
+{
+  "model": "gpt-6-luna",
+  "checks": {
+    "checks": [
+      {
+        "ficha_index": 0,
+        "dimension_index": 0,
+        "status": "verified",
+        "value": 6.0,
+        "value_max": null,
+        "reason": "Figure 2 visibly shows \u2265 6 m for the minimum depth for structural boring; the value and unit agree."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 1,
+        "status": "verified",
+        "value": 1.1,
+        "value_max": null,
+        "reason": "Figure 3 visibly shows \u2265 1.10 m for bored piles; the value and unit agree."
+      }
+    ]
+  },
+  "automatic": [
+    {
+      "ficha_index": 0,
+      "dimension_index": 0,
+      "issues": []
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 1,
+      "issues": []
+    }
+  ],
+  "usage": [
+    {
+      "prompt_tokens": 4675,
+      "completion_tokens": 787
+    },
+    {
+      "prompt_tokens": 3479,
+      "completion_tokens": 205
+    }
+  ]
+}

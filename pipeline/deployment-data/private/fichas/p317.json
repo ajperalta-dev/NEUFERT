@@ -1,0 +1,295 @@
+{
+  "fichas": [
+    {
+      "id": "4122fb96e4bd1976-317-vision-0",
+      "pdf_page": 317,
+      "book_page": 304,
+      "chapter": "HEALTH",
+      "section": "Hospitals",
+      "title": "Physiotherapy department: planning and spaces",
+      "summary": "Physiotherapy is divided into completely separated wet and dry areas and accessed through reception. The department may be on the ground floor and should receive natural ventilation through rooflights or light shafts. Decentralised therapy rooms may also be located near wards.",
+      "building_type": "Hospital physiotherapy department",
+      "spaces": [
+        "Reception area",
+        "Wet treatment area",
+        "Dry treatment area",
+        "Exercise bath",
+        "Four-cell bath",
+        "Butterfly bath",
+        "Inhalation rooms",
+        "Massage baths",
+        "Hand-foot baths",
+        "Changing rooms for women and men",
+        "Wheelchair-friendly toilet",
+        "Staff and patient toilets",
+        "Lounge",
+        "Laundry store",
+        "Waiting zone",
+        "Cleaning room",
+        "Exercise-bath service rooms",
+        "Gymnastics rooms",
+        "Single therapy rooms"
+      ],
+      "uses": [
+        "Group physiotherapy treatment",
+        "Individual therapy",
+        "Bobath concept therapy",
+        "Exercise therapy",
+        "Bath-based treatment",
+        "Massage",
+        "Inhalation treatment"
+      ],
+      "furniture_equipment": [],
+      "dimensions": [
+        {
+          "label": "Exercise bath",
+          "value": 4.0,
+          "value_max": 6.0,
+          "unit": "m",
+          "context": "Approximate bath dimensions, as printed in the department description.",
+          "status": "verified",
+          "ocr_raw": "exercise bath (approx. 4 x 6 m)"
+        },
+        {
+          "label": "Gymnastics room area",
+          "value": 40.0,
+          "value_max": 50.0,
+          "unit": "m2",
+          "context": "Approximate area of a gymnastics room for group treatment.",
+          "status": "verified",
+          "ocr_raw": "gymnastics rooms (approx. 40-50 m2)"
+        },
+        {
+          "label": "Single therapy room area",
+          "value": 20.0,
+          "value_max": null,
+          "unit": "m2",
+          "context": "Approximate area for a single therapy room used for Bobath concept and exercise therapy.",
+          "status": "verified",
+          "ocr_raw": "single therapy rooms (approx. 20 m2)"
+        },
+        {
+          "label": "Clear ceiling height",
+          "value": 3.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Minimum clear ceiling height in the dry area.",
+          "status": "verified",
+          "ocr_raw": "The clear ceiling height\nmust be min. 3.00 m."
+        }
+      ],
+      "figure_refs": [],
+      "cross_refs": [],
+      "keywords": [
+        "physiotherapy",
+        "wet area",
+        "dry area",
+        "exercise bath",
+        "gymnastics",
+        "therapy rooms",
+        "natural ventilation"
+      ],
+      "tags_architectural": [
+        "accessibility",
+        "ventilation",
+        "circulation"
+      ],
+      "confidence": 0.98
+    },
+    {
+      "id": "4122fb96e4bd1976-317-vision-1",
+      "pdf_page": 317,
+      "book_page": 304,
+      "chapter": "HEALTH",
+      "section": "Hospitals",
+      "title": "Physiotherapy, Berlin-Spandau Hospital",
+      "summary": "First-floor physiotherapy plan organized around an atrium, with reception and waiting areas, an exercise pool, changing rooms, gym and treatment spaces. The caption identifies the facility as Berlin-Spandau Hospital, today Vivantes Clinic Berlin-Spandau.",
+      "building_type": "Hospital physiotherapy department",
+      "spaces": [
+        "Atrium",
+        "Reception",
+        "Waiting area",
+        "Exercise pool",
+        "Ladies changing",
+        "Gents changing",
+        "Gym",
+        "Massage and electrotherapy",
+        "Medical bath",
+        "Cryotherapy",
+        "Equipment room",
+        "Inhalation",
+        "Extension"
+      ],
+      "uses": [
+        "Physiotherapy",
+        "Gymnastics",
+        "Pool-based exercise",
+        "Massage and electrotherapy",
+        "Cryotherapy"
+      ],
+      "furniture_equipment": [
+        "Exercise pool",
+        "Gym equipment",
+        "Treatment equipment"
+      ],
+      "dimensions": [],
+      "figure_refs": [
+        "1"
+      ],
+      "cross_refs": [],
+      "keywords": [
+        "Berlin-Spandau Hospital",
+        "Vivantes Clinic",
+        "first floor",
+        "atrium",
+        "exercise pool"
+      ],
+      "tags_architectural": [
+        "circulation",
+        "spatial_proportion"
+      ],
+      "confidence": 0.94
+    },
+    {
+      "id": "4122fb96e4bd1976-317-vision-2",
+      "pdf_page": 317,
+      "book_page": 304,
+      "chapter": "HEALTH",
+      "section": "Hospitals",
+      "title": "Physiotherapy, Thüringen Clinics, Saalfeld-Rudolstadt",
+      "summary": "Ground-floor plan of a physiotherapy department. The drawing labels a physical therapy area and a separate spa/sauna area.",
+      "building_type": "Hospital physiotherapy department",
+      "spaces": [
+        "Physical therapy area",
+        "Spa/sauna area",
+        "Treatment rooms",
+        "Gymnastics room",
+        "Exercise pool",
+        "Elevator hall"
+      ],
+      "uses": [
+        "Physiotherapy",
+        "Treatment",
+        "Gymnastics",
+        "Exercise pool use",
+        "Spa and sauna"
+      ],
+      "furniture_equipment": [],
+      "dimensions": [
+        {
+          "label": "Physical therapy area",
+          "value": 371.0,
+          "value_max": null,
+          "unit": "m2",
+          "context": "Area printed above the plan.",
+          "status": "verified",
+          "ocr_raw": "HOSPITALS\nExamination and Treatment\n\nPhysiotherapy\nThis department can be placed on the ground floor, but should\nhave adequate natural ventilation through rooflights or light shafts.\nIt must be accessed through a reception area.\n\nPhysiotherapy is divided into a dry and a wet area, the latter\nconsisting of exercise bath (approx. 4 x 6 m), 'four-cell' bath,\n'butterfly' bath, inhalation rooms, massage baths, hand-foot baths\nand the associated subsidiary rooms. The separation between wet\nand dry areas should be implemented completely.\nThe necessary subsidiary rooms are changing rooms for women\nand men, wheelchair-friendly toilet, staff and patient toilets,\nlounge, laundry store, waiting zone, cleaning room and services\nrooms for the exercise bath.\nIn the dry area, there are gymnastics rooms (approx. 40-50 m2)\nfor group treatment and single therapy rooms (approx. 20 m2) for\nBobath concept and exercise therapy. The clear ceiling height\nmust be min. 3.00 m.\n\n0\nn~\n\nAtrium\n\nB\n\nDecentralised therapy rooms can also be convenient near the\nwards (e.g. accident surgery, orthopaedics).\n\n4.585\n\n15\n\nli\n\n15\n\n:I 2.25 II\n\n2.6s'\n\n4.755\n\nI\n\n)Massage\n\ntl[J[J[J[J[J\n\n0\n\nCJ\n\nu\n\nc:\n\n[5 Waiting §\n\n0 Physiotherapy, first floor, Berlin-Spandau Hospital; today: Vlvantes Clinic,\nBerlin-Spandau\n\n~~\n\n~~01i\n\nl~¢;1\n\nHOSPITALS\nGeneral, modular\ngrid\nBuilding design\nExamples\n\nI_)\n\ntimulatio\n\nArch.: Heinie, Wlscher und Partner Freie Architektenen\n\nI~\n\nCorridors, doors,\nstairs, lifts\nOperational\nareas\nOutpatient area\nOutpatient\n\nin\n\nmedical centre-\n\nexample\nExamination\nand treatment\nCare\n\nAdministration,\nsocial seiVices\nSupply and waste\ndisposal\nTechnical supply\n\n6.96\n\nf) Physiotherapy, Heiios Clinic, Gotha\n~G) Special use (66 m2)\n\n® Personal residence\n\n®Office\n@Treatment\n®Gymnastics\n® Exercise pool\nPhysiotherapy, ground floor, ThOringen Clinics, Saalfeld-Rudolstadt\nArch.: Thiede Messthaler Klosges Kasper\n\n304\n\nArch.: Worner+ Partner\n\n0 4-cell bath\n@ Locker room\n® Occupational therapy (81 Rest room\n®Massage\n\n® Elevator hall\n@Waiting\n@Cosmetics\n\n®Spa/Sauna\n® Pharmacy (132m2)\n\n\f"
+        },
+        {
+          "label": "Spa/sauna area",
+          "value": 150.0,
+          "value_max": null,
+          "unit": "m2",
+          "context": "Area printed below the plan.",
+          "status": "verified",
+          "ocr_raw": "HOSPITALS\nExamination and Treatment\n\nPhysiotherapy\nThis department can be placed on the ground floor, but should\nhave adequate natural ventilation through rooflights or light shafts.\nIt must be accessed through a reception area.\n\nPhysiotherapy is divided into a dry and a wet area, the latter\nconsisting of exercise bath (approx. 4 x 6 m), 'four-cell' bath,\n'butterfly' bath, inhalation rooms, massage baths, hand-foot baths\nand the associated subsidiary rooms. The separation between wet\nand dry areas should be implemented completely.\nThe necessary subsidiary rooms are changing rooms for women\nand men, wheelchair-friendly toilet, staff and patient toilets,\nlounge, laundry store, waiting zone, cleaning room and services\nrooms for the exercise bath.\nIn the dry area, there are gymnastics rooms (approx. 40-50 m2)\nfor group treatment and single therapy rooms (approx. 20 m2) for\nBobath concept and exercise therapy. The clear ceiling height\nmust be min. 3.00 m.\n\n0\nn~\n\nAtrium\n\nB\n\nDecentralised therapy rooms can also be convenient near the\nwards (e.g. accident surgery, orthopaedics).\n\n4.585\n\n15\n\nli\n\n15\n\n:I 2.25 II\n\n2.6s'\n\n4.755\n\nI\n\n)Massage\n\ntl[J[J[J[J[J\n\n0\n\nCJ\n\nu\n\nc:\n\n[5 Waiting §\n\n0 Physiotherapy, first floor, Berlin-Spandau Hospital; today: Vlvantes Clinic,\nBerlin-Spandau\n\n~~\n\n~~01i\n\nl~¢;1\n\nHOSPITALS\nGeneral, modular\ngrid\nBuilding design\nExamples\n\nI_)\n\ntimulatio\n\nArch.: Heinie, Wlscher und Partner Freie Architektenen\n\nI~\n\nCorridors, doors,\nstairs, lifts\nOperational\nareas\nOutpatient area\nOutpatient\n\nin\n\nmedical centre-\n\nexample\nExamination\nand treatment\nCare\n\nAdministration,\nsocial seiVices\nSupply and waste\ndisposal\nTechnical supply\n\n6.96\n\nf) Physiotherapy, Heiios Clinic, Gotha\n~G) Special use (66 m2)\n\n® Personal residence\n\n®Office\n@Treatment\n®Gymnastics\n® Exercise pool\nPhysiotherapy, ground floor, ThOringen Clinics, Saalfeld-Rudolstadt\nArch.: Thiede Messthaler Klosges Kasper\n\n304\n\nArch.: Worner+ Partner\n\n0 4-cell bath\n@ Locker room\n® Occupational therapy (81 Rest room\n®Massage\n\n® Elevator hall\n@Waiting\n@Cosmetics\n\n®Spa/Sauna\n® Pharmacy (132m2)\n\n\f"
+        }
+      ],
+      "figure_refs": [
+        "2"
+      ],
+      "cross_refs": [],
+      "keywords": [
+        "Thüringen Clinics",
+        "Saalfeld-Rudolstadt",
+        "ground floor",
+        "physical therapy",
+        "spa",
+        "sauna"
+      ],
+      "tags_architectural": [
+        "circulation",
+        "spatial_proportion"
+      ],
+      "confidence": 0.9
+    },
+    {
+      "id": "4122fb96e4bd1976-317-vision-3",
+      "pdf_page": 317,
+      "book_page": 304,
+      "chapter": "HEALTH",
+      "section": "Hospitals",
+      "title": "Physiotherapy, Helios Clinic, Gotha",
+      "summary": "Physiotherapy plan for the Helios Clinic in Gotha, with a central waiting and patient-centre area and rooms for physiotherapy, occupational therapy, massage, wet treatment and related services. The legend identifies a special-use area and a pharmacy by area.",
+      "building_type": "Hospital physiotherapy department",
+      "spaces": [
+        "Waiting",
+        "Patient centre",
+        "Physiotherapy treatment rooms",
+        "Physiotherapy gymnastic treatment area",
+        "Occupational therapy",
+        "Wet treatment",
+        "Rest room",
+        "Clean laundry",
+        "Dirty laundry",
+        "Services",
+        "Tea kitchen",
+        "Massage rooms",
+        "Stimulation electricity",
+        "Fango",
+        "Cleaner",
+        "Patient changing"
+      ],
+      "uses": [
+        "Physiotherapy",
+        "Gymnastics",
+        "Occupational therapy",
+        "Massage",
+        "Wet treatment",
+        "Fango treatment",
+        "Spa and sauna"
+      ],
+      "furniture_equipment": [
+        "Treatment equipment",
+        "Patient seating"
+      ],
+      "dimensions": [
+        {
+          "label": "Special-use area",
+          "value": 66.0,
+          "value_max": null,
+          "unit": "m2",
+          "context": "Area identified in the plan legend.",
+          "status": "verified",
+          "ocr_raw": "Special use (66 m2)"
+        },
+        {
+          "label": "Pharmacy area",
+          "value": 132.0,
+          "value_max": null,
+          "unit": "m2",
+          "context": "Area identified in the plan legend.",
+          "status": "verified",
+          "ocr_raw": "Pharmacy (132m2)"
+        }
+      ],
+      "figure_refs": [
+        "3"
+      ],
+      "cross_refs": [],
+      "keywords": [
+        "Helios Clinic",
+        "Gotha",
+        "patient centre",
+        "physiotherapy",
+        "occupational therapy",
+        "wet treatment"
+      ],
+      "tags_architectural": [
+        "circulation",
+        "spatial_proportion"
+      ],
+      "confidence": 0.91
+    }
+  ]
+}

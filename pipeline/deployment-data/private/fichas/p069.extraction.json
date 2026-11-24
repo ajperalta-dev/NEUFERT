@@ -1,0 +1,105 @@
+{
+  "fichas": [
+    {
+      "id": "4122fb96e4bd1976-69-vision-0",
+      "pdf_page": 69,
+      "book_page": 56,
+      "chapter": "DESIGN PROCESS",
+      "section": "Design and Construction Management",
+      "title": "Public Planning and Building Law",
+      "summary": "Overview of the legal framework governing public building and land-use planning. The page summarizes the building law code, land-use regulation, planning drawings regulation, regional planning law, state building regulations, and the structure of the model building regulations (MBO).",
+      "building_type": "Legal and planning framework",
+      "spaces": [],
+      "uses": [
+        "Regulating land use and building development",
+        "Setting building requirements and approval procedures",
+        "Coordinating regional and municipal planning"
+      ],
+      "furniture_equipment": [],
+      "dimensions": [],
+      "figure_refs": [
+        "Figure 1: Structure of the MBO (model building regulations, at state level), general provisions (overview)"
+      ],
+      "cross_refs": [
+        "p. 63"
+      ],
+      "keywords": [
+        "public building law",
+        "building law code",
+        "land-use regulation",
+        "regional planning",
+        "state building regulations",
+        "MBO",
+        "building approval"
+      ],
+      "tags_architectural": [
+        "safety"
+      ],
+      "confidence": 0.95
+    },
+    {
+      "id": "4122fb96e4bd1976-69-vision-1",
+      "pdf_page": 69,
+      "book_page": 56,
+      "chapter": "DESIGN PROCESS",
+      "section": "Design and Construction Management",
+      "title": "Land-Use Planning and Development-Plan Decisions",
+      "summary": "Explains the distinction between preparatory land-use plans and binding development plans, including project development plans. The accompanying example diagram depicts planning decisions such as land-use designation, building lines, building type, and plot coverage.",
+      "building_type": "Land-use plan and development-plan example",
+      "spaces": [
+        "General residential area",
+        "Communal area",
+        "School",
+        "Road",
+        "Green area",
+        "Park"
+      ],
+      "uses": [
+        "Designating land uses",
+        "Controlling building development through zoning and development plans",
+        "Specifying building type, building lines, storeys, and plot coverage"
+      ],
+      "furniture_equipment": [],
+      "dimensions": [
+        {
+          "label": "Full storeys",
+          "value": 2.0,
+          "value_max": null,
+          "unit": "storeys",
+          "context": "Type of building use shown in the development-plan example.",
+          "status": "uncertain",
+          "ocr_raw": "2 full storeys"
+        },
+        {
+          "label": "Plot coverage ratio",
+          "value": 0.4,
+          "value_max": null,
+          "unit": "ratio",
+          "context": "Type of building use shown in the development-plan example; the page refers to p. 63.",
+          "status": "uncertain",
+          "ocr_raw": "plot coverage ratio 0.4"
+        }
+      ],
+      "figure_refs": [
+        "Figure 2: Decisions in development plans according to the building law code and the land use regulation (example)"
+      ],
+      "cross_refs": [
+        "p. 63"
+      ],
+      "keywords": [
+        "land-use planning",
+        "land use plan",
+        "development plan",
+        "project development plan",
+        "zoning",
+        "building line",
+        "building type",
+        "plot coverage ratio"
+      ],
+      "tags_architectural": [
+        "spatial_proportion"
+      ],
+      "confidence": 0.94
+    }
+  ]
+}

@@ -1,0 +1,217 @@
+{
+  "fichas": [
+    {
+      "id": "4122fb96e4bd1976-487-vision-0",
+      "pdf_page": 487,
+      "book_page": 474,
+      "chapter": "BUILDING SERVICES",
+      "section": "Building Physics",
+      "title": "Energy Saving Regulation and Thermal Insulation",
+      "summary": "Summarizes EnEV 2007 requirements for energy assessment of residential and non-residential buildings. Assessment considers primary energy demand for heating, hot water, ventilation, cooling and, for non-residential buildings, lighting. For new residential buildings, the envelope-area process considers the ratio of heat-transmitting area to heated building volume and uses a monthly balance procedure.",
+      "building_type": "Residential and non-residential buildings",
+      "spaces": [],
+      "uses": [
+        "Assess annual primary energy demand",
+        "Verify transmitted heat requirements",
+        "Calculate building energy performance"
+      ],
+      "furniture_equipment": [],
+      "dimensions": [],
+      "figure_refs": [],
+      "cross_refs": [
+        "EnEV 2007",
+        "EnEV 2002/2004",
+        "DIN EN 832",
+        "DIN 4108"
+      ],
+      "keywords": [
+        "energy saving regulation",
+        "primary energy",
+        "thermal insulation",
+        "envelope area process",
+        "monthly balance procedure"
+      ],
+      "tags_architectural": [],
+      "confidence": 0.96
+    },
+    {
+      "id": "4122fb96e4bd1976-487-vision-1",
+      "pdf_page": 487,
+      "book_page": 474,
+      "chapter": "BUILDING SERVICES",
+      "section": "Building Physics",
+      "title": "Thermal Insulation Design of Stairwells",
+      "summary": "For thermal insulation design, a temperature of at least 15°C can be assumed for stairwells. Radiators may be needed in the lower stairwell to ensure this temperature.",
+      "building_type": "Building stairwell",
+      "spaces": [
+        "Stairwell",
+        "Lower stairwell"
+      ],
+      "uses": [
+        "Thermal insulation design",
+        "Maintain the assumed stairwell temperature"
+      ],
+      "furniture_equipment": [
+        "Radiators"
+      ],
+      "dimensions": [
+        {
+          "label": "Assumed stairwell temperature",
+          "value": 15.0,
+          "value_max": null,
+          "unit": "°C",
+          "context": "Minimum temperature assumed for thermal insulation design of stairwells; may need to be ensured with radiators in the lower stairwell.",
+          "status": "uncertain",
+          "ocr_raw": "a temperature of ≥15°C can be assumed"
+        }
+      ],
+      "figure_refs": [],
+      "cross_refs": [
+        "EnEV 2007"
+      ],
+      "keywords": [
+        "stairwell",
+        "temperature",
+        "thermal insulation",
+        "radiators"
+      ],
+      "tags_architectural": [],
+      "confidence": 0.96
+    },
+    {
+      "id": "4122fb96e4bd1976-487-vision-2",
+      "pdf_page": 487,
+      "book_page": 474,
+      "chapter": "BUILDING SERVICES",
+      "section": "Building Physics",
+      "title": "Design Values of Building Products",
+      "summary": "Explains how energetic characteristics of building products are used to determine U-values for thermal insulation verification. Design values are obtained from relevant standards or approvals; nominal values are converted for temperature, moisture and ageing. The text specifies a partial safety factor for the thermal conductivity of insulation materials.",
+      "building_type": "Building envelope and construction components",
+      "spaces": [],
+      "uses": [
+        "Determine U-values",
+        "Verify thermal insulation",
+        "Establish design values for building products"
+      ],
+      "furniture_equipment": [
+        "Thermal insulation materials",
+        "Masonry components",
+        "Glazing",
+        "Windows",
+        "French windows",
+        "Frames"
+      ],
+      "dimensions": [
+        {
+          "label": "Partial safety factor for thermal conductivity",
+          "value": 1.2,
+          "value_max": null,
+          "unit": "factor",
+          "context": "Applied to nominal thermal-conductivity values of thermal insulation materials.",
+          "status": "uncertain",
+          "ocr_raw": "a partial safety factor of γ = 1.2"
+        }
+      ],
+      "figure_refs": [],
+      "cross_refs": [
+        "DIN EN 12524",
+        "DIN V 4108-4",
+        "EnEV 2007"
+      ],
+      "keywords": [
+        "design values",
+        "thermal conductivity",
+        "thermal resistance",
+        "thermal transmittance",
+        "U-values",
+        "conversion values"
+      ],
+      "tags_architectural": [],
+      "confidence": 0.97
+    },
+    {
+      "id": "4122fb96e4bd1976-487-vision-3",
+      "pdf_page": 487,
+      "book_page": 474,
+      "chapter": "BUILDING SERVICES",
+      "section": "Building Physics",
+      "title": "Sun Protection and Summer Heat Verification",
+      "summary": "Summer heat protection must be verified under EnEV 2007. The permissible sun input depends on factors including glazing energy transmission, window orientation and inclination, frame proportion, shading effectiveness, facade window area, climate and effective thermal capacity. The room-related sun input factor must not exceed the maximum permissible factor.",
+      "building_type": "Building",
+      "spaces": [
+        "Rooms"
+      ],
+      "uses": [
+        "Limit solar heat gain",
+        "Verify summer thermal protection"
+      ],
+      "furniture_equipment": [
+        "Glazing",
+        "Windows",
+        "Sun protection apparatus"
+      ],
+      "dimensions": [],
+      "figure_refs": [],
+      "cross_refs": [
+        "EnEV 2007",
+        "DIN 4102-2"
+      ],
+      "keywords": [
+        "sun protection",
+        "summer heat",
+        "solar gain",
+        "glazing",
+        "window orientation",
+        "thermal capacity"
+      ],
+      "tags_architectural": [
+        "daylighting"
+      ],
+      "confidence": 0.95
+    },
+    {
+      "id": "4122fb96e4bd1976-487-vision-4",
+      "pdf_page": 487,
+      "book_page": 474,
+      "chapter": "BUILDING SERVICES",
+      "section": "Building Physics",
+      "title": "Wind, Airtightness and Thermal Bridges",
+      "summary": "EnEV 2007 requires the heat-transmitting envelope, including joints, to be permanently airtight. Mechanical ventilation calculations may account for heat recovery or reduced air-change rates only when airtightness is verified; ventilation systems must allow users to influence airflow. Thermal bridges can increase heat loss and create low surface temperatures, condensation and mould risk; they may be accounted for by adjusting U-values or through separate verification.",
+      "building_type": "Building",
+      "spaces": [
+        "Building envelope",
+        "External window and roof-window joints"
+      ],
+      "uses": [
+        "Limit air infiltration",
+        "Verify airtightness",
+        "Reduce heat loss and condensation risk"
+      ],
+      "furniture_equipment": [
+        "Mechanical ventilation systems",
+        "Heat recovery equipment",
+        "External windows",
+        "French windows",
+        "Roof windows"
+      ],
+      "dimensions": [],
+      "figure_refs": [],
+      "cross_refs": [
+        "EnEV 2007"
+      ],
+      "keywords": [
+        "airtightness",
+        "blower door test",
+        "ventilation",
+        "heat recovery",
+        "thermal bridges",
+        "condensation",
+        "mould"
+      ],
+      "tags_architectural": [
+        "ventilation"
+      ],
+      "confidence": 0.94
+    }
+  ]
+}

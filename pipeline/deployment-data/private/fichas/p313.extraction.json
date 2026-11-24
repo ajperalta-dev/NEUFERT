@@ -1,0 +1,271 @@
+{
+  "fichas": [
+    {
+      "id": "4122fb96e4bd1976-313-vision-0",
+      "pdf_page": 313,
+      "book_page": 300,
+      "chapter": "HEALTH",
+      "section": "Hospitals",
+      "title": "Laboratory medicine",
+      "summary": "Hospital laboratory areas process blood, urine, and stool samples, with a large main room for standing and seated workstations and separate specialist laboratories. Subsidiary rooms support staff, rinsing, sluicing, disinfection, and cold storage. A pneumatic delivery system provides quick connections to other departments; laboratories may also be off-site and serve several hospitals.",
+      "building_type": "Hospital laboratory department",
+      "spaces": [
+        "Main laboratory",
+        "Specialist laboratories",
+        "Staff rest room",
+        "Rinsing room",
+        "Sluice room",
+        "Disinfection room",
+        "Cold room"
+      ],
+      "uses": [
+        "Preparation and processing of blood, urine, and stool samples",
+        "Standing and seated laboratory work",
+        "Pneumatic delivery of samples or materials between departments"
+      ],
+      "furniture_equipment": [],
+      "dimensions": [],
+      "figure_refs": [
+        "Figure 1: Laboratory area at the Dr. Horst Schmidt Clinics, Wiesbaden"
+      ],
+      "cross_refs": [],
+      "keywords": [
+        "laboratory medicine",
+        "sample processing",
+        "pneumatic delivery",
+        "hospital"
+      ],
+      "tags_architectural": [
+        "circulation",
+        "adaptability"
+      ],
+      "confidence": 0.97
+    },
+    {
+      "id": "4122fb96e4bd1976-313-vision-1",
+      "pdf_page": 313,
+      "book_page": 300,
+      "chapter": "HEALTH",
+      "section": "Hospitals",
+      "title": "Pathology department",
+      "summary": "A hospital pathology department accommodates body storage and refrigeration, dissection, laying out, coffin placement and storage, and changing rooms for pathologists. Provide separate access for relatives and short road access for undertakers. The department should be separated from the service yard vicinity.",
+      "building_type": "Hospital pathology department",
+      "spaces": [
+        "Body storage room",
+        "Dissection room",
+        "Body refrigeration room",
+        "Laying-out room",
+        "Coffin placement area",
+        "Coffin storage",
+        "Pathologists’ changing rooms",
+        "Relatives’ access",
+        "Undertakers’ access"
+      ],
+      "uses": [
+        "Storage, refrigeration, and dissection of bodies",
+        "Laying out bodies and placing them into coffins",
+        "Access for relatives and undertakers"
+      ],
+      "furniture_equipment": [
+        "Coffin stand"
+      ],
+      "dimensions": [],
+      "figure_refs": [
+        "Figure 2: Soltau District Hospital, 354 beds",
+        "Figure 3: Pathology department at the St. Clemens Hospital, Geldern, 480 beds"
+      ],
+      "cross_refs": [],
+      "keywords": [
+        "pathology",
+        "mortuary",
+        "body storage",
+        "undertakers",
+        "relatives"
+      ],
+      "tags_architectural": [
+        "circulation",
+        "safety"
+      ],
+      "confidence": 0.96
+    },
+    {
+      "id": "4122fb96e4bd1976-313-vision-2",
+      "pdf_page": 313,
+      "book_page": 300,
+      "chapter": "HEALTH",
+      "section": "Hospitals",
+      "title": "Radiology",
+      "summary": "Radiology accommodates diagnostic and therapeutic use of ionising radiation. Locate it near the outpatient department and ambulance approach; the heavy equipment favors a ground-floor or first-basement location. Room planning depends on equipment and associated technology. Patient access to radioscopy rooms includes two changing cubicles per room and a wide bed-access door. Specialized rooms and support spaces are required for angiography, computer tomography, switching, and film development. Walls and ceilings receive lead protection specified in coordination with the X-ray equipment manufacturer.",
+      "building_type": "Hospital radiology department",
+      "spaces": [
+        "Sonography room",
+        "Mammography room",
+        "Jaw radioscopy room",
+        "Radioscopy room",
+        "Exposure room",
+        "Changing cubicles",
+        "Gastroscopy WC",
+        "Colonoscopy WC",
+        "Angiography preparation room",
+        "Computer tomography exposure room",
+        "Staff connecting room",
+        "Switchroom",
+        "Switching-cabinet room",
+        "Film-development room"
+      ],
+      "uses": [
+        "Diagnostic and therapeutic application of ionising radiation",
+        "Radiography and radioscopy",
+        "Sonography, mammography, angiography, and computer tomography"
+      ],
+      "furniture_equipment": [
+        "Medical imaging equipment",
+        "Cupboard units",
+        "Sink",
+        "Pharmaceutical refrigerator",
+        "Switching cabinets"
+      ],
+      "dimensions": [
+        {
+          "label": "Equipment weight",
+          "value": 14.0,
+          "value_max": null,
+          "unit": "t",
+          "context": "Radiology equipment weight, up to approximately 14 t; informs preferred ground-floor or first-basement location.",
+          "status": "uncertain",
+          "ocr_raw": "heavy weight of the equipment (up to approx. 14 t)"
+        },
+        {
+          "label": "Room area",
+          "value": 15.0,
+          "value_max": 18.0,
+          "unit": "m²",
+          "context": "Approximate room area for sonography, mammography, and jaw radioscopy.",
+          "status": "uncertain",
+          "ocr_raw": "Sonography, mammography and jaw radioscopy need room sizes of approx. 15-18 m2"
+        },
+        {
+          "label": "Room area",
+          "value": 20.0,
+          "value_max": 30.0,
+          "unit": "m²",
+          "context": "Approximate room area for radioscopy and exposure rooms.",
+          "status": "uncertain",
+          "ocr_raw": "radioscopy and exposure rooms approx. 20-30 m2"
+        },
+        {
+          "label": "Door width",
+          "value": 1.25,
+          "value_max": null,
+          "unit": "m",
+          "context": "Wide patient-access door for beds at radioscopy rooms.",
+          "status": "uncertain",
+          "ocr_raw": "a wide (1.25 m) door for beds"
+        },
+        {
+          "label": "Exposure-room area",
+          "value": 35.0,
+          "value_max": null,
+          "unit": "m²",
+          "context": "Approximate area of the computer tomography exposure room.",
+          "status": "uncertain",
+          "ocr_raw": "The exposure room for computer tomography must have dimensions of approx. 35 m2"
+        }
+      ],
+      "figure_refs": [
+        "Figure 4: Munich-Perlach Hospital, 687 beds",
+        "Figure 5: Fulda City Hospital, 732 beds: centre of examination and treatment area, near the functional diagnosis and nuclear medicine diagnosis departments"
+      ],
+      "cross_refs": [],
+      "keywords": [
+        "radiology",
+        "ionising radiation",
+        "radioscopy",
+        "sonography",
+        "mammography",
+        "angiography",
+        "computer tomography",
+        "lead protection"
+      ],
+      "tags_architectural": [
+        "circulation",
+        "safety",
+        "clearance"
+      ],
+      "confidence": 0.98
+    },
+    {
+      "id": "4122fb96e4bd1976-313-vision-3",
+      "pdf_page": 313,
+      "book_page": 300,
+      "chapter": "HEALTH",
+      "section": "Hospitals",
+      "title": "Laboratory area at the Dr. Horst Schmidt Clinics, Wiesbaden",
+      "summary": "Illustrated laboratory-area plan. The accompanying text describes a large laboratory with standing and sitting workstations, separate specialist laboratories, subsidiary rooms, and pneumatic delivery connections. Architect: Wörner + Partner.",
+      "building_type": "Hospital laboratory",
+      "spaces": [
+        "Laboratory area"
+      ],
+      "uses": [
+        "Laboratory work"
+      ],
+      "furniture_equipment": [],
+      "dimensions": [],
+      "figure_refs": [
+        "Figure 1: Laboratory area at the Dr. Horst Schmidt Clinics, Wiesbaden"
+      ],
+      "cross_refs": [],
+      "keywords": [
+        "laboratory",
+        "floor plan",
+        "Wiesbaden",
+        "Wörner + Partner"
+      ],
+      "tags_architectural": [
+        "circulation",
+        "adaptability"
+      ],
+      "confidence": 0.9
+    },
+    {
+      "id": "4122fb96e4bd1976-313-vision-4",
+      "pdf_page": 313,
+      "book_page": 300,
+      "chapter": "HEALTH",
+      "section": "Hospitals",
+      "title": "Hospital examination and treatment area examples",
+      "summary": "Illustrated hospital plans show examination and treatment facilities at Munich-Perlach Hospital and Fulda City Hospital. The Fulda centre is identified as near the functional diagnosis and nuclear medicine diagnosis departments. Captions give hospital capacities of 687 and 732 beds, respectively.",
+      "building_type": "Hospital examination and treatment department",
+      "spaces": [
+        "Waiting areas",
+        "Examination and treatment rooms",
+        "Functional diagnosis areas",
+        "Nuclear medicine diagnosis areas"
+      ],
+      "uses": [
+        "Outpatient examination and treatment",
+        "Functional diagnosis",
+        "Nuclear medicine diagnosis"
+      ],
+      "furniture_equipment": [],
+      "dimensions": [],
+      "figure_refs": [
+        "Figure 4: Munich-Perlach Hospital, 687 beds; Architects: Wichtendahl, Roennich",
+        "Figure 5: Fulda City Hospital, 732 beds: centre of examination and treatment area, near the functional diagnosis and nuclear medicine diagnosis departments; Arch.: Köhler, Kassens"
+      ],
+      "cross_refs": [],
+      "keywords": [
+        "examination",
+        "treatment",
+        "outpatient",
+        "hospital plan",
+        "waiting"
+      ],
+      "tags_architectural": [
+        "circulation",
+        "adaptability"
+      ],
+      "confidence": 0.91
+    }
+  ]
+}

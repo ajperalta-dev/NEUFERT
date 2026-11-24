@@ -1,0 +1,184 @@
+{
+  "fichas": [
+    {
+      "id": "4122fb96e4bd1976-178-vision-0",
+      "pdf_page": 178,
+      "book_page": 165,
+      "chapter": "RESIDENTIAL BUILDINGS",
+      "section": "Rooms",
+      "title": "Communal Storerooms for Bicycles and Prams",
+      "summary": "Communal storerooms are required for prams, pushchairs and bicycles in residential building classes 3–5, and should also be provided in other residential buildings and detached houses. Plan for at least one vehicle per occupant, including children, and allow for mopeds, tricycles and trailers. Rooms should preferably be at street level, lockable, and fitted with hooks and bicycle stands. They may be inside the building with access to the entrance or in separate bicycle sheds; provide additional outdoor bicycle stands, especially when the storeroom is in the cellar. The illustrated bicycle/pram room is an example for about 20 vehicles.",
+      "building_type": "Residential buildings; communal bicycle and pram storeroom",
+      "spaces": [
+        "Communal bicycle/pram storeroom",
+        "Separate bicycle shed",
+        "Outdoor bicycle parking"
+      ],
+      "uses": [
+        "Store bicycles, prams, pushchairs, bicycle trailers, tricycles and mopeds",
+        "Secure stored vehicles",
+        "Provide bicycle parking"
+      ],
+      "furniture_equipment": [
+        "Bicycle stands",
+        "Hooks"
+      ],
+      "dimensions": [
+        {
+          "label": "Vehicle provision",
+          "value": 1.0,
+          "value_max": null,
+          "unit": "vehicle per occupant",
+          "context": "Minimum assumed provision, including children; applies to the design of the communal storeroom.",
+          "status": "uncertain",
+          "ocr_raw": "at least one vehicle per occupant (including children)"
+        },
+        {
+          "label": "Example capacity",
+          "value": 20.0,
+          "value_max": null,
+          "unit": "vehicles",
+          "context": "Approximate capacity of the illustrated bicycle/pram room.",
+          "status": "uncertain",
+          "ocr_raw": "Bicycle/pram room for about 20 vehicles (example)"
+        },
+        {
+          "label": "Bicycle/pram room length",
+          "value": 6.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Overall horizontal dimension shown on the example plan.",
+          "status": "uncertain",
+          "ocr_raw": "6.00"
+        },
+        {
+          "label": "Bicycle/pram room width",
+          "value": 5.5,
+          "value_max": null,
+          "unit": "m",
+          "context": "Overall vertical dimension shown on the example plan.",
+          "status": "uncertain",
+          "ocr_raw": "5.50"
+        },
+        {
+          "label": "Bicycle stand spacing",
+          "value": 1.2,
+          "value_max": null,
+          "unit": "m",
+          "context": "Dimension shown between bicycle stands in the example layout.",
+          "status": "uncertain",
+          "ocr_raw": "1.20"
+        },
+        {
+          "label": "Bicycle stand spacing",
+          "value": 1.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Dimension shown in the dense bicycle parking layout.",
+          "status": "uncertain",
+          "ocr_raw": "1.00"
+        },
+        {
+          "label": "Bicycle stand spacing",
+          "value": 0.8,
+          "value_max": null,
+          "unit": "m",
+          "context": "Dimension shown in the dense bicycle parking layout.",
+          "status": "uncertain",
+          "ocr_raw": "80"
+        }
+      ],
+      "figure_refs": [
+        "1",
+        "2",
+        "3"
+      ],
+      "cross_refs": [
+        "Storerooms, p. 162"
+      ],
+      "keywords": [
+        "communal storeroom",
+        "bicycle parking",
+        "pram storage",
+        "bicycle shed",
+        "vehicle storage"
+      ],
+      "tags_architectural": [
+        "circulation",
+        "clearance",
+        "safety"
+      ],
+      "confidence": 0.91
+    },
+    {
+      "id": "4122fb96e4bd1976-178-vision-1",
+      "pdf_page": 178,
+      "book_page": 165,
+      "chapter": "RESIDENTIAL BUILDINGS",
+      "section": "Rooms",
+      "title": "Cellar Compartment in a Residential Building",
+      "summary": "Storage for each flat normally includes an in-flat storeroom and additional storage outside the flat, usually as a cellar compartment. An inexpensive alternative is a parking shed in the grounds. Cellar storerooms should be dry and well ventilated; natural lighting is recommended, and careful detailing of the window opening can improve light entry. The illustrated cellar compartment includes a light shaft and steel shelf.",
+      "building_type": "Residential building cellar storage",
+      "spaces": [
+        "Cellar compartment",
+        "Light shaft"
+      ],
+      "uses": [
+        "Store household belongings outside the flat",
+        "Provide natural light and ventilation to storage space"
+      ],
+      "furniture_equipment": [
+        "Steel shelf",
+        "Light shaft"
+      ],
+      "dimensions": [
+        {
+          "label": "Cellar compartment length",
+          "value": 3.5,
+          "value_max": null,
+          "unit": "m",
+          "context": "Overall horizontal dimension shown on the example plan.",
+          "status": "uncertain",
+          "ocr_raw": "3.50"
+        },
+        {
+          "label": "Cellar compartment height",
+          "value": 2.2,
+          "value_max": null,
+          "unit": "m",
+          "context": "Height shown in the section drawing.",
+          "status": "uncertain",
+          "ocr_raw": "2.20"
+        },
+        {
+          "label": "Clear height",
+          "value": 1.5,
+          "value_max": null,
+          "unit": "m",
+          "context": "Dimension marked in the cellar compartment drawing.",
+          "status": "uncertain",
+          "ocr_raw": "1.50"
+        }
+      ],
+      "figure_refs": [
+        "4",
+        "5"
+      ],
+      "cross_refs": [
+        "Storerooms, p. 162"
+      ],
+      "keywords": [
+        "cellar",
+        "storage compartment",
+        "natural lighting",
+        "light shaft",
+        "ventilation"
+      ],
+      "tags_architectural": [
+        "daylighting",
+        "ventilation"
+      ],
+      "confidence": 0.88
+    }
+  ]
+}

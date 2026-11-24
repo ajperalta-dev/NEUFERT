@@ -1,0 +1,140 @@
+{
+  "model": "gpt-6-luna",
+  "checks": {
+    "checks": [
+      {
+        "ficha_index": 0,
+        "dimension_index": 0,
+        "status": "verified",
+        "value": 18.0,
+        "value_max": null,
+        "reason": "The guideline text visibly states 18 m\u00b2 for individual rooms."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 1,
+        "status": "uncertain",
+        "value": 20.0,
+        "value_max": null,
+        "reason": "The text visibly includes 20 m\u00b2 alongside the room guidance, but the wording does not clearly assign that value to single rooms."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 2,
+        "status": "verified",
+        "value": 20.0,
+        "value_max": null,
+        "reason": "The guideline text visibly states 20 m\u00b2 for double rooms."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 3,
+        "status": "verified",
+        "value": 7.0,
+        "value_max": null,
+        "reason": "The text visibly states 7 m\u00b2 for a separate single bedroom."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 4,
+        "status": "verified",
+        "value": 12.0,
+        "value_max": null,
+        "reason": "The text visibly states 12 m\u00b2 for a separate double room."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 5,
+        "status": "verified",
+        "value": 1.25,
+        "value_max": null,
+        "reason": "The entrance guidance visibly gives a minimum size of 1.25 m \u00d7 1.25 m."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 6,
+        "status": "verified",
+        "value": 1.25,
+        "value_max": null,
+        "reason": "The entrance guidance visibly gives a minimum size of 1.25 m \u00d7 1.25 m."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 7,
+        "status": "verified",
+        "value": 8.0,
+        "value_max": 10.0,
+        "reason": "The text visibly says approximately 8\u201310 elderly people per residential group."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 8,
+        "status": "verified",
+        "value": 50.0,
+        "value_max": null,
+        "reason": "The guideline text visibly states residential accommodation = 50% individual rooms."
+      }
+    ]
+  },
+  "automatic": [
+    {
+      "ficha_index": 0,
+      "dimension_index": 0,
+      "issues": []
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 1,
+      "issues": []
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 2,
+      "issues": []
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 3,
+      "issues": []
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 4,
+      "issues": []
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 5,
+      "issues": []
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 6,
+      "issues": []
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 7,
+      "issues": [
+        "Unknown unit"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 8,
+      "issues": [
+        "Unknown unit"
+      ]
+    }
+  ],
+  "usage": [
+    {
+      "prompt_tokens": 4435,
+      "completion_tokens": 1271
+    },
+    {
+      "prompt_tokens": 4253,
+      "completion_tokens": 957
+    }
+  ]
+}

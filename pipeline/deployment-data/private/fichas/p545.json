@@ -1,0 +1,265 @@
+{
+  "fichas": [
+    {
+      "id": "4122fb96e4bd1976-545-vision-0",
+      "pdf_page": 545,
+      "book_page": 532,
+      "chapter": "BUILDING SERVICES",
+      "section": "Domestic Installation",
+      "title": "Chimney opening and solid-fuel heating room",
+      "summary": "Diagram of a solid-fuel boiler room showing the chimney, air supply and waste-air routes. The printed requirements specify a minimum chimney opening, room size, heating capacity and room height.",
+      "building_type": "Building with solid-fuel heating",
+      "spaces": [
+        "Heating room",
+        "Chimney"
+      ],
+      "uses": [
+        "House a solid-fuel boiler",
+        "Provide combustion air and waste-air route"
+      ],
+      "furniture_equipment": [
+        "Boiler",
+        "Chimney"
+      ],
+      "dimensions": [
+        {
+          "label": "Minimum chimney opening",
+          "value": 150.0,
+          "value_max": null,
+          "unit": "cm²",
+          "context": "Minimum opening shown for the chimney.",
+          "status": "verified",
+          "ocr_raw": "Chimney opening\nmin. 150 cm 2"
+        },
+        {
+          "label": "Minimum heating-room area/volume",
+          "value": 8.0,
+          "value_max": null,
+          "unit": "m³",
+          "context": "Requirement printed for a heating room for solid fuel; OCR calls this an area, while the unit shown is cubic metres.",
+          "status": "verified",
+          "ocr_raw": "DOMESTIC INSTALLATION\n\nChimney opening\nmin. 150 cm 2\n\n0\n\nHeating\n\nHeating room for solid fuel, min. area 8 m3 necessary for heating capacity \"'50 kW\n\n777/ZZtZZZZ?ZtZtZ?Z!ZZt\n\n////j/)////?77////////r\n\nBecause a temperature of 70°C is typically sufficient for the\nheat distribution medium, a holistic design will attempt to avoid\nthe burning of fossil fuels. Methods of exploiting renewable\nenergy are: (ground-source) geothermal energy --> p. 469 in\nconnection with a heat pump system; combination of heat and\npower generation (CHP); or perhaps falling back on a C0 2neutral energy source like wood. It can also be possible to store\nseasonal sources of energy from the environment (thermal solar\nenergy) during the summer months and make it available in the\nwinter.\n\nt ~-£\n~IE\n~I=>\n~\n\n'I\n\n_Pump~f\n\nBoiler\n\n-----u+-\n\nzz?zz;zzzzz;;zctzzzzzz,\n\nf) Principle of warm water central heating\nsystem: water is heated by the boiler\nand circulated constantly to radiating\nsurfaces by a pump (Wellpott -> refs)\n\nHeating systems\nHeating systems for buildings normally use water as the\nheat distribution medium, less often air (steam is used as a\nheating medium only for industrial purposes). The necessary\ntemperature of the heat distribution medium (water, air, steam)\ndepends on the temperature chosen and the type of heating\nsurface in the rooms. A heat generator provides the necessary\ntemperature. Most existing heating systems use gas or oil as\nthe primary energy source. The heating gas or oil is normally\nburnt in boilers with a combustion temperature of about 1ooooc\nand the heat is transferred to the distribution medium in a heat\nexchanger.\n\ne\n\nTwin-pipe system with low-level\ndistribution and vertical riser\nconnections\n\n2?7?77/t?ttZZZ/tZZZZZZ,\n\nHeat distribution\nMuch the most common system is warm water central heating.\nThis transfers the heat produced in the heat generator into water\nas distribution medium to the radiators, which emit heat. The\ncooled water returns to the heat generator to be warmed up\nagain (flow and return). Warm water central heating systems\nhave a max. flow temperature of approx. 100°C, but 45-70°C\nis normally preferred today, described as the low temperature\nrange. Heating systems with flow temperatures of over 120°C\ncount as hot water heating and are more often used with district\nheating systems.\nThe heat distribution is normally circulated as warm water\npumped heating. There are various pipework layouts --> 0- 0.\n\nDOMESTIC\nINSTALLATION\n\nDrainage\nVentilation\nHeating\nSmall sewage\ntreatment plants\nZZZ???ZZ?ZZ??ZZ?Ztl?Z?,\n\nBS 5871\nBS EN 12828\nBS EN 15316\nDIN EN 215\nDIN EN 442\nDIN EN 1264\nDIN EN 12170\nDIN EN 12171\nDIN EN 12828\nDIN EN 12831\n\n0\n\nTwin-pipe system with high-level\ndistribution and vertical riser\nconnections\n\ne\n\nSingle-pipe system with special\nvalves and horizontal distribution\n\nHeat generation with gas or heating oil\nGas firing: gas has become prevalent in recent years. Advantages:\nno storage costs, low maintenance costs, payment after use,\ncan be used in groundwater protection zones, easily regulated,\nhigh annual efficiency, can be used for the heating of individual\nflats or rooms (compact gas boilers), little environmental impact.\nDisadvantages: dependent on public utility network, higher energy\ncosts. A conversion from oil to gas usually makes a new chimney\nnecessary.\nOil firing: is also common today using light heating oil as fuel.\nAdvantages: requires no public utility network, easily controllable.\nDisadvantages: high cost of storage and tank installation, rent\nincome losses in rented houses due to the oil storage room, only\npossible under stringent regulations in areas at risk of flooding\nor groundwater protection zones, payment before use, high\nenvironmental impact.\n\n0 Twin-pipe system with horizontal\ndistribution (standard layout for\noffice buildings)\n\n532\n\n8\n\nSingle-pipe system with horizontal\ndistribution on each floor\n\nSolid fuel firing\nCoal, brown coal and wood are now used less often for heating\nbuildings. Depending on the fuel, large quantities of environmental\npollutants can be released, which are subject to stringent controls\nunder the Federal Anti-Emissions Law. Advantages: independent\nof fuel imports, low fuel costs. Disadvantages: more work for the\noperator, larger storeroom necessary, high emission of pollutants,\npoor controllability.\n\n\f"
+        },
+        {
+          "label": "Heating capacity threshold",
+          "value": 50.0,
+          "value_max": null,
+          "unit": "kW",
+          "context": "Heating-room requirement applies to heating capacity at or above this threshold.",
+          "status": "verified",
+          "ocr_raw": "DOMESTIC INSTALLATION\n\nChimney opening\nmin. 150 cm 2\n\n0\n\nHeating\n\nHeating room for solid fuel, min. area 8 m3 necessary for heating capacity \"'50 kW\n\n777/ZZtZZZZ?ZtZtZ?Z!ZZt\n\n////j/)////?77////////r\n\nBecause a temperature of 70°C is typically sufficient for the\nheat distribution medium, a holistic design will attempt to avoid\nthe burning of fossil fuels. Methods of exploiting renewable\nenergy are: (ground-source) geothermal energy --> p. 469 in\nconnection with a heat pump system; combination of heat and\npower generation (CHP); or perhaps falling back on a C0 2neutral energy source like wood. It can also be possible to store\nseasonal sources of energy from the environment (thermal solar\nenergy) during the summer months and make it available in the\nwinter.\n\nt ~-£\n~IE\n~I=>\n~\n\n'I\n\n_Pump~f\n\nBoiler\n\n-----u+-\n\nzz?zz;zzzzz;;zctzzzzzz,\n\nf) Principle of warm water central heating\nsystem: water is heated by the boiler\nand circulated constantly to radiating\nsurfaces by a pump (Wellpott -> refs)\n\nHeating systems\nHeating systems for buildings normally use water as the\nheat distribution medium, less often air (steam is used as a\nheating medium only for industrial purposes). The necessary\ntemperature of the heat distribution medium (water, air, steam)\ndepends on the temperature chosen and the type of heating\nsurface in the rooms. A heat generator provides the necessary\ntemperature. Most existing heating systems use gas or oil as\nthe primary energy source. The heating gas or oil is normally\nburnt in boilers with a combustion temperature of about 1ooooc\nand the heat is transferred to the distribution medium in a heat\nexchanger.\n\ne\n\nTwin-pipe system with low-level\ndistribution and vertical riser\nconnections\n\n2?7?77/t?ttZZZ/tZZZZZZ,\n\nHeat distribution\nMuch the most common system is warm water central heating.\nThis transfers the heat produced in the heat generator into water\nas distribution medium to the radiators, which emit heat. The\ncooled water returns to the heat generator to be warmed up\nagain (flow and return). Warm water central heating systems\nhave a max. flow temperature of approx. 100°C, but 45-70°C\nis normally preferred today, described as the low temperature\nrange. Heating systems with flow temperatures of over 120°C\ncount as hot water heating and are more often used with district\nheating systems.\nThe heat distribution is normally circulated as warm water\npumped heating. There are various pipework layouts --> 0- 0.\n\nDOMESTIC\nINSTALLATION\n\nDrainage\nVentilation\nHeating\nSmall sewage\ntreatment plants\nZZZ???ZZ?ZZ??ZZ?Ztl?Z?,\n\nBS 5871\nBS EN 12828\nBS EN 15316\nDIN EN 215\nDIN EN 442\nDIN EN 1264\nDIN EN 12170\nDIN EN 12171\nDIN EN 12828\nDIN EN 12831\n\n0\n\nTwin-pipe system with high-level\ndistribution and vertical riser\nconnections\n\ne\n\nSingle-pipe system with special\nvalves and horizontal distribution\n\nHeat generation with gas or heating oil\nGas firing: gas has become prevalent in recent years. Advantages:\nno storage costs, low maintenance costs, payment after use,\ncan be used in groundwater protection zones, easily regulated,\nhigh annual efficiency, can be used for the heating of individual\nflats or rooms (compact gas boilers), little environmental impact.\nDisadvantages: dependent on public utility network, higher energy\ncosts. A conversion from oil to gas usually makes a new chimney\nnecessary.\nOil firing: is also common today using light heating oil as fuel.\nAdvantages: requires no public utility network, easily controllable.\nDisadvantages: high cost of storage and tank installation, rent\nincome losses in rented houses due to the oil storage room, only\npossible under stringent regulations in areas at risk of flooding\nor groundwater protection zones, payment before use, high\nenvironmental impact.\n\n0 Twin-pipe system with horizontal\ndistribution (standard layout for\noffice buildings)\n\n532\n\n8\n\nSingle-pipe system with horizontal\ndistribution on each floor\n\nSolid fuel firing\nCoal, brown coal and wood are now used less often for heating\nbuildings. Depending on the fuel, large quantities of environmental\npollutants can be released, which are subject to stringent controls\nunder the Federal Anti-Emissions Law. Advantages: independent\nof fuel imports, low fuel costs. Disadvantages: more work for the\noperator, larger storeroom necessary, high emission of pollutants,\npoor controllability.\n\n\f"
+        },
+        {
+          "label": "Minimum room height",
+          "value": 2.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Clear height indicated inside the heating room diagram.",
+          "status": "verified",
+          "ocr_raw": "DOMESTIC INSTALLATION\n\nChimney opening\nmin. 150 cm 2\n\n0\n\nHeating\n\nHeating room for solid fuel, min. area 8 m3 necessary for heating capacity \"'50 kW\n\n777/ZZtZZZZ?ZtZtZ?Z!ZZt\n\n////j/)////?77////////r\n\nBecause a temperature of 70°C is typically sufficient for the\nheat distribution medium, a holistic design will attempt to avoid\nthe burning of fossil fuels. Methods of exploiting renewable\nenergy are: (ground-source) geothermal energy --> p. 469 in\nconnection with a heat pump system; combination of heat and\npower generation (CHP); or perhaps falling back on a C0 2neutral energy source like wood. It can also be possible to store\nseasonal sources of energy from the environment (thermal solar\nenergy) during the summer months and make it available in the\nwinter.\n\nt ~-£\n~IE\n~I=>\n~\n\n'I\n\n_Pump~f\n\nBoiler\n\n-----u+-\n\nzz?zz;zzzzz;;zctzzzzzz,\n\nf) Principle of warm water central heating\nsystem: water is heated by the boiler\nand circulated constantly to radiating\nsurfaces by a pump (Wellpott -> refs)\n\nHeating systems\nHeating systems for buildings normally use water as the\nheat distribution medium, less often air (steam is used as a\nheating medium only for industrial purposes). The necessary\ntemperature of the heat distribution medium (water, air, steam)\ndepends on the temperature chosen and the type of heating\nsurface in the rooms. A heat generator provides the necessary\ntemperature. Most existing heating systems use gas or oil as\nthe primary energy source. The heating gas or oil is normally\nburnt in boilers with a combustion temperature of about 1ooooc\nand the heat is transferred to the distribution medium in a heat\nexchanger.\n\ne\n\nTwin-pipe system with low-level\ndistribution and vertical riser\nconnections\n\n2?7?77/t?ttZZZ/tZZZZZZ,\n\nHeat distribution\nMuch the most common system is warm water central heating.\nThis transfers the heat produced in the heat generator into water\nas distribution medium to the radiators, which emit heat. The\ncooled water returns to the heat generator to be warmed up\nagain (flow and return). Warm water central heating systems\nhave a max. flow temperature of approx. 100°C, but 45-70°C\nis normally preferred today, described as the low temperature\nrange. Heating systems with flow temperatures of over 120°C\ncount as hot water heating and are more often used with district\nheating systems.\nThe heat distribution is normally circulated as warm water\npumped heating. There are various pipework layouts --> 0- 0.\n\nDOMESTIC\nINSTALLATION\n\nDrainage\nVentilation\nHeating\nSmall sewage\ntreatment plants\nZZZ???ZZ?ZZ??ZZ?Ztl?Z?,\n\nBS 5871\nBS EN 12828\nBS EN 15316\nDIN EN 215\nDIN EN 442\nDIN EN 1264\nDIN EN 12170\nDIN EN 12171\nDIN EN 12828\nDIN EN 12831\n\n0\n\nTwin-pipe system with high-level\ndistribution and vertical riser\nconnections\n\ne\n\nSingle-pipe system with special\nvalves and horizontal distribution\n\nHeat generation with gas or heating oil\nGas firing: gas has become prevalent in recent years. Advantages:\nno storage costs, low maintenance costs, payment after use,\ncan be used in groundwater protection zones, easily regulated,\nhigh annual efficiency, can be used for the heating of individual\nflats or rooms (compact gas boilers), little environmental impact.\nDisadvantages: dependent on public utility network, higher energy\ncosts. A conversion from oil to gas usually makes a new chimney\nnecessary.\nOil firing: is also common today using light heating oil as fuel.\nAdvantages: requires no public utility network, easily controllable.\nDisadvantages: high cost of storage and tank installation, rent\nincome losses in rented houses due to the oil storage room, only\npossible under stringent regulations in areas at risk of flooding\nor groundwater protection zones, payment before use, high\nenvironmental impact.\n\n0 Twin-pipe system with horizontal\ndistribution (standard layout for\noffice buildings)\n\n532\n\n8\n\nSingle-pipe system with horizontal\ndistribution on each floor\n\nSolid fuel firing\nCoal, brown coal and wood are now used less often for heating\nbuildings. Depending on the fuel, large quantities of environmental\npollutants can be released, which are subject to stringent controls\nunder the Federal Anti-Emissions Law. Advantages: independent\nof fuel imports, low fuel costs. Disadvantages: more work for the\noperator, larger storeroom necessary, high emission of pollutants,\npoor controllability.\n\n\f"
+        }
+      ],
+      "figure_refs": [
+        "1"
+      ],
+      "cross_refs": [],
+      "keywords": [
+        "chimney",
+        "solid fuel",
+        "boiler room",
+        "combustion air"
+      ],
+      "tags_architectural": [
+        "ventilation",
+        "safety"
+      ],
+      "confidence": 0.85
+    },
+    {
+      "id": "4122fb96e4bd1976-545-vision-1",
+      "pdf_page": 545,
+      "book_page": 532,
+      "chapter": "BUILDING SERVICES",
+      "section": "Domestic Installation",
+      "title": "Heating systems and heat generation",
+      "summary": "Overview of building heating systems, heat generators and distribution media. Water is the usual medium; gas and oil boilers are described, along with renewable-energy approaches including geothermal energy, CHP, wood and seasonal thermal-solar storage.",
+      "building_type": "Building heating system",
+      "spaces": [
+        "Heating plant area",
+        "Heated rooms"
+      ],
+      "uses": [
+        "Generate heat",
+        "Distribute heat through water, air or, for industrial purposes, steam",
+        "Use renewable or conventional energy sources"
+      ],
+      "furniture_equipment": [
+        "Heat generator",
+        "Boiler",
+        "Heat exchanger",
+        "Heat pump"
+      ],
+      "dimensions": [
+        {
+          "label": "Typical boiler combustion temperature",
+          "value": 1000.0,
+          "value_max": null,
+          "unit": "°C",
+          "context": "Approximate combustion temperature in boilers burning heating gas or oil.",
+          "status": "verified",
+          "ocr_raw": "combustion temperature of about 1ooooc"
+        },
+        {
+          "label": "Temperature typically sufficient for heat distribution medium",
+          "value": 70.0,
+          "value_max": null,
+          "unit": "°C",
+          "context": "Temperature described as typically sufficient for the heat distribution medium.",
+          "status": "verified",
+          "ocr_raw": "a temperature of 70°C is typically sufficient"
+        }
+      ],
+      "figure_refs": [
+        "2"
+      ],
+      "cross_refs": [
+        "p. 469",
+        "refs"
+      ],
+      "keywords": [
+        "heating system",
+        "heat generator",
+        "boiler",
+        "heat pump",
+        "geothermal energy",
+        "CHP",
+        "thermal solar energy"
+      ],
+      "tags_architectural": [
+        "adaptability",
+        "ventilation"
+      ],
+      "confidence": 0.9
+    },
+    {
+      "id": "4122fb96e4bd1976-545-vision-2",
+      "pdf_page": 545,
+      "book_page": 532,
+      "chapter": "BUILDING SERVICES",
+      "section": "Domestic Installation",
+      "title": "Warm-water heat distribution and pipework layouts",
+      "summary": "Warm-water central heating circulates heated water to radiators and returns cooled water to the heat generator. The page illustrates twin-pipe and single-pipe distribution arrangements, including low-level, high-level, horizontal and floor-by-floor layouts.",
+      "building_type": "Building with central heating",
+      "spaces": [
+        "Boiler area",
+        "Heated rooms",
+        "Pipe routes"
+      ],
+      "uses": [
+        "Circulate heating water between heat generator and radiators",
+        "Distribute heat through twin-pipe or single-pipe layouts"
+      ],
+      "furniture_equipment": [
+        "Boiler",
+        "Pump",
+        "Radiators",
+        "Heating pipes",
+        "Valves"
+      ],
+      "dimensions": [
+        {
+          "label": "Maximum warm-water central-heating flow temperature",
+          "value": 100.0,
+          "value_max": null,
+          "unit": "°C",
+          "context": "Approximate maximum flow temperature for warm-water central heating.",
+          "status": "verified",
+          "ocr_raw": "max. flow temperature of approx. 100°C"
+        },
+        {
+          "label": "Preferred low-temperature flow range",
+          "value": 45.0,
+          "value_max": 70.0,
+          "unit": "°C",
+          "context": "Range normally preferred today for warm-water central heating.",
+          "status": "verified",
+          "ocr_raw": "45-70°C\nis normally preferred today"
+        },
+        {
+          "label": "Hot-water heating flow-temperature threshold",
+          "value": 120.0,
+          "value_max": null,
+          "unit": "°C",
+          "context": "Systems with flow temperatures over this threshold are classified as hot-water heating.",
+          "status": "verified",
+          "ocr_raw": "flow temperatures of over 120°C\ncount as hot water heating"
+        }
+      ],
+      "figure_refs": [
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7"
+      ],
+      "cross_refs": [
+        "②–⑦"
+      ],
+      "keywords": [
+        "warm-water central heating",
+        "heat distribution",
+        "flow and return",
+        "twin-pipe system",
+        "single-pipe system",
+        "radiators"
+      ],
+      "tags_architectural": [
+        "circulation",
+        "adaptability"
+      ],
+      "confidence": 0.94
+    },
+    {
+      "id": "4122fb96e4bd1976-545-vision-3",
+      "pdf_page": 545,
+      "book_page": 532,
+      "chapter": "BUILDING SERVICES",
+      "section": "Domestic Installation",
+      "title": "Gas, oil and solid-fuel heating",
+      "summary": "Compares gas, oil and solid-fuel heating by fuel supply, storage, controllability, operating considerations and environmental impacts. Gas offers convenient supply and regulation but depends on the public utility network; oil requires storage; solid fuel requires more operator work and storage space.",
+      "building_type": "Building heating plant",
+      "spaces": [
+        "Boiler area",
+        "Fuel storage area"
+      ],
+      "uses": [
+        "Provide building heat using gas, heating oil or solid fuel"
+      ],
+      "furniture_equipment": [
+        "Gas boiler",
+        "Oil-fired boiler",
+        "Solid-fuel boiler",
+        "Oil storage tank",
+        "Fuel store",
+        "Chimney"
+      ],
+      "dimensions": [],
+      "figure_refs": [],
+      "cross_refs": [],
+      "keywords": [
+        "gas firing",
+        "oil firing",
+        "solid fuel firing",
+        "fuel storage",
+        "environmental impact",
+        "boiler"
+      ],
+      "tags_architectural": [
+        "safety",
+        "adaptability"
+      ],
+      "confidence": 0.9
+    }
+  ]
+}

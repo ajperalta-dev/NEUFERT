@@ -1,0 +1,100 @@
+{
+  "fichas": [
+    {
+      "id": "4122fb96e4bd1976-538-vision-0",
+      "pdf_page": 538,
+      "book_page": 525,
+      "chapter": "BUILDING SERVICES",
+      "section": "Domestic Installation",
+      "title": "Ground and collector drainage pipes",
+      "summary": "Guidance and two reference tables for permissible wastewater discharge in ground and collector drainage pipes. The tables give maximum discharge and velocity by nominal pipe size and fall for degrees of filling of 50% and 70%, corresponding to DIN EN 12056 Tables B.1 and B.2. The text specifies a minimum fall for collector pipes and a higher filling degree when a drain lift pump is connected.",
+      "building_type": "Residential",
+      "spaces": [
+        "Building drainage system"
+      ],
+      "uses": [
+        "Sizing ground and collector drainage pipes",
+        "Checking permissible wastewater discharge and flow velocity",
+        "Drain lift pump connection"
+      ],
+      "furniture_equipment": [
+        "Drain lift pump"
+      ],
+      "dimensions": [
+        {
+          "label": "Minimum fall",
+          "value": 0.5,
+          "value_max": null,
+          "unit": "%",
+          "context": "Minimum fall for collector pipes inside buildings at degree of filling h/D = 0.5.",
+          "status": "uncertain",
+          "ocr_raw": "Inside buildings, collector pipes with a degree of filling of h/D Index i = 0.5 should be installed assuming a minimum fall of 0.5%"
+        },
+        {
+          "label": "Degree of filling",
+          "value": 0.5,
+          "value_max": null,
+          "unit": "ratio",
+          "context": "h/D = 0.5; permissible wastewater discharge table for 50% filling.",
+          "status": "uncertain",
+          "ocr_raw": "Permissible wastewater discharge, degree of filling 50% (h/di 0.5)"
+        },
+        {
+          "label": "Degree of filling",
+          "value": 0.7,
+          "value_max": null,
+          "unit": "ratio",
+          "context": "h/d = 0.7; stated for a drain lift pump connection and used in the 70% filling table.",
+          "status": "uncertain",
+          "ocr_raw": "with connection of a drain lift pump, which should be installed with a degree of filling of h/d Index i = 0.7."
+        },
+        {
+          "label": "Fall values in reference tables",
+          "value": 0.5,
+          "value_max": 5.0,
+          "unit": "cm/m",
+          "context": "Table rows give falls from 0.50 to 5.00 cm/m for both degrees of filling.",
+          "status": "uncertain",
+          "ocr_raw": "0.50\n...\n5.00\ncm/m"
+        },
+        {
+          "label": "Nominal pipe size",
+          "value": 80.0,
+          "value_max": null,
+          "unit": "DN",
+          "context": "Pipe sizes listed in the tables: DN 80, DN 90, DN 100, DN 125, DN 150, DN 200, DN 225, DN 250, and DN 300.",
+          "status": "uncertain",
+          "ocr_raw": "DN 80\nDN 90\nDN 100\nDN 125\nDN 150\nDN 200\nDN 225\nDN 250\nDN 300"
+        }
+      ],
+      "figure_refs": [
+        "Permissible wastewater discharge, degree of filling 50% (h/di 0.5)",
+        "Permissible wastewater discharge, degree of filling 70% (h/di = 0.7)"
+      ],
+      "cross_refs": [
+        "DIN EN 12056, Table B.1",
+        "DIN EN 12056, Table B.2",
+        "BS EN 476",
+        "BS 8515",
+        "DIN 1986",
+        "DIN EN 12056"
+      ],
+      "keywords": [
+        "domestic installation",
+        "drainage",
+        "ground drainage",
+        "collector pipes",
+        "wastewater discharge",
+        "pipe fall",
+        "degree of filling",
+        "nominal diameter",
+        "flow velocity",
+        "drain lift pump"
+      ],
+      "tags_architectural": [
+        "safety"
+      ],
+      "confidence": 0.94
+    }
+  ]
+}

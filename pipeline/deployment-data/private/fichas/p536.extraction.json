@@ -1,0 +1,565 @@
+{
+  "fichas": [
+    {
+      "id": "4122fb96e4bd1976-536-vision-0",
+      "pdf_page": 536,
+      "book_page": 523,
+      "chapter": "BUILDING SERVICES",
+      "section": "Domestic Installation",
+      "title": "Design units for sanitary appliances",
+      "summary": "Table of design units (DU) and single-branch pipe nominal diameters for sanitary appliances. The kitchen-sink and dishwasher entry is marked as having a common trap.",
+      "building_type": "Domestic buildings",
+      "spaces": [
+        "Bathrooms",
+        "Kitchens",
+        "Sanitary areas"
+      ],
+      "uses": [
+        "Size drainage branches according to sanitary appliance design units",
+        "Identify listed single-branch pipe nominal diameters"
+      ],
+      "furniture_equipment": [
+        "Washbasin",
+        "Bidet",
+        "Shower",
+        "Urinal",
+        "Bath tub",
+        "Kitchen sink",
+        "Dishwasher",
+        "Washing machine",
+        "WC",
+        "Floor gully"
+      ],
+      "dimensions": [
+        {
+          "label": "Design units",
+          "value": 0.5,
+          "value_max": null,
+          "unit": "DU",
+          "context": "Washbasin or bidet",
+          "status": "uncertain",
+          "ocr_raw": "washbasin, bidet 0.5"
+        },
+        {
+          "label": "Design units",
+          "value": 0.6,
+          "value_max": null,
+          "unit": "DU",
+          "context": "Shower without plug",
+          "status": "uncertain",
+          "ocr_raw": "shower without plug 0.6"
+        },
+        {
+          "label": "Design units",
+          "value": 0.8,
+          "value_max": null,
+          "unit": "DU",
+          "context": "Shower with plug",
+          "status": "uncertain",
+          "ocr_raw": "shower with plug 0.8"
+        },
+        {
+          "label": "Design units",
+          "value": 0.8,
+          "value_max": null,
+          "unit": "DU",
+          "context": "Single urinal with flush cistern",
+          "status": "uncertain",
+          "ocr_raw": "single urinal with flush cistern 0.8"
+        },
+        {
+          "label": "Design units",
+          "value": 0.5,
+          "value_max": null,
+          "unit": "DU",
+          "context": "Single urinal with pressure flush",
+          "status": "uncertain",
+          "ocr_raw": "single urinal with pressure flush 0.5"
+        },
+        {
+          "label": "Design units",
+          "value": 0.2,
+          "value_max": null,
+          "unit": "DU",
+          "context": "Standing urinal",
+          "status": "uncertain",
+          "ocr_raw": "standing urinal 0.2"
+        },
+        {
+          "label": "Design units",
+          "value": 0.1,
+          "value_max": null,
+          "unit": "DU",
+          "context": "Urinal without water flushing",
+          "status": "uncertain",
+          "ocr_raw": "urinal without water flushing 0.1"
+        },
+        {
+          "label": "Design units",
+          "value": 0.8,
+          "value_max": null,
+          "unit": "DU",
+          "context": "Bath tub",
+          "status": "uncertain",
+          "ocr_raw": "bath tub 0.8"
+        },
+        {
+          "label": "Design units",
+          "value": 0.8,
+          "value_max": null,
+          "unit": "DU",
+          "context": "Kitchen sink and dishwasher, common trap",
+          "status": "uncertain",
+          "ocr_raw": "kitchen sink and dishwasher' 0.8 *with common trap"
+        },
+        {
+          "label": "Design units",
+          "value": 0.8,
+          "value_max": null,
+          "unit": "DU",
+          "context": "Dishwasher",
+          "status": "uncertain",
+          "ocr_raw": "dishwasher 0.8"
+        },
+        {
+          "label": "Design units",
+          "value": 0.8,
+          "value_max": null,
+          "unit": "DU",
+          "context": "Washing machine up to 6 kg",
+          "status": "uncertain",
+          "ocr_raw": "washing machine up to 6 kg 0.8"
+        },
+        {
+          "label": "Design units",
+          "value": 1.5,
+          "value_max": null,
+          "unit": "DU",
+          "context": "Washing machine up to 12 kg",
+          "status": "uncertain",
+          "ocr_raw": "washing machine up to 12 kg 1.5"
+        },
+        {
+          "label": "Design units",
+          "value": 1.8,
+          "value_max": null,
+          "unit": "DU",
+          "context": "WC with 4.0/4.5 l cistern",
+          "status": "uncertain",
+          "ocr_raw": "WC with 4.0/4.5 l cistern 1.8"
+        },
+        {
+          "label": "Design units",
+          "value": 2.0,
+          "value_max": null,
+          "unit": "DU",
+          "context": "WC with 6.0 l cistern or pressure flush",
+          "status": "uncertain",
+          "ocr_raw": "WC with 6.0 l cistern/pressure flush 2.0"
+        },
+        {
+          "label": "Design units",
+          "value": 2.0,
+          "value_max": null,
+          "unit": "DU",
+          "context": "WC with 7.5 l cistern or pressure flush",
+          "status": "uncertain",
+          "ocr_raw": "WC with 7.5 l cistern/pressure flush 2.0"
+        },
+        {
+          "label": "Design units",
+          "value": 2.5,
+          "value_max": null,
+          "unit": "DU",
+          "context": "WC with 9.0 l cistern or pressure flush",
+          "status": "uncertain",
+          "ocr_raw": "WC with 9.0 l cistern/pressure flush 2.5"
+        },
+        {
+          "label": "Design units",
+          "value": 0.8,
+          "value_max": null,
+          "unit": "DU",
+          "context": "Floor gully DN 50",
+          "status": "uncertain",
+          "ocr_raw": "floor gully DN 50 0.8"
+        },
+        {
+          "label": "Design units",
+          "value": 1.5,
+          "value_max": null,
+          "unit": "DU",
+          "context": "Floor gully DN 70",
+          "status": "uncertain",
+          "ocr_raw": "floor gully DN 70 1.5"
+        },
+        {
+          "label": "Design units",
+          "value": 2.0,
+          "value_max": null,
+          "unit": "DU",
+          "context": "Floor gully DN 100",
+          "status": "uncertain",
+          "ocr_raw": "floor gully DN 100 2.0"
+        }
+      ],
+      "figure_refs": [
+        "1"
+      ],
+      "cross_refs": [
+        "Table 4, DIN 1986-100"
+      ],
+      "keywords": [
+        "drainage",
+        "design units",
+        "sanitary appliances",
+        "branch pipe"
+      ],
+      "tags_architectural": [
+        "safety"
+      ],
+      "confidence": 0.99
+    },
+    {
+      "id": "4122fb96e4bd1976-536-vision-1",
+      "pdf_page": 536,
+      "book_page": 523,
+      "chapter": "BUILDING SERVICES",
+      "section": "Domestic Installation",
+      "title": "Drainage pipe nominal and minimum internal diameters",
+      "summary": "Reference table pairs nominal pipe diameters (DN) with their minimum internal diameters. The text directs readers to the corresponding standards table.",
+      "building_type": "Domestic buildings",
+      "spaces": [
+        "Drainage system"
+      ],
+      "uses": [
+        "Select nominal diameters and check minimum internal diameters for drainage pipes"
+      ],
+      "furniture_equipment": [
+        "Drainage pipes"
+      ],
+      "dimensions": [
+        {
+          "label": "Minimum internal diameter",
+          "value": 26.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Nominal diameter DN 30",
+          "status": "uncertain",
+          "ocr_raw": "30 26"
+        },
+        {
+          "label": "Minimum internal diameter",
+          "value": 34.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Nominal diameter DN 40",
+          "status": "uncertain",
+          "ocr_raw": "40 34"
+        },
+        {
+          "label": "Minimum internal diameter",
+          "value": 44.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Nominal diameter DN 50",
+          "status": "uncertain",
+          "ocr_raw": "50 44"
+        },
+        {
+          "label": "Minimum internal diameter",
+          "value": 49.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Nominal diameter DN 56",
+          "status": "uncertain",
+          "ocr_raw": "56 49"
+        },
+        {
+          "label": "Minimum internal diameter",
+          "value": 56.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Nominal diameter DN 60",
+          "status": "uncertain",
+          "ocr_raw": "60 56"
+        },
+        {
+          "label": "Minimum internal diameter",
+          "value": 68.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Nominal diameter DN 70",
+          "status": "uncertain",
+          "ocr_raw": "70 68"
+        },
+        {
+          "label": "Minimum internal diameter",
+          "value": 75.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Nominal diameter DN 80",
+          "status": "uncertain",
+          "ocr_raw": "80 75"
+        },
+        {
+          "label": "Minimum internal diameter",
+          "value": 79.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Nominal diameter DN 90",
+          "status": "uncertain",
+          "ocr_raw": "90 79"
+        },
+        {
+          "label": "Minimum internal diameter",
+          "value": 96.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Nominal diameter DN 100",
+          "status": "uncertain",
+          "ocr_raw": "100 96"
+        },
+        {
+          "label": "Minimum internal diameter",
+          "value": 113.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Nominal diameter DN 125",
+          "status": "uncertain",
+          "ocr_raw": "125 113"
+        },
+        {
+          "label": "Minimum internal diameter",
+          "value": 146.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Nominal diameter DN 150",
+          "status": "uncertain",
+          "ocr_raw": "150 146"
+        },
+        {
+          "label": "Minimum internal diameter",
+          "value": 184.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Nominal diameter DN 200",
+          "status": "uncertain",
+          "ocr_raw": "200 184"
+        },
+        {
+          "label": "Minimum internal diameter",
+          "value": 207.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Nominal diameter DN 225",
+          "status": "uncertain",
+          "ocr_raw": "225 207"
+        },
+        {
+          "label": "Minimum internal diameter",
+          "value": 230.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Nominal diameter DN 250",
+          "status": "uncertain",
+          "ocr_raw": "250 230"
+        },
+        {
+          "label": "Minimum internal diameter",
+          "value": 290.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Nominal diameter DN 300",
+          "status": "uncertain",
+          "ocr_raw": "300 290"
+        }
+      ],
+      "figure_refs": [
+        "4"
+      ],
+      "cross_refs": [
+        "Table 1, DIN EN 12056-2"
+      ],
+      "keywords": [
+        "drainage",
+        "pipe sizing",
+        "nominal diameter",
+        "internal diameter"
+      ],
+      "tags_architectural": [],
+      "confidence": 0.99
+    },
+    {
+      "id": "4122fb96e4bd1976-536-vision-2",
+      "pdf_page": 536,
+      "book_page": 523,
+      "chapter": "BUILDING SERVICES",
+      "section": "Domestic Installation",
+      "title": "Minimum falls for unpressurised drainage pipes",
+      "summary": "Table gives minimum falls for branch pipes and ground or collector pipes, with standards and sections cited. The rainwater ground-pipe entry outside the building has no legible minimum fall stated in the table.",
+      "building_type": "Domestic buildings",
+      "spaces": [
+        "Drainage system",
+        "Ground and collector pipe routes"
+      ],
+      "uses": [
+        "Set minimum gradients for unpressurised wastewater and rainwater drainage"
+      ],
+      "furniture_equipment": [
+        "Unvented branch pipe",
+        "Vented branch pipe",
+        "Ground and collector pipes"
+      ],
+      "dimensions": [
+        {
+          "label": "Minimum fall",
+          "value": 1.0,
+          "value_max": null,
+          "unit": "%",
+          "context": "Unvented branch pipe",
+          "status": "uncertain",
+          "ocr_raw": "unvented branch pipe 1.0%"
+        },
+        {
+          "label": "Minimum fall",
+          "value": 0.5,
+          "value_max": null,
+          "unit": "%",
+          "context": "Vented branch pipe",
+          "status": "uncertain",
+          "ocr_raw": "vented branch pipe 0.5%"
+        },
+        {
+          "label": "Minimum fall",
+          "value": 0.5,
+          "value_max": null,
+          "unit": "%",
+          "context": "Ground and collector pipes for wastewater",
+          "status": "uncertain",
+          "ocr_raw": "ground and collector pipes a) for wastewater 0.5%"
+        },
+        {
+          "label": "Minimum fall",
+          "value": 0.5,
+          "value_max": null,
+          "unit": "%",
+          "context": "Ground and collector pipes for rainwater, degree of filling 0.7",
+          "status": "uncertain",
+          "ocr_raw": "b) for rainwater (degree of filling 0.7) 0.5%"
+        },
+        {
+          "label": "Minimum fall",
+          "value": 1.5,
+          "value_max": null,
+          "unit": "%",
+          "context": "Ground and collector pipes DN 90; lavatory pan with flush volume 4.5–6 l",
+          "status": "uncertain",
+          "ocr_raw": "ground and collector pipes DN 90 (lavatory pan with flush volume 4.5–6 l) 1.5%"
+        },
+        {
+          "label": "Minimum fall",
+          "value": 0.5,
+          "value_max": null,
+          "unit": "%",
+          "context": "Ground pipes for rainwater outside the building, degree of filling 0.7; value has a footnote marker",
+          "status": "uncertain",
+          "ocr_raw": "ground pipes for rainwater outside the building (degree of filling 0.7) up to DN 200 0.5%†"
+        },
+        {
+          "label": "Minimum fall",
+          "value": 1.0,
+          "value_max": null,
+          "unit": "DN⁻¹",
+          "context": "Pipes from DN 250; table prints the unit notation DN⁻¹",
+          "status": "uncertain",
+          "ocr_raw": "from DN 250 1: DN⁻¹"
+        }
+      ],
+      "figure_refs": [
+        "5"
+      ],
+      "cross_refs": [
+        "DIN EN 12056-2, Table 5",
+        "DIN EN 12056-2, Table 8",
+        "DIN 1986-100, sections 8.3.2.2, 8.3.4, 9.3.5.2 and Table A.2"
+      ],
+      "keywords": [
+        "minimum fall",
+        "pipe gradient",
+        "unpressurised drainage",
+        "rainwater",
+        "wastewater"
+      ],
+      "tags_architectural": [
+        "circulation"
+      ],
+      "confidence": 0.93
+    },
+    {
+      "id": "4122fb96e4bd1976-536-vision-3",
+      "pdf_page": 536,
+      "book_page": 523,
+      "chapter": "BUILDING SERVICES",
+      "section": "Domestic Installation",
+      "title": "Venting systems for wastewater drainage",
+      "summary": "Drainage layouts are differentiated by venting type, including single-pipe soil-and-vent stacks, separate vent pipes, anti-siphonage pipes, indirect and direct vent pipes, secondary venting, and an additional venting valve. A common vent pipe serving multiple stacks must have a cross-section at least half the sum of the individual stack cross-sections and a nominal size at least one size larger than the largest relevant stack. A soil-and-vent stack may connect to a common vent pipe at the uppermost point.",
+      "building_type": "Domestic buildings",
+      "spaces": [
+        "Wastewater drainage system",
+        "Pipe shafts"
+      ],
+      "uses": [
+        "Vent wastewater drainage pipework",
+        "Connect stacks to common vent pipes"
+      ],
+      "furniture_equipment": [
+        "Soil stack",
+        "Vent stack",
+        "Common vent pipe",
+        "Anti-siphonage pipe",
+        "Indirect vent pipe",
+        "Direct vent pipe",
+        "Secondary vent pipe",
+        "Venting valve"
+      ],
+      "dimensions": [
+        {
+          "label": "Minimum common vent pipe cross-section relative to summed stack cross-sections",
+          "value": 1.0,
+          "value_max": null,
+          "unit": "ratio fraction",
+          "context": "At least half the sum of the individual cross-sections for more than one stack; the text states 'at least as big as half the sum'",
+          "status": "uncertain",
+          "ocr_raw": "The cross-section of a common vent pipe for more than one stack must be at least as big as half the sum of the single cross-sections of the single stack."
+        },
+        {
+          "label": "Common vent pipe nominal size increase",
+          "value": 1.0,
+          "value_max": null,
+          "unit": "nominal size",
+          "context": "At least one nominal size larger than the largest relevant stack",
+          "status": "uncertain",
+          "ocr_raw": "The nominal size of a common vent pipe must be at least one nominal size larger than the largest size of the relevant stack."
+        }
+      ],
+      "figure_refs": [
+        "2",
+        "3"
+      ],
+      "cross_refs": [
+        "Wellpott → refs"
+      ],
+      "keywords": [
+        "ventilation",
+        "wastewater drainage",
+        "soil stack",
+        "common vent pipe"
+      ],
+      "tags_architectural": [
+        "ventilation"
+      ],
+      "confidence": 0.96
+    }
+  ]
+}

@@ -1,0 +1,130 @@
+{
+  "fichas": [
+    {
+      "id": "4122fb96e4bd1976-175-vision-0",
+      "pdf_page": 175,
+      "book_page": 162,
+      "chapter": "RESIDENTIAL BUILDINGS",
+      "section": "Rooms",
+      "title": "Storerooms",
+      "summary": "Storerooms provide space for cleaning equipment, tools, cleaning agents, shopping baskets, luggage, washing baskets, and stepladders. Storage should be provided within the dwelling in addition to cellar and attic space. Storerooms may be niches or box rooms; doors should open outward, lighting should be operated by a contact switch by the door, and good ventilation should be provided.",
+      "building_type": "Residential building",
+      "spaces": [
+        "Storeroom",
+        "Internal corridor",
+        "Bedroom",
+        "Entrance area"
+      ],
+      "uses": [
+        "Store cleaning equipment, tools, cleaning agents, shopping baskets, bags, suitcases, washing baskets, and stepladders"
+      ],
+      "furniture_equipment": [
+        "Built-in cupboards",
+        "Contact-switch lighting"
+      ],
+      "dimensions": [
+        {
+          "label": "Minimum storage space within a flat",
+          "value": 1.0,
+          "value_max": null,
+          "unit": "m²",
+          "context": "The text specifies at least this area, in addition to cellar and attic areas.",
+          "status": "uncertain",
+          "ocr_raw": "storage space should therefore be provided within a flat of ≥1 m2"
+        },
+        {
+          "label": "Clear width",
+          "value": 75.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Clear width of the storage space within a flat.",
+          "status": "uncertain",
+          "ocr_raw": "with a clear width of 75 cm"
+        },
+        {
+          "label": "Storage space in larger flats",
+          "value": 2.0,
+          "value_max": null,
+          "unit": "% of floor area",
+          "context": "The stated provision for larger flats; storage may be split into many small areas.",
+          "status": "uncertain",
+          "ocr_raw": "In larger flats, 2% of the floor area should be provided as storage space"
+        }
+      ],
+      "figure_refs": [
+        "1 — Storeroom on internal corridor",
+        "2 — Storage spaces in the corridor and bedrooms",
+        "3 — Storage and cupboard spaces",
+        "4 — Storeroom and shoe cupboard in the entrance area"
+      ],
+      "cross_refs": [
+        "Figures 1–4"
+      ],
+      "keywords": [
+        "storeroom",
+        "storage",
+        "cupboard",
+        "corridor",
+        "residential"
+      ],
+      "tags_architectural": [
+        "circulation",
+        "adaptability"
+      ],
+      "confidence": 0.95
+    },
+    {
+      "id": "4122fb96e4bd1976-175-vision-1",
+      "pdf_page": 175,
+      "book_page": 162,
+      "chapter": "RESIDENTIAL BUILDINGS",
+      "section": "Rooms",
+      "title": "Larder, pantry",
+      "summary": "A larder or pantry should supplement general storage in a flat or house, with shelves extending to the ceiling. It stores food and drink supplies and relatively long-keeping fresh food, helping save refrigerator space. The larder is most practical next to the kitchen and should be cool, ventilated, and protected from direct sunlight. A freezer socket and possibly a wine cooler may be provided if required.",
+      "building_type": "Residential building",
+      "spaces": [
+        "Larder",
+        "Pantry",
+        "Kitchen",
+        "Dining area",
+        "Corridor",
+        "Cool room"
+      ],
+      "uses": [
+        "Store food and drink supplies",
+        "Store fresh foodstuffs that keep relatively well"
+      ],
+      "furniture_equipment": [
+        "Shelves to the ceiling",
+        "Freezer socket (if required)",
+        "Wine cooler (possibly)"
+      ],
+      "dimensions": [],
+      "figure_refs": [
+        "5 — Larders",
+        "6 — Larder next to cupboard",
+        "7 — Corner larder",
+        "8 — Spacious larder",
+        "9 — Larder using space next to bath",
+        "10 — Larder next to eating area",
+        "11 — Larder with high-level window",
+        "12 — As before, next to WC",
+        "13 — Larder in lobby to kitchen"
+      ],
+      "cross_refs": [
+        "Larders → 5–13"
+      ],
+      "keywords": [
+        "larder",
+        "pantry",
+        "food storage",
+        "kitchen",
+        "ventilation"
+      ],
+      "tags_architectural": [
+        "ventilation"
+      ],
+      "confidence": 0.96
+    }
+  ]
+}

@@ -1,0 +1,427 @@
+{
+  "fichas": [
+    {
+      "id": "4122fb96e4bd1976-348-vision-0",
+      "pdf_page": 348,
+      "book_page": 335,
+      "chapter": "SPORT AND LEISURE",
+      "section": "Sports Facilities",
+      "title": "Water Sport, Marinas",
+      "summary": "Guidance for marina mooring layout, quay selection, berth sizing, manoeuvring, dry storage and supporting services. Berths should suit the boat and mooring arrangement, align with the wind, and allow safe manoeuvring and tie-up. The page includes berth-size data for Olympic sailing boat classes.",
+      "building_type": "Marina",
+      "spaces": [
+        "Berths",
+        "Quays and jetties",
+        "Harbour entrance and turning area",
+        "Dry boat storage area",
+        "Land transport and launching area"
+      ],
+      "uses": [
+        "Mooring and berthing boats",
+        "Manoeuvring and stopping sailing boats",
+        "Turning vessels within the harbour",
+        "Storing boats ashore and launching them",
+        "Providing marina utilities and waste services"
+      ],
+      "furniture_equipment": [
+        "Mooring posts",
+        "Floating booms",
+        "Outriggers",
+        "Mooring buoys",
+        "Bollards, clamps or rings",
+        "Handrails",
+        "Quay lighting",
+        "Waste containers",
+        "Water, drainage and electricity connections",
+        "Cable TV and Internet connection",
+        "Travellift"
+      ],
+      "dimensions": [
+        {
+          "label": "Manoeuvring distance to stop under sail",
+          "value": 2.0,
+          "value_max": 5.0,
+          "unit": "boat lengths",
+          "context": "Distance sailing boats may need to stop by running into the wind; depends on boat type.",
+          "status": "uncertain",
+          "ocr_raw": "which can take 2-5 boat lengths according to type"
+        },
+        {
+          "label": "Harbour turning-circle diameter",
+          "value": 35.0,
+          "value_max": 60.0,
+          "unit": "m",
+          "context": "Turning circle behind the harbour mouth, to turn the largest ship and manoeuvre safely.",
+          "status": "uncertain",
+          "ocr_raw": "-35-60 m diameter"
+        },
+        {
+          "label": "Minimum water depth at mooring",
+          "value": 1.8,
+          "value_max": null,
+          "unit": "times the deepest draught",
+          "context": "Minimum water depth at the mooring place.",
+          "status": "uncertain",
+          "ocr_raw": "The water depth at the mooring place should be min. 1.8 times the deepest draught."
+        },
+        {
+          "label": "Superyacht length threshold",
+          "value": 21.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "The page says a few berths for superyachts are necessary; threshold is over this length.",
+          "status": "uncertain",
+          "ocr_raw": "superyachts (length over 21 m)"
+        },
+        {
+          "label": "Maximum dry-storage launch time",
+          "value": 30.0,
+          "value_max": null,
+          "unit": "min",
+          "context": "Maximum stated time to transport a boat by travellift and launch it.",
+          "status": "uncertain",
+          "ocr_raw": "to be launched in max. 30 min."
+        },
+        {
+          "label": "Land-to-water area ratio",
+          "value": 80.0,
+          "value_max": null,
+          "unit": "ratio",
+          "context": "Dry storage marina; complete ratio is 80:20.",
+          "status": "uncertain",
+          "ocr_raw": "The ratio of land to water in such a marina is about 80:20."
+        },
+        {
+          "label": "Investment cost compared with conventional marina",
+          "value": 40.0,
+          "value_max": null,
+          "unit": "%",
+          "context": "Approximate investment cost for a dry storage marina compared with a comparable conventional marina.",
+          "status": "uncertain",
+          "ocr_raw": "The investment costs are only about 40% of a comparable conventional marina."
+        },
+        {
+          "label": "Finn dinghy required berth length",
+          "value": 4.5,
+          "value_max": null,
+          "unit": "m",
+          "context": "Required berth size, length (L), Finn dinghy.",
+          "status": "uncertain",
+          "ocr_raw": "Finn dinghy 4.50"
+        },
+        {
+          "label": "Finn dinghy required berth width",
+          "value": 3.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Required berth size, width (W), Finn dinghy.",
+          "status": "uncertain",
+          "ocr_raw": "3.00"
+        },
+        {
+          "label": "Finn dinghy safety spacing",
+          "value": 3.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Safety spacing (S), Finn dinghy.",
+          "status": "uncertain",
+          "ocr_raw": "3.00"
+        },
+        {
+          "label": "Finn dinghy passage width",
+          "value": 5.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Passage width (P), Finn dinghy.",
+          "status": "uncertain",
+          "ocr_raw": "5.00"
+        },
+        {
+          "label": "Flying Dutchman required berth length",
+          "value": 6.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Required berth size, length (L), Flying Dutchman.",
+          "status": "uncertain",
+          "ocr_raw": "Flying Dutchman 6.00"
+        },
+        {
+          "label": "Flying Dutchman required berth width",
+          "value": 3.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Required berth size, width (W), Flying Dutchman.",
+          "status": "uncertain",
+          "ocr_raw": "3.00"
+        },
+        {
+          "label": "Flying Dutchman safety spacing",
+          "value": 1.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Safety spacing (S), Flying Dutchman.",
+          "status": "uncertain",
+          "ocr_raw": "1.00"
+        },
+        {
+          "label": "Flying Dutchman passage width",
+          "value": 6.5,
+          "value_max": null,
+          "unit": "m",
+          "context": "Passage width (P), Flying Dutchman.",
+          "status": "uncertain",
+          "ocr_raw": "6.50"
+        },
+        {
+          "label": "Star required berth length",
+          "value": 7.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Required berth size, length (L), Star.",
+          "status": "uncertain",
+          "ocr_raw": "Star 7.00"
+        },
+        {
+          "label": "Star required berth width",
+          "value": 3.5,
+          "value_max": null,
+          "unit": "m",
+          "context": "Required berth size, width (W), Star.",
+          "status": "uncertain",
+          "ocr_raw": "3.50"
+        },
+        {
+          "label": "Star safety spacing",
+          "value": 1.5,
+          "value_max": null,
+          "unit": "m",
+          "context": "Safety spacing (S), Star.",
+          "status": "uncertain",
+          "ocr_raw": "1.50"
+        },
+        {
+          "label": "Star passage width",
+          "value": 7.5,
+          "value_max": null,
+          "unit": "m",
+          "context": "Passage width (P), Star.",
+          "status": "uncertain",
+          "ocr_raw": "7.50"
+        },
+        {
+          "label": "Tempest required berth length",
+          "value": 6.7,
+          "value_max": null,
+          "unit": "m",
+          "context": "Required berth size, length (L), Tempest.",
+          "status": "uncertain",
+          "ocr_raw": "Tempest 6.70"
+        },
+        {
+          "label": "Tempest required berth width",
+          "value": 4.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Required berth size, width (W), Tempest.",
+          "status": "uncertain",
+          "ocr_raw": "4.00"
+        },
+        {
+          "label": "Tempest safety spacing",
+          "value": 2.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Safety spacing (S), Tempest.",
+          "status": "uncertain",
+          "ocr_raw": "2.00"
+        },
+        {
+          "label": "Tempest passage width",
+          "value": 8.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Passage width (P), Tempest.",
+          "status": "uncertain",
+          "ocr_raw": "8.00"
+        },
+        {
+          "label": "Dragon required berth length",
+          "value": 9.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Required berth size, length (L), Dragon.",
+          "status": "uncertain",
+          "ocr_raw": "Dragon 9.00"
+        },
+        {
+          "label": "Dragon required berth width",
+          "value": 4.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Required berth size, width (W), Dragon.",
+          "status": "uncertain",
+          "ocr_raw": "4.00"
+        },
+        {
+          "label": "Dragon safety spacing",
+          "value": 2.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Safety spacing (S), Dragon.",
+          "status": "uncertain",
+          "ocr_raw": "2.00"
+        },
+        {
+          "label": "Dragon passage width",
+          "value": 9.5,
+          "value_max": null,
+          "unit": "m",
+          "context": "Passage width (P), Dragon.",
+          "status": "uncertain",
+          "ocr_raw": "9.50"
+        },
+        {
+          "label": "Soling required berth length",
+          "value": 8.5,
+          "value_max": null,
+          "unit": "m",
+          "context": "Required berth size, length (L), Soling.",
+          "status": "uncertain",
+          "ocr_raw": "Soling 8.50"
+        },
+        {
+          "label": "Soling required berth width",
+          "value": 4.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Required berth size, width (W), Soling.",
+          "status": "uncertain",
+          "ocr_raw": "4.00"
+        },
+        {
+          "label": "Soling safety spacing",
+          "value": 2.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Safety spacing (S), Soling.",
+          "status": "uncertain",
+          "ocr_raw": "2.00"
+        },
+        {
+          "label": "Soling passage width",
+          "value": 9.5,
+          "value_max": null,
+          "unit": "m",
+          "context": "Passage width (P), Soling.",
+          "status": "uncertain",
+          "ocr_raw": "9.50"
+        },
+        {
+          "label": "Tornado required berth length",
+          "value": 6.5,
+          "value_max": null,
+          "unit": "m",
+          "context": "Required berth size, length (L), Tornado.",
+          "status": "uncertain",
+          "ocr_raw": "Tornado 6.50"
+        },
+        {
+          "label": "Tornado required berth width",
+          "value": 6.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Required berth size, width (W), Tornado.",
+          "status": "uncertain",
+          "ocr_raw": "6.00"
+        },
+        {
+          "label": "Tornado safety spacing",
+          "value": 2.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Safety spacing (S), Tornado.",
+          "status": "uncertain",
+          "ocr_raw": "2.00"
+        },
+        {
+          "label": "Tornado passage width",
+          "value": 7.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Passage width (P), Tornado.",
+          "status": "uncertain",
+          "ocr_raw": "7.00"
+        },
+        {
+          "label": "470 required berth length",
+          "value": 5.5,
+          "value_max": null,
+          "unit": "m",
+          "context": "Required berth size, length (L), 470 class.",
+          "status": "uncertain",
+          "ocr_raw": "470 5.50"
+        },
+        {
+          "label": "470 required berth width",
+          "value": 3.5,
+          "value_max": null,
+          "unit": "m",
+          "context": "Required berth size, width (W), 470 class.",
+          "status": "uncertain",
+          "ocr_raw": "3.50"
+        },
+        {
+          "label": "470 safety spacing",
+          "value": 1.5,
+          "value_max": null,
+          "unit": "m",
+          "context": "Safety spacing (S), 470 class.",
+          "status": "uncertain",
+          "ocr_raw": "1.50"
+        },
+        {
+          "label": "470 passage width",
+          "value": 5.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Passage width (P), 470 class.",
+          "status": "uncertain",
+          "ocr_raw": "5.00"
+        }
+      ],
+      "figure_refs": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10"
+      ],
+      "cross_refs": [
+        "p. 354"
+      ],
+      "keywords": [
+        "marina",
+        "mooring",
+        "berths",
+        "quays",
+        "jetties",
+        "sailing boats",
+        "harbour",
+        "dry storage",
+        "travellift",
+        "Olympic sailing boat classes"
+      ],
+      "tags_architectural": [
+        "circulation",
+        "clearance",
+        "safety"
+      ],
+      "confidence": 0.9
+    }
+  ]
+}

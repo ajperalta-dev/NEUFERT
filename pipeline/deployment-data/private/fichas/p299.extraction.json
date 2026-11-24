@@ -1,0 +1,283 @@
+{
+  "fichas": [
+    {
+      "id": "4122fb96e4bd1976-299-vision-0",
+      "pdf_page": 299,
+      "book_page": 286,
+      "chapter": "RELIGIOUS BUILDINGS",
+      "section": "Christian Churches",
+      "title": "Church seating and pew arrangements",
+      "summary": "Guidance on church seating layouts, aisle widths, seat and standing-place space requirements, and the use of a central aisle for processions and weddings. Pews may include kneelers; wider churches may require more aisles.",
+      "building_type": "Christian church",
+      "spaces": [
+        "nave",
+        "aisles"
+      ],
+      "uses": [
+        "seating congregations",
+        "accommodating standing worshippers",
+        "providing circulation for weddings and processions"
+      ],
+      "furniture_equipment": [
+        "church pew with kneeler",
+        "church pew without kneeler"
+      ],
+      "dimensions": [
+        {
+          "label": "aisle width in smaller churches",
+          "value": 1.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "An aisle of this width is described as sufficient in smaller churches (chapels).",
+          "status": "uncertain",
+          "ocr_raw": "In smaller churches (chapels}, an aisle of 1.00 m width is sufficient"
+        },
+        {
+          "label": "central aisle width",
+          "value": 1.6,
+          "value_max": null,
+          "unit": "m",
+          "context": "Central aisle with seating on both sides.",
+          "status": "uncertain",
+          "ocr_raw": "or a central aisle of 1.60 rn width with seating both sides"
+        },
+        {
+          "label": "seats per pew",
+          "value": 6.0,
+          "value_max": 10.0,
+          "unit": "seats",
+          "context": "Pews in smaller churches; the text also describes the alternative central-aisle arrangement.",
+          "status": "uncertain",
+          "ocr_raw": "with pews containing 6-10 seats"
+        },
+        {
+          "label": "seats between two side aisles",
+          "value": 12.0,
+          "value_max": 18.0,
+          "unit": "seats",
+          "context": "Typical arrangement described for two side aisles with pews between them.",
+          "status": "uncertain",
+          "ocr_raw": "two side aisles with pews in between ---7 0 containing 12-18 seats is normal."
+        },
+        {
+          "label": "space requirement per seat",
+          "value": 0.63,
+          "value_max": 1.0,
+          "unit": "m2",
+          "context": "Approximate total space requirement for each seat.",
+          "status": "uncertain",
+          "ocr_raw": "The total space requirement for each seat is therefore approx 0.63-1.0 rn 2 •"
+        },
+        {
+          "label": "space requirement per standing place",
+          "value": 0.25,
+          "value_max": 0.35,
+          "unit": "m2",
+          "context": "Space stated as sufficient for each standing place.",
+          "status": "uncertain",
+          "ocr_raw": "For standing places, 0.25-0.35 m2 each is sufficient"
+        },
+        {
+          "label": "space per pew seat without kneeler (Protestant)",
+          "value": 0.4,
+          "value_max": 0.5,
+          "unit": "m2",
+          "context": "Without aisles.",
+          "status": "uncertain",
+          "ocr_raw": "Space requirement for pew without kneeler (Protestant) → ② = 0.4-0.5 m2 (without aisles)"
+        },
+        {
+          "label": "space per pew seat with kneeler (Catholic)",
+          "value": 0.43,
+          "value_max": 0.52,
+          "unit": "m2",
+          "context": "Without aisles.",
+          "status": "uncertain",
+          "ocr_raw": "for pew with kneeler (Catholic) → ① = 0.43-0.52 m2 (without aisles)."
+        }
+      ],
+      "figure_refs": [
+        "1",
+        "2",
+        "3–6"
+      ],
+      "cross_refs": [],
+      "keywords": [
+        "church pew",
+        "kneeler",
+        "seating arrangement",
+        "aisle",
+        "congregation"
+      ],
+      "tags_architectural": [
+        "circulation",
+        "spatial_proportion"
+      ],
+      "confidence": 0.96
+    },
+    {
+      "id": "4122fb96e4bd1976-299-vision-1",
+      "pdf_page": 299,
+      "book_page": 286,
+      "chapter": "RELIGIOUS BUILDINGS",
+      "section": "Christian Churches",
+      "title": "Confessional",
+      "summary": "A three-compartment enclosed wooden booth places the priest in the central compartment. The person confessing uses one of the two side compartments and speaks through a grille. The confessional should not be in an overly bright location, and ventilation and extraction should be provided. A confessional room is noted as an alternative.",
+      "building_type": "Christian church",
+      "spaces": [
+        "confessional booth",
+        "confessional room"
+      ],
+      "uses": [
+        "hearing confession"
+      ],
+      "furniture_equipment": [
+        "enclosed wooden confessional booth",
+        "grille"
+      ],
+      "dimensions": [
+        {
+          "label": "grille dimension, first stated axis",
+          "value": 30.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "First component of the approximate grille size; the text does not identify the axis.",
+          "status": "uncertain",
+          "ocr_raw": "through a grille of approx. 30 x 40 em."
+        },
+        {
+          "label": "grille dimension, second stated axis",
+          "value": 40.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Second component of the approximate grille size; the text does not identify the axis.",
+          "status": "uncertain",
+          "ocr_raw": "through a grille of approx. 30 x 40 em."
+        },
+        {
+          "label": "height of lower edge of opening above floor",
+          "value": 1.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Approximate height above floor level.",
+          "status": "uncertain",
+          "ocr_raw": "The lower edge of the opening should be approx. 1.00 m above floor level."
+        }
+      ],
+      "figure_refs": [
+        "10"
+      ],
+      "cross_refs": [],
+      "keywords": [
+        "confessional",
+        "confession",
+        "grille",
+        "ventilation",
+        "extraction"
+      ],
+      "tags_architectural": [
+        "ventilation"
+      ],
+      "confidence": 0.96
+    },
+    {
+      "id": "4122fb96e4bd1976-299-vision-2",
+      "pdf_page": 299,
+      "book_page": 286,
+      "chapter": "RELIGIOUS BUILDINGS",
+      "section": "Christian Churches",
+      "title": "Vestry",
+      "summary": "The vestry, also called the sacristy, is a church side room for clergy, vestments, and service equipment. It is best located near and to the side of the altar. The example plan identifies the main room, sexton, vestibule, WC, entrance hall, and access routes.",
+      "building_type": "Christian church",
+      "spaces": [
+        "vestry",
+        "main room for robes and altar hangings",
+        "sexton space",
+        "vestibule",
+        "WC",
+        "entrance hall",
+        "access to altar area",
+        "access to nave"
+      ],
+      "uses": [
+        "housing clergy",
+        "storing vestments and service equipment",
+        "supporting preparation for services"
+      ],
+      "furniture_equipment": [
+        "service equipment",
+        "robes",
+        "altar hangings"
+      ],
+      "dimensions": [],
+      "figure_refs": [
+        "11"
+      ],
+      "cross_refs": [],
+      "keywords": [
+        "vestry",
+        "sacristy",
+        "clergy",
+        "vestments",
+        "altar"
+      ],
+      "tags_architectural": [
+        "circulation"
+      ],
+      "confidence": 0.94
+    },
+    {
+      "id": "4122fb96e4bd1976-299-vision-3",
+      "pdf_page": 299,
+      "book_page": 286,
+      "chapter": "RELIGIOUS BUILDINGS",
+      "section": "Christian Churches",
+      "title": "Church building shared by two denominations",
+      "summary": "A church plan demonstrates shared use by two denominations. Movable partitions create a common space in a double church in Freiburg; the drawings show arrangements for Catholic and Protestant congregations and associated chapel and parish spaces.",
+      "building_type": "Shared Christian church",
+      "spaces": [
+        "Catholic church",
+        "Protestant church",
+        "southern chapel",
+        "northern chapel",
+        "middle hall",
+        "baptistery",
+        "vestry",
+        "sacristy",
+        "church shop",
+        "small foyer",
+        "Catholic parish hall",
+        "kitchen",
+        "WC"
+      ],
+      "uses": [
+        "sharing church space between two denominations",
+        "creating a common space with movable partitions",
+        "worship and parish activities"
+      ],
+      "furniture_equipment": [
+        "movable partitions",
+        "church pews"
+      ],
+      "dimensions": [],
+      "figure_refs": [
+        "7",
+        "8"
+      ],
+      "cross_refs": [],
+      "keywords": [
+        "shared church",
+        "denominations",
+        "movable partitions",
+        "Freiburg",
+        "Catholic",
+        "Protestant"
+      ],
+      "tags_architectural": [
+        "adaptability",
+        "modularity"
+      ],
+      "confidence": 0.94
+    }
+  ]
+}

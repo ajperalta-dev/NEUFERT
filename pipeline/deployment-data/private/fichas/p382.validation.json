@@ -1,0 +1,101 @@
+{
+  "model": "gpt-6-luna",
+  "checks": {
+    "checks": [
+      {
+        "ficha_index": 0,
+        "dimension_index": 0,
+        "status": "verified",
+        "value": 10000.0,
+        "value_max": null,
+        "reason": "The text visibly prints \u201c<10,000 m\u00b2\u201d for the indoor element; the proposed threshold and unit agree."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 1,
+        "status": "verified",
+        "value": 5.0,
+        "value_max": null,
+        "reason": "The text visibly prints \u201c5.00 m\u00b2 per m\u00b2 of water area\u201d; the proposed value and unit agree."
+      },
+      {
+        "ficha_index": 1,
+        "dimension_index": 0,
+        "status": "verified",
+        "value": 53.46,
+        "value_max": null,
+        "reason": "The top plan dimension visibly reads 53.46 m."
+      },
+      {
+        "ficha_index": 1,
+        "dimension_index": 1,
+        "status": "verified",
+        "value": 50.63,
+        "value_max": null,
+        "reason": "The left-side plan dimension visibly reads 50.63 m."
+      },
+      {
+        "ficha_index": 1,
+        "dimension_index": 2,
+        "status": "verified",
+        "value": 21.8,
+        "value_max": null,
+        "reason": "The lower left-side plan dimension visibly reads 21.80 m."
+      },
+      {
+        "ficha_index": 1,
+        "dimension_index": 3,
+        "status": "verified",
+        "value": 210.0,
+        "value_max": null,
+        "reason": "The plan label visibly reads \u201ctraining pool 210 m\u00b2.\u201d"
+      }
+    ]
+  },
+  "automatic": [
+    {
+      "ficha_index": 0,
+      "dimension_index": 0,
+      "issues": [
+        "European decimal comma; check transcription"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 1,
+      "issues": [
+        "Unknown unit"
+      ]
+    },
+    {
+      "ficha_index": 1,
+      "dimension_index": 0,
+      "issues": []
+    },
+    {
+      "ficha_index": 1,
+      "dimension_index": 1,
+      "issues": []
+    },
+    {
+      "ficha_index": 1,
+      "dimension_index": 2,
+      "issues": []
+    },
+    {
+      "ficha_index": 1,
+      "dimension_index": 3,
+      "issues": []
+    }
+  ],
+  "usage": [
+    {
+      "prompt_tokens": 4177,
+      "completion_tokens": 1539
+    },
+    {
+      "prompt_tokens": 4469,
+      "completion_tokens": 431
+    }
+  ]
+}

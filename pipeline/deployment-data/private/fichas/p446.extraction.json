@@ -1,0 +1,324 @@
+{
+  "fichas": [
+    {
+      "id": "4122fb96e4bd1976-446-vision-0",
+      "pdf_page": 446,
+      "book_page": 433,
+      "chapter": "EXTERNAL WORKS",
+      "section": "Pergola and Trellis",
+      "title": "Trellises and climbing-plant supports",
+      "summary": "Trellises and other supports are used to train climbing plants on walls and in gardens. Supports may be horizontal wires, wigwams, tents, or wire mesh. Wire spacing should suit the plant species; wall greening may also be subject to fire, ownership, building, and local regulations.",
+      "building_type": "Garden structure and planting support",
+      "spaces": [
+        "Garden",
+        "Wall planting"
+      ],
+      "uses": [
+        "Support climbing plants",
+        "Green walls",
+        "Grow vegetables within reach for picking"
+      ],
+      "furniture_equipment": [
+        "Metal wires",
+        "Horizontal supports",
+        "Wire mesh",
+        "Wigwam supports",
+        "Tent supports"
+      ],
+      "dimensions": [
+        {
+          "label": "Growth height",
+          "value": 2.0,
+          "value_max": 20.0,
+          "unit": "m",
+          "context": "Possible growth heights of climbing plants.",
+          "status": "uncertain",
+          "ocr_raw": "Growth heights of 2–20 m are possible."
+        },
+        {
+          "label": "Horizontal wire spacing",
+          "value": 20.0,
+          "value_max": 50.0,
+          "unit": "cm",
+          "context": "Spacing depends on plant species.",
+          "status": "uncertain",
+          "ocr_raw": "The spacing of the horizontal wires should be between 20 and max. 50 cm according to species."
+        },
+        {
+          "label": "Wall clearance for horizontal supports",
+          "value": 10.0,
+          "value_max": 15.0,
+          "unit": "cm",
+          "context": "Diagram notes clearance from the wall, depending on the type of climber.",
+          "status": "uncertain",
+          "ocr_raw": "at least 10-15 cm depending on the type of climber"
+        },
+        {
+          "label": "Maximum support length",
+          "value": 2.5,
+          "value_max": null,
+          "unit": "m",
+          "context": "Dimension shown on the metal-wire support diagram.",
+          "status": "uncertain",
+          "ocr_raw": "max. 2.50"
+        },
+        {
+          "label": "Maximum support width",
+          "value": 0.32,
+          "value_max": null,
+          "unit": "m",
+          "context": "Dimension shown on the metal-wire support diagram.",
+          "status": "uncertain",
+          "ocr_raw": "max. 0.32"
+        },
+        {
+          "label": "Plants supported by wigwam",
+          "value": 8.0,
+          "value_max": 11.0,
+          "unit": "plants",
+          "context": "Wigwam method.",
+          "status": "uncertain",
+          "ocr_raw": "Wigwam method for 8–11 plants"
+        },
+        {
+          "label": "Branch angle to ground",
+          "value": 45.0,
+          "value_max": null,
+          "unit": "degrees",
+          "context": "Fan training: two branches are allowed to grow at this angle.",
+          "status": "uncertain",
+          "ocr_raw": "Fan: only two branches at an angle of 45° to the ground are allowed to grow"
+        }
+      ],
+      "figure_refs": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9"
+      ],
+      "cross_refs": [
+        "refs",
+        "3–7",
+        "8–9"
+      ],
+      "keywords": [
+        "trellis",
+        "climbing plants",
+        "green wall",
+        "wire support",
+        "fan training",
+        "espalier"
+      ],
+      "tags_architectural": [
+        "adaptability",
+        "safety"
+      ],
+      "confidence": 0.96
+    },
+    {
+      "id": "4122fb96e4bd1976-446-vision-1",
+      "pdf_page": 446,
+      "book_page": 433,
+      "chapter": "EXTERNAL WORKS",
+      "section": "Pergola and Trellis",
+      "title": "Fruit-tree planting patterns",
+      "summary": "The page illustrates square and triangular planting patterns, including arrangements with single or double fillers. Tables give planting spacings and trees per quarter hectare; the planting system is attributed to De Haas.",
+      "building_type": "Garden and fruit-planting layout",
+      "spaces": [
+        "Farm garden",
+        "Private fruit and vegetable plot",
+        "Commercial fruit plantation"
+      ],
+      "uses": [
+        "Train fruit trees",
+        "Arrange trees for cultivation",
+        "Optimize commercial planting"
+      ],
+      "furniture_equipment": [],
+      "dimensions": [
+        {
+          "label": "Square planting spacing",
+          "value": 4.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Square pattern planting; trees per ¼ ha are tabulated as 156.",
+          "status": "uncertain",
+          "ocr_raw": "4×4m 156"
+        },
+        {
+          "label": "Square planting spacing",
+          "value": 6.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Square pattern planting; trees per ¼ ha are tabulated as 69.",
+          "status": "uncertain",
+          "ocr_raw": "6×6m 69"
+        },
+        {
+          "label": "Square planting spacing",
+          "value": 10.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Square pattern planting; trees per ¼ ha are tabulated as 25.",
+          "status": "uncertain",
+          "ocr_raw": "10×10m 25"
+        },
+        {
+          "label": "Square planting spacing with fillers",
+          "value": 4.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Table notation is 4×4×(2)m; standing trees and fillers are each listed as 156 per ¼ ha.",
+          "status": "uncertain",
+          "ocr_raw": "4×4×(2)m 156 156"
+        },
+        {
+          "label": "Square planting spacing with fillers",
+          "value": 6.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Table notation is 6×6×(3)m; standing trees and fillers are each listed as 69 per ¼ ha.",
+          "status": "uncertain",
+          "ocr_raw": "6×6×(3)m 69 69"
+        },
+        {
+          "label": "Square planting spacing with fillers",
+          "value": 10.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Table notation is 10×10×(5)m; standing trees and fillers are each listed as 25 per ¼ ha.",
+          "status": "uncertain",
+          "ocr_raw": "10×10×(5)m 25 25"
+        },
+        {
+          "label": "Square pattern spacing with double fillers",
+          "value": 6.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Table notation is 6×3×3m; standing trees, first fillers, and second fillers are listed separately.",
+          "status": "uncertain",
+          "ocr_raw": "6×3×3m 69 69 103"
+        },
+        {
+          "label": "Square pattern spacing with double fillers",
+          "value": 8.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Table notation is 8×4×4m; standing trees, first fillers, and second fillers are listed separately.",
+          "status": "uncertain",
+          "ocr_raw": "8×4×4m 39 39 58"
+        },
+        {
+          "label": "Square pattern spacing with double fillers",
+          "value": 10.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Table notation is 10×5×5m; standing trees, first fillers, and second fillers are listed separately.",
+          "status": "uncertain",
+          "ocr_raw": "10×5×5m 25 25 37"
+        },
+        {
+          "label": "Triangular planting spacing",
+          "value": 3.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Triangular planting, equilateral; table lists 320 trees per ¼ ha.",
+          "status": "uncertain",
+          "ocr_raw": "3×3×3m 320"
+        },
+        {
+          "label": "Triangular planting spacing",
+          "value": 4.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Triangular planting, equilateral; table lists 178 trees per ¼ ha.",
+          "status": "uncertain",
+          "ocr_raw": "4×4×4m 178"
+        },
+        {
+          "label": "Triangular planting spacing",
+          "value": 6.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Triangular planting, equilateral; table lists 80 trees per ¼ ha.",
+          "status": "uncertain",
+          "ocr_raw": "6×6×6m 80"
+        },
+        {
+          "label": "Triangular planting with fillers spacing",
+          "value": 1.5,
+          "value_max": null,
+          "unit": "m",
+          "context": "Table notation is 1.5×3×3m; standing trees and fillers are listed separately.",
+          "status": "uncertain",
+          "ocr_raw": "1.5×3×3m 320 320"
+        },
+        {
+          "label": "Triangular planting with fillers spacing",
+          "value": 2.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Table notation is 2×4×4m; standing trees and fillers are listed separately.",
+          "status": "uncertain",
+          "ocr_raw": "2×4×4m 178 178"
+        },
+        {
+          "label": "Triangular planting with fillers spacing",
+          "value": 3.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Table notation is 3×6×6m; standing trees and fillers are listed separately.",
+          "status": "uncertain",
+          "ocr_raw": "3×6×6m 80 80"
+        },
+        {
+          "label": "Triangular planting with double fillers spacing",
+          "value": 3.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Table notation is 3×3×3m; standing trees, first fillers, and second fillers are listed separately.",
+          "status": "uncertain",
+          "ocr_raw": "3×3×3m 80 80 160"
+        },
+        {
+          "label": "Triangular planting with double fillers spacing",
+          "value": 4.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Table notation is 4×4×4m; standing trees, first fillers, and second fillers are listed separately.",
+          "status": "uncertain",
+          "ocr_raw": "4×4×4m 44 44 88"
+        }
+      ],
+      "figure_refs": [
+        "10",
+        "11",
+        "12",
+        "13",
+        "14",
+        "15"
+      ],
+      "cross_refs": [
+        "see p. 437",
+        "3–5"
+      ],
+      "keywords": [
+        "fruit trees",
+        "planting pattern",
+        "square planting",
+        "triangular planting",
+        "fillers",
+        "De Haas"
+      ],
+      "tags_architectural": [
+        "modularity"
+      ],
+      "confidence": 0.89
+    }
+  ]
+}

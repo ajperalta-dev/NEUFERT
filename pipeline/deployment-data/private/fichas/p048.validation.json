@@ -1,0 +1,185 @@
+{
+  "model": "gpt-6-luna",
+  "checks": {
+    "checks": [
+      {
+        "ficha_index": 0,
+        "dimension_index": 0,
+        "status": "verified",
+        "value": 30.0,
+        "value_max": null,
+        "reason": "The stair figure caption states \u201cStorey height = 30 m\u201d; the drawing also labels the height 30M."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 1,
+        "status": "verified",
+        "value": 42.0,
+        "value_max": null,
+        "reason": "The stair figure caption states \u201cFlight length on plan 42 m\u201d; the drawing also labels the flight 42M."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 2,
+        "status": "verified",
+        "value": 16.0,
+        "value_max": null,
+        "reason": "The stair figure text visibly states \u201c16 risers\u201d."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 3,
+        "status": "verified",
+        "value": 18.75,
+        "value_max": null,
+        "reason": "The stair figure text visibly gives the paired notation \u201c18.75/26.2 cm\u201d."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 4,
+        "status": "verified",
+        "value": 100.0,
+        "value_max": null,
+        "reason": "The text states \u201cbasic module M = 100 mm\u201d."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 5,
+        "status": "verified",
+        "value": 300.0,
+        "value_max": null,
+        "reason": "The text states \u201c3 M = 300 mm\u201d."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 6,
+        "status": "verified",
+        "value": 600.0,
+        "value_max": null,
+        "reason": "The text states \u201c6 M = 600 mm\u201d."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 7,
+        "status": "verified",
+        "value": 1200.0,
+        "value_max": null,
+        "reason": "The text states \u201c12 M = 1200 mm\u201d."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 8,
+        "status": "verified",
+        "value": 25.0,
+        "value_max": null,
+        "reason": "The text lists supplementary dimensions of 25 mm, 50 mm and 75 mm."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 9,
+        "status": "verified",
+        "value": 50.0,
+        "value_max": null,
+        "reason": "The text lists supplementary dimensions of 25 mm, 50 mm and 75 mm."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 10,
+        "status": "verified",
+        "value": 75.0,
+        "value_max": null,
+        "reason": "The text lists supplementary dimensions of 25 mm, 50 mm and 75 mm."
+      }
+    ]
+  },
+  "automatic": [
+    {
+      "ficha_index": 0,
+      "dimension_index": 0,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 1,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 2,
+      "issues": [
+        "Unknown unit",
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 3,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 4,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 5,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 6,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 7,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 8,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 9,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 10,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    }
+  ],
+  "usage": [
+    {
+      "prompt_tokens": 4630,
+      "completion_tokens": 1211
+    },
+    {
+      "prompt_tokens": 4359,
+      "completion_tokens": 741
+    }
+  ]
+}

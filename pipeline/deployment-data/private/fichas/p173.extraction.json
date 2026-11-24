@@ -1,0 +1,723 @@
+{
+  "fichas": [
+    {
+      "id": "4122fb96e4bd1976-173-vision-0",
+      "pdf_page": 173,
+      "book_page": 160,
+      "chapter": "RESIDENTIAL BUILDINGS",
+      "section": "Rooms",
+      "title": "Bathrooms: planning and warm-water requirements",
+      "summary": "A bathroom is an independent room with a bath or shower and toilet, and is part of the minimum equipment of a flat or house. In larger houses, bath and WC should be in separate rooms, or an additional guest WC should be provided. The text recommends a north orientation and natural lighting and ventilation where possible; otherwise provide effective mechanical ventilation according to DIN 18017-3. Bathrooms are normally near bedrooms. For technical reasons, bath and kitchen, or WC and kitchen, may share an installation shaft. The table gives guideline warm-water quantities, temperatures, and approximate durations for bathing and showering.",
+      "building_type": "Residential building",
+      "spaces": [
+        "Bathroom",
+        "WC",
+        "Guest WC",
+        "Bedroom",
+        "Kitchen"
+      ],
+      "uses": [
+        "Bathing",
+        "Showering",
+        "Toilet use",
+        "Guest use"
+      ],
+      "furniture_equipment": [
+        "Bathtub",
+        "Shower",
+        "Toilet",
+        "Mechanical ventilation"
+      ],
+      "dimensions": [
+        {
+          "label": "Full bath warm-water quantity",
+          "value": 140.0,
+          "value_max": 160.0,
+          "unit": "L",
+          "context": "Guideline quantity for a full bath",
+          "status": "uncertain",
+          "ocr_raw": "full bath 140–160"
+        },
+        {
+          "label": "Full bath water temperature",
+          "value": 40.0,
+          "value_max": null,
+          "unit": "°C",
+          "context": "Warm-water temperature for a full bath",
+          "status": "uncertain",
+          "ocr_raw": "full bath ... 40"
+        },
+        {
+          "label": "Full bath duration",
+          "value": 15.0,
+          "value_max": null,
+          "unit": "min",
+          "context": "Approximate duration of use for a full bath",
+          "status": "uncertain",
+          "ocr_raw": "full bath ... 15"
+        },
+        {
+          "label": "Sitting bath warm-water quantity",
+          "value": 40.0,
+          "value_max": null,
+          "unit": "L",
+          "context": "Guideline quantity for a sitting bath",
+          "status": "uncertain",
+          "ocr_raw": "sitting bath 40"
+        },
+        {
+          "label": "Sitting bath water temperature",
+          "value": 40.0,
+          "value_max": null,
+          "unit": "°C",
+          "context": "Warm-water temperature for a sitting bath",
+          "status": "uncertain",
+          "ocr_raw": "sitting bath ... 40"
+        },
+        {
+          "label": "Sitting bath duration",
+          "value": 5.0,
+          "value_max": null,
+          "unit": "min",
+          "context": "Approximate duration of use for a sitting bath",
+          "status": "uncertain",
+          "ocr_raw": "sitting bath ... 5"
+        },
+        {
+          "label": "Footbath warm-water quantity",
+          "value": 25.0,
+          "value_max": null,
+          "unit": "L",
+          "context": "Guideline quantity for a footbath",
+          "status": "uncertain",
+          "ocr_raw": "footbath 25"
+        },
+        {
+          "label": "Footbath water temperature",
+          "value": 40.0,
+          "value_max": null,
+          "unit": "°C",
+          "context": "Warm-water temperature for a footbath",
+          "status": "uncertain",
+          "ocr_raw": "footbath ... 40"
+        },
+        {
+          "label": "Footbath duration",
+          "value": 5.0,
+          "value_max": null,
+          "unit": "min",
+          "context": "Approximate duration of use for a footbath",
+          "status": "uncertain",
+          "ocr_raw": "footbath ... 5"
+        },
+        {
+          "label": "Shower warm-water quantity",
+          "value": 40.0,
+          "value_max": 75.0,
+          "unit": "L",
+          "context": "Guideline quantity for a shower",
+          "status": "uncertain",
+          "ocr_raw": "shower 40–75"
+        },
+        {
+          "label": "Shower water temperature",
+          "value": 40.0,
+          "value_max": null,
+          "unit": "°C",
+          "context": "Warm-water temperature for a shower",
+          "status": "uncertain",
+          "ocr_raw": "shower ... 40"
+        },
+        {
+          "label": "Shower duration",
+          "value": 6.0,
+          "value_max": null,
+          "unit": "min",
+          "context": "Approximate duration of use for a shower",
+          "status": "uncertain",
+          "ocr_raw": "shower ... 6"
+        }
+      ],
+      "figure_refs": [
+        "1",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10"
+      ],
+      "cross_refs": [
+        "see also: Sound insulation p. 477",
+        "DIN 18017-3",
+        "→ 5–6",
+        "→ 8–9"
+      ],
+      "keywords": [
+        "bathroom",
+        "warm water",
+        "ventilation",
+        "installation shaft",
+        "room relationships"
+      ],
+      "tags_architectural": [
+        "ventilation",
+        "daylighting",
+        "circulation"
+      ],
+      "confidence": 0.96
+    },
+    {
+      "id": "4122fb96e4bd1976-173-vision-1",
+      "pdf_page": 173,
+      "book_page": 160,
+      "chapter": "RESIDENTIAL BUILDINGS",
+      "section": "Rooms",
+      "title": "Space required for bathroom and WC equipment",
+      "summary": "A guideline table lists required widths and depths for washbasins, bidets, tubs, WCs, urinals, laundry equipment, and bathroom cupboards. Shower trays may have a width of 90 cm, or also 75 cm. Values are presented as equipment clear-space dimensions, not as overall room dimensions.",
+      "building_type": "Residential building",
+      "spaces": [
+        "Bathroom",
+        "WC",
+        "Laundry area"
+      ],
+      "uses": [
+        "Washing",
+        "Bathing",
+        "Showering",
+        "Toilet use",
+        "Laundry"
+      ],
+      "furniture_equipment": [
+        "Single washbasin",
+        "Double washbasin",
+        "Built-in vanity unit",
+        "Hand basin",
+        "Bidet",
+        "Bathtub",
+        "Shower tray",
+        "WC",
+        "Urinal",
+        "Washing machine",
+        "Washer/dryer",
+        "Cupboards"
+      ],
+      "dimensions": [
+        {
+          "label": "Single washbasin width",
+          "value": 60.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Minimum area width",
+          "status": "uncertain",
+          "ocr_raw": "1. single washbasin ≥60"
+        },
+        {
+          "label": "Single washbasin depth",
+          "value": 55.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Minimum area depth",
+          "status": "uncertain",
+          "ocr_raw": "1. single washbasin ... ≥55"
+        },
+        {
+          "label": "Double washbasin width",
+          "value": 120.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Minimum area width",
+          "status": "uncertain",
+          "ocr_raw": "2. double washbasin ≥120"
+        },
+        {
+          "label": "Double washbasin depth",
+          "value": 55.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Minimum area depth",
+          "status": "uncertain",
+          "ocr_raw": "2. double washbasin ... ≥55"
+        },
+        {
+          "label": "Built-in vanity with one washbasin width",
+          "value": 70.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Minimum area width; cupboard underneath",
+          "status": "uncertain",
+          "ocr_raw": "3. built-in vanity unit with one washbasin and cupboard underneath ≥70"
+        },
+        {
+          "label": "Built-in vanity with one washbasin depth",
+          "value": 60.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Minimum area depth; cupboard underneath",
+          "status": "uncertain",
+          "ocr_raw": "3. built-in vanity unit with one washbasin and cupboard underneath ... ≥60"
+        },
+        {
+          "label": "Built-in vanity with two washbasins width",
+          "value": 140.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Minimum area width; cupboard underneath",
+          "status": "uncertain",
+          "ocr_raw": "4. built-in vanity unit with two washbasins and cupboard underneath ≥140"
+        },
+        {
+          "label": "Built-in vanity with two washbasins depth",
+          "value": 60.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Minimum area depth; cupboard underneath",
+          "status": "uncertain",
+          "ocr_raw": "4. built-in vanity unit with two washbasins and cupboard underneath ... ≥60"
+        },
+        {
+          "label": "Hand basin width",
+          "value": 45.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Minimum area width",
+          "status": "uncertain",
+          "ocr_raw": "5. hand basin ≥45"
+        },
+        {
+          "label": "Hand basin depth",
+          "value": 35.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Minimum area depth",
+          "status": "uncertain",
+          "ocr_raw": "5. hand basin ... ≥35"
+        },
+        {
+          "label": "Bidet width",
+          "value": 40.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Floor-standing or wall-hanging bidet area width",
+          "status": "uncertain",
+          "ocr_raw": "6. bidet, floor-standing or wall-hanging 40"
+        },
+        {
+          "label": "Bidet depth",
+          "value": 60.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Floor-standing or wall-hanging bidet area depth",
+          "status": "uncertain",
+          "ocr_raw": "6. bidet, floor-standing or wall-hanging ... 60"
+        },
+        {
+          "label": "Bathtub width",
+          "value": 170.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Minimum area width",
+          "status": "uncertain",
+          "ocr_raw": "7. bathtub ≥170"
+        },
+        {
+          "label": "Bathtub depth",
+          "value": 75.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Minimum area depth",
+          "status": "uncertain",
+          "ocr_raw": "7. bathtub ... ≥75"
+        },
+        {
+          "label": "Shower tray width",
+          "value": 80.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Minimum area width; footnote also gives 90 cm, or 75 cm",
+          "status": "uncertain",
+          "ocr_raw": "8. shower tray* ≥80; * for shower trays, width = 90 also 75 cm"
+        },
+        {
+          "label": "Shower tray depth",
+          "value": 80.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Minimum area depth",
+          "status": "uncertain",
+          "ocr_raw": "8. shower tray* ... ≥80"
+        },
+        {
+          "label": "Shower tray alternative width",
+          "value": 90.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Footnote alternative shower-tray width",
+          "status": "uncertain",
+          "ocr_raw": "for shower trays, width = 90 also 75 cm"
+        },
+        {
+          "label": "Shower tray alternative width",
+          "value": 75.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Footnote alternative shower-tray width",
+          "status": "uncertain",
+          "ocr_raw": "for shower trays, width = 90 also 75 cm"
+        },
+        {
+          "label": "WC with wall installation or pressure flush width",
+          "value": 40.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Area width",
+          "status": "uncertain",
+          "ocr_raw": "9. WC with wall installation or pressure flush 40"
+        },
+        {
+          "label": "WC with wall installation or pressure flush depth",
+          "value": 75.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Area depth",
+          "status": "uncertain",
+          "ocr_raw": "9. WC with wall installation or pressure flush ... 75"
+        },
+        {
+          "label": "WC without cistern width",
+          "value": 40.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Area width; cistern installed in wall",
+          "status": "uncertain",
+          "ocr_raw": "10. WC without cistern (with cistern installed in wall) 40"
+        },
+        {
+          "label": "WC without cistern depth",
+          "value": 60.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Area depth; cistern installed in wall",
+          "status": "uncertain",
+          "ocr_raw": "10. WC without cistern (with cistern installed in wall) ... 60"
+        },
+        {
+          "label": "Urinal width",
+          "value": 40.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Area width",
+          "status": "uncertain",
+          "ocr_raw": "11. urinal 40"
+        },
+        {
+          "label": "Urinal depth",
+          "value": 40.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Area depth",
+          "status": "uncertain",
+          "ocr_raw": "11. urinal ... 40"
+        },
+        {
+          "label": "Washing machine width",
+          "value": 40.0,
+          "value_max": 60.0,
+          "unit": "cm",
+          "context": "Area width",
+          "status": "uncertain",
+          "ocr_raw": "12. washing machine 40–60"
+        },
+        {
+          "label": "Washing machine depth",
+          "value": 60.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Area depth",
+          "status": "uncertain",
+          "ocr_raw": "12. washing machine ... 60"
+        },
+        {
+          "label": "Washer/dryer width",
+          "value": 60.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Area width",
+          "status": "uncertain",
+          "ocr_raw": "13. washer/dryer 60"
+        },
+        {
+          "label": "Washer/dryer depth",
+          "value": 60.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Area depth",
+          "status": "uncertain",
+          "ocr_raw": "13. washer/dryer ... 60"
+        },
+        {
+          "label": "Bathroom furniture depth",
+          "value": 40.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Minimum area depth; low, wall, and high cupboards; width according to manufacturer",
+          "status": "uncertain",
+          "ocr_raw": "14. low cupboards, wall cupboards, high cupboards according to manufacturer ≥40"
+        }
+      ],
+      "figure_refs": [
+        "2"
+      ],
+      "cross_refs": [],
+      "keywords": [
+        "equipment dimensions",
+        "clearance",
+        "sanitary fittings",
+        "bathroom furniture"
+      ],
+      "tags_architectural": [
+        "clearance",
+        "ergonomics"
+      ],
+      "confidence": 0.94
+    },
+    {
+      "id": "4122fb96e4bd1976-173-vision-2",
+      "pdf_page": 173,
+      "book_page": 160,
+      "chapter": "RESIDENTIAL BUILDINGS",
+      "section": "Rooms",
+      "title": "Centre-line and wall spacing for sanitary fittings",
+      "summary": "The table gives average recommended (MD) and absolute minimum (Mi) measurements for arrangements and centre-line or wall spacing of sanitary fittings. The labels M, MM, M1, M2, M3, MM1, and MM2 are retained as printed; units are millimetres.",
+      "building_type": "Residential building",
+      "spaces": [
+        "Bathroom",
+        "WC"
+      ],
+      "uses": [
+        "Arranging sanitary fittings",
+        "Planning fixture clearances"
+      ],
+      "furniture_equipment": [
+        "Sanitary fittings"
+      ],
+      "dimensions": [
+        {
+          "label": "M1",
+          "value": 1200.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Average recommended dimension (MD)",
+          "status": "uncertain",
+          "ocr_raw": "M1 1200"
+        },
+        {
+          "label": "M1",
+          "value": 1050.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Absolute minimum dimension (Mi)",
+          "status": "uncertain",
+          "ocr_raw": "M1 1050"
+        },
+        {
+          "label": "M2",
+          "value": 2100.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Average recommended dimension (MD)",
+          "status": "uncertain",
+          "ocr_raw": "M2 2100"
+        },
+        {
+          "label": "M2",
+          "value": 1900.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Absolute minimum dimension (Mi)",
+          "status": "uncertain",
+          "ocr_raw": "M2 1900"
+        },
+        {
+          "label": "M3",
+          "value": 1350.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Average recommended dimension (MD)",
+          "status": "uncertain",
+          "ocr_raw": "M3 1350"
+        },
+        {
+          "label": "M3",
+          "value": 1200.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Absolute minimum dimension (Mi)",
+          "status": "uncertain",
+          "ocr_raw": "M3 1200"
+        },
+        {
+          "label": "M",
+          "value": 450.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Average recommended dimension (MD)",
+          "status": "uncertain",
+          "ocr_raw": "M 450"
+        },
+        {
+          "label": "M",
+          "value": 400.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Absolute minimum dimension (Mi)",
+          "status": "uncertain",
+          "ocr_raw": "M 400"
+        },
+        {
+          "label": "MM",
+          "value": 675.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Average recommended dimension (MD)",
+          "status": "uncertain",
+          "ocr_raw": "MM 675"
+        },
+        {
+          "label": "MM",
+          "value": 600.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Absolute minimum dimension (Mi)",
+          "status": "uncertain",
+          "ocr_raw": "MM 600"
+        },
+        {
+          "label": "MM1",
+          "value": 750.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Average recommended dimension (MD)",
+          "status": "uncertain",
+          "ocr_raw": "MM1 750"
+        },
+        {
+          "label": "MM1",
+          "value": 575.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Absolute minimum dimension (Mi)",
+          "status": "uncertain",
+          "ocr_raw": "MM1 575"
+        },
+        {
+          "label": "MM2",
+          "value": 675.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Average recommended dimension (MD)",
+          "status": "uncertain",
+          "ocr_raw": "MM2 675"
+        },
+        {
+          "label": "MM2",
+          "value": 500.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Absolute minimum dimension (Mi)",
+          "status": "uncertain",
+          "ocr_raw": "MM2 500"
+        },
+        {
+          "label": "M1",
+          "value": 450.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Average recommended dimension (MD), subsequent fitting arrangement",
+          "status": "uncertain",
+          "ocr_raw": "M1 450"
+        },
+        {
+          "label": "M1",
+          "value": 400.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Absolute minimum dimension (Mi), subsequent fitting arrangement",
+          "status": "uncertain",
+          "ocr_raw": "M1 400"
+        },
+        {
+          "label": "MM1",
+          "value": 600.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Average recommended dimension (MD), subsequent fitting arrangement",
+          "status": "uncertain",
+          "ocr_raw": "MM1 600"
+        },
+        {
+          "label": "MM1",
+          "value": 525.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Absolute minimum dimension (Mi), subsequent fitting arrangement",
+          "status": "uncertain",
+          "ocr_raw": "MM1 525"
+        },
+        {
+          "label": "M2",
+          "value": 750.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Average recommended dimension (MD), final listed arrangement",
+          "status": "uncertain",
+          "ocr_raw": "M2 750"
+        },
+        {
+          "label": "M2",
+          "value": 700.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Absolute minimum dimension (Mi), final listed arrangement",
+          "status": "uncertain",
+          "ocr_raw": "M2 750; 700"
+        },
+        {
+          "label": "M3",
+          "value": 950.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Average recommended dimension (MD), final listed arrangement",
+          "status": "uncertain",
+          "ocr_raw": "M3 950"
+        },
+        {
+          "label": "M3",
+          "value": 900.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Absolute minimum dimension (Mi), final listed arrangement",
+          "status": "uncertain",
+          "ocr_raw": "M3 950; 900"
+        }
+      ],
+      "figure_refs": [
+        "3"
+      ],
+      "cross_refs": [],
+      "keywords": [
+        "centre-line",
+        "wall spacing",
+        "sanitary fittings",
+        "minimum dimensions"
+      ],
+      "tags_architectural": [
+        "clearance",
+        "ergonomics",
+        "anthropometry"
+      ],
+      "confidence": 0.81
+    }
+  ]
+}

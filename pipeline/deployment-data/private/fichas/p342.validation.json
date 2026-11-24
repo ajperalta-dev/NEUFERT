@@ -1,0 +1,64 @@
+{
+  "model": "gpt-6-luna",
+  "checks": {
+    "checks": [
+      {
+        "ficha_index": 0,
+        "dimension_index": 0,
+        "status": "verified",
+        "value": 80.0,
+        "value_max": null,
+        "reason": "The text visibly states \u201cmin. width 80 cm.\u201d"
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 1,
+        "status": "verified",
+        "value": 5.5,
+        "value_max": null,
+        "reason": "The text visibly states \u201cmin. length 5.50 m\u201d; the proposed value and unit agree."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 2,
+        "status": "verified",
+        "value": 90.0,
+        "value_max": null,
+        "reason": "The text visibly specifies a \u201c90 cm spirit level.\u201d"
+      }
+    ]
+  },
+  "automatic": [
+    {
+      "ficha_index": 0,
+      "dimension_index": 0,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 1,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 2,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    }
+  ],
+  "usage": [
+    {
+      "prompt_tokens": 4250,
+      "completion_tokens": 753
+    },
+    {
+      "prompt_tokens": 3608,
+      "completion_tokens": 181
+    }
+  ]
+}

@@ -1,0 +1,163 @@
+{
+  "fichas": [
+    {
+      "id": "4122fb96e4bd1976-120-vision-0",
+      "pdf_page": 120,
+      "book_page": 107,
+      "chapter": "BUILDING COMPONENTS",
+      "section": "Glass",
+      "title": "Noise control glazing",
+      "summary": "Insulated glazing can provide noise control when supplemented with measures such as heavier or resin-filled panes, noise-reduction foil, and panes of differing thicknesses. These measures may affect visual transmittance, g-value and Ug-value. Sound reduction values and spectrum adaptation terms should be checked against manufacturer data, and products should have the required test certificates.",
+      "building_type": "Glazing system",
+      "spaces": [],
+      "uses": [
+        "Acoustic insulation",
+        "Noise control"
+      ],
+      "furniture_equipment": [
+        "Asymmetric insulated glazing",
+        "Laminated glass",
+        "Cast-in-place resin-filled glass",
+        "Gas filling",
+        "Aluminium spacer"
+      ],
+      "dimensions": [
+        {
+          "label": "Sound reduction value Rw",
+          "value": 37.0,
+          "value_max": 43.0,
+          "unit": "dB",
+          "context": "Range shown in the table for Phonstop® glass configurations.",
+          "status": "uncertain",
+          "ocr_raw": "Rw (dB) 37 38 38 38 38 39 40 41 42 43"
+        },
+        {
+          "label": "Glass configuration thickness",
+          "value": 28.0,
+          "value_max": 40.0,
+          "unit": "mm",
+          "context": "Range shown in the table for Phonstop® glass configurations.",
+          "status": "uncertain",
+          "ocr_raw": "Thickness (mm) 28 30 28 30 30 29 32 31 33 33"
+        },
+        {
+          "label": "Ug-value, Phonstop® TH-SN",
+          "value": 1.2,
+          "value_max": null,
+          "unit": "W/m² K",
+          "context": "Thermal transmittance value cited for Phonstop® TH-SN.",
+          "status": "uncertain",
+          "ocr_raw": "U_g-values of Phonstop® TH-SN 1.2 W/m²K"
+        },
+        {
+          "label": "Ug-value, Phonstop® TH S3",
+          "value": 1.1,
+          "value_max": null,
+          "unit": "W/m² K",
+          "context": "Thermal transmittance value cited for Phonstop® TH S3.",
+          "status": "uncertain",
+          "ocr_raw": "Phonstop® TH S3 1.1 W/m²k"
+        }
+      ],
+      "figure_refs": [
+        "1 Improvement of the sound reduction properties of insulated glazing",
+        "2 Adaptation terms C and Ctr for the sound reduction value Rw",
+        "3 Sound reduction and adaptation terms for Phonstop® glasses",
+        "4 Comparison of light transmittance values of armoured glass with and without white glass"
+      ],
+      "cross_refs": [
+        "p. 100",
+        "p. 386",
+        "EnEV-> refs"
+      ],
+      "keywords": [
+        "glass",
+        "insulated glazing",
+        "noise reduction",
+        "acoustic insulation",
+        "sound reduction",
+        "spectrum adaptation",
+        "Rw",
+        "Ug-value"
+      ],
+      "tags_architectural": [
+        "spatial_proportion"
+      ],
+      "confidence": 0.86
+    },
+    {
+      "id": "4122fb96e4bd1976-120-vision-1",
+      "pdf_page": 120,
+      "book_page": 107,
+      "chapter": "BUILDING COMPONENTS",
+      "section": "Glass",
+      "title": "Security glazing",
+      "summary": "Security glazing includes break-in-resistant glazing for private areas, multilayer glazing for resistance to manual attack, bullet-proof glass, and glazing tested for explosion resistance. Requirements and resistance classes depend on the application and applicable standards; VdS certification is required for the indicated classes. Explosion-resistance testing described here used glazing fixed all round in a retaining construction.",
+      "building_type": "Security glazing system",
+      "spaces": [
+        "Private areas",
+        "Commercial premises",
+        "Bank counters"
+      ],
+      "uses": [
+        "Break-in resistance",
+        "Resistance against manual attack",
+        "Bullet resistance",
+        "Explosion resistance",
+        "Health and safety protection"
+      ],
+      "furniture_equipment": [
+        "Composite secure glazing units",
+        "High-strength plastic foil",
+        "Multilayer glass panes",
+        "White glass"
+      ],
+      "dimensions": [
+        {
+          "label": "Tested glazing maximum width",
+          "value": 900.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Maximum test dimensions for explosion resistance; tested glazing was fixed all round in a retaining construction.",
+          "status": "uncertain",
+          "ocr_raw": "Glazing was tested with maximum dimensions of 900 x 1100 mm"
+        },
+        {
+          "label": "Tested glazing maximum height",
+          "value": 1100.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Maximum test dimensions for explosion resistance; tested glazing was fixed all round in a retaining construction.",
+          "status": "uncertain",
+          "ocr_raw": "Glazing was tested with maximum dimensions of 900 x 1100 mm"
+        }
+      ],
+      "figure_refs": [
+        "5 Comparison table of security classes according to insurance regulations"
+      ],
+      "cross_refs": [
+        "DIN 52290-3",
+        "DIN 52290-4",
+        "EN 356",
+        "DIN V ENV 1627",
+        "BS EN 356",
+        "BS EN 1063",
+        "DIN EN 1063",
+        "DIN EN 13123"
+      ],
+      "keywords": [
+        "security glazing",
+        "break-in resistance",
+        "manual attack",
+        "bullet-proof glass",
+        "explosion resistance",
+        "VdS Loss Prevention",
+        "resistance classes"
+      ],
+      "tags_architectural": [
+        "safety"
+      ],
+      "confidence": 0.91
+    }
+  ]
+}

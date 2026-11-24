@@ -1,0 +1,201 @@
+{
+  "model": "gpt-6-luna",
+  "checks": {
+    "checks": [
+      {
+        "ficha_index": 0,
+        "dimension_index": 0,
+        "status": "uncertain",
+        "value": 2.5,
+        "value_max": 3.0,
+        "reason": "The figure shows 2.50\u20133.00, but no unit is printed with the dimension."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 1,
+        "status": "uncertain",
+        "value": 2.2,
+        "value_max": null,
+        "reason": "The figure shows \u2265 2.20, but no unit is printed with the dimension."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 2,
+        "status": "uncertain",
+        "value": 5.0,
+        "value_max": 6.0,
+        "reason": "The figure shows 5.00\u20136.00, but no unit is printed with the dimension."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 3,
+        "status": "uncertain",
+        "value": 5.0,
+        "value_max": 6.0,
+        "reason": "The figure shows 5.00\u20136.00, but no unit is printed with the dimension."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 4,
+        "status": "uncertain",
+        "value": 2.5,
+        "value_max": 3.0,
+        "reason": "The figure shows 2.50\u20133.00, but no unit is printed with the dimension."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 5,
+        "status": "uncertain",
+        "value": 3.8,
+        "value_max": null,
+        "reason": "The figure shows 3.80*, but no unit is printed with the dimension."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 6,
+        "status": "uncertain",
+        "value": 5.0,
+        "value_max": 6.0,
+        "reason": "The figure shows 5.00\u20136.00, but no unit is printed with the dimension."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 7,
+        "status": "uncertain",
+        "value": 5.0,
+        "value_max": 6.0,
+        "reason": "The figure shows 5.00\u20136.00, but no unit is printed with the dimension."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 8,
+        "status": "uncertain",
+        "value": 5.0,
+        "value_max": null,
+        "reason": "The figure shows \u2265 5.00, but no unit is printed with the dimension."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 9,
+        "status": "uncertain",
+        "value": 2.0,
+        "value_max": null,
+        "reason": "The figure shows \u2265 2.00, but no unit is printed with the dimension."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 10,
+        "status": "uncertain",
+        "value": 5.0,
+        "value_max": null,
+        "reason": "The figure shows \u2265 5.00, but no unit is printed with the dimension."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 11,
+        "status": "uncertain",
+        "value": 3.5,
+        "value_max": null,
+        "reason": "The figure shows 3.50*, but no unit is printed with the dimension."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 12,
+        "status": "uncertain",
+        "value": 2.75,
+        "value_max": null,
+        "reason": "The figure shows \u2265 2.75, but no unit is printed with the dimension."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 13,
+        "status": "uncertain",
+        "value": 2.75,
+        "value_max": null,
+        "reason": "The figure shows \u2265 2.75, but no unit is printed with the dimension."
+      }
+    ]
+  },
+  "automatic": [
+    {
+      "ficha_index": 0,
+      "dimension_index": 0,
+      "issues": []
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 1,
+      "issues": []
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 2,
+      "issues": []
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 3,
+      "issues": []
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 4,
+      "issues": []
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 5,
+      "issues": []
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 6,
+      "issues": []
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 7,
+      "issues": []
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 8,
+      "issues": []
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 9,
+      "issues": []
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 10,
+      "issues": []
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 11,
+      "issues": []
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 12,
+      "issues": []
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 13,
+      "issues": []
+    }
+  ],
+  "usage": [
+    {
+      "prompt_tokens": 4273,
+      "completion_tokens": 1340
+    },
+    {
+      "prompt_tokens": 4278,
+      "completion_tokens": 889
+    }
+  ]
+}

@@ -1,0 +1,136 @@
+{
+  "fichas": [
+    {
+      "id": "4122fb96e4bd1976-543-vision-0",
+      "pdf_page": 543,
+      "book_page": 530,
+      "chapter": "BUILDING SERVICES",
+      "section": "Domestic Installation",
+      "title": "Ventilation systems: purposes and construction",
+      "summary": "Ventilation influences air cleanliness and odour, room air temperature, air movement and draughts, and humidity. A typical system comprises an outside-air intake with fan, central processing device, distribution ductwork and outlets. Systems are categorized by whether they supply outside air and by their air-processing functions; closed ventilation systems use no outside air. Illustrations show negative-pressure ventilation and air supply-and-extract systems.",
+      "building_type": "Building services",
+      "spaces": [
+        "Occupied rooms"
+      ],
+      "uses": [
+        "Provide ventilation and influence indoor air comfort",
+        "Supply and distribute outside air",
+        "Transport and, where required, filter or process air"
+      ],
+      "furniture_equipment": [
+        "Outside-air intake",
+        "Fan",
+        "Central processing device",
+        "Air distribution ductwork",
+        "Air outlets"
+      ],
+      "dimensions": [],
+      "figure_refs": [
+        "1",
+        "2"
+      ],
+      "cross_refs": [
+        "→ 2"
+      ],
+      "keywords": [
+        "ventilation",
+        "air handling",
+        "outside air",
+        "negative pressure",
+        "air supply",
+        "air extract",
+        "air filtration",
+        "air quality"
+      ],
+      "tags_architectural": [
+        "ventilation",
+        "circulation"
+      ],
+      "confidence": 0.96
+    },
+    {
+      "id": "4122fb96e4bd1976-543-vision-1",
+      "pdf_page": 543,
+      "book_page": 530,
+      "chapter": "BUILDING SERVICES",
+      "section": "Domestic Installation",
+      "title": "Chilled ceilings and related cooling systems",
+      "summary": "Chilled ceilings provide passive radiant cooling using cold-water ceiling components, allowing air exchange to remain at the hygienic minimum. The page illustrates thin-construction chilled ceilings, suspended-ceiling cooling systems with a convection component, suspended and directly plastered ceiling arrangements, storage chilled ceilings, chilled beams, and cooling systems combined with suspended ceilings. Chilled ceilings are described as a quiet alternative to conventional air conditioning, with low space requirements for ducts and service rooms. Suspended chilled beams have less cooling capacity than full-surface systems.",
+      "building_type": "Building services",
+      "spaces": [
+        "Office rooms",
+        "Rooms served by chilled ceilings or chilled beams"
+      ],
+      "uses": [
+        "Provide radiant or free-convection cooling",
+        "Remove internal cooling loads from people, devices and lighting",
+        "Combine cooling with ventilation and suspended-ceiling systems"
+      ],
+      "furniture_equipment": [
+        "Chilled ceiling components",
+        "Cold-water circulation",
+        "Metal panel ceiling",
+        "Capillary pipe ceiling",
+        "Suspended ceiling",
+        "Acoustic ceiling",
+        "Suspended chilled beam",
+        "Integrated ceiling light",
+        "Hanging light",
+        "Perforated plates",
+        "Raised floor",
+        "Air-source floor outlet",
+        "Air-source outlet element",
+        "Extract outlet"
+      ],
+      "dimensions": [
+        {
+          "label": "Typical internal cooling load",
+          "value": 40.0,
+          "value_max": 80.0,
+          "unit": "W/m²",
+          "context": "Cooling load in office rooms, normally about this range.",
+          "status": "uncertain",
+          "ocr_raw": "normally about 40–80 W/m²"
+        },
+        {
+          "label": "Chilled ceiling cooling capacity",
+          "value": 100.0,
+          "value_max": null,
+          "unit": "W/m²",
+          "context": "Maximum stated capacity for chilled-ceiling systems.",
+          "status": "uncertain",
+          "ocr_raw": "Chilled ceiling systems are available for up to 100 W/m² of cooling."
+        }
+      ],
+      "figure_refs": [
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9"
+      ],
+      "cross_refs": [
+        "→ 3–9",
+        "→ 7"
+      ],
+      "keywords": [
+        "chilled ceiling",
+        "silent cooling",
+        "radiant cooling",
+        "free convection",
+        "chilled beam",
+        "air-water system",
+        "cooling load",
+        "ceiling systems"
+      ],
+      "tags_architectural": [
+        "ventilation",
+        "daylighting",
+        "adaptability"
+      ],
+      "confidence": 0.95
+    }
+  ]
+}

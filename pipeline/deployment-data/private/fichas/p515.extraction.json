@@ -1,0 +1,561 @@
+{
+  "fichas": [
+    {
+      "id": "4122fb96e4bd1976-515-vision-0",
+      "pdf_page": 515,
+      "book_page": 502,
+      "chapter": "BUILDING SERVICES",
+      "section": "Lighting",
+      "title": "Lamp types, lifetime and luminous efficacy",
+      "summary": "Overview of discharge-lamp types and a table comparing lamp lifetimes and luminous efficacy. Discharge lamps generally operate with a ballast, sometimes require a starter, and may not always be dimmable. Flicker-free operation requires an electronic ballast.",
+      "building_type": "Lighting systems",
+      "spaces": [],
+      "uses": [
+        "General artificial lighting",
+        "Office and commercial lighting",
+        "Industrial and street lighting"
+      ],
+      "furniture_equipment": [
+        "Lamps",
+        "Ballasts",
+        "Starter devices"
+      ],
+      "dimensions": [
+        {
+          "label": "Typical discharge lamp lifetime",
+          "value": 5000.0,
+          "value_max": 20000.0,
+          "unit": "h",
+          "context": "Typical characteristics of discharge lamps",
+          "status": "uncertain",
+          "ocr_raw": "5000–20,000 h"
+        },
+        {
+          "label": "Filament lamp lifetime",
+          "value": 1000.0,
+          "value_max": null,
+          "unit": "h",
+          "context": "Lamp lifetime table",
+          "status": "uncertain",
+          "ocr_raw": "1000"
+        },
+        {
+          "label": "Parabolic reflector lamp lifetime",
+          "value": 2000.0,
+          "value_max": null,
+          "unit": "h",
+          "context": "Lamp lifetime table",
+          "status": "uncertain",
+          "ocr_raw": "2000"
+        },
+        {
+          "label": "Halogen filament lamp lifetime",
+          "value": 1500.0,
+          "value_max": 2000.0,
+          "unit": "h",
+          "context": "Lamp lifetime table",
+          "status": "uncertain",
+          "ocr_raw": "1500–2000"
+        },
+        {
+          "label": "Low-voltage halogen lamp lifetime",
+          "value": 2000.0,
+          "value_max": 6000.0,
+          "unit": "h",
+          "context": "Lamp lifetime table",
+          "status": "uncertain",
+          "ocr_raw": "2000–6000"
+        },
+        {
+          "label": "High-voltage mercury vapour lamp lifetime",
+          "value": 6000.0,
+          "value_max": 8000.0,
+          "unit": "h",
+          "context": "Lamp lifetime table",
+          "status": "uncertain",
+          "ocr_raw": "6000–8000"
+        },
+        {
+          "label": "High-pressure metal vapour and halogen lamp lifetime",
+          "value": 6000.0,
+          "value_max": 12000.0,
+          "unit": "h",
+          "context": "Lamp lifetime table",
+          "status": "uncertain",
+          "ocr_raw": "6000–12 000"
+        },
+        {
+          "label": "High-pressure sodium vapour lamp lifetime",
+          "value": 8000.0,
+          "value_max": 10000.0,
+          "unit": "h",
+          "context": "Lamp lifetime table",
+          "status": "uncertain",
+          "ocr_raw": "8000–10 000"
+        },
+        {
+          "label": "Fluorescent tube lifetime",
+          "value": 20000.0,
+          "value_max": null,
+          "unit": "h",
+          "context": "Lamp lifetime table",
+          "status": "uncertain",
+          "ocr_raw": "20000"
+        },
+        {
+          "label": "Compact fluorescent tube lifetime",
+          "value": 8000.0,
+          "value_max": 12000.0,
+          "unit": "h",
+          "context": "Lamp lifetime table",
+          "status": "uncertain",
+          "ocr_raw": "8000–12000"
+        },
+        {
+          "label": "Filament lamp luminous efficacy",
+          "value": 6.0,
+          "value_max": 12.0,
+          "unit": "lm/W",
+          "context": "Lamp luminous efficacy table",
+          "status": "uncertain",
+          "ocr_raw": "6–12"
+        },
+        {
+          "label": "Parabolic reflector lamp luminous efficacy",
+          "value": 15.0,
+          "value_max": null,
+          "unit": "lm/W",
+          "context": "Lamp luminous efficacy table",
+          "status": "uncertain",
+          "ocr_raw": "15"
+        },
+        {
+          "label": "Halogen filament lamp luminous efficacy",
+          "value": 12.0,
+          "value_max": 24.0,
+          "unit": "lm/W",
+          "context": "Lamp luminous efficacy table",
+          "status": "uncertain",
+          "ocr_raw": "12–24"
+        },
+        {
+          "label": "Low-voltage halogen lamp luminous efficacy",
+          "value": 12.0,
+          "value_max": 24.0,
+          "unit": "lm/W",
+          "context": "Lamp luminous efficacy table",
+          "status": "uncertain",
+          "ocr_raw": "12–24"
+        },
+        {
+          "label": "High-voltage mercury vapour lamp luminous efficacy",
+          "value": 70.0,
+          "value_max": 120.0,
+          "unit": "lm/W",
+          "context": "Lamp luminous efficacy table",
+          "status": "uncertain",
+          "ocr_raw": "70–120"
+        },
+        {
+          "label": "High-pressure metal vapour and halogen lamp luminous efficacy",
+          "value": 70.0,
+          "value_max": 120.0,
+          "unit": "lm/W",
+          "context": "Lamp luminous efficacy table",
+          "status": "uncertain",
+          "ocr_raw": "70–120"
+        },
+        {
+          "label": "High-pressure sodium vapour lamp luminous efficacy",
+          "value": 70.0,
+          "value_max": 120.0,
+          "unit": "lm/W",
+          "context": "Lamp luminous efficacy table",
+          "status": "uncertain",
+          "ocr_raw": "70–120"
+        },
+        {
+          "label": "Fluorescent tube luminous efficacy",
+          "value": 80.0,
+          "value_max": 104.0,
+          "unit": "lm/W",
+          "context": "Lamp luminous efficacy table",
+          "status": "uncertain",
+          "ocr_raw": "80–104"
+        },
+        {
+          "label": "Compact fluorescent tube luminous efficacy",
+          "value": 60.0,
+          "value_max": 75.0,
+          "unit": "lm/W",
+          "context": "Lamp luminous efficacy table",
+          "status": "uncertain",
+          "ocr_raw": "60–75"
+        }
+      ],
+      "figure_refs": [
+        "Lamps: lifetime and luminous efficacy"
+      ],
+      "cross_refs": [
+        "p. 501"
+      ],
+      "keywords": [
+        "lamp types",
+        "discharge lamps",
+        "lamp lifetime",
+        "luminous efficacy",
+        "ballast"
+      ],
+      "tags_architectural": [],
+      "confidence": 0.96
+    },
+    {
+      "id": "4122fb96e4bd1976-515-vision-1",
+      "pdf_page": 515,
+      "book_page": 502,
+      "chapter": "BUILDING SERVICES",
+      "section": "Lighting",
+      "title": "Fluorescent lamps",
+      "summary": "Fluorescent tubes convert ultraviolet radiation produced inside the tube into visible light using an internal coating. They are commonly used in office and commercial ceiling grids, light bands, and linear luminaires. Direct or indirect arrangements can provide uniform overall lighting with mild shadow formation. Smaller diameters allow more precise direction of light; ballasts are normally electronically controlled.",
+      "building_type": "Office and commercial buildings",
+      "spaces": [
+        "Offices",
+        "Commercial spaces"
+      ],
+      "uses": [
+        "Uniform overall lighting",
+        "Direct or indirect lighting"
+      ],
+      "furniture_equipment": [
+        "Fluorescent tubes",
+        "Ceiling grids",
+        "Linear luminaires",
+        "Electronic ballasts"
+      ],
+      "dimensions": [
+        {
+          "label": "Fluorescent lamp luminous efficacy",
+          "value": 104.0,
+          "value_max": null,
+          "unit": "lm/W",
+          "context": "Fluorescent lamps",
+          "status": "uncertain",
+          "ocr_raw": "104 lm/W"
+        },
+        {
+          "label": "T16 tube diameter",
+          "value": 16.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Tube designation; text explains that the number after T gives diameter in mm",
+          "status": "uncertain",
+          "ocr_raw": "T 16 = 16 mm diameter"
+        },
+        {
+          "label": "T5 tube diameter",
+          "value": 16.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Approximate metric diameter stated for the T5 designation",
+          "status": "uncertain",
+          "ocr_raw": "T 5 = 5 × ⅝ in ~ 16 mm"
+        }
+      ],
+      "figure_refs": [
+        "Fluorescent lamps"
+      ],
+      "cross_refs": [],
+      "keywords": [
+        "fluorescent tubes",
+        "ceiling grids",
+        "linear luminaires",
+        "electronic ballast",
+        "daylight-like lighting"
+      ],
+      "tags_architectural": [
+        "daylighting"
+      ],
+      "confidence": 0.91
+    },
+    {
+      "id": "4122fb96e4bd1976-515-vision-2",
+      "pdf_page": 515,
+      "book_page": 502,
+      "chapter": "BUILDING SERVICES",
+      "section": "Lighting",
+      "title": "Compact fluorescent lamps",
+      "summary": "Compact fluorescent lamps were developed as replacements for filament bulbs. Their ballast is normally integrated into the screw base, and their luminous efficacy is lower than that of fluorescent tubes.",
+      "building_type": "Lighting systems",
+      "spaces": [],
+      "uses": [
+        "Replacement for filament light bulbs"
+      ],
+      "furniture_equipment": [
+        "Compact fluorescent lamps",
+        "Integrated ballast",
+        "Screw base"
+      ],
+      "dimensions": [],
+      "figure_refs": [
+        "Compact fluorescent lamps"
+      ],
+      "cross_refs": [],
+      "keywords": [
+        "compact fluorescent",
+        "filament bulb replacement",
+        "integrated ballast"
+      ],
+      "tags_architectural": [],
+      "confidence": 0.98
+    },
+    {
+      "id": "4122fb96e4bd1976-515-vision-3",
+      "pdf_page": 515,
+      "book_page": 502,
+      "chapter": "BUILDING SERVICES",
+      "section": "Lighting",
+      "title": "Fluorescent tubes for advertising displays",
+      "summary": "Glass tubes filled with inert gas, commonly called neon lighting, glow when subjected to voltage and produce different colours depending on the gas. Tubes can be curved before filling to form writing, ornaments, or figures; regulation is possible using resistors or transformers. Uses include cinemas, theatres, sales outlets, and advertising.",
+      "building_type": "Commercial and entertainment buildings",
+      "spaces": [
+        "Cinemas",
+        "Theatres",
+        "Sales outlets"
+      ],
+      "uses": [
+        "Advertising displays",
+        "Illuminated writing",
+        "Ornaments and figures"
+      ],
+      "furniture_equipment": [
+        "Glass discharge tubes",
+        "Regulating resistors",
+        "Transformers"
+      ],
+      "dimensions": [],
+      "figure_refs": [],
+      "cross_refs": [],
+      "keywords": [
+        "advertising lighting",
+        "neon lighting",
+        "inert gas",
+        "display"
+      ],
+      "tags_architectural": [],
+      "confidence": 0.98
+    },
+    {
+      "id": "4122fb96e4bd1976-515-vision-4",
+      "pdf_page": 515,
+      "book_page": 502,
+      "chapter": "BUILDING SERVICES",
+      "section": "Lighting",
+      "title": "Mercury, sodium, and metal-halide high-pressure lamps",
+      "summary": "Mercury and sodium high-pressure lamps use an arc between electrodes. They have long lifetimes and high luminous efficacy but poor colour rendering; mercury light is described as blue and sodium light as yellow. Typical applications include factories, works sheds, stores, and street lighting. Coated mercury lamps improve colour rendering. Metal vapour and halogen high-pressure lamps offer good colour rendering and high luminous efficacy. Their compact point source allows precise light direction; high luminance and ultraviolet content require consideration to avoid glare, reflection, and fading of UV-sensitive objects. Ceramic burners improve colour stability.",
+      "building_type": "Industrial and public lighting",
+      "spaces": [
+        "Factories",
+        "Works sheds",
+        "Stores",
+        "Streets"
+      ],
+      "uses": [
+        "Industrial lighting",
+        "Street lighting",
+        "Precise directional lighting"
+      ],
+      "furniture_equipment": [
+        "High-pressure mercury vapour lamps",
+        "High-pressure sodium vapour lamps",
+        "Metal-halide lamps",
+        "Ceramic burners"
+      ],
+      "dimensions": [
+        {
+          "label": "HME lamp power",
+          "value": 125.0,
+          "value_max": 250.0,
+          "unit": "W",
+          "context": "High-pressure discharge lamp chart; mercury vapour lamp",
+          "status": "uncertain",
+          "ocr_raw": "P(W): 125–250"
+        },
+        {
+          "label": "HMR lamp power",
+          "value": 38.0,
+          "value_max": 73.0,
+          "unit": "W",
+          "context": "High-pressure discharge lamp chart; mercury vapour reflector lamp",
+          "status": "uncertain",
+          "ocr_raw": "P(W): 38/73"
+        },
+        {
+          "label": "HIT lamp power",
+          "value": 35.0,
+          "value_max": null,
+          "unit": "W",
+          "context": "High-pressure discharge lamp chart; listed ratings",
+          "status": "uncertain",
+          "ocr_raw": "P(W): 35, 70, 150"
+        },
+        {
+          "label": "HIT lamp power",
+          "value": 70.0,
+          "value_max": null,
+          "unit": "W",
+          "context": "High-pressure discharge lamp chart; listed ratings",
+          "status": "uncertain",
+          "ocr_raw": "P(W): 35, 70, 150"
+        },
+        {
+          "label": "HIT lamp power",
+          "value": 150.0,
+          "value_max": null,
+          "unit": "W",
+          "context": "High-pressure discharge lamp chart; listed ratings",
+          "status": "uncertain",
+          "ocr_raw": "P(W): 35, 70, 150"
+        },
+        {
+          "label": "HIT-DE lamp power",
+          "value": 70.0,
+          "value_max": 250.0,
+          "unit": "W",
+          "context": "High-pressure discharge lamp chart",
+          "status": "uncertain",
+          "ocr_raw": "P(W): 70–250"
+        },
+        {
+          "label": "HIE lamp power",
+          "value": 75.0,
+          "value_max": 400.0,
+          "unit": "W",
+          "context": "High-pressure discharge lamp chart",
+          "status": "uncertain",
+          "ocr_raw": "P(W): 75–400"
+        },
+        {
+          "label": "HST lamp power",
+          "value": 50.0,
+          "value_max": 100.0,
+          "unit": "W",
+          "context": "High-pressure discharge lamp chart; high-pressure halogen metal vapour lamp",
+          "status": "uncertain",
+          "ocr_raw": "P(W): 50–100"
+        },
+        {
+          "label": "HSE lamp power",
+          "value": 50.0,
+          "value_max": 250.0,
+          "unit": "W",
+          "context": "High-pressure discharge lamp chart; sodium vapour lamp",
+          "status": "uncertain",
+          "ocr_raw": "P(W): 50–250"
+        }
+      ],
+      "figure_refs": [
+        "High-pressure discharge lamps"
+      ],
+      "cross_refs": [],
+      "keywords": [
+        "mercury vapour",
+        "sodium vapour",
+        "metal halide",
+        "high-pressure lamps",
+        "colour rendering",
+        "glare"
+      ],
+      "tags_architectural": [
+        "safety"
+      ],
+      "confidence": 0.91
+    },
+    {
+      "id": "4122fb96e4bd1976-515-vision-5",
+      "pdf_page": 515,
+      "book_page": 502,
+      "chapter": "BUILDING SERVICES",
+      "section": "Lighting",
+      "title": "Light-emitting diode (LED) lamps",
+      "summary": "LEDs produce light when direct current causes electron recombination in a semiconductor. Crystal choice determines colour; white light is produced by combining coloured LEDs or using luminescent phosphors. Stated advantages include small source size, little degradation in lighting performance, no infrared or ultraviolet radiation, impact resistance, and long lifetime.",
+      "building_type": "Lighting systems",
+      "spaces": [],
+      "uses": [
+        "Artificial lighting"
+      ],
+      "furniture_equipment": [
+        "LED lamps",
+        "Semiconductor light sources"
+      ],
+      "dimensions": [
+        {
+          "label": "LED lamp lifetime",
+          "value": 25000.0,
+          "value_max": 50000.0,
+          "unit": "h",
+          "context": "Approximate lifetime stated for LED lamps",
+          "status": "uncertain",
+          "ocr_raw": "approx. 25,000–50,000 h"
+        }
+      ],
+      "figure_refs": [],
+      "cross_refs": [],
+      "keywords": [
+        "LED",
+        "semiconductor",
+        "direct current",
+        "lifetime",
+        "white light"
+      ],
+      "tags_architectural": [],
+      "confidence": 0.98
+    },
+    {
+      "id": "4122fb96e4bd1976-515-vision-6",
+      "pdf_page": 515,
+      "book_page": 502,
+      "chapter": "BUILDING SERVICES",
+      "section": "Lighting",
+      "title": "Grid diffuser designs for suspended ceiling luminaires",
+      "summary": "Illustrations show parallel grid, parallel slanting grid, diagonal grid, and diagonal slanting grid patterns for suspended ceiling luminaires. The diagram gives the lamp arrangement criterion a ≥ ⅔ d.",
+      "building_type": "Ceiling lighting systems",
+      "spaces": [
+        "Suspended ceilings"
+      ],
+      "uses": [
+        "Lighting layout",
+        "Diffusing luminaire light"
+      ],
+      "furniture_equipment": [
+        "Suspended ceiling luminaires",
+        "Grid diffusers",
+        "Lamps"
+      ],
+      "dimensions": [
+        {
+          "label": "Lamp arrangement ratio",
+          "value": 0.6666666666666666,
+          "value_max": null,
+          "unit": "ratio",
+          "context": "Diagram criterion printed as a ≥ ⅔ d",
+          "status": "uncertain",
+          "ocr_raw": "Arrangement of lamps a ≥ ⅔ d"
+        }
+      ],
+      "figure_refs": [
+        "Grid patterns for suspended ceiling luminaires"
+      ],
+      "cross_refs": [],
+      "keywords": [
+        "grid diffuser",
+        "suspended ceiling",
+        "luminaire",
+        "lighting layout"
+      ],
+      "tags_architectural": [
+        "modularity"
+      ],
+      "confidence": 0.94
+    }
+  ]
+}

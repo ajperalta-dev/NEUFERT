@@ -1,0 +1,187 @@
+{
+  "fichas": [
+    {
+      "id": "4122fb96e4bd1976-217-vision-0",
+      "pdf_page": 217,
+      "book_page": 204,
+      "chapter": "EDUCATION AND RESEARCH",
+      "section": "Universities and Colleges",
+      "title": "Laboratories and Laboratory Planning",
+      "summary": "Laboratory room dimensions derive from the size of the bench workstation and its associated work and passage areas, which define the laboratory axis and basic spatial unit. Cold laboratories, weighing rooms, staff facilities, stores, and animal laboratories have distinct planning and service requirements. Chemical laboratories require artificial ventilation and extraction.",
+      "building_type": "Laboratory",
+      "spaces": [
+        "Laboratory",
+        "Cold laboratory",
+        "Weighing room",
+        "Study cubicle",
+        "Social and rest room",
+        "General storage room",
+        "Chemical store",
+        "Isotope store",
+        "Animal laboratory",
+        "Electrical service room"
+      ],
+      "uses": [
+        "Scientific and laboratory work",
+        "Photographic work and darkroom use",
+        "Weighing and measurement",
+        "Storage of chemicals and isotopes",
+        "Housing laboratory animals"
+      ],
+      "furniture_equipment": [
+        "Laboratory benches",
+        "Fume cupboards",
+        "Cupboards",
+        "Decay containers",
+        "Ventilation and extraction systems",
+        "Transformer station"
+      ],
+      "dimensions": [
+        {
+          "label": "Air changes per hour, chemistry laboratories",
+          "value": 8.0,
+          "value_max": null,
+          "unit": "changes/hour",
+          "context": "Extraction area",
+          "status": "uncertain",
+          "ocr_raw": "Air changes per hour: chemistry laboratories 8 times"
+        },
+        {
+          "label": "Air changes per hour, biology laboratories",
+          "value": 4.0,
+          "value_max": null,
+          "unit": "changes/hour",
+          "context": "Extraction area",
+          "status": "uncertain",
+          "ocr_raw": "biology laboratories 4 times"
+        },
+        {
+          "label": "Air changes per hour, physics laboratories",
+          "value": 3.0,
+          "value_max": 4.0,
+          "unit": "changes/hour",
+          "context": "Extraction area",
+          "status": "uncertain",
+          "ocr_raw": "physics laboratories 3-4 times"
+        }
+      ],
+      "figure_refs": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "cross_refs": [
+        "1–3",
+        "1–6",
+        "5–7"
+      ],
+      "keywords": [
+        "laboratory planning",
+        "cold laboratory",
+        "animal laboratory",
+        "ventilation",
+        "air changes",
+        "chemical safety",
+        "service installation"
+      ],
+      "tags_architectural": [
+        "circulation",
+        "safety",
+        "ventilation"
+      ],
+      "confidence": 0.94
+    },
+    {
+      "id": "4122fb96e4bd1976-217-vision-1",
+      "pdf_page": 217,
+      "book_page": 204,
+      "chapter": "EDUCATION AND RESEARCH",
+      "section": "Universities and Colleges",
+      "title": "Laboratory Workstations and Benches",
+      "summary": "The laboratory bench is the determining design unit for the workstation. Benches may be permanently installed or mobile; their dimensions, associated work areas, and passage areas define the laboratory axis. Bench and fume-cupboard elements use a building-block system, with services supplied through an independent socket strip. Work surfaces and cupboard materials are selected for durability and chemical resistance.",
+      "building_type": "Laboratory",
+      "spaces": [
+        "Laboratory workstation",
+        "Laboratory aisle",
+        "Service duct"
+      ],
+      "uses": [
+        "Laboratory work",
+        "Measurement and weighing",
+        "Connection of laboratory services",
+        "Chemical extraction"
+      ],
+      "furniture_equipment": [
+        "Laboratory benches",
+        "Work surfaces",
+        "Low-level cupboards",
+        "Socket strips",
+        "Fume cupboards",
+        "Energy conduits"
+      ],
+      "dimensions": [
+        {
+          "label": "Practical laboratory bench width",
+          "value": 120.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Standard dimensions for the normal working bench",
+          "status": "uncertain",
+          "ocr_raw": "120 em width in practical laboratories"
+        },
+        {
+          "label": "Work surface depth",
+          "value": 80.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Including socket strip",
+          "status": "uncertain",
+          "ocr_raw": "80 em depth work surface including socket strip"
+        },
+        {
+          "label": "Bench element width",
+          "value": 120.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Building block system",
+          "status": "uncertain",
+          "ocr_raw": "element widths 120 em"
+        },
+        {
+          "label": "Fume cupboard width",
+          "value": 120.0,
+          "value_max": 180.0,
+          "unit": "cm",
+          "context": "Building block system; stated alternatives",
+          "status": "uncertain",
+          "ocr_raw": "fume cupboards 120 and 180cm"
+        }
+      ],
+      "figure_refs": [
+        "5",
+        "6",
+        "7"
+      ],
+      "cross_refs": [
+        "1–3",
+        "5–7"
+      ],
+      "keywords": [
+        "laboratory workstation",
+        "laboratory bench",
+        "work surface",
+        "socket strip",
+        "fume cupboard",
+        "energy conduit",
+        "service duct"
+      ],
+      "tags_architectural": [
+        "ergonomics",
+        "modularity",
+        "clearance"
+      ],
+      "confidence": 0.96
+    }
+  ]
+}

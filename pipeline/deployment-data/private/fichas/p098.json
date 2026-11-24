@@ -1,0 +1,483 @@
+{
+  "fichas": [
+    {
+      "id": "4122fb96e4bd1976-98-vision-0",
+      "pdf_page": 98,
+      "book_page": 85,
+      "chapter": "BUILDING COMPONENTS",
+      "section": "Roofs",
+      "title": "Roof shapes",
+      "summary": "Illustrated overview of basic roof forms and roof projections. The sheet notes that roof shape, roof pitch, roofing material, and detailing at the verge and eaves influence a building’s appearance. A minimum 2% fall is indicated for the flat-roof diagram.",
+      "building_type": "Roof",
+      "spaces": [],
+      "uses": [
+        "Identify basic roof forms and roof projections",
+        "Compare roof shapes and roof-edge features"
+      ],
+      "furniture_equipment": [],
+      "dimensions": [
+        {
+          "label": "Minimum fall",
+          "value": 2.0,
+          "value_max": null,
+          "unit": "%",
+          "context": "Minimum fall indicated on the flat-roof diagram",
+          "status": "verified",
+          "ocr_raw": "min2%fall"
+        }
+      ],
+      "figure_refs": [
+        "1 Flat roof",
+        "2 Single-pitch (monopitch) roof",
+        "3 Gabled roof",
+        "4 Hipped roof",
+        "5 Half-hipped roof",
+        "6 Mansard roof",
+        "7 Barrel roof",
+        "8 Compound roof with central gutter",
+        "9 Two single pitches",
+        "10 Northlight or saw-tooth roof",
+        "11 Four gables",
+        "12 Square hipped roof",
+        "13 Wide dormer with sloping roof",
+        "14 Gabled dormer window",
+        "15 Roof cut-out",
+        "16 Single pitched-roof dormers"
+      ],
+      "cross_refs": [],
+      "keywords": [
+        "roof shapes",
+        "roof forms",
+        "roof projections",
+        "roof pitch",
+        "roof covering",
+        "verge",
+        "eaves",
+        "ridge",
+        "gable",
+        "hip",
+        "dormer"
+      ],
+      "tags_architectural": [
+        "adaptability",
+        "spatial_proportion"
+      ],
+      "confidence": 0.98
+    },
+    {
+      "id": "4122fb96e4bd1976-98-vision-1",
+      "pdf_page": 98,
+      "book_page": 85,
+      "chapter": "BUILDING COMPONENTS",
+      "section": "Roofs",
+      "title": "Roof pitches for various roof coverings",
+      "summary": "Table of pitch ranges and usual pitches for roof coverings, including paved, felt, metal, tile, slate, glass, and thatch roofs. The listed pitch values are in degrees.",
+      "building_type": "Roof",
+      "spaces": [],
+      "uses": [
+        "Compare pitch ranges by roof covering",
+        "Reference usual pitches for roof coverings"
+      ],
+      "furniture_equipment": [],
+      "dimensions": [
+        {
+          "label": "Pitch range",
+          "value": 2.0,
+          "value_max": 4.0,
+          "unit": "degrees",
+          "context": "Accessible paved roof",
+          "status": "verified",
+          "ocr_raw": "ROOFS\nRoof Shapes\n\nRoof shape and roof pitch: the selection of roofing material and\nthe detailing of the roof edges at the verge and eaves have a\ndecisive influence on the appearance of buildings. 0 show\nthe basic forms of roofs and roof projections.\n\nmin2%fall\n\ne\n\nRoof covering\naccessible paved roof\n\nwood cement roof\nfelt roof, gravel covered\nfelt roof, double\nzinc roof, double standing seams\n\n0\n\nFlatroof\n\n8 Single-pitch (monopitch) roof\n\nfelt roof, single\nsteel sheeting roof\ninterlocking tile roof, 4 sides\nshingle roof (canopy 90\")\n\nJunclion point\n\ninterlocking tile roof, normal\n\nzinc and steel corrugated roof\nfibre cement corrugated roof\n\nRidge\n\nartificial slate roof\nslate roof, double decked\nslate roof, normal\nglass roof\nclay tiles, double decked\nclay tiles on battens\nclay tiles, pantiled\nclay tiles, split stone\nthatch\n\n8\n\nGabled roof\n\nQ\n\nHalf-hipped roof\n\nQ\n\nTwo single pitches\n\n@) Wide dormer with sloping roof\n\nPitch range\n\nUsually\n\n2-4\"\n2.5-4\"\n3-30\"\n4-50\"\n3-90\"\n8-15\"\n12-18\"\n18-50\"\n18-21\"\n20-33\"\n18-35\"\n5-90\"\n20-90\"\n25-90\"\n30-90\"\n30-45\"\n30-60\" y\n35-60\"\n40-60\"\n45-50\"\n45-80\"\n\n3-4\"\n3-4\"\n4-10\"\n6-12\"\n5-30\"\n10-12\"\n15\"\n22-45\"\n19-20\"\n22\"\n25\"\n30\"\n25-45\"\n30-50\"\n45\"\n33\"\n45\"\n45\"\n45\"\n45\"\n60-70\"\n\nG Hipped roof\n\nCf) Roof pitches for various roof coverings\n\ne\n\nf) Barrel roof\n\ne\n\n«<!) Northlight or saw-tooth roof\n\n4D Four g abies\n\nf) Square hipped roof\n\n4D\n\n6} Roof cut-out\n\n0\n\nMansard roof\n\nGabled dormer window\n\nROOFS\n\nRoof shapes\nPitched roofs\nFlat roofs\n\nCompound roof with central gutter\n\nSingle pitched-roof dormers\n\n85\n\n\f"
+        },
+        {
+          "label": "Usually",
+          "value": 3.0,
+          "value_max": 4.0,
+          "unit": "degrees",
+          "context": "Accessible paved roof",
+          "status": "verified",
+          "ocr_raw": "ROOFS\nRoof Shapes\n\nRoof shape and roof pitch: the selection of roofing material and\nthe detailing of the roof edges at the verge and eaves have a\ndecisive influence on the appearance of buildings. 0 show\nthe basic forms of roofs and roof projections.\n\nmin2%fall\n\ne\n\nRoof covering\naccessible paved roof\n\nwood cement roof\nfelt roof, gravel covered\nfelt roof, double\nzinc roof, double standing seams\n\n0\n\nFlatroof\n\n8 Single-pitch (monopitch) roof\n\nfelt roof, single\nsteel sheeting roof\ninterlocking tile roof, 4 sides\nshingle roof (canopy 90\")\n\nJunclion point\n\ninterlocking tile roof, normal\n\nzinc and steel corrugated roof\nfibre cement corrugated roof\n\nRidge\n\nartificial slate roof\nslate roof, double decked\nslate roof, normal\nglass roof\nclay tiles, double decked\nclay tiles on battens\nclay tiles, pantiled\nclay tiles, split stone\nthatch\n\n8\n\nGabled roof\n\nQ\n\nHalf-hipped roof\n\nQ\n\nTwo single pitches\n\n@) Wide dormer with sloping roof\n\nPitch range\n\nUsually\n\n2-4\"\n2.5-4\"\n3-30\"\n4-50\"\n3-90\"\n8-15\"\n12-18\"\n18-50\"\n18-21\"\n20-33\"\n18-35\"\n5-90\"\n20-90\"\n25-90\"\n30-90\"\n30-45\"\n30-60\" y\n35-60\"\n40-60\"\n45-50\"\n45-80\"\n\n3-4\"\n3-4\"\n4-10\"\n6-12\"\n5-30\"\n10-12\"\n15\"\n22-45\"\n19-20\"\n22\"\n25\"\n30\"\n25-45\"\n30-50\"\n45\"\n33\"\n45\"\n45\"\n45\"\n45\"\n60-70\"\n\nG Hipped roof\n\nCf) Roof pitches for various roof coverings\n\ne\n\nf) Barrel roof\n\ne\n\n«<!) Northlight or saw-tooth roof\n\n4D Four g abies\n\nf) Square hipped roof\n\n4D\n\n6} Roof cut-out\n\n0\n\nMansard roof\n\nGabled dormer window\n\nROOFS\n\nRoof shapes\nPitched roofs\nFlat roofs\n\nCompound roof with central gutter\n\nSingle pitched-roof dormers\n\n85\n\n\f"
+        },
+        {
+          "label": "Pitch range",
+          "value": 2.5,
+          "value_max": 4.0,
+          "unit": "degrees",
+          "context": "Wood cement roof",
+          "status": "verified",
+          "ocr_raw": "ROOFS\nRoof Shapes\n\nRoof shape and roof pitch: the selection of roofing material and\nthe detailing of the roof edges at the verge and eaves have a\ndecisive influence on the appearance of buildings. 0 show\nthe basic forms of roofs and roof projections.\n\nmin2%fall\n\ne\n\nRoof covering\naccessible paved roof\n\nwood cement roof\nfelt roof, gravel covered\nfelt roof, double\nzinc roof, double standing seams\n\n0\n\nFlatroof\n\n8 Single-pitch (monopitch) roof\n\nfelt roof, single\nsteel sheeting roof\ninterlocking tile roof, 4 sides\nshingle roof (canopy 90\")\n\nJunclion point\n\ninterlocking tile roof, normal\n\nzinc and steel corrugated roof\nfibre cement corrugated roof\n\nRidge\n\nartificial slate roof\nslate roof, double decked\nslate roof, normal\nglass roof\nclay tiles, double decked\nclay tiles on battens\nclay tiles, pantiled\nclay tiles, split stone\nthatch\n\n8\n\nGabled roof\n\nQ\n\nHalf-hipped roof\n\nQ\n\nTwo single pitches\n\n@) Wide dormer with sloping roof\n\nPitch range\n\nUsually\n\n2-4\"\n2.5-4\"\n3-30\"\n4-50\"\n3-90\"\n8-15\"\n12-18\"\n18-50\"\n18-21\"\n20-33\"\n18-35\"\n5-90\"\n20-90\"\n25-90\"\n30-90\"\n30-45\"\n30-60\" y\n35-60\"\n40-60\"\n45-50\"\n45-80\"\n\n3-4\"\n3-4\"\n4-10\"\n6-12\"\n5-30\"\n10-12\"\n15\"\n22-45\"\n19-20\"\n22\"\n25\"\n30\"\n25-45\"\n30-50\"\n45\"\n33\"\n45\"\n45\"\n45\"\n45\"\n60-70\"\n\nG Hipped roof\n\nCf) Roof pitches for various roof coverings\n\ne\n\nf) Barrel roof\n\ne\n\n«<!) Northlight or saw-tooth roof\n\n4D Four g abies\n\nf) Square hipped roof\n\n4D\n\n6} Roof cut-out\n\n0\n\nMansard roof\n\nGabled dormer window\n\nROOFS\n\nRoof shapes\nPitched roofs\nFlat roofs\n\nCompound roof with central gutter\n\nSingle pitched-roof dormers\n\n85\n\n\f"
+        },
+        {
+          "label": "Usually",
+          "value": 3.0,
+          "value_max": 4.0,
+          "unit": "degrees",
+          "context": "Wood cement roof",
+          "status": "verified",
+          "ocr_raw": "ROOFS\nRoof Shapes\n\nRoof shape and roof pitch: the selection of roofing material and\nthe detailing of the roof edges at the verge and eaves have a\ndecisive influence on the appearance of buildings. 0 show\nthe basic forms of roofs and roof projections.\n\nmin2%fall\n\ne\n\nRoof covering\naccessible paved roof\n\nwood cement roof\nfelt roof, gravel covered\nfelt roof, double\nzinc roof, double standing seams\n\n0\n\nFlatroof\n\n8 Single-pitch (monopitch) roof\n\nfelt roof, single\nsteel sheeting roof\ninterlocking tile roof, 4 sides\nshingle roof (canopy 90\")\n\nJunclion point\n\ninterlocking tile roof, normal\n\nzinc and steel corrugated roof\nfibre cement corrugated roof\n\nRidge\n\nartificial slate roof\nslate roof, double decked\nslate roof, normal\nglass roof\nclay tiles, double decked\nclay tiles on battens\nclay tiles, pantiled\nclay tiles, split stone\nthatch\n\n8\n\nGabled roof\n\nQ\n\nHalf-hipped roof\n\nQ\n\nTwo single pitches\n\n@) Wide dormer with sloping roof\n\nPitch range\n\nUsually\n\n2-4\"\n2.5-4\"\n3-30\"\n4-50\"\n3-90\"\n8-15\"\n12-18\"\n18-50\"\n18-21\"\n20-33\"\n18-35\"\n5-90\"\n20-90\"\n25-90\"\n30-90\"\n30-45\"\n30-60\" y\n35-60\"\n40-60\"\n45-50\"\n45-80\"\n\n3-4\"\n3-4\"\n4-10\"\n6-12\"\n5-30\"\n10-12\"\n15\"\n22-45\"\n19-20\"\n22\"\n25\"\n30\"\n25-45\"\n30-50\"\n45\"\n33\"\n45\"\n45\"\n45\"\n45\"\n60-70\"\n\nG Hipped roof\n\nCf) Roof pitches for various roof coverings\n\ne\n\nf) Barrel roof\n\ne\n\n«<!) Northlight or saw-tooth roof\n\n4D Four g abies\n\nf) Square hipped roof\n\n4D\n\n6} Roof cut-out\n\n0\n\nMansard roof\n\nGabled dormer window\n\nROOFS\n\nRoof shapes\nPitched roofs\nFlat roofs\n\nCompound roof with central gutter\n\nSingle pitched-roof dormers\n\n85\n\n\f"
+        },
+        {
+          "label": "Pitch range",
+          "value": 3.0,
+          "value_max": 30.0,
+          "unit": "degrees",
+          "context": "Felt roof, gravel covered",
+          "status": "verified",
+          "ocr_raw": "ROOFS\nRoof Shapes\n\nRoof shape and roof pitch: the selection of roofing material and\nthe detailing of the roof edges at the verge and eaves have a\ndecisive influence on the appearance of buildings. 0 show\nthe basic forms of roofs and roof projections.\n\nmin2%fall\n\ne\n\nRoof covering\naccessible paved roof\n\nwood cement roof\nfelt roof, gravel covered\nfelt roof, double\nzinc roof, double standing seams\n\n0\n\nFlatroof\n\n8 Single-pitch (monopitch) roof\n\nfelt roof, single\nsteel sheeting roof\ninterlocking tile roof, 4 sides\nshingle roof (canopy 90\")\n\nJunclion point\n\ninterlocking tile roof, normal\n\nzinc and steel corrugated roof\nfibre cement corrugated roof\n\nRidge\n\nartificial slate roof\nslate roof, double decked\nslate roof, normal\nglass roof\nclay tiles, double decked\nclay tiles on battens\nclay tiles, pantiled\nclay tiles, split stone\nthatch\n\n8\n\nGabled roof\n\nQ\n\nHalf-hipped roof\n\nQ\n\nTwo single pitches\n\n@) Wide dormer with sloping roof\n\nPitch range\n\nUsually\n\n2-4\"\n2.5-4\"\n3-30\"\n4-50\"\n3-90\"\n8-15\"\n12-18\"\n18-50\"\n18-21\"\n20-33\"\n18-35\"\n5-90\"\n20-90\"\n25-90\"\n30-90\"\n30-45\"\n30-60\" y\n35-60\"\n40-60\"\n45-50\"\n45-80\"\n\n3-4\"\n3-4\"\n4-10\"\n6-12\"\n5-30\"\n10-12\"\n15\"\n22-45\"\n19-20\"\n22\"\n25\"\n30\"\n25-45\"\n30-50\"\n45\"\n33\"\n45\"\n45\"\n45\"\n45\"\n60-70\"\n\nG Hipped roof\n\nCf) Roof pitches for various roof coverings\n\ne\n\nf) Barrel roof\n\ne\n\n«<!) Northlight or saw-tooth roof\n\n4D Four g abies\n\nf) Square hipped roof\n\n4D\n\n6} Roof cut-out\n\n0\n\nMansard roof\n\nGabled dormer window\n\nROOFS\n\nRoof shapes\nPitched roofs\nFlat roofs\n\nCompound roof with central gutter\n\nSingle pitched-roof dormers\n\n85\n\n\f"
+        },
+        {
+          "label": "Usually",
+          "value": 4.0,
+          "value_max": 10.0,
+          "unit": "degrees",
+          "context": "Felt roof, gravel covered",
+          "status": "verified",
+          "ocr_raw": "ROOFS\nRoof Shapes\n\nRoof shape and roof pitch: the selection of roofing material and\nthe detailing of the roof edges at the verge and eaves have a\ndecisive influence on the appearance of buildings. 0 show\nthe basic forms of roofs and roof projections.\n\nmin2%fall\n\ne\n\nRoof covering\naccessible paved roof\n\nwood cement roof\nfelt roof, gravel covered\nfelt roof, double\nzinc roof, double standing seams\n\n0\n\nFlatroof\n\n8 Single-pitch (monopitch) roof\n\nfelt roof, single\nsteel sheeting roof\ninterlocking tile roof, 4 sides\nshingle roof (canopy 90\")\n\nJunclion point\n\ninterlocking tile roof, normal\n\nzinc and steel corrugated roof\nfibre cement corrugated roof\n\nRidge\n\nartificial slate roof\nslate roof, double decked\nslate roof, normal\nglass roof\nclay tiles, double decked\nclay tiles on battens\nclay tiles, pantiled\nclay tiles, split stone\nthatch\n\n8\n\nGabled roof\n\nQ\n\nHalf-hipped roof\n\nQ\n\nTwo single pitches\n\n@) Wide dormer with sloping roof\n\nPitch range\n\nUsually\n\n2-4\"\n2.5-4\"\n3-30\"\n4-50\"\n3-90\"\n8-15\"\n12-18\"\n18-50\"\n18-21\"\n20-33\"\n18-35\"\n5-90\"\n20-90\"\n25-90\"\n30-90\"\n30-45\"\n30-60\" y\n35-60\"\n40-60\"\n45-50\"\n45-80\"\n\n3-4\"\n3-4\"\n4-10\"\n6-12\"\n5-30\"\n10-12\"\n15\"\n22-45\"\n19-20\"\n22\"\n25\"\n30\"\n25-45\"\n30-50\"\n45\"\n33\"\n45\"\n45\"\n45\"\n45\"\n60-70\"\n\nG Hipped roof\n\nCf) Roof pitches for various roof coverings\n\ne\n\nf) Barrel roof\n\ne\n\n«<!) Northlight or saw-tooth roof\n\n4D Four g abies\n\nf) Square hipped roof\n\n4D\n\n6} Roof cut-out\n\n0\n\nMansard roof\n\nGabled dormer window\n\nROOFS\n\nRoof shapes\nPitched roofs\nFlat roofs\n\nCompound roof with central gutter\n\nSingle pitched-roof dormers\n\n85\n\n\f"
+        },
+        {
+          "label": "Pitch range",
+          "value": 4.0,
+          "value_max": 50.0,
+          "unit": "degrees",
+          "context": "Felt roof, double",
+          "status": "verified",
+          "ocr_raw": "ROOFS\nRoof Shapes\n\nRoof shape and roof pitch: the selection of roofing material and\nthe detailing of the roof edges at the verge and eaves have a\ndecisive influence on the appearance of buildings. 0 show\nthe basic forms of roofs and roof projections.\n\nmin2%fall\n\ne\n\nRoof covering\naccessible paved roof\n\nwood cement roof\nfelt roof, gravel covered\nfelt roof, double\nzinc roof, double standing seams\n\n0\n\nFlatroof\n\n8 Single-pitch (monopitch) roof\n\nfelt roof, single\nsteel sheeting roof\ninterlocking tile roof, 4 sides\nshingle roof (canopy 90\")\n\nJunclion point\n\ninterlocking tile roof, normal\n\nzinc and steel corrugated roof\nfibre cement corrugated roof\n\nRidge\n\nartificial slate roof\nslate roof, double decked\nslate roof, normal\nglass roof\nclay tiles, double decked\nclay tiles on battens\nclay tiles, pantiled\nclay tiles, split stone\nthatch\n\n8\n\nGabled roof\n\nQ\n\nHalf-hipped roof\n\nQ\n\nTwo single pitches\n\n@) Wide dormer with sloping roof\n\nPitch range\n\nUsually\n\n2-4\"\n2.5-4\"\n3-30\"\n4-50\"\n3-90\"\n8-15\"\n12-18\"\n18-50\"\n18-21\"\n20-33\"\n18-35\"\n5-90\"\n20-90\"\n25-90\"\n30-90\"\n30-45\"\n30-60\" y\n35-60\"\n40-60\"\n45-50\"\n45-80\"\n\n3-4\"\n3-4\"\n4-10\"\n6-12\"\n5-30\"\n10-12\"\n15\"\n22-45\"\n19-20\"\n22\"\n25\"\n30\"\n25-45\"\n30-50\"\n45\"\n33\"\n45\"\n45\"\n45\"\n45\"\n60-70\"\n\nG Hipped roof\n\nCf) Roof pitches for various roof coverings\n\ne\n\nf) Barrel roof\n\ne\n\n«<!) Northlight or saw-tooth roof\n\n4D Four g abies\n\nf) Square hipped roof\n\n4D\n\n6} Roof cut-out\n\n0\n\nMansard roof\n\nGabled dormer window\n\nROOFS\n\nRoof shapes\nPitched roofs\nFlat roofs\n\nCompound roof with central gutter\n\nSingle pitched-roof dormers\n\n85\n\n\f"
+        },
+        {
+          "label": "Usually",
+          "value": 6.0,
+          "value_max": 12.0,
+          "unit": "degrees",
+          "context": "Felt roof, double",
+          "status": "verified",
+          "ocr_raw": "ROOFS\nRoof Shapes\n\nRoof shape and roof pitch: the selection of roofing material and\nthe detailing of the roof edges at the verge and eaves have a\ndecisive influence on the appearance of buildings. 0 show\nthe basic forms of roofs and roof projections.\n\nmin2%fall\n\ne\n\nRoof covering\naccessible paved roof\n\nwood cement roof\nfelt roof, gravel covered\nfelt roof, double\nzinc roof, double standing seams\n\n0\n\nFlatroof\n\n8 Single-pitch (monopitch) roof\n\nfelt roof, single\nsteel sheeting roof\ninterlocking tile roof, 4 sides\nshingle roof (canopy 90\")\n\nJunclion point\n\ninterlocking tile roof, normal\n\nzinc and steel corrugated roof\nfibre cement corrugated roof\n\nRidge\n\nartificial slate roof\nslate roof, double decked\nslate roof, normal\nglass roof\nclay tiles, double decked\nclay tiles on battens\nclay tiles, pantiled\nclay tiles, split stone\nthatch\n\n8\n\nGabled roof\n\nQ\n\nHalf-hipped roof\n\nQ\n\nTwo single pitches\n\n@) Wide dormer with sloping roof\n\nPitch range\n\nUsually\n\n2-4\"\n2.5-4\"\n3-30\"\n4-50\"\n3-90\"\n8-15\"\n12-18\"\n18-50\"\n18-21\"\n20-33\"\n18-35\"\n5-90\"\n20-90\"\n25-90\"\n30-90\"\n30-45\"\n30-60\" y\n35-60\"\n40-60\"\n45-50\"\n45-80\"\n\n3-4\"\n3-4\"\n4-10\"\n6-12\"\n5-30\"\n10-12\"\n15\"\n22-45\"\n19-20\"\n22\"\n25\"\n30\"\n25-45\"\n30-50\"\n45\"\n33\"\n45\"\n45\"\n45\"\n45\"\n60-70\"\n\nG Hipped roof\n\nCf) Roof pitches for various roof coverings\n\ne\n\nf) Barrel roof\n\ne\n\n«<!) Northlight or saw-tooth roof\n\n4D Four g abies\n\nf) Square hipped roof\n\n4D\n\n6} Roof cut-out\n\n0\n\nMansard roof\n\nGabled dormer window\n\nROOFS\n\nRoof shapes\nPitched roofs\nFlat roofs\n\nCompound roof with central gutter\n\nSingle pitched-roof dormers\n\n85\n\n\f"
+        },
+        {
+          "label": "Pitch range",
+          "value": 3.0,
+          "value_max": 90.0,
+          "unit": "degrees",
+          "context": "Zinc roof, double standing seams",
+          "status": "verified",
+          "ocr_raw": "ROOFS\nRoof Shapes\n\nRoof shape and roof pitch: the selection of roofing material and\nthe detailing of the roof edges at the verge and eaves have a\ndecisive influence on the appearance of buildings. 0 show\nthe basic forms of roofs and roof projections.\n\nmin2%fall\n\ne\n\nRoof covering\naccessible paved roof\n\nwood cement roof\nfelt roof, gravel covered\nfelt roof, double\nzinc roof, double standing seams\n\n0\n\nFlatroof\n\n8 Single-pitch (monopitch) roof\n\nfelt roof, single\nsteel sheeting roof\ninterlocking tile roof, 4 sides\nshingle roof (canopy 90\")\n\nJunclion point\n\ninterlocking tile roof, normal\n\nzinc and steel corrugated roof\nfibre cement corrugated roof\n\nRidge\n\nartificial slate roof\nslate roof, double decked\nslate roof, normal\nglass roof\nclay tiles, double decked\nclay tiles on battens\nclay tiles, pantiled\nclay tiles, split stone\nthatch\n\n8\n\nGabled roof\n\nQ\n\nHalf-hipped roof\n\nQ\n\nTwo single pitches\n\n@) Wide dormer with sloping roof\n\nPitch range\n\nUsually\n\n2-4\"\n2.5-4\"\n3-30\"\n4-50\"\n3-90\"\n8-15\"\n12-18\"\n18-50\"\n18-21\"\n20-33\"\n18-35\"\n5-90\"\n20-90\"\n25-90\"\n30-90\"\n30-45\"\n30-60\" y\n35-60\"\n40-60\"\n45-50\"\n45-80\"\n\n3-4\"\n3-4\"\n4-10\"\n6-12\"\n5-30\"\n10-12\"\n15\"\n22-45\"\n19-20\"\n22\"\n25\"\n30\"\n25-45\"\n30-50\"\n45\"\n33\"\n45\"\n45\"\n45\"\n45\"\n60-70\"\n\nG Hipped roof\n\nCf) Roof pitches for various roof coverings\n\ne\n\nf) Barrel roof\n\ne\n\n«<!) Northlight or saw-tooth roof\n\n4D Four g abies\n\nf) Square hipped roof\n\n4D\n\n6} Roof cut-out\n\n0\n\nMansard roof\n\nGabled dormer window\n\nROOFS\n\nRoof shapes\nPitched roofs\nFlat roofs\n\nCompound roof with central gutter\n\nSingle pitched-roof dormers\n\n85\n\n\f"
+        },
+        {
+          "label": "Usually",
+          "value": 5.0,
+          "value_max": 30.0,
+          "unit": "degrees",
+          "context": "Zinc roof, double standing seams",
+          "status": "verified",
+          "ocr_raw": "ROOFS\nRoof Shapes\n\nRoof shape and roof pitch: the selection of roofing material and\nthe detailing of the roof edges at the verge and eaves have a\ndecisive influence on the appearance of buildings. 0 show\nthe basic forms of roofs and roof projections.\n\nmin2%fall\n\ne\n\nRoof covering\naccessible paved roof\n\nwood cement roof\nfelt roof, gravel covered\nfelt roof, double\nzinc roof, double standing seams\n\n0\n\nFlatroof\n\n8 Single-pitch (monopitch) roof\n\nfelt roof, single\nsteel sheeting roof\ninterlocking tile roof, 4 sides\nshingle roof (canopy 90\")\n\nJunclion point\n\ninterlocking tile roof, normal\n\nzinc and steel corrugated roof\nfibre cement corrugated roof\n\nRidge\n\nartificial slate roof\nslate roof, double decked\nslate roof, normal\nglass roof\nclay tiles, double decked\nclay tiles on battens\nclay tiles, pantiled\nclay tiles, split stone\nthatch\n\n8\n\nGabled roof\n\nQ\n\nHalf-hipped roof\n\nQ\n\nTwo single pitches\n\n@) Wide dormer with sloping roof\n\nPitch range\n\nUsually\n\n2-4\"\n2.5-4\"\n3-30\"\n4-50\"\n3-90\"\n8-15\"\n12-18\"\n18-50\"\n18-21\"\n20-33\"\n18-35\"\n5-90\"\n20-90\"\n25-90\"\n30-90\"\n30-45\"\n30-60\" y\n35-60\"\n40-60\"\n45-50\"\n45-80\"\n\n3-4\"\n3-4\"\n4-10\"\n6-12\"\n5-30\"\n10-12\"\n15\"\n22-45\"\n19-20\"\n22\"\n25\"\n30\"\n25-45\"\n30-50\"\n45\"\n33\"\n45\"\n45\"\n45\"\n45\"\n60-70\"\n\nG Hipped roof\n\nCf) Roof pitches for various roof coverings\n\ne\n\nf) Barrel roof\n\ne\n\n«<!) Northlight or saw-tooth roof\n\n4D Four g abies\n\nf) Square hipped roof\n\n4D\n\n6} Roof cut-out\n\n0\n\nMansard roof\n\nGabled dormer window\n\nROOFS\n\nRoof shapes\nPitched roofs\nFlat roofs\n\nCompound roof with central gutter\n\nSingle pitched-roof dormers\n\n85\n\n\f"
+        },
+        {
+          "label": "Pitch range",
+          "value": 8.0,
+          "value_max": 15.0,
+          "unit": "degrees",
+          "context": "Felt roof, single",
+          "status": "verified",
+          "ocr_raw": "ROOFS\nRoof Shapes\n\nRoof shape and roof pitch: the selection of roofing material and\nthe detailing of the roof edges at the verge and eaves have a\ndecisive influence on the appearance of buildings. 0 show\nthe basic forms of roofs and roof projections.\n\nmin2%fall\n\ne\n\nRoof covering\naccessible paved roof\n\nwood cement roof\nfelt roof, gravel covered\nfelt roof, double\nzinc roof, double standing seams\n\n0\n\nFlatroof\n\n8 Single-pitch (monopitch) roof\n\nfelt roof, single\nsteel sheeting roof\ninterlocking tile roof, 4 sides\nshingle roof (canopy 90\")\n\nJunclion point\n\ninterlocking tile roof, normal\n\nzinc and steel corrugated roof\nfibre cement corrugated roof\n\nRidge\n\nartificial slate roof\nslate roof, double decked\nslate roof, normal\nglass roof\nclay tiles, double decked\nclay tiles on battens\nclay tiles, pantiled\nclay tiles, split stone\nthatch\n\n8\n\nGabled roof\n\nQ\n\nHalf-hipped roof\n\nQ\n\nTwo single pitches\n\n@) Wide dormer with sloping roof\n\nPitch range\n\nUsually\n\n2-4\"\n2.5-4\"\n3-30\"\n4-50\"\n3-90\"\n8-15\"\n12-18\"\n18-50\"\n18-21\"\n20-33\"\n18-35\"\n5-90\"\n20-90\"\n25-90\"\n30-90\"\n30-45\"\n30-60\" y\n35-60\"\n40-60\"\n45-50\"\n45-80\"\n\n3-4\"\n3-4\"\n4-10\"\n6-12\"\n5-30\"\n10-12\"\n15\"\n22-45\"\n19-20\"\n22\"\n25\"\n30\"\n25-45\"\n30-50\"\n45\"\n33\"\n45\"\n45\"\n45\"\n45\"\n60-70\"\n\nG Hipped roof\n\nCf) Roof pitches for various roof coverings\n\ne\n\nf) Barrel roof\n\ne\n\n«<!) Northlight or saw-tooth roof\n\n4D Four g abies\n\nf) Square hipped roof\n\n4D\n\n6} Roof cut-out\n\n0\n\nMansard roof\n\nGabled dormer window\n\nROOFS\n\nRoof shapes\nPitched roofs\nFlat roofs\n\nCompound roof with central gutter\n\nSingle pitched-roof dormers\n\n85\n\n\f"
+        },
+        {
+          "label": "Usually",
+          "value": 10.0,
+          "value_max": 12.0,
+          "unit": "degrees",
+          "context": "Felt roof, single",
+          "status": "verified",
+          "ocr_raw": "ROOFS\nRoof Shapes\n\nRoof shape and roof pitch: the selection of roofing material and\nthe detailing of the roof edges at the verge and eaves have a\ndecisive influence on the appearance of buildings. 0 show\nthe basic forms of roofs and roof projections.\n\nmin2%fall\n\ne\n\nRoof covering\naccessible paved roof\n\nwood cement roof\nfelt roof, gravel covered\nfelt roof, double\nzinc roof, double standing seams\n\n0\n\nFlatroof\n\n8 Single-pitch (monopitch) roof\n\nfelt roof, single\nsteel sheeting roof\ninterlocking tile roof, 4 sides\nshingle roof (canopy 90\")\n\nJunclion point\n\ninterlocking tile roof, normal\n\nzinc and steel corrugated roof\nfibre cement corrugated roof\n\nRidge\n\nartificial slate roof\nslate roof, double decked\nslate roof, normal\nglass roof\nclay tiles, double decked\nclay tiles on battens\nclay tiles, pantiled\nclay tiles, split stone\nthatch\n\n8\n\nGabled roof\n\nQ\n\nHalf-hipped roof\n\nQ\n\nTwo single pitches\n\n@) Wide dormer with sloping roof\n\nPitch range\n\nUsually\n\n2-4\"\n2.5-4\"\n3-30\"\n4-50\"\n3-90\"\n8-15\"\n12-18\"\n18-50\"\n18-21\"\n20-33\"\n18-35\"\n5-90\"\n20-90\"\n25-90\"\n30-90\"\n30-45\"\n30-60\" y\n35-60\"\n40-60\"\n45-50\"\n45-80\"\n\n3-4\"\n3-4\"\n4-10\"\n6-12\"\n5-30\"\n10-12\"\n15\"\n22-45\"\n19-20\"\n22\"\n25\"\n30\"\n25-45\"\n30-50\"\n45\"\n33\"\n45\"\n45\"\n45\"\n45\"\n60-70\"\n\nG Hipped roof\n\nCf) Roof pitches for various roof coverings\n\ne\n\nf) Barrel roof\n\ne\n\n«<!) Northlight or saw-tooth roof\n\n4D Four g abies\n\nf) Square hipped roof\n\n4D\n\n6} Roof cut-out\n\n0\n\nMansard roof\n\nGabled dormer window\n\nROOFS\n\nRoof shapes\nPitched roofs\nFlat roofs\n\nCompound roof with central gutter\n\nSingle pitched-roof dormers\n\n85\n\n\f"
+        },
+        {
+          "label": "Pitch range",
+          "value": 12.0,
+          "value_max": 18.0,
+          "unit": "degrees",
+          "context": "Steel sheeting roof",
+          "status": "verified",
+          "ocr_raw": "ROOFS\nRoof Shapes\n\nRoof shape and roof pitch: the selection of roofing material and\nthe detailing of the roof edges at the verge and eaves have a\ndecisive influence on the appearance of buildings. 0 show\nthe basic forms of roofs and roof projections.\n\nmin2%fall\n\ne\n\nRoof covering\naccessible paved roof\n\nwood cement roof\nfelt roof, gravel covered\nfelt roof, double\nzinc roof, double standing seams\n\n0\n\nFlatroof\n\n8 Single-pitch (monopitch) roof\n\nfelt roof, single\nsteel sheeting roof\ninterlocking tile roof, 4 sides\nshingle roof (canopy 90\")\n\nJunclion point\n\ninterlocking tile roof, normal\n\nzinc and steel corrugated roof\nfibre cement corrugated roof\n\nRidge\n\nartificial slate roof\nslate roof, double decked\nslate roof, normal\nglass roof\nclay tiles, double decked\nclay tiles on battens\nclay tiles, pantiled\nclay tiles, split stone\nthatch\n\n8\n\nGabled roof\n\nQ\n\nHalf-hipped roof\n\nQ\n\nTwo single pitches\n\n@) Wide dormer with sloping roof\n\nPitch range\n\nUsually\n\n2-4\"\n2.5-4\"\n3-30\"\n4-50\"\n3-90\"\n8-15\"\n12-18\"\n18-50\"\n18-21\"\n20-33\"\n18-35\"\n5-90\"\n20-90\"\n25-90\"\n30-90\"\n30-45\"\n30-60\" y\n35-60\"\n40-60\"\n45-50\"\n45-80\"\n\n3-4\"\n3-4\"\n4-10\"\n6-12\"\n5-30\"\n10-12\"\n15\"\n22-45\"\n19-20\"\n22\"\n25\"\n30\"\n25-45\"\n30-50\"\n45\"\n33\"\n45\"\n45\"\n45\"\n45\"\n60-70\"\n\nG Hipped roof\n\nCf) Roof pitches for various roof coverings\n\ne\n\nf) Barrel roof\n\ne\n\n«<!) Northlight or saw-tooth roof\n\n4D Four g abies\n\nf) Square hipped roof\n\n4D\n\n6} Roof cut-out\n\n0\n\nMansard roof\n\nGabled dormer window\n\nROOFS\n\nRoof shapes\nPitched roofs\nFlat roofs\n\nCompound roof with central gutter\n\nSingle pitched-roof dormers\n\n85\n\n\f"
+        },
+        {
+          "label": "Usually",
+          "value": 15.0,
+          "value_max": null,
+          "unit": "degrees",
+          "context": "Steel sheeting roof",
+          "status": "verified",
+          "ocr_raw": "ROOFS\nRoof Shapes\n\nRoof shape and roof pitch: the selection of roofing material and\nthe detailing of the roof edges at the verge and eaves have a\ndecisive influence on the appearance of buildings. 0 show\nthe basic forms of roofs and roof projections.\n\nmin2%fall\n\ne\n\nRoof covering\naccessible paved roof\n\nwood cement roof\nfelt roof, gravel covered\nfelt roof, double\nzinc roof, double standing seams\n\n0\n\nFlatroof\n\n8 Single-pitch (monopitch) roof\n\nfelt roof, single\nsteel sheeting roof\ninterlocking tile roof, 4 sides\nshingle roof (canopy 90\")\n\nJunclion point\n\ninterlocking tile roof, normal\n\nzinc and steel corrugated roof\nfibre cement corrugated roof\n\nRidge\n\nartificial slate roof\nslate roof, double decked\nslate roof, normal\nglass roof\nclay tiles, double decked\nclay tiles on battens\nclay tiles, pantiled\nclay tiles, split stone\nthatch\n\n8\n\nGabled roof\n\nQ\n\nHalf-hipped roof\n\nQ\n\nTwo single pitches\n\n@) Wide dormer with sloping roof\n\nPitch range\n\nUsually\n\n2-4\"\n2.5-4\"\n3-30\"\n4-50\"\n3-90\"\n8-15\"\n12-18\"\n18-50\"\n18-21\"\n20-33\"\n18-35\"\n5-90\"\n20-90\"\n25-90\"\n30-90\"\n30-45\"\n30-60\" y\n35-60\"\n40-60\"\n45-50\"\n45-80\"\n\n3-4\"\n3-4\"\n4-10\"\n6-12\"\n5-30\"\n10-12\"\n15\"\n22-45\"\n19-20\"\n22\"\n25\"\n30\"\n25-45\"\n30-50\"\n45\"\n33\"\n45\"\n45\"\n45\"\n45\"\n60-70\"\n\nG Hipped roof\n\nCf) Roof pitches for various roof coverings\n\ne\n\nf) Barrel roof\n\ne\n\n«<!) Northlight or saw-tooth roof\n\n4D Four g abies\n\nf) Square hipped roof\n\n4D\n\n6} Roof cut-out\n\n0\n\nMansard roof\n\nGabled dormer window\n\nROOFS\n\nRoof shapes\nPitched roofs\nFlat roofs\n\nCompound roof with central gutter\n\nSingle pitched-roof dormers\n\n85\n\n\f"
+        },
+        {
+          "label": "Pitch range",
+          "value": 18.0,
+          "value_max": 50.0,
+          "unit": "degrees",
+          "context": "Interlocking tile roof, 4 sides",
+          "status": "verified",
+          "ocr_raw": "ROOFS\nRoof Shapes\n\nRoof shape and roof pitch: the selection of roofing material and\nthe detailing of the roof edges at the verge and eaves have a\ndecisive influence on the appearance of buildings. 0 show\nthe basic forms of roofs and roof projections.\n\nmin2%fall\n\ne\n\nRoof covering\naccessible paved roof\n\nwood cement roof\nfelt roof, gravel covered\nfelt roof, double\nzinc roof, double standing seams\n\n0\n\nFlatroof\n\n8 Single-pitch (monopitch) roof\n\nfelt roof, single\nsteel sheeting roof\ninterlocking tile roof, 4 sides\nshingle roof (canopy 90\")\n\nJunclion point\n\ninterlocking tile roof, normal\n\nzinc and steel corrugated roof\nfibre cement corrugated roof\n\nRidge\n\nartificial slate roof\nslate roof, double decked\nslate roof, normal\nglass roof\nclay tiles, double decked\nclay tiles on battens\nclay tiles, pantiled\nclay tiles, split stone\nthatch\n\n8\n\nGabled roof\n\nQ\n\nHalf-hipped roof\n\nQ\n\nTwo single pitches\n\n@) Wide dormer with sloping roof\n\nPitch range\n\nUsually\n\n2-4\"\n2.5-4\"\n3-30\"\n4-50\"\n3-90\"\n8-15\"\n12-18\"\n18-50\"\n18-21\"\n20-33\"\n18-35\"\n5-90\"\n20-90\"\n25-90\"\n30-90\"\n30-45\"\n30-60\" y\n35-60\"\n40-60\"\n45-50\"\n45-80\"\n\n3-4\"\n3-4\"\n4-10\"\n6-12\"\n5-30\"\n10-12\"\n15\"\n22-45\"\n19-20\"\n22\"\n25\"\n30\"\n25-45\"\n30-50\"\n45\"\n33\"\n45\"\n45\"\n45\"\n45\"\n60-70\"\n\nG Hipped roof\n\nCf) Roof pitches for various roof coverings\n\ne\n\nf) Barrel roof\n\ne\n\n«<!) Northlight or saw-tooth roof\n\n4D Four g abies\n\nf) Square hipped roof\n\n4D\n\n6} Roof cut-out\n\n0\n\nMansard roof\n\nGabled dormer window\n\nROOFS\n\nRoof shapes\nPitched roofs\nFlat roofs\n\nCompound roof with central gutter\n\nSingle pitched-roof dormers\n\n85\n\n\f"
+        },
+        {
+          "label": "Usually",
+          "value": 22.0,
+          "value_max": 45.0,
+          "unit": "degrees",
+          "context": "Interlocking tile roof, 4 sides",
+          "status": "verified",
+          "ocr_raw": "ROOFS\nRoof Shapes\n\nRoof shape and roof pitch: the selection of roofing material and\nthe detailing of the roof edges at the verge and eaves have a\ndecisive influence on the appearance of buildings. 0 show\nthe basic forms of roofs and roof projections.\n\nmin2%fall\n\ne\n\nRoof covering\naccessible paved roof\n\nwood cement roof\nfelt roof, gravel covered\nfelt roof, double\nzinc roof, double standing seams\n\n0\n\nFlatroof\n\n8 Single-pitch (monopitch) roof\n\nfelt roof, single\nsteel sheeting roof\ninterlocking tile roof, 4 sides\nshingle roof (canopy 90\")\n\nJunclion point\n\ninterlocking tile roof, normal\n\nzinc and steel corrugated roof\nfibre cement corrugated roof\n\nRidge\n\nartificial slate roof\nslate roof, double decked\nslate roof, normal\nglass roof\nclay tiles, double decked\nclay tiles on battens\nclay tiles, pantiled\nclay tiles, split stone\nthatch\n\n8\n\nGabled roof\n\nQ\n\nHalf-hipped roof\n\nQ\n\nTwo single pitches\n\n@) Wide dormer with sloping roof\n\nPitch range\n\nUsually\n\n2-4\"\n2.5-4\"\n3-30\"\n4-50\"\n3-90\"\n8-15\"\n12-18\"\n18-50\"\n18-21\"\n20-33\"\n18-35\"\n5-90\"\n20-90\"\n25-90\"\n30-90\"\n30-45\"\n30-60\" y\n35-60\"\n40-60\"\n45-50\"\n45-80\"\n\n3-4\"\n3-4\"\n4-10\"\n6-12\"\n5-30\"\n10-12\"\n15\"\n22-45\"\n19-20\"\n22\"\n25\"\n30\"\n25-45\"\n30-50\"\n45\"\n33\"\n45\"\n45\"\n45\"\n45\"\n60-70\"\n\nG Hipped roof\n\nCf) Roof pitches for various roof coverings\n\ne\n\nf) Barrel roof\n\ne\n\n«<!) Northlight or saw-tooth roof\n\n4D Four g abies\n\nf) Square hipped roof\n\n4D\n\n6} Roof cut-out\n\n0\n\nMansard roof\n\nGabled dormer window\n\nROOFS\n\nRoof shapes\nPitched roofs\nFlat roofs\n\nCompound roof with central gutter\n\nSingle pitched-roof dormers\n\n85\n\n\f"
+        },
+        {
+          "label": "Pitch range",
+          "value": 18.0,
+          "value_max": 21.0,
+          "unit": "degrees",
+          "context": "Shingle roof (canopy 90°)",
+          "status": "verified",
+          "ocr_raw": "ROOFS\nRoof Shapes\n\nRoof shape and roof pitch: the selection of roofing material and\nthe detailing of the roof edges at the verge and eaves have a\ndecisive influence on the appearance of buildings. 0 show\nthe basic forms of roofs and roof projections.\n\nmin2%fall\n\ne\n\nRoof covering\naccessible paved roof\n\nwood cement roof\nfelt roof, gravel covered\nfelt roof, double\nzinc roof, double standing seams\n\n0\n\nFlatroof\n\n8 Single-pitch (monopitch) roof\n\nfelt roof, single\nsteel sheeting roof\ninterlocking tile roof, 4 sides\nshingle roof (canopy 90\")\n\nJunclion point\n\ninterlocking tile roof, normal\n\nzinc and steel corrugated roof\nfibre cement corrugated roof\n\nRidge\n\nartificial slate roof\nslate roof, double decked\nslate roof, normal\nglass roof\nclay tiles, double decked\nclay tiles on battens\nclay tiles, pantiled\nclay tiles, split stone\nthatch\n\n8\n\nGabled roof\n\nQ\n\nHalf-hipped roof\n\nQ\n\nTwo single pitches\n\n@) Wide dormer with sloping roof\n\nPitch range\n\nUsually\n\n2-4\"\n2.5-4\"\n3-30\"\n4-50\"\n3-90\"\n8-15\"\n12-18\"\n18-50\"\n18-21\"\n20-33\"\n18-35\"\n5-90\"\n20-90\"\n25-90\"\n30-90\"\n30-45\"\n30-60\" y\n35-60\"\n40-60\"\n45-50\"\n45-80\"\n\n3-4\"\n3-4\"\n4-10\"\n6-12\"\n5-30\"\n10-12\"\n15\"\n22-45\"\n19-20\"\n22\"\n25\"\n30\"\n25-45\"\n30-50\"\n45\"\n33\"\n45\"\n45\"\n45\"\n45\"\n60-70\"\n\nG Hipped roof\n\nCf) Roof pitches for various roof coverings\n\ne\n\nf) Barrel roof\n\ne\n\n«<!) Northlight or saw-tooth roof\n\n4D Four g abies\n\nf) Square hipped roof\n\n4D\n\n6} Roof cut-out\n\n0\n\nMansard roof\n\nGabled dormer window\n\nROOFS\n\nRoof shapes\nPitched roofs\nFlat roofs\n\nCompound roof with central gutter\n\nSingle pitched-roof dormers\n\n85\n\n\f"
+        },
+        {
+          "label": "Usually",
+          "value": 19.0,
+          "value_max": 20.0,
+          "unit": "degrees",
+          "context": "Shingle roof (canopy 90°)",
+          "status": "verified",
+          "ocr_raw": "ROOFS\nRoof Shapes\n\nRoof shape and roof pitch: the selection of roofing material and\nthe detailing of the roof edges at the verge and eaves have a\ndecisive influence on the appearance of buildings. 0 show\nthe basic forms of roofs and roof projections.\n\nmin2%fall\n\ne\n\nRoof covering\naccessible paved roof\n\nwood cement roof\nfelt roof, gravel covered\nfelt roof, double\nzinc roof, double standing seams\n\n0\n\nFlatroof\n\n8 Single-pitch (monopitch) roof\n\nfelt roof, single\nsteel sheeting roof\ninterlocking tile roof, 4 sides\nshingle roof (canopy 90\")\n\nJunclion point\n\ninterlocking tile roof, normal\n\nzinc and steel corrugated roof\nfibre cement corrugated roof\n\nRidge\n\nartificial slate roof\nslate roof, double decked\nslate roof, normal\nglass roof\nclay tiles, double decked\nclay tiles on battens\nclay tiles, pantiled\nclay tiles, split stone\nthatch\n\n8\n\nGabled roof\n\nQ\n\nHalf-hipped roof\n\nQ\n\nTwo single pitches\n\n@) Wide dormer with sloping roof\n\nPitch range\n\nUsually\n\n2-4\"\n2.5-4\"\n3-30\"\n4-50\"\n3-90\"\n8-15\"\n12-18\"\n18-50\"\n18-21\"\n20-33\"\n18-35\"\n5-90\"\n20-90\"\n25-90\"\n30-90\"\n30-45\"\n30-60\" y\n35-60\"\n40-60\"\n45-50\"\n45-80\"\n\n3-4\"\n3-4\"\n4-10\"\n6-12\"\n5-30\"\n10-12\"\n15\"\n22-45\"\n19-20\"\n22\"\n25\"\n30\"\n25-45\"\n30-50\"\n45\"\n33\"\n45\"\n45\"\n45\"\n45\"\n60-70\"\n\nG Hipped roof\n\nCf) Roof pitches for various roof coverings\n\ne\n\nf) Barrel roof\n\ne\n\n«<!) Northlight or saw-tooth roof\n\n4D Four g abies\n\nf) Square hipped roof\n\n4D\n\n6} Roof cut-out\n\n0\n\nMansard roof\n\nGabled dormer window\n\nROOFS\n\nRoof shapes\nPitched roofs\nFlat roofs\n\nCompound roof with central gutter\n\nSingle pitched-roof dormers\n\n85\n\n\f"
+        },
+        {
+          "label": "Pitch range",
+          "value": 20.0,
+          "value_max": 33.0,
+          "unit": "degrees",
+          "context": "Interlocking tile roof, normal",
+          "status": "verified",
+          "ocr_raw": "ROOFS\nRoof Shapes\n\nRoof shape and roof pitch: the selection of roofing material and\nthe detailing of the roof edges at the verge and eaves have a\ndecisive influence on the appearance of buildings. 0 show\nthe basic forms of roofs and roof projections.\n\nmin2%fall\n\ne\n\nRoof covering\naccessible paved roof\n\nwood cement roof\nfelt roof, gravel covered\nfelt roof, double\nzinc roof, double standing seams\n\n0\n\nFlatroof\n\n8 Single-pitch (monopitch) roof\n\nfelt roof, single\nsteel sheeting roof\ninterlocking tile roof, 4 sides\nshingle roof (canopy 90\")\n\nJunclion point\n\ninterlocking tile roof, normal\n\nzinc and steel corrugated roof\nfibre cement corrugated roof\n\nRidge\n\nartificial slate roof\nslate roof, double decked\nslate roof, normal\nglass roof\nclay tiles, double decked\nclay tiles on battens\nclay tiles, pantiled\nclay tiles, split stone\nthatch\n\n8\n\nGabled roof\n\nQ\n\nHalf-hipped roof\n\nQ\n\nTwo single pitches\n\n@) Wide dormer with sloping roof\n\nPitch range\n\nUsually\n\n2-4\"\n2.5-4\"\n3-30\"\n4-50\"\n3-90\"\n8-15\"\n12-18\"\n18-50\"\n18-21\"\n20-33\"\n18-35\"\n5-90\"\n20-90\"\n25-90\"\n30-90\"\n30-45\"\n30-60\" y\n35-60\"\n40-60\"\n45-50\"\n45-80\"\n\n3-4\"\n3-4\"\n4-10\"\n6-12\"\n5-30\"\n10-12\"\n15\"\n22-45\"\n19-20\"\n22\"\n25\"\n30\"\n25-45\"\n30-50\"\n45\"\n33\"\n45\"\n45\"\n45\"\n45\"\n60-70\"\n\nG Hipped roof\n\nCf) Roof pitches for various roof coverings\n\ne\n\nf) Barrel roof\n\ne\n\n«<!) Northlight or saw-tooth roof\n\n4D Four g abies\n\nf) Square hipped roof\n\n4D\n\n6} Roof cut-out\n\n0\n\nMansard roof\n\nGabled dormer window\n\nROOFS\n\nRoof shapes\nPitched roofs\nFlat roofs\n\nCompound roof with central gutter\n\nSingle pitched-roof dormers\n\n85\n\n\f"
+        },
+        {
+          "label": "Usually",
+          "value": 22.0,
+          "value_max": null,
+          "unit": "degrees",
+          "context": "Interlocking tile roof, normal",
+          "status": "verified",
+          "ocr_raw": "ROOFS\nRoof Shapes\n\nRoof shape and roof pitch: the selection of roofing material and\nthe detailing of the roof edges at the verge and eaves have a\ndecisive influence on the appearance of buildings. 0 show\nthe basic forms of roofs and roof projections.\n\nmin2%fall\n\ne\n\nRoof covering\naccessible paved roof\n\nwood cement roof\nfelt roof, gravel covered\nfelt roof, double\nzinc roof, double standing seams\n\n0\n\nFlatroof\n\n8 Single-pitch (monopitch) roof\n\nfelt roof, single\nsteel sheeting roof\ninterlocking tile roof, 4 sides\nshingle roof (canopy 90\")\n\nJunclion point\n\ninterlocking tile roof, normal\n\nzinc and steel corrugated roof\nfibre cement corrugated roof\n\nRidge\n\nartificial slate roof\nslate roof, double decked\nslate roof, normal\nglass roof\nclay tiles, double decked\nclay tiles on battens\nclay tiles, pantiled\nclay tiles, split stone\nthatch\n\n8\n\nGabled roof\n\nQ\n\nHalf-hipped roof\n\nQ\n\nTwo single pitches\n\n@) Wide dormer with sloping roof\n\nPitch range\n\nUsually\n\n2-4\"\n2.5-4\"\n3-30\"\n4-50\"\n3-90\"\n8-15\"\n12-18\"\n18-50\"\n18-21\"\n20-33\"\n18-35\"\n5-90\"\n20-90\"\n25-90\"\n30-90\"\n30-45\"\n30-60\" y\n35-60\"\n40-60\"\n45-50\"\n45-80\"\n\n3-4\"\n3-4\"\n4-10\"\n6-12\"\n5-30\"\n10-12\"\n15\"\n22-45\"\n19-20\"\n22\"\n25\"\n30\"\n25-45\"\n30-50\"\n45\"\n33\"\n45\"\n45\"\n45\"\n45\"\n60-70\"\n\nG Hipped roof\n\nCf) Roof pitches for various roof coverings\n\ne\n\nf) Barrel roof\n\ne\n\n«<!) Northlight or saw-tooth roof\n\n4D Four g abies\n\nf) Square hipped roof\n\n4D\n\n6} Roof cut-out\n\n0\n\nMansard roof\n\nGabled dormer window\n\nROOFS\n\nRoof shapes\nPitched roofs\nFlat roofs\n\nCompound roof with central gutter\n\nSingle pitched-roof dormers\n\n85\n\n\f"
+        },
+        {
+          "label": "Pitch range",
+          "value": 18.0,
+          "value_max": 35.0,
+          "unit": "degrees",
+          "context": "Zinc and steel corrugated roof",
+          "status": "verified",
+          "ocr_raw": "ROOFS\nRoof Shapes\n\nRoof shape and roof pitch: the selection of roofing material and\nthe detailing of the roof edges at the verge and eaves have a\ndecisive influence on the appearance of buildings. 0 show\nthe basic forms of roofs and roof projections.\n\nmin2%fall\n\ne\n\nRoof covering\naccessible paved roof\n\nwood cement roof\nfelt roof, gravel covered\nfelt roof, double\nzinc roof, double standing seams\n\n0\n\nFlatroof\n\n8 Single-pitch (monopitch) roof\n\nfelt roof, single\nsteel sheeting roof\ninterlocking tile roof, 4 sides\nshingle roof (canopy 90\")\n\nJunclion point\n\ninterlocking tile roof, normal\n\nzinc and steel corrugated roof\nfibre cement corrugated roof\n\nRidge\n\nartificial slate roof\nslate roof, double decked\nslate roof, normal\nglass roof\nclay tiles, double decked\nclay tiles on battens\nclay tiles, pantiled\nclay tiles, split stone\nthatch\n\n8\n\nGabled roof\n\nQ\n\nHalf-hipped roof\n\nQ\n\nTwo single pitches\n\n@) Wide dormer with sloping roof\n\nPitch range\n\nUsually\n\n2-4\"\n2.5-4\"\n3-30\"\n4-50\"\n3-90\"\n8-15\"\n12-18\"\n18-50\"\n18-21\"\n20-33\"\n18-35\"\n5-90\"\n20-90\"\n25-90\"\n30-90\"\n30-45\"\n30-60\" y\n35-60\"\n40-60\"\n45-50\"\n45-80\"\n\n3-4\"\n3-4\"\n4-10\"\n6-12\"\n5-30\"\n10-12\"\n15\"\n22-45\"\n19-20\"\n22\"\n25\"\n30\"\n25-45\"\n30-50\"\n45\"\n33\"\n45\"\n45\"\n45\"\n45\"\n60-70\"\n\nG Hipped roof\n\nCf) Roof pitches for various roof coverings\n\ne\n\nf) Barrel roof\n\ne\n\n«<!) Northlight or saw-tooth roof\n\n4D Four g abies\n\nf) Square hipped roof\n\n4D\n\n6} Roof cut-out\n\n0\n\nMansard roof\n\nGabled dormer window\n\nROOFS\n\nRoof shapes\nPitched roofs\nFlat roofs\n\nCompound roof with central gutter\n\nSingle pitched-roof dormers\n\n85\n\n\f"
+        },
+        {
+          "label": "Usually",
+          "value": 25.0,
+          "value_max": null,
+          "unit": "degrees",
+          "context": "Zinc and steel corrugated roof",
+          "status": "verified",
+          "ocr_raw": "ROOFS\nRoof Shapes\n\nRoof shape and roof pitch: the selection of roofing material and\nthe detailing of the roof edges at the verge and eaves have a\ndecisive influence on the appearance of buildings. 0 show\nthe basic forms of roofs and roof projections.\n\nmin2%fall\n\ne\n\nRoof covering\naccessible paved roof\n\nwood cement roof\nfelt roof, gravel covered\nfelt roof, double\nzinc roof, double standing seams\n\n0\n\nFlatroof\n\n8 Single-pitch (monopitch) roof\n\nfelt roof, single\nsteel sheeting roof\ninterlocking tile roof, 4 sides\nshingle roof (canopy 90\")\n\nJunclion point\n\ninterlocking tile roof, normal\n\nzinc and steel corrugated roof\nfibre cement corrugated roof\n\nRidge\n\nartificial slate roof\nslate roof, double decked\nslate roof, normal\nglass roof\nclay tiles, double decked\nclay tiles on battens\nclay tiles, pantiled\nclay tiles, split stone\nthatch\n\n8\n\nGabled roof\n\nQ\n\nHalf-hipped roof\n\nQ\n\nTwo single pitches\n\n@) Wide dormer with sloping roof\n\nPitch range\n\nUsually\n\n2-4\"\n2.5-4\"\n3-30\"\n4-50\"\n3-90\"\n8-15\"\n12-18\"\n18-50\"\n18-21\"\n20-33\"\n18-35\"\n5-90\"\n20-90\"\n25-90\"\n30-90\"\n30-45\"\n30-60\" y\n35-60\"\n40-60\"\n45-50\"\n45-80\"\n\n3-4\"\n3-4\"\n4-10\"\n6-12\"\n5-30\"\n10-12\"\n15\"\n22-45\"\n19-20\"\n22\"\n25\"\n30\"\n25-45\"\n30-50\"\n45\"\n33\"\n45\"\n45\"\n45\"\n45\"\n60-70\"\n\nG Hipped roof\n\nCf) Roof pitches for various roof coverings\n\ne\n\nf) Barrel roof\n\ne\n\n«<!) Northlight or saw-tooth roof\n\n4D Four g abies\n\nf) Square hipped roof\n\n4D\n\n6} Roof cut-out\n\n0\n\nMansard roof\n\nGabled dormer window\n\nROOFS\n\nRoof shapes\nPitched roofs\nFlat roofs\n\nCompound roof with central gutter\n\nSingle pitched-roof dormers\n\n85\n\n\f"
+        },
+        {
+          "label": "Pitch range",
+          "value": 5.0,
+          "value_max": 90.0,
+          "unit": "degrees",
+          "context": "Fibre cement corrugated roof",
+          "status": "verified",
+          "ocr_raw": "ROOFS\nRoof Shapes\n\nRoof shape and roof pitch: the selection of roofing material and\nthe detailing of the roof edges at the verge and eaves have a\ndecisive influence on the appearance of buildings. 0 show\nthe basic forms of roofs and roof projections.\n\nmin2%fall\n\ne\n\nRoof covering\naccessible paved roof\n\nwood cement roof\nfelt roof, gravel covered\nfelt roof, double\nzinc roof, double standing seams\n\n0\n\nFlatroof\n\n8 Single-pitch (monopitch) roof\n\nfelt roof, single\nsteel sheeting roof\ninterlocking tile roof, 4 sides\nshingle roof (canopy 90\")\n\nJunclion point\n\ninterlocking tile roof, normal\n\nzinc and steel corrugated roof\nfibre cement corrugated roof\n\nRidge\n\nartificial slate roof\nslate roof, double decked\nslate roof, normal\nglass roof\nclay tiles, double decked\nclay tiles on battens\nclay tiles, pantiled\nclay tiles, split stone\nthatch\n\n8\n\nGabled roof\n\nQ\n\nHalf-hipped roof\n\nQ\n\nTwo single pitches\n\n@) Wide dormer with sloping roof\n\nPitch range\n\nUsually\n\n2-4\"\n2.5-4\"\n3-30\"\n4-50\"\n3-90\"\n8-15\"\n12-18\"\n18-50\"\n18-21\"\n20-33\"\n18-35\"\n5-90\"\n20-90\"\n25-90\"\n30-90\"\n30-45\"\n30-60\" y\n35-60\"\n40-60\"\n45-50\"\n45-80\"\n\n3-4\"\n3-4\"\n4-10\"\n6-12\"\n5-30\"\n10-12\"\n15\"\n22-45\"\n19-20\"\n22\"\n25\"\n30\"\n25-45\"\n30-50\"\n45\"\n33\"\n45\"\n45\"\n45\"\n45\"\n60-70\"\n\nG Hipped roof\n\nCf) Roof pitches for various roof coverings\n\ne\n\nf) Barrel roof\n\ne\n\n«<!) Northlight or saw-tooth roof\n\n4D Four g abies\n\nf) Square hipped roof\n\n4D\n\n6} Roof cut-out\n\n0\n\nMansard roof\n\nGabled dormer window\n\nROOFS\n\nRoof shapes\nPitched roofs\nFlat roofs\n\nCompound roof with central gutter\n\nSingle pitched-roof dormers\n\n85\n\n\f"
+        },
+        {
+          "label": "Usually",
+          "value": 30.0,
+          "value_max": null,
+          "unit": "degrees",
+          "context": "Fibre cement corrugated roof",
+          "status": "verified",
+          "ocr_raw": "ROOFS\nRoof Shapes\n\nRoof shape and roof pitch: the selection of roofing material and\nthe detailing of the roof edges at the verge and eaves have a\ndecisive influence on the appearance of buildings. 0 show\nthe basic forms of roofs and roof projections.\n\nmin2%fall\n\ne\n\nRoof covering\naccessible paved roof\n\nwood cement roof\nfelt roof, gravel covered\nfelt roof, double\nzinc roof, double standing seams\n\n0\n\nFlatroof\n\n8 Single-pitch (monopitch) roof\n\nfelt roof, single\nsteel sheeting roof\ninterlocking tile roof, 4 sides\nshingle roof (canopy 90\")\n\nJunclion point\n\ninterlocking tile roof, normal\n\nzinc and steel corrugated roof\nfibre cement corrugated roof\n\nRidge\n\nartificial slate roof\nslate roof, double decked\nslate roof, normal\nglass roof\nclay tiles, double decked\nclay tiles on battens\nclay tiles, pantiled\nclay tiles, split stone\nthatch\n\n8\n\nGabled roof\n\nQ\n\nHalf-hipped roof\n\nQ\n\nTwo single pitches\n\n@) Wide dormer with sloping roof\n\nPitch range\n\nUsually\n\n2-4\"\n2.5-4\"\n3-30\"\n4-50\"\n3-90\"\n8-15\"\n12-18\"\n18-50\"\n18-21\"\n20-33\"\n18-35\"\n5-90\"\n20-90\"\n25-90\"\n30-90\"\n30-45\"\n30-60\" y\n35-60\"\n40-60\"\n45-50\"\n45-80\"\n\n3-4\"\n3-4\"\n4-10\"\n6-12\"\n5-30\"\n10-12\"\n15\"\n22-45\"\n19-20\"\n22\"\n25\"\n30\"\n25-45\"\n30-50\"\n45\"\n33\"\n45\"\n45\"\n45\"\n45\"\n60-70\"\n\nG Hipped roof\n\nCf) Roof pitches for various roof coverings\n\ne\n\nf) Barrel roof\n\ne\n\n«<!) Northlight or saw-tooth roof\n\n4D Four g abies\n\nf) Square hipped roof\n\n4D\n\n6} Roof cut-out\n\n0\n\nMansard roof\n\nGabled dormer window\n\nROOFS\n\nRoof shapes\nPitched roofs\nFlat roofs\n\nCompound roof with central gutter\n\nSingle pitched-roof dormers\n\n85\n\n\f"
+        },
+        {
+          "label": "Pitch range",
+          "value": 20.0,
+          "value_max": 90.0,
+          "unit": "degrees",
+          "context": "Artificial slate roof",
+          "status": "verified",
+          "ocr_raw": "ROOFS\nRoof Shapes\n\nRoof shape and roof pitch: the selection of roofing material and\nthe detailing of the roof edges at the verge and eaves have a\ndecisive influence on the appearance of buildings. 0 show\nthe basic forms of roofs and roof projections.\n\nmin2%fall\n\ne\n\nRoof covering\naccessible paved roof\n\nwood cement roof\nfelt roof, gravel covered\nfelt roof, double\nzinc roof, double standing seams\n\n0\n\nFlatroof\n\n8 Single-pitch (monopitch) roof\n\nfelt roof, single\nsteel sheeting roof\ninterlocking tile roof, 4 sides\nshingle roof (canopy 90\")\n\nJunclion point\n\ninterlocking tile roof, normal\n\nzinc and steel corrugated roof\nfibre cement corrugated roof\n\nRidge\n\nartificial slate roof\nslate roof, double decked\nslate roof, normal\nglass roof\nclay tiles, double decked\nclay tiles on battens\nclay tiles, pantiled\nclay tiles, split stone\nthatch\n\n8\n\nGabled roof\n\nQ\n\nHalf-hipped roof\n\nQ\n\nTwo single pitches\n\n@) Wide dormer with sloping roof\n\nPitch range\n\nUsually\n\n2-4\"\n2.5-4\"\n3-30\"\n4-50\"\n3-90\"\n8-15\"\n12-18\"\n18-50\"\n18-21\"\n20-33\"\n18-35\"\n5-90\"\n20-90\"\n25-90\"\n30-90\"\n30-45\"\n30-60\" y\n35-60\"\n40-60\"\n45-50\"\n45-80\"\n\n3-4\"\n3-4\"\n4-10\"\n6-12\"\n5-30\"\n10-12\"\n15\"\n22-45\"\n19-20\"\n22\"\n25\"\n30\"\n25-45\"\n30-50\"\n45\"\n33\"\n45\"\n45\"\n45\"\n45\"\n60-70\"\n\nG Hipped roof\n\nCf) Roof pitches for various roof coverings\n\ne\n\nf) Barrel roof\n\ne\n\n«<!) Northlight or saw-tooth roof\n\n4D Four g abies\n\nf) Square hipped roof\n\n4D\n\n6} Roof cut-out\n\n0\n\nMansard roof\n\nGabled dormer window\n\nROOFS\n\nRoof shapes\nPitched roofs\nFlat roofs\n\nCompound roof with central gutter\n\nSingle pitched-roof dormers\n\n85\n\n\f"
+        },
+        {
+          "label": "Usually",
+          "value": 25.0,
+          "value_max": 45.0,
+          "unit": "degrees",
+          "context": "Artificial slate roof",
+          "status": "verified",
+          "ocr_raw": "ROOFS\nRoof Shapes\n\nRoof shape and roof pitch: the selection of roofing material and\nthe detailing of the roof edges at the verge and eaves have a\ndecisive influence on the appearance of buildings. 0 show\nthe basic forms of roofs and roof projections.\n\nmin2%fall\n\ne\n\nRoof covering\naccessible paved roof\n\nwood cement roof\nfelt roof, gravel covered\nfelt roof, double\nzinc roof, double standing seams\n\n0\n\nFlatroof\n\n8 Single-pitch (monopitch) roof\n\nfelt roof, single\nsteel sheeting roof\ninterlocking tile roof, 4 sides\nshingle roof (canopy 90\")\n\nJunclion point\n\ninterlocking tile roof, normal\n\nzinc and steel corrugated roof\nfibre cement corrugated roof\n\nRidge\n\nartificial slate roof\nslate roof, double decked\nslate roof, normal\nglass roof\nclay tiles, double decked\nclay tiles on battens\nclay tiles, pantiled\nclay tiles, split stone\nthatch\n\n8\n\nGabled roof\n\nQ\n\nHalf-hipped roof\n\nQ\n\nTwo single pitches\n\n@) Wide dormer with sloping roof\n\nPitch range\n\nUsually\n\n2-4\"\n2.5-4\"\n3-30\"\n4-50\"\n3-90\"\n8-15\"\n12-18\"\n18-50\"\n18-21\"\n20-33\"\n18-35\"\n5-90\"\n20-90\"\n25-90\"\n30-90\"\n30-45\"\n30-60\" y\n35-60\"\n40-60\"\n45-50\"\n45-80\"\n\n3-4\"\n3-4\"\n4-10\"\n6-12\"\n5-30\"\n10-12\"\n15\"\n22-45\"\n19-20\"\n22\"\n25\"\n30\"\n25-45\"\n30-50\"\n45\"\n33\"\n45\"\n45\"\n45\"\n45\"\n60-70\"\n\nG Hipped roof\n\nCf) Roof pitches for various roof coverings\n\ne\n\nf) Barrel roof\n\ne\n\n«<!) Northlight or saw-tooth roof\n\n4D Four g abies\n\nf) Square hipped roof\n\n4D\n\n6} Roof cut-out\n\n0\n\nMansard roof\n\nGabled dormer window\n\nROOFS\n\nRoof shapes\nPitched roofs\nFlat roofs\n\nCompound roof with central gutter\n\nSingle pitched-roof dormers\n\n85\n\n\f"
+        },
+        {
+          "label": "Pitch range",
+          "value": 25.0,
+          "value_max": 90.0,
+          "unit": "degrees",
+          "context": "Slate roof, double decked",
+          "status": "verified",
+          "ocr_raw": "ROOFS\nRoof Shapes\n\nRoof shape and roof pitch: the selection of roofing material and\nthe detailing of the roof edges at the verge and eaves have a\ndecisive influence on the appearance of buildings. 0 show\nthe basic forms of roofs and roof projections.\n\nmin2%fall\n\ne\n\nRoof covering\naccessible paved roof\n\nwood cement roof\nfelt roof, gravel covered\nfelt roof, double\nzinc roof, double standing seams\n\n0\n\nFlatroof\n\n8 Single-pitch (monopitch) roof\n\nfelt roof, single\nsteel sheeting roof\ninterlocking tile roof, 4 sides\nshingle roof (canopy 90\")\n\nJunclion point\n\ninterlocking tile roof, normal\n\nzinc and steel corrugated roof\nfibre cement corrugated roof\n\nRidge\n\nartificial slate roof\nslate roof, double decked\nslate roof, normal\nglass roof\nclay tiles, double decked\nclay tiles on battens\nclay tiles, pantiled\nclay tiles, split stone\nthatch\n\n8\n\nGabled roof\n\nQ\n\nHalf-hipped roof\n\nQ\n\nTwo single pitches\n\n@) Wide dormer with sloping roof\n\nPitch range\n\nUsually\n\n2-4\"\n2.5-4\"\n3-30\"\n4-50\"\n3-90\"\n8-15\"\n12-18\"\n18-50\"\n18-21\"\n20-33\"\n18-35\"\n5-90\"\n20-90\"\n25-90\"\n30-90\"\n30-45\"\n30-60\" y\n35-60\"\n40-60\"\n45-50\"\n45-80\"\n\n3-4\"\n3-4\"\n4-10\"\n6-12\"\n5-30\"\n10-12\"\n15\"\n22-45\"\n19-20\"\n22\"\n25\"\n30\"\n25-45\"\n30-50\"\n45\"\n33\"\n45\"\n45\"\n45\"\n45\"\n60-70\"\n\nG Hipped roof\n\nCf) Roof pitches for various roof coverings\n\ne\n\nf) Barrel roof\n\ne\n\n«<!) Northlight or saw-tooth roof\n\n4D Four g abies\n\nf) Square hipped roof\n\n4D\n\n6} Roof cut-out\n\n0\n\nMansard roof\n\nGabled dormer window\n\nROOFS\n\nRoof shapes\nPitched roofs\nFlat roofs\n\nCompound roof with central gutter\n\nSingle pitched-roof dormers\n\n85\n\n\f"
+        },
+        {
+          "label": "Usually",
+          "value": 30.0,
+          "value_max": 50.0,
+          "unit": "degrees",
+          "context": "Slate roof, double decked",
+          "status": "verified",
+          "ocr_raw": "ROOFS\nRoof Shapes\n\nRoof shape and roof pitch: the selection of roofing material and\nthe detailing of the roof edges at the verge and eaves have a\ndecisive influence on the appearance of buildings. 0 show\nthe basic forms of roofs and roof projections.\n\nmin2%fall\n\ne\n\nRoof covering\naccessible paved roof\n\nwood cement roof\nfelt roof, gravel covered\nfelt roof, double\nzinc roof, double standing seams\n\n0\n\nFlatroof\n\n8 Single-pitch (monopitch) roof\n\nfelt roof, single\nsteel sheeting roof\ninterlocking tile roof, 4 sides\nshingle roof (canopy 90\")\n\nJunclion point\n\ninterlocking tile roof, normal\n\nzinc and steel corrugated roof\nfibre cement corrugated roof\n\nRidge\n\nartificial slate roof\nslate roof, double decked\nslate roof, normal\nglass roof\nclay tiles, double decked\nclay tiles on battens\nclay tiles, pantiled\nclay tiles, split stone\nthatch\n\n8\n\nGabled roof\n\nQ\n\nHalf-hipped roof\n\nQ\n\nTwo single pitches\n\n@) Wide dormer with sloping roof\n\nPitch range\n\nUsually\n\n2-4\"\n2.5-4\"\n3-30\"\n4-50\"\n3-90\"\n8-15\"\n12-18\"\n18-50\"\n18-21\"\n20-33\"\n18-35\"\n5-90\"\n20-90\"\n25-90\"\n30-90\"\n30-45\"\n30-60\" y\n35-60\"\n40-60\"\n45-50\"\n45-80\"\n\n3-4\"\n3-4\"\n4-10\"\n6-12\"\n5-30\"\n10-12\"\n15\"\n22-45\"\n19-20\"\n22\"\n25\"\n30\"\n25-45\"\n30-50\"\n45\"\n33\"\n45\"\n45\"\n45\"\n45\"\n60-70\"\n\nG Hipped roof\n\nCf) Roof pitches for various roof coverings\n\ne\n\nf) Barrel roof\n\ne\n\n«<!) Northlight or saw-tooth roof\n\n4D Four g abies\n\nf) Square hipped roof\n\n4D\n\n6} Roof cut-out\n\n0\n\nMansard roof\n\nGabled dormer window\n\nROOFS\n\nRoof shapes\nPitched roofs\nFlat roofs\n\nCompound roof with central gutter\n\nSingle pitched-roof dormers\n\n85\n\n\f"
+        },
+        {
+          "label": "Pitch range",
+          "value": 30.0,
+          "value_max": 90.0,
+          "unit": "degrees",
+          "context": "Slate roof, normal",
+          "status": "verified",
+          "ocr_raw": "ROOFS\nRoof Shapes\n\nRoof shape and roof pitch: the selection of roofing material and\nthe detailing of the roof edges at the verge and eaves have a\ndecisive influence on the appearance of buildings. 0 show\nthe basic forms of roofs and roof projections.\n\nmin2%fall\n\ne\n\nRoof covering\naccessible paved roof\n\nwood cement roof\nfelt roof, gravel covered\nfelt roof, double\nzinc roof, double standing seams\n\n0\n\nFlatroof\n\n8 Single-pitch (monopitch) roof\n\nfelt roof, single\nsteel sheeting roof\ninterlocking tile roof, 4 sides\nshingle roof (canopy 90\")\n\nJunclion point\n\ninterlocking tile roof, normal\n\nzinc and steel corrugated roof\nfibre cement corrugated roof\n\nRidge\n\nartificial slate roof\nslate roof, double decked\nslate roof, normal\nglass roof\nclay tiles, double decked\nclay tiles on battens\nclay tiles, pantiled\nclay tiles, split stone\nthatch\n\n8\n\nGabled roof\n\nQ\n\nHalf-hipped roof\n\nQ\n\nTwo single pitches\n\n@) Wide dormer with sloping roof\n\nPitch range\n\nUsually\n\n2-4\"\n2.5-4\"\n3-30\"\n4-50\"\n3-90\"\n8-15\"\n12-18\"\n18-50\"\n18-21\"\n20-33\"\n18-35\"\n5-90\"\n20-90\"\n25-90\"\n30-90\"\n30-45\"\n30-60\" y\n35-60\"\n40-60\"\n45-50\"\n45-80\"\n\n3-4\"\n3-4\"\n4-10\"\n6-12\"\n5-30\"\n10-12\"\n15\"\n22-45\"\n19-20\"\n22\"\n25\"\n30\"\n25-45\"\n30-50\"\n45\"\n33\"\n45\"\n45\"\n45\"\n45\"\n60-70\"\n\nG Hipped roof\n\nCf) Roof pitches for various roof coverings\n\ne\n\nf) Barrel roof\n\ne\n\n«<!) Northlight or saw-tooth roof\n\n4D Four g abies\n\nf) Square hipped roof\n\n4D\n\n6} Roof cut-out\n\n0\n\nMansard roof\n\nGabled dormer window\n\nROOFS\n\nRoof shapes\nPitched roofs\nFlat roofs\n\nCompound roof with central gutter\n\nSingle pitched-roof dormers\n\n85\n\n\f"
+        },
+        {
+          "label": "Usually",
+          "value": 45.0,
+          "value_max": null,
+          "unit": "degrees",
+          "context": "Slate roof, normal",
+          "status": "verified",
+          "ocr_raw": "ROOFS\nRoof Shapes\n\nRoof shape and roof pitch: the selection of roofing material and\nthe detailing of the roof edges at the verge and eaves have a\ndecisive influence on the appearance of buildings. 0 show\nthe basic forms of roofs and roof projections.\n\nmin2%fall\n\ne\n\nRoof covering\naccessible paved roof\n\nwood cement roof\nfelt roof, gravel covered\nfelt roof, double\nzinc roof, double standing seams\n\n0\n\nFlatroof\n\n8 Single-pitch (monopitch) roof\n\nfelt roof, single\nsteel sheeting roof\ninterlocking tile roof, 4 sides\nshingle roof (canopy 90\")\n\nJunclion point\n\ninterlocking tile roof, normal\n\nzinc and steel corrugated roof\nfibre cement corrugated roof\n\nRidge\n\nartificial slate roof\nslate roof, double decked\nslate roof, normal\nglass roof\nclay tiles, double decked\nclay tiles on battens\nclay tiles, pantiled\nclay tiles, split stone\nthatch\n\n8\n\nGabled roof\n\nQ\n\nHalf-hipped roof\n\nQ\n\nTwo single pitches\n\n@) Wide dormer with sloping roof\n\nPitch range\n\nUsually\n\n2-4\"\n2.5-4\"\n3-30\"\n4-50\"\n3-90\"\n8-15\"\n12-18\"\n18-50\"\n18-21\"\n20-33\"\n18-35\"\n5-90\"\n20-90\"\n25-90\"\n30-90\"\n30-45\"\n30-60\" y\n35-60\"\n40-60\"\n45-50\"\n45-80\"\n\n3-4\"\n3-4\"\n4-10\"\n6-12\"\n5-30\"\n10-12\"\n15\"\n22-45\"\n19-20\"\n22\"\n25\"\n30\"\n25-45\"\n30-50\"\n45\"\n33\"\n45\"\n45\"\n45\"\n45\"\n60-70\"\n\nG Hipped roof\n\nCf) Roof pitches for various roof coverings\n\ne\n\nf) Barrel roof\n\ne\n\n«<!) Northlight or saw-tooth roof\n\n4D Four g abies\n\nf) Square hipped roof\n\n4D\n\n6} Roof cut-out\n\n0\n\nMansard roof\n\nGabled dormer window\n\nROOFS\n\nRoof shapes\nPitched roofs\nFlat roofs\n\nCompound roof with central gutter\n\nSingle pitched-roof dormers\n\n85\n\n\f"
+        },
+        {
+          "label": "Pitch range",
+          "value": 30.0,
+          "value_max": 45.0,
+          "unit": "degrees",
+          "context": "Glass roof",
+          "status": "verified",
+          "ocr_raw": "ROOFS\nRoof Shapes\n\nRoof shape and roof pitch: the selection of roofing material and\nthe detailing of the roof edges at the verge and eaves have a\ndecisive influence on the appearance of buildings. 0 show\nthe basic forms of roofs and roof projections.\n\nmin2%fall\n\ne\n\nRoof covering\naccessible paved roof\n\nwood cement roof\nfelt roof, gravel covered\nfelt roof, double\nzinc roof, double standing seams\n\n0\n\nFlatroof\n\n8 Single-pitch (monopitch) roof\n\nfelt roof, single\nsteel sheeting roof\ninterlocking tile roof, 4 sides\nshingle roof (canopy 90\")\n\nJunclion point\n\ninterlocking tile roof, normal\n\nzinc and steel corrugated roof\nfibre cement corrugated roof\n\nRidge\n\nartificial slate roof\nslate roof, double decked\nslate roof, normal\nglass roof\nclay tiles, double decked\nclay tiles on battens\nclay tiles, pantiled\nclay tiles, split stone\nthatch\n\n8\n\nGabled roof\n\nQ\n\nHalf-hipped roof\n\nQ\n\nTwo single pitches\n\n@) Wide dormer with sloping roof\n\nPitch range\n\nUsually\n\n2-4\"\n2.5-4\"\n3-30\"\n4-50\"\n3-90\"\n8-15\"\n12-18\"\n18-50\"\n18-21\"\n20-33\"\n18-35\"\n5-90\"\n20-90\"\n25-90\"\n30-90\"\n30-45\"\n30-60\" y\n35-60\"\n40-60\"\n45-50\"\n45-80\"\n\n3-4\"\n3-4\"\n4-10\"\n6-12\"\n5-30\"\n10-12\"\n15\"\n22-45\"\n19-20\"\n22\"\n25\"\n30\"\n25-45\"\n30-50\"\n45\"\n33\"\n45\"\n45\"\n45\"\n45\"\n60-70\"\n\nG Hipped roof\n\nCf) Roof pitches for various roof coverings\n\ne\n\nf) Barrel roof\n\ne\n\n«<!) Northlight or saw-tooth roof\n\n4D Four g abies\n\nf) Square hipped roof\n\n4D\n\n6} Roof cut-out\n\n0\n\nMansard roof\n\nGabled dormer window\n\nROOFS\n\nRoof shapes\nPitched roofs\nFlat roofs\n\nCompound roof with central gutter\n\nSingle pitched-roof dormers\n\n85\n\n\f"
+        },
+        {
+          "label": "Usually",
+          "value": 33.0,
+          "value_max": null,
+          "unit": "degrees",
+          "context": "Glass roof",
+          "status": "verified",
+          "ocr_raw": "ROOFS\nRoof Shapes\n\nRoof shape and roof pitch: the selection of roofing material and\nthe detailing of the roof edges at the verge and eaves have a\ndecisive influence on the appearance of buildings. 0 show\nthe basic forms of roofs and roof projections.\n\nmin2%fall\n\ne\n\nRoof covering\naccessible paved roof\n\nwood cement roof\nfelt roof, gravel covered\nfelt roof, double\nzinc roof, double standing seams\n\n0\n\nFlatroof\n\n8 Single-pitch (monopitch) roof\n\nfelt roof, single\nsteel sheeting roof\ninterlocking tile roof, 4 sides\nshingle roof (canopy 90\")\n\nJunclion point\n\ninterlocking tile roof, normal\n\nzinc and steel corrugated roof\nfibre cement corrugated roof\n\nRidge\n\nartificial slate roof\nslate roof, double decked\nslate roof, normal\nglass roof\nclay tiles, double decked\nclay tiles on battens\nclay tiles, pantiled\nclay tiles, split stone\nthatch\n\n8\n\nGabled roof\n\nQ\n\nHalf-hipped roof\n\nQ\n\nTwo single pitches\n\n@) Wide dormer with sloping roof\n\nPitch range\n\nUsually\n\n2-4\"\n2.5-4\"\n3-30\"\n4-50\"\n3-90\"\n8-15\"\n12-18\"\n18-50\"\n18-21\"\n20-33\"\n18-35\"\n5-90\"\n20-90\"\n25-90\"\n30-90\"\n30-45\"\n30-60\" y\n35-60\"\n40-60\"\n45-50\"\n45-80\"\n\n3-4\"\n3-4\"\n4-10\"\n6-12\"\n5-30\"\n10-12\"\n15\"\n22-45\"\n19-20\"\n22\"\n25\"\n30\"\n25-45\"\n30-50\"\n45\"\n33\"\n45\"\n45\"\n45\"\n45\"\n60-70\"\n\nG Hipped roof\n\nCf) Roof pitches for various roof coverings\n\ne\n\nf) Barrel roof\n\ne\n\n«<!) Northlight or saw-tooth roof\n\n4D Four g abies\n\nf) Square hipped roof\n\n4D\n\n6} Roof cut-out\n\n0\n\nMansard roof\n\nGabled dormer window\n\nROOFS\n\nRoof shapes\nPitched roofs\nFlat roofs\n\nCompound roof with central gutter\n\nSingle pitched-roof dormers\n\n85\n\n\f"
+        },
+        {
+          "label": "Pitch range",
+          "value": 30.0,
+          "value_max": 60.0,
+          "unit": "degrees",
+          "context": "Clay tiles, double decked; OCR includes an adjacent mark after the range",
+          "status": "verified",
+          "ocr_raw": "ROOFS\nRoof Shapes\n\nRoof shape and roof pitch: the selection of roofing material and\nthe detailing of the roof edges at the verge and eaves have a\ndecisive influence on the appearance of buildings. 0 show\nthe basic forms of roofs and roof projections.\n\nmin2%fall\n\ne\n\nRoof covering\naccessible paved roof\n\nwood cement roof\nfelt roof, gravel covered\nfelt roof, double\nzinc roof, double standing seams\n\n0\n\nFlatroof\n\n8 Single-pitch (monopitch) roof\n\nfelt roof, single\nsteel sheeting roof\ninterlocking tile roof, 4 sides\nshingle roof (canopy 90\")\n\nJunclion point\n\ninterlocking tile roof, normal\n\nzinc and steel corrugated roof\nfibre cement corrugated roof\n\nRidge\n\nartificial slate roof\nslate roof, double decked\nslate roof, normal\nglass roof\nclay tiles, double decked\nclay tiles on battens\nclay tiles, pantiled\nclay tiles, split stone\nthatch\n\n8\n\nGabled roof\n\nQ\n\nHalf-hipped roof\n\nQ\n\nTwo single pitches\n\n@) Wide dormer with sloping roof\n\nPitch range\n\nUsually\n\n2-4\"\n2.5-4\"\n3-30\"\n4-50\"\n3-90\"\n8-15\"\n12-18\"\n18-50\"\n18-21\"\n20-33\"\n18-35\"\n5-90\"\n20-90\"\n25-90\"\n30-90\"\n30-45\"\n30-60\" y\n35-60\"\n40-60\"\n45-50\"\n45-80\"\n\n3-4\"\n3-4\"\n4-10\"\n6-12\"\n5-30\"\n10-12\"\n15\"\n22-45\"\n19-20\"\n22\"\n25\"\n30\"\n25-45\"\n30-50\"\n45\"\n33\"\n45\"\n45\"\n45\"\n45\"\n60-70\"\n\nG Hipped roof\n\nCf) Roof pitches for various roof coverings\n\ne\n\nf) Barrel roof\n\ne\n\n«<!) Northlight or saw-tooth roof\n\n4D Four g abies\n\nf) Square hipped roof\n\n4D\n\n6} Roof cut-out\n\n0\n\nMansard roof\n\nGabled dormer window\n\nROOFS\n\nRoof shapes\nPitched roofs\nFlat roofs\n\nCompound roof with central gutter\n\nSingle pitched-roof dormers\n\n85\n\n\f"
+        },
+        {
+          "label": "Usually",
+          "value": 45.0,
+          "value_max": null,
+          "unit": "degrees",
+          "context": "Clay tiles, double decked",
+          "status": "verified",
+          "ocr_raw": "ROOFS\nRoof Shapes\n\nRoof shape and roof pitch: the selection of roofing material and\nthe detailing of the roof edges at the verge and eaves have a\ndecisive influence on the appearance of buildings. 0 show\nthe basic forms of roofs and roof projections.\n\nmin2%fall\n\ne\n\nRoof covering\naccessible paved roof\n\nwood cement roof\nfelt roof, gravel covered\nfelt roof, double\nzinc roof, double standing seams\n\n0\n\nFlatroof\n\n8 Single-pitch (monopitch) roof\n\nfelt roof, single\nsteel sheeting roof\ninterlocking tile roof, 4 sides\nshingle roof (canopy 90\")\n\nJunclion point\n\ninterlocking tile roof, normal\n\nzinc and steel corrugated roof\nfibre cement corrugated roof\n\nRidge\n\nartificial slate roof\nslate roof, double decked\nslate roof, normal\nglass roof\nclay tiles, double decked\nclay tiles on battens\nclay tiles, pantiled\nclay tiles, split stone\nthatch\n\n8\n\nGabled roof\n\nQ\n\nHalf-hipped roof\n\nQ\n\nTwo single pitches\n\n@) Wide dormer with sloping roof\n\nPitch range\n\nUsually\n\n2-4\"\n2.5-4\"\n3-30\"\n4-50\"\n3-90\"\n8-15\"\n12-18\"\n18-50\"\n18-21\"\n20-33\"\n18-35\"\n5-90\"\n20-90\"\n25-90\"\n30-90\"\n30-45\"\n30-60\" y\n35-60\"\n40-60\"\n45-50\"\n45-80\"\n\n3-4\"\n3-4\"\n4-10\"\n6-12\"\n5-30\"\n10-12\"\n15\"\n22-45\"\n19-20\"\n22\"\n25\"\n30\"\n25-45\"\n30-50\"\n45\"\n33\"\n45\"\n45\"\n45\"\n45\"\n60-70\"\n\nG Hipped roof\n\nCf) Roof pitches for various roof coverings\n\ne\n\nf) Barrel roof\n\ne\n\n«<!) Northlight or saw-tooth roof\n\n4D Four g abies\n\nf) Square hipped roof\n\n4D\n\n6} Roof cut-out\n\n0\n\nMansard roof\n\nGabled dormer window\n\nROOFS\n\nRoof shapes\nPitched roofs\nFlat roofs\n\nCompound roof with central gutter\n\nSingle pitched-roof dormers\n\n85\n\n\f"
+        },
+        {
+          "label": "Pitch range",
+          "value": 35.0,
+          "value_max": 60.0,
+          "unit": "degrees",
+          "context": "Clay tiles on battens",
+          "status": "verified",
+          "ocr_raw": "ROOFS\nRoof Shapes\n\nRoof shape and roof pitch: the selection of roofing material and\nthe detailing of the roof edges at the verge and eaves have a\ndecisive influence on the appearance of buildings. 0 show\nthe basic forms of roofs and roof projections.\n\nmin2%fall\n\ne\n\nRoof covering\naccessible paved roof\n\nwood cement roof\nfelt roof, gravel covered\nfelt roof, double\nzinc roof, double standing seams\n\n0\n\nFlatroof\n\n8 Single-pitch (monopitch) roof\n\nfelt roof, single\nsteel sheeting roof\ninterlocking tile roof, 4 sides\nshingle roof (canopy 90\")\n\nJunclion point\n\ninterlocking tile roof, normal\n\nzinc and steel corrugated roof\nfibre cement corrugated roof\n\nRidge\n\nartificial slate roof\nslate roof, double decked\nslate roof, normal\nglass roof\nclay tiles, double decked\nclay tiles on battens\nclay tiles, pantiled\nclay tiles, split stone\nthatch\n\n8\n\nGabled roof\n\nQ\n\nHalf-hipped roof\n\nQ\n\nTwo single pitches\n\n@) Wide dormer with sloping roof\n\nPitch range\n\nUsually\n\n2-4\"\n2.5-4\"\n3-30\"\n4-50\"\n3-90\"\n8-15\"\n12-18\"\n18-50\"\n18-21\"\n20-33\"\n18-35\"\n5-90\"\n20-90\"\n25-90\"\n30-90\"\n30-45\"\n30-60\" y\n35-60\"\n40-60\"\n45-50\"\n45-80\"\n\n3-4\"\n3-4\"\n4-10\"\n6-12\"\n5-30\"\n10-12\"\n15\"\n22-45\"\n19-20\"\n22\"\n25\"\n30\"\n25-45\"\n30-50\"\n45\"\n33\"\n45\"\n45\"\n45\"\n45\"\n60-70\"\n\nG Hipped roof\n\nCf) Roof pitches for various roof coverings\n\ne\n\nf) Barrel roof\n\ne\n\n«<!) Northlight or saw-tooth roof\n\n4D Four g abies\n\nf) Square hipped roof\n\n4D\n\n6} Roof cut-out\n\n0\n\nMansard roof\n\nGabled dormer window\n\nROOFS\n\nRoof shapes\nPitched roofs\nFlat roofs\n\nCompound roof with central gutter\n\nSingle pitched-roof dormers\n\n85\n\n\f"
+        },
+        {
+          "label": "Usually",
+          "value": 45.0,
+          "value_max": null,
+          "unit": "degrees",
+          "context": "Clay tiles on battens",
+          "status": "verified",
+          "ocr_raw": "ROOFS\nRoof Shapes\n\nRoof shape and roof pitch: the selection of roofing material and\nthe detailing of the roof edges at the verge and eaves have a\ndecisive influence on the appearance of buildings. 0 show\nthe basic forms of roofs and roof projections.\n\nmin2%fall\n\ne\n\nRoof covering\naccessible paved roof\n\nwood cement roof\nfelt roof, gravel covered\nfelt roof, double\nzinc roof, double standing seams\n\n0\n\nFlatroof\n\n8 Single-pitch (monopitch) roof\n\nfelt roof, single\nsteel sheeting roof\ninterlocking tile roof, 4 sides\nshingle roof (canopy 90\")\n\nJunclion point\n\ninterlocking tile roof, normal\n\nzinc and steel corrugated roof\nfibre cement corrugated roof\n\nRidge\n\nartificial slate roof\nslate roof, double decked\nslate roof, normal\nglass roof\nclay tiles, double decked\nclay tiles on battens\nclay tiles, pantiled\nclay tiles, split stone\nthatch\n\n8\n\nGabled roof\n\nQ\n\nHalf-hipped roof\n\nQ\n\nTwo single pitches\n\n@) Wide dormer with sloping roof\n\nPitch range\n\nUsually\n\n2-4\"\n2.5-4\"\n3-30\"\n4-50\"\n3-90\"\n8-15\"\n12-18\"\n18-50\"\n18-21\"\n20-33\"\n18-35\"\n5-90\"\n20-90\"\n25-90\"\n30-90\"\n30-45\"\n30-60\" y\n35-60\"\n40-60\"\n45-50\"\n45-80\"\n\n3-4\"\n3-4\"\n4-10\"\n6-12\"\n5-30\"\n10-12\"\n15\"\n22-45\"\n19-20\"\n22\"\n25\"\n30\"\n25-45\"\n30-50\"\n45\"\n33\"\n45\"\n45\"\n45\"\n45\"\n60-70\"\n\nG Hipped roof\n\nCf) Roof pitches for various roof coverings\n\ne\n\nf) Barrel roof\n\ne\n\n«<!) Northlight or saw-tooth roof\n\n4D Four g abies\n\nf) Square hipped roof\n\n4D\n\n6} Roof cut-out\n\n0\n\nMansard roof\n\nGabled dormer window\n\nROOFS\n\nRoof shapes\nPitched roofs\nFlat roofs\n\nCompound roof with central gutter\n\nSingle pitched-roof dormers\n\n85\n\n\f"
+        },
+        {
+          "label": "Pitch range",
+          "value": 40.0,
+          "value_max": 60.0,
+          "unit": "degrees",
+          "context": "Clay tiles, pantiled",
+          "status": "verified",
+          "ocr_raw": "ROOFS\nRoof Shapes\n\nRoof shape and roof pitch: the selection of roofing material and\nthe detailing of the roof edges at the verge and eaves have a\ndecisive influence on the appearance of buildings. 0 show\nthe basic forms of roofs and roof projections.\n\nmin2%fall\n\ne\n\nRoof covering\naccessible paved roof\n\nwood cement roof\nfelt roof, gravel covered\nfelt roof, double\nzinc roof, double standing seams\n\n0\n\nFlatroof\n\n8 Single-pitch (monopitch) roof\n\nfelt roof, single\nsteel sheeting roof\ninterlocking tile roof, 4 sides\nshingle roof (canopy 90\")\n\nJunclion point\n\ninterlocking tile roof, normal\n\nzinc and steel corrugated roof\nfibre cement corrugated roof\n\nRidge\n\nartificial slate roof\nslate roof, double decked\nslate roof, normal\nglass roof\nclay tiles, double decked\nclay tiles on battens\nclay tiles, pantiled\nclay tiles, split stone\nthatch\n\n8\n\nGabled roof\n\nQ\n\nHalf-hipped roof\n\nQ\n\nTwo single pitches\n\n@) Wide dormer with sloping roof\n\nPitch range\n\nUsually\n\n2-4\"\n2.5-4\"\n3-30\"\n4-50\"\n3-90\"\n8-15\"\n12-18\"\n18-50\"\n18-21\"\n20-33\"\n18-35\"\n5-90\"\n20-90\"\n25-90\"\n30-90\"\n30-45\"\n30-60\" y\n35-60\"\n40-60\"\n45-50\"\n45-80\"\n\n3-4\"\n3-4\"\n4-10\"\n6-12\"\n5-30\"\n10-12\"\n15\"\n22-45\"\n19-20\"\n22\"\n25\"\n30\"\n25-45\"\n30-50\"\n45\"\n33\"\n45\"\n45\"\n45\"\n45\"\n60-70\"\n\nG Hipped roof\n\nCf) Roof pitches for various roof coverings\n\ne\n\nf) Barrel roof\n\ne\n\n«<!) Northlight or saw-tooth roof\n\n4D Four g abies\n\nf) Square hipped roof\n\n4D\n\n6} Roof cut-out\n\n0\n\nMansard roof\n\nGabled dormer window\n\nROOFS\n\nRoof shapes\nPitched roofs\nFlat roofs\n\nCompound roof with central gutter\n\nSingle pitched-roof dormers\n\n85\n\n\f"
+        },
+        {
+          "label": "Usually",
+          "value": 45.0,
+          "value_max": null,
+          "unit": "degrees",
+          "context": "Clay tiles, pantiled",
+          "status": "verified",
+          "ocr_raw": "ROOFS\nRoof Shapes\n\nRoof shape and roof pitch: the selection of roofing material and\nthe detailing of the roof edges at the verge and eaves have a\ndecisive influence on the appearance of buildings. 0 show\nthe basic forms of roofs and roof projections.\n\nmin2%fall\n\ne\n\nRoof covering\naccessible paved roof\n\nwood cement roof\nfelt roof, gravel covered\nfelt roof, double\nzinc roof, double standing seams\n\n0\n\nFlatroof\n\n8 Single-pitch (monopitch) roof\n\nfelt roof, single\nsteel sheeting roof\ninterlocking tile roof, 4 sides\nshingle roof (canopy 90\")\n\nJunclion point\n\ninterlocking tile roof, normal\n\nzinc and steel corrugated roof\nfibre cement corrugated roof\n\nRidge\n\nartificial slate roof\nslate roof, double decked\nslate roof, normal\nglass roof\nclay tiles, double decked\nclay tiles on battens\nclay tiles, pantiled\nclay tiles, split stone\nthatch\n\n8\n\nGabled roof\n\nQ\n\nHalf-hipped roof\n\nQ\n\nTwo single pitches\n\n@) Wide dormer with sloping roof\n\nPitch range\n\nUsually\n\n2-4\"\n2.5-4\"\n3-30\"\n4-50\"\n3-90\"\n8-15\"\n12-18\"\n18-50\"\n18-21\"\n20-33\"\n18-35\"\n5-90\"\n20-90\"\n25-90\"\n30-90\"\n30-45\"\n30-60\" y\n35-60\"\n40-60\"\n45-50\"\n45-80\"\n\n3-4\"\n3-4\"\n4-10\"\n6-12\"\n5-30\"\n10-12\"\n15\"\n22-45\"\n19-20\"\n22\"\n25\"\n30\"\n25-45\"\n30-50\"\n45\"\n33\"\n45\"\n45\"\n45\"\n45\"\n60-70\"\n\nG Hipped roof\n\nCf) Roof pitches for various roof coverings\n\ne\n\nf) Barrel roof\n\ne\n\n«<!) Northlight or saw-tooth roof\n\n4D Four g abies\n\nf) Square hipped roof\n\n4D\n\n6} Roof cut-out\n\n0\n\nMansard roof\n\nGabled dormer window\n\nROOFS\n\nRoof shapes\nPitched roofs\nFlat roofs\n\nCompound roof with central gutter\n\nSingle pitched-roof dormers\n\n85\n\n\f"
+        },
+        {
+          "label": "Pitch range",
+          "value": 45.0,
+          "value_max": 50.0,
+          "unit": "degrees",
+          "context": "Clay tiles, split stone",
+          "status": "verified",
+          "ocr_raw": "ROOFS\nRoof Shapes\n\nRoof shape and roof pitch: the selection of roofing material and\nthe detailing of the roof edges at the verge and eaves have a\ndecisive influence on the appearance of buildings. 0 show\nthe basic forms of roofs and roof projections.\n\nmin2%fall\n\ne\n\nRoof covering\naccessible paved roof\n\nwood cement roof\nfelt roof, gravel covered\nfelt roof, double\nzinc roof, double standing seams\n\n0\n\nFlatroof\n\n8 Single-pitch (monopitch) roof\n\nfelt roof, single\nsteel sheeting roof\ninterlocking tile roof, 4 sides\nshingle roof (canopy 90\")\n\nJunclion point\n\ninterlocking tile roof, normal\n\nzinc and steel corrugated roof\nfibre cement corrugated roof\n\nRidge\n\nartificial slate roof\nslate roof, double decked\nslate roof, normal\nglass roof\nclay tiles, double decked\nclay tiles on battens\nclay tiles, pantiled\nclay tiles, split stone\nthatch\n\n8\n\nGabled roof\n\nQ\n\nHalf-hipped roof\n\nQ\n\nTwo single pitches\n\n@) Wide dormer with sloping roof\n\nPitch range\n\nUsually\n\n2-4\"\n2.5-4\"\n3-30\"\n4-50\"\n3-90\"\n8-15\"\n12-18\"\n18-50\"\n18-21\"\n20-33\"\n18-35\"\n5-90\"\n20-90\"\n25-90\"\n30-90\"\n30-45\"\n30-60\" y\n35-60\"\n40-60\"\n45-50\"\n45-80\"\n\n3-4\"\n3-4\"\n4-10\"\n6-12\"\n5-30\"\n10-12\"\n15\"\n22-45\"\n19-20\"\n22\"\n25\"\n30\"\n25-45\"\n30-50\"\n45\"\n33\"\n45\"\n45\"\n45\"\n45\"\n60-70\"\n\nG Hipped roof\n\nCf) Roof pitches for various roof coverings\n\ne\n\nf) Barrel roof\n\ne\n\n«<!) Northlight or saw-tooth roof\n\n4D Four g abies\n\nf) Square hipped roof\n\n4D\n\n6} Roof cut-out\n\n0\n\nMansard roof\n\nGabled dormer window\n\nROOFS\n\nRoof shapes\nPitched roofs\nFlat roofs\n\nCompound roof with central gutter\n\nSingle pitched-roof dormers\n\n85\n\n\f"
+        },
+        {
+          "label": "Usually",
+          "value": 45.0,
+          "value_max": null,
+          "unit": "degrees",
+          "context": "Clay tiles, split stone",
+          "status": "verified",
+          "ocr_raw": "ROOFS\nRoof Shapes\n\nRoof shape and roof pitch: the selection of roofing material and\nthe detailing of the roof edges at the verge and eaves have a\ndecisive influence on the appearance of buildings. 0 show\nthe basic forms of roofs and roof projections.\n\nmin2%fall\n\ne\n\nRoof covering\naccessible paved roof\n\nwood cement roof\nfelt roof, gravel covered\nfelt roof, double\nzinc roof, double standing seams\n\n0\n\nFlatroof\n\n8 Single-pitch (monopitch) roof\n\nfelt roof, single\nsteel sheeting roof\ninterlocking tile roof, 4 sides\nshingle roof (canopy 90\")\n\nJunclion point\n\ninterlocking tile roof, normal\n\nzinc and steel corrugated roof\nfibre cement corrugated roof\n\nRidge\n\nartificial slate roof\nslate roof, double decked\nslate roof, normal\nglass roof\nclay tiles, double decked\nclay tiles on battens\nclay tiles, pantiled\nclay tiles, split stone\nthatch\n\n8\n\nGabled roof\n\nQ\n\nHalf-hipped roof\n\nQ\n\nTwo single pitches\n\n@) Wide dormer with sloping roof\n\nPitch range\n\nUsually\n\n2-4\"\n2.5-4\"\n3-30\"\n4-50\"\n3-90\"\n8-15\"\n12-18\"\n18-50\"\n18-21\"\n20-33\"\n18-35\"\n5-90\"\n20-90\"\n25-90\"\n30-90\"\n30-45\"\n30-60\" y\n35-60\"\n40-60\"\n45-50\"\n45-80\"\n\n3-4\"\n3-4\"\n4-10\"\n6-12\"\n5-30\"\n10-12\"\n15\"\n22-45\"\n19-20\"\n22\"\n25\"\n30\"\n25-45\"\n30-50\"\n45\"\n33\"\n45\"\n45\"\n45\"\n45\"\n60-70\"\n\nG Hipped roof\n\nCf) Roof pitches for various roof coverings\n\ne\n\nf) Barrel roof\n\ne\n\n«<!) Northlight or saw-tooth roof\n\n4D Four g abies\n\nf) Square hipped roof\n\n4D\n\n6} Roof cut-out\n\n0\n\nMansard roof\n\nGabled dormer window\n\nROOFS\n\nRoof shapes\nPitched roofs\nFlat roofs\n\nCompound roof with central gutter\n\nSingle pitched-roof dormers\n\n85\n\n\f"
+        },
+        {
+          "label": "Pitch range",
+          "value": 45.0,
+          "value_max": 80.0,
+          "unit": "degrees",
+          "context": "Thatch",
+          "status": "verified",
+          "ocr_raw": "ROOFS\nRoof Shapes\n\nRoof shape and roof pitch: the selection of roofing material and\nthe detailing of the roof edges at the verge and eaves have a\ndecisive influence on the appearance of buildings. 0 show\nthe basic forms of roofs and roof projections.\n\nmin2%fall\n\ne\n\nRoof covering\naccessible paved roof\n\nwood cement roof\nfelt roof, gravel covered\nfelt roof, double\nzinc roof, double standing seams\n\n0\n\nFlatroof\n\n8 Single-pitch (monopitch) roof\n\nfelt roof, single\nsteel sheeting roof\ninterlocking tile roof, 4 sides\nshingle roof (canopy 90\")\n\nJunclion point\n\ninterlocking tile roof, normal\n\nzinc and steel corrugated roof\nfibre cement corrugated roof\n\nRidge\n\nartificial slate roof\nslate roof, double decked\nslate roof, normal\nglass roof\nclay tiles, double decked\nclay tiles on battens\nclay tiles, pantiled\nclay tiles, split stone\nthatch\n\n8\n\nGabled roof\n\nQ\n\nHalf-hipped roof\n\nQ\n\nTwo single pitches\n\n@) Wide dormer with sloping roof\n\nPitch range\n\nUsually\n\n2-4\"\n2.5-4\"\n3-30\"\n4-50\"\n3-90\"\n8-15\"\n12-18\"\n18-50\"\n18-21\"\n20-33\"\n18-35\"\n5-90\"\n20-90\"\n25-90\"\n30-90\"\n30-45\"\n30-60\" y\n35-60\"\n40-60\"\n45-50\"\n45-80\"\n\n3-4\"\n3-4\"\n4-10\"\n6-12\"\n5-30\"\n10-12\"\n15\"\n22-45\"\n19-20\"\n22\"\n25\"\n30\"\n25-45\"\n30-50\"\n45\"\n33\"\n45\"\n45\"\n45\"\n45\"\n60-70\"\n\nG Hipped roof\n\nCf) Roof pitches for various roof coverings\n\ne\n\nf) Barrel roof\n\ne\n\n«<!) Northlight or saw-tooth roof\n\n4D Four g abies\n\nf) Square hipped roof\n\n4D\n\n6} Roof cut-out\n\n0\n\nMansard roof\n\nGabled dormer window\n\nROOFS\n\nRoof shapes\nPitched roofs\nFlat roofs\n\nCompound roof with central gutter\n\nSingle pitched-roof dormers\n\n85\n\n\f"
+        },
+        {
+          "label": "Usually",
+          "value": 60.0,
+          "value_max": 70.0,
+          "unit": "degrees",
+          "context": "Thatch",
+          "status": "verified",
+          "ocr_raw": "ROOFS\nRoof Shapes\n\nRoof shape and roof pitch: the selection of roofing material and\nthe detailing of the roof edges at the verge and eaves have a\ndecisive influence on the appearance of buildings. 0 show\nthe basic forms of roofs and roof projections.\n\nmin2%fall\n\ne\n\nRoof covering\naccessible paved roof\n\nwood cement roof\nfelt roof, gravel covered\nfelt roof, double\nzinc roof, double standing seams\n\n0\n\nFlatroof\n\n8 Single-pitch (monopitch) roof\n\nfelt roof, single\nsteel sheeting roof\ninterlocking tile roof, 4 sides\nshingle roof (canopy 90\")\n\nJunclion point\n\ninterlocking tile roof, normal\n\nzinc and steel corrugated roof\nfibre cement corrugated roof\n\nRidge\n\nartificial slate roof\nslate roof, double decked\nslate roof, normal\nglass roof\nclay tiles, double decked\nclay tiles on battens\nclay tiles, pantiled\nclay tiles, split stone\nthatch\n\n8\n\nGabled roof\n\nQ\n\nHalf-hipped roof\n\nQ\n\nTwo single pitches\n\n@) Wide dormer with sloping roof\n\nPitch range\n\nUsually\n\n2-4\"\n2.5-4\"\n3-30\"\n4-50\"\n3-90\"\n8-15\"\n12-18\"\n18-50\"\n18-21\"\n20-33\"\n18-35\"\n5-90\"\n20-90\"\n25-90\"\n30-90\"\n30-45\"\n30-60\" y\n35-60\"\n40-60\"\n45-50\"\n45-80\"\n\n3-4\"\n3-4\"\n4-10\"\n6-12\"\n5-30\"\n10-12\"\n15\"\n22-45\"\n19-20\"\n22\"\n25\"\n30\"\n25-45\"\n30-50\"\n45\"\n33\"\n45\"\n45\"\n45\"\n45\"\n60-70\"\n\nG Hipped roof\n\nCf) Roof pitches for various roof coverings\n\ne\n\nf) Barrel roof\n\ne\n\n«<!) Northlight or saw-tooth roof\n\n4D Four g abies\n\nf) Square hipped roof\n\n4D\n\n6} Roof cut-out\n\n0\n\nMansard roof\n\nGabled dormer window\n\nROOFS\n\nRoof shapes\nPitched roofs\nFlat roofs\n\nCompound roof with central gutter\n\nSingle pitched-roof dormers\n\n85\n\n\f"
+        }
+      ],
+      "figure_refs": [
+        "17 Roof pitches for various roof coverings"
+      ],
+      "cross_refs": [],
+      "keywords": [
+        "roof pitch",
+        "roof covering",
+        "pitch range",
+        "usual pitch",
+        "felt",
+        "zinc",
+        "steel",
+        "tiles",
+        "slate",
+        "glass",
+        "thatch"
+      ],
+      "tags_architectural": [],
+      "confidence": 0.97
+    }
+  ]
+}

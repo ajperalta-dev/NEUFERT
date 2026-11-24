@@ -1,0 +1,331 @@
+{
+  "fichas": [
+    {
+      "id": "4122fb96e4bd1976-240-vision-0",
+      "pdf_page": 240,
+      "book_page": 227,
+      "chapter": "CULTURAL VENUES",
+      "section": "Circus",
+      "title": "Stationary Circus",
+      "summary": "Permanent circus theatre in Berlin Leipziger Platz, with an amphitheatre-type hall laid out as three quarters of a circle for 1,600 audience members. The remaining quarter is for a stage made of five stacked lifting platforms, enabling rapid changes of stage sets. The circus arena is spanned by a reinforced-concrete dome.",
+      "building_type": "Permanent circus theatre",
+      "spaces": [
+        "Amphitheatre-type hall",
+        "Circus arena",
+        "Stage",
+        "Understage theatre",
+        "Understage",
+        "Backstage",
+        "Rehearsal space",
+        "Dressing rooms",
+        "Costume shop",
+        "Crew room",
+        "Workshop",
+        "Show maintenance",
+        "Physiotherapy room",
+        "Offices",
+        "Ticket office",
+        "Boutique",
+        "Cafe",
+        "Bar and beverage area",
+        "Retail spaces",
+        "Technical rooms",
+        "Terraces",
+        "Air spaces",
+        "Cloakroom",
+        "Storage",
+        "WC"
+      ],
+      "uses": [
+        "Circus performances",
+        "Audience seating",
+        "Stage-set changes",
+        "Rehearsals",
+        "Performer preparation and dressing",
+        "Costume storage and workshop use",
+        "Audience services and concessions"
+      ],
+      "furniture_equipment": [
+        "Five stacked lifting platforms",
+        "Audience seating",
+        "Stage",
+        "Dome",
+        "Lifts",
+        "Escalators"
+      ],
+      "dimensions": [
+        {
+          "label": "Audience capacity",
+          "value": 1600.0,
+          "value_max": null,
+          "unit": "seats",
+          "context": "Audience capacity of the amphitheatre-type hall.",
+          "status": "uncertain",
+          "ocr_raw": "offering seats for an audience of 1600"
+        },
+        {
+          "label": "Number of lifting platforms",
+          "value": 5.0,
+          "value_max": null,
+          "unit": "platforms",
+          "context": "Stacked lifting platforms forming the stage.",
+          "status": "uncertain",
+          "ocr_raw": "five stacked lifting platforms"
+        },
+        {
+          "label": "Hall access level",
+          "value": 13.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Third floor, above road level.",
+          "status": "uncertain",
+          "ocr_raw": "Access to the hall on the third floor+ 13.00 m above road level."
+        },
+        {
+          "label": "Dome height",
+          "value": 27.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Height of the reinforced-concrete dome spanning the circus arena.",
+          "status": "uncertain",
+          "ocr_raw": "A 27 m high reinforced concrete dome spans the circus arena."
+        },
+        {
+          "label": "Second floor level",
+          "value": 9.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Second floor; underfloor theatre.",
+          "status": "uncertain",
+          "ocr_raw": "Second floor + 9.00 m (underfloor theatre)"
+        },
+        {
+          "label": "Third floor level",
+          "value": 13.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Third floor; stage area.",
+          "status": "uncertain",
+          "ocr_raw": "Third floor (stage area) + 13.00 m"
+        },
+        {
+          "label": "Fourth floor level",
+          "value": 16.5,
+          "value_max": null,
+          "unit": "m",
+          "context": "Fourth floor; audience seating level.",
+          "status": "uncertain",
+          "ocr_raw": "Fourth floor (audience seating level) + 16.50 m"
+        },
+        {
+          "label": "Dressing rooms",
+          "value": 346.0,
+          "value_max": null,
+          "unit": "m²",
+          "context": "Second-floor plan.",
+          "status": "uncertain",
+          "ocr_raw": "Dressing Rooms 346 m²"
+        },
+        {
+          "label": "Crew room",
+          "value": 91.0,
+          "value_max": null,
+          "unit": "m²",
+          "context": "Second-floor plan.",
+          "status": "uncertain",
+          "ocr_raw": "Crewroom 91 m²"
+        },
+        {
+          "label": "Costume shop",
+          "value": 27.0,
+          "value_max": null,
+          "unit": "m²",
+          "context": "Second-floor plan; separate costume shop label.",
+          "status": "uncertain",
+          "ocr_raw": "Costume Shop 27 m²"
+        },
+        {
+          "label": "Costume shop",
+          "value": 182.0,
+          "value_max": null,
+          "unit": "m²",
+          "context": "Second-floor plan.",
+          "status": "uncertain",
+          "ocr_raw": "Costume Shop 182 m²"
+        },
+        {
+          "label": "Workshop",
+          "value": 129.0,
+          "value_max": null,
+          "unit": "m²",
+          "context": "Second-floor plan.",
+          "status": "uncertain",
+          "ocr_raw": "Workshop 129 m²"
+        },
+        {
+          "label": "Show maintenance",
+          "value": 23.0,
+          "value_max": null,
+          "unit": "m²",
+          "context": "Second-floor plan.",
+          "status": "uncertain",
+          "ocr_raw": "Show Maintenance 23 m²"
+        },
+        {
+          "label": "Understage",
+          "value": 1218.0,
+          "value_max": null,
+          "unit": "m²",
+          "context": "Second-floor plan.",
+          "status": "uncertain",
+          "ocr_raw": "Understage 1218 m²"
+        },
+        {
+          "label": "Ticket office",
+          "value": 195.0,
+          "value_max": null,
+          "unit": "m²",
+          "context": "Second-floor plan.",
+          "status": "uncertain",
+          "ocr_raw": "Ticket Office 195 m²"
+        },
+        {
+          "label": "Boutique",
+          "value": 198.0,
+          "value_max": null,
+          "unit": "m²",
+          "context": "Second-floor plan.",
+          "status": "uncertain",
+          "ocr_raw": "Boutique 198 m²"
+        },
+        {
+          "label": "Physiotherapy room",
+          "value": 94.0,
+          "value_max": null,
+          "unit": "m²",
+          "context": "Third-floor plan.",
+          "status": "uncertain",
+          "ocr_raw": "Physio 94 m²"
+        },
+        {
+          "label": "Rehearsal room",
+          "value": 320.0,
+          "value_max": null,
+          "unit": "m²",
+          "context": "Third-floor plan.",
+          "status": "uncertain",
+          "ocr_raw": "Rehearsal 320 m²"
+        },
+        {
+          "label": "WC",
+          "value": 20.0,
+          "value_max": null,
+          "unit": "m²",
+          "context": "Third-floor plan.",
+          "status": "uncertain",
+          "ocr_raw": "WC 20 m²"
+        },
+        {
+          "label": "Show maintenance",
+          "value": 23.0,
+          "value_max": null,
+          "unit": "m²",
+          "context": "Third-floor plan.",
+          "status": "uncertain",
+          "ocr_raw": "Show maint 23 m²"
+        },
+        {
+          "label": "Storage",
+          "value": 24.0,
+          "value_max": null,
+          "unit": "m²",
+          "context": "Third-floor plan.",
+          "status": "uncertain",
+          "ocr_raw": "Storage 24 m²"
+        },
+        {
+          "label": "Technical room",
+          "value": 99.0,
+          "value_max": null,
+          "unit": "m²",
+          "context": "Third-floor plan; each of two technical rooms is labeled 99 m².",
+          "status": "uncertain",
+          "ocr_raw": "Tech. 99 m²"
+        },
+        {
+          "label": "WC",
+          "value": 43.0,
+          "value_max": null,
+          "unit": "m²",
+          "context": "Third-floor plan; each of two WC areas is labeled 43 m².",
+          "status": "uncertain",
+          "ocr_raw": "WC 43 m²"
+        },
+        {
+          "label": "Retail",
+          "value": 59.0,
+          "value_max": null,
+          "unit": "m²",
+          "context": "Third-floor plan; each of two retail areas is labeled 59 m².",
+          "status": "uncertain",
+          "ocr_raw": "Retail 59 m²"
+        },
+        {
+          "label": "Bar and beverage area",
+          "value": 132.0,
+          "value_max": null,
+          "unit": "m²",
+          "context": "Third-floor plan.",
+          "status": "uncertain",
+          "ocr_raw": "Bar & Beverage 132 m²"
+        },
+        {
+          "label": "Offices",
+          "value": 161.0,
+          "value_max": null,
+          "unit": "m²",
+          "context": "Fourth-floor plan.",
+          "status": "uncertain",
+          "ocr_raw": "Offices 161 m²"
+        },
+        {
+          "label": "Show maintenance",
+          "value": 56.0,
+          "value_max": null,
+          "unit": "m²",
+          "context": "Fourth-floor plan.",
+          "status": "uncertain",
+          "ocr_raw": "Show maint. 56 m²"
+        }
+      ],
+      "figure_refs": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "cross_refs": [
+        "→ 3"
+      ],
+      "keywords": [
+        "circus",
+        "stationary",
+        "permanent venue",
+        "amphitheatre",
+        "audience seating",
+        "stage",
+        "lifting platforms",
+        "dome",
+        "Berlin Leipziger Platz",
+        "Aldo Rossi",
+        "Planungs AG Neufert/Mittmann/Graf",
+        "Sceno-Plus Experts-Conseils"
+      ],
+      "tags_architectural": [
+        "circulation",
+        "spatial_proportion"
+      ],
+      "confidence": 0.94
+    }
+  ]
+}

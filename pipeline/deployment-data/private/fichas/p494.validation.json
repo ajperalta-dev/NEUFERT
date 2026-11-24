@@ -1,0 +1,62 @@
+{
+  "model": "gpt-6-luna",
+  "checks": {
+    "checks": [
+      {
+        "ficha_index": 0,
+        "dimension_index": 0,
+        "status": "verified",
+        "value": 250.0,
+        "value_max": null,
+        "reason": "The drawing text visibly states surface loading >250 kg/m\u00b2; the proposed threshold and unit agree."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 1,
+        "status": "verified",
+        "value": 3.0,
+        "value_max": null,
+        "reason": "The lift-shaft text and figure caption visibly specify >3 cm mineral fibre; the proposed value and unit agree."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 2,
+        "status": "verified",
+        "value": 0.5,
+        "value_max": null,
+        "reason": "The text visibly states flat insulation layers should normally have loading >0.5 N/mm\u00b2; the proposed value and unit agree."
+      }
+    ]
+  },
+  "automatic": [
+    {
+      "ficha_index": 0,
+      "dimension_index": 0,
+      "issues": [
+        "Unknown unit"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 1,
+      "issues": []
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 2,
+      "issues": [
+        "Unknown unit"
+      ]
+    }
+  ],
+  "usage": [
+    {
+      "prompt_tokens": 4689,
+      "completion_tokens": 795
+    },
+    {
+      "prompt_tokens": 3660,
+      "completion_tokens": 255
+    }
+  ]
+}

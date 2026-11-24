@@ -1,0 +1,199 @@
+{
+  "fichas": [
+    {
+      "id": "4122fb96e4bd1976-27-vision-0",
+      "pdf_page": 27,
+      "book_page": 14,
+      "chapter": "BASICS",
+      "section": "Drawings",
+      "title": "Electrical Consumer Appliances",
+      "summary": "Legend of electrical symbols for domestic appliances, cooking equipment, refrigeration, heating, ventilation, motors, and electrically heated screens.",
+      "building_type": "Electrical installation reference",
+      "spaces": [],
+      "uses": [
+        "Identify electrical consumer appliances on technical and construction drawings"
+      ],
+      "furniture_equipment": [
+        "Electric stoves",
+        "Ovens",
+        "Microwave cooker",
+        "Dishwasher",
+        "Food processor",
+        "Refrigerator",
+        "Freezer",
+        "Air conditioner",
+        "Water heaters",
+        "Fryer",
+        "Fan",
+        "Generator",
+        "Motors",
+        "Hand dryer",
+        "Washing machine",
+        "Washer/dryer",
+        "Infrared lamp",
+        "Room heating",
+        "Storage heater",
+        "Electrically heated clear-view screen"
+      ],
+      "dimensions": [],
+      "figure_refs": [],
+      "cross_refs": [
+        "BS EN 50110",
+        "DIN 18015"
+      ],
+      "keywords": [
+        "electrical appliances",
+        "drawing symbols",
+        "domestic equipment"
+      ],
+      "tags_architectural": [],
+      "confidence": 0.98
+    },
+    {
+      "id": "4122fb96e4bd1976-27-vision-1",
+      "pdf_page": 27,
+      "book_page": 14,
+      "chapter": "BASICS",
+      "section": "Drawings",
+      "title": "Lighting Symbols",
+      "summary": "Drawing legend for general, adjustable, switched, dimmable, emergency, discharge, fluorescent, and light-band fittings. Examples specify lamp counts and wattages.",
+      "building_type": "Electrical installation reference",
+      "spaces": [],
+      "uses": [
+        "Represent lighting equipment and lighting arrangements on drawings"
+      ],
+      "furniture_equipment": [
+        "General light fitting",
+        "Adjustable light fitting",
+        "Light fitting with switch",
+        "Dimmable light fitting",
+        "Panic light",
+        "Emergency light",
+        "Discharge-lamp fittings",
+        "Fluorescent lamp fitting",
+        "Light bands"
+      ],
+      "dimensions": [
+        {
+          "label": "Lamp power",
+          "value": 60.0,
+          "value_max": null,
+          "unit": "W",
+          "context": "Example of a multiple light fitting: five lamps, each at 60 W.",
+          "status": "uncertain",
+          "ocr_raw": "multiple light fitting stating no. lamps and power, e.g. five lamps at 60 W"
+        },
+        {
+          "label": "Lamp power",
+          "value": 36.0,
+          "value_max": null,
+          "unit": "W",
+          "context": "Example light band with three lamps at 36 W.",
+          "status": "uncertain",
+          "ocr_raw": "light band, e.g. three lamps at 36 W"
+        },
+        {
+          "label": "Lamp power",
+          "value": 58.0,
+          "value_max": null,
+          "unit": "W",
+          "context": "Example light band with two lamps at 2 × 58 W.",
+          "status": "uncertain",
+          "ocr_raw": "light band, e.g. two lamps at 2 x 58 W"
+        }
+      ],
+      "figure_refs": [],
+      "cross_refs": [
+        "BS EN 50110",
+        "DIN 18015"
+      ],
+      "keywords": [
+        "lighting",
+        "light fittings",
+        "lamp wattage",
+        "drawing symbols"
+      ],
+      "tags_architectural": [],
+      "confidence": 0.96
+    },
+    {
+      "id": "4122fb96e4bd1976-27-vision-2",
+      "pdf_page": 27,
+      "book_page": 14,
+      "chapter": "BASICS",
+      "section": "Drawings",
+      "title": "Signal and Radio Devices",
+      "summary": "Legend of symbols for detection, fire and security alarms, communications, clocks, sound equipment, and related controls. Some symbols specify electrical current or signal frequency.",
+      "building_type": "Electrical and communications installation reference",
+      "spaces": [],
+      "uses": [
+        "Represent signal, alarm, radio, telephone, and communications devices on drawings"
+      ],
+      "furniture_equipment": [
+        "Motion detector",
+        "Vibration detector",
+        "Light-beam detector",
+        "Fire alarms",
+        "Police alarm",
+        "Security systems",
+        "Telephone exchange",
+        "Intercoms",
+        "Entry phone",
+        "Microphone",
+        "Earpiece",
+        "Sound recorder",
+        "Sound pick-up",
+        "Magnetic tape recorder",
+        "Loudspeaker",
+        "Radio",
+        "Television",
+        "Clocks",
+        "Buzzer",
+        "Siren"
+      ],
+      "dimensions": [
+        {
+          "label": "Fuse current",
+          "value": 10.0,
+          "value_max": null,
+          "unit": "A",
+          "context": "Example meter panel with a fuse.",
+          "status": "uncertain",
+          "ocr_raw": "meter panel, e.g. with a fuse 10 A"
+        },
+        {
+          "label": "Siren frequency",
+          "value": 140.0,
+          "value_max": null,
+          "unit": "Hz",
+          "context": "Example frequency stated for a siren.",
+          "status": "uncertain",
+          "ocr_raw": "siren stating frequency, e.g. 140 Hz"
+        },
+        {
+          "label": "Wailing-tone frequency",
+          "value": 150.0,
+          "value_max": 270.0,
+          "unit": "Hz",
+          "context": "Example siren tone varying between 150 and 270 Hz.",
+          "status": "uncertain",
+          "ocr_raw": "siren with wailing tone, e.g. varying between 150 and 270 Hz"
+        }
+      ],
+      "figure_refs": [],
+      "cross_refs": [
+        "BS EN 50110",
+        "DIN 18015"
+      ],
+      "keywords": [
+        "signal devices",
+        "radio devices",
+        "alarm systems",
+        "communications",
+        "drawing symbols"
+      ],
+      "tags_architectural": [],
+      "confidence": 0.95
+    }
+  ]
+}

@@ -1,0 +1,319 @@
+{
+  "model": "gpt-6-luna",
+  "checks": {
+    "checks": [
+      {
+        "ficha_index": 0,
+        "dimension_index": 0,
+        "status": "verified",
+        "value": null,
+        "value_max": null,
+        "reason": "The text explicitly prints the parking-space width as 2.50 m."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 1,
+        "status": "verified",
+        "value": null,
+        "value_max": null,
+        "reason": "The text explicitly prints the parking-space length as 5.00 m."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 2,
+        "status": "verified",
+        "value": null,
+        "value_max": null,
+        "reason": "The text explicitly prints the parking-space area as 12.50 m\u00b2."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 3,
+        "status": "verified",
+        "value": null,
+        "value_max": null,
+        "reason": "The text explicitly prints the car turning circle as 12.50 m."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 4,
+        "status": "verified",
+        "value": null,
+        "value_max": null,
+        "reason": "The text explicitly prints the HGV turning circle as 26.00 m."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 5,
+        "status": "verified",
+        "value": null,
+        "value_max": null,
+        "reason": "The text explicitly prints the car vehicle width as 1.85 m."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 6,
+        "status": "verified",
+        "value": null,
+        "value_max": null,
+        "reason": "The text explicitly prints the HGV vehicle width as 2.50 m."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 7,
+        "status": "verified",
+        "value": null,
+        "value_max": null,
+        "reason": "The text explicitly prints the car vehicle length as 5.00 m."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 8,
+        "status": "verified",
+        "value": null,
+        "value_max": null,
+        "reason": "The text explicitly prints the HGV length with trailer as 18.00 m."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 9,
+        "status": "verified",
+        "value": null,
+        "value_max": null,
+        "reason": "The text explicitly prints the surfaced-area extent as petrol hose length + 1 m."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 10,
+        "status": "verified",
+        "value": null,
+        "value_max": null,
+        "reason": "The text explicitly prints at least 20 cm spacing for pump impact protection."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 11,
+        "status": "verified",
+        "value": null,
+        "value_max": null,
+        "reason": "The text explicitly prints 12 cm height for pump impact protection."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 12,
+        "status": "uncertain",
+        "value": null,
+        "value_max": null,
+        "reason": "5.65 is visible in the pump-island drawings, but the figure does not explicitly state a unit."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 13,
+        "status": "uncertain",
+        "value": null,
+        "value_max": null,
+        "reason": "3.62 is visible in the pump-island drawings, but the figure does not explicitly state a unit."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 14,
+        "status": "uncertain",
+        "value": null,
+        "value_max": null,
+        "reason": "10.00 is visible in the island-layout drawing, but the figure does not explicitly state a unit."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 15,
+        "status": "uncertain",
+        "value": null,
+        "value_max": null,
+        "reason": "(8.50) is visible in the pump-island drawing, but the figure does not explicitly state a unit."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 16,
+        "status": "uncertain",
+        "value": null,
+        "value_max": null,
+        "reason": "7.50 is visible in the long-island drawing, but the figure does not explicitly state a unit."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 17,
+        "status": "uncertain",
+        "value": null,
+        "value_max": null,
+        "reason": "The proposed 11.2 label cannot be confidently matched to a clearly readable figure dimension and unit."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 18,
+        "status": "uncertain",
+        "value": null,
+        "value_max": null,
+        "reason": "5.0 is visible in the service-point drawing, but the figure does not explicitly state a unit."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 19,
+        "status": "uncertain",
+        "value": null,
+        "value_max": null,
+        "reason": "3.7 is visible in the service-point drawing, but the figure does not explicitly state a unit."
+      }
+    ]
+  },
+  "automatic": [
+    {
+      "ficha_index": 0,
+      "dimension_index": 0,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 1,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 2,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 3,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 4,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 5,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 6,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 7,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 8,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 9,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 10,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 11,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 12,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 13,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 14,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 15,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 16,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 17,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 18,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 19,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    }
+  ],
+  "usage": [
+    {
+      "prompt_tokens": 4707,
+      "completion_tokens": 1598
+    },
+    {
+      "prompt_tokens": 5049,
+      "completion_tokens": 1074
+    }
+  ]
+}

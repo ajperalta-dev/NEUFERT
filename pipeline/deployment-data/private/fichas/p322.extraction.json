@@ -1,0 +1,436 @@
+{
+  "fichas": [
+    {
+      "id": "4122fb96e4bd1976-322-vision-0",
+      "pdf_page": 322,
+      "book_page": 309,
+      "chapter": "HEALTH",
+      "section": "Hospitals",
+      "title": "Intensive care medicine",
+      "summary": "Intensive care is intended for patients with significant disturbance of vital bodily functions. The text emphasizes short routes to surgery and anaesthesia, separation from general care through controlled lobbies, visibility from an open nurses’ station, and connections for oxygen, compressed air and vacuum at every bed. Bed layouts may be open, closed or combined.",
+      "building_type": "Hospital intensive care unit",
+      "spaces": [
+        "Intensive care rooms",
+        "Open nurses’ station",
+        "Duty station",
+        "Clean workroom",
+        "Materials and equipment room",
+        "Anaesthesia preparation room",
+        "Clean material room",
+        "Dirty workroom",
+        "Cleaning room",
+        "Relatives’ waiting room",
+        "Doctors’ on-call lounge",
+        "Documentation room",
+        "Consulting room"
+      ],
+      "uses": [
+        "Intensive patient care and monitoring",
+        "Medication and infusion preparation",
+        "Staff work and documentation",
+        "Patient and visitor circulation"
+      ],
+      "furniture_equipment": [
+        "Patient beds",
+        "Oxygen connections",
+        "Compressed-air connections",
+        "Vacuum connections",
+        "Half-height partitions with glazed window elements"
+      ],
+      "dimensions": [],
+      "figure_refs": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "cross_refs": [],
+      "keywords": [
+        "intensive care",
+        "hospital ward",
+        "nurses’ station",
+        "patient monitoring",
+        "medical gases",
+        "controlled access"
+      ],
+      "tags_architectural": [
+        "circulation",
+        "safety",
+        "daylighting"
+      ],
+      "confidence": 0.97
+    },
+    {
+      "id": "4122fb96e4bd1976-322-vision-1",
+      "pdf_page": 322,
+      "book_page": 309,
+      "chapter": "HEALTH",
+      "section": "Hospitals",
+      "title": "Intensive care room: single bed with supply panel",
+      "summary": "A single-bed intensive care room is shown with a supply panel. The drawing includes a plan dimension and a section reference.",
+      "building_type": "Hospital intensive care room",
+      "spaces": [
+        "Single-bed intensive care room"
+      ],
+      "uses": [
+        "Intensive patient care"
+      ],
+      "furniture_equipment": [
+        "Patient bed",
+        "Supply panel"
+      ],
+      "dimensions": [
+        {
+          "label": "Room dimension shown in plan",
+          "value": 3.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Single-bed intensive care room plan",
+          "status": "uncertain",
+          "ocr_raw": "3.00"
+        }
+      ],
+      "figure_refs": [
+        "1",
+        "2"
+      ],
+      "cross_refs": [
+        "Section → 1"
+      ],
+      "keywords": [
+        "single bed",
+        "intensive care room",
+        "supply panel"
+      ],
+      "tags_architectural": [
+        "ergonomics",
+        "clearance"
+      ],
+      "confidence": 0.89
+    },
+    {
+      "id": "4122fb96e4bd1976-322-vision-2",
+      "pdf_page": 322,
+      "book_page": 309,
+      "chapter": "HEALTH",
+      "section": "Hospitals",
+      "title": "Intensive care rooms at Heinrich Heine University, Düsseldorf",
+      "summary": "The drawing shows two single bedrooms, each labelled 20 m², arranged around a working corridor and support point. The beds are visually separated, with clinical equipment arranged around each patient space.",
+      "building_type": "Hospital intensive care unit",
+      "spaces": [
+        "Two single bedrooms",
+        "Working corridor",
+        "Support point"
+      ],
+      "uses": [
+        "Intensive patient care",
+        "Staff circulation and clinical support"
+      ],
+      "furniture_equipment": [
+        "Patient beds",
+        "Clinical equipment"
+      ],
+      "dimensions": [
+        {
+          "label": "Area of each single bedroom",
+          "value": 20.0,
+          "value_max": null,
+          "unit": "m²",
+          "context": "Each of the two rooms is labelled as a single bedroom",
+          "status": "uncertain",
+          "ocr_raw": "Single bedroom 20 m²"
+        }
+      ],
+      "figure_refs": [
+        "3"
+      ],
+      "cross_refs": [],
+      "keywords": [
+        "Düsseldorf",
+        "single bedroom",
+        "working corridor",
+        "support point"
+      ],
+      "tags_architectural": [
+        "circulation",
+        "clearance"
+      ],
+      "confidence": 0.92
+    },
+    {
+      "id": "4122fb96e4bd1976-322-vision-3",
+      "pdf_page": 322,
+      "book_page": 309,
+      "chapter": "HEALTH",
+      "section": "Hospitals",
+      "title": "Intensive care ward, Luckenwalde Hospital",
+      "summary": "A plan of a 10-bed intensive care ward includes clean and unclean workrooms, disposal, and a bed vestibule for visitors and supplies. The accompanying text describes the need for clean and dirty work areas and support spaces in an intensive care unit.",
+      "building_type": "Hospital intensive care ward",
+      "spaces": [
+        "Patient bedrooms",
+        "Clean workroom",
+        "Unclean workroom",
+        "Disposal room",
+        "Bed vestibule for visitors and supplies",
+        "Doctor workroom",
+        "Staff tea kitchen",
+        "Changing rooms"
+      ],
+      "uses": [
+        "Intensive patient care",
+        "Clean preparation work",
+        "Unclean work and disposal",
+        "Visitor and supply access"
+      ],
+      "furniture_equipment": [
+        "Patient beds"
+      ],
+      "dimensions": [],
+      "figure_refs": [
+        "4"
+      ],
+      "cross_refs": [],
+      "keywords": [
+        "Luckenwalde Hospital",
+        "10 beds",
+        "clean workroom",
+        "unclean workroom",
+        "bed vestibule"
+      ],
+      "tags_architectural": [
+        "circulation",
+        "safety"
+      ],
+      "confidence": 0.91
+    },
+    {
+      "id": "4122fb96e4bd1976-322-vision-4",
+      "pdf_page": 322,
+      "book_page": 309,
+      "chapter": "HEALTH",
+      "section": "Hospitals",
+      "title": "Intensive care ward, Helios Clinic, Gotha",
+      "summary": "The ward plan identifies patient rooms, treatment and staff spaces, support rooms, changing rooms, disposal, electrical and service rooms, and circulation corridors. Dimension strings are printed around the plan; their units are not stated in the supplied text.",
+      "building_type": "Hospital intensive care ward",
+      "spaces": [
+        "1-bed rooms",
+        "2-bed rooms",
+        "Treatment room",
+        "Staff lounge",
+        "Equipment room",
+        "Service room",
+        "Care workroom, unclean",
+        "Tea kitchen",
+        "Workroom",
+        "Workplace",
+        "Disposal room",
+        "Electrical room",
+        "Changing rooms",
+        "Rebedding vestibule",
+        "Cleaner’s room",
+        "Shafts",
+        "Corridors"
+      ],
+      "uses": [
+        "Intensive patient care",
+        "Treatment",
+        "Staff work and support",
+        "Patient, staff and service circulation"
+      ],
+      "furniture_equipment": [
+        "Patient beds",
+        "Treatment and work equipment"
+      ],
+      "dimensions": [
+        {
+          "label": "Plan dimension",
+          "value": 4.65,
+          "value_max": null,
+          "unit": "as printed",
+          "context": "Upper dimension string of the Helios Clinic ward plan",
+          "status": "uncertain",
+          "ocr_raw": "4.65"
+        },
+        {
+          "label": "Plan dimension",
+          "value": 4.6,
+          "value_max": null,
+          "unit": "as printed",
+          "context": "Upper dimension string of the Helios Clinic ward plan",
+          "status": "uncertain",
+          "ocr_raw": "4.60"
+        },
+        {
+          "label": "Plan dimension",
+          "value": 4.05,
+          "value_max": null,
+          "unit": "as printed",
+          "context": "Upper dimension string of the Helios Clinic ward plan",
+          "status": "uncertain",
+          "ocr_raw": "4.05"
+        },
+        {
+          "label": "Plan dimension",
+          "value": 5.25,
+          "value_max": null,
+          "unit": "as printed",
+          "context": "Upper dimension string of the Helios Clinic ward plan",
+          "status": "uncertain",
+          "ocr_raw": "5.25"
+        },
+        {
+          "label": "Plan dimension",
+          "value": 2.5,
+          "value_max": null,
+          "unit": "as printed",
+          "context": "Upper dimension string of the Helios Clinic ward plan",
+          "status": "uncertain",
+          "ocr_raw": "2.50"
+        },
+        {
+          "label": "Plan dimension",
+          "value": 3.4,
+          "value_max": null,
+          "unit": "as printed",
+          "context": "Upper dimension string of the Helios Clinic ward plan",
+          "status": "uncertain",
+          "ocr_raw": "3.40"
+        },
+        {
+          "label": "Plan dimension",
+          "value": 3.4,
+          "value_max": null,
+          "unit": "as printed",
+          "context": "Upper dimension string of the Helios Clinic ward plan",
+          "status": "uncertain",
+          "ocr_raw": "3.40"
+        },
+        {
+          "label": "Plan dimension",
+          "value": 2.78,
+          "value_max": null,
+          "unit": "as printed",
+          "context": "Upper dimension string of the Helios Clinic ward plan",
+          "status": "uncertain",
+          "ocr_raw": "2.78"
+        },
+        {
+          "label": "Plan dimension",
+          "value": 3.28,
+          "value_max": null,
+          "unit": "as printed",
+          "context": "Vertical dimension string at left of the Helios Clinic ward plan",
+          "status": "uncertain",
+          "ocr_raw": "3.28"
+        },
+        {
+          "label": "Plan dimension",
+          "value": 1.37,
+          "value_max": null,
+          "unit": "as printed",
+          "context": "Vertical dimension string at left of the Helios Clinic ward plan",
+          "status": "uncertain",
+          "ocr_raw": "1.37"
+        },
+        {
+          "label": "Plan dimension",
+          "value": 2.5,
+          "value_max": null,
+          "unit": "as printed",
+          "context": "Vertical dimension string at left of the Helios Clinic ward plan",
+          "status": "uncertain",
+          "ocr_raw": "2.50"
+        },
+        {
+          "label": "Plan dimension",
+          "value": 4.65,
+          "value_max": null,
+          "unit": "as printed",
+          "context": "Vertical dimension string at left of the Helios Clinic ward plan",
+          "status": "uncertain",
+          "ocr_raw": "4.65"
+        },
+        {
+          "label": "Plan dimension",
+          "value": 7.0,
+          "value_max": null,
+          "unit": "as printed",
+          "context": "Vertical dimension string at left of the Helios Clinic ward plan",
+          "status": "uncertain",
+          "ocr_raw": "7.00"
+        },
+        {
+          "label": "Plan dimension",
+          "value": 4.6,
+          "value_max": null,
+          "unit": "as printed",
+          "context": "Lower dimension string of the Helios Clinic ward plan",
+          "status": "uncertain",
+          "ocr_raw": "4.60"
+        },
+        {
+          "label": "Plan dimension",
+          "value": 4.6,
+          "value_max": null,
+          "unit": "as printed",
+          "context": "Lower dimension string of the Helios Clinic ward plan",
+          "status": "uncertain",
+          "ocr_raw": "4.60"
+        },
+        {
+          "label": "Plan dimension",
+          "value": 4.05,
+          "value_max": null,
+          "unit": "as printed",
+          "context": "Lower dimension string of the Helios Clinic ward plan",
+          "status": "uncertain",
+          "ocr_raw": "4.05"
+        },
+        {
+          "label": "Plan dimension",
+          "value": 4.05,
+          "value_max": null,
+          "unit": "as printed",
+          "context": "Lower dimension string of the Helios Clinic ward plan",
+          "status": "uncertain",
+          "ocr_raw": "4.05"
+        },
+        {
+          "label": "Plan dimension",
+          "value": 1.65,
+          "value_max": null,
+          "unit": "as printed",
+          "context": "Lower dimension string of the Helios Clinic ward plan",
+          "status": "uncertain",
+          "ocr_raw": "1.65"
+        },
+        {
+          "label": "Plan dimension",
+          "value": 1.9,
+          "value_max": null,
+          "unit": "as printed",
+          "context": "Lower dimension string of the Helios Clinic ward plan",
+          "status": "uncertain",
+          "ocr_raw": "1.90"
+        }
+      ],
+      "figure_refs": [
+        "3"
+      ],
+      "cross_refs": [],
+      "keywords": [
+        "Helios Clinic",
+        "Gotha",
+        "intensive care",
+        "ward plan",
+        "patient rooms"
+      ],
+      "tags_architectural": [
+        "circulation",
+        "clearance",
+        "adaptability"
+      ],
+      "confidence": 0.84
+    }
+  ]
+}

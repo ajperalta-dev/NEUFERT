@@ -1,0 +1,235 @@
+{
+  "fichas": [
+    {
+      "id": "4122fb96e4bd1976-541-vision-0",
+      "pdf_page": 541,
+      "book_page": 528,
+      "chapter": "BUILDING SERVICES",
+      "section": "Domestic Installation",
+      "title": "Natural and Free Ventilation",
+      "summary": "Overview of natural ventilation through windows, shafts, roof ventilators, and other openings. The page compares winter and summer window airflow, describes four free-ventilation systems and workplace room groups, and gives room-depth, opening-area, and airflow recommendations. Ventilation depends on wind and thermal effects as well as building location, room depth, noise, and building structure.",
+      "building_type": "Workrooms and buildings using natural ventilation",
+      "spaces": [
+        "Workrooms",
+        "Rooms ventilated through windows, shafts, roof ventilators, or other openings"
+      ],
+      "uses": [
+        "Natural ventilation",
+        "Free ventilation",
+        "Cross-ventilation",
+        "Workroom ventilation"
+      ],
+      "furniture_equipment": [
+        "Windows",
+        "Ventilation shafts",
+        "Roof ventilators",
+        "Domes",
+        "Deflectors",
+        "Adjustable shutters"
+      ],
+      "dimensions": [
+        {
+          "label": "Minimum ventilation-shaft cross-section",
+          "value": 80.0,
+          "value_max": null,
+          "unit": "cm²",
+          "context": "System III; minimum cross-section of the opposing shaft",
+          "status": "uncertain",
+          "ocr_raw": "The shaft must have a cross-section of min. 80 cm²"
+        },
+        {
+          "label": "Ventilation-shaft height",
+          "value": 4.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "System III; shaft height",
+          "status": "uncertain",
+          "ocr_raw": "and 4 m height"
+        },
+        {
+          "label": "Shaft height inside the building",
+          "value": 3.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "System III; portion of the shaft inside the building",
+          "status": "uncertain",
+          "ocr_raw": "of which 3 m is inside the building"
+        },
+        {
+          "label": "Reference floor area per worker",
+          "value": 6.0,
+          "value_max": null,
+          "unit": "m²/worker",
+          "context": "Reference area for the four free-ventilation systems",
+          "status": "uncertain",
+          "ocr_raw": "The systems apply for a reference area of 6 m²/worker."
+        },
+        {
+          "label": "Clear room height, Systems I–III",
+          "value": 4.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Table gives clear room height up to this value",
+          "status": "uncertain",
+          "ocr_raw": "up to 4 m"
+        },
+        {
+          "label": "Clear room height, System IV",
+          "value": 4.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Table specifies clear room height over this value",
+          "status": "uncertain",
+          "ocr_raw": "over 4 m"
+        },
+        {
+          "label": "Maximum room-depth factor, System I",
+          "value": 2.5,
+          "value_max": null,
+          "unit": "ratio",
+          "context": "Maximum room depth is 2.5 × clear room height (H)",
+          "status": "uncertain",
+          "ocr_raw": "2.5 × H"
+        },
+        {
+          "label": "Maximum room-depth factor, Systems II–IV",
+          "value": 5.0,
+          "value_max": null,
+          "unit": "ratio",
+          "context": "Maximum room depth is 5.0 × clear room height (H)",
+          "status": "uncertain",
+          "ocr_raw": "5.0 × H"
+        },
+        {
+          "label": "Air supply and exit openings, System I",
+          "value": 200.0,
+          "value_max": null,
+          "unit": "cm²/m² floor area",
+          "context": "Free-ventilation opening area per square metre of floor area",
+          "status": "uncertain",
+          "ocr_raw": "200"
+        },
+        {
+          "label": "Air supply and exit openings, System II",
+          "value": 120.0,
+          "value_max": null,
+          "unit": "cm²/m² floor area",
+          "context": "Free-ventilation opening area per square metre of floor area",
+          "status": "uncertain",
+          "ocr_raw": "120"
+        },
+        {
+          "label": "Air supply and exit openings, System III",
+          "value": 80.0,
+          "value_max": null,
+          "unit": "cm²/m² floor area",
+          "context": "Free-ventilation opening area per square metre of floor area",
+          "status": "uncertain",
+          "ocr_raw": "80"
+        },
+        {
+          "label": "Air supply and exit openings, System IV",
+          "value": 80.0,
+          "value_max": null,
+          "unit": "cm²/m² floor area",
+          "context": "Free-ventilation opening area per square metre of floor area",
+          "status": "uncertain",
+          "ocr_raw": "80"
+        },
+        {
+          "label": "Outside-air flow for predominantly sedentary activities",
+          "value": 20.0,
+          "value_max": 40.0,
+          "unit": "m³/h per person",
+          "context": "Recommended outside-air flow range",
+          "status": "uncertain",
+          "ocr_raw": "20–40 m³/h × no. people"
+        },
+        {
+          "label": "Outside-air flow for predominantly standing activities",
+          "value": 40.0,
+          "value_max": 60.0,
+          "unit": "m³/h per person",
+          "context": "Recommended outside-air flow range",
+          "status": "uncertain",
+          "ocr_raw": "40–60 m³/h × no. people"
+        },
+        {
+          "label": "Outside-air flow for heavy physical work",
+          "value": 65.0,
+          "value_max": null,
+          "unit": "m³/h per person",
+          "context": "Recommended outside-air flow",
+          "status": "uncertain",
+          "ocr_raw": "65 m³/h × no. people"
+        },
+        {
+          "label": "Recommended relative humidity at 20°C",
+          "value": 80.0,
+          "value_max": null,
+          "unit": "%",
+          "context": "Recommended relative humidity according to air temperature",
+          "status": "uncertain",
+          "ocr_raw": "20 80"
+        },
+        {
+          "label": "Recommended relative humidity at 22°C",
+          "value": 70.0,
+          "value_max": null,
+          "unit": "%",
+          "context": "Recommended relative humidity according to air temperature",
+          "status": "uncertain",
+          "ocr_raw": "22 70"
+        },
+        {
+          "label": "Recommended relative humidity at 24°C",
+          "value": 62.0,
+          "value_max": null,
+          "unit": "%",
+          "context": "Recommended relative humidity according to air temperature",
+          "status": "uncertain",
+          "ocr_raw": "24 62"
+        },
+        {
+          "label": "Recommended relative humidity at 26°C",
+          "value": 55.0,
+          "value_max": null,
+          "unit": "%",
+          "context": "Recommended relative humidity according to air temperature",
+          "status": "uncertain",
+          "ocr_raw": "26 55"
+        }
+      ],
+      "figure_refs": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "cross_refs": [
+        "→ 1",
+        "→ 2",
+        "→ 3",
+        "→ 4"
+      ],
+      "keywords": [
+        "natural ventilation",
+        "free ventilation",
+        "window ventilation",
+        "cross-ventilation",
+        "ventilation shaft",
+        "roof ventilation",
+        "air quality",
+        "room groups",
+        "workplace ventilation"
+      ],
+      "tags_architectural": [
+        "ventilation",
+        "clearance",
+        "spatial_proportion"
+      ],
+      "confidence": 0.94
+    }
+  ]
+}

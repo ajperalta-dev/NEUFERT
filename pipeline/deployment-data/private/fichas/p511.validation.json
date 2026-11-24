@@ -1,0 +1,409 @@
+{
+  "model": "gpt-6-luna",
+  "checks": {
+    "checks": [
+      {
+        "ficha_index": 0,
+        "dimension_index": 0,
+        "status": "verified",
+        "value": 1.33,
+        "value_max": null,
+        "reason": "The table visibly prints coarse work as 1.33 D%."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 1,
+        "status": "verified",
+        "value": 2.66,
+        "value_max": null,
+        "reason": "The table visibly prints medium work as 2.66 D%."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 2,
+        "status": "verified",
+        "value": 5.0,
+        "value_max": null,
+        "reason": "The table visibly prints fine work as 5.00 D%."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 3,
+        "status": "verified",
+        "value": 10.0,
+        "value_max": null,
+        "reason": "The table visibly prints very fine work as 10.00 D%; its note also refers to 10%."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 4,
+        "status": "corrected",
+        "value": 0.1666666667,
+        "value_max": null,
+        "reason": "The drawing prints Dmin/Dmax as 1:6 for window lighting; normalized to the equivalent ratio."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 5,
+        "status": "corrected",
+        "value": 0.5,
+        "value_max": null,
+        "reason": "The drawing prints the lighting-from-above threshold as 1:2; normalized to the equivalent ratio."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 6,
+        "status": "verified",
+        "value": 3.0,
+        "value_max": null,
+        "reason": "The text says light density at the zenith is three times greater than at the horizon."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 7,
+        "status": "corrected",
+        "value": 0.1666666667,
+        "value_max": null,
+        "reason": "Figure 7 prints window area/plan area as 1:6; normalized to the equivalent ratio."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 8,
+        "status": "verified",
+        "value": 5.0,
+        "value_max": null,
+        "reason": "Figure 7 visibly states Dmin = 5% of the necessary kF value."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 9,
+        "status": "verified",
+        "value": 0.1,
+        "value_max": 0.5,
+        "reason": "The colour table prints red as 0.1\u20130.5."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 10,
+        "status": "verified",
+        "value": 0.25,
+        "value_max": 0.65,
+        "reason": "The colour table prints yellow as 0.25\u20130.65."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 11,
+        "status": "verified",
+        "value": 0.15,
+        "value_max": 0.55,
+        "reason": "The colour table prints green as 0.15\u20130.55."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 12,
+        "status": "verified",
+        "value": 0.1,
+        "value_max": 0.3,
+        "reason": "The colour table prints blue as 0.1\u20130.3."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 13,
+        "status": "verified",
+        "value": 0.1,
+        "value_max": 0.4,
+        "reason": "The colour table prints brown as 0.1\u20130.4."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 14,
+        "status": "verified",
+        "value": 0.7,
+        "value_max": 0.75,
+        "reason": "The colour table prints white as 0.7\u20130.75."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 15,
+        "status": "verified",
+        "value": 0.15,
+        "value_max": 0.6,
+        "reason": "The colour table prints grey as 0.15\u20130.6."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 16,
+        "status": "verified",
+        "value": 0.05,
+        "value_max": 0.1,
+        "reason": "The colour table prints black as 0.05\u20130.1."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 17,
+        "status": "verified",
+        "value": 0.25,
+        "value_max": 0.5,
+        "reason": "The materials table prints smooth concrete as 0.25\u20130.5."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 18,
+        "status": "verified",
+        "value": 0.15,
+        "value_max": 0.3,
+        "reason": "The materials table prints red brick as 0.15\u20130.3."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 19,
+        "status": "verified",
+        "value": 0.5,
+        "value_max": 0.6,
+        "reason": "The materials table prints lime sandstone as 0.5\u20130.6."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 20,
+        "status": "verified",
+        "value": 0.1,
+        "value_max": 0.2,
+        "reason": "The materials table prints dark surfaces as 0.1\u20130.2."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 21,
+        "status": "verified",
+        "value": 0.2,
+        "value_max": 0.4,
+        "reason": "The materials table prints medium surfaces as 0.2\u20130.4."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 22,
+        "status": "verified",
+        "value": 0.4,
+        "value_max": 0.5,
+        "reason": "The materials table prints bright surfaces as 0.4\u20130.5."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 23,
+        "status": "verified",
+        "value": 0.1,
+        "value_max": 0.15,
+        "reason": "The floor-coverings table prints dark as 0.1\u20130.15."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 24,
+        "status": "verified",
+        "value": 0.15,
+        "value_max": 0.25,
+        "reason": "The floor-coverings table prints medium as 0.15\u20130.25."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 25,
+        "status": "verified",
+        "value": 0.25,
+        "value_max": 0.4,
+        "reason": "The floor-coverings table prints bright as 0.25\u20130.4."
+      }
+    ]
+  },
+  "automatic": [
+    {
+      "ficha_index": 0,
+      "dimension_index": 0,
+      "issues": [
+        "Unknown unit"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 1,
+      "issues": [
+        "Unknown unit"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 2,
+      "issues": [
+        "Unknown unit"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 3,
+      "issues": [
+        "Unknown unit"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 4,
+      "issues": [
+        "Unknown unit"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 5,
+      "issues": [
+        "Unknown unit"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 6,
+      "issues": [
+        "Unknown unit"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 7,
+      "issues": [
+        "Unknown unit"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 8,
+      "issues": [
+        "Unknown unit"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 9,
+      "issues": [
+        "Unknown unit"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 10,
+      "issues": [
+        "Unknown unit"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 11,
+      "issues": [
+        "Unknown unit"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 12,
+      "issues": [
+        "Unknown unit"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 13,
+      "issues": [
+        "Unknown unit"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 14,
+      "issues": [
+        "Unknown unit"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 15,
+      "issues": [
+        "Unknown unit"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 16,
+      "issues": [
+        "Unknown unit"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 17,
+      "issues": [
+        "Unknown unit"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 18,
+      "issues": [
+        "Unknown unit"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 19,
+      "issues": [
+        "Unknown unit"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 20,
+      "issues": [
+        "Unknown unit"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 21,
+      "issues": [
+        "Unknown unit"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 22,
+      "issues": [
+        "Unknown unit"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 23,
+      "issues": [
+        "Unknown unit"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 24,
+      "issues": [
+        "Unknown unit"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 25,
+      "issues": [
+        "Unknown unit"
+      ]
+    }
+  ],
+  "usage": [
+    {
+      "prompt_tokens": 4978,
+      "completion_tokens": 2164
+    },
+    {
+      "prompt_tokens": 5659,
+      "completion_tokens": 1583
+    }
+  ]
+}

@@ -1,0 +1,388 @@
+{
+  "fichas": [
+    {
+      "id": "4122fb96e4bd1976-35-vision-0",
+      "pdf_page": 35,
+      "book_page": 22,
+      "chapter": "BASICS",
+      "section": "Accessible Building",
+      "title": "Accessible movement areas",
+      "summary": "Movement areas for wheelchair users are specified for turning, routes, approaches to facilities and equipment, door operation, and other public-building situations.",
+      "building_type": "Accessible public buildings",
+      "spaces": [
+        "Rooms",
+        "Ramps",
+        "Corridors",
+        "Main routes",
+        "Approaches to facilities and equipment",
+        "Access ways"
+      ],
+      "uses": [
+        "Turning",
+        "Passing and circulation",
+        "Approaching facilities and operated equipment"
+      ],
+      "furniture_equipment": [
+        "Telephone boxes and public telephones",
+        "Service counters",
+        "Pay desks and checkpoints",
+        "Post boxes",
+        "Automatic service machines",
+        "Calling/speaking equipment"
+      ],
+      "dimensions": [
+        {
+          "label": "Movement area width and depth",
+          "value": 1.5,
+          "value_max": null,
+          "unit": "m",
+          "context": "Minimum width and depth for turning areas, at ramp ends, and in front of listed equipment and service points.",
+          "status": "verified",
+          "ocr_raw": "min. 1.50 m wide and min. 1.50 m deep ..."
+        },
+        {
+          "label": "Movement area width",
+          "value": 1.5,
+          "value_max": null,
+          "unit": "m",
+          "context": "Minimum width in corridors, main routes, and next to stairs going up and down.",
+          "status": "verified",
+          "ocr_raw": "min. 1.50 m wide ..."
+        },
+        {
+          "label": "Movement area depth",
+          "value": 1.5,
+          "value_max": null,
+          "unit": "m",
+          "context": "Minimum depth in front of therapy facilities and wheelchair parking places, and next to the long side of a wheelchair user's vehicle in car parks.",
+          "status": "verified",
+          "ocr_raw": "min. 1.50 m deep ..."
+        },
+        {
+          "label": "Movement area width",
+          "value": 1.2,
+          "value_max": null,
+          "unit": "m",
+          "context": "Minimum width alongside facilities approached from the side, between ramp wheel kerbs, and next to operated equipment.",
+          "status": "verified",
+          "ocr_raw": "min. 1.20 m wide ..."
+        },
+        {
+          "label": "Movement area width",
+          "value": 0.9,
+          "value_max": null,
+          "unit": "m",
+          "context": "Minimum width in access ways next to cash desks and checkpoints and on side routes.",
+          "status": "verified",
+          "ocr_raw": "min. 0.90 m wide ..."
+        }
+      ],
+      "figure_refs": [
+        "Figures 1 and 2: movement areas in front of hand-operated doors",
+        "Figure 3: ramp",
+        "Figure 9: movement area next to operated facility"
+      ],
+      "cross_refs": [
+        "see also: Lifts 128-134",
+        "car parks → p. 23 ⑩"
+      ],
+      "keywords": [
+        "wheelchair access",
+        "movement area",
+        "turning space",
+        "public buildings"
+      ],
+      "tags_architectural": [
+        "accessibility",
+        "circulation",
+        "clearance",
+        "ergonomics"
+      ],
+      "confidence": 0.97
+    },
+    {
+      "id": "4122fb96e4bd1976-35-vision-1",
+      "pdf_page": 35,
+      "book_page": 22,
+      "chapter": "BASICS",
+      "section": "Accessible Building",
+      "title": "Accessible routes, lifts, ramps, and stairs",
+      "summary": "Accessible buildings must connect all levels without steps, using a lift or ramp. The page specifies lift-car clear dimensions, ramp slopes and fittings, and movement areas next to stairs.",
+      "building_type": "Accessible public buildings",
+      "spaces": [
+        "Building levels",
+        "Lift cars",
+        "Areas in front of lift doors",
+        "Ramps",
+        "Ramp landings",
+        "Stairs"
+      ],
+      "uses": [
+        "Step-free access between levels",
+        "Vertical circulation",
+        "Wheelchair movement on ramps and at stairs"
+      ],
+      "furniture_equipment": [
+        "Lifts",
+        "Ramps",
+        "Wheel kerbs",
+        "Handrails"
+      ],
+      "dimensions": [
+        {
+          "label": "Lift-car clear width",
+          "value": 1.1,
+          "value_max": null,
+          "unit": "m",
+          "context": "Minimum clear width of the lift car.",
+          "status": "verified",
+          "ocr_raw": "min. clear width of 1.10 m"
+        },
+        {
+          "label": "Lift-car clear depth",
+          "value": 1.4,
+          "value_max": null,
+          "unit": "m",
+          "context": "Clear depth of the lift car.",
+          "status": "verified",
+          "ocr_raw": "a clear\ndepth of 1.40 m"
+        },
+        {
+          "label": "Movement area in front of lift doors",
+          "value": 1.5,
+          "value_max": null,
+          "unit": "m",
+          "context": "Minimum width and minimum depth; the area must be as large as the lift-car floor area and must not overlap other traffic routes or movement areas.",
+          "status": "verified",
+          "ocr_raw": "min. 1.50 m wide and\n1.50 m deep"
+        },
+        {
+          "label": "Maximum ramp slope",
+          "value": 6.0,
+          "value_max": null,
+          "unit": "%",
+          "context": "Maximum slope permitted for ramps.",
+          "status": "verified",
+          "ocr_raw": "May have a maximum slope of 6%"
+        },
+        {
+          "label": "Ramp length threshold",
+          "value": 6.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "An intermediate landing is required when a ramp is longer than this length.",
+          "status": "verified",
+          "ocr_raw": "If ramps are longer than\n6 m"
+        },
+        {
+          "label": "Intermediate landing length",
+          "value": 1.5,
+          "value_max": null,
+          "unit": "m",
+          "context": "Minimum length of the intermediate landing for a ramp longer than 6 m.",
+          "status": "verified",
+          "ocr_raw": "an intermediate landing of min. 1.50 m length is required."
+        },
+        {
+          "label": "Wheel-kerb height",
+          "value": 10.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Height of wheel kerbs on the ramp and intermediate landing.",
+          "status": "verified",
+          "ocr_raw": "ACCESSIBLE BUILDING\n\n1 - - <!;1.90 ---l\n\nI - - <!;1.50 ----1\n\nAccessible Public Buildings\n\nT\n0\n\n\"1\n\nNi\nACCESSIBLE\nBUILDING\n\nMovement areas must be:\n\nDimensions for\nwheelchair users\nAccessible\npublic buildings\nAccessible\nhousing\nBS 8300\nDIN 18024\nDIN 18025\nMBO\n\nmin. 1.50 m wide and min. 1.50 m deep ...\nin every room as a place to turn, at the start and end of rarnps,\nin front of telephone boxes, public telephones, service counters,\npassages, pay desks, checkpoints, post boxes, automatic service\nmachines, calling/speaking equipment.\n\n0\n\n\"!\n\nNi\n\n1\nf.-- ;;; 1.90 ----;\n\nI - - <!;1.50 ---1\n\nMovement areas In front of hand0 operated\nside-hung doors\n\nf) Movement areas in front of handoperated sliding doors\n\nmin. 1.50 m wide ...\nin corridors, main routes and next to stairs up and down.\nmin. 1.50 m deep ...\nin front of therapy facilities (e.g. bath, couch), in front of wheelchair\nparking places, next to the long side of the vehicle of a wheelchair\nuser in car parks ~ p. 23 41i).\n\nsee also: Lifts\n\n128-134\n\nmin. 1.20 m wide ...\nalongside facilities which a wheelchair user has to approach from\nthe side, between the wheel kerbs of a ramp and next to operated\nequipment.\nmin. 0.90 m wide ...\nin access ways next to cash desks and checkpoints and on side\nroutes.\n\n8 Ramp\n15\n\nAccessibility without steps\nAll levels of buildings designed in accordance with the principles\nof accessibility must be accessible without steps, i.e. using a lift\nor a ramp.\n\n15\n\nH - - - - 1.20 - - H\n\ne\n\nf--\n\n95-1.35\n\n----l\n\n,-,1\n\n0 Dimensions of corridors and\n\nRamp in section\n\npassages\n\n,_;;; 1.10-t\n\n.\n\n\"1\nAll\n\nJ\n\n\"'\n\nLifts\nCars of lifts must have a min. clear width of 1.10 m and a clear\ndepth of 1.40 m. The movement area in front of the doors must\nbe as large as the floor area of the car, but min. 1.50 m wide and\n1.50 m deep ~ 0. This area must not overlap with other traffic\nroutes and movement areas.\nRamps\nMay have a maximum slope of 6% ~ 0. If ramps are longer than\n6 m, an intermediate landing of min. 1.50 m length is required.\nThe ramp and the intermediate landing are both to be provided\nwith 10 em high wheel kerbs and handrails (diameter 3-4.5 em)\nat a height of 85 em. The clear ramp width must be min. 1.20 m.\nWheel kerbs and handrails must project 30 em horizontally into\nthe platform area. There must be no stairs down in the extension\nof the ramp.\nStairs. The movement area next to the stairs going up and down\nmust be min. 1.50 m wide; the tread of the first step is not to be\nincluded in the calculation of the movement area ~ f).\n\ne\n\nI\nI\nL-------1\n\nPlan, with clear dimensions of the\nlift car and movement area in front\nof the doors\n\nf) Movement area in front of stairs\ngoing up and down\n\nf-<;;95-j\n\n.. ,~\n. ,__\n\nL=::t=:t=ll.\n\nI l~\nI ;\n\ni\n0\n\nL_(_j _l\n\nJJ\n\n\"1\nAll\n\nf--Hso----j\n\n0 Overlapping of movement areas in\nsanitary facilities\n\n22\n\nf--ii;\n\n1.50---11\n\nf) Movement area next to operated\nfacility\n\nDoors\nClear passage width of doors ~0.90 m ~ 0 +f). Doors to toilets,\nshowers and changing rooms must open outward.\nSanitary facilities\nAt least one toilet must be provided for wheelchair users in all\nsanitary facilities. The seat height should be 48 em ~ 8.\nCorridors and meeting areas\nCorridors and routes longer than 15 m must have a passing place\nfor two wheelchair users of at least 1.80 m width and depth.\nWheelchair parking place\nA wheelchair parking place for each wheelchair user is to be\nincluded in the design, preferably in the entrance area. Space\nrequirement and movement area ~ p. 21 0.\n\n\f"
+        },
+        {
+          "label": "Handrail diameter",
+          "value": 3.0,
+          "value_max": 4.5,
+          "unit": "cm",
+          "context": "Handrail diameter range.",
+          "status": "verified",
+          "ocr_raw": "ACCESSIBLE BUILDING\n\n1 - - <!;1.90 ---l\n\nI - - <!;1.50 ----1\n\nAccessible Public Buildings\n\nT\n0\n\n\"1\n\nNi\nACCESSIBLE\nBUILDING\n\nMovement areas must be:\n\nDimensions for\nwheelchair users\nAccessible\npublic buildings\nAccessible\nhousing\nBS 8300\nDIN 18024\nDIN 18025\nMBO\n\nmin. 1.50 m wide and min. 1.50 m deep ...\nin every room as a place to turn, at the start and end of rarnps,\nin front of telephone boxes, public telephones, service counters,\npassages, pay desks, checkpoints, post boxes, automatic service\nmachines, calling/speaking equipment.\n\n0\n\n\"!\n\nNi\n\n1\nf.-- ;;; 1.90 ----;\n\nI - - <!;1.50 ---1\n\nMovement areas In front of hand0 operated\nside-hung doors\n\nf) Movement areas in front of handoperated sliding doors\n\nmin. 1.50 m wide ...\nin corridors, main routes and next to stairs up and down.\nmin. 1.50 m deep ...\nin front of therapy facilities (e.g. bath, couch), in front of wheelchair\nparking places, next to the long side of the vehicle of a wheelchair\nuser in car parks ~ p. 23 41i).\n\nsee also: Lifts\n\n128-134\n\nmin. 1.20 m wide ...\nalongside facilities which a wheelchair user has to approach from\nthe side, between the wheel kerbs of a ramp and next to operated\nequipment.\nmin. 0.90 m wide ...\nin access ways next to cash desks and checkpoints and on side\nroutes.\n\n8 Ramp\n15\n\nAccessibility without steps\nAll levels of buildings designed in accordance with the principles\nof accessibility must be accessible without steps, i.e. using a lift\nor a ramp.\n\n15\n\nH - - - - 1.20 - - H\n\ne\n\nf--\n\n95-1.35\n\n----l\n\n,-,1\n\n0 Dimensions of corridors and\n\nRamp in section\n\npassages\n\n,_;;; 1.10-t\n\n.\n\n\"1\nAll\n\nJ\n\n\"'\n\nLifts\nCars of lifts must have a min. clear width of 1.10 m and a clear\ndepth of 1.40 m. The movement area in front of the doors must\nbe as large as the floor area of the car, but min. 1.50 m wide and\n1.50 m deep ~ 0. This area must not overlap with other traffic\nroutes and movement areas.\nRamps\nMay have a maximum slope of 6% ~ 0. If ramps are longer than\n6 m, an intermediate landing of min. 1.50 m length is required.\nThe ramp and the intermediate landing are both to be provided\nwith 10 em high wheel kerbs and handrails (diameter 3-4.5 em)\nat a height of 85 em. The clear ramp width must be min. 1.20 m.\nWheel kerbs and handrails must project 30 em horizontally into\nthe platform area. There must be no stairs down in the extension\nof the ramp.\nStairs. The movement area next to the stairs going up and down\nmust be min. 1.50 m wide; the tread of the first step is not to be\nincluded in the calculation of the movement area ~ f).\n\ne\n\nI\nI\nL-------1\n\nPlan, with clear dimensions of the\nlift car and movement area in front\nof the doors\n\nf) Movement area in front of stairs\ngoing up and down\n\nf-<;;95-j\n\n.. ,~\n. ,__\n\nL=::t=:t=ll.\n\nI l~\nI ;\n\ni\n0\n\nL_(_j _l\n\nJJ\n\n\"1\nAll\n\nf--Hso----j\n\n0 Overlapping of movement areas in\nsanitary facilities\n\n22\n\nf--ii;\n\n1.50---11\n\nf) Movement area next to operated\nfacility\n\nDoors\nClear passage width of doors ~0.90 m ~ 0 +f). Doors to toilets,\nshowers and changing rooms must open outward.\nSanitary facilities\nAt least one toilet must be provided for wheelchair users in all\nsanitary facilities. The seat height should be 48 em ~ 8.\nCorridors and meeting areas\nCorridors and routes longer than 15 m must have a passing place\nfor two wheelchair users of at least 1.80 m width and depth.\nWheelchair parking place\nA wheelchair parking place for each wheelchair user is to be\nincluded in the design, preferably in the entrance area. Space\nrequirement and movement area ~ p. 21 0.\n\n\f"
+        },
+        {
+          "label": "Handrail height",
+          "value": 85.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Height of handrails on ramps and intermediate landings.",
+          "status": "verified",
+          "ocr_raw": "ACCESSIBLE BUILDING\n\n1 - - <!;1.90 ---l\n\nI - - <!;1.50 ----1\n\nAccessible Public Buildings\n\nT\n0\n\n\"1\n\nNi\nACCESSIBLE\nBUILDING\n\nMovement areas must be:\n\nDimensions for\nwheelchair users\nAccessible\npublic buildings\nAccessible\nhousing\nBS 8300\nDIN 18024\nDIN 18025\nMBO\n\nmin. 1.50 m wide and min. 1.50 m deep ...\nin every room as a place to turn, at the start and end of rarnps,\nin front of telephone boxes, public telephones, service counters,\npassages, pay desks, checkpoints, post boxes, automatic service\nmachines, calling/speaking equipment.\n\n0\n\n\"!\n\nNi\n\n1\nf.-- ;;; 1.90 ----;\n\nI - - <!;1.50 ---1\n\nMovement areas In front of hand0 operated\nside-hung doors\n\nf) Movement areas in front of handoperated sliding doors\n\nmin. 1.50 m wide ...\nin corridors, main routes and next to stairs up and down.\nmin. 1.50 m deep ...\nin front of therapy facilities (e.g. bath, couch), in front of wheelchair\nparking places, next to the long side of the vehicle of a wheelchair\nuser in car parks ~ p. 23 41i).\n\nsee also: Lifts\n\n128-134\n\nmin. 1.20 m wide ...\nalongside facilities which a wheelchair user has to approach from\nthe side, between the wheel kerbs of a ramp and next to operated\nequipment.\nmin. 0.90 m wide ...\nin access ways next to cash desks and checkpoints and on side\nroutes.\n\n8 Ramp\n15\n\nAccessibility without steps\nAll levels of buildings designed in accordance with the principles\nof accessibility must be accessible without steps, i.e. using a lift\nor a ramp.\n\n15\n\nH - - - - 1.20 - - H\n\ne\n\nf--\n\n95-1.35\n\n----l\n\n,-,1\n\n0 Dimensions of corridors and\n\nRamp in section\n\npassages\n\n,_;;; 1.10-t\n\n.\n\n\"1\nAll\n\nJ\n\n\"'\n\nLifts\nCars of lifts must have a min. clear width of 1.10 m and a clear\ndepth of 1.40 m. The movement area in front of the doors must\nbe as large as the floor area of the car, but min. 1.50 m wide and\n1.50 m deep ~ 0. This area must not overlap with other traffic\nroutes and movement areas.\nRamps\nMay have a maximum slope of 6% ~ 0. If ramps are longer than\n6 m, an intermediate landing of min. 1.50 m length is required.\nThe ramp and the intermediate landing are both to be provided\nwith 10 em high wheel kerbs and handrails (diameter 3-4.5 em)\nat a height of 85 em. The clear ramp width must be min. 1.20 m.\nWheel kerbs and handrails must project 30 em horizontally into\nthe platform area. There must be no stairs down in the extension\nof the ramp.\nStairs. The movement area next to the stairs going up and down\nmust be min. 1.50 m wide; the tread of the first step is not to be\nincluded in the calculation of the movement area ~ f).\n\ne\n\nI\nI\nL-------1\n\nPlan, with clear dimensions of the\nlift car and movement area in front\nof the doors\n\nf) Movement area in front of stairs\ngoing up and down\n\nf-<;;95-j\n\n.. ,~\n. ,__\n\nL=::t=:t=ll.\n\nI l~\nI ;\n\ni\n0\n\nL_(_j _l\n\nJJ\n\n\"1\nAll\n\nf--Hso----j\n\n0 Overlapping of movement areas in\nsanitary facilities\n\n22\n\nf--ii;\n\n1.50---11\n\nf) Movement area next to operated\nfacility\n\nDoors\nClear passage width of doors ~0.90 m ~ 0 +f). Doors to toilets,\nshowers and changing rooms must open outward.\nSanitary facilities\nAt least one toilet must be provided for wheelchair users in all\nsanitary facilities. The seat height should be 48 em ~ 8.\nCorridors and meeting areas\nCorridors and routes longer than 15 m must have a passing place\nfor two wheelchair users of at least 1.80 m width and depth.\nWheelchair parking place\nA wheelchair parking place for each wheelchair user is to be\nincluded in the design, preferably in the entrance area. Space\nrequirement and movement area ~ p. 21 0.\n\n\f"
+        },
+        {
+          "label": "Clear ramp width",
+          "value": 1.2,
+          "value_max": null,
+          "unit": "m",
+          "context": "Minimum clear width of the ramp.",
+          "status": "verified",
+          "ocr_raw": "The clear ramp width must be min. 1.20 m."
+        },
+        {
+          "label": "Horizontal projection into platform area",
+          "value": 30.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Wheel kerbs and handrails must project this distance horizontally into the platform area.",
+          "status": "verified",
+          "ocr_raw": "ACCESSIBLE BUILDING\n\n1 - - <!;1.90 ---l\n\nI - - <!;1.50 ----1\n\nAccessible Public Buildings\n\nT\n0\n\n\"1\n\nNi\nACCESSIBLE\nBUILDING\n\nMovement areas must be:\n\nDimensions for\nwheelchair users\nAccessible\npublic buildings\nAccessible\nhousing\nBS 8300\nDIN 18024\nDIN 18025\nMBO\n\nmin. 1.50 m wide and min. 1.50 m deep ...\nin every room as a place to turn, at the start and end of rarnps,\nin front of telephone boxes, public telephones, service counters,\npassages, pay desks, checkpoints, post boxes, automatic service\nmachines, calling/speaking equipment.\n\n0\n\n\"!\n\nNi\n\n1\nf.-- ;;; 1.90 ----;\n\nI - - <!;1.50 ---1\n\nMovement areas In front of hand0 operated\nside-hung doors\n\nf) Movement areas in front of handoperated sliding doors\n\nmin. 1.50 m wide ...\nin corridors, main routes and next to stairs up and down.\nmin. 1.50 m deep ...\nin front of therapy facilities (e.g. bath, couch), in front of wheelchair\nparking places, next to the long side of the vehicle of a wheelchair\nuser in car parks ~ p. 23 41i).\n\nsee also: Lifts\n\n128-134\n\nmin. 1.20 m wide ...\nalongside facilities which a wheelchair user has to approach from\nthe side, between the wheel kerbs of a ramp and next to operated\nequipment.\nmin. 0.90 m wide ...\nin access ways next to cash desks and checkpoints and on side\nroutes.\n\n8 Ramp\n15\n\nAccessibility without steps\nAll levels of buildings designed in accordance with the principles\nof accessibility must be accessible without steps, i.e. using a lift\nor a ramp.\n\n15\n\nH - - - - 1.20 - - H\n\ne\n\nf--\n\n95-1.35\n\n----l\n\n,-,1\n\n0 Dimensions of corridors and\n\nRamp in section\n\npassages\n\n,_;;; 1.10-t\n\n.\n\n\"1\nAll\n\nJ\n\n\"'\n\nLifts\nCars of lifts must have a min. clear width of 1.10 m and a clear\ndepth of 1.40 m. The movement area in front of the doors must\nbe as large as the floor area of the car, but min. 1.50 m wide and\n1.50 m deep ~ 0. This area must not overlap with other traffic\nroutes and movement areas.\nRamps\nMay have a maximum slope of 6% ~ 0. If ramps are longer than\n6 m, an intermediate landing of min. 1.50 m length is required.\nThe ramp and the intermediate landing are both to be provided\nwith 10 em high wheel kerbs and handrails (diameter 3-4.5 em)\nat a height of 85 em. The clear ramp width must be min. 1.20 m.\nWheel kerbs and handrails must project 30 em horizontally into\nthe platform area. There must be no stairs down in the extension\nof the ramp.\nStairs. The movement area next to the stairs going up and down\nmust be min. 1.50 m wide; the tread of the first step is not to be\nincluded in the calculation of the movement area ~ f).\n\ne\n\nI\nI\nL-------1\n\nPlan, with clear dimensions of the\nlift car and movement area in front\nof the doors\n\nf) Movement area in front of stairs\ngoing up and down\n\nf-<;;95-j\n\n.. ,~\n. ,__\n\nL=::t=:t=ll.\n\nI l~\nI ;\n\ni\n0\n\nL_(_j _l\n\nJJ\n\n\"1\nAll\n\nf--Hso----j\n\n0 Overlapping of movement areas in\nsanitary facilities\n\n22\n\nf--ii;\n\n1.50---11\n\nf) Movement area next to operated\nfacility\n\nDoors\nClear passage width of doors ~0.90 m ~ 0 +f). Doors to toilets,\nshowers and changing rooms must open outward.\nSanitary facilities\nAt least one toilet must be provided for wheelchair users in all\nsanitary facilities. The seat height should be 48 em ~ 8.\nCorridors and meeting areas\nCorridors and routes longer than 15 m must have a passing place\nfor two wheelchair users of at least 1.80 m width and depth.\nWheelchair parking place\nA wheelchair parking place for each wheelchair user is to be\nincluded in the design, preferably in the entrance area. Space\nrequirement and movement area ~ p. 21 0.\n\n\f"
+        },
+        {
+          "label": "Movement area next to stairs",
+          "value": 1.5,
+          "value_max": null,
+          "unit": "m",
+          "context": "Minimum width next to stairs going up and down; the tread of the first step is excluded from the calculation.",
+          "status": "verified",
+          "ocr_raw": "must be min. 1.50 m wide"
+        }
+      ],
+      "figure_refs": [
+        "Figure 3: ramp",
+        "Figure 4: ramp in section",
+        "Figure 6: lift-car plan and movement area in front of doors",
+        "Figure 7: movement area in front of stairs going up and down"
+      ],
+      "cross_refs": [
+        "→ ③",
+        "→ ⑥",
+        "→ ⑦"
+      ],
+      "keywords": [
+        "step-free access",
+        "lift",
+        "ramp",
+        "stair",
+        "handrail",
+        "wheel kerb"
+      ],
+      "tags_architectural": [
+        "accessibility",
+        "circulation",
+        "clearance",
+        "safety"
+      ],
+      "confidence": 0.98
+    },
+    {
+      "id": "4122fb96e4bd1976-35-vision-2",
+      "pdf_page": 35,
+      "book_page": 22,
+      "chapter": "BASICS",
+      "section": "Accessible Building",
+      "title": "Doors and sanitary facilities",
+      "summary": "Door clear passage width and opening direction are specified, along with the provision of wheelchair-accessible toilets and a recommended seat height.",
+      "building_type": "Accessible public buildings",
+      "spaces": [
+        "Doorways",
+        "Toilets",
+        "Showers",
+        "Changing rooms",
+        "Sanitary facilities"
+      ],
+      "uses": [
+        "Accessible passage through doors",
+        "Wheelchair-accessible toilet use"
+      ],
+      "furniture_equipment": [
+        "Doors",
+        "Toilet seats"
+      ],
+      "dimensions": [
+        {
+          "label": "Clear passage width of doors",
+          "value": 0.9,
+          "value_max": null,
+          "unit": "m",
+          "context": "Minimum clear passage width.",
+          "status": "verified",
+          "ocr_raw": "ACCESSIBLE BUILDING\n\n1 - - <!;1.90 ---l\n\nI - - <!;1.50 ----1\n\nAccessible Public Buildings\n\nT\n0\n\n\"1\n\nNi\nACCESSIBLE\nBUILDING\n\nMovement areas must be:\n\nDimensions for\nwheelchair users\nAccessible\npublic buildings\nAccessible\nhousing\nBS 8300\nDIN 18024\nDIN 18025\nMBO\n\nmin. 1.50 m wide and min. 1.50 m deep ...\nin every room as a place to turn, at the start and end of rarnps,\nin front of telephone boxes, public telephones, service counters,\npassages, pay desks, checkpoints, post boxes, automatic service\nmachines, calling/speaking equipment.\n\n0\n\n\"!\n\nNi\n\n1\nf.-- ;;; 1.90 ----;\n\nI - - <!;1.50 ---1\n\nMovement areas In front of hand0 operated\nside-hung doors\n\nf) Movement areas in front of handoperated sliding doors\n\nmin. 1.50 m wide ...\nin corridors, main routes and next to stairs up and down.\nmin. 1.50 m deep ...\nin front of therapy facilities (e.g. bath, couch), in front of wheelchair\nparking places, next to the long side of the vehicle of a wheelchair\nuser in car parks ~ p. 23 41i).\n\nsee also: Lifts\n\n128-134\n\nmin. 1.20 m wide ...\nalongside facilities which a wheelchair user has to approach from\nthe side, between the wheel kerbs of a ramp and next to operated\nequipment.\nmin. 0.90 m wide ...\nin access ways next to cash desks and checkpoints and on side\nroutes.\n\n8 Ramp\n15\n\nAccessibility without steps\nAll levels of buildings designed in accordance with the principles\nof accessibility must be accessible without steps, i.e. using a lift\nor a ramp.\n\n15\n\nH - - - - 1.20 - - H\n\ne\n\nf--\n\n95-1.35\n\n----l\n\n,-,1\n\n0 Dimensions of corridors and\n\nRamp in section\n\npassages\n\n,_;;; 1.10-t\n\n.\n\n\"1\nAll\n\nJ\n\n\"'\n\nLifts\nCars of lifts must have a min. clear width of 1.10 m and a clear\ndepth of 1.40 m. The movement area in front of the doors must\nbe as large as the floor area of the car, but min. 1.50 m wide and\n1.50 m deep ~ 0. This area must not overlap with other traffic\nroutes and movement areas.\nRamps\nMay have a maximum slope of 6% ~ 0. If ramps are longer than\n6 m, an intermediate landing of min. 1.50 m length is required.\nThe ramp and the intermediate landing are both to be provided\nwith 10 em high wheel kerbs and handrails (diameter 3-4.5 em)\nat a height of 85 em. The clear ramp width must be min. 1.20 m.\nWheel kerbs and handrails must project 30 em horizontally into\nthe platform area. There must be no stairs down in the extension\nof the ramp.\nStairs. The movement area next to the stairs going up and down\nmust be min. 1.50 m wide; the tread of the first step is not to be\nincluded in the calculation of the movement area ~ f).\n\ne\n\nI\nI\nL-------1\n\nPlan, with clear dimensions of the\nlift car and movement area in front\nof the doors\n\nf) Movement area in front of stairs\ngoing up and down\n\nf-<;;95-j\n\n.. ,~\n. ,__\n\nL=::t=:t=ll.\n\nI l~\nI ;\n\ni\n0\n\nL_(_j _l\n\nJJ\n\n\"1\nAll\n\nf--Hso----j\n\n0 Overlapping of movement areas in\nsanitary facilities\n\n22\n\nf--ii;\n\n1.50---11\n\nf) Movement area next to operated\nfacility\n\nDoors\nClear passage width of doors ~0.90 m ~ 0 +f). Doors to toilets,\nshowers and changing rooms must open outward.\nSanitary facilities\nAt least one toilet must be provided for wheelchair users in all\nsanitary facilities. The seat height should be 48 em ~ 8.\nCorridors and meeting areas\nCorridors and routes longer than 15 m must have a passing place\nfor two wheelchair users of at least 1.80 m width and depth.\nWheelchair parking place\nA wheelchair parking place for each wheelchair user is to be\nincluded in the design, preferably in the entrance area. Space\nrequirement and movement area ~ p. 21 0.\n\n\f"
+        }
+      ],
+      "figure_refs": [
+        "Figures 1 and 2: movement areas in front of hand-operated doors",
+        "Figure 8: overlapping of movement areas in sanitary facilities"
+      ],
+      "cross_refs": [
+        "→ ① + ②",
+        "→ ⑧"
+      ],
+      "keywords": [
+        "door clearance",
+        "outward-opening door",
+        "accessible toilet",
+        "seat height"
+      ],
+      "tags_architectural": [
+        "accessibility",
+        "clearance",
+        "safety"
+      ],
+      "confidence": 0.96
+    },
+    {
+      "id": "4122fb96e4bd1976-35-vision-3",
+      "pdf_page": 35,
+      "book_page": 22,
+      "chapter": "BASICS",
+      "section": "Accessible Building",
+      "title": "Corridors, passing places, and wheelchair parking",
+      "summary": "Long corridors and routes must include a passing place for two wheelchair users. The design must also provide a wheelchair parking place for each wheelchair user, preferably near the entrance.",
+      "building_type": "Accessible public buildings",
+      "spaces": [
+        "Corridors",
+        "Routes",
+        "Passing places",
+        "Entrance area",
+        "Car parks"
+      ],
+      "uses": [
+        "Wheelchair circulation and passing",
+        "Wheelchair parking"
+      ],
+      "furniture_equipment": [
+        "Wheelchair parking places"
+      ],
+      "dimensions": [
+        {
+          "label": "Route length threshold",
+          "value": 15.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Corridors and routes longer than this length must have a passing place for two wheelchair users.",
+          "status": "verified",
+          "ocr_raw": "Corridors and routes longer than 15 m"
+        },
+        {
+          "label": "Passing place width and depth",
+          "value": 1.8,
+          "value_max": null,
+          "unit": "m",
+          "context": "Minimum width and depth of a passing place for two wheelchair users.",
+          "status": "verified",
+          "ocr_raw": "at least 1.80 m width and depth"
+        }
+      ],
+      "figure_refs": [
+        "Figure 5: dimensions of corridors and passages"
+      ],
+      "cross_refs": [
+        "Space requirement and movement area → p. 21 ④",
+        "car parks → p. 23 ⑩"
+      ],
+      "keywords": [
+        "corridor",
+        "passing place",
+        "wheelchair parking",
+        "entrance"
+      ],
+      "tags_architectural": [
+        "accessibility",
+        "circulation",
+        "clearance"
+      ],
+      "confidence": 0.96
+    }
+  ]
+}

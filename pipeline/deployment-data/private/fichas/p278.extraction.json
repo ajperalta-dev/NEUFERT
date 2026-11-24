@@ -1,0 +1,277 @@
+{
+  "fichas": [
+    {
+      "id": "4122fb96e4bd1976-278-vision-0",
+      "pdf_page": 278,
+      "book_page": 265,
+      "chapter": "INDUSTRY AND TRADE",
+      "section": "Industry",
+      "title": "Shed Construction: Principles and Performance",
+      "summary": "Industrial production and warehouse buildings are often designed as single-storey sheds with large spans and generous room heights. Construction may use timber, steel or reinforced concrete. Shed layouts are shaped by machinery, access routes and vehicle turning circles. Advantages include economical lightweight roofs, natural lighting, heavy floor loading and a one-level flow of people and materials; disadvantages include high land use and unfavourable thermal behaviour. Rooflights, northlights and light domes can provide lighting and ventilation.",
+      "building_type": "Industrial shed",
+      "spaces": [
+        "Production space",
+        "Warehouse space"
+      ],
+      "uses": [
+        "Industrial production",
+        "Warehousing",
+        "Movement of materials and people"
+      ],
+      "furniture_equipment": [
+        "Machinery",
+        "Overhead crane"
+      ],
+      "dimensions": [
+        {
+          "label": "Structural span",
+          "value": 5.0,
+          "value_max": 50.0,
+          "unit": "m",
+          "context": "Span range for timber, steel or reinforced-concrete construction; depends on client requirements and operational layout.",
+          "status": "uncertain",
+          "ocr_raw": "spans of 5–50 m"
+        },
+        {
+          "label": "Room height",
+          "value": 3.0,
+          "value_max": 6.0,
+          "unit": "m",
+          "context": "Typical room-height range for shed construction.",
+          "status": "uncertain",
+          "ocr_raw": "room heights of 3–6 m"
+        }
+      ],
+      "figure_refs": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12"
+      ],
+      "cross_refs": [
+        "p. 287"
+      ],
+      "keywords": [
+        "industrial shed",
+        "production building",
+        "warehouse",
+        "large span",
+        "rooflights",
+        "northlights",
+        "ventilation",
+        "overhead crane"
+      ],
+      "tags_architectural": [
+        "circulation",
+        "daylighting",
+        "ventilation"
+      ],
+      "confidence": 0.98
+    },
+    {
+      "id": "4122fb96e4bd1976-278-vision-1",
+      "pdf_page": 278,
+      "book_page": 265,
+      "chapter": "INDUSTRY AND TRADE",
+      "section": "Industry",
+      "title": "Structural Systems for Industrial Sheds",
+      "summary": "The page illustrates single-span and multi-span shed systems, including cable-trussed, trussed and web-girder beams; tension-braced and cable structures; space frames; laminated-timber portal forms; fixed-joint and two-hinge frames; and pond roofs with fixed-end columns. Multi-span arrangements may be added, staggered or formed with continuous beams. Shed height and loads may depend on the proposed overhead crane.",
+      "building_type": "Industrial shed",
+      "spaces": [
+        "Single-span shed",
+        "Multi-span shed"
+      ],
+      "uses": [
+        "Industrial production",
+        "Warehousing"
+      ],
+      "furniture_equipment": [
+        "Overhead crane"
+      ],
+      "dimensions": [
+        {
+          "label": "Span",
+          "value": 20.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Dimension shown above a shed construction diagram; the specific diagram component is not identified in the printed annotation.",
+          "status": "uncertain",
+          "ocr_raw": "20.0"
+        },
+        {
+          "label": "Span",
+          "value": 5.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Dimension shown alongside shed construction diagrams; the specific diagram component is not identified in the printed annotation.",
+          "status": "uncertain",
+          "ocr_raw": "5.0"
+        },
+        {
+          "label": "Span",
+          "value": 30.0,
+          "value_max": 60.0,
+          "unit": "m",
+          "context": "Dimension shown over the shed-with-transverse-light-band diagram.",
+          "status": "uncertain",
+          "ocr_raw": "30.0–60.0"
+        },
+        {
+          "label": "Span",
+          "value": 30.0,
+          "value_max": 40.0,
+          "unit": "m",
+          "context": "Dimension shown over the vaulted northlight roof diagram.",
+          "status": "uncertain",
+          "ocr_raw": "30.0–40.0"
+        },
+        {
+          "label": "Span",
+          "value": 12.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Dimension marked within the shed-with-transverse-light-band diagram; the dimension's precise endpoints are not specified in the text.",
+          "status": "uncertain",
+          "ocr_raw": "12.0"
+        }
+      ],
+      "figure_refs": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10"
+      ],
+      "cross_refs": [
+        "p. 287"
+      ],
+      "keywords": [
+        "single-span",
+        "multi-span",
+        "beam",
+        "truss",
+        "web girder",
+        "cable structure",
+        "space frame",
+        "portal frame",
+        "laminated timber",
+        "fixed-end column"
+      ],
+      "tags_architectural": [
+        "modularity",
+        "spatial_proportion"
+      ],
+      "confidence": 0.84
+    },
+    {
+      "id": "4122fb96e4bd1976-278-vision-2",
+      "pdf_page": 278,
+      "book_page": 265,
+      "chapter": "INDUSTRY AND TRADE",
+      "section": "Industry",
+      "title": "Shed Roof Forms for Lighting and Ventilation",
+      "summary": "Illustrated roof configurations include laminated-timber sheds with ridge rooflights, transverse light bands, vaulted northlight roofs, cantilever shells with skylights, vertical sawtooth glazing, self-supporting northlight roofs and northlight roofs with cross-bracing in the glazing. The text notes that lighting, ventilation and smoke extraction can be provided by roof light bands, northlights or light domes, with strip windows also possible in the façade.",
+      "building_type": "Industrial shed",
+      "spaces": [
+        "Production space",
+        "Warehouse space",
+        "Northlight roof zone"
+      ],
+      "uses": [
+        "Industrial production",
+        "Warehousing",
+        "Natural lighting",
+        "Ventilation",
+        "Smoke extraction"
+      ],
+      "furniture_equipment": [
+        "Rooflights",
+        "Skylights",
+        "Northlight glazing",
+        "Strip windows"
+      ],
+      "dimensions": [
+        {
+          "label": "Sawtooth roof glazing angle",
+          "value": 45.0,
+          "value_max": 60.0,
+          "unit": "degrees",
+          "context": "Angle range specified for vertical sawtooth roof glazing.",
+          "status": "uncertain",
+          "ocr_raw": "vertical sawtooth roof glazing (45°; 60°)"
+        },
+        {
+          "label": "Multi-storey building dimension",
+          "value": 7.0,
+          "value_max": 8.0,
+          "unit": "m",
+          "context": "Dimension annotated on the multi-storey cross-section diagram; the measured component is not named in the annotation.",
+          "status": "uncertain",
+          "ocr_raw": "7.0–8.0"
+        },
+        {
+          "label": "Self-supporting northlight roof dimension",
+          "value": 3.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Dimension annotated at the northlight roof section; the measured component is not named in the annotation.",
+          "status": "uncertain",
+          "ocr_raw": "3.0"
+        },
+        {
+          "label": "Northlight roof dimension",
+          "value": 5.0,
+          "value_max": 7.5,
+          "unit": "m",
+          "context": "Dimension range printed in the longitudinal northlight roof section.",
+          "status": "uncertain",
+          "ocr_raw": "5.0–7.5"
+        },
+        {
+          "label": "Northlight roof dimension",
+          "value": 0.0,
+          "value_max": 6.0,
+          "unit": "m",
+          "context": "Dimension range printed beside the northlight roof section; the first digit is printed as 0 in the source.",
+          "status": "uncertain",
+          "ocr_raw": "0–6"
+        }
+      ],
+      "figure_refs": [
+        "7",
+        "9",
+        "10",
+        "11",
+        "12"
+      ],
+      "cross_refs": [],
+      "keywords": [
+        "northlight",
+        "sawtooth roof",
+        "roof glazing",
+        "skylight",
+        "light band",
+        "smoke extraction",
+        "self-supporting roof"
+      ],
+      "tags_architectural": [
+        "daylighting",
+        "ventilation"
+      ],
+      "confidence": 0.78
+    }
+  ]
+}

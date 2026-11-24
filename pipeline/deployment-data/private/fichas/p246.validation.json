@@ -1,0 +1,45 @@
+{
+  "model": "gpt-6-luna",
+  "checks": {
+    "checks": [
+      {
+        "ficha_index": 0,
+        "dimension_index": 0,
+        "status": "verified",
+        "value": 20.0,
+        "value_max": 30.0,
+        "reason": "The text states \u201cextensive room depths of 20\u201330 m,\u201d matching the proposed range and unit."
+      },
+      {
+        "ficha_index": 3,
+        "dimension_index": 0,
+        "status": "verified",
+        "value": 7.5,
+        "value_max": null,
+        "reason": "The text states \u201cmax. 7.5 m to a window,\u201d matching the proposed value and unit."
+      }
+    ]
+  },
+  "automatic": [
+    {
+      "ficha_index": 0,
+      "dimension_index": 0,
+      "issues": []
+    },
+    {
+      "ficha_index": 3,
+      "dimension_index": 0,
+      "issues": []
+    }
+  ],
+  "usage": [
+    {
+      "prompt_tokens": 4626,
+      "completion_tokens": 1245
+    },
+    {
+      "prompt_tokens": 4136,
+      "completion_tokens": 157
+    }
+  ]
+}

@@ -1,0 +1,506 @@
+{
+  "fichas": [
+    {
+      "id": "4122fb96e4bd1976-101-vision-0",
+      "pdf_page": 101,
+      "book_page": 88,
+      "chapter": "BUILDING COMPONENTS",
+      "section": "Roofs",
+      "title": "Reed thatching",
+      "summary": "Reed thatch is fixed to battens with the ends upward. The reference gives its length, batten spacing, covering thickness, and a service-life estimate that varies by climate.",
+      "building_type": "Pitched roof covering",
+      "spaces": [],
+      "uses": [
+        "Roof covering"
+      ],
+      "furniture_equipment": [],
+      "dimensions": [
+        {
+          "label": "Reed length",
+          "value": 1.2,
+          "value_max": 1.4,
+          "unit": "m",
+          "context": "Length of reed used for thatching.",
+          "status": "verified",
+          "ocr_raw": "1.2-1.4 m long"
+        },
+        {
+          "label": "Batten spacing",
+          "value": 20.0,
+          "value_max": 30.0,
+          "unit": "cm",
+          "context": "Spacing of battens supporting reed thatch.",
+          "status": "verified",
+          "ocr_raw": "spacing\n20-30 em"
+        },
+        {
+          "label": "Thatch thickness",
+          "value": 28.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Minimum thickness; the text recommends a greater thickness of 35–40 cm.",
+          "status": "verified",
+          "ocr_raw": "in a thickness of ii;;28 em"
+        },
+        {
+          "label": "Recommended thatch thickness",
+          "value": 35.0,
+          "value_max": 40.0,
+          "unit": "cm",
+          "context": "Better thickness for reed thatch.",
+          "status": "verified",
+          "ocr_raw": "(better 35-40 em)"
+        },
+        {
+          "label": "Service life in sunny districts",
+          "value": 60.0,
+          "value_max": 70.0,
+          "unit": "years",
+          "context": "Estimated lifetime in sunny districts.",
+          "status": "verified",
+          "ocr_raw": "Lifetime in sunny districts 60--70 years"
+        },
+        {
+          "label": "Roof covering load",
+          "value": 0.7,
+          "value_max": null,
+          "unit": "kN/m²",
+          "context": "Load of reed thatch.",
+          "status": "verified",
+          "ocr_raw": "Reed thatch, load 0.70 KN/m"
+        }
+      ],
+      "figure_refs": [
+        "1"
+      ],
+      "cross_refs": [
+        "→ 1"
+      ],
+      "keywords": [
+        "reed thatch",
+        "roof covering",
+        "battens",
+        "service life"
+      ],
+      "tags_architectural": [],
+      "confidence": 0.91
+    },
+    {
+      "id": "4122fb96e4bd1976-101-vision-1",
+      "pdf_page": 101,
+      "book_page": 88,
+      "chapter": "BUILDING COMPONENTS",
+      "section": "Roofs",
+      "title": "Wood shingle roof",
+      "summary": "Wood shingles may be made from several timber species and are suitable for different kinds of roofs. Their service life depends on material quality and treatment, precipitation, and roof pitch; the text states a rule of thumb relating slope degrees to years of life.",
+      "building_type": "Pitched roof covering",
+      "spaces": [],
+      "uses": [
+        "Roof covering"
+      ],
+      "furniture_equipment": [],
+      "dimensions": [
+        {
+          "label": "Roof covering load",
+          "value": 0.25,
+          "value_max": null,
+          "unit": "kN/m²",
+          "context": "Load of a wood shingle roof.",
+          "status": "verified",
+          "ocr_raw": "Wood shingle roof, load 0.25 KN/m"
+        },
+        {
+          "label": "Roof slope to service-life rule",
+          "value": 1.0,
+          "value_max": null,
+          "unit": "degree per year",
+          "context": "The text says degrees of roof slope equal years of lifetime; this records the printed relationship, not a calculated service life.",
+          "status": "uncertain",
+          "ocr_raw": "degrees of roof slope= years\nof lifetime"
+        }
+      ],
+      "figure_refs": [
+        "2"
+      ],
+      "cross_refs": [
+        "→ 2"
+      ],
+      "keywords": [
+        "wood shingles",
+        "roof covering",
+        "timber",
+        "roof pitch",
+        "service life"
+      ],
+      "tags_architectural": [],
+      "confidence": 0.88
+    },
+    {
+      "id": "4122fb96e4bd1976-101-vision-2",
+      "pdf_page": 101,
+      "book_page": 88,
+      "chapter": "BUILDING COMPONENTS",
+      "section": "Roofs",
+      "title": "Slate roof coverings",
+      "summary": "Slate is used for roof and wall coverings in several named slating styles. The reference describes boarding, plank width, roofing felt, lap, and pitches for particular slate patterns; it also identifies several slate load values.",
+      "building_type": "Pitched roof and wall covering",
+      "spaces": [],
+      "uses": [
+        "Roof covering",
+        "Wall covering"
+      ],
+      "furniture_equipment": [],
+      "dimensions": [
+        {
+          "label": "Roof covering load",
+          "value": 0.45,
+          "value_max": 0.5,
+          "unit": "kN/m²",
+          "context": "Load stated for an Old German slate roof.",
+          "status": "verified",
+          "ocr_raw": "'Old German' slate roof, load 0.45-\n\n0.50 KN/m 2"
+        },
+        {
+          "label": "Roof covering load",
+          "value": 0.45,
+          "value_max": 0.5,
+          "unit": "kN/m²",
+          "context": "Load stated for English slating with fibre cement slates.",
+          "status": "verified",
+          "ocr_raw": "English slating with fibre cement\nslates, load 0.45-G.50 KN/m 2"
+        },
+        {
+          "label": "Roof pitch",
+          "value": 15.0,
+          "value_max": 90.0,
+          "unit": "°",
+          "context": "Pitch range stated for slate covering.",
+          "status": "verified",
+          "ocr_raw": "at pitches of 15-90°"
+        },
+        {
+          "label": "Boarding thickness",
+          "value": 24.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Minimum thickness of boarding beneath slate.",
+          "status": "verified",
+          "ocr_raw": "on ii;;24 mm thick boarding"
+        },
+        {
+          "label": "Plank width",
+          "value": 12.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Width of planks used for the boarding.",
+          "status": "verified",
+          "ocr_raw": "made of 12 em wide planks"
+        },
+        {
+          "label": "Roofing felt weight designation",
+          "value": 200.0,
+          "value_max": null,
+          "unit": "gauge",
+          "context": "Sanded roofing felt protects against dust and wind; designation is transcribed as printed.",
+          "status": "verified",
+          "ocr_raw": "Sanded roofing felt (200 gauge)"
+        },
+        {
+          "label": "Slate lap",
+          "value": 8.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Minimum lap; the text notes 10 cm as better.",
+          "status": "verified",
+          "ocr_raw": "Lap ;;;;a em (better I 0 em)"
+        },
+        {
+          "label": "Preferred slate lap",
+          "value": 10.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Preferred lap stated in parentheses.",
+          "status": "verified",
+          "ocr_raw": "(better I 0 em)"
+        },
+        {
+          "label": "Old German slating roof pitch",
+          "value": 25.0,
+          "value_max": null,
+          "unit": "°",
+          "context": "Minimum pitch shown for Old German slating.",
+          "status": "verified",
+          "ocr_raw": "ROOFS\nPitched Roofs\n\nRoof coverings\nReed thatching ---7 0: 1.2-1.4 m long, on battens, spacing\n20-30 em, fixed with ends upwards in a thickness of ii;;28 em\n(better 35-40 em). Lifetime in sunny districts 60--70 years, half that\nin wet districts.\n\nROOFS\n\n0 Reed thatch, load 0.70 KN/m\n\n2\n\nf) Wood shingle roof, load 0.25 KN/m\n\n2\n\nRoof shapes\nPitched roofs\nFlat roofs\n\n'Old German' slate roof, load 0.45-\n\n0.50 KN/m 2 ->\n\n0 -0\n\nWood shingle roof ---7 8: of oak, beech, larch, pine or, unusually,\nspruce. The lifetime of wooden shingles depends on the quality\nand treatment of the material, the intensity of precipitation and\nthe pitch of the roof. Rule of thumb: degrees of roof slope= years\nof lifetime. Wooden shingles are suitable for covering all sorts of\nroof.\nSlate ---7 f) - 0 (at pitches of 15-90°) on ii;;24 mm thick boarding\nmade of 12 em wide planks. Sanded roofing felt (200 gauge)\nprotects against dust and wind. Lap ;;;;a em (better I 0 em). Various\ntypes of slating are used for roof and wall covering in Germany:\n'exclusive', 'Old German' and 'wild', as well as 'decorative slating'\n(mostly template slates such as shingle, sharp angle, fish scale,\noctagonal etc.)\n\n0 English slating with fibre cement\nslates, load 0.45-G.50 KN/m 2\n\nReasonably priced slating types: rectangular and curved-cut\ntemplate. Template slating is also suitable for artificial slate.\n\nOld German slating, roof pitch\n\n••\n\n0 ;;;25o fish scale slating\n\nOld German double slating, roof pitch\n522°\n\n1 mono-pitch: edge tile,\n\n10 ridge and hip tile\n\ncorner tile right\n\nHead\n\n\\~f9\nFoot\n\n0 ~25a curved-cut slating\nMaximum pitch of course~\nObtuse cut a= 37.5°\n~~F--=- Normal cut a= 37\"\nSharp cut a= 32.5°\nCurved cut a. = 45°\n\n11 edge tile left\n\n2 eaves tile\n3 mono-pitch roof tile\n4 wall connecting tile\n5 eaves: wall connecting,\ncorner tile right\n6 wall connecting tile right\n\n12 eaves edge tile left\n13 ridge connecting edge tile,\ncorner tile left\n14 ridge starting tile right\n15 ridge edge connecting tile\ncorner tile right\n\n7 wall connecting tile left\n\n16 ridge connecting tile\n\n8 lean-to roof: wall connecting,\ncorner tile left\n\n17 edge tile right\n18 eaves edge corner tile right\n\n9 ridge end tile left\n\n1\n\n2\n\n5\n\n6\n\n7\n\n8\n\n9 10 11\n\n12 11 13 14 15 16 17 18\n\nb\nSharp angle slating\n\nEnglish slating\n\n~30°\n\n~22°\n\ne\n\na\n\nf) CurVed-cut slating with solar\nelements\n\nDouble-lap tiling ('beaver tail'),\nheavy roof covering, load\n0.60 KN/m 2 , 34-44 tiles/m 2\n\n88\n\ne\n\nRoof pitch a-e, any large circle d-b,\nconstruct a vertical d-e; connect\npoint a-c parallel to the eaves:\nc-b gives the minimum pitch of the\nslatinq courses.\n\nMinimum angle of truss, e.g. 40°\n\nCD Special tiles\n\nConcrete tiles, 0.60-G.80 KN/m 2 ,\npitch 18°\n\nPantlle roof, lightweight, load\n\nInterlocking clay tile roof, load\n\n0.50 KN/m 2\n\n0.55 KN/m 2\n\n\f"
+        },
+        {
+          "label": "Old German double slating roof pitch",
+          "value": 22.0,
+          "value_max": null,
+          "unit": "°",
+          "context": "Minimum pitch shown for Old German double slating.",
+          "status": "verified",
+          "ocr_raw": "ROOFS\nPitched Roofs\n\nRoof coverings\nReed thatching ---7 0: 1.2-1.4 m long, on battens, spacing\n20-30 em, fixed with ends upwards in a thickness of ii;;28 em\n(better 35-40 em). Lifetime in sunny districts 60--70 years, half that\nin wet districts.\n\nROOFS\n\n0 Reed thatch, load 0.70 KN/m\n\n2\n\nf) Wood shingle roof, load 0.25 KN/m\n\n2\n\nRoof shapes\nPitched roofs\nFlat roofs\n\n'Old German' slate roof, load 0.45-\n\n0.50 KN/m 2 ->\n\n0 -0\n\nWood shingle roof ---7 8: of oak, beech, larch, pine or, unusually,\nspruce. The lifetime of wooden shingles depends on the quality\nand treatment of the material, the intensity of precipitation and\nthe pitch of the roof. Rule of thumb: degrees of roof slope= years\nof lifetime. Wooden shingles are suitable for covering all sorts of\nroof.\nSlate ---7 f) - 0 (at pitches of 15-90°) on ii;;24 mm thick boarding\nmade of 12 em wide planks. Sanded roofing felt (200 gauge)\nprotects against dust and wind. Lap ;;;;a em (better I 0 em). Various\ntypes of slating are used for roof and wall covering in Germany:\n'exclusive', 'Old German' and 'wild', as well as 'decorative slating'\n(mostly template slates such as shingle, sharp angle, fish scale,\noctagonal etc.)\n\n0 English slating with fibre cement\nslates, load 0.45-G.50 KN/m 2\n\nReasonably priced slating types: rectangular and curved-cut\ntemplate. Template slating is also suitable for artificial slate.\n\nOld German slating, roof pitch\n\n••\n\n0 ;;;25o fish scale slating\n\nOld German double slating, roof pitch\n522°\n\n1 mono-pitch: edge tile,\n\n10 ridge and hip tile\n\ncorner tile right\n\nHead\n\n\\~f9\nFoot\n\n0 ~25a curved-cut slating\nMaximum pitch of course~\nObtuse cut a= 37.5°\n~~F--=- Normal cut a= 37\"\nSharp cut a= 32.5°\nCurved cut a. = 45°\n\n11 edge tile left\n\n2 eaves tile\n3 mono-pitch roof tile\n4 wall connecting tile\n5 eaves: wall connecting,\ncorner tile right\n6 wall connecting tile right\n\n12 eaves edge tile left\n13 ridge connecting edge tile,\ncorner tile left\n14 ridge starting tile right\n15 ridge edge connecting tile\ncorner tile right\n\n7 wall connecting tile left\n\n16 ridge connecting tile\n\n8 lean-to roof: wall connecting,\ncorner tile left\n\n17 edge tile right\n18 eaves edge corner tile right\n\n9 ridge end tile left\n\n1\n\n2\n\n5\n\n6\n\n7\n\n8\n\n9 10 11\n\n12 11 13 14 15 16 17 18\n\nb\nSharp angle slating\n\nEnglish slating\n\n~30°\n\n~22°\n\ne\n\na\n\nf) CurVed-cut slating with solar\nelements\n\nDouble-lap tiling ('beaver tail'),\nheavy roof covering, load\n0.60 KN/m 2 , 34-44 tiles/m 2\n\n88\n\ne\n\nRoof pitch a-e, any large circle d-b,\nconstruct a vertical d-e; connect\npoint a-c parallel to the eaves:\nc-b gives the minimum pitch of the\nslatinq courses.\n\nMinimum angle of truss, e.g. 40°\n\nCD Special tiles\n\nConcrete tiles, 0.60-G.80 KN/m 2 ,\npitch 18°\n\nPantlle roof, lightweight, load\n\nInterlocking clay tile roof, load\n\n0.50 KN/m 2\n\n0.55 KN/m 2\n\n\f"
+        },
+        {
+          "label": "Fish-scale slating roof pitch",
+          "value": 25.0,
+          "value_max": null,
+          "unit": "°",
+          "context": "Minimum pitch shown for fish-scale slating.",
+          "status": "verified",
+          "ocr_raw": "ROOFS\nPitched Roofs\n\nRoof coverings\nReed thatching ---7 0: 1.2-1.4 m long, on battens, spacing\n20-30 em, fixed with ends upwards in a thickness of ii;;28 em\n(better 35-40 em). Lifetime in sunny districts 60--70 years, half that\nin wet districts.\n\nROOFS\n\n0 Reed thatch, load 0.70 KN/m\n\n2\n\nf) Wood shingle roof, load 0.25 KN/m\n\n2\n\nRoof shapes\nPitched roofs\nFlat roofs\n\n'Old German' slate roof, load 0.45-\n\n0.50 KN/m 2 ->\n\n0 -0\n\nWood shingle roof ---7 8: of oak, beech, larch, pine or, unusually,\nspruce. The lifetime of wooden shingles depends on the quality\nand treatment of the material, the intensity of precipitation and\nthe pitch of the roof. Rule of thumb: degrees of roof slope= years\nof lifetime. Wooden shingles are suitable for covering all sorts of\nroof.\nSlate ---7 f) - 0 (at pitches of 15-90°) on ii;;24 mm thick boarding\nmade of 12 em wide planks. Sanded roofing felt (200 gauge)\nprotects against dust and wind. Lap ;;;;a em (better I 0 em). Various\ntypes of slating are used for roof and wall covering in Germany:\n'exclusive', 'Old German' and 'wild', as well as 'decorative slating'\n(mostly template slates such as shingle, sharp angle, fish scale,\noctagonal etc.)\n\n0 English slating with fibre cement\nslates, load 0.45-G.50 KN/m 2\n\nReasonably priced slating types: rectangular and curved-cut\ntemplate. Template slating is also suitable for artificial slate.\n\nOld German slating, roof pitch\n\n••\n\n0 ;;;25o fish scale slating\n\nOld German double slating, roof pitch\n522°\n\n1 mono-pitch: edge tile,\n\n10 ridge and hip tile\n\ncorner tile right\n\nHead\n\n\\~f9\nFoot\n\n0 ~25a curved-cut slating\nMaximum pitch of course~\nObtuse cut a= 37.5°\n~~F--=- Normal cut a= 37\"\nSharp cut a= 32.5°\nCurved cut a. = 45°\n\n11 edge tile left\n\n2 eaves tile\n3 mono-pitch roof tile\n4 wall connecting tile\n5 eaves: wall connecting,\ncorner tile right\n6 wall connecting tile right\n\n12 eaves edge tile left\n13 ridge connecting edge tile,\ncorner tile left\n14 ridge starting tile right\n15 ridge edge connecting tile\ncorner tile right\n\n7 wall connecting tile left\n\n16 ridge connecting tile\n\n8 lean-to roof: wall connecting,\ncorner tile left\n\n17 edge tile right\n18 eaves edge corner tile right\n\n9 ridge end tile left\n\n1\n\n2\n\n5\n\n6\n\n7\n\n8\n\n9 10 11\n\n12 11 13 14 15 16 17 18\n\nb\nSharp angle slating\n\nEnglish slating\n\n~30°\n\n~22°\n\ne\n\na\n\nf) CurVed-cut slating with solar\nelements\n\nDouble-lap tiling ('beaver tail'),\nheavy roof covering, load\n0.60 KN/m 2 , 34-44 tiles/m 2\n\n88\n\ne\n\nRoof pitch a-e, any large circle d-b,\nconstruct a vertical d-e; connect\npoint a-c parallel to the eaves:\nc-b gives the minimum pitch of the\nslatinq courses.\n\nMinimum angle of truss, e.g. 40°\n\nCD Special tiles\n\nConcrete tiles, 0.60-G.80 KN/m 2 ,\npitch 18°\n\nPantlle roof, lightweight, load\n\nInterlocking clay tile roof, load\n\n0.50 KN/m 2\n\n0.55 KN/m 2\n\n\f"
+        },
+        {
+          "label": "Curved-cut slating roof pitch",
+          "value": 25.0,
+          "value_max": null,
+          "unit": "°",
+          "context": "Minimum pitch shown for curved-cut slating.",
+          "status": "verified",
+          "ocr_raw": "ROOFS\nPitched Roofs\n\nRoof coverings\nReed thatching ---7 0: 1.2-1.4 m long, on battens, spacing\n20-30 em, fixed with ends upwards in a thickness of ii;;28 em\n(better 35-40 em). Lifetime in sunny districts 60--70 years, half that\nin wet districts.\n\nROOFS\n\n0 Reed thatch, load 0.70 KN/m\n\n2\n\nf) Wood shingle roof, load 0.25 KN/m\n\n2\n\nRoof shapes\nPitched roofs\nFlat roofs\n\n'Old German' slate roof, load 0.45-\n\n0.50 KN/m 2 ->\n\n0 -0\n\nWood shingle roof ---7 8: of oak, beech, larch, pine or, unusually,\nspruce. The lifetime of wooden shingles depends on the quality\nand treatment of the material, the intensity of precipitation and\nthe pitch of the roof. Rule of thumb: degrees of roof slope= years\nof lifetime. Wooden shingles are suitable for covering all sorts of\nroof.\nSlate ---7 f) - 0 (at pitches of 15-90°) on ii;;24 mm thick boarding\nmade of 12 em wide planks. Sanded roofing felt (200 gauge)\nprotects against dust and wind. Lap ;;;;a em (better I 0 em). Various\ntypes of slating are used for roof and wall covering in Germany:\n'exclusive', 'Old German' and 'wild', as well as 'decorative slating'\n(mostly template slates such as shingle, sharp angle, fish scale,\noctagonal etc.)\n\n0 English slating with fibre cement\nslates, load 0.45-G.50 KN/m 2\n\nReasonably priced slating types: rectangular and curved-cut\ntemplate. Template slating is also suitable for artificial slate.\n\nOld German slating, roof pitch\n\n••\n\n0 ;;;25o fish scale slating\n\nOld German double slating, roof pitch\n522°\n\n1 mono-pitch: edge tile,\n\n10 ridge and hip tile\n\ncorner tile right\n\nHead\n\n\\~f9\nFoot\n\n0 ~25a curved-cut slating\nMaximum pitch of course~\nObtuse cut a= 37.5°\n~~F--=- Normal cut a= 37\"\nSharp cut a= 32.5°\nCurved cut a. = 45°\n\n11 edge tile left\n\n2 eaves tile\n3 mono-pitch roof tile\n4 wall connecting tile\n5 eaves: wall connecting,\ncorner tile right\n6 wall connecting tile right\n\n12 eaves edge tile left\n13 ridge connecting edge tile,\ncorner tile left\n14 ridge starting tile right\n15 ridge edge connecting tile\ncorner tile right\n\n7 wall connecting tile left\n\n16 ridge connecting tile\n\n8 lean-to roof: wall connecting,\ncorner tile left\n\n17 edge tile right\n18 eaves edge corner tile right\n\n9 ridge end tile left\n\n1\n\n2\n\n5\n\n6\n\n7\n\n8\n\n9 10 11\n\n12 11 13 14 15 16 17 18\n\nb\nSharp angle slating\n\nEnglish slating\n\n~30°\n\n~22°\n\ne\n\na\n\nf) CurVed-cut slating with solar\nelements\n\nDouble-lap tiling ('beaver tail'),\nheavy roof covering, load\n0.60 KN/m 2 , 34-44 tiles/m 2\n\n88\n\ne\n\nRoof pitch a-e, any large circle d-b,\nconstruct a vertical d-e; connect\npoint a-c parallel to the eaves:\nc-b gives the minimum pitch of the\nslatinq courses.\n\nMinimum angle of truss, e.g. 40°\n\nCD Special tiles\n\nConcrete tiles, 0.60-G.80 KN/m 2 ,\npitch 18°\n\nPantlle roof, lightweight, load\n\nInterlocking clay tile roof, load\n\n0.50 KN/m 2\n\n0.55 KN/m 2\n\n\f"
+        },
+        {
+          "label": "Sharp-angle slating roof pitch",
+          "value": 30.0,
+          "value_max": null,
+          "unit": "°",
+          "context": "Minimum pitch shown for sharp-angle slating.",
+          "status": "verified",
+          "ocr_raw": "ROOFS\nPitched Roofs\n\nRoof coverings\nReed thatching ---7 0: 1.2-1.4 m long, on battens, spacing\n20-30 em, fixed with ends upwards in a thickness of ii;;28 em\n(better 35-40 em). Lifetime in sunny districts 60--70 years, half that\nin wet districts.\n\nROOFS\n\n0 Reed thatch, load 0.70 KN/m\n\n2\n\nf) Wood shingle roof, load 0.25 KN/m\n\n2\n\nRoof shapes\nPitched roofs\nFlat roofs\n\n'Old German' slate roof, load 0.45-\n\n0.50 KN/m 2 ->\n\n0 -0\n\nWood shingle roof ---7 8: of oak, beech, larch, pine or, unusually,\nspruce. The lifetime of wooden shingles depends on the quality\nand treatment of the material, the intensity of precipitation and\nthe pitch of the roof. Rule of thumb: degrees of roof slope= years\nof lifetime. Wooden shingles are suitable for covering all sorts of\nroof.\nSlate ---7 f) - 0 (at pitches of 15-90°) on ii;;24 mm thick boarding\nmade of 12 em wide planks. Sanded roofing felt (200 gauge)\nprotects against dust and wind. Lap ;;;;a em (better I 0 em). Various\ntypes of slating are used for roof and wall covering in Germany:\n'exclusive', 'Old German' and 'wild', as well as 'decorative slating'\n(mostly template slates such as shingle, sharp angle, fish scale,\noctagonal etc.)\n\n0 English slating with fibre cement\nslates, load 0.45-G.50 KN/m 2\n\nReasonably priced slating types: rectangular and curved-cut\ntemplate. Template slating is also suitable for artificial slate.\n\nOld German slating, roof pitch\n\n••\n\n0 ;;;25o fish scale slating\n\nOld German double slating, roof pitch\n522°\n\n1 mono-pitch: edge tile,\n\n10 ridge and hip tile\n\ncorner tile right\n\nHead\n\n\\~f9\nFoot\n\n0 ~25a curved-cut slating\nMaximum pitch of course~\nObtuse cut a= 37.5°\n~~F--=- Normal cut a= 37\"\nSharp cut a= 32.5°\nCurved cut a. = 45°\n\n11 edge tile left\n\n2 eaves tile\n3 mono-pitch roof tile\n4 wall connecting tile\n5 eaves: wall connecting,\ncorner tile right\n6 wall connecting tile right\n\n12 eaves edge tile left\n13 ridge connecting edge tile,\ncorner tile left\n14 ridge starting tile right\n15 ridge edge connecting tile\ncorner tile right\n\n7 wall connecting tile left\n\n16 ridge connecting tile\n\n8 lean-to roof: wall connecting,\ncorner tile left\n\n17 edge tile right\n18 eaves edge corner tile right\n\n9 ridge end tile left\n\n1\n\n2\n\n5\n\n6\n\n7\n\n8\n\n9 10 11\n\n12 11 13 14 15 16 17 18\n\nb\nSharp angle slating\n\nEnglish slating\n\n~30°\n\n~22°\n\ne\n\na\n\nf) CurVed-cut slating with solar\nelements\n\nDouble-lap tiling ('beaver tail'),\nheavy roof covering, load\n0.60 KN/m 2 , 34-44 tiles/m 2\n\n88\n\ne\n\nRoof pitch a-e, any large circle d-b,\nconstruct a vertical d-e; connect\npoint a-c parallel to the eaves:\nc-b gives the minimum pitch of the\nslatinq courses.\n\nMinimum angle of truss, e.g. 40°\n\nCD Special tiles\n\nConcrete tiles, 0.60-G.80 KN/m 2 ,\npitch 18°\n\nPantlle roof, lightweight, load\n\nInterlocking clay tile roof, load\n\n0.50 KN/m 2\n\n0.55 KN/m 2\n\n\f"
+        },
+        {
+          "label": "English slating roof pitch",
+          "value": 22.0,
+          "value_max": null,
+          "unit": "°",
+          "context": "Minimum pitch shown for English slating.",
+          "status": "verified",
+          "ocr_raw": "ROOFS\nPitched Roofs\n\nRoof coverings\nReed thatching ---7 0: 1.2-1.4 m long, on battens, spacing\n20-30 em, fixed with ends upwards in a thickness of ii;;28 em\n(better 35-40 em). Lifetime in sunny districts 60--70 years, half that\nin wet districts.\n\nROOFS\n\n0 Reed thatch, load 0.70 KN/m\n\n2\n\nf) Wood shingle roof, load 0.25 KN/m\n\n2\n\nRoof shapes\nPitched roofs\nFlat roofs\n\n'Old German' slate roof, load 0.45-\n\n0.50 KN/m 2 ->\n\n0 -0\n\nWood shingle roof ---7 8: of oak, beech, larch, pine or, unusually,\nspruce. The lifetime of wooden shingles depends on the quality\nand treatment of the material, the intensity of precipitation and\nthe pitch of the roof. Rule of thumb: degrees of roof slope= years\nof lifetime. Wooden shingles are suitable for covering all sorts of\nroof.\nSlate ---7 f) - 0 (at pitches of 15-90°) on ii;;24 mm thick boarding\nmade of 12 em wide planks. Sanded roofing felt (200 gauge)\nprotects against dust and wind. Lap ;;;;a em (better I 0 em). Various\ntypes of slating are used for roof and wall covering in Germany:\n'exclusive', 'Old German' and 'wild', as well as 'decorative slating'\n(mostly template slates such as shingle, sharp angle, fish scale,\noctagonal etc.)\n\n0 English slating with fibre cement\nslates, load 0.45-G.50 KN/m 2\n\nReasonably priced slating types: rectangular and curved-cut\ntemplate. Template slating is also suitable for artificial slate.\n\nOld German slating, roof pitch\n\n••\n\n0 ;;;25o fish scale slating\n\nOld German double slating, roof pitch\n522°\n\n1 mono-pitch: edge tile,\n\n10 ridge and hip tile\n\ncorner tile right\n\nHead\n\n\\~f9\nFoot\n\n0 ~25a curved-cut slating\nMaximum pitch of course~\nObtuse cut a= 37.5°\n~~F--=- Normal cut a= 37\"\nSharp cut a= 32.5°\nCurved cut a. = 45°\n\n11 edge tile left\n\n2 eaves tile\n3 mono-pitch roof tile\n4 wall connecting tile\n5 eaves: wall connecting,\ncorner tile right\n6 wall connecting tile right\n\n12 eaves edge tile left\n13 ridge connecting edge tile,\ncorner tile left\n14 ridge starting tile right\n15 ridge edge connecting tile\ncorner tile right\n\n7 wall connecting tile left\n\n16 ridge connecting tile\n\n8 lean-to roof: wall connecting,\ncorner tile left\n\n17 edge tile right\n18 eaves edge corner tile right\n\n9 ridge end tile left\n\n1\n\n2\n\n5\n\n6\n\n7\n\n8\n\n9 10 11\n\n12 11 13 14 15 16 17 18\n\nb\nSharp angle slating\n\nEnglish slating\n\n~30°\n\n~22°\n\ne\n\na\n\nf) CurVed-cut slating with solar\nelements\n\nDouble-lap tiling ('beaver tail'),\nheavy roof covering, load\n0.60 KN/m 2 , 34-44 tiles/m 2\n\n88\n\ne\n\nRoof pitch a-e, any large circle d-b,\nconstruct a vertical d-e; connect\npoint a-c parallel to the eaves:\nc-b gives the minimum pitch of the\nslatinq courses.\n\nMinimum angle of truss, e.g. 40°\n\nCD Special tiles\n\nConcrete tiles, 0.60-G.80 KN/m 2 ,\npitch 18°\n\nPantlle roof, lightweight, load\n\nInterlocking clay tile roof, load\n\n0.50 KN/m 2\n\n0.55 KN/m 2\n\n\f"
+        },
+        {
+          "label": "Obtuse cut angle",
+          "value": 37.5,
+          "value_max": null,
+          "unit": "°",
+          "context": "Cut angle for slate course.",
+          "status": "verified",
+          "ocr_raw": "ROOFS\nPitched Roofs\n\nRoof coverings\nReed thatching ---7 0: 1.2-1.4 m long, on battens, spacing\n20-30 em, fixed with ends upwards in a thickness of ii;;28 em\n(better 35-40 em). Lifetime in sunny districts 60--70 years, half that\nin wet districts.\n\nROOFS\n\n0 Reed thatch, load 0.70 KN/m\n\n2\n\nf) Wood shingle roof, load 0.25 KN/m\n\n2\n\nRoof shapes\nPitched roofs\nFlat roofs\n\n'Old German' slate roof, load 0.45-\n\n0.50 KN/m 2 ->\n\n0 -0\n\nWood shingle roof ---7 8: of oak, beech, larch, pine or, unusually,\nspruce. The lifetime of wooden shingles depends on the quality\nand treatment of the material, the intensity of precipitation and\nthe pitch of the roof. Rule of thumb: degrees of roof slope= years\nof lifetime. Wooden shingles are suitable for covering all sorts of\nroof.\nSlate ---7 f) - 0 (at pitches of 15-90°) on ii;;24 mm thick boarding\nmade of 12 em wide planks. Sanded roofing felt (200 gauge)\nprotects against dust and wind. Lap ;;;;a em (better I 0 em). Various\ntypes of slating are used for roof and wall covering in Germany:\n'exclusive', 'Old German' and 'wild', as well as 'decorative slating'\n(mostly template slates such as shingle, sharp angle, fish scale,\noctagonal etc.)\n\n0 English slating with fibre cement\nslates, load 0.45-G.50 KN/m 2\n\nReasonably priced slating types: rectangular and curved-cut\ntemplate. Template slating is also suitable for artificial slate.\n\nOld German slating, roof pitch\n\n••\n\n0 ;;;25o fish scale slating\n\nOld German double slating, roof pitch\n522°\n\n1 mono-pitch: edge tile,\n\n10 ridge and hip tile\n\ncorner tile right\n\nHead\n\n\\~f9\nFoot\n\n0 ~25a curved-cut slating\nMaximum pitch of course~\nObtuse cut a= 37.5°\n~~F--=- Normal cut a= 37\"\nSharp cut a= 32.5°\nCurved cut a. = 45°\n\n11 edge tile left\n\n2 eaves tile\n3 mono-pitch roof tile\n4 wall connecting tile\n5 eaves: wall connecting,\ncorner tile right\n6 wall connecting tile right\n\n12 eaves edge tile left\n13 ridge connecting edge tile,\ncorner tile left\n14 ridge starting tile right\n15 ridge edge connecting tile\ncorner tile right\n\n7 wall connecting tile left\n\n16 ridge connecting tile\n\n8 lean-to roof: wall connecting,\ncorner tile left\n\n17 edge tile right\n18 eaves edge corner tile right\n\n9 ridge end tile left\n\n1\n\n2\n\n5\n\n6\n\n7\n\n8\n\n9 10 11\n\n12 11 13 14 15 16 17 18\n\nb\nSharp angle slating\n\nEnglish slating\n\n~30°\n\n~22°\n\ne\n\na\n\nf) CurVed-cut slating with solar\nelements\n\nDouble-lap tiling ('beaver tail'),\nheavy roof covering, load\n0.60 KN/m 2 , 34-44 tiles/m 2\n\n88\n\ne\n\nRoof pitch a-e, any large circle d-b,\nconstruct a vertical d-e; connect\npoint a-c parallel to the eaves:\nc-b gives the minimum pitch of the\nslatinq courses.\n\nMinimum angle of truss, e.g. 40°\n\nCD Special tiles\n\nConcrete tiles, 0.60-G.80 KN/m 2 ,\npitch 18°\n\nPantlle roof, lightweight, load\n\nInterlocking clay tile roof, load\n\n0.50 KN/m 2\n\n0.55 KN/m 2\n\n\f"
+        },
+        {
+          "label": "Normal cut angle",
+          "value": 37.0,
+          "value_max": null,
+          "unit": "°",
+          "context": "Cut angle for slate course.",
+          "status": "verified",
+          "ocr_raw": "ROOFS\nPitched Roofs\n\nRoof coverings\nReed thatching ---7 0: 1.2-1.4 m long, on battens, spacing\n20-30 em, fixed with ends upwards in a thickness of ii;;28 em\n(better 35-40 em). Lifetime in sunny districts 60--70 years, half that\nin wet districts.\n\nROOFS\n\n0 Reed thatch, load 0.70 KN/m\n\n2\n\nf) Wood shingle roof, load 0.25 KN/m\n\n2\n\nRoof shapes\nPitched roofs\nFlat roofs\n\n'Old German' slate roof, load 0.45-\n\n0.50 KN/m 2 ->\n\n0 -0\n\nWood shingle roof ---7 8: of oak, beech, larch, pine or, unusually,\nspruce. The lifetime of wooden shingles depends on the quality\nand treatment of the material, the intensity of precipitation and\nthe pitch of the roof. Rule of thumb: degrees of roof slope= years\nof lifetime. Wooden shingles are suitable for covering all sorts of\nroof.\nSlate ---7 f) - 0 (at pitches of 15-90°) on ii;;24 mm thick boarding\nmade of 12 em wide planks. Sanded roofing felt (200 gauge)\nprotects against dust and wind. Lap ;;;;a em (better I 0 em). Various\ntypes of slating are used for roof and wall covering in Germany:\n'exclusive', 'Old German' and 'wild', as well as 'decorative slating'\n(mostly template slates such as shingle, sharp angle, fish scale,\noctagonal etc.)\n\n0 English slating with fibre cement\nslates, load 0.45-G.50 KN/m 2\n\nReasonably priced slating types: rectangular and curved-cut\ntemplate. Template slating is also suitable for artificial slate.\n\nOld German slating, roof pitch\n\n••\n\n0 ;;;25o fish scale slating\n\nOld German double slating, roof pitch\n522°\n\n1 mono-pitch: edge tile,\n\n10 ridge and hip tile\n\ncorner tile right\n\nHead\n\n\\~f9\nFoot\n\n0 ~25a curved-cut slating\nMaximum pitch of course~\nObtuse cut a= 37.5°\n~~F--=- Normal cut a= 37\"\nSharp cut a= 32.5°\nCurved cut a. = 45°\n\n11 edge tile left\n\n2 eaves tile\n3 mono-pitch roof tile\n4 wall connecting tile\n5 eaves: wall connecting,\ncorner tile right\n6 wall connecting tile right\n\n12 eaves edge tile left\n13 ridge connecting edge tile,\ncorner tile left\n14 ridge starting tile right\n15 ridge edge connecting tile\ncorner tile right\n\n7 wall connecting tile left\n\n16 ridge connecting tile\n\n8 lean-to roof: wall connecting,\ncorner tile left\n\n17 edge tile right\n18 eaves edge corner tile right\n\n9 ridge end tile left\n\n1\n\n2\n\n5\n\n6\n\n7\n\n8\n\n9 10 11\n\n12 11 13 14 15 16 17 18\n\nb\nSharp angle slating\n\nEnglish slating\n\n~30°\n\n~22°\n\ne\n\na\n\nf) CurVed-cut slating with solar\nelements\n\nDouble-lap tiling ('beaver tail'),\nheavy roof covering, load\n0.60 KN/m 2 , 34-44 tiles/m 2\n\n88\n\ne\n\nRoof pitch a-e, any large circle d-b,\nconstruct a vertical d-e; connect\npoint a-c parallel to the eaves:\nc-b gives the minimum pitch of the\nslatinq courses.\n\nMinimum angle of truss, e.g. 40°\n\nCD Special tiles\n\nConcrete tiles, 0.60-G.80 KN/m 2 ,\npitch 18°\n\nPantlle roof, lightweight, load\n\nInterlocking clay tile roof, load\n\n0.50 KN/m 2\n\n0.55 KN/m 2\n\n\f"
+        },
+        {
+          "label": "Sharp cut angle",
+          "value": 32.5,
+          "value_max": null,
+          "unit": "°",
+          "context": "Cut angle for slate course.",
+          "status": "verified",
+          "ocr_raw": "ROOFS\nPitched Roofs\n\nRoof coverings\nReed thatching ---7 0: 1.2-1.4 m long, on battens, spacing\n20-30 em, fixed with ends upwards in a thickness of ii;;28 em\n(better 35-40 em). Lifetime in sunny districts 60--70 years, half that\nin wet districts.\n\nROOFS\n\n0 Reed thatch, load 0.70 KN/m\n\n2\n\nf) Wood shingle roof, load 0.25 KN/m\n\n2\n\nRoof shapes\nPitched roofs\nFlat roofs\n\n'Old German' slate roof, load 0.45-\n\n0.50 KN/m 2 ->\n\n0 -0\n\nWood shingle roof ---7 8: of oak, beech, larch, pine or, unusually,\nspruce. The lifetime of wooden shingles depends on the quality\nand treatment of the material, the intensity of precipitation and\nthe pitch of the roof. Rule of thumb: degrees of roof slope= years\nof lifetime. Wooden shingles are suitable for covering all sorts of\nroof.\nSlate ---7 f) - 0 (at pitches of 15-90°) on ii;;24 mm thick boarding\nmade of 12 em wide planks. Sanded roofing felt (200 gauge)\nprotects against dust and wind. Lap ;;;;a em (better I 0 em). Various\ntypes of slating are used for roof and wall covering in Germany:\n'exclusive', 'Old German' and 'wild', as well as 'decorative slating'\n(mostly template slates such as shingle, sharp angle, fish scale,\noctagonal etc.)\n\n0 English slating with fibre cement\nslates, load 0.45-G.50 KN/m 2\n\nReasonably priced slating types: rectangular and curved-cut\ntemplate. Template slating is also suitable for artificial slate.\n\nOld German slating, roof pitch\n\n••\n\n0 ;;;25o fish scale slating\n\nOld German double slating, roof pitch\n522°\n\n1 mono-pitch: edge tile,\n\n10 ridge and hip tile\n\ncorner tile right\n\nHead\n\n\\~f9\nFoot\n\n0 ~25a curved-cut slating\nMaximum pitch of course~\nObtuse cut a= 37.5°\n~~F--=- Normal cut a= 37\"\nSharp cut a= 32.5°\nCurved cut a. = 45°\n\n11 edge tile left\n\n2 eaves tile\n3 mono-pitch roof tile\n4 wall connecting tile\n5 eaves: wall connecting,\ncorner tile right\n6 wall connecting tile right\n\n12 eaves edge tile left\n13 ridge connecting edge tile,\ncorner tile left\n14 ridge starting tile right\n15 ridge edge connecting tile\ncorner tile right\n\n7 wall connecting tile left\n\n16 ridge connecting tile\n\n8 lean-to roof: wall connecting,\ncorner tile left\n\n17 edge tile right\n18 eaves edge corner tile right\n\n9 ridge end tile left\n\n1\n\n2\n\n5\n\n6\n\n7\n\n8\n\n9 10 11\n\n12 11 13 14 15 16 17 18\n\nb\nSharp angle slating\n\nEnglish slating\n\n~30°\n\n~22°\n\ne\n\na\n\nf) CurVed-cut slating with solar\nelements\n\nDouble-lap tiling ('beaver tail'),\nheavy roof covering, load\n0.60 KN/m 2 , 34-44 tiles/m 2\n\n88\n\ne\n\nRoof pitch a-e, any large circle d-b,\nconstruct a vertical d-e; connect\npoint a-c parallel to the eaves:\nc-b gives the minimum pitch of the\nslatinq courses.\n\nMinimum angle of truss, e.g. 40°\n\nCD Special tiles\n\nConcrete tiles, 0.60-G.80 KN/m 2 ,\npitch 18°\n\nPantlle roof, lightweight, load\n\nInterlocking clay tile roof, load\n\n0.50 KN/m 2\n\n0.55 KN/m 2\n\n\f"
+        },
+        {
+          "label": "Curved cut angle",
+          "value": 45.0,
+          "value_max": null,
+          "unit": "°",
+          "context": "Cut angle for slate course.",
+          "status": "verified",
+          "ocr_raw": "ROOFS\nPitched Roofs\n\nRoof coverings\nReed thatching ---7 0: 1.2-1.4 m long, on battens, spacing\n20-30 em, fixed with ends upwards in a thickness of ii;;28 em\n(better 35-40 em). Lifetime in sunny districts 60--70 years, half that\nin wet districts.\n\nROOFS\n\n0 Reed thatch, load 0.70 KN/m\n\n2\n\nf) Wood shingle roof, load 0.25 KN/m\n\n2\n\nRoof shapes\nPitched roofs\nFlat roofs\n\n'Old German' slate roof, load 0.45-\n\n0.50 KN/m 2 ->\n\n0 -0\n\nWood shingle roof ---7 8: of oak, beech, larch, pine or, unusually,\nspruce. The lifetime of wooden shingles depends on the quality\nand treatment of the material, the intensity of precipitation and\nthe pitch of the roof. Rule of thumb: degrees of roof slope= years\nof lifetime. Wooden shingles are suitable for covering all sorts of\nroof.\nSlate ---7 f) - 0 (at pitches of 15-90°) on ii;;24 mm thick boarding\nmade of 12 em wide planks. Sanded roofing felt (200 gauge)\nprotects against dust and wind. Lap ;;;;a em (better I 0 em). Various\ntypes of slating are used for roof and wall covering in Germany:\n'exclusive', 'Old German' and 'wild', as well as 'decorative slating'\n(mostly template slates such as shingle, sharp angle, fish scale,\noctagonal etc.)\n\n0 English slating with fibre cement\nslates, load 0.45-G.50 KN/m 2\n\nReasonably priced slating types: rectangular and curved-cut\ntemplate. Template slating is also suitable for artificial slate.\n\nOld German slating, roof pitch\n\n••\n\n0 ;;;25o fish scale slating\n\nOld German double slating, roof pitch\n522°\n\n1 mono-pitch: edge tile,\n\n10 ridge and hip tile\n\ncorner tile right\n\nHead\n\n\\~f9\nFoot\n\n0 ~25a curved-cut slating\nMaximum pitch of course~\nObtuse cut a= 37.5°\n~~F--=- Normal cut a= 37\"\nSharp cut a= 32.5°\nCurved cut a. = 45°\n\n11 edge tile left\n\n2 eaves tile\n3 mono-pitch roof tile\n4 wall connecting tile\n5 eaves: wall connecting,\ncorner tile right\n6 wall connecting tile right\n\n12 eaves edge tile left\n13 ridge connecting edge tile,\ncorner tile left\n14 ridge starting tile right\n15 ridge edge connecting tile\ncorner tile right\n\n7 wall connecting tile left\n\n16 ridge connecting tile\n\n8 lean-to roof: wall connecting,\ncorner tile left\n\n17 edge tile right\n18 eaves edge corner tile right\n\n9 ridge end tile left\n\n1\n\n2\n\n5\n\n6\n\n7\n\n8\n\n9 10 11\n\n12 11 13 14 15 16 17 18\n\nb\nSharp angle slating\n\nEnglish slating\n\n~30°\n\n~22°\n\ne\n\na\n\nf) CurVed-cut slating with solar\nelements\n\nDouble-lap tiling ('beaver tail'),\nheavy roof covering, load\n0.60 KN/m 2 , 34-44 tiles/m 2\n\n88\n\ne\n\nRoof pitch a-e, any large circle d-b,\nconstruct a vertical d-e; connect\npoint a-c parallel to the eaves:\nc-b gives the minimum pitch of the\nslatinq courses.\n\nMinimum angle of truss, e.g. 40°\n\nCD Special tiles\n\nConcrete tiles, 0.60-G.80 KN/m 2 ,\npitch 18°\n\nPantlle roof, lightweight, load\n\nInterlocking clay tile roof, load\n\n0.50 KN/m 2\n\n0.55 KN/m 2\n\n\f"
+        }
+      ],
+      "figure_refs": [
+        "3",
+        "4",
+        "5",
+        "6",
+        "7"
+      ],
+      "cross_refs": [
+        "→ 3–8"
+      ],
+      "keywords": [
+        "slate",
+        "Old German slating",
+        "English slating",
+        "roof pitch",
+        "roofing felt",
+        "boarding",
+        "lap"
+      ],
+      "tags_architectural": [],
+      "confidence": 0.87
+    },
+    {
+      "id": "4122fb96e4bd1976-101-vision-3",
+      "pdf_page": 101,
+      "book_page": 88,
+      "chapter": "BUILDING COMPONENTS",
+      "section": "Roofs",
+      "title": "Double-lap tiling (beaver tail)",
+      "summary": "A heavy roof covering formed with double-lap tiles, identified as beaver-tail tiling.",
+      "building_type": "Pitched roof covering",
+      "spaces": [],
+      "uses": [
+        "Roof covering"
+      ],
+      "furniture_equipment": [],
+      "dimensions": [
+        {
+          "label": "Roof covering load",
+          "value": 0.6,
+          "value_max": null,
+          "unit": "kN/m²",
+          "context": "Load of double-lap beaver-tail tiling.",
+          "status": "verified",
+          "ocr_raw": "Double-lap tiling ('beaver tail'),\nheavy roof covering, load\n0.60 KN/m 2"
+        },
+        {
+          "label": "Tile quantity",
+          "value": 34.0,
+          "value_max": 44.0,
+          "unit": "tiles/m²",
+          "context": "Tile coverage quantity per square metre.",
+          "status": "verified",
+          "ocr_raw": "34-44 tiles/m 2"
+        }
+      ],
+      "figure_refs": [
+        "9"
+      ],
+      "cross_refs": [],
+      "keywords": [
+        "double-lap tiling",
+        "beaver tail",
+        "roof covering",
+        "tiles"
+      ],
+      "tags_architectural": [],
+      "confidence": 0.95
+    },
+    {
+      "id": "4122fb96e4bd1976-101-vision-4",
+      "pdf_page": 101,
+      "book_page": 88,
+      "chapter": "BUILDING COMPONENTS",
+      "section": "Roofs",
+      "title": "Concrete roof tiles",
+      "summary": "Concrete roof tiles are illustrated as a pitched roof covering; the reference states their load and roof pitch.",
+      "building_type": "Pitched roof covering",
+      "spaces": [],
+      "uses": [
+        "Roof covering"
+      ],
+      "furniture_equipment": [],
+      "dimensions": [
+        {
+          "label": "Roof covering load",
+          "value": 0.6,
+          "value_max": 0.8,
+          "unit": "kN/m²",
+          "context": "Load range for concrete tiles.",
+          "status": "verified",
+          "ocr_raw": "Concrete tiles, 0.60-G.80 KN/m 2"
+        },
+        {
+          "label": "Roof pitch",
+          "value": 18.0,
+          "value_max": null,
+          "unit": "°",
+          "context": "Pitch stated for concrete tiles.",
+          "status": "verified",
+          "ocr_raw": "pitch 18°"
+        }
+      ],
+      "figure_refs": [
+        "10"
+      ],
+      "cross_refs": [],
+      "keywords": [
+        "concrete tiles",
+        "roof covering",
+        "roof pitch"
+      ],
+      "tags_architectural": [],
+      "confidence": 0.9
+    },
+    {
+      "id": "4122fb96e4bd1976-101-vision-5",
+      "pdf_page": 101,
+      "book_page": 88,
+      "chapter": "BUILDING COMPONENTS",
+      "section": "Roofs",
+      "title": "Pantile roof",
+      "summary": "The pantile roof is described as a lightweight roof covering.",
+      "building_type": "Pitched roof covering",
+      "spaces": [],
+      "uses": [
+        "Roof covering"
+      ],
+      "furniture_equipment": [],
+      "dimensions": [
+        {
+          "label": "Roof covering load",
+          "value": 0.5,
+          "value_max": null,
+          "unit": "kN/m²",
+          "context": "Load of the lightweight pantile roof.",
+          "status": "verified",
+          "ocr_raw": "ROOFS\nPitched Roofs\n\nRoof coverings\nReed thatching ---7 0: 1.2-1.4 m long, on battens, spacing\n20-30 em, fixed with ends upwards in a thickness of ii;;28 em\n(better 35-40 em). Lifetime in sunny districts 60--70 years, half that\nin wet districts.\n\nROOFS\n\n0 Reed thatch, load 0.70 KN/m\n\n2\n\nf) Wood shingle roof, load 0.25 KN/m\n\n2\n\nRoof shapes\nPitched roofs\nFlat roofs\n\n'Old German' slate roof, load 0.45-\n\n0.50 KN/m 2 ->\n\n0 -0\n\nWood shingle roof ---7 8: of oak, beech, larch, pine or, unusually,\nspruce. The lifetime of wooden shingles depends on the quality\nand treatment of the material, the intensity of precipitation and\nthe pitch of the roof. Rule of thumb: degrees of roof slope= years\nof lifetime. Wooden shingles are suitable for covering all sorts of\nroof.\nSlate ---7 f) - 0 (at pitches of 15-90°) on ii;;24 mm thick boarding\nmade of 12 em wide planks. Sanded roofing felt (200 gauge)\nprotects against dust and wind. Lap ;;;;a em (better I 0 em). Various\ntypes of slating are used for roof and wall covering in Germany:\n'exclusive', 'Old German' and 'wild', as well as 'decorative slating'\n(mostly template slates such as shingle, sharp angle, fish scale,\noctagonal etc.)\n\n0 English slating with fibre cement\nslates, load 0.45-G.50 KN/m 2\n\nReasonably priced slating types: rectangular and curved-cut\ntemplate. Template slating is also suitable for artificial slate.\n\nOld German slating, roof pitch\n\n••\n\n0 ;;;25o fish scale slating\n\nOld German double slating, roof pitch\n522°\n\n1 mono-pitch: edge tile,\n\n10 ridge and hip tile\n\ncorner tile right\n\nHead\n\n\\~f9\nFoot\n\n0 ~25a curved-cut slating\nMaximum pitch of course~\nObtuse cut a= 37.5°\n~~F--=- Normal cut a= 37\"\nSharp cut a= 32.5°\nCurved cut a. = 45°\n\n11 edge tile left\n\n2 eaves tile\n3 mono-pitch roof tile\n4 wall connecting tile\n5 eaves: wall connecting,\ncorner tile right\n6 wall connecting tile right\n\n12 eaves edge tile left\n13 ridge connecting edge tile,\ncorner tile left\n14 ridge starting tile right\n15 ridge edge connecting tile\ncorner tile right\n\n7 wall connecting tile left\n\n16 ridge connecting tile\n\n8 lean-to roof: wall connecting,\ncorner tile left\n\n17 edge tile right\n18 eaves edge corner tile right\n\n9 ridge end tile left\n\n1\n\n2\n\n5\n\n6\n\n7\n\n8\n\n9 10 11\n\n12 11 13 14 15 16 17 18\n\nb\nSharp angle slating\n\nEnglish slating\n\n~30°\n\n~22°\n\ne\n\na\n\nf) CurVed-cut slating with solar\nelements\n\nDouble-lap tiling ('beaver tail'),\nheavy roof covering, load\n0.60 KN/m 2 , 34-44 tiles/m 2\n\n88\n\ne\n\nRoof pitch a-e, any large circle d-b,\nconstruct a vertical d-e; connect\npoint a-c parallel to the eaves:\nc-b gives the minimum pitch of the\nslatinq courses.\n\nMinimum angle of truss, e.g. 40°\n\nCD Special tiles\n\nConcrete tiles, 0.60-G.80 KN/m 2 ,\npitch 18°\n\nPantlle roof, lightweight, load\n\nInterlocking clay tile roof, load\n\n0.50 KN/m 2\n\n0.55 KN/m 2\n\n\f"
+        }
+      ],
+      "figure_refs": [
+        "12"
+      ],
+      "cross_refs": [],
+      "keywords": [
+        "pantile",
+        "lightweight roof",
+        "roof covering"
+      ],
+      "tags_architectural": [],
+      "confidence": 0.96
+    },
+    {
+      "id": "4122fb96e4bd1976-101-vision-6",
+      "pdf_page": 101,
+      "book_page": 88,
+      "chapter": "BUILDING COMPONENTS",
+      "section": "Roofs",
+      "title": "Interlocking clay tile roof",
+      "summary": "Interlocking clay tiles are shown as a pitched roof covering, with a stated load.",
+      "building_type": "Pitched roof covering",
+      "spaces": [],
+      "uses": [
+        "Roof covering"
+      ],
+      "furniture_equipment": [],
+      "dimensions": [
+        {
+          "label": "Roof covering load",
+          "value": 0.55,
+          "value_max": null,
+          "unit": "kN/m²",
+          "context": "Load of the interlocking clay tile roof.",
+          "status": "verified",
+          "ocr_raw": "ROOFS\nPitched Roofs\n\nRoof coverings\nReed thatching ---7 0: 1.2-1.4 m long, on battens, spacing\n20-30 em, fixed with ends upwards in a thickness of ii;;28 em\n(better 35-40 em). Lifetime in sunny districts 60--70 years, half that\nin wet districts.\n\nROOFS\n\n0 Reed thatch, load 0.70 KN/m\n\n2\n\nf) Wood shingle roof, load 0.25 KN/m\n\n2\n\nRoof shapes\nPitched roofs\nFlat roofs\n\n'Old German' slate roof, load 0.45-\n\n0.50 KN/m 2 ->\n\n0 -0\n\nWood shingle roof ---7 8: of oak, beech, larch, pine or, unusually,\nspruce. The lifetime of wooden shingles depends on the quality\nand treatment of the material, the intensity of precipitation and\nthe pitch of the roof. Rule of thumb: degrees of roof slope= years\nof lifetime. Wooden shingles are suitable for covering all sorts of\nroof.\nSlate ---7 f) - 0 (at pitches of 15-90°) on ii;;24 mm thick boarding\nmade of 12 em wide planks. Sanded roofing felt (200 gauge)\nprotects against dust and wind. Lap ;;;;a em (better I 0 em). Various\ntypes of slating are used for roof and wall covering in Germany:\n'exclusive', 'Old German' and 'wild', as well as 'decorative slating'\n(mostly template slates such as shingle, sharp angle, fish scale,\noctagonal etc.)\n\n0 English slating with fibre cement\nslates, load 0.45-G.50 KN/m 2\n\nReasonably priced slating types: rectangular and curved-cut\ntemplate. Template slating is also suitable for artificial slate.\n\nOld German slating, roof pitch\n\n••\n\n0 ;;;25o fish scale slating\n\nOld German double slating, roof pitch\n522°\n\n1 mono-pitch: edge tile,\n\n10 ridge and hip tile\n\ncorner tile right\n\nHead\n\n\\~f9\nFoot\n\n0 ~25a curved-cut slating\nMaximum pitch of course~\nObtuse cut a= 37.5°\n~~F--=- Normal cut a= 37\"\nSharp cut a= 32.5°\nCurved cut a. = 45°\n\n11 edge tile left\n\n2 eaves tile\n3 mono-pitch roof tile\n4 wall connecting tile\n5 eaves: wall connecting,\ncorner tile right\n6 wall connecting tile right\n\n12 eaves edge tile left\n13 ridge connecting edge tile,\ncorner tile left\n14 ridge starting tile right\n15 ridge edge connecting tile\ncorner tile right\n\n7 wall connecting tile left\n\n16 ridge connecting tile\n\n8 lean-to roof: wall connecting,\ncorner tile left\n\n17 edge tile right\n18 eaves edge corner tile right\n\n9 ridge end tile left\n\n1\n\n2\n\n5\n\n6\n\n7\n\n8\n\n9 10 11\n\n12 11 13 14 15 16 17 18\n\nb\nSharp angle slating\n\nEnglish slating\n\n~30°\n\n~22°\n\ne\n\na\n\nf) CurVed-cut slating with solar\nelements\n\nDouble-lap tiling ('beaver tail'),\nheavy roof covering, load\n0.60 KN/m 2 , 34-44 tiles/m 2\n\n88\n\ne\n\nRoof pitch a-e, any large circle d-b,\nconstruct a vertical d-e; connect\npoint a-c parallel to the eaves:\nc-b gives the minimum pitch of the\nslatinq courses.\n\nMinimum angle of truss, e.g. 40°\n\nCD Special tiles\n\nConcrete tiles, 0.60-G.80 KN/m 2 ,\npitch 18°\n\nPantlle roof, lightweight, load\n\nInterlocking clay tile roof, load\n\n0.50 KN/m 2\n\n0.55 KN/m 2\n\n\f"
+        }
+      ],
+      "figure_refs": [
+        "13"
+      ],
+      "cross_refs": [],
+      "keywords": [
+        "interlocking clay tiles",
+        "roof covering"
+      ],
+      "tags_architectural": [],
+      "confidence": 0.96
+    }
+  ]
+}

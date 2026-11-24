@@ -1,0 +1,421 @@
+{
+  "fichas": [
+    {
+      "id": "4122fb96e4bd1976-375-vision-0",
+      "pdf_page": 375,
+      "book_page": 362,
+      "chapter": "SPORT AND LEISURE",
+      "section": "Swimming Pools",
+      "title": "Indoor Public Pools: Planning Requirements",
+      "summary": "Planning guidance for indoor public swimming pools covers plot size and slope, parking provision, and subsidiary spaces. Plot area is related to planned pool water area; entrance and entrance-hall areas are also specified as proportions of water area. The room-relationship diagram distinguishes minimum and additional facilities and indicates direct or possible direct access.",
+      "building_type": "Indoor public swimming pool",
+      "spaces": [
+        "Entrance hall",
+        "Wind lobby",
+        "Cash desk or automated paying area",
+        "Cleaning room",
+        "Toilets",
+        "Changing area",
+        "Showers",
+        "Swimming hall and pools",
+        "Circulation spaces"
+      ],
+      "uses": [
+        "Public swimming",
+        "Pool entry and reception",
+        "Changing and showering",
+        "Ancillary pool support"
+      ],
+      "furniture_equipment": [
+        "Cash desk or automated paying area",
+        "Clothes lockers"
+      ],
+      "dimensions": [
+        {
+          "label": "Plot area per planned pool area",
+          "value": 6.0,
+          "value_max": 8.0,
+          "unit": "m²/m²",
+          "context": "Indoor pools without parking; plot area relative to planned pool area.",
+          "status": "uncertain",
+          "ocr_raw": "For indoor pools (without parking) allow a plot size of 6-8 m2 per m2 of planned pool area"
+        },
+        {
+          "label": "Additional open-air area increase to total plot size",
+          "value": 10.0,
+          "value_max": 20.0,
+          "unit": "%",
+          "context": "Terraces, sun decks, or sunbathing lawns may add this amount to the total plot size.",
+          "status": "uncertain",
+          "ocr_raw": "Additional open-air areas (terraces, sun decks, sunbathing lawns) can add about 10-20% to the total plot size."
+        },
+        {
+          "label": "Maximum plot slope",
+          "value": 15.0,
+          "value_max": null,
+          "unit": "°",
+          "context": "A flat plot or one with this maximum slope enables a one-level public indoor pool design.",
+          "status": "uncertain",
+          "ocr_raw": "A building plot which is flat or with a max. slope of 15° enables the design of a public indoor pool on one level"
+        },
+        {
+          "label": "Car parking provision",
+          "value": 1.0,
+          "value_max": null,
+          "unit": "space per lockers",
+          "context": "One car parking space per 5–10 swimming-pool clothes lockers.",
+          "status": "uncertain",
+          "ocr_raw": "1 car parking space per 5–10 clothes lockers for the swimming pool."
+        },
+        {
+          "label": "Clothes lockers per car parking space",
+          "value": 5.0,
+          "value_max": 10.0,
+          "unit": "lockers",
+          "context": "Swimming-pool clothes lockers; parking ratio is one car space per this number of lockers.",
+          "status": "uncertain",
+          "ocr_raw": "1 car parking space per 5–10 clothes lockers for the swimming pool."
+        },
+        {
+          "label": "Bicycle parking provision",
+          "value": 1.0,
+          "value_max": null,
+          "unit": "space per 5 lockers",
+          "context": "One bicycle space per five swimming-pool clothes lockers.",
+          "status": "uncertain",
+          "ocr_raw": "1 bicycle space per 5 clothes lockers for the swimming pool."
+        },
+        {
+          "label": "Additional spectator parking provision",
+          "value": 1.0,
+          "value_max": null,
+          "unit": "space per spectators",
+          "context": "Additional parking when spectator facilities are provided: one space per 10–15 spectators.",
+          "status": "uncertain",
+          "ocr_raw": "If there are facilities for spectators: 1 additional parking space for every 10–15 spectators."
+        },
+        {
+          "label": "Spectators per additional parking space",
+          "value": 10.0,
+          "value_max": 15.0,
+          "unit": "spectators",
+          "context": "Applies when facilities for spectators are provided.",
+          "status": "uncertain",
+          "ocr_raw": "If there are facilities for spectators: 1 additional parking space for every 10–15 spectators."
+        },
+        {
+          "label": "Additional catering parking provision",
+          "value": 1.0,
+          "value_max": null,
+          "unit": "space per seats",
+          "context": "Additional parking when catering is included: one space per 4–8 seats.",
+          "status": "uncertain",
+          "ocr_raw": "If catering is included: 1 additional parking space for every 4–8 seats."
+        },
+        {
+          "label": "Seats per additional catering parking space",
+          "value": 4.0,
+          "value_max": 8.0,
+          "unit": "seats",
+          "context": "Applies when catering is included.",
+          "status": "uncertain",
+          "ocr_raw": "If catering is included: 1 additional parking space for every 4–8 seats."
+        },
+        {
+          "label": "Area in front of entrance",
+          "value": 0.2,
+          "value_max": null,
+          "unit": "m²/m² of water area",
+          "context": "Area in front of the entrance relative to water area.",
+          "status": "uncertain",
+          "ocr_raw": "Area in front of entrance: 0.2 m2/m2 of water area."
+        },
+        {
+          "label": "Entrance hall floor area",
+          "value": 0.15,
+          "value_max": 0.25,
+          "unit": "m²/m² of water area",
+          "context": "Varies depending on pool size and leisure orientation.",
+          "status": "uncertain",
+          "ocr_raw": "Entrance hall: floor area 0.15-0.25 m2/m2 of water area"
+        },
+        {
+          "label": "Wind lobby area",
+          "value": 5.0,
+          "value_max": null,
+          "unit": "m²",
+          "context": "Additional entrance-hall provision.",
+          "status": "uncertain",
+          "ocr_raw": "Also 5 m2 wind lobby"
+        },
+        {
+          "label": "Cash desk or automated paying area",
+          "value": 5.0,
+          "value_max": null,
+          "unit": "m²",
+          "context": "Additional entrance-hall provision.",
+          "status": "uncertain",
+          "ocr_raw": "5 m2 cash desk or automated paying area"
+        },
+        {
+          "label": "Cleaning room area",
+          "value": 1.0,
+          "value_max": 2.0,
+          "unit": "m²",
+          "context": "Additional entrance-hall provision.",
+          "status": "uncertain",
+          "ocr_raw": "1-2 m2 cleaning room"
+        }
+      ],
+      "figure_refs": [
+        "1: Indoor swimming pool – room relationship scheme"
+      ],
+      "cross_refs": [],
+      "keywords": [
+        "indoor public pools",
+        "plot area",
+        "parking",
+        "subsidiary spaces",
+        "entrance hall",
+        "room relationships"
+      ],
+      "tags_architectural": [
+        "circulation",
+        "spatial_proportion",
+        "adaptability"
+      ],
+      "confidence": 0.95
+    },
+    {
+      "id": "4122fb96e4bd1976-375-vision-1",
+      "pdf_page": 375,
+      "book_page": 362,
+      "chapter": "SPORT AND LEISURE",
+      "section": "Swimming Pools",
+      "title": "Indoor Public Pools: Design Examples",
+      "summary": "A comparison table presents indoor-pool design examples for total water-area categories up to 300, 450, 600, 750, and 800 m². It lists pool types and dimensions, water areas, diving facilities, and recommended plot areas without parking. Pool-size notation is width on the diving-board side by length in the diving direction. The caption states an approximate 2:1 division of water area between swimmers and non-swimmers.",
+      "building_type": "Indoor public swimming pool",
+      "spaces": [
+        "Swimming pool",
+        "Swimmers’ pool area",
+        "Non-swimmer pool area",
+        "Paddling pool area",
+        "Diving pool area"
+      ],
+      "uses": [
+        "Swimming",
+        "Non-swimmer swimming",
+        "Paddling",
+        "Diving"
+      ],
+      "furniture_equipment": [
+        "Diving boards",
+        "Diving platforms"
+      ],
+      "dimensions": [
+        {
+          "label": "Swimmers’ to non-swimmers’ water-area division",
+          "value": 2.0,
+          "value_max": null,
+          "unit": "ratio",
+          "context": "Approximate division of the water area between swimmers and non-swimmers; printed as 2:1.",
+          "status": "uncertain",
+          "ocr_raw": "Design examples for indoor swimming pools (division of the water area between swimmers and non-swimmers approx. 2:1)"
+        },
+        {
+          "label": "Total water area category",
+          "value": 300.0,
+          "value_max": null,
+          "unit": "m²",
+          "context": "Table category: up to 300 m².",
+          "status": "uncertain",
+          "ocr_raw": "up to 300"
+        },
+        {
+          "label": "Total water area category",
+          "value": 450.0,
+          "value_max": null,
+          "unit": "m²",
+          "context": "Table category: up to 450 m².",
+          "status": "uncertain",
+          "ocr_raw": "up to 450"
+        },
+        {
+          "label": "Total water area category",
+          "value": 600.0,
+          "value_max": null,
+          "unit": "m²",
+          "context": "Table category: up to 600 m².",
+          "status": "uncertain",
+          "ocr_raw": "up to 600"
+        },
+        {
+          "label": "Total water area category",
+          "value": 750.0,
+          "value_max": null,
+          "unit": "m²",
+          "context": "Table category: up to 750 m².",
+          "status": "uncertain",
+          "ocr_raw": "up to 750"
+        },
+        {
+          "label": "Total water area category",
+          "value": 800.0,
+          "value_max": null,
+          "unit": "m²",
+          "context": "Table category: up to 800 m².",
+          "status": "uncertain",
+          "ocr_raw": "up to 800"
+        },
+        {
+          "label": "Recommended plot area without parking",
+          "value": 2500.0,
+          "value_max": null,
+          "unit": "m²",
+          "context": "Design example for total water area up to 300 m²; table marks plot sizes as recommended.",
+          "status": "uncertain",
+          "ocr_raw": "approx. 2500"
+        },
+        {
+          "label": "Recommended plot area without parking",
+          "value": 3000.0,
+          "value_max": 3500.0,
+          "unit": "m²",
+          "context": "Design example for total water area up to 450 m²; table marks plot sizes as recommended.",
+          "status": "uncertain",
+          "ocr_raw": "approx. 3000–3500"
+        },
+        {
+          "label": "Recommended plot area without parking",
+          "value": 3500.0,
+          "value_max": 4000.0,
+          "unit": "m²",
+          "context": "Design example for total water area up to 600 m²; table marks plot sizes as recommended.",
+          "status": "uncertain",
+          "ocr_raw": "3500–4000"
+        },
+        {
+          "label": "Recommended plot area without parking",
+          "value": 4000.0,
+          "value_max": 4500.0,
+          "unit": "m²",
+          "context": "Design example for total water area up to 750 m²; table marks plot sizes as recommended.",
+          "status": "uncertain",
+          "ocr_raw": "4000–4500"
+        },
+        {
+          "label": "Recommended plot area without parking",
+          "value": 5000.0,
+          "value_max": null,
+          "unit": "m²",
+          "context": "Design example for total water area up to 800 m²; table marks plot sizes as recommended.",
+          "status": "uncertain",
+          "ocr_raw": "approx. 5000"
+        },
+        {
+          "label": "Example pool width",
+          "value": 10.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Combined pool, Example 1, pool size 10.00 × 25.00 m; width is on diving-board side.",
+          "status": "uncertain",
+          "ocr_raw": "10.00 × 25.00"
+        },
+        {
+          "label": "Example pool length",
+          "value": 25.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Combined pool, Example 1, pool size 10.00 × 25.00 m; length is in diving direction.",
+          "status": "uncertain",
+          "ocr_raw": "10.00 × 25.00"
+        },
+        {
+          "label": "Example pool water area",
+          "value": 250.0,
+          "value_max": null,
+          "unit": "m²",
+          "context": "Combined pool, Example 1.",
+          "status": "uncertain",
+          "ocr_raw": "250"
+        },
+        {
+          "label": "Example non-swimmer pool width",
+          "value": 8.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Non-swimmer pool, Example 1, pool size 8.00 × 12.50 m.",
+          "status": "uncertain",
+          "ocr_raw": "8.00 × 12.50"
+        },
+        {
+          "label": "Example non-swimmer pool length",
+          "value": 12.5,
+          "value_max": null,
+          "unit": "m",
+          "context": "Non-swimmer pool, Example 1, pool size 8.00 × 12.50 m.",
+          "status": "uncertain",
+          "ocr_raw": "8.00 × 12.50"
+        },
+        {
+          "label": "Example non-swimmer pool water area",
+          "value": 100.0,
+          "value_max": null,
+          "unit": "m²",
+          "context": "Non-swimmer pool, Example 1.",
+          "status": "uncertain",
+          "ocr_raw": "100"
+        },
+        {
+          "label": "Example paddling pool size",
+          "value": 15.0,
+          "value_max": null,
+          "unit": "m²",
+          "context": "Approximate paddling-pool area in the up-to-300 m² example.",
+          "status": "uncertain",
+          "ocr_raw": "approx. 15"
+        },
+        {
+          "label": "Example combined pool water area",
+          "value": 313.0,
+          "value_max": null,
+          "unit": "m²",
+          "context": "12.50 × 25.00 m combined-pool example.",
+          "status": "uncertain",
+          "ocr_raw": "12.50 × 25.00 313"
+        },
+        {
+          "label": "Example non-swimmer pool size",
+          "value": 8.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Example table also lists non-swimmer pool dimensions of 8.00 × 16.66 m and 8.00 × 12.50 m.",
+          "status": "uncertain",
+          "ocr_raw": "8.00 × 16.66"
+        }
+      ],
+      "figure_refs": [
+        "2: Design examples for indoor swimming pools"
+      ],
+      "cross_refs": [
+        "Notes: 1) PP = paddling pool; NSP = non-swimmer pool; CP = combined pool; DP = diving pool. In special cases, a swimmers’ pool (SP) can be provided instead of a combined pool (CP).",
+        "Notes: 2) B = board; P = platform; 1–10 = diving height (m); WA = water area.",
+        "Notes: 3) Recommended plot sizes.",
+        "Notes: 4) Dimensions under consideration of safety/measurements."
+      ],
+      "keywords": [
+        "pool design examples",
+        "water area",
+        "pool dimensions",
+        "diving facilities",
+        "plot area",
+        "pool types"
+      ],
+      "tags_architectural": [
+        "spatial_proportion",
+        "safety"
+      ],
+      "confidence": 0.88
+    }
+  ]
+}

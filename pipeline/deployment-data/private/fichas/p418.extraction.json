@@ -1,0 +1,487 @@
+{
+  "fichas": [
+    {
+      "id": "4122fb96e4bd1976-418-vision-0",
+      "pdf_page": 418,
+      "book_page": 405,
+      "chapter": "TRANSPORT",
+      "section": "Public Transport",
+      "title": "Track spacing in public-road traffic spaces",
+      "summary": "Diagrams show minimum spacing and clearance relationships for tram tracks in the carriageway of a public road, both in open sections and at stops or protection islands. The accompanying text gives track-centre spacing, carriage clearances, kerb offsets, curve radii, gradients and camber guidance.",
+      "building_type": "Public transport infrastructure",
+      "spaces": [
+        "Public-road carriageway",
+        "Open track sections",
+        "Stops",
+        "Protection islands"
+      ],
+      "uses": [
+        "Accommodating tram tracks within public-road traffic space",
+        "Providing clearance between tracks, vehicles and fixed objects"
+      ],
+      "furniture_equipment": [
+        "Tram tracks",
+        "Overhead wire",
+        "Platform",
+        "Protection island"
+      ],
+      "dimensions": [
+        {
+          "label": "Minimum track-centre spacing",
+          "value": 2.6,
+          "value_max": null,
+          "unit": "m",
+          "context": "Depending on transport type and dimensions; stated as one of the minimum spacings.",
+          "status": "uncertain",
+          "ocr_raw": "min. 2.60 m"
+        },
+        {
+          "label": "Alternative minimum track-centre spacing",
+          "value": 2.95,
+          "value_max": null,
+          "unit": "m",
+          "context": "Depending on transport type and dimensions; stated as one of the minimum spacings.",
+          "status": "uncertain",
+          "ocr_raw": "min. 2.95 m"
+        },
+        {
+          "label": "Preferred track-centre spacing",
+          "value": 3.1,
+          "value_max": null,
+          "unit": "m",
+          "context": "Preferred spacing to compensate for sideways movement of carriages in medium-sized curve radii.",
+          "status": "uncertain",
+          "ocr_raw": "preferably 3.10 m"
+        },
+        {
+          "label": "Additional clearance for overtaking and oscillation",
+          "value": 0.15,
+          "value_max": null,
+          "unit": "m",
+          "context": "Minimum additional width on each of two sides; the printed expression is 2 x 0.15 m.",
+          "status": "uncertain",
+          "ocr_raw": "(min. 2 x 0.15 m)"
+        },
+        {
+          "label": "Kerb distance from carriage body",
+          "value": 0.5,
+          "value_max": null,
+          "unit": "m",
+          "context": "For special track beds.",
+          "status": "uncertain",
+          "ocr_raw": "0.5 m"
+        },
+        {
+          "label": "Exceptional kerb distance from carriage body",
+          "value": 0.3,
+          "value_max": null,
+          "unit": "m",
+          "context": "Exceptional case for distance from kerb to carriage body on special track beds.",
+          "status": "uncertain",
+          "ocr_raw": "0.30 m"
+        },
+        {
+          "label": "Track radius",
+          "value": 180.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Track radii should be greater than this if possible; the OCR uses a greater-than sign.",
+          "status": "uncertain",
+          "ocr_raw": "if possible >180 m"
+        },
+        {
+          "label": "Minimum radius at forks and turning loops",
+          "value": 25.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "At forks and turning loops.",
+          "status": "uncertain",
+          "ocr_raw": "min. 25 m"
+        },
+        {
+          "label": "Maximum gradient",
+          "value": 25.0,
+          "value_max": null,
+          "unit": "‰",
+          "context": "General maximum gradient.",
+          "status": "uncertain",
+          "ocr_raw": "maximum 25‰"
+        },
+        {
+          "label": "Exceptional gradient",
+          "value": 40.0,
+          "value_max": null,
+          "unit": "‰",
+          "context": "Exceptional maximum gradient.",
+          "status": "uncertain",
+          "ocr_raw": "exceptionally 40‰"
+        },
+        {
+          "label": "Maximum camber ratio",
+          "value": 1.0,
+          "value_max": null,
+          "unit": "ratio",
+          "context": "Printed ratio 1:10; applies to maximum camber.",
+          "status": "uncertain",
+          "ocr_raw": "max. 1:10"
+        },
+        {
+          "label": "Maximum camber, normal gauge",
+          "value": 165.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "For normal gauge.",
+          "status": "uncertain",
+          "ocr_raw": "camber max. 165 mm for normal gauge"
+        },
+        {
+          "label": "Maximum camber, metre gauge",
+          "value": 1.2,
+          "value_max": null,
+          "unit": "m",
+          "context": "For metre gauge.",
+          "status": "uncertain",
+          "ocr_raw": "1.20 m for metre gauge"
+        },
+        {
+          "label": "Greatest slope at camber ramp",
+          "value": 1.0,
+          "value_max": null,
+          "unit": "ratio",
+          "context": "Printed expression 1:6 x V, in the note about the camber ramp; retained as a ratio without interpreting V.",
+          "status": "uncertain",
+          "ocr_raw": "greatest slope 1:6 x V"
+        }
+      ],
+      "figure_refs": [
+        "1",
+        "2"
+      ],
+      "cross_refs": [
+        "Stairs pp. 120 ff.",
+        "Lifts pp. 128 ff.",
+        "Railways pp. 408 ff."
+      ],
+      "keywords": [
+        "tram",
+        "track spacing",
+        "carriageway",
+        "clearance",
+        "track radius",
+        "gradient",
+        "camber"
+      ],
+      "tags_architectural": [
+        "circulation",
+        "clearance",
+        "safety"
+      ],
+      "confidence": 0.93
+    },
+    {
+      "id": "4122fb96e4bd1976-418-vision-1",
+      "pdf_page": 418,
+      "book_page": 405,
+      "chapter": "TRANSPORT",
+      "section": "Public Transport",
+      "title": "Standard widths for special track beds",
+      "summary": "Diagrams compare special track-bed arrangements for Types A, B and C, distinguished by the absence of masts, central masts or side masts. Separate diagrams show track-bed widths for general arrangements and for one-sided stops and two-sided stops.",
+      "building_type": "Public transport infrastructure",
+      "spaces": [
+        "Special track bed",
+        "One-sided stop",
+        "Two-sided stop"
+      ],
+      "uses": [
+        "Planning track-bed widths according to mast arrangement",
+        "Planning track-bed widths at tram stops"
+      ],
+      "furniture_equipment": [
+        "Tram tracks",
+        "Central masts",
+        "Side masts",
+        "Waiting room"
+      ],
+      "dimensions": [
+        {
+          "label": "Type A special track-bed width",
+          "value": 6.7,
+          "value_max": null,
+          "unit": "m",
+          "context": "No masts; standard width for a special track bed.",
+          "status": "uncertain",
+          "ocr_raw": "6.70"
+        },
+        {
+          "label": "Type B special track-bed width",
+          "value": 7.3,
+          "value_max": null,
+          "unit": "m",
+          "context": "Central masts; standard width for a special track bed.",
+          "status": "uncertain",
+          "ocr_raw": "7.30"
+        },
+        {
+          "label": "Type C special track-bed width",
+          "value": 8.5,
+          "value_max": null,
+          "unit": "m",
+          "context": "Side masts; standard width for a special track bed.",
+          "status": "uncertain",
+          "ocr_raw": "8.50"
+        },
+        {
+          "label": "Type A width at one-sided stops",
+          "value": 9.75,
+          "value_max": null,
+          "unit": "m",
+          "context": "No masts; one-sided stops.",
+          "status": "uncertain",
+          "ocr_raw": "9.75"
+        },
+        {
+          "label": "Type B width at one-sided stops",
+          "value": 10.35,
+          "value_max": null,
+          "unit": "m",
+          "context": "Central masts; one-sided stops.",
+          "status": "uncertain",
+          "ocr_raw": "10.35"
+        },
+        {
+          "label": "Type C width at one-sided stops",
+          "value": 10.65,
+          "value_max": null,
+          "unit": "m",
+          "context": "Side masts; one-sided stops.",
+          "status": "uncertain",
+          "ocr_raw": "10.65"
+        },
+        {
+          "label": "Type A width at two-sided stops",
+          "value": 12.8,
+          "value_max": null,
+          "unit": "m",
+          "context": "No masts; two-sided stops.",
+          "status": "uncertain",
+          "ocr_raw": "12.80"
+        },
+        {
+          "label": "Type B width at two-sided stops",
+          "value": 13.4,
+          "value_max": null,
+          "unit": "m",
+          "context": "Central masts; two-sided stops.",
+          "status": "uncertain",
+          "ocr_raw": "13.40"
+        },
+        {
+          "label": "Type C width at two-sided stops",
+          "value": 12.8,
+          "value_max": null,
+          "unit": "m",
+          "context": "Side masts; two-sided stops.",
+          "status": "uncertain",
+          "ocr_raw": "12.80"
+        }
+      ],
+      "figure_refs": [
+        "3",
+        "4",
+        "5"
+      ],
+      "cross_refs": [
+        "Figure 3: Standard widths for special track beds in m",
+        "Figure 4: One-sided stops",
+        "Figure 5: Two-sided stops"
+      ],
+      "keywords": [
+        "track bed",
+        "tram stop",
+        "masts",
+        "platform width"
+      ],
+      "tags_architectural": [
+        "circulation",
+        "clearance",
+        "spatial_proportion"
+      ],
+      "confidence": 0.91
+    },
+    {
+      "id": "4122fb96e4bd1976-418-vision-2",
+      "pdf_page": 418,
+      "book_page": 405,
+      "chapter": "TRANSPORT",
+      "section": "Public Transport",
+      "title": "Space requirement for a tram in the road space",
+      "summary": "Cross-sectional diagrams show tram space requirements within road space, including carriage dimensions and spacing for single- and multiple-track arrangements. The page also depicts a running tunnel and a station tunnel cross-section.",
+      "building_type": "Public transport infrastructure",
+      "spaces": [
+        "Road space",
+        "Running tunnel",
+        "Station tunnel"
+      ],
+      "uses": [
+        "Allocating road space for trams",
+        "Planning tram tunnel cross-sections"
+      ],
+      "furniture_equipment": [
+        "Tram",
+        "Tram tracks",
+        "Overhead wire",
+        "Tunnel structure"
+      ],
+      "dimensions": [
+        {
+          "label": "Tram space width",
+          "value": 3.25,
+          "value_max": null,
+          "unit": "m",
+          "context": "Dimension shown in the road-space diagram.",
+          "status": "uncertain",
+          "ocr_raw": "3.25"
+        },
+        {
+          "label": "Overall width, two-track arrangement",
+          "value": 6.55,
+          "value_max": null,
+          "unit": "m",
+          "context": "Dimension shown below the two-track arrangement.",
+          "status": "uncertain",
+          "ocr_raw": "6.55"
+        },
+        {
+          "label": "Overall width, two-track arrangement",
+          "value": 6.3,
+          "value_max": null,
+          "unit": "m",
+          "context": "Dimension shown below the adjacent two-track arrangement.",
+          "status": "uncertain",
+          "ocr_raw": "6.30"
+        },
+        {
+          "label": "Tunnel cross-section width",
+          "value": 6.7,
+          "value_max": null,
+          "unit": "m",
+          "context": "Dimension printed beneath the tunnel cross-section diagram; the diagram compares a running tunnel and a station.",
+          "status": "uncertain",
+          "ocr_raw": "6.7"
+        }
+      ],
+      "figure_refs": [
+        "6",
+        "7"
+      ],
+      "cross_refs": [
+        "Stadt Bochum (tunnel cross-section reference)"
+      ],
+      "keywords": [
+        "tram",
+        "road space",
+        "tunnel",
+        "cross-section"
+      ],
+      "tags_architectural": [
+        "circulation",
+        "clearance",
+        "spatial_proportion"
+      ],
+      "confidence": 0.78
+    },
+    {
+      "id": "4122fb96e4bd1976-418-vision-3",
+      "pdf_page": 418,
+      "book_page": 405,
+      "chapter": "TRANSPORT",
+      "section": "Public Transport",
+      "title": "Road-vehicle and tram clearances and track crossings",
+      "summary": "Diagrams delineate clearances between road vehicles and trams and illustrate track-bed crossing locations for pedestrians, including arrangements with and without crossing lights. The clearance diagram labels overhead-wire levels and vehicle limitation lines.",
+      "building_type": "Public transport infrastructure",
+      "spaces": [
+        "Road and tram interface",
+        "Pedestrian track crossing"
+      ],
+      "uses": [
+        "Separating road-vehicle and tram clearances",
+        "Providing pedestrian track-crossing locations"
+      ],
+      "furniture_equipment": [
+        "Overhead wire",
+        "Tram tracks",
+        "Crossing lights"
+      ],
+      "dimensions": [
+        {
+          "label": "Overhead-wire reference level",
+          "value": 5.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Level shown in the clearance diagram.",
+          "status": "uncertain",
+          "ocr_raw": "+ 5.00"
+        },
+        {
+          "label": "Overhead-wire reference level",
+          "value": 4.2,
+          "value_max": null,
+          "unit": "m",
+          "context": "Level shown in the clearance diagram.",
+          "status": "uncertain",
+          "ocr_raw": "+ 4.20 m"
+        },
+        {
+          "label": "Minimum separation from fixed objects",
+          "value": 0.5,
+          "value_max": null,
+          "unit": "m",
+          "context": "The diagram notes a minimum, with 0.30 m in exceptional cases.",
+          "status": "uncertain",
+          "ocr_raw": "≥ 0.50 m, in exceptional cases 0.30 m"
+        },
+        {
+          "label": "Exceptional separation from fixed objects",
+          "value": 0.3,
+          "value_max": null,
+          "unit": "m",
+          "context": "Exceptional case for separation from fixed objects.",
+          "status": "uncertain",
+          "ocr_raw": "in exceptional cases 0.30 m"
+        },
+        {
+          "label": "Track-bed crossing width",
+          "value": 4.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Crossing-location diagram; printed as B = 4.00 m.",
+          "status": "uncertain",
+          "ocr_raw": "B = 4.00 m"
+        }
+      ],
+      "figure_refs": [
+        "8",
+        "9",
+        "10",
+        "11"
+      ],
+      "cross_refs": [
+        "Figure 10: Track crossing controlled by crossing lights"
+      ],
+      "keywords": [
+        "clearance",
+        "road vehicle",
+        "tram",
+        "pedestrian crossing",
+        "crossing lights"
+      ],
+      "tags_architectural": [
+        "circulation",
+        "clearance",
+        "safety",
+        "accessibility"
+      ],
+      "confidence": 0.77
+    }
+  ]
+}

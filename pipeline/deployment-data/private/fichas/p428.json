@@ -1,0 +1,416 @@
+{
+  "fichas": [
+    {
+      "id": "4122fb96e4bd1976-428-vision-0",
+      "pdf_page": 428,
+      "book_page": 415,
+      "chapter": "TRANSPORT",
+      "section": "Railways",
+      "title": "Station Buildings",
+      "summary": "Station buildings connect the railway network with other modes of transport. Railway-operated services are generally limited to ticket sales, information and luggage care; other services and shops may be operated by leaseholders.",
+      "building_type": "Railway station building",
+      "spaces": [
+        "Station aisle",
+        "Ticketing and information areas",
+        "Tenant areas",
+        "Sanitary facilities",
+        "Store and building services"
+      ],
+      "uses": [
+        "Connect rail transport to other transport modes",
+        "Provide ticket sales, information and luggage services",
+        "Accommodate tenant-operated services and shops"
+      ],
+      "furniture_equipment": [],
+      "dimensions": [],
+      "figure_refs": [
+        "1 Station aisle, Hannover",
+        "2 Station aisle, Hannover – key"
+      ],
+      "cross_refs": [],
+      "keywords": [
+        "railway station",
+        "station building",
+        "station aisle",
+        "tenant areas",
+        "passenger services"
+      ],
+      "tags_architectural": [
+        "circulation"
+      ],
+      "confidence": 0.94
+    },
+    {
+      "id": "4122fb96e4bd1976-428-vision-1",
+      "pdf_page": 428,
+      "book_page": 415,
+      "chapter": "TRANSPORT",
+      "section": "Railways",
+      "title": "TravelCentre",
+      "summary": "The TravelCentre provides personal advice and ticket sales. Its modular fitting-out system uses a metre grid; adjustable legs accommodate installation conditions and the height difference between seated staff and standing passengers. Waiting customers need sufficient space and a clear area in front of the counter; where there are multiple counters, a centralised queue is recommended. Ticket machines can reduce counter workload.",
+      "building_type": "Railway station customer-service area",
+      "spaces": [
+        "TravelCentre",
+        "Waiting area",
+        "Counter area"
+      ],
+      "uses": [
+        "Personal travel advice",
+        "Ticket sales",
+        "Queueing and waiting",
+        "Self-service ticket purchasing"
+      ],
+      "furniture_equipment": [
+        "Modular counter",
+        "Ticket machine",
+        "TravelCentre fitting-out elements"
+      ],
+      "dimensions": [
+        {
+          "label": "Modular grid",
+          "value": 1.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "TravelCentre fitting-out system grid",
+          "status": "verified",
+          "ocr_raw": "The fitting out is modular on a metre grid"
+        },
+        {
+          "label": "Smallest counter length",
+          "value": 2.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Smallest TravelCentre counter; counter dimensions are 2 m x 3 m",
+          "status": "verified",
+          "ocr_raw": "the smallest unit, a\ncounter, is 2 m x 3 m"
+        },
+        {
+          "label": "Smallest counter width",
+          "value": 3.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Smallest TravelCentre counter; counter dimensions are 2 m x 3 m",
+          "status": "verified",
+          "ocr_raw": "the smallest unit, a\ncounter, is 2 m x 3 m"
+        }
+      ],
+      "figure_refs": [
+        "3 Dimensions of free-standing ticket machine; can also be installed",
+        "4 Modular fitting out system for the TravelCentre (DB → refs)"
+      ],
+      "cross_refs": [],
+      "keywords": [
+        "TravelCentre",
+        "ticket counter",
+        "ticket machine",
+        "modular fitting out",
+        "queue",
+        "waiting area"
+      ],
+      "tags_architectural": [
+        "modularity",
+        "circulation",
+        "ergonomics"
+      ],
+      "confidence": 0.94
+    },
+    {
+      "id": "4122fb96e4bd1976-428-vision-2",
+      "pdf_page": 428,
+      "book_page": 415,
+      "chapter": "TRANSPORT",
+      "section": "Railways",
+      "title": "ServicePoint",
+      "summary": "The ServicePoint is a direct contact point for travellers and a central information interface between customers and station staff. Three types are described: a free-standing singular unit, an integrated unit, and a mobile rolling stand. Sizes are given for example workplace configurations; the text notes that the mobile type dimensions are still at the design stage and may change.",
+      "building_type": "Railway station information and service point",
+      "spaces": [
+        "Reception building",
+        "Station building",
+        "Platforms"
+      ],
+      "uses": [
+        "Provide traveller information",
+        "Direct contact between customers and service staff",
+        "Flexible station and platform service"
+      ],
+      "furniture_equipment": [
+        "Free-standing ServicePoint",
+        "Integrated ServicePoint",
+        "Mobile rolling stand"
+      ],
+      "dimensions": [
+        {
+          "label": "Singular type length",
+          "value": 3.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "ServicePoint for two workplaces; LWH: 3.00 m x 5.00 m x 3.50 m",
+          "status": "verified",
+          "ocr_raw": "for\ntwo workplaces LWH: 3.00 m x 5.00 m x 3.50 m"
+        },
+        {
+          "label": "Singular type width",
+          "value": 5.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "ServicePoint for two workplaces; LWH: 3.00 m x 5.00 m x 3.50 m",
+          "status": "verified",
+          "ocr_raw": "for\ntwo workplaces LWH: 3.00 m x 5.00 m x 3.50 m"
+        },
+        {
+          "label": "Singular type height",
+          "value": 3.5,
+          "value_max": null,
+          "unit": "m",
+          "context": "ServicePoint for two workplaces; LWH: 3.00 m x 5.00 m x 3.50 m",
+          "status": "verified",
+          "ocr_raw": "for\ntwo workplaces LWH: 3.00 m x 5.00 m x 3.50 m"
+        },
+        {
+          "label": "Integrated type length",
+          "value": 2.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Integrated ServicePoint for one workplace; LWH: 2.00 m x 2.60 m x 3.10 m",
+          "status": "verified",
+          "ocr_raw": "LWH: 2.00 m x 2.60 m x 3.10 m for one workplace"
+        },
+        {
+          "label": "Integrated type width",
+          "value": 2.6,
+          "value_max": null,
+          "unit": "m",
+          "context": "Integrated ServicePoint for one workplace; LWH: 2.00 m x 2.60 m x 3.10 m",
+          "status": "verified",
+          "ocr_raw": "LWH: 2.00 m x 2.60 m x 3.10 m for one workplace"
+        },
+        {
+          "label": "Integrated type height",
+          "value": 3.1,
+          "value_max": null,
+          "unit": "m",
+          "context": "Integrated ServicePoint for one workplace; LWH: 2.00 m x 2.60 m x 3.10 m",
+          "status": "verified",
+          "ocr_raw": "LWH: 2.00 m x 2.60 m x 3.10 m for one workplace"
+        },
+        {
+          "label": "Fixture extension per further workplace",
+          "value": 1.7,
+          "value_max": null,
+          "unit": "m",
+          "context": "Additional length for each further workplace in the integrated type",
+          "status": "verified",
+          "ocr_raw": "with each\nfurther workplace elongating the fixture by 1.70 m"
+        },
+        {
+          "label": "Mobile type length",
+          "value": 0.9,
+          "value_max": null,
+          "unit": "m",
+          "context": "Mobile ServicePoint rolling stand; LHB: 0.90 m x 0.80 m x 2.30 m",
+          "status": "verified",
+          "ocr_raw": "LHB: 0.90 m x 0.80 m x 2.30 m"
+        },
+        {
+          "label": "Mobile type width",
+          "value": 0.8,
+          "value_max": null,
+          "unit": "m",
+          "context": "Mobile ServicePoint rolling stand; LHB: 0.90 m x 0.80 m x 2.30 m",
+          "status": "verified",
+          "ocr_raw": "LHB: 0.90 m x 0.80 m x 2.30 m"
+        },
+        {
+          "label": "Mobile type height",
+          "value": 2.3,
+          "value_max": null,
+          "unit": "m",
+          "context": "Mobile ServicePoint rolling stand; LHB: 0.90 m x 0.80 m x 2.30 m",
+          "status": "verified",
+          "ocr_raw": "LHB: 0.90 m x 0.80 m x 2.30 m"
+        }
+      ],
+      "figure_refs": [],
+      "cross_refs": [],
+      "keywords": [
+        "ServicePoint",
+        "station information",
+        "customer service",
+        "mobile service point",
+        "workplace"
+      ],
+      "tags_architectural": [
+        "modularity",
+        "adaptability",
+        "circulation"
+      ],
+      "confidence": 0.95
+    },
+    {
+      "id": "4122fb96e4bd1976-428-vision-3",
+      "pdf_page": 428,
+      "book_page": 415,
+      "chapter": "TRANSPORT",
+      "section": "Railways",
+      "title": "Station Stairs and Escalators",
+      "summary": "Usable stair width should be a multiple of the walking passage width and at least the stated clear minimum. Stair width may also be determined from expected peak passenger numbers using the printed formula and parameters. Provide waiting space in front of stairs, contrasting strips on steps, and escalators above the stated passenger thresholds or for the stated level difference. The escalator minimum width accommodates luggage trolleys.",
+      "building_type": "Railway station circulation infrastructure",
+      "spaces": [
+        "Stairs",
+        "Waiting space in front of stairs",
+        "Escalators",
+        "Platforms"
+      ],
+      "uses": [
+        "Passenger circulation between station levels and platforms",
+        "Clearance of passengers from platforms",
+        "Transport luggage trolleys"
+      ],
+      "furniture_equipment": [
+        "Stairs",
+        "Escalators",
+        "Contrasting step strips"
+      ],
+      "dimensions": [
+        {
+          "label": "Walking passage width",
+          "value": 0.8,
+          "value_max": null,
+          "unit": "m",
+          "context": "Usable stair width should be a multiple of this walking passage width",
+          "status": "verified",
+          "ocr_raw": "a multiple of 80 em (walking\npassage width)"
+        },
+        {
+          "label": "Minimum clear stair width",
+          "value": 2.4,
+          "value_max": null,
+          "unit": "m",
+          "context": "Minimum usable stair width",
+          "status": "verified",
+          "ocr_raw": "at least 2.40 m clear"
+        },
+        {
+          "label": "Average walking speed",
+          "value": 0.65,
+          "value_max": null,
+          "unit": "m/s",
+          "context": "Parameter in printed formula for determining stair width",
+          "status": "verified",
+          "ocr_raw": "RAILWAYS\nStation Buildings\n\nStation buildings (German Railways uses the term reception\nbuildings) serve to connect the railway network to other means of\ntransport. The services offered in-house by the railway company\nare limited to essentials like sales of tickets and tours, information\nand taking care of luggage. Other services and shops are operated\nby leaseholders in the station area -----> 0-\n\ne.\n\nTraveiCentre\nThe TraveiCentre is for personal advice and the sale of tickets.\nThe fitting out is modular on a metre grid, and the smallest unit, a\ncounter, is 2 m x 3 m. The elements are delivered completely preinstalled. The adjustable legs enable adaptation of the installation\nand compensation for the height difference between the seated\nstaff and the standing passengers. The system can be completed\nwith various supplementary elements ----->\n\ne.\n\n0\n\nA sufficiently large area should be provided for waiting customers\nwith a free space in front of the counter. If there is more than\none counter, organise one centralised queue if possible. Ticket\nmachines are also provided to relieve the workload at the\ncounter----->\n\ne.\n\nStation aisle, Hannover\n\nFahrkarten\n\n[ill]\n\nServicePoint\nThe ServicePoint is the central source of information between\ncustomer and service staff and is the direct point of contact for\ntravellers. In order to cover the different requirements and local\nconditions, a product family has been developed with three basic\ntypes:\n\n[OJ\n\nTravel service of DB\nDB lounge\nTravelCentre\n\nliTITI} Station service of DB\nLuggage storage\nCourier service\n\nFederal border pollee\nStation mission\n\nE:]\n\nService providers\nTenant areas\nCafe\nSanitary (WC/showers)\nTravel requisites\n\nESS]\n\nStore & building services\n\nf) Station aisle, Hannover- key\n\n90\n\n~\n~\n\nDimensions of free-standing ticket\n\nmachine; can also be installed.\n\n1. Singular type ServicePoint: free-standing in the reception building,\nvarious sizes, modular, different layouts for 1---4 employees (for\ntwo workplaces LWH: 3.00 m x 5.00 m x 3.50 m).\n2. Integrated type ServicePoint: within a fagade or inside the\nstation building, adjacent to the TraveiCentre, for 1---4 employees\n(LWH: 2.00 m x 2.60 m x 3.10 m for one workplace, with each\nfurther workplace elongating the fixture by 1.70 m.)\n3. Mobile type ServicePoint: a rolling stand for flexible use in\nthe station building and also on platforms, for one employee\neach (LHB: 0.90 m x 0.80 m x 2.30 m). These sizes are at the\ndesign stage and could still alter.\n\nStairs\nThe usable stair width should be a multiple of 80 em (walking\npassage width) but at least 2.40 m clear. The stair width can also\nbe determined from the expected passenger numbers according\nto the formula:\nRAILWAYS\n\n~n=\n\nnp\nvx d xt\n\n+W\n\nno. passengers at peak travel time\nnP\naverage walking speed\nv m/s\nd people/m 2 pedestrian traffic density\ntime to clear the platform\nt s\nwalking width in the other direction\nwm\nfor local and urban traffic\n\n=0.65\n=1.0\n=120-180s\n=0.80 m\n=0.60 m\n\nStair dimensions, see-----> p. 120 ff. The waiting space in front of the\nstairs should be 1.5 times the stair width. The first and last steps\nmust, and all other steps should, be provided with a 6 em wide\ncontrasting strip.\n\ne\n\nModular fitting out system for the Travel Centre (DB --> refs)\n\nEscalators\nFrom a passenger density of more than 3000 people per hour or,\nwith a difference in levels of 8 m, more than 500 people, escalators\nshould be provided. The minimum width should be 1 m in order to\nbe able to transport luggage trolleys -----> p. 126 ff.\n\n415\n\nTracks\nFreight transport\nStations\nStation\nbuildings\nPlatforms\nPlatform furniture\n\n\f"
+        },
+        {
+          "label": "Pedestrian traffic density",
+          "value": 1.0,
+          "value_max": null,
+          "unit": "people/m²",
+          "context": "Parameter in printed formula for determining stair width",
+          "status": "verified",
+          "ocr_raw": "RAILWAYS\nStation Buildings\n\nStation buildings (German Railways uses the term reception\nbuildings) serve to connect the railway network to other means of\ntransport. The services offered in-house by the railway company\nare limited to essentials like sales of tickets and tours, information\nand taking care of luggage. Other services and shops are operated\nby leaseholders in the station area -----> 0-\n\ne.\n\nTraveiCentre\nThe TraveiCentre is for personal advice and the sale of tickets.\nThe fitting out is modular on a metre grid, and the smallest unit, a\ncounter, is 2 m x 3 m. The elements are delivered completely preinstalled. The adjustable legs enable adaptation of the installation\nand compensation for the height difference between the seated\nstaff and the standing passengers. The system can be completed\nwith various supplementary elements ----->\n\ne.\n\n0\n\nA sufficiently large area should be provided for waiting customers\nwith a free space in front of the counter. If there is more than\none counter, organise one centralised queue if possible. Ticket\nmachines are also provided to relieve the workload at the\ncounter----->\n\ne.\n\nStation aisle, Hannover\n\nFahrkarten\n\n[ill]\n\nServicePoint\nThe ServicePoint is the central source of information between\ncustomer and service staff and is the direct point of contact for\ntravellers. In order to cover the different requirements and local\nconditions, a product family has been developed with three basic\ntypes:\n\n[OJ\n\nTravel service of DB\nDB lounge\nTravelCentre\n\nliTITI} Station service of DB\nLuggage storage\nCourier service\n\nFederal border pollee\nStation mission\n\nE:]\n\nService providers\nTenant areas\nCafe\nSanitary (WC/showers)\nTravel requisites\n\nESS]\n\nStore & building services\n\nf) Station aisle, Hannover- key\n\n90\n\n~\n~\n\nDimensions of free-standing ticket\n\nmachine; can also be installed.\n\n1. Singular type ServicePoint: free-standing in the reception building,\nvarious sizes, modular, different layouts for 1---4 employees (for\ntwo workplaces LWH: 3.00 m x 5.00 m x 3.50 m).\n2. Integrated type ServicePoint: within a fagade or inside the\nstation building, adjacent to the TraveiCentre, for 1---4 employees\n(LWH: 2.00 m x 2.60 m x 3.10 m for one workplace, with each\nfurther workplace elongating the fixture by 1.70 m.)\n3. Mobile type ServicePoint: a rolling stand for flexible use in\nthe station building and also on platforms, for one employee\neach (LHB: 0.90 m x 0.80 m x 2.30 m). These sizes are at the\ndesign stage and could still alter.\n\nStairs\nThe usable stair width should be a multiple of 80 em (walking\npassage width) but at least 2.40 m clear. The stair width can also\nbe determined from the expected passenger numbers according\nto the formula:\nRAILWAYS\n\n~n=\n\nnp\nvx d xt\n\n+W\n\nno. passengers at peak travel time\nnP\naverage walking speed\nv m/s\nd people/m 2 pedestrian traffic density\ntime to clear the platform\nt s\nwalking width in the other direction\nwm\nfor local and urban traffic\n\n=0.65\n=1.0\n=120-180s\n=0.80 m\n=0.60 m\n\nStair dimensions, see-----> p. 120 ff. The waiting space in front of the\nstairs should be 1.5 times the stair width. The first and last steps\nmust, and all other steps should, be provided with a 6 em wide\ncontrasting strip.\n\ne\n\nModular fitting out system for the Travel Centre (DB --> refs)\n\nEscalators\nFrom a passenger density of more than 3000 people per hour or,\nwith a difference in levels of 8 m, more than 500 people, escalators\nshould be provided. The minimum width should be 1 m in order to\nbe able to transport luggage trolleys -----> p. 126 ff.\n\n415\n\nTracks\nFreight transport\nStations\nStation\nbuildings\nPlatforms\nPlatform furniture\n\n\f"
+        },
+        {
+          "label": "Time to clear the platform",
+          "value": 120.0,
+          "value_max": 180.0,
+          "unit": "s",
+          "context": "Parameter in printed formula for determining stair width",
+          "status": "verified",
+          "ocr_raw": "RAILWAYS\nStation Buildings\n\nStation buildings (German Railways uses the term reception\nbuildings) serve to connect the railway network to other means of\ntransport. The services offered in-house by the railway company\nare limited to essentials like sales of tickets and tours, information\nand taking care of luggage. Other services and shops are operated\nby leaseholders in the station area -----> 0-\n\ne.\n\nTraveiCentre\nThe TraveiCentre is for personal advice and the sale of tickets.\nThe fitting out is modular on a metre grid, and the smallest unit, a\ncounter, is 2 m x 3 m. The elements are delivered completely preinstalled. The adjustable legs enable adaptation of the installation\nand compensation for the height difference between the seated\nstaff and the standing passengers. The system can be completed\nwith various supplementary elements ----->\n\ne.\n\n0\n\nA sufficiently large area should be provided for waiting customers\nwith a free space in front of the counter. If there is more than\none counter, organise one centralised queue if possible. Ticket\nmachines are also provided to relieve the workload at the\ncounter----->\n\ne.\n\nStation aisle, Hannover\n\nFahrkarten\n\n[ill]\n\nServicePoint\nThe ServicePoint is the central source of information between\ncustomer and service staff and is the direct point of contact for\ntravellers. In order to cover the different requirements and local\nconditions, a product family has been developed with three basic\ntypes:\n\n[OJ\n\nTravel service of DB\nDB lounge\nTravelCentre\n\nliTITI} Station service of DB\nLuggage storage\nCourier service\n\nFederal border pollee\nStation mission\n\nE:]\n\nService providers\nTenant areas\nCafe\nSanitary (WC/showers)\nTravel requisites\n\nESS]\n\nStore & building services\n\nf) Station aisle, Hannover- key\n\n90\n\n~\n~\n\nDimensions of free-standing ticket\n\nmachine; can also be installed.\n\n1. Singular type ServicePoint: free-standing in the reception building,\nvarious sizes, modular, different layouts for 1---4 employees (for\ntwo workplaces LWH: 3.00 m x 5.00 m x 3.50 m).\n2. Integrated type ServicePoint: within a fagade or inside the\nstation building, adjacent to the TraveiCentre, for 1---4 employees\n(LWH: 2.00 m x 2.60 m x 3.10 m for one workplace, with each\nfurther workplace elongating the fixture by 1.70 m.)\n3. Mobile type ServicePoint: a rolling stand for flexible use in\nthe station building and also on platforms, for one employee\neach (LHB: 0.90 m x 0.80 m x 2.30 m). These sizes are at the\ndesign stage and could still alter.\n\nStairs\nThe usable stair width should be a multiple of 80 em (walking\npassage width) but at least 2.40 m clear. The stair width can also\nbe determined from the expected passenger numbers according\nto the formula:\nRAILWAYS\n\n~n=\n\nnp\nvx d xt\n\n+W\n\nno. passengers at peak travel time\nnP\naverage walking speed\nv m/s\nd people/m 2 pedestrian traffic density\ntime to clear the platform\nt s\nwalking width in the other direction\nwm\nfor local and urban traffic\n\n=0.65\n=1.0\n=120-180s\n=0.80 m\n=0.60 m\n\nStair dimensions, see-----> p. 120 ff. The waiting space in front of the\nstairs should be 1.5 times the stair width. The first and last steps\nmust, and all other steps should, be provided with a 6 em wide\ncontrasting strip.\n\ne\n\nModular fitting out system for the Travel Centre (DB --> refs)\n\nEscalators\nFrom a passenger density of more than 3000 people per hour or,\nwith a difference in levels of 8 m, more than 500 people, escalators\nshould be provided. The minimum width should be 1 m in order to\nbe able to transport luggage trolleys -----> p. 126 ff.\n\n415\n\nTracks\nFreight transport\nStations\nStation\nbuildings\nPlatforms\nPlatform furniture\n\n\f"
+        },
+        {
+          "label": "Walking width in the other direction",
+          "value": 0.8,
+          "value_max": null,
+          "unit": "m",
+          "context": "Parameter in printed formula for determining stair width",
+          "status": "verified",
+          "ocr_raw": "RAILWAYS\nStation Buildings\n\nStation buildings (German Railways uses the term reception\nbuildings) serve to connect the railway network to other means of\ntransport. The services offered in-house by the railway company\nare limited to essentials like sales of tickets and tours, information\nand taking care of luggage. Other services and shops are operated\nby leaseholders in the station area -----> 0-\n\ne.\n\nTraveiCentre\nThe TraveiCentre is for personal advice and the sale of tickets.\nThe fitting out is modular on a metre grid, and the smallest unit, a\ncounter, is 2 m x 3 m. The elements are delivered completely preinstalled. The adjustable legs enable adaptation of the installation\nand compensation for the height difference between the seated\nstaff and the standing passengers. The system can be completed\nwith various supplementary elements ----->\n\ne.\n\n0\n\nA sufficiently large area should be provided for waiting customers\nwith a free space in front of the counter. If there is more than\none counter, organise one centralised queue if possible. Ticket\nmachines are also provided to relieve the workload at the\ncounter----->\n\ne.\n\nStation aisle, Hannover\n\nFahrkarten\n\n[ill]\n\nServicePoint\nThe ServicePoint is the central source of information between\ncustomer and service staff and is the direct point of contact for\ntravellers. In order to cover the different requirements and local\nconditions, a product family has been developed with three basic\ntypes:\n\n[OJ\n\nTravel service of DB\nDB lounge\nTravelCentre\n\nliTITI} Station service of DB\nLuggage storage\nCourier service\n\nFederal border pollee\nStation mission\n\nE:]\n\nService providers\nTenant areas\nCafe\nSanitary (WC/showers)\nTravel requisites\n\nESS]\n\nStore & building services\n\nf) Station aisle, Hannover- key\n\n90\n\n~\n~\n\nDimensions of free-standing ticket\n\nmachine; can also be installed.\n\n1. Singular type ServicePoint: free-standing in the reception building,\nvarious sizes, modular, different layouts for 1---4 employees (for\ntwo workplaces LWH: 3.00 m x 5.00 m x 3.50 m).\n2. Integrated type ServicePoint: within a fagade or inside the\nstation building, adjacent to the TraveiCentre, for 1---4 employees\n(LWH: 2.00 m x 2.60 m x 3.10 m for one workplace, with each\nfurther workplace elongating the fixture by 1.70 m.)\n3. Mobile type ServicePoint: a rolling stand for flexible use in\nthe station building and also on platforms, for one employee\neach (LHB: 0.90 m x 0.80 m x 2.30 m). These sizes are at the\ndesign stage and could still alter.\n\nStairs\nThe usable stair width should be a multiple of 80 em (walking\npassage width) but at least 2.40 m clear. The stair width can also\nbe determined from the expected passenger numbers according\nto the formula:\nRAILWAYS\n\n~n=\n\nnp\nvx d xt\n\n+W\n\nno. passengers at peak travel time\nnP\naverage walking speed\nv m/s\nd people/m 2 pedestrian traffic density\ntime to clear the platform\nt s\nwalking width in the other direction\nwm\nfor local and urban traffic\n\n=0.65\n=1.0\n=120-180s\n=0.80 m\n=0.60 m\n\nStair dimensions, see-----> p. 120 ff. The waiting space in front of the\nstairs should be 1.5 times the stair width. The first and last steps\nmust, and all other steps should, be provided with a 6 em wide\ncontrasting strip.\n\ne\n\nModular fitting out system for the Travel Centre (DB --> refs)\n\nEscalators\nFrom a passenger density of more than 3000 people per hour or,\nwith a difference in levels of 8 m, more than 500 people, escalators\nshould be provided. The minimum width should be 1 m in order to\nbe able to transport luggage trolleys -----> p. 126 ff.\n\n415\n\nTracks\nFreight transport\nStations\nStation\nbuildings\nPlatforms\nPlatform furniture\n\n\f"
+        },
+        {
+          "label": "Walking width for local and urban traffic",
+          "value": 0.6,
+          "value_max": null,
+          "unit": "m",
+          "context": "Alternative walking-width parameter in the printed formula",
+          "status": "verified",
+          "ocr_raw": "RAILWAYS\nStation Buildings\n\nStation buildings (German Railways uses the term reception\nbuildings) serve to connect the railway network to other means of\ntransport. The services offered in-house by the railway company\nare limited to essentials like sales of tickets and tours, information\nand taking care of luggage. Other services and shops are operated\nby leaseholders in the station area -----> 0-\n\ne.\n\nTraveiCentre\nThe TraveiCentre is for personal advice and the sale of tickets.\nThe fitting out is modular on a metre grid, and the smallest unit, a\ncounter, is 2 m x 3 m. The elements are delivered completely preinstalled. The adjustable legs enable adaptation of the installation\nand compensation for the height difference between the seated\nstaff and the standing passengers. The system can be completed\nwith various supplementary elements ----->\n\ne.\n\n0\n\nA sufficiently large area should be provided for waiting customers\nwith a free space in front of the counter. If there is more than\none counter, organise one centralised queue if possible. Ticket\nmachines are also provided to relieve the workload at the\ncounter----->\n\ne.\n\nStation aisle, Hannover\n\nFahrkarten\n\n[ill]\n\nServicePoint\nThe ServicePoint is the central source of information between\ncustomer and service staff and is the direct point of contact for\ntravellers. In order to cover the different requirements and local\nconditions, a product family has been developed with three basic\ntypes:\n\n[OJ\n\nTravel service of DB\nDB lounge\nTravelCentre\n\nliTITI} Station service of DB\nLuggage storage\nCourier service\n\nFederal border pollee\nStation mission\n\nE:]\n\nService providers\nTenant areas\nCafe\nSanitary (WC/showers)\nTravel requisites\n\nESS]\n\nStore & building services\n\nf) Station aisle, Hannover- key\n\n90\n\n~\n~\n\nDimensions of free-standing ticket\n\nmachine; can also be installed.\n\n1. Singular type ServicePoint: free-standing in the reception building,\nvarious sizes, modular, different layouts for 1---4 employees (for\ntwo workplaces LWH: 3.00 m x 5.00 m x 3.50 m).\n2. Integrated type ServicePoint: within a fagade or inside the\nstation building, adjacent to the TraveiCentre, for 1---4 employees\n(LWH: 2.00 m x 2.60 m x 3.10 m for one workplace, with each\nfurther workplace elongating the fixture by 1.70 m.)\n3. Mobile type ServicePoint: a rolling stand for flexible use in\nthe station building and also on platforms, for one employee\neach (LHB: 0.90 m x 0.80 m x 2.30 m). These sizes are at the\ndesign stage and could still alter.\n\nStairs\nThe usable stair width should be a multiple of 80 em (walking\npassage width) but at least 2.40 m clear. The stair width can also\nbe determined from the expected passenger numbers according\nto the formula:\nRAILWAYS\n\n~n=\n\nnp\nvx d xt\n\n+W\n\nno. passengers at peak travel time\nnP\naverage walking speed\nv m/s\nd people/m 2 pedestrian traffic density\ntime to clear the platform\nt s\nwalking width in the other direction\nwm\nfor local and urban traffic\n\n=0.65\n=1.0\n=120-180s\n=0.80 m\n=0.60 m\n\nStair dimensions, see-----> p. 120 ff. The waiting space in front of the\nstairs should be 1.5 times the stair width. The first and last steps\nmust, and all other steps should, be provided with a 6 em wide\ncontrasting strip.\n\ne\n\nModular fitting out system for the Travel Centre (DB --> refs)\n\nEscalators\nFrom a passenger density of more than 3000 people per hour or,\nwith a difference in levels of 8 m, more than 500 people, escalators\nshould be provided. The minimum width should be 1 m in order to\nbe able to transport luggage trolleys -----> p. 126 ff.\n\n415\n\nTracks\nFreight transport\nStations\nStation\nbuildings\nPlatforms\nPlatform furniture\n\n\f"
+        },
+        {
+          "label": "Waiting space in front of stairs",
+          "value": 1.5,
+          "value_max": null,
+          "unit": "times stair width",
+          "context": "Recommended depth/extent relative to stair width",
+          "status": "verified",
+          "ocr_raw": "The waiting space in front of the\nstairs should be 1.5 times the stair width."
+        },
+        {
+          "label": "Contrasting strip width",
+          "value": 6.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Contrasting strips required on first and last steps and recommended on all other steps",
+          "status": "verified",
+          "ocr_raw": "RAILWAYS\nStation Buildings\n\nStation buildings (German Railways uses the term reception\nbuildings) serve to connect the railway network to other means of\ntransport. The services offered in-house by the railway company\nare limited to essentials like sales of tickets and tours, information\nand taking care of luggage. Other services and shops are operated\nby leaseholders in the station area -----> 0-\n\ne.\n\nTraveiCentre\nThe TraveiCentre is for personal advice and the sale of tickets.\nThe fitting out is modular on a metre grid, and the smallest unit, a\ncounter, is 2 m x 3 m. The elements are delivered completely preinstalled. The adjustable legs enable adaptation of the installation\nand compensation for the height difference between the seated\nstaff and the standing passengers. The system can be completed\nwith various supplementary elements ----->\n\ne.\n\n0\n\nA sufficiently large area should be provided for waiting customers\nwith a free space in front of the counter. If there is more than\none counter, organise one centralised queue if possible. Ticket\nmachines are also provided to relieve the workload at the\ncounter----->\n\ne.\n\nStation aisle, Hannover\n\nFahrkarten\n\n[ill]\n\nServicePoint\nThe ServicePoint is the central source of information between\ncustomer and service staff and is the direct point of contact for\ntravellers. In order to cover the different requirements and local\nconditions, a product family has been developed with three basic\ntypes:\n\n[OJ\n\nTravel service of DB\nDB lounge\nTravelCentre\n\nliTITI} Station service of DB\nLuggage storage\nCourier service\n\nFederal border pollee\nStation mission\n\nE:]\n\nService providers\nTenant areas\nCafe\nSanitary (WC/showers)\nTravel requisites\n\nESS]\n\nStore & building services\n\nf) Station aisle, Hannover- key\n\n90\n\n~\n~\n\nDimensions of free-standing ticket\n\nmachine; can also be installed.\n\n1. Singular type ServicePoint: free-standing in the reception building,\nvarious sizes, modular, different layouts for 1---4 employees (for\ntwo workplaces LWH: 3.00 m x 5.00 m x 3.50 m).\n2. Integrated type ServicePoint: within a fagade or inside the\nstation building, adjacent to the TraveiCentre, for 1---4 employees\n(LWH: 2.00 m x 2.60 m x 3.10 m for one workplace, with each\nfurther workplace elongating the fixture by 1.70 m.)\n3. Mobile type ServicePoint: a rolling stand for flexible use in\nthe station building and also on platforms, for one employee\neach (LHB: 0.90 m x 0.80 m x 2.30 m). These sizes are at the\ndesign stage and could still alter.\n\nStairs\nThe usable stair width should be a multiple of 80 em (walking\npassage width) but at least 2.40 m clear. The stair width can also\nbe determined from the expected passenger numbers according\nto the formula:\nRAILWAYS\n\n~n=\n\nnp\nvx d xt\n\n+W\n\nno. passengers at peak travel time\nnP\naverage walking speed\nv m/s\nd people/m 2 pedestrian traffic density\ntime to clear the platform\nt s\nwalking width in the other direction\nwm\nfor local and urban traffic\n\n=0.65\n=1.0\n=120-180s\n=0.80 m\n=0.60 m\n\nStair dimensions, see-----> p. 120 ff. The waiting space in front of the\nstairs should be 1.5 times the stair width. The first and last steps\nmust, and all other steps should, be provided with a 6 em wide\ncontrasting strip.\n\ne\n\nModular fitting out system for the Travel Centre (DB --> refs)\n\nEscalators\nFrom a passenger density of more than 3000 people per hour or,\nwith a difference in levels of 8 m, more than 500 people, escalators\nshould be provided. The minimum width should be 1 m in order to\nbe able to transport luggage trolleys -----> p. 126 ff.\n\n415\n\nTracks\nFreight transport\nStations\nStation\nbuildings\nPlatforms\nPlatform furniture\n\n\f"
+        },
+        {
+          "label": "Escalator passenger-density threshold",
+          "value": 3000.0,
+          "value_max": null,
+          "unit": "people per hour",
+          "context": "Escalators should be provided from a passenger density greater than this threshold",
+          "status": "verified",
+          "ocr_raw": "From a passenger density of more than 3000 people per hour"
+        },
+        {
+          "label": "Level difference for escalator provision",
+          "value": 8.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Escalator provision threshold stated alongside the passenger threshold",
+          "status": "verified",
+          "ocr_raw": "with a difference in levels of 8 m"
+        },
+        {
+          "label": "Passenger threshold at stated level difference",
+          "value": 500.0,
+          "value_max": null,
+          "unit": "people",
+          "context": "Escalators should be provided with a difference in levels of 8 m and more than this number of people",
+          "status": "verified",
+          "ocr_raw": "more than 500 people"
+        },
+        {
+          "label": "Minimum escalator width",
+          "value": 1.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Minimum width to transport luggage trolleys",
+          "status": "verified",
+          "ocr_raw": "The minimum width should be 1 m"
+        }
+      ],
+      "figure_refs": [],
+      "cross_refs": [
+        "p. 120 ff.",
+        "p. 126 ff."
+      ],
+      "keywords": [
+        "station stairs",
+        "escalators",
+        "stair width",
+        "passenger flow",
+        "platform clearance",
+        "luggage trolleys"
+      ],
+      "tags_architectural": [
+        "circulation",
+        "clearance",
+        "safety",
+        "accessibility",
+        "anthropometry"
+      ],
+      "confidence": 0.94
+    }
+  ]
+}

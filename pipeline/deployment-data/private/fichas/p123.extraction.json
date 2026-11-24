@@ -1,0 +1,357 @@
+{
+  "fichas": [
+    {
+      "id": "4122fb96e4bd1976-123-vision-0",
+      "pdf_page": 123,
+      "book_page": 110,
+      "chapter": "BUILDING COMPONENTS",
+      "section": "Glass",
+      "title": "Glass Blocks",
+      "summary": "Hollow glass units made by melting and pressing two sections together to form a sealed air cavity. They may be transparent, translucent, diffusing, low-glare, decorative, or coloured. The page covers uses, fire resistance, thermal and acoustic properties, installation details, block sizes, minimum radii, and limits for unreinforced walls. Glass block walls are non-load-bearing. The minimum structural opening is expressed by the formulas A = n₁·b + n₂·a, B = A + 2·c, and H = A + c + d; these formulas are retained as text rather than treated as numeric dimensions.",
+      "building_type": "Glass block wall",
+      "spaces": [
+        "Interior and exterior wall openings",
+        "Room dividers",
+        "Gymnasiums and sports halls",
+        "Balconies",
+        "Terraces"
+      ],
+      "uses": [
+        "Transparent screen walls",
+        "Room dividers",
+        "Windows",
+        "Lighting strips",
+        "Balcony parapets",
+        "Terrace walls"
+      ],
+      "furniture_equipment": [
+        "Glass blocks",
+        "Cement mortar",
+        "Lightweight mortar",
+        "Special bricks",
+        "Slip joints",
+        "Expansion joints",
+        "Flexible sealing",
+        "Plaster",
+        "Aluminium windowsills",
+        "U-profiles",
+        "L-sections",
+        "Anchors or pegs"
+      ],
+      "dimensions": [
+        {
+          "label": "c",
+          "value": 8.5,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Constant given with the minimum structural opening formulas.",
+          "status": "uncertain",
+          "ocr_raw": "c = 8.5cm"
+        },
+        {
+          "label": "d",
+          "value": 6.5,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Constant given with the minimum structural opening formulas.",
+          "status": "uncertain",
+          "ocr_raw": "d = 6.5cm"
+        },
+        {
+          "label": "Maximum uninterrupted area",
+          "value": 3.5,
+          "value_max": null,
+          "unit": "m²",
+          "context": "Maximum uninterrupted area for glass blocks used as a cavity wall in the fire-resistance statement.",
+          "status": "uncertain",
+          "ocr_raw": "maximum uninterrupted area of 3.5 m2"
+        },
+        {
+          "label": "Fire-resistance rating",
+          "value": 60.0,
+          "value_max": null,
+          "unit": "rating",
+          "context": "One of the listed fire-resistance ratings for glass blocks used as a cavity wall.",
+          "status": "uncertain",
+          "ocr_raw": "G60, G120 or F60"
+        },
+        {
+          "label": "Fire-resistance rating",
+          "value": 120.0,
+          "value_max": null,
+          "unit": "rating",
+          "context": "One of the listed fire-resistance ratings for glass blocks used as a cavity wall.",
+          "status": "uncertain",
+          "ocr_raw": "G60, G120 or F60"
+        },
+        {
+          "label": "Fire-resistance rating",
+          "value": 60.0,
+          "value_max": null,
+          "unit": "rating",
+          "context": "One of the listed fire-resistance ratings for glass blocks used as a cavity wall.",
+          "status": "uncertain",
+          "ocr_raw": "G60, G120 or F60"
+        },
+        {
+          "label": "Light transmittance, up to",
+          "value": 82.0,
+          "value_max": null,
+          "unit": "%",
+          "context": "Property of glass blocks.",
+          "status": "uncertain",
+          "ocr_raw": "high light transmittance (up to 82%)"
+        },
+        {
+          "label": "U-value, cement mortar",
+          "value": 3.2,
+          "value_max": null,
+          "unit": "W/m²K",
+          "context": "Thermal insulation value of a glass block wall with cement mortar.",
+          "status": "uncertain",
+          "ocr_raw": "with cement mortar Ug-value = 3.2 W/m2K"
+        },
+        {
+          "label": "U-value, lightweight mortar",
+          "value": 2.9,
+          "value_max": null,
+          "unit": "W/m²K",
+          "context": "Thermal insulation value of a glass block wall with lightweight mortar.",
+          "status": "uncertain",
+          "ocr_raw": "with lightweight mortar Ug = 2.9 W/m2K"
+        },
+        {
+          "label": "U-value, special bricks, up to",
+          "value": 1.5,
+          "value_max": null,
+          "unit": "W/m²K",
+          "context": "Thermal insulation value of a glass block wall with special bricks.",
+          "status": "uncertain",
+          "ocr_raw": "with special bricks up to Ug = 1.5 W/m2K"
+        },
+        {
+          "label": "Maximum joint width",
+          "value": 1.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Joint-width limit stated with minimum-radius guidance.",
+          "status": "uncertain",
+          "ocr_raw": "joints must be < 1.0 cm wide"
+        },
+        {
+          "label": "Minimum radius",
+          "value": 65.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Minimum radius paired with nominal block size 11.5 cm.",
+          "status": "uncertain",
+          "ocr_raw": "65cm min. radius; 11.5cm nominal block size"
+        },
+        {
+          "label": "Nominal block size",
+          "value": 11.5,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Block size paired with a minimum radius of 65 cm.",
+          "status": "uncertain",
+          "ocr_raw": "65cm min. radius; 11.5cm nominal block size"
+        },
+        {
+          "label": "Minimum radius",
+          "value": 105.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Minimum radius paired with nominal block size 19.0 cm.",
+          "status": "uncertain",
+          "ocr_raw": "105cm min. radius; 19cm nominal block size"
+        },
+        {
+          "label": "Nominal block size",
+          "value": 19.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Block size paired with a minimum radius of 105 cm.",
+          "status": "uncertain",
+          "ocr_raw": "105cm min. radius; 19cm nominal block size"
+        },
+        {
+          "label": "Minimum radius",
+          "value": 135.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Minimum radius paired with nominal block size 24.0 cm.",
+          "status": "uncertain",
+          "ocr_raw": "135cm min. radius; 24.0cm nominal block size"
+        },
+        {
+          "label": "Nominal block size",
+          "value": 24.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Block size paired with a minimum radius of 135 cm.",
+          "status": "uncertain",
+          "ocr_raw": "135cm min. radius; 24.0cm nominal block size"
+        },
+        {
+          "label": "Glass block dimensions",
+          "value": 115.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Nominal dimensions are 115 × 115 × 60 mm.",
+          "status": "uncertain",
+          "ocr_raw": "115 × 115 × 60"
+        },
+        {
+          "label": "Glass block dimensions",
+          "value": 146.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Nominal dimensions are 146 × 146 × 98 mm; the table also prints an imperial size.",
+          "status": "uncertain",
+          "ocr_raw": "146 × 146 × 98; 6\"×6\"×8\""
+        },
+        {
+          "label": "Glass block dimensions",
+          "value": 190.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Nominal dimensions are 190 × 190 × 50 mm.",
+          "status": "uncertain",
+          "ocr_raw": "190 × 190 × 50"
+        },
+        {
+          "label": "Glass block dimensions",
+          "value": 190.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Nominal dimensions are 190 × 190 × 80 mm.",
+          "status": "uncertain",
+          "ocr_raw": "190 × 190 × 80"
+        },
+        {
+          "label": "Glass block dimensions",
+          "value": 190.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Nominal dimensions are 190 × 190 × 100 mm.",
+          "status": "uncertain",
+          "ocr_raw": "190 × 190 × 100"
+        },
+        {
+          "label": "Glass block dimensions",
+          "value": 197.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Nominal dimensions are 197 × 197 × 98 mm; the table also prints an imperial size.",
+          "status": "uncertain",
+          "ocr_raw": "197x197x98; 8\"x8\"x4\""
+        },
+        {
+          "label": "Glass block dimensions",
+          "value": 240.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Nominal dimensions are 240 × 115 × 80 mm.",
+          "status": "uncertain",
+          "ocr_raw": "240x 115x80"
+        },
+        {
+          "label": "Glass block dimensions",
+          "value": 240.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Nominal dimensions are 240 × 240 × 80 mm.",
+          "status": "uncertain",
+          "ocr_raw": "240 x240x 80"
+        },
+        {
+          "label": "Glass block dimensions",
+          "value": 300.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Nominal dimensions are 300 × 300 × 100 mm.",
+          "status": "uncertain",
+          "ocr_raw": "300 X 300 X 100"
+        },
+        {
+          "label": "Minimum wall thickness",
+          "value": 80.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Permissible limits table for unreinforced glass block walls.",
+          "status": "uncertain",
+          "ocr_raw": "≥80"
+        },
+        {
+          "label": "Maximum shorter-side wall dimension, continuous joints",
+          "value": 1.5,
+          "value_max": null,
+          "unit": "m",
+          "context": "Permissible limits for unreinforced walls with continuous joints.",
+          "status": "uncertain",
+          "ocr_raw": "≤1.5"
+        },
+        {
+          "label": "Minimum longer-side wall dimension, continuous joints",
+          "value": 1.5,
+          "value_max": null,
+          "unit": "m",
+          "context": "Permissible limits for unreinforced walls with continuous joints.",
+          "status": "uncertain",
+          "ocr_raw": "≥1.5"
+        },
+        {
+          "label": "Maximum wind load",
+          "value": 0.8,
+          "value_max": null,
+          "unit": "kN/m²",
+          "context": "Permissible limits for unreinforced glass block walls with continuous joints.",
+          "status": "uncertain",
+          "ocr_raw": "≤0.8"
+        },
+        {
+          "label": "Maximum shorter-side wall dimension, overlapped (bonded) joints",
+          "value": 6.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Permissible limits for unreinforced walls with overlapped (bonded) joints.",
+          "status": "uncertain",
+          "ocr_raw": "≤6.0"
+        }
+      ],
+      "figure_refs": [
+        "1 Standard dimensions for glass block walls",
+        "2 Examples of glass block wall construction",
+        "3 Installation with U-profiles and external thermal insulation",
+        "4 Interior wall junction using U-profiles",
+        "5 Minimum radii of glass block walls",
+        "6 Dimensions of glass blocks",
+        "7 Permissible limits for unreinforced glass block walls"
+      ],
+      "cross_refs": [
+        "→ 7",
+        "BS EN 1051",
+        "ISO 21690",
+        "DIN EN 1051",
+        "DIN 4102-3",
+        "DIN 4242"
+      ],
+      "keywords": [
+        "glass blocks",
+        "glass block wall",
+        "minimum structural opening",
+        "joints",
+        "minimum radii",
+        "unreinforced walls",
+        "thermal insulation",
+        "fire resistance",
+        "wall construction"
+      ],
+      "tags_architectural": [
+        "safety",
+        "daylighting"
+      ],
+      "confidence": 0.91
+    }
+  ]
+}

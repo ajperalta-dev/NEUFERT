@@ -1,0 +1,267 @@
+{
+  "fichas": [
+    {
+      "id": "4122fb96e4bd1976-534-vision-0",
+      "pdf_page": 534,
+      "book_page": 521,
+      "chapter": "BUILDING SERVICES",
+      "section": "Fire Protection",
+      "title": "Water spray extinguisher systems",
+      "summary": "Permanently installed dry pipework with open nozzles releases water immediately when activated. Spray pattern and coverage are designed for the room, building, contents, storage, and wind conditions. Systems are grouped to protect areas and can supply nearby group areas simultaneously.",
+      "building_type": "Fire-protection system",
+      "spaces": [
+        "Protected rooms and areas",
+        "Aircraft hangars",
+        "Waste bunkers and incineration plants",
+        "Stages",
+        "Transformers and tanks",
+        "Cable ducts",
+        "Chipping silos",
+        "Power stations",
+        "Hydraulic rooms"
+      ],
+      "uses": [
+        "Protect buildings, industrial facilities, flammable-liquid systems, and other listed areas from fire"
+      ],
+      "furniture_equipment": [
+        "Permanently installed pipework",
+        "Open nozzles",
+        "Water supply"
+      ],
+      "dimensions": [
+        {
+          "label": "Water spray rate",
+          "value": 5.0,
+          "value_max": 60.0,
+          "unit": "l/m²/min",
+          "context": "Required water spray application rate.",
+          "status": "uncertain",
+          "ocr_raw": "must spray at a rate of 5–60 l/m²/min"
+        },
+        {
+          "label": "Protected area per group",
+          "value": 100.0,
+          "value_max": 400.0,
+          "unit": "m²",
+          "context": "Area normally protected by systems arranged into groups.",
+          "status": "uncertain",
+          "ocr_raw": "Systems arranged into groups normally protect an area of 100–400 m² per group."
+        },
+        {
+          "label": "Room area threshold",
+          "value": 200.0,
+          "value_max": null,
+          "unit": "m²",
+          "context": "Total effective area guidance applies to rooms at or above this area, divided into group effective areas.",
+          "status": "uncertain",
+          "ocr_raw": "The total effective area for rooms ≥200 m²"
+        },
+        {
+          "label": "Supply radius",
+          "value": 7.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Group effective areas within this radius of the location at greatest fire risk can be supplied simultaneously.",
+          "status": "uncertain",
+          "ocr_raw": "within a radius of 7 m of the location at most risk"
+        }
+      ],
+      "figure_refs": [],
+      "cross_refs": [],
+      "keywords": [
+        "water spray",
+        "fire protection",
+        "open nozzles",
+        "fire suppression"
+      ],
+      "tags_architectural": [
+        "safety"
+      ],
+      "confidence": 0.98
+    },
+    {
+      "id": "4122fb96e4bd1976-534-vision-1",
+      "pdf_page": 534,
+      "book_page": 521,
+      "chapter": "BUILDING SERVICES",
+      "section": "Fire Protection",
+      "title": "Oxygen-reducing extinguisher systems (CO₂ systems)",
+      "summary": "Oxygen-reducing systems suppress combustion by lowering the oxygen content. The page describes CO₂ as a gaseous fire-fighting agent delivered rapidly through installed pipework and open nozzles, with detection, control, alarm, and activation equipment. Safety is critical because concentrations above 5% are described as lethal and strongly corrosive.",
+      "building_type": "Fire-protection system",
+      "spaces": [
+        "Protected rooms",
+        "Areas requiring whole-room CO₂ protection"
+      ],
+      "uses": [
+        "Suppress developing fires and maintain CO₂ concentration to prevent reignition",
+        "Protect rooms and areas from fires involving combustible liquids, gases, electrical and electronic equipment, and some solid materials"
+      ],
+      "furniture_equipment": [
+        "CO₂ bottles",
+        "Valves",
+        "Permanently installed pipework",
+        "Open nozzles",
+        "Fire detection, control, alarm, and activation equipment"
+      ],
+      "dimensions": [
+        {
+          "label": "Maximum floor area supplied per nozzle",
+          "value": 30.0,
+          "value_max": null,
+          "unit": "m²",
+          "context": "For systems intended to protect rooms, one nozzle may supply at most this floor area.",
+          "status": "uncertain",
+          "ocr_raw": "one nozzle may supply at most 30 m² of floor area"
+        },
+        {
+          "label": "Room height threshold",
+          "value": 5.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "For rooms higher than this, nozzles are installed at the ceiling and also at approximately one-third of room height.",
+          "status": "uncertain",
+          "ocr_raw": "If the room is more than 5 m high"
+        },
+        {
+          "label": "Additional nozzle position",
+          "value": 0.3333333333333333,
+          "value_max": null,
+          "unit": "room height",
+          "context": "Approximate position for additional nozzles in rooms more than 5 m high; the printed fraction is one-third.",
+          "status": "uncertain",
+          "ocr_raw": "at approx. ⅓ of room height"
+        },
+        {
+          "label": "Lethal CO₂ concentration threshold",
+          "value": 5.0,
+          "value_max": null,
+          "unit": "%",
+          "context": "Concentrations over this level are described as lethal and strongly corrosive.",
+          "status": "uncertain",
+          "ocr_raw": "concentrations of over 5% are lethal"
+        }
+      ],
+      "figure_refs": [],
+      "cross_refs": [
+        "VdS Guidelines 2093"
+      ],
+      "keywords": [
+        "oxygen reduction",
+        "carbon dioxide",
+        "CO₂",
+        "fire suppression",
+        "fire safety"
+      ],
+      "tags_architectural": [
+        "safety"
+      ],
+      "confidence": 0.97
+    },
+    {
+      "id": "4122fb96e4bd1976-534-vision-2",
+      "pdf_page": 534,
+      "book_page": 521,
+      "chapter": "BUILDING SERVICES",
+      "section": "Fire Protection",
+      "title": "Powder extinguisher systems",
+      "summary": "Fire-extinguishing powders are chemical mixtures used for fires involving specified combustible solids, liquids, gases, and metals. Powder systems are used in industrial facilities but are unsuitable for certain dust-sensitive equipment, low-voltage electrical equipment, or locations where powder may cause a chemical reaction.",
+      "building_type": "Fire-protection system",
+      "spaces": [
+        "Industrial buildings and enclosed rooms",
+        "Open-air industrial areas",
+        "Chemical and process plants",
+        "Oil cellars and sumps",
+        "Filling, compressor, pumping, and transfer stations"
+      ],
+      "uses": [
+        "Extinguish fires involving suitable combustible solids, liquids, gases, and metals"
+      ],
+      "furniture_equipment": [
+        "Fire-extinguishing powder"
+      ],
+      "dimensions": [
+        {
+          "label": "Operating temperature range",
+          "value": -20.0,
+          "value_max": 60.0,
+          "unit": "°C",
+          "context": "Temperature range in which extinguisher powder can be used under normal conditions.",
+          "status": "uncertain",
+          "ocr_raw": "at temperatures from −20 to +60°C"
+        }
+      ],
+      "figure_refs": [],
+      "cross_refs": [
+        "VdS Guidelines 3038"
+      ],
+      "keywords": [
+        "powder extinguisher",
+        "fire protection",
+        "industrial facilities",
+        "combustible materials"
+      ],
+      "tags_architectural": [
+        "safety"
+      ],
+      "confidence": 0.96
+    },
+    {
+      "id": "4122fb96e4bd1976-534-vision-3",
+      "pdf_page": 534,
+      "book_page": 521,
+      "chapter": "BUILDING SERVICES",
+      "section": "Fire Protection",
+      "title": "Foam extinguisher systems",
+      "summary": "Foam is produced by combining water and foaming agent with air. Systems use heavy, medium, or light foam, with design depending on coverage, obstacles, object location, and foam characteristics. Water supply is sized for the largest object when multiple separate objects are protected by one system.",
+      "building_type": "Fire-protection system",
+      "spaces": [
+        "Buildings and rooms",
+        "Open-air areas",
+        "Areas or objects requiring precautionary fire coverage"
+      ],
+      "uses": [
+        "Extinguish fires and provide precautionary coverage",
+        "Cover protected areas with heavy or medium foam, or fill a room or building with light foam"
+      ],
+      "furniture_equipment": [
+        "Water supply",
+        "Foaming agent",
+        "Foam-generating equipment"
+      ],
+      "dimensions": [
+        {
+          "label": "Minimum operating time for heavy foam",
+          "value": 120.0,
+          "value_max": null,
+          "unit": "min",
+          "context": "Minimum water-supply operating duration for heavy-foam systems.",
+          "status": "uncertain",
+          "ocr_raw": "at least 120 min for heavy foam"
+        },
+        {
+          "label": "Minimum operating time for medium foam",
+          "value": 60.0,
+          "value_max": null,
+          "unit": "min",
+          "context": "Minimum water-supply operating duration for medium-foam systems.",
+          "status": "uncertain",
+          "ocr_raw": "60 min for medium foam"
+        }
+      ],
+      "figure_refs": [],
+      "cross_refs": [
+        "VdS Guidelines 2108"
+      ],
+      "keywords": [
+        "foam extinguisher",
+        "foam systems",
+        "fire protection",
+        "water supply"
+      ],
+      "tags_architectural": [
+        "safety"
+      ],
+      "confidence": 0.97
+    }
+  ]
+}

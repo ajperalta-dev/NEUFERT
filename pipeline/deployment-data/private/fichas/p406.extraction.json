@@ -1,0 +1,185 @@
+{
+  "fichas": [
+    {
+      "id": "4122fb96e4bd1976-406-vision-0",
+      "pdf_page": 406,
+      "book_page": 393,
+      "chapter": "TRANSPORT",
+      "section": "Parking Facilities",
+      "title": "Ramps in Multi-Storey Car Parks",
+      "summary": "Overview of ramp systems for overcoming level differences in multi-storey car parks: straight continuous ramps, sloping parking floors, half-storey offset ramps (D’Humy), and spiral ramps. The text gives guidance on gradients, transitions from public roads, spiral-ramp geometry, and pedestrian provision. Figures illustrate ramp arrangements, widths, access control, and half-storey layouts.",
+      "building_type": "Multi-storey car park",
+      "spaces": [
+        "Parking areas",
+        "Vehicle ramps",
+        "Pedestrian routes"
+      ],
+      "uses": [
+        "Connecting storeys in multi-storey car parks",
+        "Vehicle access and circulation",
+        "Pedestrian circulation"
+      ],
+      "furniture_equipment": [
+        "Raised pavement",
+        "Control device",
+        "Barrier",
+        "Post"
+      ],
+      "dimensions": [
+        {
+          "label": "Maximum ramp gradient",
+          "value": 15.0,
+          "value_max": null,
+          "unit": "%",
+          "context": "General maximum gradient for ramps.",
+          "status": "uncertain",
+          "ocr_raw": "gradient of ramps should not exceed 15%"
+        },
+        {
+          "label": "Maximum ramp gradient for small car parks",
+          "value": 20.0,
+          "value_max": null,
+          "unit": "%",
+          "context": "Maximum stated for small car parks.",
+          "status": "uncertain",
+          "ocr_raw": "for small car parks 20%"
+        },
+        {
+          "label": "Public-road ramp threshold gradient",
+          "value": 5.0,
+          "value_max": null,
+          "unit": "°",
+          "context": "Horizontal run is required between public roads and ramps exceeding this gradient.",
+          "status": "uncertain",
+          "ocr_raw": "ramps with more than 5° gradient"
+        },
+        {
+          "label": "Horizontal run before ramp",
+          "value": 5.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Run between public roads and ramps with more than 5° gradient.",
+          "status": "uncertain",
+          "ocr_raw": "a horizontal run of ~5 m length"
+        },
+        {
+          "label": "Horizontal run for car ramps",
+          "value": 3.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Run specified for car ramps, with ramps at up to 10% gradient.",
+          "status": "uncertain",
+          "ocr_raw": "the run should be ~3 m long, with ramps at up to 10% gradient."
+        },
+        {
+          "label": "Gradient for the specified car-ramp run",
+          "value": 10.0,
+          "value_max": null,
+          "unit": "%",
+          "context": "Gradient limit paired in the text with the approximately 3 m run.",
+          "status": "uncertain",
+          "ocr_raw": "ramps at up to 10% gradient."
+        },
+        {
+          "label": "Sloping-floor gradient",
+          "value": 6.0,
+          "value_max": null,
+          "unit": "%",
+          "context": "No-loss full-ramp system; the entire parking area is on a slope.",
+          "status": "uncertain",
+          "ocr_raw": "Slope ~6%."
+        },
+        {
+          "label": "Spiral-ramp transverse gradient",
+          "value": 3.0,
+          "value_max": null,
+          "unit": "%",
+          "context": "Transverse gradient of spiral ramps.",
+          "status": "uncertain",
+          "ocr_raw": "transverse gradient of ~3%."
+        },
+        {
+          "label": "Spiral-ramp inner road-edge radius",
+          "value": 5.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Radius at the inner road edge of spiral ramps.",
+          "status": "uncertain",
+          "ocr_raw": "The radius of the inner road edge is ~5 m."
+        },
+        {
+          "label": "Raised pavement width",
+          "value": 80.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Minimum stated width for a raised pavement on ramps also used by pedestrians, unless pedestrian routes are provided elsewhere.",
+          "status": "uncertain",
+          "ocr_raw": "must have a ~80 em wide raised pavement"
+        },
+        {
+          "label": "Gradient of illustrated D’Humy ramps",
+          "value": 13.0,
+          "value_max": 15.0,
+          "unit": "%",
+          "context": "Gradient range stated for the basic forms of D’Humy ramps.",
+          "status": "uncertain",
+          "ocr_raw": "Ramps with 13-15% gradient"
+        },
+        {
+          "label": "Illustrated ramp gradient",
+          "value": 13.0,
+          "value_max": null,
+          "unit": "%",
+          "context": "Gradient shown with an approximately 10.00 m dimension in the ramp illustration.",
+          "status": "uncertain",
+          "ocr_raw": "13% gradient"
+        },
+        {
+          "label": "Illustrated length",
+          "value": 10.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Approximate dimension shown beside the illustrated 13% gradient; OCR gives the number without a readable unit.",
+          "status": "uncertain",
+          "ocr_raw": "~ 10.00"
+        }
+      ],
+      "figure_refs": [
+        "1 Ramp systems",
+        "2 Separate spiral ramp towers at the corners of the building",
+        "3 Schematic plan",
+        "4 Minimum ramp widths",
+        "5 Minimum ramp widths in curve with minimum radius",
+        "6 Half-ramp with one-way traffic",
+        "7 Access control",
+        "8 Basic forms of D’Humy ramps",
+        "9 Dovetailing of half-storeys"
+      ],
+      "cross_refs": [
+        "→ 1",
+        "→ 1, 6 and 8",
+        "→ 1–5",
+        "→ 2",
+        "→ 8"
+      ],
+      "keywords": [
+        "parking facilities",
+        "ramps",
+        "multi-storey car parks",
+        "full ramps",
+        "sloping floor levels",
+        "D’Humy ramps",
+        "spiral ramps",
+        "ramp gradients",
+        "pedestrian routes",
+        "access control"
+      ],
+      "tags_architectural": [
+        "circulation",
+        "clearance",
+        "safety"
+      ],
+      "confidence": 0.91
+    }
+  ]
+}

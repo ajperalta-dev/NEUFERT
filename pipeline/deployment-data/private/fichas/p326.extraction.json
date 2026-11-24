@@ -1,0 +1,241 @@
+{
+  "fichas": [
+    {
+      "id": "4122fb96e4bd1976-326-vision-0",
+      "pdf_page": 326,
+      "book_page": 313,
+      "chapter": "HEALTH",
+      "section": "Hospitals",
+      "title": "Hospital Supply Area",
+      "summary": "Commercial and technical supplies enter through a separate service building or a neutral basement supply and waste-disposal level. Delivery access should be separated from the main entrance and stretcher arrivals; locating delivery and waste areas to the north is described as ideal. Routes should limit interaction with care and treatment traffic. The area may cause noise and odour nuisance, and supply and waste services are increasingly centralised or outsourced.",
+      "building_type": "Hospital",
+      "spaces": [
+        "Service yard",
+        "Supply area",
+        "Waste-disposal area",
+        "Basement supply level"
+      ],
+      "uses": [
+        "Receive commercial and technical supplies",
+        "Deliver supplies",
+        "Manage waste disposal"
+      ],
+      "furniture_equipment": [],
+      "dimensions": [],
+      "figure_refs": [
+        "1",
+        "2"
+      ],
+      "cross_refs": [],
+      "keywords": [
+        "supply area",
+        "service yard",
+        "deliveries",
+        "waste disposal",
+        "traffic separation",
+        "centralisation"
+      ],
+      "tags_architectural": [
+        "circulation",
+        "safety"
+      ],
+      "confidence": 0.97
+    },
+    {
+      "id": "4122fb96e4bd1976-326-vision-1",
+      "pdf_page": 326,
+      "book_page": 313,
+      "chapter": "HEALTH",
+      "section": "Hospitals",
+      "title": "Sterile Goods Supply",
+      "summary": "The central sterile store should be near the surgical department and is organised by the flow of materials through acceptance, pre-cleaning, washing, sterilisation, packing and sterile storage. It prepares instruments for hospital use. The text identifies surgery and intensive-care departments as major users and notes that the number of sterilisers depends on hospital and surgical-department size.",
+      "building_type": "Hospital",
+      "spaces": [
+        "Acceptance area",
+        "Pre-cleaning area",
+        "Washing machine area",
+        "Steriliser area",
+        "Packing zone",
+        "Sterile goods store"
+      ],
+      "uses": [
+        "Receive and process instruments",
+        "Sterilise and pack instruments",
+        "Store sterile goods for hospital use"
+      ],
+      "furniture_equipment": [
+        "Sterilisers",
+        "Washing machine"
+      ],
+      "dimensions": [
+        {
+          "label": "Central sterile store area",
+          "value": 40.0,
+          "value_max": 120.0,
+          "unit": "m²",
+          "context": "Approximate size of the central sterile store.",
+          "status": "uncertain",
+          "ocr_raw": "Size of central sterile store approx. 40-120 m²."
+        },
+        {
+          "label": "Surgery share of particularly heavy use",
+          "value": 40.0,
+          "value_max": null,
+          "unit": "%",
+          "context": "Share attributed to surgery among departments with particularly heavy use.",
+          "status": "uncertain",
+          "ocr_raw": "surgery with 40%"
+        },
+        {
+          "label": "Operative intensive care share of particularly heavy use",
+          "value": 15.0,
+          "value_max": null,
+          "unit": "%",
+          "context": "Share attributed to operative intensive care among departments with particularly heavy use.",
+          "status": "uncertain",
+          "ocr_raw": "operative intensive care ... with 15% each"
+        },
+        {
+          "label": "Internal intensive care share of particularly heavy use",
+          "value": 15.0,
+          "value_max": null,
+          "unit": "%",
+          "context": "Share attributed to internal intensive care among departments with particularly heavy use.",
+          "status": "uncertain",
+          "ocr_raw": "internal intensive care with 15% each"
+        }
+      ],
+      "figure_refs": [
+        "2"
+      ],
+      "cross_refs": [],
+      "keywords": [
+        "sterile goods",
+        "sterilisation",
+        "surgical department",
+        "material flow",
+        "central store"
+      ],
+      "tags_architectural": [
+        "circulation"
+      ],
+      "confidence": 0.98
+    },
+    {
+      "id": "4122fb96e4bd1976-326-vision-2",
+      "pdf_page": 326,
+      "book_page": 313,
+      "chapter": "HEALTH",
+      "section": "Hospitals",
+      "title": "Pharmaceutical Supply: Pharmacy and Dispensary",
+      "summary": "Medium-sized and large hospitals may have a pharmacy that stores formulations and produces drugs under a qualified pharmacist. Required spaces may include a dispensary, materials room, drug store, laboratory and issue desk, with additional stores or rooms as needed. The pharmacy should have a short route to lifts and pneumatic post; fire-hazardous substances, acids and narcotics require secure construction. Hospitals without a full pharmacy may issue medicines requiring approval through a dispensary, with work and dispensing rooms directly accessible from the circulation corridor and adjacent medicine stores.",
+      "building_type": "Hospital",
+      "spaces": [
+        "Dispensary",
+        "Materials room",
+        "Drug store",
+        "Laboratory",
+        "Issue desk",
+        "Herbs store",
+        "Dressings store",
+        "Substance storage",
+        "On-call room",
+        "Dry and proprietary medicines stores",
+        "Cold store for hazardous substances",
+        "Dressings room",
+        "Damp store"
+      ],
+      "uses": [
+        "Store formulations and medicines",
+        "Produce drugs",
+        "Dispense medicines requiring approval",
+        "Prepare and handle pharmaceutical materials"
+      ],
+      "furniture_equipment": [
+        "Formulation table",
+        "Work or packing table",
+        "Sink",
+        "Desk",
+        "Washbasin",
+        "Scales",
+        "Lockable cupboards"
+      ],
+      "dimensions": [
+        {
+          "label": "Hospital bed capacity shown in pharmacy example",
+          "value": 500.0,
+          "value_max": 600.0,
+          "unit": "beds",
+          "context": "Caption for the medium-sized hospital pharmacy example; ground floor.",
+          "status": "uncertain",
+          "ocr_raw": "Pharmacy for medium-sized hospital with 500-600 beds, ground floor"
+        }
+      ],
+      "figure_refs": [
+        "3",
+        "4"
+      ],
+      "cross_refs": [
+        "Basement -> 3"
+      ],
+      "keywords": [
+        "pharmacy",
+        "dispensary",
+        "medicines",
+        "laboratory",
+        "pharmaceutical supply",
+        "fire safety"
+      ],
+      "tags_architectural": [
+        "circulation",
+        "safety"
+      ],
+      "confidence": 0.96
+    },
+    {
+      "id": "4122fb96e4bd1976-326-vision-3",
+      "pdf_page": 326,
+      "book_page": 313,
+      "chapter": "HEALTH",
+      "section": "Hospitals",
+      "title": "Bed Preparation",
+      "summary": "Used beds and mattresses are normally disinfected by spray-and-wipe methods in the ward or room. Central bed processing that moves large numbers of beds through the building, with associated mechanical wear and wetting, is described as no longer necessary. Separate mattress disinfection in the basement may be provided, possibly combined with a bed repair room.",
+      "building_type": "Hospital",
+      "spaces": [
+        "Ward or patient room",
+        "Basement mattress-disinfection area",
+        "Bed repair room",
+        "Clean bedding store",
+        "Unclean bedding store",
+        "Clean beds area",
+        "Unclean beds area"
+      ],
+      "uses": [
+        "Disinfect used beds and mattresses",
+        "Store clean and unclean bedding separately",
+        "Repair beds"
+      ],
+      "furniture_equipment": [
+        "Beds",
+        "Mattresses",
+        "Bed frames"
+      ],
+      "dimensions": [],
+      "figure_refs": [
+        "5"
+      ],
+      "cross_refs": [],
+      "keywords": [
+        "bed preparation",
+        "mattress disinfection",
+        "bedding storage",
+        "bed repair"
+      ],
+      "tags_architectural": [
+        "circulation",
+        "safety"
+      ],
+      "confidence": 0.95
+    }
+  ]
+}

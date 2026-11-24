@@ -1,0 +1,186 @@
+{
+  "fichas": [
+    {
+      "id": "4122fb96e4bd1976-510-vision-0",
+      "pdf_page": 510,
+      "book_page": 497,
+      "chapter": "BUILDING SERVICES",
+      "section": "Daylight",
+      "title": "Rooflighting",
+      "summary": "Design guidance for daylight entering interiors through rooflights. It covers daylight distribution and uniformity, minimum daylight-factor criteria, rooflight spacing relative to room height, roof-opening pitch, and the effects of light-shaft depth. Rooflights receive brighter sky light than side windows; delicate, highly reflective shaft construction is recommended, and the cave effect should be avoided.",
+      "building_type": "Building interiors with rooflights",
+      "spaces": [
+        "Rooms with rooflights",
+        "Workrooms"
+      ],
+      "uses": [
+        "Provide daylight from above",
+        "Achieve adequate and uniform interior illumination"
+      ],
+      "furniture_equipment": [],
+      "dimensions": [
+        {
+          "label": "Reference plane height above sill level",
+          "value": 0.85,
+          "value_max": null,
+          "unit": "m",
+          "context": "Reference plane used when comparing illuminance from a side window and a rooflight.",
+          "status": "uncertain",
+          "ocr_raw": "reference plane (0.85 m above sill level)"
+        },
+        {
+          "label": "Side-window area relative to roof opening area",
+          "value": 5.5,
+          "value_max": null,
+          "unit": "ratio",
+          "context": "For the same illuminance on the reference plane, the window area would have to be 5.5 times larger than the roof opening.",
+          "status": "uncertain",
+          "ocr_raw": "the window area would have to be 5.5 times larger than the roof opening"
+        },
+        {
+          "label": "Zenith illuminance relative to horizon illuminance",
+          "value": 3.0,
+          "value_max": null,
+          "unit": "ratio",
+          "context": "The text states that zenith illuminance is three times that at the horizon.",
+          "status": "uncertain",
+          "ocr_raw": "The zenith illuminance is three times that at the horizon."
+        },
+        {
+          "label": "Sky light reaching rooflight",
+          "value": 100.0,
+          "value_max": null,
+          "unit": "%",
+          "context": "Comparison of sky light reaching a rooflight with light reaching side windows.",
+          "status": "uncertain",
+          "ocr_raw": "100% of the light from the sky reaches the rooflight"
+        },
+        {
+          "label": "Sky light reaching side windows",
+          "value": 33.3,
+          "value_max": null,
+          "unit": "%",
+          "context": "Comparison of sky light reaching side windows with light reaching a rooflight.",
+          "status": "uncertain",
+          "ocr_raw": "only 33.3% of the light from the sky reaches the windows at the sides."
+        },
+        {
+          "label": "Room height in tall-room example",
+          "value": 12.0,
+          "value_max": 15.0,
+          "unit": "m",
+          "context": "Room shown with a roof opening in the tall-room comparison.",
+          "status": "uncertain",
+          "ocr_raw": "The same room with a height of 12-15 m and a roof opening"
+        },
+        {
+          "label": "Room height in square-room example",
+          "value": 3.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Square room shown in figure 3.",
+          "status": "uncertain",
+          "ocr_raw": "Square room with a height of 3 m"
+        },
+        {
+          "label": "Minimum-to-maximum daylight-factor ratio",
+          "value": 0.5,
+          "value_max": null,
+          "unit": "ratio",
+          "context": "Required minimum daylight-factor criterion, Dmin/Dmax ≥ 0.5.",
+          "status": "uncertain",
+          "ocr_raw": "Dmin/Dmax ≥ 0.5"
+        },
+        {
+          "label": "Minimum daylight factor",
+          "value": 2.0,
+          "value_max": null,
+          "unit": "%",
+          "context": "Required minimum daylight factor; workrooms have a separately stated minimum of 4%.",
+          "status": "uncertain",
+          "ocr_raw": "Dmin ≥ 2%"
+        },
+        {
+          "label": "Minimum daylight factor in workrooms",
+          "value": 4.0,
+          "value_max": null,
+          "unit": "%",
+          "context": "Required minimum daylight factor for workrooms.",
+          "status": "uncertain",
+          "ocr_raw": "in workrooms ≥ 4%"
+        },
+        {
+          "label": "Lighting uniformity",
+          "value": 1.0,
+          "value_max": null,
+          "unit": "ratio",
+          "context": "Required uniformity stated as G ≥ 1:2; the full printed ratio is retained in the context.",
+          "status": "uncertain",
+          "ocr_raw": "Uniformity G ≥ 1:2"
+        },
+        {
+          "label": "Roof-opening area relative to plan area",
+          "value": 16.0,
+          "value_max": 22.0,
+          "unit": "%",
+          "context": "Approximate corresponding opening area as a percentage of plan area.",
+          "status": "uncertain",
+          "ocr_raw": "a corresponding opening area of approx. ≥ 16–22% of the plan area"
+        },
+        {
+          "label": "Ideal rooflight spacing to room-height ratio",
+          "value": 1.0,
+          "value_max": null,
+          "unit": "ratio",
+          "context": "Ideal uniformity when rooflight spacing O corresponds to room height h; printed ratio 1:1.",
+          "status": "uncertain",
+          "ocr_raw": "i.e. a ratio of 1:1"
+        },
+        {
+          "label": "Recommended rooflight spacing to room-height ratio",
+          "value": 1.0,
+          "value_max": null,
+          "unit": "ratio",
+          "context": "In practice, the spacing-to-room-height ratio should be 1:1.5 to 1:2; this entry records the first printed ratio.",
+          "status": "uncertain",
+          "ocr_raw": "the ratio of rooflight spacing to room height should be 1:1.5 to 1:2"
+        },
+        {
+          "label": "Recommended rooflight spacing to room-height ratio",
+          "value": 1.0,
+          "value_max": null,
+          "unit": "ratio",
+          "context": "In practice, the spacing-to-room-height ratio should be 1:1.5 to 1:2; this entry records the second printed ratio.",
+          "status": "uncertain",
+          "ocr_raw": "the ratio of rooflight spacing to room height should be 1:1.5 to 1:2"
+        }
+      ],
+      "figure_refs": [
+        "1 Room with roof opening and side window, according to distribution of light from the zenith",
+        "2 Section through a room with rooflight",
+        "3 Square room with a height of 3 m",
+        "4 Rooflight spacing, room height and the uniformity of lighting which is sought, including corresponding detailing of the rooflight (ke factor)",
+        "5 Comparative variations in daylight factor for side windows and rooflights; reduction factor ky depending on pitch",
+        "6 Uniformity of lighting, depending on height of rooflight shaft"
+      ],
+      "cross_refs": [
+        "BS 8206-2",
+        "DIN 5034"
+      ],
+      "keywords": [
+        "daylight",
+        "rooflighting",
+        "rooflight",
+        "daylight factor",
+        "lighting uniformity",
+        "light shaft",
+        "cloudy sky"
+      ],
+      "tags_architectural": [
+        "daylighting",
+        "spatial_proportion"
+      ],
+      "confidence": 0.94
+    }
+  ]
+}

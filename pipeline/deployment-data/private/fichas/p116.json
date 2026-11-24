@@ -1,0 +1,342 @@
+{
+  "fichas": [
+    {
+      "id": "4122fb96e4bd1976-116-vision-0",
+      "pdf_page": 116,
+      "book_page": 103,
+      "chapter": "BUILDING COMPONENTS",
+      "section": "Windows",
+      "title": "Skylights and dome rooflights",
+      "summary": "Dome rooflights and skylights can provide daylight and ventilation, clear smoke, and provide roof access. North-facing domes help avoid sunshine and glare; a high curb can reduce glare from low sun. For ventilation, orient rooflights toward prevailing winds, with the inlet aperture smaller than the outlet. A fan in the curb can provide forced ventilation. Smoke exhaust systems require attention to aerodynamic extraction and wind orientation.",
+      "building_type": "Rooflight systems",
+      "spaces": [
+        "Rooms",
+        "Halls",
+        "Stairwells",
+        "Roof"
+      ],
+      "uses": [
+        "Daylighting",
+        "Ventilation",
+        "Smoke extraction",
+        "Roof access"
+      ],
+      "furniture_equipment": [
+        "Dome rooflights",
+        "Skylights",
+        "Coffers",
+        "Smoke vents",
+        "Louvres",
+        "Ventilation fan"
+      ],
+      "dimensions": [
+        {
+          "label": "Inlet aperture relative to outlet aperture",
+          "value": 20.0,
+          "value_max": null,
+          "unit": "percent smaller",
+          "context": "Ventilating dome rooflights; the inlet aperture is smaller than the outlet aperture.",
+          "status": "verified",
+          "ocr_raw": "The inlet aperture should be 20% smaller than the outlet\naperture."
+        },
+        {
+          "label": "Forced ventilation airflow",
+          "value": 150.0,
+          "value_max": 1000.0,
+          "unit": "m³/h",
+          "context": "Airflow achievable by fitting a fan into the curb of a skylight.",
+          "status": "verified",
+          "ocr_raw": "Forced ventilation, with an air flow of 150-1000 m3/h"
+        },
+        {
+          "label": "Smoke vent stairwell height threshold",
+          "value": 4.0,
+          "value_max": null,
+          "unit": "complete storeys",
+          "context": "Smoke extraction vents are required for stairwells more than this height.",
+          "status": "verified",
+          "ocr_raw": "Smoke extraction vents are required for stairwells more than four\ncomplete storeys high."
+        },
+        {
+          "label": "Available skylight aperture width",
+          "value": 5.5,
+          "value_max": null,
+          "unit": "m",
+          "context": "Variable skylight aperture widths available; stated as an upper width.",
+          "status": "verified",
+          "ocr_raw": "Variable skylight aperture widths up to\n5.50 m are available"
+        },
+        {
+          "label": "Special skylight aperture width",
+          "value": 7.5,
+          "value_max": null,
+          "unit": "m",
+          "context": "Special version that does not need extra support; stated as an upper width.",
+          "status": "verified",
+          "ocr_raw": "as is a special version up to 7.50 m wide\nwhich does not need extra support"
+        }
+      ],
+      "figure_refs": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "cross_refs": [
+        "Daylight, pp. 488ff."
+      ],
+      "keywords": [
+        "skylight",
+        "dome rooflight",
+        "ventilation",
+        "smoke extraction",
+        "roof access",
+        "curb"
+      ],
+      "tags_architectural": [
+        "ventilation",
+        "daylighting",
+        "safety"
+      ],
+      "confidence": 0.97
+    },
+    {
+      "id": "4122fb96e4bd1976-116-vision-1",
+      "pdf_page": 116,
+      "book_page": 103,
+      "chapter": "BUILDING COMPONENTS",
+      "section": "Windows",
+      "title": "Continuous skylight forms",
+      "summary": "The illustrated continuous rooflight arrangements include multiple-barrel, barrel, double-pitched, and single-pitched forms. The diagrams give widths for several configurations. Skylight systems are described as providing diffused room lighting free from glare.",
+      "building_type": "Continuous rooflight systems",
+      "spaces": [
+        "Roof",
+        "Interior rooms"
+      ],
+      "uses": [
+        "Daylighting",
+        "Diffused lighting"
+      ],
+      "furniture_equipment": [
+        "Continuous multiple-barrel skylights",
+        "Continuous barrel skylight",
+        "Continuous double-pitched skylight",
+        "Continuous single-pitched skylight"
+      ],
+      "dimensions": [
+        {
+          "label": "Continuous multiple-barrel skylight width",
+          "value": 1.5,
+          "value_max": 6.5,
+          "unit": "m",
+          "context": "Width range shown for continuous multiple-barrel skylights.",
+          "status": "verified",
+          "ocr_raw": "1.50-6.50"
+        },
+        {
+          "label": "Continuous barrel skylight width",
+          "value": 1.0,
+          "value_max": 6.5,
+          "unit": "m",
+          "context": "Width range shown for continuous barrel skylight.",
+          "status": "verified",
+          "ocr_raw": "1.0-6.50"
+        },
+        {
+          "label": "Continuous double-pitched skylight width",
+          "value": 5.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Width shown beneath the continuous double-pitched skylight diagram.",
+          "status": "verified",
+          "ocr_raw": "5.0"
+        },
+        {
+          "label": "Continuous single-pitched skylight width",
+          "value": 5.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Width shown beneath the continuous single-pitched skylight diagram.",
+          "status": "verified",
+          "ocr_raw": "5.0"
+        }
+      ],
+      "figure_refs": [
+        "5",
+        "6",
+        "7",
+        "8"
+      ],
+      "cross_refs": [],
+      "keywords": [
+        "continuous skylight",
+        "barrel skylight",
+        "pitched skylight",
+        "diffused lighting"
+      ],
+      "tags_architectural": [
+        "daylighting",
+        "spatial_proportion"
+      ],
+      "confidence": 0.94
+    },
+    {
+      "id": "4122fb96e4bd1976-116-vision-2",
+      "pdf_page": 116,
+      "book_page": 103,
+      "chapter": "BUILDING COMPONENTS",
+      "section": "Windows",
+      "title": "Monitor and saw-tooth rooflights",
+      "summary": "The illustrated rooflight types include monitor rooflights with inclined or vertical panes and 60° and 90° saw-tooth north lights. North-facing saw-tooth skylights with spun glass fibre inlays are described as providing climatically beneficial workshop lighting. The diagrams show widths and rooflight-unit dimensions.",
+      "building_type": "Monitor and saw-tooth rooflight systems",
+      "spaces": [
+        "Workshop spaces",
+        "Roof"
+      ],
+      "uses": [
+        "Daylighting",
+        "Diffused lighting"
+      ],
+      "furniture_equipment": [
+        "Monitor rooflight with inclined panes",
+        "Monitor rooflight with vertical panes",
+        "60° saw-tooth north light",
+        "90° vertical saw-tooth north light",
+        "Spun glass fibre inlay"
+      ],
+      "dimensions": [
+        {
+          "label": "60° saw-tooth north light width",
+          "value": 2.0,
+          "value_max": 4.0,
+          "unit": "m",
+          "context": "Width range indicated beneath the 60° saw-tooth north light.",
+          "status": "verified",
+          "ocr_raw": "2.00-4.00"
+        },
+        {
+          "label": "90° vertical saw-tooth north light width",
+          "value": 5.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Width indicated beneath the 90° vertical saw-tooth north light.",
+          "status": "verified",
+          "ocr_raw": "5.00"
+        },
+        {
+          "label": "Sun-ray angle of incidence",
+          "value": 60.0,
+          "value_max": null,
+          "unit": "degrees",
+          "context": "Angle labelled at the spun glass inlay diagram.",
+          "status": "verified",
+          "ocr_raw": "~\n\nd-\n\n~30\n\nJ\n\nfan\n\ntb\n\nwith solid or ventilated curb\n\n60x60\n1.20 X 2.40 1.80 X 2.40\n80x80\n1.25 X 2.50 1.80 X 2.70\n90 x90\n1.50 X 1.50 1,80 X 3.00\n1.00 X 1.00\n1.50 X 1.80 2.20 X 2.20\n1.00 X 2.00\n1.50 X 2.40 2.50 X 2.50\n1.20x 1.20\n1.80 X 1.80\n1.20 X 1.80\nround domes: 60, 90, 100, 120, 150, 180\n220, 250cm dia.\n\n0 'Normal' dome rooflight\n\n50 X 1.00\n\n1.00 X 1.00\n\n1.20 X 1.50\n\n50 X 1.50\n\n1.00 X 1.50\n\n1,20 X 2.40\n\n60x60\n\n1.00 X 2.00\n\n1.50 X 1.50\n\n50 X 90\n\n1.00 X 2.50\n\n1.50 X 3.00\n\n90x90\n\n1.00 X 3.00\n\n1.80x 2.70\n\nf) Dome rooflight with high curb\n\n]11':....___ _ _~\nB\n\nA\n\nB\n\nA\n\nB\n\n40\n70\n80\n1.00\n1.30\n\n60x60\n90 x90\n1.00 X 1.00\n1.20 X 1.20\n1.50 X 1.50\n\n1.6\n1.7\n2.20\n2.30\n2.40\n\n1.80 X 1.80\n2,00 X 2.00\n2.00 X 2.20\n2.50 X 2.50\n2,70 X 2.70\n\nC) Pyramid rooflight\n\nj-1.50-6.50 --1\n\nQ Continuous multiple barrel\n\nWINDOWS\n\n~T\n\nA=\n\nB=\n\nrooflight area\n\nroof opening\n\n72x 1.20 x 1.08\n72 X 2.45 X 2.30\n75x1.16x76\n\n1.25 X 1.25\n1.25 X 2.50\n1.50 X 1.50\n\nQ North light dome\n\nSkylights and Dome Rooflights\n\nDomes, skylights, coffers, smoke vents and louvres, as fixed or\nmovable units, can be used for lighting and ventilation, and for\nclearing smoke from rooms, halls, stair wells etc.\nBy positioning dome rooflights facing north sunshine and glare are\navoided -7 0. Glare from low sun can be avoided by the use of a\nhigh curb -7 0 Dome rooflights used for ventilation should face\ninto the prevailing wind in order to utilise the extraction capacity of\nthe wind. The inlet aperture should be 20% smaller than the outlet\naperture. Forced ventilation, with an air flow of 150-1000 m3/h, can\nbe achieved by fitting a fan into the curb of a skylight -7 f). Dome\nrooflights can also be used for access to the roof.\nAttention should be given to the aerodynamic extraction surfaces\nof smoke exhaust systems. Orientating each extraction unit at an\nangle of 90° from the adjacent one will allow for wind coming from\nall directions. Position to leeward/windward if pairs of extraction\nfans are to be mounted in line with or against the direction of the\nprevailing wind.\nSmoke extraction vents are required for stairwells more than four\ncomplete storeys high. Variable skylight aperture widths up to\n5.50 m are available, as is a special version up to 7.50 m wide\nwhich does not need extra support,\nSkylight systems offer diffused room lighting which is free from\nglare -7 G). North-facing saw-tooth skylights with spun glass fibre\ninlays guarantee all the climatically important advantages of a full\nworkshop space -7 @).\n\nf---- 5.0 - - - 1\n\nf----1.0-6.50----l\n\nQ Continuous barrel skylight\n\nContinuous double-pitched skylight\n\ne\n\n1 - - - 5.0 ------1\n\nContinuous single-pitched skylight\n\nskylights\n\n1 - - - - 2.00-4.00------j\n\n0 Monitor rooflight with inclined\npanes\n\n0 Monitor rooflight with vertical\n\nG 60° saw-tooth north light\n\n1-----5.00-\n\n0 90° vertical saw-tooth north light\n\npanes\nangle of incidence\nof sun's rays\n\nt-- up to 1.50 ~25mm\n96%-+ 4%-i\nr----1.51-2.50 -----!30mm\nheat insulation in area of\n1 - - - - - - - 2.51-3.60 ~~~=;~4~0~m~m~::\"!sh~a~do~w~of~s:pun glass inlay\n3.61-4.50\n70 mm\n4.51-6.50\n90 mm\nunit\n\n41) Saw-tooth glass fibre-reinforced polyester skylight\n\n1--- :!;;; 1.50 ----1 25 mm\n\n,___._ 1.51-3,00 --i30mm\n\n>------ 3.01-4.00\n\n40 mm\n\nJ--------- 4.01-5.50-----170mm\n1 - - - - - - - - - - - - - 5.51-7.50\n\n90mm\n\nunit\n\n0 Double-skinned rooflight units\n103\n\nWINDOWS\n\nArrangement\nRequirements\nOpening types\nThermal\n\nprotection\nNoise protection\nCleaning\nbuildings\nLoft windows\nRooflighls\nsee also: Daylight\npp. 488ff.\n\n\f"
+        },
+        {
+          "label": "Saw-tooth glass fibre-reinforced polyester skylight unit width",
+          "value": 1.5,
+          "value_max": null,
+          "unit": "m",
+          "context": "First width band for the skylight unit; upper bound shown.",
+          "status": "verified",
+          "ocr_raw": "up to 1.50"
+        },
+        {
+          "label": "Saw-tooth skylight unit width band",
+          "value": 1.51,
+          "value_max": 2.5,
+          "unit": "m",
+          "context": "Width band shown for the saw-tooth glass fibre-reinforced polyester skylight unit.",
+          "status": "verified",
+          "ocr_raw": "1.51-2.50"
+        },
+        {
+          "label": "Saw-tooth skylight unit width band",
+          "value": 2.51,
+          "value_max": 3.6,
+          "unit": "m",
+          "context": "Width band shown for the saw-tooth glass fibre-reinforced polyester skylight unit.",
+          "status": "verified",
+          "ocr_raw": "2.51-3.60"
+        },
+        {
+          "label": "Saw-tooth skylight unit width band",
+          "value": 3.61,
+          "value_max": 4.5,
+          "unit": "m",
+          "context": "Width band shown for the saw-tooth glass fibre-reinforced polyester skylight unit.",
+          "status": "verified",
+          "ocr_raw": "3.61-4.50"
+        },
+        {
+          "label": "Saw-tooth skylight unit width band",
+          "value": 4.51,
+          "value_max": 6.5,
+          "unit": "m",
+          "context": "Width band shown for the saw-tooth glass fibre-reinforced polyester skylight unit.",
+          "status": "verified",
+          "ocr_raw": "4.51-6.50"
+        },
+        {
+          "label": "Double-skinned rooflight unit width band",
+          "value": 1.51,
+          "value_max": 3.0,
+          "unit": "m",
+          "context": "Width band shown for double-skinned rooflight units.",
+          "status": "verified",
+          "ocr_raw": "1.51-3,00"
+        },
+        {
+          "label": "Double-skinned rooflight unit width band",
+          "value": 3.01,
+          "value_max": 4.0,
+          "unit": "m",
+          "context": "Width band shown for double-skinned rooflight units.",
+          "status": "verified",
+          "ocr_raw": "3.01-4.00"
+        },
+        {
+          "label": "Double-skinned rooflight unit width band",
+          "value": 4.01,
+          "value_max": 5.5,
+          "unit": "m",
+          "context": "Width band shown for double-skinned rooflight units.",
+          "status": "verified",
+          "ocr_raw": "4.01-5.50"
+        },
+        {
+          "label": "Double-skinned rooflight unit width band",
+          "value": 5.51,
+          "value_max": 7.5,
+          "unit": "m",
+          "context": "Width band shown for double-skinned rooflight units.",
+          "status": "verified",
+          "ocr_raw": "5.51-7.50"
+        }
+      ],
+      "figure_refs": [
+        "9",
+        "10",
+        "11",
+        "12",
+        "13",
+        "14"
+      ],
+      "cross_refs": [
+        "Daylight, pp. 488ff."
+      ],
+      "keywords": [
+        "monitor rooflight",
+        "saw-tooth north light",
+        "spun glass fibre",
+        "double-skinned rooflight",
+        "workshop lighting"
+      ],
+      "tags_architectural": [
+        "daylighting",
+        "ventilation"
+      ],
+      "confidence": 0.91
+    }
+  ]
+}

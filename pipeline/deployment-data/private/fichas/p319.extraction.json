@@ -1,0 +1,168 @@
+{
+  "fichas": [
+    {
+      "id": "4122fb96e4bd1976-319-vision-0",
+      "pdf_page": 319,
+      "book_page": 306,
+      "chapter": "HEALTH",
+      "section": "Hospitals",
+      "title": "Patient Rooms and Care Unit",
+      "summary": "Guidance for patient-room layout, furnishing, wall protection, and bed transport, accompanied by a care-unit plan for a 337-bed hospital. Beds should be accessible on three sides; the built-in cupboard should open without moving the bed or side table. The plan labels several care-unit types, including intermediate-care, general-care, and baby-and-children’s-care wards.",
+      "building_type": "Hospital",
+      "spaces": [
+        "Single, two-bed, and three-bed patient rooms",
+        "Patient bathroom",
+        "Patient lounge",
+        "Care/doctors’ station",
+        "Staff lounge",
+        "Supply and disposal",
+        "Bed preparation",
+        "Cleaners’ room",
+        "Care unit"
+      ],
+      "uses": [
+        "Patient accommodation and care",
+        "Bed transport",
+        "Patient bathing",
+        "Ward support and staff functions",
+        "Supply and disposal"
+      ],
+      "furniture_equipment": [
+        "Patient beds",
+        "Side tables",
+        "Window-side table",
+        "Chairs",
+        "Built-in patient cupboards",
+        "Suitcase compartment",
+        "Lockable valuables compartment",
+        "Wall protection rail",
+        "Supply rail for air, gas, and lighting",
+        "Oxygen, vacuum, and compressed-air sockets",
+        "Electrical sockets",
+        "Reading lamp",
+        "Telephone",
+        "Nurse-call button",
+        "Radio"
+      ],
+      "dimensions": [
+        {
+          "label": "Window-side table width",
+          "value": 90.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "One side of the window-side table; the printed table size is 90/90 cm.",
+          "status": "uncertain",
+          "ocr_raw": "a table (90/90 cm)"
+        },
+        {
+          "label": "Window-side table depth",
+          "value": 90.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Other side of the window-side table; the printed table size is 90/90 cm.",
+          "status": "uncertain",
+          "ocr_raw": "a table (90/90 cm)"
+        },
+        {
+          "label": "Minimum single-bedroom area",
+          "value": 16.0,
+          "value_max": null,
+          "unit": "m²",
+          "context": "Minimum size for a single bedroom.",
+          "status": "uncertain",
+          "ocr_raw": "The minimum size for a single bedroom is 16 m²"
+        },
+        {
+          "label": "Bedroom area per bed",
+          "value": 8.0,
+          "value_max": null,
+          "unit": "m² per bed",
+          "context": "For two- and three-bed bedrooms; stated per bed.",
+          "status": "uncertain",
+          "ocr_raw": "for two and three bedrooms 8 m² per bed"
+        },
+        {
+          "label": "Minimum room width",
+          "value": 3.45,
+          "value_max": null,
+          "unit": "m",
+          "context": "Minimum room width so beds at the back can be wheeled out without first moving the bed nearest the exit.",
+          "status": "uncertain",
+          "ocr_raw": "minimum width 3.45 m"
+        },
+        {
+          "label": "Axial room width",
+          "value": 3.6,
+          "value_max": null,
+          "unit": "m",
+          "context": "Axial width stated in relation to the minimum room width.",
+          "status": "uncertain",
+          "ocr_raw": "with an axial width of 3.60 m"
+        },
+        {
+          "label": "Wall protection rail height above floor",
+          "value": 40.0,
+          "value_max": 70.0,
+          "unit": "cm",
+          "context": "Height range for the protection rail; also applies to ward corridors.",
+          "status": "uncertain",
+          "ocr_raw": "height min. 40–70 cm above floor level"
+        },
+        {
+          "label": "Patient-room door width",
+          "value": 1.26,
+          "value_max": null,
+          "unit": "m",
+          "context": "One dimension of the room door, given as width × height.",
+          "status": "uncertain",
+          "ocr_raw": "1.26 x 2.13 m"
+        },
+        {
+          "label": "Patient-room door height",
+          "value": 2.13,
+          "value_max": null,
+          "unit": "m",
+          "context": "Other dimension of the room door, given as width × height.",
+          "status": "uncertain",
+          "ocr_raw": "1.26 x 2.13 m"
+        },
+        {
+          "label": "Sound protection to corridor",
+          "value": 32.0,
+          "value_max": null,
+          "unit": "dB",
+          "context": "Sound-protection requirement for room doors toward the corridor.",
+          "status": "uncertain",
+          "ocr_raw": "sound protection to the corridor should be 32 dB"
+        }
+      ],
+      "figure_refs": [
+        "1 — Three-bed room, section",
+        "2 — Patient bathroom",
+        "3 — Elevation → 2",
+        "4 — Care unit (337 beds), second floor, Brandenburg an der Havel City Clinic, Newbuild East"
+      ],
+      "cross_refs": [],
+      "keywords": [
+        "patient room",
+        "hospital care",
+        "bedroom size",
+        "bed access",
+        "bed transport",
+        "patient bathroom",
+        "care unit",
+        "wall protection",
+        "ward corridor",
+        "room door",
+        "sound protection"
+      ],
+      "tags_architectural": [
+        "circulation",
+        "ergonomics",
+        "clearance",
+        "safety"
+      ],
+      "confidence": 0.97
+    }
+  ]
+}

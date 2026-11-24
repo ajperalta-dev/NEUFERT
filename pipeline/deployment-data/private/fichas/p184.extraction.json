@@ -1,0 +1,206 @@
+{
+  "fichas": [
+    {
+      "id": "4122fb96e4bd1976-184-vision-0",
+      "pdf_page": 184,
+      "book_page": 171,
+      "chapter": "ACCOMMODATION",
+      "section": "Hotels",
+      "title": "Hotels: Basics",
+      "summary": "Hotels are described as complex service businesses combining accommodation and catering, with facilities and room relationships varying by category and service range. The page presents basic hotel forms, a room-and-access scheme, applicable regulations, guideline percentages for functional areas, and gross area per room by hotel category.",
+      "building_type": "Hotel",
+      "spaces": [
+        "Hotel lobby and reception",
+        "Guest rooms and bathrooms",
+        "Corridors and room-service areas",
+        "Catering areas",
+        "Administration",
+        "Staff rooms",
+        "Kitchen and stores",
+        "Service areas",
+        "Wellness and fitness areas",
+        "Event, ballroom, and seminar rooms",
+        "Building services",
+        "Parking and garage areas"
+      ],
+      "uses": [
+        "Accommodation",
+        "Catering",
+        "Conferences and events",
+        "Wellness and fitness",
+        "Hotel administration and operations"
+      ],
+      "furniture_equipment": [
+        "Reception",
+        "Bar",
+        "Restaurant",
+        "Kitchen",
+        "Washing-up area",
+        "Stores",
+        "Laundry",
+        "Cool room",
+        "Staff rooms",
+        "Seminar rooms",
+        "Ballroom",
+        "Shops",
+        "Swimming pool",
+        "Sauna"
+      ],
+      "dimensions": [
+        {
+          "label": "Guest rooms, bathrooms, corridors, and room service",
+          "value": 50.0,
+          "value_max": 60.0,
+          "unit": "%",
+          "context": "Guideline share of hotel surface area",
+          "status": "uncertain",
+          "ocr_raw": "50--BO%"
+        },
+        {
+          "label": "Public areas, lobby, reception, etc.",
+          "value": 4.0,
+          "value_max": 7.0,
+          "unit": "%",
+          "context": "Guideline share of hotel surface area",
+          "status": "uncertain",
+          "ocr_raw": "4--7%"
+        },
+        {
+          "label": "Catering",
+          "value": 4.0,
+          "value_max": 8.0,
+          "unit": "%",
+          "context": "Guideline share of hotel surface area",
+          "status": "uncertain",
+          "ocr_raw": "4-8%"
+        },
+        {
+          "label": "Events, ballroom, seminar rooms",
+          "value": 4.0,
+          "value_max": 12.0,
+          "unit": "%",
+          "context": "Guideline share of hotel surface area",
+          "status": "uncertain",
+          "ocr_raw": "4--12%"
+        },
+        {
+          "label": "Wellness/fitness area",
+          "value": 5.0,
+          "value_max": 10.0,
+          "unit": "%",
+          "context": "Guideline share of hotel surface area",
+          "status": "uncertain",
+          "ocr_raw": "5-10%"
+        },
+        {
+          "label": "Other areas, cosmetics, hairdresser",
+          "value": 1.0,
+          "value_max": 2.0,
+          "unit": "%",
+          "context": "Guideline share of hotel surface area",
+          "status": "uncertain",
+          "ocr_raw": "1-2%"
+        },
+        {
+          "label": "Management and administration",
+          "value": 1.0,
+          "value_max": 2.0,
+          "unit": "%",
+          "context": "Guideline share of hotel surface area",
+          "status": "uncertain",
+          "ocr_raw": "1-2%"
+        },
+        {
+          "label": "Service area, kitchen, staff rooms, stores",
+          "value": 9.0,
+          "value_max": 14.0,
+          "unit": "%",
+          "context": "Guideline share of hotel surface area",
+          "status": "uncertain",
+          "ocr_raw": "9-14%"
+        },
+        {
+          "label": "Building services",
+          "value": 5.0,
+          "value_max": 10.0,
+          "unit": "%",
+          "context": "Guideline share of hotel surface area",
+          "status": "uncertain",
+          "ocr_raw": "5-10%"
+        },
+        {
+          "label": "Luxury hotel",
+          "value": 90.0,
+          "value_max": 110.0,
+          "unit": "m²/room",
+          "context": "Guideline gross area per room",
+          "status": "uncertain",
+          "ocr_raw": "90-110"
+        },
+        {
+          "label": "First-class hotel",
+          "value": 60.0,
+          "value_max": 70.0,
+          "unit": "m²/room",
+          "context": "Guideline gross area per room",
+          "status": "uncertain",
+          "ocr_raw": "60-70"
+        },
+        {
+          "label": "Comfort hotel",
+          "value": 50.0,
+          "value_max": 60.0,
+          "unit": "m²/room",
+          "context": "Guideline gross area per room",
+          "status": "uncertain",
+          "ocr_raw": "5Q-60"
+        },
+        {
+          "label": "Standard hotel (holiday hotel, motel)",
+          "value": 40.0,
+          "value_max": 60.0,
+          "unit": "m²/room",
+          "context": "Guideline gross area per room",
+          "status": "uncertain",
+          "ocr_raw": "40-60"
+        },
+        {
+          "label": "Tourist hotel (low-budget)",
+          "value": 15.0,
+          "value_max": 20.0,
+          "unit": "m²/room",
+          "context": "Guideline gross area per room",
+          "status": "uncertain",
+          "ocr_raw": "15-20"
+        }
+      ],
+      "figure_refs": [
+        "1 Basic forms of hotels",
+        "2 Room and access scheme of a hotel",
+        "3 Laws, guidelines, provisions and regulations for the design of businesses offering accommodation and catering (excerpt)",
+        "4 Guideline values for shares of hotel surface area and gross areas per room"
+      ],
+      "cross_refs": [
+        "p. 172",
+        "p. 56",
+        "p. 480",
+        "pp. 174 ff."
+      ],
+      "keywords": [
+        "hotel",
+        "accommodation",
+        "hotel planning",
+        "hotel categories",
+        "functional area percentages",
+        "gross area per room",
+        "hotel regulations",
+        "room and access scheme"
+      ],
+      "tags_architectural": [
+        "circulation",
+        "spatial_proportion"
+      ],
+      "confidence": 0.94
+    }
+  ]
+}

@@ -1,0 +1,469 @@
+{
+  "model": "gpt-6-luna",
+  "checks": {
+    "checks": [
+      {
+        "ficha_index": 0,
+        "dimension_index": 0,
+        "status": "verified",
+        "value": 3.0,
+        "value_max": null,
+        "reason": "The drawing labels the minimum fixed-object distance on the platform as 3.00 m."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 1,
+        "status": "verified",
+        "value": 2.5,
+        "value_max": null,
+        "reason": "The drawing labels the minimum fixed-object distance at the platform end as 2.50 m."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 2,
+        "status": "verified",
+        "value": 0.9,
+        "value_max": null,
+        "reason": "The drawing states min. a_A = b_s + 0.90 m next to short structures."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 3,
+        "status": "verified",
+        "value": 1.2,
+        "value_max": null,
+        "reason": "The drawing states min. a_A = b_s + 1.20 m next to longer structures."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 4,
+        "status": "verified",
+        "value": 0.8,
+        "value_max": null,
+        "reason": "The text specifies a walking-route width of 0.80 m."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 5,
+        "status": "verified",
+        "value": 2.5,
+        "value_max": null,
+        "reason": "The printed danger-area expression begins with 2.50 m for V \u2264 160 km/h."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 6,
+        "status": "verified",
+        "value": 1.65,
+        "value_max": null,
+        "reason": "The printed danger-area expression subtracts 1.65 m for V \u2264 160 km/h."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 7,
+        "status": "verified",
+        "value": 3.0,
+        "value_max": null,
+        "reason": "The printed danger-area expression begins with 3.00 m for 160 < V \u2264 200 km/h."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 8,
+        "status": "verified",
+        "value": 1.65,
+        "value_max": null,
+        "reason": "The printed danger-area expression subtracts 1.65 m for 160 < V \u2264 200 km/h."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 9,
+        "status": "verified",
+        "value": 2.45,
+        "value_max": null,
+        "reason": "The minimum side-platform width is explicitly printed as 2.45 m."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 10,
+        "status": "verified",
+        "value": 3.3,
+        "value_max": null,
+        "reason": "The minimum central-platform width is explicitly printed as 3.30 m."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 11,
+        "status": "verified",
+        "value": 405.0,
+        "value_max": null,
+        "reason": "The platform classification table gives class A a standard length of 405 m."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 12,
+        "status": "verified",
+        "value": 370.0,
+        "value_max": null,
+        "reason": "The platform classification table gives class A1 a standard length of 370 m."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 13,
+        "status": "verified",
+        "value": 320.0,
+        "value_max": null,
+        "reason": "The platform classification table gives class A2 a standard length of 320 m."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 14,
+        "status": "verified",
+        "value": 280.0,
+        "value_max": null,
+        "reason": "The platform classification table gives class A3 a standard length of 280 m."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 15,
+        "status": "verified",
+        "value": 210.0,
+        "value_max": null,
+        "reason": "The platform classification table gives class B a standard length of 210 m."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 16,
+        "status": "verified",
+        "value": 170.0,
+        "value_max": null,
+        "reason": "The platform classification table gives class B1 a standard length of 170 m."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 17,
+        "status": "verified",
+        "value": 140.0,
+        "value_max": null,
+        "reason": "The platform classification table gives class B2 a standard length of 140 m."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 18,
+        "status": "verified",
+        "value": 120.0,
+        "value_max": null,
+        "reason": "The platform classification table gives class C a standard length of 120 m."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 19,
+        "status": "verified",
+        "value": 60.0,
+        "value_max": null,
+        "reason": "The platform classification table gives class D a standard length of 60 m."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 20,
+        "status": "verified",
+        "value": 405.0,
+        "value_max": null,
+        "reason": "The accompanying text states that a full ICE train needs a 405 m platform."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 21,
+        "status": "verified",
+        "value": 210.0,
+        "value_max": null,
+        "reason": "The accompanying text gives a half ICE train platform length of 210 m."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 22,
+        "status": "verified",
+        "value": 76.0,
+        "value_max": null,
+        "reason": "The text gives 76 cm as a common platform height."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 23,
+        "status": "verified",
+        "value": 55.0,
+        "value_max": null,
+        "reason": "The text gives 55 cm for local transport."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 24,
+        "status": "verified",
+        "value": 96.0,
+        "value_max": null,
+        "reason": "The text gives 96 cm for urban rapid transit."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 25,
+        "status": "verified",
+        "value": 38.0,
+        "value_max": null,
+        "reason": "The text states that old platforms may be 38 cm high."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 26,
+        "status": "verified",
+        "value": 30.0,
+        "value_max": null,
+        "reason": "The text specifies a 30 cm platform-paving grid."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 27,
+        "status": "verified",
+        "value": 9.0,
+        "value_max": null,
+        "reason": "The parenthetical standard grid dimension is printed as 9 m."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 28,
+        "status": "verified",
+        "value": 3.25,
+        "value_max": null,
+        "reason": "The text specifies a minimum clear height of 3.25 m."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 29,
+        "status": "verified",
+        "value": 2.5,
+        "value_max": null,
+        "reason": "The text and cross-section show 2.50 m free height beneath the suspended information system."
+      }
+    ]
+  },
+  "automatic": [
+    {
+      "ficha_index": 0,
+      "dimension_index": 0,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 1,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 2,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 3,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 4,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 5,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 6,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 7,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 8,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 9,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 10,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 11,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 12,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 13,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 14,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 15,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 16,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 17,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 18,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 19,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 20,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 21,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 22,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 23,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 24,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 25,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 26,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 27,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 28,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 29,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    }
+  ],
+  "usage": [
+    {
+      "prompt_tokens": 11717,
+      "completion_tokens": 4428
+    },
+    {
+      "prompt_tokens": 6119,
+      "completion_tokens": 1330
+    }
+  ]
+}

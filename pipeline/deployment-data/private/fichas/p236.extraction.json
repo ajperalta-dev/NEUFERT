@@ -1,0 +1,331 @@
+{
+  "fichas": [
+    {
+      "id": "4122fb96e4bd1976-236-vision-0",
+      "pdf_page": 236,
+      "book_page": 223,
+      "chapter": "CULTURAL VENUES",
+      "section": "Cinemas",
+      "title": "Cinema auditorium seating and layout",
+      "summary": "Guidance for auditorium floor gradients, stepped seating, aisle widths, row spacing, seat counts, and seating layouts. Cinema seats are normally larger than minimum dimensions stipulated by the Public Assembly Regulations.",
+      "building_type": "Cinema",
+      "spaces": [
+        "Auditorium",
+        "Seating rows",
+        "Aisles",
+        "Boxes"
+      ],
+      "uses": [
+        "Seat audiences for film screenings",
+        "Arrange audience circulation through aisles"
+      ],
+      "furniture_equipment": [
+        "Cinema seats",
+        "Loose chairs"
+      ],
+      "dimensions": [
+        {
+          "label": "Maximum floor gradient",
+          "value": 10.0,
+          "value_max": null,
+          "unit": "%",
+          "context": "Permissible auditorium floor gradient; alternatively, use steps.",
+          "status": "uncertain",
+          "ocr_raw": "Up to a 10% floor gradient is permissible"
+        },
+        {
+          "label": "Maximum riser height",
+          "value": 16.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Maximum riser height for stepped auditorium seating.",
+          "status": "uncertain",
+          "ocr_raw": "max. 16 cm risers"
+        },
+        {
+          "label": "Aisle width",
+          "value": 1.2,
+          "value_max": null,
+          "unit": "m",
+          "context": "Auditorium aisles.",
+          "status": "uncertain",
+          "ocr_raw": "aisles of 1.20 m width"
+        },
+        {
+          "label": "Seats per side of each aisle",
+          "value": 10.0,
+          "value_max": null,
+          "unit": "seats",
+          "context": "Maximum number of seats arranged on each side of each aisle.",
+          "status": "uncertain",
+          "ocr_raw": "Up to 10 seats may be arranged on each side of each aisle"
+        },
+        {
+          "label": "Row spacing",
+          "value": 1.2,
+          "value_max": null,
+          "unit": "m",
+          "context": "Spacing between cinema seating rows.",
+          "status": "uncertain",
+          "ocr_raw": "1–1.2 m row spacing"
+        },
+        {
+          "label": "Floor area per person in boxes",
+          "value": 0.65,
+          "value_max": null,
+          "unit": "m²/person",
+          "context": "Minimum floor area per person in boxes with loose chairs.",
+          "status": "uncertain",
+          "ocr_raw": "Boxes may have ≥20 loose chairs; ≥0.65 m² floor area for each person"
+        },
+        {
+          "label": "Loose chairs in boxes",
+          "value": 20.0,
+          "value_max": null,
+          "unit": "chairs",
+          "context": "Boxes may have at least this number of loose chairs.",
+          "status": "uncertain",
+          "ocr_raw": "Boxes may have ≥20 loose chairs"
+        },
+        {
+          "label": "Seating capacity, layout A",
+          "value": 200.0,
+          "value_max": null,
+          "unit": "people",
+          "context": "Auditorium seating layout A; OCR indicates approximately 200 people.",
+          "status": "uncertain",
+          "ocr_raw": "Seating – A: for auditorium ≅200 people"
+        },
+        {
+          "label": "Seating capacity, layout B",
+          "value": 200.0,
+          "value_max": null,
+          "unit": "people",
+          "context": "Auditorium seating layout B; OCR indicates at least 200 people.",
+          "status": "uncertain",
+          "ocr_raw": "B: ≥200 people"
+        },
+        {
+          "label": "Seating capacity, layout C",
+          "value": 50.0,
+          "value_max": null,
+          "unit": "seats",
+          "context": "Layout C, if there is a door at the side for every four rows.",
+          "status": "uncertain",
+          "ocr_raw": "C: 50 seats, if there is a door at the side for every four rows"
+        }
+      ],
+      "figure_refs": [
+        "1 Spacing and rows of seats. Cinema",
+        "2 Boxes may have ≥20 loose chairs",
+        "3 Seating"
+      ],
+      "cross_refs": [
+        "p. 222"
+      ],
+      "keywords": [
+        "cinema auditorium",
+        "seating",
+        "aisles",
+        "row spacing",
+        "boxes"
+      ],
+      "tags_architectural": [
+        "circulation",
+        "ergonomics",
+        "anthropometry",
+        "clearance",
+        "safety"
+      ],
+      "confidence": 0.94
+    },
+    {
+      "id": "4122fb96e4bd1976-236-vision-1",
+      "pdf_page": 236,
+      "book_page": 223,
+      "chapter": "CULTURAL VENUES",
+      "section": "Cinemas",
+      "title": "Cinema auditorium acoustics and sound reproduction",
+      "summary": "Acoustic guidance covers separation of adjacent auditoriums, ceiling sound-directing surfaces, echo prevention, reverberation, and loudspeaker distribution. Sound reproduction descriptions include optical stereo and magnetic multichannel systems.",
+      "building_type": "Cinema",
+      "spaces": [
+        "Auditorium",
+        "Projection area"
+      ],
+      "uses": [
+        "Reproduce film sound",
+        "Control sound transmission and reverberation",
+        "Distribute sound evenly across seating rows"
+      ],
+      "furniture_equipment": [
+        "Loudspeakers",
+        "Sound-absorbing wall",
+        "Sound-directing ceiling surfaces"
+      ],
+      "dimensions": [
+        {
+          "label": "Sound insulation of walls between auditoriums",
+          "value": 85.0,
+          "value_max": null,
+          "unit": "dB",
+          "context": "Approximate stated wall separation rating; adjacent auditoriums should be separated by walls.",
+          "status": "uncertain",
+          "ocr_raw": "walls of approx. 85 dB 18–20 000 Hz"
+        },
+        {
+          "label": "Frequency range",
+          "value": 18.0,
+          "value_max": 20000.0,
+          "unit": "Hz",
+          "context": "Frequency notation printed alongside the approximate wall rating.",
+          "status": "uncertain",
+          "ocr_raw": "85 dB 18–20 000 Hz"
+        },
+        {
+          "label": "Maximum front-to-back volume difference",
+          "value": 4.0,
+          "value_max": null,
+          "unit": "dB",
+          "context": "Loudspeaker distribution should keep the volume difference between front and back rows within this limit.",
+          "status": "uncertain",
+          "ocr_raw": "does not exceed 4 dB"
+        },
+        {
+          "label": "Dolby stereo optical channels",
+          "value": 4.0,
+          "value_max": null,
+          "unit": "channels",
+          "context": "Dolby stereo optical sound system described for future use.",
+          "status": "uncertain",
+          "ocr_raw": "Dolby stereo optical system with four channels"
+        },
+        {
+          "label": "Film gauge",
+          "value": 70.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Film gauge associated with six-channel magnetic sound.",
+          "status": "uncertain",
+          "ocr_raw": "For 70 mm film"
+        },
+        {
+          "label": "Magnetic sound channels",
+          "value": 6.0,
+          "value_max": null,
+          "unit": "channels",
+          "context": "Magnetic sound reproduction for 70 mm film.",
+          "status": "uncertain",
+          "ocr_raw": "6 channel magnetic sound"
+        },
+        {
+          "label": "Cash desks per seat count",
+          "value": 300.0,
+          "value_max": 400.0,
+          "unit": "seats per cash desk",
+          "context": "One cash desk per 300–400 seats.",
+          "status": "uncertain",
+          "ocr_raw": "1 cash desk per 300–400 seats"
+        },
+        {
+          "label": "Cash desk area",
+          "value": 5.0,
+          "value_max": null,
+          "unit": "m²",
+          "context": "Approximate area required per cash desk.",
+          "status": "uncertain",
+          "ocr_raw": "requiring approx. 5 m²"
+        }
+      ],
+      "figure_refs": [],
+      "cross_refs": [
+        "p. 222"
+      ],
+      "keywords": [
+        "cinema acoustics",
+        "sound reproduction",
+        "loudspeakers",
+        "cash desks",
+        "reverberation"
+      ],
+      "tags_architectural": [
+        "safety"
+      ],
+      "confidence": 0.88
+    },
+    {
+      "id": "4122fb96e4bd1976-236-vision-2",
+      "pdf_page": 236,
+      "book_page": 223,
+      "chapter": "CULTURAL VENUES",
+      "section": "Cinemas",
+      "title": "Programme, panoramic, and Circarama cinemas",
+      "summary": "Programme cinemas are described as specialist-film venues, often combined with eating and drinking facilities. Panoramic and Circarama cinemas use expansive screen formats and specialized projection arrangements; Circarama venues are associated with adventure parks and planetariums.",
+      "building_type": "Cinema",
+      "spaces": [
+        "Auditorium",
+        "Cafe",
+        "Bar",
+        "Screen",
+        "Projection room"
+      ],
+      "uses": [
+        "Screen specialist films",
+        "Provide eating and drinking facilities alongside cinema use",
+        "Present panoramic or immersive film experiences"
+      ],
+      "furniture_equipment": [
+        "Cinema screen",
+        "Film projectors"
+      ],
+      "dimensions": [
+        {
+          "label": "Programme cinema seating capacity",
+          "value": 50.0,
+          "value_max": 200.0,
+          "unit": "seats",
+          "context": "Usual size range for programme cinemas.",
+          "status": "uncertain",
+          "ocr_raw": "Sizes of 50–200 seats are usual"
+        },
+        {
+          "label": "Circarama picture surface",
+          "value": 360.0,
+          "value_max": null,
+          "unit": "degrees",
+          "context": "Spherical picture surface extent.",
+          "status": "uncertain",
+          "ocr_raw": "Picture surface spherical (360°)"
+        },
+        {
+          "label": "Simultaneous projectors",
+          "value": 11.0,
+          "value_max": null,
+          "unit": "projectors",
+          "context": "Projectors used to show a consolidated picture on the Circarama surface.",
+          "status": "uncertain",
+          "ocr_raw": "a consolidated picture from 11 simultaneously running projectors"
+        }
+      ],
+      "figure_refs": [
+        "6 Zazie ‘programme cinema’ with cafe and bar, Halle (Saale)",
+        "7 Auditorium for flat films",
+        "8 Auditorium for panoramic films",
+        "9 Circarama"
+      ],
+      "cross_refs": [
+        "p. 224"
+      ],
+      "keywords": [
+        "programme cinema",
+        "panoramic films",
+        "Circarama",
+        "spherical screen",
+        "specialist films"
+      ],
+      "tags_architectural": [
+        "spatial_proportion"
+      ],
+      "confidence": 0.92
+    }
+  ]
+}

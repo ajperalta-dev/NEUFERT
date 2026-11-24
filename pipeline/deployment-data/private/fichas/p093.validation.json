@@ -1,0 +1,210 @@
+{
+  "model": "gpt-6-luna",
+  "checks": {
+    "checks": [
+      {
+        "ficha_index": 0,
+        "dimension_index": 0,
+        "status": "verified",
+        "value": 7.5,
+        "value_max": null,
+        "reason": "Figure 8 visibly labels the span \u201c7.50 m\u201d; value and unit agree."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 1,
+        "status": "verified",
+        "value": 2.2,
+        "value_max": 2.7,
+        "reason": "Figure 9 shows \u201c2.20\u20132.70\u201d; no unit is printed."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 2,
+        "status": "verified",
+        "value": 1.2,
+        "value_max": null,
+        "reason": "Figure 6 visibly shows \u201c1.20\u201d; no unit is printed."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 3,
+        "status": "verified",
+        "value": 2.4,
+        "value_max": null,
+        "reason": "Figure 11 visibly shows \u201c2.40\u201d; no unit is printed."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 4,
+        "status": "verified",
+        "value": 6.2,
+        "value_max": null,
+        "reason": "Figure 15 visibly shows \u201c6.20\u201d; no unit is printed."
+      },
+      {
+        "ficha_index": 1,
+        "dimension_index": 0,
+        "status": "verified",
+        "value": 60.0,
+        "value_max": null,
+        "reason": "Figure 1 visibly labels the dimension \u201c60\u201d; no unit is printed."
+      },
+      {
+        "ficha_index": 1,
+        "dimension_index": 1,
+        "status": "verified",
+        "value": 18.0,
+        "value_max": null,
+        "reason": "Figure 1 visibly labels the vertical dimension \u201c18\u201d; no unit is printed."
+      },
+      {
+        "ficha_index": 1,
+        "dimension_index": 2,
+        "status": "verified",
+        "value": 20.0,
+        "value_max": null,
+        "reason": "Figure 2 visibly labels the vertical dimension \u201c20\u201d; no unit is printed."
+      },
+      {
+        "ficha_index": 2,
+        "dimension_index": 0,
+        "status": "verified",
+        "value": 7.5,
+        "value_max": null,
+        "reason": "Figure 8 visibly labels the span \u201c7.50 m\u201d; value and unit agree."
+      },
+      {
+        "ficha_index": 2,
+        "dimension_index": 1,
+        "status": "verified",
+        "value": 1.2,
+        "value_max": null,
+        "reason": "Figure 6 visibly shows \u201c1.20\u201d; no unit is printed."
+      },
+      {
+        "ficha_index": 2,
+        "dimension_index": 2,
+        "status": "verified",
+        "value": 2.4,
+        "value_max": null,
+        "reason": "Figure 11 visibly shows \u201c2.40\u201d; no unit is printed."
+      },
+      {
+        "ficha_index": 2,
+        "dimension_index": 3,
+        "status": "verified",
+        "value": 2.2,
+        "value_max": 2.7,
+        "reason": "Figure 9 shows \u201c2.20\u20132.70\u201d; no unit is printed."
+      },
+      {
+        "ficha_index": 2,
+        "dimension_index": 4,
+        "status": "verified",
+        "value": 6.2,
+        "value_max": null,
+        "reason": "Figure 15 visibly shows \u201c6.20\u201d; no unit is printed."
+      }
+    ]
+  },
+  "automatic": [
+    {
+      "ficha_index": 0,
+      "dimension_index": 0,
+      "issues": []
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 1,
+      "issues": [
+        "Unknown unit"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 2,
+      "issues": [
+        "Unknown unit"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 3,
+      "issues": [
+        "Unknown unit"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 4,
+      "issues": [
+        "Unknown unit"
+      ]
+    },
+    {
+      "ficha_index": 1,
+      "dimension_index": 0,
+      "issues": [
+        "Unknown unit"
+      ]
+    },
+    {
+      "ficha_index": 1,
+      "dimension_index": 1,
+      "issues": [
+        "Unknown unit"
+      ]
+    },
+    {
+      "ficha_index": 1,
+      "dimension_index": 2,
+      "issues": [
+        "Unknown unit"
+      ]
+    },
+    {
+      "ficha_index": 2,
+      "dimension_index": 0,
+      "issues": []
+    },
+    {
+      "ficha_index": 2,
+      "dimension_index": 1,
+      "issues": [
+        "Unknown unit"
+      ]
+    },
+    {
+      "ficha_index": 2,
+      "dimension_index": 2,
+      "issues": [
+        "Unknown unit"
+      ]
+    },
+    {
+      "ficha_index": 2,
+      "dimension_index": 3,
+      "issues": [
+        "Unknown unit"
+      ]
+    },
+    {
+      "ficha_index": 2,
+      "dimension_index": 4,
+      "issues": [
+        "Unknown unit"
+      ]
+    }
+  ],
+  "usage": [
+    {
+      "prompt_tokens": 4153,
+      "completion_tokens": 1910
+    },
+    {
+      "prompt_tokens": 4943,
+      "completion_tokens": 853
+    }
+  ]
+}

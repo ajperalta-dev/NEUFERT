@@ -1,0 +1,300 @@
+{
+  "fichas": [
+    {
+      "id": "4122fb96e4bd1976-511-vision-0",
+      "pdf_page": 511,
+      "book_page": 498,
+      "chapter": "BUILDING SERVICES",
+      "section": "Daylight",
+      "title": "Daylight quality criteria",
+      "summary": "Explains how illuminance, surface reflectance, colour, daylight uniformity, glare control and shadow formation affect interior daylight quality. Diagrams compare side-window and rooflight illumination and show the influence of daylight openings. A staggered, multilayered transparent transition between interior and exterior can help meet changing seasonal daylight requirements.",
+      "building_type": "Building services / daylighting",
+      "spaces": [
+        "Interior rooms",
+        "Side-window and rooflight zones"
+      ],
+      "uses": [
+        "Set illuminance and surface-reflectance criteria for visual tasks",
+        "Improve daylight uniformity and distribution",
+        "Reduce glare",
+        "Support useful three-dimensional shadow formation"
+      ],
+      "furniture_equipment": [
+        "Windows",
+        "Rooflights",
+        "External sun shades",
+        "Internal glare protection",
+        "Translucent materials or light grating"
+      ],
+      "dimensions": [
+        {
+          "label": "Daylight level for coarse work",
+          "value": 1.33,
+          "value_max": null,
+          "unit": "D%",
+          "context": "Table: daylight level by type of work.",
+          "status": "uncertain",
+          "ocr_raw": "coarse 1.33"
+        },
+        {
+          "label": "Daylight level for medium-fine work",
+          "value": 2.66,
+          "value_max": null,
+          "unit": "D%",
+          "context": "Table: daylight level by type of work; OCR associates this entry with “medium” and “fine.”",
+          "status": "uncertain",
+          "ocr_raw": "medium 2.66 fine"
+        },
+        {
+          "label": "Daylight level for fine work",
+          "value": 5.0,
+          "value_max": null,
+          "unit": "D%",
+          "context": "Table: daylight level by type of work.",
+          "status": "uncertain",
+          "ocr_raw": "fine 5.00"
+        },
+        {
+          "label": "Daylight level for very fine work",
+          "value": 10.0,
+          "value_max": null,
+          "unit": "D%",
+          "context": "Table: daylight level by type of work; note says 10% is too much on the south side but good on the north side.",
+          "status": "uncertain",
+          "ocr_raw": "very fine 10.00 note: 10% is too much on the south side, but good on the north side"
+        },
+        {
+          "label": "Uniformity ratio for window lighting",
+          "value": 1.0,
+          "value_max": null,
+          "unit": "ratio",
+          "context": "Daylight uniformity, expressed as Dmin/Dmax; the printed threshold is 1:6 for lighting from windows.",
+          "status": "uncertain",
+          "ocr_raw": "G E Dminl Dmax 1:6 for lighting from windows"
+        },
+        {
+          "label": "Uniformity ratio for lighting from above",
+          "value": 1.0,
+          "value_max": null,
+          "unit": "ratio",
+          "context": "Daylight uniformity threshold for lighting from above; printed ratio is 1:2.",
+          "status": "uncertain",
+          "ocr_raw": "G E 1:2 for lighting from above"
+        },
+        {
+          "label": "Zenith-to-horizon light density",
+          "value": 3.0,
+          "value_max": null,
+          "unit": "times",
+          "context": "Rooflight lighting is described as more uniform because light density at the zenith is three times greater than at the horizon.",
+          "status": "uncertain",
+          "ocr_raw": "light density at the zenith is three times greater than at the horizon"
+        },
+        {
+          "label": "Window area to plan area",
+          "value": 1.0,
+          "value_max": null,
+          "unit": "ratio",
+          "context": "Figure 7 caption: comparison uses kF = window area/plan area = 1:6.",
+          "status": "uncertain",
+          "ocr_raw": "kF ~window area/plan area~ 1 :6"
+        },
+        {
+          "label": "Minimum daylight factor in figure 7",
+          "value": 5.0,
+          "value_max": null,
+          "unit": "%",
+          "context": "Figure 7 caption gives Dmin as 5% of the necessary kF value; the caption also says the necessary kF value is given.",
+          "status": "uncertain",
+          "ocr_raw": "Dmin ~ 5% of necessary kF value is also given."
+        },
+        {
+          "label": "Colour reflectance: red",
+          "value": 0.1,
+          "value_max": 0.5,
+          "unit": "reflection coefficient",
+          "context": "Table: colour by brightness, dark to bright.",
+          "status": "uncertain",
+          "ocr_raw": "red 0.1-0.5"
+        },
+        {
+          "label": "Colour reflectance: yellow",
+          "value": 0.25,
+          "value_max": 0.65,
+          "unit": "reflection coefficient",
+          "context": "Table: colour by brightness, dark to bright.",
+          "status": "uncertain",
+          "ocr_raw": "yellow 0.25-0.65"
+        },
+        {
+          "label": "Colour reflectance: green",
+          "value": 0.15,
+          "value_max": 0.55,
+          "unit": "reflection coefficient",
+          "context": "Table: colour by brightness, dark to bright.",
+          "status": "uncertain",
+          "ocr_raw": "green 0.15-0.55"
+        },
+        {
+          "label": "Colour reflectance: blue",
+          "value": 0.1,
+          "value_max": 0.3,
+          "unit": "reflection coefficient",
+          "context": "Table: colour by brightness, dark to bright.",
+          "status": "uncertain",
+          "ocr_raw": "blue 0.1-0.3"
+        },
+        {
+          "label": "Colour reflectance: brown",
+          "value": 0.1,
+          "value_max": 0.4,
+          "unit": "reflection coefficient",
+          "context": "Table: colour by brightness, dark to bright.",
+          "status": "uncertain",
+          "ocr_raw": "brown 0.1-0.4"
+        },
+        {
+          "label": "Colour reflectance: white",
+          "value": 0.7,
+          "value_max": 0.75,
+          "unit": "reflection coefficient",
+          "context": "Table: colour by brightness, dark to bright.",
+          "status": "uncertain",
+          "ocr_raw": "white 0.7-0.75"
+        },
+        {
+          "label": "Colour reflectance: grey",
+          "value": 0.15,
+          "value_max": 0.6,
+          "unit": "reflection coefficient",
+          "context": "Table: colour by brightness, dark to bright.",
+          "status": "uncertain",
+          "ocr_raw": "grey 0.15--0.6"
+        },
+        {
+          "label": "Colour reflectance: black",
+          "value": 0.05,
+          "value_max": 0.1,
+          "unit": "reflection coefficient",
+          "context": "Table: colour by brightness, dark to bright.",
+          "status": "uncertain",
+          "ocr_raw": "black 0.05--0.1"
+        },
+        {
+          "label": "Reflectance: smooth concrete",
+          "value": 0.25,
+          "value_max": 0.5,
+          "unit": "reflection coefficient",
+          "context": "Table: materials without colour treatment, dark to bright.",
+          "status": "uncertain",
+          "ocr_raw": "smooth concrete 0.25--0.5"
+        },
+        {
+          "label": "Reflectance: red brick",
+          "value": 0.15,
+          "value_max": 0.3,
+          "unit": "reflection coefficient",
+          "context": "Table: materials without colour treatment, dark to bright.",
+          "status": "uncertain",
+          "ocr_raw": "red brick 0.15--0.3"
+        },
+        {
+          "label": "Reflectance: lime sandstone",
+          "value": 0.5,
+          "value_max": 0.6,
+          "unit": "reflection coefficient",
+          "context": "Table: materials without colour treatment, dark to bright.",
+          "status": "uncertain",
+          "ocr_raw": "lime sandstone 0.5-0.6"
+        },
+        {
+          "label": "Reflectance: dark surfaces",
+          "value": 0.1,
+          "value_max": 0.2,
+          "unit": "reflection coefficient",
+          "context": "Table: materials without colour treatment, dark to bright.",
+          "status": "uncertain",
+          "ocr_raw": "dark surfaces 0.1-0.2"
+        },
+        {
+          "label": "Reflectance: medium surfaces",
+          "value": 0.2,
+          "value_max": 0.4,
+          "unit": "reflection coefficient",
+          "context": "Table: materials without colour treatment, dark to bright.",
+          "status": "uncertain",
+          "ocr_raw": "medium 0.2-0.4"
+        },
+        {
+          "label": "Reflectance: bright surfaces",
+          "value": 0.4,
+          "value_max": 0.5,
+          "unit": "reflection coefficient",
+          "context": "Table: materials without colour treatment, dark to bright.",
+          "status": "uncertain",
+          "ocr_raw": "bright 0.4-0.5"
+        },
+        {
+          "label": "Floor-covering reflectance: dark",
+          "value": 0.1,
+          "value_max": 0.15,
+          "unit": "reflection coefficient",
+          "context": "Table: floor coverings, rolls and tiles, dark to bright.",
+          "status": "uncertain",
+          "ocr_raw": "dark 0.1--0.15"
+        },
+        {
+          "label": "Floor-covering reflectance: medium",
+          "value": 0.15,
+          "value_max": 0.25,
+          "unit": "reflection coefficient",
+          "context": "Table: floor coverings, rolls and tiles, dark to bright.",
+          "status": "uncertain",
+          "ocr_raw": "medium 0.15-0.25"
+        },
+        {
+          "label": "Floor-covering reflectance: bright",
+          "value": 0.25,
+          "value_max": 0.4,
+          "unit": "reflection coefficient",
+          "context": "Table: floor coverings, rolls and tiles, dark to bright.",
+          "status": "uncertain",
+          "ocr_raw": "bright 0.25-0.4"
+        }
+      ],
+      "figure_refs": [
+        "1: Illuminances D%",
+        "2: Degree of reflection",
+        "3: Uniformity of lighting from the side",
+        "4: Uniformity of lighting from above",
+        "5: Shadow formation with lighting from the side",
+        "6: Shadow formation with lighting from above",
+        "7: Influence of daylight openings"
+      ],
+      "cross_refs": [
+        "p. 496",
+        "p. 506",
+        "BS 8206-2",
+        "DIN 5034"
+      ],
+      "keywords": [
+        "daylight",
+        "illuminance",
+        "daylight factor",
+        "surface reflectance",
+        "colour rendering",
+        "uniformity",
+        "glare",
+        "shadow formation",
+        "side lighting",
+        "rooflighting",
+        "daylight openings"
+      ],
+      "tags_architectural": [
+        "daylighting",
+        "spatial_proportion"
+      ],
+      "confidence": 0.91
+    }
+  ]
+}

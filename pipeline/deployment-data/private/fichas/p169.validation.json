@@ -1,0 +1,45 @@
+{
+  "model": "gpt-6-luna",
+  "checks": {
+    "checks": [
+      {
+        "ficha_index": 1,
+        "dimension_index": 0,
+        "status": "uncertain",
+        "value": null,
+        "value_max": null,
+        "reason": "The drawing visibly shows 2.45, but no unit is printed with the figure; the proposed unit m cannot be independently verified."
+      },
+      {
+        "ficha_index": 1,
+        "dimension_index": 1,
+        "status": "uncertain",
+        "value": null,
+        "value_max": null,
+        "reason": "The drawing visibly shows 5.52, but no unit is printed with the figure; the proposed unit m cannot be independently verified."
+      }
+    ]
+  },
+  "automatic": [
+    {
+      "ficha_index": 1,
+      "dimension_index": 0,
+      "issues": []
+    },
+    {
+      "ficha_index": 1,
+      "dimension_index": 1,
+      "issues": []
+    }
+  ],
+  "usage": [
+    {
+      "prompt_tokens": 3991,
+      "completion_tokens": 1219
+    },
+    {
+      "prompt_tokens": 3967,
+      "completion_tokens": 356
+    }
+  ]
+}

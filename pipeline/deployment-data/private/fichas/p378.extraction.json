@@ -1,0 +1,587 @@
+{
+  "fichas": [
+    {
+      "id": "4122fb96e4bd1976-378-vision-0",
+      "pdf_page": 378,
+      "book_page": 365,
+      "chapter": "SPORT AND LEISURE",
+      "section": "Swimming Pools",
+      "title": "Indoor public pool configurations",
+      "summary": "Reference sheet showing plans and sections for indoor public paddling, non-swimmers’, combined, swimmers’, and wave pools. The table gives pool widths and lengths, water-depth notes, and minimum ceiling heights; diagrams include a height-adjustable Variopool floor and wave-pool variants.",
+      "building_type": "Indoor public swimming pool",
+      "spaces": [
+        "Paddling pool",
+        "Non-swimmers’ pool",
+        "Combined pool",
+        "Swimmers’ pool",
+        "Wave pool"
+      ],
+      "uses": [
+        "Paddling",
+        "Non-swimmer swimming",
+        "Swimming",
+        "Wave swimming"
+      ],
+      "furniture_equipment": [
+        "Height-adjustable pool floor",
+        "Wave-generation equipment",
+        "Separation cable"
+      ],
+      "dimensions": [
+        {
+          "label": "Paddling pool width",
+          "value": 15.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Pool-area table; width is printed as a minimum.",
+          "status": "uncertain",
+          "ocr_raw": "paddling pool min.15"
+        },
+        {
+          "label": "Paddling pool length",
+          "value": 25.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Pool-area table; area entry is printed as 25 m².",
+          "status": "uncertain",
+          "ocr_raw": "25 m 2"
+        },
+        {
+          "label": "Non-swimmers’ pool width",
+          "value": 8.0,
+          "value_max": 10.0,
+          "unit": "m",
+          "context": "Pool-area table; widths shown for the non-swimmers’ pool.",
+          "status": "uncertain",
+          "ocr_raw": "8.00\n10.00"
+        },
+        {
+          "label": "Non-swimmers’ pool length",
+          "value": 12.5,
+          "value_max": 16.66,
+          "unit": "m",
+          "context": "Pool-area table; corresponding lengths shown for the non-swimmers’ pool.",
+          "status": "uncertain",
+          "ocr_raw": "12.50\n16.66"
+        },
+        {
+          "label": "Non-swimmers’ pool maximum water depth",
+          "value": 1.35,
+          "value_max": null,
+          "unit": "m",
+          "context": "Pool-area table; depth is stated as 0.60/0.80 to maximum 1.35 m.",
+          "status": "uncertain",
+          "ocr_raw": "0.60/0.80 to max.\n1.35 m"
+        },
+        {
+          "label": "Non-swimmers’ pool minimum ceiling height",
+          "value": 3.2,
+          "value_max": null,
+          "unit": "m",
+          "context": "Pool-area table.",
+          "status": "uncertain",
+          "ocr_raw": "3.20m"
+        },
+        {
+          "label": "Combined pool width",
+          "value": 8.0,
+          "value_max": 25.0,
+          "unit": "m",
+          "context": "Pool-area table; widths listed are 8.00, 10.00, 12.50, 16.66, 21.00, and 25.00 m.",
+          "status": "uncertain",
+          "ocr_raw": "8.00\n10.00\n12.50\n16.66\n21.00\n25.00"
+        },
+        {
+          "label": "Combined pool length",
+          "value": 25.0,
+          "value_max": 50.0,
+          "unit": "m",
+          "context": "Pool-area table; listed lengths include 25.00, 50.00, and 25.00/50.00 m; the full table pairs multiple widths and lengths.",
+          "status": "uncertain",
+          "ocr_raw": "25.00\n50.00\n25.00\n25.00/50.00"
+        },
+        {
+          "label": "Combined pool water depth with lifting floor",
+          "value": 0.3,
+          "value_max": 1.8,
+          "unit": "m",
+          "context": "Pool-area table; depth range with lifting floor.",
+          "status": "uncertain",
+          "ocr_raw": "with lifting floor:\n0.30-1.80 m"
+        },
+        {
+          "label": "Combined pool minimum water depth in diving section",
+          "value": 3.8,
+          "value_max": null,
+          "unit": "m",
+          "context": "Pool-area table; OCR also gives an alternative depth in parentheses.",
+          "status": "uncertain",
+          "ocr_raw": "min. water depth 3.80 + 4.50 (5.00) m"
+        },
+        {
+          "label": "Swimmers’ pool length",
+          "value": 25.0,
+          "value_max": 50.0,
+          "unit": "m",
+          "context": "Pool-area table; lengths shown include 25.00/50.00 and 50.00 m.",
+          "status": "uncertain",
+          "ocr_raw": "25.00/50.00\n50.00"
+        },
+        {
+          "label": "Swimmers’ pool minimum ceiling height",
+          "value": 4.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Pool-area table.",
+          "status": "uncertain",
+          "ocr_raw": "4.00 m"
+        },
+        {
+          "label": "Wave pool width",
+          "value": 12.5,
+          "value_max": 25.0,
+          "unit": "m",
+          "context": "Pool-area table; listed widths are 12.50, 16.66, and 21.00–25.00 m.",
+          "status": "uncertain",
+          "ocr_raw": "12.50\n16.66\n21.00-\n25.00"
+        },
+        {
+          "label": "Wave pool length",
+          "value": 33.0,
+          "value_max": 50.0,
+          "unit": "m",
+          "context": "Pool-area table and wave-pool plan.",
+          "status": "uncertain",
+          "ocr_raw": "33.00-50.00"
+        },
+        {
+          "label": "Wave pool initial water depth",
+          "value": 0.0,
+          "value_max": 0.3,
+          "unit": "m",
+          "context": "Pool-area table; maximum depth is specified conditionally if a step is used.",
+          "status": "uncertain",
+          "ocr_raw": "initial water depth:\n0.00 m (if step, max.\n0.30 m)"
+        },
+        {
+          "label": "Wave pool minimum ceiling height",
+          "value": 4.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Pool-area table.",
+          "status": "uncertain",
+          "ocr_raw": "4.00 m"
+        },
+        {
+          "label": "Variopool length",
+          "value": 25.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Figure 2; height-adjustable floor between soil/ground (OCR wording).",
+          "status": "uncertain",
+          "ocr_raw": "Variopool 25.00 m"
+        },
+        {
+          "label": "Wave pool plan length",
+          "value": 33.0,
+          "value_max": 50.0,
+          "unit": "m",
+          "context": "Figure 3; plan dimension.",
+          "status": "uncertain",
+          "ocr_raw": "33.00-50.00"
+        }
+      ],
+      "figure_refs": [
+        "1 Scheme of non-swimmers’ pool, plan and section",
+        "2 Variopool 25.00 m",
+        "3 Wave pool (scheme)",
+        "4 Section of wave pool",
+        "5 Section of combined swimmers’ and wave pool",
+        "6 Variant of point A with steps"
+      ],
+      "cross_refs": [
+        "Point B → 8 (Finnish channel)"
+      ],
+      "keywords": [
+        "indoor public pools",
+        "pool dimensions",
+        "pool depth",
+        "wave pool",
+        "lifting floor"
+      ],
+      "tags_architectural": [
+        "spatial_proportion",
+        "adaptability",
+        "safety"
+      ],
+      "confidence": 0.82
+    },
+    {
+      "id": "4122fb96e4bd1976-378-vision-1",
+      "pdf_page": 378,
+      "book_page": 365,
+      "chapter": "SPORT AND LEISURE",
+      "section": "Swimming Pools",
+      "title": "Pool perimeter, support spaces, and spectator facilities",
+      "summary": "The sheet specifies perimeter widths around pools and space requirements for lifeguard, sanitary, equipment, competitor, spectator, press, and catering facilities. It also describes service-area allowances and illustrates several overflow-channel types.",
+      "building_type": "Indoor public swimming pool",
+      "spaces": [
+        "Pool perimeter",
+        "Lifeguard’s room",
+        "Sanitary room",
+        "Equipment room",
+        "Competitors’ lounge",
+        "Spectator facilities",
+        "Press and television workplaces",
+        "Catering area",
+        "Services area"
+      ],
+      "uses": [
+        "Pool circulation and access",
+        "Lifeguarding",
+        "Sanitary provision",
+        "Equipment storage",
+        "Competitor support",
+        "Spectating",
+        "Press and television work",
+        "Catering",
+        "Building services"
+      ],
+      "furniture_equipment": [
+        "Starting blocks",
+        "Diving facility",
+        "Spectator seats",
+        "Vending machines"
+      ],
+      "dimensions": [
+        {
+          "label": "Main access area width",
+          "value": 3.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Pool perimeter; main access area to the swimming pool.",
+          "status": "uncertain",
+          "ocr_raw": "in the main access area to the swimming pool:\n3.00"
+        },
+        {
+          "label": "Main entrance passage width",
+          "value": 2.5,
+          "value_max": null,
+          "unit": "m",
+          "context": "Between pool steps and hall wall.",
+          "status": "uncertain",
+          "ocr_raw": "in main entrance area between pool steps and hall wall:\n2.50"
+        },
+        {
+          "label": "Starting-block clearance width",
+          "value": 3.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Pool perimeter at the starting blocks.",
+          "status": "uncertain",
+          "ocr_raw": "at the starting blocks:\n3.00"
+        },
+        {
+          "label": "Diving-facility perimeter width",
+          "value": 4.5,
+          "value_max": null,
+          "unit": "m",
+          "context": "Pool perimeter at the diving facility.",
+          "status": "uncertain",
+          "ocr_raw": "at the diving facility:\n4.50"
+        },
+        {
+          "label": "Passage behind 1 m diving board",
+          "value": 1.25,
+          "value_max": null,
+          "unit": "m",
+          "context": "Minimum free passage behind the 1 m diving board.",
+          "status": "uncertain",
+          "ocr_raw": "behind the 1 m diving board: free passage min. 1.25 m"
+        },
+        {
+          "label": "Access to paddling pool width",
+          "value": 2.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Pool perimeter access.",
+          "status": "uncertain",
+          "ocr_raw": "at the access to the paddling pool\n2.00"
+        },
+        {
+          "label": "Non-swimmers’ pool steps-side width",
+          "value": 2.5,
+          "value_max": null,
+          "unit": "m",
+          "context": "Pool perimeter.",
+          "status": "uncertain",
+          "ocr_raw": "non-swimmers’ pool- steps side:\n2.50"
+        },
+        {
+          "label": "Non-swimmers’ pool narrow-side width",
+          "value": 2.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Pool perimeter.",
+          "status": "uncertain",
+          "ocr_raw": "non-swimmers’ pool- narrow side:\n2.00"
+        },
+        {
+          "label": "Pool separation width",
+          "value": 4.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Between diving, swimmers’, or combined pool and non-swimmers’ pool or non-swimmers’ section of combined pool.",
+          "status": "uncertain",
+          "ocr_raw": "between diving, swimmers’ or combined pool and the non-swimmers’ pool\nor non-swimmer’s section of the combined pool:\n4.00"
+        },
+        {
+          "label": "Pool separation width",
+          "value": 3.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Between swimmers’ pool or swimmers’ section of a combined pool and divers’ pool.",
+          "status": "uncertain",
+          "ocr_raw": "between swimmers’ pool or swimmers’ section of a combined pool and the\ndivers’ pool:\n3.00"
+        },
+        {
+          "label": "Remaining perimeter width for water area under 300 m²",
+          "value": 1.25,
+          "value_max": null,
+          "unit": "m",
+          "context": "Minimum width for water area less than 300 m².",
+          "status": "uncertain",
+          "ocr_raw": "remaining widths for a water area less than 300 m²\nmin. 1.25"
+        },
+        {
+          "label": "Remaining perimeter width for water area over 300 m²",
+          "value": 1.5,
+          "value_max": null,
+          "unit": "m",
+          "context": "Minimum width for water area over 300 m².",
+          "status": "uncertain",
+          "ocr_raw": "over 300 m²\nmin. 1.50"
+        },
+        {
+          "label": "Lifeguard’s room minimum area",
+          "value": 6.0,
+          "value_max": null,
+          "unit": "m²",
+          "context": "Space requirement.",
+          "status": "uncertain",
+          "ocr_raw": "lifeguard’s room space requirement: min. 6 m²"
+        },
+        {
+          "label": "Sanitary room minimum area",
+          "value": 8.0,
+          "value_max": null,
+          "unit": "m²",
+          "context": "Space requirement.",
+          "status": "uncertain",
+          "ocr_raw": "sanitary room space requirement: min. 8 m²"
+        },
+        {
+          "label": "Equipment room minimum area for water area up to 450 m²",
+          "value": 15.0,
+          "value_max": null,
+          "unit": "m²",
+          "context": "Minimum equipment-room area for pool water area up to 450 m².",
+          "status": "uncertain",
+          "ocr_raw": "up to 450 m² water area, min. 15 m²"
+        },
+        {
+          "label": "Equipment room minimum area for water area over 450 m²",
+          "value": 20.0,
+          "value_max": null,
+          "unit": "m²",
+          "context": "Minimum equipment-room area for pool water area over 450 m².",
+          "status": "uncertain",
+          "ocr_raw": "over 450 m² water area, min. 20 m²"
+        },
+        {
+          "label": "Competitors’ lounge area for 6 swimming lanes",
+          "value": 30.0,
+          "value_max": null,
+          "unit": "m²",
+          "context": "Listed lounge areas: 6 lanes = 30 m², 8 = 50 m², 10 = 70 m².",
+          "status": "uncertain",
+          "ocr_raw": "6 swimming lanes = 30 m², 8 = 50 m², 10 = 70 m²"
+        },
+        {
+          "label": "Competitors’ lounge area for 8 swimming lanes",
+          "value": 50.0,
+          "value_max": null,
+          "unit": "m²",
+          "context": "Listed lounge areas: 6 lanes = 30 m², 8 = 50 m², 10 = 70 m².",
+          "status": "uncertain",
+          "ocr_raw": "6 swimming lanes = 30 m², 8 = 50 m², 10 = 70 m²"
+        },
+        {
+          "label": "Competitors’ lounge area for 10 swimming lanes",
+          "value": 70.0,
+          "value_max": null,
+          "unit": "m²",
+          "context": "Listed lounge areas: 6 lanes = 30 m², 8 = 50 m², 10 = 70 m².",
+          "status": "uncertain",
+          "ocr_raw": "6 swimming lanes = 30 m², 8 = 50 m², 10 = 70 m²"
+        },
+        {
+          "label": "Teaching and club area",
+          "value": 30.0,
+          "value_max": 60.0,
+          "unit": "m²",
+          "context": "Area stated as 30 up to 60 m².",
+          "status": "uncertain",
+          "ocr_raw": "teaching and club: 30 up to 60 m²"
+        },
+        {
+          "label": "Spectator seating provision",
+          "value": 0.5,
+          "value_max": null,
+          "unit": "seats per m²",
+          "context": "Seats per 1 m² of water area used for sport.",
+          "status": "uncertain",
+          "ocr_raw": "stands: 0.5 seats per 1 m² water area used for sport"
+        },
+        {
+          "label": "Area per spectator seat",
+          "value": 0.5,
+          "value_max": null,
+          "unit": "m²",
+          "context": "Includes immediate traffic area.",
+          "status": "uncertain",
+          "ocr_raw": "space required for 1 seat: 0.5 m² including immediate traffic area"
+        },
+        {
+          "label": "Spectator cloakroom area ratio",
+          "value": 0.025,
+          "value_max": null,
+          "unit": "m² per m²",
+          "context": "Per 1 m² of water area used for sport.",
+          "status": "uncertain",
+          "ocr_raw": "spectator cloakrooms, space required: 0.025 m² per 1 m² water\narea used for sport"
+        },
+        {
+          "label": "Press/television places",
+          "value": 5.0,
+          "value_max": 20.0,
+          "unit": "places",
+          "context": "Raised position with good view of start and finish; each place 0.75 × 1.20 m.",
+          "status": "uncertain",
+          "ocr_raw": "5–20 places, each place 0.75 x 1.20 m"
+        },
+        {
+          "label": "Press/television required places",
+          "value": 4.0,
+          "value_max": 6.0,
+          "unit": "places",
+          "context": "Each place 1.20 m × 1.50 m.",
+          "status": "uncertain",
+          "ocr_raw": "Required: 4-6 places, each place 1.20 m x 1.50 m"
+        },
+        {
+          "label": "Vending-machine space",
+          "value": 0.5,
+          "value_max": 0.8,
+          "unit": "m²",
+          "context": "Space required per vending machine.",
+          "status": "uncertain",
+          "ocr_raw": "Space required per vending machine: 0.5-0.8 m²"
+        },
+        {
+          "label": "Catering seated area minimum",
+          "value": 50.0,
+          "value_max": null,
+          "unit": "seats",
+          "context": "Minimum seated capacity; OCR gives 1–2 m² per seat.",
+          "status": "uncertain",
+          "ocr_raw": "Seated area: min 50 seats, each seat 1-2 m²"
+        },
+        {
+          "label": "Catering area per seat",
+          "value": 1.0,
+          "value_max": 2.0,
+          "unit": "m² per seat",
+          "context": "Area requirement for each seat.",
+          "status": "uncertain",
+          "ocr_raw": "each seat 1-2 m²"
+        },
+        {
+          "label": "Cafe subsidiary-room area",
+          "value": 60.0,
+          "value_max": null,
+          "unit": "percent",
+          "context": "Approximate percentage of seating area, additional to seating area.",
+          "status": "uncertain",
+          "ocr_raw": "for cafe approx. 60% of seating area"
+        },
+        {
+          "label": "Restaurant subsidiary-room area",
+          "value": 100.0,
+          "value_max": null,
+          "unit": "percent",
+          "context": "Approximate percentage of seating area, additional to seating area.",
+          "status": "uncertain",
+          "ocr_raw": "for restaurant approx. 100% of seating area"
+        },
+        {
+          "label": "Store and cool-room share",
+          "value": 20.0,
+          "value_max": 25.0,
+          "unit": "percent",
+          "context": "Share of the additional catering subsidiary-room area.",
+          "status": "uncertain",
+          "ocr_raw": "of which 20-25% for stores and cool room"
+        },
+        {
+          "label": "Empty-packaging area share",
+          "value": 15.0,
+          "value_max": 20.0,
+          "unit": "percent",
+          "context": "Share of the additional catering subsidiary-room area.",
+          "status": "uncertain",
+          "ocr_raw": "for empty packaging 15-20%"
+        },
+        {
+          "label": "Services area allowance",
+          "value": 1.0,
+          "value_max": null,
+          "unit": "m² per m²",
+          "context": "Up to 1 m² per 1 m² planned water area; for larger indoor pools a reduction of up to 30% is possible. Excludes wave-water tank, storeroom, sub-station, and gas-supply room.",
+          "status": "uncertain",
+          "ocr_raw": "up to 1 m² per 1 m² planned\nwater area; for larger indoor pools, a reduction of up to 30% is\npossible."
+        },
+        {
+          "label": "Possible services-area reduction",
+          "value": 30.0,
+          "value_max": null,
+          "unit": "percent",
+          "context": "Reduction possible for larger indoor pools.",
+          "status": "uncertain",
+          "ocr_raw": "for larger indoor pools, a reduction of up to 30% is\npossible."
+        }
+      ],
+      "figure_refs": [
+        "8 Examples of overflow channels"
+      ],
+      "cross_refs": [
+        "Point B → 8 (Finnish channel)"
+      ],
+      "keywords": [
+        "pool perimeter",
+        "clearance",
+        "support spaces",
+        "spectator facilities",
+        "services area",
+        "overflow channels"
+      ],
+      "tags_architectural": [
+        "circulation",
+        "clearance",
+        "safety",
+        "accessibility"
+      ],
+      "confidence": 0.86
+    }
+  ]
+}

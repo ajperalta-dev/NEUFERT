@@ -1,0 +1,242 @@
+{
+  "fichas": [
+    {
+      "id": "4122fb96e4bd1976-514-vision-0",
+      "pdf_page": 514,
+      "book_page": 501,
+      "chapter": "BUILDING SERVICES",
+      "section": "Lighting",
+      "title": "Lighting parameters and illuminance values",
+      "summary": "Explains luminous flux, luminous intensity, illuminance, and luminance, and lists example illuminance levels from global radiation to moonlight. Luminance is associated with perceived brightness and potential glare; shading of lamps is therefore required in interiors.",
+      "building_type": "General buildings",
+      "spaces": [
+        "Interiors",
+        "Workplaces",
+        "Streets"
+      ],
+      "uses": [
+        "Understand basic photometric quantities",
+        "Compare example illuminance levels",
+        "Inform lighting design and glare control"
+      ],
+      "furniture_equipment": [
+        "Lamps",
+        "Light fittings",
+        "Lamp shading"
+      ],
+      "dimensions": [
+        {
+          "label": "Global radiation (clear sky), maximum illuminance",
+          "value": 100000.0,
+          "value_max": null,
+          "unit": "lx",
+          "context": "Maximum illuminance listed for global radiation under a clear sky.",
+          "status": "uncertain",
+          "ocr_raw": "Global radiation (clear sky) max. 100,000 lx"
+        },
+        {
+          "label": "Global radiation (cloudy sky), maximum illuminance",
+          "value": 20000.0,
+          "value_max": null,
+          "unit": "lx",
+          "context": "Maximum illuminance listed for global radiation under a cloudy sky.",
+          "status": "uncertain",
+          "ocr_raw": "Global radiation (cloudy sky) max. 20,000 lx"
+        },
+        {
+          "label": "Optimal for seeing",
+          "value": 2000.0,
+          "value_max": null,
+          "unit": "lx",
+          "context": "Typical illuminance value.",
+          "status": "uncertain",
+          "ocr_raw": "Optimal for seeing 2000 lx"
+        },
+        {
+          "label": "Minimum at workplace",
+          "value": 200.0,
+          "value_max": null,
+          "unit": "lx",
+          "context": "Typical workplace illuminance value.",
+          "status": "uncertain",
+          "ocr_raw": "Minimum at workplace 200 lx"
+        },
+        {
+          "label": "Orientation lighting",
+          "value": 20.0,
+          "value_max": null,
+          "unit": "lx",
+          "context": "Typical illuminance value.",
+          "status": "uncertain",
+          "ocr_raw": "Orientation lighting 20 lx"
+        },
+        {
+          "label": "Street lighting",
+          "value": 10.0,
+          "value_max": null,
+          "unit": "lx",
+          "context": "Typical illuminance value.",
+          "status": "uncertain",
+          "ocr_raw": "Street lighting 10 lx"
+        },
+        {
+          "label": "Moonlight",
+          "value": 0.2,
+          "value_max": null,
+          "unit": "lx",
+          "context": "Typical illuminance value.",
+          "status": "uncertain",
+          "ocr_raw": "Moonlight 0.2 lx"
+        }
+      ],
+      "figure_refs": [
+        "1",
+        "2",
+        "3"
+      ],
+      "cross_refs": [
+        "p. 503"
+      ],
+      "keywords": [
+        "lighting",
+        "photometry",
+        "illuminance",
+        "luminance",
+        "luminous flux",
+        "glare"
+      ],
+      "tags_architectural": [
+        "safety"
+      ],
+      "confidence": 0.97
+    },
+    {
+      "id": "4122fb96e4bd1976-514-vision-1",
+      "pdf_page": 514,
+      "book_page": 501,
+      "chapter": "BUILDING SERVICES",
+      "section": "Lighting",
+      "title": "Artificial lighting: lamp types and performance",
+      "summary": "Describes artificial lighting sources as lamps used with fittings, which hold the lamp and distribute light. Classifies sources into filament and discharge lamps. Filament lamps produce substantial heat radiation and relatively little visible light; halogen filament lamps are compact and suitable for narrow-beam spotlights. The page also illustrates lamp categories and gives examples of lamp power ratings.",
+      "building_type": "General buildings",
+      "spaces": [
+        "Interior spaces"
+      ],
+      "uses": [
+        "Select lamp types and fittings",
+        "Provide general or directed artificial lighting",
+        "Assess lamp efficacy, lifetime, and electrical supply requirements"
+      ],
+      "furniture_equipment": [
+        "Filament lamps",
+        "Halogen filament lamps",
+        "Low-voltage halogen lamps",
+        "Discharge lamps",
+        "Lamp fittings",
+        "Transformers",
+        "Spotlights"
+      ],
+      "dimensions": [
+        {
+          "label": "Visible-light share of energy produced by filament lamps",
+          "value": 15.0,
+          "value_max": 20.0,
+          "unit": "%",
+          "context": "Approximate proportion of energy produced that is visible light; most is heat radiation.",
+          "status": "uncertain",
+          "ocr_raw": "visible light (approx. 15–20%)"
+        },
+        {
+          "label": "Filament-lamp luminous efficacy",
+          "value": 6.0,
+          "value_max": 12.0,
+          "unit": "lm/W",
+          "context": "Typical low luminous efficacy of filament lamps.",
+          "status": "uncertain",
+          "ocr_raw": "low luminous efficacy (approx. 6–12 lm/W)"
+        },
+        {
+          "label": "Filament-lamp lifetime",
+          "value": 1000.0,
+          "value_max": null,
+          "unit": "hours",
+          "context": "Approximate lifetime of filament lamps.",
+          "status": "uncertain",
+          "ocr_raw": "short lifetime of lamps at about 1000 hours"
+        },
+        {
+          "label": "Halogen filament-lamp luminous efficacy",
+          "value": 24.0,
+          "value_max": null,
+          "unit": "lm/W",
+          "context": "Upper value stated for halogen lamps, compared with simple light bulbs.",
+          "status": "uncertain",
+          "ocr_raw": "better luminous efficacy (up to 24 lm/W)"
+        },
+        {
+          "label": "Low-voltage halogen-lamp lifetime",
+          "value": 4000.0,
+          "value_max": 6000.0,
+          "unit": "hours",
+          "context": "Approximate lifetime stated for low-voltage halogen lamps.",
+          "status": "uncertain",
+          "ocr_raw": "lamp lifetime approx. 4000–6000 hours (for low-voltage halogen lamps)"
+        },
+        {
+          "label": "Low-voltage lamp power threshold",
+          "value": 75.0,
+          "value_max": null,
+          "unit": "W",
+          "context": "For lamp power ratings up to this threshold, low-voltage 12 V lamps are mostly used.",
+          "status": "uncertain",
+          "ocr_raw": "For lamp power ratings of up to 75 W, low-voltage 12 V lamps are mostly used"
+        },
+        {
+          "label": "Low-voltage halogen lamp supply voltage",
+          "value": 12.0,
+          "value_max": null,
+          "unit": "V",
+          "context": "Low-voltage lamps used for ratings up to 75 W; a transformer is required for connection to mains power.",
+          "status": "uncertain",
+          "ocr_raw": "low-voltage 12 V lamps are mostly used, which require a transformer for connection to mains power"
+        },
+        {
+          "label": "Mains lamp power rating",
+          "value": 75.0,
+          "value_max": 2000.0,
+          "unit": "W",
+          "context": "Power-rating range stated for lamps suitable for mains operation.",
+          "status": "uncertain",
+          "ocr_raw": "For power ratings of 75–2000 W, 220 V mains lamps are suitable."
+        },
+        {
+          "label": "Mains lamp voltage",
+          "value": 220.0,
+          "value_max": null,
+          "unit": "V",
+          "context": "Mains voltage stated for lamps rated 75–2000 W.",
+          "status": "uncertain",
+          "ocr_raw": "220 V mains lamps are suitable."
+        }
+      ],
+      "figure_refs": [
+        "4",
+        "5"
+      ],
+      "cross_refs": [],
+      "keywords": [
+        "artificial lighting",
+        "filament lamps",
+        "halogen lamps",
+        "discharge lamps",
+        "lamp efficacy",
+        "lamp lifetime",
+        "lamp power"
+      ],
+      "tags_architectural": [
+        "adaptability"
+      ],
+      "confidence": 0.95
+    }
+  ]
+}

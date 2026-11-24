@@ -1,0 +1,140 @@
+{
+  "fichas": [
+    {
+      "id": "4122fb96e4bd1976-502-vision-0",
+      "pdf_page": 502,
+      "book_page": 489,
+      "chapter": "BUILDING SERVICES",
+      "section": "Daylight",
+      "title": "Position of the Sun",
+      "summary": "Explains how solar position diagrams show the sun’s azimuth and elevation by date and time. Describes reading hourly and daily curves, using stereographic projections to trace the sun’s path, and converting solar time to local time. Examples are given for Brighton, UK, and Darmstadt, Germany.",
+      "building_type": "Daylight design reference",
+      "spaces": [],
+      "uses": [
+        "Assessing daylight conditions by time of day and date",
+        "Determining solar azimuth and elevation",
+        "Tracing the sun’s path for daylight and shading studies",
+        "Converting solar time to local time"
+      ],
+      "furniture_equipment": [],
+      "dimensions": [
+        {
+          "label": "Latitude",
+          "value": 51.0,
+          "value_max": null,
+          "unit": "degrees north",
+          "context": "Brighton, UK, in the sun position diagram and stereographic projection examples.",
+          "status": "uncertain",
+          "ocr_raw": "for 51° north"
+        },
+        {
+          "label": "Sunrise azimuth",
+          "value": 90.0,
+          "value_max": null,
+          "unit": "degrees",
+          "context": "Brighton on 23/9; azimuth measured east.",
+          "status": "uncertain",
+          "ocr_raw": "sunrise is at 6:00 at αs = 90° (east)"
+        },
+        {
+          "label": "Solar-noon azimuth",
+          "value": 180.0,
+          "value_max": null,
+          "unit": "degrees",
+          "context": "Brighton on 23/9; azimuth measured south.",
+          "status": "uncertain",
+          "ocr_raw": "at 12:00; αs = 180° (south)"
+        },
+        {
+          "label": "Solar elevation at noon",
+          "value": 39.0,
+          "value_max": null,
+          "unit": "degrees",
+          "context": "Brighton on 23/9 at 12:00.",
+          "status": "uncertain",
+          "ocr_raw": "the elevation angle is 39°"
+        },
+        {
+          "label": "Sunset azimuth",
+          "value": 270.0,
+          "value_max": null,
+          "unit": "degrees",
+          "context": "Brighton on 23/9; sunset at 18:00.",
+          "status": "uncertain",
+          "ocr_raw": "at sunset at 18:00 αs = 270°"
+        },
+        {
+          "label": "Longitude",
+          "value": 8.65,
+          "value_max": null,
+          "unit": "degrees east",
+          "context": "Solar position diagram for Darmstadt, Germany.",
+          "status": "uncertain",
+          "ocr_raw": "longitude = 8.65° east"
+        },
+        {
+          "label": "Latitude",
+          "value": 49.87,
+          "value_max": null,
+          "unit": "degrees north",
+          "context": "Solar position diagram for Darmstadt, Germany.",
+          "status": "uncertain",
+          "ocr_raw": "latitude = 49.87° north"
+        },
+        {
+          "label": "Sunrise time",
+          "value": 6.0,
+          "value_max": null,
+          "unit": "hours",
+          "context": "Stereographic projection example for latitude 51° on 21/3 or 23/9; time is solar time.",
+          "status": "uncertain",
+          "ocr_raw": "On 21/3 or 23/9: sunrise at 6:00"
+        },
+        {
+          "label": "Sunset time",
+          "value": 18.0,
+          "value_max": null,
+          "unit": "hours",
+          "context": "Stereographic projection example for latitude 51° on 21/3 or 23/9; time is solar time.",
+          "status": "uncertain",
+          "ocr_raw": "sunset at 18:00"
+        },
+        {
+          "label": "Solar elevation at noon",
+          "value": 39.0,
+          "value_max": null,
+          "unit": "degrees",
+          "context": "Stereographic projection example for latitude 51° on 21/3 or 23/9, at 12:00.",
+          "status": "uncertain",
+          "ocr_raw": "γs = 39° at 12:00"
+        }
+      ],
+      "figure_refs": [
+        "① Solar declination in the course of the year",
+        "② 51° latitude and elevation angle γs",
+        "③ Solar azimuth αs and solar elevation angle γs, 51° north (Brighton, UK), according to time of year and day",
+        "④ Solar position diagram, Darmstadt, Germany",
+        "⑤ Stereographic projection of the path of the sun"
+      ],
+      "cross_refs": [
+        "→ ③",
+        "→ ④",
+        "→ ⑤"
+      ],
+      "keywords": [
+        "daylight",
+        "sun position",
+        "solar azimuth",
+        "solar elevation",
+        "solar time",
+        "local time",
+        "stereographic projection",
+        "solar declination"
+      ],
+      "tags_architectural": [
+        "daylighting"
+      ],
+      "confidence": 0.97
+    }
+  ]
+}

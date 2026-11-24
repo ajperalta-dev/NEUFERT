@@ -1,0 +1,97 @@
+{
+  "model": "gpt-6-luna",
+  "checks": {
+    "checks": [
+      {
+        "ficha_index": 0,
+        "dimension_index": 0,
+        "status": "verified",
+        "value": 200.0,
+        "value_max": null,
+        "reason": "The text states \u201cRoom size for 40\u201345 people min. 200 m\u00b2.\u201d Value and unit agree."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 1,
+        "status": "verified",
+        "value": 3.0,
+        "value_max": null,
+        "reason": "The text states \u201cclear ceiling height for all rooms 3.0 m.\u201d Value and unit agree."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 2,
+        "status": "verified",
+        "value": 6.0,
+        "value_max": null,
+        "reason": "The text states rooms should generally be 6 m wide. Value and unit agree."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 3,
+        "status": "verified",
+        "value": 15.0,
+        "value_max": null,
+        "reason": "The text states \u201cRoom length \u2264 15 m.\u201d The proposed value and unit agree with the printed limit."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 4,
+        "status": "verified",
+        "value": 40.0,
+        "value_max": null,
+        "reason": "The text states the smallest room unit is 40 m\u00b2. Value and unit agree."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 5,
+        "status": "verified",
+        "value": 200.0,
+        "value_max": null,
+        "reason": "The figure caption states \u201cExample of 200 m\u00b2 conditioning room.\u201d Value and unit agree."
+      }
+    ]
+  },
+  "automatic": [
+    {
+      "ficha_index": 0,
+      "dimension_index": 0,
+      "issues": []
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 1,
+      "issues": []
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 2,
+      "issues": []
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 3,
+      "issues": []
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 4,
+      "issues": []
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 5,
+      "issues": []
+    }
+  ],
+  "usage": [
+    {
+      "prompt_tokens": 4968,
+      "completion_tokens": 1286
+    },
+    {
+      "prompt_tokens": 4109,
+      "completion_tokens": 523
+    }
+  ]
+}

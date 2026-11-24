@@ -1,0 +1,337 @@
+{
+  "fichas": [
+    {
+      "id": "4122fb96e4bd1976-275-vision-0",
+      "pdf_page": 275,
+      "book_page": 262,
+      "chapter": "RETAIL",
+      "section": "Retail Outlets",
+      "title": "Self-Service Shops and Supermarket",
+      "summary": "Self-service shops mainly sell food. Staff provide advice, assistance, and service, while butchery, cold meats, fruit, and vegetable sections are staffed. Goods are displayed in clearly organized packaging. The customer route begins at the basket stack or trolley park and ends at the checkout or packing table. The illustrated supermarket plan organizes food and non-food departments around the shopping route and checkout.",
+      "building_type": "Self-service food shop / supermarket",
+      "spaces": [
+        "Sales floor",
+        "Checkout",
+        "Entrance",
+        "Delivery area",
+        "Staff and service rooms",
+        "Cold rooms",
+        "Preparation rooms"
+      ],
+      "uses": [
+        "Self-service retail",
+        "Food sales",
+        "Customer circulation",
+        "Checkout and packing",
+        "Goods delivery"
+      ],
+      "furniture_equipment": [
+        "Wall shelving",
+        "Display islands",
+        "Counters",
+        "Freezer room",
+        "Checkout desks",
+        "Shopping trolleys",
+        "Basket stack"
+      ],
+      "dimensions": [
+        {
+          "label": "Top shelf height",
+          "value": 1.8,
+          "value_max": null,
+          "unit": "m",
+          "context": "Wall shelving; height above floor",
+          "status": "uncertain",
+          "ocr_raw": "top shelf is 1.80 m high"
+        },
+        {
+          "label": "Lowest shelf height above floor",
+          "value": 0.3,
+          "value_max": null,
+          "unit": "m",
+          "context": "Wall shelving",
+          "status": "uncertain",
+          "ocr_raw": "lowest 0.30 m above the floor"
+        },
+        {
+          "label": "Full-time staff needed, up to 399 m² store area",
+          "value": 10.6,
+          "value_max": null,
+          "unit": "staff",
+          "context": "Average planning value",
+          "status": "uncertain",
+          "ocr_raw": "up to 399 m² 1. full-time staff needed 10.6"
+        },
+        {
+          "label": "Full-time staff needed, 400–499 m² store area",
+          "value": 12.9,
+          "value_max": null,
+          "unit": "staff",
+          "context": "Average planning value",
+          "status": "uncertain",
+          "ocr_raw": "400–499 m² 12.9"
+        },
+        {
+          "label": "Full-time staff needed, 500–599 m² store area",
+          "value": 15.3,
+          "value_max": null,
+          "unit": "staff",
+          "context": "Average planning value",
+          "status": "uncertain",
+          "ocr_raw": "500–599 m² 15.3"
+        },
+        {
+          "label": "Full-time staff needed, 600–799 m² store area",
+          "value": 17.7,
+          "value_max": null,
+          "unit": "staff",
+          "context": "Average planning value",
+          "status": "uncertain",
+          "ocr_raw": "600–799 m² 17.7"
+        },
+        {
+          "label": "Full-time staff needed, 800–899 m² store area",
+          "value": 22.1,
+          "value_max": null,
+          "unit": "staff",
+          "context": "Average planning value",
+          "status": "uncertain",
+          "ocr_raw": "800–899 m² 22.1"
+        },
+        {
+          "label": "Full-time staff needed, 1000–1499 m² store area",
+          "value": 30.2,
+          "value_max": null,
+          "unit": "staff",
+          "context": "Average planning value",
+          "status": "uncertain",
+          "ocr_raw": "1000–1499 m² 30.2"
+        }
+      ],
+      "figure_refs": [
+        "1 Supermarket",
+        "2 Planning data for the design and fitting out of self-service shops and supermarkets"
+      ],
+      "cross_refs": [],
+      "keywords": [
+        "self-service shop",
+        "supermarket",
+        "retail planning",
+        "food departments",
+        "customer route",
+        "shelving"
+      ],
+      "tags_architectural": [
+        "circulation",
+        "ergonomics",
+        "spatial_proportion"
+      ],
+      "confidence": 0.91
+    },
+    {
+      "id": "4122fb96e4bd1976-275-vision-1",
+      "pdf_page": 275,
+      "book_page": 262,
+      "chapter": "RETAIL",
+      "section": "Retail Outlets",
+      "title": "Planning Data for Self-Service Shops and Supermarkets",
+      "summary": "A planning table gives average values and ranges for staffing, department turnover and fittings, cold and preparation rooms, shelving, cash desks, and shopping trolleys across store-size categories. The printed note specifies that the first line contains average values and the second line contains the parameter range.",
+      "building_type": "Self-service shop / supermarket",
+      "spaces": [
+        "Sales departments",
+        "Preparation room",
+        "Cold room",
+        "Checkout",
+        "Customer shopping areas"
+      ],
+      "uses": [
+        "Retail planning",
+        "Estimating staffing and fittings",
+        "Planning food departments and storage"
+      ],
+      "furniture_equipment": [
+        "Cool wall shelves",
+        "Cold room",
+        "Normal and wide frozen-food islands",
+        "Cabinets",
+        "Freezer room",
+        "Fruit and vegetable wall shelving",
+        "Cash desks",
+        "Shopping trolleys"
+      ],
+      "dimensions": [
+        {
+          "label": "Fresh and cold meat department turnover share, up to 399 m² store area",
+          "value": 22.0,
+          "value_max": null,
+          "unit": "%",
+          "context": "Average value; table range 19–28%",
+          "status": "uncertain",
+          "ocr_raw": "a) turnover share (%) 22 19–28"
+        },
+        {
+          "label": "Fresh and cold meat department turnover share range, up to 399 m² store area",
+          "value": 19.0,
+          "value_max": 28.0,
+          "unit": "%",
+          "context": "Range",
+          "status": "uncertain",
+          "ocr_raw": "22 19–28"
+        },
+        {
+          "label": "Fruit and vegetable wall shelving with 2 shelves, up to 399 m² store area",
+          "value": 5.0,
+          "value_max": 8.0,
+          "unit": "m",
+          "context": "Running length; range shown in table",
+          "status": "uncertain",
+          "ocr_raw": "5.0–8.0"
+        },
+        {
+          "label": "Cash desks at checkout, up to 399 m² store area",
+          "value": 2.5,
+          "value_max": null,
+          "unit": "desks",
+          "context": "Average value; range 2–3",
+          "status": "uncertain",
+          "ocr_raw": "- at checkout 2.5 2–3"
+        },
+        {
+          "label": "Shopping trolleys required, up to 399 m² store area",
+          "value": 85.0,
+          "value_max": null,
+          "unit": "trolleys",
+          "context": "Average value; range 70–100",
+          "status": "uncertain",
+          "ocr_raw": "7. no. shopping trolleys required 85 70–100"
+        }
+      ],
+      "figure_refs": [
+        "2 Planning data for the design and fitting out of self-service shops and supermarkets"
+      ],
+      "cross_refs": [],
+      "keywords": [
+        "planning data",
+        "store area",
+        "department fittings",
+        "cash desks",
+        "shopping trolleys",
+        "average values",
+        "parameter ranges"
+      ],
+      "tags_architectural": [
+        "ergonomics",
+        "modularity",
+        "clearance"
+      ],
+      "confidence": 0.72
+    },
+    {
+      "id": "4122fb96e4bd1976-275-vision-2",
+      "pdf_page": 275,
+      "book_page": 262,
+      "chapter": "RETAIL",
+      "section": "Retail Outlets",
+      "title": "Service Counter in Self-Service Shop",
+      "summary": "A section drawing shows a staffed service counter with glass, ventilation, and lighting. Dimension strings are printed around the counter and section; the drawing does not explicitly identify the direction or meaning of every dimension.",
+      "building_type": "Self-service shop service counter",
+      "spaces": [
+        "Service counter",
+        "Staff side",
+        "Customer side"
+      ],
+      "uses": [
+        "Staffed retail service",
+        "Food counter service"
+      ],
+      "furniture_equipment": [
+        "Service counter",
+        "Glass screen",
+        "Ventilation",
+        "Lighting"
+      ],
+      "dimensions": [
+        {
+          "label": "Section dimension",
+          "value": 0.8,
+          "value_max": null,
+          "unit": "m",
+          "context": "Dimension string at left of section; orientation or component not explicitly identified",
+          "status": "uncertain",
+          "ocr_raw": "0.80"
+        },
+        {
+          "label": "Section dimension",
+          "value": 1.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Dimension string at left of section; orientation or component not explicitly identified",
+          "status": "uncertain",
+          "ocr_raw": "1.00"
+        },
+        {
+          "label": "Section dimension",
+          "value": 0.4,
+          "value_max": null,
+          "unit": "m",
+          "context": "Dimension string at left of section; orientation or component not explicitly identified",
+          "status": "uncertain",
+          "ocr_raw": "0.40"
+        },
+        {
+          "label": "Section dimension",
+          "value": 1.25,
+          "value_max": null,
+          "unit": "m",
+          "context": "Dimension string at left of section; orientation or component not explicitly identified",
+          "status": "uncertain",
+          "ocr_raw": "1.25"
+        },
+        {
+          "label": "Counter section dimension",
+          "value": 1.3,
+          "value_max": null,
+          "unit": "m",
+          "context": "Horizontal dimension string below section; component not explicitly identified",
+          "status": "uncertain",
+          "ocr_raw": "1.30"
+        },
+        {
+          "label": "Counter section dimension",
+          "value": 1.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Horizontal dimension string below section; component not explicitly identified",
+          "status": "uncertain",
+          "ocr_raw": "1.00"
+        },
+        {
+          "label": "Counter section dimension",
+          "value": 0.65,
+          "value_max": null,
+          "unit": "m",
+          "context": "Horizontal dimension string below section; component not explicitly identified",
+          "status": "uncertain",
+          "ocr_raw": "65"
+        }
+      ],
+      "figure_refs": [
+        "3 Service counter in self-service shop, section"
+      ],
+      "cross_refs": [],
+      "keywords": [
+        "service counter",
+        "section",
+        "glass",
+        "ventilation",
+        "lighting"
+      ],
+      "tags_architectural": [
+        "ergonomics",
+        "clearance",
+        "safety"
+      ],
+      "confidence": 0.69
+    }
+  ]
+}

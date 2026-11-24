@@ -1,0 +1,294 @@
+{
+  "fichas": [
+    {
+      "id": "4122fb96e4bd1976-500-vision-0",
+      "pdf_page": 500,
+      "book_page": 487,
+      "chapter": "BUILDING SERVICES",
+      "section": "Building Physics",
+      "title": "Lightning protection zones and equipotential bonding",
+      "summary": "Explains lightning protection zones from 0A and 0B outside the building to zones 1 and higher inside. Describes equipotential bonding and protection of incoming electrical, IT, telephone, water, gas, and other services. Higher-numbered zones can provide additional protection for sensitive rooms and equipment.",
+      "building_type": "Building",
+      "spaces": [
+        "Exterior protection zones 0A and 0B",
+        "Building protection zone 1",
+        "Interior protection zones 2 and higher",
+        "Central server room",
+        "Equipment area"
+      ],
+      "uses": [
+        "Categorize areas by exposure to direct lightning strikes and lightning discharge fields",
+        "Bond incoming services to the lightning protection system",
+        "Provide additional protection for electronic equipment"
+      ],
+      "furniture_equipment": [
+        "Lightning protection equipotential bonding bar",
+        "Surge protection devices",
+        "Lightning current conductors",
+        "Foundation earthing electrode",
+        "Earthing system",
+        "Steel reinforcement"
+      ],
+      "dimensions": [],
+      "figure_refs": [
+        "1 Principle of lightning protection equipotential bonding",
+        "6 Categorisation of a building into lightning protection zones"
+      ],
+      "cross_refs": [
+        "LPZ → 6"
+      ],
+      "keywords": [
+        "lightning protection",
+        "lightning protection zones",
+        "equipotential bonding",
+        "surge protection",
+        "earthing",
+        "lightning current"
+      ],
+      "tags_architectural": [
+        "safety"
+      ],
+      "confidence": 0.96
+    },
+    {
+      "id": "4122fb96e4bd1976-500-vision-1",
+      "pdf_page": 500,
+      "book_page": 487,
+      "chapter": "BUILDING SERVICES",
+      "section": "Building Physics",
+      "title": "Lightning protection design methods and classes",
+      "summary": "Presents lightning protection design using the lightning sphere, protection angle, and mesh process. A graph relates protection angle to height and protection class. The accompanying table lists protection-class effectiveness, lightning-sphere radius, mesh width, typical down-conductor spacing, and peak lightning current.",
+      "building_type": "Building",
+      "spaces": [
+        "Roof",
+        "Building exterior",
+        "Protected area"
+      ],
+      "uses": [
+        "Design lightning protection coverage using a lightning sphere, protection angle, or mesh process",
+        "Select lightning protection class and associated system parameters"
+      ],
+      "furniture_equipment": [
+        "Capture rod",
+        "Capture cable",
+        "Down conductor",
+        "Earthing system",
+        "Lightning sphere"
+      ],
+      "dimensions": [
+        {
+          "label": "Lightning sphere radius",
+          "value": 20.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Protection class I",
+          "status": "verified",
+          "ocr_raw": "BUILDING PHYSICS\n----f[B- Isolating spark gap\n\n~\n\nLightning Protection\n\nLightning current\nconductor for IT\nand electricity network\n\nLightning protection zones\n\nThe property to be protected is categorised into various lightning\nprotection zones (LPZ) ---> 0.\nProtection zone OA:\n\nThis is outside a building to be protected. Direct lightning strikes\nare possible in this area, and there is an undamped field of\nlightning discharge.\nProtection zone OB:\n\nThe lightning protection equipment on the building to be protected\nresults in areas in which direct lightning strikes can be ruled out\naccording to the protection class. There is an undamped field of\nlightning discharge. Such areas outside the building are described\nas protection zone OB.\nProtection zone 1:\n\nDrainage pipe\n\nFoundation earthing electrode\n\nThis describes the actual building to be protected The boundary\nof protection zone 0 is normally the roof, the external walls and\nthe cellar floor of the building to be protected, of which the\ncharacteristics (shielding of the external envelope of the building)\nhave to fulfil certain requirements.\nProtection zone 2 and higher:\n\n0 Principle of lightning protection equipotential bonding\n80\n\nIt can be sensible, or requested, to provide further protection\nzones inside protection zone 1. For example, the central server\nroom as protection zone 2 and individual electronic devices as\nprotection zone 3.\n\nProtection angle a.\n\n~\n\n70\n\n~~\n\n60\n\n~ ~.......____\n\n50\n\n~-----\n\nProtection class\n\n--\"\"' I\"--... --------.liT r------:-:..\n\n40\n\n---------- ......II--'-...,\n\n30\n20\n10\n10\n\n\"\"-._------\n\neffectiveness lightning\nlightning\nsphere\nprotection (E)\nclass (P)\nradius (r)\n20m\n98%\nI\n\n1\\/\n\n60 Height (m)\n\n50\n\n40\n\n30\n\n20\n\n,__\n\nII\nIll\nIV\n\nProtection angle depending on the lightning protection class and the height\nabove the area to be protected\n\n95%\n\n30m\n\n90%\n\n45m\n60m\n\n80%\n\ntypical down protection peak\nangle (o:) lightning\nconductor\ncurrent(i)\nspacing\n200 kA\n10m\n5mx5m\n-.f)\n150 kA\n10mx10m 15m\n100kA\n15mx15m 20m\n1--20mx20m 25m\n\nmesh width\n(w)\n\nLightning protection classes\n\nM ::::mesh spacing\n\n+\nLightning\nprotection\nzone 08\nBUILDING\nPHYSICS\n\nLightning sphere\n\n+\n\nThermal\n\ninsulation\nSound insulation\nRoom acoustics\n\nVentilation\n\nLightning\nprotection\n\nProcedure for designing lightning protection systems: lightning sphere,\nprotection angle and mesh process\nDown\n\nS= Safety distance\no:= Protection angle\n\n''\n\nconductor\n\n''\n\n'\n\nProtection'\nangle o:\n\ne\n\nRoofs protected by lightning rod\n\n''\n\n''\n\n''\n\n''\n\n''\n\nSteel reinforcement\n\n''\n\n''\n\nea~?~~~f~~~ode\n\n'\n\nEarthing system\n\nr:l Local equipotential\n~ bonding 1 surge\n\nconductor\n\n0 Categorisation of a building into lightning protection zones\n487\n\n\f"
+        },
+        {
+          "label": "Lightning sphere radius",
+          "value": 30.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Protection class II",
+          "status": "verified",
+          "ocr_raw": "BUILDING PHYSICS\n----f[B- Isolating spark gap\n\n~\n\nLightning Protection\n\nLightning current\nconductor for IT\nand electricity network\n\nLightning protection zones\n\nThe property to be protected is categorised into various lightning\nprotection zones (LPZ) ---> 0.\nProtection zone OA:\n\nThis is outside a building to be protected. Direct lightning strikes\nare possible in this area, and there is an undamped field of\nlightning discharge.\nProtection zone OB:\n\nThe lightning protection equipment on the building to be protected\nresults in areas in which direct lightning strikes can be ruled out\naccording to the protection class. There is an undamped field of\nlightning discharge. Such areas outside the building are described\nas protection zone OB.\nProtection zone 1:\n\nDrainage pipe\n\nFoundation earthing electrode\n\nThis describes the actual building to be protected The boundary\nof protection zone 0 is normally the roof, the external walls and\nthe cellar floor of the building to be protected, of which the\ncharacteristics (shielding of the external envelope of the building)\nhave to fulfil certain requirements.\nProtection zone 2 and higher:\n\n0 Principle of lightning protection equipotential bonding\n80\n\nIt can be sensible, or requested, to provide further protection\nzones inside protection zone 1. For example, the central server\nroom as protection zone 2 and individual electronic devices as\nprotection zone 3.\n\nProtection angle a.\n\n~\n\n70\n\n~~\n\n60\n\n~ ~.......____\n\n50\n\n~-----\n\nProtection class\n\n--\"\"' I\"--... --------.liT r------:-:..\n\n40\n\n---------- ......II--'-...,\n\n30\n20\n10\n10\n\n\"\"-._------\n\neffectiveness lightning\nlightning\nsphere\nprotection (E)\nclass (P)\nradius (r)\n20m\n98%\nI\n\n1\\/\n\n60 Height (m)\n\n50\n\n40\n\n30\n\n20\n\n,__\n\nII\nIll\nIV\n\nProtection angle depending on the lightning protection class and the height\nabove the area to be protected\n\n95%\n\n30m\n\n90%\n\n45m\n60m\n\n80%\n\ntypical down protection peak\nangle (o:) lightning\nconductor\ncurrent(i)\nspacing\n200 kA\n10m\n5mx5m\n-.f)\n150 kA\n10mx10m 15m\n100kA\n15mx15m 20m\n1--20mx20m 25m\n\nmesh width\n(w)\n\nLightning protection classes\n\nM ::::mesh spacing\n\n+\nLightning\nprotection\nzone 08\nBUILDING\nPHYSICS\n\nLightning sphere\n\n+\n\nThermal\n\ninsulation\nSound insulation\nRoom acoustics\n\nVentilation\n\nLightning\nprotection\n\nProcedure for designing lightning protection systems: lightning sphere,\nprotection angle and mesh process\nDown\n\nS= Safety distance\no:= Protection angle\n\n''\n\nconductor\n\n''\n\n'\n\nProtection'\nangle o:\n\ne\n\nRoofs protected by lightning rod\n\n''\n\n''\n\n''\n\n''\n\n''\n\nSteel reinforcement\n\n''\n\n''\n\nea~?~~~f~~~ode\n\n'\n\nEarthing system\n\nr:l Local equipotential\n~ bonding 1 surge\n\nconductor\n\n0 Categorisation of a building into lightning protection zones\n487\n\n\f"
+        },
+        {
+          "label": "Lightning sphere radius",
+          "value": 45.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Protection class III",
+          "status": "verified",
+          "ocr_raw": "BUILDING PHYSICS\n----f[B- Isolating spark gap\n\n~\n\nLightning Protection\n\nLightning current\nconductor for IT\nand electricity network\n\nLightning protection zones\n\nThe property to be protected is categorised into various lightning\nprotection zones (LPZ) ---> 0.\nProtection zone OA:\n\nThis is outside a building to be protected. Direct lightning strikes\nare possible in this area, and there is an undamped field of\nlightning discharge.\nProtection zone OB:\n\nThe lightning protection equipment on the building to be protected\nresults in areas in which direct lightning strikes can be ruled out\naccording to the protection class. There is an undamped field of\nlightning discharge. Such areas outside the building are described\nas protection zone OB.\nProtection zone 1:\n\nDrainage pipe\n\nFoundation earthing electrode\n\nThis describes the actual building to be protected The boundary\nof protection zone 0 is normally the roof, the external walls and\nthe cellar floor of the building to be protected, of which the\ncharacteristics (shielding of the external envelope of the building)\nhave to fulfil certain requirements.\nProtection zone 2 and higher:\n\n0 Principle of lightning protection equipotential bonding\n80\n\nIt can be sensible, or requested, to provide further protection\nzones inside protection zone 1. For example, the central server\nroom as protection zone 2 and individual electronic devices as\nprotection zone 3.\n\nProtection angle a.\n\n~\n\n70\n\n~~\n\n60\n\n~ ~.......____\n\n50\n\n~-----\n\nProtection class\n\n--\"\"' I\"--... --------.liT r------:-:..\n\n40\n\n---------- ......II--'-...,\n\n30\n20\n10\n10\n\n\"\"-._------\n\neffectiveness lightning\nlightning\nsphere\nprotection (E)\nclass (P)\nradius (r)\n20m\n98%\nI\n\n1\\/\n\n60 Height (m)\n\n50\n\n40\n\n30\n\n20\n\n,__\n\nII\nIll\nIV\n\nProtection angle depending on the lightning protection class and the height\nabove the area to be protected\n\n95%\n\n30m\n\n90%\n\n45m\n60m\n\n80%\n\ntypical down protection peak\nangle (o:) lightning\nconductor\ncurrent(i)\nspacing\n200 kA\n10m\n5mx5m\n-.f)\n150 kA\n10mx10m 15m\n100kA\n15mx15m 20m\n1--20mx20m 25m\n\nmesh width\n(w)\n\nLightning protection classes\n\nM ::::mesh spacing\n\n+\nLightning\nprotection\nzone 08\nBUILDING\nPHYSICS\n\nLightning sphere\n\n+\n\nThermal\n\ninsulation\nSound insulation\nRoom acoustics\n\nVentilation\n\nLightning\nprotection\n\nProcedure for designing lightning protection systems: lightning sphere,\nprotection angle and mesh process\nDown\n\nS= Safety distance\no:= Protection angle\n\n''\n\nconductor\n\n''\n\n'\n\nProtection'\nangle o:\n\ne\n\nRoofs protected by lightning rod\n\n''\n\n''\n\n''\n\n''\n\n''\n\nSteel reinforcement\n\n''\n\n''\n\nea~?~~~f~~~ode\n\n'\n\nEarthing system\n\nr:l Local equipotential\n~ bonding 1 surge\n\nconductor\n\n0 Categorisation of a building into lightning protection zones\n487\n\n\f"
+        },
+        {
+          "label": "Lightning sphere radius",
+          "value": 60.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Protection class IV",
+          "status": "verified",
+          "ocr_raw": "BUILDING PHYSICS\n----f[B- Isolating spark gap\n\n~\n\nLightning Protection\n\nLightning current\nconductor for IT\nand electricity network\n\nLightning protection zones\n\nThe property to be protected is categorised into various lightning\nprotection zones (LPZ) ---> 0.\nProtection zone OA:\n\nThis is outside a building to be protected. Direct lightning strikes\nare possible in this area, and there is an undamped field of\nlightning discharge.\nProtection zone OB:\n\nThe lightning protection equipment on the building to be protected\nresults in areas in which direct lightning strikes can be ruled out\naccording to the protection class. There is an undamped field of\nlightning discharge. Such areas outside the building are described\nas protection zone OB.\nProtection zone 1:\n\nDrainage pipe\n\nFoundation earthing electrode\n\nThis describes the actual building to be protected The boundary\nof protection zone 0 is normally the roof, the external walls and\nthe cellar floor of the building to be protected, of which the\ncharacteristics (shielding of the external envelope of the building)\nhave to fulfil certain requirements.\nProtection zone 2 and higher:\n\n0 Principle of lightning protection equipotential bonding\n80\n\nIt can be sensible, or requested, to provide further protection\nzones inside protection zone 1. For example, the central server\nroom as protection zone 2 and individual electronic devices as\nprotection zone 3.\n\nProtection angle a.\n\n~\n\n70\n\n~~\n\n60\n\n~ ~.......____\n\n50\n\n~-----\n\nProtection class\n\n--\"\"' I\"--... --------.liT r------:-:..\n\n40\n\n---------- ......II--'-...,\n\n30\n20\n10\n10\n\n\"\"-._------\n\neffectiveness lightning\nlightning\nsphere\nprotection (E)\nclass (P)\nradius (r)\n20m\n98%\nI\n\n1\\/\n\n60 Height (m)\n\n50\n\n40\n\n30\n\n20\n\n,__\n\nII\nIll\nIV\n\nProtection angle depending on the lightning protection class and the height\nabove the area to be protected\n\n95%\n\n30m\n\n90%\n\n45m\n60m\n\n80%\n\ntypical down protection peak\nangle (o:) lightning\nconductor\ncurrent(i)\nspacing\n200 kA\n10m\n5mx5m\n-.f)\n150 kA\n10mx10m 15m\n100kA\n15mx15m 20m\n1--20mx20m 25m\n\nmesh width\n(w)\n\nLightning protection classes\n\nM ::::mesh spacing\n\n+\nLightning\nprotection\nzone 08\nBUILDING\nPHYSICS\n\nLightning sphere\n\n+\n\nThermal\n\ninsulation\nSound insulation\nRoom acoustics\n\nVentilation\n\nLightning\nprotection\n\nProcedure for designing lightning protection systems: lightning sphere,\nprotection angle and mesh process\nDown\n\nS= Safety distance\no:= Protection angle\n\n''\n\nconductor\n\n''\n\n'\n\nProtection'\nangle o:\n\ne\n\nRoofs protected by lightning rod\n\n''\n\n''\n\n''\n\n''\n\n''\n\nSteel reinforcement\n\n''\n\n''\n\nea~?~~~f~~~ode\n\n'\n\nEarthing system\n\nr:l Local equipotential\n~ bonding 1 surge\n\nconductor\n\n0 Categorisation of a building into lightning protection zones\n487\n\n\f"
+        },
+        {
+          "label": "Effectiveness",
+          "value": 98.0,
+          "value_max": null,
+          "unit": "%",
+          "context": "Protection class I",
+          "status": "verified",
+          "ocr_raw": "98%"
+        },
+        {
+          "label": "Effectiveness",
+          "value": 95.0,
+          "value_max": null,
+          "unit": "%",
+          "context": "Protection class II",
+          "status": "verified",
+          "ocr_raw": "95%"
+        },
+        {
+          "label": "Effectiveness",
+          "value": 90.0,
+          "value_max": null,
+          "unit": "%",
+          "context": "Protection class III",
+          "status": "verified",
+          "ocr_raw": "90%"
+        },
+        {
+          "label": "Effectiveness",
+          "value": 80.0,
+          "value_max": null,
+          "unit": "%",
+          "context": "Protection class IV",
+          "status": "verified",
+          "ocr_raw": "80%"
+        },
+        {
+          "label": "Mesh width",
+          "value": 5.0,
+          "value_max": 5.0,
+          "unit": "m",
+          "context": "Protection class I; mesh dimensions",
+          "status": "verified",
+          "ocr_raw": "BUILDING PHYSICS\n----f[B- Isolating spark gap\n\n~\n\nLightning Protection\n\nLightning current\nconductor for IT\nand electricity network\n\nLightning protection zones\n\nThe property to be protected is categorised into various lightning\nprotection zones (LPZ) ---> 0.\nProtection zone OA:\n\nThis is outside a building to be protected. Direct lightning strikes\nare possible in this area, and there is an undamped field of\nlightning discharge.\nProtection zone OB:\n\nThe lightning protection equipment on the building to be protected\nresults in areas in which direct lightning strikes can be ruled out\naccording to the protection class. There is an undamped field of\nlightning discharge. Such areas outside the building are described\nas protection zone OB.\nProtection zone 1:\n\nDrainage pipe\n\nFoundation earthing electrode\n\nThis describes the actual building to be protected The boundary\nof protection zone 0 is normally the roof, the external walls and\nthe cellar floor of the building to be protected, of which the\ncharacteristics (shielding of the external envelope of the building)\nhave to fulfil certain requirements.\nProtection zone 2 and higher:\n\n0 Principle of lightning protection equipotential bonding\n80\n\nIt can be sensible, or requested, to provide further protection\nzones inside protection zone 1. For example, the central server\nroom as protection zone 2 and individual electronic devices as\nprotection zone 3.\n\nProtection angle a.\n\n~\n\n70\n\n~~\n\n60\n\n~ ~.......____\n\n50\n\n~-----\n\nProtection class\n\n--\"\"' I\"--... --------.liT r------:-:..\n\n40\n\n---------- ......II--'-...,\n\n30\n20\n10\n10\n\n\"\"-._------\n\neffectiveness lightning\nlightning\nsphere\nprotection (E)\nclass (P)\nradius (r)\n20m\n98%\nI\n\n1\\/\n\n60 Height (m)\n\n50\n\n40\n\n30\n\n20\n\n,__\n\nII\nIll\nIV\n\nProtection angle depending on the lightning protection class and the height\nabove the area to be protected\n\n95%\n\n30m\n\n90%\n\n45m\n60m\n\n80%\n\ntypical down protection peak\nangle (o:) lightning\nconductor\ncurrent(i)\nspacing\n200 kA\n10m\n5mx5m\n-.f)\n150 kA\n10mx10m 15m\n100kA\n15mx15m 20m\n1--20mx20m 25m\n\nmesh width\n(w)\n\nLightning protection classes\n\nM ::::mesh spacing\n\n+\nLightning\nprotection\nzone 08\nBUILDING\nPHYSICS\n\nLightning sphere\n\n+\n\nThermal\n\ninsulation\nSound insulation\nRoom acoustics\n\nVentilation\n\nLightning\nprotection\n\nProcedure for designing lightning protection systems: lightning sphere,\nprotection angle and mesh process\nDown\n\nS= Safety distance\no:= Protection angle\n\n''\n\nconductor\n\n''\n\n'\n\nProtection'\nangle o:\n\ne\n\nRoofs protected by lightning rod\n\n''\n\n''\n\n''\n\n''\n\n''\n\nSteel reinforcement\n\n''\n\n''\n\nea~?~~~f~~~ode\n\n'\n\nEarthing system\n\nr:l Local equipotential\n~ bonding 1 surge\n\nconductor\n\n0 Categorisation of a building into lightning protection zones\n487\n\n\f"
+        },
+        {
+          "label": "Mesh width",
+          "value": 10.0,
+          "value_max": 10.0,
+          "unit": "m",
+          "context": "Protection class II; mesh dimensions",
+          "status": "verified",
+          "ocr_raw": "BUILDING PHYSICS\n----f[B- Isolating spark gap\n\n~\n\nLightning Protection\n\nLightning current\nconductor for IT\nand electricity network\n\nLightning protection zones\n\nThe property to be protected is categorised into various lightning\nprotection zones (LPZ) ---> 0.\nProtection zone OA:\n\nThis is outside a building to be protected. Direct lightning strikes\nare possible in this area, and there is an undamped field of\nlightning discharge.\nProtection zone OB:\n\nThe lightning protection equipment on the building to be protected\nresults in areas in which direct lightning strikes can be ruled out\naccording to the protection class. There is an undamped field of\nlightning discharge. Such areas outside the building are described\nas protection zone OB.\nProtection zone 1:\n\nDrainage pipe\n\nFoundation earthing electrode\n\nThis describes the actual building to be protected The boundary\nof protection zone 0 is normally the roof, the external walls and\nthe cellar floor of the building to be protected, of which the\ncharacteristics (shielding of the external envelope of the building)\nhave to fulfil certain requirements.\nProtection zone 2 and higher:\n\n0 Principle of lightning protection equipotential bonding\n80\n\nIt can be sensible, or requested, to provide further protection\nzones inside protection zone 1. For example, the central server\nroom as protection zone 2 and individual electronic devices as\nprotection zone 3.\n\nProtection angle a.\n\n~\n\n70\n\n~~\n\n60\n\n~ ~.......____\n\n50\n\n~-----\n\nProtection class\n\n--\"\"' I\"--... --------.liT r------:-:..\n\n40\n\n---------- ......II--'-...,\n\n30\n20\n10\n10\n\n\"\"-._------\n\neffectiveness lightning\nlightning\nsphere\nprotection (E)\nclass (P)\nradius (r)\n20m\n98%\nI\n\n1\\/\n\n60 Height (m)\n\n50\n\n40\n\n30\n\n20\n\n,__\n\nII\nIll\nIV\n\nProtection angle depending on the lightning protection class and the height\nabove the area to be protected\n\n95%\n\n30m\n\n90%\n\n45m\n60m\n\n80%\n\ntypical down protection peak\nangle (o:) lightning\nconductor\ncurrent(i)\nspacing\n200 kA\n10m\n5mx5m\n-.f)\n150 kA\n10mx10m 15m\n100kA\n15mx15m 20m\n1--20mx20m 25m\n\nmesh width\n(w)\n\nLightning protection classes\n\nM ::::mesh spacing\n\n+\nLightning\nprotection\nzone 08\nBUILDING\nPHYSICS\n\nLightning sphere\n\n+\n\nThermal\n\ninsulation\nSound insulation\nRoom acoustics\n\nVentilation\n\nLightning\nprotection\n\nProcedure for designing lightning protection systems: lightning sphere,\nprotection angle and mesh process\nDown\n\nS= Safety distance\no:= Protection angle\n\n''\n\nconductor\n\n''\n\n'\n\nProtection'\nangle o:\n\ne\n\nRoofs protected by lightning rod\n\n''\n\n''\n\n''\n\n''\n\n''\n\nSteel reinforcement\n\n''\n\n''\n\nea~?~~~f~~~ode\n\n'\n\nEarthing system\n\nr:l Local equipotential\n~ bonding 1 surge\n\nconductor\n\n0 Categorisation of a building into lightning protection zones\n487\n\n\f"
+        },
+        {
+          "label": "Mesh width",
+          "value": 15.0,
+          "value_max": 15.0,
+          "unit": "m",
+          "context": "Protection class III; mesh dimensions",
+          "status": "verified",
+          "ocr_raw": "BUILDING PHYSICS\n----f[B- Isolating spark gap\n\n~\n\nLightning Protection\n\nLightning current\nconductor for IT\nand electricity network\n\nLightning protection zones\n\nThe property to be protected is categorised into various lightning\nprotection zones (LPZ) ---> 0.\nProtection zone OA:\n\nThis is outside a building to be protected. Direct lightning strikes\nare possible in this area, and there is an undamped field of\nlightning discharge.\nProtection zone OB:\n\nThe lightning protection equipment on the building to be protected\nresults in areas in which direct lightning strikes can be ruled out\naccording to the protection class. There is an undamped field of\nlightning discharge. Such areas outside the building are described\nas protection zone OB.\nProtection zone 1:\n\nDrainage pipe\n\nFoundation earthing electrode\n\nThis describes the actual building to be protected The boundary\nof protection zone 0 is normally the roof, the external walls and\nthe cellar floor of the building to be protected, of which the\ncharacteristics (shielding of the external envelope of the building)\nhave to fulfil certain requirements.\nProtection zone 2 and higher:\n\n0 Principle of lightning protection equipotential bonding\n80\n\nIt can be sensible, or requested, to provide further protection\nzones inside protection zone 1. For example, the central server\nroom as protection zone 2 and individual electronic devices as\nprotection zone 3.\n\nProtection angle a.\n\n~\n\n70\n\n~~\n\n60\n\n~ ~.......____\n\n50\n\n~-----\n\nProtection class\n\n--\"\"' I\"--... --------.liT r------:-:..\n\n40\n\n---------- ......II--'-...,\n\n30\n20\n10\n10\n\n\"\"-._------\n\neffectiveness lightning\nlightning\nsphere\nprotection (E)\nclass (P)\nradius (r)\n20m\n98%\nI\n\n1\\/\n\n60 Height (m)\n\n50\n\n40\n\n30\n\n20\n\n,__\n\nII\nIll\nIV\n\nProtection angle depending on the lightning protection class and the height\nabove the area to be protected\n\n95%\n\n30m\n\n90%\n\n45m\n60m\n\n80%\n\ntypical down protection peak\nangle (o:) lightning\nconductor\ncurrent(i)\nspacing\n200 kA\n10m\n5mx5m\n-.f)\n150 kA\n10mx10m 15m\n100kA\n15mx15m 20m\n1--20mx20m 25m\n\nmesh width\n(w)\n\nLightning protection classes\n\nM ::::mesh spacing\n\n+\nLightning\nprotection\nzone 08\nBUILDING\nPHYSICS\n\nLightning sphere\n\n+\n\nThermal\n\ninsulation\nSound insulation\nRoom acoustics\n\nVentilation\n\nLightning\nprotection\n\nProcedure for designing lightning protection systems: lightning sphere,\nprotection angle and mesh process\nDown\n\nS= Safety distance\no:= Protection angle\n\n''\n\nconductor\n\n''\n\n'\n\nProtection'\nangle o:\n\ne\n\nRoofs protected by lightning rod\n\n''\n\n''\n\n''\n\n''\n\n''\n\nSteel reinforcement\n\n''\n\n''\n\nea~?~~~f~~~ode\n\n'\n\nEarthing system\n\nr:l Local equipotential\n~ bonding 1 surge\n\nconductor\n\n0 Categorisation of a building into lightning protection zones\n487\n\n\f"
+        },
+        {
+          "label": "Mesh width",
+          "value": 20.0,
+          "value_max": 20.0,
+          "unit": "m",
+          "context": "Protection class IV; mesh dimensions",
+          "status": "verified",
+          "ocr_raw": "BUILDING PHYSICS\n----f[B- Isolating spark gap\n\n~\n\nLightning Protection\n\nLightning current\nconductor for IT\nand electricity network\n\nLightning protection zones\n\nThe property to be protected is categorised into various lightning\nprotection zones (LPZ) ---> 0.\nProtection zone OA:\n\nThis is outside a building to be protected. Direct lightning strikes\nare possible in this area, and there is an undamped field of\nlightning discharge.\nProtection zone OB:\n\nThe lightning protection equipment on the building to be protected\nresults in areas in which direct lightning strikes can be ruled out\naccording to the protection class. There is an undamped field of\nlightning discharge. Such areas outside the building are described\nas protection zone OB.\nProtection zone 1:\n\nDrainage pipe\n\nFoundation earthing electrode\n\nThis describes the actual building to be protected The boundary\nof protection zone 0 is normally the roof, the external walls and\nthe cellar floor of the building to be protected, of which the\ncharacteristics (shielding of the external envelope of the building)\nhave to fulfil certain requirements.\nProtection zone 2 and higher:\n\n0 Principle of lightning protection equipotential bonding\n80\n\nIt can be sensible, or requested, to provide further protection\nzones inside protection zone 1. For example, the central server\nroom as protection zone 2 and individual electronic devices as\nprotection zone 3.\n\nProtection angle a.\n\n~\n\n70\n\n~~\n\n60\n\n~ ~.......____\n\n50\n\n~-----\n\nProtection class\n\n--\"\"' I\"--... --------.liT r------:-:..\n\n40\n\n---------- ......II--'-...,\n\n30\n20\n10\n10\n\n\"\"-._------\n\neffectiveness lightning\nlightning\nsphere\nprotection (E)\nclass (P)\nradius (r)\n20m\n98%\nI\n\n1\\/\n\n60 Height (m)\n\n50\n\n40\n\n30\n\n20\n\n,__\n\nII\nIll\nIV\n\nProtection angle depending on the lightning protection class and the height\nabove the area to be protected\n\n95%\n\n30m\n\n90%\n\n45m\n60m\n\n80%\n\ntypical down protection peak\nangle (o:) lightning\nconductor\ncurrent(i)\nspacing\n200 kA\n10m\n5mx5m\n-.f)\n150 kA\n10mx10m 15m\n100kA\n15mx15m 20m\n1--20mx20m 25m\n\nmesh width\n(w)\n\nLightning protection classes\n\nM ::::mesh spacing\n\n+\nLightning\nprotection\nzone 08\nBUILDING\nPHYSICS\n\nLightning sphere\n\n+\n\nThermal\n\ninsulation\nSound insulation\nRoom acoustics\n\nVentilation\n\nLightning\nprotection\n\nProcedure for designing lightning protection systems: lightning sphere,\nprotection angle and mesh process\nDown\n\nS= Safety distance\no:= Protection angle\n\n''\n\nconductor\n\n''\n\n'\n\nProtection'\nangle o:\n\ne\n\nRoofs protected by lightning rod\n\n''\n\n''\n\n''\n\n''\n\n''\n\nSteel reinforcement\n\n''\n\n''\n\nea~?~~~f~~~ode\n\n'\n\nEarthing system\n\nr:l Local equipotential\n~ bonding 1 surge\n\nconductor\n\n0 Categorisation of a building into lightning protection zones\n487\n\n\f"
+        },
+        {
+          "label": "Typical down-conductor spacing",
+          "value": 10.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Protection class I",
+          "status": "verified",
+          "ocr_raw": "10m"
+        },
+        {
+          "label": "Typical down-conductor spacing",
+          "value": 15.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Protection class II",
+          "status": "verified",
+          "ocr_raw": "15m"
+        },
+        {
+          "label": "Typical down-conductor spacing",
+          "value": 20.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Protection class III",
+          "status": "verified",
+          "ocr_raw": "20m"
+        },
+        {
+          "label": "Typical down-conductor spacing",
+          "value": 25.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Protection class IV",
+          "status": "verified",
+          "ocr_raw": "25m"
+        },
+        {
+          "label": "Peak lightning current",
+          "value": 200.0,
+          "value_max": null,
+          "unit": "kA",
+          "context": "Listed in the protection-classes table; class-row association is unclear",
+          "status": "verified",
+          "ocr_raw": "200 kA"
+        },
+        {
+          "label": "Peak lightning current",
+          "value": 150.0,
+          "value_max": null,
+          "unit": "kA",
+          "context": "Listed in the protection-classes table; class-row association is unclear",
+          "status": "verified",
+          "ocr_raw": "150 kA"
+        },
+        {
+          "label": "Peak lightning current",
+          "value": 100.0,
+          "value_max": null,
+          "unit": "kA",
+          "context": "Listed in the protection-classes table; class-row association is unclear",
+          "status": "verified",
+          "ocr_raw": "100kA"
+        },
+        {
+          "label": "Height axis",
+          "value": 60.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Protection-angle graph; horizontal axis extends to 60 m",
+          "status": "verified",
+          "ocr_raw": "60 Height (m)"
+        },
+        {
+          "label": "Lightning sphere radius",
+          "value": 20.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Label in the building categorisation diagram",
+          "status": "verified",
+          "ocr_raw": "BUILDING PHYSICS\n----f[B- Isolating spark gap\n\n~\n\nLightning Protection\n\nLightning current\nconductor for IT\nand electricity network\n\nLightning protection zones\n\nThe property to be protected is categorised into various lightning\nprotection zones (LPZ) ---> 0.\nProtection zone OA:\n\nThis is outside a building to be protected. Direct lightning strikes\nare possible in this area, and there is an undamped field of\nlightning discharge.\nProtection zone OB:\n\nThe lightning protection equipment on the building to be protected\nresults in areas in which direct lightning strikes can be ruled out\naccording to the protection class. There is an undamped field of\nlightning discharge. Such areas outside the building are described\nas protection zone OB.\nProtection zone 1:\n\nDrainage pipe\n\nFoundation earthing electrode\n\nThis describes the actual building to be protected The boundary\nof protection zone 0 is normally the roof, the external walls and\nthe cellar floor of the building to be protected, of which the\ncharacteristics (shielding of the external envelope of the building)\nhave to fulfil certain requirements.\nProtection zone 2 and higher:\n\n0 Principle of lightning protection equipotential bonding\n80\n\nIt can be sensible, or requested, to provide further protection\nzones inside protection zone 1. For example, the central server\nroom as protection zone 2 and individual electronic devices as\nprotection zone 3.\n\nProtection angle a.\n\n~\n\n70\n\n~~\n\n60\n\n~ ~.......____\n\n50\n\n~-----\n\nProtection class\n\n--\"\"' I\"--... --------.liT r------:-:..\n\n40\n\n---------- ......II--'-...,\n\n30\n20\n10\n10\n\n\"\"-._------\n\neffectiveness lightning\nlightning\nsphere\nprotection (E)\nclass (P)\nradius (r)\n20m\n98%\nI\n\n1\\/\n\n60 Height (m)\n\n50\n\n40\n\n30\n\n20\n\n,__\n\nII\nIll\nIV\n\nProtection angle depending on the lightning protection class and the height\nabove the area to be protected\n\n95%\n\n30m\n\n90%\n\n45m\n60m\n\n80%\n\ntypical down protection peak\nangle (o:) lightning\nconductor\ncurrent(i)\nspacing\n200 kA\n10m\n5mx5m\n-.f)\n150 kA\n10mx10m 15m\n100kA\n15mx15m 20m\n1--20mx20m 25m\n\nmesh width\n(w)\n\nLightning protection classes\n\nM ::::mesh spacing\n\n+\nLightning\nprotection\nzone 08\nBUILDING\nPHYSICS\n\nLightning sphere\n\n+\n\nThermal\n\ninsulation\nSound insulation\nRoom acoustics\n\nVentilation\n\nLightning\nprotection\n\nProcedure for designing lightning protection systems: lightning sphere,\nprotection angle and mesh process\nDown\n\nS= Safety distance\no:= Protection angle\n\n''\n\nconductor\n\n''\n\n'\n\nProtection'\nangle o:\n\ne\n\nRoofs protected by lightning rod\n\n''\n\n''\n\n''\n\n''\n\n''\n\nSteel reinforcement\n\n''\n\n''\n\nea~?~~~f~~~ode\n\n'\n\nEarthing system\n\nr:l Local equipotential\n~ bonding 1 surge\n\nconductor\n\n0 Categorisation of a building into lightning protection zones\n487\n\n\f"
+        }
+      ],
+      "figure_refs": [
+        "2 Protection angle depending on the lightning protection class and the height above the area to be protected",
+        "3 Procedure for designing lightning protection systems: lightning sphere, protection angle and mesh process",
+        "4 Roofs protected by lightning rod",
+        "5 Lightning protection classes",
+        "6 Categorisation of a building into lightning protection zones"
+      ],
+      "cross_refs": [
+        "→ 2"
+      ],
+      "keywords": [
+        "lightning sphere",
+        "protection angle",
+        "mesh process",
+        "protection class",
+        "capture rod",
+        "capture cable",
+        "down conductor"
+      ],
+      "tags_architectural": [
+        "safety"
+      ],
+      "confidence": 0.89
+    }
+  ]
+}

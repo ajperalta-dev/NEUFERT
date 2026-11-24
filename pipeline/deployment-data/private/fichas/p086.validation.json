@@ -1,0 +1,32 @@
+{
+  "model": "gpt-6-luna",
+  "checks": {
+    "checks": [
+      {
+        "ficha_index": 1,
+        "dimension_index": 0,
+        "status": "verified",
+        "value": 80.0,
+        "value_max": null,
+        "reason": "The drawing label reads \u201cThermal insulation \u2013 rigid \u2013 80 mm,\u201d agreeing with the proposed value and unit."
+      }
+    ]
+  },
+  "automatic": [
+    {
+      "ficha_index": 1,
+      "dimension_index": 0,
+      "issues": []
+    }
+  ],
+  "usage": [
+    {
+      "prompt_tokens": 4440,
+      "completion_tokens": 1392
+    },
+    {
+      "prompt_tokens": 4336,
+      "completion_tokens": 99
+    }
+  ]
+}

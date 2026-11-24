@@ -1,0 +1,337 @@
+{
+  "model": "gpt-6-luna",
+  "checks": {
+    "checks": [
+      {
+        "ficha_index": 0,
+        "dimension_index": 0,
+        "status": "verified",
+        "value": 45.0,
+        "value_max": 48.0,
+        "reason": "Plan explicitly labels common room 45\u201348 m\u00b2."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 1,
+        "status": "verified",
+        "value": 4.0,
+        "value_max": null,
+        "reason": "Plan explicitly labels role-play 4 m\u00b2."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 2,
+        "status": "verified",
+        "value": 4.0,
+        "value_max": null,
+        "reason": "Plan explicitly labels building 4 m\u00b2."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 3,
+        "status": "verified",
+        "value": 4.0,
+        "value_max": null,
+        "reason": "Plan explicitly labels bonding 4 m\u00b2."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 4,
+        "status": "verified",
+        "value": 18.0,
+        "value_max": null,
+        "reason": "Plan explicitly labels washroom/WC 18 m\u00b2."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 5,
+        "status": "verified",
+        "value": 10.0,
+        "value_max": null,
+        "reason": "Text says the group size is approximately 10 children."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 6,
+        "status": "verified",
+        "value": 20.0,
+        "value_max": null,
+        "reason": "Text says the group size is generally 20 children."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 7,
+        "status": "verified",
+        "value": 20.0,
+        "value_max": null,
+        "reason": "Text says the group size is generally 20 children."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 8,
+        "status": "verified",
+        "value": 75.0,
+        "value_max": 148.0,
+        "reason": "Table shows height endpoints 75 and 148 cm for ages 1 and 12."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 9,
+        "status": "verified",
+        "value": 64.0,
+        "value_max": 131.0,
+        "reason": "Table shows eye-level endpoints 64 and 131 cm for ages 1 and 12."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 10,
+        "status": "verified",
+        "value": 30.0,
+        "value_max": 75.0,
+        "reason": "Table shows reach endpoints 30 and 75 cm for ages 1 and 12."
+      },
+      {
+        "ficha_index": 2,
+        "dimension_index": 0,
+        "status": "uncertain",
+        "value": null,
+        "value_max": null,
+        "reason": "Drawing labels the width 124, but does not visibly specify a unit."
+      },
+      {
+        "ficha_index": 2,
+        "dimension_index": 1,
+        "status": "uncertain",
+        "value": null,
+        "value_max": null,
+        "reason": "Drawing labels the depth 40, but does not visibly specify a unit."
+      },
+      {
+        "ficha_index": 2,
+        "dimension_index": 2,
+        "status": "uncertain",
+        "value": null,
+        "value_max": null,
+        "reason": "Drawing labels the overall height 120, but does not visibly specify a unit."
+      },
+      {
+        "ficha_index": 2,
+        "dimension_index": 3,
+        "status": "uncertain",
+        "value": null,
+        "value_max": null,
+        "reason": "Drawing labels the segment 20, but does not visibly specify a unit."
+      },
+      {
+        "ficha_index": 2,
+        "dimension_index": 4,
+        "status": "uncertain",
+        "value": null,
+        "value_max": null,
+        "reason": "Drawing labels the segment 60, but does not visibly specify a unit."
+      },
+      {
+        "ficha_index": 2,
+        "dimension_index": 5,
+        "status": "uncertain",
+        "value": null,
+        "value_max": null,
+        "reason": "Drawing labels the segment 40, but does not visibly specify a unit."
+      },
+      {
+        "ficha_index": 3,
+        "dimension_index": 0,
+        "status": "uncertain",
+        "value": null,
+        "value_max": null,
+        "reason": "Drawing labels the width 160, but does not visibly specify a unit."
+      },
+      {
+        "ficha_index": 3,
+        "dimension_index": 1,
+        "status": "uncertain",
+        "value": null,
+        "value_max": null,
+        "reason": "Drawing labels the depth 70, but does not visibly specify a unit."
+      },
+      {
+        "ficha_index": 3,
+        "dimension_index": 2,
+        "status": "uncertain",
+        "value": null,
+        "value_max": null,
+        "reason": "Drawing labels the vertical dimension 150, but does not visibly specify a unit."
+      },
+      {
+        "ficha_index": 3,
+        "dimension_index": 3,
+        "status": "verified",
+        "value": 140.0,
+        "value_max": null,
+        "reason": "Caption gives mattress size 140/70 cm."
+      },
+      {
+        "ficha_index": 3,
+        "dimension_index": 4,
+        "status": "verified",
+        "value": 70.0,
+        "value_max": null,
+        "reason": "Caption gives mattress size 140/70 cm."
+      },
+      {
+        "ficha_index": 3,
+        "dimension_index": 5,
+        "status": "verified",
+        "value": 120.0,
+        "value_max": null,
+        "reason": "Caption gives mattress size 120/60 cm."
+      },
+      {
+        "ficha_index": 3,
+        "dimension_index": 6,
+        "status": "verified",
+        "value": 60.0,
+        "value_max": null,
+        "reason": "Caption gives mattress size 120/60 cm."
+      }
+    ]
+  },
+  "automatic": [
+    {
+      "ficha_index": 0,
+      "dimension_index": 0,
+      "issues": []
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 1,
+      "issues": []
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 2,
+      "issues": []
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 3,
+      "issues": []
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 4,
+      "issues": []
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 5,
+      "issues": [
+        "Unknown unit"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 6,
+      "issues": [
+        "Unknown unit"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 7,
+      "issues": [
+        "Unknown unit"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 8,
+      "issues": []
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 9,
+      "issues": []
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 10,
+      "issues": []
+    },
+    {
+      "ficha_index": 2,
+      "dimension_index": 0,
+      "issues": []
+    },
+    {
+      "ficha_index": 2,
+      "dimension_index": 1,
+      "issues": []
+    },
+    {
+      "ficha_index": 2,
+      "dimension_index": 2,
+      "issues": []
+    },
+    {
+      "ficha_index": 2,
+      "dimension_index": 3,
+      "issues": []
+    },
+    {
+      "ficha_index": 2,
+      "dimension_index": 4,
+      "issues": []
+    },
+    {
+      "ficha_index": 2,
+      "dimension_index": 5,
+      "issues": []
+    },
+    {
+      "ficha_index": 3,
+      "dimension_index": 0,
+      "issues": []
+    },
+    {
+      "ficha_index": 3,
+      "dimension_index": 1,
+      "issues": []
+    },
+    {
+      "ficha_index": 3,
+      "dimension_index": 2,
+      "issues": []
+    },
+    {
+      "ficha_index": 3,
+      "dimension_index": 3,
+      "issues": []
+    },
+    {
+      "ficha_index": 3,
+      "dimension_index": 4,
+      "issues": []
+    },
+    {
+      "ficha_index": 3,
+      "dimension_index": 5,
+      "issues": []
+    },
+    {
+      "ficha_index": 3,
+      "dimension_index": 6,
+      "issues": []
+    }
+  ],
+  "usage": [
+    {
+      "prompt_tokens": 11135,
+      "completion_tokens": 4468
+    },
+    {
+      "prompt_tokens": 5618,
+      "completion_tokens": 1056
+    }
+  ]
+}

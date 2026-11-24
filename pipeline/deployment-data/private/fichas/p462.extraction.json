@@ -1,0 +1,841 @@
+{
+  "fichas": [
+    {
+      "id": "4122fb96e4bd1976-462-vision-0",
+      "pdf_page": 462,
+      "book_page": 449,
+      "chapter": "AGRICULTURE",
+      "section": "Farmyards",
+      "title": "Comparison of fodder products",
+      "summary": "A comparison table shows fodder forms, dimensions in centimetres, condition, and handling methods. It distinguishes long, cut, short, small-bale, and large-bale fodder.",
+      "building_type": "Farmyard fodder handling and storage",
+      "spaces": [
+        "Fodder handling area"
+      ],
+      "uses": [
+        "Compare fodder forms and handling methods"
+      ],
+      "furniture_equipment": [
+        "Grab",
+        "Dosing rollers",
+        "Blower",
+        "Cutter",
+        "Front loader"
+      ],
+      "dimensions": [
+        {
+          "label": "Fodder dimension",
+          "value": 25.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Long fodder; approximate dimension",
+          "status": "uncertain",
+          "ocr_raw": "ca. 25"
+        },
+        {
+          "label": "Fresh fodder dimension",
+          "value": 1.7,
+          "value_max": null,
+          "unit": "m",
+          "context": "Long fodder",
+          "status": "uncertain",
+          "ocr_raw": "1.7"
+        },
+        {
+          "label": "Wilted fodder dimension",
+          "value": 1.2,
+          "value_max": 1.5,
+          "unit": "m",
+          "context": "Long fodder; wilted (35%)",
+          "status": "uncertain",
+          "ocr_raw": "1.2-1.5"
+        },
+        {
+          "label": "Hay dimension",
+          "value": 0.5,
+          "value_max": null,
+          "unit": "m",
+          "context": "Long fodder",
+          "status": "uncertain",
+          "ocr_raw": "0.5"
+        },
+        {
+          "label": "Straw dimension",
+          "value": 0.3,
+          "value_max": null,
+          "unit": "m",
+          "context": "Long fodder",
+          "status": "uncertain",
+          "ocr_raw": "0.3"
+        },
+        {
+          "label": "Fresh fodder dimension",
+          "value": 2.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Cut fodder",
+          "status": "uncertain",
+          "ocr_raw": "2.0"
+        },
+        {
+          "label": "Wilted fodder dimension",
+          "value": 1.5,
+          "value_max": 1.8,
+          "unit": "m",
+          "context": "Cut fodder; wilted (35%)",
+          "status": "uncertain",
+          "ocr_raw": "1.5–1.8"
+        },
+        {
+          "label": "Hay dimension",
+          "value": 0.8,
+          "value_max": null,
+          "unit": "m",
+          "context": "Cut fodder",
+          "status": "uncertain",
+          "ocr_raw": "0.8"
+        },
+        {
+          "label": "Straw dimension",
+          "value": 0.4,
+          "value_max": null,
+          "unit": "m",
+          "context": "Cut fodder",
+          "status": "uncertain",
+          "ocr_raw": "0.4"
+        },
+        {
+          "label": "Fresh fodder dimension",
+          "value": 3.5,
+          "value_max": null,
+          "unit": "m",
+          "context": "Short fodder",
+          "status": "uncertain",
+          "ocr_raw": "3.5"
+        },
+        {
+          "label": "Wilted fodder dimension",
+          "value": 2.5,
+          "value_max": 3.0,
+          "unit": "m",
+          "context": "Short fodder; wilted (35%)",
+          "status": "uncertain",
+          "ocr_raw": "2.5–3.0"
+        },
+        {
+          "label": "Hay dimension",
+          "value": 0.6,
+          "value_max": 1.0,
+          "unit": "m",
+          "context": "Short fodder",
+          "status": "uncertain",
+          "ocr_raw": "0.6-1.0"
+        },
+        {
+          "label": "Straw dimension",
+          "value": 0.5,
+          "value_max": 0.8,
+          "unit": "m",
+          "context": "Short fodder",
+          "status": "uncertain",
+          "ocr_raw": "0.5-0.8"
+        },
+        {
+          "label": "Bale dimensions",
+          "value": 35.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Small bales; first axis of the printed three-axis dimensions",
+          "status": "uncertain",
+          "ocr_raw": "35 x 50 x 80"
+        },
+        {
+          "label": "Bale dimensions",
+          "value": 50.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Small bales; second axis of the printed three-axis dimensions",
+          "status": "uncertain",
+          "ocr_raw": "35 x 50 x 80"
+        },
+        {
+          "label": "Bale dimensions",
+          "value": 80.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Small bales; third axis of the printed three-axis dimensions",
+          "status": "uncertain",
+          "ocr_raw": "35 x 50 x 80"
+        },
+        {
+          "label": "Bale dimension",
+          "value": 2.5,
+          "value_max": 3.0,
+          "unit": "m",
+          "context": "Small bales; wilted fodder",
+          "status": "uncertain",
+          "ocr_raw": "2.5–3.0"
+        },
+        {
+          "label": "Bale dimension",
+          "value": 0.8,
+          "value_max": 1.3,
+          "unit": "m",
+          "context": "Small bales; hay",
+          "status": "uncertain",
+          "ocr_raw": "0.8–1.3"
+        },
+        {
+          "label": "Bale dimension",
+          "value": 0.8,
+          "value_max": 1.3,
+          "unit": "m",
+          "context": "Small bales; straw",
+          "status": "uncertain",
+          "ocr_raw": "0.8–1.3"
+        },
+        {
+          "label": "Large-bale diameter",
+          "value": 150.0,
+          "value_max": 180.0,
+          "unit": "cm",
+          "context": "Large bales; diameter range",
+          "status": "uncertain",
+          "ocr_raw": "Ø 180–150"
+        },
+        {
+          "label": "Large-bale dimensions",
+          "value": 150.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Large bales; first printed dimension set",
+          "status": "uncertain",
+          "ocr_raw": "150 x 150"
+        },
+        {
+          "label": "Large-bale dimensions",
+          "value": 150.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Large bales; second axis of first printed dimension set",
+          "status": "uncertain",
+          "ocr_raw": "150 x 150"
+        },
+        {
+          "label": "Large-bale dimensions",
+          "value": 160.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Large bales; first axis of another printed dimension set",
+          "status": "uncertain",
+          "ocr_raw": "(160 x 120 x 70)"
+        },
+        {
+          "label": "Large-bale dimensions",
+          "value": 120.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Large bales; second axis of another printed dimension set",
+          "status": "uncertain",
+          "ocr_raw": "(160 x 120 x 70)"
+        },
+        {
+          "label": "Large-bale dimensions",
+          "value": 70.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Large bales; third axis of another printed dimension set",
+          "status": "uncertain",
+          "ocr_raw": "(160 x 120 x 70)"
+        }
+      ],
+      "figure_refs": [
+        "1 Comparison of the various fodder products",
+        "2 Fodder storage and preparation"
+      ],
+      "cross_refs": [],
+      "keywords": [
+        "fodder",
+        "hay",
+        "straw",
+        "bales",
+        "handling"
+      ],
+      "tags_architectural": [
+        "modularity"
+      ],
+      "confidence": 0.8
+    },
+    {
+      "id": "4122fb96e4bd1976-462-vision-1",
+      "pdf_page": 462,
+      "book_page": 449,
+      "chapter": "AGRICULTURE",
+      "section": "Farmyards",
+      "title": "Fodder storage space and density",
+      "summary": "The table compares fodder products by density and required storage space per 100 kg. Storage-space values refer to filling before settlement. The note excludes space for loading and unloading equipment, but includes filling supplements of 20% for hay and concentrate and 10% for silage.",
+      "building_type": "Fodder storage",
+      "spaces": [
+        "Fodder storage space"
+      ],
+      "uses": [
+        "Compare fodder density and storage-space requirements"
+      ],
+      "furniture_equipment": [
+        "Loading and unloading technology is excluded from the listed storage space"
+      ],
+      "dimensions": [
+        {
+          "label": "Density",
+          "value": 0.7,
+          "value_max": 1.2,
+          "unit": "dt (100 kg)/m³",
+          "context": "Long hay, good to very good quality, stack height 2–6 m",
+          "status": "uncertain",
+          "ocr_raw": "0.7–1.2"
+        },
+        {
+          "label": "Storage space requirement",
+          "value": 1.0,
+          "value_max": 1.7,
+          "unit": "m³/dt (100 kg)",
+          "context": "Long hay, good to very good quality, stack height 2–6 m; range normalized ascending",
+          "status": "uncertain",
+          "ocr_raw": "1.7–1.0"
+        },
+        {
+          "label": "Density",
+          "value": 0.9,
+          "value_max": 1.2,
+          "unit": "dt (100 kg)/m³",
+          "context": "Chaff 5 cm, good to very good quality, stack height 2–6 m",
+          "status": "uncertain",
+          "ocr_raw": "0.9–1.2"
+        },
+        {
+          "label": "Storage space requirement",
+          "value": 1.0,
+          "value_max": 1.3,
+          "unit": "m³/dt (100 kg)",
+          "context": "Chaff 5 cm, good to very good quality, stack height 2–6 m; range normalized ascending",
+          "status": "uncertain",
+          "ocr_raw": "1.30–1.00"
+        },
+        {
+          "label": "Density",
+          "value": 1.3,
+          "value_max": 1.7,
+          "unit": "dt (100 kg)/m³",
+          "context": "Dense (HD) bales, unlayered",
+          "status": "uncertain",
+          "ocr_raw": "1.3–1.7"
+        },
+        {
+          "label": "Storage space requirement",
+          "value": 0.7,
+          "value_max": 0.9,
+          "unit": "m³/dt (100 kg)",
+          "context": "Dense (HD) bales, unlayered; range normalized ascending",
+          "status": "uncertain",
+          "ocr_raw": "0.90–0.70"
+        },
+        {
+          "label": "Density",
+          "value": 1.6,
+          "value_max": 2.0,
+          "unit": "dt (100 kg)/m³",
+          "context": "Dense (HD) bales, layered",
+          "status": "uncertain",
+          "ocr_raw": "1.6–2.0"
+        },
+        {
+          "label": "Storage space requirement",
+          "value": 0.6,
+          "value_max": 0.8,
+          "unit": "m³/dt (100 kg)",
+          "context": "Dense (HD) bales, layered; range normalized ascending",
+          "status": "uncertain",
+          "ocr_raw": "0.80–0.60"
+        },
+        {
+          "label": "Density",
+          "value": 1.2,
+          "value_max": 1.7,
+          "unit": "dt (100 kg)/m³",
+          "context": "Aerated hay",
+          "status": "uncertain",
+          "ocr_raw": "1.2–1.7"
+        },
+        {
+          "label": "Storage space requirement",
+          "value": 0.7,
+          "value_max": 1.0,
+          "unit": "m³/dt (100 kg)",
+          "context": "Aerated hay; range normalized ascending",
+          "status": "uncertain",
+          "ocr_raw": "1.00–0.70"
+        },
+        {
+          "label": "Density",
+          "value": 1.5,
+          "value_max": 1.8,
+          "unit": "dt (100 kg)/m³",
+          "context": "Hay tower",
+          "status": "uncertain",
+          "ocr_raw": "1.5–1.8"
+        },
+        {
+          "label": "Storage space requirement",
+          "value": 0.7,
+          "value_max": 0.8,
+          "unit": "m³/dt (100 kg)",
+          "context": "Hay tower; range normalized ascending",
+          "status": "uncertain",
+          "ocr_raw": "0.80–0.70"
+        },
+        {
+          "label": "Density",
+          "value": 5.0,
+          "value_max": 6.0,
+          "unit": "dt (100 kg)/m³",
+          "context": "Dry grass cobs",
+          "status": "uncertain",
+          "ocr_raw": "5.0–6.0"
+        },
+        {
+          "label": "Storage space requirement",
+          "value": 0.17,
+          "value_max": 0.2,
+          "unit": "m³/dt (100 kg)",
+          "context": "Dry grass cobs; range normalized ascending",
+          "status": "uncertain",
+          "ocr_raw": "0.20–0.17"
+        },
+        {
+          "label": "Density",
+          "value": 5.5,
+          "value_max": 7.0,
+          "unit": "dt (100 kg)/m³",
+          "context": "Wilted silage (35–25% moisture content)",
+          "status": "uncertain",
+          "ocr_raw": "5.5–7.0"
+        },
+        {
+          "label": "Storage space requirement",
+          "value": 0.16,
+          "value_max": 0.2,
+          "unit": "m³/dt (100 kg)",
+          "context": "Wilted silage; range normalized ascending",
+          "status": "uncertain",
+          "ocr_raw": "0.20–0.16"
+        },
+        {
+          "label": "Density",
+          "value": 6.0,
+          "value_max": 7.5,
+          "unit": "dt (100 kg)/m³",
+          "context": "Maize silage (28–20% moisture content)",
+          "status": "uncertain",
+          "ocr_raw": "6.0–7.5"
+        },
+        {
+          "label": "Storage space requirement",
+          "value": 0.15,
+          "value_max": 0.18,
+          "unit": "m³/dt (100 kg)",
+          "context": "Maize silage; range normalized ascending",
+          "status": "uncertain",
+          "ocr_raw": "0.18–0.15"
+        },
+        {
+          "label": "Density",
+          "value": 8.5,
+          "value_max": 9.5,
+          "unit": "dt (100 kg)/m³",
+          "context": "Turnip leaves",
+          "status": "uncertain",
+          "ocr_raw": "8.5–9.5"
+        },
+        {
+          "label": "Storage space requirement",
+          "value": 0.12,
+          "value_max": 0.13,
+          "unit": "m³/dt (100 kg)",
+          "context": "Turnip leaves; range normalized ascending",
+          "status": "uncertain",
+          "ocr_raw": "0.13–0.12"
+        },
+        {
+          "label": "Density",
+          "value": 6.3,
+          "value_max": 7.0,
+          "unit": "dt (100 kg)/m³",
+          "context": "Fodder turnips",
+          "status": "uncertain",
+          "ocr_raw": "6.3–7.0"
+        },
+        {
+          "label": "Storage space requirement",
+          "value": 0.14,
+          "value_max": 0.16,
+          "unit": "m³/dt (100 kg)",
+          "context": "Fodder turnips; range normalized ascending",
+          "status": "uncertain",
+          "ocr_raw": "0.16–0.14"
+        },
+        {
+          "label": "Density",
+          "value": 5.5,
+          "value_max": 6.5,
+          "unit": "dt (100 kg)/m³",
+          "context": "Concentrate, pellets",
+          "status": "uncertain",
+          "ocr_raw": "5.5–6.5"
+        },
+        {
+          "label": "Storage space requirement",
+          "value": 0.19,
+          "value_max": 0.22,
+          "unit": "m³/dt (100 kg)",
+          "context": "Concentrate, pellets; range normalized ascending",
+          "status": "uncertain",
+          "ocr_raw": "0.22–0.19"
+        },
+        {
+          "label": "Density",
+          "value": 3.2,
+          "value_max": 3.5,
+          "unit": "dt (100 kg)/m³",
+          "context": "Dry fodder",
+          "status": "uncertain",
+          "ocr_raw": "3.2–3.5"
+        },
+        {
+          "label": "Storage space requirement",
+          "value": 0.34,
+          "value_max": 0.38,
+          "unit": "m³/dt (100 kg)",
+          "context": "Dry fodder; range normalized ascending",
+          "status": "uncertain",
+          "ocr_raw": "0.38–0.34"
+        }
+      ],
+      "figure_refs": [
+        "9 Storage of fodder"
+      ],
+      "cross_refs": [],
+      "keywords": [
+        "fodder",
+        "storage",
+        "density",
+        "silage",
+        "hay",
+        "moisture content"
+      ],
+      "tags_architectural": [
+        "spatial_proportion"
+      ],
+      "confidence": 0.94
+    },
+    {
+      "id": "4122fb96e4bd1976-462-vision-2",
+      "pdf_page": 462,
+      "book_page": 449,
+      "chapter": "AGRICULTURE",
+      "section": "Farmyards",
+      "title": "Hay storage buildings",
+      "summary": "Illustrations show hay barns with grab handling, a hay storage barn, and an overhead hay store. Dimensions are printed for building spans, heights, storage levels, and gantry-crane clearance.",
+      "building_type": "Hay storage barn",
+      "spaces": [
+        "Hay storage area",
+        "Ground-level storage",
+        "Overhead hay store"
+      ],
+      "uses": [
+        "Store hay",
+        "Mechanize hay handling"
+      ],
+      "furniture_equipment": [
+        "Grab",
+        "Gantry crane"
+      ],
+      "dimensions": [
+        {
+          "label": "Building width",
+          "value": 12.5,
+          "value_max": null,
+          "unit": "m",
+          "context": "Hay storage barn with grab",
+          "status": "uncertain",
+          "ocr_raw": "12.50"
+        },
+        {
+          "label": "Building dimension",
+          "value": 5.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Hay storage barn with grab",
+          "status": "uncertain",
+          "ocr_raw": "5.0"
+        },
+        {
+          "label": "Building height",
+          "value": 8.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Hay storage barn with grab",
+          "status": "uncertain",
+          "ocr_raw": "8.0"
+        },
+        {
+          "label": "Upper height segment",
+          "value": 2.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Hay storage barn with grab",
+          "status": "uncertain",
+          "ocr_raw": "2.0"
+        },
+        {
+          "label": "Building width",
+          "value": 12.5,
+          "value_max": null,
+          "unit": "m",
+          "context": "Hay storage barn",
+          "status": "uncertain",
+          "ocr_raw": "12.50"
+        },
+        {
+          "label": "Building dimension",
+          "value": 5.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Hay storage barn",
+          "status": "uncertain",
+          "ocr_raw": "5.0"
+        },
+        {
+          "label": "Building height",
+          "value": 6.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Hay storage barn",
+          "status": "uncertain",
+          "ocr_raw": "6.0"
+        },
+        {
+          "label": "Storage height",
+          "value": 8.0,
+          "value_max": 10.0,
+          "unit": "m",
+          "context": "Overhead hay store",
+          "status": "uncertain",
+          "ocr_raw": "8.0–10.0"
+        },
+        {
+          "label": "Gantry crane clearance",
+          "value": 2.2,
+          "value_max": 2.5,
+          "unit": "m",
+          "context": "Overhead hay store",
+          "status": "uncertain",
+          "ocr_raw": "2.2–2.5"
+        },
+        {
+          "label": "Storage width",
+          "value": 10.0,
+          "value_max": 11.0,
+          "unit": "m",
+          "context": "Overhead hay store",
+          "status": "uncertain",
+          "ocr_raw": "10.0–11.0"
+        },
+        {
+          "label": "Storage dimension",
+          "value": 2.5,
+          "value_max": 3.0,
+          "unit": "m",
+          "context": "Hay storage barn diagram",
+          "status": "uncertain",
+          "ocr_raw": "2.5–3.0"
+        }
+      ],
+      "figure_refs": [
+        "3 Hay storage barn, with grab",
+        "4 Hay storage barn",
+        "5 Overhead hay store",
+        "6 Hay storage barn"
+      ],
+      "cross_refs": [],
+      "keywords": [
+        "hay",
+        "barn",
+        "overhead storage",
+        "grab",
+        "gantry crane"
+      ],
+      "tags_architectural": [
+        "circulation",
+        "spatial_proportion"
+      ],
+      "confidence": 0.86
+    },
+    {
+      "id": "4122fb96e4bd1976-462-vision-3",
+      "pdf_page": 462,
+      "book_page": 449,
+      "chapter": "AGRICULTURE",
+      "section": "Farmyards",
+      "title": "Flat silos",
+      "summary": "Two flat-silo arrangements are illustrated: a silo for storage using a front loader or wheel loader, and a ramped silo for small flat silos or storage by overrunning. The ramp diagram includes a maximum gradient, and a separate drawing marks minimum distance from non-fire-retarding walls.",
+      "building_type": "Flat silo",
+      "spaces": [
+        "Silo storage area",
+        "Ramp",
+        "Drainage duct gully"
+      ],
+      "uses": [
+        "Store fodder",
+        "Load and roll stored material",
+        "Enable fast feed emptying"
+      ],
+      "furniture_equipment": [
+        "Loading and rolling tractor",
+        "Front loader or wheel loader"
+      ],
+      "dimensions": [
+        {
+          "label": "Silo length",
+          "value": 10.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Flat silo; drawing marks approximately 10.0 m",
+          "status": "uncertain",
+          "ocr_raw": "≈ 10.0"
+        },
+        {
+          "label": "Silo width",
+          "value": 4.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Flat silo",
+          "status": "uncertain",
+          "ocr_raw": "4.0"
+        },
+        {
+          "label": "Maximum silo height",
+          "value": 2.6,
+          "value_max": null,
+          "unit": "m",
+          "context": "Flat silo; maximum indicated",
+          "status": "uncertain",
+          "ocr_raw": "≤2.6"
+        },
+        {
+          "label": "Silo length",
+          "value": 10.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Flat silo with ramp",
+          "status": "uncertain",
+          "ocr_raw": "10.0"
+        },
+        {
+          "label": "Silo width",
+          "value": 4.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Flat silo with ramp",
+          "status": "uncertain",
+          "ocr_raw": "4.0"
+        },
+        {
+          "label": "Ramp gradient",
+          "value": 15.0,
+          "value_max": null,
+          "unit": "percent",
+          "context": "Maximum ramp gradient; printed notation is retained as OCR",
+          "status": "uncertain",
+          "ocr_raw": "≤ 15.0 gradient 1%"
+        },
+        {
+          "label": "Required minimum distance",
+          "value": 50.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "From non-fire-retarding walls",
+          "status": "uncertain",
+          "ocr_raw": "50.0"
+        }
+      ],
+      "figure_refs": [
+        "10 Flat silo",
+        "11 Flat silo with ramp"
+      ],
+      "cross_refs": [],
+      "keywords": [
+        "flat silo",
+        "ramp",
+        "fodder storage",
+        "tractor",
+        "drainage"
+      ],
+      "tags_architectural": [
+        "safety",
+        "circulation"
+      ],
+      "confidence": 0.75
+    },
+    {
+      "id": "4122fb96e4bd1976-462-vision-4",
+      "pdf_page": 462,
+      "book_page": 449,
+      "chapter": "AGRICULTURE",
+      "section": "Farmyards",
+      "title": "Hay and silage tower systems",
+      "summary": "Diagrams show tower-silo filling using a conveyor or grab, hay-tower filling and ventilation, hay-tower emptying, and silage-tower removal using manual methods, cutters, or an overhead clamp unit.",
+      "building_type": "Tower silo",
+      "spaces": [
+        "Hay tower",
+        "Silage tower",
+        "Tower filling and removal areas"
+      ],
+      "uses": [
+        "Store hay and silage",
+        "Fill towers using conveyors or grabs",
+        "Ventilate hay towers",
+        "Remove silage"
+      ],
+      "furniture_equipment": [
+        "Conveyor",
+        "Grab",
+        "Manual removal equipment",
+        "Top cutter",
+        "Bottom cutter",
+        "Overhead clamp unit"
+      ],
+      "dimensions": [],
+      "figure_refs": [
+        "7 Hay tower: filling and ventilation",
+        "8 Hay tower: emptying",
+        "12 Tower silo: filling using conveyor",
+        "13 Silage tower, filling using grab",
+        "14 Silage tower, removal",
+        "15 Silage tower, removal"
+      ],
+      "cross_refs": [],
+      "keywords": [
+        "tower silo",
+        "hay",
+        "silage",
+        "filling",
+        "ventilation",
+        "removal"
+      ],
+      "tags_architectural": [
+        "circulation"
+      ],
+      "confidence": 0.91
+    }
+  ]
+}

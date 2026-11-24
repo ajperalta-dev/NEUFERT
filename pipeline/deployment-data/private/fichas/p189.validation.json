@@ -1,0 +1,355 @@
+{
+  "model": "gpt-6-luna",
+  "checks": {
+    "checks": [
+      {
+        "ficha_index": 0,
+        "dimension_index": 0,
+        "status": "verified",
+        "value": 70.0,
+        "value_max": null,
+        "reason": "The caption explicitly states that table depth can be reduced to 70 cm."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 1,
+        "status": "verified",
+        "value": 1.15,
+        "value_max": null,
+        "reason": "The restaurant drawing labels the table \u00d81.15."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 2,
+        "status": "verified",
+        "value": 1.5,
+        "value_max": null,
+        "reason": "The restaurant drawing labels the table \u00d81.50."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 3,
+        "status": "verified",
+        "value": 1.7,
+        "value_max": null,
+        "reason": "The self-service drawing labels the table \u00d81.70."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 4,
+        "status": "verified",
+        "value": 1.2,
+        "value_max": 1.4,
+        "reason": "The drawing shows the circulation dimension 1.20\u20131.40."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 5,
+        "status": "verified",
+        "value": 1.5,
+        "value_max": null,
+        "reason": "The self-service drawing shows 1.50."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 6,
+        "status": "verified",
+        "value": 40.0,
+        "value_max": null,
+        "reason": "The text explicitly recommends stations for 40 places each."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 7,
+        "status": "verified",
+        "value": 12.0,
+        "value_max": 24.0,
+        "reason": "The text states that areas of about 20 (12\u201324) places are designed."
+      },
+      {
+        "ficha_index": 1,
+        "dimension_index": 0,
+        "status": "verified",
+        "value": 1.5,
+        "value_max": null,
+        "reason": "The banquet drawing labels round tables \u00d81.50."
+      },
+      {
+        "ficha_index": 1,
+        "dimension_index": 1,
+        "status": "verified",
+        "value": 6.0,
+        "value_max": 8.0,
+        "reason": "The drawing labels the table group 6\u20138 places."
+      },
+      {
+        "ficha_index": 1,
+        "dimension_index": 2,
+        "status": "verified",
+        "value": 8.0,
+        "value_max": 10.0,
+        "reason": "The drawing labels the table group 8\u201310 places."
+      },
+      {
+        "ficha_index": 1,
+        "dimension_index": 3,
+        "status": "verified",
+        "value": 6.0,
+        "value_max": null,
+        "reason": "The drawing labels the table group 6 places."
+      },
+      {
+        "ficha_index": 1,
+        "dimension_index": 4,
+        "status": "verified",
+        "value": 2.6,
+        "value_max": null,
+        "reason": "The banquet arrangement dimension is shown as 2.60."
+      },
+      {
+        "ficha_index": 1,
+        "dimension_index": 5,
+        "status": "verified",
+        "value": 2.9,
+        "value_max": null,
+        "reason": "The banquet arrangement dimension is shown as 2.90."
+      },
+      {
+        "ficha_index": 1,
+        "dimension_index": 6,
+        "status": "verified",
+        "value": 3.6,
+        "value_max": 4.2,
+        "reason": "The banquet arrangement dimension is shown as 3.60\u20134.20."
+      },
+      {
+        "ficha_index": 2,
+        "dimension_index": 0,
+        "status": "verified",
+        "value": 1.2,
+        "value_max": null,
+        "reason": "The table drawing shows 1.20 for this dimension."
+      },
+      {
+        "ficha_index": 2,
+        "dimension_index": 1,
+        "status": "uncertain",
+        "value": 0.8,
+        "value_max": null,
+        "reason": "The drawing prints the second table dimension as 80, without a unit; the proposed 0.8 m cannot be confirmed from the visible label alone."
+      },
+      {
+        "ficha_index": 2,
+        "dimension_index": 2,
+        "status": "verified",
+        "value": 5.4,
+        "value_max": null,
+        "reason": "The room span is visibly marked \u2265 5.40."
+      },
+      {
+        "ficha_index": 2,
+        "dimension_index": 3,
+        "status": "verified",
+        "value": 6.6,
+        "value_max": null,
+        "reason": "The room span is visibly marked \u2265 6.60."
+      },
+      {
+        "ficha_index": 2,
+        "dimension_index": 4,
+        "status": "verified",
+        "value": 5.4,
+        "value_max": null,
+        "reason": "The room span is visibly marked \u2265 5.40."
+      },
+      {
+        "ficha_index": 3,
+        "dimension_index": 0,
+        "status": "verified",
+        "value": 1.8,
+        "value_max": null,
+        "reason": "The table dimension is visibly marked 1.80."
+      },
+      {
+        "ficha_index": 3,
+        "dimension_index": 1,
+        "status": "uncertain",
+        "value": 0.45,
+        "value_max": 0.5,
+        "reason": "The drawing prints the table dimension as 1.80\u00d745\u201350; it does not state the unit for 45\u201350, so the proposed metre conversion cannot be confirmed."
+      },
+      {
+        "ficha_index": 3,
+        "dimension_index": 2,
+        "status": "verified",
+        "value": 1.55,
+        "value_max": null,
+        "reason": "The spacing is visibly marked 1.55."
+      },
+      {
+        "ficha_index": 3,
+        "dimension_index": 3,
+        "status": "verified",
+        "value": 1.8,
+        "value_max": null,
+        "reason": "The table dimension is visibly marked 1.80\u00d770; 1.80 agrees with the proposed value."
+      }
+    ]
+  },
+  "automatic": [
+    {
+      "ficha_index": 0,
+      "dimension_index": 0,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 1,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 2,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 3,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 4,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 5,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 6,
+      "issues": [
+        "Unknown unit",
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 7,
+      "issues": [
+        "Unknown unit",
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 1,
+      "dimension_index": 0,
+      "issues": []
+    },
+    {
+      "ficha_index": 1,
+      "dimension_index": 1,
+      "issues": [
+        "Unknown unit"
+      ]
+    },
+    {
+      "ficha_index": 1,
+      "dimension_index": 2,
+      "issues": [
+        "Unknown unit"
+      ]
+    },
+    {
+      "ficha_index": 1,
+      "dimension_index": 3,
+      "issues": [
+        "Unknown unit"
+      ]
+    },
+    {
+      "ficha_index": 1,
+      "dimension_index": 4,
+      "issues": []
+    },
+    {
+      "ficha_index": 1,
+      "dimension_index": 5,
+      "issues": []
+    },
+    {
+      "ficha_index": 1,
+      "dimension_index": 6,
+      "issues": []
+    },
+    {
+      "ficha_index": 2,
+      "dimension_index": 0,
+      "issues": []
+    },
+    {
+      "ficha_index": 2,
+      "dimension_index": 1,
+      "issues": []
+    },
+    {
+      "ficha_index": 2,
+      "dimension_index": 2,
+      "issues": []
+    },
+    {
+      "ficha_index": 2,
+      "dimension_index": 3,
+      "issues": []
+    },
+    {
+      "ficha_index": 2,
+      "dimension_index": 4,
+      "issues": []
+    },
+    {
+      "ficha_index": 3,
+      "dimension_index": 0,
+      "issues": []
+    },
+    {
+      "ficha_index": 3,
+      "dimension_index": 1,
+      "issues": []
+    },
+    {
+      "ficha_index": 3,
+      "dimension_index": 2,
+      "issues": []
+    },
+    {
+      "ficha_index": 3,
+      "dimension_index": 3,
+      "issues": []
+    }
+  ],
+  "usage": [
+    {
+      "prompt_tokens": 4547,
+      "completion_tokens": 2078
+    },
+    {
+      "prompt_tokens": 5556,
+      "completion_tokens": 1410
+    }
+  ]
+}

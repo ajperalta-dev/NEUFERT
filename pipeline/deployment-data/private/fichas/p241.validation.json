@@ -1,0 +1,58 @@
+{
+  "model": "gpt-6-luna",
+  "checks": {
+    "checks": [
+      {
+        "ficha_index": 0,
+        "dimension_index": 0,
+        "status": "verified",
+        "value": 5.0,
+        "value_max": 6.0,
+        "reason": "The drawing text states \u201cwheelchair-accessible main paths (5\u20136 m wide).\u201d"
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 1,
+        "status": "verified",
+        "value": 3.0,
+        "value_max": 4.0,
+        "reason": "The drawing text states \u201cside paths (3\u20134 m wide).\u201d"
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 2,
+        "status": "verified",
+        "value": 3.0,
+        "value_max": 4.0,
+        "reason": "The drawing text states \u201cindependent operational roads (3\u20134 m wide).\u201d"
+      }
+    ]
+  },
+  "automatic": [
+    {
+      "ficha_index": 0,
+      "dimension_index": 0,
+      "issues": []
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 1,
+      "issues": []
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 2,
+      "issues": []
+    }
+  ],
+  "usage": [
+    {
+      "prompt_tokens": 4391,
+      "completion_tokens": 859
+    },
+    {
+      "prompt_tokens": 3774,
+      "completion_tokens": 216
+    }
+  ]
+}

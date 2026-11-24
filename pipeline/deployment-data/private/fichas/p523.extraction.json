@@ -1,0 +1,568 @@
+{
+  "fichas": [
+    {
+      "id": "4122fb96e4bd1976-523-vision-0",
+      "pdf_page": 523,
+      "book_page": 510,
+      "chapter": "BUILDING SERVICES",
+      "section": "Lighting",
+      "title": "Nominal illuminance values for general indoor workplaces and offices",
+      "summary": "Excerpt from Workplace Guidelines ‘Artificial Lighting’, 7/3 and DIN EN 12464-1. The table lists nominal guideline illuminance values for indoor rooms and activities. General-room and office examples are recorded here; other indoor categories on the page include chemical, ceramic, steel, metalworking, electrical, printing, leather, textile, food, retail and service workplaces.",
+      "building_type": "Indoor workplaces",
+      "spaces": [
+        "General rooms",
+        "Storage-room traffic zones",
+        "Canteens and tea kitchens",
+        "Break rooms",
+        "Gymnastic rooms",
+        "Changing, washing and toilet rooms",
+        "Offices",
+        "Meeting rooms",
+        "Reception desks"
+      ],
+      "uses": [
+        "General circulation and room use",
+        "Filing and copying",
+        "Writing and typing",
+        "Reading and data processing",
+        "Technical drawing",
+        "Public access",
+        "CAD work"
+      ],
+      "furniture_equipment": [],
+      "dimensions": [
+        {
+          "label": "Illuminance",
+          "value": 50.0,
+          "value_max": null,
+          "unit": "lx",
+          "context": "General rooms: traffic zones in storage rooms",
+          "status": "uncertain",
+          "ocr_raw": "traffic zones in storage rooms 50"
+        },
+        {
+          "label": "Illuminance",
+          "value": 200.0,
+          "value_max": null,
+          "unit": "lx",
+          "context": "General rooms: service point; canteens and tea kitchens",
+          "status": "uncertain",
+          "ocr_raw": "service point 200; canteens, tea kitchens 200"
+        },
+        {
+          "label": "Illuminance",
+          "value": 100.0,
+          "value_max": null,
+          "unit": "lx",
+          "context": "General rooms: break rooms",
+          "status": "uncertain",
+          "ocr_raw": "break rooms 100"
+        },
+        {
+          "label": "Illuminance",
+          "value": 300.0,
+          "value_max": null,
+          "unit": "lx",
+          "context": "General rooms: gymnastic rooms",
+          "status": "uncertain",
+          "ocr_raw": "gymnastic rooms 300"
+        },
+        {
+          "label": "Illuminance",
+          "value": 200.0,
+          "value_max": null,
+          "unit": "lx",
+          "context": "General rooms: changing, washing and toilet rooms",
+          "status": "uncertain",
+          "ocr_raw": "changing, washing and toilet rooms 200"
+        },
+        {
+          "label": "Illuminance",
+          "value": 500.0,
+          "value_max": null,
+          "unit": "lx",
+          "context": "General rooms: sanitary rooms",
+          "status": "uncertain",
+          "ocr_raw": "sanitary rooms 500"
+        },
+        {
+          "label": "Illuminance",
+          "value": 300.0,
+          "value_max": null,
+          "unit": "lx",
+          "context": "Offices: filing and copying; traffic zones in workrooms",
+          "status": "uncertain",
+          "ocr_raw": "filing, copying 300; traffic zones in workrooms 300"
+        },
+        {
+          "label": "Illuminance",
+          "value": 500.0,
+          "value_max": null,
+          "unit": "lx",
+          "context": "Offices: writing and typing; reading and data processing",
+          "status": "uncertain",
+          "ocr_raw": "writing, typing 500; reading, data processing 500"
+        },
+        {
+          "label": "Illuminance",
+          "value": 750.0,
+          "value_max": null,
+          "unit": "lx",
+          "context": "Offices: technical drawing",
+          "status": "uncertain",
+          "ocr_raw": "technical drawing 750"
+        },
+        {
+          "label": "Illuminance",
+          "value": 500.0,
+          "value_max": null,
+          "unit": "lx",
+          "context": "Offices: meeting rooms",
+          "status": "uncertain",
+          "ocr_raw": "meeting rooms 500"
+        },
+        {
+          "label": "Illuminance",
+          "value": 300.0,
+          "value_max": null,
+          "unit": "lx",
+          "context": "Offices: reception desk",
+          "status": "uncertain",
+          "ocr_raw": "reception desk 300"
+        },
+        {
+          "label": "Illuminance",
+          "value": 200.0,
+          "value_max": null,
+          "unit": "lx",
+          "context": "Offices: rooms for public access",
+          "status": "uncertain",
+          "ocr_raw": "rooms for public access 200"
+        },
+        {
+          "label": "Illuminance",
+          "value": 500.0,
+          "value_max": null,
+          "unit": "lx",
+          "context": "Offices: CAD workplaces",
+          "status": "uncertain",
+          "ocr_raw": "CAD workplaces 500"
+        }
+      ],
+      "figure_refs": [
+        "1 — Nominal guideline illuminance values for workplaces"
+      ],
+      "cross_refs": [
+        "Workplace Guidelines ‘Artificial Lighting’, 7/3",
+        "DIN EN 12464-1 (Excerpt)"
+      ],
+      "keywords": [
+        "lighting",
+        "artificial lighting",
+        "illuminance",
+        "indoor workplaces",
+        "offices"
+      ],
+      "tags_architectural": [
+        "daylighting"
+      ],
+      "confidence": 0.98
+    },
+    {
+      "id": "4122fb96e4bd1976-523-vision-1",
+      "pdf_page": 523,
+      "book_page": 510,
+      "chapter": "BUILDING SERVICES",
+      "section": "Lighting",
+      "title": "Nominal illuminance values for industrial and specialist indoor workplaces",
+      "summary": "The indoor-workplaces table gives nominal guideline illuminance values in lx for numerous industrial and specialist activities. The listed examples illustrate the range of work types and values; the source also includes further categories such as power stations, timber processing, paper, jewellery, wholesale and service companies.",
+      "building_type": "Industrial and specialist workplaces",
+      "spaces": [
+        "Chemical plants",
+        "Laboratories",
+        "Ceramic and glass workplaces",
+        "Steelworks",
+        "Metal preparation and processing",
+        "Electrical industry",
+        "Printing plants",
+        "Textile workplaces"
+      ],
+      "uses": [
+        "Production and process work",
+        "Maintenance",
+        "Inspection and quality control",
+        "Fine manual work",
+        "Colour testing"
+      ],
+      "furniture_equipment": [],
+      "dimensions": [
+        {
+          "label": "Illuminance",
+          "value": 50.0,
+          "value_max": null,
+          "unit": "lx",
+          "context": "Chemical industry: plants with remote control",
+          "status": "uncertain",
+          "ocr_raw": "plants with remote control 50"
+        },
+        {
+          "label": "Illuminance",
+          "value": 150.0,
+          "value_max": null,
+          "unit": "lx",
+          "context": "Chemical industry: plants with occasional manual inputs",
+          "status": "uncertain",
+          "ocr_raw": "plants with occasional manual inputs 150"
+        },
+        {
+          "label": "Illuminance",
+          "value": 300.0,
+          "value_max": null,
+          "unit": "lx",
+          "context": "Chemical industry: constantly manned locations in process plants",
+          "status": "uncertain",
+          "ocr_raw": "constantly manned locations in process plants 300"
+        },
+        {
+          "label": "Illuminance",
+          "value": 500.0,
+          "value_max": null,
+          "unit": "lx",
+          "context": "Chemical industry: laboratories",
+          "status": "uncertain",
+          "ocr_raw": "laboratories 500"
+        },
+        {
+          "label": "Illuminance",
+          "value": 1000.0,
+          "value_max": null,
+          "unit": "lx",
+          "context": "Chemical industry: colour testing",
+          "status": "uncertain",
+          "ocr_raw": "colour testing 1000"
+        },
+        {
+          "label": "Illuminance",
+          "value": 50.0,
+          "value_max": null,
+          "unit": "lx",
+          "context": "Ceramics, tiles, glass and glassware: drying",
+          "status": "uncertain",
+          "ocr_raw": "drying 50"
+        },
+        {
+          "label": "Illuminance",
+          "value": 200.0,
+          "value_max": null,
+          "unit": "lx",
+          "context": "Ceramics, tiles, glass and glassware: mixing and material preparation",
+          "status": "uncertain",
+          "ocr_raw": "mixing, material preparation 200"
+        },
+        {
+          "label": "Illuminance",
+          "value": 750.0,
+          "value_max": null,
+          "unit": "lx",
+          "context": "Ceramics, tiles, glass and glassware: grinding, engraving and polishing",
+          "status": "uncertain",
+          "ocr_raw": "grinding, engraving, polishing glass, forming glass instruments 750"
+        },
+        {
+          "label": "Illuminance",
+          "value": 200.0,
+          "value_max": null,
+          "unit": "lx",
+          "context": "Steelworks and rolling mills: production plants without input",
+          "status": "uncertain",
+          "ocr_raw": "production plants without input 50"
+        },
+        {
+          "label": "Illuminance",
+          "value": 500.0,
+          "value_max": null,
+          "unit": "lx",
+          "context": "Steelworks and rolling mills: checking stations",
+          "status": "uncertain",
+          "ocr_raw": "checking stations 500"
+        },
+        {
+          "label": "Illuminance",
+          "value": 300.0,
+          "value_max": null,
+          "unit": "lx",
+          "context": "Metal preparation and processing: coarse and medium machine work",
+          "status": "uncertain",
+          "ocr_raw": "coarse and medium machine work 300"
+        },
+        {
+          "label": "Illuminance",
+          "value": 750.0,
+          "value_max": null,
+          "unit": "lx",
+          "context": "Metal preparation and processing: checking stations",
+          "status": "uncertain",
+          "ocr_raw": "checking stations 750"
+        },
+        {
+          "label": "Illuminance",
+          "value": 1500.0,
+          "value_max": null,
+          "unit": "lx",
+          "context": "Electrical industry: adjusting and testing; assembly of very fine components",
+          "status": "uncertain",
+          "ocr_raw": "adjusting, testing 1500; assembly of very fine components, electronic components 1500"
+        },
+        {
+          "label": "Illuminance",
+          "value": 1500.0,
+          "value_max": null,
+          "unit": "lx",
+          "context": "Printing plant: expert checking of colour",
+          "status": "uncertain",
+          "ocr_raw": "expert checking of colour printing 1500"
+        },
+        {
+          "label": "Illuminance",
+          "value": 2000.0,
+          "value_max": null,
+          "unit": "lx",
+          "context": "Printing plant: steel and copper etching",
+          "status": "uncertain",
+          "ocr_raw": "steel and copper etching 2000"
+        }
+      ],
+      "figure_refs": [
+        "1 — Nominal guideline illuminance values for workplaces"
+      ],
+      "cross_refs": [
+        "Workplace Guidelines ‘Artificial Lighting’, 7/3",
+        "DIN EN 12464-1 (Excerpt)"
+      ],
+      "keywords": [
+        "lighting",
+        "industrial lighting",
+        "illuminance",
+        "workplace guidelines",
+        "inspection"
+      ],
+      "tags_architectural": [
+        "safety",
+        "ergonomics"
+      ],
+      "confidence": 0.88
+    },
+    {
+      "id": "4122fb96e4bd1976-523-vision-2",
+      "pdf_page": 523,
+      "book_page": 510,
+      "chapter": "BUILDING SERVICES",
+      "section": "Lighting",
+      "title": "Nominal illuminance values for outdoor workplaces and traffic areas",
+      "summary": "The outdoor-workplaces table specifies nominal guideline illuminance values in lx for traffic routes, car parks, harbours, rail facilities, construction sites, large chemical works and power stations, open-cast mining, water treatment works and petrol stations.",
+      "building_type": "Outdoor workplaces and traffic areas",
+      "spaces": [
+        "Works roads",
+        "Footpaths",
+        "Cycleways",
+        "Car parks",
+        "Harbours",
+        "Rail facilities",
+        "Construction sites",
+        "Open-cast mines",
+        "Water treatment works",
+        "Petrol stations"
+      ],
+      "uses": [
+        "Outdoor circulation",
+        "Vehicle and pedestrian movement",
+        "Loading and unloading",
+        "Workplace and traffic-area lighting"
+      ],
+      "furniture_equipment": [],
+      "dimensions": [
+        {
+          "label": "Illuminance",
+          "value": 50.0,
+          "value_max": null,
+          "unit": "lx",
+          "context": "Traffic routes in works area: gate facilities",
+          "status": "uncertain",
+          "ocr_raw": "gate facilities 50"
+        },
+        {
+          "label": "Illuminance",
+          "value": 5.0,
+          "value_max": null,
+          "unit": "lx",
+          "context": "Traffic routes in works area: footpaths",
+          "status": "uncertain",
+          "ocr_raw": "footpaths 5"
+        },
+        {
+          "label": "Illuminance",
+          "value": 3.0,
+          "value_max": null,
+          "unit": "lx",
+          "context": "Traffic routes in works area: cycleways",
+          "status": "uncertain",
+          "ocr_raw": "cycle ways E_mn ≥ 3"
+        },
+        {
+          "label": "Illuminance",
+          "value": 20.0,
+          "value_max": null,
+          "unit": "lx",
+          "context": "Car parks: parking areas and traffic zones",
+          "status": "uncertain",
+          "ocr_raw": "parking areas and traffic zones 20"
+        },
+        {
+          "label": "Illuminance",
+          "value": 100.0,
+          "value_max": null,
+          "unit": "lx",
+          "context": "Harbours: loading and unloading containers",
+          "status": "uncertain",
+          "ocr_raw": "loading and unloading containers 100"
+        },
+        {
+          "label": "Illuminance",
+          "value": 5.0,
+          "value_max": null,
+          "unit": "lx",
+          "context": "Harbours: quay edge",
+          "status": "uncertain",
+          "ocr_raw": "quay edge 5"
+        },
+        {
+          "label": "Illuminance",
+          "value": 20.0,
+          "value_max": null,
+          "unit": "lx",
+          "context": "Harbours: working areas in storage facilities, unit goods",
+          "status": "uncertain",
+          "ocr_raw": "working areas in storage facilities unit goods 20"
+        },
+        {
+          "label": "Illuminance",
+          "value": 5.0,
+          "value_max": null,
+          "unit": "lx",
+          "context": "Harbours: working areas in storage facilities, bulk goods",
+          "status": "uncertain",
+          "ocr_raw": "bulk goods 5"
+        },
+        {
+          "label": "Illuminance",
+          "value": 3.0,
+          "value_max": null,
+          "unit": "lx",
+          "context": "Rail facilities: track yards and marshalling yards, public transport",
+          "status": "uncertain",
+          "ocr_raw": "track yards, marshalling yards 1 public transport 3"
+        },
+        {
+          "label": "Illuminance",
+          "value": 30.0,
+          "value_max": null,
+          "unit": "lx",
+          "context": "Rail facilities: cargo handling",
+          "status": "uncertain",
+          "ocr_raw": "cargo handling 30"
+        },
+        {
+          "label": "Illuminance",
+          "value": 20.0,
+          "value_max": null,
+          "unit": "lx",
+          "context": "Construction sites: building and civil engineering",
+          "status": "uncertain",
+          "ocr_raw": "building 20; civil engineering 20"
+        },
+        {
+          "label": "Illuminance",
+          "value": 30.0,
+          "value_max": null,
+          "unit": "lx",
+          "context": "Construction sites: steelwork, metalwork and tunnelling",
+          "status": "uncertain",
+          "ocr_raw": "steelwork, metalwork 30; tunnelling 30"
+        },
+        {
+          "label": "Illuminance",
+          "value": 10.0,
+          "value_max": null,
+          "unit": "lx",
+          "context": "Large chemical works and power stations: traffic zone",
+          "status": "uncertain",
+          "ocr_raw": "traffic zone 10"
+        },
+        {
+          "label": "Illuminance",
+          "value": 20.0,
+          "value_max": null,
+          "unit": "lx",
+          "context": "Large chemical works and power stations: switching gear",
+          "status": "uncertain",
+          "ocr_raw": "switching gear 20"
+        },
+        {
+          "label": "Illuminance",
+          "value": 3.0,
+          "value_max": null,
+          "unit": "lx",
+          "context": "Open-cast mining: orientation lighting",
+          "status": "uncertain",
+          "ocr_raw": "1 orientation lighting 3"
+        },
+        {
+          "label": "Illuminance",
+          "value": 20.0,
+          "value_max": null,
+          "unit": "lx",
+          "context": "Open-cast mining: extra area lighting",
+          "status": "uncertain",
+          "ocr_raw": "2 extra area lighting 20"
+        },
+        {
+          "label": "Illuminance",
+          "value": 5.0,
+          "value_max": null,
+          "unit": "lx",
+          "context": "Water treatment works: routes",
+          "status": "uncertain",
+          "ocr_raw": "routes 5"
+        },
+        {
+          "label": "Illuminance",
+          "value": 100.0,
+          "value_max": null,
+          "unit": "lx",
+          "context": "Petrol stations",
+          "status": "uncertain",
+          "ocr_raw": "Petrol stations 100"
+        }
+      ],
+      "figure_refs": [
+        "1 — Nominal guideline illuminance values for workplaces"
+      ],
+      "cross_refs": [
+        "Workplace Guidelines ‘Artificial Lighting’, 7/3",
+        "DIN EN 12464-1 (Excerpt)"
+      ],
+      "keywords": [
+        "lighting",
+        "outdoor lighting",
+        "illuminance",
+        "traffic routes",
+        "workplaces"
+      ],
+      "tags_architectural": [
+        "circulation",
+        "safety"
+      ],
+      "confidence": 0.95
+    }
+  ]
+}

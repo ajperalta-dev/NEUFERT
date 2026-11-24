@@ -1,0 +1,332 @@
+{
+  "fichas": [
+    {
+      "id": "4122fb96e4bd1976-224-vision-0",
+      "pdf_page": 224,
+      "book_page": 211,
+      "chapter": "CULTURAL VENUES",
+      "section": "Theatres",
+      "title": "Theatres: Auditorium",
+      "summary": "Design guidance for theatre auditoriums covers seating layout, audience floor area, aisle and exit provision, wheelchair-accessible seats, acoustic volume, viewing angles, auditorium proportions and traditional auditorium geometry. Applicable Places of Assembly Regulations vary by state; the text notes their application from 200 spectators.",
+      "building_type": "Theatre",
+      "spaces": [
+        "Auditorium",
+        "Stage/acting area",
+        "Aisles",
+        "Boxes"
+      ],
+      "uses": [
+        "Seat audiences",
+        "Provide circulation and escape routes",
+        "Provide sightlines to the stage",
+        "Accommodate wheelchair users and accompanying persons"
+      ],
+      "furniture_equipment": [
+        "Fixed seats",
+        "Staggered folding seats",
+        "Loose chairs",
+        "Wheelchair spaces"
+      ],
+      "dimensions": [
+        {
+          "label": "Seat width",
+          "value": 90.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Seating diagram; minimum indicated width.",
+          "status": "uncertain",
+          "ocr_raw": "≥ 90"
+        },
+        {
+          "label": "Preferred seat width",
+          "value": 96.0,
+          "value_max": 100.0,
+          "unit": "cm",
+          "context": "Seating diagram; preferred width range.",
+          "status": "uncertain",
+          "ocr_raw": "better 96–100"
+        },
+        {
+          "label": "Seat row spacing",
+          "value": 50.0,
+          "value_max": 56.0,
+          "unit": "cm",
+          "context": "Seating diagram; better row spacing shown as 54–56 cm, with a 50 cm minimum indicated.",
+          "status": "uncertain",
+          "ocr_raw": "better 54–56; ≥ 50"
+        },
+        {
+          "label": "Staggered seat spacing",
+          "value": 40.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Diagram of staggered folding seats; minimum shown.",
+          "status": "uncertain",
+          "ocr_raw": "≥ 40"
+        },
+        {
+          "label": "Audience floor area per seated spectator",
+          "value": 0.5,
+          "value_max": null,
+          "unit": "m²/spectator",
+          "context": "Text gives an assumed minimum for seated spectators.",
+          "status": "uncertain",
+          "ocr_raw": "For seated spectators, assume ≥0.5 m²/spectator."
+        },
+        {
+          "label": "Seat area from seat width × row spacing",
+          "value": 0.45,
+          "value_max": null,
+          "unit": "m²/seat",
+          "context": "Displayed calculation of seat area, before the additional allowance.",
+          "status": "uncertain",
+          "ocr_raw": "≥0.45 m² /seat"
+        },
+        {
+          "label": "Additional seat area allowance",
+          "value": 0.05,
+          "value_max": null,
+          "unit": "m²/seat",
+          "context": "Displayed calculation adds ≥0.5 × ≥0.9 to the base area.",
+          "status": "uncertain",
+          "ocr_raw": "add ≥0.5 × ≥0.9 = 0.05 /seat"
+        },
+        {
+          "label": "Resulting seat area",
+          "value": 0.5,
+          "value_max": null,
+          "unit": "m²/seat",
+          "context": "Displayed total of base seat area and additional allowance.",
+          "status": "uncertain",
+          "ocr_raw": "≥0.50 → ❶"
+        },
+        {
+          "label": "Length of seat row per aisle",
+          "value": 10.0,
+          "value_max": null,
+          "unit": "places",
+          "context": "Text specifies 10 places per aisle; diagram also labels row width 20 places across two aisles.",
+          "status": "uncertain",
+          "ocr_raw": "Length of the rows of seats per aisle: 10 places"
+        },
+        {
+          "label": "Seat places per aisle with side exit door",
+          "value": 25.0,
+          "value_max": null,
+          "unit": "places",
+          "context": "Permitted per aisle where a 1.2 m exit door is available at the side per 3 or 4 rows.",
+          "status": "uncertain",
+          "ocr_raw": "25 places per aisle if an exit door of 1.2 m width is available at the side per 3 or 4 rows"
+        },
+        {
+          "label": "Side exit door width",
+          "value": 1.2,
+          "value_max": null,
+          "unit": "m",
+          "context": "Exit door width associated with 25 places per aisle.",
+          "status": "uncertain",
+          "ocr_raw": "exit door of 1.2 m width"
+        },
+        {
+          "label": "Rows served by side exit door",
+          "value": 3.0,
+          "value_max": 4.0,
+          "unit": "rows",
+          "context": "Rows associated with the side exit door provision.",
+          "status": "uncertain",
+          "ocr_raw": "per 3 or 4 rows"
+        },
+        {
+          "label": "Exit and escape-route width",
+          "value": 1.2,
+          "value_max": null,
+          "unit": "m per 200 people",
+          "context": "Text's stated width provision for exits and escape routes.",
+          "status": "uncertain",
+          "ocr_raw": "Exits, escape routes 1.2 m wide per 200 people"
+        },
+        {
+          "label": "Wheelchair-accessible seats",
+          "value": 1.0,
+          "value_max": null,
+          "unit": "percent of seats",
+          "context": "At least two seats; where possible, connected to a seat for an accompanying person.",
+          "status": "uncertain",
+          "ocr_raw": "1% of the seats (at least two) must be accessible for wheelchair users"
+        },
+        {
+          "label": "Box floor area per person",
+          "value": 0.65,
+          "value_max": null,
+          "unit": "m²/person",
+          "context": "Floor area allowance for people in boxes.",
+          "status": "uncertain",
+          "ocr_raw": "per person ≥0.65 m² floor area"
+        },
+        {
+          "label": "Playhouse auditorium volume",
+          "value": 4.0,
+          "value_max": 5.0,
+          "unit": "m³/spectator",
+          "context": "Approximate volume determined by acoustic requirements.",
+          "status": "uncertain",
+          "ocr_raw": "playhouse approx. 4–5 m³/spectator"
+        },
+        {
+          "label": "Opera house auditorium volume",
+          "value": 6.0,
+          "value_max": 8.0,
+          "unit": "m³/spectator",
+          "context": "Approximate volume determined by acoustic requirements.",
+          "status": "uncertain",
+          "ocr_raw": "opera house approx. 6–8 m³/spectator"
+        },
+        {
+          "label": "Viewing angle without head movement",
+          "value": 30.0,
+          "value_max": null,
+          "unit": "degrees",
+          "context": "Good view with light eye movements.",
+          "status": "uncertain",
+          "ocr_raw": "approx. 30°"
+        },
+        {
+          "label": "Viewing angle with slight head movements",
+          "value": 60.0,
+          "value_max": null,
+          "unit": "degrees",
+          "context": "Good view with slight head movements and light eye movements.",
+          "status": "uncertain",
+          "ocr_raw": "approx. 60°"
+        },
+        {
+          "label": "Maximum awareness angle without head movement",
+          "value": 110.0,
+          "value_max": null,
+          "unit": "degrees",
+          "context": "Maximum awareness angle stated for a view without head movement.",
+          "status": "uncertain",
+          "ocr_raw": "approx. 110°"
+        },
+        {
+          "label": "Viewing angle with full head and shoulder movement",
+          "value": 360.0,
+          "value_max": null,
+          "unit": "degrees",
+          "context": "Angle of view possible with full head and shoulder movement.",
+          "status": "uncertain",
+          "ocr_raw": "angle of view of 360°"
+        },
+        {
+          "label": "Furthest row distance, playhouse",
+          "value": 24.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Maximum distance from the start of the stage; associated with facial-expression recognition.",
+          "status": "uncertain",
+          "ocr_raw": "playhouse, max. 24 m"
+        },
+        {
+          "label": "Furthest row distance, opera",
+          "value": 32.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Maximum distance from the start of the stage; large movements remain recognisable.",
+          "status": "uncertain",
+          "ocr_raw": "opera, 32 m"
+        },
+        {
+          "label": "Proscenium width at 24 m",
+          "value": 13.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Diagram labels proscenium width at auditorium distance 24 m.",
+          "status": "uncertain",
+          "ocr_raw": "at 24 m ≈ 13 m"
+        },
+        {
+          "label": "Proscenium width at 32 m",
+          "value": 17.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Diagram labels proscenium width at auditorium distance 32 m.",
+          "status": "uncertain",
+          "ocr_raw": "at 32 m ≈ 17 m"
+        },
+        {
+          "label": "Box width",
+          "value": 2.4,
+          "value_max": null,
+          "unit": "m",
+          "context": "Dimension shown on the box plan diagram.",
+          "status": "uncertain",
+          "ocr_raw": "2.4"
+        },
+        {
+          "label": "Box depth",
+          "value": 3.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Dimension shown on the box plan diagram.",
+          "status": "uncertain",
+          "ocr_raw": "3.0"
+        },
+        {
+          "label": "Box dimension",
+          "value": 2.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Dimension shown above the box plan diagram.",
+          "status": "uncertain",
+          "ocr_raw": "2.0"
+        },
+        {
+          "label": "Traditional auditorium distance",
+          "value": 24.0,
+          "value_max": 32.0,
+          "unit": "m",
+          "context": "Diagram labels auditorium distance 24(32) m for playhouse/opera.",
+          "status": "uncertain",
+          "ocr_raw": "24(32)m auditorium"
+        }
+      ],
+      "figure_refs": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10"
+      ],
+      "cross_refs": [
+        "p. 221"
+      ],
+      "keywords": [
+        "theatre auditorium",
+        "seating",
+        "audience capacity",
+        "aisles",
+        "escape routes",
+        "wheelchair access",
+        "sightlines",
+        "acoustics",
+        "proscenium",
+        "auditorium proportions"
+      ],
+      "tags_architectural": [
+        "accessibility",
+        "circulation",
+        "ergonomics",
+        "anthropometry",
+        "clearance",
+        "safety",
+        "spatial_proportion"
+      ],
+      "confidence": 0.91
+    }
+  ]
+}

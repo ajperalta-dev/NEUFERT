@@ -1,0 +1,141 @@
+{
+  "fichas": [
+    {
+      "id": "4122fb96e4bd1976-508-vision-0",
+      "pdf_page": 508,
+      "book_page": 495,
+      "chapter": "BUILDING SERVICES",
+      "section": "Daylight",
+      "title": "Daylight — Window Lighting",
+      "summary": "Explains daylight assessment for window-lit interiors using illuminance and daylight factors. It describes the daylight factor as the ratio of interior to simultaneous exterior illuminance, outlines factors affecting daylight distribution, and gives reference-plane conventions, minimum daylight-factor guidance, and window-width recommendations. The page also illustrates seasonal exterior illuminance, daylight-factor distributions, and the effect of adjacent buildings.",
+      "building_type": "Buildings with window lighting",
+      "spaces": [
+        "Interior rooms",
+        "Residential rooms",
+        "Workrooms"
+      ],
+      "uses": [
+        "Assess daylight quality and distribution",
+        "Determine daylight factors and uniformity",
+        "Set reference points for horizontal illuminance",
+        "Inform window sizing and visual connections to the outside"
+      ],
+      "furniture_equipment": [
+        "Windows",
+        "Glazing",
+        "Reference plane"
+      ],
+      "dimensions": [
+        {
+          "label": "Exterior illuminance example, clouded sky",
+          "value": 5000.0,
+          "value_max": 20000.0,
+          "unit": "lx",
+          "context": "Exterior horizontal illuminance varies with time of year; the text gives 5000 lx in winter and up to 20,000 lx in summer.",
+          "status": "verified",
+          "ocr_raw": "The outside illuminance of the clouded sky varies\naccording to the time of day and year: 5000 lx in the winter,\nand up to 20,000 lx in the summer"
+        },
+        {
+          "label": "Interior illuminance example",
+          "value": 500.0,
+          "value_max": null,
+          "unit": "lx",
+          "context": "Example paired with exterior illuminance of 5000 lx to illustrate a daylight factor of 10%.",
+          "status": "verified",
+          "ocr_raw": "outside illuminance\n5000 lx and inside illuminance 500 lx gives D = 10%."
+        },
+        {
+          "label": "Daylight factor example",
+          "value": 10.0,
+          "value_max": null,
+          "unit": "%",
+          "context": "Example for simultaneous exterior illuminance of 5000 lx and interior illuminance of 500 lx.",
+          "status": "verified",
+          "ocr_raw": "outside illuminance\n5000 lx and inside illuminance 500 lx gives D = 10%."
+        },
+        {
+          "label": "Windowsill level",
+          "value": 0.85,
+          "value_max": null,
+          "unit": "m",
+          "context": "Assumed windowsill level for the reference plane used for horizontal illuminance.",
+          "status": "verified",
+          "ocr_raw": "The level\nof the windowsill is assumed at 0.85 m"
+        },
+        {
+          "label": "Distance to surrounding room surfaces",
+          "value": 1.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Reference-plane convention for window lighting.",
+          "status": "verified",
+          "ocr_raw": "the distance\nto the surrounding surfaces of the room is 1 m."
+        },
+        {
+          "label": "Minimum daylight factor in residential rooms",
+          "value": 1.0,
+          "value_max": null,
+          "unit": "%",
+          "context": "Minimum Dmin; reference point is the middle of the room.",
+          "status": "verified",
+          "ocr_raw": "wlm 2\n\n175\n\n20\nKlx\n\n150\n\n18\n16\n\n125\n\nE,\n\n25\n\n·~~G~~\nro\n\n/'; /\n\nr;\n\n12\n\n1'-- 1\"'. ~\n\ng7and17\n\nlfj iL v rA1\n\n1 10\n\n50\n\nWindow Lighting\n\nIf/ ~~~~Oand14\n\n14\n\nt\n\nDAYLIGHT\n\n__W-12\n\n:?'~N_1and/3\n\n\\-;:? V; I /\n6v\n\n,\\;\n\n1\"\"\"'\n\n~ ~ \\\n\nv\n\n-\"' ~ l-....__\n\"\n\"\n\"-...\n\n['_ 1'\\ 1\\\nv 1/ 1/ / v~ '\nI /\n~ I\" \\ \\\n0./\nJan Feb Mar Apr May Jun Jul\n\nAug Sep Oct Nov Dec\n\n0 Horizontal illuminance Ea under a clouded sky at 51 \"N, depending on time of year and\nday. E9 = horizontal irradiance\n\nEi\nD%\n\n·-·-T--·-·\n\np\n\n0.85\n\n:·:·:·:·:·:·:·:·:·:·:·:·:·:·:·:·:·:·:·:·:·:·:·:·:·:·:·:·:·:·:·:·:·:·:·:·:·:·:·:·:·:·:·:·:·:·:·:·:·:·:·:·:·:·:·:·:·:·:·:·:·:·:·:·:·:·:·:·:·:·:·:·:·:·:·:·:·:·:·:·:·:·:·:·:·:·:·:·:·:·:·:·:·:·:·:·:·:·:·:·:·:·:·:·:·:·:·:·:·:·:·:·\n\nf) Factors influencing daylight in interiors, e.g. at point P\n\nV2\n\n0 Daylight factor D% with reference plane e Daylight distribution D% on a plan with\nin section\n\ne\n\ntwo side windows\n\nDetermination\n\nAF\n\nAverage daylight factor Dm -influential\nfactors\n\n'tXUO Ofc\n\nDaylight inside buildings with window lighting\nThe daylight inside buildings can be evaluated according\nto the following quality criteria and scales: illuminance\nand brightness; uniformity, Dmin/Dma~; reflection; colour\nrendering; glare; room lines, shadowing; view out.\nBasics\nThe evaluation of the daylight inside buildings is always based\non the illuminance of the clouded sky (i.e. diffuse radiation).\nDaylight entering an interior through a window at the side is\nmeasured by the daylight factor D. This describes the ratio of\nthe interior illuminance (Ei) to the illuminance outside at the\nsame time (Ea): D = Ei : Ea x 100%. The daylight in interiors\nis always given in per cent, for example outside illuminance\n5000 lx and inside illuminance 500 lx gives D = 10%. The\ndaylight factor is always constant, and the interior illuminance\nalters only in relationship to the outside illuminance at the\nsame time. The outside illuminance of the clouded sky varies\naccording to the time of day and year: 5000 lx in the winter,\nand up to 20,000 lx in the summer~ 0.\nDaylight distribution in interiors\nThe daylight factor at a point (P) is a combination of many\ninfluential factors: D = (DH + DV +DR) x 1: x k 1 x k2 x k3 ~f).\nwhere:\n\n1. DH =component of light from sky- daylight incidence < a 0\n2. DV =building component\n3. DR= interior reflection component\n4. 1: = light transmittance of glazing\n5. k 1 = glazing bars and window construction component\n6. k2 =glazing bars\n7. k 3 = angle of incidence of daylight\n8. window position and size~ f).\nThe reference plane for the horizontal illuminance of\nwindow lighting is provided in DIN 5034 ~ f). The level\nof the windowsill is assumed at 0.85 m and the distance\nto the surrounding surfaces of the room is 1 m. On this\nreference plane, the points (EP) to be named for the\nhorizontal illuminance are determined. The corresponding\n(to be determined) daylight factors can then be displayed\nas a curve of daylight factors ~ 8 +\nThe shape of this\ncurve in section and on plan provides information about\nthe horizontal illuminance on the reference plane (at the\ncorresponding points), and can be used to determine Dmin\nand Dmax (uniformity). The daylight factor curve also supplies\ninformation about the daily lighting curve in the room.\n\ne.\n\nDm= A,;'x(1 xcrm) o\nAF = Window area\n\nAR = all room areas\n'tF =transmittance of windows\n\na\"= angle of incidence of daylight\ncrm = average reflectivity of room surfaces\n\n.crm (0.5) =light surfaces\ncrm (0.2) = dark surfaces\n\nRequired daylight factors D%\nThe applicable regulations for this are in DIN 5034. While this\ngives exact details of the minimum requirements for daylight\ndistribution in interiors and workrooms, the distribution of\ndaylight is not precisely defined in the Workplace Guidelines:\n- Dmin ~ 1% in residential rooms: reference point- middle\nof the room, windows in workrooms: reference point=\ndeepest point in room\n- Dmin ~ 2% in workrooms -with windows on two sides\n- G = uniformity: DmiriDmax ~ 1:6 indirect light\n- Dm =average daylight factor. It gives information about\nthe average daylight lighting in the room ~\n\ne.\n\nAngle to adjacent 0\"\nbuildings a =\n15\"\n30\"\n\n45\"\n\n0 65%\n0 65-100%\nllll n.a.\n\nThe minimum window width as a percentage, before finishings, should not be less than\n65% of the room width. For larger room depths and a wide angle to adjacent buildings,\neven a window width of 100% may not be sufficient.\n\nView out and visual connections\nVisual contacts from inside to outside are a necessary part\nof life. The standard therefore gives tables of minimum\nwindow widths depending on room depths, room widths\nand building angles: window width should be ~65% of room\nwidth~ 8 ~ DIN 5034, state building regulations.\n\n495\n\nDAYLIGHT\nPhysical basics\nPosition of the\nsun\nInsolation\nShadow\nRadiation energy\nWindow lighting\nRooflighting\nQuality criteria\nDirecting sunlight\nShading\nBS 8206-2\nDIN 5034\nLBO\n\n\f"
+        },
+        {
+          "label": "Minimum daylight factor in workrooms with windows on two sides",
+          "value": 2.0,
+          "value_max": null,
+          "unit": "%",
+          "context": "Minimum Dmin for workrooms with windows on two sides.",
+          "status": "verified",
+          "ocr_raw": "wlm 2\n\n175\n\n20\nKlx\n\n150\n\n18\n16\n\n125\n\nE,\n\n25\n\n·~~G~~\nro\n\n/'; /\n\nr;\n\n12\n\n1'-- 1\"'. ~\n\ng7and17\n\nlfj iL v rA1\n\n1 10\n\n50\n\nWindow Lighting\n\nIf/ ~~~~Oand14\n\n14\n\nt\n\nDAYLIGHT\n\n__W-12\n\n:?'~N_1and/3\n\n\\-;:? V; I /\n6v\n\n,\\;\n\n1\"\"\"'\n\n~ ~ \\\n\nv\n\n-\"' ~ l-....__\n\"\n\"\n\"-...\n\n['_ 1'\\ 1\\\nv 1/ 1/ / v~ '\nI /\n~ I\" \\ \\\n0./\nJan Feb Mar Apr May Jun Jul\n\nAug Sep Oct Nov Dec\n\n0 Horizontal illuminance Ea under a clouded sky at 51 \"N, depending on time of year and\nday. E9 = horizontal irradiance\n\nEi\nD%\n\n·-·-T--·-·\n\np\n\n0.85\n\n:·:·:·:·:·:·:·:·:·:·:·:·:·:·:·:·:·:·:·:·:·:·:·:·:·:·:·:·:·:·:·:·:·:·:·:·:·:·:·:·:·:·:·:·:·:·:·:·:·:·:·:·:·:·:·:·:·:·:·:·:·:·:·:·:·:·:·:·:·:·:·:·:·:·:·:·:·:·:·:·:·:·:·:·:·:·:·:·:·:·:·:·:·:·:·:·:·:·:·:·:·:·:·:·:·:·:·:·:·:·:·:·\n\nf) Factors influencing daylight in interiors, e.g. at point P\n\nV2\n\n0 Daylight factor D% with reference plane e Daylight distribution D% on a plan with\nin section\n\ne\n\ntwo side windows\n\nDetermination\n\nAF\n\nAverage daylight factor Dm -influential\nfactors\n\n'tXUO Ofc\n\nDaylight inside buildings with window lighting\nThe daylight inside buildings can be evaluated according\nto the following quality criteria and scales: illuminance\nand brightness; uniformity, Dmin/Dma~; reflection; colour\nrendering; glare; room lines, shadowing; view out.\nBasics\nThe evaluation of the daylight inside buildings is always based\non the illuminance of the clouded sky (i.e. diffuse radiation).\nDaylight entering an interior through a window at the side is\nmeasured by the daylight factor D. This describes the ratio of\nthe interior illuminance (Ei) to the illuminance outside at the\nsame time (Ea): D = Ei : Ea x 100%. The daylight in interiors\nis always given in per cent, for example outside illuminance\n5000 lx and inside illuminance 500 lx gives D = 10%. The\ndaylight factor is always constant, and the interior illuminance\nalters only in relationship to the outside illuminance at the\nsame time. The outside illuminance of the clouded sky varies\naccording to the time of day and year: 5000 lx in the winter,\nand up to 20,000 lx in the summer~ 0.\nDaylight distribution in interiors\nThe daylight factor at a point (P) is a combination of many\ninfluential factors: D = (DH + DV +DR) x 1: x k 1 x k2 x k3 ~f).\nwhere:\n\n1. DH =component of light from sky- daylight incidence < a 0\n2. DV =building component\n3. DR= interior reflection component\n4. 1: = light transmittance of glazing\n5. k 1 = glazing bars and window construction component\n6. k2 =glazing bars\n7. k 3 = angle of incidence of daylight\n8. window position and size~ f).\nThe reference plane for the horizontal illuminance of\nwindow lighting is provided in DIN 5034 ~ f). The level\nof the windowsill is assumed at 0.85 m and the distance\nto the surrounding surfaces of the room is 1 m. On this\nreference plane, the points (EP) to be named for the\nhorizontal illuminance are determined. The corresponding\n(to be determined) daylight factors can then be displayed\nas a curve of daylight factors ~ 8 +\nThe shape of this\ncurve in section and on plan provides information about\nthe horizontal illuminance on the reference plane (at the\ncorresponding points), and can be used to determine Dmin\nand Dmax (uniformity). The daylight factor curve also supplies\ninformation about the daily lighting curve in the room.\n\ne.\n\nDm= A,;'x(1 xcrm) o\nAF = Window area\n\nAR = all room areas\n'tF =transmittance of windows\n\na\"= angle of incidence of daylight\ncrm = average reflectivity of room surfaces\n\n.crm (0.5) =light surfaces\ncrm (0.2) = dark surfaces\n\nRequired daylight factors D%\nThe applicable regulations for this are in DIN 5034. While this\ngives exact details of the minimum requirements for daylight\ndistribution in interiors and workrooms, the distribution of\ndaylight is not precisely defined in the Workplace Guidelines:\n- Dmin ~ 1% in residential rooms: reference point- middle\nof the room, windows in workrooms: reference point=\ndeepest point in room\n- Dmin ~ 2% in workrooms -with windows on two sides\n- G = uniformity: DmiriDmax ~ 1:6 indirect light\n- Dm =average daylight factor. It gives information about\nthe average daylight lighting in the room ~\n\ne.\n\nAngle to adjacent 0\"\nbuildings a =\n15\"\n30\"\n\n45\"\n\n0 65%\n0 65-100%\nllll n.a.\n\nThe minimum window width as a percentage, before finishings, should not be less than\n65% of the room width. For larger room depths and a wide angle to adjacent buildings,\neven a window width of 100% may not be sufficient.\n\nView out and visual connections\nVisual contacts from inside to outside are a necessary part\nof life. The standard therefore gives tables of minimum\nwindow widths depending on room depths, room widths\nand building angles: window width should be ~65% of room\nwidth~ 8 ~ DIN 5034, state building regulations.\n\n495\n\nDAYLIGHT\nPhysical basics\nPosition of the\nsun\nInsolation\nShadow\nRadiation energy\nWindow lighting\nRooflighting\nQuality criteria\nDirecting sunlight\nShading\nBS 8206-2\nDIN 5034\nLBO\n\n\f"
+        },
+        {
+          "label": "Daylight uniformity ratio",
+          "value": 0.16666666666666666,
+          "value_max": null,
+          "unit": "ratio",
+          "context": "Printed as Dmin/Dmax ≥ 1:6 for indirect light; the complete ratio is 1:6.",
+          "status": "corrected",
+          "ocr_raw": "wlm 2\n\n175\n\n20\nKlx\n\n150\n\n18\n16\n\n125\n\nE,\n\n25\n\n·~~G~~\nro\n\n/'; /\n\nr;\n\n12\n\n1'-- 1\"'. ~\n\ng7and17\n\nlfj iL v rA1\n\n1 10\n\n50\n\nWindow Lighting\n\nIf/ ~~~~Oand14\n\n14\n\nt\n\nDAYLIGHT\n\n__W-12\n\n:?'~N_1and/3\n\n\\-;:? V; I /\n6v\n\n,\\;\n\n1\"\"\"'\n\n~ ~ \\\n\nv\n\n-\"' ~ l-....__\n\"\n\"\n\"-...\n\n['_ 1'\\ 1\\\nv 1/ 1/ / v~ '\nI /\n~ I\" \\ \\\n0./\nJan Feb Mar Apr May Jun Jul\n\nAug Sep Oct Nov Dec\n\n0 Horizontal illuminance Ea under a clouded sky at 51 \"N, depending on time of year and\nday. E9 = horizontal irradiance\n\nEi\nD%\n\n·-·-T--·-·\n\np\n\n0.85\n\n:·:·:·:·:·:·:·:·:·:·:·:·:·:·:·:·:·:·:·:·:·:·:·:·:·:·:·:·:·:·:·:·:·:·:·:·:·:·:·:·:·:·:·:·:·:·:·:·:·:·:·:·:·:·:·:·:·:·:·:·:·:·:·:·:·:·:·:·:·:·:·:·:·:·:·:·:·:·:·:·:·:·:·:·:·:·:·:·:·:·:·:·:·:·:·:·:·:·:·:·:·:·:·:·:·:·:·:·:·:·:·:·\n\nf) Factors influencing daylight in interiors, e.g. at point P\n\nV2\n\n0 Daylight factor D% with reference plane e Daylight distribution D% on a plan with\nin section\n\ne\n\ntwo side windows\n\nDetermination\n\nAF\n\nAverage daylight factor Dm -influential\nfactors\n\n'tXUO Ofc\n\nDaylight inside buildings with window lighting\nThe daylight inside buildings can be evaluated according\nto the following quality criteria and scales: illuminance\nand brightness; uniformity, Dmin/Dma~; reflection; colour\nrendering; glare; room lines, shadowing; view out.\nBasics\nThe evaluation of the daylight inside buildings is always based\non the illuminance of the clouded sky (i.e. diffuse radiation).\nDaylight entering an interior through a window at the side is\nmeasured by the daylight factor D. This describes the ratio of\nthe interior illuminance (Ei) to the illuminance outside at the\nsame time (Ea): D = Ei : Ea x 100%. The daylight in interiors\nis always given in per cent, for example outside illuminance\n5000 lx and inside illuminance 500 lx gives D = 10%. The\ndaylight factor is always constant, and the interior illuminance\nalters only in relationship to the outside illuminance at the\nsame time. The outside illuminance of the clouded sky varies\naccording to the time of day and year: 5000 lx in the winter,\nand up to 20,000 lx in the summer~ 0.\nDaylight distribution in interiors\nThe daylight factor at a point (P) is a combination of many\ninfluential factors: D = (DH + DV +DR) x 1: x k 1 x k2 x k3 ~f).\nwhere:\n\n1. DH =component of light from sky- daylight incidence < a 0\n2. DV =building component\n3. DR= interior reflection component\n4. 1: = light transmittance of glazing\n5. k 1 = glazing bars and window construction component\n6. k2 =glazing bars\n7. k 3 = angle of incidence of daylight\n8. window position and size~ f).\nThe reference plane for the horizontal illuminance of\nwindow lighting is provided in DIN 5034 ~ f). The level\nof the windowsill is assumed at 0.85 m and the distance\nto the surrounding surfaces of the room is 1 m. On this\nreference plane, the points (EP) to be named for the\nhorizontal illuminance are determined. The corresponding\n(to be determined) daylight factors can then be displayed\nas a curve of daylight factors ~ 8 +\nThe shape of this\ncurve in section and on plan provides information about\nthe horizontal illuminance on the reference plane (at the\ncorresponding points), and can be used to determine Dmin\nand Dmax (uniformity). The daylight factor curve also supplies\ninformation about the daily lighting curve in the room.\n\ne.\n\nDm= A,;'x(1 xcrm) o\nAF = Window area\n\nAR = all room areas\n'tF =transmittance of windows\n\na\"= angle of incidence of daylight\ncrm = average reflectivity of room surfaces\n\n.crm (0.5) =light surfaces\ncrm (0.2) = dark surfaces\n\nRequired daylight factors D%\nThe applicable regulations for this are in DIN 5034. While this\ngives exact details of the minimum requirements for daylight\ndistribution in interiors and workrooms, the distribution of\ndaylight is not precisely defined in the Workplace Guidelines:\n- Dmin ~ 1% in residential rooms: reference point- middle\nof the room, windows in workrooms: reference point=\ndeepest point in room\n- Dmin ~ 2% in workrooms -with windows on two sides\n- G = uniformity: DmiriDmax ~ 1:6 indirect light\n- Dm =average daylight factor. It gives information about\nthe average daylight lighting in the room ~\n\ne.\n\nAngle to adjacent 0\"\nbuildings a =\n15\"\n30\"\n\n45\"\n\n0 65%\n0 65-100%\nllll n.a.\n\nThe minimum window width as a percentage, before finishings, should not be less than\n65% of the room width. For larger room depths and a wide angle to adjacent buildings,\neven a window width of 100% may not be sufficient.\n\nView out and visual connections\nVisual contacts from inside to outside are a necessary part\nof life. The standard therefore gives tables of minimum\nwindow widths depending on room depths, room widths\nand building angles: window width should be ~65% of room\nwidth~ 8 ~ DIN 5034, state building regulations.\n\n495\n\nDAYLIGHT\nPhysical basics\nPosition of the\nsun\nInsolation\nShadow\nRadiation energy\nWindow lighting\nRooflighting\nQuality criteria\nDirecting sunlight\nShading\nBS 8206-2\nDIN 5034\nLBO\n\n\f"
+        },
+        {
+          "label": "Minimum window width relative to room width",
+          "value": 65.0,
+          "value_max": null,
+          "unit": "%",
+          "context": "Window width before finishings should be at least 65% of room width; the text cautions that even 100% may not suffice in some conditions.",
+          "status": "verified",
+          "ocr_raw": "wlm 2\n\n175\n\n20\nKlx\n\n150\n\n18\n16\n\n125\n\nE,\n\n25\n\n·~~G~~\nro\n\n/'; /\n\nr;\n\n12\n\n1'-- 1\"'. ~\n\ng7and17\n\nlfj iL v rA1\n\n1 10\n\n50\n\nWindow Lighting\n\nIf/ ~~~~Oand14\n\n14\n\nt\n\nDAYLIGHT\n\n__W-12\n\n:?'~N_1and/3\n\n\\-;:? V; I /\n6v\n\n,\\;\n\n1\"\"\"'\n\n~ ~ \\\n\nv\n\n-\"' ~ l-....__\n\"\n\"\n\"-...\n\n['_ 1'\\ 1\\\nv 1/ 1/ / v~ '\nI /\n~ I\" \\ \\\n0./\nJan Feb Mar Apr May Jun Jul\n\nAug Sep Oct Nov Dec\n\n0 Horizontal illuminance Ea under a clouded sky at 51 \"N, depending on time of year and\nday. E9 = horizontal irradiance\n\nEi\nD%\n\n·-·-T--·-·\n\np\n\n0.85\n\n:·:·:·:·:·:·:·:·:·:·:·:·:·:·:·:·:·:·:·:·:·:·:·:·:·:·:·:·:·:·:·:·:·:·:·:·:·:·:·:·:·:·:·:·:·:·:·:·:·:·:·:·:·:·:·:·:·:·:·:·:·:·:·:·:·:·:·:·:·:·:·:·:·:·:·:·:·:·:·:·:·:·:·:·:·:·:·:·:·:·:·:·:·:·:·:·:·:·:·:·:·:·:·:·:·:·:·:·:·:·:·:·\n\nf) Factors influencing daylight in interiors, e.g. at point P\n\nV2\n\n0 Daylight factor D% with reference plane e Daylight distribution D% on a plan with\nin section\n\ne\n\ntwo side windows\n\nDetermination\n\nAF\n\nAverage daylight factor Dm -influential\nfactors\n\n'tXUO Ofc\n\nDaylight inside buildings with window lighting\nThe daylight inside buildings can be evaluated according\nto the following quality criteria and scales: illuminance\nand brightness; uniformity, Dmin/Dma~; reflection; colour\nrendering; glare; room lines, shadowing; view out.\nBasics\nThe evaluation of the daylight inside buildings is always based\non the illuminance of the clouded sky (i.e. diffuse radiation).\nDaylight entering an interior through a window at the side is\nmeasured by the daylight factor D. This describes the ratio of\nthe interior illuminance (Ei) to the illuminance outside at the\nsame time (Ea): D = Ei : Ea x 100%. The daylight in interiors\nis always given in per cent, for example outside illuminance\n5000 lx and inside illuminance 500 lx gives D = 10%. The\ndaylight factor is always constant, and the interior illuminance\nalters only in relationship to the outside illuminance at the\nsame time. The outside illuminance of the clouded sky varies\naccording to the time of day and year: 5000 lx in the winter,\nand up to 20,000 lx in the summer~ 0.\nDaylight distribution in interiors\nThe daylight factor at a point (P) is a combination of many\ninfluential factors: D = (DH + DV +DR) x 1: x k 1 x k2 x k3 ~f).\nwhere:\n\n1. DH =component of light from sky- daylight incidence < a 0\n2. DV =building component\n3. DR= interior reflection component\n4. 1: = light transmittance of glazing\n5. k 1 = glazing bars and window construction component\n6. k2 =glazing bars\n7. k 3 = angle of incidence of daylight\n8. window position and size~ f).\nThe reference plane for the horizontal illuminance of\nwindow lighting is provided in DIN 5034 ~ f). The level\nof the windowsill is assumed at 0.85 m and the distance\nto the surrounding surfaces of the room is 1 m. On this\nreference plane, the points (EP) to be named for the\nhorizontal illuminance are determined. The corresponding\n(to be determined) daylight factors can then be displayed\nas a curve of daylight factors ~ 8 +\nThe shape of this\ncurve in section and on plan provides information about\nthe horizontal illuminance on the reference plane (at the\ncorresponding points), and can be used to determine Dmin\nand Dmax (uniformity). The daylight factor curve also supplies\ninformation about the daily lighting curve in the room.\n\ne.\n\nDm= A,;'x(1 xcrm) o\nAF = Window area\n\nAR = all room areas\n'tF =transmittance of windows\n\na\"= angle of incidence of daylight\ncrm = average reflectivity of room surfaces\n\n.crm (0.5) =light surfaces\ncrm (0.2) = dark surfaces\n\nRequired daylight factors D%\nThe applicable regulations for this are in DIN 5034. While this\ngives exact details of the minimum requirements for daylight\ndistribution in interiors and workrooms, the distribution of\ndaylight is not precisely defined in the Workplace Guidelines:\n- Dmin ~ 1% in residential rooms: reference point- middle\nof the room, windows in workrooms: reference point=\ndeepest point in room\n- Dmin ~ 2% in workrooms -with windows on two sides\n- G = uniformity: DmiriDmax ~ 1:6 indirect light\n- Dm =average daylight factor. It gives information about\nthe average daylight lighting in the room ~\n\ne.\n\nAngle to adjacent 0\"\nbuildings a =\n15\"\n30\"\n\n45\"\n\n0 65%\n0 65-100%\nllll n.a.\n\nThe minimum window width as a percentage, before finishings, should not be less than\n65% of the room width. For larger room depths and a wide angle to adjacent buildings,\neven a window width of 100% may not be sufficient.\n\nView out and visual connections\nVisual contacts from inside to outside are a necessary part\nof life. The standard therefore gives tables of minimum\nwindow widths depending on room depths, room widths\nand building angles: window width should be ~65% of room\nwidth~ 8 ~ DIN 5034, state building regulations.\n\n495\n\nDAYLIGHT\nPhysical basics\nPosition of the\nsun\nInsolation\nShadow\nRadiation energy\nWindow lighting\nRooflighting\nQuality criteria\nDirecting sunlight\nShading\nBS 8206-2\nDIN 5034\nLBO\n\n\f"
+        }
+      ],
+      "figure_refs": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "cross_refs": [
+        "DIN 5034",
+        "BS 8206-2",
+        "LBO"
+      ],
+      "keywords": [
+        "daylight",
+        "window lighting",
+        "daylight factor",
+        "illuminance",
+        "uniformity",
+        "glazing",
+        "window width",
+        "visual connection"
+      ],
+      "tags_architectural": [
+        "daylighting",
+        "spatial_proportion"
+      ],
+      "confidence": 0.95
+    }
+  ]
+}

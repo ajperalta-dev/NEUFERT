@@ -1,0 +1,294 @@
+{
+  "fichas": [
+    {
+      "id": "4122fb96e4bd1976-500-vision-0",
+      "pdf_page": 500,
+      "book_page": 487,
+      "chapter": "BUILDING SERVICES",
+      "section": "Building Physics",
+      "title": "Lightning protection zones and equipotential bonding",
+      "summary": "Explains lightning protection zones from 0A and 0B outside the building to zones 1 and higher inside. Describes equipotential bonding and protection of incoming electrical, IT, telephone, water, gas, and other services. Higher-numbered zones can provide additional protection for sensitive rooms and equipment.",
+      "building_type": "Building",
+      "spaces": [
+        "Exterior protection zones 0A and 0B",
+        "Building protection zone 1",
+        "Interior protection zones 2 and higher",
+        "Central server room",
+        "Equipment area"
+      ],
+      "uses": [
+        "Categorize areas by exposure to direct lightning strikes and lightning discharge fields",
+        "Bond incoming services to the lightning protection system",
+        "Provide additional protection for electronic equipment"
+      ],
+      "furniture_equipment": [
+        "Lightning protection equipotential bonding bar",
+        "Surge protection devices",
+        "Lightning current conductors",
+        "Foundation earthing electrode",
+        "Earthing system",
+        "Steel reinforcement"
+      ],
+      "dimensions": [],
+      "figure_refs": [
+        "1 Principle of lightning protection equipotential bonding",
+        "6 Categorisation of a building into lightning protection zones"
+      ],
+      "cross_refs": [
+        "LPZ → 6"
+      ],
+      "keywords": [
+        "lightning protection",
+        "lightning protection zones",
+        "equipotential bonding",
+        "surge protection",
+        "earthing",
+        "lightning current"
+      ],
+      "tags_architectural": [
+        "safety"
+      ],
+      "confidence": 0.96
+    },
+    {
+      "id": "4122fb96e4bd1976-500-vision-1",
+      "pdf_page": 500,
+      "book_page": 487,
+      "chapter": "BUILDING SERVICES",
+      "section": "Building Physics",
+      "title": "Lightning protection design methods and classes",
+      "summary": "Presents lightning protection design using the lightning sphere, protection angle, and mesh process. A graph relates protection angle to height and protection class. The accompanying table lists protection-class effectiveness, lightning-sphere radius, mesh width, typical down-conductor spacing, and peak lightning current.",
+      "building_type": "Building",
+      "spaces": [
+        "Roof",
+        "Building exterior",
+        "Protected area"
+      ],
+      "uses": [
+        "Design lightning protection coverage using a lightning sphere, protection angle, or mesh process",
+        "Select lightning protection class and associated system parameters"
+      ],
+      "furniture_equipment": [
+        "Capture rod",
+        "Capture cable",
+        "Down conductor",
+        "Earthing system",
+        "Lightning sphere"
+      ],
+      "dimensions": [
+        {
+          "label": "Lightning sphere radius",
+          "value": 20.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Protection class I",
+          "status": "uncertain",
+          "ocr_raw": "I 98% 20 m"
+        },
+        {
+          "label": "Lightning sphere radius",
+          "value": 30.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Protection class II",
+          "status": "uncertain",
+          "ocr_raw": "II 95% 30 m"
+        },
+        {
+          "label": "Lightning sphere radius",
+          "value": 45.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Protection class III",
+          "status": "uncertain",
+          "ocr_raw": "III 90% 45 m"
+        },
+        {
+          "label": "Lightning sphere radius",
+          "value": 60.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Protection class IV",
+          "status": "uncertain",
+          "ocr_raw": "IV 80% 60 m"
+        },
+        {
+          "label": "Effectiveness",
+          "value": 98.0,
+          "value_max": null,
+          "unit": "%",
+          "context": "Protection class I",
+          "status": "uncertain",
+          "ocr_raw": "98%"
+        },
+        {
+          "label": "Effectiveness",
+          "value": 95.0,
+          "value_max": null,
+          "unit": "%",
+          "context": "Protection class II",
+          "status": "uncertain",
+          "ocr_raw": "95%"
+        },
+        {
+          "label": "Effectiveness",
+          "value": 90.0,
+          "value_max": null,
+          "unit": "%",
+          "context": "Protection class III",
+          "status": "uncertain",
+          "ocr_raw": "90%"
+        },
+        {
+          "label": "Effectiveness",
+          "value": 80.0,
+          "value_max": null,
+          "unit": "%",
+          "context": "Protection class IV",
+          "status": "uncertain",
+          "ocr_raw": "80%"
+        },
+        {
+          "label": "Mesh width",
+          "value": 5.0,
+          "value_max": 5.0,
+          "unit": "m",
+          "context": "Protection class I; mesh dimensions",
+          "status": "uncertain",
+          "ocr_raw": "5 m × 5 m"
+        },
+        {
+          "label": "Mesh width",
+          "value": 10.0,
+          "value_max": 10.0,
+          "unit": "m",
+          "context": "Protection class II; mesh dimensions",
+          "status": "uncertain",
+          "ocr_raw": "10 m × 10 m"
+        },
+        {
+          "label": "Mesh width",
+          "value": 15.0,
+          "value_max": 15.0,
+          "unit": "m",
+          "context": "Protection class III; mesh dimensions",
+          "status": "uncertain",
+          "ocr_raw": "15 m × 15 m"
+        },
+        {
+          "label": "Mesh width",
+          "value": 20.0,
+          "value_max": 20.0,
+          "unit": "m",
+          "context": "Protection class IV; mesh dimensions",
+          "status": "uncertain",
+          "ocr_raw": "20 m × 20 m"
+        },
+        {
+          "label": "Typical down-conductor spacing",
+          "value": 10.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Protection class I",
+          "status": "uncertain",
+          "ocr_raw": "10 m"
+        },
+        {
+          "label": "Typical down-conductor spacing",
+          "value": 15.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Protection class II",
+          "status": "uncertain",
+          "ocr_raw": "15 m"
+        },
+        {
+          "label": "Typical down-conductor spacing",
+          "value": 20.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Protection class III",
+          "status": "uncertain",
+          "ocr_raw": "20 m"
+        },
+        {
+          "label": "Typical down-conductor spacing",
+          "value": 25.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Protection class IV",
+          "status": "uncertain",
+          "ocr_raw": "25 m"
+        },
+        {
+          "label": "Peak lightning current",
+          "value": 200.0,
+          "value_max": null,
+          "unit": "kA",
+          "context": "Listed in the protection-classes table; class-row association is unclear",
+          "status": "uncertain",
+          "ocr_raw": "200 kA"
+        },
+        {
+          "label": "Peak lightning current",
+          "value": 150.0,
+          "value_max": null,
+          "unit": "kA",
+          "context": "Listed in the protection-classes table; class-row association is unclear",
+          "status": "uncertain",
+          "ocr_raw": "150 kA"
+        },
+        {
+          "label": "Peak lightning current",
+          "value": 100.0,
+          "value_max": null,
+          "unit": "kA",
+          "context": "Listed in the protection-classes table; class-row association is unclear",
+          "status": "uncertain",
+          "ocr_raw": "100 kA"
+        },
+        {
+          "label": "Height axis",
+          "value": 60.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Protection-angle graph; horizontal axis extends to 60 m",
+          "status": "uncertain",
+          "ocr_raw": "60 Height (m)"
+        },
+        {
+          "label": "Lightning sphere radius",
+          "value": 20.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Label in the building categorisation diagram",
+          "status": "uncertain",
+          "ocr_raw": "Lightning sphere radius 20 m"
+        }
+      ],
+      "figure_refs": [
+        "2 Protection angle depending on the lightning protection class and the height above the area to be protected",
+        "3 Procedure for designing lightning protection systems: lightning sphere, protection angle and mesh process",
+        "4 Roofs protected by lightning rod",
+        "5 Lightning protection classes",
+        "6 Categorisation of a building into lightning protection zones"
+      ],
+      "cross_refs": [
+        "→ 2"
+      ],
+      "keywords": [
+        "lightning sphere",
+        "protection angle",
+        "mesh process",
+        "protection class",
+        "capture rod",
+        "capture cable",
+        "down conductor"
+      ],
+      "tags_architectural": [
+        "safety"
+      ],
+      "confidence": 0.89
+    }
+  ]
+}

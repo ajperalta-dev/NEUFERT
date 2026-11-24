@@ -1,0 +1,253 @@
+{
+  "fichas": [
+    {
+      "id": "4122fb96e4bd1976-455-vision-0",
+      "pdf_page": 455,
+      "book_page": 442,
+      "chapter": "EXTERNAL WORKS",
+      "section": "Ponds and Pools",
+      "title": "Garden Pond",
+      "summary": "Guidance for siting and planting garden ponds, establishing biological balance, selecting pond size and depth zones, excavating and lining the pond, and protecting aquatic life in winter. Diagrams show stepped planting, a prefabricated pond, excavation, edge construction, and a stream cross-section.",
+      "building_type": "Garden pond",
+      "spaces": [
+        "Garden pond",
+        "Margin and bog zones",
+        "Shallow-water zone",
+        "Deep-water zone",
+        "Bank and planting zones",
+        "Swimming zone"
+      ],
+      "uses": [
+        "Create a habitat for aquatic plants, insects, newts, and other wildlife",
+        "Provide a naturalistic garden water feature",
+        "Support overwintering aquatic wildlife"
+      ],
+      "furniture_equipment": [
+        "Pond liner",
+        "Planting baskets or containers",
+        "Paving stones or slabs",
+        "Gravel",
+        "Sand",
+        "Fleece",
+        "Capillary barrier plastic pipe",
+        "Straw bundles or aeration stones"
+      ],
+      "dimensions": [
+        {
+          "label": "Daily sunlight for most bog and water plants",
+          "value": 4.0,
+          "value_max": 6.0,
+          "unit": "hours per day",
+          "context": "Approximate sunlight requirement for most bog and water plants.",
+          "status": "uncertain",
+          "ocr_raw": "approx. 4-6 hours per day"
+        },
+        {
+          "label": "Time to biological equilibrium",
+          "value": 6.0,
+          "value_max": 8.0,
+          "unit": "weeks",
+          "context": "Approximate time after suitable quantities of plants, water, and sand are provided; water should then become clear.",
+          "status": "uncertain",
+          "ocr_raw": "after about 6-8 weeks"
+        },
+        {
+          "label": "Water quantity per water surface area",
+          "value": 400.0,
+          "value_max": null,
+          "unit": "litres per m2",
+          "context": "Approximate relationship of water quantity to water surface area.",
+          "status": "uncertain",
+          "ocr_raw": "about 400 litres per m2 of water surface"
+        },
+        {
+          "label": "Tall plant spacing",
+          "value": 30.0,
+          "value_max": 40.0,
+          "unit": "cm",
+          "context": "Spacing for tall plants planted individually at half-height in the water garden.",
+          "status": "uncertain",
+          "ocr_raw": "with a spacing of 30-40 em"
+        },
+        {
+          "label": "Low plant spacing",
+          "value": 20.0,
+          "value_max": 30.0,
+          "unit": "cm",
+          "context": "Plant-to-plant spacing for low plants grouped at the pond edge.",
+          "status": "uncertain",
+          "ocr_raw": "Spacing from plant to plant: 20-30 em."
+        },
+        {
+          "label": "Initial underwater plants",
+          "value": 5.0,
+          "value_max": null,
+          "unit": "plants per m2",
+          "context": "Sufficient quantity for the first planting with underwater plants.",
+          "status": "uncertain",
+          "ocr_raw": "five plants per m2"
+        },
+        {
+          "label": "Ideal pond water area",
+          "value": 20.0,
+          "value_max": 25.0,
+          "unit": "m2",
+          "context": "Stated ideal water area for a garden pond.",
+          "status": "uncertain",
+          "ocr_raw": "Ideal is a water area of 20-25 m2"
+        },
+        {
+          "label": "Small pond water area",
+          "value": 3.0,
+          "value_max": 5.0,
+          "unit": "m2",
+          "context": "Even this water area is said to offer a habitat for many species.",
+          "status": "uncertain",
+          "ocr_raw": "as little as 3-5m 2 offers a habitat"
+        },
+        {
+          "label": "Water-zone depth",
+          "value": 5.0,
+          "value_max": 20.0,
+          "unit": "cm",
+          "context": "Depth of generous water zones; another area at least 80 cm deep is also recommended for overwintering.",
+          "status": "uncertain",
+          "ocr_raw": "Generous water zones 5-20 em deep"
+        },
+        {
+          "label": "Deep overwintering area depth",
+          "value": 80.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "At least this depth is recommended for an additional area where insect larvae and newts can overwinter.",
+          "status": "uncertain",
+          "ocr_raw": "another area at least 80 em deep"
+        },
+        {
+          "label": "Pond-form excavation allowance",
+          "value": 3.0,
+          "value_max": 5.0,
+          "unit": "cm",
+          "context": "Excavate the pond area this much deeper than the pond form.",
+          "status": "uncertain",
+          "ocr_raw": "3–5 cm deeper than the pond form"
+        },
+        {
+          "label": "Sand layer causing settling risk",
+          "value": 5.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "The diagram warns that more than this amount of sand can lead to settling and tilting of the pond.",
+          "status": "uncertain",
+          "ocr_raw": "more than 5cm sand can lead to settling and tilting of the pond"
+        },
+        {
+          "label": "Edge-detail slope",
+          "value": 25.0,
+          "value_max": 30.0,
+          "unit": "degrees",
+          "context": "Slope indicated in the pond edge-detail drawing.",
+          "status": "uncertain",
+          "ocr_raw": "25°–30°"
+        },
+        {
+          "label": "Edge-detail dimension",
+          "value": 50.0,
+          "value_max": 100.0,
+          "unit": "cm",
+          "context": "Dimension shown in the edge-detail drawing; the OCR gives the printed notation as 50–100.",
+          "status": "uncertain",
+          "ocr_raw": "50-100"
+        },
+        {
+          "label": "Edge-detail dimension",
+          "value": 200.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "The drawing labels a dimension with a greater-than-or-equal symbol; OCR reads it as ≥200.",
+          "status": "uncertain",
+          "ocr_raw": "≥200"
+        },
+        {
+          "label": "Edge-detail water depth",
+          "value": 60.0,
+          "value_max": 100.0,
+          "unit": "cm",
+          "context": "Water-depth dimension shown in the edge-detail drawing.",
+          "status": "uncertain",
+          "ocr_raw": "60–100"
+        },
+        {
+          "label": "Edge-detail sand layer",
+          "value": 5.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Sand layer shown in the edge-detail drawing.",
+          "status": "uncertain",
+          "ocr_raw": "Sand 5 cm"
+        },
+        {
+          "label": "Edge-detail substrate layer",
+          "value": 10.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Substrate thickness shown in the edge-detail drawing.",
+          "status": "uncertain",
+          "ocr_raw": "Substrate 10 cm"
+        },
+        {
+          "label": "Heavy-soil swimming-zone slope",
+          "value": 25.0,
+          "value_max": 30.0,
+          "unit": "degrees",
+          "context": "Slope shown above the swimming zone in the small-garden, heavy-soil detail.",
+          "status": "uncertain",
+          "ocr_raw": "25°–30°"
+        },
+        {
+          "label": "Heavy-soil detail dimension",
+          "value": 30.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Dimension marked beside the water level in the small-garden, heavy-soil detail.",
+          "status": "uncertain",
+          "ocr_raw": "30"
+        }
+      ],
+      "figure_refs": [
+        "1 Foil pond planting in a stepped arrangement",
+        "2 Suitably shaped pre-fabricated pond",
+        "3 Excavation of a garden pond",
+        "4 Compacting voids at sides well with excavated earth",
+        "5 In case of frost, use straw bundles or aeration stones",
+        "6 Cantilevered platform",
+        "7 Edge zone",
+        "8 Stream cross-section",
+        "9 Edge detail",
+        "10 In small garden with heavy soil"
+      ],
+      "cross_refs": [
+        "Figures 2–5",
+        "Figures 1–2"
+      ],
+      "keywords": [
+        "garden pond",
+        "pond planting",
+        "water garden",
+        "bog plants",
+        "water plants",
+        "prefabricated pond",
+        "pond excavation",
+        "pond liner",
+        "overwintering",
+        "pond edge"
+      ],
+      "tags_architectural": [
+        "daylighting",
+        "adaptability",
+        "safety"
+      ],
+      "confidence": 0.91
+    }
+  ]
+}

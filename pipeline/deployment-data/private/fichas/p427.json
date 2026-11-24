@@ -1,0 +1,257 @@
+{
+  "fichas": [
+    {
+      "id": "4122fb96e4bd1976-427-vision-0",
+      "pdf_page": 427,
+      "book_page": 414,
+      "chapter": "TRANSPORT",
+      "section": "Railways",
+      "title": "Railway station layouts",
+      "summary": "Stations are classified by track arrangement and the location of the station building. The page illustrates eight arrangements, including through stations, termini, multi-level and island stations, and different passenger access configurations.",
+      "building_type": "Railway station",
+      "spaces": [
+        "Tracks",
+        "Platforms",
+        "Station building",
+        "Passenger access routes"
+      ],
+      "uses": [
+        "Passenger boarding and alighting",
+        "Changing platforms",
+        "Passenger circulation",
+        "Railway operations"
+      ],
+      "furniture_equipment": [],
+      "dimensions": [],
+      "figure_refs": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8"
+      ],
+      "cross_refs": [
+        "1",
+        "6",
+        "4",
+        "8"
+      ],
+      "keywords": [
+        "railway station",
+        "through station",
+        "terminus",
+        "island station",
+        "platform",
+        "station building"
+      ],
+      "tags_architectural": [
+        "circulation",
+        "spatial_proportion"
+      ],
+      "confidence": 0.96
+    },
+    {
+      "id": "4122fb96e4bd1976-427-vision-1",
+      "pdf_page": 427,
+      "book_page": 414,
+      "chapter": "TRANSPORT",
+      "section": "Railways",
+      "title": "Station planning and design basics",
+      "summary": "Station design priorities include operational safety, passenger security and well-being, easy orientation, maintainability, brand recognition, and attractive form. Stations should provide short walking routes to other transport, with local public transport near platforms and provision for parking and vehicle drop-off. Station buildings may include railway services, waiting areas, shops, and luggage storage. The approach line and station arrangement should suit the urban context; the text identifies a low-level arrangement as the most acceptable urban-planning variant.",
+      "building_type": "Railway station",
+      "spaces": [
+        "Station building",
+        "Platforms",
+        "Waiting areas",
+        "Lounge",
+        "Luggage storage",
+        "Retail or service areas",
+        "Transport interchange",
+        "Parking and drop-off areas"
+      ],
+      "uses": [
+        "Passenger interchange",
+        "Railway services",
+        "Waiting",
+        "Shopping and services",
+        "Luggage storage",
+        "Passenger orientation"
+      ],
+      "furniture_equipment": [
+        "TravelCentre",
+        "ServicePoint"
+      ],
+      "dimensions": [],
+      "figure_refs": [],
+      "cross_refs": [
+        "1 – 6"
+      ],
+      "keywords": [
+        "station planning",
+        "operational safety",
+        "orientation",
+        "transport interchange",
+        "urban planning",
+        "waiting areas"
+      ],
+      "tags_architectural": [
+        "safety",
+        "circulation",
+        "adaptability"
+      ],
+      "confidence": 0.91
+    },
+    {
+      "id": "4122fb96e4bd1976-427-vision-2",
+      "pdf_page": 427,
+      "book_page": 414,
+      "chapter": "TRANSPORT",
+      "section": "Railways",
+      "title": "Pedestrian underpasses and bridges",
+      "summary": "The text gives minimum widths and clearance heights for pedestrian underpasses and bridges. It recommends that larger widths be set as multiples of the stated walking width and notes a reduced minimum clearance beneath supplementary installations.",
+      "building_type": "Railway pedestrian infrastructure",
+      "spaces": [
+        "Pedestrian underpass",
+        "Pedestrian bridge"
+      ],
+      "uses": [
+        "Pedestrian circulation between platforms or across railway tracks"
+      ],
+      "furniture_equipment": [
+        "Supplementary installations"
+      ],
+      "dimensions": [
+        {
+          "label": "Minimum width",
+          "value": 2.5,
+          "value_max": null,
+          "unit": "m",
+          "context": "Pedestrian underpasses and bridges",
+          "status": "verified",
+          "ocr_raw": "The minimum width of underpasses and bridges is 2.50 m."
+        },
+        {
+          "label": "Walking width",
+          "value": 0.8,
+          "value_max": null,
+          "unit": "m",
+          "context": "Larger underpass and bridge widths should assume a multiple of this walking width",
+          "status": "verified",
+          "ocr_raw": "Larger\nwidths should assume a multiple of the walking width of 0.80 m."
+        },
+        {
+          "label": "Minimum clearance height",
+          "value": 2.5,
+          "value_max": null,
+          "unit": "m",
+          "context": "Underpasses and bridges",
+          "status": "verified",
+          "ocr_raw": "The clearance height should be at least 2.50 m"
+        },
+        {
+          "label": "Minimum clearance height under supplementary installations",
+          "value": 2.25,
+          "value_max": null,
+          "unit": "m",
+          "context": "Underpasses and bridges; under supplementary installations",
+          "status": "verified",
+          "ocr_raw": "but has to be only\n2.25 m under supplementary installations."
+        }
+      ],
+      "figure_refs": [],
+      "cross_refs": [],
+      "keywords": [
+        "underpass",
+        "bridge",
+        "clearance",
+        "walking width",
+        "pedestrian access"
+      ],
+      "tags_architectural": [
+        "circulation",
+        "clearance",
+        "accessibility"
+      ],
+      "confidence": 0.99
+    },
+    {
+      "id": "4122fb96e4bd1976-427-vision-3",
+      "pdf_page": 427,
+      "book_page": 414,
+      "chapter": "TRANSPORT",
+      "section": "Railways",
+      "title": "Station accessibility",
+      "summary": "Stations where more than the stated daily passenger threshold catch trains should provide at least one barrier-free access. Ramps are described as maintenance-free; lifts should be pass-through and glazed. Access to platforms is permitted only along the platform, with a waiting area in front of the lift. Tactile and colour-contrasted guide strips, hazard markings, and Braille platform numbering are also recommended.",
+      "building_type": "Railway station",
+      "spaces": [
+        "Barrier-free access route",
+        "Platform",
+        "Lift waiting area",
+        "Stairs",
+        "Ramps"
+      ],
+      "uses": [
+        "Accessible station entry",
+        "Access to platforms",
+        "Passenger movement with prams, pushchairs, luggage trolleys, and cycles",
+        "Wayfinding"
+      ],
+      "furniture_equipment": [
+        "Ramps",
+        "Pass-through lifts with glazed cabins",
+        "Handrails",
+        "Tactile and colour-contrasted guide strips",
+        "Braille platform numbering"
+      ],
+      "dimensions": [
+        {
+          "label": "Daily passenger threshold",
+          "value": 1000.0,
+          "value_max": null,
+          "unit": "passengers/day",
+          "context": "If more than this number of passengers per day catch a train, provide at least one barrier-free access",
+          "status": "verified",
+          "ocr_raw": "l!l\nJ\n-i:f:l\ni\n\ni !\n\nStations\n\n.........\ni i i\n\nI ::\n----•--++-1·--ri+ --·\n...\n\ni . i\n\nD +\n\n! i I\n\nli\n\ni !\n;+\nT.\ni\n\nRAILWAYS\n\n! i\n\nI\n\ni i\n:I\n\nI\n\ni ! i\ni ! !\ni I I\n\nI\n\n!\n\nI\n\ni I I !\n\n! i ! !\n! ! !\n\nI\n\n~\n\n0 A stop at an existing level\n\nI\n\n\"!\n\n~\nf) Access for passengers over the\ntracks, only possible for small stations\nwithout trains passing through\n\ncrossing to change side of\nplatform\n\ni\n\n~\n\n8 Station building over the\n\n~\nG Station building of a terminus, ideally\nat track level. This is suitable only for\nstations with no through traffic at all,\nbecause otherwise too much track\narea is needed\n\ntracks. Bridge for passengers\nand luggage.\n\n! !\n\nilt. ·_:· ~ i\n!!1Hi\ni\n1 ••\ni::!!\n\nI.\ni.\n\nI--··\n\n......._.II\n\n~ !I 1'1!!\n! ll!!\n\nTracks\nFreight transport\nStations\nStation buildings\nPlatforms\nPlatform furniture\n\nI\n\n'\ni\nI\n\ni I\n\n'TS\n\ni I\n\n;I:\nI\n\nr +r t\n\n11\n\n0 Station building centrally located\n\ne\n\nbelow the tracks. Short routes,\ngood waiting area lighting,\notherwise as before\n\n!\n!\n\ni\n\nI\n\nii\n\ni\n\ni\n\niI\n\nil : ·I\n\nI\n\n! ~~f.--~-;! i\n\nRAILWAYS\n\nI\n\n'l'\n\ni ••• ! 1\nL\n\ni\n\n1. Through station (most frequent layout, e.g. Cologne main\nstation, Hannover main station) -1 e.\n2. Terminus (e.g. Leipzig or Munich main stations) -1 8.\n3. Multi-level station (e.g. OsnabrOck main station, Berlin main\nstation)\n4. Island station (station building between the tracks, e.g. Halle/\nSaale main station) -1 0.\nThe approach line to the station through the city can be at street\nlevel, on banks with roads passing underneath or in cuttings\nor tunnels with the streets passing over. The route alignment\nleads to the location of the station -1 0 - e. with a low-level\narrangement being the most acceptable variant for urban planning\n(e.g. the design for Stuttgart 21, conversion of the terminus to\nan underground through station while still using the old station\nbuilding).\n\ni\ni\ni\n\ni. !!••t! !I\n\nStations can be halts with a platform located next to a line without\npoints, or stations with at least one point so the trains can bypass\nthe station or turn. Stations are described according to the layout\nof the tracks and the location of the station building (depot).\n\n•\n\nI\n\nim::\n\n~lli\n\n+\n\nDesign basics\nThe following principles apply to new building and also\nrefurbishment (in order according to importance):\n1. Operational safety and accident prevention\n2. Feeling of security and well-being\n3. Simple orientation\n4. Simple building maintenance\n5. Brand recognition/formation\n6. Attractiveness of form\nStations should be designed to achieve the shortest possible\nwalking distances to other forms of transport. Urban rail and\nunderground stations should be under the station building if\npossible. Local public transport should be available as near as\npossible to the platform. It should be possible to park long term\nand taxis and private cars should be able to draw up.\nThe station building contains areas leased to external leaseholders\n(normally shops or services) in addition to the services operated by\nthe railway company, like a TraveiCentre, a ServicePoint, waiting\nareas, a lounge (at large stations) and luggage storage.\n\nStation building below track level.\nTunnel for passengers and luggage.\nPopular and effective layout with\nlevel access\n\nPedestrian underpasses and bridges\nThe minimum width of underpasses and bridges is 2.50 m. Larger\nwidths should assume a multiple of the walking width of 0.80 m.\nThe clearance height should be at least 2.50 m, but has to be only\n2.25 m under supplementary installations.\nAccessibility\nIf more than 1000 passengers per day catch a train, then at least\none barrier-free access (i.e. convenient for disabled passengers)\nshould be provided. Ramps are always available and maintenancefree. Lifts should be pass-through (Roll-On Roll-Off principle)\nwith glazed cabins. The minimum size is regulated by the state\nbuilding regulations. It should also be possible to transport prams,\npushchairs, luggage trolleys and cycles without problems. Access\nto the platform is permissible only along the platform with a\n1.5 m x 1.5 m waiting area in front of the lift.\n\n~~\n8\ne\nStation building at the side at\ntrack level. Tunnel for passengers\n(with slope)\n\n414\n\nStation building below and between\nthe tracks, generous forecourt, short\nroutes, otherwise as before\n\nTactile and colour-contrasted guide strips should be provided\non the floor. On the platforms, these mark potentially dangerous\nareas. At stairs and ramp handrails, the platform numbering\nshould be applied in Braille.\n\n\f"
+        },
+        {
+          "label": "Waiting area length",
+          "value": 1.5,
+          "value_max": null,
+          "unit": "m",
+          "context": "Waiting area in front of the lift; stated area is 1.5 m x 1.5 m",
+          "status": "verified",
+          "ocr_raw": "with a\n1.5 m x 1.5 m waiting area in front of the lift."
+        },
+        {
+          "label": "Waiting area width",
+          "value": 1.5,
+          "value_max": null,
+          "unit": "m",
+          "context": "Waiting area in front of the lift; stated area is 1.5 m x 1.5 m",
+          "status": "verified",
+          "ocr_raw": "with a\n1.5 m x 1.5 m waiting area in front of the lift."
+        }
+      ],
+      "figure_refs": [],
+      "cross_refs": [],
+      "keywords": [
+        "accessibility",
+        "barrier-free access",
+        "lift",
+        "ramp",
+        "tactile guide strips",
+        "Braille"
+      ],
+      "tags_architectural": [
+        "accessibility",
+        "circulation",
+        "safety",
+        "clearance"
+      ],
+      "confidence": 0.98
+    }
+  ]
+}

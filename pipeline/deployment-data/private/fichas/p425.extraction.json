@@ -1,0 +1,203 @@
+{
+  "fichas": [
+    {
+      "id": "4122fb96e4bd1976-425-vision-0",
+      "pdf_page": 425,
+      "book_page": 412,
+      "chapter": "TRANSPORT",
+      "section": "Railways",
+      "title": "UK Structure Gauges and Clearances",
+      "summary": "Diagrams and notes specify minimum lateral and overhead clearances for railway tracks and structures, including platform clearances. The stated clearances apply to straight, level track unless otherwise noted; adjustments are required for curvature and cant. Dimensions are in millimetres. The standard structure gauge accommodates overhead electrification up to 25 kV.",
+      "building_type": "Railway infrastructure",
+      "spaces": [
+        "Railway tracks",
+        "Platforms",
+        "Areas between adjacent tracks",
+        "Platform canopy and overhead structures"
+      ],
+      "uses": [
+        "Set minimum clearances for construction, reconstruction, and alterations to track and structures",
+        "Coordinate trackside structures and overhead electrification",
+        "Maintain passenger platform clearances"
+      ],
+      "furniture_equipment": [
+        "Platforms",
+        "Platform columns",
+        "Overhead line equipment",
+        "Signal posts",
+        "Bridge girders",
+        "Guard and check rails",
+        "Train stops"
+      ],
+      "dimensions": [
+        {
+          "label": "Platform clearance from edge to nearest building structure or platform furniture",
+          "value": 2500.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Minimum for line speeds up to 165 km/h.",
+          "status": "uncertain",
+          "ocr_raw": "shall be 2500mm for speeds up to 165km/h"
+        },
+        {
+          "label": "Platform clearance from edge to nearest building structure or platform furniture",
+          "value": 3000.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Minimum for line speeds greater than 165 km/h.",
+          "status": "uncertain",
+          "ocr_raw": "for speeds greater than 165km/h the minimum dimension shall be 3000 mm"
+        },
+        {
+          "label": "Clearance to face of any column",
+          "value": 2000.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Minimum distance from the platform edge to the face of any column.",
+          "status": "uncertain",
+          "ocr_raw": "The minimum distance to the face of any column shall be 2000mm."
+        },
+        {
+          "label": "Preferred clearance from rail level to underside of structures",
+          "value": 4780.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Preferred increase for overhead equipment design flexibility; greater clearance may be required in some locations.",
+          "status": "uncertain",
+          "ocr_raw": "the minimum dimension between rail level and the underside of the structures should be increased, preferably to 4780mm or more"
+        },
+        {
+          "label": "Vertical clearance to platform canopy",
+          "value": 2500.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Up to 2000 mm minimum from the platform edge, for line speeds up to 165 km/h.",
+          "status": "uncertain",
+          "ocr_raw": "Vertical clearances to the canopy above the platform shall be 2500mm up to 2000mm minimum from the platform edge"
+        },
+        {
+          "label": "Vertical clearance to platform canopy",
+          "value": 3000.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Up to 2000 mm minimum from the platform edge where line speed exceeds 165 km/h.",
+          "status": "uncertain",
+          "ocr_raw": "or up to 3000mm where the line speed exceeds 165km/h"
+        },
+        {
+          "label": "Minimum headroom beyond applicable platform-edge zone",
+          "value": 2300.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "At distances beyond 2000 mm or 3000 mm from the platform edge, as applicable.",
+          "status": "uncertain",
+          "ocr_raw": "At distances beyond 2000mm or 3000mm from the platform edge, as applicable, the minimum headroom shall be 2300mm."
+        },
+        {
+          "label": "Guidance minimum lateral platform dimension",
+          "value": 730.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Platform clearance subject to HMRI stepping distances and the particular kinematic envelope.",
+          "status": "uncertain",
+          "ocr_raw": "The minimum lateral dimension is 730mm and is shown for guidance."
+        },
+        {
+          "label": "Increase to clearance dimensions where practicable",
+          "value": 300.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Increase to facilitate an access walkway.",
+          "status": "uncertain",
+          "ocr_raw": "these dimensions shall be increased by 300 mm"
+        },
+        {
+          "label": "Adjacent track centre-line spacing",
+          "value": 1700.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Shown for standard 6 foot.",
+          "status": "uncertain",
+          "ocr_raw": "1700 (for standard 6 foot)"
+        },
+        {
+          "label": "Height above rail level for applicable lower structure gauge diagram",
+          "value": 1089.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Diagram applies at and below this height above rail level (ARL).",
+          "status": "uncertain",
+          "ocr_raw": "Standard structure gauge applicable at and below 1089 mm above rail level (ARL)"
+        },
+        {
+          "label": "Maximum height for bridge girders, dwarf signals, and other lineside equipment in platform space",
+          "value": 915.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Height above rail level (ARL).",
+          "status": "uncertain",
+          "ocr_raw": "up to a height of 915mm ARL"
+        },
+        {
+          "label": "Horizontal stepping distance",
+          "value": 275.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Maximum, calculated from the centre of the bottom of the door opening, unless dispensation is sought.",
+          "status": "uncertain",
+          "ocr_raw": "horizontal 275 mm"
+        },
+        {
+          "label": "Vertical stepping distance",
+          "value": 250.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Maximum, calculated from the centre of the bottom of the door opening, unless dispensation is sought.",
+          "status": "uncertain",
+          "ocr_raw": "vertical 250mm"
+        },
+        {
+          "label": "Diagonal stepping distance",
+          "value": 350.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Maximum, calculated from the centre of the bottom of the door opening, unless dispensation is sought.",
+          "status": "uncertain",
+          "ocr_raw": "diagonal 350 mm"
+        },
+        {
+          "label": "Track-centre-line to indicated clearance boundary",
+          "value": 2340.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Diagram dimension; a starred alternative is printed for higher line speeds.",
+          "status": "uncertain",
+          "ocr_raw": "2340 (*3196)"
+        }
+      ],
+      "figure_refs": [
+        "3 Standard structure gauge",
+        "4 Standard structure gauge applicable at and below 1089 mm above rail level (ARL)"
+      ],
+      "cross_refs": [
+        "CC/RT5203 Infrastructure Requirements for Personal Safety in Respect of Clearance and Access"
+      ],
+      "keywords": [
+        "railway structure gauge",
+        "clearance",
+        "platform",
+        "track",
+        "overhead electrification",
+        "stepping distance",
+        "rail level"
+      ],
+      "tags_architectural": [
+        "circulation",
+        "clearance",
+        "safety",
+        "accessibility"
+      ],
+      "confidence": 0.91
+    }
+  ]
+}

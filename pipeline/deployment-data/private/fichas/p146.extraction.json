@@ -1,0 +1,202 @@
+{
+  "fichas": [
+    {
+      "id": "4122fb96e4bd1976-146-vision-0",
+      "pdf_page": 146,
+      "book_page": 133,
+      "chapter": "BUILDING COMPONENTS",
+      "section": "Lifts",
+      "title": "Hydraulic Lifts",
+      "summary": "Hydraulic lifts are suited to heavy loads and shorter lift heights, with the machine room able to be located remotely from the shaft. Direct-acting piston lifts can carry payloads up to 20 t to a maximum height of 17 m; indirect-acting lifts can carry up to 7 t to a maximum height of 34 m. The page illustrates shaft plans, a vertical shaft section, technical data, and rucksack and tandem arrangements. A centrally mounted ram requires a bored hole, and retraction control must be maintained within ±3 mm regardless of load.",
+      "building_type": "Hydraulic lift",
+      "spaces": [
+        "Lift car",
+        "Lift shaft",
+        "Machine room"
+      ],
+      "uses": [
+        "Transporting heavy loads vertically",
+        "Lifting goods or passengers over shorter lift heights"
+      ],
+      "furniture_equipment": [
+        "Hydraulic ram or piston",
+        "Lift car",
+        "Lift doors",
+        "Control system",
+        "Machine room"
+      ],
+      "dimensions": [
+        {
+          "label": "Typical lift height",
+          "value": 12.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Hydraulic lifts are described as best used for lift heights up to this height.",
+          "status": "uncertain",
+          "ocr_raw": "up to 12 m lift height"
+        },
+        {
+          "label": "Maximum lift height, direct-acting push piston lift",
+          "value": 17.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Direct-acting standardised push piston lifts; maximum height.",
+          "status": "uncertain",
+          "ocr_raw": "to a max. height of 17 m"
+        },
+        {
+          "label": "Maximum payload, direct-acting push piston lift",
+          "value": 20.0,
+          "value_max": null,
+          "unit": "t",
+          "context": "Direct-acting standardised push piston lifts; maximum payload.",
+          "status": "uncertain",
+          "ocr_raw": "payloads of as much as 20 t"
+        },
+        {
+          "label": "Maximum payload, indirect-acting push piston lift",
+          "value": 7.0,
+          "value_max": null,
+          "unit": "t",
+          "context": "Indirect-acting push piston lifts in standard operation; maximum payload.",
+          "status": "uncertain",
+          "ocr_raw": "can lift max. 7 t"
+        },
+        {
+          "label": "Maximum lift height, indirect-acting push piston lift",
+          "value": 34.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Indirect-acting push piston lifts in standard operation; maximum height.",
+          "status": "uncertain",
+          "ocr_raw": "to a max. 34 m"
+        },
+        {
+          "label": "Operating speed",
+          "value": 0.2,
+          "value_max": 0.8,
+          "unit": "m/s",
+          "context": "Operating speed range for hydraulic lifts.",
+          "status": "uncertain",
+          "ocr_raw": "between 0.2 and 0.8 m/s"
+        },
+        {
+          "label": "Ram retraction control tolerance",
+          "value": 3.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Retraction control must be kept within this tolerance regardless of load; the printed tolerance is ±3 mm.",
+          "status": "uncertain",
+          "ocr_raw": "within ± 3 mm"
+        },
+        {
+          "label": "Additional lift-door height clearance",
+          "value": 50.0,
+          "value_max": 100.0,
+          "unit": "mm",
+          "context": "Minimum clearance above the height for other doors, to provide a level entry into the lift car.",
+          "status": "uncertain",
+          "ocr_raw": "min. 50–100 mm greater than for other doors"
+        },
+        {
+          "label": "Machine-room distance from shaft",
+          "value": 5.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Other machine-room locations are possible up to this distance from the shaft; greater distance is available on request.",
+          "status": "uncertain",
+          "ocr_raw": "up to max. 5 m distance from the shaft"
+        },
+        {
+          "label": "Machine-room width for Q ≈ 5000 kg",
+          "value": 2000.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Approximate machine-room width in the technical-data table for the lower listed payload category.",
+          "status": "uncertain",
+          "ocr_raw": "Q ≈ 5000 kg ... width = 2000"
+        },
+        {
+          "label": "Machine-room depth for Q ≈ 5000 kg",
+          "value": 2600.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Approximate machine-room depth in the technical-data table for the lower listed payload category.",
+          "status": "uncertain",
+          "ocr_raw": "Q ≈ 5000 kg ... depth = 2600"
+        },
+        {
+          "label": "Machine-room height for Q ≈ 5000 kg",
+          "value": 2200.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Approximate machine-room height in the technical-data table for the lower listed payload category.",
+          "status": "uncertain",
+          "ocr_raw": "Q ≈ 5000 kg ... height = 2200"
+        },
+        {
+          "label": "Machine-room width for Q ≈ 10000 kg",
+          "value": 2200.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Approximate machine-room width in the technical-data table for the higher listed payload category.",
+          "status": "uncertain",
+          "ocr_raw": "Q ≈ 10000 kg ... width = 2200"
+        },
+        {
+          "label": "Machine-room depth for Q ≈ 10000 kg",
+          "value": 2800.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Approximate machine-room depth in the technical-data table for the higher listed payload category.",
+          "status": "uncertain",
+          "ocr_raw": "Q ≈ 10000 kg ... depth = 2800"
+        },
+        {
+          "label": "Machine-room height for Q ≈ 10000 kg",
+          "value": 2700.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Approximate machine-room height in the technical-data table for the higher listed payload category.",
+          "status": "uncertain",
+          "ocr_raw": "Q ≈ 10000 kg ... height = 2700"
+        }
+      ],
+      "figure_refs": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9"
+      ],
+      "cross_refs": [
+        "Technical data → 1–3",
+        "Rucksack arrangement 1:1, dimensions → 6",
+        "Tandem arrangement 1:1, dimensions → 7",
+        "Rucksack arrangement 2:1, dimensions → 8",
+        "Tandem arrangement 2:1, dimensions → 9"
+      ],
+      "keywords": [
+        "hydraulic lifts",
+        "lift shaft",
+        "machine room",
+        "push piston",
+        "hydraulic ram",
+        "lift car",
+        "lift doors",
+        "rucksack arrangement",
+        "tandem arrangement"
+      ],
+      "tags_architectural": [
+        "circulation",
+        "safety",
+        "clearance"
+      ],
+      "confidence": 0.91
+    }
+  ]
+}

@@ -1,0 +1,281 @@
+{
+  "fichas": [
+    {
+      "id": "4122fb96e4bd1976-402-vision-0",
+      "pdf_page": 402,
+      "book_page": 389,
+      "chapter": "TRANSPORT",
+      "section": "Parking Facilities",
+      "title": "Vehicles—Turning",
+      "summary": "Guidance and illustrated layouts for vehicle turning places, including hammerheads, turning circles and loops. Circles and loops are preferred for trucks because they allow a one-swing turn. Layouts should account for vehicle overhangs and avoid fixed-object hazards. The page includes vehicle external-dimension data and recommendations for external turning-circle radii by road type and use.",
+      "building_type": "Parking and road infrastructure",
+      "spaces": [
+        "Turning places",
+        "Residential access roads",
+        "Residential roads",
+        "Garage forecourts",
+        "Footpath crossings"
+      ],
+      "uses": [
+        "Provide turning areas for cars, refuse collection vehicles, fire engines, HGVs, buses and other vehicles.",
+        "Allow vehicles to turn without excessive reversing or hazardous manoeuvres.",
+        "Determine turning-circle radii appropriate to road type, zone use and design vehicle."
+      ],
+      "furniture_equipment": [
+        "Turning-circle and turning-loop layouts",
+        "Hammerhead turning layouts",
+        "Vehicle clearance and overhang zones"
+      ],
+      "dimensions": [
+        {
+          "label": "Standard car length",
+          "value": 4.74,
+          "value_max": null,
+          "unit": "m",
+          "context": "Vehicle external dimensions table; car.",
+          "status": "uncertain",
+          "ocr_raw": "Car 4.74"
+        },
+        {
+          "label": "Standard car width",
+          "value": 1.76,
+          "value_max": null,
+          "unit": "m",
+          "context": "Vehicle external dimensions table; car.",
+          "status": "uncertain",
+          "ocr_raw": "Car ... Width [m] 1.76"
+        },
+        {
+          "label": "Standard car height",
+          "value": 1.51,
+          "value_max": null,
+          "unit": "m",
+          "context": "Vehicle external dimensions table; car.",
+          "status": "uncertain",
+          "ocr_raw": "Car ... Height [m] 1.51"
+        },
+        {
+          "label": "Standard car external turning circle radius",
+          "value": 5.85,
+          "value_max": null,
+          "unit": "m",
+          "context": "Vehicle external dimensions table; car.",
+          "status": "uncertain",
+          "ocr_raw": "Car ... External turning circle radius [m] 5.85"
+        },
+        {
+          "label": "Turning-circle clearance limit",
+          "value": 0.5,
+          "value_max": null,
+          "unit": "m",
+          "context": "Clearance limit shown at the turning-circle-of-a-car diagram.",
+          "status": "uncertain",
+          "ocr_raw": "clearance limit 0.5m"
+        },
+        {
+          "label": "Entrance-drive car turning-circle radius",
+          "value": 5.0,
+          "value_max": 6.5,
+          "unit": "m",
+          "context": "Radius range stated for the entrance-drive car turning circle.",
+          "status": "uncertain",
+          "ocr_raw": "Entrance drive, car turning circle radius ≥5–6.50 m"
+        },
+        {
+          "label": "Turning-place clearance distance",
+          "value": 1.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Clearance distance indicated on turning-place diagrams; additional width at the outside of turning places is recommended for vehicle overhangs.",
+          "status": "uncertain",
+          "ocr_raw": "clearance distance 1.00"
+        },
+        {
+          "label": "Road width threshold for hammerhead necessity",
+          "value": 6.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Hammerhead turning places are not necessary where the road is wider than this threshold.",
+          "status": "uncertain",
+          "ocr_raw": "They are not necessary where the road is more than 6 m wide"
+        },
+        {
+          "label": "Hammerhead turning place length for cars",
+          "value": 12.75,
+          "value_max": null,
+          "unit": "m",
+          "context": "Dimension shown for the car hammerhead layout, figure 4.",
+          "status": "uncertain",
+          "ocr_raw": "12.75"
+        },
+        {
+          "label": "Hammerhead turning place width for cars and HGVs",
+          "value": 6.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Dimension shown for the hammerhead layout for cars and HGVs up to 8 m length, figure 5.",
+          "status": "uncertain",
+          "ocr_raw": "6.00"
+        },
+        {
+          "label": "Vehicle length limit for hammerhead layout",
+          "value": 8.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Hammerhead layout specified for cars and HGVs up to this length.",
+          "status": "uncertain",
+          "ocr_raw": "Hammerhead turning place for cars and HGVs up to 8 m length"
+        },
+        {
+          "label": "Turning-place vehicle length limit",
+          "value": 10.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Turning place for HGVs up to the stated length and 22 t; figure 6.",
+          "status": "uncertain",
+          "ocr_raw": "Turning place for HGVs up to 10 m and 22 t"
+        },
+        {
+          "label": "Turning-place vehicle mass limit",
+          "value": 22.0,
+          "value_max": null,
+          "unit": "t",
+          "context": "Turning place for HGVs up to 10 m and the stated mass; figure 6.",
+          "status": "uncertain",
+          "ocr_raw": "Turning place for HGVs up to 10 m and 22 t"
+        },
+        {
+          "label": "Recommended outside width for vehicle overhangs",
+          "value": 1.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Additional clear width at the outside of turning places.",
+          "status": "uncertain",
+          "ocr_raw": "An additional 1.00 m width should be kept free at the outside of turning places for vehicle overhangs."
+        },
+        {
+          "label": "External turning-circle radius for access road to houses",
+          "value": 6.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Recommendation table; residential access road to houses and residential road with little traffic, design vehicle car.",
+          "status": "uncertain",
+          "ocr_raw": "access road to houses, residential road with little traffic ... car ... R (m) 6"
+        },
+        {
+          "label": "External turning-circle radius for residential road",
+          "value": 8.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Recommendation table; predominantly residential use, cars and 2-axle refuse collection vehicle.",
+          "status": "uncertain",
+          "ocr_raw": "residential road predominantly residential ... cars, 2-axle refuse collection vehicle ... 8"
+        },
+        {
+          "label": "External turning-circle radius for residential road with some commercial use",
+          "value": 10.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Recommendation table; residential road, also considerably commercial, with 3-axle HGV, standard bus and articulated bus among design vehicles.",
+          "status": "uncertain",
+          "ocr_raw": "residential road residential also considerably commercial ... 10"
+        },
+        {
+          "label": "External turning-circle radius for predominantly commercial road",
+          "value": 12.5,
+          "value_max": null,
+          "unit": "m",
+          "context": "Recommendation table; predominantly commercial use, lorry with trailer and articulated bus.",
+          "status": "uncertain",
+          "ocr_raw": "predominantly commercial ... lorry with trailer, articulated bus ... 12.5"
+        },
+        {
+          "label": "External turning-circle radius for predominantly commercial road",
+          "value": 12.5,
+          "value_max": null,
+          "unit": "m",
+          "context": "Second radius recommendation in table for predominantly commercial use; adequate turning circle for all permissible HGVs.",
+          "status": "uncertain",
+          "ocr_raw": "12.5 - adequate turning circle for all permissible HGVs"
+        },
+        {
+          "label": "Maximum permitted HGV length in Germany",
+          "value": 12.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Highest values permitted in Germany; HGV.",
+          "status": "uncertain",
+          "ocr_raw": "HGV 12.00"
+        },
+        {
+          "label": "Maximum permitted trailer length in Germany",
+          "value": 12.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Highest values permitted in Germany; trailer.",
+          "status": "uncertain",
+          "ocr_raw": "Trailer 12.00"
+        },
+        {
+          "label": "Maximum permitted HGV with trailer length in Germany",
+          "value": 18.75,
+          "value_max": null,
+          "unit": "m",
+          "context": "Highest values permitted in Germany; HGV with trailer.",
+          "status": "uncertain",
+          "ocr_raw": "HGV with trailer 18.75"
+        },
+        {
+          "label": "Maximum permitted articulated HGV length in Germany",
+          "value": 16.5,
+          "value_max": null,
+          "unit": "m",
+          "context": "Highest values permitted in Germany; articulated HGV.",
+          "status": "uncertain",
+          "ocr_raw": "Articulated HGV 16.50"
+        },
+        {
+          "label": "Maximum permitted articulated bus length in Germany",
+          "value": 18.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Highest values permitted in Germany; articulated bus.",
+          "status": "uncertain",
+          "ocr_raw": "Articulated bus 18.00"
+        }
+      ],
+      "figure_refs": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11"
+      ],
+      "cross_refs": [
+        "Basic vehicle data → p. 397–398"
+      ],
+      "keywords": [
+        "vehicle turning",
+        "turning circle",
+        "turning loop",
+        "hammerhead",
+        "vehicle overhang",
+        "refuse collection vehicle",
+        "HGV",
+        "bus"
+      ],
+      "tags_architectural": [
+        "circulation",
+        "clearance",
+        "safety"
+      ],
+      "confidence": 0.88
+    }
+  ]
+}

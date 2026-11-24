@@ -1,0 +1,150 @@
+{
+  "fichas": [
+    {
+      "id": "4122fb96e4bd1976-15-vision-0",
+      "pdf_page": 15,
+      "book_page": 2,
+      "chapter": "BASICS",
+      "section": "Units",
+      "title": "SI Units and Decimal Prefixes",
+      "summary": "Introduces the International System of Units, its seven basic quantities and units, and decimal prefixes used to form multiples and subdivisions of units.",
+      "building_type": "Technical reference",
+      "spaces": [],
+      "uses": [
+        "Standardizing measurement notation",
+        "Converting and expressing physical quantities used in building design"
+      ],
+      "furniture_equipment": [],
+      "dimensions": [
+        {
+          "label": "kilo prefix",
+          "value": 1000.0,
+          "value_max": null,
+          "unit": "multiplier",
+          "context": "Decimal multiplier for SI units.",
+          "status": "uncertain",
+          "ocr_raw": "k (kilo-) = 10³ (thousand)"
+        },
+        {
+          "label": "centi prefix",
+          "value": 0.01,
+          "value_max": null,
+          "unit": "multiplier",
+          "context": "Decimal divider for SI units.",
+          "status": "uncertain",
+          "ocr_raw": "c (centi-) = 1/100 hundredth"
+        },
+        {
+          "label": "milli prefix",
+          "value": 0.001,
+          "value_max": null,
+          "unit": "multiplier",
+          "context": "Decimal divider for SI units.",
+          "status": "uncertain",
+          "ocr_raw": "m (milli-) = 10⁻³ thousandth"
+        }
+      ],
+      "figure_refs": [
+        "1 Basic SI units",
+        "3 Decimal multipliers and dividers of units"
+      ],
+      "cross_refs": [],
+      "keywords": [
+        "SI units",
+        "measurement",
+        "decimal prefixes",
+        "basic units"
+      ],
+      "tags_architectural": [],
+      "confidence": 0.96
+    },
+    {
+      "id": "4122fb96e4bd1976-15-vision-1",
+      "pdf_page": 15,
+      "book_page": 2,
+      "chapter": "BASICS",
+      "section": "Units",
+      "title": "Physical Symbols for Thermal Insulation",
+      "summary": "Lists symbols, units, and descriptions for thermal quantities, including temperature, heat, thermal conductivity, transmittance, resistance, humidity, and vapour-related properties.",
+      "building_type": "Technical reference",
+      "spaces": [],
+      "uses": [
+        "Interpreting thermal insulation calculations and specifications"
+      ],
+      "furniture_equipment": [],
+      "dimensions": [
+        {
+          "label": "Thermal resistance conversion factor",
+          "value": 0.8598,
+          "value_max": null,
+          "unit": "m²K/W per m²hK/kcal",
+          "context": "Conversion shown for thermal resistance.",
+          "status": "uncertain",
+          "ocr_raw": "1/Λ = 1 m²h K/kcal = 0.8598 m²K/W"
+        },
+        {
+          "label": "Thermal conductivity conversion factor",
+          "value": 1.163,
+          "value_max": null,
+          "unit": "W/mK per kcal/m h K",
+          "context": "Conversion shown for thermal conductivity.",
+          "status": "uncertain",
+          "ocr_raw": "λ = 1 kcal/m h K = 1.163 W/m K"
+        },
+        {
+          "label": "Coefficient of thermal transmittance conversion factor",
+          "value": 1.163,
+          "value_max": null,
+          "unit": "W/m²K per kcal/m² h K",
+          "context": "Conversion shown for coefficient of thermal transmittance.",
+          "status": "uncertain",
+          "ocr_raw": "U = 1 kcal/m² h K = 1.163 W/m²K"
+        }
+      ],
+      "figure_refs": [
+        "2 Physical symbols in the SI system",
+        "7 Examples of SI units derived through combining basic units with named derived units"
+      ],
+      "cross_refs": [],
+      "keywords": [
+        "thermal insulation",
+        "thermal conductivity",
+        "thermal transmittance",
+        "thermal resistance",
+        "humidity",
+        "vapour pressure"
+      ],
+      "tags_architectural": [],
+      "confidence": 0.91
+    },
+    {
+      "id": "4122fb96e4bd1976-15-vision-2",
+      "pdf_page": 15,
+      "book_page": 2,
+      "chapter": "BASICS",
+      "section": "Units",
+      "title": "Physical Symbols for Sound Insulation",
+      "summary": "Lists symbols and units used to describe sound insulation, including wavelength, frequency, sound reduction, impact sound pressure, sound absorption, and equivalent sound-absorbing area.",
+      "building_type": "Technical reference",
+      "spaces": [],
+      "uses": [
+        "Interpreting acoustic insulation calculations and specifications"
+      ],
+      "furniture_equipment": [],
+      "dimensions": [],
+      "figure_refs": [
+        "2 Physical symbols in the SI system"
+      ],
+      "cross_refs": [],
+      "keywords": [
+        "sound insulation",
+        "acoustics",
+        "sound reduction",
+        "impact sound",
+        "sound absorption"
+      ],
+      "tags_architectural": [],
+      "confidence": 0.94
+    }
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "id": "4122fb96e4bd1976-484-0",
+  "titulo_original": "BUILDING PHYSICS",
+  "titulo_de": null,
+  "titulo_es": null,
+  "titulo_en": "BUILDING PHYSICS",
+  "tipologia_edificio": [
+    "vivienda"
+  ],
+  "espacios": [],
+  "dimensiones": [
+    {
+      "nombre": "Medida extraída",
+      "valor": 1.2,
+      "unidad": "m",
+      "contexto": "xternal  wall  insulation  systel!l U  req  0.35  W/m'K  R  req  1.2  m'KIW Thermal transmittance  U exstg = 0.29  W/m'K Thickness  Weig"
+    },
+    {
+      "nombre": "Medida extraída",
+      "valor": 1.75,
+      "unidad": "m",
+      "contexto": "r Plasterboard  900 Rsi Pitched roof U  req  0.30 W/m'K  R  req  1.75 m'KJW  according to  DIN  4108-2 Insulation proportion  fa  Rafter"
+    }
+  ],
+  "usos": [],
+  "mobiliario": [],
+  "pagina_pdf": 484,
+  "pagina_impresa": "471",
+  "bbox": [
+    54.810001373291016,
+    62.52898025512695,
+    572.2077026367188,
+    782.8200073242188
+  ],
+  "figuras": [
+    {
+      "id": "4122fb96e4bd1976-484-0-0",
+      "entry_id": "4122fb96e4bd1976-484-0",
+      "bbox": [
+        54.72999954223633,
+        92.14995574951172,
+        149.7700958251953,
+        185.26995849609375
+      ],
+      "image": "4122fb96e4bd1976/figures/0484-0.webp",
+      "method": "embedded-image"
+    },
+    {
+      "id": "4122fb96e4bd1976-484-0-1",
+      "entry_id": "4122fb96e4bd1976-484-0",
+      "bbox": [
+        167.0399932861328,
+        85.44000244140625,
+        259.20001220703125,
+        181.44000244140625
+      ],
+      "image": "4122fb96e4bd1976/figures/0484-1.webp",
+      "method": "embedded-image"
+    },
+    {
+      "id": "4122fb96e4bd1976-484-0-2",
+      "entry_id": "4122fb96e4bd1976-484-0",
+      "bbox": [
+        53.7599983215332,
+        483.8299560546875,
+        147.83999633789062,
+        534.7099609375
+      ],
+      "image": "4122fb96e4bd1976/figures/0484-2.webp",
+      "method": "embedded-image"
+    },
+    {
+      "id": "4122fb96e4bd1976-484-0-3",
+      "entry_id": "4122fb96e4bd1976-484-0",
+      "bbox": [
+        525.1300048828125,
+        611.5099487304688,
+        582.72998046875,
+        643.18994140625
+      ],
+      "image": "4122fb96e4bd1976/figures/0484-3.webp",
+      "method": "embedded-image"
+    }
+  ],
+  "confianza": 0.58,
+  "requiere_revision": true,
+  "texto": "0 \nTemperature  curve  in  a \nsingle-layer building element\nI\ni \na\n\"~ \n1 \n1 \nR:V//,0/;\nBuilding \nDensity \nmaterial layer \nkg/m'\nRsi\n1 \nRender\n2 \nInsulation \n30\n3 \nSand-lime \n1800 \nmasonry\n4 \nPlaster \n1400\nRsi\nL\nThermal \ninsulation\nRender  I  Masonry\nPlaster \nf)  Temperature curve in a multi-layer\nbuilding element\nExternal wall with \nexternal  wall \ninsulation  systel!l\nU  req  0.35  W/m'K \nR  req  1.2  m'KIW\nThermal transmittance \nU exstg = 0.29  W/m'K\nThickness \nWeight/area \nAW/mK \nd/Am'KIW \nd(m) \nkg/m'\n0.040\n0.01\n0.12 \n32.6 \n0.040 \n3.000\n0.24 \n432.0 \n0.990 \n0.242\n0.01 \n14.0 \n0.700 \n0.014\n0.130\nRT=3.427 \nt)  Calculation  of  thermal transmittance (U-value) for  an  external wall with  an\nexternal wall insulation system\n1\n2\n3\n4\n5\n6\n7\nl:\na\nBuilding material \nDensity \nlayer \nkg/m'\nRse\nRoof  covering\nBattens\nUnderlay\nInsulation \n30\nRafters \n600\nBattens,  enclosed \nair layer\nPlasterboard \n900\nRsi\nPitched roof\nU  req  0.30 W/m'K \nR  req  1.75 m'KJW \naccording to  DIN  4108-2\nInsulation proportion  fa \nRafter proportion  fb\nThermal  transmittance \nU exstg = 0.29 W/m'K\nThickness \nWeight/area \nAW/mK \nd(m) \nkg/m'\n0.16 \n4.8 \n0.040\n0.16 \n96.0 \n0.130\n0.025\n0.0125 \n11.3 \n0.250\n85% \n15%\nd/Am'KIW\n0.040\n4.000\n1.231\n0.16\n0.050\n0.100\nUpper limit value R'T = 1/(fa/RT, insulation+  fb/RT,  rafters)= 3.445\nLower limit value R\"T = Rse +  R1  +  R2  +  R3  +  R4  +  R5  +  R6  + R7 + Rsi = 3.341\nR'T =  (R'T  + R\"T)/2 = 3.393 \n0 \nCalculation  of  thermal transmittance (U-value) for a pitched roof construction\nBUILDING PHYSICS\nThermal insulation\nThermal insulation measures are necessary  in  buildings  to  limit \nheat loss and  to  protect against condensation; verifications  that \nthese have been carried out are required,  as  stated in various \nstandards and regulations:\nThe  Energy Saving Regulation (EnEV 2007)  contains limiting \nvalues for the  primary energy demand  and the  transmitted  heat \ndemand  of  residential and non-residential buildings  ~  p. 4 7  4.  The \ndetermination  of  the coefficients  of  thermal conductivity (U-values), \nthe energetic design values (heat transmission resistance, thermal \nconductivity) and the essential basic terms are described below.\nHeat quantity,  unit Wh  [=  1.16 kcal]; temperature  oc;  temperature \ndifference K (Kelvin). 1.16 Wh  (=  1 kcal) increases the temperature \nof  1 000 g  of  water by 1 K  (=  thermal capacity)\nHeat  transfer  can be by convection (carrying), conduction, \nradiation or water vapour diffusion; heat transfer can be slowed  by \nthermal insulation, but never prevented.\nThermal conductivity  'Jc,  unit  W/mK  [kcal/mhK], is a property  of  a \nmaterial; the smaller this value, the less the thermal conductivity. \nThe design values include,  in  contrast  to  the nominal values, a \nsupplement for practical application (temperature, moisture, \nageing).\nThermal resistance  R,  unit m 2 K!W  [m 2 hK!kcal] is a property  of \na layer:  R  =  d/A,  (d  =  layer thickness  in  m).  The calculation  of  the \nthermal resistance is important for the determination  of  the heat \ntransfer coefficient U  ~  0 -   0.\nSurface resistance  is the thermal insulation value  of  the air film \nadhering  to  the building element. The external surface resistance\n(Rsel  and the internal surface resistance  (Rsil  are differentiated.\nOverall resistance 1/U,  unit m 2 KIW  [m 2 hK!kcal], is the sum  of \nthe resistances  of  a building element  to  the transmission  of  heat \n(thermal resistances and surface resistances):  1/U  =  Rsi  +  R  +  Rse\nThermal transmittance  U,  unit W/m 2 K [kcal/m 2 hK], is  the \nreciprocal  of  the overall resistance 1/U and the most important \nparameter  for  the calculation  of  thermal insulation.\nMaximum values are prescribed for various cases.\nEnergetic values (design values) for individual building products \n(thermal conductivity  'Jc,  thermal resistance  R)  are required for  the \ncalculation  of  the U-values.  ~  0 -   0  show the calculation  of \nthermal transmittance  U  through  the  example  of  an  external wall \nwith  an  external wall insulation system and also a pitched roof.\n(This building element consists  of  a rafter component (15%) and \nan  insulated area between the rafters (85%). Thermal resistance \nR  in  this case is composed  of  the average  of  the upper limit value \nR'T  and the lower limit value  R\"T.  For the determination  of  R'T, \nthe rafter component and the insulation component are added \naccording  to  area. For the determination  of  R\"T,  the individual \nthermal resistances and surface resistances are added.)\n471\nBUILDING \nPHYSICS\nThermal \ninsulation \nSound insulation \nRoom  acoustics \nLightning \nprotection\nBS  EN  ISO 9229 \nBS  EN  ISO \n13370 \nBS  EN  ISO \n13790 \nDIN 4108 \nDIN  EN  ISO 6946 \nDIN  EN  12524\nEnEV2007"
+}

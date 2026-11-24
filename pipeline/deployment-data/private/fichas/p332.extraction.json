@@ -1,0 +1,363 @@
+{
+  "fichas": [
+    {
+      "id": "4122fb96e4bd1976-332-vision-0",
+      "pdf_page": 332,
+      "book_page": 319,
+      "chapter": "SPORT AND LEISURE",
+      "section": "Stadiums",
+      "title": "Spectator and VIP Areas",
+      "summary": "Guidance on the placement and viewing conditions of stadium stands, including sight-line super-elevation, VIP accommodation, and roof coverage. Stand arrangements depend on spectator capacity; larger stands may surround the playing area. The page illustrates sight-line construction and stand sections.",
+      "building_type": "Stadium",
+      "spaces": [
+        "Spectator stands",
+        "VIP box",
+        "Playing area"
+      ],
+      "uses": [
+        "Watching sporting events",
+        "VIP accommodation"
+      ],
+      "furniture_equipment": [
+        "Movable seating",
+        "Covered VIP box",
+        "Roofing for stands"
+      ],
+      "dimensions": [
+        {
+          "label": "Approximate spectator capacity for stands around the entire playing area",
+          "value": 10000.0,
+          "value_max": null,
+          "unit": "spectator places",
+          "context": "Stands may be placed around the entire playing area for more than approximately this number of places.",
+          "status": "uncertain",
+          "ocr_raw": "for more than approx. 10,000 places"
+        },
+        {
+          "label": "Standing-place rows for smaller stands",
+          "value": 20.0,
+          "value_max": null,
+          "unit": "rows",
+          "context": "Up to this number of rows, a linear gradient of 1:2 may be used for smaller stands.",
+          "status": "uncertain",
+          "ocr_raw": "up to 20 rows of standing places"
+        },
+        {
+          "label": "Seating rows for smaller stands",
+          "value": 10.0,
+          "value_max": null,
+          "unit": "rows",
+          "context": "Up to this number of rows, a linear gradient of 1:2 may be used for smaller stands.",
+          "status": "uncertain",
+          "ocr_raw": "or 1 0 rows of seating"
+        },
+        {
+          "label": "Linear gradient for smaller stands",
+          "value": 1.0,
+          "value_max": null,
+          "unit": "ratio",
+          "context": "Gradient is printed as 1:2 for smaller stands; the complete ratio is 1:2.",
+          "status": "uncertain",
+          "ocr_raw": "a linear gradient of 1:2"
+        },
+        {
+          "label": "Super-elevation for standing places",
+          "value": 12.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Sight-line construction; super-elevation for standing places.",
+          "status": "uncertain",
+          "ocr_raw": "12 em for standing places"
+        },
+        {
+          "label": "Super-elevation for rows of seats",
+          "value": 15.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Sight-line construction; super-elevation for rows of seats.",
+          "status": "uncertain",
+          "ocr_raw": "15 cm for rows of seats"
+        }
+      ],
+      "figure_refs": [
+        "1 — Sight line construction",
+        "10 — Section through the Berlin Olympic stadium",
+        "11 — Section through the Berlin Olympic stadium after rebuilding"
+      ],
+      "cross_refs": [],
+      "keywords": [
+        "spectator stands",
+        "sight lines",
+        "super-elevation",
+        "VIP areas",
+        "stadium roofing",
+        "viewing conditions"
+      ],
+      "tags_architectural": [
+        "circulation",
+        "spatial_proportion"
+      ],
+      "confidence": 0.94
+    },
+    {
+      "id": "4122fb96e4bd1976-332-vision-1",
+      "pdf_page": 332,
+      "book_page": 319,
+      "chapter": "SPORT AND LEISURE",
+      "section": "Stadiums",
+      "title": "Seated Areas",
+      "summary": "Requirements for seating density, seat types, clear passage between rows, blocks and aisles, row capacities according to aisle access, and escape-route provision. Sitting and standing places must be separated.",
+      "building_type": "Stadium",
+      "spaces": [
+        "Seated spectator areas",
+        "Aisles",
+        "Escape routes"
+      ],
+      "uses": [
+        "Watching sporting events",
+        "Evacuation"
+      ],
+      "furniture_equipment": [
+        "Fixed individual seats",
+        "Row seating (benches)",
+        "Seats with backrests"
+      ],
+      "dimensions": [
+        {
+          "label": "Seated place width",
+          "value": 0.5,
+          "value_max": null,
+          "unit": "m",
+          "context": "Places of Assembly Regulations.",
+          "status": "uncertain",
+          "ocr_raw": "Seated place width 0.5 m"
+        },
+        {
+          "label": "Seating design space",
+          "value": 2.0,
+          "value_max": null,
+          "unit": "visitors per m²",
+          "context": "Required design space in rows of seating.",
+          "status": "uncertain",
+          "ocr_raw": "two visitors per m²"
+        },
+        {
+          "label": "Threshold for fixed, immovable individual seats",
+          "value": 5000.0,
+          "value_max": null,
+          "unit": "visitor places",
+          "context": "Individual seats must be fixed and immovable when there are more than this number of visitor places.",
+          "status": "uncertain",
+          "ocr_raw": "more than 5000 visitor places"
+        },
+        {
+          "label": "Minimum backrest height",
+          "value": 30.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "According to FIFA guidelines.",
+          "status": "uncertain",
+          "ocr_raw": "height min. 30 cm according to FIFA guidelines"
+        },
+        {
+          "label": "Clear passage width between seat rows",
+          "value": 40.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Clear passage between rows of seats.",
+          "status": "uncertain",
+          "ocr_raw": "a clear passage width of 40 cm between rows of seats"
+        },
+        {
+          "label": "Maximum rows per seating block",
+          "value": 30.0,
+          "value_max": null,
+          "unit": "rows",
+          "context": "Seats must be arranged in blocks of no more than this number of rows.",
+          "status": "uncertain",
+          "ocr_raw": "max. 30 rows"
+        },
+        {
+          "label": "Minimum aisle width behind and between blocks",
+          "value": 1.2,
+          "value_max": null,
+          "unit": "m",
+          "context": "Minimum width of aisles behind and between seating blocks.",
+          "status": "uncertain",
+          "ocr_raw": "a min. width of 1.20 m"
+        },
+        {
+          "label": "Maximum places per row with an open-air aisle at one side",
+          "value": 20.0,
+          "value_max": null,
+          "unit": "places",
+          "context": "Each row may contain this many places if there is an aisle to the open air at one side.",
+          "status": "uncertain",
+          "ocr_raw": "20 places if there is an aisle to the open air at one side"
+        },
+        {
+          "label": "Maximum places per row with open-air aisles at both sides",
+          "value": 40.0,
+          "value_max": null,
+          "unit": "places",
+          "context": "Each row may contain this many places if there is an aisle to the open air at both sides.",
+          "status": "uncertain",
+          "ocr_raw": "40 places if there is an aisle to the open air at both sides"
+        },
+        {
+          "label": "Escape-route width required per 600 places",
+          "value": 1.2,
+          "value_max": null,
+          "unit": "m",
+          "context": "Escape routes include stairs, ramps, and level surfaces; minimum width is also 1.20 m.",
+          "status": "uncertain",
+          "ocr_raw": "A 1.20 m width of escape route (stairs, ramps, level surfaces) must be provided for every 600 places"
+        },
+        {
+          "label": "Minimum escape-route width",
+          "value": 1.2,
+          "value_max": null,
+          "unit": "m",
+          "context": "Minimum width for escape routes serving seated and standing places.",
+          "status": "uncertain",
+          "ocr_raw": "with a minimum width of 1.20 m"
+        }
+      ],
+      "figure_refs": [
+        "6 — Fall protection at steps",
+        "7 — Barrier omission condition",
+        "8 — Sloping reinforced concrete slab with steps",
+        "9 — No fall protection required for steps below stated height"
+      ],
+      "cross_refs": [],
+      "keywords": [
+        "seating",
+        "seat width",
+        "aisles",
+        "escape routes",
+        "seating blocks",
+        "Places of Assembly Regulations"
+      ],
+      "tags_architectural": [
+        "circulation",
+        "clearance",
+        "safety",
+        "accessibility",
+        "ergonomics"
+      ],
+      "confidence": 0.97
+    },
+    {
+      "id": "4122fb96e4bd1976-332-vision-2",
+      "pdf_page": 332,
+      "book_page": 319,
+      "chapter": "SPORT AND LEISURE",
+      "section": "Stadiums",
+      "title": "Standing Terraces",
+      "summary": "Requirements for standing-space provision and escape routes, with guidance on dividing terraces into fenced, separately accessed blocks and using wave breakers to limit dangerous crowd surges.",
+      "building_type": "Stadium",
+      "spaces": [
+        "Standing terraces",
+        "Terrace blocks",
+        "Escape routes"
+      ],
+      "uses": [
+        "Watching sporting events",
+        "Crowd management",
+        "Evacuation"
+      ],
+      "furniture_equipment": [
+        "Fences between blocks",
+        "Wave breakers (crush barriers)",
+        "Parapets"
+      ],
+      "dimensions": [
+        {
+          "label": "Standing space width",
+          "value": 0.5,
+          "value_max": null,
+          "unit": "m",
+          "context": "Places of Assembly Regulations.",
+          "status": "uncertain",
+          "ocr_raw": "Standing space width 0.5 m"
+        },
+        {
+          "label": "Standing terrace design space",
+          "value": 2.0,
+          "value_max": null,
+          "unit": "visitors per running metre",
+          "context": "Required design space in standing terraces.",
+          "status": "uncertain",
+          "ocr_raw": "two visitors per running metre of terrace"
+        },
+        {
+          "label": "Escape-route width required per 600 places",
+          "value": 1.2,
+          "value_max": null,
+          "unit": "m",
+          "context": "Escape routes include stairs, ramps, and level surfaces; minimum width is also 1.20 m.",
+          "status": "uncertain",
+          "ocr_raw": "A 1.20 m width of escape route (stairs, ramps, level surfaces) must be provided for every 600 places"
+        },
+        {
+          "label": "Minimum escape-route width",
+          "value": 1.2,
+          "value_max": null,
+          "unit": "m",
+          "context": "Minimum width for escape routes in standing terraces.",
+          "status": "uncertain",
+          "ocr_raw": "with a minimum width of 1.20 m"
+        },
+        {
+          "label": "Approximate standing-terrace block capacity",
+          "value": 2500.0,
+          "value_max": null,
+          "unit": "places",
+          "context": "Terraces should be divided into blocks of about this capacity; blocks should be fenced apart and separately accessed.",
+          "status": "uncertain",
+          "ocr_raw": "blocks of about 2500 places"
+        },
+        {
+          "label": "Approximate parapet height",
+          "value": 1.1,
+          "value_max": null,
+          "unit": "m",
+          "context": "A suitably strong parapet should be visible from each standing place within the stated number of rows.",
+          "status": "uncertain",
+          "ocr_raw": "a suitably strong parapet about 1.1 m high"
+        },
+        {
+          "label": "Maximum distance to parapet",
+          "value": 10.0,
+          "value_max": null,
+          "unit": "rows",
+          "context": "A suitably strong parapet should be provided within this number of rows of each standing place.",
+          "status": "uncertain",
+          "ocr_raw": "within 10 rows"
+        }
+      ],
+      "figure_refs": [
+        "2 — Concrete units",
+        "3 — Standing terrace section",
+        "4 — Terrace construction detail",
+        "5 — Sloping reinforced concrete with drainage"
+      ],
+      "cross_refs": [],
+      "keywords": [
+        "standing terraces",
+        "crowd safety",
+        "wave breakers",
+        "crush barriers",
+        "parapets",
+        "escape routes"
+      ],
+      "tags_architectural": [
+        "circulation",
+        "safety",
+        "clearance",
+        "accessibility"
+      ],
+      "confidence": 0.96
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "model": "gpt-6-luna",
+  "checks": {
+    "checks": [
+      {
+        "ficha_index": 0,
+        "dimension_index": 0,
+        "status": "corrected",
+        "value": 0.3333333333333333,
+        "value_max": null,
+        "reason": "The text visibly states \u201cabout \u2153 of the total area\u201d; normalized the printed fraction to a ratio."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 1,
+        "status": "verified",
+        "value": 10.0,
+        "value_max": 40.0,
+        "reason": "The diagram caption states \u201cShallow-water zone, water depth 10\u201340 cm.\u201d"
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 2,
+        "status": "uncertain",
+        "value": null,
+        "value_max": null,
+        "reason": "The section diagram visibly labels the depth \u201c80\u2013100,\u201d but does not show a unit for this label; the proposed cm unit cannot be verified."
+      }
+    ]
+  },
+  "automatic": [
+    {
+      "ficha_index": 0,
+      "dimension_index": 0,
+      "issues": [
+        "Unknown unit"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 1,
+      "issues": []
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 2,
+      "issues": []
+    }
+  ],
+  "usage": [
+    {
+      "prompt_tokens": 5239,
+      "completion_tokens": 762
+    },
+    {
+      "prompt_tokens": 3528,
+      "completion_tokens": 340
+    }
+  ]
+}

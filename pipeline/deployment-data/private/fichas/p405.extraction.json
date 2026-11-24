@@ -1,0 +1,274 @@
+{
+  "fichas": [
+    {
+      "id": "4122fb96e4bd1976-405-vision-0",
+      "pdf_page": 405,
+      "book_page": 392,
+      "chapter": "TRANSPORT",
+      "section": "Parking Facilities",
+      "title": "Multi-storey Car Parks",
+      "summary": "Design guidance for multi-storey car parks covers parking-space widths, structural fire resistance, access and storey heights, column layouts, ramp arrangements, design loads, and ramp gradient transitions. Layout requirements are in principle the same as for open car parks. Reinforced concrete is described as well suited to fire-resistance requirements; steel structures generally require fire-protective cladding or treatment. Diagrams show space requirements, parking arrangements, ramp types, and gradient changes.",
+      "building_type": "Multi-storey car park",
+      "spaces": [
+        "Parking spaces",
+        "Access lanes",
+        "Straight ramps",
+        "Spiral ramps",
+        "Parking levels"
+      ],
+      "uses": [
+        "Passenger-car parking",
+        "Vehicle access and circulation",
+        "Parking motorcycles and bicycles"
+      ],
+      "furniture_equipment": [
+        "Structural columns",
+        "Direction signage",
+        "Fire-protective cladding or boards"
+      ],
+      "dimensions": [
+        {
+          "label": "Minimum parking-space width under Garage Regulations",
+          "value": 2.3,
+          "value_max": null,
+          "unit": "m",
+          "context": "Parking space width in multi-storey car parks.",
+          "status": "uncertain",
+          "ocr_raw": "a minimum width for parking spaces of 2.30 m"
+        },
+        {
+          "label": "Recommended minimum width for publicly accessible parking spaces",
+          "value": 2.5,
+          "value_max": null,
+          "unit": "m",
+          "context": "Parking-space width recommendation by FGSV.",
+          "status": "uncertain",
+          "ocr_raw": "a minimum width of 2.50 m for all publicly accessible parking spaces"
+        },
+        {
+          "label": "Recommended clear access height",
+          "value": 2.2,
+          "value_max": null,
+          "unit": "m",
+          "context": "Clear access height for car parks above and below ground.",
+          "status": "uncertain",
+          "ocr_raw": "The recommended clear access height for car parks above and below the ground is 2.20 m."
+        },
+        {
+          "label": "Additional height for signage",
+          "value": 25.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Practical addition for direction signage for cars and pedestrians.",
+          "status": "uncertain",
+          "ocr_raw": "An addition of 25 cm is practical for the direction signage for cars and pedestrians"
+        },
+        {
+          "label": "Additional height for later resurfacing",
+          "value": 5.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Further addition to allow later resurfacing.",
+          "status": "uncertain",
+          "ocr_raw": "plus a further 5 cm for later resurfacing."
+        },
+        {
+          "label": "Total height allowance including access height and additions",
+          "value": 2.5,
+          "value_max": null,
+          "unit": "m",
+          "context": "Total height before construction over access ways.",
+          "status": "uncertain",
+          "ocr_raw": "This gives a total height of 2.50 m plus construction over the access ways"
+        },
+        {
+          "label": "Storey height",
+          "value": 2.75,
+          "value_max": 3.5,
+          "unit": "m",
+          "context": "Depending on the chosen construction method.",
+          "status": "uncertain",
+          "ocr_raw": "a storey height of 2.75-3.50 m"
+        },
+        {
+          "label": "Reduction in column area on plan for wide-spanning column-free construction",
+          "value": 7.0,
+          "value_max": 12.0,
+          "unit": "%",
+          "context": "Compared with the referenced alternative column arrangement; the text describes less column area on plan.",
+          "status": "uncertain",
+          "ocr_raw": "7-12% less column area on plan"
+        },
+        {
+          "label": "Design live load for passenger-car parking areas",
+          "value": 3.5,
+          "value_max": null,
+          "unit": "kN/m²",
+          "context": "Design-purpose live loading for passenger-car car parks.",
+          "status": "uncertain",
+          "ocr_raw": "a live loading of 3.5 kN/m 2"
+        },
+        {
+          "label": "Design live load for ramps",
+          "value": 5.0,
+          "value_max": null,
+          "unit": "kN/m²",
+          "context": "Design-purpose live loading on ramps.",
+          "status": "uncertain",
+          "ocr_raw": "the ramps for 5 kN/m 2 for design purposes"
+        },
+        {
+          "label": "Design live load for greened roofs",
+          "value": 10.0,
+          "value_max": null,
+          "unit": "kN/m²",
+          "context": "Design-purpose live loading for greened roofs.",
+          "status": "uncertain",
+          "ocr_raw": "for greened roofs 10 kN/m 2"
+        },
+        {
+          "label": "Single-lane straight ramp width shown in diagram",
+          "value": 3.25,
+          "value_max": null,
+          "unit": "m",
+          "context": "Minimum width of straight ramps, single-lane diagram.",
+          "status": "uncertain",
+          "ocr_raw": "3.25"
+        },
+        {
+          "label": "Two-lane straight ramp width shown in diagram",
+          "value": 6.5,
+          "value_max": null,
+          "unit": "m",
+          "context": "Minimum width of straight ramps, two-lane diagram.",
+          "status": "uncertain",
+          "ocr_raw": "6.50"
+        },
+        {
+          "label": "Barrier height shown in ramp diagram",
+          "value": 8.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Barrier on the two-lane straight-ramp diagram.",
+          "status": "uncertain",
+          "ocr_raw": "Barrier, height H = 8 cm"
+        },
+        {
+          "label": "Gradient difference requiring rounding or flattening",
+          "value": 8.0,
+          "value_max": null,
+          "unit": "%",
+          "context": "At changes of gradient, differences over this value should be rounded or flattened to prevent vehicles grounding.",
+          "status": "uncertain",
+          "ocr_raw": "gradient differences over 8% should be rounded or flattened"
+        },
+        {
+          "label": "Crest vertical radius",
+          "value": 15.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Minimum radius stated for vertical curves at crests.",
+          "status": "uncertain",
+          "ocr_raw": "at crests of Hₖ ≥15 m"
+        },
+        {
+          "label": "Trough vertical radius",
+          "value": 20.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Minimum radius stated for vertical curves at troughs.",
+          "status": "uncertain",
+          "ocr_raw": "at troughs of Hᵥ ≥20 m"
+        },
+        {
+          "label": "Gradient change for half-gradient flattening provision",
+          "value": 15.0,
+          "value_max": null,
+          "unit": "%",
+          "context": "For gradient changes up to this value, the stated half-gradient flattening is sufficient.",
+          "status": "uncertain",
+          "ocr_raw": "At gradient changes of up to 15%, it is sufficient"
+        },
+        {
+          "label": "Crest flattening length",
+          "value": 1.5,
+          "value_max": null,
+          "unit": "m",
+          "context": "Length at crest when using the stated half-gradient flattening for gradient changes up to 15%.",
+          "status": "uncertain",
+          "ocr_raw": "with a length of 1.5 m at crest"
+        },
+        {
+          "label": "Trough flattening length",
+          "value": 2.5,
+          "value_max": null,
+          "unit": "m",
+          "context": "Length at trough when using the stated half-gradient flattening for gradient changes up to 15%.",
+          "status": "uncertain",
+          "ocr_raw": "and 2.5 m at trough"
+        },
+        {
+          "label": "Car-park area allowance per car",
+          "value": 20.0,
+          "value_max": 30.0,
+          "unit": "m²",
+          "context": "Area chart; cars, per vehicle.",
+          "status": "uncertain",
+          "ocr_raw": "cars (20–30 m² each)"
+        },
+        {
+          "label": "Car-park area allowance per motorcycle",
+          "value": 5.0,
+          "value_max": 7.5,
+          "unit": "m²",
+          "context": "Area chart; motorcycles, per vehicle.",
+          "status": "uncertain",
+          "ocr_raw": "motorcycles (5.00–7.50 m² each)"
+        },
+        {
+          "label": "Car-park area allowance per bicycle",
+          "value": 2.0,
+          "value_max": 2.5,
+          "unit": "m²",
+          "context": "Area chart; bicycles, per vehicle.",
+          "status": "uncertain",
+          "ocr_raw": "bicycle (2.00–2.50 m² each)"
+        }
+      ],
+      "figure_refs": [
+        "1 Space requirement of car parks including access areas",
+        "2 Longitudinal ramp",
+        "3 Transverse ramp",
+        "4 Possible column arrangement for right-angled parking",
+        "5 45° oblique parking",
+        "6 Possible column layouts",
+        "7 Minimum width of straight ramps",
+        "8 Spiral car park ramp",
+        "9 Ramps – changes of slope"
+      ],
+      "cross_refs": [
+        "p. 390",
+        "p. 393",
+        "p. 394"
+      ],
+      "keywords": [
+        "multi-storey car parks",
+        "parking-space width",
+        "access height",
+        "column layout",
+        "straight ramps",
+        "spiral ramps",
+        "fire resistance",
+        "design loads",
+        "gradient transitions"
+      ],
+      "tags_architectural": [
+        "circulation",
+        "clearance",
+        "safety",
+        "spatial_proportion"
+      ],
+      "confidence": 0.89
+    }
+  ]
+}

@@ -1,0 +1,229 @@
+{
+  "fichas": [
+    {
+      "id": "4122fb96e4bd1976-547-vision-0",
+      "pdf_page": 547,
+      "book_page": 534,
+      "chapter": "BUILDING SERVICES",
+      "section": "Domestic Installation",
+      "title": "Underfloor heating systems",
+      "summary": "Underfloor heating transfers heat from the floor to the air by convection and to walls and ceilings by radiation. The page illustrates snail-shaped, meander-shaped, and reversing-meander pipe layouts, wet and dry floor constructions, pipes within the insulation layer, and a ceiling-heating layout. Floor coverings may include ceramics, wood, textiles, and other common materials. Screed thickness depends on its type, laying method, and assumed load; screed should comply with DIN 18560 or the cited association bulletins.",
+      "building_type": "Residential buildings",
+      "spaces": [
+        "Floors",
+        "Ceilings"
+      ],
+      "uses": [
+        "Space heating"
+      ],
+      "furniture_equipment": [
+        "Underfloor heating pipes",
+        "Screed",
+        "Floor covering",
+        "Insulation",
+        "PE foil",
+        "Impact sound insulation"
+      ],
+      "dimensions": [
+        {
+          "label": "Minimum screed cover over pipes",
+          "value": 45.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Wet-laid underfloor heating floor construction; minimum cover to pipes.",
+          "status": "uncertain",
+          "ocr_raw": "Screed (cover to pipes min. 45 mm;"
+        },
+        {
+          "label": "PE foil thickness",
+          "value": 0.2,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Wet-laid underfloor heating floor construction.",
+          "status": "uncertain",
+          "ocr_raw": "PE foil 0.2 mm"
+        },
+        {
+          "label": "Insulation thickness",
+          "value": 40.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Wet-laid underfloor heating floor construction.",
+          "status": "uncertain",
+          "ocr_raw": "Insulation 40 mm"
+        },
+        {
+          "label": "Dry screed thickness",
+          "value": 45.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Dry-laid underfloor heating floor construction and pipes laid within the insulation layer.",
+          "status": "uncertain",
+          "ocr_raw": "Dry screed 45 mm"
+        },
+        {
+          "label": "PE foil thickness",
+          "value": 0.2,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Dry-laid underfloor heating floor construction and pipes laid within the insulation layer.",
+          "status": "uncertain",
+          "ocr_raw": "PE foil 0.2 mm"
+        },
+        {
+          "label": "Laying element/insulation layer thickness",
+          "value": 30.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Dry-laid underfloor heating floor construction and pipes laid within the insulation layer.",
+          "status": "uncertain",
+          "ocr_raw": "Laying element/insulation layer 30 mm"
+        },
+        {
+          "label": "Heat output",
+          "value": 70.0,
+          "value_max": 110.0,
+          "unit": "W/m²",
+          "context": "Underfloor heating; output depends on floor construction.",
+          "status": "uncertain",
+          "ocr_raw": "The heat output, depending on floor construction, can be 70-110 W/m2."
+        },
+        {
+          "label": "Maximum thermal resistance of floor covering",
+          "value": 0.15,
+          "value_max": null,
+          "unit": "m² kW",
+          "context": "Thermal resistance of the floor covering should not exceed this value; unit reproduced as printed/OCRed.",
+          "status": "uncertain",
+          "ocr_raw": "the thermal resistance should not exceed 0.15 m2 kW."
+        }
+      ],
+      "figure_refs": [
+        "1 Layout patterns for underfloor heating",
+        "2 Underfloor heating (wet laying)",
+        "3 Underfloor heating (dry laying)",
+        "4 Underfloor heating — pipes laid within the insulation layer",
+        "5 Layout pattern of a ceiling heating system"
+      ],
+      "cross_refs": [],
+      "keywords": [
+        "underfloor heating",
+        "floor construction",
+        "screed",
+        "pipe layout",
+        "heat output",
+        "ceiling heating"
+      ],
+      "tags_architectural": [
+        "spatial_proportion"
+      ],
+      "confidence": 0.95
+    },
+    {
+      "id": "4122fb96e4bd1976-547-vision-1",
+      "pdf_page": 547,
+      "book_page": 534,
+      "chapter": "BUILDING SERVICES",
+      "section": "Domestic Installation",
+      "title": "Convectors and radiator covers",
+      "summary": "Convectors transfer heat solely by convection, giving a short warm-up time but potentially causing strong air currents, dust movement, and noise. Blowers may improve output where recess height is limited, but noise can make blower-equipped convectors unsuitable for homes. Underfloor convectors can be used beside floor-level glazing, and mini- or screed convectors can complement underfloor heating. Radiator covers reduce efficiency; insufficiently sized air openings can increase the loss. Metal covers transfer much of the radiation component to room air, while other low-conductivity materials reduce radiation.",
+      "building_type": "Residential buildings",
+      "spaces": [
+        "Rooms",
+        "Areas beside floor-level glazing"
+      ],
+      "uses": [
+        "Space heating",
+        "Supplementing underfloor heating"
+      ],
+      "furniture_equipment": [
+        "Convectors",
+        "Underfloor convectors",
+        "Mini- or screed convectors",
+        "Radiators",
+        "Radiator covers",
+        "Blowers"
+      ],
+      "dimensions": [
+        {
+          "label": "Efficiency loss from radiator covers",
+          "value": 10.0,
+          "value_max": 15.0,
+          "unit": "%",
+          "context": "Loss resulting from covering radiators in various ways.",
+          "status": "uncertain",
+          "ocr_raw": "resulting in a loss of efficiency of 10-15%."
+        },
+        {
+          "label": "Efficiency loss with insufficiently large air openings",
+          "value": 30.0,
+          "value_max": null,
+          "unit": "%",
+          "context": "Radiator covers with insufficiently large air intake and outlet openings; loss can increase to this amount.",
+          "status": "uncertain",
+          "ocr_raw": "this loss can even increase to 30%"
+        }
+      ],
+      "figure_refs": [
+        "6 Underfloor convector",
+        "7 Mini-convector (screed convector) in combination with underfloor heating (principle)",
+        "8 Surface-mounted convector",
+        "9 Convector in recess"
+      ],
+      "cross_refs": [
+        "p. 533"
+      ],
+      "keywords": [
+        "convector",
+        "radiator cover",
+        "underfloor convector",
+        "screed convector",
+        "convection",
+        "radiation"
+      ],
+      "tags_architectural": [
+        "ventilation"
+      ],
+      "confidence": 0.94
+    },
+    {
+      "id": "4122fb96e4bd1976-547-vision-2",
+      "pdf_page": 547,
+      "book_page": 534,
+      "chapter": "BUILDING SERVICES",
+      "section": "Domestic Installation",
+      "title": "Convector installation arrangements",
+      "summary": "The diagrams show convectors installed under windows, in front of smooth walls, free-standing for heating two rooms, built into or surface-mounted on walls, in recesses, beneath floors with different air-intake arrangements, and behind bench seats.",
+      "building_type": "Residential buildings",
+      "spaces": [
+        "Rooms",
+        "Areas beneath floors",
+        "Areas beside windows and walls"
+      ],
+      "uses": [
+        "Space heating"
+      ],
+      "furniture_equipment": [
+        "Convectors",
+        "Bench seat"
+      ],
+      "dimensions": [],
+      "figure_refs": [
+        "10 Various ways of installing convectors"
+      ],
+      "cross_refs": [],
+      "keywords": [
+        "convector installation",
+        "underfloor convector",
+        "wall-mounted convector",
+        "recessed convector",
+        "air intake"
+      ],
+      "tags_architectural": [
+        "circulation",
+        "ventilation"
+      ],
+      "confidence": 0.97
+    }
+  ]
+}

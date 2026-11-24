@@ -1,0 +1,32 @@
+{
+  "model": "gpt-6-luna",
+  "checks": {
+    "checks": [
+      {
+        "ficha_index": 0,
+        "dimension_index": 0,
+        "status": "verified",
+        "value": 60.0,
+        "value_max": 200.0,
+        "reason": "Figure 2 caption visibly states \u201cfloor area of 60\u2013200 m\u00b2 each,\u201d agreeing with both proposed values and the unit."
+      }
+    ]
+  },
+  "automatic": [
+    {
+      "ficha_index": 0,
+      "dimension_index": 0,
+      "issues": []
+    }
+  ],
+  "usage": [
+    {
+      "prompt_tokens": 3990,
+      "completion_tokens": 851
+    },
+    {
+      "prompt_tokens": 3732,
+      "completion_tokens": 107
+    }
+  ]
+}

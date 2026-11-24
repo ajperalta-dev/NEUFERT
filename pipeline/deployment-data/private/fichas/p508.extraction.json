@@ -1,0 +1,141 @@
+{
+  "fichas": [
+    {
+      "id": "4122fb96e4bd1976-508-vision-0",
+      "pdf_page": 508,
+      "book_page": 495,
+      "chapter": "BUILDING SERVICES",
+      "section": "Daylight",
+      "title": "Daylight — Window Lighting",
+      "summary": "Explains daylight assessment for window-lit interiors using illuminance and daylight factors. It describes the daylight factor as the ratio of interior to simultaneous exterior illuminance, outlines factors affecting daylight distribution, and gives reference-plane conventions, minimum daylight-factor guidance, and window-width recommendations. The page also illustrates seasonal exterior illuminance, daylight-factor distributions, and the effect of adjacent buildings.",
+      "building_type": "Buildings with window lighting",
+      "spaces": [
+        "Interior rooms",
+        "Residential rooms",
+        "Workrooms"
+      ],
+      "uses": [
+        "Assess daylight quality and distribution",
+        "Determine daylight factors and uniformity",
+        "Set reference points for horizontal illuminance",
+        "Inform window sizing and visual connections to the outside"
+      ],
+      "furniture_equipment": [
+        "Windows",
+        "Glazing",
+        "Reference plane"
+      ],
+      "dimensions": [
+        {
+          "label": "Exterior illuminance example, clouded sky",
+          "value": 5000.0,
+          "value_max": 20000.0,
+          "unit": "lx",
+          "context": "Exterior horizontal illuminance varies with time of year; the text gives 5000 lx in winter and up to 20,000 lx in summer.",
+          "status": "uncertain",
+          "ocr_raw": "The outside illuminance of the clouded sky varies according to the time of day and year: 5000 lx in the winter, and up to 20,000 lx in the summer"
+        },
+        {
+          "label": "Interior illuminance example",
+          "value": 500.0,
+          "value_max": null,
+          "unit": "lx",
+          "context": "Example paired with exterior illuminance of 5000 lx to illustrate a daylight factor of 10%.",
+          "status": "uncertain",
+          "ocr_raw": "outside illuminance 5000 lx and inside illuminance 500 lx gives D = 10%."
+        },
+        {
+          "label": "Daylight factor example",
+          "value": 10.0,
+          "value_max": null,
+          "unit": "%",
+          "context": "Example for simultaneous exterior illuminance of 5000 lx and interior illuminance of 500 lx.",
+          "status": "uncertain",
+          "ocr_raw": "outside illuminance 5000 lx and inside illuminance 500 lx gives D = 10%."
+        },
+        {
+          "label": "Windowsill level",
+          "value": 0.85,
+          "value_max": null,
+          "unit": "m",
+          "context": "Assumed windowsill level for the reference plane used for horizontal illuminance.",
+          "status": "uncertain",
+          "ocr_raw": "The level of the windowsill is assumed at 0.85 m"
+        },
+        {
+          "label": "Distance to surrounding room surfaces",
+          "value": 1.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Reference-plane convention for window lighting.",
+          "status": "uncertain",
+          "ocr_raw": "the distance to the surrounding surfaces of the room is 1 m."
+        },
+        {
+          "label": "Minimum daylight factor in residential rooms",
+          "value": 1.0,
+          "value_max": null,
+          "unit": "%",
+          "context": "Minimum Dmin; reference point is the middle of the room.",
+          "status": "uncertain",
+          "ocr_raw": "Dmin ≥ 1% in residential rooms: reference point- middle of the room"
+        },
+        {
+          "label": "Minimum daylight factor in workrooms with windows on two sides",
+          "value": 2.0,
+          "value_max": null,
+          "unit": "%",
+          "context": "Minimum Dmin for workrooms with windows on two sides.",
+          "status": "uncertain",
+          "ocr_raw": "Dmin ≥ 2% in workrooms -with windows on two sides"
+        },
+        {
+          "label": "Daylight uniformity ratio",
+          "value": 1.0,
+          "value_max": null,
+          "unit": "ratio",
+          "context": "Printed as Dmin/Dmax ≥ 1:6 for indirect light; the complete ratio is 1:6.",
+          "status": "uncertain",
+          "ocr_raw": "G = uniformity: Dmin/Dmax ≥ 1:6 indirect light"
+        },
+        {
+          "label": "Minimum window width relative to room width",
+          "value": 65.0,
+          "value_max": null,
+          "unit": "%",
+          "context": "Window width before finishings should be at least 65% of room width; the text cautions that even 100% may not suffice in some conditions.",
+          "status": "uncertain",
+          "ocr_raw": "window width should be ≥65% of room width"
+        }
+      ],
+      "figure_refs": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "cross_refs": [
+        "DIN 5034",
+        "BS 8206-2",
+        "LBO"
+      ],
+      "keywords": [
+        "daylight",
+        "window lighting",
+        "daylight factor",
+        "illuminance",
+        "uniformity",
+        "glazing",
+        "window width",
+        "visual connection"
+      ],
+      "tags_architectural": [
+        "daylighting",
+        "spatial_proportion"
+      ],
+      "confidence": 0.95
+    }
+  ]
+}

@@ -1,0 +1,502 @@
+{
+  "fichas": [
+    {
+      "id": "4122fb96e4bd1976-475-vision-0",
+      "pdf_page": 475,
+      "book_page": 462,
+      "chapter": "SUPPLY AND DISPOSAL",
+      "section": "Loading Ramps, Bridges, Lifting Platforms",
+      "title": "Loading ramps and bridges",
+      "summary": "Loading bridges connect loading ramps or yards to trucks and trailers at differing floor heights. The page illustrates flexible, mobile, slewing, and automatic hydraulic bridges, plus height-adjustment wedges and simple ramps.",
+      "building_type": "Loading and service area",
+      "spaces": [
+        "Loading yard",
+        "Loading ramp",
+        "Vehicle loading bay"
+      ],
+      "uses": [
+        "Bridge level differences between yard or ramp and vehicle",
+        "Load and unload trucks, trailers, and railway wagons"
+      ],
+      "furniture_equipment": [
+        "Mobile loading bridge",
+        "Flexible bridging plate",
+        "Slewing loading bridge",
+        "Hydraulic loading bridge with projecting lip",
+        "Height-adjustment wedges",
+        "Loading plate"
+      ],
+      "dimensions": [
+        {
+          "label": "Ramp height, normally",
+          "value": 1.1,
+          "value_max": null,
+          "unit": "m",
+          "context": "Mobile loading bridge; normal ramp height",
+          "status": "verified",
+          "ocr_raw": "normally 1.10 m"
+        },
+        {
+          "label": "Ramp height, larger vehicles",
+          "value": 1.25,
+          "value_max": null,
+          "unit": "m",
+          "context": "Mobile loading bridge; larger vehicles",
+          "status": "verified",
+          "ocr_raw": "1.25 m"
+        },
+        {
+          "label": "Slewing loading bridge length",
+          "value": 1500.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "First listed table entry; adjustable sideways bridge",
+          "status": "verified",
+          "ocr_raw": "1500"
+        },
+        {
+          "label": "Slewing loading bridge width",
+          "value": 1500.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "First listed table entry; adjustable sideways bridge",
+          "status": "verified",
+          "ocr_raw": "1500"
+        },
+        {
+          "label": "Slewing loading bridge load capacity",
+          "value": 3000.0,
+          "value_max": null,
+          "unit": "kg",
+          "context": "First listed table entry; adjustable sideways bridge",
+          "status": "verified",
+          "ocr_raw": "3000"
+        },
+        {
+          "label": "Slewing loading bridge length",
+          "value": 1750.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Second listed table entry; adjustable sideways bridge",
+          "status": "verified",
+          "ocr_raw": "1750"
+        },
+        {
+          "label": "Slewing loading bridge width",
+          "value": 1500.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Second listed table entry; adjustable sideways bridge",
+          "status": "verified",
+          "ocr_raw": "1500"
+        },
+        {
+          "label": "Slewing loading bridge load capacity",
+          "value": 3000.0,
+          "value_max": null,
+          "unit": "kg",
+          "context": "Second listed table entry; adjustable sideways bridge",
+          "status": "verified",
+          "ocr_raw": "3000"
+        },
+        {
+          "label": "Slewing loading bridge length",
+          "value": 1750.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Third listed table entry; adjustable sideways bridge",
+          "status": "verified",
+          "ocr_raw": "1750"
+        },
+        {
+          "label": "Slewing loading bridge width",
+          "value": 1750.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Third listed table entry; adjustable sideways bridge",
+          "status": "verified",
+          "ocr_raw": "1750"
+        },
+        {
+          "label": "Slewing loading bridge load capacity",
+          "value": 5000.0,
+          "value_max": null,
+          "unit": "kg",
+          "context": "Third listed table entry; adjustable sideways bridge",
+          "status": "verified",
+          "ocr_raw": "5000"
+        }
+      ],
+      "figure_refs": [
+        "3",
+        "4",
+        "6",
+        "9",
+        "10",
+        "11"
+      ],
+      "cross_refs": [
+        "Trucks parking and turning pp. 387 ff."
+      ],
+      "keywords": [
+        "loading bridge",
+        "loading ramp",
+        "vehicle access",
+        "level difference",
+        "loading dock"
+      ],
+      "tags_architectural": [
+        "circulation",
+        "adaptability",
+        "safety"
+      ],
+      "confidence": 0.88
+    },
+    {
+      "id": "4122fb96e4bd1976-475-vision-1",
+      "pdf_page": 475,
+      "book_page": 462,
+      "chapter": "SUPPLY AND DISPOSAL",
+      "section": "Loading Ramps, Bridges, Lifting Platforms",
+      "title": "Forklift truck dimensions",
+      "summary": "A diagram and table give safe working loads and width and length dimensions for forklift trucks. The page notes electric, diesel, petrol, and gas versions.",
+      "building_type": "Loading and service area",
+      "spaces": [
+        "Loading yard",
+        "Loading ramp",
+        "Vehicle loading bay"
+      ],
+      "uses": [
+        "Transport and lift loads during truck loading and unloading"
+      ],
+      "furniture_equipment": [
+        "Forklift truck"
+      ],
+      "dimensions": [
+        {
+          "label": "Safe working load",
+          "value": 2.5,
+          "value_max": null,
+          "unit": "t",
+          "context": "Forklift truck; first table column",
+          "status": "verified",
+          "ocr_raw": "S.W.L.Itl\nw(m)\nlim)\n\n0 Pallet truck\n\n2.5"
+        },
+        {
+          "label": "Safe working load",
+          "value": 3.5,
+          "value_max": null,
+          "unit": "t",
+          "context": "Forklift truck; second table column",
+          "status": "verified",
+          "ocr_raw": "3.5"
+        },
+        {
+          "label": "Safe working load",
+          "value": 7.0,
+          "value_max": null,
+          "unit": "t",
+          "context": "Forklift truck; third table column",
+          "status": "verified",
+          "ocr_raw": "7"
+        },
+        {
+          "label": "Safe working load",
+          "value": 13.0,
+          "value_max": null,
+          "unit": "t",
+          "context": "Forklift truck; fourth table column",
+          "status": "verified",
+          "ocr_raw": "13"
+        },
+        {
+          "label": "Width",
+          "value": 1.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Forklift truck corresponding to 2.5 t safe working load",
+          "status": "verified",
+          "ocr_raw": "1.0"
+        },
+        {
+          "label": "Width",
+          "value": 1.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Forklift truck corresponding to 3.5 t safe working load",
+          "status": "verified",
+          "ocr_raw": "1.0"
+        },
+        {
+          "label": "Width",
+          "value": 1.2,
+          "value_max": null,
+          "unit": "m",
+          "context": "Forklift truck corresponding to 7 t safe working load",
+          "status": "verified",
+          "ocr_raw": "1.2"
+        },
+        {
+          "label": "Width",
+          "value": 1.5,
+          "value_max": null,
+          "unit": "m",
+          "context": "Forklift truck corresponding to 13 t safe working load",
+          "status": "verified",
+          "ocr_raw": "1.5"
+        },
+        {
+          "label": "Length",
+          "value": 2.4,
+          "value_max": null,
+          "unit": "m",
+          "context": "Forklift truck corresponding to 2.5 t safe working load",
+          "status": "verified",
+          "ocr_raw": "2.4"
+        },
+        {
+          "label": "Length",
+          "value": 2.8,
+          "value_max": null,
+          "unit": "m",
+          "context": "Forklift truck corresponding to 3.5 t safe working load",
+          "status": "verified",
+          "ocr_raw": "2.8"
+        },
+        {
+          "label": "Length",
+          "value": 3.4,
+          "value_max": null,
+          "unit": "m",
+          "context": "Forklift truck corresponding to 7 t safe working load",
+          "status": "verified",
+          "ocr_raw": "3.4"
+        },
+        {
+          "label": "Length",
+          "value": 3.6,
+          "value_max": null,
+          "unit": "m",
+          "context": "Forklift truck corresponding to 13 t safe working load",
+          "status": "verified",
+          "ocr_raw": "3.6"
+        }
+      ],
+      "figure_refs": [
+        "2"
+      ],
+      "cross_refs": [],
+      "keywords": [
+        "forklift",
+        "truck",
+        "safe working load",
+        "vehicle dimensions"
+      ],
+      "tags_architectural": [
+        "circulation",
+        "safety"
+      ],
+      "confidence": 0.81
+    },
+    {
+      "id": "4122fb96e4bd1976-475-vision-2",
+      "pdf_page": 475,
+      "book_page": 462,
+      "chapter": "SUPPLY AND DISPOSAL",
+      "section": "Loading Ramps, Bridges, Lifting Platforms",
+      "title": "Hydraulic scissor-lift loading platforms",
+      "summary": "Hydraulic scissor lifts bridge level differences between yard and vehicle or yard and ramp, and allow loading platforms to adapt to truck level. The diagrams show a platform for overcoming a ramp-to-yard difference and an HGV being loaded using a scissor lift.",
+      "building_type": "Loading and service area",
+      "spaces": [
+        "Loading yard",
+        "Loading platform",
+        "Loading ramp",
+        "Vehicle loading bay"
+      ],
+      "uses": [
+        "Raise or lower a loading platform to bridge level differences",
+        "Load and unload vehicles at different heights"
+      ],
+      "furniture_equipment": [
+        "Hydraulic scissor-lift platform",
+        "Loading platform"
+      ],
+      "dimensions": [
+        {
+          "label": "Platform plan dimension",
+          "value": 1.38,
+          "value_max": null,
+          "unit": "m",
+          "context": "Hydraulic scissor-lift diagram; first plan dimension",
+          "status": "uncertain",
+          "ocr_raw": "1.38 X 88"
+        },
+        {
+          "label": "Platform plan dimension",
+          "value": 0.88,
+          "value_max": null,
+          "unit": "m",
+          "context": "Hydraulic scissor-lift diagram; second plan dimension",
+          "status": "uncertain",
+          "ocr_raw": "1.38 X 88"
+        },
+        {
+          "label": "Platform plan dimension",
+          "value": 3.03,
+          "value_max": null,
+          "unit": "m",
+          "context": "HGV loading scissor-lift diagram; first plan dimension",
+          "status": "uncertain",
+          "ocr_raw": "3.03 X 1.53"
+        },
+        {
+          "label": "Platform plan dimension",
+          "value": 1.53,
+          "value_max": null,
+          "unit": "m",
+          "context": "HGV loading scissor-lift diagram; second plan dimension",
+          "status": "uncertain",
+          "ocr_raw": "3.03 X 1.53"
+        }
+      ],
+      "figure_refs": [
+        "7",
+        "8",
+        "12",
+        "13",
+        "14"
+      ],
+      "cross_refs": [],
+      "keywords": [
+        "hydraulic scissor lift",
+        "loading platform",
+        "yard level",
+        "HGV"
+      ],
+      "tags_architectural": [
+        "adaptability",
+        "circulation",
+        "safety"
+      ],
+      "confidence": 0.8
+    },
+    {
+      "id": "4122fb96e4bd1976-475-vision-3",
+      "pdf_page": 475,
+      "book_page": 462,
+      "chapter": "SUPPLY AND DISPOSAL",
+      "section": "Loading Ramps, Bridges, Lifting Platforms",
+      "title": "Loading-bay weather protection and gates",
+      "summary": "The page illustrates an integrated loading ramp and weather-protection system, roofed-over and indoor loading arrangements, and rubber segment and bead gate waterproofing. One gate adapts elastically to different vehicle heights.",
+      "building_type": "Loading and service area",
+      "spaces": [
+        "Loading bay",
+        "Loading ramp",
+        "Indoor loading area"
+      ],
+      "uses": [
+        "Protect loading interfaces from weather",
+        "Waterproof the vehicle-to-building interface during loading"
+      ],
+      "furniture_equipment": [
+        "Integrated loading ramp and weather protection system",
+        "Rubber segment gate",
+        "Rubber bead gate",
+        "Rubber muff"
+      ],
+      "dimensions": [
+        {
+          "label": "Gate opening width",
+          "value": 2.06,
+          "value_max": null,
+          "unit": "m",
+          "context": "Rubber segment gate waterproofing; dimension shown at opening",
+          "status": "uncertain",
+          "ocr_raw": "l---1.38 X 88"
+        },
+        {
+          "label": "Gate height",
+          "value": 3.1,
+          "value_max": null,
+          "unit": "m",
+          "context": "Rubber segment gate waterproofing; overall height shown",
+          "status": "uncertain",
+          "ocr_raw": "3.10"
+        },
+        {
+          "label": "Rubber bead gate height",
+          "value": 3.1,
+          "value_max": null,
+          "unit": "m",
+          "context": "Rubber bead gate waterproofing; overall height shown",
+          "status": "uncertain",
+          "ocr_raw": "3.10"
+        },
+        {
+          "label": "Elastic adjustment dimension",
+          "value": 1.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Rubber bead gate; vertical dimension shown beside elastic adjustment",
+          "status": "uncertain",
+          "ocr_raw": "1.00"
+        },
+        {
+          "label": "Dimension shown at gate edge",
+          "value": 0.8,
+          "value_max": null,
+          "unit": "m",
+          "context": "Rubber bead gate diagram",
+          "status": "uncertain",
+          "ocr_raw": "80"
+        },
+        {
+          "label": "Dimension shown at gate edge",
+          "value": 0.4,
+          "value_max": null,
+          "unit": "m",
+          "context": "Rubber bead gate diagram",
+          "status": "uncertain",
+          "ocr_raw": "40"
+        },
+        {
+          "label": "Dimension shown at gate plan",
+          "value": 2.2,
+          "value_max": null,
+          "unit": "m",
+          "context": "Rubber bead gate diagram",
+          "status": "uncertain",
+          "ocr_raw": "LOADING RAMPS, BRIDGES, LIFTING PLATFORMS\n\nf--L----i\n\nS.W.L.Itl\nw(m)\nlim)\n\n0 Pallet truck\n\n2.5\n1.0\n2.4\n\n3.5\n1.0\n2.8\n\n1.2\n3.4\n\n13\n1.5\n3.6\n\nf) Forklift truck: dimensions\n\nIn order to load trucks safely, ramps and vehicles must be safely\nbridged. Loading bridges should connect to any vehicle or trailer\nin safety, and the loading surface of the vehicle can be higher or\nlower than the ramp ~ 8- 0. Aluminium lifting wedges are ideal\nto lift lower vehicles up to ramp height ~ e. Lifting wedges can\nbe rolled easily to various locations for use. Slewing loading bridges of light metal can be adjusted sideways ~ e + o.\nMobile loading bridges can be rolled or carried and also used for\nloading railway wagons ~ 0. Automatic hydraulic loading bridge\nwith projecting lip~ Cli)\nHydraulic scissorlift platforms can overcome level differences between yard and vehicle ~ e or between yard and ramp ~ o.\nContinuous adaptation to the truck level for loading and unloading\n~ Cli). Forklift trucks are available in electric, diesel, petrol or gas\nversions~ f).\n\n~~~~\n-J11:\n--j_ -\n\nloading platform\n\nI-50-\\\n\n8 Mobile loading bridge, ramp height\nnormally 1.10 m, larger vehicles\n1.25 m\n\ne\n\nBridging plate, flexible\n\n4D\n\ne\n\nSimple ramp ->\n\n8 -8\n\nYard level, loading with lifting\nplatforms or loading ramps -)\n\nQ Permanent and mobile height\n\nLifting the rear axle\n\nadjustment wedges\n\n@) Roofed-over ramp with\n\nSUPPLY AND\nDISPOSAL\n\n0 Indoor loading with\nelectrohydraulic loading\nramps-> Cli)\n\nelectrohydraulic loading\nramps-> Cli)\n\nLoading yards\nLoading ramps\nRubbish chute\nsystems\nRubbish\ncollection rooms\nEmergency\npower rooms\nsee also:\nTrucksparking and\nturning pp. 387 fl.\n\ne\n\nl---1.38 X 88\n\n----J\n\nf) Hydraulic scissorlift to overcome\nlevel difference ramp/yard\n\ne\n\nf-- 3.03 X 1.53 ---j\nHGV loaded using hydraulic\nscissorlift\n\nG) Integrated loading ramp and ramp\nweather protection system\n\ne\n\nSaw-tooth ramps where\nmanoeuvring space is limited\nElastic\n\n~=:::::;;;,;.;{':-l adjustment to\n\n40\n\n884\n\nRubber muff\n\n1.00\n\n.:.~:.:.:.:~·:·:·~·::::~----~\n\nl\n\nany height\n\nT\n\n3.10\n\n::::\n\n::::\n:::::'h-.,,...,..,.\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"'\n·:·:·.\n\n3.10\n\n,-,-,-----:---:--------------,\n\nLength Width\n(mm)\n(mm)\n\nLoad\ncapacity (kg)\n\nAbove Below Length 1 Length2 Width Load\n(mm) (mm) (mm)\n(mm)\n(mm) capacity,\n\n1500\n1750\n1750\n\n3000\n3000\n5000\n\n290\n\n300\n\n2300\n\n2000\n\n1500 3000\n\n360\n\n300\n\n2800\n\n2500\n\n1750 4000\n\n430\n\n300\n\n3300\n\n3000\n\n2000 5000\n\n1500\n1500\n1750\n\n8 Slewing loading bridge,\nadjustable sideways\n\n462\n\n~ Loading bridge\n\nAccording to\nHGV floor height\n\nCf) Rubber segment gate\nwaterproofing\n\n4ll) Rubber bead gate waterproofing\n\n\f"
+        },
+        {
+          "label": "Dimension shown at gate plan",
+          "value": 0.4,
+          "value_max": null,
+          "unit": "m",
+          "context": "Rubber bead gate diagram",
+          "status": "uncertain",
+          "ocr_raw": "40"
+        }
+      ],
+      "figure_refs": [
+        "13",
+        "14",
+        "15",
+        "17",
+        "18"
+      ],
+      "cross_refs": [],
+      "keywords": [
+        "weather protection",
+        "waterproofing",
+        "loading bay",
+        "rubber gate"
+      ],
+      "tags_architectural": [
+        "adaptability",
+        "safety"
+      ],
+      "confidence": 0.64
+    }
+  ]
+}

@@ -1,0 +1,722 @@
+{
+  "fichas": [
+    {
+      "id": "4122fb96e4bd1976-467-vision-0",
+      "pdf_page": 467,
+      "book_page": 454,
+      "chapter": "AGRICULTURE",
+      "section": "Animal Husbandry",
+      "title": "Sheep Housing: Layout and Building Design",
+      "summary": "Guidance for sheep-shed orientation, seasonal and age/sex-based grouping, feeding arrangements, and building construction. The page illustrates sheds with and without transverse gangways, a silo and feed-mixing area, and a large shed plan. It specifies floor and threshold levels, building height, door size, and protective construction details. Window area and feed-mixing area are given as ratios in the text.",
+      "building_type": "Sheep shed",
+      "spaces": [
+        "Sheep pens",
+        "Transverse gangway",
+        "Feeding area",
+        "Feed-mixing area",
+        "Silo",
+        "Hay and straw storage"
+      ],
+      "uses": [
+        "House sheep in groups organized by age and sex",
+        "Provide flexible housing for seasonal changes and lambing",
+        "Feed sheep and store feed",
+        "Remove accumulated dung"
+      ],
+      "furniture_equipment": [
+        "Ladder feed rack with trough",
+        "Mangers",
+        "Adjustable fences",
+        "Silo",
+        "Feed-mixing equipment"
+      ],
+      "dimensions": [
+        {
+          "label": "Shed cross-section",
+          "value": 15.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Cross-section width described as adequate for four groups of ewes with lambs.",
+          "status": "uncertain",
+          "ocr_raw": "15 m shed cross-section sufficient for four groups of ewes with lambs"
+        },
+        {
+          "label": "Floor level below ground",
+          "value": 50.0,
+          "value_max": 60.0,
+          "unit": "cm",
+          "context": "Sheep-shed floor below ground level.",
+          "status": "uncertain",
+          "ocr_raw": "Floor 50–60 cm below ground level."
+        },
+        {
+          "label": "Door threshold above ground",
+          "value": 20.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Door threshold height above ground level.",
+          "status": "uncertain",
+          "ocr_raw": "Door threshold 20 cm above ground level."
+        },
+        {
+          "label": "Dung-filled height difference",
+          "value": 60.0,
+          "value_max": 80.0,
+          "unit": "cm",
+          "context": "Height difference filled with dung, which remains for 3–4 months.",
+          "status": "uncertain",
+          "ocr_raw": "The height difference of 60–80 cm is filled with dung, which remains for 3–4 months."
+        },
+        {
+          "label": "Dung residence period",
+          "value": 3.0,
+          "value_max": 4.0,
+          "unit": "months",
+          "context": "Period dung remains in the height difference beneath the floor.",
+          "status": "uncertain",
+          "ocr_raw": "which remains for 3–4 months."
+        },
+        {
+          "label": "Round manger diameter",
+          "value": 2.2,
+          "value_max": null,
+          "unit": "m",
+          "context": "Diameter of an alternative round manger.",
+          "status": "uncertain",
+          "ocr_raw": "round (diameter 2.20 m)"
+        },
+        {
+          "label": "Elongated manger length",
+          "value": 3.4,
+          "value_max": null,
+          "unit": "m",
+          "context": "Length stated as sufficient for 25–30 sheep.",
+          "status": "uncertain",
+          "ocr_raw": "elongated mangers – 3.40 m is sufficient for 25–30 sheep."
+        },
+        {
+          "label": "Sheep served by elongated manger",
+          "value": 25.0,
+          "value_max": 30.0,
+          "unit": "sheep",
+          "context": "Capacity served by a 3.40 m elongated manger.",
+          "status": "uncertain",
+          "ocr_raw": "3.40 m is sufficient for 25–30 sheep."
+        },
+        {
+          "label": "Feed-container spacing",
+          "value": 2.3,
+          "value_max": null,
+          "unit": "m",
+          "context": "Spacing between feed containers.",
+          "status": "uncertain",
+          "ocr_raw": "Spacing between feed containers 2.30 m"
+        },
+        {
+          "label": "Feed-container distance from wall",
+          "value": 1.8,
+          "value_max": null,
+          "unit": "m",
+          "context": "Distance of feed containers from the wall.",
+          "status": "uncertain",
+          "ocr_raw": "from the wall 1.80 m."
+        },
+        {
+          "label": "Door width",
+          "value": 2.5,
+          "value_max": null,
+          "unit": "m",
+          "context": "Door width for dung removal; source uses a greater-than-or-equal sign.",
+          "status": "uncertain",
+          "ocr_raw": "Door width ≥2.50 m,"
+        },
+        {
+          "label": "Door height",
+          "value": 2.8,
+          "value_max": null,
+          "unit": "m",
+          "context": "Door height for dung removal; source uses a greater-than-or-equal sign.",
+          "status": "uncertain",
+          "ocr_raw": "door height ≥2.80 m,"
+        },
+        {
+          "label": "Building height",
+          "value": 3.3,
+          "value_max": 3.5,
+          "unit": "m",
+          "context": "Sheep-shed building height.",
+          "status": "uncertain",
+          "ocr_raw": "Building height 3.30–3.50 m,"
+        },
+        {
+          "label": "Timber on plinth above highest dung level",
+          "value": 15.0,
+          "value_max": 20.0,
+          "unit": "cm",
+          "context": "Plinth height intended to protect building components from dung salts.",
+          "status": "uncertain",
+          "ocr_raw": "timber on plinth 15–20 cm above highest dung level,"
+        },
+        {
+          "label": "Feed-mixing place area proportion",
+          "value": 10.0,
+          "value_max": null,
+          "unit": "ratio",
+          "context": "Text gives feed-mixing place as 1/10–1/15 of pen area; denominator range retained in the source wording and not represented as a measurement range.",
+          "status": "uncertain",
+          "ocr_raw": "Feed mixing place 1/10-1/15 of the pen area."
+        },
+        {
+          "label": "Small-herd turnip store area",
+          "value": 2.0,
+          "value_max": null,
+          "unit": "m²",
+          "context": "Minimum area indicated for a turnip store for small herds.",
+          "status": "uncertain",
+          "ocr_raw": "For small herds ≥m² turnip store should be provided."
+        },
+        {
+          "label": "Hay and straw storage per sheep",
+          "value": 3.0,
+          "value_max": null,
+          "unit": "m³/sheep",
+          "context": "Storage volume stated per sheep.",
+          "status": "uncertain",
+          "ocr_raw": "Storage for hay and straw per sheep 3.00 m³ ."
+        }
+      ],
+      "figure_refs": [
+        "2",
+        "3",
+        "4",
+        "5",
+        "9",
+        "10"
+      ],
+      "cross_refs": [
+        "p. 453"
+      ],
+      "keywords": [
+        "sheep housing",
+        "sheep shed",
+        "manger",
+        "feeding",
+        "gangway",
+        "silo",
+        "dung",
+        "building construction"
+      ],
+      "tags_architectural": [
+        "circulation",
+        "adaptability",
+        "safety",
+        "ventilation"
+      ],
+      "confidence": 0.94
+    },
+    {
+      "id": "4122fb96e4bd1976-467-vision-1",
+      "pdf_page": 467,
+      "book_page": 454,
+      "chapter": "AGRICULTURE",
+      "section": "Animal Husbandry",
+      "title": "Sheep Housing: Space and Feeding Requirements",
+      "summary": "Tabulated loose and lying area and necessary feeding width by animal category, plus net space requirements for sheep kept in a herd on a fully perforated floor. The page also gives optimal shed climate values and fodder-storage space requirements. Values and ranges are transcribed from the printed tables.",
+      "building_type": "Sheep housing",
+      "spaces": [
+        "Loose and lying area",
+        "Feeding area",
+        "Sheep pens",
+        "Fodder storage"
+      ],
+      "uses": [
+        "Determine space provision by sheep category",
+        "Set feeding widths",
+        "Plan herd housing on fully perforated floors",
+        "Plan fodder storage"
+      ],
+      "furniture_equipment": [
+        "Feeding racks",
+        "Fodder storage"
+      ],
+      "dimensions": [
+        {
+          "label": "Loose and lying area, mother ewe to 70 kg",
+          "value": 0.85,
+          "value_max": null,
+          "unit": "m²/animal",
+          "context": "Loose and lying area table.",
+          "status": "uncertain",
+          "ocr_raw": "mother ewe to 70 kg 0.85"
+        },
+        {
+          "label": "Necessary feeding width, mother ewe to 70 kg",
+          "value": 0.4,
+          "value_max": null,
+          "unit": "m/animal",
+          "context": "Necessary feeding width table.",
+          "status": "uncertain",
+          "ocr_raw": "mother ewe to 70 kg ... 0.4"
+        },
+        {
+          "label": "Loose and lying area, mother ewe over 70 kg",
+          "value": 1.0,
+          "value_max": null,
+          "unit": "m²/animal",
+          "context": "Loose and lying area table.",
+          "status": "uncertain",
+          "ocr_raw": "mother ewe over 70 kg 1.0"
+        },
+        {
+          "label": "Necessary feeding width, mother ewe over 70 kg",
+          "value": 0.45,
+          "value_max": null,
+          "unit": "m/animal",
+          "context": "Necessary feeding width table.",
+          "status": "uncertain",
+          "ocr_raw": "mother ewe over 70 kg ... 0.45"
+        },
+        {
+          "label": "Loose and lying area, mother ewe with lambs",
+          "value": 1.2,
+          "value_max": 1.6,
+          "unit": "m²/animal",
+          "context": "Loose and lying area table.",
+          "status": "uncertain",
+          "ocr_raw": "mother ewe with lambs 1.2–1.6"
+        },
+        {
+          "label": "Necessary feeding width, mother ewe with lambs",
+          "value": 0.6,
+          "value_max": null,
+          "unit": "m/animal",
+          "context": "Necessary feeding width table.",
+          "status": "uncertain",
+          "ocr_raw": "mother ewe with lambs ... 0.6"
+        },
+        {
+          "label": "Loose and lying area, lambs to 8 weeks",
+          "value": 0.3,
+          "value_max": 0.4,
+          "unit": "m²/animal",
+          "context": "Loose and lying area table.",
+          "status": "uncertain",
+          "ocr_raw": "lambs to 8 weeks 0.3–0.4"
+        },
+        {
+          "label": "Necessary feeding width, lambs to 8 weeks",
+          "value": 0.15,
+          "value_max": null,
+          "unit": "m/animal",
+          "context": "Necessary feeding width table.",
+          "status": "uncertain",
+          "ocr_raw": "lambs to 8 weeks ... 0.15"
+        },
+        {
+          "label": "Loose and lying area, fattening lamb",
+          "value": 0.4,
+          "value_max": 0.5,
+          "unit": "m²/animal",
+          "context": "Loose and lying area table.",
+          "status": "uncertain",
+          "ocr_raw": "fattening lamb 0.4–0.5"
+        },
+        {
+          "label": "Necessary feeding width, fattening lamb",
+          "value": 0.2,
+          "value_max": null,
+          "unit": "m/animal",
+          "context": "Necessary feeding width table.",
+          "status": "uncertain",
+          "ocr_raw": "fattening lamb ... 0.2"
+        },
+        {
+          "label": "Loose and lying area, yearling",
+          "value": 0.7,
+          "value_max": 0.8,
+          "unit": "m²/animal",
+          "context": "Loose and lying area table.",
+          "status": "uncertain",
+          "ocr_raw": "yearling 0.7–0.8"
+        },
+        {
+          "label": "Necessary feeding width, yearling",
+          "value": 0.3,
+          "value_max": null,
+          "unit": "m/animal",
+          "context": "Necessary feeding width table.",
+          "status": "uncertain",
+          "ocr_raw": "yearling ... 0.3"
+        },
+        {
+          "label": "Loose and lying area, breeding ram in single bay",
+          "value": 3.0,
+          "value_max": 4.0,
+          "unit": "m²/animal",
+          "context": "Loose and lying area table, single bay.",
+          "status": "uncertain",
+          "ocr_raw": "breeding ram in single bay 3.0–4.0"
+        },
+        {
+          "label": "Necessary feeding width, breeding ram in single bay",
+          "value": 0.5,
+          "value_max": null,
+          "unit": "m/animal",
+          "context": "Necessary feeding width table.",
+          "status": "uncertain",
+          "ocr_raw": "breeding ram in single bay ... 0.5"
+        },
+        {
+          "label": "Loose and lying area, breeding ram in communal bay",
+          "value": 1.5,
+          "value_max": 2.0,
+          "unit": "m²/animal",
+          "context": "Loose and lying area table, communal bay.",
+          "status": "uncertain",
+          "ocr_raw": "breeding ram in communal bay 1.5–2.0"
+        },
+        {
+          "label": "Necessary feeding width, breeding ram in communal bay",
+          "value": 0.5,
+          "value_max": null,
+          "unit": "m/animal",
+          "context": "Necessary feeding width table.",
+          "status": "uncertain",
+          "ocr_raw": "breeding ram in communal bay ... 0.5"
+        },
+        {
+          "label": "Net space, ewe on fully perforated floor",
+          "value": 0.8,
+          "value_max": null,
+          "unit": "m²/animal",
+          "context": "Net space requirement for sheep kept in a herd on fully perforated floor.",
+          "status": "uncertain",
+          "ocr_raw": "ewe 0.8"
+        },
+        {
+          "label": "Net space, ewe with lambs on fully perforated floor",
+          "value": 1.2,
+          "value_max": null,
+          "unit": "m²/animal",
+          "context": "Net space requirement for sheep kept in a herd on fully perforated floor.",
+          "status": "uncertain",
+          "ocr_raw": "ewe with lambs 1.2"
+        },
+        {
+          "label": "Net space, fattening lamb on fully perforated floor",
+          "value": 0.5,
+          "value_max": null,
+          "unit": "m²/animal",
+          "context": "Net space requirement for sheep kept in a herd on fully perforated floor.",
+          "status": "uncertain",
+          "ocr_raw": "fattening lamb 0.5"
+        },
+        {
+          "label": "Net space, yearling on fully perforated floor",
+          "value": 0.6,
+          "value_max": null,
+          "unit": "m²/animal",
+          "context": "Net space requirement for sheep kept in a herd on fully perforated floor.",
+          "status": "uncertain",
+          "ocr_raw": "yearling 0.6"
+        },
+        {
+          "label": "Net space, ram on fully perforated floor",
+          "value": 1.5,
+          "value_max": null,
+          "unit": "m²/animal",
+          "context": "Net space requirement for sheep kept in a herd on fully perforated floor.",
+          "status": "uncertain",
+          "ocr_raw": "ram 1.5"
+        },
+        {
+          "label": "Window area relative to building floor area",
+          "value": 20.0,
+          "value_max": null,
+          "unit": "ratio",
+          "context": "Printed as 1/20–1/25 of the building floor area; denominator expression retained here as a ratio reference, not treated as a physical dimension range.",
+          "status": "uncertain",
+          "ocr_raw": "window area 1/20–1/25 of the building floor area,"
+        },
+        {
+          "label": "Feed and hay storage, hay feeding only",
+          "value": 3.3,
+          "value_max": null,
+          "unit": "m³/ewe",
+          "context": "Fodder storage per ewe including lambs in winter indoor period; space requirement for hay feeding only.",
+          "status": "uncertain",
+          "ocr_raw": "hay (feeding only hay) 3.3 m³"
+        },
+        {
+          "label": "Feed and hay storage, hay feeding and silage",
+          "value": 1.0,
+          "value_max": null,
+          "unit": "m³/ewe",
+          "context": "Fodder storage per ewe including lambs in winter indoor period; hay feeding and silage.",
+          "status": "uncertain",
+          "ocr_raw": "hay (feeding hay and silage) 1.0 m³"
+        },
+        {
+          "label": "Feed and hay storage, silage",
+          "value": 1.0,
+          "value_max": null,
+          "unit": "m³/ewe",
+          "context": "Fodder storage per ewe including lambs in winter indoor period; silage.",
+          "status": "uncertain",
+          "ocr_raw": "silage 1.0 m³"
+        }
+      ],
+      "figure_refs": [
+        "9"
+      ],
+      "cross_refs": [],
+      "keywords": [
+        "sheep",
+        "space requirements",
+        "feeding width",
+        "fully perforated floor",
+        "fodder storage",
+        "window area"
+      ],
+      "tags_architectural": [
+        "ergonomics",
+        "anthropometry",
+        "clearance",
+        "ventilation"
+      ],
+      "confidence": 0.88
+    },
+    {
+      "id": "4122fb96e4bd1976-467-vision-2",
+      "pdf_page": 467,
+      "book_page": 454,
+      "chapter": "AGRICULTURE",
+      "section": "Animal Husbandry",
+      "title": "Sheep Housing: Fences, Animal Dimensions, and Shed Climate",
+      "summary": "The sheet includes sheep body dimensions, fence details, breed weights and body measurements, and optimal climate values for sheep sheds. Fence drawings include a dividing fence made from roofing battens, an alternative with wire mesh, and an extendable batten fence.",
+      "building_type": "Sheep shed and livestock fencing",
+      "spaces": [
+        "Sheep pens",
+        "Divided shed bays"
+      ],
+      "uses": [
+        "Divide sheep by group",
+        "Adjust pen divisions",
+        "Reference sheep body size and shed climate"
+      ],
+      "furniture_equipment": [
+        "Fence made of roofing battens",
+        "Fence made of roofing battens and wire mesh",
+        "Extendable fence made of battens"
+      ],
+      "dimensions": [
+        {
+          "label": "Sheep body length",
+          "value": 85.0,
+          "value_max": 96.0,
+          "unit": "cm",
+          "context": "Dimension shown for sheep illustration; precise anatomical endpoint is not stated.",
+          "status": "uncertain",
+          "ocr_raw": "85–96"
+        },
+        {
+          "label": "Sheep wither height",
+          "value": 75.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Dimension shown beside sheep illustration.",
+          "status": "uncertain",
+          "ocr_raw": "75"
+        },
+        {
+          "label": "Sheep body height range",
+          "value": 78.0,
+          "value_max": 83.0,
+          "unit": "cm",
+          "context": "Dimension shown beside sheep illustration; precise anatomical endpoint is not stated.",
+          "status": "uncertain",
+          "ocr_raw": "78–83"
+        },
+        {
+          "label": "Ladder feed rack width",
+          "value": 70.0,
+          "value_max": 80.0,
+          "unit": "cm",
+          "context": "Dimension shown on ladder feed rack drawing.",
+          "status": "uncertain",
+          "ocr_raw": "70–80"
+        },
+        {
+          "label": "Fence length",
+          "value": 3.0,
+          "value_max": 4.0,
+          "unit": "m",
+          "context": "Fence made of roofing battens; drawing also labels roofing battens as 40/60 mm.",
+          "status": "uncertain",
+          "ocr_raw": "3.00–4.00 Fence for dividing shed made of 40/60 mm roofing battens"
+        },
+        {
+          "label": "Roofing batten cross-section",
+          "value": 40.0,
+          "value_max": 60.0,
+          "unit": "mm",
+          "context": "Roofing battens used to make a dividing fence.",
+          "status": "uncertain",
+          "ocr_raw": "40/60 mm roofing battens"
+        },
+        {
+          "label": "Extendable fence width",
+          "value": 1.5,
+          "value_max": 2.0,
+          "unit": "m",
+          "context": "Dimension under extendable fence drawing.",
+          "status": "uncertain",
+          "ocr_raw": "1.50–2.00"
+        },
+        {
+          "label": "Merino ram weight",
+          "value": 120.0,
+          "value_max": 130.0,
+          "unit": "kg",
+          "context": "Breed table, Merino sheep and black-headed meat sheep.",
+          "status": "uncertain",
+          "ocr_raw": "ram 120–130 kg"
+        },
+        {
+          "label": "Merino ram wither height",
+          "value": 0.83,
+          "value_max": null,
+          "unit": "m",
+          "context": "Breed table, ram wither height.",
+          "status": "uncertain",
+          "ocr_raw": "0.83 m"
+        },
+        {
+          "label": "Merino ram rump length",
+          "value": 0.96,
+          "value_max": null,
+          "unit": "m",
+          "context": "Breed table, ram rump length.",
+          "status": "uncertain",
+          "ocr_raw": "0.96 m"
+        },
+        {
+          "label": "Ewe weight",
+          "value": 70.0,
+          "value_max": 80.0,
+          "unit": "kg",
+          "context": "Breed table; ewe entry.",
+          "status": "uncertain",
+          "ocr_raw": "ewe 70–80 kg"
+        },
+        {
+          "label": "Ewe wither height",
+          "value": 0.78,
+          "value_max": null,
+          "unit": "m",
+          "context": "Breed table, ewe wither height.",
+          "status": "uncertain",
+          "ocr_raw": "0.78 m"
+        },
+        {
+          "label": "Ewe rump length",
+          "value": 0.85,
+          "value_max": null,
+          "unit": "m",
+          "context": "Breed table, ewe rump length.",
+          "status": "uncertain",
+          "ocr_raw": "0.85 m"
+        },
+        {
+          "label": "Sheep weight entry",
+          "value": 65.0,
+          "value_max": 75.0,
+          "unit": "kg",
+          "context": "Additional weight entry visible in breed table; animal category attribution is unclear, so it is not assigned to a specific animal.",
+          "status": "uncertain",
+          "ocr_raw": "65–75 kg"
+        },
+        {
+          "label": "Optimal temperature for mothers",
+          "value": 8.0,
+          "value_max": 10.0,
+          "unit": "°C",
+          "context": "Optimal shed climate table.",
+          "status": "uncertain",
+          "ocr_raw": "... mothers 8–10"
+        },
+        {
+          "label": "Relative humidity for mothers",
+          "value": 60.0,
+          "value_max": 75.0,
+          "unit": "%",
+          "context": "Optimal shed climate table.",
+          "status": "uncertain",
+          "ocr_raw": "... mothers ... 60–75"
+        },
+        {
+          "label": "Optimal temperature for lambs and fattening",
+          "value": 10.0,
+          "value_max": 14.0,
+          "unit": "°C",
+          "context": "Optimal shed climate table.",
+          "status": "uncertain",
+          "ocr_raw": "... lambs and fattening 10–14"
+        },
+        {
+          "label": "Relative humidity for lambs and fattening",
+          "value": 60.0,
+          "value_max": 75.0,
+          "unit": "%",
+          "context": "Optimal shed climate table.",
+          "status": "uncertain",
+          "ocr_raw": "... lambs and fattening ... 60–75"
+        },
+        {
+          "label": "Optimal temperature for breeding",
+          "value": 14.0,
+          "value_max": 16.0,
+          "unit": "°C",
+          "context": "Optimal shed climate table.",
+          "status": "uncertain",
+          "ocr_raw": "... breeding 14–16"
+        },
+        {
+          "label": "Relative humidity for breeding",
+          "value": 60.0,
+          "value_max": 70.0,
+          "unit": "%",
+          "context": "Optimal shed climate table.",
+          "status": "uncertain",
+          "ocr_raw": "... breeding ... 60–70"
+        }
+      ],
+      "figure_refs": [
+        "1",
+        "2",
+        "6",
+        "7",
+        "8",
+        "9"
+      ],
+      "cross_refs": [],
+      "keywords": [
+        "sheep",
+        "fence",
+        "roofing battens",
+        "wire mesh",
+        "Merino",
+        "body dimensions",
+        "temperature",
+        "relative humidity"
+      ],
+      "tags_architectural": [
+        "adaptability",
+        "safety",
+        "anthropometry",
+        "ventilation"
+      ],
+      "confidence": 0.8
+    }
+  ]
+}

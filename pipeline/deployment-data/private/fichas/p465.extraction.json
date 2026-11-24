@@ -1,0 +1,538 @@
+{
+  "fichas": [
+    {
+      "id": "4122fb96e4bd1976-465-vision-0",
+      "pdf_page": 465,
+      "book_page": 452,
+      "chapter": "AGRICULTURE",
+      "section": "Animal Husbandry",
+      "title": "Pigeon Housing and Dovecotes",
+      "summary": "Guidance for loft area and air space for pigeons, pole-mounted or house-side dovecotes, and the provision of nests, feed, and drinking water.",
+      "building_type": "Pigeon loft and dovecote",
+      "spaces": [
+        "Pigeon loft",
+        "Dovecote",
+        "Nesting box"
+      ],
+      "uses": [
+        "Housing carrier and pedigree pigeons",
+        "Breeding and nesting"
+      ],
+      "furniture_equipment": [
+        "Nesting boxes",
+        "Trap nests",
+        "Feeding box",
+        "Drinking container"
+      ],
+      "dimensions": [
+        {
+          "label": "Loft area per pair",
+          "value": 0.15,
+          "value_max": 0.2,
+          "unit": "m²",
+          "context": "Per pair of pigeons; pedigree pigeons require correspondingly more.",
+          "status": "uncertain",
+          "ocr_raw": "Loft area per pair ...... 0.15-0.20 mz"
+        },
+        {
+          "label": "Air space for carrier pigeons",
+          "value": 0.5,
+          "value_max": null,
+          "unit": "m³",
+          "context": "Per pair.",
+          "status": "uncertain",
+          "ocr_raw": "1 pair of carrier pigeons .•.. 0.5 m3 air space"
+        },
+        {
+          "label": "Air space for pedigree pigeons",
+          "value": 1.0,
+          "value_max": null,
+          "unit": "m³",
+          "context": "Per pair.",
+          "status": "uncertain",
+          "ocr_raw": "1 pair of pedigree pigeons •.. 1.0 m3 air space"
+        },
+        {
+          "label": "Pedigree pigeons per loft",
+          "value": 15.0,
+          "value_max": 20.0,
+          "unit": "pairs",
+          "context": "Pairs per loft.",
+          "status": "uncertain",
+          "ocr_raw": "15-20 pairs of pedigree pigeons in a loft"
+        },
+        {
+          "label": "Pigeons per loft",
+          "value": 20.0,
+          "value_max": 25.0,
+          "unit": "pairs",
+          "context": "Pairs per loft; the OCR does not specify the pigeon category for this line.",
+          "status": "uncertain",
+          "ocr_raw": "2Q-25 pairs of pigeons In a loft"
+        },
+        {
+          "label": "Dovecote pole height",
+          "value": 3.0,
+          "value_max": 4.0,
+          "unit": "m",
+          "context": "Height of pole; dovecote is protected from birds of prey with metal sheet.",
+          "status": "uncertain",
+          "ocr_raw": "On a 3-4 m high pole, protected from birds of prey"
+        },
+        {
+          "label": "Nests per pair",
+          "value": 2.0,
+          "value_max": null,
+          "unit": "nests per pair",
+          "context": "Nests for each pair of pigeons, on the box floor or on special frames.",
+          "status": "uncertain",
+          "ocr_raw": "2 nests for each pair of pigeons on the floor of the box or on special frames."
+        }
+      ],
+      "figure_refs": [
+        "1 Pigeons",
+        "2 Dovecote",
+        "3 Nesting box (Fulton)"
+      ],
+      "cross_refs": [],
+      "keywords": [
+        "pigeons",
+        "pigeon loft",
+        "dovecote",
+        "carrier pigeons",
+        "pedigree pigeons",
+        "trap nest"
+      ],
+      "tags_architectural": [
+        "ventilation",
+        "spatial_proportion"
+      ],
+      "confidence": 0.91
+    },
+    {
+      "id": "4122fb96e4bd1976-465-vision-1",
+      "pdf_page": 465,
+      "book_page": 452,
+      "chapter": "AGRICULTURE",
+      "section": "Animal Husbandry",
+      "title": "Poultry Housing and Chicken Coop",
+      "summary": "Poultry housing should be clean, airy, dry, draught-free, insulated, weatherproof, and designed for cleaning. The page describes scratching and sleeping rooms, laying nests, perches, ventilation, a chicken coop for 20 chickens, and a coop with a run. It recommends placing the window south and the door east, with laying nests in a dark location away from windows.",
+      "building_type": "Poultry house and chicken coop",
+      "spaces": [
+        "Scratching room",
+        "Sleeping room",
+        "Laying-nest area",
+        "Feed preparation and storage rooms",
+        "Chicken run",
+        "Compost area"
+      ],
+      "uses": [
+        "Housing laying hens",
+        "Roosting and nesting",
+        "Feeding and watering poultry",
+        "Providing outdoor access and a sand bath"
+      ],
+      "furniture_equipment": [
+        "Perches",
+        "Open laying nests",
+        "Trap nests",
+        "Feed bowls",
+        "Nipple drinker",
+        "Droppings pit",
+        "Sand bath",
+        "Compost heap",
+        "Ventilation flaps",
+        "Slider for hatching opening"
+      ],
+      "dimensions": [
+        {
+          "label": "Window area relative to floor area",
+          "value": 1.0,
+          "value_max": 10.0,
+          "unit": "ratio",
+          "context": "Window area should be a maximum of 1/10 of the floor area.",
+          "status": "uncertain",
+          "ocr_raw": "the window area should be max. 1/10 of the floor area."
+        },
+        {
+          "label": "Scratching room area for 5 hens",
+          "value": 3.0,
+          "value_max": null,
+          "unit": "m² minimum",
+          "context": "Minimum area indicated by the printed ≥ symbol.",
+          "status": "uncertain",
+          "ocr_raw": "Scratching room for 5 hens ≥3 m²"
+        },
+        {
+          "label": "Scratching room area for 10 hens",
+          "value": 5.0,
+          "value_max": null,
+          "unit": "m² minimum",
+          "context": "Minimum area indicated by the printed ≥ symbol.",
+          "status": "uncertain",
+          "ocr_raw": "Scratching room for 10 hens ≥5 m²"
+        },
+        {
+          "label": "Scratching room area for 20 hens",
+          "value": 10.0,
+          "value_max": null,
+          "unit": "m² minimum",
+          "context": "Minimum area indicated by the printed ≥ symbol.",
+          "status": "uncertain",
+          "ocr_raw": "Scratching room for 20 hens ≥10 m²"
+        },
+        {
+          "label": "Perch length per hen",
+          "value": 1.0,
+          "value_max": null,
+          "unit": "running m per 10–12 hens",
+          "context": "Printed as a perch-length recommendation for hens.",
+          "status": "uncertain",
+          "ocr_raw": "= 1 running m of perch = 10-12 hens per m²"
+        },
+        {
+          "label": "Open nest capacity",
+          "value": 5.0,
+          "value_max": null,
+          "unit": "hens per open nest",
+          "context": "Laying-nest provision; printed floor area and height are also given below.",
+          "status": "uncertain",
+          "ocr_raw": "Floor area and 35 em height, i open nest for 5 hens, 1 trap nest for 3-4 hens."
+        },
+        {
+          "label": "Trap-nest capacity",
+          "value": 3.0,
+          "value_max": 4.0,
+          "unit": "hens per trap nest",
+          "context": "Laying-nest provision.",
+          "status": "uncertain",
+          "ocr_raw": "Floor area and 35 em height, i open nest for 5 hens, 1 trap nest for 3-4 hens."
+        },
+        {
+          "label": "Laying nest size",
+          "value": 35.0,
+          "value_max": 40.0,
+          "unit": "cm per side",
+          "context": "Nest dimensions are printed as a square-size range, 35 × 35 to 40 × 40 cm.",
+          "status": "uncertain",
+          "ocr_raw": "Nest size 35 x 35 to 40 x 40 em."
+        },
+        {
+          "label": "Laying nest floor-area dimension",
+          "value": 35.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "The OCR line also states 35 cm height; its floor-area dimension is not legible in the supplied text.",
+          "status": "uncertain",
+          "ocr_raw": "Floor area and 35 em height, i open nest for 5 hens, 1 trap nest for 3-4 hens."
+        },
+        {
+          "label": "Perch width",
+          "value": 4.0,
+          "value_max": 7.0,
+          "unit": "cm",
+          "context": "Perches are sized according to hen size.",
+          "status": "uncertain",
+          "ocr_raw": "Perches according to the size of the hens 4-7 em"
+        },
+        {
+          "label": "Perch height",
+          "value": 5.0,
+          "value_max": 6.0,
+          "unit": "cm",
+          "context": "Perch specification.",
+          "status": "uncertain",
+          "ocr_raw": "wide, 5-6 em high, 3.5 m free-spanning, easily removed, 5-6 hens on 1 m perch."
+        },
+        {
+          "label": "Perch free span",
+          "value": 3.5,
+          "value_max": null,
+          "unit": "m",
+          "context": "Perch specification.",
+          "status": "uncertain",
+          "ocr_raw": "wide, 5-6 em high, 3.5 m free-spanning, easily removed, 5-6 hens on 1 m perch."
+        },
+        {
+          "label": "Hens per metre of perch",
+          "value": 5.0,
+          "value_max": 6.0,
+          "unit": "hens per m",
+          "context": "Perch capacity.",
+          "status": "uncertain",
+          "ocr_raw": "wide, 5-6 em high, 3.5 m free-spanning, easily removed, 5-6 hens on 1 m perch."
+        },
+        {
+          "label": "Coop floor area stocking density, unlimited run",
+          "value": 5.0,
+          "value_max": null,
+          "unit": "hens per m²",
+          "context": "For an unlimited-size run, measured against coop floor area.",
+          "status": "uncertain",
+          "ocr_raw": "If the run is of unlimited size, 5 hens per m² coop floor area."
+        },
+        {
+          "label": "Coop floor area stocking density, run smaller than four times coop floor area",
+          "value": 2.0,
+          "value_max": null,
+          "unit": "hens per m²",
+          "context": "Applies if the run is smaller than 4 times the coop floor area.",
+          "status": "uncertain",
+          "ocr_raw": "If the run is smaller than 4 times the coop floor area, then 2 hens can be kept per m² coop floor area."
+        },
+        {
+          "label": "Coop capacity",
+          "value": 20.0,
+          "value_max": null,
+          "unit": "chickens",
+          "context": "Coop with a separate thermally insulated sleeping niche.",
+          "status": "uncertain",
+          "ocr_raw": "Coop for 20 chickens with separate thermally insulated sleeping niche"
+        },
+        {
+          "label": "Hatching opening",
+          "value": 18.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "OCR gives opening dimensions 18 × 20 × 30 cm; this entry records the first printed component only.",
+          "status": "uncertain",
+          "ocr_raw": "Hatching opening 18 x 20 x 30 em, protected against draughts with side boards and can be closed with a slider."
+        },
+        {
+          "label": "Hatching opening",
+          "value": 20.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "OCR gives opening dimensions 18 × 20 × 30 cm; this entry records the second printed component only.",
+          "status": "uncertain",
+          "ocr_raw": "Hatching opening 18 x 20 x 30 em, protected against draughts with side boards and can be closed with a slider."
+        },
+        {
+          "label": "Hatching opening",
+          "value": 30.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "OCR gives opening dimensions 18 × 20 × 30 cm; this entry records the third printed component only.",
+          "status": "uncertain",
+          "ocr_raw": "Hatching opening 18 x 20 x 30 em, protected against draughts with side boards and can be closed with a slider."
+        },
+        {
+          "label": "Coop plan dimension",
+          "value": 2.5,
+          "value_max": null,
+          "unit": "m",
+          "context": "Dimension shown on the plan of the chicken coop and run.",
+          "status": "uncertain",
+          "ocr_raw": "2.50"
+        },
+        {
+          "label": "Coop plan dimension",
+          "value": 3.75,
+          "value_max": null,
+          "unit": "m",
+          "context": "Dimension shown on the plan of the chicken coop and run.",
+          "status": "uncertain",
+          "ocr_raw": "3.75"
+        },
+        {
+          "label": "Drainage pipe diameter",
+          "value": 15.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Drainage pipe shown in section of coop.",
+          "status": "uncertain",
+          "ocr_raw": "drainage pipe, dia. 15, gradient ≥2%"
+        }
+      ],
+      "figure_refs": [
+        "4 Hen (Orpington)",
+        "5 Laying nest, open",
+        "6 Laying nest with flap",
+        "7 Chicken coop (Peseda)",
+        "8 Section → 9",
+        "9 Plan → 8",
+        "10 Chicken coop and run → 11",
+        "11 Section of coop → 10"
+      ],
+      "cross_refs": [
+        "Laying Hens → p. 455"
+      ],
+      "keywords": [
+        "poultry housing",
+        "chicken coop",
+        "laying hens",
+        "scratching room",
+        "sleeping room",
+        "laying nest",
+        "perch",
+        "ventilation",
+        "chicken run"
+      ],
+      "tags_architectural": [
+        "ventilation",
+        "daylighting",
+        "safety",
+        "adaptability",
+        "clearance",
+        "spatial_proportion"
+      ],
+      "confidence": 0.83
+    },
+    {
+      "id": "4122fb96e4bd1976-465-vision-2",
+      "pdf_page": 465,
+      "book_page": 452,
+      "chapter": "AGRICULTURE",
+      "section": "Animal Husbandry",
+      "title": "Duck House and Laying Nest",
+      "summary": "Duck housing guidance gives house area and height for a group of ducks, describes a solid, rat-safe, dry and airy floor, and recommends access to water and, if possible, marshy land. The page also shows a duck house plan and specifies a laying nest.",
+      "building_type": "Duck house",
+      "spaces": [
+        "Duck house",
+        "Duck run",
+        "Laying-nest area"
+      ],
+      "uses": [
+        "Housing ducks",
+        "Nesting",
+        "Providing access to water"
+      ],
+      "furniture_equipment": [
+        "Laying nests",
+        "Trap nests"
+      ],
+      "dimensions": [
+        {
+          "label": "House area",
+          "value": 1.0,
+          "value_max": null,
+          "unit": "m²",
+          "context": "For 4–5 ducks.",
+          "status": "uncertain",
+          "ocr_raw": "House area (4-5 ducks) 1 m²"
+        },
+        {
+          "label": "House height",
+          "value": 1.7,
+          "value_max": 2.0,
+          "unit": "m",
+          "context": "Duck house height range.",
+          "status": "uncertain",
+          "ocr_raw": "House height 1.7-2.0 m"
+        },
+        {
+          "label": "Maximum house stocking",
+          "value": 20.0,
+          "value_max": null,
+          "unit": "ducks",
+          "context": "OCR states highest number for the house as one drake and 20 ducks.",
+          "status": "uncertain",
+          "ocr_raw": "Highest no. for house = 1 drake and 20 ducks."
+        },
+        {
+          "label": "Duck house plan dimension",
+          "value": 5.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Dimension shown on the duck-house plan.",
+          "status": "uncertain",
+          "ocr_raw": "5.00"
+        },
+        {
+          "label": "Duck house plan dimension",
+          "value": 3.75,
+          "value_max": null,
+          "unit": "m",
+          "context": "Dimension shown on the duck-house plan.",
+          "status": "uncertain",
+          "ocr_raw": "3.75"
+        },
+        {
+          "label": "Laying nest size",
+          "value": 40.0,
+          "value_max": null,
+          "unit": "cm per side",
+          "context": "Nest size is printed as 40 × 40 cm.",
+          "status": "uncertain",
+          "ocr_raw": "Nest size 40 x 40 em"
+        }
+      ],
+      "figure_refs": [
+        "12 Duck (Peking)",
+        "14 Duck house",
+        "15 Laying nest for 4–5 ducks"
+      ],
+      "cross_refs": [],
+      "keywords": [
+        "ducks",
+        "duck house",
+        "duck run",
+        "laying nest",
+        "trap nest"
+      ],
+      "tags_architectural": [
+        "ventilation",
+        "safety",
+        "spatial_proportion"
+      ],
+      "confidence": 0.91
+    },
+    {
+      "id": "4122fb96e4bd1976-465-vision-3",
+      "pdf_page": 465,
+      "book_page": 452,
+      "chapter": "AGRICULTURE",
+      "section": "Animal Husbandry",
+      "title": "Goose Housing and Fattening Cells",
+      "summary": "The page states that goose housing follows the duck guidance. For fattening, birds are kept in small rooms or individual cells with a droppings chute and a feeding tray in front.",
+      "building_type": "Goose house and fattening cell",
+      "spaces": [
+        "Fattening room",
+        "Individual cell"
+      ],
+      "uses": [
+        "Housing geese",
+        "Fattening birds"
+      ],
+      "furniture_equipment": [
+        "Droppings chute",
+        "Feeding tray"
+      ],
+      "dimensions": [
+        {
+          "label": "Fattening cell length",
+          "value": 40.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Dimension of individual cell.",
+          "status": "uncertain",
+          "ocr_raw": "40 em long, 30 em wide, with chute for droppings and feeding tray in front of cell"
+        },
+        {
+          "label": "Fattening cell width",
+          "value": 30.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Dimension of individual cell.",
+          "status": "uncertain",
+          "ocr_raw": "40 em long, 30 em wide, with chute for droppings and feeding tray in front of cell"
+        }
+      ],
+      "figure_refs": [
+        "13 Goose (Pomeranian)"
+      ],
+      "cross_refs": [],
+      "keywords": [
+        "geese",
+        "goose housing",
+        "fattening",
+        "individual cell"
+      ],
+      "tags_architectural": [
+        "safety",
+        "spatial_proportion"
+      ],
+      "confidence": 0.85
+    }
+  ]
+}

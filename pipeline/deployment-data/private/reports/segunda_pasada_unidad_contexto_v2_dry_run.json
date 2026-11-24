@@ -1,0 +1,4038 @@
+{
+  "run_id": "luna-unit-context-v2-pilot",
+  "mode": "dry_run_no_api_calls",
+  "model_lock": {
+    "NEUFERT_VERIFY_MODEL": "gpt-6-luna",
+    "NEUFERT_VISION_MODEL": "gpt-6-luna"
+  },
+  "dry_run_api_calls": 0,
+  "not_a_dimension_applied": 0,
+  "source_population": {
+    "dimensions": 1590,
+    "uncertain": 1515,
+    "corrected": 75
+  },
+  "pilot": {
+    "dimensions": 62,
+    "before": {
+      "uncertain": 61,
+      "corrected": 1
+    },
+    "after": {
+      "uncertain": 20,
+      "number_confirmed_unit_pending": 40,
+      "verified": 1,
+      "corrected": 1
+    },
+    "by_chapter": {
+      "BASICS": {
+        "before": {
+          "uncertain": 61,
+          "corrected": 1
+        },
+        "after": {
+          "uncertain": 20,
+          "number_confirmed_unit_pending": 40,
+          "verified": 1,
+          "corrected": 1
+        }
+      }
+    },
+    "new_state_counts": {
+      "number_confirmed_unit_pending": 40,
+      "verified_unit_inferred": 0
+    },
+    "unit_context_outcomes": {
+      "pending": 40
+    },
+    "ambiguous_rejections": [],
+    "stored_model_counts": {
+      "gpt-6-luna": 62
+    },
+    "every_historic_api_call": [
+      {
+        "time": "2026-11-13T11:00:23.493992+00:00",
+        "model": "gpt-6-luna",
+        "usage": {
+          "prompt_tokens": 3116,
+          "completion_tokens": 374,
+          "total_tokens": 3490,
+          "prompt_tokens_details": {
+            "cached_tokens": 0,
+            "audio_tokens": 0
+          },
+          "completion_tokens_details": {
+            "reasoning_tokens": 335,
+            "audio_tokens": 0,
+            "accepted_prediction_tokens": 0,
+            "rejected_prediction_tokens": 0
+          }
+        },
+        "finish_reason": "stop"
+      },
+      {
+        "time": "2026-11-13T11:00:30.087623+00:00",
+        "model": "gpt-6-luna",
+        "usage": {
+          "prompt_tokens": 432,
+          "completion_tokens": 535,
+          "total_tokens": 967,
+          "prompt_tokens_details": {
+            "cached_tokens": 0,
+            "audio_tokens": 0
+          },
+          "completion_tokens_details": {
+            "reasoning_tokens": 488,
+            "audio_tokens": 0,
+            "accepted_prediction_tokens": 0,
+            "rejected_prediction_tokens": 0
+          }
+        },
+        "finish_reason": "stop"
+      },
+      {
+        "time": "2026-11-13T11:00:34.897245+00:00",
+        "model": "gpt-6-luna",
+        "usage": {
+          "prompt_tokens": 3116,
+          "completion_tokens": 286,
+          "total_tokens": 3402,
+          "prompt_tokens_details": {
+            "cached_tokens": 2432,
+            "audio_tokens": 0
+          },
+          "completion_tokens_details": {
+            "reasoning_tokens": 247,
+            "audio_tokens": 0,
+            "accepted_prediction_tokens": 0,
+            "rejected_prediction_tokens": 0
+          }
+        },
+        "finish_reason": "stop"
+      },
+      {
+        "time": "2026-11-13T11:00:39.149030+00:00",
+        "model": "gpt-6-luna",
+        "usage": {
+          "prompt_tokens": 540,
+          "completion_tokens": 303,
+          "total_tokens": 843,
+          "prompt_tokens_details": {
+            "cached_tokens": 0,
+            "audio_tokens": 0
+          },
+          "completion_tokens_details": {
+            "reasoning_tokens": 262,
+            "audio_tokens": 0,
+            "accepted_prediction_tokens": 0,
+            "rejected_prediction_tokens": 0
+          }
+        },
+        "finish_reason": "stop"
+      },
+      {
+        "time": "2026-11-13T11:00:42.885225+00:00",
+        "model": "gpt-6-luna",
+        "usage": {
+          "prompt_tokens": 3117,
+          "completion_tokens": 186,
+          "total_tokens": 3303,
+          "prompt_tokens_details": {
+            "cached_tokens": 0,
+            "audio_tokens": 0
+          },
+          "completion_tokens_details": {
+            "reasoning_tokens": 147,
+            "audio_tokens": 0,
+            "accepted_prediction_tokens": 0,
+            "rejected_prediction_tokens": 0
+          }
+        },
+        "finish_reason": "stop"
+      },
+      {
+        "time": "2026-11-13T11:00:44.875234+00:00",
+        "model": "gpt-6-luna",
+        "usage": {
+          "prompt_tokens": 567,
+          "completion_tokens": 144,
+          "total_tokens": 711,
+          "prompt_tokens_details": {
+            "cached_tokens": 0,
+            "audio_tokens": 0
+          },
+          "completion_tokens_details": {
+            "reasoning_tokens": 95,
+            "audio_tokens": 0,
+            "accepted_prediction_tokens": 0,
+            "rejected_prediction_tokens": 0
+          }
+        },
+        "finish_reason": "stop"
+      },
+      {
+        "time": "2026-11-13T11:00:49.958466+00:00",
+        "model": "gpt-6-luna",
+        "usage": {
+          "prompt_tokens": 3117,
+          "completion_tokens": 272,
+          "total_tokens": 3389,
+          "prompt_tokens_details": {
+            "cached_tokens": 0,
+            "audio_tokens": 0
+          },
+          "completion_tokens_details": {
+            "reasoning_tokens": 233,
+            "audio_tokens": 0,
+            "accepted_prediction_tokens": 0,
+            "rejected_prediction_tokens": 0
+          }
+        },
+        "finish_reason": "stop"
+      },
+      {
+        "time": "2026-11-13T11:00:52.309887+00:00",
+        "model": "gpt-6-luna",
+        "usage": {
+          "prompt_tokens": 517,
+          "completion_tokens": 119,
+          "total_tokens": 636,
+          "prompt_tokens_details": {
+            "cached_tokens": 0,
+            "audio_tokens": 0
+          },
+          "completion_tokens_details": {
+            "reasoning_tokens": 71,
+            "audio_tokens": 0,
+            "accepted_prediction_tokens": 0,
+            "rejected_prediction_tokens": 0
+          }
+        },
+        "finish_reason": "stop"
+      },
+      {
+        "time": "2026-11-13T11:00:57.538426+00:00",
+        "model": "gpt-6-luna",
+        "usage": {
+          "prompt_tokens": 3117,
+          "completion_tokens": 322,
+          "total_tokens": 3439,
+          "prompt_tokens_details": {
+            "cached_tokens": 0,
+            "audio_tokens": 0
+          },
+          "completion_tokens_details": {
+            "reasoning_tokens": 283,
+            "audio_tokens": 0,
+            "accepted_prediction_tokens": 0,
+            "rejected_prediction_tokens": 0
+          }
+        },
+        "finish_reason": "stop"
+      },
+      {
+        "time": "2026-11-13T11:00:58.857478+00:00",
+        "model": "gpt-6-luna",
+        "usage": {
+          "prompt_tokens": 500,
+          "completion_tokens": 37,
+          "total_tokens": 537,
+          "prompt_tokens_details": {
+            "cached_tokens": 0,
+            "audio_tokens": 0
+          },
+          "completion_tokens_details": {
+            "reasoning_tokens": 0,
+            "audio_tokens": 0,
+            "accepted_prediction_tokens": 0,
+            "rejected_prediction_tokens": 0
+          }
+        },
+        "finish_reason": "stop"
+      },
+      {
+        "time": "2026-11-13T11:01:02.815485+00:00",
+        "model": "gpt-6-luna",
+        "usage": {
+          "prompt_tokens": 3119,
+          "completion_tokens": 225,
+          "total_tokens": 3344,
+          "prompt_tokens_details": {
+            "cached_tokens": 0,
+            "audio_tokens": 0
+          },
+          "completion_tokens_details": {
+            "reasoning_tokens": 186,
+            "audio_tokens": 0,
+            "accepted_prediction_tokens": 0,
+            "rejected_prediction_tokens": 0
+          }
+        },
+        "finish_reason": "stop"
+      },
+      {
+        "time": "2026-11-13T11:01:04.842099+00:00",
+        "model": "gpt-6-luna",
+        "usage": {
+          "prompt_tokens": 485,
+          "completion_tokens": 39,
+          "total_tokens": 524,
+          "prompt_tokens_details": {
+            "cached_tokens": 0,
+            "audio_tokens": 0
+          },
+          "completion_tokens_details": {
+            "reasoning_tokens": 0,
+            "audio_tokens": 0,
+            "accepted_prediction_tokens": 0,
+            "rejected_prediction_tokens": 0
+          }
+        },
+        "finish_reason": "stop"
+      },
+      {
+        "time": "2026-11-13T11:01:08.794315+00:00",
+        "model": "gpt-6-luna",
+        "usage": {
+          "prompt_tokens": 3121,
+          "completion_tokens": 200,
+          "total_tokens": 3321,
+          "prompt_tokens_details": {
+            "cached_tokens": 0,
+            "audio_tokens": 0
+          },
+          "completion_tokens_details": {
+            "reasoning_tokens": 161,
+            "audio_tokens": 0,
+            "accepted_prediction_tokens": 0,
+            "rejected_prediction_tokens": 0
+          }
+        },
+        "finish_reason": "stop"
+      },
+      {
+        "time": "2026-11-13T11:01:10.534155+00:00",
+        "model": "gpt-6-luna",
+        "usage": {
+          "prompt_tokens": 521,
+          "completion_tokens": 42,
+          "total_tokens": 563,
+          "prompt_tokens_details": {
+            "cached_tokens": 0,
+            "audio_tokens": 0
+          },
+          "completion_tokens_details": {
+            "reasoning_tokens": 0,
+            "audio_tokens": 0,
+            "accepted_prediction_tokens": 0,
+            "rejected_prediction_tokens": 0
+          }
+        },
+        "finish_reason": "stop"
+      },
+      {
+        "time": "2026-11-13T11:01:14.833138+00:00",
+        "model": "gpt-6-luna",
+        "usage": {
+          "prompt_tokens": 3115,
+          "completion_tokens": 262,
+          "total_tokens": 3377,
+          "prompt_tokens_details": {
+            "cached_tokens": 0,
+            "audio_tokens": 0
+          },
+          "completion_tokens_details": {
+            "reasoning_tokens": 223,
+            "audio_tokens": 0,
+            "accepted_prediction_tokens": 0,
+            "rejected_prediction_tokens": 0
+          }
+        },
+        "finish_reason": "stop"
+      },
+      {
+        "time": "2026-11-13T11:01:17.805571+00:00",
+        "model": "gpt-6-luna",
+        "usage": {
+          "prompt_tokens": 431,
+          "completion_tokens": 190,
+          "total_tokens": 621,
+          "prompt_tokens_details": {
+            "cached_tokens": 0,
+            "audio_tokens": 0
+          },
+          "completion_tokens_details": {
+            "reasoning_tokens": 141,
+            "audio_tokens": 0,
+            "accepted_prediction_tokens": 0,
+            "rejected_prediction_tokens": 0
+          }
+        },
+        "finish_reason": "stop"
+      },
+      {
+        "time": "2026-11-13T11:01:24.521499+00:00",
+        "model": "gpt-6-luna",
+        "usage": {
+          "prompt_tokens": 3115,
+          "completion_tokens": 527,
+          "total_tokens": 3642,
+          "prompt_tokens_details": {
+            "cached_tokens": 0,
+            "audio_tokens": 0
+          },
+          "completion_tokens_details": {
+            "reasoning_tokens": 488,
+            "audio_tokens": 0,
+            "accepted_prediction_tokens": 0,
+            "rejected_prediction_tokens": 0
+          }
+        },
+        "finish_reason": "stop"
+      },
+      {
+        "time": "2026-11-13T11:01:27.514815+00:00",
+        "model": "gpt-6-luna",
+        "usage": {
+          "prompt_tokens": 531,
+          "completion_tokens": 250,
+          "total_tokens": 781,
+          "prompt_tokens_details": {
+            "cached_tokens": 0,
+            "audio_tokens": 0
+          },
+          "completion_tokens_details": {
+            "reasoning_tokens": 207,
+            "audio_tokens": 0,
+            "accepted_prediction_tokens": 0,
+            "rejected_prediction_tokens": 0
+          }
+        },
+        "finish_reason": "stop"
+      },
+      {
+        "time": "2026-11-13T11:01:31.850006+00:00",
+        "model": "gpt-6-luna",
+        "usage": {
+          "prompt_tokens": 3115,
+          "completion_tokens": 251,
+          "total_tokens": 3366,
+          "prompt_tokens_details": {
+            "cached_tokens": 0,
+            "audio_tokens": 0
+          },
+          "completion_tokens_details": {
+            "reasoning_tokens": 212,
+            "audio_tokens": 0,
+            "accepted_prediction_tokens": 0,
+            "rejected_prediction_tokens": 0
+          }
+        },
+        "finish_reason": "stop"
+      },
+      {
+        "time": "2026-11-13T11:01:33.675805+00:00",
+        "model": "gpt-6-luna",
+        "usage": {
+          "prompt_tokens": 575,
+          "completion_tokens": 42,
+          "total_tokens": 617,
+          "prompt_tokens_details": {
+            "cached_tokens": 0,
+            "audio_tokens": 0
+          },
+          "completion_tokens_details": {
+            "reasoning_tokens": 0,
+            "audio_tokens": 0,
+            "accepted_prediction_tokens": 0,
+            "rejected_prediction_tokens": 0
+          }
+        },
+        "finish_reason": "stop"
+      },
+      {
+        "time": "2026-11-13T11:01:37.859104+00:00",
+        "model": "gpt-6-luna",
+        "usage": {
+          "prompt_tokens": 3115,
+          "completion_tokens": 178,
+          "total_tokens": 3293,
+          "prompt_tokens_details": {
+            "cached_tokens": 0,
+            "audio_tokens": 0
+          },
+          "completion_tokens_details": {
+            "reasoning_tokens": 139,
+            "audio_tokens": 0,
+            "accepted_prediction_tokens": 0,
+            "rejected_prediction_tokens": 0
+          }
+        },
+        "finish_reason": "stop"
+      },
+      {
+        "time": "2026-11-13T11:01:39.875433+00:00",
+        "model": "gpt-6-luna",
+        "usage": {
+          "prompt_tokens": 498,
+          "completion_tokens": 108,
+          "total_tokens": 606,
+          "prompt_tokens_details": {
+            "cached_tokens": 0,
+            "audio_tokens": 0
+          },
+          "completion_tokens_details": {
+            "reasoning_tokens": 61,
+            "audio_tokens": 0,
+            "accepted_prediction_tokens": 0,
+            "rejected_prediction_tokens": 0
+          }
+        },
+        "finish_reason": "stop"
+      },
+      {
+        "time": "2026-11-13T11:01:45.400957+00:00",
+        "model": "gpt-6-luna",
+        "usage": {
+          "prompt_tokens": 3116,
+          "completion_tokens": 356,
+          "total_tokens": 3472,
+          "prompt_tokens_details": {
+            "cached_tokens": 0,
+            "audio_tokens": 0
+          },
+          "completion_tokens_details": {
+            "reasoning_tokens": 317,
+            "audio_tokens": 0,
+            "accepted_prediction_tokens": 0,
+            "rejected_prediction_tokens": 0
+          }
+        },
+        "finish_reason": "stop"
+      },
+      {
+        "time": "2026-11-13T11:01:48.027952+00:00",
+        "model": "gpt-6-luna",
+        "usage": {
+          "prompt_tokens": 432,
+          "completion_tokens": 151,
+          "total_tokens": 583,
+          "prompt_tokens_details": {
+            "cached_tokens": 0,
+            "audio_tokens": 0
+          },
+          "completion_tokens_details": {
+            "reasoning_tokens": 107,
+            "audio_tokens": 0,
+            "accepted_prediction_tokens": 0,
+            "rejected_prediction_tokens": 0
+          }
+        },
+        "finish_reason": "stop"
+      },
+      {
+        "time": "2026-11-13T11:01:52.572078+00:00",
+        "model": "gpt-6-luna",
+        "usage": {
+          "prompt_tokens": 3118,
+          "completion_tokens": 277,
+          "total_tokens": 3395,
+          "prompt_tokens_details": {
+            "cached_tokens": 0,
+            "audio_tokens": 0
+          },
+          "completion_tokens_details": {
+            "reasoning_tokens": 238,
+            "audio_tokens": 0,
+            "accepted_prediction_tokens": 0,
+            "rejected_prediction_tokens": 0
+          }
+        },
+        "finish_reason": "stop"
+      },
+      {
+        "time": "2026-11-13T11:01:54.675560+00:00",
+        "model": "gpt-6-luna",
+        "usage": {
+          "prompt_tokens": 518,
+          "completion_tokens": 126,
+          "total_tokens": 644,
+          "prompt_tokens_details": {
+            "cached_tokens": 0,
+            "audio_tokens": 0
+          },
+          "completion_tokens_details": {
+            "reasoning_tokens": 84,
+            "audio_tokens": 0,
+            "accepted_prediction_tokens": 0,
+            "rejected_prediction_tokens": 0
+          }
+        },
+        "finish_reason": "stop"
+      },
+      {
+        "time": "2026-11-13T11:02:02.863025+00:00",
+        "model": "gpt-6-luna",
+        "usage": {
+          "prompt_tokens": 3118,
+          "completion_tokens": 498,
+          "total_tokens": 3616,
+          "prompt_tokens_details": {
+            "cached_tokens": 0,
+            "audio_tokens": 0
+          },
+          "completion_tokens_details": {
+            "reasoning_tokens": 459,
+            "audio_tokens": 0,
+            "accepted_prediction_tokens": 0,
+            "rejected_prediction_tokens": 0
+          }
+        },
+        "finish_reason": "stop"
+      },
+      {
+        "time": "2026-11-13T11:02:05.806935+00:00",
+        "model": "gpt-6-luna",
+        "usage": {
+          "prompt_tokens": 434,
+          "completion_tokens": 236,
+          "total_tokens": 670,
+          "prompt_tokens_details": {
+            "cached_tokens": 0,
+            "audio_tokens": 0
+          },
+          "completion_tokens_details": {
+            "reasoning_tokens": 191,
+            "audio_tokens": 0,
+            "accepted_prediction_tokens": 0,
+            "rejected_prediction_tokens": 0
+          }
+        },
+        "finish_reason": "stop"
+      },
+      {
+        "time": "2026-11-13T11:02:10.856323+00:00",
+        "model": "gpt-6-luna",
+        "usage": {
+          "prompt_tokens": 3116,
+          "completion_tokens": 263,
+          "total_tokens": 3379,
+          "prompt_tokens_details": {
+            "cached_tokens": 0,
+            "audio_tokens": 0
+          },
+          "completion_tokens_details": {
+            "reasoning_tokens": 224,
+            "audio_tokens": 0,
+            "accepted_prediction_tokens": 0,
+            "rejected_prediction_tokens": 0
+          }
+        },
+        "finish_reason": "stop"
+      },
+      {
+        "time": "2026-11-13T11:02:13.337856+00:00",
+        "model": "gpt-6-luna",
+        "usage": {
+          "prompt_tokens": 558,
+          "completion_tokens": 158,
+          "total_tokens": 716,
+          "prompt_tokens_details": {
+            "cached_tokens": 0,
+            "audio_tokens": 0
+          },
+          "completion_tokens_details": {
+            "reasoning_tokens": 107,
+            "audio_tokens": 0,
+            "accepted_prediction_tokens": 0,
+            "rejected_prediction_tokens": 0
+          }
+        },
+        "finish_reason": "stop"
+      },
+      {
+        "time": "2026-11-13T11:02:17.926532+00:00",
+        "model": "gpt-6-luna",
+        "usage": {
+          "prompt_tokens": 3116,
+          "completion_tokens": 289,
+          "total_tokens": 3405,
+          "prompt_tokens_details": {
+            "cached_tokens": 0,
+            "audio_tokens": 0
+          },
+          "completion_tokens_details": {
+            "reasoning_tokens": 250,
+            "audio_tokens": 0,
+            "accepted_prediction_tokens": 0,
+            "rejected_prediction_tokens": 0
+          }
+        },
+        "finish_reason": "stop"
+      },
+      {
+        "time": "2026-11-13T11:02:19.275366+00:00",
+        "model": "gpt-6-luna",
+        "usage": {
+          "prompt_tokens": 540,
+          "completion_tokens": 35,
+          "total_tokens": 575,
+          "prompt_tokens_details": {
+            "cached_tokens": 0,
+            "audio_tokens": 0
+          },
+          "completion_tokens_details": {
+            "reasoning_tokens": 0,
+            "audio_tokens": 0,
+            "accepted_prediction_tokens": 0,
+            "rejected_prediction_tokens": 0
+          }
+        },
+        "finish_reason": "stop"
+      },
+      {
+        "time": "2026-11-13T11:02:24.977763+00:00",
+        "model": "gpt-6-luna",
+        "usage": {
+          "prompt_tokens": 3119,
+          "completion_tokens": 346,
+          "total_tokens": 3465,
+          "prompt_tokens_details": {
+            "cached_tokens": 0,
+            "audio_tokens": 0
+          },
+          "completion_tokens_details": {
+            "reasoning_tokens": 307,
+            "audio_tokens": 0,
+            "accepted_prediction_tokens": 0,
+            "rejected_prediction_tokens": 0
+          }
+        },
+        "finish_reason": "stop"
+      },
+      {
+        "time": "2026-11-13T11:02:27.347015+00:00",
+        "model": "gpt-6-luna",
+        "usage": {
+          "prompt_tokens": 561,
+          "completion_tokens": 132,
+          "total_tokens": 693,
+          "prompt_tokens_details": {
+            "cached_tokens": 0,
+            "audio_tokens": 0
+          },
+          "completion_tokens_details": {
+            "reasoning_tokens": 80,
+            "audio_tokens": 0,
+            "accepted_prediction_tokens": 0,
+            "rejected_prediction_tokens": 0
+          }
+        },
+        "finish_reason": "stop"
+      },
+      {
+        "time": "2026-11-13T11:02:35.296634+00:00",
+        "model": "gpt-6-luna",
+        "usage": {
+          "prompt_tokens": 3119,
+          "completion_tokens": 613,
+          "total_tokens": 3732,
+          "prompt_tokens_details": {
+            "cached_tokens": 0,
+            "audio_tokens": 0
+          },
+          "completion_tokens_details": {
+            "reasoning_tokens": 568,
+            "audio_tokens": 0,
+            "accepted_prediction_tokens": 0,
+            "rejected_prediction_tokens": 0
+          }
+        },
+        "finish_reason": "stop"
+      },
+      {
+        "time": "2026-11-13T11:02:38.715907+00:00",
+        "model": "gpt-6-luna",
+        "usage": {
+          "prompt_tokens": 451,
+          "completion_tokens": 229,
+          "total_tokens": 680,
+          "prompt_tokens_details": {
+            "cached_tokens": 0,
+            "audio_tokens": 0
+          },
+          "completion_tokens_details": {
+            "reasoning_tokens": 177,
+            "audio_tokens": 0,
+            "accepted_prediction_tokens": 0,
+            "rejected_prediction_tokens": 0
+          }
+        },
+        "finish_reason": "stop"
+      },
+      {
+        "time": "2026-11-13T11:02:48.222568+00:00",
+        "model": "gpt-6-luna",
+        "usage": {
+          "prompt_tokens": 3119,
+          "completion_tokens": 779,
+          "total_tokens": 3898,
+          "prompt_tokens_details": {
+            "cached_tokens": 0,
+            "audio_tokens": 0
+          },
+          "completion_tokens_details": {
+            "reasoning_tokens": 733,
+            "audio_tokens": 0,
+            "accepted_prediction_tokens": 0,
+            "rejected_prediction_tokens": 0
+          }
+        },
+        "finish_reason": "stop"
+      },
+      {
+        "time": "2026-11-13T11:02:51.186826+00:00",
+        "model": "gpt-6-luna",
+        "usage": {
+          "prompt_tokens": 485,
+          "completion_tokens": 202,
+          "total_tokens": 687,
+          "prompt_tokens_details": {
+            "cached_tokens": 0,
+            "audio_tokens": 0
+          },
+          "completion_tokens_details": {
+            "reasoning_tokens": 155,
+            "audio_tokens": 0,
+            "accepted_prediction_tokens": 0,
+            "rejected_prediction_tokens": 0
+          }
+        },
+        "finish_reason": "stop"
+      },
+      {
+        "time": "2026-11-13T11:02:56.244320+00:00",
+        "model": "gpt-6-luna",
+        "usage": {
+          "prompt_tokens": 3120,
+          "completion_tokens": 325,
+          "total_tokens": 3445,
+          "prompt_tokens_details": {
+            "cached_tokens": 0,
+            "audio_tokens": 0
+          },
+          "completion_tokens_details": {
+            "reasoning_tokens": 286,
+            "audio_tokens": 0,
+            "accepted_prediction_tokens": 0,
+            "rejected_prediction_tokens": 0
+          }
+        },
+        "finish_reason": "stop"
+      },
+      {
+        "time": "2026-11-13T11:02:57.603209+00:00",
+        "model": "gpt-6-luna",
+        "usage": {
+          "prompt_tokens": 562,
+          "completion_tokens": 42,
+          "total_tokens": 604,
+          "prompt_tokens_details": {
+            "cached_tokens": 0,
+            "audio_tokens": 0
+          },
+          "completion_tokens_details": {
+            "reasoning_tokens": 0,
+            "audio_tokens": 0,
+            "accepted_prediction_tokens": 0,
+            "rejected_prediction_tokens": 0
+          }
+        },
+        "finish_reason": "stop"
+      },
+      {
+        "time": "2026-11-13T11:03:02.612498+00:00",
+        "model": "gpt-6-luna",
+        "usage": {
+          "prompt_tokens": 3121,
+          "completion_tokens": 258,
+          "total_tokens": 3379,
+          "prompt_tokens_details": {
+            "cached_tokens": 0,
+            "audio_tokens": 0
+          },
+          "completion_tokens_details": {
+            "reasoning_tokens": 219,
+            "audio_tokens": 0,
+            "accepted_prediction_tokens": 0,
+            "rejected_prediction_tokens": 0
+          }
+        },
+        "finish_reason": "stop"
+      },
+      {
+        "time": "2026-11-13T11:03:05.307146+00:00",
+        "model": "gpt-6-luna",
+        "usage": {
+          "prompt_tokens": 617,
+          "completion_tokens": 122,
+          "total_tokens": 739,
+          "prompt_tokens_details": {
+            "cached_tokens": 0,
+            "audio_tokens": 0
+          },
+          "completion_tokens_details": {
+            "reasoning_tokens": 77,
+            "audio_tokens": 0,
+            "accepted_prediction_tokens": 0,
+            "rejected_prediction_tokens": 0
+          }
+        },
+        "finish_reason": "stop"
+      },
+      {
+        "time": "2026-11-13T11:03:11.096588+00:00",
+        "model": "gpt-6-luna",
+        "usage": {
+          "prompt_tokens": 3119,
+          "completion_tokens": 277,
+          "total_tokens": 3396,
+          "prompt_tokens_details": {
+            "cached_tokens": 0,
+            "audio_tokens": 0
+          },
+          "completion_tokens_details": {
+            "reasoning_tokens": 238,
+            "audio_tokens": 0,
+            "accepted_prediction_tokens": 0,
+            "rejected_prediction_tokens": 0
+          }
+        },
+        "finish_reason": "stop"
+      },
+      {
+        "time": "2026-11-13T11:03:14.322498+00:00",
+        "model": "gpt-6-luna",
+        "usage": {
+          "prompt_tokens": 485,
+          "completion_tokens": 244,
+          "total_tokens": 729,
+          "prompt_tokens_details": {
+            "cached_tokens": 0,
+            "audio_tokens": 0
+          },
+          "completion_tokens_details": {
+            "reasoning_tokens": 201,
+            "audio_tokens": 0,
+            "accepted_prediction_tokens": 0,
+            "rejected_prediction_tokens": 0
+          }
+        },
+        "finish_reason": "stop"
+      },
+      {
+        "time": "2026-11-13T11:03:19.068957+00:00",
+        "model": "gpt-6-luna",
+        "usage": {
+          "prompt_tokens": 3118,
+          "completion_tokens": 315,
+          "total_tokens": 3433,
+          "prompt_tokens_details": {
+            "cached_tokens": 0,
+            "audio_tokens": 0
+          },
+          "completion_tokens_details": {
+            "reasoning_tokens": 276,
+            "audio_tokens": 0,
+            "accepted_prediction_tokens": 0,
+            "rejected_prediction_tokens": 0
+          }
+        },
+        "finish_reason": "stop"
+      },
+      {
+        "time": "2026-11-13T11:03:21.935413+00:00",
+        "model": "gpt-6-luna",
+        "usage": {
+          "prompt_tokens": 501,
+          "completion_tokens": 229,
+          "total_tokens": 730,
+          "prompt_tokens_details": {
+            "cached_tokens": 0,
+            "audio_tokens": 0
+          },
+          "completion_tokens_details": {
+            "reasoning_tokens": 182,
+            "audio_tokens": 0,
+            "accepted_prediction_tokens": 0,
+            "rejected_prediction_tokens": 0
+          }
+        },
+        "finish_reason": "stop"
+      },
+      {
+        "time": "2026-11-13T11:03:27.603069+00:00",
+        "model": "gpt-6-luna",
+        "usage": {
+          "prompt_tokens": 3118,
+          "completion_tokens": 441,
+          "total_tokens": 3559,
+          "prompt_tokens_details": {
+            "cached_tokens": 0,
+            "audio_tokens": 0
+          },
+          "completion_tokens_details": {
+            "reasoning_tokens": 402,
+            "audio_tokens": 0,
+            "accepted_prediction_tokens": 0,
+            "rejected_prediction_tokens": 0
+          }
+        },
+        "finish_reason": "stop"
+      },
+      {
+        "time": "2026-11-13T11:03:32.972115+00:00",
+        "model": "gpt-6-luna",
+        "usage": {
+          "prompt_tokens": 568,
+          "completion_tokens": 508,
+          "total_tokens": 1076,
+          "prompt_tokens_details": {
+            "cached_tokens": 0,
+            "audio_tokens": 0
+          },
+          "completion_tokens_details": {
+            "reasoning_tokens": 469,
+            "audio_tokens": 0,
+            "accepted_prediction_tokens": 0,
+            "rejected_prediction_tokens": 0
+          }
+        },
+        "finish_reason": "stop"
+      },
+      {
+        "time": "2026-11-13T11:03:37.090642+00:00",
+        "model": "gpt-6-luna",
+        "usage": {
+          "prompt_tokens": 3117,
+          "completion_tokens": 234,
+          "total_tokens": 3351,
+          "prompt_tokens_details": {
+            "cached_tokens": 0,
+            "audio_tokens": 0
+          },
+          "completion_tokens_details": {
+            "reasoning_tokens": 195,
+            "audio_tokens": 0,
+            "accepted_prediction_tokens": 0,
+            "rejected_prediction_tokens": 0
+          }
+        },
+        "finish_reason": "stop"
+      },
+      {
+        "time": "2026-11-13T11:03:40.791468+00:00",
+        "model": "gpt-6-luna",
+        "usage": {
+          "prompt_tokens": 517,
+          "completion_tokens": 131,
+          "total_tokens": 648,
+          "prompt_tokens_details": {
+            "cached_tokens": 0,
+            "audio_tokens": 0
+          },
+          "completion_tokens_details": {
+            "reasoning_tokens": 86,
+            "audio_tokens": 0,
+            "accepted_prediction_tokens": 0,
+            "rejected_prediction_tokens": 0
+          }
+        },
+        "finish_reason": "stop"
+      },
+      {
+        "time": "2026-11-13T11:03:47.861680+00:00",
+        "model": "gpt-6-luna",
+        "usage": {
+          "prompt_tokens": 3119,
+          "completion_tokens": 313,
+          "total_tokens": 3432,
+          "prompt_tokens_details": {
+            "cached_tokens": 0,
+            "audio_tokens": 0
+          },
+          "completion_tokens_details": {
+            "reasoning_tokens": 274,
+            "audio_tokens": 0,
+            "accepted_prediction_tokens": 0,
+            "rejected_prediction_tokens": 0
+          }
+        },
+        "finish_reason": "stop"
+      },
+      {
+        "time": "2026-11-13T11:03:49.771533+00:00",
+        "model": "gpt-6-luna",
+        "usage": {
+          "prompt_tokens": 485,
+          "completion_tokens": 112,
+          "total_tokens": 597,
+          "prompt_tokens_details": {
+            "cached_tokens": 0,
+            "audio_tokens": 0
+          },
+          "completion_tokens_details": {
+            "reasoning_tokens": 66,
+            "audio_tokens": 0,
+            "accepted_prediction_tokens": 0,
+            "rejected_prediction_tokens": 0
+          }
+        },
+        "finish_reason": "stop"
+      },
+      {
+        "time": "2026-11-13T11:03:55.830054+00:00",
+        "model": "gpt-6-luna",
+        "usage": {
+          "prompt_tokens": 3119,
+          "completion_tokens": 465,
+          "total_tokens": 3584,
+          "prompt_tokens_details": {
+            "cached_tokens": 0,
+            "audio_tokens": 0
+          },
+          "completion_tokens_details": {
+            "reasoning_tokens": 426,
+            "audio_tokens": 0,
+            "accepted_prediction_tokens": 0,
+            "rejected_prediction_tokens": 0
+          }
+        },
+        "finish_reason": "stop"
+      },
+      {
+        "time": "2026-11-13T11:03:58.501960+00:00",
+        "model": "gpt-6-luna",
+        "usage": {
+          "prompt_tokens": 485,
+          "completion_tokens": 203,
+          "total_tokens": 688,
+          "prompt_tokens_details": {
+            "cached_tokens": 0,
+            "audio_tokens": 0
+          },
+          "completion_tokens_details": {
+            "reasoning_tokens": 153,
+            "audio_tokens": 0,
+            "accepted_prediction_tokens": 0,
+            "rejected_prediction_tokens": 0
+          }
+        },
+        "finish_reason": "stop"
+      },
+      {
+        "time": "2026-11-13T11:04:03.283832+00:00",
+        "model": "gpt-6-luna",
+        "usage": {
+          "prompt_tokens": 3119,
+          "completion_tokens": 277,
+          "total_tokens": 3396,
+          "prompt_tokens_details": {
+            "cached_tokens": 0,
+            "audio_tokens": 0
+          },
+          "completion_tokens_details": {
+            "reasoning_tokens": 238,
+            "audio_tokens": 0,
+            "accepted_prediction_tokens": 0,
+            "rejected_prediction_tokens": 0
+          }
+        },
+        "finish_reason": "stop"
+      },
+      {
+        "time": "2026-11-13T11:04:05.340179+00:00",
+        "model": "gpt-6-luna",
+        "usage": {
+          "prompt_tokens": 552,
+          "completion_tokens": 140,
+          "total_tokens": 692,
+          "prompt_tokens_details": {
+            "cached_tokens": 0,
+            "audio_tokens": 0
+          },
+          "completion_tokens_details": {
+            "reasoning_tokens": 93,
+            "audio_tokens": 0,
+            "accepted_prediction_tokens": 0,
+            "rejected_prediction_tokens": 0
+          }
+        },
+        "finish_reason": "stop"
+      },
+      {
+        "time": "2026-11-13T11:04:10.385152+00:00",
+        "model": "gpt-6-luna",
+        "usage": {
+          "prompt_tokens": 3126,
+          "completion_tokens": 319,
+          "total_tokens": 3445,
+          "prompt_tokens_details": {
+            "cached_tokens": 0,
+            "audio_tokens": 0
+          },
+          "completion_tokens_details": {
+            "reasoning_tokens": 280,
+            "audio_tokens": 0,
+            "accepted_prediction_tokens": 0,
+            "rejected_prediction_tokens": 0
+          }
+        },
+        "finish_reason": "stop"
+      },
+      {
+        "time": "2026-11-13T11:04:12.426609+00:00",
+        "model": "gpt-6-luna",
+        "usage": {
+          "prompt_tokens": 492,
+          "completion_tokens": 157,
+          "total_tokens": 649,
+          "prompt_tokens_details": {
+            "cached_tokens": 0,
+            "audio_tokens": 0
+          },
+          "completion_tokens_details": {
+            "reasoning_tokens": 112,
+            "audio_tokens": 0,
+            "accepted_prediction_tokens": 0,
+            "rejected_prediction_tokens": 0
+          }
+        },
+        "finish_reason": "stop"
+      },
+      {
+        "time": "2026-11-13T11:04:18.954912+00:00",
+        "model": "gpt-6-luna",
+        "usage": {
+          "prompt_tokens": 3122,
+          "completion_tokens": 522,
+          "total_tokens": 3644,
+          "prompt_tokens_details": {
+            "cached_tokens": 0,
+            "audio_tokens": 0
+          },
+          "completion_tokens_details": {
+            "reasoning_tokens": 483,
+            "audio_tokens": 0,
+            "accepted_prediction_tokens": 0,
+            "rejected_prediction_tokens": 0
+          }
+        },
+        "finish_reason": "stop"
+      },
+      {
+        "time": "2026-11-13T11:04:22.040579+00:00",
+        "model": "gpt-6-luna",
+        "usage": {
+          "prompt_tokens": 454,
+          "completion_tokens": 184,
+          "total_tokens": 638,
+          "prompt_tokens_details": {
+            "cached_tokens": 0,
+            "audio_tokens": 0
+          },
+          "completion_tokens_details": {
+            "reasoning_tokens": 137,
+            "audio_tokens": 0,
+            "accepted_prediction_tokens": 0,
+            "rejected_prediction_tokens": 0
+          }
+        },
+        "finish_reason": "stop"
+      },
+      {
+        "time": "2026-11-13T11:04:26.650080+00:00",
+        "model": "gpt-6-luna",
+        "usage": {
+          "prompt_tokens": 3121,
+          "completion_tokens": 212,
+          "total_tokens": 3333,
+          "prompt_tokens_details": {
+            "cached_tokens": 0,
+            "audio_tokens": 0
+          },
+          "completion_tokens_details": {
+            "reasoning_tokens": 173,
+            "audio_tokens": 0,
+            "accepted_prediction_tokens": 0,
+            "rejected_prediction_tokens": 0
+          }
+        },
+        "finish_reason": "stop"
+      },
+      {
+        "time": "2026-11-13T11:04:28.792182+00:00",
+        "model": "gpt-6-luna",
+        "usage": {
+          "prompt_tokens": 521,
+          "completion_tokens": 131,
+          "total_tokens": 652,
+          "prompt_tokens_details": {
+            "cached_tokens": 0,
+            "audio_tokens": 0
+          },
+          "completion_tokens_details": {
+            "reasoning_tokens": 78,
+            "audio_tokens": 0,
+            "accepted_prediction_tokens": 0,
+            "rejected_prediction_tokens": 0
+          }
+        },
+        "finish_reason": "stop"
+      },
+      {
+        "time": "2026-11-13T11:04:35.130011+00:00",
+        "model": "gpt-6-luna",
+        "usage": {
+          "prompt_tokens": 3124,
+          "completion_tokens": 437,
+          "total_tokens": 3561,
+          "prompt_tokens_details": {
+            "cached_tokens": 0,
+            "audio_tokens": 0
+          },
+          "completion_tokens_details": {
+            "reasoning_tokens": 398,
+            "audio_tokens": 0,
+            "accepted_prediction_tokens": 0,
+            "rejected_prediction_tokens": 0
+          }
+        },
+        "finish_reason": "stop"
+      },
+      {
+        "time": "2026-11-13T11:04:37.307230+00:00",
+        "model": "gpt-6-luna",
+        "usage": {
+          "prompt_tokens": 530,
+          "completion_tokens": 159,
+          "total_tokens": 689,
+          "prompt_tokens_details": {
+            "cached_tokens": 0,
+            "audio_tokens": 0
+          },
+          "completion_tokens_details": {
+            "reasoning_tokens": 109,
+            "audio_tokens": 0,
+            "accepted_prediction_tokens": 0,
+            "rejected_prediction_tokens": 0
+          }
+        },
+        "finish_reason": "stop"
+      },
+      {
+        "time": "2026-11-13T11:04:42.864528+00:00",
+        "model": "gpt-6-luna",
+        "usage": {
+          "prompt_tokens": 3120,
+          "completion_tokens": 433,
+          "total_tokens": 3553,
+          "prompt_tokens_details": {
+            "cached_tokens": 0,
+            "audio_tokens": 0
+          },
+          "completion_tokens_details": {
+            "reasoning_tokens": 394,
+            "audio_tokens": 0,
+            "accepted_prediction_tokens": 0,
+            "rejected_prediction_tokens": 0
+          }
+        },
+        "finish_reason": "stop"
+      },
+      {
+        "time": "2026-11-13T11:04:45.573155+00:00",
+        "model": "gpt-6-luna",
+        "usage": {
+          "prompt_tokens": 580,
+          "completion_tokens": 215,
+          "total_tokens": 795,
+          "prompt_tokens_details": {
+            "cached_tokens": 0,
+            "audio_tokens": 0
+          },
+          "completion_tokens_details": {
+            "reasoning_tokens": 171,
+            "audio_tokens": 0,
+            "accepted_prediction_tokens": 0,
+            "rejected_prediction_tokens": 0
+          }
+        },
+        "finish_reason": "stop"
+      },
+      {
+        "time": "2026-11-13T11:04:49.990874+00:00",
+        "model": "gpt-6-luna",
+        "usage": {
+          "prompt_tokens": 3119,
+          "completion_tokens": 272,
+          "total_tokens": 3391,
+          "prompt_tokens_details": {
+            "cached_tokens": 0,
+            "audio_tokens": 0
+          },
+          "completion_tokens_details": {
+            "reasoning_tokens": 233,
+            "audio_tokens": 0,
+            "accepted_prediction_tokens": 0,
+            "rejected_prediction_tokens": 0
+          }
+        },
+        "finish_reason": "stop"
+      },
+      {
+        "time": "2026-11-13T11:04:53.405921+00:00",
+        "model": "gpt-6-luna",
+        "usage": {
+          "prompt_tokens": 579,
+          "completion_tokens": 252,
+          "total_tokens": 831,
+          "prompt_tokens_details": {
+            "cached_tokens": 0,
+            "audio_tokens": 0
+          },
+          "completion_tokens_details": {
+            "reasoning_tokens": 215,
+            "audio_tokens": 0,
+            "accepted_prediction_tokens": 0,
+            "rejected_prediction_tokens": 0
+          }
+        },
+        "finish_reason": "stop"
+      },
+      {
+        "time": "2026-11-13T11:04:58.170263+00:00",
+        "model": "gpt-6-luna",
+        "usage": {
+          "prompt_tokens": 3117,
+          "completion_tokens": 276,
+          "total_tokens": 3393,
+          "prompt_tokens_details": {
+            "cached_tokens": 0,
+            "audio_tokens": 0
+          },
+          "completion_tokens_details": {
+            "reasoning_tokens": 237,
+            "audio_tokens": 0,
+            "accepted_prediction_tokens": 0,
+            "rejected_prediction_tokens": 0
+          }
+        },
+        "finish_reason": "stop"
+      },
+      {
+        "time": "2026-11-13T11:05:01.137910+00:00",
+        "model": "gpt-6-luna",
+        "usage": {
+          "prompt_tokens": 466,
+          "completion_tokens": 207,
+          "total_tokens": 673,
+          "prompt_tokens_details": {
+            "cached_tokens": 0,
+            "audio_tokens": 0
+          },
+          "completion_tokens_details": {
+            "reasoning_tokens": 167,
+            "audio_tokens": 0,
+            "accepted_prediction_tokens": 0,
+            "rejected_prediction_tokens": 0
+          }
+        },
+        "finish_reason": "stop"
+      },
+      {
+        "time": "2026-11-13T11:05:08.918357+00:00",
+        "model": "gpt-6-luna",
+        "usage": {
+          "prompt_tokens": 3117,
+          "completion_tokens": 611,
+          "total_tokens": 3728,
+          "prompt_tokens_details": {
+            "cached_tokens": 0,
+            "audio_tokens": 0
+          },
+          "completion_tokens_details": {
+            "reasoning_tokens": 566,
+            "audio_tokens": 0,
+            "accepted_prediction_tokens": 0,
+            "rejected_prediction_tokens": 0
+          }
+        },
+        "finish_reason": "stop"
+      },
+      {
+        "time": "2026-11-13T11:05:11.172836+00:00",
+        "model": "gpt-6-luna",
+        "usage": {
+          "prompt_tokens": 550,
+          "completion_tokens": 143,
+          "total_tokens": 693,
+          "prompt_tokens_details": {
+            "cached_tokens": 0,
+            "audio_tokens": 0
+          },
+          "completion_tokens_details": {
+            "reasoning_tokens": 95,
+            "audio_tokens": 0,
+            "accepted_prediction_tokens": 0,
+            "rejected_prediction_tokens": 0
+          }
+        },
+        "finish_reason": "stop"
+      },
+      {
+        "time": "2026-11-13T11:05:18.137658+00:00",
+        "model": "gpt-6-luna",
+        "usage": {
+          "prompt_tokens": 3117,
+          "completion_tokens": 532,
+          "total_tokens": 3649,
+          "prompt_tokens_details": {
+            "cached_tokens": 2432,
+            "audio_tokens": 0
+          },
+          "completion_tokens_details": {
+            "reasoning_tokens": 493,
+            "audio_tokens": 0,
+            "accepted_prediction_tokens": 0,
+            "rejected_prediction_tokens": 0
+          }
+        },
+        "finish_reason": "stop"
+      },
+      {
+        "time": "2026-11-13T11:05:19.368731+00:00",
+        "model": "gpt-6-luna",
+        "usage": {
+          "prompt_tokens": 550,
+          "completion_tokens": 36,
+          "total_tokens": 586,
+          "prompt_tokens_details": {
+            "cached_tokens": 0,
+            "audio_tokens": 0
+          },
+          "completion_tokens_details": {
+            "reasoning_tokens": 0,
+            "audio_tokens": 0,
+            "accepted_prediction_tokens": 0,
+            "rejected_prediction_tokens": 0
+          }
+        },
+        "finish_reason": "stop"
+      },
+      {
+        "time": "2026-11-13T11:05:26.618348+00:00",
+        "model": "gpt-6-luna",
+        "usage": {
+          "prompt_tokens": 3117,
+          "completion_tokens": 490,
+          "total_tokens": 3607,
+          "prompt_tokens_details": {
+            "cached_tokens": 0,
+            "audio_tokens": 0
+          },
+          "completion_tokens_details": {
+            "reasoning_tokens": 451,
+            "audio_tokens": 0,
+            "accepted_prediction_tokens": 0,
+            "rejected_prediction_tokens": 0
+          }
+        },
+        "finish_reason": "stop"
+      },
+      {
+        "time": "2026-11-13T11:05:27.667916+00:00",
+        "model": "gpt-6-luna",
+        "usage": {
+          "prompt_tokens": 617,
+          "completion_tokens": 37,
+          "total_tokens": 654,
+          "prompt_tokens_details": {
+            "cached_tokens": 0,
+            "audio_tokens": 0
+          },
+          "completion_tokens_details": {
+            "reasoning_tokens": 0,
+            "audio_tokens": 0,
+            "accepted_prediction_tokens": 0,
+            "rejected_prediction_tokens": 0
+          }
+        },
+        "finish_reason": "stop"
+      },
+      {
+        "time": "2026-11-13T11:05:36.780715+00:00",
+        "model": "gpt-6-luna",
+        "usage": {
+          "prompt_tokens": 3117,
+          "completion_tokens": 730,
+          "total_tokens": 3847,
+          "prompt_tokens_details": {
+            "cached_tokens": 0,
+            "audio_tokens": 0
+          },
+          "completion_tokens_details": {
+            "reasoning_tokens": 685,
+            "audio_tokens": 0,
+            "accepted_prediction_tokens": 0,
+            "rejected_prediction_tokens": 0
+          }
+        },
+        "finish_reason": "stop"
+      },
+      {
+        "time": "2026-11-13T11:05:39.771076+00:00",
+        "model": "gpt-6-luna",
+        "usage": {
+          "prompt_tokens": 559,
+          "completion_tokens": 189,
+          "total_tokens": 748,
+          "prompt_tokens_details": {
+            "cached_tokens": 0,
+            "audio_tokens": 0
+          },
+          "completion_tokens_details": {
+            "reasoning_tokens": 145,
+            "audio_tokens": 0,
+            "accepted_prediction_tokens": 0,
+            "rejected_prediction_tokens": 0
+          }
+        },
+        "finish_reason": "stop"
+      },
+      {
+        "time": "2026-11-13T11:05:46.303217+00:00",
+        "model": "gpt-6-luna",
+        "usage": {
+          "prompt_tokens": 3117,
+          "completion_tokens": 467,
+          "total_tokens": 3584,
+          "prompt_tokens_details": {
+            "cached_tokens": 0,
+            "audio_tokens": 0
+          },
+          "completion_tokens_details": {
+            "reasoning_tokens": 428,
+            "audio_tokens": 0,
+            "accepted_prediction_tokens": 0,
+            "rejected_prediction_tokens": 0
+          }
+        },
+        "finish_reason": "stop"
+      },
+      {
+        "time": "2026-11-13T11:05:48.333478+00:00",
+        "model": "gpt-6-luna",
+        "usage": {
+          "prompt_tokens": 487,
+          "completion_tokens": 120,
+          "total_tokens": 607,
+          "prompt_tokens_details": {
+            "cached_tokens": 0,
+            "audio_tokens": 0
+          },
+          "completion_tokens_details": {
+            "reasoning_tokens": 75,
+            "audio_tokens": 0,
+            "accepted_prediction_tokens": 0,
+            "rejected_prediction_tokens": 0
+          }
+        },
+        "finish_reason": "stop"
+      },
+      {
+        "time": "2026-11-13T11:05:54.488104+00:00",
+        "model": "gpt-6-luna",
+        "usage": {
+          "prompt_tokens": 3119,
+          "completion_tokens": 364,
+          "total_tokens": 3483,
+          "prompt_tokens_details": {
+            "cached_tokens": 0,
+            "audio_tokens": 0
+          },
+          "completion_tokens_details": {
+            "reasoning_tokens": 325,
+            "audio_tokens": 0,
+            "accepted_prediction_tokens": 0,
+            "rejected_prediction_tokens": 0
+          }
+        },
+        "finish_reason": "stop"
+      },
+      {
+        "time": "2026-11-13T11:05:57.099509+00:00",
+        "model": "gpt-6-luna",
+        "usage": {
+          "prompt_tokens": 535,
+          "completion_tokens": 182,
+          "total_tokens": 717,
+          "prompt_tokens_details": {
+            "cached_tokens": 0,
+            "audio_tokens": 0
+          },
+          "completion_tokens_details": {
+            "reasoning_tokens": 138,
+            "audio_tokens": 0,
+            "accepted_prediction_tokens": 0,
+            "rejected_prediction_tokens": 0
+          }
+        },
+        "finish_reason": "stop"
+      },
+      {
+        "time": "2026-11-13T11:06:04.113594+00:00",
+        "model": "gpt-6-luna",
+        "usage": {
+          "prompt_tokens": 3117,
+          "completion_tokens": 385,
+          "total_tokens": 3502,
+          "prompt_tokens_details": {
+            "cached_tokens": 0,
+            "audio_tokens": 0
+          },
+          "completion_tokens_details": {
+            "reasoning_tokens": 346,
+            "audio_tokens": 0,
+            "accepted_prediction_tokens": 0,
+            "rejected_prediction_tokens": 0
+          }
+        },
+        "finish_reason": "stop"
+      },
+      {
+        "time": "2026-11-13T11:06:06.468800+00:00",
+        "model": "gpt-6-luna",
+        "usage": {
+          "prompt_tokens": 517,
+          "completion_tokens": 167,
+          "total_tokens": 684,
+          "prompt_tokens_details": {
+            "cached_tokens": 0,
+            "audio_tokens": 0
+          },
+          "completion_tokens_details": {
+            "reasoning_tokens": 118,
+            "audio_tokens": 0,
+            "accepted_prediction_tokens": 0,
+            "rejected_prediction_tokens": 0
+          }
+        },
+        "finish_reason": "stop"
+      },
+      {
+        "time": "2026-11-13T11:06:13.652260+00:00",
+        "model": "gpt-6-luna",
+        "usage": {
+          "prompt_tokens": 3117,
+          "completion_tokens": 509,
+          "total_tokens": 3626,
+          "prompt_tokens_details": {
+            "cached_tokens": 0,
+            "audio_tokens": 0
+          },
+          "completion_tokens_details": {
+            "reasoning_tokens": 470,
+            "audio_tokens": 0,
+            "accepted_prediction_tokens": 0,
+            "rejected_prediction_tokens": 0
+          }
+        },
+        "finish_reason": "stop"
+      },
+      {
+        "time": "2026-11-13T11:06:16.401477+00:00",
+        "model": "gpt-6-luna",
+        "usage": {
+          "prompt_tokens": 550,
+          "completion_tokens": 173,
+          "total_tokens": 723,
+          "prompt_tokens_details": {
+            "cached_tokens": 0,
+            "audio_tokens": 0
+          },
+          "completion_tokens_details": {
+            "reasoning_tokens": 123,
+            "audio_tokens": 0,
+            "accepted_prediction_tokens": 0,
+            "rejected_prediction_tokens": 0
+          }
+        },
+        "finish_reason": "stop"
+      },
+      {
+        "time": "2026-11-13T11:06:25.831815+00:00",
+        "model": "gpt-6-luna",
+        "usage": {
+          "prompt_tokens": 3119,
+          "completion_tokens": 737,
+          "total_tokens": 3856,
+          "prompt_tokens_details": {
+            "cached_tokens": 0,
+            "audio_tokens": 0
+          },
+          "completion_tokens_details": {
+            "reasoning_tokens": 692,
+            "audio_tokens": 0,
+            "accepted_prediction_tokens": 0,
+            "rejected_prediction_tokens": 0
+          }
+        },
+        "finish_reason": "stop"
+      },
+      {
+        "time": "2026-11-13T11:06:30.797681+00:00",
+        "model": "gpt-6-luna",
+        "usage": {
+          "prompt_tokens": 485,
+          "completion_tokens": 406,
+          "total_tokens": 891,
+          "prompt_tokens_details": {
+            "cached_tokens": 0,
+            "audio_tokens": 0
+          },
+          "completion_tokens_details": {
+            "reasoning_tokens": 354,
+            "audio_tokens": 0,
+            "accepted_prediction_tokens": 0,
+            "rejected_prediction_tokens": 0
+          }
+        },
+        "finish_reason": "stop"
+      },
+      {
+        "time": "2026-11-13T11:06:38.589284+00:00",
+        "model": "gpt-6-luna",
+        "usage": {
+          "prompt_tokens": 3119,
+          "completion_tokens": 354,
+          "total_tokens": 3473,
+          "prompt_tokens_details": {
+            "cached_tokens": 0,
+            "audio_tokens": 0
+          },
+          "completion_tokens_details": {
+            "reasoning_tokens": 315,
+            "audio_tokens": 0,
+            "accepted_prediction_tokens": 0,
+            "rejected_prediction_tokens": 0
+          }
+        },
+        "finish_reason": "stop"
+      },
+      {
+        "time": "2026-11-13T11:06:40.772115+00:00",
+        "model": "gpt-6-luna",
+        "usage": {
+          "prompt_tokens": 435,
+          "completion_tokens": 145,
+          "total_tokens": 580,
+          "prompt_tokens_details": {
+            "cached_tokens": 0,
+            "audio_tokens": 0
+          },
+          "completion_tokens_details": {
+            "reasoning_tokens": 90,
+            "audio_tokens": 0,
+            "accepted_prediction_tokens": 0,
+            "rejected_prediction_tokens": 0
+          }
+        },
+        "finish_reason": "stop"
+      },
+      {
+        "time": "2026-11-13T11:06:47.428701+00:00",
+        "model": "gpt-6-luna",
+        "usage": {
+          "prompt_tokens": 3119,
+          "completion_tokens": 427,
+          "total_tokens": 3546,
+          "prompt_tokens_details": {
+            "cached_tokens": 0,
+            "audio_tokens": 0
+          },
+          "completion_tokens_details": {
+            "reasoning_tokens": 388,
+            "audio_tokens": 0,
+            "accepted_prediction_tokens": 0,
+            "rejected_prediction_tokens": 0
+          }
+        },
+        "finish_reason": "stop"
+      },
+      {
+        "time": "2026-11-13T11:06:51.016939+00:00",
+        "model": "gpt-6-luna",
+        "usage": {
+          "prompt_tokens": 507,
+          "completion_tokens": 244,
+          "total_tokens": 751,
+          "prompt_tokens_details": {
+            "cached_tokens": 0,
+            "audio_tokens": 0
+          },
+          "completion_tokens_details": {
+            "reasoning_tokens": 200,
+            "audio_tokens": 0,
+            "accepted_prediction_tokens": 0,
+            "rejected_prediction_tokens": 0
+          }
+        },
+        "finish_reason": "stop"
+      },
+      {
+        "time": "2026-11-13T11:06:57.278235+00:00",
+        "model": "gpt-6-luna",
+        "usage": {
+          "prompt_tokens": 3119,
+          "completion_tokens": 424,
+          "total_tokens": 3543,
+          "prompt_tokens_details": {
+            "cached_tokens": 0,
+            "audio_tokens": 0
+          },
+          "completion_tokens_details": {
+            "reasoning_tokens": 385,
+            "audio_tokens": 0,
+            "accepted_prediction_tokens": 0,
+            "rejected_prediction_tokens": 0
+          }
+        },
+        "finish_reason": "stop"
+      },
+      {
+        "time": "2026-11-13T11:06:59.654569+00:00",
+        "model": "gpt-6-luna",
+        "usage": {
+          "prompt_tokens": 451,
+          "completion_tokens": 156,
+          "total_tokens": 607,
+          "prompt_tokens_details": {
+            "cached_tokens": 0,
+            "audio_tokens": 0
+          },
+          "completion_tokens_details": {
+            "reasoning_tokens": 113,
+            "audio_tokens": 0,
+            "accepted_prediction_tokens": 0,
+            "rejected_prediction_tokens": 0
+          }
+        },
+        "finish_reason": "stop"
+      },
+      {
+        "time": "2026-11-13T11:07:04.197864+00:00",
+        "model": "gpt-6-luna",
+        "usage": {
+          "prompt_tokens": 3120,
+          "completion_tokens": 251,
+          "total_tokens": 3371,
+          "prompt_tokens_details": {
+            "cached_tokens": 0,
+            "audio_tokens": 0
+          },
+          "completion_tokens_details": {
+            "reasoning_tokens": 212,
+            "audio_tokens": 0,
+            "accepted_prediction_tokens": 0,
+            "rejected_prediction_tokens": 0
+          }
+        },
+        "finish_reason": "stop"
+      },
+      {
+        "time": "2026-11-13T11:07:07.070260+00:00",
+        "model": "gpt-6-luna",
+        "usage": {
+          "prompt_tokens": 520,
+          "completion_tokens": 165,
+          "total_tokens": 685,
+          "prompt_tokens_details": {
+            "cached_tokens": 0,
+            "audio_tokens": 0
+          },
+          "completion_tokens_details": {
+            "reasoning_tokens": 121,
+            "audio_tokens": 0,
+            "accepted_prediction_tokens": 0,
+            "rejected_prediction_tokens": 0
+          }
+        },
+        "finish_reason": "stop"
+      },
+      {
+        "time": "2026-11-13T11:07:12.327053+00:00",
+        "model": "gpt-6-luna",
+        "usage": {
+          "prompt_tokens": 3119,
+          "completion_tokens": 328,
+          "total_tokens": 3447,
+          "prompt_tokens_details": {
+            "cached_tokens": 0,
+            "audio_tokens": 0
+          },
+          "completion_tokens_details": {
+            "reasoning_tokens": 289,
+            "audio_tokens": 0,
+            "accepted_prediction_tokens": 0,
+            "rejected_prediction_tokens": 0
+          }
+        },
+        "finish_reason": "stop"
+      },
+      {
+        "time": "2026-11-13T11:07:13.931125+00:00",
+        "model": "gpt-6-luna",
+        "usage": {
+          "prompt_tokens": 519,
+          "completion_tokens": 43,
+          "total_tokens": 562,
+          "prompt_tokens_details": {
+            "cached_tokens": 0,
+            "audio_tokens": 0
+          },
+          "completion_tokens_details": {
+            "reasoning_tokens": 0,
+            "audio_tokens": 0,
+            "accepted_prediction_tokens": 0,
+            "rejected_prediction_tokens": 0
+          }
+        },
+        "finish_reason": "stop"
+      },
+      {
+        "time": "2026-11-13T11:07:19.797749+00:00",
+        "model": "gpt-6-luna",
+        "usage": {
+          "prompt_tokens": 3119,
+          "completion_tokens": 386,
+          "total_tokens": 3505,
+          "prompt_tokens_details": {
+            "cached_tokens": 2432,
+            "audio_tokens": 0
+          },
+          "completion_tokens_details": {
+            "reasoning_tokens": 347,
+            "audio_tokens": 0,
+            "accepted_prediction_tokens": 0,
+            "rejected_prediction_tokens": 0
+          }
+        },
+        "finish_reason": "stop"
+      },
+      {
+        "time": "2026-11-13T11:07:21.043691+00:00",
+        "model": "gpt-6-luna",
+        "usage": {
+          "prompt_tokens": 543,
+          "completion_tokens": 39,
+          "total_tokens": 582,
+          "prompt_tokens_details": {
+            "cached_tokens": 0,
+            "audio_tokens": 0
+          },
+          "completion_tokens_details": {
+            "reasoning_tokens": 0,
+            "audio_tokens": 0,
+            "accepted_prediction_tokens": 0,
+            "rejected_prediction_tokens": 0
+          }
+        },
+        "finish_reason": "stop"
+      },
+      {
+        "time": "2026-11-13T11:07:25.808374+00:00",
+        "model": "gpt-6-luna",
+        "usage": {
+          "prompt_tokens": 3119,
+          "completion_tokens": 224,
+          "total_tokens": 3343,
+          "prompt_tokens_details": {
+            "cached_tokens": 0,
+            "audio_tokens": 0
+          },
+          "completion_tokens_details": {
+            "reasoning_tokens": 185,
+            "audio_tokens": 0,
+            "accepted_prediction_tokens": 0,
+            "rejected_prediction_tokens": 0
+          }
+        },
+        "finish_reason": "stop"
+      },
+      {
+        "time": "2026-11-13T11:07:26.967901+00:00",
+        "model": "gpt-6-luna",
+        "usage": {
+          "prompt_tokens": 552,
+          "completion_tokens": 41,
+          "total_tokens": 593,
+          "prompt_tokens_details": {
+            "cached_tokens": 0,
+            "audio_tokens": 0
+          },
+          "completion_tokens_details": {
+            "reasoning_tokens": 0,
+            "audio_tokens": 0,
+            "accepted_prediction_tokens": 0,
+            "rejected_prediction_tokens": 0
+          }
+        },
+        "finish_reason": "stop"
+      },
+      {
+        "time": "2026-11-13T11:07:31.015588+00:00",
+        "model": "gpt-6-luna",
+        "usage": {
+          "prompt_tokens": 3119,
+          "completion_tokens": 228,
+          "total_tokens": 3347,
+          "prompt_tokens_details": {
+            "cached_tokens": 0,
+            "audio_tokens": 0
+          },
+          "completion_tokens_details": {
+            "reasoning_tokens": 189,
+            "audio_tokens": 0,
+            "accepted_prediction_tokens": 0,
+            "rejected_prediction_tokens": 0
+          }
+        },
+        "finish_reason": "stop"
+      },
+      {
+        "time": "2026-11-13T11:07:34.711132+00:00",
+        "model": "gpt-6-luna",
+        "usage": {
+          "prompt_tokens": 535,
+          "completion_tokens": 321,
+          "total_tokens": 856,
+          "prompt_tokens_details": {
+            "cached_tokens": 0,
+            "audio_tokens": 0
+          },
+          "completion_tokens_details": {
+            "reasoning_tokens": 278,
+            "audio_tokens": 0,
+            "accepted_prediction_tokens": 0,
+            "rejected_prediction_tokens": 0
+          }
+        },
+        "finish_reason": "stop"
+      },
+      {
+        "time": "2026-11-13T11:07:39.127559+00:00",
+        "model": "gpt-6-luna",
+        "usage": {
+          "prompt_tokens": 3125,
+          "completion_tokens": 223,
+          "total_tokens": 3348,
+          "prompt_tokens_details": {
+            "cached_tokens": 0,
+            "audio_tokens": 0
+          },
+          "completion_tokens_details": {
+            "reasoning_tokens": 184,
+            "audio_tokens": 0,
+            "accepted_prediction_tokens": 0,
+            "rejected_prediction_tokens": 0
+          }
+        },
+        "finish_reason": "stop"
+      },
+      {
+        "time": "2026-11-13T11:07:40.890582+00:00",
+        "model": "gpt-6-luna",
+        "usage": {
+          "prompt_tokens": 592,
+          "completion_tokens": 48,
+          "total_tokens": 640,
+          "prompt_tokens_details": {
+            "cached_tokens": 0,
+            "audio_tokens": 0
+          },
+          "completion_tokens_details": {
+            "reasoning_tokens": 0,
+            "audio_tokens": 0,
+            "accepted_prediction_tokens": 0,
+            "rejected_prediction_tokens": 0
+          }
+        },
+        "finish_reason": "stop"
+      },
+      {
+        "time": "2026-11-13T11:07:47.445766+00:00",
+        "model": "gpt-6-luna",
+        "usage": {
+          "prompt_tokens": 3125,
+          "completion_tokens": 458,
+          "total_tokens": 3583,
+          "prompt_tokens_details": {
+            "cached_tokens": 0,
+            "audio_tokens": 0
+          },
+          "completion_tokens_details": {
+            "reasoning_tokens": 419,
+            "audio_tokens": 0,
+            "accepted_prediction_tokens": 0,
+            "rejected_prediction_tokens": 0
+          }
+        },
+        "finish_reason": "stop"
+      },
+      {
+        "time": "2026-11-13T11:07:49.797328+00:00",
+        "model": "gpt-6-luna",
+        "usage": {
+          "prompt_tokens": 541,
+          "completion_tokens": 160,
+          "total_tokens": 701,
+          "prompt_tokens_details": {
+            "cached_tokens": 0,
+            "audio_tokens": 0
+          },
+          "completion_tokens_details": {
+            "reasoning_tokens": 118,
+            "audio_tokens": 0,
+            "accepted_prediction_tokens": 0,
+            "rejected_prediction_tokens": 0
+          }
+        },
+        "finish_reason": "stop"
+      },
+      {
+        "time": "2026-11-13T11:07:54.808156+00:00",
+        "model": "gpt-6-luna",
+        "usage": {
+          "prompt_tokens": 3121,
+          "completion_tokens": 295,
+          "total_tokens": 3416,
+          "prompt_tokens_details": {
+            "cached_tokens": 0,
+            "audio_tokens": 0
+          },
+          "completion_tokens_details": {
+            "reasoning_tokens": 256,
+            "audio_tokens": 0,
+            "accepted_prediction_tokens": 0,
+            "rejected_prediction_tokens": 0
+          }
+        },
+        "finish_reason": "stop"
+      },
+      {
+        "time": "2026-11-13T11:07:56.147868+00:00",
+        "model": "gpt-6-luna",
+        "usage": {
+          "prompt_tokens": 605,
+          "completion_tokens": 46,
+          "total_tokens": 651,
+          "prompt_tokens_details": {
+            "cached_tokens": 0,
+            "audio_tokens": 0
+          },
+          "completion_tokens_details": {
+            "reasoning_tokens": 0,
+            "audio_tokens": 0,
+            "accepted_prediction_tokens": 0,
+            "rejected_prediction_tokens": 0
+          }
+        },
+        "finish_reason": "stop"
+      },
+      {
+        "time": "2026-11-13T11:08:01.466513+00:00",
+        "model": "gpt-6-luna",
+        "usage": {
+          "prompt_tokens": 3121,
+          "completion_tokens": 332,
+          "total_tokens": 3453,
+          "prompt_tokens_details": {
+            "cached_tokens": 0,
+            "audio_tokens": 0
+          },
+          "completion_tokens_details": {
+            "reasoning_tokens": 293,
+            "audio_tokens": 0,
+            "accepted_prediction_tokens": 0,
+            "rejected_prediction_tokens": 0
+          }
+        },
+        "finish_reason": "stop"
+      },
+      {
+        "time": "2026-11-13T11:08:03.822193+00:00",
+        "model": "gpt-6-luna",
+        "usage": {
+          "prompt_tokens": 509,
+          "completion_tokens": 146,
+          "total_tokens": 655,
+          "prompt_tokens_details": {
+            "cached_tokens": 0,
+            "audio_tokens": 0
+          },
+          "completion_tokens_details": {
+            "reasoning_tokens": 104,
+            "audio_tokens": 0,
+            "accepted_prediction_tokens": 0,
+            "rejected_prediction_tokens": 0
+          }
+        },
+        "finish_reason": "stop"
+      },
+      {
+        "time": "2026-11-13T11:08:08.133866+00:00",
+        "model": "gpt-6-luna",
+        "usage": {
+          "prompt_tokens": 3118,
+          "completion_tokens": 232,
+          "total_tokens": 3350,
+          "prompt_tokens_details": {
+            "cached_tokens": 0,
+            "audio_tokens": 0
+          },
+          "completion_tokens_details": {
+            "reasoning_tokens": 193,
+            "audio_tokens": 0,
+            "accepted_prediction_tokens": 0,
+            "rejected_prediction_tokens": 0
+          }
+        },
+        "finish_reason": "stop"
+      },
+      {
+        "time": "2026-11-13T11:08:10.484981+00:00",
+        "model": "gpt-6-luna",
+        "usage": {
+          "prompt_tokens": 686,
+          "completion_tokens": 142,
+          "total_tokens": 828,
+          "prompt_tokens_details": {
+            "cached_tokens": 0,
+            "audio_tokens": 0
+          },
+          "completion_tokens_details": {
+            "reasoning_tokens": 96,
+            "audio_tokens": 0,
+            "accepted_prediction_tokens": 0,
+            "rejected_prediction_tokens": 0
+          }
+        },
+        "finish_reason": "stop"
+      },
+      {
+        "time": "2026-11-13T11:08:15.828995+00:00",
+        "model": "gpt-6-luna",
+        "usage": {
+          "prompt_tokens": 3117,
+          "completion_tokens": 323,
+          "total_tokens": 3440,
+          "prompt_tokens_details": {
+            "cached_tokens": 0,
+            "audio_tokens": 0
+          },
+          "completion_tokens_details": {
+            "reasoning_tokens": 284,
+            "audio_tokens": 0,
+            "accepted_prediction_tokens": 0,
+            "rejected_prediction_tokens": 0
+          }
+        },
+        "finish_reason": "stop"
+      },
+      {
+        "time": "2026-11-13T11:08:18.137241+00:00",
+        "model": "gpt-6-luna",
+        "usage": {
+          "prompt_tokens": 617,
+          "completion_tokens": 148,
+          "total_tokens": 765,
+          "prompt_tokens_details": {
+            "cached_tokens": 0,
+            "audio_tokens": 0
+          },
+          "completion_tokens_details": {
+            "reasoning_tokens": 100,
+            "audio_tokens": 0,
+            "accepted_prediction_tokens": 0,
+            "rejected_prediction_tokens": 0
+          }
+        },
+        "finish_reason": "stop"
+      },
+      {
+        "time": "2026-11-13T11:08:22.381929+00:00",
+        "model": "gpt-6-luna",
+        "usage": {
+          "prompt_tokens": 3115,
+          "completion_tokens": 257,
+          "total_tokens": 3372,
+          "prompt_tokens_details": {
+            "cached_tokens": 0,
+            "audio_tokens": 0
+          },
+          "completion_tokens_details": {
+            "reasoning_tokens": 218,
+            "audio_tokens": 0,
+            "accepted_prediction_tokens": 0,
+            "rejected_prediction_tokens": 0
+          }
+        },
+        "finish_reason": "stop"
+      },
+      {
+        "time": "2026-11-13T11:08:24.081545+00:00",
+        "model": "gpt-6-luna",
+        "usage": {
+          "prompt_tokens": 447,
+          "completion_tokens": 103,
+          "total_tokens": 550,
+          "prompt_tokens_details": {
+            "cached_tokens": 0,
+            "audio_tokens": 0
+          },
+          "completion_tokens_details": {
+            "reasoning_tokens": 57,
+            "audio_tokens": 0,
+            "accepted_prediction_tokens": 0,
+            "rejected_prediction_tokens": 0
+          }
+        },
+        "finish_reason": "stop"
+      },
+      {
+        "time": "2026-11-13T11:08:34.452184+00:00",
+        "model": "gpt-6-luna",
+        "usage": {
+          "prompt_tokens": 3128,
+          "completion_tokens": 805,
+          "total_tokens": 3933,
+          "prompt_tokens_details": {
+            "cached_tokens": 0,
+            "audio_tokens": 0
+          },
+          "completion_tokens_details": {
+            "reasoning_tokens": 760,
+            "audio_tokens": 0,
+            "accepted_prediction_tokens": 0,
+            "rejected_prediction_tokens": 0
+          }
+        },
+        "finish_reason": "stop"
+      },
+      {
+        "time": "2026-11-13T11:08:38.452370+00:00",
+        "model": "gpt-6-luna",
+        "usage": {
+          "prompt_tokens": 872,
+          "completion_tokens": 387,
+          "total_tokens": 1259,
+          "prompt_tokens_details": {
+            "cached_tokens": 0,
+            "audio_tokens": 0
+          },
+          "completion_tokens_details": {
+            "reasoning_tokens": 342,
+            "audio_tokens": 0,
+            "accepted_prediction_tokens": 0,
+            "rejected_prediction_tokens": 0
+          }
+        },
+        "finish_reason": "stop"
+      },
+      {
+        "time": "2026-11-13T11:08:41.880537+00:00",
+        "model": "gpt-6-luna",
+        "usage": {
+          "prompt_tokens": 426,
+          "completion_tokens": 273,
+          "total_tokens": 699,
+          "prompt_tokens_details": {
+            "cached_tokens": 0,
+            "audio_tokens": 0
+          },
+          "completion_tokens_details": {
+            "reasoning_tokens": 233,
+            "audio_tokens": 0,
+            "accepted_prediction_tokens": 0,
+            "rejected_prediction_tokens": 0
+          }
+        },
+        "finish_reason": "stop"
+      },
+      {
+        "time": "2026-11-13T11:37:59.510349+00:00",
+        "model": "gpt-6-luna",
+        "usage": {
+          "prompt_tokens": 3125,
+          "completion_tokens": 536,
+          "total_tokens": 3661,
+          "prompt_tokens_details": {
+            "cached_tokens": 0,
+            "audio_tokens": 0
+          },
+          "completion_tokens_details": {
+            "reasoning_tokens": 497,
+            "audio_tokens": 0,
+            "accepted_prediction_tokens": 0,
+            "rejected_prediction_tokens": 0
+          }
+        },
+        "finish_reason": "stop"
+      },
+      {
+        "time": "2026-11-13T11:38:05.978341+00:00",
+        "model": "gpt-6-luna",
+        "usage": {
+          "prompt_tokens": 674,
+          "completion_tokens": 588,
+          "total_tokens": 1262,
+          "prompt_tokens_details": {
+            "cached_tokens": 0,
+            "audio_tokens": 0
+          },
+          "completion_tokens_details": {
+            "reasoning_tokens": 533,
+            "audio_tokens": 0,
+            "accepted_prediction_tokens": 0,
+            "rejected_prediction_tokens": 0
+          }
+        },
+        "finish_reason": "stop"
+      }
+    ]
+  },
+  "projection": {
+    "dimensions": 1590,
+    "pilot_dimensions_to_reprocess": 62,
+    "expected_full_run_calls": 3154,
+    "expected_new_full_run_cost_usd": 1.0023,
+    "historical_pilot_cost_already_spent_usd": 0.039085,
+    "estimated_lifetime_cost_usd_including_old_pilot": 1.0414,
+    "counterfactual_if_old_pilot_were_reused": {
+      "dimensions_needing_calls": 1528,
+      "expected_calls": 3031,
+      "expected_incremental_cost_usd": 0.9633
+    },
+    "projection_new_states_from_prior_report_35_of_61": {
+      "number_confirmed_unit_pending": 869,
+      "verified_unit_inferred": 0
+    },
+    "projection_new_states_from_raw_luna_recomputation_40_of_61": {
+      "number_confirmed_unit_pending": 993,
+      "verified_unit_inferred": 0
+    }
+  },
+  "observed_pilot_usage_cost": {
+    "calls": 123,
+    "input_tokens": 223099,
+    "output_tokens": 33550,
+    "estimated_cost_usd": 0.039085
+  },
+  "cost_note": "Projection scales the isolated Luna pilot's logged token use at $0.10/M input and $0.50/M output; excludes retries not represented in successful usage logs and other surcharges.",
+  "discrepancy": {
+    "user_reported_number_match_no_unit": 35,
+    "recomputed_from_historic_luna_records": 40,
+    "explanation": "The raw Luna payload does not preserve a per-item positive locator-confidence flag, so exact numeric matches cannot safely resolve the historical 35-versus-40 difference. The approved run reprocesses all 62 pilot dimensions with Luna and the new locator/read flow; it does not reuse these ambiguous historical decisions."
+  },
+  "pilot_rows": [
+    {
+      "id": "4122fb96e4bd1976-41-vision-0:0",
+      "pdf_page": 41,
+      "chapter": "BASICS",
+      "model": "gpt-6-luna",
+      "status_before": "uncertain",
+      "status_after": "uncertain",
+      "unit_after": "mm",
+      "unit_source": null,
+      "unit_citation": null,
+      "unit_bbox": null,
+      "unit_page_pdf": null,
+      "unit_inference_outcome": null,
+      "unit_inference_reason": null,
+      "unit_inference_candidates": [],
+      "verification_level": null,
+      "reason": "The outer vertical dimension for the crawling figure is printed as 750; no unit is shown.",
+      "read_value": {
+        "printed": "750",
+        "unit": "",
+        "unreadable": false,
+        "reason": "The outer vertical dimension for the crawling figure is printed as 750; no unit is shown."
+      }
+    },
+    {
+      "id": "4122fb96e4bd1976-41-vision-0:1",
+      "pdf_page": 41,
+      "chapter": "BASICS",
+      "model": "gpt-6-luna",
+      "status_before": "uncertain",
+      "status_after": "number_confirmed_unit_pending",
+      "unit_after": "",
+      "unit_source": null,
+      "unit_citation": null,
+      "unit_bbox": null,
+      "unit_page_pdf": null,
+      "unit_inference_outcome": "pending",
+      "unit_inference_reason": "No explicit unit declaration found in page text/words.",
+      "unit_inference_candidates": [],
+      "verification_level": null,
+      "reason": "The printed number matches, but no unit is visible in the crop.",
+      "read_value": {
+        "printed": "750",
+        "unit": "",
+        "unreadable": false,
+        "reason": "The outer vertical dimension beside the crawling figure is labeled 750."
+      }
+    },
+    {
+      "id": "4122fb96e4bd1976-41-vision-0:10",
+      "pdf_page": 41,
+      "chapter": "BASICS",
+      "model": "gpt-6-luna",
+      "status_before": "uncertain",
+      "status_after": "number_confirmed_unit_pending",
+      "unit_after": "",
+      "unit_source": null,
+      "unit_citation": null,
+      "unit_bbox": null,
+      "unit_page_pdf": null,
+      "unit_inference_outcome": "pending",
+      "unit_inference_reason": "No explicit unit declaration found in page text/words.",
+      "unit_inference_candidates": [],
+      "verification_level": null,
+      "reason": "The printed number matches, but no unit is visible in the crop.",
+      "read_value": {
+        "printed": "700",
+        "unit": "",
+        "unreadable": false,
+        "reason": "The horizontal dimension beneath the Squatting figure is printed as 700; no unit is shown."
+      }
+    },
+    {
+      "id": "4122fb96e4bd1976-41-vision-0:11",
+      "pdf_page": 41,
+      "chapter": "BASICS",
+      "model": "gpt-6-luna",
+      "status_before": "uncertain",
+      "status_after": "number_confirmed_unit_pending",
+      "unit_after": "",
+      "unit_source": null,
+      "unit_citation": null,
+      "unit_bbox": null,
+      "unit_page_pdf": null,
+      "unit_inference_outcome": "pending",
+      "unit_inference_reason": "No explicit unit declaration found in page text/words.",
+      "unit_inference_candidates": [],
+      "verification_level": null,
+      "reason": "The printed number matches, but no unit is visible in the crop.",
+      "read_value": {
+        "printed": "1375",
+        "unit": "",
+        "unreadable": false,
+        "reason": "The vertical dimension is labeled 1375; no unit is visibly printed."
+      }
+    },
+    {
+      "id": "4122fb96e4bd1976-41-vision-0:12",
+      "pdf_page": 41,
+      "chapter": "BASICS",
+      "model": "gpt-6-luna",
+      "status_before": "uncertain",
+      "status_after": "number_confirmed_unit_pending",
+      "unit_after": "",
+      "unit_source": null,
+      "unit_citation": null,
+      "unit_bbox": null,
+      "unit_page_pdf": null,
+      "unit_inference_outcome": "pending",
+      "unit_inference_reason": "No explicit unit declaration found in page text/words.",
+      "unit_inference_candidates": [],
+      "verification_level": null,
+      "reason": "The printed number matches, but no unit is visible in the crop.",
+      "read_value": {
+        "printed": "875",
+        "unit": "",
+        "unreadable": false,
+        "reason": "The horizontal dimension is printed as 875; no unit is shown."
+      }
+    },
+    {
+      "id": "4122fb96e4bd1976-41-vision-0:13",
+      "pdf_page": 41,
+      "chapter": "BASICS",
+      "model": "gpt-6-luna",
+      "status_before": "uncertain",
+      "status_after": "number_confirmed_unit_pending",
+      "unit_after": "",
+      "unit_source": null,
+      "unit_citation": null,
+      "unit_bbox": null,
+      "unit_page_pdf": null,
+      "unit_inference_outcome": "pending",
+      "unit_inference_reason": "No explicit unit declaration found in page text/words.",
+      "unit_inference_candidates": [],
+      "verification_level": null,
+      "reason": "The printed number matches, but no unit is visible in the crop.",
+      "read_value": {
+        "printed": "625",
+        "unit": "",
+        "unreadable": false,
+        "reason": "The horizontal dimension beneath the standing-leaning-forward figure is printed as 625."
+      }
+    },
+    {
+      "id": "4122fb96e4bd1976-41-vision-0:14",
+      "pdf_page": 41,
+      "chapter": "BASICS",
+      "model": "gpt-6-luna",
+      "status_before": "uncertain",
+      "status_after": "uncertain",
+      "unit_after": "mm",
+      "unit_source": null,
+      "unit_citation": null,
+      "unit_bbox": null,
+      "unit_page_pdf": null,
+      "unit_inference_outcome": null,
+      "unit_inference_reason": null,
+      "unit_inference_candidates": [],
+      "verification_level": null,
+      "reason": "The horizontal dimension for Figure 9, “In movement,” is printed as 875. No unit is visible.",
+      "read_value": {
+        "printed": "875",
+        "unit": "",
+        "unreadable": false,
+        "reason": "The horizontal dimension for Figure 9, “In movement,” is printed as 875. No unit is visible."
+      }
+    },
+    {
+      "id": "4122fb96e4bd1976-41-vision-0:2",
+      "pdf_page": 41,
+      "chapter": "BASICS",
+      "model": "gpt-6-luna",
+      "status_before": "uncertain",
+      "status_after": "number_confirmed_unit_pending",
+      "unit_after": "",
+      "unit_source": null,
+      "unit_citation": null,
+      "unit_bbox": null,
+      "unit_page_pdf": null,
+      "unit_inference_outcome": "pending",
+      "unit_inference_reason": "No explicit unit declaration found in page text/words.",
+      "unit_inference_candidates": [],
+      "verification_level": null,
+      "reason": "The printed number matches, but no unit is visible in the crop.",
+      "read_value": {
+        "printed": "1375",
+        "unit": "",
+        "unreadable": false,
+        "reason": "The horizontal floor-space dimension for Crawling is printed as 1375. No unit is printed."
+      }
+    },
+    {
+      "id": "4122fb96e4bd1976-41-vision-0:3",
+      "pdf_page": 41,
+      "chapter": "BASICS",
+      "model": "gpt-6-luna",
+      "status_before": "uncertain",
+      "status_after": "number_confirmed_unit_pending",
+      "unit_after": "",
+      "unit_source": null,
+      "unit_citation": null,
+      "unit_bbox": null,
+      "unit_page_pdf": null,
+      "unit_inference_outcome": "pending",
+      "unit_inference_reason": "No explicit unit declaration found in page text/words.",
+      "unit_inference_candidates": [],
+      "verification_level": null,
+      "reason": "The printed number matches, but no unit is visible in the crop.",
+      "read_value": {
+        "printed": "875",
+        "unit": "",
+        "unreadable": false,
+        "reason": "The vertical dimension beside the sitting cross-legged figure is printed as 875; no unit is shown."
+      }
+    },
+    {
+      "id": "4122fb96e4bd1976-41-vision-0:4",
+      "pdf_page": 41,
+      "chapter": "BASICS",
+      "model": "gpt-6-luna",
+      "status_before": "uncertain",
+      "status_after": "number_confirmed_unit_pending",
+      "unit_after": "",
+      "unit_source": null,
+      "unit_citation": null,
+      "unit_bbox": null,
+      "unit_page_pdf": null,
+      "unit_inference_outcome": "pending",
+      "unit_inference_reason": "No explicit unit declaration found in page text/words.",
+      "unit_inference_candidates": [],
+      "verification_level": null,
+      "reason": "The printed number matches, but no unit is visible in the crop.",
+      "read_value": {
+        "printed": "750",
+        "unit": "",
+        "unreadable": false,
+        "reason": "The horizontal dimension beneath the Sitting cross-legged figure is explicitly labeled 750."
+      }
+    },
+    {
+      "id": "4122fb96e4bd1976-41-vision-0:5",
+      "pdf_page": 41,
+      "chapter": "BASICS",
+      "model": "gpt-6-luna",
+      "status_before": "uncertain",
+      "status_after": "number_confirmed_unit_pending",
+      "unit_after": "",
+      "unit_source": null,
+      "unit_citation": null,
+      "unit_bbox": null,
+      "unit_page_pdf": null,
+      "unit_inference_outcome": "pending",
+      "unit_inference_reason": "No explicit unit declaration found in page text/words.",
+      "unit_inference_candidates": [],
+      "verification_level": null,
+      "reason": "The printed number matches, but no unit is visible in the crop.",
+      "read_value": {
+        "printed": "625",
+        "unit": "",
+        "unreadable": false,
+        "reason": "The horizontal dimension beneath “Sitting (from the front)” is labeled 625."
+      }
+    },
+    {
+      "id": "4122fb96e4bd1976-41-vision-0:6",
+      "pdf_page": 41,
+      "chapter": "BASICS",
+      "model": "gpt-6-luna",
+      "status_before": "uncertain",
+      "status_after": "number_confirmed_unit_pending",
+      "unit_after": "",
+      "unit_source": null,
+      "unit_citation": null,
+      "unit_bbox": null,
+      "unit_page_pdf": null,
+      "unit_inference_outcome": "pending",
+      "unit_inference_reason": "No explicit unit declaration found in page text/words.",
+      "unit_inference_candidates": [],
+      "verification_level": null,
+      "reason": "The printed number matches, but no unit is visible in the crop.",
+      "read_value": {
+        "printed": "875",
+        "unit": "",
+        "unreadable": false,
+        "reason": "The horizontal floor-space dimension for “Sitting (from the side)” is printed as 875."
+      }
+    },
+    {
+      "id": "4122fb96e4bd1976-41-vision-0:7",
+      "pdf_page": 41,
+      "chapter": "BASICS",
+      "model": "gpt-6-luna",
+      "status_before": "uncertain",
+      "status_after": "uncertain",
+      "unit_after": "mm",
+      "unit_source": null,
+      "unit_citation": null,
+      "unit_bbox": null,
+      "unit_page_pdf": null,
+      "unit_inference_outcome": null,
+      "unit_inference_reason": null,
+      "unit_inference_candidates": [],
+      "verification_level": null,
+      "reason": "The vertical dimension beside the kneeling figure is printed as 1420; no unit is visible.",
+      "read_value": {
+        "printed": "1420",
+        "unit": "",
+        "unreadable": false,
+        "reason": "The vertical dimension beside the kneeling figure is printed as 1420; no unit is visible."
+      }
+    },
+    {
+      "id": "4122fb96e4bd1976-41-vision-0:8",
+      "pdf_page": 41,
+      "chapter": "BASICS",
+      "model": "gpt-6-luna",
+      "status_before": "uncertain",
+      "status_after": "uncertain",
+      "unit_after": "mm",
+      "unit_source": null,
+      "unit_citation": null,
+      "unit_bbox": null,
+      "unit_page_pdf": null,
+      "unit_inference_outcome": null,
+      "unit_inference_reason": null,
+      "unit_inference_candidates": [],
+      "verification_level": null,
+      "reason": "The horizontal dimension corresponding to the kneeling area is printed as 460.",
+      "read_value": {
+        "printed": "460",
+        "unit": "",
+        "unreadable": false,
+        "reason": "The horizontal dimension corresponding to the kneeling area is printed as 460."
+      }
+    },
+    {
+      "id": "4122fb96e4bd1976-41-vision-0:9",
+      "pdf_page": 41,
+      "chapter": "BASICS",
+      "model": "gpt-6-luna",
+      "status_before": "uncertain",
+      "status_after": "number_confirmed_unit_pending",
+      "unit_after": "",
+      "unit_source": null,
+      "unit_citation": null,
+      "unit_bbox": null,
+      "unit_page_pdf": null,
+      "unit_inference_outcome": "pending",
+      "unit_inference_reason": "No explicit unit declaration found in page text/words.",
+      "unit_inference_candidates": [],
+      "verification_level": null,
+      "reason": "The printed number matches, but no unit is visible in the crop.",
+      "read_value": {
+        "printed": "1125",
+        "unit": "",
+        "unreadable": false,
+        "reason": "The vertical dimension beside the squatting figure is labeled 1125; no unit is printed."
+      }
+    },
+    {
+      "id": "4122fb96e4bd1976-41-vision-1:0",
+      "pdf_page": 41,
+      "chapter": "BASICS",
+      "model": "gpt-6-luna",
+      "status_before": "uncertain",
+      "status_after": "number_confirmed_unit_pending",
+      "unit_after": "",
+      "unit_source": null,
+      "unit_citation": null,
+      "unit_bbox": null,
+      "unit_page_pdf": null,
+      "unit_inference_outcome": "pending",
+      "unit_inference_reason": "No explicit unit declaration found in page text/words.",
+      "unit_inference_candidates": [],
+      "verification_level": null,
+      "reason": "The printed number matches, but no unit is visible in the crop.",
+      "read_value": {
+        "printed": "875",
+        "unit": "",
+        "unreadable": false,
+        "reason": "The horizontal dimension beneath Figure 9, labeled “In movement,” is printed as 875."
+      }
+    },
+    {
+      "id": "4122fb96e4bd1976-41-vision-1:1",
+      "pdf_page": 41,
+      "chapter": "BASICS",
+      "model": "gpt-6-luna",
+      "status_before": "uncertain",
+      "status_after": "number_confirmed_unit_pending",
+      "unit_after": "",
+      "unit_source": null,
+      "unit_citation": null,
+      "unit_bbox": null,
+      "unit_page_pdf": null,
+      "unit_inference_outcome": "pending",
+      "unit_inference_reason": "No explicit unit declaration found in page text/words.",
+      "unit_inference_candidates": [],
+      "verification_level": null,
+      "reason": "The printed number matches, but no unit is visible in the crop.",
+      "read_value": {
+        "printed": "875",
+        "unit": "",
+        "unreadable": false,
+        "reason": "The horizontal dimension beneath “Outstretched arm (forwards)” is printed as 875; no unit is shown."
+      }
+    },
+    {
+      "id": "4122fb96e4bd1976-41-vision-1:2",
+      "pdf_page": 41,
+      "chapter": "BASICS",
+      "model": "gpt-6-luna",
+      "status_before": "uncertain",
+      "status_after": "number_confirmed_unit_pending",
+      "unit_after": "",
+      "unit_source": null,
+      "unit_citation": null,
+      "unit_bbox": null,
+      "unit_page_pdf": null,
+      "unit_inference_outcome": "pending",
+      "unit_inference_reason": "No explicit unit declaration found in page text/words.",
+      "unit_inference_candidates": [],
+      "verification_level": null,
+      "reason": "The printed number matches, but no unit is visible in the crop.",
+      "read_value": {
+        "printed": "1500",
+        "unit": "",
+        "unreadable": false,
+        "reason": "The vertical dimension aligned with the forward outstretched arm is printed as 1500; no unit is visible."
+      }
+    },
+    {
+      "id": "4122fb96e4bd1976-41-vision-1:3",
+      "pdf_page": 41,
+      "chapter": "BASICS",
+      "model": "gpt-6-luna",
+      "status_before": "uncertain",
+      "status_after": "uncertain",
+      "unit_after": "mm",
+      "unit_source": null,
+      "unit_citation": null,
+      "unit_bbox": null,
+      "unit_page_pdf": null,
+      "unit_inference_outcome": null,
+      "unit_inference_reason": null,
+      "unit_inference_candidates": [],
+      "verification_level": null,
+      "reason": "Number matches, but the crop unit does not confirm the stored unit.",
+      "read_value": {
+        "printed": "1500",
+        "unit": "mm",
+        "unreadable": false,
+        "reason": "The vertical dimension aligned with the outstretched arm is labeled 1500."
+      }
+    },
+    {
+      "id": "4122fb96e4bd1976-41-vision-1:4",
+      "pdf_page": 41,
+      "chapter": "BASICS",
+      "model": "gpt-6-luna",
+      "status_before": "uncertain",
+      "status_after": "number_confirmed_unit_pending",
+      "unit_after": "",
+      "unit_source": null,
+      "unit_citation": null,
+      "unit_bbox": null,
+      "unit_page_pdf": null,
+      "unit_inference_outcome": "pending",
+      "unit_inference_reason": "No explicit unit declaration found in page text/words.",
+      "unit_inference_candidates": [],
+      "verification_level": null,
+      "reason": "The printed number matches, but no unit is visible in the crop.",
+      "read_value": {
+        "printed": "1125",
+        "unit": "",
+        "unreadable": false,
+        "reason": "The horizontal dimension beneath “Outstretched arm (sideways)” is labeled 1125."
+      }
+    },
+    {
+      "id": "4122fb96e4bd1976-41-vision-1:5",
+      "pdf_page": 41,
+      "chapter": "BASICS",
+      "model": "gpt-6-luna",
+      "status_before": "uncertain",
+      "status_after": "uncertain",
+      "unit_after": "mm",
+      "unit_source": null,
+      "unit_citation": null,
+      "unit_bbox": null,
+      "unit_page_pdf": null,
+      "unit_inference_outcome": null,
+      "unit_inference_reason": null,
+      "unit_inference_candidates": [],
+      "verification_level": null,
+      "reason": "The upper horizontal dimension is printed as 1125; no unit is visible.",
+      "read_value": {
+        "printed": "1125",
+        "unit": "",
+        "unreadable": false,
+        "reason": "The upper horizontal dimension is printed as 1125; no unit is visible."
+      }
+    },
+    {
+      "id": "4122fb96e4bd1976-41-vision-2:0",
+      "pdf_page": 41,
+      "chapter": "BASICS",
+      "model": "gpt-6-luna",
+      "status_before": "uncertain",
+      "status_after": "uncertain",
+      "unit_after": "mm",
+      "unit_source": null,
+      "unit_citation": null,
+      "unit_bbox": null,
+      "unit_page_pdf": null,
+      "unit_inference_outcome": null,
+      "unit_inference_reason": null,
+      "unit_inference_candidates": [],
+      "verification_level": null,
+      "reason": "The range is legible, but no unit is explicitly visible.",
+      "read_value": {
+        "printed": "750–800",
+        "unit": "",
+        "unreadable": true,
+        "reason": "The range is legible, but no unit is explicitly visible."
+      }
+    },
+    {
+      "id": "4122fb96e4bd1976-41-vision-2:1",
+      "pdf_page": 41,
+      "chapter": "BASICS",
+      "model": "gpt-6-luna",
+      "status_before": "uncertain",
+      "status_after": "uncertain",
+      "unit_after": "mm",
+      "unit_source": null,
+      "unit_citation": null,
+      "unit_bbox": null,
+      "unit_page_pdf": null,
+      "unit_inference_outcome": null,
+      "unit_inference_reason": null,
+      "unit_inference_candidates": [],
+      "verification_level": null,
+      "reason": "The vertical seated dimension is printed as 750–800; no unit is visible.",
+      "read_value": {
+        "printed": "750–800",
+        "unit": "",
+        "unreadable": false,
+        "reason": "The vertical seated dimension is printed as 750–800; no unit is visible."
+      }
+    },
+    {
+      "id": "4122fb96e4bd1976-41-vision-2:10",
+      "pdf_page": 41,
+      "chapter": "BASICS",
+      "model": "gpt-6-luna",
+      "status_before": "uncertain",
+      "status_after": "number_confirmed_unit_pending",
+      "unit_after": "",
+      "unit_source": null,
+      "unit_citation": null,
+      "unit_bbox": null,
+      "unit_page_pdf": null,
+      "unit_inference_outcome": "pending",
+      "unit_inference_reason": "No explicit unit declaration found in page text/words.",
+      "unit_inference_candidates": [],
+      "verification_level": null,
+      "reason": "The printed number matches, but no unit is visible in the crop.",
+      "read_value": {
+        "printed": "625",
+        "unit": "",
+        "unreadable": false,
+        "reason": "The vertical work-surface dimension is printed as 625; its unit is not legible in the image."
+      }
+    },
+    {
+      "id": "4122fb96e4bd1976-41-vision-2:11",
+      "pdf_page": 41,
+      "chapter": "BASICS",
+      "model": "gpt-6-luna",
+      "status_before": "uncertain",
+      "status_after": "uncertain",
+      "unit_after": "mm",
+      "unit_source": null,
+      "unit_citation": null,
+      "unit_bbox": null,
+      "unit_page_pdf": null,
+      "unit_inference_outcome": null,
+      "unit_inference_reason": null,
+      "unit_inference_candidates": [],
+      "verification_level": null,
+      "reason": "The visible figure is labeled “Squatting,” and no armchair seated dimension is shown.",
+      "read_value": {
+        "printed": "",
+        "unit": "",
+        "unreadable": true,
+        "reason": "The visible figure is labeled “Squatting,” and no armchair seated dimension is shown."
+      }
+    },
+    {
+      "id": "4122fb96e4bd1976-41-vision-2:12",
+      "pdf_page": 41,
+      "chapter": "BASICS",
+      "model": "gpt-6-luna",
+      "status_before": "uncertain",
+      "status_after": "uncertain",
+      "unit_after": "mm",
+      "unit_source": null,
+      "unit_citation": null,
+      "unit_bbox": null,
+      "unit_page_pdf": null,
+      "unit_inference_outcome": null,
+      "unit_inference_reason": null,
+      "unit_inference_candidates": [],
+      "verification_level": null,
+      "reason": "The horizontal dimension is explicitly labeled 500.",
+      "read_value": {
+        "printed": "500",
+        "unit": "",
+        "unreadable": false,
+        "reason": "The horizontal dimension is explicitly labeled 500."
+      }
+    },
+    {
+      "id": "4122fb96e4bd1976-41-vision-2:13",
+      "pdf_page": 41,
+      "chapter": "BASICS",
+      "model": "gpt-6-luna",
+      "status_before": "uncertain",
+      "status_after": "number_confirmed_unit_pending",
+      "unit_after": "",
+      "unit_source": null,
+      "unit_citation": null,
+      "unit_bbox": null,
+      "unit_page_pdf": null,
+      "unit_inference_outcome": "pending",
+      "unit_inference_reason": "No explicit unit declaration found in page text/words.",
+      "unit_inference_candidates": [],
+      "verification_level": null,
+      "reason": "The printed number matches, but no unit is visible in the crop.",
+      "read_value": {
+        "printed": "660",
+        "unit": "",
+        "unreadable": false,
+        "reason": "The horizontal dimension shown for the standing figure is 660."
+      }
+    },
+    {
+      "id": "4122fb96e4bd1976-41-vision-2:14",
+      "pdf_page": 41,
+      "chapter": "BASICS",
+      "model": "gpt-6-luna",
+      "status_before": "uncertain",
+      "status_after": "uncertain",
+      "unit_after": "mm",
+      "unit_source": null,
+      "unit_citation": null,
+      "unit_bbox": null,
+      "unit_page_pdf": null,
+      "unit_inference_outcome": null,
+      "unit_inference_reason": null,
+      "unit_inference_candidates": [],
+      "verification_level": null,
+      "reason": "The vertical dimension beside the standing figure is printed as 1930; no unit is shown.",
+      "read_value": {
+        "printed": "1930",
+        "unit": "",
+        "unreadable": false,
+        "reason": "The vertical dimension beside the standing figure is printed as 1930; no unit is shown."
+      }
+    },
+    {
+      "id": "4122fb96e4bd1976-41-vision-2:15",
+      "pdf_page": 41,
+      "chapter": "BASICS",
+      "model": "gpt-6-luna",
+      "status_before": "uncertain",
+      "status_after": "uncertain",
+      "unit_after": "mm",
+      "unit_source": null,
+      "unit_citation": null,
+      "unit_bbox": null,
+      "unit_page_pdf": null,
+      "unit_inference_outcome": null,
+      "unit_inference_reason": null,
+      "unit_inference_candidates": [],
+      "verification_level": null,
+      "reason": "The vertical dimension beside the standing worker is labeled 1930.",
+      "read_value": {
+        "printed": "1930",
+        "unit": "",
+        "unreadable": false,
+        "reason": "The vertical dimension beside the standing worker is labeled 1930."
+      }
+    },
+    {
+      "id": "4122fb96e4bd1976-41-vision-2:16",
+      "pdf_page": 41,
+      "chapter": "BASICS",
+      "model": "gpt-6-luna",
+      "status_before": "uncertain",
+      "status_after": "number_confirmed_unit_pending",
+      "unit_after": "",
+      "unit_source": null,
+      "unit_citation": null,
+      "unit_bbox": null,
+      "unit_page_pdf": null,
+      "unit_inference_outcome": "pending",
+      "unit_inference_reason": "No explicit unit declaration found in page text/words.",
+      "unit_inference_candidates": [],
+      "verification_level": null,
+      "reason": "The printed number matches, but no unit is visible in the crop.",
+      "read_value": {
+        "printed": "1930",
+        "unit": "",
+        "unreadable": false,
+        "reason": "The overall vertical dimension beside the standing person is labeled 1930."
+      }
+    },
+    {
+      "id": "4122fb96e4bd1976-41-vision-2:17",
+      "pdf_page": 41,
+      "chapter": "BASICS",
+      "model": "gpt-6-luna",
+      "status_before": "uncertain",
+      "status_after": "number_confirmed_unit_pending",
+      "unit_after": "",
+      "unit_source": null,
+      "unit_citation": null,
+      "unit_bbox": null,
+      "unit_page_pdf": null,
+      "unit_inference_outcome": "pending",
+      "unit_inference_reason": "No explicit unit declaration found in page text/words.",
+      "unit_inference_candidates": [],
+      "verification_level": null,
+      "reason": "The printed number matches, but no unit is visible in the crop.",
+      "read_value": {
+        "printed": "710",
+        "unit": "",
+        "unreadable": false,
+        "reason": "The horizontal overall dimension above the kneeling-work figure is printed as 710."
+      }
+    },
+    {
+      "id": "4122fb96e4bd1976-41-vision-2:18",
+      "pdf_page": 41,
+      "chapter": "BASICS",
+      "model": "gpt-6-luna",
+      "status_before": "uncertain",
+      "status_after": "verified",
+      "unit_after": "mm",
+      "unit_source": null,
+      "unit_citation": null,
+      "unit_bbox": null,
+      "unit_page_pdf": null,
+      "unit_inference_outcome": null,
+      "unit_inference_reason": null,
+      "unit_inference_candidates": [],
+      "verification_level": "two_pass",
+      "reason": "The printed number and explicit crop unit confirm the dimension.",
+      "read_value": {
+        "printed": "460",
+        "unit": "mm",
+        "unreadable": false,
+        "reason": "The horizontal reach dimension for the kneeling figure is printed as 460."
+      }
+    },
+    {
+      "id": "4122fb96e4bd1976-41-vision-2:19",
+      "pdf_page": 41,
+      "chapter": "BASICS",
+      "model": "gpt-6-luna",
+      "status_before": "uncertain",
+      "status_after": "uncertain",
+      "unit_after": "mm",
+      "unit_source": null,
+      "unit_citation": null,
+      "unit_bbox": null,
+      "unit_page_pdf": null,
+      "unit_inference_outcome": null,
+      "unit_inference_reason": null,
+      "unit_inference_candidates": [],
+      "verification_level": null,
+      "reason": "The vertical dimension beside the kneeling figure is printed as 1420.",
+      "read_value": {
+        "printed": "1420",
+        "unit": "",
+        "unreadable": false,
+        "reason": "The vertical dimension beside the kneeling figure is printed as 1420."
+      }
+    },
+    {
+      "id": "4122fb96e4bd1976-41-vision-2:2",
+      "pdf_page": 41,
+      "chapter": "BASICS",
+      "model": "gpt-6-luna",
+      "status_before": "uncertain",
+      "status_after": "number_confirmed_unit_pending",
+      "unit_after": "",
+      "unit_source": null,
+      "unit_citation": null,
+      "unit_bbox": null,
+      "unit_page_pdf": null,
+      "unit_inference_outcome": "pending",
+      "unit_inference_reason": "No explicit unit declaration found in page text/words.",
+      "unit_inference_candidates": [],
+      "verification_level": null,
+      "reason": "The printed number matches, but no unit is visible in the crop.",
+      "read_value": {
+        "printed": "1350",
+        "unit": "",
+        "unreadable": false,
+        "reason": "The printed overall vertical dimension is 1350."
+      }
+    },
+    {
+      "id": "4122fb96e4bd1976-41-vision-2:20",
+      "pdf_page": 41,
+      "chapter": "BASICS",
+      "model": "gpt-6-luna",
+      "status_before": "uncertain",
+      "status_after": "uncertain",
+      "unit_after": "mm",
+      "unit_source": null,
+      "unit_citation": null,
+      "unit_bbox": null,
+      "unit_page_pdf": null,
+      "unit_inference_outcome": null,
+      "unit_inference_reason": null,
+      "unit_inference_candidates": [],
+      "verification_level": null,
+      "reason": "The vertical dimension beside the kneeling figure is printed as 1420; no unit is shown.",
+      "read_value": {
+        "printed": "1420",
+        "unit": "",
+        "unreadable": false,
+        "reason": "The vertical dimension beside the kneeling figure is printed as 1420; no unit is shown."
+      }
+    },
+    {
+      "id": "4122fb96e4bd1976-41-vision-2:21",
+      "pdf_page": 41,
+      "chapter": "BASICS",
+      "model": "gpt-6-luna",
+      "status_before": "uncertain",
+      "status_after": "number_confirmed_unit_pending",
+      "unit_after": "",
+      "unit_source": null,
+      "unit_citation": null,
+      "unit_bbox": null,
+      "unit_page_pdf": null,
+      "unit_inference_outcome": "pending",
+      "unit_inference_reason": "No explicit unit declaration found in page text/words.",
+      "unit_inference_candidates": [],
+      "verification_level": null,
+      "reason": "The printed number matches, but no unit is visible in the crop.",
+      "read_value": {
+        "printed": "1420",
+        "unit": "",
+        "unreadable": false,
+        "reason": "The overall vertical dimension beside the kneeling figure is printed as 1420; no unit is visible."
+      }
+    },
+    {
+      "id": "4122fb96e4bd1976-41-vision-2:22",
+      "pdf_page": 41,
+      "chapter": "BASICS",
+      "model": "gpt-6-luna",
+      "status_before": "uncertain",
+      "status_after": "uncertain",
+      "unit_after": "mm",
+      "unit_source": null,
+      "unit_citation": null,
+      "unit_bbox": null,
+      "unit_page_pdf": null,
+      "unit_inference_outcome": null,
+      "unit_inference_reason": null,
+      "unit_inference_candidates": [],
+      "verification_level": null,
+      "reason": "The horizontal chair-seating clearance width is printed as 900–1000; no unit is shown.",
+      "read_value": {
+        "printed": "900–1000",
+        "unit": "",
+        "unreadable": false,
+        "reason": "The horizontal chair-seating clearance width is printed as 900–1000; no unit is shown."
+      }
+    },
+    {
+      "id": "4122fb96e4bd1976-41-vision-2:23",
+      "pdf_page": 41,
+      "chapter": "BASICS",
+      "model": "gpt-6-luna",
+      "status_before": "uncertain",
+      "status_after": "uncertain",
+      "unit_after": "mm",
+      "unit_source": null,
+      "unit_citation": null,
+      "unit_bbox": null,
+      "unit_page_pdf": null,
+      "unit_inference_outcome": null,
+      "unit_inference_reason": null,
+      "unit_inference_candidates": [],
+      "verification_level": null,
+      "reason": "The vertical dimension shown for Figure 18, “Sitting on a chair,” is 1450; no unit is printed.",
+      "read_value": {
+        "printed": "1450",
+        "unit": "",
+        "unreadable": false,
+        "reason": "The vertical dimension shown for Figure 18, “Sitting on a chair,” is 1450; no unit is printed."
+      }
+    },
+    {
+      "id": "4122fb96e4bd1976-41-vision-2:24",
+      "pdf_page": 41,
+      "chapter": "BASICS",
+      "model": "gpt-6-luna",
+      "status_before": "uncertain",
+      "status_after": "number_confirmed_unit_pending",
+      "unit_after": "",
+      "unit_source": null,
+      "unit_citation": null,
+      "unit_bbox": null,
+      "unit_page_pdf": null,
+      "unit_inference_outcome": "pending",
+      "unit_inference_reason": "No explicit unit declaration found in page text/words.",
+      "unit_inference_candidates": [],
+      "verification_level": null,
+      "reason": "The printed number matches, but no unit is visible in the crop.",
+      "read_value": {
+        "printed": "710",
+        "unit": "",
+        "unreadable": false,
+        "reason": "The top horizontal dimension for the floor-sitting figure is explicitly labeled 710."
+      }
+    },
+    {
+      "id": "4122fb96e4bd1976-41-vision-2:25",
+      "pdf_page": 41,
+      "chapter": "BASICS",
+      "model": "gpt-6-luna",
+      "status_before": "uncertain",
+      "status_after": "number_confirmed_unit_pending",
+      "unit_after": "",
+      "unit_source": null,
+      "unit_citation": null,
+      "unit_bbox": null,
+      "unit_page_pdf": null,
+      "unit_inference_outcome": "pending",
+      "unit_inference_reason": "No explicit unit declaration found in page text/words.",
+      "unit_inference_candidates": [],
+      "verification_level": null,
+      "reason": "The printed number matches, but no unit is visible in the crop.",
+      "read_value": {
+        "printed": "460",
+        "unit": "",
+        "unreadable": false,
+        "reason": "The horizontal reach dimension is printed as 460; no unit is printed."
+      }
+    },
+    {
+      "id": "4122fb96e4bd1976-41-vision-2:26",
+      "pdf_page": 41,
+      "chapter": "BASICS",
+      "model": "gpt-6-luna",
+      "status_before": "uncertain",
+      "status_after": "number_confirmed_unit_pending",
+      "unit_after": "",
+      "unit_source": null,
+      "unit_citation": null,
+      "unit_bbox": null,
+      "unit_page_pdf": null,
+      "unit_inference_outcome": "pending",
+      "unit_inference_reason": "No explicit unit declaration found in page text/words.",
+      "unit_inference_candidates": [],
+      "verification_level": null,
+      "reason": "The printed number matches, but no unit is visible in the crop.",
+      "read_value": {
+        "printed": "1020",
+        "unit": "",
+        "unreadable": false,
+        "reason": "The vertical dimension is explicitly labeled 1020; no unit is printed."
+      }
+    },
+    {
+      "id": "4122fb96e4bd1976-41-vision-2:27",
+      "pdf_page": 41,
+      "chapter": "BASICS",
+      "model": "gpt-6-luna",
+      "status_before": "uncertain",
+      "status_after": "uncertain",
+      "unit_after": "mm",
+      "unit_source": null,
+      "unit_citation": null,
+      "unit_bbox": null,
+      "unit_page_pdf": null,
+      "unit_inference_outcome": null,
+      "unit_inference_reason": null,
+      "unit_inference_candidates": [],
+      "verification_level": null,
+      "reason": "The vertical dimension beside the floor-sitting figure is labeled 1020; no unit is printed.",
+      "read_value": {
+        "printed": "1020",
+        "unit": "",
+        "unreadable": false,
+        "reason": "The vertical dimension beside the floor-sitting figure is labeled 1020; no unit is printed."
+      }
+    },
+    {
+      "id": "4122fb96e4bd1976-41-vision-2:28",
+      "pdf_page": 41,
+      "chapter": "BASICS",
+      "model": "gpt-6-luna",
+      "status_before": "uncertain",
+      "status_after": "uncertain",
+      "unit_after": "mm",
+      "unit_source": null,
+      "unit_citation": null,
+      "unit_bbox": null,
+      "unit_page_pdf": null,
+      "unit_inference_outcome": null,
+      "unit_inference_reason": null,
+      "unit_inference_candidates": [],
+      "verification_level": null,
+      "reason": "The vertical dimension beside the floor-sitting figure is explicitly labeled 1020.",
+      "read_value": {
+        "printed": "1020",
+        "unit": "",
+        "unreadable": false,
+        "reason": "The vertical dimension beside the floor-sitting figure is explicitly labeled 1020."
+      }
+    },
+    {
+      "id": "4122fb96e4bd1976-41-vision-2:3",
+      "pdf_page": 41,
+      "chapter": "BASICS",
+      "model": "gpt-6-luna",
+      "status_before": "uncertain",
+      "status_after": "uncertain",
+      "unit_after": "mm",
+      "unit_source": null,
+      "unit_citation": null,
+      "unit_bbox": null,
+      "unit_page_pdf": null,
+      "unit_inference_outcome": null,
+      "unit_inference_reason": null,
+      "unit_inference_candidates": [],
+      "verification_level": null,
+      "reason": "The horizontal dimension at the desk is printed as 660; no unit is shown.",
+      "read_value": {
+        "printed": "660",
+        "unit": "",
+        "unreadable": false,
+        "reason": "The horizontal dimension at the desk is printed as 660; no unit is shown."
+      }
+    },
+    {
+      "id": "4122fb96e4bd1976-41-vision-2:4",
+      "pdf_page": 41,
+      "chapter": "BASICS",
+      "model": "gpt-6-luna",
+      "status_before": "uncertain",
+      "status_after": "number_confirmed_unit_pending",
+      "unit_after": "",
+      "unit_source": null,
+      "unit_citation": null,
+      "unit_bbox": null,
+      "unit_page_pdf": null,
+      "unit_inference_outcome": "pending",
+      "unit_inference_reason": "No explicit unit declaration found in page text/words.",
+      "unit_inference_candidates": [],
+      "verification_level": null,
+      "reason": "The printed number matches, but no unit is visible in the crop.",
+      "read_value": {
+        "printed": "750",
+        "unit": "",
+        "unreadable": false,
+        "reason": "The vertical dimension at the dining table is printed as 750; no unit is shown."
+      }
+    },
+    {
+      "id": "4122fb96e4bd1976-41-vision-2:5",
+      "pdf_page": 41,
+      "chapter": "BASICS",
+      "model": "gpt-6-luna",
+      "status_before": "uncertain",
+      "status_after": "number_confirmed_unit_pending",
+      "unit_after": "",
+      "unit_source": null,
+      "unit_citation": null,
+      "unit_bbox": null,
+      "unit_page_pdf": null,
+      "unit_inference_outcome": "pending",
+      "unit_inference_reason": "No explicit unit declaration found in page text/words.",
+      "unit_inference_candidates": [],
+      "verification_level": null,
+      "reason": "The printed number matches, but no unit is visible in the crop.",
+      "read_value": {
+        "printed": "400–450",
+        "unit": "",
+        "unreadable": false,
+        "reason": "The vertical seated dimension beside the chair is printed as 400–450; no unit is shown."
+      }
+    },
+    {
+      "id": "4122fb96e4bd1976-41-vision-2:6",
+      "pdf_page": 41,
+      "chapter": "BASICS",
+      "model": "gpt-6-luna",
+      "status_before": "uncertain",
+      "status_after": "number_confirmed_unit_pending",
+      "unit_after": "",
+      "unit_source": null,
+      "unit_citation": null,
+      "unit_bbox": null,
+      "unit_page_pdf": null,
+      "unit_inference_outcome": "pending",
+      "unit_inference_reason": "No explicit unit declaration found in page text/words.",
+      "unit_inference_candidates": [],
+      "verification_level": null,
+      "reason": "The printed number matches, but no unit is visible in the crop.",
+      "read_value": {
+        "printed": "875",
+        "unit": "",
+        "unreadable": false,
+        "reason": "The horizontal dimension at the dining table is explicitly printed as 875; no unit is shown."
+      }
+    },
+    {
+      "id": "4122fb96e4bd1976-41-vision-2:7",
+      "pdf_page": 41,
+      "chapter": "BASICS",
+      "model": "gpt-6-luna",
+      "status_before": "uncertain",
+      "status_after": "number_confirmed_unit_pending",
+      "unit_after": "",
+      "unit_source": null,
+      "unit_citation": null,
+      "unit_bbox": null,
+      "unit_page_pdf": null,
+      "unit_inference_outcome": "pending",
+      "unit_inference_reason": "No explicit unit declaration found in page text/words.",
+      "unit_inference_candidates": [],
+      "verification_level": null,
+      "reason": "The printed number matches, but no unit is visible in the crop.",
+      "read_value": {
+        "printed": "700",
+        "unit": "",
+        "unreadable": false,
+        "reason": "The vertical work-surface dimension is printed as 700; no unit is shown."
+      }
+    },
+    {
+      "id": "4122fb96e4bd1976-41-vision-2:8",
+      "pdf_page": 41,
+      "chapter": "BASICS",
+      "model": "gpt-6-luna",
+      "status_before": "uncertain",
+      "status_after": "number_confirmed_unit_pending",
+      "unit_after": "",
+      "unit_source": null,
+      "unit_citation": null,
+      "unit_bbox": null,
+      "unit_page_pdf": null,
+      "unit_inference_outcome": "pending",
+      "unit_inference_reason": "No explicit unit declaration found in page text/words.",
+      "unit_inference_candidates": [],
+      "verification_level": null,
+      "reason": "The printed number matches, but no unit is visible in the crop.",
+      "read_value": {
+        "printed": "375–400",
+        "unit": "",
+        "unreadable": false,
+        "reason": "The vertical seated dimension is printed as 375–400; no unit is visible."
+      }
+    },
+    {
+      "id": "4122fb96e4bd1976-41-vision-2:9",
+      "pdf_page": 41,
+      "chapter": "BASICS",
+      "model": "gpt-6-luna",
+      "status_before": "uncertain",
+      "status_after": "number_confirmed_unit_pending",
+      "unit_after": "",
+      "unit_source": null,
+      "unit_citation": null,
+      "unit_bbox": null,
+      "unit_page_pdf": null,
+      "unit_inference_outcome": "pending",
+      "unit_inference_reason": "No explicit unit declaration found in page text/words.",
+      "unit_inference_candidates": [],
+      "verification_level": null,
+      "reason": "The printed number matches, but no unit is visible in the crop.",
+      "read_value": {
+        "printed": "900–1000",
+        "unit": "",
+        "unreadable": false,
+        "reason": "The horizontal dimension beneath the small easy chair is printed as 900–1000; no unit is shown."
+      }
+    },
+    {
+      "id": "4122fb96e4bd1976-41-vision-3:0",
+      "pdf_page": 41,
+      "chapter": "BASICS",
+      "model": "gpt-6-luna",
+      "status_before": "uncertain",
+      "status_after": "number_confirmed_unit_pending",
+      "unit_after": "",
+      "unit_source": null,
+      "unit_citation": null,
+      "unit_bbox": null,
+      "unit_page_pdf": null,
+      "unit_inference_outcome": "pending",
+      "unit_inference_reason": "No explicit unit declaration found in page text/words.",
+      "unit_inference_candidates": [],
+      "verification_level": null,
+      "reason": "The printed number matches, but no unit is visible in the crop.",
+      "read_value": {
+        "printed": "1250",
+        "unit": "",
+        "unreadable": false,
+        "reason": "The horizontal dimension beneath “Sitting on a mattress” is printed as 1250."
+      }
+    },
+    {
+      "id": "4122fb96e4bd1976-41-vision-3:1",
+      "pdf_page": 41,
+      "chapter": "BASICS",
+      "model": "gpt-6-luna",
+      "status_before": "uncertain",
+      "status_after": "number_confirmed_unit_pending",
+      "unit_after": "",
+      "unit_source": null,
+      "unit_citation": null,
+      "unit_bbox": null,
+      "unit_page_pdf": null,
+      "unit_inference_outcome": "pending",
+      "unit_inference_reason": "No explicit unit declaration found in page text/words.",
+      "unit_inference_candidates": [],
+      "verification_level": null,
+      "reason": "The printed number matches, but no unit is visible in the crop.",
+      "read_value": {
+        "printed": "875",
+        "unit": "",
+        "unreadable": false,
+        "reason": "The vertical dimension is labeled 875; no unit is printed alongside it."
+      }
+    },
+    {
+      "id": "4122fb96e4bd1976-41-vision-3:2",
+      "pdf_page": 41,
+      "chapter": "BASICS",
+      "model": "gpt-6-luna",
+      "status_before": "uncertain",
+      "status_after": "number_confirmed_unit_pending",
+      "unit_after": "",
+      "unit_source": null,
+      "unit_citation": null,
+      "unit_bbox": null,
+      "unit_page_pdf": null,
+      "unit_inference_outcome": "pending",
+      "unit_inference_reason": "No explicit unit declaration found in page text/words.",
+      "unit_inference_candidates": [],
+      "verification_level": null,
+      "reason": "The printed number matches, but no unit is visible in the crop.",
+      "read_value": {
+        "printed": "1500",
+        "unit": "",
+        "unreadable": false,
+        "reason": "The horizontal dimension beneath “Leaning against sloping backrest” is explicitly labeled 1500; no unit is printed."
+      }
+    },
+    {
+      "id": "4122fb96e4bd1976-41-vision-3:3",
+      "pdf_page": 41,
+      "chapter": "BASICS",
+      "model": "gpt-6-luna",
+      "status_before": "uncertain",
+      "status_after": "number_confirmed_unit_pending",
+      "unit_after": "",
+      "unit_source": null,
+      "unit_citation": null,
+      "unit_bbox": null,
+      "unit_page_pdf": null,
+      "unit_inference_outcome": "pending",
+      "unit_inference_reason": "No explicit unit declaration found in page text/words.",
+      "unit_inference_candidates": [],
+      "verification_level": null,
+      "reason": "The printed number matches, but no unit is visible in the crop.",
+      "read_value": {
+        "printed": "750",
+        "unit": "",
+        "unreadable": false,
+        "reason": "The vertical dimension is explicitly labeled 750; no unit is printed."
+      }
+    },
+    {
+      "id": "4122fb96e4bd1976-41-vision-3:4",
+      "pdf_page": 41,
+      "chapter": "BASICS",
+      "model": "gpt-6-luna",
+      "status_before": "uncertain",
+      "status_after": "number_confirmed_unit_pending",
+      "unit_after": "",
+      "unit_source": null,
+      "unit_citation": null,
+      "unit_bbox": null,
+      "unit_page_pdf": null,
+      "unit_inference_outcome": "pending",
+      "unit_inference_reason": "No explicit unit declaration found in page text/words.",
+      "unit_inference_candidates": [],
+      "verification_level": null,
+      "reason": "The printed number matches, but no unit is visible in the crop.",
+      "read_value": {
+        "printed": "1625",
+        "unit": "",
+        "unreadable": false,
+        "reason": "The horizontal dimension beneath “Lying with raised back” is printed as 1625; no unit is shown."
+      }
+    },
+    {
+      "id": "4122fb96e4bd1976-41-vision-3:5",
+      "pdf_page": 41,
+      "chapter": "BASICS",
+      "model": "gpt-6-luna",
+      "status_before": "uncertain",
+      "status_after": "number_confirmed_unit_pending",
+      "unit_after": "",
+      "unit_source": null,
+      "unit_citation": null,
+      "unit_bbox": null,
+      "unit_page_pdf": null,
+      "unit_inference_outcome": "pending",
+      "unit_inference_reason": "No explicit unit declaration found in page text/words.",
+      "unit_inference_candidates": [],
+      "verification_level": null,
+      "reason": "The printed number matches, but no unit is visible in the crop.",
+      "read_value": {
+        "printed": "625",
+        "unit": "",
+        "unreadable": false,
+        "reason": "The vertical dimension is explicitly labeled 625; no unit is printed."
+      }
+    },
+    {
+      "id": "4122fb96e4bd1976-41-vision-3:6",
+      "pdf_page": 41,
+      "chapter": "BASICS",
+      "model": "gpt-6-luna",
+      "status_before": "uncertain",
+      "status_after": "number_confirmed_unit_pending",
+      "unit_after": "",
+      "unit_source": null,
+      "unit_citation": null,
+      "unit_bbox": null,
+      "unit_page_pdf": null,
+      "unit_inference_outcome": "pending",
+      "unit_inference_reason": "No explicit unit declaration found in page text/words.",
+      "unit_inference_candidates": [],
+      "verification_level": null,
+      "reason": "The printed number matches, but no unit is visible in the crop.",
+      "read_value": {
+        "printed": "2000",
+        "unit": "",
+        "unreadable": false,
+        "reason": "The 2000 dimension marks the overall horizontal floor-space span for the lying figure."
+      }
+    },
+    {
+      "id": "4122fb96e4bd1976-41-vision-3:7",
+      "pdf_page": 41,
+      "chapter": "BASICS",
+      "model": "gpt-6-luna",
+      "status_before": "uncertain",
+      "status_after": "number_confirmed_unit_pending",
+      "unit_after": "",
+      "unit_source": null,
+      "unit_citation": null,
+      "unit_bbox": null,
+      "unit_page_pdf": null,
+      "unit_inference_outcome": "pending",
+      "unit_inference_reason": "No explicit unit declaration found in page text/words.",
+      "unit_inference_candidates": [],
+      "verification_level": null,
+      "reason": "The printed number matches, but no unit is visible in the crop.",
+      "read_value": {
+        "printed": "1875",
+        "unit": "",
+        "unreadable": false,
+        "reason": "The dashed horizontal dimension above the lying figure is labeled 1875; no unit is printed."
+      }
+    },
+    {
+      "id": "4122fb96e4bd1976-41-vision-3:8",
+      "pdf_page": 41,
+      "chapter": "BASICS",
+      "model": "gpt-6-luna",
+      "status_before": "uncertain",
+      "status_after": "number_confirmed_unit_pending",
+      "unit_after": "",
+      "unit_source": null,
+      "unit_citation": null,
+      "unit_bbox": null,
+      "unit_page_pdf": null,
+      "unit_inference_outcome": "pending",
+      "unit_inference_reason": "No explicit unit declaration found in page text/words.",
+      "unit_inference_candidates": [],
+      "verification_level": null,
+      "reason": "The printed number matches, but no unit is visible in the crop.",
+      "read_value": {
+        "printed": "300",
+        "unit": "",
+        "unreadable": false,
+        "reason": "The vertical dimension beside the lying figure is printed as 300; no unit is visible."
+      }
+    },
+    {
+      "id": "4122fb96e4bd1976-44-vision-2:7",
+      "pdf_page": 44,
+      "chapter": "BASICS",
+      "model": "gpt-6-luna",
+      "status_before": "corrected",
+      "status_after": "corrected",
+      "unit_after": "dimensionless",
+      "unit_source": null,
+      "unit_citation": null,
+      "unit_bbox": null,
+      "unit_page_pdf": null,
+      "unit_inference_outcome": null,
+      "unit_inference_reason": null,
+      "unit_inference_candidates": [],
+      "verification_level": null,
+      "reason": "The printed approximation shown is 1.4142135...",
+      "read_value": {
+        "printed": "1.4142135...",
+        "unit": "",
+        "unreadable": false,
+        "reason": "The printed approximation shown is 1.4142135..."
+      }
+    },
+    {
+      "id": "4122fb96e4bd1976-45-vision-2:0",
+      "pdf_page": 45,
+      "chapter": "BASICS",
+      "model": "gpt-6-luna",
+      "status_before": "uncertain",
+      "status_after": "number_confirmed_unit_pending",
+      "unit_after": "",
+      "unit_source": null,
+      "unit_citation": null,
+      "unit_bbox": null,
+      "unit_page_pdf": null,
+      "unit_inference_outcome": "pending",
+      "unit_inference_reason": "No explicit unit declaration found in page text/words.",
+      "unit_inference_candidates": [],
+      "verification_level": null,
+      "reason": "The printed number matches, but no unit is visible in the crop.",
+      "read_value": {
+        "printed": "32",
+        "unit": "",
+        "unreadable": false,
+        "reason": "The printed number is 32; no unit is identified."
+      }
+    },
+    {
+      "id": "4122fb96e4bd1976-47-vision-0:1",
+      "pdf_page": 47,
+      "chapter": "BASICS",
+      "model": "gpt-6-luna",
+      "status_before": "uncertain",
+      "status_after": "uncertain",
+      "unit_after": "preferred-number sequence",
+      "unit_source": null,
+      "unit_citation": null,
+      "unit_bbox": null,
+      "unit_page_pdf": null,
+      "unit_inference_outcome": null,
+      "unit_inference_reason": null,
+      "unit_inference_candidates": [],
+      "verification_level": null,
+      "reason": "The sequence is cropped at the right edge after “31”, so the printed number/range cannot be read completely.",
+      "read_value": {
+        "printed": "",
+        "unit": "",
+        "unreadable": true,
+        "reason": "The sequence is cropped at the right edge after “31”, so the printed number/range cannot be read completely."
+      }
+    }
+  ]
+}

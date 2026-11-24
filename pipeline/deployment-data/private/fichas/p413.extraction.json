@@ -1,0 +1,251 @@
+{
+  "fichas": [
+    {
+      "id": "4122fb96e4bd1976-413-vision-0",
+      "pdf_page": 413,
+      "book_page": 400,
+      "chapter": "TRANSPORT",
+      "section": "Parking Facilities",
+      "title": "Petrol Stations",
+      "summary": "Petrol stations combine fuel and lubricant dispensing with maintenance, vehicle-care and often retail services. Design considerations include applicable water, fire and flammable-liquid regulations; vehicle and queuing space; pump-island layouts; liquid-impervious paving and drainage; impact protection for pumps; and special provisions for LPG. Figures show dispenser types, minimum pump-island layouts, self-service arrangements, and service points for oil, air and water.",
+      "building_type": "Petrol station",
+      "spaces": [
+        "Fuel dispensing area",
+        "Petrol pump islands",
+        "Vehicle circulation and queuing areas",
+        "Retail and car-care areas",
+        "Self-service oil-change and air/water service points"
+      ],
+      "uses": [
+        "Dispensing multiple fuel types",
+        "Vehicle maintenance and care",
+        "Retail sale of car accessories and daily goods",
+        "Self-service oil change, air and water",
+        "LPG refuelling"
+      ],
+      "furniture_equipment": [
+        "Multi-product petrol dispensers",
+        "Single- and double-fuel pumps",
+        "Autogas (LPG) dispensers",
+        "Vehicle-impact protection for pumps",
+        "Liquid interceptor",
+        "Run-off channels",
+        "Self-service oil-change, air and water service points"
+      ],
+      "dimensions": [
+        {
+          "label": "Parking space width",
+          "value": 2.5,
+          "value_max": null,
+          "unit": "m",
+          "context": "State-regulated parking space size; paired with a printed length of 5.00 m.",
+          "status": "uncertain",
+          "ocr_raw": "Parking space size (2.50 x 5.00 m = 12.50 m2)"
+        },
+        {
+          "label": "Parking space length",
+          "value": 5.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "State-regulated parking space size; paired with a printed width of 2.50 m.",
+          "status": "uncertain",
+          "ocr_raw": "Parking space size (2.50 x 5.00 m = 12.50 m2)"
+        },
+        {
+          "label": "Parking space area",
+          "value": 12.5,
+          "value_max": null,
+          "unit": "m2",
+          "context": "Area printed as part of the state-regulated parking-space specification.",
+          "status": "uncertain",
+          "ocr_raw": "12.50 m2"
+        },
+        {
+          "label": "Car turning circle",
+          "value": 12.5,
+          "value_max": null,
+          "unit": "m",
+          "context": "Design vehicle dimension; turning circle for a car.",
+          "status": "uncertain",
+          "ocr_raw": "Turning circle: car 12.50 m"
+        },
+        {
+          "label": "HGV turning circle",
+          "value": 26.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Design vehicle dimension; turning circle for an HGV.",
+          "status": "uncertain",
+          "ocr_raw": "HGV 26.00 m"
+        },
+        {
+          "label": "Car vehicle width",
+          "value": 1.85,
+          "value_max": null,
+          "unit": "m",
+          "context": "Design vehicle dimension.",
+          "status": "uncertain",
+          "ocr_raw": "Vehicle width: car 1.85 m"
+        },
+        {
+          "label": "HGV vehicle width",
+          "value": 2.5,
+          "value_max": null,
+          "unit": "m",
+          "context": "Design vehicle dimension.",
+          "status": "uncertain",
+          "ocr_raw": "HGV 2.50 m"
+        },
+        {
+          "label": "Car vehicle length",
+          "value": 5.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Design vehicle dimension.",
+          "status": "uncertain",
+          "ocr_raw": "Vehicle length: car 5.00 m"
+        },
+        {
+          "label": "HGV vehicle length with trailer",
+          "value": 18.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Design vehicle dimension; HGV with trailer.",
+          "status": "uncertain",
+          "ocr_raw": "HGV 18.00 m with trailer"
+        },
+        {
+          "label": "Surfaced area beyond petrol hose length",
+          "value": 1.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Impervious paving area extends by this amount beyond the petrol hose length.",
+          "status": "uncertain",
+          "ocr_raw": "length of the petrol hose + 1 m"
+        },
+        {
+          "label": "Pump impact protection spacing",
+          "value": 20.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Minimum spacing stated for protection against vehicle impact at petrol pumps.",
+          "status": "uncertain",
+          "ocr_raw": "at least 20 cm spacing"
+        },
+        {
+          "label": "Pump impact protection height",
+          "value": 12.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Height stated for protection against vehicle impact at petrol pumps.",
+          "status": "uncertain",
+          "ocr_raw": "12 cm height"
+        },
+        {
+          "label": "Pump island layout dimension",
+          "value": 5.65,
+          "value_max": null,
+          "unit": "m",
+          "context": "Dimension shown on the petrol pump island minimum-dimensions diagrams.",
+          "status": "uncertain",
+          "ocr_raw": "5.65"
+        },
+        {
+          "label": "Pump island layout dimension",
+          "value": 3.62,
+          "value_max": null,
+          "unit": "m",
+          "context": "Dimension shown on the petrol pump island minimum-dimensions diagrams.",
+          "status": "uncertain",
+          "ocr_raw": "3.62"
+        },
+        {
+          "label": "Pump island layout dimension",
+          "value": 10.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Dimension shown on the petrol pump island minimum-dimensions diagrams.",
+          "status": "uncertain",
+          "ocr_raw": "10.00"
+        },
+        {
+          "label": "Pump island layout dimension",
+          "value": 8.5,
+          "value_max": null,
+          "unit": "m",
+          "context": "Parenthesized dimension shown on the petrol pump island minimum-dimensions diagrams.",
+          "status": "uncertain",
+          "ocr_raw": "(8.50)"
+        },
+        {
+          "label": "Pump island layout dimension",
+          "value": 7.5,
+          "value_max": null,
+          "unit": "m",
+          "context": "Dimension shown for the long-island arrangement parallel to the road.",
+          "status": "uncertain",
+          "ocr_raw": "7.50"
+        },
+        {
+          "label": "Pump island layout dimension",
+          "value": 11.2,
+          "value_max": null,
+          "unit": "m",
+          "context": "Dimension shown on the pump-island layout drawing; label is difficult to read.",
+          "status": "uncertain",
+          "ocr_raw": "11.20"
+        },
+        {
+          "label": "Service point layout dimension",
+          "value": 5.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Dimension shown beside the self-service oil-change, air and water service-point diagram.",
+          "status": "uncertain",
+          "ocr_raw": "5.0"
+        },
+        {
+          "label": "Service point layout dimension",
+          "value": 3.7,
+          "value_max": null,
+          "unit": "m",
+          "context": "Dimension shown beside the self-service oil-change, air and water service-point diagram.",
+          "status": "uncertain",
+          "ocr_raw": "3.7"
+        }
+      ],
+      "figure_refs": [
+        "1 — Petrol pump types",
+        "2 — Petrol pump island dimensions (minimum dimensions)",
+        "3 — Two long islands parallel to the road",
+        "4 — Two short islands at an angle less than 60° to the road",
+        "5 — Two short islands parallel to the road",
+        "6 — Service points for self-service oil change, air and water"
+      ],
+      "cross_refs": [
+        "Figure 1: petrol pump types",
+        "Figure 2: petrol pump island dimensions",
+        "Figures 3–5: island layouts",
+        "Figure 6: self-service points"
+      ],
+      "keywords": [
+        "petrol station",
+        "fuel dispenser",
+        "pump island",
+        "parking space",
+        "vehicle turning",
+        "queuing space",
+        "impervious paving",
+        "liquid interceptor",
+        "LPG",
+        "service points"
+      ],
+      "tags_architectural": [
+        "circulation",
+        "clearance",
+        "safety"
+      ],
+      "confidence": 0.88
+    }
+  ]
+}

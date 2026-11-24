@@ -1,0 +1,309 @@
+{
+  "fichas": [
+    {
+      "id": "4122fb96e4bd1976-516-vision-0",
+      "pdf_page": 516,
+      "book_page": 503,
+      "chapter": "BUILDING SERVICES",
+      "section": "Lighting",
+      "title": "Lamp types and suitability for lighting layouts",
+      "summary": "A comparison table lists lamp types and their wattage ranges, marking suitable applications among flood lighting, spotlights, uplights, downlights, square grids and rectangular grids.",
+      "building_type": "Lighting reference",
+      "spaces": [],
+      "uses": [
+        "Select lamp types for lighting layouts",
+        "Compare lamp suitability across fitting types"
+      ],
+      "furniture_equipment": [
+        "General-purpose lamps",
+        "Parabolic reflector lamps",
+        "Halogen filament lamps",
+        "Low-voltage halogen lamps",
+        "Fluorescent lamps",
+        "Compact fluorescent lamps",
+        "Mercury vapour lamps",
+        "Sodium vapour lamps",
+        "Halogen metal vapour lamps"
+      ],
+      "dimensions": [
+        {
+          "label": "General-purpose lamp power",
+          "value": 60.0,
+          "value_max": 200.0,
+          "unit": "W",
+          "context": "Lamp type A",
+          "status": "uncertain",
+          "ocr_raw": "lamp 60-200W"
+        },
+        {
+          "label": "Parabolic reflector lamp power",
+          "value": 60.0,
+          "value_max": 300.0,
+          "unit": "W",
+          "context": "PAR, R parabolic reflector lamp",
+          "status": "uncertain",
+          "ocr_raw": "6G-3DDW"
+        },
+        {
+          "label": "QT32 halogen filament lamp power",
+          "value": 75.0,
+          "value_max": 250.0,
+          "unit": "W",
+          "context": "QT32 lamp",
+          "status": "uncertain",
+          "ocr_raw": "lamp 75-250W"
+        },
+        {
+          "label": "QT-DE halogen filament lamp power",
+          "value": 100.0,
+          "value_max": 500.0,
+          "unit": "W",
+          "context": "Sockets at both sides",
+          "status": "uncertain",
+          "ocr_raw": "OT-DE halogen filament lamp, sockets both sides 100-500W"
+        },
+        {
+          "label": "QT-LV/NV low-voltage halogen lamp power",
+          "value": 10.0,
+          "value_max": 150.0,
+          "unit": "W",
+          "context": "Low-voltage halogen lamp",
+          "status": "uncertain",
+          "ocr_raw": "QT-LV NV lamp 10.....150W"
+        },
+        {
+          "label": "QR-LV/NV reflector lamp power",
+          "value": 20.0,
+          "value_max": 100.0,
+          "unit": "W",
+          "context": "Low-voltage halogen reflector lamp",
+          "status": "uncertain",
+          "ocr_raw": "QR-LV low-voltage halogen NV reflector lamp 20-100W"
+        },
+        {
+          "label": "Fluorescent lamp power",
+          "value": 8.0,
+          "value_max": 58.0,
+          "unit": "W",
+          "context": "T lamps; table also shows 16, 8 and 2",
+          "status": "uncertain",
+          "ocr_raw": "T 16 fluorescent lamp 8-58W 8 2"
+        },
+        {
+          "label": "Compact fluorescent lamp power",
+          "value": 7.0,
+          "value_max": 55.0,
+          "unit": "W",
+          "context": "TC, TC-D and TC-L types",
+          "status": "uncertain",
+          "ocr_raw": "TC TC-D TC-L compact fluorescent Jamp7-55W"
+        },
+        {
+          "label": "Mercury vapour lamp power",
+          "value": 50.0,
+          "value_max": 400.0,
+          "unit": "W",
+          "context": "HME",
+          "status": "uncertain",
+          "ocr_raw": "HME mercury vapour lamp 50-400W"
+        },
+        {
+          "label": "Sodium vapour lamp power",
+          "value": 50.0,
+          "value_max": 250.0,
+          "unit": "W",
+          "context": "HSE/HST",
+          "status": "uncertain",
+          "ocr_raw": "HSE/ HST sodium vapour lamp 50-250W"
+        },
+        {
+          "label": "Halogen metal vapour lamp power",
+          "value": 35.0,
+          "value_max": 250.0,
+          "unit": "W",
+          "context": "HIT, HIT-DE and CDM-T types",
+          "status": "uncertain",
+          "ocr_raw": "HIT halogen metal HIT-DE vapour lamp CDM-T 35-250W"
+        }
+      ],
+      "figure_refs": [
+        "1"
+      ],
+      "cross_refs": [],
+      "keywords": [
+        "lighting",
+        "lamps",
+        "fittings",
+        "lamp suitability",
+        "lighting layout"
+      ],
+      "tags_architectural": [],
+      "confidence": 0.91
+    },
+    {
+      "id": "4122fb96e4bd1976-516-vision-1",
+      "pdf_page": 516,
+      "book_page": 503,
+      "chapter": "BUILDING SERVICES",
+      "section": "Lighting",
+      "title": "Light fittings and light distribution",
+      "summary": "Illustrations compare fitting types and light-distribution diagrams, including downlights, spotlights, wallwashers, louvres, uplighters and direct/indirect lighting. Some diagrams report luminous intensity per lamp flux. The page also shows ventilation rates and noise levels for downlights with air extraction, and a square downlight reflector size.",
+      "building_type": "Lighting reference",
+      "spaces": [
+        "Ceiling",
+        "Wall",
+        "Floor"
+      ],
+      "uses": [
+        "Compare light fitting types and distribution",
+        "Reference illustrated luminous-intensity distributions",
+        "Coordinate downlights with air extraction or admission"
+      ],
+      "furniture_equipment": [
+        "Parabolic downlight",
+        "Parabolic spotlight",
+        "Downlight",
+        "Double-focus downlight",
+        "Surface-mounted discharge downlight",
+        "Pendant light",
+        "Downlight with wall floodlight",
+        "Specular louvre wall floodlight",
+        "Linear wallwasher",
+        "Downward directional spotlight",
+        "Floor floodlight",
+        "Ceiling uplighter",
+        "Specular louvre pendant light",
+        "Surface-mounted specular louvre",
+        "Built-in specular louvre light",
+        "Specular louvre light",
+        "Secondary lighting",
+        "Reflecting grating hanging lamp",
+        "Air-extraction downlight",
+        "Decorative downlight",
+        "Square downlight"
+      ],
+      "dimensions": [
+        {
+          "label": "Illustrated luminous intensity",
+          "value": 2500.0,
+          "value_max": null,
+          "unit": "cd/klm",
+          "context": "Parabolic downlight distribution diagram",
+          "status": "uncertain",
+          "ocr_raw": "2500 cd/klm"
+        },
+        {
+          "label": "Illustrated luminous intensity",
+          "value": 750.0,
+          "value_max": null,
+          "unit": "cd/klm",
+          "context": "Fitting-distribution diagrams",
+          "status": "uncertain",
+          "ocr_raw": "750 cd/klm"
+        },
+        {
+          "label": "Illustrated luminous intensity",
+          "value": 500.0,
+          "value_max": null,
+          "unit": "cd/klm",
+          "context": "Fitting-distribution diagrams",
+          "status": "uncertain",
+          "ocr_raw": "500 cd/klm"
+        },
+        {
+          "label": "Illustrated luminous intensity",
+          "value": 300.0,
+          "value_max": null,
+          "unit": "cd/klm",
+          "context": "Pendant light distribution diagram",
+          "status": "uncertain",
+          "ocr_raw": "300 cd/klm"
+        },
+        {
+          "label": "Illustrated luminous intensity",
+          "value": 1000.0,
+          "value_max": null,
+          "unit": "cd/klm",
+          "context": "Double-focus downlight distribution diagram",
+          "status": "uncertain",
+          "ocr_raw": "1000 cd/klm"
+        },
+        {
+          "label": "Illustrated luminous intensity",
+          "value": 2000.0,
+          "value_max": null,
+          "unit": "cd/klm",
+          "context": "Downward directional spotlight distribution diagram",
+          "status": "uncertain",
+          "ocr_raw": "2000 cd/klm"
+        },
+        {
+          "label": "Air-extraction rate",
+          "value": 160.0,
+          "value_max": null,
+          "unit": "m³/h",
+          "context": "Downlight with air extraction; noise level 35 dB (A)",
+          "status": "uncertain",
+          "ocr_raw": "160 m3/h at 35 dB (A)"
+        },
+        {
+          "label": "Air-extraction rate",
+          "value": 200.0,
+          "value_max": null,
+          "unit": "m³/h",
+          "context": "Downlight with air extraction; noise level 40 dB (A)",
+          "status": "uncertain",
+          "ocr_raw": "200 m³/h at 40 dB (A)"
+        },
+        {
+          "label": "Air extraction/admission rate",
+          "value": 160.0,
+          "value_max": null,
+          "unit": "m³/h",
+          "context": "Downlight with air extraction/admission; noise level 35 dB (A)",
+          "status": "uncertain",
+          "ocr_raw": "160 m3fh at 35 dB (A)"
+        },
+        {
+          "label": "Air extraction/admission rate",
+          "value": 200.0,
+          "value_max": null,
+          "unit": "m³/h",
+          "context": "Downlight with air extraction/admission; noise level 40 dB (A)",
+          "status": "uncertain",
+          "ocr_raw": "200 m3fh at 40 dB (A)"
+        },
+        {
+          "label": "Reflector size",
+          "value": 300.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Square downlight reflector; both sides shown as 300 mm",
+          "status": "uncertain",
+          "ocr_raw": "square downlight reflector 300 x 300 mm"
+        }
+      ],
+      "figure_refs": [
+        "2"
+      ],
+      "cross_refs": [
+        "BS EN 12665",
+        "DIN 5035",
+        "DIN EN 12464"
+      ],
+      "keywords": [
+        "lighting",
+        "light fittings",
+        "light distribution",
+        "luminous intensity",
+        "downlight",
+        "air extraction",
+        "illuminance"
+      ],
+      "tags_architectural": [
+        "ventilation"
+      ],
+      "confidence": 0.9
+    }
+  ]
+}

@@ -1,0 +1,402 @@
+{
+  "fichas": [
+    {
+      "id": "4122fb96e4bd1976-450-vision-0",
+      "pdf_page": 450,
+      "book_page": 437,
+      "chapter": "EXTERNAL WORKS",
+      "section": "Vegetation",
+      "title": "Design with vegetation",
+      "summary": "Landscape planting should be planned as part of the overall spatial design before plant species are selected. Plant choice depends on form, colour, seasonal changes, site conditions and maintenance. The text also gives general planting quantities, plant-delivery and storage guidance, and planting-time advice.",
+      "building_type": "Landscape design",
+      "spaces": [
+        "Landscape areas",
+        "Hedges",
+        "Planting areas"
+      ],
+      "uses": [
+        "Organizing outdoor space with plants",
+        "Selecting plants for site and maintenance conditions",
+        "Establishing general planting quantities"
+      ],
+      "furniture_equipment": [],
+      "dimensions": [
+        {
+          "label": "Perennial and small ground-cover planting density",
+          "value": 6.0,
+          "value_max": 12.0,
+          "unit": "plants/m²",
+          "context": "General planting quantity for perennials and small ground-cover plants.",
+          "status": "uncertain",
+          "ocr_raw": "6–12 plants/m²"
+        },
+        {
+          "label": "Solitary woody-plant density",
+          "value": 0.5,
+          "value_max": 2.0,
+          "unit": "plants/m²",
+          "context": "General planting quantity for solitary woody plants.",
+          "status": "uncertain",
+          "ocr_raw": "0.5–2 plants/m²"
+        },
+        {
+          "label": "Single-row hedge planting density",
+          "value": 3.0,
+          "value_max": 5.0,
+          "unit": "plants/running metre",
+          "context": "Typical planting quantity for a single-row hedge.",
+          "status": "uncertain",
+          "ocr_raw": "3–5 plants/running metre"
+        },
+        {
+          "label": "Maximum intermediate storage time",
+          "value": 48.0,
+          "value_max": null,
+          "unit": "hours",
+          "context": "Plant storage between delivery and planting should not exceed this period.",
+          "status": "uncertain",
+          "ocr_raw": "Storage should not exceed 48 hours."
+        },
+        {
+          "label": "Late planting month in landscapes with early frosts",
+          "value": 10.0,
+          "value_max": null,
+          "unit": "month",
+          "context": "October is given as the latest planting time in landscapes with early frosts.",
+          "status": "uncertain",
+          "ocr_raw": "planting can be as late as October"
+        },
+        {
+          "label": "Late planting month in mild regions",
+          "value": 11.0,
+          "value_max": null,
+          "unit": "month",
+          "context": "Planting may continue until November in mild regions.",
+          "status": "uncertain",
+          "ocr_raw": "in mild regions until November"
+        }
+      ],
+      "figure_refs": [
+        "6 Hedge heights",
+        "9 Tree and root system",
+        "10 Tree shapes for small gardens",
+        "11 Large tree while still young",
+        "12 Tree shapes for small gardens"
+      ],
+      "cross_refs": [
+        "p. 433"
+      ],
+      "keywords": [
+        "vegetation",
+        "landscape design",
+        "plant selection",
+        "planting density",
+        "plant maintenance",
+        "planting time"
+      ],
+      "tags_architectural": [
+        "spatial_proportion",
+        "adaptability"
+      ],
+      "confidence": 0.95
+    },
+    {
+      "id": "4122fb96e4bd1976-450-vision-1",
+      "pdf_page": 450,
+      "book_page": 437,
+      "chapter": "EXTERNAL WORKS",
+      "section": "Vegetation",
+      "title": "Planting layouts and spacing",
+      "summary": "Diagrams show spacing for raspberries and fruit bushes, plus triangular planting patterns with and without filler trees. The text identifies productive-plant spacings as distinct from general landscaping practice.",
+      "building_type": "Landscape planting",
+      "spaces": [
+        "Fruit planting areas",
+        "Orchards",
+        "Raspberry rows"
+      ],
+      "uses": [
+        "Laying out productive planting",
+        "Spacing fruit trees and bushes",
+        "Using filler trees in triangular planting systems"
+      ],
+      "furniture_equipment": [
+        "Planting stakes",
+        "Wire supports"
+      ],
+      "dimensions": [
+        {
+          "label": "Raspberry planting spacing",
+          "value": 50.0,
+          "value_max": 60.0,
+          "unit": "cm",
+          "context": "Spacing shown for planting raspberries.",
+          "status": "uncertain",
+          "ocr_raw": "50–60 cm"
+        },
+        {
+          "label": "Triangular planting spacing",
+          "value": 3.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Equilateral triangular planting; diagram table gives 3×3×3 m and 320 trees per ¼ ha.",
+          "status": "uncertain",
+          "ocr_raw": "3×3×3m 320"
+        },
+        {
+          "label": "Triangular planting density",
+          "value": 320.0,
+          "value_max": null,
+          "unit": "trees per ¼ ha",
+          "context": "Equilateral triangular planting at 3×3×3 m.",
+          "status": "uncertain",
+          "ocr_raw": "3×3×3m 320"
+        },
+        {
+          "label": "Triangular planting spacing",
+          "value": 4.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Equilateral triangular planting; diagram table gives 4×4×4 m and 178 trees per ¼ ha.",
+          "status": "uncertain",
+          "ocr_raw": "4×4×4m 178"
+        },
+        {
+          "label": "Triangular planting density",
+          "value": 178.0,
+          "value_max": null,
+          "unit": "trees per ¼ ha",
+          "context": "Equilateral triangular planting at 4×4×4 m.",
+          "status": "uncertain",
+          "ocr_raw": "4×4×4m 178"
+        },
+        {
+          "label": "Triangular planting spacing",
+          "value": 6.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Equilateral triangular planting; diagram table gives 6×6×6 m and 80 trees per ¼ ha.",
+          "status": "uncertain",
+          "ocr_raw": "6×6×6m 80"
+        },
+        {
+          "label": "Triangular planting density",
+          "value": 80.0,
+          "value_max": null,
+          "unit": "trees per ¼ ha",
+          "context": "Equilateral triangular planting at 6×6×6 m.",
+          "status": "uncertain",
+          "ocr_raw": "6×6×6m 80"
+        },
+        {
+          "label": "Triangular planting spacing with fillers",
+          "value": 1.5,
+          "value_max": null,
+          "unit": "m",
+          "context": "Diagram table gives 1.5×3×3 m with 320 standing trees and 320 fillers per ¼ ha.",
+          "status": "uncertain",
+          "ocr_raw": "1.5×3×3m 320 320"
+        },
+        {
+          "label": "Triangular planting spacing with fillers",
+          "value": 2.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Diagram table gives 2×4×4 m with 178 standing trees and 178 fillers per ¼ ha.",
+          "status": "uncertain",
+          "ocr_raw": "2×4×4m 178 178"
+        },
+        {
+          "label": "Triangular planting spacing with fillers",
+          "value": 3.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Diagram table gives 3×6×6 m with 80 standing trees and 80 fillers per ¼ ha.",
+          "status": "uncertain",
+          "ocr_raw": "3×6×6m 80 80"
+        },
+        {
+          "label": "Triangular planting spacing with double fillers",
+          "value": 3.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Diagram table gives 3×3×3 m with 80 standing trees, 80 first fillers and 160 second fillers per ¼ ha.",
+          "status": "uncertain",
+          "ocr_raw": "3×3×3m 80 80 160"
+        },
+        {
+          "label": "Triangular planting spacing with double fillers",
+          "value": 4.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Diagram table gives 4×4×4 m with 44 standing trees, 44 first fillers and 88 second fillers per ¼ ha.",
+          "status": "uncertain",
+          "ocr_raw": "4×4×4m 44 44 88"
+        }
+      ],
+      "figure_refs": [
+        "1 Spacing for planting raspberries",
+        "2 Gooseberries and redcurrants together in squares",
+        "3 Triangular planting, equilateral",
+        "4 Triangular planting with fillers",
+        "5 Triangular planting with double fillers"
+      ],
+      "cross_refs": [
+        "p. 433"
+      ],
+      "keywords": [
+        "raspberries",
+        "gooseberries",
+        "redcurrants",
+        "plant spacing",
+        "triangular planting",
+        "filler trees"
+      ],
+      "tags_architectural": [
+        "modularity"
+      ],
+      "confidence": 0.82
+    },
+    {
+      "id": "4122fb96e4bd1976-450-vision-2",
+      "pdf_page": 450,
+      "book_page": 437,
+      "chapter": "EXTERNAL WORKS",
+      "section": "Vegetation",
+      "title": "Hedge forms and plant supports",
+      "summary": "Diagrams illustrate suitable and unsuitable hedge profiles, a quick-set hedge section, wire support for brambles, and raspberry cane management. The accompanying text describes tree forms and the shaping of young trees.",
+      "building_type": "Landscape planting",
+      "spaces": [
+        "Hedges",
+        "Brambles",
+        "Raspberry rows",
+        "Small gardens"
+      ],
+      "uses": [
+        "Forming and maintaining hedges",
+        "Supporting brambles",
+        "Training raspberry canes",
+        "Shaping young trees"
+      ],
+      "furniture_equipment": [
+        "Fence posts",
+        "Tension wire",
+        "Plant ties"
+      ],
+      "dimensions": [
+        {
+          "label": "Quick-set hedge width",
+          "value": 0.6,
+          "value_max": 0.8,
+          "unit": "m",
+          "context": "Width indicated at the hedge base/ditch in the quick-set hedge section.",
+          "status": "uncertain",
+          "ocr_raw": "0.60–0.80"
+        },
+        {
+          "label": "Quick-set hedge height",
+          "value": 1.2,
+          "value_max": 1.5,
+          "unit": "m",
+          "context": "Vertical height shown for the quick-set hedge.",
+          "status": "uncertain",
+          "ocr_raw": "1.20–1.50"
+        },
+        {
+          "label": "Quick-set hedge lower dimension",
+          "value": 0.5,
+          "value_max": 0.6,
+          "unit": "m",
+          "context": "Vertical dimension shown beside the ditch in the quick-set hedge section.",
+          "status": "uncertain",
+          "ocr_raw": "0.50–0.60"
+        },
+        {
+          "label": "Wire support height for brambles",
+          "value": 1.8,
+          "value_max": null,
+          "unit": "m",
+          "context": "Overall height marked beside the bramble wire-support diagram.",
+          "status": "uncertain",
+          "ocr_raw": "1.80 m"
+        },
+        {
+          "label": "Wire-support plant spacing",
+          "value": 1.5,
+          "value_max": null,
+          "unit": "m",
+          "context": "Spacing marked between plants in the bramble wire-support diagram.",
+          "status": "uncertain",
+          "ocr_raw": "1.50 m"
+        },
+        {
+          "label": "Spindle bush height",
+          "value": 40.0,
+          "value_max": 50.0,
+          "unit": "cm",
+          "context": "Height shown for a spindle bush in the tree-shapes diagram.",
+          "status": "uncertain",
+          "ocr_raw": "40–50 cm"
+        },
+        {
+          "label": "Dwarf tree height",
+          "value": 60.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Height shown for a dwarf tree in the tree-shapes diagram.",
+          "status": "uncertain",
+          "ocr_raw": "60 cm"
+        },
+        {
+          "label": "Medium-trunk tree height",
+          "value": 100.0,
+          "value_max": 120.0,
+          "unit": "cm",
+          "context": "Height shown for a medium-trunk tree in the tree-shapes diagram.",
+          "status": "uncertain",
+          "ocr_raw": "100–120 cm"
+        },
+        {
+          "label": "Raspberry cane cut-back length",
+          "value": 15.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Canes growing beyond the top supporting wire are cut back by up to this amount before bending and tying.",
+          "status": "uncertain",
+          "ocr_raw": "up to 15 cm"
+        },
+        {
+          "label": "Raspberry canes retained after harvest",
+          "value": 5.0,
+          "value_max": 8.0,
+          "unit": "canes",
+          "context": "Number of canes to leave after the harvest.",
+          "status": "uncertain",
+          "ocr_raw": "cut back to leave 5–8 canes"
+        }
+      ],
+      "figure_refs": [
+        "6 Hedge heights",
+        "7 ‘Quick-set’ hedge in North Germany",
+        "8 Wire support for brambles",
+        "10 Tree shapes for small gardens",
+        "11 Large tree while still young",
+        "12 Tree shapes for small gardens",
+        "13 Raspberries"
+      ],
+      "cross_refs": [],
+      "keywords": [
+        "hedge profile",
+        "quick-set hedge",
+        "brambles",
+        "wire support",
+        "raspberry pruning",
+        "tree forms"
+      ],
+      "tags_architectural": [
+        "safety",
+        "adaptability"
+      ],
+      "confidence": 0.78
+    }
+  ]
+}

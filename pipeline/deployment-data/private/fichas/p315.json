@@ -1,0 +1,178 @@
+{
+  "fichas": [
+    {
+      "id": "4122fb96e4bd1976-315-vision-0",
+      "pdf_page": 315,
+      "book_page": 302,
+      "chapter": "HEALTH",
+      "section": "Hospitals",
+      "title": "Operating department and associated facilities",
+      "summary": "An operating department comprises theatres and supporting patient and staff control lobbies, preparation and storage areas, waste-disposal facilities, and a nearby recovery room. Patient control includes bed transfer, operating-table preparation, and storage. The department requires replacement power. Equipment preparation for anaesthetic devices separates dirty and clean sides; operating instruments are prepared in the central sterile store outside the operating zone. A plaster room may be provided, especially for departments performing many surgical-orthopaedic operations. Staff lounges should suit department size and provide seating, cupboards, and a sink. Theatre lighting, cleanable surfaces, and controlled ventilation and pressure relationships support operating conditions.",
+      "building_type": "Hospital operating department",
+      "spaces": [
+        "Operating theatres",
+        "Staff and patient control lobbies",
+        "Instrument preparation area",
+        "Waste-disposal control lobby",
+        "Supply control lobby",
+        "Operating-trolley storage",
+        "Recovery room",
+        "Patient control lobby",
+        "Anaesthetic equipment preparation room",
+        "Central sterile store",
+        "Plaster room",
+        "Staff lounge",
+        "Entry and exit zones"
+      ],
+      "uses": [
+        "Perform surgical operations",
+        "Transfer and prepare patients and operating tables",
+        "Prepare anaesthetic devices on separate dirty and clean sides",
+        "Recover and monitor post-operative patients",
+        "Prepare operating instruments in a central sterile store",
+        "Provide staff facilities",
+        "Maintain conditioned, filtered air and pressure control"
+      ],
+      "furniture_equipment": [
+        "Operating tables",
+        "Operating trolleys",
+        "Sink",
+        "Storage",
+        "Worktop",
+        "Steam sterilisers",
+        "Plastering bench",
+        "Seating",
+        "Cupboards",
+        "Mobile ceiling-mounted operating light with satellite light",
+        "Replacement power supply",
+        "Air-conditioning system"
+      ],
+      "dimensions": [
+        {
+          "label": "Theatre count in depicted operating department",
+          "value": 10.0,
+          "value_max": null,
+          "unit": "theatres",
+          "context": "Caption identifies the illustrated operating department as having 10 theatres.",
+          "status": "verified",
+          "ocr_raw": "Operating department (1 0 theatres), first floor, Brandenburg an der Havel City\nClinic, Newbuild West"
+        },
+        {
+          "label": "Recovery beds per theatre",
+          "value": 1.5,
+          "value_max": null,
+          "unit": "beds per theatre",
+          "context": "The recovery room bed requirement is stated as 1.5 times the number of theatres.",
+          "status": "verified",
+          "ocr_raw": "The number of beds required is thus 1.5 times the\nnumber of theatres."
+        },
+        {
+          "label": "Members per theatre team",
+          "value": 8.0,
+          "value_max": null,
+          "unit": "members",
+          "context": "Assumed size of each theatre team for lounge planning.",
+          "status": "verified",
+          "ocr_raw": "Each theatre team (surgeons, anaesthetists, operating department practitioners (OOPs), theatre nurses,\nanaesthesia nurses) should be assumed to have eight members."
+        },
+        {
+          "label": "Air changes",
+          "value": 15.0,
+          "value_max": 20.0,
+          "unit": "air changes per hour",
+          "context": "Required rate for reasonable air decontamination between operations.",
+          "status": "verified",
+          "ocr_raw": "15-20 air changes are required per hour"
+        }
+      ],
+      "figure_refs": [
+        "1: Operating department (10 theatres), first floor, Brandenburg an der Havel City Clinic, Newbuild West",
+        "2: Large operating theatre with associated entry and exit zones"
+      ],
+      "cross_refs": [],
+      "keywords": [
+        "operating department",
+        "operating theatre",
+        "recovery room",
+        "anaesthetic equipment",
+        "sterile store",
+        "air conditioning",
+        "post-operative monitoring"
+      ],
+      "tags_architectural": [
+        "circulation",
+        "safety",
+        "ventilation"
+      ],
+      "confidence": 0.94
+    },
+    {
+      "id": "4122fb96e4bd1976-315-vision-1",
+      "pdf_page": 315,
+      "book_page": 302,
+      "chapter": "HEALTH",
+      "section": "Hospitals",
+      "title": "Large operating theatre with associated entry and exit zones",
+      "summary": "The illustrated large operating theatre is arranged with associated entry and exit zones. Natural lighting is advantageous psychologically but may be impractical; artificial operating light should reach the work area from directions suited to the incision layout. The theatre should have flat, easily washable floors and walls. Ventilation should avoid uncontrolled air intake, with the operating theatre at the highest pressure and subsidiary and functional rooms at the lowest pressure. Theatre windows should be lockable.",
+      "building_type": "Hospital operating theatre",
+      "spaces": [
+        "Operating theatre",
+        "Entry and exit zones",
+        "Corridor",
+        "Wash places"
+      ],
+      "uses": [
+        "Perform operations",
+        "Provide controlled entry and exit",
+        "Maintain suitable lighting, hygienic surfaces, and air pressure"
+      ],
+      "furniture_equipment": [
+        "Operating tables",
+        "Mobile ceiling-mounted operating light",
+        "Swivelling ceiling light",
+        "Satellite light",
+        "Air-conditioning and ventilation system",
+        "Lockable windows"
+      ],
+      "dimensions": [
+        {
+          "label": "Plan dimension",
+          "value": 6.4,
+          "value_max": null,
+          "unit": "unspecified",
+          "context": "Dimension marked on the operating department plan; the drawing shows 6.40 on a horizontal dimension line.",
+          "status": "verified",
+          "ocr_raw": "f-6.40--f"
+        },
+        {
+          "label": "Plan dimension",
+          "value": 6.4,
+          "value_max": null,
+          "unit": "unspecified",
+          "context": "Dimension marked on the operating department plan; the drawing shows 6.40 on a vertical dimension line.",
+          "status": "verified",
+          "ocr_raw": "f-6.40--f"
+        }
+      ],
+      "figure_refs": [
+        "2: Large operating theatre with associated entry and exit zones"
+      ],
+      "cross_refs": [],
+      "keywords": [
+        "operating theatre",
+        "entry and exit zones",
+        "operating light",
+        "air pressure",
+        "ventilation",
+        "washable surfaces"
+      ],
+      "tags_architectural": [
+        "circulation",
+        "safety",
+        "ventilation",
+        "daylighting"
+      ],
+      "confidence": 0.79
+    }
+  ]
+}

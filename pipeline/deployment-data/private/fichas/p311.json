@@ -1,0 +1,617 @@
+{
+  "fichas": [
+    {
+      "id": "4122fb96e4bd1976-311-vision-0",
+      "pdf_page": 311,
+      "book_page": 298,
+      "chapter": "HEALTH",
+      "section": "Hospitals",
+      "title": "Outpatient Medical Centre – Example",
+      "summary": "Two-floor outpatient medical centre at the Oskar-Ziethen Hospital in Berlin-Lichtenberg. The 1st-floor plan includes operating rooms and associated preparation, recovery, waiting, staff, service, and treatment spaces. The 2nd-floor plan includes examination and treatment, care, administration, social, supply, and technical spaces. Architect: Deubzer König Architekten.",
+      "building_type": "Outpatient medical centre",
+      "spaces": [
+        "Operating rooms",
+        "Operating theatre",
+        "Instrument preparation",
+        "Operating-room washing",
+        "Preparation and post-op rooms",
+        "Recovery room",
+        "Patient vestibule",
+        "Staff vestibule",
+        "Waiting rooms",
+        "Reception and waiting",
+        "Consulting rooms",
+        "Treatment rooms",
+        "Pain outpatient room",
+        "Disinfection room",
+        "Sterile goods store",
+        "Stores",
+        "Waste disposal rooms and vestibules",
+        "Services rooms",
+        "Doctor's room",
+        "Staff social rooms",
+        "Changing rooms",
+        "Records and server room",
+        "Nurse's station and monitoring",
+        "Bicycle ergometer room",
+        "Gymnastics rooms",
+        "Rest room",
+        "Functional diagnosis room",
+        "Diet kitchen",
+        "Seminar room",
+        "Patient rooms",
+        "Patient lounges",
+        "Reception, access and café",
+        "Investigation and treatment room",
+        "Laundry",
+        "Staff changing room"
+      ],
+      "uses": [
+        "Outpatient medical consultations and treatment",
+        "Surgical operations and related preparation, anaesthesia, recovery, and monitoring",
+        "Examination and functional diagnosis",
+        "Patient waiting and recovery",
+        "Staff support and social facilities",
+        "Storage, sterilization, supply, and waste disposal",
+        "Technical services"
+      ],
+      "furniture_equipment": [
+        "Bicycle ergometer",
+        "Operating-room equipment",
+        "Monitoring equipment"
+      ],
+      "dimensions": [
+        {
+          "label": "Services – ventilation",
+          "value": 32.0,
+          "value_max": null,
+          "unit": "m²",
+          "context": "1st floor; room area",
+          "status": "verified",
+          "ocr_raw": "Services -ventilation 32 m2"
+        },
+        {
+          "label": "Instrument preparation",
+          "value": 6.0,
+          "value_max": null,
+          "unit": "m²",
+          "context": "1st floor; room area",
+          "status": "verified",
+          "ocr_raw": "Instrument preparation 6 m2"
+        },
+        {
+          "label": "Preparation, post-op room",
+          "value": 19.0,
+          "value_max": null,
+          "unit": "m²",
+          "context": "1st floor; room area",
+          "status": "verified",
+          "ocr_raw": "Preparation, post-op room 19 rn2"
+        },
+        {
+          "label": "Store",
+          "value": 8.0,
+          "value_max": null,
+          "unit": "m²",
+          "context": "1st floor; room area",
+          "status": "verified",
+          "ocr_raw": "Store 8m2"
+        },
+        {
+          "label": "Staff vestibule",
+          "value": 6.0,
+          "value_max": null,
+          "unit": "m²",
+          "context": "1st floor; room area",
+          "status": "verified",
+          "ocr_raw": "Staff vestibule 6 rn2"
+        },
+        {
+          "label": "Reception/waiting",
+          "value": 55.0,
+          "value_max": null,
+          "unit": "m²",
+          "context": "1st floor; room area",
+          "status": "verified",
+          "ocr_raw": "Reception/waiting 55 m2"
+        },
+        {
+          "label": "Records, server",
+          "value": 15.0,
+          "value_max": null,
+          "unit": "m²",
+          "context": "1st floor; room area",
+          "status": "verified",
+          "ocr_raw": "Records, server 15m2"
+        },
+        {
+          "label": "Consulting room",
+          "value": 13.0,
+          "value_max": null,
+          "unit": "m²",
+          "context": "1st floor; approximate room area",
+          "status": "verified",
+          "ocr_raw": "Consulting roorn approx. 13 m2"
+        },
+        {
+          "label": "Writing room",
+          "value": 13.0,
+          "value_max": null,
+          "unit": "m²",
+          "context": "1st floor; room area",
+          "status": "verified",
+          "ocr_raw": "Writing room 13 m2"
+        },
+        {
+          "label": "Staff social room",
+          "value": 14.0,
+          "value_max": null,
+          "unit": "m²",
+          "context": "1st floor; room area",
+          "status": "verified",
+          "ocr_raw": "Staff social room 14 m2"
+        },
+        {
+          "label": "Waste disposal vestibule",
+          "value": 8.0,
+          "value_max": null,
+          "unit": "m²",
+          "context": "1st floor; room area",
+          "status": "verified",
+          "ocr_raw": "Waste disposal vestibule 8 m2"
+        },
+        {
+          "label": "Sterile goods store",
+          "value": 50.0,
+          "value_max": null,
+          "unit": "m²",
+          "context": "1st floor; room area",
+          "status": "verified",
+          "ocr_raw": "Sterile goods store 50 m2"
+        },
+        {
+          "label": "Waste disposal",
+          "value": 6.0,
+          "value_max": null,
+          "unit": "m²",
+          "context": "1st floor; room area",
+          "status": "verified",
+          "ocr_raw": "Waste disposal 6 m2"
+        },
+        {
+          "label": "Services – electricity",
+          "value": 7.0,
+          "value_max": null,
+          "unit": "m²",
+          "context": "1st floor; room area",
+          "status": "verified",
+          "ocr_raw": "Services - electricity 7 m2"
+        },
+        {
+          "label": "Devices operations",
+          "value": 12.0,
+          "value_max": null,
+          "unit": "m²",
+          "context": "1st floor; approximate room area",
+          "status": "verified",
+          "ocr_raw": "Devices operations approx. 12m2"
+        },
+        {
+          "label": "Operating room, washing",
+          "value": 15.0,
+          "value_max": null,
+          "unit": "m²",
+          "context": "1st floor; room area",
+          "status": "verified",
+          "ocr_raw": "Operating room, washing 15 rn 2"
+        },
+        {
+          "label": "Doctor's room",
+          "value": 15.0,
+          "value_max": null,
+          "unit": "m²",
+          "context": "1st floor; room area",
+          "status": "verified",
+          "ocr_raw": "Doctor's room 15 m2"
+        },
+        {
+          "label": "Operating room",
+          "value": 7.0,
+          "value_max": null,
+          "unit": "m²",
+          "context": "1st floor; room area",
+          "status": "verified",
+          "ocr_raw": "Operating room 7 m2"
+        },
+        {
+          "label": "Washing",
+          "value": 7.0,
+          "value_max": null,
+          "unit": "m²",
+          "context": "1st floor; room area",
+          "status": "verified",
+          "ocr_raw": "Washing 7 m2"
+        },
+        {
+          "label": "Waste disposal vestibule",
+          "value": 7.0,
+          "value_max": null,
+          "unit": "m²",
+          "context": "1st floor; room area",
+          "status": "verified",
+          "ocr_raw": "Waste disposal vestibule 7 m2"
+        },
+        {
+          "label": "Patient vestibule",
+          "value": 19.0,
+          "value_max": null,
+          "unit": "m²",
+          "context": "1st floor; room area",
+          "status": "verified",
+          "ocr_raw": "Patient vestibule 19 m2"
+        },
+        {
+          "label": "Recovery room",
+          "value": 40.0,
+          "value_max": null,
+          "unit": "m²",
+          "context": "1st floor; room area; marked for 4 places",
+          "status": "verified",
+          "ocr_raw": "Recovery room (4 places) 40m2"
+        },
+        {
+          "label": "Sedation",
+          "value": 10.0,
+          "value_max": null,
+          "unit": "m²",
+          "context": "1st floor; room area",
+          "status": "verified",
+          "ocr_raw": "Sedation 1o m2"
+        },
+        {
+          "label": "Regional anaesthesia",
+          "value": 19.0,
+          "value_max": null,
+          "unit": "m²",
+          "context": "1st floor; room area",
+          "status": "verified",
+          "ocr_raw": "Regional anaesthesia 19 m2"
+        },
+        {
+          "label": "Post-op room",
+          "value": 110.0,
+          "value_max": null,
+          "unit": "m²",
+          "context": "1st floor; room area; marked for 12 places",
+          "status": "verified",
+          "ocr_raw": "Post-op room (12 places) 110m2"
+        },
+        {
+          "label": "Nurse's station, monitoring",
+          "value": 17.0,
+          "value_max": null,
+          "unit": "m²",
+          "context": "1st floor; room area",
+          "status": "verified",
+          "ocr_raw": "Nurse's station, monitoring 17 m2"
+        },
+        {
+          "label": "Waiting, outpatient operations",
+          "value": 23.0,
+          "value_max": null,
+          "unit": "m²",
+          "context": "1st floor; room area",
+          "status": "verified",
+          "ocr_raw": "Waiting, outpatient operations 23 rn2"
+        },
+        {
+          "label": "Disinfection room",
+          "value": 14.0,
+          "value_max": null,
+          "unit": "m²",
+          "context": "1st floor; room area",
+          "status": "verified",
+          "ocr_raw": "Disinfection room 14m2"
+        },
+        {
+          "label": "Staff social room",
+          "value": 14.0,
+          "value_max": null,
+          "unit": "m²",
+          "context": "1st floor; room area",
+          "status": "verified",
+          "ocr_raw": "Staff social room 14 rn 2"
+        },
+        {
+          "label": "Isolation room",
+          "value": 8.0,
+          "value_max": null,
+          "unit": "m²",
+          "context": "1st floor; room area",
+          "status": "verified",
+          "ocr_raw": "Isolation room 8 m2"
+        },
+        {
+          "label": "Waiting room",
+          "value": 17.0,
+          "value_max": null,
+          "unit": "m²",
+          "context": "1st floor; room area",
+          "status": "verified",
+          "ocr_raw": "Waiting roorn 17m2"
+        },
+        {
+          "label": "Operations vestibule",
+          "value": 14.0,
+          "value_max": null,
+          "unit": "m²",
+          "context": "1st floor; room area",
+          "status": "verified",
+          "ocr_raw": "Operations vestibule 14 m2"
+        },
+        {
+          "label": "Treatment",
+          "value": 12.0,
+          "value_max": null,
+          "unit": "m²",
+          "context": "1st floor; room area",
+          "status": "verified",
+          "ocr_raw": "Treatment 12m2"
+        },
+        {
+          "label": "Pain, outpatients",
+          "value": 16.0,
+          "value_max": null,
+          "unit": "m²",
+          "context": "1st floor; room area",
+          "status": "verified",
+          "ocr_raw": "Pain, outpatients 16 m2"
+        },
+        {
+          "label": "Office",
+          "value": 15.0,
+          "value_max": null,
+          "unit": "m²",
+          "context": "1st floor; room area",
+          "status": "verified",
+          "ocr_raw": "Office 15m2"
+        },
+        {
+          "label": "Bicycle ergometer",
+          "value": 36.0,
+          "value_max": null,
+          "unit": "m²",
+          "context": "2nd floor; room area",
+          "status": "verified",
+          "ocr_raw": "Bicycle ergometer 36 m2"
+        },
+        {
+          "label": "Group gymnastics",
+          "value": 58.0,
+          "value_max": null,
+          "unit": "m²",
+          "context": "2nd floor; room area",
+          "status": "verified",
+          "ocr_raw": "Group gymnastics 58 m2"
+        },
+        {
+          "label": "Nurse / emergency",
+          "value": 24.0,
+          "value_max": null,
+          "unit": "m²",
+          "context": "2nd floor; room area",
+          "status": "verified",
+          "ocr_raw": "HOSPITALS\nOutpatient Medical Centre - Example\n\nCD Operating room\n® Services -ventilation 32 m2\n® Instrument preparation 6 m2\nG) Internal corridor\n\n® Preparation, post-op room 19 rn2\n®Store 8m2\n\n(!) Staff vestibule 6 rn2\n\n® Reception/waiting 55 m2\n\n@ Records, server 15m2\n@ Consulting roorn approx. 13 m2\n@ Writing room 13 m2\n@ Staff social room 14 m2\n@ Waste disposal vestibule 8 m2\n@ Sterile goods store 50 m2\n\n® Waste disposal 6 m2\n\n@ Services - electricity 7 m2\n@ Devices operations approx. 12m2\n@ Operating room, washing 15 rn 2\n\n® Changing room\n\n@ Doctor's room 15 m2\n\n@ Operating room 7 m2\n\n@ Operating theatre\n@ Washing 7 m2\nI§ Waste disposal vestibule 7 m2\n@ Patient vestibule 19 m2\n@ Recovery room (4 places) 40m2\n@ Sedation 1o m2\n@ Regional anaesthesia 19 m2\n@ Post-op room (12 places) 110m2\n@ Nurse's station, monitoring 17 m2\n\n® Waiting, outpatient operations 23 rn2\n\n@ Disinfection room 14m2\n\n@ Staff social room 14 rn 2\n@Isolation room 8 m2\n@ Waiting roorn 17m2\n@ Operations vestibule 14 m2\nTreatment 12m2\nPain, outpatients 16 m2\n@Office 15m2\n@ Consulting roorn\n\n®\n®\n\n2nd floor\nGeneral, modular\ngrid\nBuilding design\nExamples\nCorridors, doors,\nstairs, lifts\nOperational\nareas\nOutpatient area\nOutpatient\nmedical centreexample\n\n1\n\nExamination and\ntreatment\n\nCare\nAdministration,\nsocial services\nSupply and waste\ndisposal\nTechnical supply\n\nCD Bicycle ergometer 36 m2\n® Single gymnastics\n® Group gymnastics 58 m2\n\n@ Nurse I emergency 24 m2\n\n® Doctor 24 m2\n\n(!) Rest room 25 rn 2\n\n@ Functional diagnosis 15 m2\n@ Secretary 11 m2\n@ Reception I access I cafe 51 m2\n@ Changing room approx. 9 m2\n@ 2-bed roorn approx. 23 m2\n\n@Store\nDiet kitchen I staff social 21 rn2\n\n@ Staff social 12 m 2\n\nG) 1-bed room approx. 13 m2\n® Consulting 18 m2\n® Seminar room 27 m2\n\n®\n\n@Suite 23m2\n\n0 Medical centre at the Oskar-Ziethen Hospital, Berlin-Lichtenberg\n298\n\n@ Patient lounge smokers 12 m2\n@ Patient lounge 22 m2\n@Equipment\n\n@ Supply room 6 m2\n@ Disposal room 5 V\nI§ Reception I monitoring 18 m2\n@ Investigation & treatment 18 m2\n@ Laundry 5 m2\n@ Staff changing approx. 11 m2\nArch.: Deubzer Konig Architekten\n\n\f"
+        },
+        {
+          "label": "Doctor",
+          "value": 24.0,
+          "value_max": null,
+          "unit": "m²",
+          "context": "2nd floor; room area",
+          "status": "verified",
+          "ocr_raw": "Doctor 24 m2"
+        },
+        {
+          "label": "Rest room",
+          "value": 25.0,
+          "value_max": null,
+          "unit": "m²",
+          "context": "2nd floor; room area",
+          "status": "verified",
+          "ocr_raw": "Rest room 25 rn 2"
+        },
+        {
+          "label": "Functional diagnosis",
+          "value": 15.0,
+          "value_max": null,
+          "unit": "m²",
+          "context": "2nd floor; room area",
+          "status": "verified",
+          "ocr_raw": "Functional diagnosis 15 m2"
+        },
+        {
+          "label": "Secretary",
+          "value": 11.0,
+          "value_max": null,
+          "unit": "m²",
+          "context": "2nd floor; room area",
+          "status": "verified",
+          "ocr_raw": "Secretary 11 m2"
+        },
+        {
+          "label": "Reception / access / cafe",
+          "value": 51.0,
+          "value_max": null,
+          "unit": "m²",
+          "context": "2nd floor; room area",
+          "status": "verified",
+          "ocr_raw": "Reception I access I cafe 51 m2"
+        },
+        {
+          "label": "Changing room",
+          "value": 9.0,
+          "value_max": null,
+          "unit": "m²",
+          "context": "2nd floor; approximate room area",
+          "status": "verified",
+          "ocr_raw": "Changing room approx. 9 m2"
+        },
+        {
+          "label": "2-bed room",
+          "value": 23.0,
+          "value_max": null,
+          "unit": "m²",
+          "context": "2nd floor; approximate room area",
+          "status": "verified",
+          "ocr_raw": "2-bed roorn approx. 23 m2"
+        },
+        {
+          "label": "Diet kitchen / staff social",
+          "value": 21.0,
+          "value_max": null,
+          "unit": "m²",
+          "context": "2nd floor; room area",
+          "status": "verified",
+          "ocr_raw": "Diet kitchen I staff social 21 rn2"
+        },
+        {
+          "label": "Staff social",
+          "value": 12.0,
+          "value_max": null,
+          "unit": "m²",
+          "context": "2nd floor; room area",
+          "status": "verified",
+          "ocr_raw": "Staff social 12 m 2"
+        },
+        {
+          "label": "1-bed room",
+          "value": 13.0,
+          "value_max": null,
+          "unit": "m²",
+          "context": "2nd floor; approximate room area",
+          "status": "verified",
+          "ocr_raw": "1-bed room approx. 13 m2"
+        },
+        {
+          "label": "Consulting",
+          "value": 18.0,
+          "value_max": null,
+          "unit": "m²",
+          "context": "2nd floor; room area",
+          "status": "verified",
+          "ocr_raw": "Consulting 18 m2"
+        },
+        {
+          "label": "Seminar room",
+          "value": 27.0,
+          "value_max": null,
+          "unit": "m²",
+          "context": "2nd floor; room area",
+          "status": "verified",
+          "ocr_raw": "Seminar room 27 m2"
+        },
+        {
+          "label": "Suite",
+          "value": 23.0,
+          "value_max": null,
+          "unit": "m²",
+          "context": "2nd floor; room area",
+          "status": "verified",
+          "ocr_raw": "Suite 23m2"
+        },
+        {
+          "label": "Staff social",
+          "value": 12.0,
+          "value_max": null,
+          "unit": "m²",
+          "context": "2nd floor; room area",
+          "status": "verified",
+          "ocr_raw": "Staff social 12 m 2"
+        },
+        {
+          "label": "Patient lounge smokers",
+          "value": 12.0,
+          "value_max": null,
+          "unit": "m²",
+          "context": "2nd floor; room area",
+          "status": "verified",
+          "ocr_raw": "Patient lounge smokers 12 m2"
+        },
+        {
+          "label": "Patient lounge",
+          "value": 22.0,
+          "value_max": null,
+          "unit": "m²",
+          "context": "2nd floor; room area",
+          "status": "verified",
+          "ocr_raw": "Patient lounge 22 m2"
+        },
+        {
+          "label": "Supply room",
+          "value": 6.0,
+          "value_max": null,
+          "unit": "m²",
+          "context": "2nd floor; room area",
+          "status": "verified",
+          "ocr_raw": "Supply room 6 m2"
+        },
+        {
+          "label": "Reception / monitoring",
+          "value": 18.0,
+          "value_max": null,
+          "unit": "m²",
+          "context": "2nd floor; room area",
+          "status": "verified",
+          "ocr_raw": "Reception I monitoring 18 m2"
+        },
+        {
+          "label": "Investigation & treatment",
+          "value": 18.0,
+          "value_max": null,
+          "unit": "m²",
+          "context": "2nd floor; room area",
+          "status": "verified",
+          "ocr_raw": "Investigation & treatment 18 m2"
+        },
+        {
+          "label": "Laundry",
+          "value": 5.0,
+          "value_max": null,
+          "unit": "m²",
+          "context": "2nd floor; room area",
+          "status": "verified",
+          "ocr_raw": "Laundry 5 m2"
+        },
+        {
+          "label": "Staff changing",
+          "value": 11.0,
+          "value_max": null,
+          "unit": "m²",
+          "context": "2nd floor; approximate room area",
+          "status": "verified",
+          "ocr_raw": "Staff changing approx. 11 m2"
+        }
+      ],
+      "figure_refs": [
+        "1 — Medical centre at the Oskar-Ziethen Hospital, Berlin-Lichtenberg"
+      ],
+      "cross_refs": [],
+      "keywords": [
+        "hospital",
+        "outpatient medical centre",
+        "operating theatre",
+        "recovery",
+        "consulting",
+        "examination",
+        "treatment",
+        "floor plan"
+      ],
+      "tags_architectural": [
+        "circulation",
+        "spatial_proportion"
+      ],
+      "confidence": 0.92
+    }
+  ]
+}

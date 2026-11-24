@@ -1,0 +1,422 @@
+{
+  "fichas": [
+    {
+      "id": "4122fb96e4bd1976-37-vision-0",
+      "pdf_page": 37,
+      "book_page": 24,
+      "chapter": "BASICS",
+      "section": "Accessible Building",
+      "title": "Housing suitable for wheelchair users",
+      "summary": "Housing should allow wheelchair users to reach and use all rooms and shared facilities as independently as possible. The text specifies turning space, entrance and lobby sizes, a low-parapet window, and an entry phone for blind residents.",
+      "building_type": "Accessible housing",
+      "spaces": [
+        "Dwelling rooms",
+        "Shared residential areas",
+        "Entrance hall",
+        "Entrance lobby",
+        "Living room"
+      ],
+      "uses": [
+        "Independent movement and access for wheelchair users",
+        "Turning a wheelchair",
+        "Providing a clear view through a living-room window",
+        "Supporting blind residents at the entrance"
+      ],
+      "furniture_equipment": [
+        "Entry phone"
+      ],
+      "dimensions": [
+        {
+          "label": "Wheelchair turning area",
+          "value": 1.5,
+          "value_max": null,
+          "unit": "m²",
+          "context": "Minimum area needed for a wheelchair user to turn 180°.",
+          "status": "verified",
+          "ocr_raw": "In order to turn 180°, a wheelchair user requires at least 1.50 m2"
+        },
+        {
+          "label": "Entrance hall",
+          "value": 1.5,
+          "value_max": null,
+          "unit": "m",
+          "context": "Minimum dimensions; the text gives 1.50 × 1.50 m.",
+          "status": "verified",
+          "ocr_raw": "The minimum area of an entrance hall should be 1.50 x 1.50 m"
+        },
+        {
+          "label": "Entrance hall",
+          "value": 1.5,
+          "value_max": null,
+          "unit": "m",
+          "context": "Minimum dimensions; the text gives 1.50 × 1.50 m.",
+          "status": "verified",
+          "ocr_raw": "The minimum area of an entrance hall should be 1.50 x 1.50 m"
+        },
+        {
+          "label": "Entrance lobby with a single-leaf door",
+          "value": 1.7,
+          "value_max": null,
+          "unit": "m",
+          "context": "Minimum dimensions; the text gives 1.70 × 1.60 m.",
+          "status": "verified",
+          "ocr_raw": "an entrance lobby with a single-leaf door 1.70 x 1.60 m"
+        },
+        {
+          "label": "Entrance lobby with a single-leaf door",
+          "value": 1.6,
+          "value_max": null,
+          "unit": "m",
+          "context": "Minimum dimensions; the text gives 1.70 × 1.60 m.",
+          "status": "verified",
+          "ocr_raw": "an entrance lobby with a single-leaf door 1.70 x 1.60 m"
+        },
+        {
+          "label": "Window parapet height",
+          "value": 60.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "A window with a clear view from this parapet height should be provided in at least one living room.",
+          "status": "verified",
+          "ocr_raw": "A window\nwith a clear view from a parapet height of 60 em should be provided"
+        }
+      ],
+      "figure_refs": [
+        "1",
+        "2",
+        "3"
+      ],
+      "cross_refs": [
+        "BS 8300",
+        "DD 266",
+        "DIN 18024",
+        "DIN 18025",
+        "MBO"
+      ],
+      "keywords": [
+        "wheelchair users",
+        "accessible housing",
+        "entrance",
+        "turning space",
+        "independent access"
+      ],
+      "tags_architectural": [
+        "accessibility",
+        "circulation",
+        "clearance"
+      ],
+      "confidence": 0.97
+    },
+    {
+      "id": "4122fb96e4bd1976-37-vision-1",
+      "pdf_page": 37,
+      "book_page": 24,
+      "chapter": "BASICS",
+      "section": "Accessible Building",
+      "title": "Living and open-air seating areas",
+      "summary": "Living rooms should provide wheelchair movement space and room for at least two visiting wheelchair users. The page gives minimum living-area floor sizes by household size, a minimum room width for smaller households, and minimum dimensions for an outdoor seating area and its movement area.",
+      "building_type": "Accessible housing",
+      "spaces": [
+        "Living room",
+        "Dining area",
+        "Terrace",
+        "Loggia",
+        "Balcony"
+      ],
+      "uses": [
+        "Living and dining",
+        "Accommodating wheelchair users and visitors",
+        "Outdoor seating and wheelchair manoeuvring"
+      ],
+      "furniture_equipment": [
+        "Dining table",
+        "Seating"
+      ],
+      "dimensions": [
+        {
+          "label": "Living area for one person",
+          "value": 22.0,
+          "value_max": null,
+          "unit": "m²",
+          "context": "Minimum floor area for a flat for one person with an eating area.",
+          "status": "verified",
+          "ocr_raw": "in a flat for one person 22 m2"
+        },
+        {
+          "label": "Living area for 2–4 people",
+          "value": 24.0,
+          "value_max": null,
+          "unit": "m²",
+          "context": "Minimum floor area for a flat for 2–4 people with an eating area.",
+          "status": "verified",
+          "ocr_raw": "for 2-4 people 24 m2"
+        },
+        {
+          "label": "Living area for five people",
+          "value": 26.0,
+          "value_max": null,
+          "unit": "m²",
+          "context": "Minimum floor area for a flat for five people with an eating area.",
+          "status": "verified",
+          "ocr_raw": "for five people 26 m 2"
+        },
+        {
+          "label": "Living area for six people",
+          "value": 28.0,
+          "value_max": null,
+          "unit": "m²",
+          "context": "Minimum floor area for a flat for six people with an eating area.",
+          "status": "verified",
+          "ocr_raw": "for six people\n28m 2"
+        },
+        {
+          "label": "Minimum room width",
+          "value": 3.75,
+          "value_max": null,
+          "unit": "m",
+          "context": "For a 1–2 person household.",
+          "status": "verified",
+          "ocr_raw": "minimum room width 3.75 m (1-2 person household)."
+        },
+        {
+          "label": "Open-air seating area",
+          "value": 4.5,
+          "value_max": null,
+          "unit": "m²",
+          "context": "Minimum size of a terrace, loggia or balcony.",
+          "status": "verified",
+          "ocr_raw": "with a min. size 4.5 m2"
+        },
+        {
+          "label": "Outdoor movement area width",
+          "value": 1.5,
+          "value_max": null,
+          "unit": "m",
+          "context": "Minimum width of the movement area at the open-air seating area.",
+          "status": "verified",
+          "ocr_raw": "The\nmovement area must be min. 1.50 m wide and 1.50 m deep"
+        },
+        {
+          "label": "Outdoor movement area depth",
+          "value": 1.5,
+          "value_max": null,
+          "unit": "m",
+          "context": "Minimum depth of the movement area at the open-air seating area.",
+          "status": "verified",
+          "ocr_raw": "The\nmovement area must be min. 1.50 m wide and 1.50 m deep"
+        },
+        {
+          "label": "Additional living space",
+          "value": 15.0,
+          "value_max": null,
+          "unit": "m²",
+          "context": "The floor area of a flat is normally increased by about this amount when additional living space is required for a wheelchair user.",
+          "status": "verified",
+          "ocr_raw": "The floor area of a flat is normally increased by\nabout 15 m 2 by this requirement."
+        },
+        {
+          "label": "Living room for 4–5 people with dining area",
+          "value": 23.75,
+          "value_max": null,
+          "unit": "m²",
+          "context": "Area stated in the figure caption.",
+          "status": "verified",
+          "ocr_raw": "Living room with dining area for\n4-5 people (23.75 m2)"
+        }
+      ],
+      "figure_refs": [
+        "5",
+        "6",
+        "7",
+        "8"
+      ],
+      "cross_refs": [],
+      "keywords": [
+        "living area",
+        "wheelchair access",
+        "outdoor seating",
+        "floor area",
+        "movement area"
+      ],
+      "tags_architectural": [
+        "accessibility",
+        "clearance",
+        "ergonomics",
+        "spatial_proportion"
+      ],
+      "confidence": 0.98
+    },
+    {
+      "id": "4122fb96e4bd1976-37-vision-2",
+      "pdf_page": 37,
+      "book_page": 24,
+      "chapter": "BASICS",
+      "section": "Accessible Building",
+      "title": "Accessible dwelling layouts and entrance details",
+      "summary": "The sheet illustrates entrance arrangements, dining layouts, accessible flat plans, an extension with a ramp, and installation of a vertical lift. Plan captions identify single-room and two-room flats and accessible flats in buildings with different numbers of flats per floor. Dimensions are included where explicitly legible in the supplied text or drawings.",
+      "building_type": "Accessible residential building",
+      "spaces": [
+        "Entrance area",
+        "Entrance lobby",
+        "Dining area",
+        "Single-room flat",
+        "Two-room flat",
+        "Accessible extension",
+        "Terrace",
+        "Kitchen",
+        "Bathroom",
+        "Living room",
+        "Bedroom"
+      ],
+      "uses": [
+        "Accessible entry and circulation",
+        "Dining",
+        "Wheelchair-adapted dwelling layouts",
+        "Overcoming a level difference with a ramp",
+        "Vertical access by lift"
+      ],
+      "furniture_equipment": [
+        "Coat rack",
+        "Storage shelf",
+        "Wardrobe",
+        "Dining table",
+        "Vertical lift"
+      ],
+      "dimensions": [
+        {
+          "label": "Entrance hall plan dimension",
+          "value": 1.4,
+          "value_max": null,
+          "unit": "m",
+          "context": "Dimension shown in the transverse entrance-area drawing.",
+          "status": "verified",
+          "ocr_raw": "J-1.40 -t-- 80 -+50-j40l"
+        },
+        {
+          "label": "Entrance lobby with double-leaf door",
+          "value": 2.25,
+          "value_max": null,
+          "unit": "m",
+          "context": "Dimension marked on the entrance-lobby drawing.",
+          "status": "verified",
+          "ocr_raw": "r\n\n~~~~~9e shelf\nletterbox\n\nACCESSIBLE BUILDING\nAccessible Housing\n\nACCESSIBLE\nBUILDING\n\nDimensions for\nwheelchair users\nAccessible public\nbuildings\nAccessible\nhousing\n\nBS 8300\n00266\nDIN 18024\nDIN 18025\n\n0 Deep entrance area with coat rack 0 Transverse layout of entrance area\n\nMBO\n\nJ---3.10----l\n\n~!I IJ[Jc II\nJ-1.40 -t-- 80 -+50-j40l\n\n8\n\nEntrance lobby with double-leaf\ndoor\n\ne\n\nJ-1.40-+B0-+--90-J\nDining area layout for two or four\npeople\n\n6\n\nt\"'\n0\n\n<0\n\n..L\n\n0 Plan of open-air seating area\n\n0 area\n\nElevation of open-air seating\n\nHousing suitable for wheelchairs\nWheelchair users must be able to travel into all the rooms of a\ndwelling, and into all rooms available to the residents of a house in\ncommon, and to use all facilities. The wheelchair user must be in\na position to be mostly independent of outside help. This applies\nnotably to the blind and visually impaired, the deaf and hearingimpaired, the physically disabled, old people, children and people\nof exceptionally short or tall stature.\nIn order to turn 180°, a wheelchair user requires at least 1.50 m2\n~ 0 + f). This space requirement determines the size of, and\nmovement area in, corridors, rooms, garages etc. In residential\napartment blocks, access through corridors or hallways is the most\nfrequent arrangement. In this case, angles and corners are to be\navoided as far as possible; a straight access corridor is suitable.\nThe minimum area of an entrance hall should be 1.50 x 1.50 m, and\nan entrance lobby with a single-leaf door 1.70 x 1.60 m. A window\nwith a clear view from a parapet height of 60 em should be provided\nin at least one living room of a dwelling. An entry phone at the flat or\nhouse door is an important item of equipment for a blind resident.\nLiving area\nAdequate freedom of movement for wheelchair users is important\nin living rooms. There should also be room for at least two further\nwheelchair users as visitors. For a living room with an eating area,\nthe minimum floor area should be: in a flat for one person 22 m2 ,\nfor 2-4 people 24 m2 , for five people 26 m 2 and for six people\n28m 2 ; minimum room width 3.75 m (1-2 person household).\nOpen-air seating area\nEvery dwelling should be provided with an open-air seating area\nsuch as a terrace, loggia or balcony with a min. size 4.5 m2 • The\nmovement area must be min. 1.50 m wide and 1.50 m deep~ 0.\nAdditional living space\nAdditional living space should be provided for every wheelchair\nuser if required. The floor area of a flat is normally increased by\nabout 15 m 2 by this requirement.\n\n1----- 4.75 - - - j\n1--<:; 3.75-----1\n\nI §[i'~ T\n\n~~r----~o)\nI\n\n0\n\nI\n\n10\n\n!_ _____ :\n\n0\n0\n\n<d\n\nD\n1__\nI\nI\n\n0_\n\nI\nI\n\nI\n\nI\n\nI\n\n:\n\n,;\n\nt\nD ~~\n\n1\nl e\n0\n\n10\n\n<d\n\nf) Living room for 1-2 people\n\nhouse; ramp to overcome level\ndifference\n\n10\n\n\"',..:\n\n0\n\n00\n00\n\n<q\n\n1\n\n_l_\n\nf5s!-- 2.oo-+- 1.80 ---t-1\nf - - - 4.75 ------j\n\nLiving room with dining area for\n4-5 people (23.75 m2)\n\nCD Accessible extension to two-family 4f) Installation of an accessible\n\n24\n\nI\n\n\\\n\nvertical lift\n\nSingle-room flat for wheelchair user\n(40--45 m 2)\n\nG) Accessible flat for three people in a\nblock with two flats per floor\n\n~Kitchen\n\nCii) Two-room flat (50--55 m')\n\n0 Accessible flat for four people in a\nblock with three flats per floor\n\n\f"
+        },
+        {
+          "label": "Entrance lobby with double-leaf door",
+          "value": 2.2,
+          "value_max": null,
+          "unit": "m",
+          "context": "Dimension marked on the entrance-lobby drawing.",
+          "status": "verified",
+          "ocr_raw": "r\n\n~~~~~9e shelf\nletterbox\n\nACCESSIBLE BUILDING\nAccessible Housing\n\nACCESSIBLE\nBUILDING\n\nDimensions for\nwheelchair users\nAccessible public\nbuildings\nAccessible\nhousing\n\nBS 8300\n00266\nDIN 18024\nDIN 18025\n\n0 Deep entrance area with coat rack 0 Transverse layout of entrance area\n\nMBO\n\nJ---3.10----l\n\n~!I IJ[Jc II\nJ-1.40 -t-- 80 -+50-j40l\n\n8\n\nEntrance lobby with double-leaf\ndoor\n\ne\n\nJ-1.40-+B0-+--90-J\nDining area layout for two or four\npeople\n\n6\n\nt\"'\n0\n\n<0\n\n..L\n\n0 Plan of open-air seating area\n\n0 area\n\nElevation of open-air seating\n\nHousing suitable for wheelchairs\nWheelchair users must be able to travel into all the rooms of a\ndwelling, and into all rooms available to the residents of a house in\ncommon, and to use all facilities. The wheelchair user must be in\na position to be mostly independent of outside help. This applies\nnotably to the blind and visually impaired, the deaf and hearingimpaired, the physically disabled, old people, children and people\nof exceptionally short or tall stature.\nIn order to turn 180°, a wheelchair user requires at least 1.50 m2\n~ 0 + f). This space requirement determines the size of, and\nmovement area in, corridors, rooms, garages etc. In residential\napartment blocks, access through corridors or hallways is the most\nfrequent arrangement. In this case, angles and corners are to be\navoided as far as possible; a straight access corridor is suitable.\nThe minimum area of an entrance hall should be 1.50 x 1.50 m, and\nan entrance lobby with a single-leaf door 1.70 x 1.60 m. A window\nwith a clear view from a parapet height of 60 em should be provided\nin at least one living room of a dwelling. An entry phone at the flat or\nhouse door is an important item of equipment for a blind resident.\nLiving area\nAdequate freedom of movement for wheelchair users is important\nin living rooms. There should also be room for at least two further\nwheelchair users as visitors. For a living room with an eating area,\nthe minimum floor area should be: in a flat for one person 22 m2 ,\nfor 2-4 people 24 m2 , for five people 26 m 2 and for six people\n28m 2 ; minimum room width 3.75 m (1-2 person household).\nOpen-air seating area\nEvery dwelling should be provided with an open-air seating area\nsuch as a terrace, loggia or balcony with a min. size 4.5 m2 • The\nmovement area must be min. 1.50 m wide and 1.50 m deep~ 0.\nAdditional living space\nAdditional living space should be provided for every wheelchair\nuser if required. The floor area of a flat is normally increased by\nabout 15 m 2 by this requirement.\n\n1----- 4.75 - - - j\n1--<:; 3.75-----1\n\nI §[i'~ T\n\n~~r----~o)\nI\n\n0\n\nI\n\n10\n\n!_ _____ :\n\n0\n0\n\n<d\n\nD\n1__\nI\nI\n\n0_\n\nI\nI\n\nI\n\nI\n\nI\n\n:\n\n,;\n\nt\nD ~~\n\n1\nl e\n0\n\n10\n\n<d\n\nf) Living room for 1-2 people\n\nhouse; ramp to overcome level\ndifference\n\n10\n\n\"',..:\n\n0\n\n00\n00\n\n<q\n\n1\n\n_l_\n\nf5s!-- 2.oo-+- 1.80 ---t-1\nf - - - 4.75 ------j\n\nLiving room with dining area for\n4-5 people (23.75 m2)\n\nCD Accessible extension to two-family 4f) Installation of an accessible\n\n24\n\nI\n\n\\\n\nvertical lift\n\nSingle-room flat for wheelchair user\n(40--45 m 2)\n\nG) Accessible flat for three people in a\nblock with two flats per floor\n\n~Kitchen\n\nCii) Two-room flat (50--55 m')\n\n0 Accessible flat for four people in a\nblock with three flats per floor\n\n\f"
+        },
+        {
+          "label": "Dining area layout for two or four people",
+          "value": 3.1,
+          "value_max": null,
+          "unit": "m",
+          "context": "Dimension shown above the dining layout drawing.",
+          "status": "verified",
+          "ocr_raw": "3.10"
+        },
+        {
+          "label": "Dining area layout for two or four people",
+          "value": 1.5,
+          "value_max": null,
+          "unit": "m",
+          "context": "Vertical dimension shown beside the lower dining layout drawing.",
+          "status": "verified",
+          "ocr_raw": "1.50"
+        },
+        {
+          "label": "Living room for 1–2 people",
+          "value": 3.75,
+          "value_max": null,
+          "unit": "m",
+          "context": "Minimum width marked on the plan.",
+          "status": "verified",
+          "ocr_raw": "r\n\n~~~~~9e shelf\nletterbox\n\nACCESSIBLE BUILDING\nAccessible Housing\n\nACCESSIBLE\nBUILDING\n\nDimensions for\nwheelchair users\nAccessible public\nbuildings\nAccessible\nhousing\n\nBS 8300\n00266\nDIN 18024\nDIN 18025\n\n0 Deep entrance area with coat rack 0 Transverse layout of entrance area\n\nMBO\n\nJ---3.10----l\n\n~!I IJ[Jc II\nJ-1.40 -t-- 80 -+50-j40l\n\n8\n\nEntrance lobby with double-leaf\ndoor\n\ne\n\nJ-1.40-+B0-+--90-J\nDining area layout for two or four\npeople\n\n6\n\nt\"'\n0\n\n<0\n\n..L\n\n0 Plan of open-air seating area\n\n0 area\n\nElevation of open-air seating\n\nHousing suitable for wheelchairs\nWheelchair users must be able to travel into all the rooms of a\ndwelling, and into all rooms available to the residents of a house in\ncommon, and to use all facilities. The wheelchair user must be in\na position to be mostly independent of outside help. This applies\nnotably to the blind and visually impaired, the deaf and hearingimpaired, the physically disabled, old people, children and people\nof exceptionally short or tall stature.\nIn order to turn 180°, a wheelchair user requires at least 1.50 m2\n~ 0 + f). This space requirement determines the size of, and\nmovement area in, corridors, rooms, garages etc. In residential\napartment blocks, access through corridors or hallways is the most\nfrequent arrangement. In this case, angles and corners are to be\navoided as far as possible; a straight access corridor is suitable.\nThe minimum area of an entrance hall should be 1.50 x 1.50 m, and\nan entrance lobby with a single-leaf door 1.70 x 1.60 m. A window\nwith a clear view from a parapet height of 60 em should be provided\nin at least one living room of a dwelling. An entry phone at the flat or\nhouse door is an important item of equipment for a blind resident.\nLiving area\nAdequate freedom of movement for wheelchair users is important\nin living rooms. There should also be room for at least two further\nwheelchair users as visitors. For a living room with an eating area,\nthe minimum floor area should be: in a flat for one person 22 m2 ,\nfor 2-4 people 24 m2 , for five people 26 m 2 and for six people\n28m 2 ; minimum room width 3.75 m (1-2 person household).\nOpen-air seating area\nEvery dwelling should be provided with an open-air seating area\nsuch as a terrace, loggia or balcony with a min. size 4.5 m2 • The\nmovement area must be min. 1.50 m wide and 1.50 m deep~ 0.\nAdditional living space\nAdditional living space should be provided for every wheelchair\nuser if required. The floor area of a flat is normally increased by\nabout 15 m 2 by this requirement.\n\n1----- 4.75 - - - j\n1--<:; 3.75-----1\n\nI §[i'~ T\n\n~~r----~o)\nI\n\n0\n\nI\n\n10\n\n!_ _____ :\n\n0\n0\n\n<d\n\nD\n1__\nI\nI\n\n0_\n\nI\nI\n\nI\n\nI\n\nI\n\n:\n\n,;\n\nt\nD ~~\n\n1\nl e\n0\n\n10\n\n<d\n\nf) Living room for 1-2 people\n\nhouse; ramp to overcome level\ndifference\n\n10\n\n\"',..:\n\n0\n\n00\n00\n\n<q\n\n1\n\n_l_\n\nf5s!-- 2.oo-+- 1.80 ---t-1\nf - - - 4.75 ------j\n\nLiving room with dining area for\n4-5 people (23.75 m2)\n\nCD Accessible extension to two-family 4f) Installation of an accessible\n\n24\n\nI\n\n\\\n\nvertical lift\n\nSingle-room flat for wheelchair user\n(40--45 m 2)\n\nG) Accessible flat for three people in a\nblock with two flats per floor\n\n~Kitchen\n\nCii) Two-room flat (50--55 m')\n\n0 Accessible flat for four people in a\nblock with three flats per floor\n\n\f"
+        },
+        {
+          "label": "Living room for 1–2 people",
+          "value": 5.5,
+          "value_max": null,
+          "unit": "m",
+          "context": "Dimension marked beside the plan.",
+          "status": "verified",
+          "ocr_raw": "r\n\n~~~~~9e shelf\nletterbox\n\nACCESSIBLE BUILDING\nAccessible Housing\n\nACCESSIBLE\nBUILDING\n\nDimensions for\nwheelchair users\nAccessible public\nbuildings\nAccessible\nhousing\n\nBS 8300\n00266\nDIN 18024\nDIN 18025\n\n0 Deep entrance area with coat rack 0 Transverse layout of entrance area\n\nMBO\n\nJ---3.10----l\n\n~!I IJ[Jc II\nJ-1.40 -t-- 80 -+50-j40l\n\n8\n\nEntrance lobby with double-leaf\ndoor\n\ne\n\nJ-1.40-+B0-+--90-J\nDining area layout for two or four\npeople\n\n6\n\nt\"'\n0\n\n<0\n\n..L\n\n0 Plan of open-air seating area\n\n0 area\n\nElevation of open-air seating\n\nHousing suitable for wheelchairs\nWheelchair users must be able to travel into all the rooms of a\ndwelling, and into all rooms available to the residents of a house in\ncommon, and to use all facilities. The wheelchair user must be in\na position to be mostly independent of outside help. This applies\nnotably to the blind and visually impaired, the deaf and hearingimpaired, the physically disabled, old people, children and people\nof exceptionally short or tall stature.\nIn order to turn 180°, a wheelchair user requires at least 1.50 m2\n~ 0 + f). This space requirement determines the size of, and\nmovement area in, corridors, rooms, garages etc. In residential\napartment blocks, access through corridors or hallways is the most\nfrequent arrangement. In this case, angles and corners are to be\navoided as far as possible; a straight access corridor is suitable.\nThe minimum area of an entrance hall should be 1.50 x 1.50 m, and\nan entrance lobby with a single-leaf door 1.70 x 1.60 m. A window\nwith a clear view from a parapet height of 60 em should be provided\nin at least one living room of a dwelling. An entry phone at the flat or\nhouse door is an important item of equipment for a blind resident.\nLiving area\nAdequate freedom of movement for wheelchair users is important\nin living rooms. There should also be room for at least two further\nwheelchair users as visitors. For a living room with an eating area,\nthe minimum floor area should be: in a flat for one person 22 m2 ,\nfor 2-4 people 24 m2 , for five people 26 m 2 and for six people\n28m 2 ; minimum room width 3.75 m (1-2 person household).\nOpen-air seating area\nEvery dwelling should be provided with an open-air seating area\nsuch as a terrace, loggia or balcony with a min. size 4.5 m2 • The\nmovement area must be min. 1.50 m wide and 1.50 m deep~ 0.\nAdditional living space\nAdditional living space should be provided for every wheelchair\nuser if required. The floor area of a flat is normally increased by\nabout 15 m 2 by this requirement.\n\n1----- 4.75 - - - j\n1--<:; 3.75-----1\n\nI §[i'~ T\n\n~~r----~o)\nI\n\n0\n\nI\n\n10\n\n!_ _____ :\n\n0\n0\n\n<d\n\nD\n1__\nI\nI\n\n0_\n\nI\nI\n\nI\n\nI\n\nI\n\n:\n\n,;\n\nt\nD ~~\n\n1\nl e\n0\n\n10\n\n<d\n\nf) Living room for 1-2 people\n\nhouse; ramp to overcome level\ndifference\n\n10\n\n\"',..:\n\n0\n\n00\n00\n\n<q\n\n1\n\n_l_\n\nf5s!-- 2.oo-+- 1.80 ---t-1\nf - - - 4.75 ------j\n\nLiving room with dining area for\n4-5 people (23.75 m2)\n\nCD Accessible extension to two-family 4f) Installation of an accessible\n\n24\n\nI\n\n\\\n\nvertical lift\n\nSingle-room flat for wheelchair user\n(40--45 m 2)\n\nG) Accessible flat for three people in a\nblock with two flats per floor\n\n~Kitchen\n\nCii) Two-room flat (50--55 m')\n\n0 Accessible flat for four people in a\nblock with three flats per floor\n\n\f"
+        },
+        {
+          "label": "Living room with dining area for 4–5 people",
+          "value": 4.75,
+          "value_max": null,
+          "unit": "m",
+          "context": "Overall plan dimension shown along the top.",
+          "status": "verified",
+          "ocr_raw": "4.75"
+        },
+        {
+          "label": "Living room with dining area for 4–5 people",
+          "value": 5.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Overall plan dimension shown along the side.",
+          "status": "verified",
+          "ocr_raw": "r\n\n~~~~~9e shelf\nletterbox\n\nACCESSIBLE BUILDING\nAccessible Housing\n\nACCESSIBLE\nBUILDING\n\nDimensions for\nwheelchair users\nAccessible public\nbuildings\nAccessible\nhousing\n\nBS 8300\n00266\nDIN 18024\nDIN 18025\n\n0 Deep entrance area with coat rack 0 Transverse layout of entrance area\n\nMBO\n\nJ---3.10----l\n\n~!I IJ[Jc II\nJ-1.40 -t-- 80 -+50-j40l\n\n8\n\nEntrance lobby with double-leaf\ndoor\n\ne\n\nJ-1.40-+B0-+--90-J\nDining area layout for two or four\npeople\n\n6\n\nt\"'\n0\n\n<0\n\n..L\n\n0 Plan of open-air seating area\n\n0 area\n\nElevation of open-air seating\n\nHousing suitable for wheelchairs\nWheelchair users must be able to travel into all the rooms of a\ndwelling, and into all rooms available to the residents of a house in\ncommon, and to use all facilities. The wheelchair user must be in\na position to be mostly independent of outside help. This applies\nnotably to the blind and visually impaired, the deaf and hearingimpaired, the physically disabled, old people, children and people\nof exceptionally short or tall stature.\nIn order to turn 180°, a wheelchair user requires at least 1.50 m2\n~ 0 + f). This space requirement determines the size of, and\nmovement area in, corridors, rooms, garages etc. In residential\napartment blocks, access through corridors or hallways is the most\nfrequent arrangement. In this case, angles and corners are to be\navoided as far as possible; a straight access corridor is suitable.\nThe minimum area of an entrance hall should be 1.50 x 1.50 m, and\nan entrance lobby with a single-leaf door 1.70 x 1.60 m. A window\nwith a clear view from a parapet height of 60 em should be provided\nin at least one living room of a dwelling. An entry phone at the flat or\nhouse door is an important item of equipment for a blind resident.\nLiving area\nAdequate freedom of movement for wheelchair users is important\nin living rooms. There should also be room for at least two further\nwheelchair users as visitors. For a living room with an eating area,\nthe minimum floor area should be: in a flat for one person 22 m2 ,\nfor 2-4 people 24 m2 , for five people 26 m 2 and for six people\n28m 2 ; minimum room width 3.75 m (1-2 person household).\nOpen-air seating area\nEvery dwelling should be provided with an open-air seating area\nsuch as a terrace, loggia or balcony with a min. size 4.5 m2 • The\nmovement area must be min. 1.50 m wide and 1.50 m deep~ 0.\nAdditional living space\nAdditional living space should be provided for every wheelchair\nuser if required. The floor area of a flat is normally increased by\nabout 15 m 2 by this requirement.\n\n1----- 4.75 - - - j\n1--<:; 3.75-----1\n\nI §[i'~ T\n\n~~r----~o)\nI\n\n0\n\nI\n\n10\n\n!_ _____ :\n\n0\n0\n\n<d\n\nD\n1__\nI\nI\n\n0_\n\nI\nI\n\nI\n\nI\n\nI\n\n:\n\n,;\n\nt\nD ~~\n\n1\nl e\n0\n\n10\n\n<d\n\nf) Living room for 1-2 people\n\nhouse; ramp to overcome level\ndifference\n\n10\n\n\"',..:\n\n0\n\n00\n00\n\n<q\n\n1\n\n_l_\n\nf5s!-- 2.oo-+- 1.80 ---t-1\nf - - - 4.75 ------j\n\nLiving room with dining area for\n4-5 people (23.75 m2)\n\nCD Accessible extension to two-family 4f) Installation of an accessible\n\n24\n\nI\n\n\\\n\nvertical lift\n\nSingle-room flat for wheelchair user\n(40--45 m 2)\n\nG) Accessible flat for three people in a\nblock with two flats per floor\n\n~Kitchen\n\nCii) Two-room flat (50--55 m')\n\n0 Accessible flat for four people in a\nblock with three flats per floor\n\n\f"
+        },
+        {
+          "label": "Single-room flat for wheelchair user",
+          "value": 40.0,
+          "value_max": 45.0,
+          "unit": "m²",
+          "context": "Area range stated in the figure caption.",
+          "status": "verified",
+          "ocr_raw": "r\n\n~~~~~9e shelf\nletterbox\n\nACCESSIBLE BUILDING\nAccessible Housing\n\nACCESSIBLE\nBUILDING\n\nDimensions for\nwheelchair users\nAccessible public\nbuildings\nAccessible\nhousing\n\nBS 8300\n00266\nDIN 18024\nDIN 18025\n\n0 Deep entrance area with coat rack 0 Transverse layout of entrance area\n\nMBO\n\nJ---3.10----l\n\n~!I IJ[Jc II\nJ-1.40 -t-- 80 -+50-j40l\n\n8\n\nEntrance lobby with double-leaf\ndoor\n\ne\n\nJ-1.40-+B0-+--90-J\nDining area layout for two or four\npeople\n\n6\n\nt\"'\n0\n\n<0\n\n..L\n\n0 Plan of open-air seating area\n\n0 area\n\nElevation of open-air seating\n\nHousing suitable for wheelchairs\nWheelchair users must be able to travel into all the rooms of a\ndwelling, and into all rooms available to the residents of a house in\ncommon, and to use all facilities. The wheelchair user must be in\na position to be mostly independent of outside help. This applies\nnotably to the blind and visually impaired, the deaf and hearingimpaired, the physically disabled, old people, children and people\nof exceptionally short or tall stature.\nIn order to turn 180°, a wheelchair user requires at least 1.50 m2\n~ 0 + f). This space requirement determines the size of, and\nmovement area in, corridors, rooms, garages etc. In residential\napartment blocks, access through corridors or hallways is the most\nfrequent arrangement. In this case, angles and corners are to be\navoided as far as possible; a straight access corridor is suitable.\nThe minimum area of an entrance hall should be 1.50 x 1.50 m, and\nan entrance lobby with a single-leaf door 1.70 x 1.60 m. A window\nwith a clear view from a parapet height of 60 em should be provided\nin at least one living room of a dwelling. An entry phone at the flat or\nhouse door is an important item of equipment for a blind resident.\nLiving area\nAdequate freedom of movement for wheelchair users is important\nin living rooms. There should also be room for at least two further\nwheelchair users as visitors. For a living room with an eating area,\nthe minimum floor area should be: in a flat for one person 22 m2 ,\nfor 2-4 people 24 m2 , for five people 26 m 2 and for six people\n28m 2 ; minimum room width 3.75 m (1-2 person household).\nOpen-air seating area\nEvery dwelling should be provided with an open-air seating area\nsuch as a terrace, loggia or balcony with a min. size 4.5 m2 • The\nmovement area must be min. 1.50 m wide and 1.50 m deep~ 0.\nAdditional living space\nAdditional living space should be provided for every wheelchair\nuser if required. The floor area of a flat is normally increased by\nabout 15 m 2 by this requirement.\n\n1----- 4.75 - - - j\n1--<:; 3.75-----1\n\nI §[i'~ T\n\n~~r----~o)\nI\n\n0\n\nI\n\n10\n\n!_ _____ :\n\n0\n0\n\n<d\n\nD\n1__\nI\nI\n\n0_\n\nI\nI\n\nI\n\nI\n\nI\n\n:\n\n,;\n\nt\nD ~~\n\n1\nl e\n0\n\n10\n\n<d\n\nf) Living room for 1-2 people\n\nhouse; ramp to overcome level\ndifference\n\n10\n\n\"',..:\n\n0\n\n00\n00\n\n<q\n\n1\n\n_l_\n\nf5s!-- 2.oo-+- 1.80 ---t-1\nf - - - 4.75 ------j\n\nLiving room with dining area for\n4-5 people (23.75 m2)\n\nCD Accessible extension to two-family 4f) Installation of an accessible\n\n24\n\nI\n\n\\\n\nvertical lift\n\nSingle-room flat for wheelchair user\n(40--45 m 2)\n\nG) Accessible flat for three people in a\nblock with two flats per floor\n\n~Kitchen\n\nCii) Two-room flat (50--55 m')\n\n0 Accessible flat for four people in a\nblock with three flats per floor\n\n\f"
+        },
+        {
+          "label": "Two-room flat",
+          "value": 50.0,
+          "value_max": 55.0,
+          "unit": "m²",
+          "context": "Area range stated in the figure caption.",
+          "status": "verified",
+          "ocr_raw": "r\n\n~~~~~9e shelf\nletterbox\n\nACCESSIBLE BUILDING\nAccessible Housing\n\nACCESSIBLE\nBUILDING\n\nDimensions for\nwheelchair users\nAccessible public\nbuildings\nAccessible\nhousing\n\nBS 8300\n00266\nDIN 18024\nDIN 18025\n\n0 Deep entrance area with coat rack 0 Transverse layout of entrance area\n\nMBO\n\nJ---3.10----l\n\n~!I IJ[Jc II\nJ-1.40 -t-- 80 -+50-j40l\n\n8\n\nEntrance lobby with double-leaf\ndoor\n\ne\n\nJ-1.40-+B0-+--90-J\nDining area layout for two or four\npeople\n\n6\n\nt\"'\n0\n\n<0\n\n..L\n\n0 Plan of open-air seating area\n\n0 area\n\nElevation of open-air seating\n\nHousing suitable for wheelchairs\nWheelchair users must be able to travel into all the rooms of a\ndwelling, and into all rooms available to the residents of a house in\ncommon, and to use all facilities. The wheelchair user must be in\na position to be mostly independent of outside help. This applies\nnotably to the blind and visually impaired, the deaf and hearingimpaired, the physically disabled, old people, children and people\nof exceptionally short or tall stature.\nIn order to turn 180°, a wheelchair user requires at least 1.50 m2\n~ 0 + f). This space requirement determines the size of, and\nmovement area in, corridors, rooms, garages etc. In residential\napartment blocks, access through corridors or hallways is the most\nfrequent arrangement. In this case, angles and corners are to be\navoided as far as possible; a straight access corridor is suitable.\nThe minimum area of an entrance hall should be 1.50 x 1.50 m, and\nan entrance lobby with a single-leaf door 1.70 x 1.60 m. A window\nwith a clear view from a parapet height of 60 em should be provided\nin at least one living room of a dwelling. An entry phone at the flat or\nhouse door is an important item of equipment for a blind resident.\nLiving area\nAdequate freedom of movement for wheelchair users is important\nin living rooms. There should also be room for at least two further\nwheelchair users as visitors. For a living room with an eating area,\nthe minimum floor area should be: in a flat for one person 22 m2 ,\nfor 2-4 people 24 m2 , for five people 26 m 2 and for six people\n28m 2 ; minimum room width 3.75 m (1-2 person household).\nOpen-air seating area\nEvery dwelling should be provided with an open-air seating area\nsuch as a terrace, loggia or balcony with a min. size 4.5 m2 • The\nmovement area must be min. 1.50 m wide and 1.50 m deep~ 0.\nAdditional living space\nAdditional living space should be provided for every wheelchair\nuser if required. The floor area of a flat is normally increased by\nabout 15 m 2 by this requirement.\n\n1----- 4.75 - - - j\n1--<:; 3.75-----1\n\nI §[i'~ T\n\n~~r----~o)\nI\n\n0\n\nI\n\n10\n\n!_ _____ :\n\n0\n0\n\n<d\n\nD\n1__\nI\nI\n\n0_\n\nI\nI\n\nI\n\nI\n\nI\n\n:\n\n,;\n\nt\nD ~~\n\n1\nl e\n0\n\n10\n\n<d\n\nf) Living room for 1-2 people\n\nhouse; ramp to overcome level\ndifference\n\n10\n\n\"',..:\n\n0\n\n00\n00\n\n<q\n\n1\n\n_l_\n\nf5s!-- 2.oo-+- 1.80 ---t-1\nf - - - 4.75 ------j\n\nLiving room with dining area for\n4-5 people (23.75 m2)\n\nCD Accessible extension to two-family 4f) Installation of an accessible\n\n24\n\nI\n\n\\\n\nvertical lift\n\nSingle-room flat for wheelchair user\n(40--45 m 2)\n\nG) Accessible flat for three people in a\nblock with two flats per floor\n\n~Kitchen\n\nCii) Two-room flat (50--55 m')\n\n0 Accessible flat for four people in a\nblock with three flats per floor\n\n\f"
+        }
+      ],
+      "figure_refs": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "9",
+        "10",
+        "11",
+        "12",
+        "13",
+        "14"
+      ],
+      "cross_refs": [
+        "BS 8300",
+        "DD 266",
+        "DIN 18024",
+        "DIN 18025",
+        "MBO"
+      ],
+      "keywords": [
+        "accessible flat",
+        "wheelchair user",
+        "entrance layout",
+        "ramp",
+        "vertical lift",
+        "dwelling plans"
+      ],
+      "tags_architectural": [
+        "accessibility",
+        "circulation",
+        "adaptability",
+        "modularity"
+      ],
+      "confidence": 0.88
+    }
+  ]
+}

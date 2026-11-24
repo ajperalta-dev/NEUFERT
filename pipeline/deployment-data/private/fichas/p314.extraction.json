@@ -1,0 +1,283 @@
+{
+  "fichas": [
+    {
+      "id": "4122fb96e4bd1976-314-vision-0",
+      "pdf_page": 314,
+      "book_page": 301,
+      "chapter": "HEALTH",
+      "section": "Hospitals",
+      "title": "Operating department",
+      "summary": "Planning guidance for an operating department, covering its location, room requirements, equipment, and separation of clean, dirty, patient, and staff routes. The department should be centrally accessible and near intensive care, recovery, and the central sterile store. Operating theatres should be as uniform and square as possible, with automated doors and a centrally mounted operating table. The page also illustrates an equipment plan and a surgery zone at the Helios Clinic Berlin-Buch.",
+      "building_type": "Hospital operating department",
+      "spaces": [
+        "Operating theatre",
+        "Preparation room",
+        "Transfer room",
+        "Scrub room",
+        "Sterile goods store",
+        "Equipment room",
+        "Operating theatre control centre",
+        "Dictation room",
+        "Cleaning room",
+        "Patient control lobby",
+        "Working corridor",
+        "Main corridor",
+        "Recovery room",
+        "Staff changing room",
+        "Supply vestibule",
+        "Waste disposal vestibule",
+        "Patient rebedding area",
+        "Trolley cleaning/store",
+        "Wash places",
+        "Entrance and exit zone",
+        "Electricity room/area",
+        "Children's recovery room",
+        "Staff lounge",
+        "Rapid section laboratory",
+        "Plaster room"
+      ],
+      "uses": [
+        "Surgical operations",
+        "Pre- and post-operative patient movement",
+        "Preparation and transfer of patients",
+        "Scrubbing and sterile-goods storage",
+        "Equipment storage",
+        "Operating-department coordination and oversight",
+        "Post-operation reporting",
+        "Cleaning and disinfection after operations"
+      ],
+      "furniture_equipment": [
+        "Adjustable, transportable operating table on a fixed central plinth",
+        "Overhead operating lamp",
+        "Wall or ceiling pendulum",
+        "Anaesthesia equipment",
+        "Dish stands with and without heater",
+        "Electric suction pump",
+        "X-ray display box",
+        "Anaesthesia table",
+        "Instrument table",
+        "Waste bin for used instruments",
+        "Suturing-materials table",
+        "Operating steps",
+        "Swivel stool for surgeon",
+        "Drum stand",
+        "Infusion stand",
+        "Refrigerator",
+        "Sink",
+        "Rinsing unit",
+        "Cupboard for cannulas",
+        "Sockets for anaesthetic equipment and emergency power",
+        "Desk",
+        "Cupboards",
+        "Pin-board"
+      ],
+      "dimensions": [
+        {
+          "label": "Operating theatre total area (theatre, preparation, transfer, scrub room, and sterile goods store)",
+          "value": 80.0,
+          "value_max": null,
+          "unit": "m²",
+          "context": "Approximate total area for the listed room group.",
+          "status": "uncertain",
+          "ocr_raw": "with a total area of approx. 80 m²"
+        },
+        {
+          "label": "Operating theatre length",
+          "value": 6.5,
+          "value_max": null,
+          "unit": "m",
+          "context": "Approximate theatre size; the theatre should be as square as possible.",
+          "status": "uncertain",
+          "ocr_raw": "size approx. 6.50 x 6.50 m"
+        },
+        {
+          "label": "Operating theatre width",
+          "value": 6.5,
+          "value_max": null,
+          "unit": "m",
+          "context": "Approximate theatre size; the theatre should be as square as possible.",
+          "status": "uncertain",
+          "ocr_raw": "size approx. 6.50 x 6.50 m"
+        },
+        {
+          "label": "Clear ceiling height",
+          "value": 3.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Operating theatre.",
+          "status": "uncertain",
+          "ocr_raw": "The clear ceiling height must be 3.00 m"
+        },
+        {
+          "label": "Service space above ceiling",
+          "value": 70.0,
+          "value_max": 80.0,
+          "unit": "cm",
+          "context": "Approximate space for air conditioning and other services above the operating-theatre ceiling.",
+          "status": "uncertain",
+          "ocr_raw": "a space above the ceiling of approx. 70–80 cm"
+        },
+        {
+          "label": "Preparation room length",
+          "value": 3.8,
+          "value_max": null,
+          "unit": "m",
+          "context": "Approximate preparation-room size; room considered sensible in exceptional cases.",
+          "status": "uncertain",
+          "ocr_raw": "The size is approx. 3.80 x 3.80 m."
+        },
+        {
+          "label": "Preparation room width",
+          "value": 3.8,
+          "value_max": null,
+          "unit": "m",
+          "context": "Approximate preparation-room size; room considered sensible in exceptional cases.",
+          "status": "uncertain",
+          "ocr_raw": "The size is approx. 3.80 x 3.80 m."
+        },
+        {
+          "label": "Preparation-room sliding-door clear opening width",
+          "value": 1.4,
+          "value_max": null,
+          "unit": "m",
+          "context": "Door on the side toward the operating theatre.",
+          "status": "uncertain",
+          "ocr_raw": "1.40 m clear opening width"
+        },
+        {
+          "label": "Transfer-room sliding-door clear width",
+          "value": 1.25,
+          "value_max": null,
+          "unit": "m",
+          "context": "Sliding door to the working corridor.",
+          "status": "uncertain",
+          "ocr_raw": "with a clear width of 1.25 m"
+        },
+        {
+          "label": "Scrub room minimum width",
+          "value": 1.8,
+          "value_max": null,
+          "unit": "m",
+          "context": "Scrub room in the immediate vicinity of the operating theatre.",
+          "status": "uncertain",
+          "ocr_raw": "The minimum width of the room should be 1.80 m."
+        },
+        {
+          "label": "Scrub places minimum count",
+          "value": 6.0,
+          "value_max": null,
+          "unit": "places",
+          "context": "Minimum number of places in a scrub room.",
+          "status": "uncertain",
+          "ocr_raw": "A scrub room with at least six places"
+        },
+        {
+          "label": "Sterile goods room area",
+          "value": 10.0,
+          "value_max": 15.0,
+          "unit": "m²",
+          "context": "Approximate area; one room required per operating theatre.",
+          "status": "uncertain",
+          "ocr_raw": "approx. 10–15 m²"
+        },
+        {
+          "label": "Equipment room area",
+          "value": 20.0,
+          "value_max": null,
+          "unit": "m²",
+          "context": "Equipment room should not be too far from the operating theatre.",
+          "status": "uncertain",
+          "ocr_raw": "size 20 m²"
+        },
+        {
+          "label": "Dictation room area",
+          "value": 6.0,
+          "value_max": null,
+          "unit": "m²",
+          "context": "Approximate size of small dictation-room units.",
+          "status": "uncertain",
+          "ocr_raw": "approx. 6 m²"
+        },
+        {
+          "label": "Cleaning room area",
+          "value": 5.0,
+          "value_max": null,
+          "unit": "m²",
+          "context": "Required in every operating department.",
+          "status": "uncertain",
+          "ocr_raw": "a cleaning room of 5 m² in every operating department"
+        }
+      ],
+      "figure_refs": [
+        "1 — Equipment plan for operating theatre",
+        "2 — Suspended lamp for operating theatre with satellite",
+        "3 — Surgery zone at the Helios Clinic Berlin-Buch, 1000 beds"
+      ],
+      "cross_refs": [],
+      "keywords": [
+        "operating department",
+        "operating theatre",
+        "surgery",
+        "sterile goods",
+        "routeing",
+        "recovery room",
+        "preparation room",
+        "scrub room",
+        "infection control"
+      ],
+      "tags_architectural": [
+        "circulation",
+        "clearance",
+        "safety",
+        "adaptability"
+      ],
+      "confidence": 0.96
+    },
+    {
+      "id": "4122fb96e4bd1976-314-vision-1",
+      "pdf_page": 314,
+      "book_page": 301,
+      "chapter": "HEALTH",
+      "section": "Hospitals",
+      "title": "Suspended lamp for operating theatre with satellite",
+      "summary": "Section drawing of a suspended operating-theatre lamp and satellite, shown with ceiling and floor references. The accompanying text describes an operating theatre with a clear ceiling height of 3.00 m and additional service space above the ceiling.",
+      "building_type": "Hospital operating theatre",
+      "spaces": [
+        "Operating theatre"
+      ],
+      "uses": [
+        "Provide lighting for surgical operations"
+      ],
+      "furniture_equipment": [
+        "Suspended operating lamp",
+        "Lamp satellite"
+      ],
+      "dimensions": [
+        {
+          "label": "Clear ceiling height",
+          "value": 3.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Operating theatre; stated in the accompanying text and also indicated in the section drawing.",
+          "status": "uncertain",
+          "ocr_raw": "The clear ceiling height must be 3.00 m"
+        }
+      ],
+      "figure_refs": [
+        "2 — Suspended lamp for operating theatre with satellite"
+      ],
+      "cross_refs": [],
+      "keywords": [
+        "operating lamp",
+        "suspended lamp",
+        "satellite",
+        "operating theatre"
+      ],
+      "tags_architectural": [
+        "safety",
+        "ergonomics"
+      ],
+      "confidence": 0.83
+    }
+  ]
+}

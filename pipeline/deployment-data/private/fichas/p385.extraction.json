@@ -1,0 +1,450 @@
+{
+  "fichas": [
+    {
+      "id": "4122fb96e4bd1976-385-vision-0",
+      "pdf_page": 385,
+      "book_page": 372,
+      "chapter": "SPORT AND LEISURE",
+      "section": "Spa",
+      "title": "Private Sauna: Functions and Operating Conditions",
+      "summary": "A private sauna can combine changing, relaxation, pre-cleaning, and cooling in one room, while some functions may instead be provided elsewhere in the house. The page describes sauna stove types, plunge pools, warm footbaths, room-temperature recommendations, and humidity at different sauna temperatures.",
+      "building_type": "Private sauna",
+      "spaces": [
+        "Sauna",
+        "Changing room",
+        "Wet room",
+        "Fresh air room",
+        "WC",
+        "Cooling room",
+        "Rest room",
+        "Massage room",
+        "Wash room"
+      ],
+      "uses": [
+        "Sauna bathing",
+        "Changing",
+        "Relaxation",
+        "Pre-cleaning",
+        "Cooling",
+        "Foot bathing",
+        "Plunge bathing"
+      ],
+      "furniture_equipment": [
+        "Electric sauna stove",
+        "Solid-fuel stove",
+        "Chimney",
+        "Warm footbath with seat",
+        "Plunge pool"
+      ],
+      "dimensions": [
+        {
+          "label": "Maximum plunge pool depth",
+          "value": 1.2,
+          "value_max": null,
+          "unit": "m",
+          "context": "Maximum depth of plunge pool",
+          "status": "uncertain",
+          "ocr_raw": "Plunge pool → 3 – 4 max. depth 1.20 m."
+        },
+        {
+          "label": "Changing room temperature",
+          "value": 20.0,
+          "value_max": 22.0,
+          "unit": "°C",
+          "context": "Recommended room temperature range",
+          "status": "uncertain",
+          "ocr_raw": "changing room 20–22°C"
+        },
+        {
+          "label": "Wash room temperature",
+          "value": 24.0,
+          "value_max": 26.0,
+          "unit": "°C",
+          "context": "Recommended room temperature range",
+          "status": "uncertain",
+          "ocr_raw": "wash room ≥ 24–26°C"
+        },
+        {
+          "label": "Cooling room temperature",
+          "value": 18.0,
+          "value_max": 20.0,
+          "unit": "°C",
+          "context": "Recommended room temperature range",
+          "status": "uncertain",
+          "ocr_raw": "cooling room ≦ 18–20°C"
+        },
+        {
+          "label": "Rest room temperature",
+          "value": 20.0,
+          "value_max": 22.0,
+          "unit": "°C",
+          "context": "Recommended room temperature range",
+          "status": "uncertain",
+          "ocr_raw": "rest room 20–22°C"
+        },
+        {
+          "label": "Massage room temperature",
+          "value": 20.0,
+          "value_max": 22.0,
+          "unit": "°C",
+          "context": "Recommended room temperature range",
+          "status": "uncertain",
+          "ocr_raw": "massage room 20–22°C"
+        },
+        {
+          "label": "Relative humidity at 100°C",
+          "value": 2.0,
+          "value_max": 5.0,
+          "unit": "%",
+          "context": "Relative humidity at sauna temperature of 100°C",
+          "status": "uncertain",
+          "ocr_raw": "100°C: 2–5% rel. humidity"
+        },
+        {
+          "label": "Relative humidity at 80°C",
+          "value": 3.0,
+          "value_max": 10.0,
+          "unit": "%",
+          "context": "Relative humidity at sauna temperature of 80°C",
+          "status": "uncertain",
+          "ocr_raw": "80°C: 3–10% rel. humidity"
+        },
+        {
+          "label": "Relative humidity at 70°C",
+          "value": 5.0,
+          "value_max": 15.0,
+          "unit": "%",
+          "context": "Relative humidity at sauna temperature of 70°C",
+          "status": "uncertain",
+          "ocr_raw": "70°C: 5–15% rel. humidity"
+        },
+        {
+          "label": "Relative humidity at 60°C",
+          "value": 8.0,
+          "value_max": 28.0,
+          "unit": "%",
+          "context": "Relative humidity at sauna temperature of 60°C",
+          "status": "uncertain",
+          "ocr_raw": "60°C: 8–28% rel. humidity"
+        }
+      ],
+      "figure_refs": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "11",
+        "12"
+      ],
+      "cross_refs": [
+        "p. 373 f.",
+        "3–4",
+        "2"
+      ],
+      "keywords": [
+        "private sauna",
+        "sauna stove",
+        "plunge pool",
+        "footbath",
+        "room temperature",
+        "humidity"
+      ],
+      "tags_architectural": [
+        "ventilation",
+        "safety"
+      ],
+      "confidence": 0.93
+    },
+    {
+      "id": "4122fb96e4bd1976-385-vision-1",
+      "pdf_page": 385,
+      "book_page": 372,
+      "chapter": "SPORT AND LEISURE",
+      "section": "Spa",
+      "title": "Sauna Cabin Types and Dimensions",
+      "summary": "The sheet illustrates sauna cabins sized for different numbers of users, including built-in cabins and log-cabin constructions. Free-standing garden saunas are commonly spruce log cabins and may be self-built, prefabricated, or assembled from kit elements. Installation cabins usually use electric stoves; log-cabin types mostly use solid-fuel stoves.",
+      "building_type": "Sauna cabin",
+      "spaces": [
+        "Sauna cabin",
+        "Relaxation room",
+        "Terrace"
+      ],
+      "uses": [
+        "Sauna bathing",
+        "Lying",
+        "Sitting",
+        "Relaxation"
+      ],
+      "furniture_equipment": [
+        "Sauna stove",
+        "Sauna benches"
+      ],
+      "dimensions": [
+        {
+          "label": "Sauna cabin width",
+          "value": 2.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Cabin for one person lying or two sitting",
+          "status": "uncertain",
+          "ocr_raw": "2.00"
+        },
+        {
+          "label": "Sauna cabin height",
+          "value": 1.2,
+          "value_max": null,
+          "unit": "m",
+          "context": "Cabin for one person lying or two sitting; dimension shown on drawing",
+          "status": "uncertain",
+          "ocr_raw": "1.20"
+        },
+        {
+          "label": "Sauna cabin width",
+          "value": 2.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Cabin for two people lying or three sitting",
+          "status": "uncertain",
+          "ocr_raw": "2.00"
+        },
+        {
+          "label": "Sauna cabin height",
+          "value": 1.6,
+          "value_max": null,
+          "unit": "m",
+          "context": "Cabin for two people lying or three sitting; dimension shown on drawing",
+          "status": "uncertain",
+          "ocr_raw": "1.60"
+        },
+        {
+          "label": "Sauna cabin width",
+          "value": 2.3,
+          "value_max": null,
+          "unit": "m",
+          "context": "Cabin for three people lying or five sitting",
+          "status": "uncertain",
+          "ocr_raw": "2.30"
+        },
+        {
+          "label": "Sauna cabin height",
+          "value": 2.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Cabin for three people lying or five sitting",
+          "status": "uncertain",
+          "ocr_raw": "2.00"
+        },
+        {
+          "label": "Sauna cabin length",
+          "value": 2.5,
+          "value_max": null,
+          "unit": "m",
+          "context": "Log-cabin sauna with relaxation room and terrace; internal sauna dimension shown",
+          "status": "uncertain",
+          "ocr_raw": "2.50"
+        },
+        {
+          "label": "Overall plan dimension",
+          "value": 5.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Log-cabin sauna with relaxation room and terrace; overall horizontal dimension",
+          "status": "uncertain",
+          "ocr_raw": "5.00"
+        },
+        {
+          "label": "Overall plan dimension",
+          "value": 4.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Log-cabin sauna with relaxation room and terrace; overall vertical dimension",
+          "status": "uncertain",
+          "ocr_raw": "4.00"
+        },
+        {
+          "label": "Sauna cabin dimension",
+          "value": 2.4,
+          "value_max": null,
+          "unit": "m",
+          "context": "Sauna cabin constructed as log cabin",
+          "status": "uncertain",
+          "ocr_raw": "2.40"
+        },
+        {
+          "label": "Sauna cabin dimension",
+          "value": 3.7,
+          "value_max": null,
+          "unit": "m",
+          "context": "Sauna cabin constructed as log cabin; overall horizontal dimension",
+          "status": "uncertain",
+          "ocr_raw": "3.70"
+        },
+        {
+          "label": "Sauna cabin dimension",
+          "value": 2.7,
+          "value_max": null,
+          "unit": "m",
+          "context": "Sauna cabin constructed as log cabin; overall vertical dimension",
+          "status": "uncertain",
+          "ocr_raw": "2.70"
+        }
+      ],
+      "figure_refs": [
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10"
+      ],
+      "cross_refs": [
+        "10",
+        "9",
+        "13",
+        "15"
+      ],
+      "keywords": [
+        "sauna cabin",
+        "log cabin",
+        "prefabricated",
+        "built-in element",
+        "sauna benches"
+      ],
+      "tags_architectural": [
+        "ergonomics",
+        "modularity",
+        "spatial_proportion"
+      ],
+      "confidence": 0.87
+    },
+    {
+      "id": "4122fb96e4bd1976-385-vision-2",
+      "pdf_page": 385,
+      "book_page": 372,
+      "chapter": "SPORT AND LEISURE",
+      "section": "Spa",
+      "title": "Sauna and Wellness Facility Plans",
+      "summary": "The page presents plans for a cellar sauna, a larger sauna facility with washing and massage rooms, and a sauna with a built-in cabin. The illustrated facilities combine sauna bathing with showering, changing, relaxation, exercise, and plunge or foot baths.",
+      "building_type": "Sauna and wellness facility",
+      "spaces": [
+        "Sauna",
+        "Sauna cabin",
+        "Shower",
+        "Massage and washing room",
+        "Changing room",
+        "Sitting and relaxation corner",
+        "Sun bench",
+        "Plunge pool",
+        "Footbath",
+        "WC",
+        "Veranda"
+      ],
+      "uses": [
+        "Sauna bathing",
+        "Showering",
+        "Changing",
+        "Massage",
+        "Washing",
+        "Relaxation",
+        "Exercise",
+        "Plunge bathing"
+      ],
+      "furniture_equipment": [
+        "Sauna cabin",
+        "Sun bench",
+        "Wall bars",
+        "Ergometer",
+        "Plunge pool",
+        "Footbath"
+      ],
+      "dimensions": [
+        {
+          "label": "Overall plan width",
+          "value": 6.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Sauna installed, e.g. in cellar; plan dimension",
+          "status": "uncertain",
+          "ocr_raw": "6.00"
+        },
+        {
+          "label": "Overall plan depth",
+          "value": 5.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Sauna installed, e.g. in cellar; plan dimension",
+          "status": "uncertain",
+          "ocr_raw": "5.00"
+        },
+        {
+          "label": "Floor area",
+          "value": 30.0,
+          "value_max": null,
+          "unit": "m²",
+          "context": "Sauna installed, e.g. in cellar",
+          "status": "uncertain",
+          "ocr_raw": "30 m²"
+        },
+        {
+          "label": "Overall plan width",
+          "value": 7.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Sauna with sauna cabin as built-in element",
+          "status": "uncertain",
+          "ocr_raw": "7.00"
+        },
+        {
+          "label": "Overall plan depth",
+          "value": 5.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Sauna with sauna cabin as built-in element",
+          "status": "uncertain",
+          "ocr_raw": "5.00"
+        },
+        {
+          "label": "Floor area",
+          "value": 35.0,
+          "value_max": null,
+          "unit": "m²",
+          "context": "Sauna with sauna cabin as built-in element",
+          "status": "uncertain",
+          "ocr_raw": "35 m²"
+        },
+        {
+          "label": "Sauna temperature",
+          "value": 40.0,
+          "value_max": 110.0,
+          "unit": "°C",
+          "context": "Temperature scale shown in cross-section of sauna with indirect heating",
+          "status": "uncertain",
+          "ocr_raw": "40° ... 110°"
+        }
+      ],
+      "figure_refs": [
+        "11",
+        "12",
+        "13",
+        "14",
+        "15"
+      ],
+      "cross_refs": [
+        "p. 373 f."
+      ],
+      "keywords": [
+        "sauna facility",
+        "wellness",
+        "indirect heating",
+        "sauna plan",
+        "exercise"
+      ],
+      "tags_architectural": [
+        "circulation",
+        "ventilation",
+        "spatial_proportion"
+      ],
+      "confidence": 0.9
+    }
+  ]
+}

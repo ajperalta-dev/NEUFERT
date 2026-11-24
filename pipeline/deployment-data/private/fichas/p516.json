@@ -1,0 +1,309 @@
+{
+  "fichas": [
+    {
+      "id": "4122fb96e4bd1976-516-vision-0",
+      "pdf_page": 516,
+      "book_page": 503,
+      "chapter": "BUILDING SERVICES",
+      "section": "Lighting",
+      "title": "Lamp types and suitability for lighting layouts",
+      "summary": "A comparison table lists lamp types and their wattage ranges, marking suitable applications among flood lighting, spotlights, uplights, downlights, square grids and rectangular grids.",
+      "building_type": "Lighting reference",
+      "spaces": [],
+      "uses": [
+        "Select lamp types for lighting layouts",
+        "Compare lamp suitability across fitting types"
+      ],
+      "furniture_equipment": [
+        "General-purpose lamps",
+        "Parabolic reflector lamps",
+        "Halogen filament lamps",
+        "Low-voltage halogen lamps",
+        "Fluorescent lamps",
+        "Compact fluorescent lamps",
+        "Mercury vapour lamps",
+        "Sodium vapour lamps",
+        "Halogen metal vapour lamps"
+      ],
+      "dimensions": [
+        {
+          "label": "General-purpose lamp power",
+          "value": 60.0,
+          "value_max": 200.0,
+          "unit": "W",
+          "context": "Lamp type A",
+          "status": "verified",
+          "ocr_raw": "lamp 60-200W"
+        },
+        {
+          "label": "Parabolic reflector lamp power",
+          "value": 60.0,
+          "value_max": 300.0,
+          "unit": "W",
+          "context": "PAR, R parabolic reflector lamp",
+          "status": "verified",
+          "ocr_raw": "6G-3DDW"
+        },
+        {
+          "label": "QT32 halogen filament lamp power",
+          "value": 75.0,
+          "value_max": 250.0,
+          "unit": "W",
+          "context": "QT32 lamp",
+          "status": "verified",
+          "ocr_raw": "lamp 75-250W"
+        },
+        {
+          "label": "QT-DE halogen filament lamp power",
+          "value": 100.0,
+          "value_max": 500.0,
+          "unit": "W",
+          "context": "Sockets at both sides",
+          "status": "verified",
+          "ocr_raw": "OT-DE halogen filament\nlamp, sockets both\nsides 100-500W"
+        },
+        {
+          "label": "QT-LV/NV low-voltage halogen lamp power",
+          "value": 10.0,
+          "value_max": 150.0,
+          "unit": "W",
+          "context": "Low-voltage halogen lamp",
+          "status": "verified",
+          "ocr_raw": "LIGHTING\nLamps\n\nlighting type\n\n~'\\ ~\nflood lighting\n\nQ\n\n~\n\n0\n~\n\ngeneral purpose\n\nlamp 60-200W\n\nPAR,R parabolic reflector\nlamp\nreflector lamp\n\n6G-3DDW\n\nhalogen filament\n\nOT32\n\nlamp 75-250W\n\nOT-DE halogen filament\nlamp, sockets both\nsides 100-500W\n\n0\n\nspotlights\n\n0\nup/ights\n\nA\ng\ndown lights\n\n0\n\n0\n\n0\n\n0\n\n0\n\n0\n\n0\n\n~\n\nQR-LV low-voltage halogen\nNV reflector lamp\n20-100W\n\n0\n\n0\n\n8\n2\n\nB-58W\n\n0\n\n0\n\n~\n\nTC\nTC-D\nTC-L\n\ncompact fluorescent\nJamp7-55W\n\n0\n\nHME\n\nmercury vapour\nlamp 50-400W\n\n0\n\nHSE/\nHST\n\nsodium vapour lamp\n\n0\n\nn\n~\n\n0\n\n0\n\n0\n\n5G-250W\n\nHIT\nhalogen metal\nHIT-DE vapour lamp\nCDM-T 35-250W\n\n0\n\n~\nsquare grids\n\n'~\nrectangular grids\n\n0\n\n0\n0\n\n16 fluorescent lamp\n\n'\\\\; 's. '\\\n\n0\n\nQT-LV low-voltage halogen\nNV lamp 10.....150W\n\nT\n\n,----,\n\n<C)>\n\n~\n=\n\n0\n\nA\n\ngrid lighting\n\n0\n\n0\n\n0\n\n0\n\n0\n\n0\n\n0\n\n0\n\nSuitability of lamps and fittings\n\nLIGHTING\n\nsurface-mounted\nspecular louvre\n\nArtificial lighting\nLamps\nTypes of lighting\nLighting layout\nQuality criteria\nIlluminance\nApplication\nWorkplace\nGuidelines\n\nair extraction\ndown light\n160m3/hat 35 dB (A)\n200 m3Jh at 40 dB (A)\n\nBS EN 12665\nDIN 5035\nDIN EN 12464\ndownlight with air\nextraction/admission\n160 m3fh at 35 dB (A)\n200 m3fh at 40 dB (A)\n\ndecorative downlight,\nopen surround with:\n- metal insert\n- smoked glass\n- fresnel insert\n~ acrylic ring\n\nsecondary lighting\nfloor floodlight\n\nII~~~· ~flL\n\n~;jl[~~· uplighter\n\nf) Light fittings and light distribution\n\ndirect/indirect light\n\nl\n\nsquare downlight\nreflector 300 x 300 mm\n\n503\n\n\f"
+        },
+        {
+          "label": "QR-LV/NV reflector lamp power",
+          "value": 20.0,
+          "value_max": 100.0,
+          "unit": "W",
+          "context": "Low-voltage halogen reflector lamp",
+          "status": "verified",
+          "ocr_raw": "QR-LV low-voltage halogen\nNV reflector lamp\n20-100W"
+        },
+        {
+          "label": "Fluorescent lamp power",
+          "value": 8.0,
+          "value_max": 58.0,
+          "unit": "W",
+          "context": "T lamps; table also shows 16, 8 and 2",
+          "status": "verified",
+          "ocr_raw": "LIGHTING\nLamps\n\nlighting type\n\n~'\\ ~\nflood lighting\n\nQ\n\n~\n\n0\n~\n\ngeneral purpose\n\nlamp 60-200W\n\nPAR,R parabolic reflector\nlamp\nreflector lamp\n\n6G-3DDW\n\nhalogen filament\n\nOT32\n\nlamp 75-250W\n\nOT-DE halogen filament\nlamp, sockets both\nsides 100-500W\n\n0\n\nspotlights\n\n0\nup/ights\n\nA\ng\ndown lights\n\n0\n\n0\n\n0\n\n0\n\n0\n\n0\n\n0\n\n~\n\nQR-LV low-voltage halogen\nNV reflector lamp\n20-100W\n\n0\n\n0\n\n8\n2\n\nB-58W\n\n0\n\n0\n\n~\n\nTC\nTC-D\nTC-L\n\ncompact fluorescent\nJamp7-55W\n\n0\n\nHME\n\nmercury vapour\nlamp 50-400W\n\n0\n\nHSE/\nHST\n\nsodium vapour lamp\n\n0\n\nn\n~\n\n0\n\n0\n\n0\n\n5G-250W\n\nHIT\nhalogen metal\nHIT-DE vapour lamp\nCDM-T 35-250W\n\n0\n\n~\nsquare grids\n\n'~\nrectangular grids\n\n0\n\n0\n0\n\n16 fluorescent lamp\n\n'\\\\; 's. '\\\n\n0\n\nQT-LV low-voltage halogen\nNV lamp 10.....150W\n\nT\n\n,----,\n\n<C)>\n\n~\n=\n\n0\n\nA\n\ngrid lighting\n\n0\n\n0\n\n0\n\n0\n\n0\n\n0\n\n0\n\n0\n\nSuitability of lamps and fittings\n\nLIGHTING\n\nsurface-mounted\nspecular louvre\n\nArtificial lighting\nLamps\nTypes of lighting\nLighting layout\nQuality criteria\nIlluminance\nApplication\nWorkplace\nGuidelines\n\nair extraction\ndown light\n160m3/hat 35 dB (A)\n200 m3Jh at 40 dB (A)\n\nBS EN 12665\nDIN 5035\nDIN EN 12464\ndownlight with air\nextraction/admission\n160 m3fh at 35 dB (A)\n200 m3fh at 40 dB (A)\n\ndecorative downlight,\nopen surround with:\n- metal insert\n- smoked glass\n- fresnel insert\n~ acrylic ring\n\nsecondary lighting\nfloor floodlight\n\nII~~~· ~flL\n\n~;jl[~~· uplighter\n\nf) Light fittings and light distribution\n\ndirect/indirect light\n\nl\n\nsquare downlight\nreflector 300 x 300 mm\n\n503\n\n\f"
+        },
+        {
+          "label": "Compact fluorescent lamp power",
+          "value": 7.0,
+          "value_max": 55.0,
+          "unit": "W",
+          "context": "TC, TC-D and TC-L types",
+          "status": "verified",
+          "ocr_raw": "TC\nTC-D\nTC-L\n\ncompact fluorescent\nJamp7-55W"
+        },
+        {
+          "label": "Mercury vapour lamp power",
+          "value": 50.0,
+          "value_max": 400.0,
+          "unit": "W",
+          "context": "HME",
+          "status": "verified",
+          "ocr_raw": "HME\n\nmercury vapour\nlamp 50-400W"
+        },
+        {
+          "label": "Sodium vapour lamp power",
+          "value": 50.0,
+          "value_max": 250.0,
+          "unit": "W",
+          "context": "HSE/HST",
+          "status": "verified",
+          "ocr_raw": "LIGHTING\nLamps\n\nlighting type\n\n~'\\ ~\nflood lighting\n\nQ\n\n~\n\n0\n~\n\ngeneral purpose\n\nlamp 60-200W\n\nPAR,R parabolic reflector\nlamp\nreflector lamp\n\n6G-3DDW\n\nhalogen filament\n\nOT32\n\nlamp 75-250W\n\nOT-DE halogen filament\nlamp, sockets both\nsides 100-500W\n\n0\n\nspotlights\n\n0\nup/ights\n\nA\ng\ndown lights\n\n0\n\n0\n\n0\n\n0\n\n0\n\n0\n\n0\n\n~\n\nQR-LV low-voltage halogen\nNV reflector lamp\n20-100W\n\n0\n\n0\n\n8\n2\n\nB-58W\n\n0\n\n0\n\n~\n\nTC\nTC-D\nTC-L\n\ncompact fluorescent\nJamp7-55W\n\n0\n\nHME\n\nmercury vapour\nlamp 50-400W\n\n0\n\nHSE/\nHST\n\nsodium vapour lamp\n\n0\n\nn\n~\n\n0\n\n0\n\n0\n\n5G-250W\n\nHIT\nhalogen metal\nHIT-DE vapour lamp\nCDM-T 35-250W\n\n0\n\n~\nsquare grids\n\n'~\nrectangular grids\n\n0\n\n0\n0\n\n16 fluorescent lamp\n\n'\\\\; 's. '\\\n\n0\n\nQT-LV low-voltage halogen\nNV lamp 10.....150W\n\nT\n\n,----,\n\n<C)>\n\n~\n=\n\n0\n\nA\n\ngrid lighting\n\n0\n\n0\n\n0\n\n0\n\n0\n\n0\n\n0\n\n0\n\nSuitability of lamps and fittings\n\nLIGHTING\n\nsurface-mounted\nspecular louvre\n\nArtificial lighting\nLamps\nTypes of lighting\nLighting layout\nQuality criteria\nIlluminance\nApplication\nWorkplace\nGuidelines\n\nair extraction\ndown light\n160m3/hat 35 dB (A)\n200 m3Jh at 40 dB (A)\n\nBS EN 12665\nDIN 5035\nDIN EN 12464\ndownlight with air\nextraction/admission\n160 m3fh at 35 dB (A)\n200 m3fh at 40 dB (A)\n\ndecorative downlight,\nopen surround with:\n- metal insert\n- smoked glass\n- fresnel insert\n~ acrylic ring\n\nsecondary lighting\nfloor floodlight\n\nII~~~· ~flL\n\n~;jl[~~· uplighter\n\nf) Light fittings and light distribution\n\ndirect/indirect light\n\nl\n\nsquare downlight\nreflector 300 x 300 mm\n\n503\n\n\f"
+        },
+        {
+          "label": "Halogen metal vapour lamp power",
+          "value": 35.0,
+          "value_max": 250.0,
+          "unit": "W",
+          "context": "HIT, HIT-DE and CDM-T types",
+          "status": "verified",
+          "ocr_raw": "HIT\nhalogen metal\nHIT-DE vapour lamp\nCDM-T 35-250W"
+        }
+      ],
+      "figure_refs": [
+        "1"
+      ],
+      "cross_refs": [],
+      "keywords": [
+        "lighting",
+        "lamps",
+        "fittings",
+        "lamp suitability",
+        "lighting layout"
+      ],
+      "tags_architectural": [],
+      "confidence": 0.91
+    },
+    {
+      "id": "4122fb96e4bd1976-516-vision-1",
+      "pdf_page": 516,
+      "book_page": 503,
+      "chapter": "BUILDING SERVICES",
+      "section": "Lighting",
+      "title": "Light fittings and light distribution",
+      "summary": "Illustrations compare fitting types and light-distribution diagrams, including downlights, spotlights, wallwashers, louvres, uplighters and direct/indirect lighting. Some diagrams report luminous intensity per lamp flux. The page also shows ventilation rates and noise levels for downlights with air extraction, and a square downlight reflector size.",
+      "building_type": "Lighting reference",
+      "spaces": [
+        "Ceiling",
+        "Wall",
+        "Floor"
+      ],
+      "uses": [
+        "Compare light fitting types and distribution",
+        "Reference illustrated luminous-intensity distributions",
+        "Coordinate downlights with air extraction or admission"
+      ],
+      "furniture_equipment": [
+        "Parabolic downlight",
+        "Parabolic spotlight",
+        "Downlight",
+        "Double-focus downlight",
+        "Surface-mounted discharge downlight",
+        "Pendant light",
+        "Downlight with wall floodlight",
+        "Specular louvre wall floodlight",
+        "Linear wallwasher",
+        "Downward directional spotlight",
+        "Floor floodlight",
+        "Ceiling uplighter",
+        "Specular louvre pendant light",
+        "Surface-mounted specular louvre",
+        "Built-in specular louvre light",
+        "Specular louvre light",
+        "Secondary lighting",
+        "Reflecting grating hanging lamp",
+        "Air-extraction downlight",
+        "Decorative downlight",
+        "Square downlight"
+      ],
+      "dimensions": [
+        {
+          "label": "Illustrated luminous intensity",
+          "value": 2500.0,
+          "value_max": null,
+          "unit": "cd/klm",
+          "context": "Parabolic downlight distribution diagram",
+          "status": "verified",
+          "ocr_raw": "LIGHTING\nLamps\n\nlighting type\n\n~'\\ ~\nflood lighting\n\nQ\n\n~\n\n0\n~\n\ngeneral purpose\n\nlamp 60-200W\n\nPAR,R parabolic reflector\nlamp\nreflector lamp\n\n6G-3DDW\n\nhalogen filament\n\nOT32\n\nlamp 75-250W\n\nOT-DE halogen filament\nlamp, sockets both\nsides 100-500W\n\n0\n\nspotlights\n\n0\nup/ights\n\nA\ng\ndown lights\n\n0\n\n0\n\n0\n\n0\n\n0\n\n0\n\n0\n\n~\n\nQR-LV low-voltage halogen\nNV reflector lamp\n20-100W\n\n0\n\n0\n\n8\n2\n\nB-58W\n\n0\n\n0\n\n~\n\nTC\nTC-D\nTC-L\n\ncompact fluorescent\nJamp7-55W\n\n0\n\nHME\n\nmercury vapour\nlamp 50-400W\n\n0\n\nHSE/\nHST\n\nsodium vapour lamp\n\n0\n\nn\n~\n\n0\n\n0\n\n0\n\n5G-250W\n\nHIT\nhalogen metal\nHIT-DE vapour lamp\nCDM-T 35-250W\n\n0\n\n~\nsquare grids\n\n'~\nrectangular grids\n\n0\n\n0\n0\n\n16 fluorescent lamp\n\n'\\\\; 's. '\\\n\n0\n\nQT-LV low-voltage halogen\nNV lamp 10.....150W\n\nT\n\n,----,\n\n<C)>\n\n~\n=\n\n0\n\nA\n\ngrid lighting\n\n0\n\n0\n\n0\n\n0\n\n0\n\n0\n\n0\n\n0\n\nSuitability of lamps and fittings\n\nLIGHTING\n\nsurface-mounted\nspecular louvre\n\nArtificial lighting\nLamps\nTypes of lighting\nLighting layout\nQuality criteria\nIlluminance\nApplication\nWorkplace\nGuidelines\n\nair extraction\ndown light\n160m3/hat 35 dB (A)\n200 m3Jh at 40 dB (A)\n\nBS EN 12665\nDIN 5035\nDIN EN 12464\ndownlight with air\nextraction/admission\n160 m3fh at 35 dB (A)\n200 m3fh at 40 dB (A)\n\ndecorative downlight,\nopen surround with:\n- metal insert\n- smoked glass\n- fresnel insert\n~ acrylic ring\n\nsecondary lighting\nfloor floodlight\n\nII~~~· ~flL\n\n~;jl[~~· uplighter\n\nf) Light fittings and light distribution\n\ndirect/indirect light\n\nl\n\nsquare downlight\nreflector 300 x 300 mm\n\n503\n\n\f"
+        },
+        {
+          "label": "Illustrated luminous intensity",
+          "value": 750.0,
+          "value_max": null,
+          "unit": "cd/klm",
+          "context": "Fitting-distribution diagrams",
+          "status": "verified",
+          "ocr_raw": "LIGHTING\nLamps\n\nlighting type\n\n~'\\ ~\nflood lighting\n\nQ\n\n~\n\n0\n~\n\ngeneral purpose\n\nlamp 60-200W\n\nPAR,R parabolic reflector\nlamp\nreflector lamp\n\n6G-3DDW\n\nhalogen filament\n\nOT32\n\nlamp 75-250W\n\nOT-DE halogen filament\nlamp, sockets both\nsides 100-500W\n\n0\n\nspotlights\n\n0\nup/ights\n\nA\ng\ndown lights\n\n0\n\n0\n\n0\n\n0\n\n0\n\n0\n\n0\n\n~\n\nQR-LV low-voltage halogen\nNV reflector lamp\n20-100W\n\n0\n\n0\n\n8\n2\n\nB-58W\n\n0\n\n0\n\n~\n\nTC\nTC-D\nTC-L\n\ncompact fluorescent\nJamp7-55W\n\n0\n\nHME\n\nmercury vapour\nlamp 50-400W\n\n0\n\nHSE/\nHST\n\nsodium vapour lamp\n\n0\n\nn\n~\n\n0\n\n0\n\n0\n\n5G-250W\n\nHIT\nhalogen metal\nHIT-DE vapour lamp\nCDM-T 35-250W\n\n0\n\n~\nsquare grids\n\n'~\nrectangular grids\n\n0\n\n0\n0\n\n16 fluorescent lamp\n\n'\\\\; 's. '\\\n\n0\n\nQT-LV low-voltage halogen\nNV lamp 10.....150W\n\nT\n\n,----,\n\n<C)>\n\n~\n=\n\n0\n\nA\n\ngrid lighting\n\n0\n\n0\n\n0\n\n0\n\n0\n\n0\n\n0\n\n0\n\nSuitability of lamps and fittings\n\nLIGHTING\n\nsurface-mounted\nspecular louvre\n\nArtificial lighting\nLamps\nTypes of lighting\nLighting layout\nQuality criteria\nIlluminance\nApplication\nWorkplace\nGuidelines\n\nair extraction\ndown light\n160m3/hat 35 dB (A)\n200 m3Jh at 40 dB (A)\n\nBS EN 12665\nDIN 5035\nDIN EN 12464\ndownlight with air\nextraction/admission\n160 m3fh at 35 dB (A)\n200 m3fh at 40 dB (A)\n\ndecorative downlight,\nopen surround with:\n- metal insert\n- smoked glass\n- fresnel insert\n~ acrylic ring\n\nsecondary lighting\nfloor floodlight\n\nII~~~· ~flL\n\n~;jl[~~· uplighter\n\nf) Light fittings and light distribution\n\ndirect/indirect light\n\nl\n\nsquare downlight\nreflector 300 x 300 mm\n\n503\n\n\f"
+        },
+        {
+          "label": "Illustrated luminous intensity",
+          "value": 500.0,
+          "value_max": null,
+          "unit": "cd/klm",
+          "context": "Fitting-distribution diagrams",
+          "status": "verified",
+          "ocr_raw": "LIGHTING\nLamps\n\nlighting type\n\n~'\\ ~\nflood lighting\n\nQ\n\n~\n\n0\n~\n\ngeneral purpose\n\nlamp 60-200W\n\nPAR,R parabolic reflector\nlamp\nreflector lamp\n\n6G-3DDW\n\nhalogen filament\n\nOT32\n\nlamp 75-250W\n\nOT-DE halogen filament\nlamp, sockets both\nsides 100-500W\n\n0\n\nspotlights\n\n0\nup/ights\n\nA\ng\ndown lights\n\n0\n\n0\n\n0\n\n0\n\n0\n\n0\n\n0\n\n~\n\nQR-LV low-voltage halogen\nNV reflector lamp\n20-100W\n\n0\n\n0\n\n8\n2\n\nB-58W\n\n0\n\n0\n\n~\n\nTC\nTC-D\nTC-L\n\ncompact fluorescent\nJamp7-55W\n\n0\n\nHME\n\nmercury vapour\nlamp 50-400W\n\n0\n\nHSE/\nHST\n\nsodium vapour lamp\n\n0\n\nn\n~\n\n0\n\n0\n\n0\n\n5G-250W\n\nHIT\nhalogen metal\nHIT-DE vapour lamp\nCDM-T 35-250W\n\n0\n\n~\nsquare grids\n\n'~\nrectangular grids\n\n0\n\n0\n0\n\n16 fluorescent lamp\n\n'\\\\; 's. '\\\n\n0\n\nQT-LV low-voltage halogen\nNV lamp 10.....150W\n\nT\n\n,----,\n\n<C)>\n\n~\n=\n\n0\n\nA\n\ngrid lighting\n\n0\n\n0\n\n0\n\n0\n\n0\n\n0\n\n0\n\n0\n\nSuitability of lamps and fittings\n\nLIGHTING\n\nsurface-mounted\nspecular louvre\n\nArtificial lighting\nLamps\nTypes of lighting\nLighting layout\nQuality criteria\nIlluminance\nApplication\nWorkplace\nGuidelines\n\nair extraction\ndown light\n160m3/hat 35 dB (A)\n200 m3Jh at 40 dB (A)\n\nBS EN 12665\nDIN 5035\nDIN EN 12464\ndownlight with air\nextraction/admission\n160 m3fh at 35 dB (A)\n200 m3fh at 40 dB (A)\n\ndecorative downlight,\nopen surround with:\n- metal insert\n- smoked glass\n- fresnel insert\n~ acrylic ring\n\nsecondary lighting\nfloor floodlight\n\nII~~~· ~flL\n\n~;jl[~~· uplighter\n\nf) Light fittings and light distribution\n\ndirect/indirect light\n\nl\n\nsquare downlight\nreflector 300 x 300 mm\n\n503\n\n\f"
+        },
+        {
+          "label": "Illustrated luminous intensity",
+          "value": 300.0,
+          "value_max": null,
+          "unit": "cd/klm",
+          "context": "Pendant light distribution diagram",
+          "status": "verified",
+          "ocr_raw": "LIGHTING\nLamps\n\nlighting type\n\n~'\\ ~\nflood lighting\n\nQ\n\n~\n\n0\n~\n\ngeneral purpose\n\nlamp 60-200W\n\nPAR,R parabolic reflector\nlamp\nreflector lamp\n\n6G-3DDW\n\nhalogen filament\n\nOT32\n\nlamp 75-250W\n\nOT-DE halogen filament\nlamp, sockets both\nsides 100-500W\n\n0\n\nspotlights\n\n0\nup/ights\n\nA\ng\ndown lights\n\n0\n\n0\n\n0\n\n0\n\n0\n\n0\n\n0\n\n~\n\nQR-LV low-voltage halogen\nNV reflector lamp\n20-100W\n\n0\n\n0\n\n8\n2\n\nB-58W\n\n0\n\n0\n\n~\n\nTC\nTC-D\nTC-L\n\ncompact fluorescent\nJamp7-55W\n\n0\n\nHME\n\nmercury vapour\nlamp 50-400W\n\n0\n\nHSE/\nHST\n\nsodium vapour lamp\n\n0\n\nn\n~\n\n0\n\n0\n\n0\n\n5G-250W\n\nHIT\nhalogen metal\nHIT-DE vapour lamp\nCDM-T 35-250W\n\n0\n\n~\nsquare grids\n\n'~\nrectangular grids\n\n0\n\n0\n0\n\n16 fluorescent lamp\n\n'\\\\; 's. '\\\n\n0\n\nQT-LV low-voltage halogen\nNV lamp 10.....150W\n\nT\n\n,----,\n\n<C)>\n\n~\n=\n\n0\n\nA\n\ngrid lighting\n\n0\n\n0\n\n0\n\n0\n\n0\n\n0\n\n0\n\n0\n\nSuitability of lamps and fittings\n\nLIGHTING\n\nsurface-mounted\nspecular louvre\n\nArtificial lighting\nLamps\nTypes of lighting\nLighting layout\nQuality criteria\nIlluminance\nApplication\nWorkplace\nGuidelines\n\nair extraction\ndown light\n160m3/hat 35 dB (A)\n200 m3Jh at 40 dB (A)\n\nBS EN 12665\nDIN 5035\nDIN EN 12464\ndownlight with air\nextraction/admission\n160 m3fh at 35 dB (A)\n200 m3fh at 40 dB (A)\n\ndecorative downlight,\nopen surround with:\n- metal insert\n- smoked glass\n- fresnel insert\n~ acrylic ring\n\nsecondary lighting\nfloor floodlight\n\nII~~~· ~flL\n\n~;jl[~~· uplighter\n\nf) Light fittings and light distribution\n\ndirect/indirect light\n\nl\n\nsquare downlight\nreflector 300 x 300 mm\n\n503\n\n\f"
+        },
+        {
+          "label": "Illustrated luminous intensity",
+          "value": 1000.0,
+          "value_max": null,
+          "unit": "cd/klm",
+          "context": "Double-focus downlight distribution diagram",
+          "status": "verified",
+          "ocr_raw": "LIGHTING\nLamps\n\nlighting type\n\n~'\\ ~\nflood lighting\n\nQ\n\n~\n\n0\n~\n\ngeneral purpose\n\nlamp 60-200W\n\nPAR,R parabolic reflector\nlamp\nreflector lamp\n\n6G-3DDW\n\nhalogen filament\n\nOT32\n\nlamp 75-250W\n\nOT-DE halogen filament\nlamp, sockets both\nsides 100-500W\n\n0\n\nspotlights\n\n0\nup/ights\n\nA\ng\ndown lights\n\n0\n\n0\n\n0\n\n0\n\n0\n\n0\n\n0\n\n~\n\nQR-LV low-voltage halogen\nNV reflector lamp\n20-100W\n\n0\n\n0\n\n8\n2\n\nB-58W\n\n0\n\n0\n\n~\n\nTC\nTC-D\nTC-L\n\ncompact fluorescent\nJamp7-55W\n\n0\n\nHME\n\nmercury vapour\nlamp 50-400W\n\n0\n\nHSE/\nHST\n\nsodium vapour lamp\n\n0\n\nn\n~\n\n0\n\n0\n\n0\n\n5G-250W\n\nHIT\nhalogen metal\nHIT-DE vapour lamp\nCDM-T 35-250W\n\n0\n\n~\nsquare grids\n\n'~\nrectangular grids\n\n0\n\n0\n0\n\n16 fluorescent lamp\n\n'\\\\; 's. '\\\n\n0\n\nQT-LV low-voltage halogen\nNV lamp 10.....150W\n\nT\n\n,----,\n\n<C)>\n\n~\n=\n\n0\n\nA\n\ngrid lighting\n\n0\n\n0\n\n0\n\n0\n\n0\n\n0\n\n0\n\n0\n\nSuitability of lamps and fittings\n\nLIGHTING\n\nsurface-mounted\nspecular louvre\n\nArtificial lighting\nLamps\nTypes of lighting\nLighting layout\nQuality criteria\nIlluminance\nApplication\nWorkplace\nGuidelines\n\nair extraction\ndown light\n160m3/hat 35 dB (A)\n200 m3Jh at 40 dB (A)\n\nBS EN 12665\nDIN 5035\nDIN EN 12464\ndownlight with air\nextraction/admission\n160 m3fh at 35 dB (A)\n200 m3fh at 40 dB (A)\n\ndecorative downlight,\nopen surround with:\n- metal insert\n- smoked glass\n- fresnel insert\n~ acrylic ring\n\nsecondary lighting\nfloor floodlight\n\nII~~~· ~flL\n\n~;jl[~~· uplighter\n\nf) Light fittings and light distribution\n\ndirect/indirect light\n\nl\n\nsquare downlight\nreflector 300 x 300 mm\n\n503\n\n\f"
+        },
+        {
+          "label": "Illustrated luminous intensity",
+          "value": 2000.0,
+          "value_max": null,
+          "unit": "cd/klm",
+          "context": "Downward directional spotlight distribution diagram",
+          "status": "verified",
+          "ocr_raw": "LIGHTING\nLamps\n\nlighting type\n\n~'\\ ~\nflood lighting\n\nQ\n\n~\n\n0\n~\n\ngeneral purpose\n\nlamp 60-200W\n\nPAR,R parabolic reflector\nlamp\nreflector lamp\n\n6G-3DDW\n\nhalogen filament\n\nOT32\n\nlamp 75-250W\n\nOT-DE halogen filament\nlamp, sockets both\nsides 100-500W\n\n0\n\nspotlights\n\n0\nup/ights\n\nA\ng\ndown lights\n\n0\n\n0\n\n0\n\n0\n\n0\n\n0\n\n0\n\n~\n\nQR-LV low-voltage halogen\nNV reflector lamp\n20-100W\n\n0\n\n0\n\n8\n2\n\nB-58W\n\n0\n\n0\n\n~\n\nTC\nTC-D\nTC-L\n\ncompact fluorescent\nJamp7-55W\n\n0\n\nHME\n\nmercury vapour\nlamp 50-400W\n\n0\n\nHSE/\nHST\n\nsodium vapour lamp\n\n0\n\nn\n~\n\n0\n\n0\n\n0\n\n5G-250W\n\nHIT\nhalogen metal\nHIT-DE vapour lamp\nCDM-T 35-250W\n\n0\n\n~\nsquare grids\n\n'~\nrectangular grids\n\n0\n\n0\n0\n\n16 fluorescent lamp\n\n'\\\\; 's. '\\\n\n0\n\nQT-LV low-voltage halogen\nNV lamp 10.....150W\n\nT\n\n,----,\n\n<C)>\n\n~\n=\n\n0\n\nA\n\ngrid lighting\n\n0\n\n0\n\n0\n\n0\n\n0\n\n0\n\n0\n\n0\n\nSuitability of lamps and fittings\n\nLIGHTING\n\nsurface-mounted\nspecular louvre\n\nArtificial lighting\nLamps\nTypes of lighting\nLighting layout\nQuality criteria\nIlluminance\nApplication\nWorkplace\nGuidelines\n\nair extraction\ndown light\n160m3/hat 35 dB (A)\n200 m3Jh at 40 dB (A)\n\nBS EN 12665\nDIN 5035\nDIN EN 12464\ndownlight with air\nextraction/admission\n160 m3fh at 35 dB (A)\n200 m3fh at 40 dB (A)\n\ndecorative downlight,\nopen surround with:\n- metal insert\n- smoked glass\n- fresnel insert\n~ acrylic ring\n\nsecondary lighting\nfloor floodlight\n\nII~~~· ~flL\n\n~;jl[~~· uplighter\n\nf) Light fittings and light distribution\n\ndirect/indirect light\n\nl\n\nsquare downlight\nreflector 300 x 300 mm\n\n503\n\n\f"
+        },
+        {
+          "label": "Air-extraction rate",
+          "value": 160.0,
+          "value_max": null,
+          "unit": "m³/h",
+          "context": "Downlight with air extraction; noise level 35 dB (A)",
+          "status": "verified",
+          "ocr_raw": "160m3/hat 35 dB (A)"
+        },
+        {
+          "label": "Air-extraction rate",
+          "value": 200.0,
+          "value_max": null,
+          "unit": "m³/h",
+          "context": "Downlight with air extraction; noise level 40 dB (A)",
+          "status": "verified",
+          "ocr_raw": "LIGHTING\nLamps\n\nlighting type\n\n~'\\ ~\nflood lighting\n\nQ\n\n~\n\n0\n~\n\ngeneral purpose\n\nlamp 60-200W\n\nPAR,R parabolic reflector\nlamp\nreflector lamp\n\n6G-3DDW\n\nhalogen filament\n\nOT32\n\nlamp 75-250W\n\nOT-DE halogen filament\nlamp, sockets both\nsides 100-500W\n\n0\n\nspotlights\n\n0\nup/ights\n\nA\ng\ndown lights\n\n0\n\n0\n\n0\n\n0\n\n0\n\n0\n\n0\n\n~\n\nQR-LV low-voltage halogen\nNV reflector lamp\n20-100W\n\n0\n\n0\n\n8\n2\n\nB-58W\n\n0\n\n0\n\n~\n\nTC\nTC-D\nTC-L\n\ncompact fluorescent\nJamp7-55W\n\n0\n\nHME\n\nmercury vapour\nlamp 50-400W\n\n0\n\nHSE/\nHST\n\nsodium vapour lamp\n\n0\n\nn\n~\n\n0\n\n0\n\n0\n\n5G-250W\n\nHIT\nhalogen metal\nHIT-DE vapour lamp\nCDM-T 35-250W\n\n0\n\n~\nsquare grids\n\n'~\nrectangular grids\n\n0\n\n0\n0\n\n16 fluorescent lamp\n\n'\\\\; 's. '\\\n\n0\n\nQT-LV low-voltage halogen\nNV lamp 10.....150W\n\nT\n\n,----,\n\n<C)>\n\n~\n=\n\n0\n\nA\n\ngrid lighting\n\n0\n\n0\n\n0\n\n0\n\n0\n\n0\n\n0\n\n0\n\nSuitability of lamps and fittings\n\nLIGHTING\n\nsurface-mounted\nspecular louvre\n\nArtificial lighting\nLamps\nTypes of lighting\nLighting layout\nQuality criteria\nIlluminance\nApplication\nWorkplace\nGuidelines\n\nair extraction\ndown light\n160m3/hat 35 dB (A)\n200 m3Jh at 40 dB (A)\n\nBS EN 12665\nDIN 5035\nDIN EN 12464\ndownlight with air\nextraction/admission\n160 m3fh at 35 dB (A)\n200 m3fh at 40 dB (A)\n\ndecorative downlight,\nopen surround with:\n- metal insert\n- smoked glass\n- fresnel insert\n~ acrylic ring\n\nsecondary lighting\nfloor floodlight\n\nII~~~· ~flL\n\n~;jl[~~· uplighter\n\nf) Light fittings and light distribution\n\ndirect/indirect light\n\nl\n\nsquare downlight\nreflector 300 x 300 mm\n\n503\n\n\f"
+        },
+        {
+          "label": "Air extraction/admission rate",
+          "value": 160.0,
+          "value_max": null,
+          "unit": "m³/h",
+          "context": "Downlight with air extraction/admission; noise level 35 dB (A)",
+          "status": "verified",
+          "ocr_raw": "160 m3fh at 35 dB (A)"
+        },
+        {
+          "label": "Air extraction/admission rate",
+          "value": 200.0,
+          "value_max": null,
+          "unit": "m³/h",
+          "context": "Downlight with air extraction/admission; noise level 40 dB (A)",
+          "status": "verified",
+          "ocr_raw": "200 m3fh at 40 dB (A)"
+        },
+        {
+          "label": "Reflector size",
+          "value": 300.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Square downlight reflector; both sides shown as 300 mm",
+          "status": "verified",
+          "ocr_raw": "square downlight\nreflector 300 x 300 mm"
+        }
+      ],
+      "figure_refs": [
+        "2"
+      ],
+      "cross_refs": [
+        "BS EN 12665",
+        "DIN 5035",
+        "DIN EN 12464"
+      ],
+      "keywords": [
+        "lighting",
+        "light fittings",
+        "light distribution",
+        "luminous intensity",
+        "downlight",
+        "air extraction",
+        "illuminance"
+      ],
+      "tags_architectural": [
+        "ventilation"
+      ],
+      "confidence": 0.9
+    }
+  ]
+}

@@ -1,0 +1,169 @@
+{
+  "fichas": [
+    {
+      "id": "4122fb96e4bd1976-119-vision-0",
+      "pdf_page": 119,
+      "book_page": 106,
+      "chapter": "BUILDING COMPONENTS",
+      "section": "Glass",
+      "title": "Delivery shapes of model panes",
+      "summary": "Model panes are specified by sketches and dimensions. Acute angles below 30° require a blunt edge of at least 10 mm. Small panes with edge lengths of 60 cm or less should be avoided because they are more prone to breakage and edge-seal leakage.",
+      "building_type": "Glazing component",
+      "spaces": [],
+      "uses": [
+        "Describing and specifying shaped glass panes"
+      ],
+      "furniture_equipment": [],
+      "dimensions": [
+        {
+          "label": "Acute angle threshold",
+          "value": 30.0,
+          "value_max": null,
+          "unit": "degrees",
+          "context": "Acute angles below this threshold require a blunt edge at the top.",
+          "status": "uncertain",
+          "ocr_raw": "For acute angles of less than 30°, at the top a blunt edge of at least 10 mm is required."
+        },
+        {
+          "label": "Minimum blunt-edge width",
+          "value": 10.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Required at the top of panes with acute angles of less than 30°.",
+          "status": "uncertain",
+          "ocr_raw": "a blunt edge of at least 10 mm is required."
+        },
+        {
+          "label": "Small-pane edge length threshold",
+          "value": 60.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Panes with edge lengths of 60 cm or less should be avoided.",
+          "status": "uncertain",
+          "ocr_raw": "Smaller panes (≤60 cm edge length) should be avoided"
+        }
+      ],
+      "figure_refs": [
+        "1 — Delivery shapes of model panes (examples)"
+      ],
+      "cross_refs": [
+        "→ 0"
+      ],
+      "keywords": [
+        "glass",
+        "model panes",
+        "delivery shapes",
+        "pane geometry",
+        "edge seal",
+        "breakage"
+      ],
+      "tags_architectural": [
+        "safety"
+      ],
+      "confidence": 0.98
+    },
+    {
+      "id": "4122fb96e4bd1976-119-vision-1",
+      "pdf_page": 119,
+      "book_page": 106,
+      "chapter": "BUILDING COMPONENTS",
+      "section": "Glass",
+      "title": "Insulated glazing: thermal performance and integrated systems",
+      "summary": "Insulated glazing can incorporate light-deflection and solar-control systems, transparent thermal insulation, and self-cleaning coatings. Thermally improved spacers raise room-side surface temperatures at the glass-to-frame transition and reduce condensation risk. The pane cavity width depends on construction; integrated blinds and light-control elements are protected between panes, and panes on both sides of such systems must be toughened glass.",
+      "building_type": "Glazing system",
+      "spaces": [
+        "Between-pane cavity"
+      ],
+      "uses": [
+        "Thermal insulation",
+        "Light deflection and solar control",
+        "Reducing condensation at the glass-frame transition",
+        "Providing self-cleaning exterior glass surfaces"
+      ],
+      "furniture_equipment": [
+        "Sunshading blinds",
+        "Rigid light-control elements",
+        "Transparent thermal-insulation tubes or elements",
+        "Thermally improved spacers",
+        "Self-cleaning coatings"
+      ],
+      "dimensions": [
+        {
+          "label": "Pane-space width",
+          "value": 20.0,
+          "value_max": 27.0,
+          "unit": "mm",
+          "context": "Width of the space between panes in glazing with light-deflection systems; varies according to construction.",
+          "status": "uncertain",
+          "ocr_raw": "The width of the space between the panes varies from 20 to 27 mm according to construction."
+        },
+        {
+          "label": "Minimum circle diameter for model pane",
+          "value": 50.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Minimum dimension indicated for the circle-shaped model pane in figure 1.",
+          "status": "uncertain",
+          "ocr_raw": "min. 50 cm"
+        },
+        {
+          "label": "Maximum circle diameter for model pane",
+          "value": 200.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Maximum dimension indicated for the circle-shaped model pane in figure 1.",
+          "status": "uncertain",
+          "ocr_raw": "max. 200 cm"
+        },
+        {
+          "label": "Maximum dimension for semi-circular model pane",
+          "value": 5.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Maximum dimension indicated for the semi-circular model pane in figure 1.",
+          "status": "uncertain",
+          "ocr_raw": "max. 5 m"
+        },
+        {
+          "label": "Minimum corner radius",
+          "value": 10.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Minimum radius shown for rounded-corner model panes in figure 1.",
+          "status": "uncertain",
+          "ocr_raw": "r min. 10 cm"
+        }
+      ],
+      "figure_refs": [
+        "1 — Delivery shapes of model panes (examples)",
+        "2 — Heat flow at the glass-frame transition for highly insulated windows",
+        "3 — Grid, fabric, spotted foils, blinds; glazing units with inserts",
+        "4 — With transparent, translucent, tinted foils; stuck onto glass; laminated safety glass",
+        "5 — Capillary system between panes; diffusing, low U_g values; transparent thermal insulation"
+      ],
+      "cross_refs": [
+        "→ 0",
+        "→ ②",
+        "→ ③",
+        "→ ⑤",
+        "→ p. 105"
+      ],
+      "keywords": [
+        "insulated glazing",
+        "thermal insulation",
+        "thermally improved spacers",
+        "condensation",
+        "solar control",
+        "light deflection",
+        "transparent thermal insulation",
+        "self-cleaning coating",
+        "toughened glass"
+      ],
+      "tags_architectural": [
+        "daylighting",
+        "ventilation"
+      ],
+      "confidence": 0.96
+    }
+  ]
+}

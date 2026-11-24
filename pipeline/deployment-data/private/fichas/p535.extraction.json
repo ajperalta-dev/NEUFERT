@@ -1,0 +1,172 @@
+{
+  "fichas": [
+    {
+      "id": "4122fb96e4bd1976-535-vision-0",
+      "pdf_page": 535,
+      "book_page": 522,
+      "chapter": "BUILDING SERVICES",
+      "section": "Domestic Installation",
+      "title": "Building drainage systems and pipework",
+      "summary": "Building drainage systems are designed to operate by gravity where possible. The page outlines standards applying inside and outside buildings, explains combined and separate wastewater and rainwater systems, and defines downpipes, ground pipes, vent pipes, collector pipes, branch waste pipes, and sewer connections. DIN EN 12056 describes four drainage systems that differ in filling degree, branch-pipe arrangement, and separation of pipework; systems I and IV are stated to be permissible in Germany.",
+      "building_type": "Residential, business, institutional, and industrial buildings",
+      "spaces": [
+        "Building interior",
+        "Roof",
+        "Floor slab",
+        "Cellar",
+        "Plot",
+        "Public sewer"
+      ],
+      "uses": [
+        "Drain wastewater and rainwater",
+        "Ventilate drainage pipework",
+        "Connect building drainage to the public sewer"
+      ],
+      "furniture_equipment": [],
+      "dimensions": [],
+      "figure_refs": [
+        "1 — Areas where standards and regulations apply",
+        "2 — Combined and separate systems",
+        "3 — Drainage system I",
+        "4 — Drainage system IV",
+        "5 — Drainage systems and filling degrees"
+      ],
+      "cross_refs": [
+        "→ 1",
+        "→ 2",
+        "→ 3–4",
+        "→ 5"
+      ],
+      "keywords": [
+        "drainage",
+        "wastewater",
+        "rainwater",
+        "combined drain",
+        "separate system",
+        "downpipe",
+        "ground pipe",
+        "vent pipe",
+        "collector pipe",
+        "branch waste pipe",
+        "sewer connection",
+        "DIN EN 12056",
+        "DIN EN 752",
+        "DIN 1986-100"
+      ],
+      "tags_architectural": [
+        "circulation",
+        "safety"
+      ],
+      "confidence": 0.97
+    },
+    {
+      "id": "4122fb96e4bd1976-535-vision-1",
+      "pdf_page": 535,
+      "book_page": 522,
+      "chapter": "BUILDING SERVICES",
+      "section": "Domestic Installation",
+      "title": "Wastewater drainage design and discharge factors",
+      "summary": "Wastewater pipework is designed from the expected flow, which depends on the use and type of drainage. The page gives the symbolic relationship Qww = K × √Σ(DU), defines the discharge terms, and lists typical discharge factors by building-use frequency. Total wastewater discharge is expressed as Qtot = Qww + Qc + Qp. The decisive design value is the larger of Qww and Qtot, or the wastewater discharge of the sanitary appliance with the largest connection value.",
+      "building_type": "Buildings with wastewater drainage",
+      "spaces": [
+        "Sanitary spaces",
+        "Drainage pipework"
+      ],
+      "uses": [
+        "Estimate wastewater discharge for drainage design",
+        "Select a discharge factor according to building use",
+        "Account for permanent discharge and pumped flow"
+      ],
+      "furniture_equipment": [
+        "Sanitary appliances"
+      ],
+      "dimensions": [
+        {
+          "label": "Discharge factor K",
+          "value": 0.5,
+          "value_max": null,
+          "unit": "dimensionless",
+          "context": "Typical factor for irregular use, e.g. houses, guest houses, and offices.",
+          "status": "uncertain",
+          "ocr_raw": "irregular use, e.g. in houses, guest houses, offices 0.5"
+        },
+        {
+          "label": "Discharge factor K",
+          "value": 0.7,
+          "value_max": null,
+          "unit": "dimensionless",
+          "context": "Typical factor for regular use, e.g. hospitals, schools, restaurants, and hotels.",
+          "status": "uncertain",
+          "ocr_raw": "regular use, e.g. in hospitals, schools, restaurants, hotels 0.7"
+        },
+        {
+          "label": "Discharge factor K",
+          "value": 1.0,
+          "value_max": null,
+          "unit": "dimensionless",
+          "context": "Typical factor for frequent use, e.g. public toilets and/or showers.",
+          "status": "uncertain",
+          "ocr_raw": "frequent use, e.g. in public toilets and/or showers 1.0"
+        },
+        {
+          "label": "Discharge factor K",
+          "value": 1.2,
+          "value_max": null,
+          "unit": "dimensionless",
+          "context": "Typical factor for special use, e.g. laboratories.",
+          "status": "uncertain",
+          "ocr_raw": "special use, e.g. laboratories 1.2"
+        },
+        {
+          "label": "Degree of filling",
+          "value": 0.5,
+          "value_max": null,
+          "unit": "ratio",
+          "context": "System I: single downpipe; partially filled branch pipe; degree of filling 0.5.",
+          "status": "uncertain",
+          "ocr_raw": "single downpipe, partially filled branch pipe, degree of filling 0.5"
+        },
+        {
+          "label": "Degree of filling",
+          "value": 0.7,
+          "value_max": null,
+          "unit": "ratio",
+          "context": "System II: single downpipe; system branch pipe, partially filled; degree of filling 0.7.",
+          "status": "uncertain",
+          "ocr_raw": "single downpipe, system branch pipe, partially filled, degree of filling 0.7"
+        },
+        {
+          "label": "Degree of filling",
+          "value": 1.0,
+          "value_max": null,
+          "unit": "ratio",
+          "context": "System III: single downpipe with full branch pipe; degree of filling 1.0.",
+          "status": "uncertain",
+          "ocr_raw": "single downpipe with full branch pipe, degree of filling 1.0"
+        }
+      ],
+      "figure_refs": [
+        "3 — Drainage system I",
+        "4 — Drainage system IV",
+        "5 — Drainage systems and filling degrees"
+      ],
+      "cross_refs": [
+        "→ 5",
+        "→ 3–4"
+      ],
+      "keywords": [
+        "wastewater discharge",
+        "discharge factor",
+        "Design Units",
+        "permanent discharge",
+        "pumped flow",
+        "drainage system",
+        "degree of filling"
+      ],
+      "tags_architectural": [
+        "safety"
+      ],
+      "confidence": 0.96
+    }
+  ]
+}

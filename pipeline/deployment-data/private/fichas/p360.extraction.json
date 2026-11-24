@@ -1,0 +1,616 @@
+{
+  "fichas": [
+    {
+      "id": "4122fb96e4bd1976-360-vision-0",
+      "pdf_page": 360,
+      "book_page": 347,
+      "chapter": "SPORT AND LEISURE",
+      "section": "Sports Facilities",
+      "title": "Cycle-Cross, BMX",
+      "summary": "BMX facilities have four track types: C, B, A national, and A international. The page describes plot sizes, track lengths, starting hills and gates, jump profiles, spectator separation, and safety provisions. Track curves and obstacles may be placed as desired along the course.",
+      "building_type": "BMX sports facility",
+      "spaces": [
+        "BMX track",
+        "Starting hill",
+        "Starting straight",
+        "Pre-start area",
+        "Spectator space"
+      ],
+      "uses": [
+        "BMX racing",
+        "Rider start and pre-start staging",
+        "Spectator viewing"
+      ],
+      "furniture_equipment": [
+        "Starting gate",
+        "Trackside markings",
+        "Safety barriers",
+        "Warning tape"
+      ],
+      "dimensions": [
+        {
+          "label": "Minimum plot size",
+          "value": 50.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "One stated plot axis; the other axis is 60 m.",
+          "status": "uncertain",
+          "ocr_raw": "Minimum plot size for BMX sport facilities 50 x 60 m."
+        },
+        {
+          "label": "Minimum plot size",
+          "value": 60.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Other stated plot axis; the first axis is 50 m.",
+          "status": "uncertain",
+          "ocr_raw": "Minimum plot size for BMX sport facilities 50 x 60 m."
+        },
+        {
+          "label": "Maximum plot size for a generous track",
+          "value": 100.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "One stated plot axis; the other axis is 200 m.",
+          "status": "uncertain",
+          "ocr_raw": "Maximum dimensions for a generous track with sufficient spectator places 100 x 200 m."
+        },
+        {
+          "label": "Maximum plot size for a generous track",
+          "value": 200.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Other stated plot axis; the other axis is 100 m.",
+          "status": "uncertain",
+          "ocr_raw": "Maximum dimensions for a generous track with sufficient spectator places 100 x 200 m."
+        },
+        {
+          "label": "Starting-hill maximum height",
+          "value": 4.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Maximum height shown in the starting-hill diagram.",
+          "status": "uncertain",
+          "ocr_raw": "max height 4 m"
+        },
+        {
+          "label": "Starting-hill minimum height",
+          "value": 2.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Minimum height shown in the starting-hill diagram.",
+          "status": "uncertain",
+          "ocr_raw": "min height 2.0 m"
+        },
+        {
+          "label": "Starting-hill diagram length",
+          "value": 15.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Approximate length marked in the hill-height diagram.",
+          "status": "uncertain",
+          "ocr_raw": "ca. 15.0"
+        },
+        {
+          "label": "Starting-hill diagram length",
+          "value": 7.5,
+          "value_max": null,
+          "unit": "m",
+          "context": "Approximate length marked in the hill-height diagram.",
+          "status": "uncertain",
+          "ocr_raw": "ca. 7.50"
+        },
+        {
+          "label": "C track minimum length",
+          "value": 200.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "C track.",
+          "status": "uncertain",
+          "ocr_raw": "C track min. length 200 m."
+        },
+        {
+          "label": "C track starting-hill width",
+          "value": 5.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Starting-hill width; stated as four starting places.",
+          "status": "uncertain",
+          "ocr_raw": "Starting hill width = 5 m = 4 starting places"
+        },
+        {
+          "label": "C track starting places",
+          "value": 4.0,
+          "value_max": null,
+          "unit": "places",
+          "context": "Number of starting places associated with a 5 m starting-hill width.",
+          "status": "uncertain",
+          "ocr_raw": "Starting hill width = 5 m = 4 starting places"
+        },
+        {
+          "label": "B track length",
+          "value": 250.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "B track.",
+          "status": "uncertain",
+          "ocr_raw": "B track 250 m."
+        },
+        {
+          "label": "B track starting-hill width",
+          "value": 7.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Starting-hill width; stated as six starting places.",
+          "status": "uncertain",
+          "ocr_raw": "Starting hill width = 7 m = 6 starting places"
+        },
+        {
+          "label": "B track starting places",
+          "value": 6.0,
+          "value_max": null,
+          "unit": "places",
+          "context": "Number of starting places associated with a 7 m starting-hill width.",
+          "status": "uncertain",
+          "ocr_raw": "Starting hill width = 7 m = 6 starting places"
+        },
+        {
+          "label": "B track minimum lap time",
+          "value": 30.0,
+          "value_max": null,
+          "unit": "s",
+          "context": "Minimum lap time.",
+          "status": "uncertain",
+          "ocr_raw": "min. lap time 30 s."
+        },
+        {
+          "label": "A track national minimum length",
+          "value": 270.0,
+          "value_max": 320.0,
+          "unit": "m",
+          "context": "Minimum track length range for A track/national.",
+          "status": "uncertain",
+          "ocr_raw": "A track/national min. length 270-320 m."
+        },
+        {
+          "label": "A track national starting-hill width",
+          "value": 9.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Starting-hill width; stated as eight starting places.",
+          "status": "uncertain",
+          "ocr_raw": "Starting hill width = 9 m = 8 starting places"
+        },
+        {
+          "label": "A track national starting places",
+          "value": 8.0,
+          "value_max": null,
+          "unit": "places",
+          "context": "Number of starting places associated with a 9 m starting-hill width.",
+          "status": "uncertain",
+          "ocr_raw": "Starting hill width = 9 m = 8 starting places"
+        },
+        {
+          "label": "A track national minimum lap time",
+          "value": 35.0,
+          "value_max": null,
+          "unit": "s",
+          "context": "Minimum lap time.",
+          "status": "uncertain",
+          "ocr_raw": "min. lap time 35 s."
+        },
+        {
+          "label": "A track international minimum length",
+          "value": 300.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "A track/international.",
+          "status": "uncertain",
+          "ocr_raw": "A track/international min. length 300 m"
+        },
+        {
+          "label": "A track international starting-hill width",
+          "value": 9.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Starting-hill width; stated as eight starting places.",
+          "status": "uncertain",
+          "ocr_raw": "Starting hill width = 9 m = 8 starting places"
+        },
+        {
+          "label": "A track international starting places",
+          "value": 8.0,
+          "value_max": null,
+          "unit": "places",
+          "context": "Number of starting places associated with a 9 m starting-hill width.",
+          "status": "uncertain",
+          "ocr_raw": "Starting hill width = 9 m = 8 starting places"
+        },
+        {
+          "label": "A track international minimum lap time",
+          "value": 35.0,
+          "value_max": null,
+          "unit": "s",
+          "context": "Minimum lap time.",
+          "status": "uncertain",
+          "ocr_raw": "min. lap time 35 s."
+        },
+        {
+          "label": "Fixed barrier minimum distance",
+          "value": 1.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Minimum distance required for fixed barriers.",
+          "status": "uncertain",
+          "ocr_raw": "Fixed barriers must have a min. distance of 1 m."
+        },
+        {
+          "label": "Maximum downhill speed",
+          "value": 40.0,
+          "value_max": null,
+          "unit": "km/h",
+          "context": "Maximum speed on downhill sections.",
+          "status": "uncertain",
+          "ocr_raw": "Max. speed on downhill sections 40 km/h."
+        },
+        {
+          "label": "Speed-jump profile height",
+          "value": 0.6,
+          "value_max": null,
+          "unit": "m",
+          "context": "Figure 5, speed jump.",
+          "status": "uncertain",
+          "ocr_raw": "0.6"
+        },
+        {
+          "label": "Speed-jump profile length",
+          "value": 2.3,
+          "value_max": null,
+          "unit": "m",
+          "context": "Figure 5, speed jump.",
+          "status": "uncertain",
+          "ocr_raw": "2.3"
+        },
+        {
+          "label": "Speed-jump profile height",
+          "value": 0.5,
+          "value_max": null,
+          "unit": "m",
+          "context": "Figure 6, speed jump.",
+          "status": "uncertain",
+          "ocr_raw": "0.5"
+        },
+        {
+          "label": "Speed-jump profile length",
+          "value": 1.8,
+          "value_max": null,
+          "unit": "m",
+          "context": "Figure 6, speed jump.",
+          "status": "uncertain",
+          "ocr_raw": "1.8"
+        },
+        {
+          "label": "Triple-jump first profile height",
+          "value": 0.4,
+          "value_max": null,
+          "unit": "m",
+          "context": "Figure 7, first jump profile.",
+          "status": "uncertain",
+          "ocr_raw": "0.4"
+        },
+        {
+          "label": "Triple-jump first profile length",
+          "value": 1.4,
+          "value_max": null,
+          "unit": "m",
+          "context": "Figure 7, first profile segment.",
+          "status": "uncertain",
+          "ocr_raw": "1.4"
+        },
+        {
+          "label": "Triple-jump first interval",
+          "value": 2.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Figure 7, interval between first and second jump profiles.",
+          "status": "uncertain",
+          "ocr_raw": "2.00"
+        },
+        {
+          "label": "Triple-jump second profile height",
+          "value": 0.5,
+          "value_max": null,
+          "unit": "m",
+          "context": "Figure 7, second jump profile.",
+          "status": "uncertain",
+          "ocr_raw": "0.5"
+        },
+        {
+          "label": "Triple-jump second profile length",
+          "value": 1.6,
+          "value_max": null,
+          "unit": "m",
+          "context": "Figure 7, second profile segment.",
+          "status": "uncertain",
+          "ocr_raw": "1.6"
+        },
+        {
+          "label": "Triple-jump second interval",
+          "value": 2.5,
+          "value_max": null,
+          "unit": "m",
+          "context": "Figure 7, interval between second and third jump profiles.",
+          "status": "uncertain",
+          "ocr_raw": "2.5"
+        },
+        {
+          "label": "Triple-jump third profile height",
+          "value": 0.7,
+          "value_max": null,
+          "unit": "m",
+          "context": "Figure 7, third jump profile.",
+          "status": "uncertain",
+          "ocr_raw": "0.7"
+        },
+        {
+          "label": "Triple-jump third profile length",
+          "value": 2.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Figure 7, third profile segment.",
+          "status": "uncertain",
+          "ocr_raw": "2.0"
+        },
+        {
+          "label": "Double speed-jump profile height",
+          "value": 0.5,
+          "value_max": null,
+          "unit": "m",
+          "context": "Figure 8, first profile.",
+          "status": "uncertain",
+          "ocr_raw": "0.5"
+        },
+        {
+          "label": "Double speed-jump first segment",
+          "value": 3.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Figure 8, first segment.",
+          "status": "uncertain",
+          "ocr_raw": "3.0"
+        },
+        {
+          "label": "Double speed-jump middle segment",
+          "value": 4.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Figure 8, between the two jump profiles.",
+          "status": "uncertain",
+          "ocr_raw": "4.0"
+        },
+        {
+          "label": "Double speed-jump second profile height",
+          "value": 0.6,
+          "value_max": null,
+          "unit": "m",
+          "context": "Figure 8, second profile.",
+          "status": "uncertain",
+          "ocr_raw": "0.6"
+        },
+        {
+          "label": "Double speed-jump final segment",
+          "value": 3.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Figure 8, final segment.",
+          "status": "uncertain",
+          "ocr_raw": "3.0"
+        },
+        {
+          "label": "Step-jump height",
+          "value": 0.7,
+          "value_max": null,
+          "unit": "m",
+          "context": "Figure 9, height marking.",
+          "status": "uncertain",
+          "ocr_raw": "0.7"
+        },
+        {
+          "label": "Step-jump height",
+          "value": 0.8,
+          "value_max": null,
+          "unit": "m",
+          "context": "Figure 9, second height marking.",
+          "status": "uncertain",
+          "ocr_raw": "0.8"
+        },
+        {
+          "label": "Step-jump profile length",
+          "value": 2.1,
+          "value_max": null,
+          "unit": "m",
+          "context": "Figure 9, first horizontal dimension.",
+          "status": "uncertain",
+          "ocr_raw": "2.1"
+        },
+        {
+          "label": "Step-jump profile length",
+          "value": 3.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Figure 9, second horizontal dimension.",
+          "status": "uncertain",
+          "ocr_raw": "3.0"
+        },
+        {
+          "label": "Canon-jump approach length",
+          "value": 1.2,
+          "value_max": null,
+          "unit": "m",
+          "context": "Figure 10, approach-side horizontal dimension.",
+          "status": "uncertain",
+          "ocr_raw": "1.2"
+        },
+        {
+          "label": "Canon-jump central length",
+          "value": 3.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Figure 10, central horizontal dimension.",
+          "status": "uncertain",
+          "ocr_raw": "3.0"
+        },
+        {
+          "label": "Canon-jump exit length",
+          "value": 1.2,
+          "value_max": null,
+          "unit": "m",
+          "context": "Figure 10, exit-side horizontal dimension.",
+          "status": "uncertain",
+          "ocr_raw": "1.2"
+        },
+        {
+          "label": "Canon-jump height",
+          "value": 0.8,
+          "value_max": null,
+          "unit": "m",
+          "context": "Figure 10, height marking.",
+          "status": "uncertain",
+          "ocr_raw": "0.8"
+        },
+        {
+          "label": "Mogul-jump height",
+          "value": 0.5,
+          "value_max": null,
+          "unit": "m",
+          "context": "Figure 11, repeated mogul height marking.",
+          "status": "uncertain",
+          "ocr_raw": "0.5"
+        },
+        {
+          "label": "Mogul-jump repeated spacing",
+          "value": 2.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Figure 11, repeated horizontal segment.",
+          "status": "uncertain",
+          "ocr_raw": "2.0"
+        },
+        {
+          "label": "Mogul-jump intermediate spacing",
+          "value": 1.5,
+          "value_max": null,
+          "unit": "m",
+          "context": "Figure 11, repeated horizontal segment.",
+          "status": "uncertain",
+          "ocr_raw": "1.5"
+        },
+        {
+          "label": "Tabletop height",
+          "value": 1.6,
+          "value_max": null,
+          "unit": "m",
+          "context": "Figure 12, vertical height marking.",
+          "status": "uncertain",
+          "ocr_raw": "1.6"
+        },
+        {
+          "label": "Tabletop approach length",
+          "value": 2.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Figure 12, approach segment.",
+          "status": "uncertain",
+          "ocr_raw": "2.0"
+        },
+        {
+          "label": "Tabletop top length",
+          "value": 4.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Figure 12, flat tabletop segment.",
+          "status": "uncertain",
+          "ocr_raw": "4.0"
+        },
+        {
+          "label": "Tabletop exit length",
+          "value": 3.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Figure 12, exit segment.",
+          "status": "uncertain",
+          "ocr_raw": "3.0"
+        },
+        {
+          "label": "BMX track length",
+          "value": 300.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Track shown in figure 13, WM ’87 in Bordeaux.",
+          "status": "uncertain",
+          "ocr_raw": "track length 300 m"
+        },
+        {
+          "label": "BMX track dimension",
+          "value": 15.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Dimension shown on figure 14, BMX track at the IFMA ’84 in Cologne.",
+          "status": "uncertain",
+          "ocr_raw": "15.0"
+        },
+        {
+          "label": "BMX track dimension",
+          "value": 4.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Dimension shown on figure 14, BMX track at the IFMA ’84 in Cologne.",
+          "status": "uncertain",
+          "ocr_raw": "4.0"
+        },
+        {
+          "label": "BMX track dimension",
+          "value": 8.5,
+          "value_max": null,
+          "unit": "m",
+          "context": "Dimension shown on figure 14, BMX track at the IFMA ’84 in Cologne.",
+          "status": "uncertain",
+          "ocr_raw": "8.50"
+        }
+      ],
+      "figure_refs": [
+        "1 Starting hill",
+        "2 Heights of the starting hill",
+        "3 Starting hill detail",
+        "4 Starting ramp with pre-start area",
+        "5 Speed jump",
+        "6 Speed jump",
+        "7 Triple jump (or triple combination)",
+        "8 Double speed jump",
+        "9 Step jump",
+        "10 Canon jump",
+        "11 Mogul jump (moguls)",
+        "12 Table top",
+        "13 BMX track at the WM ’87 in Bordeaux",
+        "14 BMX track at the IFMA ’84 in Cologne"
+      ],
+      "cross_refs": [],
+      "keywords": [
+        "BMX",
+        "cycle-cross",
+        "track",
+        "starting hill",
+        "starting gate",
+        "jump",
+        "spectator safety",
+        "barriers"
+      ],
+      "tags_architectural": [
+        "circulation",
+        "safety",
+        "clearance"
+      ],
+      "confidence": 0.91
+    }
+  ]
+}

@@ -1,0 +1,202 @@
+{
+  "fichas": [
+    {
+      "id": "4122fb96e4bd1976-279-vision-0",
+      "pdf_page": 279,
+      "book_page": 266,
+      "chapter": "INDUSTRY AND TRADE",
+      "section": "Industry",
+      "title": "Multi-Storey Industrial Buildings",
+      "summary": "Multi-storey industrial buildings suit production processes in which materials are conveyed to the uppermost floor and then descend by gravity, as well as light industry. They are compact and space-saving, with good operating costs, simple ventilation and good side lighting, but are expensive and have limited floor loadings. The page discusses structural spans, room heights, column layouts, daylighting, window areas and floor-slab supports.",
+      "building_type": "Multi-storey industrial building",
+      "spaces": [
+        "Production areas",
+        "Working rooms",
+        "Central traffic routes",
+        "Stairs and toilets",
+        "Crane shed",
+        "Offset upper-floor balconies"
+      ],
+      "uses": [
+        "Breweries",
+        "Paper mills",
+        "Warehouses",
+        "Electronic industry",
+        "Precision mechanical industry",
+        "Light industry",
+        "Vertical transport of work items"
+      ],
+      "furniture_equipment": [
+        "Crane",
+        "Blinds",
+        "Motorised sun awnings",
+        "Sun shades",
+        "Venetian blinds",
+        "Light-scattering glass"
+      ],
+      "dimensions": [
+        {
+          "label": "Guideline working-room clear height",
+          "value": 3.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Guideline for working rooms larger than 100 m².",
+          "status": "uncertain",
+          "ocr_raw": "guideline 3.00 m for working rooms larger than 100 m2"
+        },
+        {
+          "label": "Working-room area threshold",
+          "value": 100.0,
+          "value_max": null,
+          "unit": "m²",
+          "context": "The 3.00 m clear-height guideline applies to working rooms larger than this area.",
+          "status": "uncertain",
+          "ocr_raw": "larger than 100 m2"
+        },
+        {
+          "label": "Plan depth to room height ratio",
+          "value": 2.0,
+          "value_max": null,
+          "unit": "ratio",
+          "context": "Good ratio for free-standing multi-storey factory buildings with windows without visible lintels; central traffic routes are excluded from the calculation.",
+          "status": "uncertain",
+          "ocr_raw": "A good ratio is 2:1 (plan depth : room height)"
+        },
+        {
+          "label": "Economic building depth without columns",
+          "value": 12.0,
+          "value_max": 15.0,
+          "unit": "m",
+          "context": "For rooms with 3 m clear height.",
+          "status": "uncertain",
+          "ocr_raw": "Economic building depths are 12.0-15.0 m (3 m clear height) for rooms without columns"
+        },
+        {
+          "label": "Clear height for rooms without columns",
+          "value": 3.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Associated with the stated economic building depth for rooms without columns.",
+          "status": "uncertain",
+          "ocr_raw": "12.0-15.0 m (3 m clear height) for rooms without columns"
+        },
+        {
+          "label": "Economic building depth with 1 or 2 columns",
+          "value": 15.0,
+          "value_max": 17.5,
+          "unit": "m",
+          "context": "For rooms with 4 m clear height.",
+          "status": "uncertain",
+          "ocr_raw": "15.0 or 17.5 m (4 m clear height) with 1 or 2 columns"
+        },
+        {
+          "label": "Clear height with 1 or 2 columns",
+          "value": 4.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Associated with the stated economic building depths for rooms with 1 or 2 columns.",
+          "status": "uncertain",
+          "ocr_raw": "15.0 or 17.5 m (4 m clear height) with 1 or 2 columns"
+        },
+        {
+          "label": "Economic building depth with two columns",
+          "value": 20.0,
+          "value_max": 22.5,
+          "unit": "m",
+          "context": "For rooms with 5 m clear height.",
+          "status": "uncertain",
+          "ocr_raw": "20 or 22.5 m (5 m clear height) with two columns"
+        },
+        {
+          "label": "Clear height with two columns",
+          "value": 5.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Associated with the stated economic building depths for rooms with two columns.",
+          "status": "uncertain",
+          "ocr_raw": "20 or 22.5 m (5 m clear height) with two columns"
+        },
+        {
+          "label": "Working-area distance from window to clear window height ratio",
+          "value": 2.0,
+          "value_max": null,
+          "unit": "ratio",
+          "context": "The working area should be twice as far from the window as the clear window height.",
+          "status": "uncertain",
+          "ocr_raw": "The distance of the working area from the window should be twice as long as the clear window height"
+        },
+        {
+          "label": "Ground-floor angle of light",
+          "value": 27.0,
+          "value_max": null,
+          "unit": "degrees",
+          "context": "For the best lighting from free-standing buildings spaced at twice their height.",
+          "status": "uncertain",
+          "ocr_raw": "ground floor angle of light = 27°"
+        },
+        {
+          "label": "Window area to floor area ratio",
+          "value": 1.0,
+          "value_max": null,
+          "unit": "ratio",
+          "context": "Approximate window area for rooms up to 600 m²; printed fraction is 1/10 of floor area.",
+          "status": "uncertain",
+          "ocr_raw": "1/1 0 of the floor area for rooms up to 600m 2"
+        },
+        {
+          "label": "Room area threshold for approximate window-area guidance",
+          "value": 600.0,
+          "value_max": null,
+          "unit": "m²",
+          "context": "Approximate window-area guidance applies to rooms up to this area.",
+          "status": "uncertain",
+          "ocr_raw": "for rooms up to 600m 2"
+        },
+        {
+          "label": "Window area to floor area ratio for fine work",
+          "value": 1.0,
+          "value_max": null,
+          "unit": "ratio",
+          "context": "For fine work; printed fraction is 1/5 of floor area.",
+          "status": "uncertain",
+          "ocr_raw": "for fine work, provide 1/5 of the floor area"
+        }
+      ],
+      "figure_refs": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12"
+      ],
+      "cross_refs": [
+        "p. 263"
+      ],
+      "keywords": [
+        "industrial buildings",
+        "multi-storey",
+        "building depth",
+        "room height",
+        "structural spans",
+        "columns",
+        "daylighting",
+        "window area",
+        "floor slabs"
+      ],
+      "tags_architectural": [
+        "circulation",
+        "daylighting",
+        "ventilation",
+        "spatial_proportion"
+      ],
+      "confidence": 0.91
+    }
+  ]
+}

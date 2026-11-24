@@ -1,0 +1,243 @@
+{
+  "fichas": [
+    {
+      "id": "4122fb96e4bd1976-125-vision-0",
+      "pdf_page": 125,
+      "book_page": 112,
+      "chapter": "BUILDING COMPONENTS",
+      "section": "Glass",
+      "title": "Cold façades",
+      "summary": "A cold façade is a single-skin curtain wall with a ventilated cavity behind it and single- or double-glazed external cladding panels. The panels may be fixed around the perimeter, on two sides, or at points. Point-fixed panels require technical or special-case approval. The façade panels may be colour-coated or screen-printed; visible edges are finely ground and polished, while non-visible edges are ground.",
+      "building_type": "Curtain wall façade",
+      "spaces": [],
+      "uses": [
+        "External cladding",
+        "Ventilated façade construction"
+      ],
+      "furniture_equipment": [
+        "Single- or double-glazed external cladding panels"
+      ],
+      "dimensions": [
+        {
+          "label": "Ventilated cavity width",
+          "value": 40.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Approximate width of the cavity behind the single-skin curtain wall.",
+          "status": "uncertain",
+          "ocr_raw": "width approx. 40 em"
+        }
+      ],
+      "figure_refs": [
+        "1 Cold façade with rear ventilation and glass parapet cladding (EnEV → refs)"
+      ],
+      "cross_refs": [
+        "EnEV → refs"
+      ],
+      "keywords": [
+        "cold façade",
+        "curtain walling",
+        "ventilated cavity",
+        "glass cladding",
+        "screen printing"
+      ],
+      "tags_architectural": [
+        "ventilation"
+      ],
+      "confidence": 0.96
+    },
+    {
+      "id": "4122fb96e4bd1976-125-vision-1",
+      "pdf_page": 125,
+      "book_page": 112,
+      "chapter": "BUILDING COMPONENTS",
+      "section": "Glass",
+      "title": "Warm façade without ventilation at rear",
+      "summary": "A warm façade may use post-and-rail curtain walling or storey-height curtain wall elements. Its non-transparent parts or parapets have glass panels. The external panel may be backed by thermal insulation, with an internal layer sealed against water-vapour diffusion. An additional glass layer may create a two-dimensional appearance; if the panel remains the drainage layer, the construction is still a warm façade.",
+      "building_type": "Curtain wall façade",
+      "spaces": [],
+      "uses": [
+        "External enclosure",
+        "Thermal insulation",
+        "Rainwater drainage"
+      ],
+      "furniture_equipment": [
+        "Glass parapet panels",
+        "External façade panel",
+        "Thermal insulation",
+        "Internal vapour-diffusion-sealed layer"
+      ],
+      "dimensions": [],
+      "figure_refs": [
+        "2 Warm façade without ventilation but with glass parapet cladding (EnEV → refs)"
+      ],
+      "cross_refs": [
+        "EnEV → refs"
+      ],
+      "keywords": [
+        "warm façade",
+        "curtain walling",
+        "post and rail",
+        "storey-height elements",
+        "parapet",
+        "thermal insulation"
+      ],
+      "tags_architectural": [
+        "ventilation"
+      ],
+      "confidence": 0.95
+    },
+    {
+      "id": "4122fb96e4bd1976-125-vision-2",
+      "pdf_page": 125,
+      "book_page": 112,
+      "chapter": "BUILDING COMPONENTS",
+      "section": "Glass",
+      "title": "Flush glass curtain wall",
+      "summary": "Structural glazing creates a uniform, flat façade appearance. A full-surface glass appearance is possible when panes are glued to metal frames. The system and structural sealing require applicable technical approval. In Germany, façades over the stated height require additional mechanical fixing of panes, and insulated glazing requires a UV-resistant edge seal.",
+      "building_type": "Structural glazing façade",
+      "spaces": [],
+      "uses": [
+        "External glazing",
+        "Structural glazing"
+      ],
+      "furniture_equipment": [
+        "Glass panes",
+        "Metal frames",
+        "Structural sealant",
+        "Mechanical pane fixings"
+      ],
+      "dimensions": [
+        {
+          "label": "Façade height threshold for additional mechanical pane fixing",
+          "value": 8.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "In Germany, façades over this height must have additional mechanical fixing of the panes.",
+          "status": "uncertain",
+          "ocr_raw": "all façades over 8 m in height must have an additional mechanical fixing of the panes"
+        }
+      ],
+      "figure_refs": [
+        "4 Flush glass curtain wall"
+      ],
+      "cross_refs": [],
+      "keywords": [
+        "flush glass curtain wall",
+        "structural glazing",
+        "metal frames",
+        "mechanical fixing",
+        "edge seal"
+      ],
+      "tags_architectural": [
+        "safety"
+      ],
+      "confidence": 0.94
+    },
+    {
+      "id": "4122fb96e4bd1976-125-vision-3",
+      "pdf_page": 125,
+      "book_page": 112,
+      "chapter": "BUILDING COMPONENTS",
+      "section": "Glass",
+      "title": "Radar damping",
+      "summary": "Radar reflection damping may be required by German Air Traffic Control for façades of larger buildings near airports. Special coatings can damp radar signals through absorption and phase-delayed interference. Glass structure and light and energy performance are determined for each application, and a radar report is generally commissioned for each building. Other façade surfaces are also investigated.",
+      "building_type": "Building façade",
+      "spaces": [],
+      "uses": [
+        "Reduce radar reflections near airports",
+        "Support aviation safety"
+      ],
+      "furniture_equipment": [
+        "Insulated glazing with special coatings"
+      ],
+      "dimensions": [],
+      "figure_refs": [],
+      "cross_refs": [],
+      "keywords": [
+        "radar damping",
+        "radar reflection",
+        "airport",
+        "insulated glazing",
+        "special coatings"
+      ],
+      "tags_architectural": [
+        "safety"
+      ],
+      "confidence": 0.95
+    },
+    {
+      "id": "4122fb96e4bd1976-125-vision-4",
+      "pdf_page": 125,
+      "book_page": 112,
+      "chapter": "BUILDING COMPONENTS",
+      "section": "Glass",
+      "title": "Curtain walling with fire-resistant glass",
+      "summary": "Fire-resistant glazing has limited practicality for external use because its foaming fire-protection layer must not be heated beyond the stated temperature range. For façades exposed to direct sunshine, this can only be guaranteed with effective sun shading.",
+      "building_type": "Curtain wall façade",
+      "spaces": [],
+      "uses": [
+        "Fire protection"
+      ],
+      "furniture_equipment": [
+        "Fire-resistant glazing",
+        "Sun shading"
+      ],
+      "dimensions": [
+        {
+          "label": "Maximum temperature range for foaming fire-protection layer",
+          "value": 50.0,
+          "value_max": 60.0,
+          "unit": "°C",
+          "context": "The foaming fire-protection layer cannot be heated over this temperature range.",
+          "status": "uncertain",
+          "ocr_raw": "cannot be heated over 50-60°C"
+        }
+      ],
+      "figure_refs": [],
+      "cross_refs": [],
+      "keywords": [
+        "fire-resistant glass",
+        "fire protection",
+        "sun shading",
+        "curtain walling"
+      ],
+      "tags_architectural": [
+        "safety"
+      ],
+      "confidence": 0.95
+    },
+    {
+      "id": "4122fb96e4bd1976-125-vision-5",
+      "pdf_page": 125,
+      "book_page": 112,
+      "chapter": "BUILDING COMPONENTS",
+      "section": "Glass",
+      "title": "Sun screens",
+      "summary": "Sun screens are additional external transparent sun-shading layers made from metallic oxide-coated toughened glass panes. The coating should face the weather side. Panels may be fixed around the perimeter, on two sides, or at points; point fixing requires technical or special-case approval.",
+      "building_type": "External sun-shading system",
+      "spaces": [],
+      "uses": [
+        "Solar shading"
+      ],
+      "furniture_equipment": [
+        "Metallic oxide-coated toughened glass panes"
+      ],
+      "dimensions": [],
+      "figure_refs": [],
+      "cross_refs": [],
+      "keywords": [
+        "sun screens",
+        "solar shading",
+        "toughened glass",
+        "metallic oxide coating",
+        "weather side"
+      ],
+      "tags_architectural": [
+        "daylighting",
+        "safety"
+      ],
+      "confidence": 0.95
+    }
+  ]
+}

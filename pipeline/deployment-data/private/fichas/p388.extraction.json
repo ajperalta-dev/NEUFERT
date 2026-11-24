@@ -1,0 +1,393 @@
+{
+  "fichas": [
+    {
+      "id": "4122fb96e4bd1976-388-vision-0",
+      "pdf_page": 388,
+      "book_page": 375,
+      "chapter": "SPORT AND LEISURE",
+      "section": "Amusement Arcades",
+      "title": "Amusement Arcades",
+      "summary": "Overview of amusement arcade planning, equipment, and regulation. The plan shows separate arcade areas, gaming machines, card games, billiard tables, driving simulators, food and drink dispensers, staff facilities, toilets, and an entrance from the car park. Gambling machines are subject to limits based on floor area; ancillary areas such as storerooms, corridors, toilets, anterooms, and stairs are excluded from the floor-area calculation. Planning controls and permission requirements are also described.",
+      "building_type": "Amusement arcade",
+      "spaces": [
+        "Arcade floor",
+        "Entrance from car park",
+        "Food and drink dispenser area",
+        "Staff area",
+        "Women’s toilet",
+        "Men’s toilet",
+        "Supervisor area",
+        "Card games area",
+        "Billiard tables area",
+        "Driving simulators area",
+        "Video games area"
+      ],
+      "uses": [
+        "Recreational gaming",
+        "Operating gambling machines subject to regulations",
+        "Card games",
+        "Billiards",
+        "Driving simulation",
+        "Providing food and drinks"
+      ],
+      "furniture_equipment": [
+        "Games console",
+        "Flipper",
+        "Standing slot machines",
+        "Card game machine",
+        "Driving simulator",
+        "Bike simulator",
+        "Pool table",
+        "Slot machine",
+        "Gaming machine",
+        "Billiard tables",
+        "Food and drinks dispensers",
+        "Service counter"
+      ],
+      "dimensions": [
+        {
+          "label": "Permitted floor area per gambling machine",
+          "value": 15.0,
+          "value_max": null,
+          "unit": "m²",
+          "context": "One gambling machine offering money or goods as winnings may be positioned on this floor area.",
+          "status": "uncertain",
+          "ocr_raw": "On a floor area of 15 m2, only one gambling machine to win money or goods may be positioned."
+        },
+        {
+          "label": "Maximum number of gambling machines",
+          "value": 10.0,
+          "value_max": null,
+          "unit": "machines",
+          "context": "Total number in the arcade; the text excludes storerooms, corridors, toilets, anterooms and stairs from the floor-area calculation.",
+          "status": "uncertain",
+          "ocr_raw": "The total number may not exceed 10 machines"
+        },
+        {
+          "label": "Arcade A indicated area",
+          "value": 150.0,
+          "value_max": null,
+          "unit": "m²",
+          "context": "Plan label; shown as an upper limit.",
+          "status": "uncertain",
+          "ocr_raw": "arcade A ≤ 150m²"
+        },
+        {
+          "label": "Arcade B indicated area",
+          "value": 150.0,
+          "value_max": null,
+          "unit": "m²",
+          "context": "Plan label; shown as an upper limit.",
+          "status": "uncertain",
+          "ocr_raw": "arcade B ≤ 150m²"
+        },
+        {
+          "label": "Games console height",
+          "value": 1670.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Equipment dimension in elevation.",
+          "status": "uncertain",
+          "ocr_raw": "1670"
+        },
+        {
+          "label": "Games console width",
+          "value": 650.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Equipment footprint dimension.",
+          "status": "uncertain",
+          "ocr_raw": "650"
+        },
+        {
+          "label": "Games console depth",
+          "value": 610.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Equipment footprint dimension.",
+          "status": "uncertain",
+          "ocr_raw": "610"
+        },
+        {
+          "label": "Flipper height",
+          "value": 1930.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Equipment dimension in elevation.",
+          "status": "uncertain",
+          "ocr_raw": "1930"
+        },
+        {
+          "label": "Flipper width",
+          "value": 1300.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Equipment footprint dimension.",
+          "status": "uncertain",
+          "ocr_raw": "1300"
+        },
+        {
+          "label": "Flipper depth",
+          "value": 560.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Equipment footprint dimension.",
+          "status": "uncertain",
+          "ocr_raw": "560"
+        },
+        {
+          "label": "Standing slot machines height",
+          "value": 1810.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Equipment dimension in elevation.",
+          "status": "uncertain",
+          "ocr_raw": "1810"
+        },
+        {
+          "label": "Standing slot machines width",
+          "value": 1680.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Equipment footprint dimension.",
+          "status": "uncertain",
+          "ocr_raw": "1680"
+        },
+        {
+          "label": "Standing slot machines depth",
+          "value": 550.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Equipment footprint dimension.",
+          "status": "uncertain",
+          "ocr_raw": "550"
+        },
+        {
+          "label": "Gaming machine width",
+          "value": 590.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Gaming machine dimension printed beside the standing slot machines.",
+          "status": "uncertain",
+          "ocr_raw": "gaming machine 590 x 850 x 290"
+        },
+        {
+          "label": "Gaming machine height",
+          "value": 850.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Gaming machine dimension printed beside the standing slot machines.",
+          "status": "uncertain",
+          "ocr_raw": "gaming machine 590 x 850 x 290"
+        },
+        {
+          "label": "Gaming machine depth",
+          "value": 290.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Gaming machine dimension printed beside the standing slot machines.",
+          "status": "uncertain",
+          "ocr_raw": "gaming machine 590 x 850 x 290"
+        },
+        {
+          "label": "Card game machine length",
+          "value": 1640.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Equipment footprint dimension.",
+          "status": "uncertain",
+          "ocr_raw": "1640"
+        },
+        {
+          "label": "Card game machine width",
+          "value": 1300.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Equipment footprint dimension.",
+          "status": "uncertain",
+          "ocr_raw": "1300"
+        },
+        {
+          "label": "Card game machine table height",
+          "value": 1330.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Dimension shown beside the card game machine and stools.",
+          "status": "uncertain",
+          "ocr_raw": "1330"
+        },
+        {
+          "label": "Driving simulator height",
+          "value": 1600.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Equipment dimension in elevation.",
+          "status": "uncertain",
+          "ocr_raw": "1600"
+        },
+        {
+          "label": "Driving simulator length",
+          "value": 1700.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Equipment footprint dimension.",
+          "status": "uncertain",
+          "ocr_raw": "1700"
+        },
+        {
+          "label": "Driving simulator width",
+          "value": 1200.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Equipment footprint dimension.",
+          "status": "uncertain",
+          "ocr_raw": "1200"
+        },
+        {
+          "label": "Bike simulator height",
+          "value": 1300.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Equipment dimension in elevation.",
+          "status": "uncertain",
+          "ocr_raw": "1300"
+        },
+        {
+          "label": "Bike simulator length",
+          "value": 1200.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Equipment footprint dimension.",
+          "status": "uncertain",
+          "ocr_raw": "1200"
+        },
+        {
+          "label": "Bike simulator width",
+          "value": 1500.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Equipment footprint dimension.",
+          "status": "uncertain",
+          "ocr_raw": "1500"
+        },
+        {
+          "label": "Pool table length",
+          "value": 2600.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Equipment footprint dimension.",
+          "status": "uncertain",
+          "ocr_raw": "2600"
+        },
+        {
+          "label": "Pool table width",
+          "value": 1500.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Equipment footprint dimension.",
+          "status": "uncertain",
+          "ocr_raw": "1500"
+        },
+        {
+          "label": "Pool table height",
+          "value": 800.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Equipment dimension in elevation.",
+          "status": "uncertain",
+          "ocr_raw": "800"
+        },
+        {
+          "label": "Slot machine height",
+          "value": 850.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Equipment dimension in elevation.",
+          "status": "uncertain",
+          "ocr_raw": "850"
+        },
+        {
+          "label": "Slot machine width",
+          "value": 580.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Equipment footprint dimension.",
+          "status": "uncertain",
+          "ocr_raw": "580"
+        }
+      ],
+      "figure_refs": [
+        "1 Games console",
+        "2 Flipper",
+        "3 Standing slot machines",
+        "4 Card game machine",
+        "5 Driving simulator",
+        "6 Bike simulator",
+        "7 Pool table",
+        "8 Slot machine",
+        "9 Plan of amusement arcade"
+      ],
+      "cross_refs": [
+        "→ 9",
+        "→ 10–11"
+      ],
+      "keywords": [
+        "amusement arcade",
+        "gambling machines",
+        "slot machines",
+        "gaming regulations",
+        "arcade plan",
+        "card games",
+        "billiards",
+        "simulators"
+      ],
+      "tags_architectural": [
+        "circulation",
+        "spatial_proportion",
+        "safety"
+      ],
+      "confidence": 0.94
+    },
+    {
+      "id": "4122fb96e4bd1976-388-vision-1",
+      "pdf_page": 388,
+      "book_page": 375,
+      "chapter": "SPORT AND LEISURE",
+      "section": "Amusement Arcades",
+      "title": "Japanese “Pachinko” Amusement Arcades",
+      "summary": "Two plan illustrations show Japanese Pachinko amusement arcades. The accompanying text states that this type of arcade is not permissible in Germany because balls won in the games can be exchanged for goods.",
+      "building_type": "Amusement arcade",
+      "spaces": [
+        "Pachinko machine hall",
+        "Service counter",
+        "Toilet"
+      ],
+      "uses": [
+        "Pachinko gaming",
+        "Exchanging balls won in games for goods"
+      ],
+      "furniture_equipment": [
+        "Pachinko machines",
+        "Service counter"
+      ],
+      "dimensions": [],
+      "figure_refs": [
+        "10 Japanese ‘Pachinko’ amusement arcade",
+        "11 Japanese ‘Pachinko’ amusement arcade"
+      ],
+      "cross_refs": [
+        "→ 10–11"
+      ],
+      "keywords": [
+        "Pachinko",
+        "Japanese amusement arcade",
+        "gaming regulation",
+        "game prizes"
+      ],
+      "tags_architectural": [
+        "circulation"
+      ],
+      "confidence": 0.91
+    }
+  ]
+}

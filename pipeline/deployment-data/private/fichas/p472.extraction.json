@@ -1,0 +1,602 @@
+{
+  "fichas": [
+    {
+      "id": "4122fb96e4bd1976-472-vision-0",
+      "pdf_page": 472,
+      "book_page": 459,
+      "chapter": "AGRICULTURE",
+      "section": "Animal Husbandry",
+      "title": "Keeping Horses",
+      "summary": "Guidance on horse welfare, social contact, group and individual housing, stable layout, and horse-related dimensions. Dimensions are generally based on withers height (Wh). The page gives sample withers heights for very large horses, average large horses, and ponies, plus formulas and example dimensions for boxes, passages, feeding stalls, and group stables. It recommends separating stallions and mares and providing group-kept horses with constant paddock access where shown.",
+      "building_type": "Horse stable",
+      "spaces": [
+        "Single box",
+        "Group box",
+        "Open stable",
+        "Paddock",
+        "Feeding stall",
+        "Stable passage",
+        "Access passage"
+      ],
+      "uses": [
+        "Keeping horses singly",
+        "Keeping horses in groups",
+        "Feeding horses",
+        "Providing movement and paddock access"
+      ],
+      "furniture_equipment": [
+        "Manger",
+        "Stable half-door",
+        "Box partition",
+        "Feeding stands"
+      ],
+      "dimensions": [
+        {
+          "label": "Pony withers height shown",
+          "value": 1.0,
+          "value_max": 1.45,
+          "unit": "m",
+          "context": "Illustrated pony height range; dimensions are based on withers height.",
+          "status": "uncertain",
+          "ocr_raw": "Pony 1.0–1.45"
+        },
+        {
+          "label": "Donkey withers height shown",
+          "value": 1.2,
+          "value_max": null,
+          "unit": "m",
+          "context": "Illustrated animal height.",
+          "status": "uncertain",
+          "ocr_raw": "Donkey 1.20"
+        },
+        {
+          "label": "Horse withers height shown",
+          "value": 1.45,
+          "value_max": 1.7,
+          "unit": "m",
+          "context": "Illustrated horse height range.",
+          "status": "uncertain",
+          "ocr_raw": "Horse 1.45–1.70"
+        },
+        {
+          "label": "Withers height, very large horse",
+          "value": 1.8,
+          "value_max": null,
+          "unit": "m",
+          "context": "Reference withers height (Wh).",
+          "status": "uncertain",
+          "ocr_raw": "very large horse = 1.80 m"
+        },
+        {
+          "label": "Withers height, average large horse",
+          "value": 1.67,
+          "value_max": null,
+          "unit": "m",
+          "context": "Reference withers height (Wh).",
+          "status": "uncertain",
+          "ocr_raw": "average large horse = 1.67 m"
+        },
+        {
+          "label": "Withers height, pony",
+          "value": 1.45,
+          "value_max": null,
+          "unit": "m",
+          "context": "Reference withers height (Wh).",
+          "status": "uncertain",
+          "ocr_raw": "pony = 1.45 m"
+        },
+        {
+          "label": "Manger floor height formula",
+          "value": 0.3333333333,
+          "value_max": null,
+          "unit": "ratio",
+          "context": "Approximate height is one-third of withers height (Wh).",
+          "status": "uncertain",
+          "ocr_raw": "approx. ⅓ × Wh"
+        },
+        {
+          "label": "Manger floor height, very large horse",
+          "value": 60.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Approximate feeding height.",
+          "status": "uncertain",
+          "ocr_raw": "very large horse = approx. 60 cm"
+        },
+        {
+          "label": "Manger floor height, average large horse",
+          "value": 55.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Approximate feeding height.",
+          "status": "uncertain",
+          "ocr_raw": "average large horse = approx. 55 cm"
+        },
+        {
+          "label": "Manger floor height, pony",
+          "value": 50.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Approximate feeding height.",
+          "status": "uncertain",
+          "ocr_raw": "pony = approx. 50 cm"
+        },
+        {
+          "label": "Manger floor height, small pony",
+          "value": 30.0,
+          "value_max": 40.0,
+          "unit": "cm",
+          "context": "Approximate feeding height range.",
+          "status": "uncertain",
+          "ocr_raw": "small pony = approx. 30–40 cm"
+        },
+        {
+          "label": "Box partition breast height formula",
+          "value": 0.6,
+          "value_max": null,
+          "unit": "ratio",
+          "context": "Approximate height is 0.60 × Wh.",
+          "status": "uncertain",
+          "ocr_raw": "approx. 0.60 × Wh"
+        },
+        {
+          "label": "Box partition breast height, very large horse",
+          "value": 1.45,
+          "value_max": null,
+          "unit": "m",
+          "context": "Approximate breast-height partition dimension.",
+          "status": "uncertain",
+          "ocr_raw": "very large horse = approx. 1.45 m"
+        },
+        {
+          "label": "Box partition breast height, average large horse",
+          "value": 1.35,
+          "value_max": null,
+          "unit": "m",
+          "context": "Approximate breast-height partition dimension.",
+          "status": "uncertain",
+          "ocr_raw": "average large horse = approx. 1.35 m"
+        },
+        {
+          "label": "Box partition breast height, pony",
+          "value": 1.2,
+          "value_max": null,
+          "unit": "m",
+          "context": "Approximate breast-height partition dimension.",
+          "status": "uncertain",
+          "ocr_raw": "pony = approx. 1.20 m"
+        },
+        {
+          "label": "Box partition upper part with visual contact formula",
+          "value": 1.3,
+          "value_max": null,
+          "unit": "ratio",
+          "context": "Approximate height is 1.30 × Wh.",
+          "status": "uncertain",
+          "ocr_raw": "approx. 1.30 × Wh"
+        },
+        {
+          "label": "Box partition upper part with visual contact, very large horse",
+          "value": 2.35,
+          "value_max": null,
+          "unit": "m",
+          "context": "Approximate partition height.",
+          "status": "uncertain",
+          "ocr_raw": "very large horse = approx. 2.35 m"
+        },
+        {
+          "label": "Box partition upper part with visual contact, average large horse",
+          "value": 2.45,
+          "value_max": null,
+          "unit": "m",
+          "context": "Approximate partition height.",
+          "status": "uncertain",
+          "ocr_raw": "average large horse = approx. 2.45 m"
+        },
+        {
+          "label": "Box partition upper part with visual contact, pony",
+          "value": 1.95,
+          "value_max": null,
+          "unit": "m",
+          "context": "Approximate partition height.",
+          "status": "uncertain",
+          "ocr_raw": "pony = approx. 1.95 m"
+        },
+        {
+          "label": "Box partition upper part without visual contact formula",
+          "value": 1.45,
+          "value_max": null,
+          "unit": "ratio",
+          "context": "Minimum height is 1.45 × Wh; no visual contact, recommended only in exceptional cases.",
+          "status": "uncertain",
+          "ocr_raw": "min. 1.45 × Wh"
+        },
+        {
+          "label": "Box partition upper part without visual contact, very large horse",
+          "value": 2.6,
+          "value_max": null,
+          "unit": "m",
+          "context": "Approximate partition height.",
+          "status": "uncertain",
+          "ocr_raw": "very large horse = approx. 2.60 m"
+        },
+        {
+          "label": "Box partition upper part without visual contact, average large horse",
+          "value": 2.4,
+          "value_max": null,
+          "unit": "m",
+          "context": "Approximate partition height.",
+          "status": "uncertain",
+          "ocr_raw": "average large horse = approx. 2.40 m"
+        },
+        {
+          "label": "Box partition upper part without visual contact, pony",
+          "value": 2.2,
+          "value_max": null,
+          "unit": "m",
+          "context": "Approximate partition height.",
+          "status": "uncertain",
+          "ocr_raw": "pony = approx. 2.20 m"
+        },
+        {
+          "label": "Single box area formula",
+          "value": 2.0,
+          "value_max": null,
+          "unit": "ratio",
+          "context": "At least (2 × Wh)² per horse.",
+          "status": "uncertain",
+          "ocr_raw": "Area of a single box at least = (2 × Wh)²"
+        },
+        {
+          "label": "Single box area, very large horse",
+          "value": 13.0,
+          "value_max": null,
+          "unit": "m²",
+          "context": "Approximate area per horse.",
+          "status": "uncertain",
+          "ocr_raw": "very large horse = approx. 13.0 m²"
+        },
+        {
+          "label": "Single box area, average large horse",
+          "value": 11.2,
+          "value_max": null,
+          "unit": "m²",
+          "context": "Approximate area per horse.",
+          "status": "uncertain",
+          "ocr_raw": "average large horse = approx. 11.2 m²"
+        },
+        {
+          "label": "Single box area, pony",
+          "value": 8.5,
+          "value_max": null,
+          "unit": "m²",
+          "context": "Approximate area per horse.",
+          "status": "uncertain",
+          "ocr_raw": "pony = approx. 8.5 m²"
+        },
+        {
+          "label": "Small side of single loose box formula",
+          "value": 1.5,
+          "value_max": null,
+          "unit": "ratio",
+          "context": "At least 1.5 × Wh.",
+          "status": "uncertain",
+          "ocr_raw": "small side of the single loose box at least = 1.5 × Wh"
+        },
+        {
+          "label": "Small side of single loose box, very large horse",
+          "value": 2.7,
+          "value_max": null,
+          "unit": "m",
+          "context": "Approximate minimum dimension.",
+          "status": "uncertain",
+          "ocr_raw": "very large horse = approx. 2.70 m"
+        },
+        {
+          "label": "Small side of single loose box, average large horse",
+          "value": 2.5,
+          "value_max": null,
+          "unit": "m",
+          "context": "Approximate minimum dimension.",
+          "status": "uncertain",
+          "ocr_raw": "average large horse = approx. 2.50 m"
+        },
+        {
+          "label": "Small side of single loose box, pony",
+          "value": 2.2,
+          "value_max": null,
+          "unit": "m",
+          "context": "Approximate minimum dimension.",
+          "status": "uncertain",
+          "ocr_raw": "pony = approx. 2.20 m"
+        },
+        {
+          "label": "Access passage width, large horse",
+          "value": 1.2,
+          "value_max": null,
+          "unit": "m",
+          "context": "Width of access passages.",
+          "status": "uncertain",
+          "ocr_raw": "large horse = approx. 1.20 m"
+        },
+        {
+          "label": "Access passage width, pony",
+          "value": 1.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Width of access passages.",
+          "status": "uncertain",
+          "ocr_raw": "pony = approx. 1.00 m"
+        },
+        {
+          "label": "Stable passage width",
+          "value": 3.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Width should be this if possible; at least twice the access passage width is necessary to turn horses around.",
+          "status": "uncertain",
+          "ocr_raw": "Width of stable passages should be 3 m if possible"
+        },
+        {
+          "label": "Access-passage width multiplier for turning",
+          "value": 2.0,
+          "value_max": null,
+          "unit": "ratio",
+          "context": "At least 2 × access passage width is necessary to turn horses round.",
+          "status": "uncertain",
+          "ocr_raw": "min. 2 × access passage width"
+        },
+        {
+          "label": "Through and box passage width, average large horse",
+          "value": 2.4,
+          "value_max": null,
+          "unit": "m",
+          "context": "Passage width.",
+          "status": "uncertain",
+          "ocr_raw": "average large horse = approx. 2.40 m"
+        },
+        {
+          "label": "Through and box passage width, pony",
+          "value": 2.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Passage width.",
+          "status": "uncertain",
+          "ocr_raw": "pony = approx. 2.00 m"
+        },
+        {
+          "label": "Normal dimension B relative to h",
+          "value": 1.5,
+          "value_max": null,
+          "unit": "ratio",
+          "context": "Section dimension; marked B = 1.5 h, with an additional lower bound shown.",
+          "status": "uncertain",
+          "ocr_raw": "B = 1.5 h; ≥ 1.35 h; normal dimension 2.50 m"
+        },
+        {
+          "label": "Lower bound for B relative to h",
+          "value": 1.35,
+          "value_max": null,
+          "unit": "ratio",
+          "context": "Section dimension lower bound.",
+          "status": "uncertain",
+          "ocr_raw": "≥ 1.35 h"
+        },
+        {
+          "label": "Normal dimension B",
+          "value": 2.5,
+          "value_max": null,
+          "unit": "m",
+          "context": "Section and dimensions diagram.",
+          "status": "uncertain",
+          "ocr_raw": "normal dimension 2.50 m"
+        },
+        {
+          "label": "Normal dimension A relative to h",
+          "value": 0.8,
+          "value_max": null,
+          "unit": "ratio",
+          "context": "Section dimension; A = 0.8 h.",
+          "status": "uncertain",
+          "ocr_raw": "A = 0.8 h"
+        },
+        {
+          "label": "Normal dimension A",
+          "value": 1.3,
+          "value_max": null,
+          "unit": "m",
+          "context": "Section and dimensions diagram.",
+          "status": "uncertain",
+          "ocr_raw": "normal dimension 1.30 m"
+        },
+        {
+          "label": "Feeding stall width for ponies",
+          "value": 80.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Diagram note: narrower for ponies.",
+          "status": "uncertain",
+          "ocr_raw": "80; narrower for ponies"
+        },
+        {
+          "label": "Feeding stall length including manger, very large horse",
+          "value": 3.25,
+          "value_max": null,
+          "unit": "m",
+          "context": "Length including manger.",
+          "status": "uncertain",
+          "ocr_raw": "very large horse = 3.25 m"
+        },
+        {
+          "label": "Feeding stall length including manger, average large horse",
+          "value": 3.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Length including manger.",
+          "status": "uncertain",
+          "ocr_raw": "average large horse = 3.00 m"
+        },
+        {
+          "label": "Feeding stall length including manger, pony",
+          "value": 2.6,
+          "value_max": null,
+          "unit": "m",
+          "context": "Length including manger.",
+          "status": "uncertain",
+          "ocr_raw": "pony = 2.60 m"
+        },
+        {
+          "label": "Single open stable without permanent paddock access area formula",
+          "value": 2.0,
+          "value_max": null,
+          "unit": "ratio",
+          "context": "At least (2 × Wh)² per horse, as for single boxes.",
+          "status": "uncertain",
+          "ocr_raw": "at least (2 × Wh)² per horse (as for single boxes)"
+        },
+        {
+          "label": "Example horse withers height",
+          "value": 1.67,
+          "value_max": null,
+          "unit": "m",
+          "context": "Example used for single-box open stable area calculation.",
+          "status": "uncertain",
+          "ocr_raw": "Average withers height for horse to be accommodated = 1.67 m"
+        },
+        {
+          "label": "Example area, single open stable without permanent paddock access",
+          "value": 11.2,
+          "value_max": null,
+          "unit": "m²",
+          "context": "Per horse; example based on the printed 1.67 m withers height.",
+          "status": "uncertain",
+          "ocr_raw": "Space requirement = (2 × 1.67)² per horse = 11.2 m² per horse"
+        },
+        {
+          "label": "Group open stable with separate feeding stands area formula",
+          "value": 2.5,
+          "value_max": null,
+          "unit": "ratio",
+          "context": "Minimum L × W = 2.5 × Wh² per horse.",
+          "status": "uncertain",
+          "ocr_raw": "L × W min. 2.5 × Wh² per horse"
+        },
+        {
+          "label": "Example horse withers height for separate feeding stands",
+          "value": 1.67,
+          "value_max": null,
+          "unit": "m",
+          "context": "Example used for group open stable area calculation.",
+          "status": "uncertain",
+          "ocr_raw": "Average withers height for horse to be accommodated = 1.67 m"
+        },
+        {
+          "label": "Example area, group open stable with separate feeding stands",
+          "value": 7.0,
+          "value_max": null,
+          "unit": "m²",
+          "context": "Per horse; reduction of up to 20% is stated as possible if room structure, horses, and carers are favourable.",
+          "status": "uncertain",
+          "ocr_raw": "Space requirement = 2.5 × 1.67² per horse = 7.00 m² per horse"
+        },
+        {
+          "label": "Possible area reduction",
+          "value": 20.0,
+          "value_max": null,
+          "unit": "%",
+          "context": "Possible reduction when room structure, horses, and carers are favourable.",
+          "status": "uncertain",
+          "ocr_raw": "a reduction of up to 20% is possible"
+        },
+        {
+          "label": "Group open stable with integrated mangers area formula",
+          "value": 3.0,
+          "value_max": null,
+          "unit": "ratio",
+          "context": "At least 3 × Wh² per horse, without space for feeding stands; constant paddock access.",
+          "status": "uncertain",
+          "ocr_raw": "at least 3 × Wh² per horse (without space for feeding stands)"
+        },
+        {
+          "label": "Example horse withers height for integrated-manger group stable",
+          "value": 1.67,
+          "value_max": null,
+          "unit": "m",
+          "context": "Example used for group open stable area calculation.",
+          "status": "uncertain",
+          "ocr_raw": "Average withers height for horse to be accommodated = 1.67 m"
+        },
+        {
+          "label": "Example area, group open stable with integrated mangers",
+          "value": 8.4,
+          "value_max": null,
+          "unit": "m²",
+          "context": "Per horse; example calculation.",
+          "status": "uncertain",
+          "ocr_raw": "Space requirement = (3 × 1.67²) per horse = 8.4 m² per horse"
+        },
+        {
+          "label": "Stable ceiling height for heavy horses",
+          "value": 1.5,
+          "value_max": null,
+          "unit": "ratio",
+          "context": "At least 1.5 × withers height; the printed approximate example is also given.",
+          "status": "uncertain",
+          "ocr_raw": "ceiling height of at least 1.5 × withers height"
+        },
+        {
+          "label": "Stable ceiling height example",
+          "value": 2.7,
+          "value_max": null,
+          "unit": "m",
+          "context": "Approximate minimum for heavy horses.",
+          "status": "uncertain",
+          "ocr_raw": "approx. ≥ 2.70 m"
+        }
+      ],
+      "figure_refs": [
+        "1 Withers height",
+        "2 Height of the manger floor (feeding height)",
+        "3 Height of the box partition (breast height)",
+        "4 Height of the box partition (upper part lattice, visual contact)",
+        "5 Height of the box partition (upper part provides no visual contact)",
+        "6 Stable half-door",
+        "7 Section and dimensions",
+        "8 Width of through and box passages",
+        "9 Keeping a horse singly",
+        "10 Feeding stalls",
+        "11 Open stable for a group with separate feeding stands and constant access to the paddock",
+        "12 Space requirement per horse with two different keeping arrangements",
+        "13 Single box, open stable",
+        "14 Open stable for a group"
+      ],
+      "cross_refs": [
+        "Stable half-door → 7",
+        "Single box, open stable → 12",
+        "Open stable for a group → 12"
+      ],
+      "keywords": [
+        "horse stable",
+        "keeping horses",
+        "withers height",
+        "single box",
+        "group stable",
+        "feeding stall",
+        "manger",
+        "paddock",
+        "stable passage",
+        "box partition",
+        "horse welfare"
+      ],
+      "tags_architectural": [
+        "circulation",
+        "ergonomics",
+        "anthropometry",
+        "clearance",
+        "safety",
+        "adaptability"
+      ],
+      "confidence": 0.91
+    }
+  ]
+}

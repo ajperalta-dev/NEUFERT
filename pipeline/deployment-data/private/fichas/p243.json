@@ -1,0 +1,234 @@
+{
+  "fichas": [
+    {
+      "id": "4122fb96e4bd1976-243-vision-0",
+      "pdf_page": 243,
+      "book_page": 230,
+      "chapter": "CULTURAL VENUES",
+      "section": "Zoos",
+      "title": "Zoo Enclosures: Design Aspects",
+      "summary": "Enclosures should evoke an appropriate natural habitat, bring visitors physically and emotionally close to animals, and encourage exploration and lingering. Observation should be comfortable and unobstructed, while allowing animals to withdraw from view. Keeper access, signage, and sufficient information are also required.",
+      "building_type": "Zoo",
+      "spaces": [
+        "Animal enclosure",
+        "Visitor observation area",
+        "Keeper access roads and care areas"
+      ],
+      "uses": [
+        "Provide animal habitat",
+        "Enable comfortable visitor observation",
+        "Encourage exploration and lingering",
+        "Allow animals to withdraw from view",
+        "Provide keeper access and animal handling"
+      ],
+      "furniture_equipment": [
+        "Signage",
+        "Animal catching and transport facilities"
+      ],
+      "dimensions": [],
+      "figure_refs": [
+        "1 Concealed visitor position"
+      ],
+      "cross_refs": [],
+      "keywords": [
+        "zoo",
+        "enclosure",
+        "observation",
+        "visitor experience",
+        "animal welfare",
+        "keeper access",
+        "signage"
+      ],
+      "tags_architectural": [
+        "circulation",
+        "accessibility",
+        "daylighting"
+      ],
+      "confidence": 0.97
+    },
+    {
+      "id": "4122fb96e4bd1976-243-vision-1",
+      "pdf_page": 243,
+      "book_page": 230,
+      "chapter": "CULTURAL VENUES",
+      "section": "Zoos",
+      "title": "Zoo Enclosures: Barriers",
+      "summary": "Water moats, protective glass, and fences or walls can separate visitors from animals. Moats should have a natural appearance, but water quality and winter freezing require consideration. Glass can give visitors an impression of direct contact while limiting transmission of infection; bars are discouraged in modern zoos.",
+      "building_type": "Zoo",
+      "spaces": [
+        "Outdoor animal enclosure",
+        "Visitor observation area"
+      ],
+      "uses": [
+        "Separate visitors from animals",
+        "Provide protective barriers",
+        "Enable close visual contact"
+      ],
+      "furniture_equipment": [
+        "Water moat",
+        "Protective glass screen",
+        "Fences",
+        "Walls"
+      ],
+      "dimensions": [
+        {
+          "label": "Moat width",
+          "value": 3.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Water barrier between visitor and animal outdoors; diagram 3.",
+          "status": "uncertain",
+          "ocr_raw": "r------3.00------1"
+        },
+        {
+          "label": "Barrier width",
+          "value": 3.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Visitor behind protective glass screen and animal outdoors; diagram 4.",
+          "status": "uncertain",
+          "ocr_raw": "f-------3.00------1"
+        }
+      ],
+      "figure_refs": [
+        "3 Water barrier: visitor and animal outdoors",
+        "4 Water barrier: visitor behind protective glass screen and animal outdoors",
+        "7 Water barrier: the moat should be wide enough for large animals"
+      ],
+      "cross_refs": [
+        "→ 3",
+        "→ 2 + 4"
+      ],
+      "keywords": [
+        "zoo",
+        "barrier",
+        "moat",
+        "water barrier",
+        "protective glass",
+        "animal enclosure"
+      ],
+      "tags_architectural": [
+        "safety",
+        "spatial_proportion"
+      ],
+      "confidence": 0.93
+    },
+    {
+      "id": "4122fb96e4bd1976-243-vision-2",
+      "pdf_page": 243,
+      "book_page": 230,
+      "chapter": "CULTURAL VENUES",
+      "section": "Zoos",
+      "title": "Indoor Enclosure with Glass Corridor",
+      "summary": "An indoor glass corridor lets visitors observe the enclosure from a darkened space into a brightly lit habitat. The diagram gives a corridor dimension of 2.00 by 3.00; the OCR does not clearly identify which dimension is height or width.",
+      "building_type": "Zoo",
+      "spaces": [
+        "Indoor animal enclosure",
+        "Glass visitor corridor"
+      ],
+      "uses": [
+        "Enable indoor animal viewing",
+        "Allow observation from shadow into a lit enclosure"
+      ],
+      "furniture_equipment": [
+        "Glass screen"
+      ],
+      "dimensions": [
+        {
+          "label": "Corridor dimension",
+          "value": 2.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Indoor enclosure with glass corridor; the diagram marks a vertical dimension.",
+          "status": "uncertain",
+          "ocr_raw": "l-2.00-------j"
+        },
+        {
+          "label": "Corridor dimension",
+          "value": 3.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Indoor enclosure with glass corridor; the diagram marks a horizontal dimension.",
+          "status": "uncertain",
+          "ocr_raw": "3.00"
+        }
+      ],
+      "figure_refs": [
+        "2 Indoor enclosure with glass corridor: view from dark into light"
+      ],
+      "cross_refs": [
+        "→ 2"
+      ],
+      "keywords": [
+        "indoor enclosure",
+        "glass corridor",
+        "visitor observation",
+        "lighting"
+      ],
+      "tags_architectural": [
+        "daylighting",
+        "spatial_proportion"
+      ],
+      "confidence": 0.88
+    },
+    {
+      "id": "4122fb96e4bd1976-243-vision-3",
+      "pdf_page": 243,
+      "book_page": 230,
+      "chapter": "CULTURAL VENUES",
+      "section": "Zoos",
+      "title": "Aviary and Terrarium",
+      "summary": "The page illustrates an aviary and a terrarium as enclosure types. The terrarium diagram includes two vertical measurements, 1.10 and 0.90; their specific reference points are not explained in the text.",
+      "building_type": "Zoo",
+      "spaces": [
+        "Aviary",
+        "Terrarium",
+        "Keeper access area"
+      ],
+      "uses": [
+        "Enclose birds in an aviary",
+        "House animals in a terrarium",
+        "Provide keeper access to the terrarium"
+      ],
+      "furniture_equipment": [
+        "Terrarium enclosure"
+      ],
+      "dimensions": [
+        {
+          "label": "Vertical dimension",
+          "value": 1.1,
+          "value_max": null,
+          "unit": "m",
+          "context": "Terrarium diagram; the marked vertical segment is not further identified.",
+          "status": "uncertain",
+          "ocr_raw": "zoos\nEnclosures\n\nDesign aspects\nNear to nature: The enclosure should correspond to the ideas of\nthe visitors regarding the appropriate habitat for the animals, be\naesthetically pleasing and give a generous impression.\nPhysical nearness: The nearer people can come to the animals,\nthe greater the interest and the longer they stay.\nEmotional nearness: Enclosure boundaries should scarcely be\nnoticed.\nObservation: Animal enclosures should work secretively and be\nan invitation to exploration (e.g. view into the enclosure through\na cave or a waterfall). Routes should invite lingering, not passing\nan enclosure but rather leading to it. It should be possible to see\nonly one enclosure from each location; distracting views, and also\nmasses of people in front of the enclosure, should be avoided.\n\n0 Concealed visitor position\n\nEnable comfortable observation in a relaxed position, not into\nthe sun or through a reflecting pane of glass; the visitor should\nlook into a bright, lit enclosure from shadow (this also has the\nadvantage that the animals do not immediately notice the visitors).\nAreas where the animals like to pass the time and are active should\nbe clearly visible.\nBasics\nKeeping animals\nEnclosures\n\nWithdrawal: It is, however, also important that the animal can\nwithdraw from view and be unobserved.\nInformation: Signage; sufficient information should be available\nAccessibility: Access to the enclosures (only for the zoo keepers)\nis provided by dedicated roads and care areas; the appropriate\nanimal catching and transport facilities are here.\n\nf) Indoor enclosure with glass corridor: view from dark into light\nl-2.00-------j\n\n8 Water barrier: visitor and animal outdoors\nr------3.00------1\n\nBarriers\nDitches were originally developed as dry ditches, but are today\ngenerally constructed as water barriers (moats)-+ 8. A natural\nappearance is advantageous, but the water becomes dirty quickly\nand the animals can leave the enclosure over the ice if it freezes\nover, so the water level therefore has to be lowered in winter. There\nare normally fences or walls to provide additional protection.\nGlass is becoming accepted by most zoos -+ 8 + 0, because it\ngives the impression of direct contact with the animals and also\nprevents the infection of animals by humans.\nIron bars disturb the visitor and the animal. The classic method\nof keeping animals in cages is therefore avoided in modern zoos.\n\n-------------------------------)\nf-------3.00------1\n\nG Water barrier: visitor behind protective glass screen and animal outdoors\n\n-~->~\n------r--\n\n0\n\nAviary\n\n230\n\n0 Terrarium\n\n8\n\nWater barrier: the moat should be wide enough for large animals\n\n\f"
+        },
+        {
+          "label": "Vertical dimension",
+          "value": 0.9,
+          "value_max": null,
+          "unit": "m",
+          "context": "Terrarium diagram; the marked vertical segment is not further identified.",
+          "status": "uncertain",
+          "ocr_raw": "zoos\nEnclosures\n\nDesign aspects\nNear to nature: The enclosure should correspond to the ideas of\nthe visitors regarding the appropriate habitat for the animals, be\naesthetically pleasing and give a generous impression.\nPhysical nearness: The nearer people can come to the animals,\nthe greater the interest and the longer they stay.\nEmotional nearness: Enclosure boundaries should scarcely be\nnoticed.\nObservation: Animal enclosures should work secretively and be\nan invitation to exploration (e.g. view into the enclosure through\na cave or a waterfall). Routes should invite lingering, not passing\nan enclosure but rather leading to it. It should be possible to see\nonly one enclosure from each location; distracting views, and also\nmasses of people in front of the enclosure, should be avoided.\n\n0 Concealed visitor position\n\nEnable comfortable observation in a relaxed position, not into\nthe sun or through a reflecting pane of glass; the visitor should\nlook into a bright, lit enclosure from shadow (this also has the\nadvantage that the animals do not immediately notice the visitors).\nAreas where the animals like to pass the time and are active should\nbe clearly visible.\nBasics\nKeeping animals\nEnclosures\n\nWithdrawal: It is, however, also important that the animal can\nwithdraw from view and be unobserved.\nInformation: Signage; sufficient information should be available\nAccessibility: Access to the enclosures (only for the zoo keepers)\nis provided by dedicated roads and care areas; the appropriate\nanimal catching and transport facilities are here.\n\nf) Indoor enclosure with glass corridor: view from dark into light\nl-2.00-------j\n\n8 Water barrier: visitor and animal outdoors\nr------3.00------1\n\nBarriers\nDitches were originally developed as dry ditches, but are today\ngenerally constructed as water barriers (moats)-+ 8. A natural\nappearance is advantageous, but the water becomes dirty quickly\nand the animals can leave the enclosure over the ice if it freezes\nover, so the water level therefore has to be lowered in winter. There\nare normally fences or walls to provide additional protection.\nGlass is becoming accepted by most zoos -+ 8 + 0, because it\ngives the impression of direct contact with the animals and also\nprevents the infection of animals by humans.\nIron bars disturb the visitor and the animal. The classic method\nof keeping animals in cages is therefore avoided in modern zoos.\n\n-------------------------------)\nf-------3.00------1\n\nG Water barrier: visitor behind protective glass screen and animal outdoors\n\n-~->~\n------r--\n\n0\n\nAviary\n\n230\n\n0 Terrarium\n\n8\n\nWater barrier: the moat should be wide enough for large animals\n\n\f"
+        }
+      ],
+      "figure_refs": [
+        "5 Aviary",
+        "6 Terrarium"
+      ],
+      "cross_refs": [],
+      "keywords": [
+        "aviary",
+        "terrarium",
+        "keeper access",
+        "animal enclosure"
+      ],
+      "tags_architectural": [
+        "accessibility",
+        "spatial_proportion"
+      ],
+      "confidence": 0.82
+    }
+  ]
+}

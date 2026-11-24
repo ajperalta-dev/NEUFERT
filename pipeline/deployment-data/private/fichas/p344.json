@@ -1,0 +1,206 @@
+{
+  "fichas": [
+    {
+      "id": "4122fb96e4bd1976-344-vision-0",
+      "pdf_page": 344,
+      "book_page": 331,
+      "chapter": "SPORT AND LEISURE",
+      "section": "Sports Facilities",
+      "title": "Golf Courses",
+      "summary": "Overview of golf course elements, practice facilities, course lengths, green construction and modelling, bunker design, and practice-area layouts. A golf centre may fit on 10 ha and include a practice area, approach green, practice green, and a 9-hole par-3 course. Course siting is described in relation to terrain and natural landscape features.",
+      "building_type": "Golf course and practice facility",
+      "spaces": [
+        "Tee",
+        "Fairway",
+        "Green",
+        "Apron",
+        "Rough",
+        "Bunker",
+        "Practice area",
+        "Approach green",
+        "Practice green",
+        "Driving range hut",
+        "Pitching greens",
+        "Parking"
+      ],
+      "uses": [
+        "Golf practice, including short-game practice",
+        "Golf instruction and beginner practice",
+        "Playing golf courses of varying hole counts and lengths"
+      ],
+      "furniture_equipment": [
+        "Golf clubs",
+        "Golf bag with trolley",
+        "Green drainage and watering systems"
+      ],
+      "dimensions": [
+        {
+          "label": "Golf centre site area",
+          "value": 10.0,
+          "value_max": null,
+          "unit": "ha",
+          "context": "Example area for an independent golf centre including practice facilities and a 9-hole par-3 course.",
+          "status": "verified",
+          "ocr_raw": "A golf centre as an independent\nsports facility can, for example, be laid out on an area of only\n10 ha."
+        },
+        {
+          "label": "Standard 60 course length",
+          "value": 3749.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Normal overall length of a golf course with standard 60.",
+          "status": "verified",
+          "ocr_raw": "the\nstandard 60 with a normal length of 37 49 m"
+        },
+        {
+          "label": "Standard 74 course length",
+          "value": 6492.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Normal overall length of a golf course with standard 74.",
+          "status": "verified",
+          "ocr_raw": "the standard\n74 with a normal length of 6492 m"
+        },
+        {
+          "label": "Tee area",
+          "value": 200.0,
+          "value_max": null,
+          "unit": "m²",
+          "context": "Suggested approximate area; adequate width is also recommended.",
+          "status": "verified",
+          "ocr_raw": "It should\nbe about 200 m2 with adequate width."
+        },
+        {
+          "label": "Fairway width",
+          "value": 30.0,
+          "value_max": 50.0,
+          "unit": "m",
+          "context": "Width of fairways.",
+          "status": "verified",
+          "ocr_raw": "Fairways are 30-50 m wide"
+        },
+        {
+          "label": "Fairway length",
+          "value": 100.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Fairway length is stated as 100 to greater than 500 m.",
+          "status": "verified",
+          "ocr_raw": "100 to > 500 m long."
+        },
+        {
+          "label": "Green area minimum",
+          "value": 400.0,
+          "value_max": null,
+          "unit": "m²",
+          "context": "Minimum green area.",
+          "status": "verified",
+          "ocr_raw": "min. 400 m2"
+        },
+        {
+          "label": "Typical green area",
+          "value": 500.0,
+          "value_max": 600.0,
+          "unit": "m²",
+          "context": "Normally stated area for a green.",
+          "status": "verified",
+          "ocr_raw": "normally 500-600 m2"
+        },
+        {
+          "label": "Apron minimum width",
+          "value": 2.5,
+          "value_max": null,
+          "unit": "m",
+          "context": "Minimum width of aprons to greens; aprons are not usual everywhere.",
+          "status": "verified",
+          "ocr_raw": "min. width 2.5 m."
+        },
+        {
+          "label": "Men's par-3 hole length limit",
+          "value": 228.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Par 3: men’s hole length is up to this value.",
+          "status": "verified",
+          "ocr_raw": "up to 228m"
+        },
+        {
+          "label": "Men's par-4 hole length",
+          "value": 229.0,
+          "value_max": 434.0,
+          "unit": "m",
+          "context": "Par 4 hole-length range for men.",
+          "status": "verified",
+          "ocr_raw": "229-434 m"
+        },
+        {
+          "label": "Men's par-5 hole length threshold",
+          "value": 435.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Par 5: men’s hole length is above this value.",
+          "status": "verified",
+          "ocr_raw": "above 435 m"
+        },
+        {
+          "label": "Ladies' par-3 hole length limit",
+          "value": 201.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Par 3: ladies’ hole length is up to this value.",
+          "status": "verified",
+          "ocr_raw": "up to 201m"
+        },
+        {
+          "label": "Ladies' par-4 hole length",
+          "value": 202.0,
+          "value_max": 382.0,
+          "unit": "m",
+          "context": "Par 4 hole-length range for ladies.",
+          "status": "verified",
+          "ocr_raw": "202-382 m"
+        },
+        {
+          "label": "Ladies' par-5 hole length threshold",
+          "value": 383.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Par 5: ladies’ hole length is above this value.",
+          "status": "verified",
+          "ocr_raw": "above 383m"
+        }
+      ],
+      "figure_refs": [
+        "1 Space requirements for golfers",
+        "2 Golf bag with trolley",
+        "3 Construction details for types of green",
+        "4 Surface modelling of greens",
+        "5 Bunker design, depth and shape",
+        "6 Section through a bunker next to a green",
+        "7 Basic layout of a practice area",
+        "8 Golf hole lengths",
+        "9 Extension of practice area"
+      ],
+      "cross_refs": [],
+      "keywords": [
+        "golf course",
+        "practice area",
+        "fairway",
+        "green",
+        "tee",
+        "apron",
+        "rough",
+        "bunker",
+        "par",
+        "drainage",
+        "course layout"
+      ],
+      "tags_architectural": [
+        "circulation",
+        "spatial_proportion",
+        "safety"
+      ],
+      "confidence": 0.94
+    }
+  ]
+}

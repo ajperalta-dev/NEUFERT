@@ -1,0 +1,248 @@
+{
+  "fichas": [
+    {
+      "id": "4122fb96e4bd1976-433-vision-0",
+      "pdf_page": 433,
+      "book_page": 420,
+      "chapter": "TRANSPORT",
+      "section": "Aviation",
+      "title": "Runways",
+      "summary": "Runways (RWY) provide for aircraft acceleration during take-off and deceleration after landing. Their direction is determined by local wind and topography, with the aim of allowing the airport to be flown into 95% of the time. Runway number depends on traffic volume; parallel runways spaced more than 1310 m apart can enable simultaneous take-offs and landings. Runway length and width depend on aircraft design and local climatic and topographical conditions. The page also illustrates runway-related regulated areas, obstruction-limitation surfaces, and possible runway-system capacities.",
+      "building_type": "Airport",
+      "spaces": [
+        "Runway",
+        "Landing area",
+        "Take-off area",
+        "Runway safety area (RESA)",
+        "Edge zone",
+        "Side transition area",
+        "Upper transition area",
+        "Horizontal area",
+        "Strips",
+        "Taxiway"
+      ],
+      "uses": [
+        "Aircraft take-off and landing",
+        "Aircraft acceleration and deceleration",
+        "Rapid runway clearance after landing",
+        "Aircraft movement between runway and take-off position"
+      ],
+      "furniture_equipment": [
+        "Runway markings and lights",
+        "Runway centre-line",
+        "Quick-exit taxiway"
+      ],
+      "dimensions": [
+        {
+          "label": "Runway length at large airports",
+          "value": 4000.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Stated as an upper length for runways at large airports.",
+          "status": "uncertain",
+          "ocr_raw": "large airports have a runway of up to 4000 m length"
+        },
+        {
+          "label": "Runway width at large airports",
+          "value": 40.0,
+          "value_max": 65.0,
+          "unit": "m",
+          "context": "Width range stated for runways at large airports.",
+          "status": "uncertain",
+          "ocr_raw": "and 40–65 m width"
+        },
+        {
+          "label": "Parallel runway spacing",
+          "value": 1310.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "More than this spacing is described as beneficial for simultaneous take-off and landing.",
+          "status": "uncertain",
+          "ocr_raw": "with a spacing of more than 1310 m"
+        },
+        {
+          "label": "Landing area length",
+          "value": 15000.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Diagram: landing area length.",
+          "status": "uncertain",
+          "ocr_raw": "Landing area l= 15,000 m"
+        },
+        {
+          "label": "Landing area width",
+          "value": 300.0,
+          "value_max": 4800.0,
+          "unit": "m",
+          "context": "Diagram OCR prints the width as 300/4800 m; represented as a range without inferring its meaning.",
+          "status": "uncertain",
+          "ocr_raw": "w = 300/4800 m"
+        },
+        {
+          "label": "Landing area inclination",
+          "value": 1.0,
+          "value_max": null,
+          "unit": "ratio",
+          "context": "Diagram prints inclination 1:50.",
+          "status": "uncertain",
+          "ocr_raw": "inclination = 1:50"
+        },
+        {
+          "label": "Take-off area length",
+          "value": 15000.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Diagram: take-off area length.",
+          "status": "uncertain",
+          "ocr_raw": "Take-off area l = 15,000 m"
+        },
+        {
+          "label": "Take-off area width",
+          "value": 180.0,
+          "value_max": 1800.0,
+          "unit": "m",
+          "context": "Diagram OCR prints the width as 180/1800 m; represented as a range without inferring its meaning.",
+          "status": "uncertain",
+          "ocr_raw": "w = 180/1800 m"
+        },
+        {
+          "label": "Take-off area inclination",
+          "value": 1.0,
+          "value_max": null,
+          "unit": "ratio",
+          "context": "Diagram prints inclination 1:50.",
+          "status": "uncertain",
+          "ocr_raw": "inclination = 1:50"
+        },
+        {
+          "label": "Edge zone length",
+          "value": 600.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Diagram: edge zone length.",
+          "status": "uncertain",
+          "ocr_raw": "Edge zone l = 600 m"
+        },
+        {
+          "label": "Edge zone width addition",
+          "value": 900.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Diagram states width equals runway length plus twice this amount.",
+          "status": "uncertain",
+          "ocr_raw": "w = runway length + 2 x 900 m"
+        },
+        {
+          "label": "Runway safety area (RESA) minimum length",
+          "value": 90.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Diagram states a minimum length.",
+          "status": "uncertain",
+          "ocr_raw": "Runway and safety area (RESA) l = min. 90 m"
+        },
+        {
+          "label": "Side transition area inclination",
+          "value": 1.0,
+          "value_max": null,
+          "unit": "ratio",
+          "context": "Diagram prints inclination 1:7, up to height 100 m.",
+          "status": "uncertain",
+          "ocr_raw": "transition area inclination 1:7 to h = 100 m"
+        },
+        {
+          "label": "Side transition area height",
+          "value": 100.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Diagram: height associated with side transition area.",
+          "status": "uncertain",
+          "ocr_raw": "to h = 100 m"
+        },
+        {
+          "label": "Upper transition area inclination",
+          "value": 1.0,
+          "value_max": null,
+          "unit": "ratio",
+          "context": "Diagram prints inclination 1:20, up to height 100 m.",
+          "status": "uncertain",
+          "ocr_raw": "Upper transition area inclination 1:20 to h = 100 m"
+        },
+        {
+          "label": "Upper transition area height",
+          "value": 100.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Diagram: height associated with upper transition area.",
+          "status": "uncertain",
+          "ocr_raw": "to h = 100 m"
+        },
+        {
+          "label": "Horizontal area radius",
+          "value": 3600.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Diagram: horizontal area radius.",
+          "status": "uncertain",
+          "ocr_raw": "Horizontal area r = 3600 m"
+        },
+        {
+          "label": "Horizontal area height above airport height",
+          "value": 45.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Diagram: height above airport height.",
+          "status": "uncertain",
+          "ocr_raw": "h = 45 m above airport height"
+        },
+        {
+          "label": "Strips width",
+          "value": 300.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Diagram: strip width.",
+          "status": "uncertain",
+          "ocr_raw": "“Strips” W = 300 m"
+        },
+        {
+          "label": "Strips length addition",
+          "value": 60.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Diagram states strip length equals runway length plus twice this amount.",
+          "status": "uncertain",
+          "ocr_raw": "l = runway length + 2 x 60 m"
+        }
+      ],
+      "figure_refs": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "cross_refs": [
+        "→ ②",
+        "→ ④",
+        "→ ①",
+        "→ ③"
+      ],
+      "keywords": [
+        "aviation",
+        "runway",
+        "airport",
+        "runway orientation",
+        "crosswind",
+        "parallel runways",
+        "runway capacity",
+        "obstruction limitation",
+        "RESA",
+        "taxiway"
+      ],
+      "tags_architectural": [
+        "circulation",
+        "safety"
+      ],
+      "confidence": 0.91
+    }
+  ]
+}

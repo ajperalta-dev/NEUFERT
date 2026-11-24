@@ -1,0 +1,506 @@
+{
+  "fichas": [
+    {
+      "id": "4122fb96e4bd1976-101-vision-0",
+      "pdf_page": 101,
+      "book_page": 88,
+      "chapter": "BUILDING COMPONENTS",
+      "section": "Roofs",
+      "title": "Reed thatching",
+      "summary": "Reed thatch is fixed to battens with the ends upward. The reference gives its length, batten spacing, covering thickness, and a service-life estimate that varies by climate.",
+      "building_type": "Pitched roof covering",
+      "spaces": [],
+      "uses": [
+        "Roof covering"
+      ],
+      "furniture_equipment": [],
+      "dimensions": [
+        {
+          "label": "Reed length",
+          "value": 1.2,
+          "value_max": 1.4,
+          "unit": "m",
+          "context": "Length of reed used for thatching.",
+          "status": "uncertain",
+          "ocr_raw": "1.2-1.4 m long"
+        },
+        {
+          "label": "Batten spacing",
+          "value": 20.0,
+          "value_max": 30.0,
+          "unit": "cm",
+          "context": "Spacing of battens supporting reed thatch.",
+          "status": "uncertain",
+          "ocr_raw": "spacing 20-30 em"
+        },
+        {
+          "label": "Thatch thickness",
+          "value": 28.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Minimum thickness; the text recommends a greater thickness of 35–40 cm.",
+          "status": "uncertain",
+          "ocr_raw": "in a thickness of ii;;28 em"
+        },
+        {
+          "label": "Recommended thatch thickness",
+          "value": 35.0,
+          "value_max": 40.0,
+          "unit": "cm",
+          "context": "Better thickness for reed thatch.",
+          "status": "uncertain",
+          "ocr_raw": "(better 35-40 em)"
+        },
+        {
+          "label": "Service life in sunny districts",
+          "value": 60.0,
+          "value_max": 70.0,
+          "unit": "years",
+          "context": "Estimated lifetime in sunny districts.",
+          "status": "uncertain",
+          "ocr_raw": "Lifetime in sunny districts 60--70 years"
+        },
+        {
+          "label": "Roof covering load",
+          "value": 0.7,
+          "value_max": null,
+          "unit": "kN/m²",
+          "context": "Load of reed thatch.",
+          "status": "uncertain",
+          "ocr_raw": "Reed thatch, load 0.70 KN/m"
+        }
+      ],
+      "figure_refs": [
+        "1"
+      ],
+      "cross_refs": [
+        "→ 1"
+      ],
+      "keywords": [
+        "reed thatch",
+        "roof covering",
+        "battens",
+        "service life"
+      ],
+      "tags_architectural": [],
+      "confidence": 0.91
+    },
+    {
+      "id": "4122fb96e4bd1976-101-vision-1",
+      "pdf_page": 101,
+      "book_page": 88,
+      "chapter": "BUILDING COMPONENTS",
+      "section": "Roofs",
+      "title": "Wood shingle roof",
+      "summary": "Wood shingles may be made from several timber species and are suitable for different kinds of roofs. Their service life depends on material quality and treatment, precipitation, and roof pitch; the text states a rule of thumb relating slope degrees to years of life.",
+      "building_type": "Pitched roof covering",
+      "spaces": [],
+      "uses": [
+        "Roof covering"
+      ],
+      "furniture_equipment": [],
+      "dimensions": [
+        {
+          "label": "Roof covering load",
+          "value": 0.25,
+          "value_max": null,
+          "unit": "kN/m²",
+          "context": "Load of a wood shingle roof.",
+          "status": "uncertain",
+          "ocr_raw": "Wood shingle roof, load 0.25 KN/m"
+        },
+        {
+          "label": "Roof slope to service-life rule",
+          "value": 1.0,
+          "value_max": null,
+          "unit": "degree per year",
+          "context": "The text says degrees of roof slope equal years of lifetime; this records the printed relationship, not a calculated service life.",
+          "status": "uncertain",
+          "ocr_raw": "degrees of roof slope= years of lifetime"
+        }
+      ],
+      "figure_refs": [
+        "2"
+      ],
+      "cross_refs": [
+        "→ 2"
+      ],
+      "keywords": [
+        "wood shingles",
+        "roof covering",
+        "timber",
+        "roof pitch",
+        "service life"
+      ],
+      "tags_architectural": [],
+      "confidence": 0.88
+    },
+    {
+      "id": "4122fb96e4bd1976-101-vision-2",
+      "pdf_page": 101,
+      "book_page": 88,
+      "chapter": "BUILDING COMPONENTS",
+      "section": "Roofs",
+      "title": "Slate roof coverings",
+      "summary": "Slate is used for roof and wall coverings in several named slating styles. The reference describes boarding, plank width, roofing felt, lap, and pitches for particular slate patterns; it also identifies several slate load values.",
+      "building_type": "Pitched roof and wall covering",
+      "spaces": [],
+      "uses": [
+        "Roof covering",
+        "Wall covering"
+      ],
+      "furniture_equipment": [],
+      "dimensions": [
+        {
+          "label": "Roof covering load",
+          "value": 0.45,
+          "value_max": 0.5,
+          "unit": "kN/m²",
+          "context": "Load stated for an Old German slate roof.",
+          "status": "uncertain",
+          "ocr_raw": "'Old German' slate roof, load 0.45- 0.50 KN/m 2"
+        },
+        {
+          "label": "Roof covering load",
+          "value": 0.45,
+          "value_max": 0.5,
+          "unit": "kN/m²",
+          "context": "Load stated for English slating with fibre cement slates.",
+          "status": "uncertain",
+          "ocr_raw": "English slating with fibre cement slates, load 0.45-G.50 KN/m 2"
+        },
+        {
+          "label": "Roof pitch",
+          "value": 15.0,
+          "value_max": 90.0,
+          "unit": "°",
+          "context": "Pitch range stated for slate covering.",
+          "status": "uncertain",
+          "ocr_raw": "at pitches of 15-90°"
+        },
+        {
+          "label": "Boarding thickness",
+          "value": 24.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Minimum thickness of boarding beneath slate.",
+          "status": "uncertain",
+          "ocr_raw": "on ii;;24 mm thick boarding"
+        },
+        {
+          "label": "Plank width",
+          "value": 12.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Width of planks used for the boarding.",
+          "status": "uncertain",
+          "ocr_raw": "made of 12 em wide planks"
+        },
+        {
+          "label": "Roofing felt weight designation",
+          "value": 200.0,
+          "value_max": null,
+          "unit": "gauge",
+          "context": "Sanded roofing felt protects against dust and wind; designation is transcribed as printed.",
+          "status": "uncertain",
+          "ocr_raw": "Sanded roofing felt (200 gauge)"
+        },
+        {
+          "label": "Slate lap",
+          "value": 8.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Minimum lap; the text notes 10 cm as better.",
+          "status": "uncertain",
+          "ocr_raw": "Lap ;;;;a em (better I 0 em)"
+        },
+        {
+          "label": "Preferred slate lap",
+          "value": 10.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Preferred lap stated in parentheses.",
+          "status": "uncertain",
+          "ocr_raw": "(better I 0 em)"
+        },
+        {
+          "label": "Old German slating roof pitch",
+          "value": 25.0,
+          "value_max": null,
+          "unit": "°",
+          "context": "Minimum pitch shown for Old German slating.",
+          "status": "uncertain",
+          "ocr_raw": "Old German slating, roof pitch ≥25°"
+        },
+        {
+          "label": "Old German double slating roof pitch",
+          "value": 22.0,
+          "value_max": null,
+          "unit": "°",
+          "context": "Minimum pitch shown for Old German double slating.",
+          "status": "uncertain",
+          "ocr_raw": "Old German double slating, roof pitch ≥22°"
+        },
+        {
+          "label": "Fish-scale slating roof pitch",
+          "value": 25.0,
+          "value_max": null,
+          "unit": "°",
+          "context": "Minimum pitch shown for fish-scale slating.",
+          "status": "uncertain",
+          "ocr_raw": "≥25° fish scale slating"
+        },
+        {
+          "label": "Curved-cut slating roof pitch",
+          "value": 25.0,
+          "value_max": null,
+          "unit": "°",
+          "context": "Minimum pitch shown for curved-cut slating.",
+          "status": "uncertain",
+          "ocr_raw": "≥25° curved-cut slating"
+        },
+        {
+          "label": "Sharp-angle slating roof pitch",
+          "value": 30.0,
+          "value_max": null,
+          "unit": "°",
+          "context": "Minimum pitch shown for sharp-angle slating.",
+          "status": "uncertain",
+          "ocr_raw": "Sharp angle slating ≥30°"
+        },
+        {
+          "label": "English slating roof pitch",
+          "value": 22.0,
+          "value_max": null,
+          "unit": "°",
+          "context": "Minimum pitch shown for English slating.",
+          "status": "uncertain",
+          "ocr_raw": "English slating ≥22°"
+        },
+        {
+          "label": "Obtuse cut angle",
+          "value": 37.5,
+          "value_max": null,
+          "unit": "°",
+          "context": "Cut angle for slate course.",
+          "status": "uncertain",
+          "ocr_raw": "Obtuse cut α = 37.5°"
+        },
+        {
+          "label": "Normal cut angle",
+          "value": 37.0,
+          "value_max": null,
+          "unit": "°",
+          "context": "Cut angle for slate course.",
+          "status": "uncertain",
+          "ocr_raw": "Normal cut α = 37°"
+        },
+        {
+          "label": "Sharp cut angle",
+          "value": 32.5,
+          "value_max": null,
+          "unit": "°",
+          "context": "Cut angle for slate course.",
+          "status": "uncertain",
+          "ocr_raw": "Sharp cut α = 32.5°"
+        },
+        {
+          "label": "Curved cut angle",
+          "value": 45.0,
+          "value_max": null,
+          "unit": "°",
+          "context": "Cut angle for slate course.",
+          "status": "uncertain",
+          "ocr_raw": "Curved cut α = 45°"
+        }
+      ],
+      "figure_refs": [
+        "3",
+        "4",
+        "5",
+        "6",
+        "7"
+      ],
+      "cross_refs": [
+        "→ 3–8"
+      ],
+      "keywords": [
+        "slate",
+        "Old German slating",
+        "English slating",
+        "roof pitch",
+        "roofing felt",
+        "boarding",
+        "lap"
+      ],
+      "tags_architectural": [],
+      "confidence": 0.87
+    },
+    {
+      "id": "4122fb96e4bd1976-101-vision-3",
+      "pdf_page": 101,
+      "book_page": 88,
+      "chapter": "BUILDING COMPONENTS",
+      "section": "Roofs",
+      "title": "Double-lap tiling (beaver tail)",
+      "summary": "A heavy roof covering formed with double-lap tiles, identified as beaver-tail tiling.",
+      "building_type": "Pitched roof covering",
+      "spaces": [],
+      "uses": [
+        "Roof covering"
+      ],
+      "furniture_equipment": [],
+      "dimensions": [
+        {
+          "label": "Roof covering load",
+          "value": 0.6,
+          "value_max": null,
+          "unit": "kN/m²",
+          "context": "Load of double-lap beaver-tail tiling.",
+          "status": "uncertain",
+          "ocr_raw": "Double-lap tiling ('beaver tail'), heavy roof covering, load 0.60 KN/m 2"
+        },
+        {
+          "label": "Tile quantity",
+          "value": 34.0,
+          "value_max": 44.0,
+          "unit": "tiles/m²",
+          "context": "Tile coverage quantity per square metre.",
+          "status": "uncertain",
+          "ocr_raw": "34-44 tiles/m 2"
+        }
+      ],
+      "figure_refs": [
+        "9"
+      ],
+      "cross_refs": [],
+      "keywords": [
+        "double-lap tiling",
+        "beaver tail",
+        "roof covering",
+        "tiles"
+      ],
+      "tags_architectural": [],
+      "confidence": 0.95
+    },
+    {
+      "id": "4122fb96e4bd1976-101-vision-4",
+      "pdf_page": 101,
+      "book_page": 88,
+      "chapter": "BUILDING COMPONENTS",
+      "section": "Roofs",
+      "title": "Concrete roof tiles",
+      "summary": "Concrete roof tiles are illustrated as a pitched roof covering; the reference states their load and roof pitch.",
+      "building_type": "Pitched roof covering",
+      "spaces": [],
+      "uses": [
+        "Roof covering"
+      ],
+      "furniture_equipment": [],
+      "dimensions": [
+        {
+          "label": "Roof covering load",
+          "value": 0.6,
+          "value_max": 0.8,
+          "unit": "kN/m²",
+          "context": "Load range for concrete tiles.",
+          "status": "uncertain",
+          "ocr_raw": "Concrete tiles, 0.60-G.80 KN/m 2"
+        },
+        {
+          "label": "Roof pitch",
+          "value": 18.0,
+          "value_max": null,
+          "unit": "°",
+          "context": "Pitch stated for concrete tiles.",
+          "status": "uncertain",
+          "ocr_raw": "pitch 18°"
+        }
+      ],
+      "figure_refs": [
+        "10"
+      ],
+      "cross_refs": [],
+      "keywords": [
+        "concrete tiles",
+        "roof covering",
+        "roof pitch"
+      ],
+      "tags_architectural": [],
+      "confidence": 0.9
+    },
+    {
+      "id": "4122fb96e4bd1976-101-vision-5",
+      "pdf_page": 101,
+      "book_page": 88,
+      "chapter": "BUILDING COMPONENTS",
+      "section": "Roofs",
+      "title": "Pantile roof",
+      "summary": "The pantile roof is described as a lightweight roof covering.",
+      "building_type": "Pitched roof covering",
+      "spaces": [],
+      "uses": [
+        "Roof covering"
+      ],
+      "furniture_equipment": [],
+      "dimensions": [
+        {
+          "label": "Roof covering load",
+          "value": 0.5,
+          "value_max": null,
+          "unit": "kN/m²",
+          "context": "Load of the lightweight pantile roof.",
+          "status": "uncertain",
+          "ocr_raw": "Pantile roof, lightweight, load 0.50 KN/m 2"
+        }
+      ],
+      "figure_refs": [
+        "12"
+      ],
+      "cross_refs": [],
+      "keywords": [
+        "pantile",
+        "lightweight roof",
+        "roof covering"
+      ],
+      "tags_architectural": [],
+      "confidence": 0.96
+    },
+    {
+      "id": "4122fb96e4bd1976-101-vision-6",
+      "pdf_page": 101,
+      "book_page": 88,
+      "chapter": "BUILDING COMPONENTS",
+      "section": "Roofs",
+      "title": "Interlocking clay tile roof",
+      "summary": "Interlocking clay tiles are shown as a pitched roof covering, with a stated load.",
+      "building_type": "Pitched roof covering",
+      "spaces": [],
+      "uses": [
+        "Roof covering"
+      ],
+      "furniture_equipment": [],
+      "dimensions": [
+        {
+          "label": "Roof covering load",
+          "value": 0.55,
+          "value_max": null,
+          "unit": "kN/m²",
+          "context": "Load of the interlocking clay tile roof.",
+          "status": "uncertain",
+          "ocr_raw": "Interlocking clay tile roof, load 0.55 KN/m 2"
+        }
+      ],
+      "figure_refs": [
+        "13"
+      ],
+      "cross_refs": [],
+      "keywords": [
+        "interlocking clay tiles",
+        "roof covering"
+      ],
+      "tags_architectural": [],
+      "confidence": 0.96
+    }
+  ]
+}

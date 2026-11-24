@@ -1,0 +1,99 @@
+{
+  "fichas": [
+    {
+      "id": "4122fb96e4bd1976-496-vision-0",
+      "pdf_page": 496,
+      "book_page": 483,
+      "chapter": "BUILDING SERVICES",
+      "section": "Building Physics",
+      "title": "Room Acoustics",
+      "summary": "Room acoustics depends strongly on the room’s primary structure. Narrow, high rooms with geometrically structured reflecting walls and diffusely reflecting ceilings favor early side reflections. Shape ceilings to direct sound toward the rear and avoid unfavorable concentrations; avoid parallel unstructured surfaces that cause flutter echo. Wall folds can diffuse reflections, and reflective surfaces can compensate for weak side reflections. Podium placement and raised seating influence sound distribution; banked seating promotes uniform direct sound.",
+      "building_type": "Acoustic performance of rooms and auditoriums",
+      "spaces": [
+        "Auditorium",
+        "Concert hall",
+        "Chamber music room",
+        "Podium",
+        "Seating area"
+      ],
+      "uses": [
+        "Speech",
+        "Concert music",
+        "Chamber music"
+      ],
+      "furniture_equipment": [
+        "Podium",
+        "Banked seating",
+        "Reflective wall surfaces",
+        "Sound-absorbing surfaces"
+      ],
+      "dimensions": [
+        {
+          "label": "Guideline room volume per person for speech",
+          "value": 4.0,
+          "value_max": null,
+          "unit": "m³/person",
+          "context": "Guideline value for speech; the required volume depends on the room’s purpose.",
+          "status": "uncertain",
+          "ocr_raw": "Guideline values are 4 m³/person for speech"
+        },
+        {
+          "label": "Guideline room volume per person for concert music",
+          "value": 10.0,
+          "value_max": null,
+          "unit": "m³/person",
+          "context": "Guideline value for (concert) music; the required volume depends on the room’s purpose.",
+          "status": "uncertain",
+          "ocr_raw": "and 10 m³/person for (concert) music."
+        },
+        {
+          "label": "Wall-fold angle",
+          "value": 5.0,
+          "value_max": null,
+          "unit": "degrees",
+          "context": "Wall folds with angles greater than 5° can remove the parallel effect and achieve diffused reflections.",
+          "status": "uncertain",
+          "ocr_raw": "Providing folds in the walls with angles of >5° can remove the parallel effect"
+        }
+      ],
+      "figure_refs": [
+        "1 — Berlin Philharmonic: staggering the rows of seating",
+        "2 — Podium in the small chamber music room, Beethoven Archive, Bonn",
+        "3 — Flutter echo from parallel unstructured walls",
+        "4 — Diffused reflections created through folds in the wall surface",
+        "5 — Ceiling shape flat for music, sloping to the back for speech",
+        "6 — Unfavourable ceiling shapes",
+        "7 — Folding of the wall surface",
+        "8 — Uniform direct sound to all places through banking the rows of seats; the curve should follow a logarithmic spiral",
+        "9 — Drop in sound level over absorbing surfaces"
+      ],
+      "cross_refs": [
+        "p. 482 (6)",
+        "3",
+        "4",
+        "5–6",
+        "7",
+        "1",
+        "2",
+        "9",
+        "8"
+      ],
+      "keywords": [
+        "room acoustics",
+        "early side reflections",
+        "flutter echo",
+        "diffused reflections",
+        "auditorium",
+        "ceiling shape",
+        "banked seating",
+        "reverberation"
+      ],
+      "tags_architectural": [
+        "circulation",
+        "spatial_proportion",
+        "daylighting"
+      ],
+      "confidence": 0.96
+    }
+  ]
+}

@@ -1,0 +1,248 @@
+{
+  "fichas": [
+    {
+      "id": "4122fb96e4bd1976-28-vision-0",
+      "pdf_page": 28,
+      "book_page": 15,
+      "chapter": "BASICS",
+      "section": "Drawings",
+      "title": "Electricity Symbols",
+      "summary": "Legend of symbols for current types and frequencies, cable types and markings, electrical components, switches, sockets, connections, communications equipment, and alarms.",
+      "building_type": "Technical drawing reference",
+      "spaces": [],
+      "uses": [
+        "Identify electrical current types and frequencies on drawings",
+        "Represent electrical cables, wiring, and installation devices",
+        "Document electrical power, communications, and alarm systems"
+      ],
+      "furniture_equipment": [],
+      "dimensions": [
+        {
+          "label": "Frequency",
+          "value": 2.0,
+          "value_max": null,
+          "unit": "kHz",
+          "context": "Alternating-current symbol with stated frequency",
+          "status": "uncertain",
+          "ocr_raw": "2 kHz"
+        },
+        {
+          "label": "Fuse rating",
+          "value": 10.0,
+          "value_max": null,
+          "unit": "A",
+          "context": "Screw-in fuse example; type DII, three-pole",
+          "status": "uncertain",
+          "ocr_raw": "screw-in fuse, e.g. 10A and type DII, three-pole"
+        },
+        {
+          "label": "Fuse rating",
+          "value": 50.0,
+          "value_max": null,
+          "unit": "A",
+          "context": "Low-voltage high-performance fuse example; size 00",
+          "status": "uncertain",
+          "ocr_raw": "low-voltage high-performance fuse, e.g. 50A size 00"
+        },
+        {
+          "label": "Trip rating",
+          "value": 63.0,
+          "value_max": null,
+          "unit": "A",
+          "context": "Three-pole trip example",
+          "status": "uncertain",
+          "ocr_raw": "trip, e.g. 63A, three-pole"
+        },
+        {
+          "label": "Cable protection switch rating",
+          "value": 16.0,
+          "value_max": null,
+          "unit": "A",
+          "context": "Three-pole cable protection switch example",
+          "status": "uncertain",
+          "ocr_raw": "cable protection switch, e.g. 16A, three-pole"
+        }
+      ],
+      "figure_refs": [],
+      "cross_refs": [],
+      "keywords": [
+        "electricity",
+        "electrical installation",
+        "symbols",
+        "current",
+        "frequency",
+        "fuse",
+        "switch",
+        "socket",
+        "transformer",
+        "communications"
+      ],
+      "tags_architectural": [
+        "safety"
+      ],
+      "confidence": 0.93
+    },
+    {
+      "id": "4122fb96e4bd1976-28-vision-1",
+      "pdf_page": 28,
+      "book_page": 15,
+      "chapter": "BASICS",
+      "section": "Drawings",
+      "title": "Supporting Points in Mast Cables",
+      "summary": "Legend of symbols for cable support points and mast arrangements, including guyed, timber, lattice, reinforced-concrete, portal, and A-masts, as well as anchors, braces, and mast-mounted lamps.",
+      "building_type": "Electrical infrastructure drawing reference",
+      "spaces": [],
+      "uses": [
+        "Represent overhead cable support points and mast types",
+        "Indicate cable anchors, braces, and mast-mounted equipment"
+      ],
+      "furniture_equipment": [],
+      "dimensions": [],
+      "figure_refs": [],
+      "cross_refs": [],
+      "keywords": [
+        "mast",
+        "cable support",
+        "guyed mast",
+        "portal mast",
+        "anchor",
+        "overhead cable"
+      ],
+      "tags_architectural": [
+        "safety"
+      ],
+      "confidence": 0.94
+    },
+    {
+      "id": "4122fb96e4bd1976-28-vision-2",
+      "pdf_page": 28,
+      "book_page": 15,
+      "chapter": "BASICS",
+      "section": "Drawings",
+      "title": "Cables, Marking, Application",
+      "summary": "Legend for cable and conductor line types, including protective-earth, signal, telephone, radio, coaxial, twisted, and hollow cables, along with directional markings and connection symbols.",
+      "building_type": "Electrical installation drawing reference",
+      "spaces": [],
+      "uses": [
+        "Distinguish cable types and applications in technical drawings",
+        "Show cable routes, direction, and connection points"
+      ],
+      "furniture_equipment": [],
+      "dimensions": [],
+      "figure_refs": [],
+      "cross_refs": [],
+      "keywords": [
+        "cables",
+        "cable marking",
+        "protective earth",
+        "signal cable",
+        "telephone cable",
+        "coaxial cable",
+        "cable connection"
+      ],
+      "tags_architectural": [
+        "circulation"
+      ],
+      "confidence": 0.93
+    },
+    {
+      "id": "4122fb96e4bd1976-28-vision-3",
+      "pdf_page": 28,
+      "book_page": 15,
+      "chapter": "BASICS",
+      "section": "Drawings",
+      "title": "Cables and Cable Connections",
+      "summary": "Legend distinguishing existing, planned, under-construction, and mobile cables; underground and overground installations; surface and plastered cable routes; and related connection, distribution, and equipment-enclosure symbols.",
+      "building_type": "Electrical installation drawing reference",
+      "spaces": [],
+      "uses": [
+        "Show cable status and installation method",
+        "Represent cable routes, distribution, earthing, and equipment enclosures"
+      ],
+      "furniture_equipment": [],
+      "dimensions": [],
+      "figure_refs": [],
+      "cross_refs": [],
+      "keywords": [
+        "cable installation",
+        "underground cable",
+        "overground cable",
+        "distribution",
+        "earthing",
+        "equipment enclosure"
+      ],
+      "tags_architectural": [
+        "safety"
+      ],
+      "confidence": 0.92
+    },
+    {
+      "id": "4122fb96e4bd1976-28-vision-4",
+      "pdf_page": 28,
+      "book_page": 15,
+      "chapter": "BASICS",
+      "section": "Drawings",
+      "title": "Electrical Devices, Controls, and Connections",
+      "summary": "Legend of symbols for converters, rectifiers, fuses, protective and switching devices, sockets, electrical connections, smoke-extraction controls, fire alarms, telephone and aerial systems, and related equipment.",
+      "building_type": "Electrical installation drawing reference",
+      "spaces": [],
+      "uses": [
+        "Represent electrical protection and control devices",
+        "Document sockets, power connections, communications equipment, and alarms"
+      ],
+      "furniture_equipment": [
+        "Switches",
+        "Sockets",
+        "Fuses",
+        "Circuit breakers",
+        "Transformers",
+        "Telephone and aerial equipment"
+      ],
+      "dimensions": [
+        {
+          "label": "Earth-leakage circuit breaker poles",
+          "value": 4.0,
+          "value_max": null,
+          "unit": "poles",
+          "context": "Earth-leakage circuit breaker symbol",
+          "status": "uncertain",
+          "ocr_raw": "earth leakage circuit breaker, four-pole"
+        },
+        {
+          "label": "Cable protection switch poles",
+          "value": 3.0,
+          "value_max": null,
+          "unit": "poles",
+          "context": "Cable protection switch example",
+          "status": "uncertain",
+          "ocr_raw": "cable protection switch, e.g. 16A, three-pole"
+        },
+        {
+          "label": "Motor protection switch poles",
+          "value": 3.0,
+          "value_max": null,
+          "unit": "poles",
+          "context": "Motor protection switch symbol",
+          "status": "uncertain",
+          "ocr_raw": "motor protection switch, three-pole"
+        }
+      ],
+      "figure_refs": [],
+      "cross_refs": [],
+      "keywords": [
+        "electrical devices",
+        "switches",
+        "sockets",
+        "circuit protection",
+        "fire alarm",
+        "smoke extraction",
+        "telephone",
+        "aerial"
+      ],
+      "tags_architectural": [
+        "safety"
+      ],
+      "confidence": 0.91
+    }
+  ]
+}

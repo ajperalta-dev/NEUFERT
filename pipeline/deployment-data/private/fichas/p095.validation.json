@@ -1,0 +1,786 @@
+{
+  "model": "gpt-6-luna",
+  "checks": {
+    "checks": [
+      {
+        "ficha_index": 0,
+        "dimension_index": 0,
+        "status": "verified",
+        "value": 3.0,
+        "value_max": null,
+        "reason": "The drawing states approximately 3 cm."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 1,
+        "status": "verified",
+        "value": 90.0,
+        "value_max": null,
+        "reason": "The drawing explicitly labels the example F90."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 2,
+        "status": "verified",
+        "value": 10.0,
+        "value_max": null,
+        "reason": "The text states elastic joints should be replaced after a maximum of 10 years."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 3,
+        "status": "verified",
+        "value": 15.0,
+        "value_max": null,
+        "reason": "The class 1 General table entry is 15 mm."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 4,
+        "status": "verified",
+        "value": 15.0,
+        "value_max": null,
+        "reason": "The class 1 Slabs table entry is 15 mm."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 5,
+        "status": "verified",
+        "value": 15.0,
+        "value_max": null,
+        "reason": "The class 1 C40/50 table entry is 15 mm."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 6,
+        "status": "verified",
+        "value": 25.0,
+        "value_max": null,
+        "reason": "The class 1 pre-tensioning General table entry is 25 mm."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 7,
+        "status": "verified",
+        "value": 25.0,
+        "value_max": null,
+        "reason": "The class 1 pre-tensioning Slabs table entry is 25 mm."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 8,
+        "status": "verified",
+        "value": 25.0,
+        "value_max": null,
+        "reason": "The class 1 pre-tensioning C40/50 table entry is 25 mm."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 9,
+        "status": "verified",
+        "value": 20.0,
+        "value_max": null,
+        "reason": "The class 2a General table entry is 20 mm."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 10,
+        "status": "verified",
+        "value": 15.0,
+        "value_max": null,
+        "reason": "The class 2a Slabs table entry is 15 mm."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 11,
+        "status": "verified",
+        "value": 15.0,
+        "value_max": null,
+        "reason": "The class 2a C40/50 table entry is 15 mm."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 12,
+        "status": "verified",
+        "value": 30.0,
+        "value_max": null,
+        "reason": "The class 2a pre-tensioning General table entry is 30 mm."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 13,
+        "status": "verified",
+        "value": 25.0,
+        "value_max": null,
+        "reason": "The class 2a pre-tensioning Slabs table entry is 25 mm."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 14,
+        "status": "verified",
+        "value": 25.0,
+        "value_max": null,
+        "reason": "The class 2a pre-tensioning C40/50 table entry is 25 mm."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 15,
+        "status": "verified",
+        "value": 25.0,
+        "value_max": null,
+        "reason": "The class 2b General table entry is 25 mm."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 16,
+        "status": "verified",
+        "value": 20.0,
+        "value_max": null,
+        "reason": "The class 2b Slabs table entry is 20 mm."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 17,
+        "status": "verified",
+        "value": 20.0,
+        "value_max": null,
+        "reason": "The class 2b C40/50 table entry is 20 mm."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 18,
+        "status": "verified",
+        "value": 35.0,
+        "value_max": null,
+        "reason": "The class 2b pre-tensioning General table entry is 35 mm."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 19,
+        "status": "verified",
+        "value": 30.0,
+        "value_max": null,
+        "reason": "The class 2b pre-tensioning Slabs table entry is 30 mm."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 20,
+        "status": "verified",
+        "value": 30.0,
+        "value_max": null,
+        "reason": "The class 2b pre-tensioning C40/50 table entry is 30 mm."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 21,
+        "status": "verified",
+        "value": 40.0,
+        "value_max": null,
+        "reason": "The class 3 General table entry is 40 mm."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 22,
+        "status": "verified",
+        "value": 35.0,
+        "value_max": null,
+        "reason": "The class 3 Slabs table entry is 35 mm."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 23,
+        "status": "verified",
+        "value": 35.0,
+        "value_max": null,
+        "reason": "The class 3 C40/50 table entry is 35 mm."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 24,
+        "status": "verified",
+        "value": 50.0,
+        "value_max": null,
+        "reason": "The class 3 pre-tensioning General table entry is 50 mm."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 25,
+        "status": "verified",
+        "value": 45.0,
+        "value_max": null,
+        "reason": "The class 3 pre-tensioning Slabs table entry is 45 mm."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 26,
+        "status": "verified",
+        "value": 45.0,
+        "value_max": null,
+        "reason": "The class 3 pre-tensioning C40/50 table entry is 45 mm."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 27,
+        "status": "verified",
+        "value": 40.0,
+        "value_max": null,
+        "reason": "The class 4 General table entry is 40 mm."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 28,
+        "status": "verified",
+        "value": 35.0,
+        "value_max": null,
+        "reason": "The class 4 Slabs table entry is 35 mm."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 29,
+        "status": "verified",
+        "value": 35.0,
+        "value_max": null,
+        "reason": "The class 4 C40/50 table entry is 35 mm."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 30,
+        "status": "verified",
+        "value": 50.0,
+        "value_max": null,
+        "reason": "The class 4 pre-tensioning General table entry is 50 mm."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 31,
+        "status": "verified",
+        "value": 45.0,
+        "value_max": null,
+        "reason": "The class 4 pre-tensioning Slabs table entry is 45 mm."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 32,
+        "status": "verified",
+        "value": 45.0,
+        "value_max": null,
+        "reason": "The class 4 pre-tensioning C40/50 table entry is 45 mm."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 33,
+        "status": "verified",
+        "value": 25.0,
+        "value_max": null,
+        "reason": "The class 5a General table entry is 25 mm."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 34,
+        "status": "verified",
+        "value": 20.0,
+        "value_max": null,
+        "reason": "The class 5a Slabs table entry is 20 mm."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 35,
+        "status": "verified",
+        "value": 20.0,
+        "value_max": null,
+        "reason": "The class 5a C40/50 table entry is 20 mm."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 36,
+        "status": "verified",
+        "value": 35.0,
+        "value_max": null,
+        "reason": "The class 5a pre-tensioning General table entry is 35 mm."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 37,
+        "status": "verified",
+        "value": 30.0,
+        "value_max": null,
+        "reason": "The class 5a pre-tensioning Slabs table entry is 30 mm."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 38,
+        "status": "verified",
+        "value": 30.0,
+        "value_max": null,
+        "reason": "The class 5a pre-tensioning C40/50 table entry is 30 mm."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 39,
+        "status": "verified",
+        "value": 30.0,
+        "value_max": null,
+        "reason": "The class 5b General table entry is 30 mm."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 40,
+        "status": "verified",
+        "value": 25.0,
+        "value_max": null,
+        "reason": "The class 5b Slabs table entry is 25 mm."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 41,
+        "status": "verified",
+        "value": 25.0,
+        "value_max": null,
+        "reason": "The class 5b C40/50 table entry is 25 mm."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 42,
+        "status": "verified",
+        "value": 40.0,
+        "value_max": null,
+        "reason": "The class 5b pre-tensioning General table entry is 40 mm."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 43,
+        "status": "verified",
+        "value": 35.0,
+        "value_max": null,
+        "reason": "The class 5b pre-tensioning Slabs table entry is 35 mm."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 44,
+        "status": "verified",
+        "value": 35.0,
+        "value_max": null,
+        "reason": "The class 5b pre-tensioning C40/50 table entry is 35 mm."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 45,
+        "status": "verified",
+        "value": 40.0,
+        "value_max": null,
+        "reason": "The class 5c General table entry is 40 mm."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 46,
+        "status": "verified",
+        "value": 35.0,
+        "value_max": null,
+        "reason": "The class 5c Slabs table entry is 35 mm."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 47,
+        "status": "verified",
+        "value": 35.0,
+        "value_max": null,
+        "reason": "The class 5c C40/50 table entry is 35 mm."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 48,
+        "status": "verified",
+        "value": 50.0,
+        "value_max": null,
+        "reason": "The class 5c pre-tensioning General table entry is 50 mm."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 49,
+        "status": "verified",
+        "value": 45.0,
+        "value_max": null,
+        "reason": "The class 5c pre-tensioning Slabs table entry is 45 mm."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 50,
+        "status": "verified",
+        "value": 50.0,
+        "value_max": null,
+        "reason": "The class 5c pre-tensioning C40/50 table entry is 50 mm."
+      }
+    ]
+  },
+  "automatic": [
+    {
+      "ficha_index": 0,
+      "dimension_index": 0,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 1,
+      "issues": [
+        "Unknown unit",
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 2,
+      "issues": [
+        "Unknown unit",
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 3,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 4,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 5,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 6,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 7,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 8,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 9,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 10,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 11,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 12,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 13,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 14,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 15,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 16,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 17,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 18,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 19,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 20,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 21,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 22,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 23,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 24,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 25,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 26,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 27,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 28,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 29,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 30,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 31,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 32,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 33,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 34,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 35,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 36,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 37,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 38,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 39,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 40,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 41,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 42,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 43,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 44,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 45,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 46,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 47,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 48,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 49,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 50,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    }
+  ],
+  "usage": [
+    {
+      "prompt_tokens": 4747,
+      "completion_tokens": 4054
+    },
+    {
+      "prompt_tokens": 8636,
+      "completion_tokens": 2026
+    }
+  ]
+}

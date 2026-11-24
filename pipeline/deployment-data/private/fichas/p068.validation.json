@@ -1,0 +1,45 @@
+{
+  "model": "gpt-6-luna",
+  "checks": {
+    "checks": [
+      {
+        "ficha_index": 1,
+        "dimension_index": 0,
+        "status": "verified",
+        "value": 5.0,
+        "value_max": null,
+        "reason": "The text states the listed factory hall had a 5 m ceiling height."
+      },
+      {
+        "ficha_index": 1,
+        "dimension_index": 1,
+        "status": "verified",
+        "value": 2.3,
+        "value_max": null,
+        "reason": "Figure 8 states that ceiling heights of 2.30 m were allowed by special exemption."
+      }
+    ]
+  },
+  "automatic": [
+    {
+      "ficha_index": 1,
+      "dimension_index": 0,
+      "issues": []
+    },
+    {
+      "ficha_index": 1,
+      "dimension_index": 1,
+      "issues": []
+    }
+  ],
+  "usage": [
+    {
+      "prompt_tokens": 4259,
+      "completion_tokens": 740
+    },
+    {
+      "prompt_tokens": 3746,
+      "completion_tokens": 155
+    }
+  ]
+}

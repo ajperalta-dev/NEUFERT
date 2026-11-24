@@ -1,0 +1,406 @@
+{
+  "model": "gpt-6-luna",
+  "checks": {
+    "checks": [
+      {
+        "ficha_index": 0,
+        "dimension_index": 0,
+        "status": "verified",
+        "value": null,
+        "value_max": null,
+        "reason": "The accompanying text explicitly states 4.82 \u00d7 1.96 m."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 1,
+        "status": "verified",
+        "value": null,
+        "value_max": null,
+        "reason": "The accompanying text explicitly states 4.82 \u00d7 1.96 m."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 2,
+        "status": "verified",
+        "value": null,
+        "value_max": null,
+        "reason": "The accompanying text states that the maximum panel size is approximately 10 m\u00b2."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 3,
+        "status": "verified",
+        "value": null,
+        "value_max": null,
+        "reason": "The accompanying text states a maximum width of 18 m."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 4,
+        "status": "verified",
+        "value": null,
+        "value_max": null,
+        "reason": "The accompanying text states a maximum height of 6 m."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 5,
+        "status": "uncertain",
+        "value": null,
+        "value_max": null,
+        "reason": "The drawing prints A \u00d7 B max. 8.00 \u00d7 6.00, but does not print a unit."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 6,
+        "status": "uncertain",
+        "value": null,
+        "value_max": null,
+        "reason": "The drawing prints A \u00d7 B max. 8.00 \u00d7 6.00, but does not print a unit."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 7,
+        "status": "uncertain",
+        "value": null,
+        "value_max": null,
+        "reason": "The caption prints T30: 5.00 \u00d7 4.00, but does not print a unit."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 8,
+        "status": "uncertain",
+        "value": null,
+        "value_max": null,
+        "reason": "The caption prints T30: 5.00 \u00d7 4.00, but does not print a unit."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 9,
+        "status": "uncertain",
+        "value": null,
+        "value_max": null,
+        "reason": "The caption prints T90: 8.50 \u00d7 3.50, but does not print a unit."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 10,
+        "status": "uncertain",
+        "value": null,
+        "value_max": null,
+        "reason": "The caption prints T90: 8.50 \u00d7 3.50, but does not print a unit."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 11,
+        "status": "uncertain",
+        "value": null,
+        "value_max": null,
+        "reason": "The figure prints 1.20\u20132.40 without a unit."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 12,
+        "status": "uncertain",
+        "value": null,
+        "value_max": null,
+        "reason": "The figure prints 1.80\u20133.60 without a unit."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 13,
+        "status": "uncertain",
+        "value": null,
+        "value_max": null,
+        "reason": "The figure prints 2.40\u20134.80 without a unit."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 14,
+        "status": "uncertain",
+        "value": null,
+        "value_max": null,
+        "reason": "The figure prints 3.00\u20136.00 without a unit."
+      },
+      {
+        "ficha_index": 1,
+        "dimension_index": 0,
+        "status": "uncertain",
+        "value": null,
+        "value_max": null,
+        "reason": "The figure marks \u22645.00 but gives no unit."
+      },
+      {
+        "ficha_index": 1,
+        "dimension_index": 1,
+        "status": "uncertain",
+        "value": null,
+        "value_max": null,
+        "reason": "The figure marks \u22646.00 but gives no unit."
+      },
+      {
+        "ficha_index": 1,
+        "dimension_index": 2,
+        "status": "uncertain",
+        "value": null,
+        "value_max": null,
+        "reason": "The figure prints strip widths 12 + 19 + 38 without a unit; the proposed cm unit is not visible."
+      },
+      {
+        "ficha_index": 1,
+        "dimension_index": 3,
+        "status": "uncertain",
+        "value": null,
+        "value_max": null,
+        "reason": "The figure prints strip widths 12 + 19 + 38 without a unit; the proposed cm unit is not visible."
+      },
+      {
+        "ficha_index": 1,
+        "dimension_index": 4,
+        "status": "uncertain",
+        "value": null,
+        "value_max": null,
+        "reason": "The figure prints strip widths 12 + 19 + 38 without a unit; the proposed cm unit is not visible."
+      },
+      {
+        "ficha_index": 2,
+        "dimension_index": 0,
+        "status": "uncertain",
+        "value": null,
+        "value_max": null,
+        "reason": "The figure prints width 75 and height 1.75, but does not print units; the proposed width unit cannot be confirmed."
+      },
+      {
+        "ficha_index": 2,
+        "dimension_index": 1,
+        "status": "uncertain",
+        "value": null,
+        "value_max": null,
+        "reason": "The figure prints widths 80, but does not print units; the proposed width unit cannot be confirmed."
+      },
+      {
+        "ficha_index": 2,
+        "dimension_index": 2,
+        "status": "uncertain",
+        "value": null,
+        "value_max": null,
+        "reason": "The figure prints widths 875, but does not print units; the proposed width unit cannot be confirmed."
+      },
+      {
+        "ficha_index": 2,
+        "dimension_index": 3,
+        "status": "uncertain",
+        "value": null,
+        "value_max": null,
+        "reason": "The figure prints widths 1.00, but does not print units; the proposed width unit cannot be confirmed."
+      },
+      {
+        "ficha_index": 2,
+        "dimension_index": 4,
+        "status": "uncertain",
+        "value": null,
+        "value_max": null,
+        "reason": "The figure prints double-leaf width 1.50, but does not print units."
+      },
+      {
+        "ficha_index": 2,
+        "dimension_index": 5,
+        "status": "uncertain",
+        "value": null,
+        "value_max": null,
+        "reason": "The figure prints double-leaf width 1.75, but does not print units."
+      },
+      {
+        "ficha_index": 2,
+        "dimension_index": 6,
+        "status": "uncertain",
+        "value": null,
+        "value_max": null,
+        "reason": "The figure prints double-leaf width 2.00, but does not print units."
+      },
+      {
+        "ficha_index": 2,
+        "dimension_index": 7,
+        "status": "uncertain",
+        "value": null,
+        "value_max": null,
+        "reason": "The figure prints double-leaf width 2.25, but does not print units."
+      },
+      {
+        "ficha_index": 2,
+        "dimension_index": 8,
+        "status": "uncertain",
+        "value": null,
+        "value_max": null,
+        "reason": "The sliding-door table prints widths from 1.00 through 2.50, but does not print units."
+      }
+    ]
+  },
+  "automatic": [
+    {
+      "ficha_index": 0,
+      "dimension_index": 0,
+      "issues": []
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 1,
+      "issues": []
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 2,
+      "issues": []
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 3,
+      "issues": []
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 4,
+      "issues": []
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 5,
+      "issues": []
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 6,
+      "issues": []
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 7,
+      "issues": []
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 8,
+      "issues": []
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 9,
+      "issues": []
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 10,
+      "issues": []
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 11,
+      "issues": []
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 12,
+      "issues": []
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 13,
+      "issues": []
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 14,
+      "issues": []
+    },
+    {
+      "ficha_index": 1,
+      "dimension_index": 0,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 1,
+      "dimension_index": 1,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 1,
+      "dimension_index": 2,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 1,
+      "dimension_index": 3,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 1,
+      "dimension_index": 4,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 2,
+      "dimension_index": 0,
+      "issues": []
+    },
+    {
+      "ficha_index": 2,
+      "dimension_index": 1,
+      "issues": []
+    },
+    {
+      "ficha_index": 2,
+      "dimension_index": 2,
+      "issues": []
+    },
+    {
+      "ficha_index": 2,
+      "dimension_index": 3,
+      "issues": []
+    },
+    {
+      "ficha_index": 2,
+      "dimension_index": 4,
+      "issues": []
+    },
+    {
+      "ficha_index": 2,
+      "dimension_index": 5,
+      "issues": []
+    },
+    {
+      "ficha_index": 2,
+      "dimension_index": 6,
+      "issues": []
+    },
+    {
+      "ficha_index": 2,
+      "dimension_index": 7,
+      "issues": []
+    },
+    {
+      "ficha_index": 2,
+      "dimension_index": 8,
+      "issues": []
+    }
+  ],
+  "usage": [
+    {
+      "prompt_tokens": 4701,
+      "completion_tokens": 2880
+    },
+    {
+      "prompt_tokens": 6318,
+      "completion_tokens": 1595
+    }
+  ]
+}

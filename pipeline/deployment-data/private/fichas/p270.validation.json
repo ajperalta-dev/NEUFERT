@@ -1,0 +1,32 @@
+{
+  "model": "gpt-6-luna",
+  "checks": {
+    "checks": [
+      {
+        "ficha_index": 0,
+        "dimension_index": 0,
+        "status": "verified",
+        "value": 1.0,
+        "value_max": null,
+        "reason": "The text explicitly states \u201ci.e. min. 1 m,\u201d matching the proposed minimum passage width and unit."
+      }
+    ]
+  },
+  "automatic": [
+    {
+      "ficha_index": 0,
+      "dimension_index": 0,
+      "issues": []
+    }
+  ],
+  "usage": [
+    {
+      "prompt_tokens": 4300,
+      "completion_tokens": 704
+    },
+    {
+      "prompt_tokens": 3463,
+      "completion_tokens": 86
+    }
+  ]
+}

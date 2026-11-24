@@ -1,0 +1,310 @@
+{
+  "fichas": [
+    {
+      "id": "4122fb96e4bd1976-133-vision-0",
+      "pdf_page": 133,
+      "book_page": 120,
+      "chapter": "BUILDING COMPONENTS",
+      "section": "Stairs",
+      "title": "Stairs: Principles and dimensional requirements",
+      "summary": "Guidance on stair stride, slope, riser-to-tread proportions, landings, stair widths, walking lines, handrails, headroom, and stair arrangements. The text notes that applicable national regulations and standards should be consulted; German requirements are cited, and UK guidance includes Approved Document K.",
+      "building_type": "Stairways in dwellings and other buildings",
+      "spaces": [
+        "Stairs",
+        "Landings",
+        "Stairwells",
+        "Cellar and attic access"
+      ],
+      "uses": [
+        "Vertical circulation",
+        "Escape routes",
+        "Access to lofts, basements, and upper floors",
+        "Passing and evacuation"
+      ],
+      "furniture_equipment": [
+        "Handrails",
+        "Central handrails",
+        "Balustrades",
+        "Stair landings"
+      ],
+      "dimensions": [
+        {
+          "label": "Adult stride on a horizontal surface",
+          "value": 62.5,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Standard stride shown for an adult walking on a horizontal surface.",
+          "status": "uncertain",
+          "ocr_raw": "62.5"
+        },
+        {
+          "label": "Comfortable slope",
+          "value": 1.0,
+          "value_max": 10.0,
+          "unit": "ratio",
+          "context": "Slope range printed as 1:10–1:8; the ratio components are retained in the context.",
+          "status": "uncertain",
+          "ocr_raw": "a comfortable slope is 1:10-1:8"
+        },
+        {
+          "label": "Comfortable slope",
+          "value": 1.0,
+          "value_max": 8.0,
+          "unit": "ratio",
+          "context": "Slope range printed as 1:10–1:8; the ratio components are retained in the context.",
+          "status": "uncertain",
+          "ocr_raw": "a comfortable slope is 1:10-1:8"
+        },
+        {
+          "label": "Riser-to-tread ratio",
+          "value": 17.0,
+          "value_max": null,
+          "unit": "ratio",
+          "context": "Good standard riser-to-tread ratio 17/29; the text also gives an approximate stride of 62.5 cm.",
+          "status": "uncertain",
+          "ocr_raw": "Good standard riser to tread ratio 17/29, stride 2 risers + 1 tread ≈ approx. 62.5 cm"
+        },
+        {
+          "label": "Riser-to-tread ratio",
+          "value": 17.0,
+          "value_max": null,
+          "unit": "ratio",
+          "context": "Normal stairs; landing after a maximum of 18 steps for legally essential stairs.",
+          "status": "uncertain",
+          "ocr_raw": "Normal stairs 17/29, landing after max. 18 steps for legally essential stairs."
+        },
+        {
+          "label": "Maximum steps before a landing",
+          "value": 18.0,
+          "value_max": null,
+          "unit": "steps",
+          "context": "Legally essential stairs; described as a 'should' regulation in the text.",
+          "status": "uncertain",
+          "ocr_raw": "Normal stairs 17/29, landing after max. 18 steps for legally essential stairs."
+        },
+        {
+          "label": "Prestigious stair storey height without a landing",
+          "value": 4.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Prestigious-style stairs can climb to this storey height without a landing.",
+          "status": "uncertain",
+          "ocr_raw": "Prestigious-style stairs can climb up to a 4 m storey height without a landing."
+        },
+        {
+          "label": "Handrail height above the front of the step",
+          "value": 90.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Diagram indicates the handrail height above the front of the step is at least 90 cm.",
+          "status": "uncertain",
+          "ocr_raw": "height of handrail above the front of the step at least 90 cm"
+        },
+        {
+          "label": "Headroom",
+          "value": 2.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Minimum vertical clearance indicated in stair arrangement diagrams.",
+          "status": "uncertain",
+          "ocr_raw": "≥2.0"
+        },
+        {
+          "label": "Minimum clearance",
+          "value": 1.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Clearance indicated beside a stair diagram; the OCR/image does not specify a more detailed label.",
+          "status": "uncertain",
+          "ocr_raw": "≥1.0"
+        },
+        {
+          "label": "Winding stair walking-line distance from inner cheek",
+          "value": 35.0,
+          "value_max": 40.0,
+          "unit": "cm",
+          "context": "Distance of the walking line to the inner cheek on winding stairs.",
+          "status": "uncertain",
+          "ocr_raw": "For winding stairs, the distance of the walking line to the inner cheek is 35–40 cm"
+        },
+        {
+          "label": "Straight stair walking-line distance to handrail",
+          "value": 55.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Distance of the walking line to the handrail for straight stairs.",
+          "status": "uncertain",
+          "ocr_raw": "For straight stairs, the distance of the walking line to the handrail is 55 cm"
+        },
+        {
+          "label": "Width for three people",
+          "value": 1.875,
+          "value_max": null,
+          "unit": "m",
+          "context": "Diagram labels this as the width for three people.",
+          "status": "uncertain",
+          "ocr_raw": "1.875"
+        },
+        {
+          "label": "Minimum usable stair width in dwellings with no more than two flats",
+          "value": 0.8,
+          "value_max": null,
+          "unit": "m",
+          "context": "German standards cited for residential buildings with no more than two flats.",
+          "status": "uncertain",
+          "ocr_raw": "usable stair width min. 0.80 m"
+        },
+        {
+          "label": "Riser-to-tread ratio in dwellings with no more than two flats",
+          "value": 17.0,
+          "value_max": null,
+          "unit": "ratio",
+          "context": "German standards cited for residential buildings with no more than two flats; printed ratio 17/28.",
+          "status": "uncertain",
+          "ocr_raw": "17/28 riser to tread ratio"
+        },
+        {
+          "label": "Width for stairs not legally essential",
+          "value": 0.5,
+          "value_max": null,
+          "unit": "m",
+          "context": "German standards cited for stairs not deemed legally essential as fire escape routes.",
+          "status": "uncertain",
+          "ocr_raw": "stairs not deemed by building regulations to be legally essential (as fire escape routes) 0.50 m"
+        },
+        {
+          "label": "Width for legally essential stairs",
+          "value": 1.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "German standards cited for legally essential stairs; the printed riser-to-tread ratio is 17/28.",
+          "status": "uncertain",
+          "ocr_raw": "but legally essential stairs 1.00 m, 17/28"
+        },
+        {
+          "label": "Width in high-rise flats",
+          "value": 1.25,
+          "value_max": null,
+          "unit": "m",
+          "context": "Minimum stair width cited for high-rise flats.",
+          "status": "uncertain",
+          "ocr_raw": "high-rise flats 1.25 m width"
+        },
+        {
+          "label": "Length of runs on legally essential stairs",
+          "value": 3.0,
+          "value_max": 18.0,
+          "unit": "steps",
+          "context": "Printed range of run lengths for legally essential stairs.",
+          "status": "uncertain",
+          "ocr_raw": "Length of runs on legally essential stairs is ≥3 steps up to ≤18 steps"
+        },
+        {
+          "label": "Landing length example",
+          "value": 92.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Example for a 17/29 riser-to-tread ratio: 1 × 63 + 29 = 92 cm.",
+          "status": "uncertain",
+          "ocr_raw": "landing length = n times length of stride + 1 depth of tread (e.g. riser to tread 17/29 = 1 x 63 + 29 = 92 cm"
+        },
+        {
+          "label": "Landing length example",
+          "value": 1.55,
+          "value_max": null,
+          "unit": "m",
+          "context": "Example for a 17/29 riser-to-tread ratio: 2 × 63 + 29 = 1.55 m.",
+          "status": "uncertain",
+          "ocr_raw": "or 2 x 63 + 29 = 1.55 m"
+        },
+        {
+          "label": "Minimum width for a family house or inside flats, to loft and basement",
+          "value": 0.8,
+          "value_max": null,
+          "unit": "m",
+          "context": "Diagram states the minimum width for stairs in a family house or inside flats, to loft and basement.",
+          "status": "uncertain",
+          "ocr_raw": "≥ 80 cm stairs in a family house or inside flats: to loft and basement"
+        },
+        {
+          "label": "Minimum width in up-to-two-storey dwellings",
+          "value": 0.8,
+          "value_max": null,
+          "unit": "m",
+          "context": "Diagram states the minimum width for stairs in up-to-two-storey dwellings.",
+          "status": "uncertain",
+          "ocr_raw": "≥ 80 cm in up to two-storey dwellings"
+        },
+        {
+          "label": "Minimum width in high-rise flats",
+          "value": 1.25,
+          "value_max": null,
+          "unit": "m",
+          "context": "Diagram associates this width with 150 people in high-rise flats.",
+          "status": "uncertain",
+          "ocr_raw": "≥ 1.25 m /150 people in high-rise flats"
+        },
+        {
+          "label": "Minimum width for dwellings with more than two storeys and other buildings",
+          "value": 1.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Width indicated for dwellings with more than two storeys and other buildings.",
+          "status": "uncertain",
+          "ocr_raw": "≥ 1.0 m dwellings with more than two storeys and other buildings"
+        },
+        {
+          "label": "Width threshold requiring a central handrail",
+          "value": 4.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Stairs wider than this require a central handrail; stairs must have a fixed handrail.",
+          "status": "uncertain",
+          "ocr_raw": "if stair width is greater than 4 m, there must also be a central handrail"
+        },
+        {
+          "label": "Minimum clearance for stairs without a handrail",
+          "value": 1.0,
+          "value_max": 4.0,
+          "unit": "ratio",
+          "context": "Diagram states stairs with a rise of less than 1:4 do not require a handrail.",
+          "status": "uncertain",
+          "ocr_raw": "stairs with a rise of less than 1:4 do not require handrail"
+        }
+      ],
+      "figure_refs": [
+        "1–17",
+        "Figure 5",
+        "Figure 14",
+        "Figure 15",
+        "Figure 16"
+      ],
+      "cross_refs": [
+        "p. 121",
+        "p. 318 (Stadiums)"
+      ],
+      "keywords": [
+        "stairs",
+        "stair dimensions",
+        "riser",
+        "tread",
+        "stride",
+        "landings",
+        "stair width",
+        "walking line",
+        "handrail",
+        "headroom",
+        "building regulations",
+        "escape routes"
+      ],
+      "tags_architectural": [
+        "circulation",
+        "ergonomics",
+        "anthropometry",
+        "clearance",
+        "safety"
+      ],
+      "confidence": 0.89
+    }
+  ]
+}

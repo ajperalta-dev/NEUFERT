@@ -1,0 +1,271 @@
+{
+  "fichas": [
+    {
+      "id": "4122fb96e4bd1976-424-vision-0",
+      "pdf_page": 424,
+      "book_page": 411,
+      "chapter": "TRANSPORT",
+      "section": "Railways",
+      "title": "UK Structure Gauges and Clearances: UIC Kinematic Gauge Profiles",
+      "summary": "Introduces UK railway structure gauges and shows UIC reference profiles GA, GB, GB+ and GC. The accompanying text describes the kinematic envelope and explains that infrastructure clearances must account for vehicle size and dynamic behaviour. Dimensions are in millimetres.",
+      "building_type": "Railway infrastructure",
+      "spaces": [
+        "Railway track clearance envelope"
+      ],
+      "uses": [
+        "Checking the safe passage of rail vehicles and their loads",
+        "Designing and assessing railway infrastructure clearances"
+      ],
+      "furniture_equipment": [],
+      "dimensions": [
+        {
+          "label": "Profile width",
+          "value": 3080.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Dimension across the top of the UIC kinematic gauge profile drawing.",
+          "status": "uncertain",
+          "ocr_raw": "3080"
+        },
+        {
+          "label": "Half-width to centreline",
+          "value": 1645.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Horizontal dimension from the profile edge to the centreline.",
+          "status": "uncertain",
+          "ocr_raw": "1645"
+        },
+        {
+          "label": "Horizontal gauge dimension",
+          "value": 3040.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Horizontal dimension shown within the lower part of the profile.",
+          "status": "uncertain",
+          "ocr_raw": "3040"
+        },
+        {
+          "label": "Lower horizontal dimension",
+          "value": 2500.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Horizontal dimension shown near the bottom of the profile.",
+          "status": "uncertain",
+          "ocr_raw": "2500"
+        },
+        {
+          "label": "Vertical dimension",
+          "value": 4700.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Outer vertical dimension from rail level in the gauge profile drawing.",
+          "status": "uncertain",
+          "ocr_raw": "4700"
+        },
+        {
+          "label": "Vertical dimension",
+          "value": 4300.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Vertical dimension from rail level in the gauge profile drawing.",
+          "status": "uncertain",
+          "ocr_raw": "4300"
+        },
+        {
+          "label": "Vertical dimension",
+          "value": 3550.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Vertical dimension from rail level in the gauge profile drawing.",
+          "status": "uncertain",
+          "ocr_raw": "3550"
+        },
+        {
+          "label": "Vertical dimension",
+          "value": 3250.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Vertical dimension from rail level in the gauge profile drawing.",
+          "status": "uncertain",
+          "ocr_raw": "3250"
+        },
+        {
+          "label": "Vertical dimension",
+          "value": 400.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Vertical dimension at the lower left of the profile, above rail level.",
+          "status": "uncertain",
+          "ocr_raw": "400"
+        },
+        {
+          "label": "Horizontal dimension",
+          "value": 707.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "One of the horizontal dimensions within the upper profile.",
+          "status": "uncertain",
+          "ocr_raw": "707"
+        },
+        {
+          "label": "Horizontal dimension",
+          "value": 1050.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "One of the horizontal dimensions within the upper profile.",
+          "status": "uncertain",
+          "ocr_raw": "1050"
+        },
+        {
+          "label": "Horizontal dimension",
+          "value": 1360.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "One of the horizontal dimensions within the upper profile.",
+          "status": "uncertain",
+          "ocr_raw": "1360"
+        },
+        {
+          "label": "Horizontal dimension",
+          "value": 1440.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "One of the horizontal dimensions within the upper profile.",
+          "status": "uncertain",
+          "ocr_raw": "1440"
+        }
+      ],
+      "figure_refs": [
+        "1 UIC (International Union of Railways) reference profiles for kinematic gauges (GA, GB, GB+, GC)"
+      ],
+      "cross_refs": [],
+      "keywords": [
+        "railways",
+        "structure gauge",
+        "clearances",
+        "kinematic envelope",
+        "UIC",
+        "rail vehicle"
+      ],
+      "tags_architectural": [
+        "safety",
+        "clearance"
+      ],
+      "confidence": 0.91
+    },
+    {
+      "id": "4122fb96e4bd1976-424-vision-1",
+      "pdf_page": 424,
+      "book_page": 411,
+      "chapter": "TRANSPORT",
+      "section": "Railways",
+      "title": "New Construction Gauge Derived from the UIC GC Reference Profile",
+      "summary": "Diagram of a new-construction railway gauge for a mixed-traffic railway, showing track centres, contact-wire and feeder-wire heights, walkways, cable troughs and platform clearance. Notes qualify applicability and explain that some clearances depend on the selected kinematic envelope, traffic and operating conditions. Dimensions are in millimetres.",
+      "building_type": "Railway infrastructure",
+      "spaces": [
+        "Railway track area",
+        "Walkway",
+        "Platform"
+      ],
+      "uses": [
+        "Planning new railway construction clearances",
+        "Locating overhead wires, walkways, cable troughs and platforms"
+      ],
+      "furniture_equipment": [
+        "Contact wire",
+        "Feeder wire",
+        "Feeder cantilever",
+        "Walkway",
+        "Cable trough",
+        "Platform"
+      ],
+      "dimensions": [
+        {
+          "label": "Contact wire height",
+          "value": 5800.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Height from rail level to the contact wire.",
+          "status": "uncertain",
+          "ocr_raw": "5800 contact wire height"
+        },
+        {
+          "label": "Minimum feeder wire height",
+          "value": 4300.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Minimum height from rail level to the feeder wire.",
+          "status": "uncertain",
+          "ocr_raw": "feeder wire height 4300 min."
+        },
+        {
+          "label": "Clearance dimension",
+          "value": 4167.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Dimension marked with an asterisk; see note 6.",
+          "status": "uncertain",
+          "ocr_raw": "4167 *"
+        },
+        {
+          "label": "Track-centre dimension",
+          "value": 3467.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Horizontal dimension shown at the lower left of the construction-gauge drawing.",
+          "status": "uncertain",
+          "ocr_raw": "3467"
+        },
+        {
+          "label": "Feeder arrangement dimension",
+          "value": 1000.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Horizontal dimension at the typical feeder cantilever arrangement.",
+          "status": "uncertain",
+          "ocr_raw": "1000"
+        },
+        {
+          "label": "Wire-position dimension",
+          "value": 700.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Vertical dimension adjacent to the alternative feeder position arrangement.",
+          "status": "uncertain",
+          "ocr_raw": "700"
+        },
+        {
+          "label": "Platform clearance dimension",
+          "value": 915.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Vertical dimension shown at the platform edge; see note 7.",
+          "status": "uncertain",
+          "ocr_raw": "915"
+        }
+      ],
+      "figure_refs": [
+        "2 New construction gauge (derived from the UIC GC reference profile)"
+      ],
+      "cross_refs": [
+        "GC/TW496 Requirements for Constructional Work on or near Railway Operational Land for Non-Railtrack Contracts"
+      ],
+      "keywords": [
+        "railways",
+        "new construction gauge",
+        "clearance",
+        "track centres",
+        "contact wire",
+        "feeder wire",
+        "platform"
+      ],
+      "tags_architectural": [
+        "safety",
+        "clearance",
+        "circulation"
+      ],
+      "confidence": 0.9
+    }
+  ]
+}

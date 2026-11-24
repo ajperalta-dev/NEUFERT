@@ -1,0 +1,968 @@
+{
+ "source": "Neufert-4th-edition.pdf",
+ "title": "Architects' Data, 4th edition",
+ "pages_total": 608,
+ "book_page_offset": 13,
+ "toc": [
+  {
+   "title": "Contents",
+   "level": 0,
+   "pdf_page": 6,
+   "pdf_end": 10,
+   "book_page": null,
+   "id": "s000"
+  },
+  {
+   "title": "Foreword",
+   "level": 0,
+   "pdf_page": 11,
+   "pdf_end": 13,
+   "book_page": null,
+   "id": "s001"
+  },
+  {
+   "title": "BASICS",
+   "level": 0,
+   "pdf_page": 14,
+   "pdf_end": 14,
+   "book_page": 1,
+   "id": "s002"
+  },
+  {
+   "title": "Abbreviations and symbols",
+   "level": 1,
+   "pdf_page": 14,
+   "pdf_end": 14,
+   "book_page": 1,
+   "id": "s003"
+  },
+  {
+   "title": "Units",
+   "level": 1,
+   "pdf_page": 15,
+   "pdf_end": 16,
+   "book_page": 2,
+   "id": "s004"
+  },
+  {
+   "title": "Drawings",
+   "level": 1,
+   "pdf_page": 17,
+   "pdf_end": 33,
+   "book_page": 4,
+   "id": "s005"
+  },
+  {
+   "title": "Accessible Building",
+   "level": 1,
+   "pdf_page": 34,
+   "pdf_end": 38,
+   "book_page": 21,
+   "id": "s006"
+  },
+  {
+   "title": "Dimensional Basics and Relationships",
+   "level": 1,
+   "pdf_page": 39,
+   "pdf_end": 48,
+   "book_page": 26,
+   "id": "s007"
+  },
+  {
+   "title": "Building Biology",
+   "level": 1,
+   "pdf_page": 49,
+   "pdf_end": 51,
+   "book_page": 36,
+   "id": "s008"
+  },
+  {
+   "title": "Visual Perception",
+   "level": 1,
+   "pdf_page": 52,
+   "pdf_end": 54,
+   "book_page": 39,
+   "id": "s009"
+  },
+  {
+   "title": "DESIGN PROCESS",
+   "level": 0,
+   "pdf_page": 55,
+   "pdf_end": 55,
+   "book_page": 42,
+   "id": "s010"
+  },
+  {
+   "title": "Design",
+   "level": 1,
+   "pdf_page": 55,
+   "pdf_end": 58,
+   "book_page": 42,
+   "id": "s011"
+  },
+  {
+   "title": "Sustainable Building",
+   "level": 1,
+   "pdf_page": 59,
+   "pdf_end": 60,
+   "book_page": 46,
+   "id": "s012"
+  },
+  {
+   "title": "Facility Management",
+   "level": 1,
+   "pdf_page": 61,
+   "pdf_end": 62,
+   "book_page": 48,
+   "id": "s013"
+  },
+  {
+   "title": "Refurbishment",
+   "level": 1,
+   "pdf_page": 63,
+   "pdf_end": 68,
+   "book_page": 50,
+   "id": "s014"
+  },
+  {
+   "title": "Design and Construction Management",
+   "level": 1,
+   "pdf_page": 69,
+   "pdf_end": 78,
+   "book_page": 56,
+   "id": "s015"
+  },
+  {
+   "title": "BUILDING COMPONENTS",
+   "level": 0,
+   "pdf_page": 79,
+   "pdf_end": 79,
+   "book_page": 66,
+   "id": "s016"
+  },
+  {
+   "title": "Foundations",
+   "level": 1,
+   "pdf_page": 79,
+   "pdf_end": 86,
+   "book_page": 66,
+   "id": "s017"
+  },
+  {
+   "title": "Walls",
+   "level": 1,
+   "pdf_page": 87,
+   "pdf_end": 92,
+   "book_page": 74,
+   "id": "s018"
+  },
+  {
+   "title": "Floor Slabs",
+   "level": 1,
+   "pdf_page": 93,
+   "pdf_end": 97,
+   "book_page": 80,
+   "id": "s019"
+  },
+  {
+   "title": "Roofs",
+   "level": 1,
+   "pdf_page": 98,
+   "pdf_end": 108,
+   "book_page": 85,
+   "id": "s020"
+  },
+  {
+   "title": "Windows",
+   "level": 1,
+   "pdf_page": 109,
+   "pdf_end": 116,
+   "book_page": 96,
+   "id": "s021"
+  },
+  {
+   "title": "Glass",
+   "level": 1,
+   "pdf_page": 117,
+   "pdf_end": 125,
+   "book_page": 104,
+   "id": "s022"
+  },
+  {
+   "title": "Doors",
+   "level": 1,
+   "pdf_page": 126,
+   "pdf_end": 132,
+   "book_page": 113,
+   "id": "s023"
+  },
+  {
+   "title": "Stairs",
+   "level": 1,
+   "pdf_page": 133,
+   "pdf_end": 138,
+   "book_page": 120,
+   "id": "s024"
+  },
+  {
+   "title": "Escalators",
+   "level": 1,
+   "pdf_page": 139,
+   "pdf_end": 139,
+   "book_page": 126,
+   "id": "s025"
+  },
+  {
+   "title": "Moving Walkways",
+   "level": 1,
+   "pdf_page": 140,
+   "pdf_end": 140,
+   "book_page": 127,
+   "id": "s026"
+  },
+  {
+   "title": "Lifts",
+   "level": 1,
+   "pdf_page": 141,
+   "pdf_end": 147,
+   "book_page": 128,
+   "id": "s027"
+  },
+  {
+   "title": "RESIDENTIAL BUILDINGS",
+   "level": 0,
+   "pdf_page": 148,
+   "pdf_end": 148,
+   "book_page": 135,
+   "id": "s028"
+  },
+  {
+   "title": "Basics",
+   "level": 1,
+   "pdf_page": 148,
+   "pdf_end": 149,
+   "book_page": 135,
+   "id": "s029"
+  },
+  {
+   "title": "Housing Density",
+   "level": 1,
+   "pdf_page": 150,
+   "pdf_end": 150,
+   "book_page": 137,
+   "id": "s030"
+  },
+  {
+   "title": "Orientation",
+   "level": 1,
+   "pdf_page": 151,
+   "pdf_end": 151,
+   "book_page": 138,
+   "id": "s031"
+  },
+  {
+   "title": "Access",
+   "level": 1,
+   "pdf_page": 152,
+   "pdf_end": 155,
+   "book_page": 139,
+   "id": "s032"
+  },
+  {
+   "title": "Floor Plans",
+   "level": 1,
+   "pdf_page": 156,
+   "pdf_end": 158,
+   "book_page": 143,
+   "id": "s033"
+  },
+  {
+   "title": "Rooms",
+   "level": 1,
+   "pdf_page": 159,
+   "pdf_end": 179,
+   "book_page": 146,
+   "id": "s034"
+  },
+  {
+   "title": "ACCOMMODATION",
+   "level": 0,
+   "pdf_page": 180,
+   "pdf_end": 180,
+   "book_page": 167,
+   "id": "s035"
+  },
+  {
+   "title": "Student Residences",
+   "level": 1,
+   "pdf_page": 180,
+   "pdf_end": 180,
+   "book_page": 167,
+   "id": "s036"
+  },
+  {
+   "title": "Elderly People's Accommodation",
+   "level": 1,
+   "pdf_page": 181,
+   "pdf_end": 183,
+   "book_page": 168,
+   "id": "s037"
+  },
+  {
+   "title": "Hotels",
+   "level": 1,
+   "pdf_page": 184,
+   "pdf_end": 186,
+   "book_page": 171,
+   "id": "s038"
+  },
+  {
+   "title": "Catering",
+   "level": 1,
+   "pdf_page": 187,
+   "pdf_end": 196,
+   "book_page": 174,
+   "id": "s039"
+  },
+  {
+   "title": "Youth Hostels",
+   "level": 1,
+   "pdf_page": 197,
+   "pdf_end": 197,
+   "book_page": 184,
+   "id": "s040"
+  },
+  {
+   "title": "Holiday/Weekend Cabins",
+   "level": 1,
+   "pdf_page": 198,
+   "pdf_end": 198,
+   "book_page": 185,
+   "id": "s041"
+  },
+  {
+   "title": "Motels",
+   "level": 1,
+   "pdf_page": 199,
+   "pdf_end": 199,
+   "book_page": 186,
+   "id": "s042"
+  },
+  {
+   "title": "Camping",
+   "level": 1,
+   "pdf_page": 200,
+   "pdf_end": 200,
+   "book_page": 187,
+   "id": "s043"
+  },
+  {
+   "title": "EDUCATION AND RESEARCH",
+   "level": 0,
+   "pdf_page": 201,
+   "pdf_end": 201,
+   "book_page": 188,
+   "id": "s044"
+  },
+  {
+   "title": "Children's Daycare",
+   "level": 1,
+   "pdf_page": 201,
+   "pdf_end": 202,
+   "book_page": 188,
+   "id": "s045"
+  },
+  {
+   "title": "Playgrounds",
+   "level": 1,
+   "pdf_page": 203,
+   "pdf_end": 203,
+   "book_page": 190,
+   "id": "s046"
+  },
+  {
+   "title": "Schools",
+   "level": 1,
+   "pdf_page": 204,
+   "pdf_end": 210,
+   "book_page": 191,
+   "id": "s047"
+  },
+  {
+   "title": "Universities and Colleges",
+   "level": 1,
+   "pdf_page": 211,
+   "pdf_end": 219,
+   "book_page": 198,
+   "id": "s048"
+  },
+  {
+   "title": "CULTURAL VENUES",
+   "level": 0,
+   "pdf_page": 220,
+   "pdf_end": 220,
+   "book_page": 207,
+   "id": "s049"
+  },
+  {
+   "title": "Museums and Art Galleries",
+   "level": 1,
+   "pdf_page": 220,
+   "pdf_end": 221,
+   "book_page": 207,
+   "id": "s050"
+  },
+  {
+   "title": "Theatres",
+   "level": 1,
+   "pdf_page": 222,
+   "pdf_end": 231,
+   "book_page": 209,
+   "id": "s051"
+  },
+  {
+   "title": "Concert Halls",
+   "level": 1,
+   "pdf_page": 232,
+   "pdf_end": 234,
+   "book_page": 219,
+   "id": "s052"
+  },
+  {
+   "title": "Cinemas",
+   "level": 1,
+   "pdf_page": 235,
+   "pdf_end": 239,
+   "book_page": 222,
+   "id": "s053"
+  },
+  {
+   "title": "Circus",
+   "level": 1,
+   "pdf_page": 240,
+   "pdf_end": 240,
+   "book_page": 227,
+   "id": "s054"
+  },
+  {
+   "title": "Zoos",
+   "level": 1,
+   "pdf_page": 241,
+   "pdf_end": 243,
+   "book_page": 228,
+   "id": "s055"
+  },
+  {
+   "title": "ADMINISTRATION AND OFFICES",
+   "level": 0,
+   "pdf_page": 244,
+   "pdf_end": 244,
+   "book_page": 231,
+   "id": "s056"
+  },
+  {
+   "title": "Office Buildings",
+   "level": 1,
+   "pdf_page": 244,
+   "pdf_end": 256,
+   "book_page": 231,
+   "id": "s057"
+  },
+  {
+   "title": "High-Rise Buildings",
+   "level": 1,
+   "pdf_page": 257,
+   "pdf_end": 259,
+   "book_page": 244,
+   "id": "s058"
+  },
+  {
+   "title": "Libraries",
+   "level": 1,
+   "pdf_page": 260,
+   "pdf_end": 265,
+   "book_page": 247,
+   "id": "s059"
+  },
+  {
+   "title": "Banks",
+   "level": 1,
+   "pdf_page": 266,
+   "pdf_end": 266,
+   "book_page": 253,
+   "id": "s060"
+  },
+  {
+   "title": "RETAIL",
+   "level": 0,
+   "pdf_page": 267,
+   "pdf_end": 267,
+   "book_page": 254,
+   "id": "s061"
+  },
+  {
+   "title": "Retail Outlets",
+   "level": 1,
+   "pdf_page": 267,
+   "pdf_end": 275,
+   "book_page": 254,
+   "id": "s062"
+  },
+  {
+   "title": "INDUSTRY AND TRADE",
+   "level": 0,
+   "pdf_page": 276,
+   "pdf_end": 276,
+   "book_page": 263,
+   "id": "s063"
+  },
+  {
+   "title": "Industry",
+   "level": 1,
+   "pdf_page": 276,
+   "pdf_end": 286,
+   "book_page": 263,
+   "id": "s064"
+  },
+  {
+   "title": "Workshops",
+   "level": 1,
+   "pdf_page": 287,
+   "pdf_end": 297,
+   "book_page": 274,
+   "id": "s065"
+  },
+  {
+   "title": "RELIGIOUS BUILDINGS",
+   "level": 0,
+   "pdf_page": 298,
+   "pdf_end": 298,
+   "book_page": 285,
+   "id": "s066"
+  },
+  {
+   "title": "Christian Churches",
+   "level": 1,
+   "pdf_page": 298,
+   "pdf_end": 300,
+   "book_page": 285,
+   "id": "s067"
+  },
+  {
+   "title": "Synagogues",
+   "level": 1,
+   "pdf_page": 301,
+   "pdf_end": 301,
+   "book_page": 288,
+   "id": "s068"
+  },
+  {
+   "title": "Mosques",
+   "level": 1,
+   "pdf_page": 302,
+   "pdf_end": 302,
+   "book_page": 289,
+   "id": "s069"
+  },
+  {
+   "title": "HEALTH",
+   "level": 0,
+   "pdf_page": 303,
+   "pdf_end": 303,
+   "book_page": 290,
+   "id": "s070"
+  },
+  {
+   "title": "Doctors' Practices",
+   "level": 1,
+   "pdf_page": 303,
+   "pdf_end": 303,
+   "book_page": 290,
+   "id": "s071"
+  },
+  {
+   "title": "Hospitals",
+   "level": 1,
+   "pdf_page": 304,
+   "pdf_end": 330,
+   "book_page": 291,
+   "id": "s072"
+  },
+  {
+   "title": "SPORT AND LEISURE",
+   "level": 0,
+   "pdf_page": 331,
+   "pdf_end": 331,
+   "book_page": 318,
+   "id": "s073"
+  },
+  {
+   "title": "Stadiums",
+   "level": 1,
+   "pdf_page": 331,
+   "pdf_end": 332,
+   "book_page": 318,
+   "id": "s074"
+  },
+  {
+   "title": "Sports Facilities",
+   "level": 1,
+   "pdf_page": 333,
+   "pdf_end": 362,
+   "book_page": 320,
+   "id": "s075"
+  },
+  {
+   "title": "Sports Halls",
+   "level": 1,
+   "pdf_page": 363,
+   "pdf_end": 374,
+   "book_page": 350,
+   "id": "s076"
+  },
+  {
+   "title": "Swimming Pools",
+   "level": 1,
+   "pdf_page": 375,
+   "pdf_end": 384,
+   "book_page": 362,
+   "id": "s077"
+  },
+  {
+   "title": "Spa",
+   "level": 1,
+   "pdf_page": 385,
+   "pdf_end": 387,
+   "book_page": 372,
+   "id": "s078"
+  },
+  {
+   "title": "Amusement Arcades",
+   "level": 1,
+   "pdf_page": 388,
+   "pdf_end": 388,
+   "book_page": 375,
+   "id": "s079"
+  },
+  {
+   "title": "TRANSPORT",
+   "level": 0,
+   "pdf_page": 389,
+   "pdf_end": 389,
+   "book_page": 376,
+   "id": "s080"
+  },
+  {
+   "title": "Roads",
+   "level": 1,
+   "pdf_page": 389,
+   "pdf_end": 399,
+   "book_page": 376,
+   "id": "s081"
+  },
+  {
+   "title": "Parking Facilities",
+   "level": 1,
+   "pdf_page": 400,
+   "pdf_end": 415,
+   "book_page": 387,
+   "id": "s082"
+  },
+  {
+   "title": "Public Transport",
+   "level": 1,
+   "pdf_page": 416,
+   "pdf_end": 420,
+   "book_page": 403,
+   "id": "s083"
+  },
+  {
+   "title": "Railways",
+   "level": 1,
+   "pdf_page": 421,
+   "pdf_end": 430,
+   "book_page": 408,
+   "id": "s084"
+  },
+  {
+   "title": "Aviation",
+   "level": 1,
+   "pdf_page": 431,
+   "pdf_end": 436,
+   "book_page": 418,
+   "id": "s085"
+  },
+  {
+   "title": "EXTERNAL WORKS",
+   "level": 0,
+   "pdf_page": 437,
+   "pdf_end": 437,
+   "book_page": 424,
+   "id": "s086"
+  },
+  {
+   "title": "Cemeteries",
+   "level": 1,
+   "pdf_page": 437,
+   "pdf_end": 439,
+   "book_page": 424,
+   "id": "s087"
+  },
+  {
+   "title": "Landscape Architecture",
+   "level": 1,
+   "pdf_page": 440,
+   "pdf_end": 440,
+   "book_page": 427,
+   "id": "s088"
+  },
+  {
+   "title": "Earthworks",
+   "level": 1,
+   "pdf_page": 441,
+   "pdf_end": 442,
+   "book_page": 428,
+   "id": "s089"
+  },
+  {
+   "title": "Garden Enclosures",
+   "level": 1,
+   "pdf_page": 443,
+   "pdf_end": 444,
+   "book_page": 430,
+   "id": "s090"
+  },
+  {
+   "title": "Pergola and Trellis",
+   "level": 1,
+   "pdf_page": 445,
+   "pdf_end": 447,
+   "book_page": 432,
+   "id": "s091"
+  },
+  {
+   "title": "Paths, Paving, Steps",
+   "level": 1,
+   "pdf_page": 448,
+   "pdf_end": 448,
+   "book_page": 435,
+   "id": "s092"
+  },
+  {
+   "title": "Drainage",
+   "level": 1,
+   "pdf_page": 449,
+   "pdf_end": 449,
+   "book_page": 436,
+   "id": "s093"
+  },
+  {
+   "title": "Vegetation",
+   "level": 1,
+   "pdf_page": 450,
+   "pdf_end": 451,
+   "book_page": 437,
+   "id": "s094"
+  },
+  {
+   "title": "Biological Engineering",
+   "level": 1,
+   "pdf_page": 452,
+   "pdf_end": 453,
+   "book_page": 439,
+   "id": "s095"
+  },
+  {
+   "title": "Greenhouses",
+   "level": 1,
+   "pdf_page": 454,
+   "pdf_end": 454,
+   "book_page": 441,
+   "id": "s096"
+  },
+  {
+   "title": "Ponds and Pools",
+   "level": 1,
+   "pdf_page": 455,
+   "pdf_end": 457,
+   "book_page": 442,
+   "id": "s097"
+  },
+  {
+   "title": "External Works – Example",
+   "level": 1,
+   "pdf_page": 458,
+   "pdf_end": 458,
+   "book_page": 445,
+   "id": "s098"
+  },
+  {
+   "title": "AGRICULTURE",
+   "level": 0,
+   "pdf_page": 459,
+   "pdf_end": 459,
+   "book_page": 446,
+   "id": "s099"
+  },
+  {
+   "title": "Farmyards",
+   "level": 1,
+   "pdf_page": 459,
+   "pdf_end": 464,
+   "book_page": 446,
+   "id": "s100"
+  },
+  {
+   "title": "Animal Husbandry",
+   "level": 1,
+   "pdf_page": 465,
+   "pdf_end": 473,
+   "book_page": 452,
+   "id": "s101"
+  },
+  {
+   "title": "SUPPLY AND DISPOSAL",
+   "level": 0,
+   "pdf_page": 474,
+   "pdf_end": 474,
+   "book_page": 461,
+   "id": "s102"
+  },
+  {
+   "title": "Loading Yards",
+   "level": 1,
+   "pdf_page": 474,
+   "pdf_end": 474,
+   "book_page": 461,
+   "id": "s103"
+  },
+  {
+   "title": "Loading Ramps, Bridges, Lifting Platforms",
+   "level": 1,
+   "pdf_page": 475,
+   "pdf_end": 475,
+   "book_page": 462,
+   "id": "s104"
+  },
+  {
+   "title": "Rubbish Chute Systems",
+   "level": 1,
+   "pdf_page": 476,
+   "pdf_end": 476,
+   "book_page": 463,
+   "id": "s105"
+  },
+  {
+   "title": "Rubbish Collection Rooms",
+   "level": 1,
+   "pdf_page": 477,
+   "pdf_end": 477,
+   "book_page": 464,
+   "id": "s106"
+  },
+  {
+   "title": "Emergency Power Rooms",
+   "level": 1,
+   "pdf_page": 478,
+   "pdf_end": 478,
+   "book_page": 465,
+   "id": "s107"
+  },
+  {
+   "title": "BUILDING SERVICES",
+   "level": 0,
+   "pdf_page": 479,
+   "pdf_end": 479,
+   "book_page": 466,
+   "id": "s108"
+  },
+  {
+   "title": "Renewable Energy",
+   "level": 1,
+   "pdf_page": 479,
+   "pdf_end": 483,
+   "book_page": 466,
+   "id": "s109"
+  },
+  {
+   "title": "Building Physics",
+   "level": 1,
+   "pdf_page": 484,
+   "pdf_end": 500,
+   "book_page": 471,
+   "id": "s110"
+  },
+  {
+   "title": "Daylight",
+   "level": 1,
+   "pdf_page": 501,
+   "pdf_end": 513,
+   "book_page": 488,
+   "id": "s111"
+  },
+  {
+   "title": "Lighting",
+   "level": 1,
+   "pdf_page": 514,
+   "pdf_end": 523,
+   "book_page": 501,
+   "id": "s112"
+  },
+  {
+   "title": "Fire Protection",
+   "level": 1,
+   "pdf_page": 524,
+   "pdf_end": 534,
+   "book_page": 511,
+   "id": "s113"
+  },
+  {
+   "title": "Domestic Installation",
+   "level": 1,
+   "pdf_page": 535,
+   "pdf_end": 549,
+   "book_page": 522,
+   "id": "s114"
+  },
+  {
+   "title": "Chimneys and Ventilation Shafts",
+   "level": 1,
+   "pdf_page": 550,
+   "pdf_end": 552,
+   "book_page": 537,
+   "id": "s115"
+  },
+  {
+   "title": "REFERENCES",
+   "level": 0,
+   "pdf_page": 553,
+   "pdf_end": 560,
+   "book_page": 540,
+   "id": "s116"
+  },
+  {
+   "title": "STANDARDS",
+   "level": 0,
+   "pdf_page": 561,
+   "pdf_end": 566,
+   "book_page": 548,
+   "id": "s117"
+  },
+  {
+   "title": "CONVERSION OF UNITS",
+   "level": 0,
+   "pdf_page": 567,
+   "pdf_end": 587,
+   "book_page": 554,
+   "id": "s118"
+  },
+  {
+   "title": "INDEX",
+   "level": 0,
+   "pdf_page": 588,
+   "pdf_end": 608,
+   "book_page": 575,
+   "id": "s119"
+  }
+ ]
+}

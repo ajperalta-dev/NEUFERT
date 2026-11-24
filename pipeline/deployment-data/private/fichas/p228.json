@@ -1,0 +1,260 @@
+{
+  "fichas": [
+    {
+      "id": "4122fb96e4bd1976-228-vision-0",
+      "pdf_page": 228,
+      "book_page": 215,
+      "chapter": "CULTURAL VENUES",
+      "section": "Theatres",
+      "title": "Subsidiary and storage areas for experimental theatres",
+      "summary": "Open-stage theatres need subsidiary areas for scenery, platforms, and stands, together with storage space. The subsidiary areas should match the stage in size; the text states that subsidiary areas plus storage amount to about 30% of the total area. Open stages use less scenery because they are viewed from many sides and safety regulations restrict scenery.",
+      "building_type": "Experimental (black box) theatre",
+      "spaces": [
+        "Open stage",
+        "Subsidiary areas",
+        "Scenery and storage areas"
+      ],
+      "uses": [
+        "Store scenery, platforms, and stands",
+        "Provide support space for open-stage productions"
+      ],
+      "furniture_equipment": [
+        "Platforms",
+        "Stands",
+        "Scenery"
+      ],
+      "dimensions": [
+        {
+          "label": "Subsidiary areas plus storage as a share of total area",
+          "value": 30.0,
+          "value_max": null,
+          "unit": "percent",
+          "context": "Approximate share of the total area for an experimental open-stage theatre.",
+          "status": "verified",
+          "ocr_raw": "Subsidiary areas\nplus storage area amount to about 30% of the total area"
+        },
+        {
+          "label": "Subsidiary area size",
+          "value": 1.0,
+          "value_max": null,
+          "unit": "ratio",
+          "context": "The subsidiary areas should be the same size as the stage; equivalence expressed as a ratio.",
+          "status": "uncertain",
+          "ocr_raw": "The subsidiary areas should be of\nthe same size as the stage."
+        }
+      ],
+      "figure_refs": [
+        "1 — Subsidiary areas/storage space for open stages"
+      ],
+      "cross_refs": [],
+      "keywords": [
+        "black box theatre",
+        "open stage",
+        "subsidiary areas",
+        "scenery storage",
+        "platforms"
+      ],
+      "tags_architectural": [
+        "adaptability",
+        "safety",
+        "spatial_proportion"
+      ],
+      "confidence": 0.94
+    },
+    {
+      "id": "4122fb96e4bd1976-228-vision-1",
+      "pdf_page": 228,
+      "book_page": 215,
+      "chapter": "CULTURAL VENUES",
+      "section": "Theatres",
+      "title": "Storage for large stages",
+      "summary": "Large-stage storage accommodates scenery, backdrops, furniture, props, costumes, and related items. Scenery stores should be at stage level and immediately adjacent to the stage, with access routes and openings planned for scenery height and fire protection. Storage needs depend on repertoire and production frequency; the text describes traditional backdrop storage and container-based, computer-controlled storage systems.",
+      "building_type": "Theatre",
+      "spaces": [
+        "Main stage",
+        "Scenery store",
+        "Costume store",
+        "External storage",
+        "Access points and traffic routes"
+      ],
+      "uses": [
+        "Store scenery, backdrops, furniture, props, and costumes",
+        "Transport and store scenery in containers",
+        "Provide access between subsidiary areas and the stage"
+      ],
+      "furniture_equipment": [
+        "Storage boxes",
+        "Containers",
+        "Multi-storey shelving",
+        "Computer-controlled warehouse technology"
+      ],
+      "dimensions": [
+        {
+          "label": "Traditional backdrop storage height",
+          "value": 9.0,
+          "value_max": 12.0,
+          "unit": "m",
+          "context": "Height stated for traditional storage of backdrops on edge in boxes.",
+          "status": "verified",
+          "ocr_raw": "height: 9-12m"
+        },
+        {
+          "label": "Productions in theatre repertoire",
+          "value": 15.0,
+          "value_max": 20.0,
+          "unit": "productions",
+          "context": "Approximate number of productions that might be in a theatre repertoire.",
+          "status": "verified",
+          "ocr_raw": "For theatres the number\nof productions might be 15-20"
+        },
+        {
+          "label": "Productions per season in multi-purpose theatres and opera",
+          "value": 50.0,
+          "value_max": null,
+          "unit": "productions per season",
+          "context": "Upper figure stated for multi-purpose theatres and opera.",
+          "status": "verified",
+          "ocr_raw": "multi-purpose theatres and\nopera up to 50 per season"
+        },
+        {
+          "label": "Stage area required for storage per production",
+          "value": 20.0,
+          "value_max": 25.0,
+          "unit": "percent",
+          "context": "Storage area required per production, expressed as a share of stage area.",
+          "status": "verified",
+          "ocr_raw": "About 20-25% of the stage area is\nrequired for storage per production"
+        },
+        {
+          "label": "Storage area for theatres relative to stage area",
+          "value": 3.0,
+          "value_max": null,
+          "unit": "times the stage area",
+          "context": "Approximate storage area stated for theatres.",
+          "status": "verified",
+          "ocr_raw": "for theatres about 3 times\nthe stage area"
+        },
+        {
+          "label": "Storage area for opera relative to stage area",
+          "value": 10.0,
+          "value_max": null,
+          "unit": "times the stage area",
+          "context": "Minimum storage area stated for opera.",
+          "status": "verified",
+          "ocr_raw": "for the opera at least 10 times"
+        },
+        {
+          "label": "Containers per performance",
+          "value": 2.0,
+          "value_max": 4.0,
+          "unit": "containers",
+          "context": "Typical container-system requirement per performance.",
+          "status": "verified",
+          "ocr_raw": "per\nperformance about 2-4 containers"
+        },
+        {
+          "label": "Containers per performance in special opera cases",
+          "value": 12.0,
+          "value_max": null,
+          "unit": "containers",
+          "context": "Approximate number in special cases for operas.",
+          "status": "verified",
+          "ocr_raw": "in special cases for operas\nabout 12 containers"
+        },
+        {
+          "label": "Scenery height allowance at access points and traffic routes",
+          "value": 2.0,
+          "value_max": null,
+          "unit": "m above proscenium height",
+          "context": "Scenery height is normally proscenium height plus this allowance; consider at fire exits, lifts, access points, and traffic routes.",
+          "status": "verified",
+          "ocr_raw": "the height of the scenery, normally proscenium\nheight+ 2 m, must be taken into account."
+        }
+      ],
+      "figure_refs": [
+        "2 — Storage near the stage",
+        "3 — Storage in containers",
+        "4 — Deutsche Oper Berlin, plan",
+        "5 — Access points from the subsidiary areas to the stage"
+      ],
+      "cross_refs": [
+        "→ 4"
+      ],
+      "keywords": [
+        "large stages",
+        "scenery store",
+        "backdrops",
+        "container storage",
+        "costume store",
+        "fire protection"
+      ],
+      "tags_architectural": [
+        "circulation",
+        "safety",
+        "adaptability"
+      ],
+      "confidence": 0.94
+    },
+    {
+      "id": "4122fb96e4bd1976-228-vision-2",
+      "pdf_page": 228,
+      "book_page": 215,
+      "chapter": "CULTURAL VENUES",
+      "section": "Theatres",
+      "title": "Costume storage and hanging systems",
+      "summary": "Costume-storage requirements depend on the number of productions in the repertoire and the size of the ensemble, including chorus and ballet in opera. The page gives alternative storage measures per costume and per running metre of rail, and illustrates two-level and single-level fixed clothing storage.",
+      "building_type": "Theatre and opera",
+      "spaces": [
+        "Costume store"
+      ],
+      "uses": [
+        "Store costumes on clothing rails",
+        "Provide fixed costume storage"
+      ],
+      "furniture_equipment": [
+        "Clothing rails",
+        "Two-level hanging storage",
+        "Single-level hanging storage"
+      ],
+      "dimensions": [
+        {
+          "label": "Storage length per costume",
+          "value": 1.0,
+          "value_max": 12.0,
+          "unit": "cm per costume",
+          "context": "One stated measure for costume storage space.",
+          "status": "verified",
+          "ocr_raw": "THEATRES\n\ndoors for the general public, 1-5. allow\nspace to compensate for height differences\n\n3J\n\n4\n\nSubsidiary Rooms\ndoors uniformly\ndistributed for\nvariable room use\n\n2\n\nExperimental (black box) theatre\nOpen stages require subsidiary areas for scenery and storage\nplaces for platforms and stands. The subsidiary areas should be of\nthe same size as the stage. The space required for storage can be\ncalculated from the folded platforms and stands. Subsidiary areas\nplus storage area amount to about 30% of the total area--> 0.\n\nE\n\nD\n\nroom height\nconnecting doors\nA-E, height of the\nsecondary area as\nfor the room itself\n\nConsiderably less scenery is used with open stages than with\nnormal stages, the reasons for which are:\n\nsecondary/storage areas\n\n0\n\nSubsidiary areas/storage space for open stages\n\n- the stage is viewed from many sides.\n- regulations limit the use of scenery for safety reasons.\nLarge stages\nStorage areas are required for:\n\nScenery, backdrops, furniture, props, costumes, hats, shoes, makeup, wigs, lighting, etc. Scenery and costume stores require a great\namount of space.\ntraditional storage of back-drops\n- on edge in boxes, manual transport,\nlarge proportion of area required,\n\nheight: 9-12m\n- in boxes, manual transport, large\nproportion of area required for moving\n\nmodern back-drop storage\n- loading of containers by hand from\nsecondary stage, or specific storage areas\n- transport of container to external store\n- computer-controlled storage of\ncontainers in multi-storey shelving\n\n0 Storage in containers\n\nf) Storage near the stage\n\nT\n\nScenery store:\nSpecially for heavy items. Location: at stage level and immediately\nnext to the stage. At access points and on traffic routes (particularly\nat fire exits and lifts), the height of the scenery, normally proscenium\nheight+ 2 m, must be taken into account.\n\nA rough estimate for the size of the scenery and costume store\ncan be made from the number of productions in the repertoire and\nthe frequency with which they are played. For theatres the number\nof productions might be 15-20 and for multi-purpose theatres and\nopera up to 50 per season. About 20-25% of the stage area is\nrequired for storage per production, i.e. for theatres about 3 times\nthe stage area, for the opera at least 10 times. Practice shows\nthat, as time passes, the store always turns out to be too small,\nand theatres, and particularly operas, have to make arrangements\noutside the building.\nThe high cost of transport has forced the introduction of the\nmost modern transportation and storage technology: container\nsystems with computer-controlled warehouse technology (per\nperformance about 2-4 containers - in special cases for operas\nabout 12 containers).\nExamples:\nDeutsche Oper Berlin: the stores are in direct connection with\nthe stage --> 0\nNationaltheater Mannheim: storage outside the building in\ncontainers.\n\n.l\n\nThe storage area required for costumes is determined by the number\nof productions in the repertoire and the size of the ensemble, e.g.\nfor opera: the chorus and ballet in addition to the singers. Space\nrequired for costumes: 1-12 em/costume or 1-15 costumes per\nrunning m of rail --> 0- 0.\n\n0 Deutsche Oper Berlin, plan\nMain stage\n\nWing\n\nBacl<sta:J\n\nScenery store\n\nwr ,-se-m~'> <\nL-J.\n\nStore\n\nWorkshop\n\nroom\n\n.__.___ __,LAJ\n\nPainter's worksh;-1 Joinery\n\n~veries\n\nAccess points from the subsidiary areas to the stage. Height and location of doors\nand lift must be determined from max. backdrop height and fire protection measures\n\nTwo-level hanging and storage of\ncostumes in fixed clothing storage\n\n0\n\nSingle-level ->\n\n0\n\n215\n\nTHEATRES\n\nHistorical review\nTypology\nAuditorium\nStage\nSubsidiary\nrooms\nWorkshops and\nstaff rooms\nRehearsal and\npublic rooms\n\nModernisation\n\n\f"
+        },
+        {
+          "label": "Costumes per running metre of rail",
+          "value": 1.0,
+          "value_max": 15.0,
+          "unit": "costumes per running m of rail",
+          "context": "Alternative stated measure for costume storage capacity.",
+          "status": "verified",
+          "ocr_raw": "or 1-15 costumes per\nrunning m of rail"
+        }
+      ],
+      "figure_refs": [
+        "6 — Two-level hanging and storage of costumes in fixed clothing storage",
+        "7 — Single-level"
+      ],
+      "cross_refs": [
+        "→ 6",
+        "→ 7"
+      ],
+      "keywords": [
+        "costume storage",
+        "clothing rails",
+        "fixed storage",
+        "opera ensemble"
+      ],
+      "tags_architectural": [
+        "modularity",
+        "adaptability"
+      ],
+      "confidence": 0.91
+    }
+  ]
+}

@@ -1,0 +1,263 @@
+{
+  "fichas": [
+    {
+      "id": "4122fb96e4bd1976-76-vision-0",
+      "pdf_page": 76,
+      "book_page": 63,
+      "chapter": "DESIGN PROCESS",
+      "section": "Design and Construction Management",
+      "title": "Measures of Building Use",
+      "summary": "Explains planning-law measures of building use: plot coverage ratio, floor-area ratio, and building mass number. The diagrams express each measure as a relationship to plot area. A full storey is defined by ceiling height and minimum slab level criteria.",
+      "building_type": "Buildings and site planning",
+      "spaces": [
+        "Plot",
+        "Building floors",
+        "Full storey"
+      ],
+      "uses": [
+        "Assess permissible building coverage, floor area, and building mass under land-use regulations"
+      ],
+      "furniture_equipment": [],
+      "dimensions": [
+        {
+          "label": "Ceiling height share of floor area for a full storey",
+          "value": 0.6666666667,
+          "value_max": null,
+          "unit": "ratio",
+          "context": "At least this share of the floor area must have the specified ceiling height.",
+          "status": "uncertain",
+          "ocr_raw": "Ceiling height over 2/3 of the floor area min 2.30 m"
+        },
+        {
+          "label": "Minimum ceiling height for a full storey",
+          "value": 2.3,
+          "value_max": null,
+          "unit": "m",
+          "context": "Required over at least 2/3 of the floor area, according to MBO.",
+          "status": "uncertain",
+          "ocr_raw": "Ceiling height over 2/3 of the floor area min 2.30 m"
+        },
+        {
+          "label": "Minimum slab level for a full storey",
+          "value": 1.4,
+          "value_max": null,
+          "unit": "m",
+          "context": "Minimum slab level, according to MBO; printed with a plus sign.",
+          "status": "uncertain",
+          "ocr_raw": "slab level min. +1.40 m"
+        }
+      ],
+      "figure_refs": [
+        "1"
+      ],
+      "cross_refs": [
+        "p. 56"
+      ],
+      "keywords": [
+        "plot coverage ratio",
+        "floor-area ratio",
+        "building mass number",
+        "land-use regulation",
+        "full storey",
+        "MBO"
+      ],
+      "tags_architectural": [
+        "spatial_proportion"
+      ],
+      "confidence": 0.97
+    },
+    {
+      "id": "4122fb96e4bd1976-76-vision-1",
+      "pdf_page": 76,
+      "book_page": 63,
+      "chapter": "DESIGN PROCESS",
+      "section": "Design and Construction Management",
+      "title": "Housing Area Regulations",
+      "summary": "Describes how residential living area is defined and measured. Areas are counted in full, half, or quarter amounts according to room height and space type; subsidiary rooms and certain non-compliant rooms are excluded.",
+      "building_type": "Housing",
+      "spaces": [
+        "Dwelling rooms",
+        "Conservatories",
+        "Enclosed swimming pools",
+        "Balconies",
+        "Loggias",
+        "Terraces",
+        "Cellars",
+        "Garages"
+      ],
+      "uses": [
+        "Calculate residential living area for housing-area regulations and housing subsidies"
+      ],
+      "furniture_equipment": [
+        "Built-in furniture",
+        "Free-standing installations",
+        "Movable partitions",
+        "Stoves",
+        "Ovens",
+        "Baths"
+      ],
+      "dimensions": [
+        {
+          "label": "Ceiling height for full area inclusion",
+          "value": 2.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Rooms and parts of rooms with clear ceiling height of at least this value are included completely.",
+          "status": "uncertain",
+          "ocr_raw": "Floor areas are included in the calculation either completely (for rooms and parts of rooms with a clear ceiling height of at least 2 m)"
+        },
+        {
+          "label": "Lower ceiling-height threshold for half area inclusion",
+          "value": 1.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Rooms and parts of rooms with clear ceiling height of at least this value and less than 2 m are included by half.",
+          "status": "uncertain",
+          "ocr_raw": "or a half (for rooms and parts of rooms with a clear ceiling height of at least 1 m and less than 2 m)"
+        },
+        {
+          "label": "Upper ceiling-height limit for half area inclusion",
+          "value": 2.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Rooms and parts of rooms with clear ceiling height below this value and at least 1 m are included by half.",
+          "status": "uncertain",
+          "ocr_raw": "at least 1 m and less than 2 m"
+        }
+      ],
+      "figure_refs": [],
+      "cross_refs": [
+        "p. 136"
+      ],
+      "keywords": [
+        "housing area",
+        "living area",
+        "floor area",
+        "residential regulations",
+        "ceiling height"
+      ],
+      "tags_architectural": [
+        "spatial_proportion"
+      ],
+      "confidence": 0.98
+    },
+    {
+      "id": "4122fb96e4bd1976-76-vision-2",
+      "pdf_page": 76,
+      "book_page": 63,
+      "chapter": "DESIGN PROCESS",
+      "section": "Design and Construction Management",
+      "title": "Calculation of Commercial Letting Areas",
+      "summary": "Summarizes GIF guidance for calculating leased commercial and office space. It distinguishes areas with exclusive use from communal-use areas, lists exclusions, and specifies how relevant areas and room heights are measured.",
+      "building_type": "Commercial and office buildings",
+      "spaces": [
+        "Basement garages",
+        "Loggias",
+        "Balconies",
+        "Atriums",
+        "Communal WCs and bathrooms",
+        "Staff rooms",
+        "Entrance halls",
+        "Corridors",
+        "Stairs",
+        "Lifts",
+        "Service rooms",
+        "Shafts"
+      ],
+      "uses": [
+        "Calculate leased commercial and office areas"
+      ],
+      "furniture_equipment": [
+        "Radiators",
+        "Built-in fittings"
+      ],
+      "dimensions": [
+        {
+          "label": "Lower room-height threshold for indirectly usable areas",
+          "value": 1.5,
+          "value_max": null,
+          "unit": "m",
+          "context": "Indirectly usable areas include areas with room heights between 1.50 m and 2.30 m.",
+          "status": "uncertain",
+          "ocr_raw": "indirectly usable areas (loggias, balconies, atriums, areas with room heights between 1.50 m and 2.30 m."
+        },
+        {
+          "label": "Upper room-height threshold for indirectly usable areas",
+          "value": 2.3,
+          "value_max": null,
+          "unit": "m",
+          "context": "Indirectly usable areas include areas with room heights between 1.50 m and 2.30 m.",
+          "status": "uncertain",
+          "ocr_raw": "indirectly usable areas (loggias, balconies, atriums, areas with room heights between 1.50 m and 2.30 m."
+        },
+        {
+          "label": "Ceiling-height exclusion threshold",
+          "value": 1.5,
+          "value_max": null,
+          "unit": "m",
+          "context": "Areas with a clear ceiling height of this value or less are excluded from the letting area.",
+          "status": "uncertain",
+          "ocr_raw": "areas with a clear ceiling height of 1.50 m or less"
+        }
+      ],
+      "figure_refs": [],
+      "cross_refs": [
+        "see above"
+      ],
+      "keywords": [
+        "commercial letting area",
+        "GIF",
+        "exclusive right of use",
+        "communal right of use",
+        "DIN 277",
+        "room height"
+      ],
+      "tags_architectural": [
+        "circulation"
+      ],
+      "confidence": 0.98
+    },
+    {
+      "id": "4122fb96e4bd1976-76-vision-3",
+      "pdf_page": 76,
+      "book_page": 63,
+      "chapter": "DESIGN PROCESS",
+      "section": "Design and Construction Management",
+      "title": "Floor Areas and Volumes",
+      "summary": "Outlines DIN 277 categories for calculating building floor areas and volumes. It defines gross, constructional, and net floor area, breaks net floor area into usable, technical-function, and traffic areas, and describes gross and net built volume calculations.",
+      "building_type": "Buildings",
+      "spaces": [
+        "Gross floor area",
+        "Constructional floor area",
+        "Net floor area",
+        "Usable area",
+        "Technical function area",
+        "Traffic area"
+      ],
+      "uses": [
+        "Calculate floor areas and room volumes in buildings according to DIN 277"
+      ],
+      "furniture_equipment": [],
+      "dimensions": [],
+      "figure_refs": [
+        "2"
+      ],
+      "cross_refs": [],
+      "keywords": [
+        "DIN 277",
+        "gross floor area",
+        "constructional floor area",
+        "net floor area",
+        "usable area",
+        "technical function area",
+        "traffic area",
+        "gross built volume",
+        "net built volume"
+      ],
+      "tags_architectural": [
+        "circulation"
+      ],
+      "confidence": 0.98
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "model": "gpt-6-luna",
+  "checks": {
+    "checks": [
+      {
+        "ficha_index": 1,
+        "dimension_index": 0,
+        "status": "verified",
+        "value": 3.0,
+        "value_max": null,
+        "reason": "The text states that the clear ceiling height of radiation rooms must be 3.00 m."
+      },
+      {
+        "ficha_index": 1,
+        "dimension_index": 1,
+        "status": "verified",
+        "value": 3.0,
+        "value_max": null,
+        "reason": "The text states concrete walls can be up to 3.00 m thick in the primary radiation area."
+      },
+      {
+        "ficha_index": 1,
+        "dimension_index": 2,
+        "status": "verified",
+        "value": 1.5,
+        "value_max": null,
+        "reason": "The text states concrete walls can be up to 1.50 m thick in the secondary area."
+      }
+    ]
+  },
+  "automatic": [
+    {
+      "ficha_index": 1,
+      "dimension_index": 0,
+      "issues": []
+    },
+    {
+      "ficha_index": 1,
+      "dimension_index": 1,
+      "issues": []
+    },
+    {
+      "ficha_index": 1,
+      "dimension_index": 2,
+      "issues": []
+    }
+  ],
+  "usage": [
+    {
+      "prompt_tokens": 4378,
+      "completion_tokens": 1074
+    },
+    {
+      "prompt_tokens": 3914,
+      "completion_tokens": 218
+    }
+  ]
+}

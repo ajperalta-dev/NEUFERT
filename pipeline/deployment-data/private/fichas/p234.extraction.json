@@ -1,0 +1,109 @@
+{
+  "fichas": [
+    {
+      "id": "4122fb96e4bd1976-234-vision-0",
+      "pdf_page": 234,
+      "book_page": 221,
+      "chapter": "CULTURAL VENUES",
+      "section": "Concert Halls",
+      "title": "Concert Halls — Acoustics",
+      "summary": "Concert-hall acoustics depend on room size, volume and proportions, seating arrangement, materials, surfaces and finishes, as well as the sound characteristics and arrangement of instruments. Direct sound and early side reflections are important; reverberation must suit the music, since excessive reverberation reduces clarity and insufficient reverberation can make music sound dull. Adjustable stage reflectors, curtains and banners, and movable panels opening promenades or foyer areas into the hall allow acoustic conditions and effective volume to be varied. Hard surfaces favor longer reverberation, while occupied upholstered seats can help maintain more uniform reverberation as audience numbers change. The page includes a graph relating reverberation, hall volume and music type, and a table of sound-absorption coefficients for surfaces by frequency.",
+      "building_type": "Concert hall",
+      "spaces": [
+        "Auditorium",
+        "Stage",
+        "Promenades",
+        "Access passages",
+        "Foyer"
+      ],
+      "uses": [
+        "Concerts",
+        "Orchestral and choral performances",
+        "Chamber music",
+        "Organ music",
+        "Acoustic amplification",
+        "Acoustic regulation"
+      ],
+      "furniture_equipment": [
+        "Adjustable acoustic reflectors",
+        "Sound-absorbing curtains and banners",
+        "Movable panels",
+        "Audience seating"
+      ],
+      "dimensions": [
+        {
+          "label": "Air volume per seat, older concert halls",
+          "value": 4.0,
+          "value_max": 5.0,
+          "unit": "m³/seat",
+          "context": "Air volume associated with reverberation in older concert halls.",
+          "status": "uncertain",
+          "ocr_raw": "older concert halls 4–5 m³/seat"
+        },
+        {
+          "label": "Air volume per seat, newer concert halls",
+          "value": 6.0,
+          "value_max": 15.0,
+          "unit": "m³/seat",
+          "context": "Air volume associated with reverberation in newer concert halls.",
+          "status": "uncertain",
+          "ocr_raw": "newer over 6–15 m³/seat"
+        },
+        {
+          "label": "Reflector height above stage",
+          "value": 2.0,
+          "value_max": 3.0,
+          "unit": "m",
+          "context": "Each reflector section must be this far above the stage.",
+          "status": "uncertain",
+          "ocr_raw": "each section must be 2–3 m above the stage"
+        },
+        {
+          "label": "Reflector adjustment below ceiling",
+          "value": 2.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Reflectors are adjustable up to this distance under the ceiling.",
+          "status": "uncertain",
+          "ocr_raw": "adjustable up to 2 m under the ceiling"
+        },
+        {
+          "label": "Independent reflector sections",
+          "value": 2.0,
+          "value_max": 3.0,
+          "unit": "sections",
+          "context": "Number of independent sections in the acoustic reflector.",
+          "status": "uncertain",
+          "ocr_raw": "consisting of two or three independent sections"
+        }
+      ],
+      "figure_refs": [
+        "1",
+        "2",
+        "3"
+      ],
+      "cross_refs": [
+        "Kuttruff -> refs",
+        "Hall -> refs"
+      ],
+      "keywords": [
+        "concert hall",
+        "acoustics",
+        "reverberation",
+        "sound reflection",
+        "sound absorption",
+        "acoustic reflector",
+        "curtains",
+        "promenades",
+        "frequency"
+      ],
+      "tags_architectural": [
+        "spatial_proportion",
+        "adaptability",
+        "daylighting",
+        "ventilation"
+      ],
+      "confidence": 0.97
+    }
+  ]
+}

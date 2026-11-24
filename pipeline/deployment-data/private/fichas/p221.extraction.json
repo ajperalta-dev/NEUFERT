@@ -1,0 +1,178 @@
+{
+  "fichas": [
+    {
+      "id": "4122fb96e4bd1976-221-vision-0",
+      "pdf_page": 221,
+      "book_page": 208,
+      "chapter": "CULTURAL VENUES",
+      "section": "Museums and Art Galleries",
+      "title": "Display Room Layout Types",
+      "summary": "The layout of display rooms depends on the relationship between the collection and its display concept. Open plans suit large, visually autonomous objects and allow free circulation; core-and-satellite layouts use a main orientation room and autonomous side rooms; linear chaining provides controlled circulation and clear orientation; labyrinths allow variable routes; complex layouts combine room-group types; and round tours return visitors to the entrance. The page also maps display concepts to spatial arrangements.",
+      "building_type": "Museum or art gallery",
+      "spaces": [
+        "Display rooms",
+        "Main room",
+        "Side rooms",
+        "Entrance",
+        "Exit",
+        "Basement function rooms"
+      ],
+      "uses": [
+        "Displaying collections and exhibitions",
+        "Orienting visitors",
+        "Organizing visitor circulation"
+      ],
+      "furniture_equipment": [],
+      "dimensions": [],
+      "figure_refs": [
+        "1 Open plan",
+        "2 Main and side rooms (core and satellites)",
+        "3 Linear chaining",
+        "4 Labyrinth",
+        "5 Complex",
+        "6 Round tour (loop)"
+      ],
+      "cross_refs": [],
+      "keywords": [
+        "display concept",
+        "collection",
+        "open plan",
+        "core and satellites",
+        "linear chaining",
+        "labyrinth",
+        "complex layout",
+        "round tour",
+        "controlled circulation",
+        "free circulation"
+      ],
+      "tags_architectural": [
+        "circulation",
+        "adaptability"
+      ],
+      "confidence": 0.99
+    },
+    {
+      "id": "4122fb96e4bd1976-221-vision-1",
+      "pdf_page": 221,
+      "book_page": 208,
+      "chapter": "CULTURAL VENUES",
+      "section": "Museums and Art Galleries",
+      "title": "Display Room Dimensions, Viewing, and Readability",
+      "summary": "Display and store room size and height depend on the works and collection, with a stated minimum clear height of 4 m. Diagrams give guidance on viewing pictures, passage widths, space in front of display cabinets, field of view, and the readability of labels and commentaries. Several diagram measurements have no unit printed alongside them.",
+      "building_type": "Museum or art gallery",
+      "spaces": [
+        "Display rooms",
+        "Store rooms",
+        "Picture display areas",
+        "Display cabinet areas",
+        "Visitor passages"
+      ],
+      "uses": [
+        "Displaying and viewing artworks",
+        "Providing circulation space",
+        "Making labels and commentaries readable"
+      ],
+      "furniture_equipment": [
+        "Display cabinets",
+        "Pictures",
+        "Screens",
+        "Labels and commentaries",
+        "Books"
+      ],
+      "dimensions": [
+        {
+          "label": "Minimum clear room height",
+          "value": 4.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Minimum clear height for display and store rooms",
+          "status": "uncertain",
+          "ocr_raw": "The size and height of the display and store rooms depend on the dimensions of the works and the extent of the collection, but the minimum height is 4 m clear."
+        },
+        {
+          "label": "Viewing distance",
+          "value": 1.4,
+          "value_max": 1.6,
+          "unit": "m (unit not printed)",
+          "context": "Diagram for pictures on the wall: viewing distance according to picture size",
+          "status": "uncertain",
+          "ocr_raw": "1.40–1.60"
+        },
+        {
+          "label": "Minimum passage width",
+          "value": 1.2,
+          "value_max": 1.4,
+          "unit": "m (unit not printed)",
+          "context": "Diagram for pictures on the wall: viewing and traffic",
+          "status": "uncertain",
+          "ocr_raw": "1.20–1.40 min. passage width"
+        },
+        {
+          "label": "Through passage width",
+          "value": 1.2,
+          "value_max": 1.4,
+          "unit": "m (unit not printed)",
+          "context": "Space in front of display cabinet; through passage width",
+          "status": "uncertain",
+          "ocr_raw": "1.20–1.40 Through passage width"
+        },
+        {
+          "label": "Space in front of display cabinet",
+          "value": 2.2,
+          "value_max": 2.5,
+          "unit": "m (unit not printed)",
+          "context": "Dimension shown across space in front of display cabinet",
+          "status": "uncertain",
+          "ocr_raw": "2.20–2.50"
+        },
+        {
+          "label": "Space in front of display cabinet",
+          "value": 1.0,
+          "value_max": null,
+          "unit": "m (unit not printed)",
+          "context": "Additional dimension in display-cabinet space diagram",
+          "status": "uncertain",
+          "ocr_raw": "1.00"
+        },
+        {
+          "label": "Maximum distance for readable words on picture or board",
+          "value": 1.1,
+          "value_max": null,
+          "unit": "m",
+          "context": "Ensure labels/commentaries readable",
+          "status": "uncertain",
+          "ocr_raw": "max. distance to observer 1.10 m readable"
+        }
+      ],
+      "figure_refs": [
+        "7 Light and shadow in display cabinets",
+        "8 Distance and light",
+        "9 Pictures on the wall: viewing and traffic",
+        "10 Space in front of display cabinet",
+        "11 Field of view: height, size and distance",
+        "12 Ensure labels/commentaries readable"
+      ],
+      "cross_refs": [],
+      "keywords": [
+        "clear height",
+        "viewing distance",
+        "passage width",
+        "display cabinet",
+        "field of view",
+        "readability",
+        "labels",
+        "commentaries",
+        "daylight",
+        "light and shadow"
+      ],
+      "tags_architectural": [
+        "circulation",
+        "clearance",
+        "ergonomics",
+        "anthropometry",
+        "daylighting"
+      ],
+      "confidence": 0.93
+    }
+  ]
+}

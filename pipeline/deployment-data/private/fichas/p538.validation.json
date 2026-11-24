@@ -1,0 +1,94 @@
+{
+  "model": "gpt-6-luna",
+  "checks": {
+    "checks": [
+      {
+        "ficha_index": 0,
+        "dimension_index": 0,
+        "status": "verified",
+        "value": 0.5,
+        "value_max": null,
+        "reason": "The text states a minimum fall of 0.5%; the value and percent unit agree."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 1,
+        "status": "verified",
+        "value": 0.5,
+        "value_max": null,
+        "reason": "The first table caption states degree of filling 50% (h/di = 0.5); the proposed ratio agrees."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 2,
+        "status": "verified",
+        "value": 0.7,
+        "value_max": null,
+        "reason": "The text and second table caption state degree of filling 70% (h/di = 0.7); the proposed ratio agrees."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 3,
+        "status": "verified",
+        "value": 0.5,
+        "value_max": 5.0,
+        "reason": "The table\u2019s fall column is labeled cm/m and visibly runs from 0.50 to 5.00."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 4,
+        "status": "verified",
+        "value": 80.0,
+        "value_max": null,
+        "reason": "The table visibly lists DN 80; the proposed nominal size and DN designation agree."
+      }
+    ]
+  },
+  "automatic": [
+    {
+      "ficha_index": 0,
+      "dimension_index": 0,
+      "issues": [
+        "Unknown unit"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 1,
+      "issues": [
+        "Unknown unit"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 2,
+      "issues": [
+        "Unknown unit"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 3,
+      "issues": [
+        "Unknown unit"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 4,
+      "issues": [
+        "Unknown unit"
+      ]
+    }
+  ],
+  "usage": [
+    {
+      "prompt_tokens": 5642,
+      "completion_tokens": 1173
+    },
+    {
+      "prompt_tokens": 3871,
+      "completion_tokens": 351
+    }
+  ]
+}

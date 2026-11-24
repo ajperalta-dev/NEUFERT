@@ -1,0 +1,497 @@
+{
+  "model": "gpt-6-luna",
+  "checks": {
+    "checks": [
+      {
+        "ficha_index": 0,
+        "dimension_index": 0,
+        "status": "verified",
+        "value": 500.0,
+        "value_max": null,
+        "reason": "Text states water area up to 500 m\u00b2."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 1,
+        "status": "verified",
+        "value": 25.0,
+        "value_max": 50.0,
+        "reason": "Text states a further shower for every 25\u201350 m\u00b2."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 2,
+        "status": "verified",
+        "value": 150.0,
+        "value_max": null,
+        "reason": "Text states school pools up to 150 m\u00b2 water area."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 3,
+        "status": "verified",
+        "value": 10.0,
+        "value_max": null,
+        "reason": "Text states a minimum of 10 showers; unit is explicitly showers."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 4,
+        "status": "verified",
+        "value": 5.0,
+        "value_max": null,
+        "reason": "Text states 5 showers; unit is explicitly showers."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 5,
+        "status": "verified",
+        "value": 2.0,
+        "value_max": null,
+        "reason": "Text states 2 WCs for ladies."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 6,
+        "status": "verified",
+        "value": 1.0,
+        "value_max": null,
+        "reason": "Text states 1 WC for gents."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 7,
+        "status": "verified",
+        "value": 2.0,
+        "value_max": null,
+        "reason": "Text states 2 urinals for gents."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 8,
+        "status": "verified",
+        "value": 0.8,
+        "value_max": null,
+        "reason": "Text states 0.80 m wide."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 9,
+        "status": "verified",
+        "value": 0.8,
+        "value_max": null,
+        "reason": "Text states 0.80 m deep."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 10,
+        "status": "verified",
+        "value": 0.95,
+        "value_max": null,
+        "reason": "Text states 0.95 m or 0.80 m wide; this is the 0.95 m option."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 11,
+        "status": "verified",
+        "value": 0.8,
+        "value_max": null,
+        "reason": "Text states 0.95 m or 0.80 m wide; this is the 0.80 m option."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 12,
+        "status": "verified",
+        "value": 1.45,
+        "value_max": null,
+        "reason": "Text states 1.45 m high."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 13,
+        "status": "verified",
+        "value": 0.8,
+        "value_max": null,
+        "reason": "Text states 0.80 m or 0.95 m wide; this is the 0.80 m option."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 14,
+        "status": "verified",
+        "value": 0.95,
+        "value_max": null,
+        "reason": "Text states 0.80 m or 0.95 m wide; this is the 0.95 m option."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 15,
+        "status": "verified",
+        "value": 1.4,
+        "value_max": null,
+        "reason": "Text states 1.40 m deep."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 16,
+        "status": "verified",
+        "value": 1.45,
+        "value_max": null,
+        "reason": "Text states 1.45 m high."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 17,
+        "status": "verified",
+        "value": 1.1,
+        "value_max": null,
+        "reason": "Text states 1.10 m."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 18,
+        "status": "verified",
+        "value": 0.9,
+        "value_max": null,
+        "reason": "Text states 0.90 m wide."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 19,
+        "status": "verified",
+        "value": 1.4,
+        "value_max": null,
+        "reason": "Text states 1.40 m deep."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 20,
+        "status": "verified",
+        "value": 2.0,
+        "value_max": null,
+        "reason": "Text states 2.00 m high."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 21,
+        "status": "verified",
+        "value": 0.9,
+        "value_max": null,
+        "reason": "Text states 0.90 m wide."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 22,
+        "status": "verified",
+        "value": 1.2,
+        "value_max": null,
+        "reason": "Text states 1.20 m deep."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 23,
+        "status": "verified",
+        "value": 2.0,
+        "value_max": null,
+        "reason": "Text states 2.00 m high."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 24,
+        "status": "verified",
+        "value": 0.65,
+        "value_max": null,
+        "reason": "Text states 0.65 m."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 25,
+        "status": "verified",
+        "value": 0.4,
+        "value_max": null,
+        "reason": "Text states 0.40 m."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 26,
+        "status": "verified",
+        "value": 0.7,
+        "value_max": null,
+        "reason": "Text states approximately 0.70 m."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 27,
+        "status": "verified",
+        "value": 0.5,
+        "value_max": null,
+        "reason": "Text states approximately 0.50 m."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 28,
+        "status": "verified",
+        "value": 0.7,
+        "value_max": null,
+        "reason": "Text states approximately 0.70 m."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 29,
+        "status": "verified",
+        "value": 0.6,
+        "value_max": null,
+        "reason": "Text states approximately 0.60 m."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 30,
+        "status": "verified",
+        "value": 0.8,
+        "value_max": null,
+        "reason": "Text states approximately 0.80 m."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 31,
+        "status": "verified",
+        "value": 2.5,
+        "value_max": null,
+        "reason": "Text states a minimum clear ceiling height of 2.50 m."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 32,
+        "status": "verified",
+        "value": 2.75,
+        "value_max": null,
+        "reason": "Text states recommended 2.75 m."
+      },
+      {
+        "ficha_index": 1,
+        "dimension_index": 0,
+        "status": "uncertain",
+        "value": 1.5,
+        "value_max": null,
+        "reason": "The drawing labels the wheelchair turning area 1.50, but no unit is visibly printed with this figure dimension."
+      },
+      {
+        "ficha_index": 1,
+        "dimension_index": 1,
+        "status": "uncertain",
+        "value": 3.0,
+        "value_max": null,
+        "reason": "The drawing labels the vertical dimension 3.00, but no unit is visibly printed with this figure dimension."
+      },
+      {
+        "ficha_index": 1,
+        "dimension_index": 2,
+        "status": "uncertain",
+        "value": 2.5,
+        "value_max": null,
+        "reason": "The drawing labels the bottom dimension 2.50, but no unit is visibly printed with this figure dimension."
+      }
+    ]
+  },
+  "automatic": [
+    {
+      "ficha_index": 0,
+      "dimension_index": 0,
+      "issues": []
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 1,
+      "issues": []
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 2,
+      "issues": []
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 3,
+      "issues": [
+        "Unknown unit"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 4,
+      "issues": [
+        "Unknown unit"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 5,
+      "issues": [
+        "Unknown unit"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 6,
+      "issues": [
+        "Unknown unit"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 7,
+      "issues": [
+        "Unknown unit"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 8,
+      "issues": []
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 9,
+      "issues": []
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 10,
+      "issues": []
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 11,
+      "issues": []
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 12,
+      "issues": []
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 13,
+      "issues": []
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 14,
+      "issues": []
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 15,
+      "issues": []
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 16,
+      "issues": []
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 17,
+      "issues": []
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 18,
+      "issues": []
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 19,
+      "issues": []
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 20,
+      "issues": []
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 21,
+      "issues": []
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 22,
+      "issues": []
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 23,
+      "issues": []
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 24,
+      "issues": []
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 25,
+      "issues": []
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 26,
+      "issues": []
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 27,
+      "issues": []
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 28,
+      "issues": []
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 29,
+      "issues": []
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 30,
+      "issues": []
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 31,
+      "issues": []
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 32,
+      "issues": []
+    },
+    {
+      "ficha_index": 1,
+      "dimension_index": 0,
+      "issues": []
+    },
+    {
+      "ficha_index": 1,
+      "dimension_index": 1,
+      "issues": []
+    },
+    {
+      "ficha_index": 1,
+      "dimension_index": 2,
+      "issues": []
+    }
+  ],
+  "usage": [
+    {
+      "prompt_tokens": 4501,
+      "completion_tokens": 2532
+    },
+    {
+      "prompt_tokens": 6220,
+      "completion_tokens": 1486
+    }
+  ]
+}

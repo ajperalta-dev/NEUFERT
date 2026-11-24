@@ -1,0 +1,625 @@
+{
+  "fichas": [
+    {
+      "id": "4122fb96e4bd1976-188-vision-0",
+      "pdf_page": 188,
+      "book_page": 175,
+      "chapter": "ACCOMMODATION",
+      "section": "Catering",
+      "title": "Restaurants: planning and spatial design",
+      "summary": "Restaurant planning should be coordinated with the operator and specialists, based on the menu, service system, target clientele, and site. Dining rooms should be furnished flexibly, larger rooms zoned, and supporting spaces grouped around the dining room. The page gives guidance on ceiling heights, exits, aisles, toilet access, and window area.",
+      "building_type": "Restaurant",
+      "spaces": [
+        "Dining room",
+        "Kitchen",
+        "Side rooms",
+        "Conference rooms",
+        "Food bar",
+        "Toilets",
+        "Sanitary installations",
+        "Staff rooms",
+        "Storage rooms"
+      ],
+      "uses": [
+        "Dining",
+        "Food and drink service",
+        "Flexible seating and table arrangements",
+        "Fast service at a food bar",
+        "Conferences and side-room use"
+      ],
+      "furniture_equipment": [
+        "Dining tables",
+        "Chairs",
+        "Fixed stools",
+        "Kitchen equipment",
+        "Electrical equipment",
+        "Heating equipment",
+        "Ventilation equipment",
+        "Sanitary equipment"
+      ],
+      "dimensions": [
+        {
+          "label": "Ceiling height, dining area up to 50 m²",
+          "value": 2.5,
+          "value_max": null,
+          "unit": "m",
+          "context": "Dining area with floor area ≤50 m².",
+          "status": "uncertain",
+          "ocr_raw": "≤50 m² = 2.50 m"
+        },
+        {
+          "label": "Ceiling height, dining area over 50 m²",
+          "value": 2.75,
+          "value_max": null,
+          "unit": "m",
+          "context": "Dining area with floor area >50 m² and up to 100 m².",
+          "status": "uncertain",
+          "ocr_raw": "> 50 m² = 2.75 m"
+        },
+        {
+          "label": "Ceiling height, dining area over 100 m²",
+          "value": 3.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Dining area with floor area >100 m².",
+          "status": "uncertain",
+          "ocr_raw": ">100 m² ≥3.00 m"
+        },
+        {
+          "label": "Ceiling height above or below galleries",
+          "value": 2.5,
+          "value_max": null,
+          "unit": "m",
+          "context": "Dining areas above or below galleries; printed as ≥2.50 m.",
+          "status": "uncertain",
+          "ocr_raw": "above or below galleries ≥2.50 m"
+        },
+        {
+          "label": "Emergency exit width per 150 people",
+          "value": 1.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Emergency exits; width per 150 people using them.",
+          "status": "uncertain",
+          "ocr_raw": "Emergency exits 1.0 m wide per 150 people using them."
+        },
+        {
+          "label": "Minimum clear aisle width",
+          "value": 0.8,
+          "value_max": null,
+          "unit": "m",
+          "context": "Aisles in restaurants.",
+          "status": "uncertain",
+          "ocr_raw": "Minimum clear width of aisles in restaurants 0.80 m"
+        },
+        {
+          "label": "Door width",
+          "value": 0.9,
+          "value_max": null,
+          "unit": "m",
+          "context": "Restaurant doors.",
+          "status": "uncertain",
+          "ocr_raw": "doors 0.90 m"
+        },
+        {
+          "label": "Usable width of stairs and access to service rooms",
+          "value": 1.1,
+          "value_max": null,
+          "unit": "m",
+          "context": "Stairs to toilets, wash, staff, and storage rooms; printed as ≤1.10 m.",
+          "status": "uncertain",
+          "ocr_raw": "usable width ≤1.10 m"
+        },
+        {
+          "label": "Clear walk-through height",
+          "value": 2.1,
+          "value_max": null,
+          "unit": "m",
+          "context": "Measured vertically; printed as ≤2.10 m.",
+          "status": "uncertain",
+          "ocr_raw": "Clear walk-through height ≤2.10 m measured vertically."
+        },
+        {
+          "label": "Window area relative to restaurant floor area",
+          "value": 0.1,
+          "value_max": null,
+          "unit": "floor-area fraction",
+          "context": "Window area; printed as ≤1/10 of the floor area of a restaurant.",
+          "status": "uncertain",
+          "ocr_raw": "Window area ≤1/10 of the floor area of a restaurant."
+        }
+      ],
+      "figure_refs": [
+        "8 Functional scheme of a small restaurant",
+        "9 Usable width of stairs",
+        "13 Aisle widths"
+      ],
+      "cross_refs": [
+        "→ 8",
+        "→ 3",
+        "→ 9"
+      ],
+      "keywords": [
+        "restaurant planning",
+        "dining room",
+        "service system",
+        "flexible furniture",
+        "ceiling height",
+        "emergency exits",
+        "aisle width",
+        "toilet access"
+      ],
+      "tags_architectural": [
+        "circulation",
+        "clearance",
+        "adaptability",
+        "spatial_proportion",
+        "ventilation"
+      ],
+      "confidence": 0.94
+    },
+    {
+      "id": "4122fb96e4bd1976-188-vision-1",
+      "pdf_page": 188,
+      "book_page": 175,
+      "chapter": "ACCOMMODATION",
+      "section": "Catering",
+      "title": "Restaurant seating layouts and table spacing",
+      "summary": "Illustrated layouts show closest seating, alcove seating, parallel and diagonal table arrangements, closest table spacing, café tables, and a Zuntz table. The diagrams provide repeated spacing dimensions for arranging tables and circulation around seating.",
+      "building_type": "Restaurant and café",
+      "spaces": [
+        "Dining room",
+        "Alcove",
+        "Café seating area"
+      ],
+      "uses": [
+        "Arrange tables and seats",
+        "Plan seating density and circulation",
+        "Provide alternative table layouts"
+      ],
+      "furniture_equipment": [
+        "Dining tables",
+        "Dining chairs",
+        "Café tables",
+        "Stools"
+      ],
+      "dimensions": [
+        {
+          "label": "Repeated table-layout spacing",
+          "value": 1.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Dimension chain shown above the closest seating layout.",
+          "status": "uncertain",
+          "ocr_raw": "1.00-l-1.00-l-1.00-l-1.00---t--1.00-l"
+        },
+        {
+          "label": "Alcove width",
+          "value": 1.8,
+          "value_max": null,
+          "unit": "m",
+          "context": "Dimension shown beneath the alcove layout.",
+          "status": "uncertain",
+          "ocr_raw": "1.80"
+        },
+        {
+          "label": "Parallel table arrangement dimension",
+          "value": 2.425,
+          "value_max": null,
+          "unit": "m",
+          "context": "Dimension marked within the parallel arrangement diagram.",
+          "status": "uncertain",
+          "ocr_raw": "2.425"
+        },
+        {
+          "label": "Parallel table arrangement dimension",
+          "value": 3.05,
+          "value_max": null,
+          "unit": "m",
+          "context": "Dimension marked within the parallel arrangement diagram.",
+          "status": "uncertain",
+          "ocr_raw": "3.05"
+        },
+        {
+          "label": "Diagonal table arrangement dimension",
+          "value": 1.95,
+          "value_max": null,
+          "unit": "m",
+          "context": "Dimension marked within the diagonal arrangement diagram.",
+          "status": "uncertain",
+          "ocr_raw": "1.95"
+        },
+        {
+          "label": "Diagonal table arrangement dimension",
+          "value": 1.7,
+          "value_max": null,
+          "unit": "m",
+          "context": "Dimension marked within the diagonal arrangement diagram.",
+          "status": "uncertain",
+          "ocr_raw": "1.70"
+        },
+        {
+          "label": "Closest table spacing dimension",
+          "value": 1.575,
+          "value_max": null,
+          "unit": "m",
+          "context": "Dimension marked in the closest table spacing diagram.",
+          "status": "uncertain",
+          "ocr_raw": "1.575"
+        },
+        {
+          "label": "Café table spacing dimension",
+          "value": 1.825,
+          "value_max": null,
+          "unit": "m",
+          "context": "Dimension marked in the tables-in-a-café diagram.",
+          "status": "uncertain",
+          "ocr_raw": "1.825"
+        },
+        {
+          "label": "Zuntz table dimension",
+          "value": 68.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Dimension labels shown on the Zuntz table diagram.",
+          "status": "uncertain",
+          "ocr_raw": "68"
+        }
+      ],
+      "figure_refs": [
+        "1 Closest seating layout",
+        "2 In an alcove",
+        "3 Parallel arrangement of tables",
+        "4 Diagonal arrangement of tables",
+        "5 Closest table spacing",
+        "6 Tables in a café",
+        "7 Zuntz table"
+      ],
+      "cross_refs": [],
+      "keywords": [
+        "seating layout",
+        "table spacing",
+        "parallel arrangement",
+        "diagonal arrangement",
+        "café",
+        "Zuntz table"
+      ],
+      "tags_architectural": [
+        "circulation",
+        "clearance",
+        "ergonomics",
+        "spatial_proportion"
+      ],
+      "confidence": 0.68
+    },
+    {
+      "id": "4122fb96e4bd1976-188-vision-2",
+      "pdf_page": 188,
+      "book_page": 175,
+      "chapter": "ACCOMMODATION",
+      "section": "Catering",
+      "title": "Restaurant capacity, area, and aisle requirements",
+      "summary": "Tables give usable walking widths by dining-room floor area, toilet-fixture counts by dining-place capacity, area allowances by restaurant type, furnishing space per place, and minimum aisle widths. The printed guidance also notes that storage and personnel rooms require additional area and that cover relates to seat turnover.",
+      "building_type": "Restaurant",
+      "spaces": [
+        "Dining room",
+        "Kitchen",
+        "Main aisles",
+        "Intermediate aisles",
+        "Side aisles",
+        "Toilets",
+        "Storerooms",
+        "Personnel rooms"
+      ],
+      "uses": [
+        "Estimate dining and kitchen areas",
+        "Plan circulation widths",
+        "Estimate toilet facilities by dining-place capacity",
+        "Allocate table and service space"
+      ],
+      "furniture_equipment": [
+        "Dining tables",
+        "Water-service furniture",
+        "Self-service furniture",
+        "Water closets",
+        "Urinals"
+      ],
+      "dimensions": [
+        {
+          "label": "Usable walking width",
+          "value": 1.1,
+          "value_max": null,
+          "unit": "m",
+          "context": "Dining-room floor area ≤100 m²; table 9.",
+          "status": "uncertain",
+          "ocr_raw": "≤100 m² ≥1.10 m"
+        },
+        {
+          "label": "Usable walking width",
+          "value": 1.3,
+          "value_max": null,
+          "unit": "m",
+          "context": "Dining-room floor area ≤250 m²; table 9.",
+          "status": "uncertain",
+          "ocr_raw": "≤250 m² ≥1.30 m"
+        },
+        {
+          "label": "Usable walking width",
+          "value": 1.65,
+          "value_max": null,
+          "unit": "m",
+          "context": "Dining-room floor area ≤500 m²; table 9.",
+          "status": "uncertain",
+          "ocr_raw": "≤500 m² ≥1.65 m"
+        },
+        {
+          "label": "Usable walking width",
+          "value": 1.8,
+          "value_max": null,
+          "unit": "m",
+          "context": "Dining-room floor area ≤1000 m²; table 9.",
+          "status": "uncertain",
+          "ocr_raw": "≤1000 m² ≥1.80 m"
+        },
+        {
+          "label": "Usable walking width",
+          "value": 2.1,
+          "value_max": null,
+          "unit": "m",
+          "context": "Dining-room floor area >1000 m²; table 9.",
+          "status": "uncertain",
+          "ocr_raw": ">1000 m² ≥2.10 m"
+        },
+        {
+          "label": "Total dining-room space per place",
+          "value": 1.4,
+          "value_max": 1.6,
+          "unit": "m²/place",
+          "context": "Total space required for dining room.",
+          "status": "uncertain",
+          "ocr_raw": "Total space required for dining room: 1.4–1.6 m²/place"
+        },
+        {
+          "label": "Main aisle width",
+          "value": 2.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Minimum width.",
+          "status": "uncertain",
+          "ocr_raw": "main aisles min. 2.00 m wide"
+        },
+        {
+          "label": "Intermediate aisle width",
+          "value": 0.9,
+          "value_max": null,
+          "unit": "m",
+          "context": "Minimum width.",
+          "status": "uncertain",
+          "ocr_raw": "intermediate aisles min. 0.90 m wide"
+        },
+        {
+          "label": "Side aisle width",
+          "value": 1.2,
+          "value_max": null,
+          "unit": "m",
+          "context": "Minimum width.",
+          "status": "uncertain",
+          "ocr_raw": "side aisles min. 1.20 m wide"
+        },
+        {
+          "label": "Kitchen floor area per cover, exclusive restaurant",
+          "value": 0.7,
+          "value_max": null,
+          "unit": "m²/cover",
+          "context": "Exclusive restaurant; seat occupancy per meal 1; dining-room floor area 1.8–2.0 m²/seat.",
+          "status": "uncertain",
+          "ocr_raw": "exclusive restaurant 1 0.7 1.8–2.0"
+        },
+        {
+          "label": "Dining-room floor area per seat, exclusive restaurant",
+          "value": 1.8,
+          "value_max": 2.0,
+          "unit": "m²/seat",
+          "context": "Exclusive restaurant; seat occupancy per meal 1; kitchen floor area 0.7 m²/cover.",
+          "status": "uncertain",
+          "ocr_raw": "exclusive restaurant 1 0.7 1.8–2.0"
+        },
+        {
+          "label": "Seat occupancy per meal, rapid-turnover restaurant",
+          "value": 23.0,
+          "value_max": null,
+          "unit": "occupancies/meal",
+          "context": "Restaurant with rapid turnover, e.g. department store; kitchen floor area 0.5–0.6 m²/cover; dining-room floor area 1.4–1.6 m²/seat.",
+          "status": "uncertain",
+          "ocr_raw": "restaurant with rapid turnover, e.g. department store 23 0.5–0.6 1.4–1.6"
+        },
+        {
+          "label": "Kitchen floor area per cover, rapid-turnover restaurant",
+          "value": 0.5,
+          "value_max": 0.6,
+          "unit": "m²/cover",
+          "context": "Restaurant with rapid turnover, e.g. department store; seat occupancy per meal shown as 23; dining-room floor area 1.4–1.6 m²/seat.",
+          "status": "uncertain",
+          "ocr_raw": "restaurant with rapid turnover, e.g. department store 23 0.5–0.6 1.4–1.6"
+        },
+        {
+          "label": "Dining-room floor area per seat, rapid-turnover restaurant",
+          "value": 1.4,
+          "value_max": 1.6,
+          "unit": "m²/seat",
+          "context": "Restaurant with rapid turnover, e.g. department store; seat occupancy per meal shown as 23; kitchen floor area 0.5–0.6 m²/cover.",
+          "status": "uncertain",
+          "ocr_raw": "restaurant with rapid turnover, e.g. department store 23 0.5–0.6 1.4–1.6"
+        },
+        {
+          "label": "Kitchen floor area per cover, standard restaurant",
+          "value": 0.4,
+          "value_max": 0.5,
+          "unit": "m²/cover",
+          "context": "Standard restaurant; seat occupancy per meal 1.5; dining-room floor area 1.6–1.8 m²/seat.",
+          "status": "uncertain",
+          "ocr_raw": "standard restaurant 1.5 0.4–0.5 1.6–1.8"
+        },
+        {
+          "label": "Dining-room floor area per seat, standard restaurant",
+          "value": 1.6,
+          "value_max": 1.8,
+          "unit": "m²/seat",
+          "context": "Standard restaurant; seat occupancy per meal 1.5; kitchen floor area 0.4–0.5 m²/cover.",
+          "status": "uncertain",
+          "ocr_raw": "standard restaurant 1.5 0.4–0.5 1.6–1.8"
+        },
+        {
+          "label": "Kitchen floor area per cover, inn or guest house",
+          "value": 0.3,
+          "value_max": 0.4,
+          "unit": "m²/cover",
+          "context": "Inn or guest house; seat occupancy per meal 1; dining-room floor area 1.6–1.8 m²/seat.",
+          "status": "uncertain",
+          "ocr_raw": "inn, guest house 1 0.3–0.4 1.6–1.8"
+        },
+        {
+          "label": "Dining-room floor area per seat, inn or guest house",
+          "value": 1.6,
+          "value_max": 1.8,
+          "unit": "m²/seat",
+          "context": "Inn or guest house; seat occupancy per meal 1; kitchen floor area 0.3–0.4 m²/cover.",
+          "status": "uncertain",
+          "ocr_raw": "inn, guest house 1 0.3–0.4 1.6–1.8"
+        },
+        {
+          "label": "Additional area for storerooms and personnel rooms",
+          "value": 80.0,
+          "value_max": null,
+          "unit": "%",
+          "context": "Approximate addition to the area requirements.",
+          "status": "uncertain",
+          "ocr_raw": "for storerooms, personnel rooms etc., add approx. 80%"
+        },
+        {
+          "label": "Table space per place, square table, waiter service",
+          "value": 1.25,
+          "value_max": null,
+          "unit": "m²/place",
+          "context": "Furnishing table; 4 places; waiter service.",
+          "status": "uncertain",
+          "ocr_raw": "square 4 1.25"
+        },
+        {
+          "label": "Table space per place, square table, self-service",
+          "value": 1.25,
+          "value_max": null,
+          "unit": "m²/place",
+          "context": "Furnishing table; 4 places; self-service.",
+          "status": "uncertain",
+          "ocr_raw": "square 4 1.25"
+        },
+        {
+          "label": "Table space per place, rectangular table for 4, waiter service",
+          "value": 1.1,
+          "value_max": null,
+          "unit": "m²/place",
+          "context": "Furnishing table; 4 places; waiter service.",
+          "status": "uncertain",
+          "ocr_raw": "rectangular 4 1.10"
+        },
+        {
+          "label": "Table space per place, rectangular table for 4, self-service",
+          "value": 1.25,
+          "value_max": null,
+          "unit": "m²/place",
+          "context": "Furnishing table; 4 places; self-service.",
+          "status": "uncertain",
+          "ocr_raw": "rectangular 4 1.25"
+        },
+        {
+          "label": "Table space per place, rectangular table for 6, waiter service",
+          "value": 1.0,
+          "value_max": null,
+          "unit": "m²/place",
+          "context": "Furnishing table; 6 places; waiter service.",
+          "status": "uncertain",
+          "ocr_raw": "rectangular 6 1.00"
+        },
+        {
+          "label": "Table space per place, rectangular table for 6, self-service",
+          "value": 1.05,
+          "value_max": null,
+          "unit": "m²/place",
+          "context": "Furnishing table; 6 places; self-service.",
+          "status": "uncertain",
+          "ocr_raw": "rectangular 6 1.05"
+        },
+        {
+          "label": "Table space per place, rectangular table for 8, waiter service",
+          "value": 1.1,
+          "value_max": null,
+          "unit": "m²/place",
+          "context": "Furnishing table; 8 places; waiter service.",
+          "status": "uncertain",
+          "ocr_raw": "rectangular 8 1.10"
+        },
+        {
+          "label": "Table space per place, rectangular table for 8, self-service",
+          "value": 1.1,
+          "value_max": null,
+          "unit": "m²/place",
+          "context": "Furnishing table; 8 places; self-service.",
+          "status": "uncertain",
+          "ocr_raw": "rectangular 8 1.10"
+        },
+        {
+          "label": "Dining places, toilet-facility table threshold",
+          "value": 50.0,
+          "value_max": null,
+          "unit": "places",
+          "context": "Table 10 lists fixture counts for ≤50 dining places: 1 gents' WC, 1 ladies' WC, 2 urinals, 2 m channel.",
+          "status": "uncertain",
+          "ocr_raw": "≤50 1 1 2 2"
+        },
+        {
+          "label": "Dining places, toilet-facility table range",
+          "value": 50.0,
+          "value_max": 200.0,
+          "unit": "places",
+          "context": "Table 10 lists fixture counts for >50–200 dining places: 2 gents' WCs, 2 ladies' WCs, 4 urinals, 3 m channel.",
+          "status": "uncertain",
+          "ocr_raw": "≤50–200 2 2 4 3"
+        },
+        {
+          "label": "Dining places, toilet-facility table range",
+          "value": 200.0,
+          "value_max": 400.0,
+          "unit": "places",
+          "context": "Table 10 lists fixture counts for >200–400 dining places: 3 gents' WCs, 4 ladies' WCs, 6 urinals, 4 m channel.",
+          "status": "uncertain",
+          "ocr_raw": "=200–400 3 4 6 4"
+        }
+      ],
+      "figure_refs": [
+        "9 Usable width of stairs",
+        "10 Toilet facilities",
+        "11 Space requirements",
+        "12 Total space required for dining room",
+        "13 Aisle widths"
+      ],
+      "cross_refs": [],
+      "keywords": [
+        "walking width",
+        "toilet facilities",
+        "space requirements",
+        "dining places",
+        "kitchen area",
+        "dining-room area",
+        "aisle widths"
+      ],
+      "tags_architectural": [
+        "circulation",
+        "clearance",
+        "ergonomics",
+        "accessibility"
+      ],
+      "confidence": 0.75
+    }
+  ]
+}

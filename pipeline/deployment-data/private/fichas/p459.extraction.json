@@ -1,0 +1,458 @@
+{
+  "fichas": [
+    {
+      "id": "4122fb96e4bd1976-459-vision-0",
+      "pdf_page": 459,
+      "book_page": 446,
+      "chapter": "AGRICULTURE",
+      "section": "Farmyards",
+      "title": "Farmyards: Basics and Site Planning",
+      "summary": "Farm location and layout should respond to topography, climate, business needs, prevailing winds, and internal and external transport connections. The page gives minimum separations between buildings, plot and area guidance, maximum route gradients, and garden requirements.",
+      "building_type": "Farmyard",
+      "spaces": [
+        "Farmhouse",
+        "Livestock buildings",
+        "Working areas",
+        "Traffic areas",
+        "Residential garden",
+        "Vegetable garden",
+        "Orchard"
+      ],
+      "uses": [
+        "Farm operation and transport",
+        "Livestock housing",
+        "Residential use",
+        "Household food production"
+      ],
+      "furniture_equipment": [],
+      "dimensions": [
+        {
+          "label": "Minimum distance between buildings",
+          "value": 10.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Minimum separation between all buildings.",
+          "status": "uncertain",
+          "ocr_raw": "min. 10 m between all buildings"
+        },
+        {
+          "label": "Farmhouse to livestock buildings",
+          "value": 15.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Minimum distance from the farmhouse to buildings for livestock.",
+          "status": "uncertain",
+          "ocr_raw": "from the farmhouse to the buildings for livestock at least 15 m"
+        },
+        {
+          "label": "Farmhouse to south plot boundary",
+          "value": 10.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Minimum distance southwards from the farmhouse to the plot boundary.",
+          "status": "uncertain",
+          "ocr_raw": "from the farmhouse southwards to the plot boundary at least 10 m"
+        },
+        {
+          "label": "Farmhouse to west or east plot boundary",
+          "value": 6.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Minimum distance from the farmhouse to the plot boundary on the west or east side.",
+          "status": "uncertain",
+          "ocr_raw": "west or east min. 6 m"
+        },
+        {
+          "label": "Area for animal husbandry operations with technical facilities",
+          "value": 4000.0,
+          "value_max": 5000.0,
+          "unit": "m²",
+          "context": "Typical area requirement for operations with technical facilities.",
+          "status": "uncertain",
+          "ocr_raw": "areas of 4000-5000 m2"
+        },
+        {
+          "label": "Plot width for animal husbandry operations",
+          "value": 35.0,
+          "value_max": 45.0,
+          "unit": "m",
+          "context": "Typical plot width for animal husbandry operations with technical facilities.",
+          "status": "uncertain",
+          "ocr_raw": "plot widths of 35-45 m"
+        },
+        {
+          "label": "Residential area including garden",
+          "value": 1000.0,
+          "value_max": null,
+          "unit": "m²",
+          "context": "Approximate area for the residential area including garden.",
+          "status": "uncertain",
+          "ocr_raw": "approx. 1000 m2 for the residential area including garden"
+        },
+        {
+          "label": "Maximum gradient for hand trucks",
+          "value": 5.0,
+          "value_max": null,
+          "unit": "%",
+          "context": "Maximum gradient for working and transport routes within and outside buildings.",
+          "status": "uncertain",
+          "ocr_raw": "for hand trucks = 5%"
+        },
+        {
+          "label": "Maximum gradient for motor vehicles",
+          "value": 10.0,
+          "value_max": null,
+          "unit": "%",
+          "context": "Maximum gradient for working and transport routes within and outside buildings.",
+          "status": "uncertain",
+          "ocr_raw": "motor vehicles= 10%"
+        },
+        {
+          "label": "Maximum gradient for short hills",
+          "value": 20.0,
+          "value_max": null,
+          "unit": "%",
+          "context": "Maximum gradient specified for short hills.",
+          "status": "uncertain",
+          "ocr_raw": "short hills max. 20%"
+        },
+        {
+          "label": "Minimum lawn area",
+          "value": 100.0,
+          "value_max": null,
+          "unit": "m²",
+          "context": "Residential garden; minimum lawn area.",
+          "status": "uncertain",
+          "ocr_raw": "min. 100 m2 lawn"
+        },
+        {
+          "label": "Residential garden area",
+          "value": 400.0,
+          "value_max": 500.0,
+          "unit": "m²",
+          "context": "Approximate total area for the residential garden and its listed features.",
+          "status": "uncertain",
+          "ocr_raw": "altogether needing approx. 400-500 m2"
+        },
+        {
+          "label": "Vegetable garden area per person",
+          "value": 50.0,
+          "value_max": 60.0,
+          "unit": "m²/person",
+          "context": "Vegetable garden for personal consumption.",
+          "status": "uncertain",
+          "ocr_raw": "50-60 m2 per person"
+        },
+        {
+          "label": "Orchard area per person",
+          "value": 100.0,
+          "value_max": null,
+          "unit": "m²/person",
+          "context": "Approximate orchard area for personal consumption.",
+          "status": "uncertain",
+          "ocr_raw": "approx. 100 m2 per person"
+        }
+      ],
+      "figure_refs": [
+        "1 Schematic layout of the elements of a farmyard (farmhouse, working areas, traffic areas)",
+        "2 Integration of the farmyard into the landscape"
+      ],
+      "cross_refs": [
+        "→ 1"
+      ],
+      "keywords": [
+        "farmyard",
+        "site planning",
+        "farmhouse",
+        "livestock",
+        "transport",
+        "garden",
+        "landscape"
+      ],
+      "tags_architectural": [
+        "circulation",
+        "safety",
+        "spatial_proportion"
+      ],
+      "confidence": 0.96
+    },
+    {
+      "id": "4122fb96e4bd1976-459-vision-1",
+      "pdf_page": 459,
+      "book_page": 446,
+      "chapter": "AGRICULTURE",
+      "section": "Farmyards",
+      "title": "Planning System for a Flexible Barn Area",
+      "summary": "A diagram presents a flexible barn planning system, arranging aisles and areas for straw, hay, fodder, machinery, livestock, and storage. The reproduced plan includes a repeated 5.00 grid and several other numeric labels whose exact contexts are not fully legible.",
+      "building_type": "Agricultural barn",
+      "spaces": [
+        "Aisle",
+        "Straw storage",
+        "Hay storage",
+        "Fodder storage",
+        "Machine shed",
+        "Central feed store",
+        "Pig stalls",
+        "Machinery area"
+      ],
+      "uses": [
+        "Flexible barn planning",
+        "Storage of straw, hay, and fodder",
+        "Machinery storage",
+        "Livestock and feed arrangement"
+      ],
+      "furniture_equipment": [
+        "Agricultural machinery"
+      ],
+      "dimensions": [
+        {
+          "label": "Repeated planning grid",
+          "value": 5.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Repeated divisions shown across the top of the planning-system diagram; unit is inferred from the architectural dimension context and not printed beside these labels.",
+          "status": "uncertain",
+          "ocr_raw": "5.00"
+        },
+        {
+          "label": "Additional diagram labels",
+          "value": 2.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Numeric labels appear along the sloping profile in the plan; dimension context and units are unclear, so not further interpreted.",
+          "status": "uncertain",
+          "ocr_raw": "2.00 3.34 4.68 6.02 7.36 6.02 4.68 3.34 2.00"
+        }
+      ],
+      "figure_refs": [
+        "3 Planning system for a flexible barn area"
+      ],
+      "cross_refs": [],
+      "keywords": [
+        "barn",
+        "flexible planning",
+        "aisle",
+        "fodder storage",
+        "machinery",
+        "pig stalls"
+      ],
+      "tags_architectural": [
+        "modularity",
+        "circulation"
+      ],
+      "confidence": 0.61
+    },
+    {
+      "id": "4122fb96e4bd1976-459-vision-2",
+      "pdf_page": 459,
+      "book_page": 446,
+      "chapter": "AGRICULTURE",
+      "section": "Farmyards",
+      "title": "Agricultural Crop Storage, Straw, and Barn Examples",
+      "summary": "The page illustrates angles of repose for agricultural crops, straw bale forms, a barn with a transverse gangway, and a field barn. Numeric labels are retained where legible; the barn drawing contains several dimensional callouts with unclear placement or units.",
+      "building_type": "Agricultural storage buildings",
+      "spaces": [
+        "Crop storage",
+        "Barn",
+        "Transverse gangway",
+        "Field barn",
+        "Drainage area"
+      ],
+      "uses": [
+        "Storage of agricultural crops and straw",
+        "Agricultural work and storage"
+      ],
+      "furniture_equipment": [
+        "Round bales",
+        "Compressed straw bales",
+        "Drainage pipes"
+      ],
+      "dimensions": [
+        {
+          "label": "Angle of repose: flour and fine granular material",
+          "value": 70.0,
+          "value_max": 80.0,
+          "unit": "°",
+          "context": "Angle of repose shown for flour and fine granular material.",
+          "status": "uncertain",
+          "ocr_raw": "70-80° flour and fine granular material"
+        },
+        {
+          "label": "Angle of repose: rye and wheat bran",
+          "value": 60.0,
+          "value_max": 66.0,
+          "unit": "°",
+          "context": "Angle of repose shown for rye and wheat bran.",
+          "status": "uncertain",
+          "ocr_raw": "60-66° rye and wheat bran"
+        },
+        {
+          "label": "Angle of repose: flax meal",
+          "value": 55.0,
+          "value_max": 60.0,
+          "unit": "°",
+          "context": "Angle of repose shown for flax meal.",
+          "status": "uncertain",
+          "ocr_raw": "55-60° flax meal"
+        },
+        {
+          "label": "Angle of repose: fine ground grain",
+          "value": 50.0,
+          "value_max": 55.0,
+          "unit": "°",
+          "context": "Angle of repose shown for fine ground grain.",
+          "status": "uncertain",
+          "ocr_raw": "50-55° fine ground grain"
+        },
+        {
+          "label": "Angle of repose: coarse ground grain",
+          "value": 45.0,
+          "value_max": 50.0,
+          "unit": "°",
+          "context": "Angle of repose shown for coarse ground grain.",
+          "status": "uncertain",
+          "ocr_raw": "45-50° coarse ground grain"
+        },
+        {
+          "label": "Angle of repose: oats and barley",
+          "value": 40.0,
+          "value_max": 45.0,
+          "unit": "°",
+          "context": "Angle of repose shown for oats and barley.",
+          "status": "uncertain",
+          "ocr_raw": "40-45° oats, barley"
+        },
+        {
+          "label": "Angle of repose: rye",
+          "value": 37.0,
+          "value_max": null,
+          "unit": "°",
+          "context": "Angle of repose shown for rye.",
+          "status": "uncertain",
+          "ocr_raw": "37° rye"
+        },
+        {
+          "label": "Angle of repose: maize, wheat, peas",
+          "value": 35.0,
+          "value_max": null,
+          "unit": "°",
+          "context": "Angle of repose shown for maize, wheat, and peas.",
+          "status": "uncertain",
+          "ocr_raw": "35° maize, wheat, peas"
+        },
+        {
+          "label": "Angle of repose: millet",
+          "value": 23.0,
+          "value_max": null,
+          "unit": "°",
+          "context": "Angle of repose shown for millet.",
+          "status": "uncertain",
+          "ocr_raw": "23° millet"
+        },
+        {
+          "label": "Angle of repose: malt",
+          "value": 22.0,
+          "value_max": null,
+          "unit": "°",
+          "context": "Angle of repose shown for malt.",
+          "status": "uncertain",
+          "ocr_raw": "22° malt"
+        },
+        {
+          "label": "Round bale dimension callout",
+          "value": 180.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Dimension callout beneath round bale illustration; paired printed values are retained literally, without interpreting axes.",
+          "status": "uncertain",
+          "ocr_raw": "180/180"
+        },
+        {
+          "label": "Barn dimension callout",
+          "value": 3.0,
+          "value_max": 4.0,
+          "unit": "m",
+          "context": "Callout on barn with transverse gangway; diagram placement is unclear.",
+          "status": "uncertain",
+          "ocr_raw": "3.0-4.0"
+        },
+        {
+          "label": "Barn dimension callout",
+          "value": 9.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Callout on barn with transverse gangway; diagram placement is unclear.",
+          "status": "uncertain",
+          "ocr_raw": "9.0"
+        },
+        {
+          "label": "Barn dimension callout",
+          "value": 7.5,
+          "value_max": null,
+          "unit": "m",
+          "context": "Callout on barn with transverse gangway; diagram placement is unclear.",
+          "status": "uncertain",
+          "ocr_raw": "7.5"
+        },
+        {
+          "label": "Barn section callout",
+          "value": 5.0,
+          "value_max": 7.5,
+          "unit": "m",
+          "context": "Label identified as a bend section in the barn drawing.",
+          "status": "uncertain",
+          "ocr_raw": "5.0-7.5 bend section"
+        },
+        {
+          "label": "Barn section callout",
+          "value": 10.0,
+          "value_max": 15.0,
+          "unit": "m",
+          "context": "Label identified as a middle section in the barn drawing.",
+          "status": "uncertain",
+          "ocr_raw": "10.0-15.0 middle section"
+        },
+        {
+          "label": "Compressed straw bale callout",
+          "value": 1.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Dimension callout adjacent to compressed straw; diagram placement is unclear.",
+          "status": "uncertain",
+          "ocr_raw": "1.0"
+        },
+        {
+          "label": "Compressed straw bale callout",
+          "value": 1.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Dimension callout adjacent to compressed straw; diagram placement is unclear.",
+          "status": "uncertain",
+          "ocr_raw": "1.0+1.0"
+        }
+      ],
+      "figure_refs": [
+        "4 Angles of repose for agricultural crops",
+        "5 Straw",
+        "6 Barn with transverse gangway",
+        "7 Field barn"
+      ],
+      "cross_refs": [],
+      "keywords": [
+        "crop storage",
+        "angles of repose",
+        "straw",
+        "round bales",
+        "compressed straw",
+        "barn",
+        "gangway",
+        "field barn"
+      ],
+      "tags_architectural": [
+        "spatial_proportion",
+        "safety"
+      ],
+      "confidence": 0.69
+    }
+  ]
+}

@@ -1,0 +1,151 @@
+{
+  "fichas": [
+    {
+      "id": "4122fb96e4bd1976-485-vision-0",
+      "pdf_page": 485,
+      "book_page": 472,
+      "chapter": "BUILDING SERVICES",
+      "section": "Building Physics",
+      "title": "Water vapour diffusion and condensation in building elements",
+      "summary": "Explains how temperature and relative humidity affect water vapour and condensation, and how vapour-pressure diffusion through building layers depends on diffusion resistance. Diagrams illustrate sufficient insulation, layer sequence, surface air-film limits and vapour-barrier placement. Tables give dew points, maximum partial vapour pressures and surface-air-film proportions.",
+      "building_type": "Building physics reference",
+      "spaces": [],
+      "uses": [
+        "Assess water vapour diffusion and condensation risk in building elements",
+        "Guide thermal insulation, layer sequencing and vapour-barrier placement"
+      ],
+      "furniture_equipment": [],
+      "dimensions": [
+        {
+          "label": "Atmospheric air pressure",
+          "value": 1.0,
+          "value_max": null,
+          "unit": "bar",
+          "context": "Atmospheric air pressure; the text also gives its equivalent as 1000 mbar.",
+          "status": "verified",
+          "ocr_raw": "The atmospheric air pressure Is 1 bar or 1000 mbar (also called hecto-pascal)."
+        },
+        {
+          "label": "Outside surface air-film thickness",
+          "value": 0.5,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Surface air-film thickness used in the diffusion discussion; the text says surface air-film layers can be neglected because of their lack of thickness.",
+          "status": "verified",
+          "ocr_raw": "(outside 0.5, inside 2 em)."
+        },
+        {
+          "label": "Inside surface air-film thickness",
+          "value": 2.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Surface air-film thickness used in the diffusion discussion; the text says surface air-film layers can be neglected because of their lack of thickness.",
+          "status": "verified",
+          "ocr_raw": "(outside 0.5, inside 2 em)."
+        },
+        {
+          "label": "Wall thickness in diffusion example",
+          "value": 24.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Extruded clay block wall in the printed partial-vapour-pressure calculation example.",
+          "status": "verified",
+          "ocr_raw": "Wall (24 em extruded clay block)"
+        },
+        {
+          "label": "Internal plaster thickness in diffusion example",
+          "value": 1.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Internal plaster layer in the printed partial-vapour-pressure calculation example.",
+          "status": "verified",
+          "ocr_raw": "Internal plaster(1.0 em)"
+        },
+        {
+          "label": "Water vapour equivalent",
+          "value": 0.6,
+          "value_max": null,
+          "unit": "mbar",
+          "context": "The text gives this as equivalent to 1 g water/kg air.",
+          "status": "verified",
+          "ocr_raw": "(0.6 mbar = 1 g water/kg air)."
+        },
+        {
+          "label": "Dew-point table air temperature",
+          "value": 15.0,
+          "value_max": 30.0,
+          "unit": "°C",
+          "context": "Air-temperature rows in the dew-point table; the table also includes 16°C through 29°C.",
+          "status": "verified",
+          "ocr_raw": "Air\nDew point temperature at a relative humidity of:\ntemperature 35% 40% 45% 50% 55% 60% 65% 70% 75% 80% 85%\n12.9 14.9 16.8 18.4 20.0 21.4 22.7 23.9 25.1 26.2 27.2\n30°C\n8.5 10.5 12.2 13.9 15.3 16.7 18.0 19.1 20.3 21.3 22.3\n25°C\n7.6\n9.6 11.3 12.9 14.4 15.8 17.0 18.2 19.3 20.3 21.3\n24°C\n6.7\n8.7 10.4 12.0 13.5 14.8 16.1 17.2 18.3 19.4 20.3\n23°C\n5.9\n7.8\n9.5 11.1 12.5 13.9 15.1 16.3 17.4 18.4 19.4\n22°C\n5.0\n8.6 10.2 11.6 12.9 14.2 15.3 16.4 17.4 18.4\n6.9\n21°C\nzo•c\n4.1\n6.0\n7.7\n9.3 10.7 12.0 13.2 14.3 15.4 16.4 17.4\n19•C\n3.2\n6.8\n9.8 11.1 12.3 13.4 14.5 15.5 16.4\n5.1\n8.3\n18•c\n2.3\n5.9\n4.2\n7.4\n8.8 10.1 11.3 12.5 13.5 14.5 15.4\n7.9\n9.2 10.4 11.5 12.5 13.5 14.5\n11•c\n1.4\n3.3\n5.0\n6.5\n16•c\n0.5\n7.0\n8.2\n9.4 10.5 11.6 12.6 13.5\n2.4\n4.1\n5.6\n15•c\n-0.3\n7.3\n8.5\n9.6 10.6 11.6 12.5\n3.2\n1.5\n4.7\n6.1\n\n0 Dew point temperatures of air, depending on air temperature and relative humidity\nTemp.\n•c\n\nMax. partial vapour\npressure of air (kp/m2)\n26.9\n40.9\n62.3\n88.9\n125.2\n173.9\n238.1\n323.0\n\n-10\n-5\n±0\n+5\n+ 10\n+15\n+20\n+25\n\nf) Partial vapour pressure of air\n\n•\n\n50\n\nRelative humidity\n70\n60\n\n33.5%\n30.8%\n28.4%\n\n25%\n\n17.8%\n16.2%\n15.0%\n\n23%\n\n21%\n\nMax. proportion of the surface air\nfilm or up to the vapour limit ('X')\n\ninside\n\n20\n\n10\n\ne\n\nToo great a proportion of surface\nair film due to too little insulation;\ncondensation at and In building\nelement; X = max. permissible\nproportion of the surface air film\n\nThermal\n\nEnEV 2007\n\n25\n\nSufficient thermal insulation\nExample --> 0 shows a single-layer building element without\ncondensation.\n\n15\n10\n\nlayer factor = gradient of the\nsequence of layers: the\n0 The\n0 Incorrect\ncurve, falling to the outside: good\nlayer factor= gradient of the curve,\nuphill to the outside: condensation\ninside the building element\n\nmbar\n\n25\n20\n\n10\n\ne\n\nVapour barrier on cold side:\ncondensation in building element\n\n472\n\nCondensation occurs where the actual water vapour content\nthreatens to become more than that possible for the temperature.\nIn the examples --> 0 - 0 the building element including its\nsurface air films is shown to a scale according to its insulation; the\ncurved line is the curve of the maximum possible partial vapour\npressure, which is determined by the straight temperature curve.\nThe following are important to avoid damage:\n\nmbar\n\n20\n\nBS EN ISO 9229\nBS EN ISO\n13370\nBS EN ISO\n13790\nDIN 4108\nDIN EN ISO 6946\nDIN EN 12524\n\npartial vapour pressure are then only dffferent contents of water vapour molecules at the\nsame overall (air) pressure.\nDifferent partial vapour pressures attempt to equalise through diffusion (by wandering\nthrough the building elements and their layers). The layers of the building element oppose\nthis with their diffusion resistance; this gives the thickness of the air layer, which would\nhave the same diffusion resistance as the building element; it is calculated as the product\nof the layer thickness d (em, m) and the material-specific vapour resistivity m. Under\ndiffusion, a partial vapour pressure gradient is set up inside the building element; as with\nthe temperature distribution in the building element, this gradient is distributed among the\nindividual layers ofthe building element according to their proportion of its overall diffusion\nresistance. The surface air film layers in this case can be neglected on account of their lack\nof thickness (outside 0.5, inside 2 em). (Example; inside 20•/50% C = 11.7 mbar, outside\n-15'/18% = 1.3 mbar, difference 10.4 mbar. Wall (24 em extruded clay block): m x d =4.5\nx24= 108 em. Internal plaster(1.0 em); mx d =6 x 1.0=6 em. 108 +6= 114 em (100%)\n(108 em= 94.7% =9.8 mbar, 6 em =5.3% =0.6 mbar)\n\nDiffusion examples\nIn order to avoid damage to buildings, condensation in building\nelements should be avoided.\n\ninsulation\n\nSound insulation\nRoom acoustics\nLightning\nprotection\n\ndescribe the water vapour content of the air (-> f)) because this enables considerations\nabout diffusion to be illustrated more clearly (0.6 mbar = 1 g water/kg air). Differences of\n\n4Ii) Calculation of partial vapour pressure\n\n15\n\nBUILDING\nPHYSICS\n\nWater vapour diffusion\nThe air in a room, and also the air in general, contain water in the\nform of water vapour. The quantity of water in the air, depending on\ntemperature, is called the relative humidity. It is important to note that\nwarm air can absorb much more water vapour than cold air. The relative\nhumidity can therefore fluctuate greatly according to the temperature\nconditions, although the absolute quantity of water remains constant.\nFor the formation of condensation, an important factor is that the\nrelative air humidity increases with falling temperatures. In\nextreme cases, this can be so pronounced that the air is no longer\ncapable of holding the water in the form of vapour and it is then\ndeposited as condensation.\n\nvapour pressure) is created by water vapour. It is also advantageous to use this value to\nOutside\ntemperature\n(•C)\n-12\n-15\n-18\n\n25\n\nPartial water vapour pressure\nremains under the maximum\npossible; no condensation\n\nThermal Insulation\n\nThe atmospheric air pressure Is 1 bar or 1000 mbar (also called hecto-pascal). In a water\nvapour-air mixture, part of this pressure (called the partial water vapour pressure or partial\n\noutside\nmbar\n\ne\n\nBUILDING PHYSICS\n\nC) Vapour barrier on warm side\nprevents formation of condensation\n\nBut in example --> 0 condensation is formed on the inner face\nof the building element, because the proportion of the surface\nair film is too large. The surface air film cannot exceed a certain\nproportion X of the overall resistance I /U --> 8.\nCorrect sequence of layers\nThe gradient of the diffusion curve should be as steep as possible\non the inside and flat on the outside--> 0; otherwise, condensation\noccurs --> 0. This gradient is given by the layer factor jlA.: inside,\nhigh water vapour resistance factor, good thermal conductivity =\nhigh layer factor flA.: outside, low water vapour resistance factor,\nlow thermal conductivity = low layer factor il\"-·\nVapour barrier at the correct location\nIf there is a vapour barrier on the outside, then the entire vapour\npressure gradient occurs there and the result is condensation--. 0;\nif this is to be avoided, then a vapour barrier must be installed on the\nwarm side with an equivalent diffusion resistance suitable for the\nlocation, in which case the layers in front of the vapour barrier must\nnot exceed a certain proportion of the overall thermal resistance\n1/U -->0.\n\n\f"
+        },
+        {
+          "label": "Dew-point table relative humidity",
+          "value": 35.0,
+          "value_max": 85.0,
+          "unit": "%",
+          "context": "Relative-humidity columns in the dew-point table.",
+          "status": "verified",
+          "ocr_raw": "Air\nDew point temperature at a relative humidity of:\ntemperature 35% 40% 45% 50% 55% 60% 65% 70% 75% 80% 85%\n12.9 14.9 16.8 18.4 20.0 21.4 22.7 23.9 25.1 26.2 27.2\n30°C\n8.5 10.5 12.2 13.9 15.3 16.7 18.0 19.1 20.3 21.3 22.3\n25°C\n7.6\n9.6 11.3 12.9 14.4 15.8 17.0 18.2 19.3 20.3 21.3\n24°C\n6.7\n8.7 10.4 12.0 13.5 14.8 16.1 17.2 18.3 19.4 20.3\n23°C\n5.9\n7.8\n9.5 11.1 12.5 13.9 15.1 16.3 17.4 18.4 19.4\n22°C\n5.0\n8.6 10.2 11.6 12.9 14.2 15.3 16.4 17.4 18.4\n6.9\n21°C\nzo•c\n4.1\n6.0\n7.7\n9.3 10.7 12.0 13.2 14.3 15.4 16.4 17.4\n19•C\n3.2\n6.8\n9.8 11.1 12.3 13.4 14.5 15.5 16.4\n5.1\n8.3\n18•c\n2.3\n5.9\n4.2\n7.4\n8.8 10.1 11.3 12.5 13.5 14.5 15.4\n7.9\n9.2 10.4 11.5 12.5 13.5 14.5\n11•c\n1.4\n3.3\n5.0\n6.5\n16•c\n0.5\n7.0\n8.2\n9.4 10.5 11.6 12.6 13.5\n2.4\n4.1\n5.6\n15•c\n-0.3\n7.3\n8.5\n9.6 10.6 11.6 12.5\n3.2\n1.5\n4.7\n6.1\n\n0 Dew point temperatures of air, depending on air temperature and relative humidity\nTemp.\n•c\n\nMax. partial vapour\npressure of air (kp/m2)\n26.9\n40.9\n62.3\n88.9\n125.2\n173.9\n238.1\n323.0\n\n-10\n-5\n±0\n+5\n+ 10\n+15\n+20\n+25\n\nf) Partial vapour pressure of air\n\n•\n\n50\n\nRelative humidity\n70\n60\n\n33.5%\n30.8%\n28.4%\n\n25%\n\n17.8%\n16.2%\n15.0%\n\n23%\n\n21%\n\nMax. proportion of the surface air\nfilm or up to the vapour limit ('X')\n\ninside\n\n20\n\n10\n\ne\n\nToo great a proportion of surface\nair film due to too little insulation;\ncondensation at and In building\nelement; X = max. permissible\nproportion of the surface air film\n\nThermal\n\nEnEV 2007\n\n25\n\nSufficient thermal insulation\nExample --> 0 shows a single-layer building element without\ncondensation.\n\n15\n10\n\nlayer factor = gradient of the\nsequence of layers: the\n0 The\n0 Incorrect\ncurve, falling to the outside: good\nlayer factor= gradient of the curve,\nuphill to the outside: condensation\ninside the building element\n\nmbar\n\n25\n20\n\n10\n\ne\n\nVapour barrier on cold side:\ncondensation in building element\n\n472\n\nCondensation occurs where the actual water vapour content\nthreatens to become more than that possible for the temperature.\nIn the examples --> 0 - 0 the building element including its\nsurface air films is shown to a scale according to its insulation; the\ncurved line is the curve of the maximum possible partial vapour\npressure, which is determined by the straight temperature curve.\nThe following are important to avoid damage:\n\nmbar\n\n20\n\nBS EN ISO 9229\nBS EN ISO\n13370\nBS EN ISO\n13790\nDIN 4108\nDIN EN ISO 6946\nDIN EN 12524\n\npartial vapour pressure are then only dffferent contents of water vapour molecules at the\nsame overall (air) pressure.\nDifferent partial vapour pressures attempt to equalise through diffusion (by wandering\nthrough the building elements and their layers). The layers of the building element oppose\nthis with their diffusion resistance; this gives the thickness of the air layer, which would\nhave the same diffusion resistance as the building element; it is calculated as the product\nof the layer thickness d (em, m) and the material-specific vapour resistivity m. Under\ndiffusion, a partial vapour pressure gradient is set up inside the building element; as with\nthe temperature distribution in the building element, this gradient is distributed among the\nindividual layers ofthe building element according to their proportion of its overall diffusion\nresistance. The surface air film layers in this case can be neglected on account of their lack\nof thickness (outside 0.5, inside 2 em). (Example; inside 20•/50% C = 11.7 mbar, outside\n-15'/18% = 1.3 mbar, difference 10.4 mbar. Wall (24 em extruded clay block): m x d =4.5\nx24= 108 em. Internal plaster(1.0 em); mx d =6 x 1.0=6 em. 108 +6= 114 em (100%)\n(108 em= 94.7% =9.8 mbar, 6 em =5.3% =0.6 mbar)\n\nDiffusion examples\nIn order to avoid damage to buildings, condensation in building\nelements should be avoided.\n\ninsulation\n\nSound insulation\nRoom acoustics\nLightning\nprotection\n\ndescribe the water vapour content of the air (-> f)) because this enables considerations\nabout diffusion to be illustrated more clearly (0.6 mbar = 1 g water/kg air). Differences of\n\n4Ii) Calculation of partial vapour pressure\n\n15\n\nBUILDING\nPHYSICS\n\nWater vapour diffusion\nThe air in a room, and also the air in general, contain water in the\nform of water vapour. The quantity of water in the air, depending on\ntemperature, is called the relative humidity. It is important to note that\nwarm air can absorb much more water vapour than cold air. The relative\nhumidity can therefore fluctuate greatly according to the temperature\nconditions, although the absolute quantity of water remains constant.\nFor the formation of condensation, an important factor is that the\nrelative air humidity increases with falling temperatures. In\nextreme cases, this can be so pronounced that the air is no longer\ncapable of holding the water in the form of vapour and it is then\ndeposited as condensation.\n\nvapour pressure) is created by water vapour. It is also advantageous to use this value to\nOutside\ntemperature\n(•C)\n-12\n-15\n-18\n\n25\n\nPartial water vapour pressure\nremains under the maximum\npossible; no condensation\n\nThermal Insulation\n\nThe atmospheric air pressure Is 1 bar or 1000 mbar (also called hecto-pascal). In a water\nvapour-air mixture, part of this pressure (called the partial water vapour pressure or partial\n\noutside\nmbar\n\ne\n\nBUILDING PHYSICS\n\nC) Vapour barrier on warm side\nprevents formation of condensation\n\nBut in example --> 0 condensation is formed on the inner face\nof the building element, because the proportion of the surface\nair film is too large. The surface air film cannot exceed a certain\nproportion X of the overall resistance I /U --> 8.\nCorrect sequence of layers\nThe gradient of the diffusion curve should be as steep as possible\non the inside and flat on the outside--> 0; otherwise, condensation\noccurs --> 0. This gradient is given by the layer factor jlA.: inside,\nhigh water vapour resistance factor, good thermal conductivity =\nhigh layer factor flA.: outside, low water vapour resistance factor,\nlow thermal conductivity = low layer factor il\"-·\nVapour barrier at the correct location\nIf there is a vapour barrier on the outside, then the entire vapour\npressure gradient occurs there and the result is condensation--. 0;\nif this is to be avoided, then a vapour barrier must be installed on the\nwarm side with an equivalent diffusion resistance suitable for the\nlocation, in which case the layers in front of the vapour barrier must\nnot exceed a certain proportion of the overall thermal resistance\n1/U -->0.\n\n\f"
+        },
+        {
+          "label": "Maximum partial vapour pressure table temperature",
+          "value": -10.0,
+          "value_max": 25.0,
+          "unit": "°C",
+          "context": "Temperature rows in the maximum partial vapour pressure table.",
+          "status": "verified",
+          "ocr_raw": "Air\nDew point temperature at a relative humidity of:\ntemperature 35% 40% 45% 50% 55% 60% 65% 70% 75% 80% 85%\n12.9 14.9 16.8 18.4 20.0 21.4 22.7 23.9 25.1 26.2 27.2\n30°C\n8.5 10.5 12.2 13.9 15.3 16.7 18.0 19.1 20.3 21.3 22.3\n25°C\n7.6\n9.6 11.3 12.9 14.4 15.8 17.0 18.2 19.3 20.3 21.3\n24°C\n6.7\n8.7 10.4 12.0 13.5 14.8 16.1 17.2 18.3 19.4 20.3\n23°C\n5.9\n7.8\n9.5 11.1 12.5 13.9 15.1 16.3 17.4 18.4 19.4\n22°C\n5.0\n8.6 10.2 11.6 12.9 14.2 15.3 16.4 17.4 18.4\n6.9\n21°C\nzo•c\n4.1\n6.0\n7.7\n9.3 10.7 12.0 13.2 14.3 15.4 16.4 17.4\n19•C\n3.2\n6.8\n9.8 11.1 12.3 13.4 14.5 15.5 16.4\n5.1\n8.3\n18•c\n2.3\n5.9\n4.2\n7.4\n8.8 10.1 11.3 12.5 13.5 14.5 15.4\n7.9\n9.2 10.4 11.5 12.5 13.5 14.5\n11•c\n1.4\n3.3\n5.0\n6.5\n16•c\n0.5\n7.0\n8.2\n9.4 10.5 11.6 12.6 13.5\n2.4\n4.1\n5.6\n15•c\n-0.3\n7.3\n8.5\n9.6 10.6 11.6 12.5\n3.2\n1.5\n4.7\n6.1\n\n0 Dew point temperatures of air, depending on air temperature and relative humidity\nTemp.\n•c\n\nMax. partial vapour\npressure of air (kp/m2)\n26.9\n40.9\n62.3\n88.9\n125.2\n173.9\n238.1\n323.0\n\n-10\n-5\n±0\n+5\n+ 10\n+15\n+20\n+25\n\nf) Partial vapour pressure of air\n\n•\n\n50\n\nRelative humidity\n70\n60\n\n33.5%\n30.8%\n28.4%\n\n25%\n\n17.8%\n16.2%\n15.0%\n\n23%\n\n21%\n\nMax. proportion of the surface air\nfilm or up to the vapour limit ('X')\n\ninside\n\n20\n\n10\n\ne\n\nToo great a proportion of surface\nair film due to too little insulation;\ncondensation at and In building\nelement; X = max. permissible\nproportion of the surface air film\n\nThermal\n\nEnEV 2007\n\n25\n\nSufficient thermal insulation\nExample --> 0 shows a single-layer building element without\ncondensation.\n\n15\n10\n\nlayer factor = gradient of the\nsequence of layers: the\n0 The\n0 Incorrect\ncurve, falling to the outside: good\nlayer factor= gradient of the curve,\nuphill to the outside: condensation\ninside the building element\n\nmbar\n\n25\n20\n\n10\n\ne\n\nVapour barrier on cold side:\ncondensation in building element\n\n472\n\nCondensation occurs where the actual water vapour content\nthreatens to become more than that possible for the temperature.\nIn the examples --> 0 - 0 the building element including its\nsurface air films is shown to a scale according to its insulation; the\ncurved line is the curve of the maximum possible partial vapour\npressure, which is determined by the straight temperature curve.\nThe following are important to avoid damage:\n\nmbar\n\n20\n\nBS EN ISO 9229\nBS EN ISO\n13370\nBS EN ISO\n13790\nDIN 4108\nDIN EN ISO 6946\nDIN EN 12524\n\npartial vapour pressure are then only dffferent contents of water vapour molecules at the\nsame overall (air) pressure.\nDifferent partial vapour pressures attempt to equalise through diffusion (by wandering\nthrough the building elements and their layers). The layers of the building element oppose\nthis with their diffusion resistance; this gives the thickness of the air layer, which would\nhave the same diffusion resistance as the building element; it is calculated as the product\nof the layer thickness d (em, m) and the material-specific vapour resistivity m. Under\ndiffusion, a partial vapour pressure gradient is set up inside the building element; as with\nthe temperature distribution in the building element, this gradient is distributed among the\nindividual layers ofthe building element according to their proportion of its overall diffusion\nresistance. The surface air film layers in this case can be neglected on account of their lack\nof thickness (outside 0.5, inside 2 em). (Example; inside 20•/50% C = 11.7 mbar, outside\n-15'/18% = 1.3 mbar, difference 10.4 mbar. Wall (24 em extruded clay block): m x d =4.5\nx24= 108 em. Internal plaster(1.0 em); mx d =6 x 1.0=6 em. 108 +6= 114 em (100%)\n(108 em= 94.7% =9.8 mbar, 6 em =5.3% =0.6 mbar)\n\nDiffusion examples\nIn order to avoid damage to buildings, condensation in building\nelements should be avoided.\n\ninsulation\n\nSound insulation\nRoom acoustics\nLightning\nprotection\n\ndescribe the water vapour content of the air (-> f)) because this enables considerations\nabout diffusion to be illustrated more clearly (0.6 mbar = 1 g water/kg air). Differences of\n\n4Ii) Calculation of partial vapour pressure\n\n15\n\nBUILDING\nPHYSICS\n\nWater vapour diffusion\nThe air in a room, and also the air in general, contain water in the\nform of water vapour. The quantity of water in the air, depending on\ntemperature, is called the relative humidity. It is important to note that\nwarm air can absorb much more water vapour than cold air. The relative\nhumidity can therefore fluctuate greatly according to the temperature\nconditions, although the absolute quantity of water remains constant.\nFor the formation of condensation, an important factor is that the\nrelative air humidity increases with falling temperatures. In\nextreme cases, this can be so pronounced that the air is no longer\ncapable of holding the water in the form of vapour and it is then\ndeposited as condensation.\n\nvapour pressure) is created by water vapour. It is also advantageous to use this value to\nOutside\ntemperature\n(•C)\n-12\n-15\n-18\n\n25\n\nPartial water vapour pressure\nremains under the maximum\npossible; no condensation\n\nThermal Insulation\n\nThe atmospheric air pressure Is 1 bar or 1000 mbar (also called hecto-pascal). In a water\nvapour-air mixture, part of this pressure (called the partial water vapour pressure or partial\n\noutside\nmbar\n\ne\n\nBUILDING PHYSICS\n\nC) Vapour barrier on warm side\nprevents formation of condensation\n\nBut in example --> 0 condensation is formed on the inner face\nof the building element, because the proportion of the surface\nair film is too large. The surface air film cannot exceed a certain\nproportion X of the overall resistance I /U --> 8.\nCorrect sequence of layers\nThe gradient of the diffusion curve should be as steep as possible\non the inside and flat on the outside--> 0; otherwise, condensation\noccurs --> 0. This gradient is given by the layer factor jlA.: inside,\nhigh water vapour resistance factor, good thermal conductivity =\nhigh layer factor flA.: outside, low water vapour resistance factor,\nlow thermal conductivity = low layer factor il\"-·\nVapour barrier at the correct location\nIf there is a vapour barrier on the outside, then the entire vapour\npressure gradient occurs there and the result is condensation--. 0;\nif this is to be avoided, then a vapour barrier must be installed on the\nwarm side with an equivalent diffusion resistance suitable for the\nlocation, in which case the layers in front of the vapour barrier must\nnot exceed a certain proportion of the overall thermal resistance\n1/U -->0.\n\n\f"
+        },
+        {
+          "label": "Maximum partial vapour pressure of air",
+          "value": 26.9,
+          "value_max": 323.0,
+          "unit": "kp/m²",
+          "context": "Values shown in the maximum partial vapour pressure table, across its listed temperature rows.",
+          "status": "verified",
+          "ocr_raw": "Max. partial vapour\npressure of air (kp/m2)\n26.9\n40.9\n62.3\n88.9\n125.2\n173.9\n238.1\n323.0"
+        }
+      ],
+      "figure_refs": [
+        "Figure 1: Dew point temperatures of air, depending on air temperature and relative humidity",
+        "Figure 2: Partial vapour pressure of air",
+        "Figure 3: Max. proportion of the surface air film or up to the vapour limit ('X')",
+        "Figure 4: Partial water vapour pressure remains under the maximum possible; no condensation",
+        "Figure 5: Too great a proportion of surface air film due to too little insulation; condensation at and in building element",
+        "Figure 6: Layer factor and correct curve gradient",
+        "Figure 7: Incorrect sequence of layers; condensation inside the building element",
+        "Figure 8: Vapour barrier on cold side; condensation in building element",
+        "Figure 9: Vapour barrier on warm side prevents formation of condensation",
+        "Figure 10: Calculation of partial vapour pressure"
+      ],
+      "cross_refs": [
+        "-> f)",
+        "-> 8",
+        "-> 4",
+        "-> 9",
+        "-> 5",
+        "-> 6",
+        "-> 7",
+        "-> 8",
+        "-> 9"
+      ],
+      "keywords": [
+        "water vapour diffusion",
+        "condensation",
+        "partial vapour pressure",
+        "relative humidity",
+        "dew point",
+        "thermal insulation",
+        "vapour barrier",
+        "diffusion resistance",
+        "surface air film"
+      ],
+      "tags_architectural": [
+        "safety",
+        "adaptability"
+      ],
+      "confidence": 0.9
+    }
+  ]
+}

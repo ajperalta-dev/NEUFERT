@@ -1,0 +1,721 @@
+{
+  "model": "gpt-6-luna",
+  "checks": {
+    "checks": [
+      {
+        "ficha_index": 0,
+        "dimension_index": 0,
+        "status": "verified",
+        "value": 15.0,
+        "value_max": null,
+        "reason": "The table visibly prints \u201cmin. 15\u201d under width (m)."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 1,
+        "status": "uncertain",
+        "value": 25.0,
+        "value_max": null,
+        "reason": "The table prints \u201c25 m\u00b2,\u201d an area unit, not a pool length in metres."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 2,
+        "status": "verified",
+        "value": 8.0,
+        "value_max": 10.0,
+        "reason": "The non-swimmers\u2019 pool widths are printed as 8.00 and 10.00 m."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 3,
+        "status": "verified",
+        "value": 12.5,
+        "value_max": 16.66,
+        "reason": "The corresponding lengths are printed as 12.50 and 16.66 m."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 4,
+        "status": "verified",
+        "value": 1.35,
+        "value_max": null,
+        "reason": "The table prints a maximum water depth of 1.35 m."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 5,
+        "status": "verified",
+        "value": 3.2,
+        "value_max": null,
+        "reason": "The ceiling-height entry is printed as 3.20 m."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 6,
+        "status": "verified",
+        "value": 8.0,
+        "value_max": 25.0,
+        "reason": "The combined-pool widths visibly run from 8.00 to 25.00 m."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 7,
+        "status": "verified",
+        "value": 25.0,
+        "value_max": 50.0,
+        "reason": "The combined-pool length entries visibly include 25.00 and 50.00 m."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 8,
+        "status": "verified",
+        "value": 0.3,
+        "value_max": 1.8,
+        "reason": "The table prints \u201cwith lifting floor: 0.30\u20131.80 m.\u201d"
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 9,
+        "status": "verified",
+        "value": 3.8,
+        "value_max": null,
+        "reason": "The diving-section depth is visibly printed as 3.80 m; additional printed alternatives do not alter this value."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 10,
+        "status": "verified",
+        "value": 25.0,
+        "value_max": 50.0,
+        "reason": "Swimmers\u2019 pool lengths visibly include 25.00/50.00 and 50.00 m."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 11,
+        "status": "verified",
+        "value": 4.0,
+        "value_max": null,
+        "reason": "The ceiling-height entry is printed as 4.00 m."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 12,
+        "status": "verified",
+        "value": 12.5,
+        "value_max": 25.0,
+        "reason": "The wave-pool widths visibly include 12.50, 16.66, and 21.00\u201325.00 m."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 13,
+        "status": "verified",
+        "value": 33.0,
+        "value_max": 50.0,
+        "reason": "The wave-pool plan visibly labels the length 33.00\u201350.00 m."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 14,
+        "status": "verified",
+        "value": 0.0,
+        "value_max": 0.3,
+        "reason": "The table prints initial water depth 0.00 m and, if a step is used, maximum 0.30 m."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 15,
+        "status": "verified",
+        "value": 4.0,
+        "value_max": null,
+        "reason": "The wave-pool ceiling-height entry is printed as 4.00 m."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 16,
+        "status": "verified",
+        "value": 25.0,
+        "value_max": null,
+        "reason": "Figure 2 caption visibly reads \u201cVariopool 25.00 m.\u201d"
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 17,
+        "status": "verified",
+        "value": 33.0,
+        "value_max": 50.0,
+        "reason": "Figure 3 visibly labels the plan length 33.00\u201350.00 m."
+      },
+      {
+        "ficha_index": 1,
+        "dimension_index": 0,
+        "status": "verified",
+        "value": 3.0,
+        "value_max": null,
+        "reason": "The pool-perimeter table prints 3.00 under width (m)."
+      },
+      {
+        "ficha_index": 1,
+        "dimension_index": 1,
+        "status": "verified",
+        "value": 2.5,
+        "value_max": null,
+        "reason": "The entrance-passage width is printed as 2.50 m."
+      },
+      {
+        "ficha_index": 1,
+        "dimension_index": 2,
+        "status": "verified",
+        "value": 3.0,
+        "value_max": null,
+        "reason": "The starting-block clearance is printed as 3.00 m."
+      },
+      {
+        "ficha_index": 1,
+        "dimension_index": 3,
+        "status": "verified",
+        "value": 4.5,
+        "value_max": null,
+        "reason": "The diving-facility perimeter width is printed as 4.50 m."
+      },
+      {
+        "ficha_index": 1,
+        "dimension_index": 4,
+        "status": "verified",
+        "value": 1.25,
+        "value_max": null,
+        "reason": "The note visibly specifies a minimum free passage of 1.25 m."
+      },
+      {
+        "ficha_index": 1,
+        "dimension_index": 5,
+        "status": "verified",
+        "value": 2.0,
+        "value_max": null,
+        "reason": "The paddling-pool access width is printed as 2.00 m."
+      },
+      {
+        "ficha_index": 1,
+        "dimension_index": 6,
+        "status": "verified",
+        "value": 2.5,
+        "value_max": null,
+        "reason": "The non-swimmers\u2019 pool steps-side width is printed as 2.50 m."
+      },
+      {
+        "ficha_index": 1,
+        "dimension_index": 7,
+        "status": "verified",
+        "value": 2.0,
+        "value_max": null,
+        "reason": "The non-swimmers\u2019 pool narrow-side width is printed as 2.00 m."
+      },
+      {
+        "ficha_index": 1,
+        "dimension_index": 8,
+        "status": "verified",
+        "value": 4.0,
+        "value_max": null,
+        "reason": "The pool-separation width is printed as 4.00 m."
+      },
+      {
+        "ficha_index": 1,
+        "dimension_index": 9,
+        "status": "verified",
+        "value": 3.0,
+        "value_max": null,
+        "reason": "The pool-separation width is printed as 3.00 m."
+      },
+      {
+        "ficha_index": 1,
+        "dimension_index": 10,
+        "status": "verified",
+        "value": 1.25,
+        "value_max": null,
+        "reason": "The minimum remaining width for water area under 300 m\u00b2 is printed as 1.25 m."
+      },
+      {
+        "ficha_index": 1,
+        "dimension_index": 11,
+        "status": "verified",
+        "value": 1.5,
+        "value_max": null,
+        "reason": "The minimum remaining width over 300 m\u00b2 is printed as 1.50 m."
+      },
+      {
+        "ficha_index": 1,
+        "dimension_index": 12,
+        "status": "verified",
+        "value": 6.0,
+        "value_max": null,
+        "reason": "The lifeguard\u2019s-room minimum area is printed as 6 m\u00b2."
+      },
+      {
+        "ficha_index": 1,
+        "dimension_index": 13,
+        "status": "verified",
+        "value": 8.0,
+        "value_max": null,
+        "reason": "The sanitary-room minimum area is printed as 8 m\u00b2."
+      },
+      {
+        "ficha_index": 1,
+        "dimension_index": 14,
+        "status": "verified",
+        "value": 15.0,
+        "value_max": null,
+        "reason": "The equipment-room minimum for up to 450 m\u00b2 water area is printed as 15 m\u00b2."
+      },
+      {
+        "ficha_index": 1,
+        "dimension_index": 15,
+        "status": "verified",
+        "value": 20.0,
+        "value_max": null,
+        "reason": "The equipment-room minimum for over 450 m\u00b2 water area is printed as 20 m\u00b2."
+      },
+      {
+        "ficha_index": 1,
+        "dimension_index": 16,
+        "status": "verified",
+        "value": 30.0,
+        "value_max": null,
+        "reason": "The lounge area for 6 swimming lanes is printed as 30 m\u00b2."
+      },
+      {
+        "ficha_index": 1,
+        "dimension_index": 17,
+        "status": "verified",
+        "value": 50.0,
+        "value_max": null,
+        "reason": "The lounge area for 8 swimming lanes is printed as 50 m\u00b2."
+      },
+      {
+        "ficha_index": 1,
+        "dimension_index": 18,
+        "status": "verified",
+        "value": 70.0,
+        "value_max": null,
+        "reason": "The lounge area for 10 swimming lanes is printed as 70 m\u00b2."
+      },
+      {
+        "ficha_index": 1,
+        "dimension_index": 19,
+        "status": "verified",
+        "value": 30.0,
+        "value_max": 60.0,
+        "reason": "Teaching and club area is printed as 30 up to 60 m\u00b2."
+      },
+      {
+        "ficha_index": 1,
+        "dimension_index": 20,
+        "status": "verified",
+        "value": 0.5,
+        "value_max": null,
+        "reason": "Spectator provision is printed as 0.5 seats per 1 m\u00b2 of water area used for sport."
+      },
+      {
+        "ficha_index": 1,
+        "dimension_index": 21,
+        "status": "verified",
+        "value": 0.5,
+        "value_max": null,
+        "reason": "Space per seat is printed as 0.5 m\u00b2."
+      },
+      {
+        "ficha_index": 1,
+        "dimension_index": 22,
+        "status": "verified",
+        "value": 0.025,
+        "value_max": null,
+        "reason": "Cloakroom space is printed as 0.025 m\u00b2 per 1 m\u00b2 of water area used for sport."
+      },
+      {
+        "ficha_index": 1,
+        "dimension_index": 23,
+        "status": "verified",
+        "value": 5.0,
+        "value_max": 20.0,
+        "reason": "Press and television places are printed as 5\u201320."
+      },
+      {
+        "ficha_index": 1,
+        "dimension_index": 24,
+        "status": "verified",
+        "value": 4.0,
+        "value_max": 6.0,
+        "reason": "Required press and television places are printed as 4\u20136."
+      },
+      {
+        "ficha_index": 1,
+        "dimension_index": 25,
+        "status": "verified",
+        "value": 0.5,
+        "value_max": 0.8,
+        "reason": "Vending-machine space is printed as 0.5\u20130.8 m\u00b2."
+      },
+      {
+        "ficha_index": 1,
+        "dimension_index": 26,
+        "status": "verified",
+        "value": 50.0,
+        "value_max": null,
+        "reason": "The seated catering area is printed as a minimum of 50 seats."
+      },
+      {
+        "ficha_index": 1,
+        "dimension_index": 27,
+        "status": "verified",
+        "value": 1.0,
+        "value_max": 2.0,
+        "reason": "The printed requirement is 1\u20132 m\u00b2 per seat."
+      },
+      {
+        "ficha_index": 1,
+        "dimension_index": 28,
+        "status": "verified",
+        "value": 60.0,
+        "value_max": null,
+        "reason": "Cafe subsidiary rooms are printed as approximately 60% of seating area."
+      },
+      {
+        "ficha_index": 1,
+        "dimension_index": 29,
+        "status": "verified",
+        "value": 100.0,
+        "value_max": null,
+        "reason": "Restaurant subsidiary rooms are printed as approximately 100% of seating area."
+      },
+      {
+        "ficha_index": 1,
+        "dimension_index": 30,
+        "status": "verified",
+        "value": 20.0,
+        "value_max": 25.0,
+        "reason": "Stores and cool room are printed as 20\u201325%."
+      },
+      {
+        "ficha_index": 1,
+        "dimension_index": 31,
+        "status": "verified",
+        "value": 15.0,
+        "value_max": 20.0,
+        "reason": "Empty packaging is printed as 15\u201320%."
+      },
+      {
+        "ficha_index": 1,
+        "dimension_index": 32,
+        "status": "verified",
+        "value": 1.0,
+        "value_max": null,
+        "reason": "The services-area allowance is printed as up to 1 m\u00b2 per 1 m\u00b2 planned water area."
+      },
+      {
+        "ficha_index": 1,
+        "dimension_index": 33,
+        "status": "verified",
+        "value": 30.0,
+        "value_max": null,
+        "reason": "The text prints a possible reduction of up to 30%."
+      }
+    ]
+  },
+  "automatic": [
+    {
+      "ficha_index": 0,
+      "dimension_index": 0,
+      "issues": []
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 1,
+      "issues": []
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 2,
+      "issues": []
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 3,
+      "issues": []
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 4,
+      "issues": []
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 5,
+      "issues": []
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 6,
+      "issues": []
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 7,
+      "issues": []
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 8,
+      "issues": []
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 9,
+      "issues": []
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 10,
+      "issues": []
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 11,
+      "issues": []
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 12,
+      "issues": []
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 13,
+      "issues": []
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 14,
+      "issues": [
+        "Plausibility limit; visual review required"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 15,
+      "issues": []
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 16,
+      "issues": []
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 17,
+      "issues": []
+    },
+    {
+      "ficha_index": 1,
+      "dimension_index": 0,
+      "issues": []
+    },
+    {
+      "ficha_index": 1,
+      "dimension_index": 1,
+      "issues": []
+    },
+    {
+      "ficha_index": 1,
+      "dimension_index": 2,
+      "issues": []
+    },
+    {
+      "ficha_index": 1,
+      "dimension_index": 3,
+      "issues": []
+    },
+    {
+      "ficha_index": 1,
+      "dimension_index": 4,
+      "issues": []
+    },
+    {
+      "ficha_index": 1,
+      "dimension_index": 5,
+      "issues": []
+    },
+    {
+      "ficha_index": 1,
+      "dimension_index": 6,
+      "issues": []
+    },
+    {
+      "ficha_index": 1,
+      "dimension_index": 7,
+      "issues": []
+    },
+    {
+      "ficha_index": 1,
+      "dimension_index": 8,
+      "issues": []
+    },
+    {
+      "ficha_index": 1,
+      "dimension_index": 9,
+      "issues": []
+    },
+    {
+      "ficha_index": 1,
+      "dimension_index": 10,
+      "issues": []
+    },
+    {
+      "ficha_index": 1,
+      "dimension_index": 11,
+      "issues": []
+    },
+    {
+      "ficha_index": 1,
+      "dimension_index": 12,
+      "issues": []
+    },
+    {
+      "ficha_index": 1,
+      "dimension_index": 13,
+      "issues": []
+    },
+    {
+      "ficha_index": 1,
+      "dimension_index": 14,
+      "issues": []
+    },
+    {
+      "ficha_index": 1,
+      "dimension_index": 15,
+      "issues": []
+    },
+    {
+      "ficha_index": 1,
+      "dimension_index": 16,
+      "issues": []
+    },
+    {
+      "ficha_index": 1,
+      "dimension_index": 17,
+      "issues": []
+    },
+    {
+      "ficha_index": 1,
+      "dimension_index": 18,
+      "issues": []
+    },
+    {
+      "ficha_index": 1,
+      "dimension_index": 19,
+      "issues": []
+    },
+    {
+      "ficha_index": 1,
+      "dimension_index": 20,
+      "issues": [
+        "Unknown unit"
+      ]
+    },
+    {
+      "ficha_index": 1,
+      "dimension_index": 21,
+      "issues": []
+    },
+    {
+      "ficha_index": 1,
+      "dimension_index": 22,
+      "issues": [
+        "Unknown unit"
+      ]
+    },
+    {
+      "ficha_index": 1,
+      "dimension_index": 23,
+      "issues": [
+        "Unknown unit"
+      ]
+    },
+    {
+      "ficha_index": 1,
+      "dimension_index": 24,
+      "issues": [
+        "Unknown unit"
+      ]
+    },
+    {
+      "ficha_index": 1,
+      "dimension_index": 25,
+      "issues": []
+    },
+    {
+      "ficha_index": 1,
+      "dimension_index": 26,
+      "issues": [
+        "Unknown unit"
+      ]
+    },
+    {
+      "ficha_index": 1,
+      "dimension_index": 27,
+      "issues": [
+        "Unknown unit"
+      ]
+    },
+    {
+      "ficha_index": 1,
+      "dimension_index": 28,
+      "issues": [
+        "Unknown unit"
+      ]
+    },
+    {
+      "ficha_index": 1,
+      "dimension_index": 29,
+      "issues": [
+        "Unknown unit"
+      ]
+    },
+    {
+      "ficha_index": 1,
+      "dimension_index": 30,
+      "issues": [
+        "Unknown unit"
+      ]
+    },
+    {
+      "ficha_index": 1,
+      "dimension_index": 31,
+      "issues": [
+        "Unknown unit"
+      ]
+    },
+    {
+      "ficha_index": 1,
+      "dimension_index": 32,
+      "issues": [
+        "Unknown unit"
+      ]
+    },
+    {
+      "ficha_index": 1,
+      "dimension_index": 33,
+      "issues": [
+        "Unknown unit"
+      ]
+    }
+  ],
+  "usage": [
+    {
+      "prompt_tokens": 5123,
+      "completion_tokens": 3939
+    },
+    {
+      "prompt_tokens": 8026,
+      "completion_tokens": 2466
+    }
+  ]
+}

@@ -1,0 +1,394 @@
+{
+  "fichas": [
+    {
+      "id": "4122fb96e4bd1976-255-vision-0",
+      "pdf_page": 255,
+      "book_page": 242,
+      "chapter": "ADMINISTRATION AND OFFICES",
+      "section": "Office Buildings",
+      "title": "Storey heights and building services",
+      "summary": "Compares office storey heights according to installation requirements, from low-installation buildings without suspended ceilings to air-conditioned offices with ceiling voids and corridor ducts. A separate example describes a 3.00 m ceiling height requiring a taller storey to accommodate crossing ventilation ducts.",
+      "building_type": "Office building",
+      "spaces": [
+        "Office",
+        "Corridor",
+        "Ceiling void"
+      ],
+      "uses": [
+        "Accommodating building services",
+        "Routing ventilation ducts, cables, heating and water pipework",
+        "Providing office ceiling height"
+      ],
+      "furniture_equipment": [],
+      "dimensions": [
+        {
+          "label": "Storey height, low degree of installation",
+          "value": 3.0,
+          "value_max": 3.1,
+          "unit": "m",
+          "context": "Building with a low degree of installation and no suspended ceilings.",
+          "status": "uncertain",
+          "ocr_raw": "Storey height 3.00/3.10 m"
+        },
+        {
+          "label": "Storey height, installation requirements without ventilation system",
+          "value": 3.4,
+          "value_max": null,
+          "unit": "m",
+          "context": "Ceiling void contains electric cables and heating and water pipework; installation ducts are in the corridor.",
+          "status": "uncertain",
+          "ocr_raw": "Storey height 3.40 m; In the ceiling void (h =32 em)"
+        },
+        {
+          "label": "Ceiling void height",
+          "value": 32.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Installation zone in the 3.40 m storey-height example.",
+          "status": "uncertain",
+          "ocr_raw": "h =32 em"
+        },
+        {
+          "label": "Storey height, air-conditioning system",
+          "value": 3.7,
+          "value_max": null,
+          "unit": "m",
+          "context": "Air-conditioned office; the text recommends a minimum ceiling void and places ducts along the corridor.",
+          "status": "uncertain",
+          "ocr_raw": "Storey height 3. 70 m; A ceiling void of min. 50 em is recommended"
+        },
+        {
+          "label": "Minimum ceiling void",
+          "value": 50.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Recommended for air-conditioned offices.",
+          "status": "uncertain",
+          "ocr_raw": "A ceiling void of min. 50 em"
+        },
+        {
+          "label": "Storey height for crossing ventilation ducts",
+          "value": 4.2,
+          "value_max": null,
+          "unit": "m",
+          "context": "Office with 3.00 m ceiling height; crossing ventilation ducts require this approximate storey height.",
+          "status": "uncertain",
+          "ocr_raw": "Storey height 4.20 m; Office with 3.00 m ceiling height. Crossing ventilation ducts require a storey height of approx. 4.20 m."
+        },
+        {
+          "label": "Office ceiling height",
+          "value": 3.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Ceiling height in the example requiring a storey height of approximately 4.20 m.",
+          "status": "uncertain",
+          "ocr_raw": "Office with 3.00 m ceiling height."
+        }
+      ],
+      "figure_refs": [
+        "1"
+      ],
+      "cross_refs": [
+        "Daylight, pp. 485 ff."
+      ],
+      "keywords": [
+        "storey height",
+        "building services",
+        "ceiling void",
+        "ventilation ducts",
+        "installation zone"
+      ],
+      "tags_architectural": [
+        "spatial_proportion",
+        "circulation"
+      ],
+      "confidence": 0.97
+    },
+    {
+      "id": "4122fb96e4bd1976-255-vision-1",
+      "pdf_page": 255,
+      "book_page": 242,
+      "chapter": "ADMINISTRATION AND OFFICES",
+      "section": "Office Buildings",
+      "title": "Alternatives to conventional office air conditioning",
+      "summary": "Illustrates alternatives using the bare ceiling slab as a heat buffer, including night-time cooling, underfloor convectors, and cooling convectors in cupboards. The text discusses energy use, thermal regulation, and the relationship between air-conditioned building volume and construction costs.",
+      "building_type": "Office building",
+      "spaces": [
+        "Office",
+        "Corridor",
+        "Cupboard"
+      ],
+      "uses": [
+        "Heating and cooling offices",
+        "Using building elements as heat buffers",
+        "Reducing energy consumption and service cross-sections"
+      ],
+      "furniture_equipment": [
+        "Underfloor convectors",
+        "Cooling convectors",
+        "Heating and cooling pipework",
+        "Ventilation ducts"
+      ],
+      "dimensions": [
+        {
+          "label": "Gross built volume and construction costs relative to buildings without air conditioning",
+          "value": 1.3,
+          "value_max": 1.5,
+          "unit": "times",
+          "context": "The text compares air-conditioned buildings with buildings without air conditioning.",
+          "status": "uncertain",
+          "ocr_raw": "The gross built volume and the total construction costs for air-conditioned buildings are 1 .3-1 .5 times higher than for buildings without air conditioning"
+        }
+      ],
+      "figure_refs": [
+        "2"
+      ],
+      "cross_refs": [],
+      "keywords": [
+        "air conditioning",
+        "gentle cooling",
+        "heat buffer",
+        "building element activation",
+        "energy consumption"
+      ],
+      "tags_architectural": [
+        "adaptability",
+        "daylighting",
+        "ventilation"
+      ],
+      "confidence": 0.95
+    },
+    {
+      "id": "4122fb96e4bd1976-255-vision-2",
+      "pdf_page": 255,
+      "book_page": 242,
+      "chapter": "ADMINISTRATION AND OFFICES",
+      "section": "Office Buildings",
+      "title": "Floor installation and floor construction",
+      "summary": "Table relates floor construction types and thicknesses above the slab to duct arrangements and distribution. It includes bonded screed, raised floor, and cavity floor options.",
+      "building_type": "Office building",
+      "spaces": [
+        "Office floor",
+        "Floor construction zone"
+      ],
+      "uses": [
+        "Routing floor services",
+        "Distributing services above or below the floor",
+        "Selecting floor construction according to installation requirements"
+      ],
+      "furniture_equipment": [
+        "Open ducts",
+        "Underfloor distribution",
+        "Raised floor",
+        "Cavity floor",
+        "Screed"
+      ],
+      "dimensions": [
+        {
+          "label": "Floor construction thickness above slab",
+          "value": 30.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Bonded screed; open duct with distribution above floor.",
+          "status": "uncertain",
+          "ocr_raw": "30 open duct with distribution above floor"
+        },
+        {
+          "label": "Floor construction thickness above slab",
+          "value": 55.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Bonded screed; duct under the screed with distribution above floor.",
+          "status": "uncertain",
+          "ocr_raw": "55 duct under the screed with distribution above floor"
+        },
+        {
+          "label": "Floor construction thickness above slab",
+          "value": 70.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Bonded screed; open duct with underfloor distribution, or duct under screed with underfloor distribution; also shown for raised floor with underfloor distribution.",
+          "status": "uncertain",
+          "ocr_raw": "70 open duct with underfloor distribution; duct under screed with underfloor distribution; 70 raised floor with underfloor distribution"
+        },
+        {
+          "label": "Floor construction thickness above slab",
+          "value": 70.0,
+          "value_max": 1000.0,
+          "unit": "mm",
+          "context": "Cavity floor with underfloor distribution.",
+          "status": "uncertain",
+          "ocr_raw": "70–1000 cavity floor with underfloor distribution"
+        }
+      ],
+      "figure_refs": [
+        "3"
+      ],
+      "cross_refs": [],
+      "keywords": [
+        "floor installation",
+        "floor construction",
+        "duct type",
+        "underfloor distribution",
+        "raised floor"
+      ],
+      "tags_architectural": [
+        "adaptability",
+        "modularity"
+      ],
+      "confidence": 0.91
+    },
+    {
+      "id": "4122fb96e4bd1976-255-vision-3",
+      "pdf_page": 255,
+      "book_page": 242,
+      "chapter": "ADMINISTRATION AND OFFICES",
+      "section": "Office Buildings",
+      "title": "Ventilation requirements, air-conditioning guidance, and element lifetimes",
+      "summary": "Provides fresh-air requirements for office occupants under different ventilation guidance and occupant conditions, states a recommended room-temperature range, and compares the lifetimes of building elements. The accompanying text discusses air-conditioning energy costs and strategies for reducing energy consumption.",
+      "building_type": "Office building",
+      "spaces": [
+        "Office",
+        "Director's room"
+      ],
+      "uses": [
+        "Sizing office ventilation",
+        "Setting room-temperature guidance",
+        "Informing building-element service-life planning"
+      ],
+      "furniture_equipment": [
+        "Ventilation system",
+        "Air-conditioning system"
+      ],
+      "dimensions": [
+        {
+          "label": "Fresh air per person",
+          "value": 10.0,
+          "value_max": null,
+          "unit": "m³/h per person",
+          "context": "According to the VDI ventilation rule; non-smoker with air heating, under 0°C outside temperature.",
+          "status": "uncertain",
+          "ocr_raw": "Fresh air m³/h per person 10; non-smoker with air heating, under 0°C outside temperature"
+        },
+        {
+          "label": "Fresh air per person",
+          "value": 10.0,
+          "value_max": 27.0,
+          "unit": "m³/h per person",
+          "context": "According to the VDI ventilation rule; non-smoker.",
+          "status": "uncertain",
+          "ocr_raw": "10–27 non-smoker"
+        },
+        {
+          "label": "Fresh air per person",
+          "value": 20.0,
+          "value_max": 30.0,
+          "unit": "m³/h per person",
+          "context": "According to the USASRE guideline; office, non-smoker.",
+          "status": "uncertain",
+          "ocr_raw": "20–30; office non-smoker"
+        },
+        {
+          "label": "Fresh air per person",
+          "value": 26.0,
+          "value_max": 34.0,
+          "unit": "m³/h per person",
+          "context": "According to the VDI ventilation rule; non-smoker.",
+          "status": "uncertain",
+          "ocr_raw": "26–34 non-smoker"
+        },
+        {
+          "label": "Fresh air per person",
+          "value": 30.0,
+          "value_max": 40.0,
+          "unit": "m³/h per person",
+          "context": "According to the USASRE guideline; office, smoker.",
+          "status": "uncertain",
+          "ocr_raw": "30–40; office smoker"
+        },
+        {
+          "label": "Fresh air per person",
+          "value": 34.0,
+          "value_max": 51.0,
+          "unit": "m³/h per person",
+          "context": "According to the VDI ventilation rule; smoker.",
+          "status": "uncertain",
+          "ocr_raw": "34–51 smoker"
+        },
+        {
+          "label": "Fresh air per person",
+          "value": 51.0,
+          "value_max": 68.0,
+          "unit": "m³/h per person",
+          "context": "According to the VDI ventilation rule; smoker.",
+          "status": "uncertain",
+          "ocr_raw": "51–68 smoker"
+        },
+        {
+          "label": "Room temperature",
+          "value": 19.0,
+          "value_max": 26.0,
+          "unit": "°C",
+          "context": "Stated minimum and maximum room temperature in the air-conditioning text.",
+          "status": "uncertain",
+          "ocr_raw": "The room temperature should be min. 19°C and max. 26°C"
+        },
+        {
+          "label": "Structure lifetime",
+          "value": 50.0,
+          "value_max": null,
+          "unit": "years",
+          "context": "Lifetime table for building elements.",
+          "status": "uncertain",
+          "ocr_raw": "structure 50 years"
+        },
+        {
+          "label": "Building envelope lifetime",
+          "value": 20.0,
+          "value_max": null,
+          "unit": "years",
+          "context": "Lifetime table for building elements.",
+          "status": "uncertain",
+          "ocr_raw": "building envelope 20 years"
+        },
+        {
+          "label": "Building services lifetime",
+          "value": 7.0,
+          "value_max": 15.0,
+          "unit": "years",
+          "context": "Lifetime table for building elements.",
+          "status": "uncertain",
+          "ocr_raw": "building services 7–15 years"
+        },
+        {
+          "label": "Finishings lifetime",
+          "value": 5.0,
+          "value_max": 7.0,
+          "unit": "years",
+          "context": "Lifetime table for building elements.",
+          "status": "uncertain",
+          "ocr_raw": "finishings 5–7 years"
+        }
+      ],
+      "figure_refs": [
+        "4",
+        "5"
+      ],
+      "cross_refs": [
+        "Gentle cooling, figs. 2–3"
+      ],
+      "keywords": [
+        "ventilation requirement",
+        "fresh air",
+        "room temperature",
+        "air-conditioning costs",
+        "building-element lifetime"
+      ],
+      "tags_architectural": [
+        "ventilation",
+        "safety"
+      ],
+      "confidence": 0.88
+    }
+  ]
+}

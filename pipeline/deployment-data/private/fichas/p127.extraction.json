@@ -1,0 +1,238 @@
+{
+  "fichas": [
+    {
+      "id": "4122fb96e4bd1976-127-vision-0",
+      "pdf_page": 127,
+      "book_page": 114,
+      "chapter": "BUILDING COMPONENTS",
+      "section": "Doors",
+      "title": "Doors: standard dimensions and frame construction",
+      "summary": "The sheet presents preferred modular wall-opening sizes for doors, a table comparing wall openings, door-panel dimensions and clear openings, and construction details for different door linings and frames. Modular dimensions for exceptional openings should be whole multiples of 125 mm, or 100 mm according to British Standards. Frame thickness and placement affect the clear opening; a shadow joint is recommended to help maintain the wall-to-frame junction over time.",
+      "building_type": "Door and door-frame construction",
+      "spaces": [
+        "Door openings",
+        "Wall openings"
+      ],
+      "uses": [
+        "Selecting modular door-opening sizes",
+        "Coordinating door panels, frames and clear openings",
+        "Detailing door linings and frame-to-wall junctions"
+      ],
+      "furniture_equipment": [
+        "Door panels",
+        "Rebated frames and linings",
+        "Architraves",
+        "One-piece steel door linings",
+        "Shadow-joint linings",
+        "Jamb-mounted frames",
+        "Integrated plaster beads"
+      ],
+      "dimensions": [
+        {
+          "label": "Exceptional modular wall-opening increment",
+          "value": 125.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Recommended whole-multiple increment for exceptional dimensions; British Standards alternative is 100 mm.",
+          "status": "uncertain",
+          "ocr_raw": "whole multiples of 125 mm (100 mm according to British Standards)"
+        },
+        {
+          "label": "British Standards modular wall-opening increment",
+          "value": 100.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Alternative whole-multiple increment for exceptional wall-opening dimensions according to British Standards.",
+          "status": "uncertain",
+          "ocr_raw": "whole multiples of 125 mm (100 mm according to British Standards)"
+        },
+        {
+          "label": "Example wall-opening width",
+          "value": 875.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Example modular wall opening; DIN 18100 designation gives 875 × 2000.",
+          "status": "uncertain",
+          "ocr_raw": "A wall opening with 875 mm width and 2000 mm height (modular dimensions) can be described as: wall opening DIN 18100 – 875 x 2000."
+        },
+        {
+          "label": "Example wall-opening height",
+          "value": 2000.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Example modular wall opening; DIN 18100 designation gives 875 × 2000.",
+          "status": "uncertain",
+          "ocr_raw": "A wall opening with 875 mm width and 2000 mm height (modular dimensions) can be described as: wall opening DIN 18100 – 875 x 2000."
+        },
+        {
+          "label": "Preferred modular wall-opening widths shown",
+          "value": 625.0,
+          "value_max": 2500.0,
+          "unit": "mm",
+          "context": "Width values shown across the modular-opening diagram; intermediate printed values include 750, 875, 1000, 1125, 1250, 1750 and 2000 mm.",
+          "status": "uncertain",
+          "ocr_raw": "625 750 875 1000 1125 1250 1750 2000 2500"
+        },
+        {
+          "label": "Preferred modular wall-opening heights shown",
+          "value": 1875.0,
+          "value_max": 2500.0,
+          "unit": "mm",
+          "context": "Height values shown on the modular-opening diagram; intermediate printed values include 2000, 2125 and 2250 mm.",
+          "status": "uncertain",
+          "ocr_raw": "1875 2000 2125 2250 2500"
+        },
+        {
+          "label": "Wall-opening table width, variant 1",
+          "value": 875.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Standard modular building dimension; wall opening for door, variant 1.",
+          "status": "uncertain",
+          "ocr_raw": "1 875 1875 860 0 834 1847 841 1858"
+        },
+        {
+          "label": "Wall-opening table height, variant 1",
+          "value": 1875.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Standard modular building dimension; wall opening for door, variant 1.",
+          "status": "uncertain",
+          "ocr_raw": "1 875 1875 860 0 834 1847 841 1858"
+        },
+        {
+          "label": "Wall-opening table width, variant 2",
+          "value": 625.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Standard modular building dimension; wall opening for door, variant 2.",
+          "status": "uncertain",
+          "ocr_raw": "2 625 2000 610 1985 584 1972 591 1983"
+        },
+        {
+          "label": "Wall-opening table height, variants 2–5",
+          "value": 2000.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Standard modular building dimension; wall-opening height for variants 2–5.",
+          "status": "uncertain",
+          "ocr_raw": "2 625 2000 610 1985 584 1972 591 1983; 3 750 2000; 4 875 2000; 5 1000 2000"
+        },
+        {
+          "label": "Wall-opening table width, variant 3",
+          "value": 750.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Standard modular building dimension; wall opening for door, variant 3.",
+          "status": "uncertain",
+          "ocr_raw": "3 750 2000 735 1985 709 1972 716 1983"
+        },
+        {
+          "label": "Wall-opening table width, variant 4",
+          "value": 875.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Standard modular building dimension; wall opening for door, variant 4.",
+          "status": "uncertain",
+          "ocr_raw": "4 875 2000 860 1985 834 1972 841 1983"
+        },
+        {
+          "label": "Wall-opening table width, variant 5",
+          "value": 1000.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Standard modular building dimension; wall opening for door, variant 5.",
+          "status": "uncertain",
+          "ocr_raw": "5 1000 2000 985 1985 959 1972 966 1983"
+        },
+        {
+          "label": "Wall-opening table width, variant 6",
+          "value": 750.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Standard modular building dimension; wall opening for door, variant 6.",
+          "status": "uncertain",
+          "ocr_raw": "6 750 2125 735 2110 709 2097 716 2108"
+        },
+        {
+          "label": "Wall-opening table height, variants 6–9",
+          "value": 2125.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Standard modular building dimension; wall-opening height for variants 6–9.",
+          "status": "uncertain",
+          "ocr_raw": "6 750 2125 735 2110 709 2097 716 2108; 7 875 2125; 8 1000 2125; 9 1125 2125"
+        },
+        {
+          "label": "Wall-opening table width, variant 7",
+          "value": 875.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Standard modular building dimension; wall opening for door, variant 7.",
+          "status": "uncertain",
+          "ocr_raw": "7 875 2125 860 2110 834 2097 841 2108"
+        },
+        {
+          "label": "Wall-opening table width, variant 8",
+          "value": 1000.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Standard modular building dimension; wall opening for door, variant 8.",
+          "status": "uncertain",
+          "ocr_raw": "8 1000 2125 985 2110 959 2097 966 2108"
+        },
+        {
+          "label": "Wall-opening table width, variant 9",
+          "value": 1125.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Standard modular building dimension; wall opening for door, variant 9.",
+          "status": "uncertain",
+          "ocr_raw": "9 1125 2125 1110 2110 1084 2097 1091 2108"
+        }
+      ],
+      "figure_refs": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11"
+      ],
+      "cross_refs": [
+        "DIN 18100 – 875 x 2000",
+        "BS 4787-1",
+        "BS 6375",
+        "BS 8213",
+        "BS EN 14220/1",
+        "BS EN 14351",
+        "DIN 4172",
+        "DIN 18111"
+      ],
+      "keywords": [
+        "doors",
+        "modular wall openings",
+        "standard dimensions",
+        "door-panel dimensions",
+        "clear opening",
+        "rebated frame",
+        "door lining",
+        "shadow joint",
+        "architrave",
+        "DIN 18100",
+        "BS 4787-1"
+      ],
+      "tags_architectural": [
+        "circulation",
+        "clearance",
+        "modularity"
+      ],
+      "confidence": 0.91
+    }
+  ]
+}

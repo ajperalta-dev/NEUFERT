@@ -1,0 +1,246 @@
+{
+  "fichas": [
+    {
+      "id": "4122fb96e4bd1976-526-vision-0",
+      "pdf_page": 526,
+      "book_page": 513,
+      "chapter": "BUILDING SERVICES",
+      "section": "Fire Protection",
+      "title": "Fire Compartment Walls",
+      "summary": "Fire compartment walls divide buildings into fire compartments and protect boundaries, openings, roof junctions, and building corners. The page describes their required fire resistance, construction, extent, placement, and minimum thicknesses for single-skin and two-skin wall materials.",
+      "building_type": "Buildings requiring fire compartmentation",
+      "spaces": [
+        "Fire compartments",
+        "External walls",
+        "Building boundaries",
+        "Building corners",
+        "Roof junctions"
+      ],
+      "uses": [
+        "Separate fire compartments",
+        "Protect party walls and building boundaries",
+        "Limit fire spread through walls and roof junctions",
+        "Provide fire-resistant separation at openings"
+      ],
+      "furniture_equipment": [
+        "Fireproof self-closing doors or gates",
+        "Fireproof slab"
+      ],
+      "dimensions": [
+        {
+          "label": "Distance from plot boundary",
+          "value": 2.5,
+          "value_max": null,
+          "unit": "m",
+          "context": "External wall requires a fire compartment wall when less than this distance from the plot boundary.",
+          "status": "uncertain",
+          "ocr_raw": "less than 2.50 m from the plot boundary"
+        },
+        {
+          "label": "Maximum fire compartment extent",
+          "value": 40.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Larger buildings are subdivided into fire compartments of not more than this extent.",
+          "status": "uncertain",
+          "ocr_raw": "not more than 40 m"
+        },
+        {
+          "label": "Fire resistance rating",
+          "value": 90.0,
+          "value_max": null,
+          "unit": "min",
+          "context": "Fire compartment walls are specified as F 90A; penetrating cables and pipes require a 90-minute fire resistance class.",
+          "status": "uncertain",
+          "ocr_raw": "(F 90A) ... 90 min fire resistance class"
+        },
+        {
+          "label": "Wall extension above roof",
+          "value": 30.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Normal minimum extension above the roof; the page also specifies a larger minimum for soft roof coverings and industrial buildings.",
+          "status": "uncertain",
+          "ocr_raw": "min. 30 cm above the roof"
+        },
+        {
+          "label": "Wall extension above roof for specified cases",
+          "value": 50.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Minimum above roof for soft roof covering and in industrial buildings.",
+          "status": "uncertain",
+          "ocr_raw": "min. 50 cm for a soft roof covering and in industrial buildings"
+        },
+        {
+          "label": "Internal-corner separation",
+          "value": 5.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Fire compartment wall arrangement: locate at least this distance from internal corners, or extend into an internal corner by at least this distance to both sides or one side, according to the illustrated variants.",
+          "status": "uncertain",
+          "ocr_raw": "Arrange fire compartment wall ≥ 5 m from internal corners; Extend fire compartment wall in an internal corner by ≥ 5 m to both sides (variant 1); Extend fire compartment wall to one side by ≥5 m (variant 2); Extend fire compartment wall to both sides"
+        },
+        {
+          "label": "Distance from external corner",
+          "value": 40.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Fire compartment wall location shown in the building-corner layout diagram.",
+          "status": "uncertain",
+          "ocr_raw": "Fire compartment wall is to be located ≤40 m from the external corner"
+        },
+        {
+          "label": "Maximum projection angle",
+          "value": 120.0,
+          "value_max": null,
+          "unit": "degrees",
+          "context": "Fire compartment wall must not project at an angle over this limit.",
+          "status": "uncertain",
+          "ocr_raw": "must not project at an angle over 120°"
+        },
+        {
+          "label": "Masonry wall minimum thickness, single-skin",
+          "value": 240.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "According to DIN 1053-1, mortar group II, IIa, III or IIIa; bricks according to DIN 105-1, bulk density class ≥1.4. Two-skin entry is 2 × 175 mm.",
+          "status": "uncertain",
+          "ocr_raw": "bulk density class ≥1.4 240 2 × 175"
+        },
+        {
+          "label": "Masonry wall minimum thickness, single-skin",
+          "value": 300.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "According to DIN 1053-1, mortar group II, IIa, III or IIIa; bricks according to DIN 105-1, bulk density class ≥1.0. Two-skin entry is 2 × 175 mm.",
+          "status": "uncertain",
+          "ocr_raw": "bulk density class ≥1.0 300 2 × 175"
+        },
+        {
+          "label": "Calcium silicate block wall minimum thickness, single-skin",
+          "value": 240.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "DIN 106-1, 1 A1, 2; bulk density class ≥1.8. Two-skin entry is 2 × 175 mm.",
+          "status": "uncertain",
+          "ocr_raw": "calcium silicate blocks according to DIN 106-1, 1 A1, 2 of bulk density class ≥1.8 240 2 × 175"
+        },
+        {
+          "label": "Pre-cast cored brick panel minimum thickness, single-skin",
+          "value": 165.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Pre-cast brick components according to DIN 1053-4, using vertically cored brick panels with fully mortared butt joints. Two-skin entry is 2 × 165 mm.",
+          "status": "uncertain",
+          "ocr_raw": "cored brick panels with fully mortared butt joints 165 2 × 165"
+        },
+        {
+          "label": "Pre-cast composite brick panel minimum thickness, single-skin",
+          "value": 240.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Composite panels with two skins of brick. Two-skin entry is 2 × 165 mm.",
+          "status": "uncertain",
+          "ocr_raw": "composite panels with two skins of brick 240 2 × 165"
+        },
+        {
+          "label": "Unreinforced normal concrete wall minimum thickness, single-skin",
+          "value": 200.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Unreinforced concrete according to DIN 1045. Two-skin entry is 2 × 180 mm.",
+          "status": "uncertain",
+          "ocr_raw": "unreinforced concrete according to DIN 1045 200 2 × 180"
+        },
+        {
+          "label": "Reinforced concrete non-load-bearing wall minimum thickness, single-skin",
+          "value": 120.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Non-load-bearing horizontal or vertical wall components according to DIN 1045. Two-skin entry is 2 × 100 mm.",
+          "status": "uncertain",
+          "ocr_raw": "reinforced concrete according to DIN 1045 in the form of non-load-bearing horizontal or vertical wall components 120 2 × 100"
+        },
+        {
+          "label": "Reinforced concrete load-bearing wall minimum thickness, single-skin",
+          "value": 140.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Load-bearing wall components or in-situ concrete according to DIN 1045; footnote applies. Two-skin entry is 2 × 120 mm.",
+          "status": "uncertain",
+          "ocr_raw": "load-bearing wall components or in situ concrete 140*) 2 × 120*)"
+        },
+        {
+          "label": "Lightweight concrete wall minimum thickness, single-skin",
+          "value": 250.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Porous structure according to DIN 4232, bulk density class ≥1.4. Two-skin entry is 2 × 200 mm.",
+          "status": "uncertain",
+          "ocr_raw": "with porous structure according to DIN 4232 of bulk density class ≥1.4 250 2 × 200"
+        },
+        {
+          "label": "Lightweight concrete wall minimum thickness, single-skin",
+          "value": 300.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Porous structure according to DIN 4232, bulk density class ≥0.8. Two-skin entry is 2 × 200 mm.",
+          "status": "uncertain",
+          "ocr_raw": "bulk density class ≥0.8 300 2 × 200"
+        },
+        {
+          "label": "Aerated concrete wall component minimum thickness, single-skin",
+          "value": 175.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Reinforced aerated concrete, minimum strength class 4.4, non-load-bearing, vertical or horizontal; wall components of bulk density class ≥0.7. Two-skin entry is 2 × 175 mm.",
+          "status": "uncertain",
+          "ocr_raw": "reinforced min. strength class 4.4 non-load-bearing, vertical or horizontal wall components of bulk density class ≥0.7 175 2 × 175"
+        },
+        {
+          "label": "Aerated concrete load-bearing wall component minimum thickness, single-skin",
+          "value": 200.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Load-bearing vertical components, vertical wall components of bulk density class ≥0.7; footnote applies. Two-skin entry is 2 × 200 mm.",
+          "status": "uncertain",
+          "ocr_raw": "load-bearing vertical components, vertical wall components of bulk density class ≥0.7 200*) 2 × 200*)"
+        }
+      ],
+      "figure_refs": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7"
+      ],
+      "cross_refs": [
+        "p. 512",
+        "DIN 4102-35, table 44",
+        "DIN 4102-4, table 45",
+        "BS EN 15080",
+        "DIN 4102",
+        "DIN EN 13501",
+        "MBO"
+      ],
+      "keywords": [
+        "fire compartment wall",
+        "fire protection",
+        "F 90A",
+        "fire resistance",
+        "non-combustible materials",
+        "minimum wall thickness",
+        "building corners",
+        "roof junctions"
+      ],
+      "tags_architectural": [
+        "safety",
+        "adaptability"
+      ],
+      "confidence": 0.94
+    }
+  ]
+}

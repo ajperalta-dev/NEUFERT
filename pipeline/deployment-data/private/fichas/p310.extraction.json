@@ -1,0 +1,275 @@
+{
+  "fichas": [
+    {
+      "id": "4122fb96e4bd1976-310-vision-0",
+      "pdf_page": 310,
+      "book_page": 297,
+      "chapter": "HEALTH",
+      "section": "Hospitals",
+      "title": "Outpatient facilities",
+      "summary": "Outpatient facilities serve ambulant patients attending by appointment. The design should separate outpatient and inpatient routes, provide rapid access to X-ray, and allow for larger waiting and examination areas where outpatient attendance or day surgery is substantial.",
+      "building_type": "Hospital outpatient department",
+      "spaces": [
+        "Outpatient rooms",
+        "Waiting rooms",
+        "Route to X-ray department"
+      ],
+      "uses": [
+        "Outpatient consultation and treatment",
+        "Outpatient day surgery"
+      ],
+      "furniture_equipment": [],
+      "dimensions": [],
+      "figure_refs": [
+        "Figure 1: Outpatients, ground floor, Berlin-Spandau Hospital; today: Vivantes Clinic Berlin-Spandau"
+      ],
+      "cross_refs": [
+        "Outpatient surgery",
+        "Outpatient medical centre"
+      ],
+      "keywords": [
+        "outpatient facilities",
+        "patient routing",
+        "X-ray",
+        "day surgery"
+      ],
+      "tags_architectural": [
+        "circulation",
+        "adaptability"
+      ],
+      "confidence": 0.95
+    },
+    {
+      "id": "4122fb96e4bd1976-310-vision-1",
+      "pdf_page": 310,
+      "book_page": 297,
+      "chapter": "HEALTH",
+      "section": "Hospitals",
+      "title": "Outpatient surgery",
+      "summary": "Outpatient surgery departments may be added to existing hospitals, integrated with a surgical department, or established as independent clinics. Hospital departments should be near the main entrance and emergency care. A cited elective-treatment arrangement uses smaller operating theatres, a multifunctional preparation room, shared washrooms, a five-place recovery room, and a quiet zone; separate preparation and post-operative rooms, storerooms, and conventional patient access-control lobbies are omitted.",
+      "building_type": "Outpatient surgical department",
+      "spaces": [
+        "Operating theatres",
+        "Preparation room",
+        "Washrooms",
+        "Recovery room",
+        "Quiet zone"
+      ],
+      "uses": [
+        "Elective outpatient surgery",
+        "Day-clinic and short-stay treatment"
+      ],
+      "furniture_equipment": [
+        "Anaesthetic technology",
+        "Ceiling supply units"
+      ],
+      "dimensions": [
+        {
+          "label": "Operating theatre area",
+          "value": 30.0,
+          "value_max": null,
+          "unit": "m²",
+          "context": "Approximate area of the smaller operating theatres in the described arrangement.",
+          "status": "uncertain",
+          "ocr_raw": "smaller operating theatres (approx. 30 m²)"
+        },
+        {
+          "label": "Recovery room places",
+          "value": 5.0,
+          "value_max": null,
+          "unit": "places",
+          "context": "Number of places in one recovery room in the described arrangement.",
+          "status": "uncertain",
+          "ocr_raw": "one recovery room with five places"
+        }
+      ],
+      "figure_refs": [],
+      "cross_refs": [
+        "Outpatient facilities",
+        "Outpatient medical centre"
+      ],
+      "keywords": [
+        "outpatient surgery",
+        "elective surgery",
+        "recovery room",
+        "patient wayfinding"
+      ],
+      "tags_architectural": [
+        "circulation",
+        "safety",
+        "adaptability"
+      ],
+      "confidence": 0.95
+    },
+    {
+      "id": "4122fb96e4bd1976-310-vision-2",
+      "pdf_page": 310,
+      "book_page": 297,
+      "chapter": "HEALTH",
+      "section": "Hospitals",
+      "title": "Outpatient medical centre and emergency admission example",
+      "summary": "A separate outpatient or short-stay establishment associated with a hospital has room and organisational arrangements distinct from inpatient care. Its medical services and equipment should be assessed for the planned treatment spectrum; furnishing may be more generous regarding hygiene, and ventilation and other technical systems should be critically evaluated. Figure 2 shows an emergency admission plan for Helios Clinic, Gotha, with a waiting room, admissions, examination and treatment spaces, emergency beds, surgery-related rooms, patient changing, and support spaces.",
+      "building_type": "Outpatient medical centre / emergency admission unit",
+      "spaces": [
+        "Waiting room",
+        "Admissions",
+        "Emergency beds",
+        "Investigation and treatment rooms",
+        "Surgery clean room",
+        "Surgery unclean room",
+        "Preparation room",
+        "Patient bathroom",
+        "Patient changing rooms",
+        "Plaster room",
+        "Treatment of shock",
+        "Stretcher storage",
+        "Supply",
+        "Disposal",
+        "Staff changing",
+        "Doctor",
+        "Social space"
+      ],
+      "uses": [
+        "Outpatient treatment",
+        "Short-stay treatment",
+        "Emergency admission and treatment"
+      ],
+      "furniture_equipment": [
+        "Examination and treatment equipment",
+        "Emergency beds",
+        "Stretcher"
+      ],
+      "dimensions": [
+        {
+          "label": "Plan dimension",
+          "value": 30.0,
+          "value_max": null,
+          "unit": "m²",
+          "context": "Approximate operating-theatre area stated in the adjoining outpatient-surgery text; not a dimension of the Figure 2 plan.",
+          "status": "uncertain",
+          "ocr_raw": "smaller operating theatres (approx. 30 m²)"
+        },
+        {
+          "label": "Plan dimension chain segment",
+          "value": 7.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Figure 2 bottom dimension chain; unit is not printed alongside the dimension.",
+          "status": "uncertain",
+          "ocr_raw": "7.00"
+        },
+        {
+          "label": "Plan dimension chain segment",
+          "value": 2.3,
+          "value_max": null,
+          "unit": "m",
+          "context": "Figure 2 bottom dimension chain; unit is not printed alongside the dimension.",
+          "status": "uncertain",
+          "ocr_raw": "2.30"
+        },
+        {
+          "label": "Plan dimension chain segment",
+          "value": 5.9,
+          "value_max": null,
+          "unit": "m",
+          "context": "Figure 2 bottom dimension chain; unit is not printed alongside the dimension.",
+          "status": "uncertain",
+          "ocr_raw": "5.90"
+        },
+        {
+          "label": "Plan dimension chain segment",
+          "value": 3.4,
+          "value_max": null,
+          "unit": "m",
+          "context": "Figure 2 bottom dimension chain; unit is not printed alongside the dimension.",
+          "status": "uncertain",
+          "ocr_raw": "3.40"
+        },
+        {
+          "label": "Plan dimension chain segment",
+          "value": 7.3,
+          "value_max": null,
+          "unit": "m",
+          "context": "Figure 2 bottom dimension chain; unit is not printed alongside the dimension.",
+          "status": "uncertain",
+          "ocr_raw": "7.30"
+        },
+        {
+          "label": "Plan dimension chain segment",
+          "value": 4.6,
+          "value_max": null,
+          "unit": "m",
+          "context": "Figure 2 left-side dimension chain; unit is not printed alongside the dimension.",
+          "status": "uncertain",
+          "ocr_raw": "4.60"
+        },
+        {
+          "label": "Plan dimension chain segment",
+          "value": 2.44,
+          "value_max": null,
+          "unit": "m",
+          "context": "Figure 2 left-side dimension chain; unit is not printed alongside the dimension.",
+          "status": "uncertain",
+          "ocr_raw": "2.44"
+        },
+        {
+          "label": "Plan dimension chain segment",
+          "value": 4.9,
+          "value_max": null,
+          "unit": "m",
+          "context": "Figure 2 left-side dimension chain; unit is not printed alongside the dimension.",
+          "status": "uncertain",
+          "ocr_raw": "4.90"
+        },
+        {
+          "label": "Plan dimension chain segment",
+          "value": 3.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Figure 2 left-side dimension chain; unit is not printed alongside the dimension.",
+          "status": "uncertain",
+          "ocr_raw": "3.00"
+        },
+        {
+          "label": "Plan dimension chain segment",
+          "value": 6.45,
+          "value_max": null,
+          "unit": "m",
+          "context": "Figure 2 left-side dimension chain; unit is not printed alongside the dimension.",
+          "status": "uncertain",
+          "ocr_raw": "6.45"
+        },
+        {
+          "label": "Plan dimension chain segment",
+          "value": 7.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Figure 2 left-side dimension chain; unit is not printed alongside the dimension.",
+          "status": "uncertain",
+          "ocr_raw": "7.00"
+        }
+      ],
+      "figure_refs": [
+        "Figure 2: Emergency admission, Helios Clinic, Gotha; Arch.: Wörner + Partner"
+      ],
+      "cross_refs": [
+        "Outpatient facilities",
+        "Outpatient surgery"
+      ],
+      "keywords": [
+        "outpatient medical centre",
+        "emergency admission",
+        "short-stay treatment",
+        "ventilation",
+        "Figure 2"
+      ],
+      "tags_architectural": [
+        "circulation",
+        "adaptability",
+        "ventilation",
+        "daylighting"
+      ],
+      "confidence": 0.77
+    }
+  ]
+}

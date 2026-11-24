@@ -1,0 +1,703 @@
+{
+  "model": "gpt-6-luna",
+  "checks": {
+    "checks": [
+      {
+        "ficha_index": 0,
+        "dimension_index": 0,
+        "status": "verified",
+        "value": 7.0,
+        "value_max": null,
+        "reason": "Plan labels the landing area width 7.00 m."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 1,
+        "status": "verified",
+        "value": 9.0,
+        "value_max": null,
+        "reason": "Plan labels the landing area length 9.00 m."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 2,
+        "status": "verified",
+        "value": 45.0,
+        "value_max": 45.0,
+        "reason": "Table gives run-up lengths \u226545 m for both long jump and triple jump."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 3,
+        "status": "verified",
+        "value": 1.22,
+        "value_max": null,
+        "reason": "Table gives runway width 1.22 m."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 4,
+        "status": "verified",
+        "value": 8.0,
+        "value_max": null,
+        "reason": "Table gives pit length \u22658 m."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 5,
+        "status": "verified",
+        "value": 2.75,
+        "value_max": null,
+        "reason": "Table gives pit width 2.75 m."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 6,
+        "status": "verified",
+        "value": 45.0,
+        "value_max": null,
+        "reason": "Table gives pole-vault run-up length \u226545 m."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 7,
+        "status": "verified",
+        "value": 1.22,
+        "value_max": null,
+        "reason": "Table gives pole-vault runway width 1.22 m."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 8,
+        "status": "verified",
+        "value": 5.0,
+        "value_max": null,
+        "reason": "Table gives pole-vault landing-pad length \u22655 m."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 9,
+        "status": "verified",
+        "value": 5.0,
+        "value_max": 6.0,
+        "reason": "Table gives landing-pad width 5\u20136 m."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 10,
+        "status": "verified",
+        "value": 2.0,
+        "value_max": null,
+        "reason": "Table gives semicircle run-up radius \u22652.00 m."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 11,
+        "status": "verified",
+        "value": 3.0,
+        "value_max": null,
+        "reason": "Table gives high-jump landing-area length 3 m."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 12,
+        "status": "verified",
+        "value": 5.0,
+        "value_max": 6.0,
+        "reason": "Table gives high-jump landing-area width 5\u20136 m."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 13,
+        "status": "verified",
+        "value": 10.0,
+        "value_max": null,
+        "reason": "Note specifies at least 10 m between take-off line and landing-area end."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 14,
+        "status": "verified",
+        "value": 9.0,
+        "value_max": null,
+        "reason": "Note specifies 9 m landing-area length for high-standard layouts."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 15,
+        "status": "verified",
+        "value": 2.0,
+        "value_max": null,
+        "reason": "Note specifies each lane is 2 m wide."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 16,
+        "status": "verified",
+        "value": 11.0,
+        "value_max": null,
+        "reason": "Note specifies 11 m for the take-off board position."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 17,
+        "status": "verified",
+        "value": 9.0,
+        "value_max": null,
+        "reason": "Note specifies 9 m for juniors."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 18,
+        "status": "verified",
+        "value": 13.0,
+        "value_max": null,
+        "reason": "Note specifies 13 m for top athletes."
+      },
+      {
+        "ficha_index": 1,
+        "dimension_index": 0,
+        "status": "verified",
+        "value": 3.0,
+        "value_max": null,
+        "reason": "Track table gives sprint start length 3 m."
+      },
+      {
+        "ficha_index": 1,
+        "dimension_index": 1,
+        "status": "verified",
+        "value": 110.0,
+        "value_max": null,
+        "reason": "Track table gives sprint track length 110 m."
+      },
+      {
+        "ficha_index": 1,
+        "dimension_index": 2,
+        "status": "verified",
+        "value": 17.0,
+        "value_max": null,
+        "reason": "Track table gives sprint run-out 17 m."
+      },
+      {
+        "ficha_index": 1,
+        "dimension_index": 3,
+        "status": "verified",
+        "value": 1.22,
+        "value_max": null,
+        "reason": "Track table gives lane width 1.22 m."
+      },
+      {
+        "ficha_index": 1,
+        "dimension_index": 4,
+        "status": "verified",
+        "value": 400.0,
+        "value_max": null,
+        "reason": "Track table gives circular-track length 400 m."
+      },
+      {
+        "ficha_index": 1,
+        "dimension_index": 5,
+        "status": "uncertain",
+        "value": 3.0,
+        "value_max": null,
+        "reason": "Circular-track start entry is a dash with footnote marker 3; the note says no additional starting space is necessary, not a 3 m length."
+      },
+      {
+        "ficha_index": 1,
+        "dimension_index": 6,
+        "status": "verified",
+        "value": 17.0,
+        "value_max": null,
+        "reason": "Track table gives circular-track run-out 17 m."
+      },
+      {
+        "ficha_index": 1,
+        "dimension_index": 7,
+        "status": "verified",
+        "value": 28.0,
+        "value_max": null,
+        "reason": "Note specifies an additional 28 cm safety zone."
+      },
+      {
+        "ficha_index": 1,
+        "dimension_index": 8,
+        "status": "verified",
+        "value": 400.0,
+        "value_max": null,
+        "reason": "Hurdle table gives the event track length as 400 m."
+      },
+      {
+        "ficha_index": 1,
+        "dimension_index": 9,
+        "status": "verified",
+        "value": 10.0,
+        "value_max": null,
+        "reason": "Hurdle table gives 10 hurdles."
+      },
+      {
+        "ficha_index": 1,
+        "dimension_index": 10,
+        "status": "verified",
+        "value": 0.914,
+        "value_max": null,
+        "reason": "Hurdle table gives men's 400 m hurdle height 0.914 m."
+      },
+      {
+        "ficha_index": 1,
+        "dimension_index": 11,
+        "status": "verified",
+        "value": 0.762,
+        "value_max": null,
+        "reason": "Hurdle table gives women's 400 m hurdle height 0.762 m."
+      },
+      {
+        "ficha_index": 1,
+        "dimension_index": 12,
+        "status": "verified",
+        "value": 45.0,
+        "value_max": null,
+        "reason": "Hurdle table gives first-hurdle distance 45.00 m for 400 m events."
+      },
+      {
+        "ficha_index": 1,
+        "dimension_index": 13,
+        "status": "verified",
+        "value": 35.0,
+        "value_max": null,
+        "reason": "Hurdle table gives hurdle spacing 35.00 m for 400 m events."
+      },
+      {
+        "ficha_index": 1,
+        "dimension_index": 14,
+        "status": "verified",
+        "value": 40.0,
+        "value_max": null,
+        "reason": "Hurdle table gives distance after the last hurdle 40.00 m for 400 m events."
+      },
+      {
+        "ficha_index": 1,
+        "dimension_index": 15,
+        "status": "verified",
+        "value": 1.067,
+        "value_max": null,
+        "reason": "Hurdle table gives men's 110 m hurdle height 1.067 m."
+      },
+      {
+        "ficha_index": 1,
+        "dimension_index": 16,
+        "status": "verified",
+        "value": 13.72,
+        "value_max": null,
+        "reason": "Hurdle table gives men's first-hurdle distance 13.72 m."
+      },
+      {
+        "ficha_index": 1,
+        "dimension_index": 17,
+        "status": "verified",
+        "value": 9.14,
+        "value_max": null,
+        "reason": "Hurdle table gives men's hurdle spacing 9.14 m."
+      },
+      {
+        "ficha_index": 1,
+        "dimension_index": 18,
+        "status": "verified",
+        "value": 14.02,
+        "value_max": null,
+        "reason": "Hurdle table gives men's distance after the last hurdle 14.02 m."
+      },
+      {
+        "ficha_index": 1,
+        "dimension_index": 19,
+        "status": "verified",
+        "value": 0.84,
+        "value_max": null,
+        "reason": "Hurdle table gives women's 100 m hurdle height 0.840 m."
+      },
+      {
+        "ficha_index": 1,
+        "dimension_index": 20,
+        "status": "verified",
+        "value": 13.0,
+        "value_max": null,
+        "reason": "Hurdle table gives women's first-hurdle distance 13.00 m."
+      },
+      {
+        "ficha_index": 1,
+        "dimension_index": 21,
+        "status": "verified",
+        "value": 8.5,
+        "value_max": null,
+        "reason": "Hurdle table gives women's hurdle spacing 8.50 m."
+      },
+      {
+        "ficha_index": 1,
+        "dimension_index": 22,
+        "status": "verified",
+        "value": 10.5,
+        "value_max": null,
+        "reason": "Hurdle table gives women's distance after the last hurdle 10.50 m."
+      },
+      {
+        "ficha_index": 2,
+        "dimension_index": 0,
+        "status": "verified",
+        "value": 36.5,
+        "value_max": null,
+        "reason": "Plan labels the obstacle-race radius R = 36.5 m."
+      },
+      {
+        "ficha_index": 2,
+        "dimension_index": 1,
+        "status": "verified",
+        "value": 3.66,
+        "value_max": null,
+        "reason": "Water-jump plan labels the length 3.66 m."
+      },
+      {
+        "ficha_index": 2,
+        "dimension_index": 2,
+        "status": "verified",
+        "value": 3.66,
+        "value_max": null,
+        "reason": "Water-jump plan labels the width 3.66 m."
+      },
+      {
+        "ficha_index": 2,
+        "dimension_index": 3,
+        "status": "verified",
+        "value": 0.5,
+        "value_max": null,
+        "reason": "Section shows water-jump depth 0.50 m."
+      },
+      {
+        "ficha_index": 2,
+        "dimension_index": 4,
+        "status": "verified",
+        "value": 3.66,
+        "value_max": null,
+        "reason": "Steeplechase water-jump section labels 3.66 m."
+      },
+      {
+        "ficha_index": 2,
+        "dimension_index": 5,
+        "status": "verified",
+        "value": 3.66,
+        "value_max": null,
+        "reason": "Steeplechase water-jump detail labels 3.66 m."
+      },
+      {
+        "ficha_index": 2,
+        "dimension_index": 6,
+        "status": "verified",
+        "value": 3.43,
+        "value_max": 3.45,
+        "reason": "Water-jump detail prints the dimension pair 3.43\u20133.45 m."
+      }
+    ]
+  },
+  "automatic": [
+    {
+      "ficha_index": 0,
+      "dimension_index": 0,
+      "issues": []
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 1,
+      "issues": []
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 2,
+      "issues": []
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 3,
+      "issues": []
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 4,
+      "issues": []
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 5,
+      "issues": []
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 6,
+      "issues": []
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 7,
+      "issues": []
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 8,
+      "issues": []
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 9,
+      "issues": []
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 10,
+      "issues": []
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 11,
+      "issues": []
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 12,
+      "issues": []
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 13,
+      "issues": []
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 14,
+      "issues": []
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 15,
+      "issues": []
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 16,
+      "issues": []
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 17,
+      "issues": []
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 18,
+      "issues": []
+    },
+    {
+      "ficha_index": 1,
+      "dimension_index": 0,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 1,
+      "dimension_index": 1,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 1,
+      "dimension_index": 2,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 1,
+      "dimension_index": 3,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 1,
+      "dimension_index": 4,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 1,
+      "dimension_index": 5,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 1,
+      "dimension_index": 6,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 1,
+      "dimension_index": 7,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 1,
+      "dimension_index": 8,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 1,
+      "dimension_index": 9,
+      "issues": [
+        "Unknown unit",
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 1,
+      "dimension_index": 10,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 1,
+      "dimension_index": 11,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 1,
+      "dimension_index": 12,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 1,
+      "dimension_index": 13,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 1,
+      "dimension_index": 14,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 1,
+      "dimension_index": 15,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 1,
+      "dimension_index": 16,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 1,
+      "dimension_index": 17,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 1,
+      "dimension_index": 18,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 1,
+      "dimension_index": 19,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 1,
+      "dimension_index": 20,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 1,
+      "dimension_index": 21,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 1,
+      "dimension_index": 22,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 2,
+      "dimension_index": 0,
+      "issues": []
+    },
+    {
+      "ficha_index": 2,
+      "dimension_index": 1,
+      "issues": []
+    },
+    {
+      "ficha_index": 2,
+      "dimension_index": 2,
+      "issues": []
+    },
+    {
+      "ficha_index": 2,
+      "dimension_index": 3,
+      "issues": []
+    },
+    {
+      "ficha_index": 2,
+      "dimension_index": 4,
+      "issues": []
+    },
+    {
+      "ficha_index": 2,
+      "dimension_index": 5,
+      "issues": []
+    },
+    {
+      "ficha_index": 2,
+      "dimension_index": 6,
+      "issues": []
+    }
+  ],
+  "usage": [
+    {
+      "prompt_tokens": 5119,
+      "completion_tokens": 3287
+    },
+    {
+      "prompt_tokens": 7597,
+      "completion_tokens": 2065
+    }
+  ]
+}

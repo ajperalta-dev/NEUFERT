@@ -1,0 +1,390 @@
+{
+  "fichas": [
+    {
+      "id": "4122fb96e4bd1976-474-vision-0",
+      "pdf_page": 474,
+      "book_page": 461,
+      "chapter": "SUPPLY AND DISPOSAL",
+      "section": "Loading Yards",
+      "title": "Loading Yards",
+      "summary": "Planning guidance and illustrated layouts for loading yards serving department stores, shopping centres, and other shops. The page includes sales-area-based estimates for delivery provision, truck and ramp layouts, safety clearances, and guidance for covered yards. For shops up to approximately 200 m², smaller delivery vehicles may use normal car parks; larger shops should provide dedicated HGV parking. Vehicle swept paths and column locations should be checked.",
+      "building_type": "Department store, shopping centre, and shop loading yard",
+      "spaces": [
+        "Loading yard",
+        "Loading ramp",
+        "Waiting area for delivery vehicles",
+        "Truck standing places",
+        "Lift lobbies",
+        "Disposal and empty-packaging area",
+        "Waste-paper bale area",
+        "Loading platform",
+        "Unloading buffer",
+        "Covered loading dock"
+      ],
+      "uses": [
+        "Deliveries and HGV staging",
+        "Loading and unloading",
+        "Disposal and empty-packaging handling",
+        "Waste-paper collection"
+      ],
+      "furniture_equipment": [
+        "Stationary press with container",
+        "Channel baling press with container",
+        "Canopy",
+        "Adjustable-height ramp"
+      ],
+      "dimensions": [
+        {
+          "label": "Sales area range",
+          "value": 5000.0,
+          "value_max": 10000.0,
+          "unit": "m²",
+          "context": "Sales-area band used in the loading-yard table",
+          "status": "uncertain",
+          "ocr_raw": "5000–10000"
+        },
+        {
+          "label": "Sales area range",
+          "value": 10000.0,
+          "value_max": 15000.0,
+          "unit": "m²",
+          "context": "Sales-area band used in the loading-yard table",
+          "status": "uncertain",
+          "ocr_raw": "10000–15000"
+        },
+        {
+          "label": "Sales area range",
+          "value": 15000.0,
+          "value_max": 20000.0,
+          "unit": "m²",
+          "context": "Sales-area band used in the loading-yard table",
+          "status": "uncertain",
+          "ocr_raw": "15 000–20 000"
+        },
+        {
+          "label": "Sales area range",
+          "value": 20000.0,
+          "value_max": 30000.0,
+          "unit": "m²",
+          "context": "Sales-area band used in the loading-yard table",
+          "status": "uncertain",
+          "ocr_raw": "20 000–30 000"
+        },
+        {
+          "label": "HGV standing places",
+          "value": 2.0,
+          "value_max": 3.0,
+          "unit": "places",
+          "context": "At the loading ramp; sales area 5,000–10,000 m²",
+          "status": "uncertain",
+          "ocr_raw": "2–3"
+        },
+        {
+          "label": "HGV standing places",
+          "value": 3.0,
+          "value_max": 4.0,
+          "unit": "places",
+          "context": "At the loading ramp; sales area 10,000–15,000 m²",
+          "status": "uncertain",
+          "ocr_raw": "3–4"
+        },
+        {
+          "label": "HGV standing places",
+          "value": 4.0,
+          "value_max": 5.0,
+          "unit": "places",
+          "context": "At the loading ramp; sales area 15,000–20,000 m²",
+          "status": "uncertain",
+          "ocr_raw": "4–5"
+        },
+        {
+          "label": "HGV standing places",
+          "value": 5.0,
+          "value_max": 6.0,
+          "unit": "places",
+          "context": "At the loading ramp; sales area 20,000–30,000 m²",
+          "status": "uncertain",
+          "ocr_raw": "5–6"
+        },
+        {
+          "label": "Waiting area for delivery",
+          "value": 100.0,
+          "value_max": null,
+          "unit": "m²",
+          "context": "Loading-yard table",
+          "status": "uncertain",
+          "ocr_raw": "waiting area for delivery 100"
+        },
+        {
+          "label": "Waiting area for delivery",
+          "value": 120.0,
+          "value_max": null,
+          "unit": "m²",
+          "context": "Loading-yard table",
+          "status": "uncertain",
+          "ocr_raw": "120"
+        },
+        {
+          "label": "Waiting area for delivery",
+          "value": 180.0,
+          "value_max": null,
+          "unit": "m²",
+          "context": "Loading-yard table",
+          "status": "uncertain",
+          "ocr_raw": "180"
+        },
+        {
+          "label": "Waiting area for delivery",
+          "value": 250.0,
+          "value_max": null,
+          "unit": "m²",
+          "context": "Loading-yard table",
+          "status": "uncertain",
+          "ocr_raw": "250"
+        },
+        {
+          "label": "Truck space width",
+          "value": 2.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Truck space size shown in loading-yard table",
+          "status": "uncertain",
+          "ocr_raw": "1: 2.00 x 3.00"
+        },
+        {
+          "label": "Truck space length",
+          "value": 3.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Truck space size shown in loading-yard table",
+          "status": "uncertain",
+          "ocr_raw": "1: 2.00 x 3.00"
+        },
+        {
+          "label": "Truck space width",
+          "value": 2.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Truck space size shown in loading-yard table",
+          "status": "uncertain",
+          "ocr_raw": "1: 2.00 x 4.20"
+        },
+        {
+          "label": "Truck space length",
+          "value": 4.2,
+          "value_max": null,
+          "unit": "m",
+          "context": "Truck space size shown in loading-yard table",
+          "status": "uncertain",
+          "ocr_raw": "1: 2.00 x 4.20"
+        },
+        {
+          "label": "Lift lobbies",
+          "value": 20.0,
+          "value_max": null,
+          "unit": "m²",
+          "context": "Loading-yard table, first sales-area band",
+          "status": "uncertain",
+          "ocr_raw": "lift lobbies (m²) 20"
+        },
+        {
+          "label": "Lift lobbies",
+          "value": 30.0,
+          "value_max": null,
+          "unit": "m²",
+          "context": "Loading-yard table",
+          "status": "uncertain",
+          "ocr_raw": "30"
+        },
+        {
+          "label": "Lift lobbies",
+          "value": 40.0,
+          "value_max": null,
+          "unit": "m²",
+          "context": "Loading-yard table",
+          "status": "uncertain",
+          "ocr_raw": "40"
+        },
+        {
+          "label": "Lift lobbies",
+          "value": 40.0,
+          "value_max": null,
+          "unit": "m²",
+          "context": "Loading-yard table",
+          "status": "uncertain",
+          "ocr_raw": "40"
+        },
+        {
+          "label": "Shop sales-area threshold",
+          "value": 200.0,
+          "value_max": null,
+          "unit": "m²",
+          "context": "Shops up to approximately this area may assume smaller delivery vehicles",
+          "status": "uncertain",
+          "ocr_raw": "approx. 200 m²"
+        },
+        {
+          "label": "HGV parking area width",
+          "value": 3.5,
+          "value_max": null,
+          "unit": "m",
+          "context": "Dedicated parking area for HGV deliveries at shops over 200 m²",
+          "status": "uncertain",
+          "ocr_raw": "3.5 m x 12 m"
+        },
+        {
+          "label": "HGV parking area length",
+          "value": 12.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Dedicated parking area for HGV deliveries at shops over 200 m²",
+          "status": "uncertain",
+          "ocr_raw": "3.5 m x 12 m"
+        },
+        {
+          "label": "Minimum clear height",
+          "value": 4.9,
+          "value_max": null,
+          "unit": "m",
+          "context": "Yards built over",
+          "status": "uncertain",
+          "ocr_raw": "at least 4.90 m"
+        },
+        {
+          "label": "Minimum ramp width",
+          "value": 3.5,
+          "value_max": null,
+          "unit": "m",
+          "context": "Single-lane straight ramp",
+          "status": "uncertain",
+          "ocr_raw": "min. 3.50 m"
+        },
+        {
+          "label": "Minimum ramp width",
+          "value": 6.75,
+          "value_max": null,
+          "unit": "m",
+          "context": "Straight ramp with two-way traffic",
+          "status": "uncertain",
+          "ocr_raw": "min. 6.75 m"
+        },
+        {
+          "label": "Maximum ramp gradient",
+          "value": 10.0,
+          "value_max": null,
+          "unit": "%",
+          "context": "Loading ramps",
+          "status": "uncertain",
+          "ocr_raw": "not have a gradient of more than 10%"
+        },
+        {
+          "label": "Gradient change threshold",
+          "value": 8.0,
+          "value_max": null,
+          "unit": "%",
+          "context": "Changes greater than this require a transition curve",
+          "status": "uncertain",
+          "ocr_raw": "more than 8%"
+        },
+        {
+          "label": "Transition-curve radius",
+          "value": 50.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "At ramp gradient changes greater than 8%",
+          "status": "uncertain",
+          "ocr_raw": "radius 50 m"
+        },
+        {
+          "label": "Safety distance",
+          "value": 1.5,
+          "value_max": null,
+          "unit": "m",
+          "context": "Between two trucks with trailers standing next to each other on ramps",
+          "status": "uncertain",
+          "ocr_raw": "on ramps min. 1.50 m"
+        },
+        {
+          "label": "Safety distance",
+          "value": 3.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Between two trucks with trailers standing next to each other at loading hatches",
+          "status": "uncertain",
+          "ocr_raw": "at loading hatches min. 3.00 m"
+        },
+        {
+          "label": "Stationary press container space",
+          "value": 3.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "In front of the loading ramp; table dimension 3.00 × 9.00 m",
+          "status": "uncertain",
+          "ocr_raw": "3.00 x 9.00 in front of the loading ramp"
+        },
+        {
+          "label": "Stationary press container space length",
+          "value": 9.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "In front of the loading ramp; table dimension 3.00 × 9.00 m",
+          "status": "uncertain",
+          "ocr_raw": "3.00 x 9.00 in front of the loading ramp"
+        },
+        {
+          "label": "Channel baling press container space",
+          "value": 2.5,
+          "value_max": null,
+          "unit": "m",
+          "context": "In front of the loading ramp; table dimension 2.50 × 9.00 m",
+          "status": "uncertain",
+          "ocr_raw": "2.50 x 9.00 in front of the loading ramp"
+        },
+        {
+          "label": "Channel baling press container space length",
+          "value": 9.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "In front of the loading ramp; table dimension 2.50 × 9.00 m",
+          "status": "uncertain",
+          "ocr_raw": "2.50 x 9.00 in front of the loading ramp"
+        }
+      ],
+      "figure_refs": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10"
+      ],
+      "cross_refs": [
+        "Trucks – parking and turning pp. 387 ff.",
+        "FGSV → refs"
+      ],
+      "keywords": [
+        "loading yard",
+        "loading ramp",
+        "HGV",
+        "delivery",
+        "truck parking",
+        "loading dock",
+        "unloading",
+        "department store",
+        "shopping centre",
+        "waste disposal"
+      ],
+      "tags_architectural": [
+        "circulation",
+        "clearance",
+        "safety",
+        "adaptability"
+      ],
+      "confidence": 0.91
+    }
+  ]
+}

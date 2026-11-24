@@ -1,0 +1,149 @@
+{
+  "model": "gpt-6-luna",
+  "checks": {
+    "checks": [
+      {
+        "ficha_index": 0,
+        "dimension_index": 0,
+        "status": "verified",
+        "value": 60.0,
+        "value_max": null,
+        "reason": "The text states around 60 cm wide."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 1,
+        "status": "verified",
+        "value": 30.0,
+        "value_max": 40.0,
+        "reason": "The text states 30\u201340 cm deep."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 2,
+        "status": "verified",
+        "value": 20.0,
+        "value_max": null,
+        "reason": "The text states an additional 20 cm space in the centre."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 3,
+        "status": "verified",
+        "value": 80.0,
+        "value_max": 85.0,
+        "reason": "The text states an overall width of 80\u201385 cm."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 4,
+        "status": "verified",
+        "value": 70.0,
+        "value_max": null,
+        "reason": "The text states 70 cm is sufficient when food is served on plates."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 5,
+        "status": "verified",
+        "value": 60.0,
+        "value_max": null,
+        "reason": "The text states 60 cm table depth for fast food."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 6,
+        "status": "verified",
+        "value": 75.0,
+        "value_max": null,
+        "reason": "The text states the table-to-wall distance is at least 75 cm."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 7,
+        "status": "verified",
+        "value": 50.0,
+        "value_max": null,
+        "reason": "The text states the chair alone requires 50 cm of space."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 8,
+        "status": "verified",
+        "value": 100.0,
+        "value_max": null,
+        "reason": "The text states the distance should be at least 100 cm when the space is used for access."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 9,
+        "status": "verified",
+        "value": 50.0,
+        "value_max": null,
+        "reason": "The text states round tables need a little more space, up to a difference of 50 cm."
+      }
+    ]
+  },
+  "automatic": [
+    {
+      "ficha_index": 0,
+      "dimension_index": 0,
+      "issues": []
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 1,
+      "issues": []
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 2,
+      "issues": []
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 3,
+      "issues": []
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 4,
+      "issues": []
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 5,
+      "issues": []
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 6,
+      "issues": []
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 7,
+      "issues": []
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 8,
+      "issues": []
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 9,
+      "issues": []
+    }
+  ],
+  "usage": [
+    {
+      "prompt_tokens": 4302,
+      "completion_tokens": 1459
+    },
+    {
+      "prompt_tokens": 4530,
+      "completion_tokens": 504
+    }
+  ]
+}

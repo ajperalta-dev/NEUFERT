@@ -1,0 +1,162 @@
+{
+  "fichas": [
+    {
+      "id": "4122fb96e4bd1976-441-vision-0",
+      "pdf_page": 441,
+      "book_page": 428,
+      "chapter": "EXTERNAL WORKS",
+      "section": "Earthworks",
+      "title": "Design of earthworks and soil handling",
+      "summary": "Guidance on modelling terrain, preserving topsoil, compacting fill and protecting slopes. The page illustrates a topsoil pile, cohesive material with flat stepping, soil spreading on a slight slope, and filling in layers. It notes that terrain modelling can influence spatial perception and that compaction should suit the intended surface use.",
+      "building_type": "Landscape and site works",
+      "spaces": [
+        "Earthworks",
+        "Slopes",
+        "Lawns",
+        "Planting areas",
+        "Paths and paving"
+      ],
+      "uses": [
+        "Model terrain to shape spatial perception",
+        "Store and preserve topsoil",
+        "Compact fill for landscape and paving construction",
+        "Protect slopes from erosion and slipping"
+      ],
+      "furniture_equipment": [
+        "Bulldozer",
+        "Roller",
+        "Compaction rammer",
+        "Vibrating compactor"
+      ],
+      "dimensions": [
+        {
+          "label": "Topsoil pile height",
+          "value": 1.2,
+          "value_max": null,
+          "unit": "m",
+          "context": "Dimension indicated beside the topsoil-pile diagram.",
+          "status": "uncertain",
+          "ocr_raw": "1.20 m"
+        },
+        {
+          "label": "Topsoil pile base width",
+          "value": 3.0,
+          "value_max": 4.0,
+          "unit": "m",
+          "context": "Dimension indicated beneath the topsoil-pile diagram.",
+          "status": "uncertain",
+          "ocr_raw": "3–4 m"
+        },
+        {
+          "label": "Quicklime addition to topsoil piles",
+          "value": 0.5,
+          "value_max": null,
+          "unit": "kg/m³",
+          "context": "Addition when turning over stored topsoil; the text recommends turning it over at least once a year.",
+          "status": "uncertain",
+          "ocr_raw": "0.5 kg of quicklime per m³"
+        },
+        {
+          "label": "Rolling layer thickness for cohesive material",
+          "value": 30.0,
+          "value_max": 40.0,
+          "unit": "cm",
+          "context": "Cohesive material is rolled in layers from the outside toward the middle of the filling area.",
+          "status": "uncertain",
+          "ocr_raw": "30-40 cm"
+        },
+        {
+          "label": "Loose soil at lawn surface",
+          "value": 10.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Loose surface soil required for lawns after compaction work.",
+          "status": "uncertain",
+          "ocr_raw": "10 em"
+        },
+        {
+          "label": "Loose soil at planting surface",
+          "value": 40.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Loose surface soil required for planting areas after compaction work.",
+          "status": "uncertain",
+          "ocr_raw": "40 em"
+        },
+        {
+          "label": "Slope-step width",
+          "value": 50.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Steps on higher, steeper banks provide security against slipping; the printed threshold is at least this width.",
+          "status": "uncertain",
+          "ocr_raw": "step width ≥50 cm"
+        }
+      ],
+      "figure_refs": [
+        "1 Topsoil pile",
+        "2 Cohesive material in the core with flat stepping",
+        "3 Soil spreading on slightly sloping surfaces",
+        "4 Filling in layers"
+      ],
+      "cross_refs": [
+        "→ 1",
+        "→ 2",
+        "→ 3",
+        "→ 5"
+      ],
+      "keywords": [
+        "earthworks",
+        "terrain modelling",
+        "topsoil",
+        "soil compaction",
+        "slope protection",
+        "fill"
+      ],
+      "tags_architectural": [
+        "adaptability",
+        "safety",
+        "spatial_proportion"
+      ],
+      "confidence": 0.96
+    },
+    {
+      "id": "4122fb96e4bd1976-441-vision-1",
+      "pdf_page": 441,
+      "book_page": 428,
+      "chapter": "EXTERNAL WORKS",
+      "section": "Earthworks",
+      "title": "Soil categorisation and soil properties",
+      "summary": "Reference tables classify soil into seven classes and describe their composition and excavation characteristics. A second table lists density and angle of repose values for topsoil, loam, gravel, sand, coarse gravel, clay, and dry sand and rubble. The page also describes soil identification by appearance, smell, and rolling it in the fingers.",
+      "building_type": "Landscape and site works",
+      "spaces": [
+        "Earthworks",
+        "Site preparation"
+      ],
+      "uses": [
+        "Classify soil for excavation and earthwork planning",
+        "Consult reference density and angle-of-repose data for soil types"
+      ],
+      "furniture_equipment": [],
+      "dimensions": [],
+      "figure_refs": [
+        "5 Soil categorisation",
+        "6 Density and angle of repose of various soil types"
+      ],
+      "cross_refs": [
+        "→ 5"
+      ],
+      "keywords": [
+        "soil classification",
+        "soil types",
+        "density",
+        "angle of repose",
+        "excavation"
+      ],
+      "tags_architectural": [
+        "safety"
+      ],
+      "confidence": 0.92
+    }
+  ]
+}

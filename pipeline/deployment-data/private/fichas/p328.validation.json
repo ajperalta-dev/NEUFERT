@@ -1,0 +1,196 @@
+{
+  "model": "gpt-6-luna",
+  "checks": {
+    "checks": [
+      {
+        "ficha_index": 0,
+        "dimension_index": 0,
+        "status": "verified",
+        "value": 30.0,
+        "value_max": null,
+        "reason": "The text visibly states that each dirty and clean laundry collection room is 30 m\u00b2."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 1,
+        "status": "verified",
+        "value": 400.0,
+        "value_max": null,
+        "reason": "The text visibly says automatic laundry transport systems are cost effective for large hospitals from 400 beds."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 2,
+        "status": "verified",
+        "value": 30.0,
+        "value_max": 35.0,
+        "reason": "The text visibly gives about 30\u201335 kg per bed and day."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 3,
+        "status": "verified",
+        "value": 15.0,
+        "value_max": null,
+        "reason": "The text visibly states a ramp gradient less than 15%."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 4,
+        "status": "verified",
+        "value": 30.0,
+        "value_max": null,
+        "reason": "The text visibly gives the minimum service-yard size as 30 \u00d7 30 m."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 5,
+        "status": "verified",
+        "value": 30.0,
+        "value_max": null,
+        "reason": "The text visibly gives the minimum service-yard size as 30 \u00d7 30 m."
+      },
+      {
+        "ficha_index": 1,
+        "dimension_index": 0,
+        "status": "verified",
+        "value": 56.2,
+        "value_max": null,
+        "reason": "The figure legend visibly labels the laundry container area as 56.2 m\u00b2."
+      },
+      {
+        "ficha_index": 1,
+        "dimension_index": 1,
+        "status": "verified",
+        "value": 162.6,
+        "value_max": null,
+        "reason": "The figure legend visibly labels clean goods-transport storage as 162.6 m\u00b2."
+      },
+      {
+        "ficha_index": 1,
+        "dimension_index": 2,
+        "status": "verified",
+        "value": 27.1,
+        "value_max": null,
+        "reason": "The figure legend visibly labels the control centre as 27.1 m\u00b2."
+      },
+      {
+        "ficha_index": 1,
+        "dimension_index": 3,
+        "status": "verified",
+        "value": 24.3,
+        "value_max": null,
+        "reason": "The figure legend visibly labels the office as 24.3 m\u00b2."
+      },
+      {
+        "ficha_index": 1,
+        "dimension_index": 4,
+        "status": "uncertain",
+        "value": 26.98,
+        "value_max": null,
+        "reason": "The plan dimension is printed as 26.98 with a superscript-like mark; the unit is not visibly stated."
+      },
+      {
+        "ficha_index": 1,
+        "dimension_index": 5,
+        "status": "uncertain",
+        "value": 31.7,
+        "value_max": null,
+        "reason": "The plan dimension is visibly marked 31.70, but its unit is not visibly stated."
+      },
+      {
+        "ficha_index": 1,
+        "dimension_index": 6,
+        "status": "verified",
+        "value": 150.0,
+        "value_max": null,
+        "reason": "The figure caption visibly states \u201cStaff restaurant for 150 staff.\u201d"
+      }
+    ]
+  },
+  "automatic": [
+    {
+      "ficha_index": 0,
+      "dimension_index": 0,
+      "issues": []
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 1,
+      "issues": [
+        "Unknown unit"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 2,
+      "issues": [
+        "Unknown unit"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 3,
+      "issues": [
+        "Unknown unit"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 4,
+      "issues": []
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 5,
+      "issues": []
+    },
+    {
+      "ficha_index": 1,
+      "dimension_index": 0,
+      "issues": []
+    },
+    {
+      "ficha_index": 1,
+      "dimension_index": 1,
+      "issues": []
+    },
+    {
+      "ficha_index": 1,
+      "dimension_index": 2,
+      "issues": []
+    },
+    {
+      "ficha_index": 1,
+      "dimension_index": 3,
+      "issues": []
+    },
+    {
+      "ficha_index": 1,
+      "dimension_index": 4,
+      "issues": []
+    },
+    {
+      "ficha_index": 1,
+      "dimension_index": 5,
+      "issues": []
+    },
+    {
+      "ficha_index": 1,
+      "dimension_index": 6,
+      "issues": [
+        "Unknown unit"
+      ]
+    }
+  ],
+  "usage": [
+    {
+      "prompt_tokens": 4433,
+      "completion_tokens": 1629
+    },
+    {
+      "prompt_tokens": 4734,
+      "completion_tokens": 854
+    }
+  ]
+}

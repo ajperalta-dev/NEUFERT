@@ -1,0 +1,391 @@
+{
+  "fichas": [
+    {
+      "id": "4122fb96e4bd1976-47-vision-0",
+      "pdf_page": 47,
+      "book_page": 34,
+      "chapter": "BASICS",
+      "section": "Dimensional Basics and Relationships",
+      "title": "Preferred Numbers and Building Dimensions",
+      "summary": "Explains preferred-number series and how modular, individual, structural, finished, and nominal dimensions relate in building. Modular dimensions are theoretical reference dimensions; joints or finishes may be added or deducted to obtain dimensions used in practice.",
+      "building_type": "General building construction",
+      "spaces": [],
+      "uses": [
+        "Coordinate dimensions for building components",
+        "Select standardised dimensions for construction elements"
+      ],
+      "furniture_equipment": [],
+      "dimensions": [
+        {
+          "label": "Base unit of length",
+          "value": 1.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Preferred-number series; the metre is given as the continental unit of length.",
+          "status": "verified",
+          "ocr_raw": "the continental unit of length the metre"
+        },
+        {
+          "label": "Preferred-number series, geometrical 10-part",
+          "value": 1.0,
+          "value_max": null,
+          "unit": "preferred-number sequence",
+          "context": "Sequence stated in the text; values are not physical dimensions.",
+          "status": "uncertain",
+          "ocr_raw": "1; 2; 4; 8; 16; 31.5; 63; 125; 250; 500;\n1000",
+          "status_history": [
+            {
+              "status": "uncertain",
+              "value": 1.0,
+              "value_max": null,
+              "timestamp": "2026-11-13T11:38:05.978341+00:00"
+            }
+          ],
+          "original_value": 1.0,
+          "verification_pass2": {
+            "model": "gpt-6-luna",
+            "locator": "tiles",
+            "bbox": [
+              0.5153333333333333,
+              0.15408333333333332,
+              0.6916666666666667,
+              0.17558333333333334
+            ],
+            "crop_bbox": [
+              0.43468817978134605,
+              0.09708703808080461,
+              0.7723118510848865,
+              0.232579639191303
+            ],
+            "crop_path": "crops\\p047_4122fb96e4bd1976-47-vision-0_1.png",
+            "read_value": {
+              "printed": "",
+              "unit": "",
+              "unreadable": true,
+              "reason": "The sequence is cropped at the right edge after \u201c31\u201d, so the printed number/range cannot be read completely."
+            },
+            "outcome": "uncertain",
+            "reason": "unreadable",
+            "timestamp": "2026-11-13T11:38:05.978341+00:00",
+            "warning": "Same model as first pass; independent cropped prompt only.",
+            "before": {
+              "label": "Preferred-number series, geometrical 10-part",
+              "value": 1.0,
+              "value_max": null,
+              "unit": "preferred-number sequence",
+              "context": "Sequence stated in the text; values are not physical dimensions.",
+              "status": "uncertain",
+              "ocr_raw": "1; 2; 4; 8; 16; 31.5; 63; 125; 250; 500;\n1000"
+            }
+          }
+        },
+        {
+          "label": "Modular brick length",
+          "value": 25.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Example relating modular, joint, and nominal brick length.",
+          "status": "verified",
+          "ocr_raw": "DIMENSIONAL BASICS AND RELATIONSHIPS\nDimensions in Building\n\nDIMENSIONAL\nBASICS AND\nRELATION\u00b7\nSHIPS\nMan as measure\n\nstBndard dimensions: 250 x 126 x 62.5mm\n\nand purpose\n\nnominal dimensions: 240 x 115 x 52mm\n\nThe universal\nstandard\nBody\nmeasurements\n\nQ Nominal and standard size of continental European wall bricks\n\nand space\n\nreqUirements\nGeometrical\nrelationships\nDimensions in\n\nbuilding\nBS 6Y50\nBS EN ISO 8560\nBS 2045\nDIN 323\nDIN 4172\n\nPreferred numbers\nPreferred numbers have been introduced for the standardised\nsizing of machinery and technical devices. The starting point is\nthe continental unit of length the metre (-'> 40 in). The engineering\nrequirement for geometrical graduation made the purely decimal\ndivision of the metre impractical. The geometrical 10-part preferred\nnumber series is therefore: 1; 2; 4; 8; 16; 31.5; 63; 125; 250; 500;\n1000. These are formed from the halving series (1000, 500, 250,\n125) and the doubling series (1, 2, 4, 8, 16); the doubling number\n32 was rounded down to 31.5 towards the exact value of the halving\nnumber (31.25), and the halving number 62.5 was rounded up to 63.\nThe larger 5-part and the finer 20- and 40-part series fit in\naccordingly with their intermediate numbers.\nPreferred numbers offer many advantages for calculation:\nproducts and quotients of any number of preferred numbers are\nthemselves preferred numbers, whole-number percentages of\npreferred numbers are again preferred numbers, and doubled and\nhalved preferred numbers also remain preferred numbers.\nAlthough there is scarcely a need for geometrical graduation in\nbuilding (considering the predominantly arithmetical addition of\nsimilar elements like: blocks, joists, rafters, trusses, columns,\nwindows and similar) the so-called building preferred numbers\nhave been defined and laid down.\nBrickwork dimensions in the UK differ: in the past large variations\nin the size of fired clay products often led to critical problems\nwith bonding clay bricks. Now, BS 3921 provides one standard\nfor dimensioning -'> 0: coordinating size (225 x 112.5 x 75 mm,\nincluding 10 mm in each direction for joints and tolerances), and the\nrelating work size (215 [2 headers plus 1 joint] x 102.5 x 65 mm).\nSeries preferred for individual\ndimensions\n\nSeries preferred for the structure\n\na\n\nb\n\nc\n\nd\n\n25\n\n2\n\n25\n\n1\u00a5\n\n4\n\n25\n\nf) Modular structural dimensions (RR) and nominal dimensions (NM) for brickwork\n\n8%\n12%\n\n16%\n\n34\n\n18%\n\n25\n\n25\n\n25\n31%\n\n331;3\n\n43%\n\n50\n\n50\n\n50\n56%\n\n58%\n62%\n\n75\n\n75\n\n62%\n\n68%\n\n67.5\n\n75\n\n75\n81Yi\n\n70\n72.5\n75\n80\n\n93?::i\n\n100\n\n20\n\n20\n\n20\n\n25\n\n25\n30\n\n30\n35\n40\n\n40\n\n45\n50\n\n50\n\n40\n50\n\n55\n60\n\n60\n\n60\n\n65\n70\n\n70\n\n75\n80\n\n80\n\n75\n80\n\n100\n\n85\n90\n\n90\n\n95\n100\n\n100\n\n100\n\n100\n\nBuilding preferred numbers\n225\n\n225\n\n215\n\n215\n\nw w ~f102.6\n102.5\n\n102.5\n\n225\n10\n\nw102.6\n\nI 112.5 I 112.5 I 112.5 I 112.5\n\n0\n\n10\n\n15\n\n85\n87.5\n90\n92.5\n95\n97.5\n100\n\n91%\n\n100\n\n5\n10\n\n82.5\n\n87%\n\n87%\n\n100\n\ni\n5x5\n\n66\n\n83%\n\ne\n\nh\n4x5\n\n35\n37.5\n40\n42.5\n45\n50\n52.5\n55\n57.5\n60\n62.5\n65\n\n41%\n\n50\n\ng\n\n2x5\n\n32.5%\n37Y.,\n\n37%\n\nf\n\n5\n\n2.5\n5\n7.5\n10\n12.5\n15\n17.5\n20\n22.5\n25\n27.5\n30\n\n1211,\n\nTerms\nBuilding preferred numbers are those for modular construction\ndimensions and the individual, structural and finished dimensions\nderived from them.\nModular dimensions are only theoretical dimensions, but are\nthe basis for the individual, structural and finished dimensions\nused in practice. Structural dimensions or nominal dimensions (for\nconstruction types with joints and wall finishes) are derived from\nmodular dimensions by deducting or adding the component for the\njoint or the finish thickness. (Example: modular dimension for the\nlength of a brick=25 em; thickness of the vertical joint= 1 em; nominal\ndimension for the length of the brick= 24 em; modular dimension for\nthe thickness of poured concrete walls= nominal dimension= 25 em).\nIndividual dimensions are dimensions (mostly small} for\nunits of structure or finishing such as joint thicknesses, plaster\nthicknesses, door rebate sizes, wall projection sizes, tolerances.\nStructural dimensions are of the unfinished structure, such as\nmasonry dimensions (without plaster thicknesses), structural slab\nthicknesses, sizes of unplastered door and window openings.\nFinished dimensions are for the finished building, such as clear\nsizes of plastered rooms and openings, storage space dimensions,\nfloor-to-floor heights.\nNominal dimensions are the same as modular dimensions for\nbuilding types without joints. For building types with joints,\nthe nominal dimension is the modular dimension less the joint\nthicknesses.\nSmall dimensions are 2.5 em and less. They can be selected from\nthe sizes: 2.5 em; 2 em; 1.6 em; 1.25 em; 1 em; 8 mm; 6.3 mm;\n5 mm; 3.2 mm; 2.5 mm; 2 mm; 1.6 mm; 1.25 mm; 1 mm.\n\ne\n25\n\nTO\n\n6%\n\nSeries preferred for finishings\n\n215\n\n225\n\n225\n\n10\n\n10\n\n215\n\n215\n\nw102.5 w102.6 w102.6 w102.5 w102.5 w\n1\n\n112,5 I 112.5\n\n1\n\n112.6\n\n1\n\n112.6 I 112.5 I\n\nWall elevation illustrating brick sizes in the UK\n\n10\n\n10 mm: joints\n65 mm: actual\n75 mm: format\n102.6 mm: actual\n112.5 mm: format\n215 mm: actual\n225 mm; format\n\n\f"
+        },
+        {
+          "label": "Vertical joint thickness",
+          "value": 1.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Example: deducted from the modular brick length to obtain the nominal length.",
+          "status": "verified",
+          "ocr_raw": "DIMENSIONAL BASICS AND RELATIONSHIPS\nDimensions in Building\n\nDIMENSIONAL\nBASICS AND\nRELATION\u00b7\nSHIPS\nMan as measure\n\nstBndard dimensions: 250 x 126 x 62.5mm\n\nand purpose\n\nnominal dimensions: 240 x 115 x 52mm\n\nThe universal\nstandard\nBody\nmeasurements\n\nQ Nominal and standard size of continental European wall bricks\n\nand space\n\nreqUirements\nGeometrical\nrelationships\nDimensions in\n\nbuilding\nBS 6Y50\nBS EN ISO 8560\nBS 2045\nDIN 323\nDIN 4172\n\nPreferred numbers\nPreferred numbers have been introduced for the standardised\nsizing of machinery and technical devices. The starting point is\nthe continental unit of length the metre (-'> 40 in). The engineering\nrequirement for geometrical graduation made the purely decimal\ndivision of the metre impractical. The geometrical 10-part preferred\nnumber series is therefore: 1; 2; 4; 8; 16; 31.5; 63; 125; 250; 500;\n1000. These are formed from the halving series (1000, 500, 250,\n125) and the doubling series (1, 2, 4, 8, 16); the doubling number\n32 was rounded down to 31.5 towards the exact value of the halving\nnumber (31.25), and the halving number 62.5 was rounded up to 63.\nThe larger 5-part and the finer 20- and 40-part series fit in\naccordingly with their intermediate numbers.\nPreferred numbers offer many advantages for calculation:\nproducts and quotients of any number of preferred numbers are\nthemselves preferred numbers, whole-number percentages of\npreferred numbers are again preferred numbers, and doubled and\nhalved preferred numbers also remain preferred numbers.\nAlthough there is scarcely a need for geometrical graduation in\nbuilding (considering the predominantly arithmetical addition of\nsimilar elements like: blocks, joists, rafters, trusses, columns,\nwindows and similar) the so-called building preferred numbers\nhave been defined and laid down.\nBrickwork dimensions in the UK differ: in the past large variations\nin the size of fired clay products often led to critical problems\nwith bonding clay bricks. Now, BS 3921 provides one standard\nfor dimensioning -'> 0: coordinating size (225 x 112.5 x 75 mm,\nincluding 10 mm in each direction for joints and tolerances), and the\nrelating work size (215 [2 headers plus 1 joint] x 102.5 x 65 mm).\nSeries preferred for individual\ndimensions\n\nSeries preferred for the structure\n\na\n\nb\n\nc\n\nd\n\n25\n\n2\n\n25\n\n1\u00a5\n\n4\n\n25\n\nf) Modular structural dimensions (RR) and nominal dimensions (NM) for brickwork\n\n8%\n12%\n\n16%\n\n34\n\n18%\n\n25\n\n25\n\n25\n31%\n\n331;3\n\n43%\n\n50\n\n50\n\n50\n56%\n\n58%\n62%\n\n75\n\n75\n\n62%\n\n68%\n\n67.5\n\n75\n\n75\n81Yi\n\n70\n72.5\n75\n80\n\n93?::i\n\n100\n\n20\n\n20\n\n20\n\n25\n\n25\n30\n\n30\n35\n40\n\n40\n\n45\n50\n\n50\n\n40\n50\n\n55\n60\n\n60\n\n60\n\n65\n70\n\n70\n\n75\n80\n\n80\n\n75\n80\n\n100\n\n85\n90\n\n90\n\n95\n100\n\n100\n\n100\n\n100\n\nBuilding preferred numbers\n225\n\n225\n\n215\n\n215\n\nw w ~f102.6\n102.5\n\n102.5\n\n225\n10\n\nw102.6\n\nI 112.5 I 112.5 I 112.5 I 112.5\n\n0\n\n10\n\n15\n\n85\n87.5\n90\n92.5\n95\n97.5\n100\n\n91%\n\n100\n\n5\n10\n\n82.5\n\n87%\n\n87%\n\n100\n\ni\n5x5\n\n66\n\n83%\n\ne\n\nh\n4x5\n\n35\n37.5\n40\n42.5\n45\n50\n52.5\n55\n57.5\n60\n62.5\n65\n\n41%\n\n50\n\ng\n\n2x5\n\n32.5%\n37Y.,\n\n37%\n\nf\n\n5\n\n2.5\n5\n7.5\n10\n12.5\n15\n17.5\n20\n22.5\n25\n27.5\n30\n\n1211,\n\nTerms\nBuilding preferred numbers are those for modular construction\ndimensions and the individual, structural and finished dimensions\nderived from them.\nModular dimensions are only theoretical dimensions, but are\nthe basis for the individual, structural and finished dimensions\nused in practice. Structural dimensions or nominal dimensions (for\nconstruction types with joints and wall finishes) are derived from\nmodular dimensions by deducting or adding the component for the\njoint or the finish thickness. (Example: modular dimension for the\nlength of a brick=25 em; thickness of the vertical joint= 1 em; nominal\ndimension for the length of the brick= 24 em; modular dimension for\nthe thickness of poured concrete walls= nominal dimension= 25 em).\nIndividual dimensions are dimensions (mostly small} for\nunits of structure or finishing such as joint thicknesses, plaster\nthicknesses, door rebate sizes, wall projection sizes, tolerances.\nStructural dimensions are of the unfinished structure, such as\nmasonry dimensions (without plaster thicknesses), structural slab\nthicknesses, sizes of unplastered door and window openings.\nFinished dimensions are for the finished building, such as clear\nsizes of plastered rooms and openings, storage space dimensions,\nfloor-to-floor heights.\nNominal dimensions are the same as modular dimensions for\nbuilding types without joints. For building types with joints,\nthe nominal dimension is the modular dimension less the joint\nthicknesses.\nSmall dimensions are 2.5 em and less. They can be selected from\nthe sizes: 2.5 em; 2 em; 1.6 em; 1.25 em; 1 em; 8 mm; 6.3 mm;\n5 mm; 3.2 mm; 2.5 mm; 2 mm; 1.6 mm; 1.25 mm; 1 mm.\n\ne\n25\n\nTO\n\n6%\n\nSeries preferred for finishings\n\n215\n\n225\n\n225\n\n10\n\n10\n\n215\n\n215\n\nw102.5 w102.6 w102.6 w102.5 w102.5 w\n1\n\n112,5 I 112.5\n\n1\n\n112.6\n\n1\n\n112.6 I 112.5 I\n\nWall elevation illustrating brick sizes in the UK\n\n10\n\n10 mm: joints\n65 mm: actual\n75 mm: format\n102.6 mm: actual\n112.5 mm: format\n215 mm: actual\n225 mm; format\n\n\f"
+        },
+        {
+          "label": "Nominal brick length",
+          "value": 24.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Example: modular brick length less the vertical joint thickness.",
+          "status": "verified",
+          "ocr_raw": "DIMENSIONAL BASICS AND RELATIONSHIPS\nDimensions in Building\n\nDIMENSIONAL\nBASICS AND\nRELATION\u00b7\nSHIPS\nMan as measure\n\nstBndard dimensions: 250 x 126 x 62.5mm\n\nand purpose\n\nnominal dimensions: 240 x 115 x 52mm\n\nThe universal\nstandard\nBody\nmeasurements\n\nQ Nominal and standard size of continental European wall bricks\n\nand space\n\nreqUirements\nGeometrical\nrelationships\nDimensions in\n\nbuilding\nBS 6Y50\nBS EN ISO 8560\nBS 2045\nDIN 323\nDIN 4172\n\nPreferred numbers\nPreferred numbers have been introduced for the standardised\nsizing of machinery and technical devices. The starting point is\nthe continental unit of length the metre (-'> 40 in). The engineering\nrequirement for geometrical graduation made the purely decimal\ndivision of the metre impractical. The geometrical 10-part preferred\nnumber series is therefore: 1; 2; 4; 8; 16; 31.5; 63; 125; 250; 500;\n1000. These are formed from the halving series (1000, 500, 250,\n125) and the doubling series (1, 2, 4, 8, 16); the doubling number\n32 was rounded down to 31.5 towards the exact value of the halving\nnumber (31.25), and the halving number 62.5 was rounded up to 63.\nThe larger 5-part and the finer 20- and 40-part series fit in\naccordingly with their intermediate numbers.\nPreferred numbers offer many advantages for calculation:\nproducts and quotients of any number of preferred numbers are\nthemselves preferred numbers, whole-number percentages of\npreferred numbers are again preferred numbers, and doubled and\nhalved preferred numbers also remain preferred numbers.\nAlthough there is scarcely a need for geometrical graduation in\nbuilding (considering the predominantly arithmetical addition of\nsimilar elements like: blocks, joists, rafters, trusses, columns,\nwindows and similar) the so-called building preferred numbers\nhave been defined and laid down.\nBrickwork dimensions in the UK differ: in the past large variations\nin the size of fired clay products often led to critical problems\nwith bonding clay bricks. Now, BS 3921 provides one standard\nfor dimensioning -'> 0: coordinating size (225 x 112.5 x 75 mm,\nincluding 10 mm in each direction for joints and tolerances), and the\nrelating work size (215 [2 headers plus 1 joint] x 102.5 x 65 mm).\nSeries preferred for individual\ndimensions\n\nSeries preferred for the structure\n\na\n\nb\n\nc\n\nd\n\n25\n\n2\n\n25\n\n1\u00a5\n\n4\n\n25\n\nf) Modular structural dimensions (RR) and nominal dimensions (NM) for brickwork\n\n8%\n12%\n\n16%\n\n34\n\n18%\n\n25\n\n25\n\n25\n31%\n\n331;3\n\n43%\n\n50\n\n50\n\n50\n56%\n\n58%\n62%\n\n75\n\n75\n\n62%\n\n68%\n\n67.5\n\n75\n\n75\n81Yi\n\n70\n72.5\n75\n80\n\n93?::i\n\n100\n\n20\n\n20\n\n20\n\n25\n\n25\n30\n\n30\n35\n40\n\n40\n\n45\n50\n\n50\n\n40\n50\n\n55\n60\n\n60\n\n60\n\n65\n70\n\n70\n\n75\n80\n\n80\n\n75\n80\n\n100\n\n85\n90\n\n90\n\n95\n100\n\n100\n\n100\n\n100\n\nBuilding preferred numbers\n225\n\n225\n\n215\n\n215\n\nw w ~f102.6\n102.5\n\n102.5\n\n225\n10\n\nw102.6\n\nI 112.5 I 112.5 I 112.5 I 112.5\n\n0\n\n10\n\n15\n\n85\n87.5\n90\n92.5\n95\n97.5\n100\n\n91%\n\n100\n\n5\n10\n\n82.5\n\n87%\n\n87%\n\n100\n\ni\n5x5\n\n66\n\n83%\n\ne\n\nh\n4x5\n\n35\n37.5\n40\n42.5\n45\n50\n52.5\n55\n57.5\n60\n62.5\n65\n\n41%\n\n50\n\ng\n\n2x5\n\n32.5%\n37Y.,\n\n37%\n\nf\n\n5\n\n2.5\n5\n7.5\n10\n12.5\n15\n17.5\n20\n22.5\n25\n27.5\n30\n\n1211,\n\nTerms\nBuilding preferred numbers are those for modular construction\ndimensions and the individual, structural and finished dimensions\nderived from them.\nModular dimensions are only theoretical dimensions, but are\nthe basis for the individual, structural and finished dimensions\nused in practice. Structural dimensions or nominal dimensions (for\nconstruction types with joints and wall finishes) are derived from\nmodular dimensions by deducting or adding the component for the\njoint or the finish thickness. (Example: modular dimension for the\nlength of a brick=25 em; thickness of the vertical joint= 1 em; nominal\ndimension for the length of the brick= 24 em; modular dimension for\nthe thickness of poured concrete walls= nominal dimension= 25 em).\nIndividual dimensions are dimensions (mostly small} for\nunits of structure or finishing such as joint thicknesses, plaster\nthicknesses, door rebate sizes, wall projection sizes, tolerances.\nStructural dimensions are of the unfinished structure, such as\nmasonry dimensions (without plaster thicknesses), structural slab\nthicknesses, sizes of unplastered door and window openings.\nFinished dimensions are for the finished building, such as clear\nsizes of plastered rooms and openings, storage space dimensions,\nfloor-to-floor heights.\nNominal dimensions are the same as modular dimensions for\nbuilding types without joints. For building types with joints,\nthe nominal dimension is the modular dimension less the joint\nthicknesses.\nSmall dimensions are 2.5 em and less. They can be selected from\nthe sizes: 2.5 em; 2 em; 1.6 em; 1.25 em; 1 em; 8 mm; 6.3 mm;\n5 mm; 3.2 mm; 2.5 mm; 2 mm; 1.6 mm; 1.25 mm; 1 mm.\n\ne\n25\n\nTO\n\n6%\n\nSeries preferred for finishings\n\n215\n\n225\n\n225\n\n10\n\n10\n\n215\n\n215\n\nw102.5 w102.6 w102.6 w102.5 w102.5 w\n1\n\n112,5 I 112.5\n\n1\n\n112.6\n\n1\n\n112.6 I 112.5 I\n\nWall elevation illustrating brick sizes in the UK\n\n10\n\n10 mm: joints\n65 mm: actual\n75 mm: format\n102.6 mm: actual\n112.5 mm: format\n215 mm: actual\n225 mm; format\n\n\f"
+        },
+        {
+          "label": "Poured concrete wall thickness",
+          "value": 25.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Example where modular and nominal dimensions are equal.",
+          "status": "verified",
+          "ocr_raw": "DIMENSIONAL BASICS AND RELATIONSHIPS\nDimensions in Building\n\nDIMENSIONAL\nBASICS AND\nRELATION\u00b7\nSHIPS\nMan as measure\n\nstBndard dimensions: 250 x 126 x 62.5mm\n\nand purpose\n\nnominal dimensions: 240 x 115 x 52mm\n\nThe universal\nstandard\nBody\nmeasurements\n\nQ Nominal and standard size of continental European wall bricks\n\nand space\n\nreqUirements\nGeometrical\nrelationships\nDimensions in\n\nbuilding\nBS 6Y50\nBS EN ISO 8560\nBS 2045\nDIN 323\nDIN 4172\n\nPreferred numbers\nPreferred numbers have been introduced for the standardised\nsizing of machinery and technical devices. The starting point is\nthe continental unit of length the metre (-'> 40 in). The engineering\nrequirement for geometrical graduation made the purely decimal\ndivision of the metre impractical. The geometrical 10-part preferred\nnumber series is therefore: 1; 2; 4; 8; 16; 31.5; 63; 125; 250; 500;\n1000. These are formed from the halving series (1000, 500, 250,\n125) and the doubling series (1, 2, 4, 8, 16); the doubling number\n32 was rounded down to 31.5 towards the exact value of the halving\nnumber (31.25), and the halving number 62.5 was rounded up to 63.\nThe larger 5-part and the finer 20- and 40-part series fit in\naccordingly with their intermediate numbers.\nPreferred numbers offer many advantages for calculation:\nproducts and quotients of any number of preferred numbers are\nthemselves preferred numbers, whole-number percentages of\npreferred numbers are again preferred numbers, and doubled and\nhalved preferred numbers also remain preferred numbers.\nAlthough there is scarcely a need for geometrical graduation in\nbuilding (considering the predominantly arithmetical addition of\nsimilar elements like: blocks, joists, rafters, trusses, columns,\nwindows and similar) the so-called building preferred numbers\nhave been defined and laid down.\nBrickwork dimensions in the UK differ: in the past large variations\nin the size of fired clay products often led to critical problems\nwith bonding clay bricks. Now, BS 3921 provides one standard\nfor dimensioning -'> 0: coordinating size (225 x 112.5 x 75 mm,\nincluding 10 mm in each direction for joints and tolerances), and the\nrelating work size (215 [2 headers plus 1 joint] x 102.5 x 65 mm).\nSeries preferred for individual\ndimensions\n\nSeries preferred for the structure\n\na\n\nb\n\nc\n\nd\n\n25\n\n2\n\n25\n\n1\u00a5\n\n4\n\n25\n\nf) Modular structural dimensions (RR) and nominal dimensions (NM) for brickwork\n\n8%\n12%\n\n16%\n\n34\n\n18%\n\n25\n\n25\n\n25\n31%\n\n331;3\n\n43%\n\n50\n\n50\n\n50\n56%\n\n58%\n62%\n\n75\n\n75\n\n62%\n\n68%\n\n67.5\n\n75\n\n75\n81Yi\n\n70\n72.5\n75\n80\n\n93?::i\n\n100\n\n20\n\n20\n\n20\n\n25\n\n25\n30\n\n30\n35\n40\n\n40\n\n45\n50\n\n50\n\n40\n50\n\n55\n60\n\n60\n\n60\n\n65\n70\n\n70\n\n75\n80\n\n80\n\n75\n80\n\n100\n\n85\n90\n\n90\n\n95\n100\n\n100\n\n100\n\n100\n\nBuilding preferred numbers\n225\n\n225\n\n215\n\n215\n\nw w ~f102.6\n102.5\n\n102.5\n\n225\n10\n\nw102.6\n\nI 112.5 I 112.5 I 112.5 I 112.5\n\n0\n\n10\n\n15\n\n85\n87.5\n90\n92.5\n95\n97.5\n100\n\n91%\n\n100\n\n5\n10\n\n82.5\n\n87%\n\n87%\n\n100\n\ni\n5x5\n\n66\n\n83%\n\ne\n\nh\n4x5\n\n35\n37.5\n40\n42.5\n45\n50\n52.5\n55\n57.5\n60\n62.5\n65\n\n41%\n\n50\n\ng\n\n2x5\n\n32.5%\n37Y.,\n\n37%\n\nf\n\n5\n\n2.5\n5\n7.5\n10\n12.5\n15\n17.5\n20\n22.5\n25\n27.5\n30\n\n1211,\n\nTerms\nBuilding preferred numbers are those for modular construction\ndimensions and the individual, structural and finished dimensions\nderived from them.\nModular dimensions are only theoretical dimensions, but are\nthe basis for the individual, structural and finished dimensions\nused in practice. Structural dimensions or nominal dimensions (for\nconstruction types with joints and wall finishes) are derived from\nmodular dimensions by deducting or adding the component for the\njoint or the finish thickness. (Example: modular dimension for the\nlength of a brick=25 em; thickness of the vertical joint= 1 em; nominal\ndimension for the length of the brick= 24 em; modular dimension for\nthe thickness of poured concrete walls= nominal dimension= 25 em).\nIndividual dimensions are dimensions (mostly small} for\nunits of structure or finishing such as joint thicknesses, plaster\nthicknesses, door rebate sizes, wall projection sizes, tolerances.\nStructural dimensions are of the unfinished structure, such as\nmasonry dimensions (without plaster thicknesses), structural slab\nthicknesses, sizes of unplastered door and window openings.\nFinished dimensions are for the finished building, such as clear\nsizes of plastered rooms and openings, storage space dimensions,\nfloor-to-floor heights.\nNominal dimensions are the same as modular dimensions for\nbuilding types without joints. For building types with joints,\nthe nominal dimension is the modular dimension less the joint\nthicknesses.\nSmall dimensions are 2.5 em and less. They can be selected from\nthe sizes: 2.5 em; 2 em; 1.6 em; 1.25 em; 1 em; 8 mm; 6.3 mm;\n5 mm; 3.2 mm; 2.5 mm; 2 mm; 1.6 mm; 1.25 mm; 1 mm.\n\ne\n25\n\nTO\n\n6%\n\nSeries preferred for finishings\n\n215\n\n225\n\n225\n\n10\n\n10\n\n215\n\n215\n\nw102.5 w102.6 w102.6 w102.5 w102.5 w\n1\n\n112,5 I 112.5\n\n1\n\n112.6\n\n1\n\n112.6 I 112.5 I\n\nWall elevation illustrating brick sizes in the UK\n\n10\n\n10 mm: joints\n65 mm: actual\n75 mm: format\n102.6 mm: actual\n112.5 mm: format\n215 mm: actual\n225 mm; format\n\n\f"
+        },
+        {
+          "label": "Small-dimension threshold",
+          "value": 2.5,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Small dimensions are defined as this size or less.",
+          "status": "verified",
+          "ocr_raw": "DIMENSIONAL BASICS AND RELATIONSHIPS\nDimensions in Building\n\nDIMENSIONAL\nBASICS AND\nRELATION\u00b7\nSHIPS\nMan as measure\n\nstBndard dimensions: 250 x 126 x 62.5mm\n\nand purpose\n\nnominal dimensions: 240 x 115 x 52mm\n\nThe universal\nstandard\nBody\nmeasurements\n\nQ Nominal and standard size of continental European wall bricks\n\nand space\n\nreqUirements\nGeometrical\nrelationships\nDimensions in\n\nbuilding\nBS 6Y50\nBS EN ISO 8560\nBS 2045\nDIN 323\nDIN 4172\n\nPreferred numbers\nPreferred numbers have been introduced for the standardised\nsizing of machinery and technical devices. The starting point is\nthe continental unit of length the metre (-'> 40 in). The engineering\nrequirement for geometrical graduation made the purely decimal\ndivision of the metre impractical. The geometrical 10-part preferred\nnumber series is therefore: 1; 2; 4; 8; 16; 31.5; 63; 125; 250; 500;\n1000. These are formed from the halving series (1000, 500, 250,\n125) and the doubling series (1, 2, 4, 8, 16); the doubling number\n32 was rounded down to 31.5 towards the exact value of the halving\nnumber (31.25), and the halving number 62.5 was rounded up to 63.\nThe larger 5-part and the finer 20- and 40-part series fit in\naccordingly with their intermediate numbers.\nPreferred numbers offer many advantages for calculation:\nproducts and quotients of any number of preferred numbers are\nthemselves preferred numbers, whole-number percentages of\npreferred numbers are again preferred numbers, and doubled and\nhalved preferred numbers also remain preferred numbers.\nAlthough there is scarcely a need for geometrical graduation in\nbuilding (considering the predominantly arithmetical addition of\nsimilar elements like: blocks, joists, rafters, trusses, columns,\nwindows and similar) the so-called building preferred numbers\nhave been defined and laid down.\nBrickwork dimensions in the UK differ: in the past large variations\nin the size of fired clay products often led to critical problems\nwith bonding clay bricks. Now, BS 3921 provides one standard\nfor dimensioning -'> 0: coordinating size (225 x 112.5 x 75 mm,\nincluding 10 mm in each direction for joints and tolerances), and the\nrelating work size (215 [2 headers plus 1 joint] x 102.5 x 65 mm).\nSeries preferred for individual\ndimensions\n\nSeries preferred for the structure\n\na\n\nb\n\nc\n\nd\n\n25\n\n2\n\n25\n\n1\u00a5\n\n4\n\n25\n\nf) Modular structural dimensions (RR) and nominal dimensions (NM) for brickwork\n\n8%\n12%\n\n16%\n\n34\n\n18%\n\n25\n\n25\n\n25\n31%\n\n331;3\n\n43%\n\n50\n\n50\n\n50\n56%\n\n58%\n62%\n\n75\n\n75\n\n62%\n\n68%\n\n67.5\n\n75\n\n75\n81Yi\n\n70\n72.5\n75\n80\n\n93?::i\n\n100\n\n20\n\n20\n\n20\n\n25\n\n25\n30\n\n30\n35\n40\n\n40\n\n45\n50\n\n50\n\n40\n50\n\n55\n60\n\n60\n\n60\n\n65\n70\n\n70\n\n75\n80\n\n80\n\n75\n80\n\n100\n\n85\n90\n\n90\n\n95\n100\n\n100\n\n100\n\n100\n\nBuilding preferred numbers\n225\n\n225\n\n215\n\n215\n\nw w ~f102.6\n102.5\n\n102.5\n\n225\n10\n\nw102.6\n\nI 112.5 I 112.5 I 112.5 I 112.5\n\n0\n\n10\n\n15\n\n85\n87.5\n90\n92.5\n95\n97.5\n100\n\n91%\n\n100\n\n5\n10\n\n82.5\n\n87%\n\n87%\n\n100\n\ni\n5x5\n\n66\n\n83%\n\ne\n\nh\n4x5\n\n35\n37.5\n40\n42.5\n45\n50\n52.5\n55\n57.5\n60\n62.5\n65\n\n41%\n\n50\n\ng\n\n2x5\n\n32.5%\n37Y.,\n\n37%\n\nf\n\n5\n\n2.5\n5\n7.5\n10\n12.5\n15\n17.5\n20\n22.5\n25\n27.5\n30\n\n1211,\n\nTerms\nBuilding preferred numbers are those for modular construction\ndimensions and the individual, structural and finished dimensions\nderived from them.\nModular dimensions are only theoretical dimensions, but are\nthe basis for the individual, structural and finished dimensions\nused in practice. Structural dimensions or nominal dimensions (for\nconstruction types with joints and wall finishes) are derived from\nmodular dimensions by deducting or adding the component for the\njoint or the finish thickness. (Example: modular dimension for the\nlength of a brick=25 em; thickness of the vertical joint= 1 em; nominal\ndimension for the length of the brick= 24 em; modular dimension for\nthe thickness of poured concrete walls= nominal dimension= 25 em).\nIndividual dimensions are dimensions (mostly small} for\nunits of structure or finishing such as joint thicknesses, plaster\nthicknesses, door rebate sizes, wall projection sizes, tolerances.\nStructural dimensions are of the unfinished structure, such as\nmasonry dimensions (without plaster thicknesses), structural slab\nthicknesses, sizes of unplastered door and window openings.\nFinished dimensions are for the finished building, such as clear\nsizes of plastered rooms and openings, storage space dimensions,\nfloor-to-floor heights.\nNominal dimensions are the same as modular dimensions for\nbuilding types without joints. For building types with joints,\nthe nominal dimension is the modular dimension less the joint\nthicknesses.\nSmall dimensions are 2.5 em and less. They can be selected from\nthe sizes: 2.5 em; 2 em; 1.6 em; 1.25 em; 1 em; 8 mm; 6.3 mm;\n5 mm; 3.2 mm; 2.5 mm; 2 mm; 1.6 mm; 1.25 mm; 1 mm.\n\ne\n25\n\nTO\n\n6%\n\nSeries preferred for finishings\n\n215\n\n225\n\n225\n\n10\n\n10\n\n215\n\n215\n\nw102.5 w102.6 w102.6 w102.5 w102.5 w\n1\n\n112,5 I 112.5\n\n1\n\n112.6\n\n1\n\n112.6 I 112.5 I\n\nWall elevation illustrating brick sizes in the UK\n\n10\n\n10 mm: joints\n65 mm: actual\n75 mm: format\n102.6 mm: actual\n112.5 mm: format\n215 mm: actual\n225 mm; format\n\n\f"
+        }
+      ],
+      "figure_refs": [
+        "Figure 2: Modular structural dimensions (RR) and nominal dimensions (NM) for brickwork",
+        "Figure 3: Building preferred numbers"
+      ],
+      "cross_refs": [
+        "\u2192 40 in"
+      ],
+      "keywords": [
+        "preferred numbers",
+        "modular dimensions",
+        "nominal dimensions",
+        "structural dimensions",
+        "finished dimensions",
+        "individual dimensions",
+        "joints"
+      ],
+      "tags_architectural": [
+        "modularity"
+      ],
+      "confidence": 0.97
+    },
+    {
+      "id": "4122fb96e4bd1976-47-vision-1",
+      "pdf_page": 47,
+      "book_page": 34,
+      "chapter": "BASICS",
+      "section": "Dimensional Basics and Relationships",
+      "title": "Continental European Wall-Brick Sizes",
+      "summary": "Compares standard and nominal dimensions for continental European wall bricks. The diagram labels the standard size as 250 \u00d7 125 \u00d7 62.5 mm and the nominal size as 240 \u00d7 115 \u00d7 52 mm.",
+      "building_type": "Masonry construction",
+      "spaces": [],
+      "uses": [
+        "Dimension continental European wall bricks",
+        "Coordinate brick dimensions with masonry layout"
+      ],
+      "furniture_equipment": [],
+      "dimensions": [
+        {
+          "label": "Standard brick length",
+          "value": 250.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "First axis in the printed standard brick size; not a range.",
+          "status": "verified",
+          "ocr_raw": "DIMENSIONAL BASICS AND RELATIONSHIPS\nDimensions in Building\n\nDIMENSIONAL\nBASICS AND\nRELATION\u00b7\nSHIPS\nMan as measure\n\nstBndard dimensions: 250 x 126 x 62.5mm\n\nand purpose\n\nnominal dimensions: 240 x 115 x 52mm\n\nThe universal\nstandard\nBody\nmeasurements\n\nQ Nominal and standard size of continental European wall bricks\n\nand space\n\nreqUirements\nGeometrical\nrelationships\nDimensions in\n\nbuilding\nBS 6Y50\nBS EN ISO 8560\nBS 2045\nDIN 323\nDIN 4172\n\nPreferred numbers\nPreferred numbers have been introduced for the standardised\nsizing of machinery and technical devices. The starting point is\nthe continental unit of length the metre (-'> 40 in). The engineering\nrequirement for geometrical graduation made the purely decimal\ndivision of the metre impractical. The geometrical 10-part preferred\nnumber series is therefore: 1; 2; 4; 8; 16; 31.5; 63; 125; 250; 500;\n1000. These are formed from the halving series (1000, 500, 250,\n125) and the doubling series (1, 2, 4, 8, 16); the doubling number\n32 was rounded down to 31.5 towards the exact value of the halving\nnumber (31.25), and the halving number 62.5 was rounded up to 63.\nThe larger 5-part and the finer 20- and 40-part series fit in\naccordingly with their intermediate numbers.\nPreferred numbers offer many advantages for calculation:\nproducts and quotients of any number of preferred numbers are\nthemselves preferred numbers, whole-number percentages of\npreferred numbers are again preferred numbers, and doubled and\nhalved preferred numbers also remain preferred numbers.\nAlthough there is scarcely a need for geometrical graduation in\nbuilding (considering the predominantly arithmetical addition of\nsimilar elements like: blocks, joists, rafters, trusses, columns,\nwindows and similar) the so-called building preferred numbers\nhave been defined and laid down.\nBrickwork dimensions in the UK differ: in the past large variations\nin the size of fired clay products often led to critical problems\nwith bonding clay bricks. Now, BS 3921 provides one standard\nfor dimensioning -'> 0: coordinating size (225 x 112.5 x 75 mm,\nincluding 10 mm in each direction for joints and tolerances), and the\nrelating work size (215 [2 headers plus 1 joint] x 102.5 x 65 mm).\nSeries preferred for individual\ndimensions\n\nSeries preferred for the structure\n\na\n\nb\n\nc\n\nd\n\n25\n\n2\n\n25\n\n1\u00a5\n\n4\n\n25\n\nf) Modular structural dimensions (RR) and nominal dimensions (NM) for brickwork\n\n8%\n12%\n\n16%\n\n34\n\n18%\n\n25\n\n25\n\n25\n31%\n\n331;3\n\n43%\n\n50\n\n50\n\n50\n56%\n\n58%\n62%\n\n75\n\n75\n\n62%\n\n68%\n\n67.5\n\n75\n\n75\n81Yi\n\n70\n72.5\n75\n80\n\n93?::i\n\n100\n\n20\n\n20\n\n20\n\n25\n\n25\n30\n\n30\n35\n40\n\n40\n\n45\n50\n\n50\n\n40\n50\n\n55\n60\n\n60\n\n60\n\n65\n70\n\n70\n\n75\n80\n\n80\n\n75\n80\n\n100\n\n85\n90\n\n90\n\n95\n100\n\n100\n\n100\n\n100\n\nBuilding preferred numbers\n225\n\n225\n\n215\n\n215\n\nw w ~f102.6\n102.5\n\n102.5\n\n225\n10\n\nw102.6\n\nI 112.5 I 112.5 I 112.5 I 112.5\n\n0\n\n10\n\n15\n\n85\n87.5\n90\n92.5\n95\n97.5\n100\n\n91%\n\n100\n\n5\n10\n\n82.5\n\n87%\n\n87%\n\n100\n\ni\n5x5\n\n66\n\n83%\n\ne\n\nh\n4x5\n\n35\n37.5\n40\n42.5\n45\n50\n52.5\n55\n57.5\n60\n62.5\n65\n\n41%\n\n50\n\ng\n\n2x5\n\n32.5%\n37Y.,\n\n37%\n\nf\n\n5\n\n2.5\n5\n7.5\n10\n12.5\n15\n17.5\n20\n22.5\n25\n27.5\n30\n\n1211,\n\nTerms\nBuilding preferred numbers are those for modular construction\ndimensions and the individual, structural and finished dimensions\nderived from them.\nModular dimensions are only theoretical dimensions, but are\nthe basis for the individual, structural and finished dimensions\nused in practice. Structural dimensions or nominal dimensions (for\nconstruction types with joints and wall finishes) are derived from\nmodular dimensions by deducting or adding the component for the\njoint or the finish thickness. (Example: modular dimension for the\nlength of a brick=25 em; thickness of the vertical joint= 1 em; nominal\ndimension for the length of the brick= 24 em; modular dimension for\nthe thickness of poured concrete walls= nominal dimension= 25 em).\nIndividual dimensions are dimensions (mostly small} for\nunits of structure or finishing such as joint thicknesses, plaster\nthicknesses, door rebate sizes, wall projection sizes, tolerances.\nStructural dimensions are of the unfinished structure, such as\nmasonry dimensions (without plaster thicknesses), structural slab\nthicknesses, sizes of unplastered door and window openings.\nFinished dimensions are for the finished building, such as clear\nsizes of plastered rooms and openings, storage space dimensions,\nfloor-to-floor heights.\nNominal dimensions are the same as modular dimensions for\nbuilding types without joints. For building types with joints,\nthe nominal dimension is the modular dimension less the joint\nthicknesses.\nSmall dimensions are 2.5 em and less. They can be selected from\nthe sizes: 2.5 em; 2 em; 1.6 em; 1.25 em; 1 em; 8 mm; 6.3 mm;\n5 mm; 3.2 mm; 2.5 mm; 2 mm; 1.6 mm; 1.25 mm; 1 mm.\n\ne\n25\n\nTO\n\n6%\n\nSeries preferred for finishings\n\n215\n\n225\n\n225\n\n10\n\n10\n\n215\n\n215\n\nw102.5 w102.6 w102.6 w102.5 w102.5 w\n1\n\n112,5 I 112.5\n\n1\n\n112.6\n\n1\n\n112.6 I 112.5 I\n\nWall elevation illustrating brick sizes in the UK\n\n10\n\n10 mm: joints\n65 mm: actual\n75 mm: format\n102.6 mm: actual\n112.5 mm: format\n215 mm: actual\n225 mm; format\n\n\f"
+        },
+        {
+          "label": "Standard brick width",
+          "value": 125.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Second axis in the printed standard brick size; not a range.",
+          "status": "verified",
+          "ocr_raw": "DIMENSIONAL BASICS AND RELATIONSHIPS\nDimensions in Building\n\nDIMENSIONAL\nBASICS AND\nRELATION\u00b7\nSHIPS\nMan as measure\n\nstBndard dimensions: 250 x 126 x 62.5mm\n\nand purpose\n\nnominal dimensions: 240 x 115 x 52mm\n\nThe universal\nstandard\nBody\nmeasurements\n\nQ Nominal and standard size of continental European wall bricks\n\nand space\n\nreqUirements\nGeometrical\nrelationships\nDimensions in\n\nbuilding\nBS 6Y50\nBS EN ISO 8560\nBS 2045\nDIN 323\nDIN 4172\n\nPreferred numbers\nPreferred numbers have been introduced for the standardised\nsizing of machinery and technical devices. The starting point is\nthe continental unit of length the metre (-'> 40 in). The engineering\nrequirement for geometrical graduation made the purely decimal\ndivision of the metre impractical. The geometrical 10-part preferred\nnumber series is therefore: 1; 2; 4; 8; 16; 31.5; 63; 125; 250; 500;\n1000. These are formed from the halving series (1000, 500, 250,\n125) and the doubling series (1, 2, 4, 8, 16); the doubling number\n32 was rounded down to 31.5 towards the exact value of the halving\nnumber (31.25), and the halving number 62.5 was rounded up to 63.\nThe larger 5-part and the finer 20- and 40-part series fit in\naccordingly with their intermediate numbers.\nPreferred numbers offer many advantages for calculation:\nproducts and quotients of any number of preferred numbers are\nthemselves preferred numbers, whole-number percentages of\npreferred numbers are again preferred numbers, and doubled and\nhalved preferred numbers also remain preferred numbers.\nAlthough there is scarcely a need for geometrical graduation in\nbuilding (considering the predominantly arithmetical addition of\nsimilar elements like: blocks, joists, rafters, trusses, columns,\nwindows and similar) the so-called building preferred numbers\nhave been defined and laid down.\nBrickwork dimensions in the UK differ: in the past large variations\nin the size of fired clay products often led to critical problems\nwith bonding clay bricks. Now, BS 3921 provides one standard\nfor dimensioning -'> 0: coordinating size (225 x 112.5 x 75 mm,\nincluding 10 mm in each direction for joints and tolerances), and the\nrelating work size (215 [2 headers plus 1 joint] x 102.5 x 65 mm).\nSeries preferred for individual\ndimensions\n\nSeries preferred for the structure\n\na\n\nb\n\nc\n\nd\n\n25\n\n2\n\n25\n\n1\u00a5\n\n4\n\n25\n\nf) Modular structural dimensions (RR) and nominal dimensions (NM) for brickwork\n\n8%\n12%\n\n16%\n\n34\n\n18%\n\n25\n\n25\n\n25\n31%\n\n331;3\n\n43%\n\n50\n\n50\n\n50\n56%\n\n58%\n62%\n\n75\n\n75\n\n62%\n\n68%\n\n67.5\n\n75\n\n75\n81Yi\n\n70\n72.5\n75\n80\n\n93?::i\n\n100\n\n20\n\n20\n\n20\n\n25\n\n25\n30\n\n30\n35\n40\n\n40\n\n45\n50\n\n50\n\n40\n50\n\n55\n60\n\n60\n\n60\n\n65\n70\n\n70\n\n75\n80\n\n80\n\n75\n80\n\n100\n\n85\n90\n\n90\n\n95\n100\n\n100\n\n100\n\n100\n\nBuilding preferred numbers\n225\n\n225\n\n215\n\n215\n\nw w ~f102.6\n102.5\n\n102.5\n\n225\n10\n\nw102.6\n\nI 112.5 I 112.5 I 112.5 I 112.5\n\n0\n\n10\n\n15\n\n85\n87.5\n90\n92.5\n95\n97.5\n100\n\n91%\n\n100\n\n5\n10\n\n82.5\n\n87%\n\n87%\n\n100\n\ni\n5x5\n\n66\n\n83%\n\ne\n\nh\n4x5\n\n35\n37.5\n40\n42.5\n45\n50\n52.5\n55\n57.5\n60\n62.5\n65\n\n41%\n\n50\n\ng\n\n2x5\n\n32.5%\n37Y.,\n\n37%\n\nf\n\n5\n\n2.5\n5\n7.5\n10\n12.5\n15\n17.5\n20\n22.5\n25\n27.5\n30\n\n1211,\n\nTerms\nBuilding preferred numbers are those for modular construction\ndimensions and the individual, structural and finished dimensions\nderived from them.\nModular dimensions are only theoretical dimensions, but are\nthe basis for the individual, structural and finished dimensions\nused in practice. Structural dimensions or nominal dimensions (for\nconstruction types with joints and wall finishes) are derived from\nmodular dimensions by deducting or adding the component for the\njoint or the finish thickness. (Example: modular dimension for the\nlength of a brick=25 em; thickness of the vertical joint= 1 em; nominal\ndimension for the length of the brick= 24 em; modular dimension for\nthe thickness of poured concrete walls= nominal dimension= 25 em).\nIndividual dimensions are dimensions (mostly small} for\nunits of structure or finishing such as joint thicknesses, plaster\nthicknesses, door rebate sizes, wall projection sizes, tolerances.\nStructural dimensions are of the unfinished structure, such as\nmasonry dimensions (without plaster thicknesses), structural slab\nthicknesses, sizes of unplastered door and window openings.\nFinished dimensions are for the finished building, such as clear\nsizes of plastered rooms and openings, storage space dimensions,\nfloor-to-floor heights.\nNominal dimensions are the same as modular dimensions for\nbuilding types without joints. For building types with joints,\nthe nominal dimension is the modular dimension less the joint\nthicknesses.\nSmall dimensions are 2.5 em and less. They can be selected from\nthe sizes: 2.5 em; 2 em; 1.6 em; 1.25 em; 1 em; 8 mm; 6.3 mm;\n5 mm; 3.2 mm; 2.5 mm; 2 mm; 1.6 mm; 1.25 mm; 1 mm.\n\ne\n25\n\nTO\n\n6%\n\nSeries preferred for finishings\n\n215\n\n225\n\n225\n\n10\n\n10\n\n215\n\n215\n\nw102.5 w102.6 w102.6 w102.5 w102.5 w\n1\n\n112,5 I 112.5\n\n1\n\n112.6\n\n1\n\n112.6 I 112.5 I\n\nWall elevation illustrating brick sizes in the UK\n\n10\n\n10 mm: joints\n65 mm: actual\n75 mm: format\n102.6 mm: actual\n112.5 mm: format\n215 mm: actual\n225 mm; format\n\n\f"
+        },
+        {
+          "label": "Standard brick height",
+          "value": 62.5,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Third axis in the printed standard brick size; not a range.",
+          "status": "verified",
+          "ocr_raw": "DIMENSIONAL BASICS AND RELATIONSHIPS\nDimensions in Building\n\nDIMENSIONAL\nBASICS AND\nRELATION\u00b7\nSHIPS\nMan as measure\n\nstBndard dimensions: 250 x 126 x 62.5mm\n\nand purpose\n\nnominal dimensions: 240 x 115 x 52mm\n\nThe universal\nstandard\nBody\nmeasurements\n\nQ Nominal and standard size of continental European wall bricks\n\nand space\n\nreqUirements\nGeometrical\nrelationships\nDimensions in\n\nbuilding\nBS 6Y50\nBS EN ISO 8560\nBS 2045\nDIN 323\nDIN 4172\n\nPreferred numbers\nPreferred numbers have been introduced for the standardised\nsizing of machinery and technical devices. The starting point is\nthe continental unit of length the metre (-'> 40 in). The engineering\nrequirement for geometrical graduation made the purely decimal\ndivision of the metre impractical. The geometrical 10-part preferred\nnumber series is therefore: 1; 2; 4; 8; 16; 31.5; 63; 125; 250; 500;\n1000. These are formed from the halving series (1000, 500, 250,\n125) and the doubling series (1, 2, 4, 8, 16); the doubling number\n32 was rounded down to 31.5 towards the exact value of the halving\nnumber (31.25), and the halving number 62.5 was rounded up to 63.\nThe larger 5-part and the finer 20- and 40-part series fit in\naccordingly with their intermediate numbers.\nPreferred numbers offer many advantages for calculation:\nproducts and quotients of any number of preferred numbers are\nthemselves preferred numbers, whole-number percentages of\npreferred numbers are again preferred numbers, and doubled and\nhalved preferred numbers also remain preferred numbers.\nAlthough there is scarcely a need for geometrical graduation in\nbuilding (considering the predominantly arithmetical addition of\nsimilar elements like: blocks, joists, rafters, trusses, columns,\nwindows and similar) the so-called building preferred numbers\nhave been defined and laid down.\nBrickwork dimensions in the UK differ: in the past large variations\nin the size of fired clay products often led to critical problems\nwith bonding clay bricks. Now, BS 3921 provides one standard\nfor dimensioning -'> 0: coordinating size (225 x 112.5 x 75 mm,\nincluding 10 mm in each direction for joints and tolerances), and the\nrelating work size (215 [2 headers plus 1 joint] x 102.5 x 65 mm).\nSeries preferred for individual\ndimensions\n\nSeries preferred for the structure\n\na\n\nb\n\nc\n\nd\n\n25\n\n2\n\n25\n\n1\u00a5\n\n4\n\n25\n\nf) Modular structural dimensions (RR) and nominal dimensions (NM) for brickwork\n\n8%\n12%\n\n16%\n\n34\n\n18%\n\n25\n\n25\n\n25\n31%\n\n331;3\n\n43%\n\n50\n\n50\n\n50\n56%\n\n58%\n62%\n\n75\n\n75\n\n62%\n\n68%\n\n67.5\n\n75\n\n75\n81Yi\n\n70\n72.5\n75\n80\n\n93?::i\n\n100\n\n20\n\n20\n\n20\n\n25\n\n25\n30\n\n30\n35\n40\n\n40\n\n45\n50\n\n50\n\n40\n50\n\n55\n60\n\n60\n\n60\n\n65\n70\n\n70\n\n75\n80\n\n80\n\n75\n80\n\n100\n\n85\n90\n\n90\n\n95\n100\n\n100\n\n100\n\n100\n\nBuilding preferred numbers\n225\n\n225\n\n215\n\n215\n\nw w ~f102.6\n102.5\n\n102.5\n\n225\n10\n\nw102.6\n\nI 112.5 I 112.5 I 112.5 I 112.5\n\n0\n\n10\n\n15\n\n85\n87.5\n90\n92.5\n95\n97.5\n100\n\n91%\n\n100\n\n5\n10\n\n82.5\n\n87%\n\n87%\n\n100\n\ni\n5x5\n\n66\n\n83%\n\ne\n\nh\n4x5\n\n35\n37.5\n40\n42.5\n45\n50\n52.5\n55\n57.5\n60\n62.5\n65\n\n41%\n\n50\n\ng\n\n2x5\n\n32.5%\n37Y.,\n\n37%\n\nf\n\n5\n\n2.5\n5\n7.5\n10\n12.5\n15\n17.5\n20\n22.5\n25\n27.5\n30\n\n1211,\n\nTerms\nBuilding preferred numbers are those for modular construction\ndimensions and the individual, structural and finished dimensions\nderived from them.\nModular dimensions are only theoretical dimensions, but are\nthe basis for the individual, structural and finished dimensions\nused in practice. Structural dimensions or nominal dimensions (for\nconstruction types with joints and wall finishes) are derived from\nmodular dimensions by deducting or adding the component for the\njoint or the finish thickness. (Example: modular dimension for the\nlength of a brick=25 em; thickness of the vertical joint= 1 em; nominal\ndimension for the length of the brick= 24 em; modular dimension for\nthe thickness of poured concrete walls= nominal dimension= 25 em).\nIndividual dimensions are dimensions (mostly small} for\nunits of structure or finishing such as joint thicknesses, plaster\nthicknesses, door rebate sizes, wall projection sizes, tolerances.\nStructural dimensions are of the unfinished structure, such as\nmasonry dimensions (without plaster thicknesses), structural slab\nthicknesses, sizes of unplastered door and window openings.\nFinished dimensions are for the finished building, such as clear\nsizes of plastered rooms and openings, storage space dimensions,\nfloor-to-floor heights.\nNominal dimensions are the same as modular dimensions for\nbuilding types without joints. For building types with joints,\nthe nominal dimension is the modular dimension less the joint\nthicknesses.\nSmall dimensions are 2.5 em and less. They can be selected from\nthe sizes: 2.5 em; 2 em; 1.6 em; 1.25 em; 1 em; 8 mm; 6.3 mm;\n5 mm; 3.2 mm; 2.5 mm; 2 mm; 1.6 mm; 1.25 mm; 1 mm.\n\ne\n25\n\nTO\n\n6%\n\nSeries preferred for finishings\n\n215\n\n225\n\n225\n\n10\n\n10\n\n215\n\n215\n\nw102.5 w102.6 w102.6 w102.5 w102.5 w\n1\n\n112,5 I 112.5\n\n1\n\n112.6\n\n1\n\n112.6 I 112.5 I\n\nWall elevation illustrating brick sizes in the UK\n\n10\n\n10 mm: joints\n65 mm: actual\n75 mm: format\n102.6 mm: actual\n112.5 mm: format\n215 mm: actual\n225 mm; format\n\n\f"
+        },
+        {
+          "label": "Nominal brick length",
+          "value": 240.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "First axis in the printed nominal brick size; not a range.",
+          "status": "verified",
+          "ocr_raw": "nominal dimensions: 240 x 115 x 52mm"
+        },
+        {
+          "label": "Nominal brick width",
+          "value": 115.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Second axis in the printed nominal brick size; not a range.",
+          "status": "verified",
+          "ocr_raw": "nominal dimensions: 240 x 115 x 52mm"
+        },
+        {
+          "label": "Nominal brick height",
+          "value": 52.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Third axis in the printed nominal brick size; not a range.",
+          "status": "verified",
+          "ocr_raw": "nominal dimensions: 240 x 115 x 52mm"
+        }
+      ],
+      "figure_refs": [
+        "Figure 1: Nominal and standard size of continental European wall bricks"
+      ],
+      "cross_refs": [],
+      "keywords": [
+        "wall brick",
+        "standard dimensions",
+        "nominal dimensions",
+        "continental European brick"
+      ],
+      "tags_architectural": [
+        "modularity"
+      ],
+      "confidence": 0.98
+    },
+    {
+      "id": "4122fb96e4bd1976-47-vision-2",
+      "pdf_page": 47,
+      "book_page": 34,
+      "chapter": "BASICS",
+      "section": "Dimensional Basics and Relationships",
+      "title": "UK Brickwork Coordinating and Work Sizes",
+      "summary": "Describes UK brickwork dimensions under BS 3921. The coordinating size includes 10 mm for joints and tolerances in each direction; the related work size is given separately. A wall elevation identifies joint, actual, and format dimensions.",
+      "building_type": "Masonry construction",
+      "spaces": [
+        "Brick wall"
+      ],
+      "uses": [
+        "Coordinate UK brickwork dimensions",
+        "Lay out brick courses and joints"
+      ],
+      "furniture_equipment": [],
+      "dimensions": [
+        {
+          "label": "Coordinating size length",
+          "value": 225.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "First axis of the UK coordinating size, which includes allowance for joints and tolerances.",
+          "status": "verified",
+          "ocr_raw": "coordinating size (225 x 112.5 x 75 mm,\nincluding 10 mm in each direction for joints and tolerances)"
+        },
+        {
+          "label": "Coordinating size width",
+          "value": 112.5,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Second axis of the UK coordinating size, which includes allowance for joints and tolerances.",
+          "status": "verified",
+          "ocr_raw": "coordinating size (225 x 112.5 x 75 mm,\nincluding 10 mm in each direction for joints and tolerances)"
+        },
+        {
+          "label": "Coordinating size height",
+          "value": 75.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Third axis of the UK coordinating size, which includes allowance for joints and tolerances.",
+          "status": "verified",
+          "ocr_raw": "coordinating size (225 x 112.5 x 75 mm,\nincluding 10 mm in each direction for joints and tolerances)"
+        },
+        {
+          "label": "Work size length",
+          "value": 215.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "First axis of the related work size; text notes two headers plus one joint.",
+          "status": "verified",
+          "ocr_raw": "work size (215 [2 headers plus 1 joint] x 102.5 x 65 mm)"
+        },
+        {
+          "label": "Work size width",
+          "value": 102.5,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Second axis of the related work size.",
+          "status": "verified",
+          "ocr_raw": "work size (215 [2 headers plus 1 joint] x 102.5 x 65 mm)"
+        },
+        {
+          "label": "Work size height",
+          "value": 65.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Third axis of the related work size.",
+          "status": "verified",
+          "ocr_raw": "work size (215 [2 headers plus 1 joint] x 102.5 x 65 mm)"
+        },
+        {
+          "label": "Joint dimension",
+          "value": 10.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Dimension identified as joints in the wall-elevation legend.",
+          "status": "verified",
+          "ocr_raw": "10 mm: joints"
+        },
+        {
+          "label": "Actual height",
+          "value": 65.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Actual dimension identified in the wall-elevation legend.",
+          "status": "verified",
+          "ocr_raw": "65 mm: actual"
+        },
+        {
+          "label": "Format height",
+          "value": 75.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Format dimension identified in the wall-elevation legend.",
+          "status": "verified",
+          "ocr_raw": "75 mm: format"
+        },
+        {
+          "label": "Actual width",
+          "value": 102.5,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Actual dimension identified in the wall-elevation legend.",
+          "status": "verified",
+          "ocr_raw": "DIMENSIONAL BASICS AND RELATIONSHIPS\nDimensions in Building\n\nDIMENSIONAL\nBASICS AND\nRELATION\u00b7\nSHIPS\nMan as measure\n\nstBndard dimensions: 250 x 126 x 62.5mm\n\nand purpose\n\nnominal dimensions: 240 x 115 x 52mm\n\nThe universal\nstandard\nBody\nmeasurements\n\nQ Nominal and standard size of continental European wall bricks\n\nand space\n\nreqUirements\nGeometrical\nrelationships\nDimensions in\n\nbuilding\nBS 6Y50\nBS EN ISO 8560\nBS 2045\nDIN 323\nDIN 4172\n\nPreferred numbers\nPreferred numbers have been introduced for the standardised\nsizing of machinery and technical devices. The starting point is\nthe continental unit of length the metre (-'> 40 in). The engineering\nrequirement for geometrical graduation made the purely decimal\ndivision of the metre impractical. The geometrical 10-part preferred\nnumber series is therefore: 1; 2; 4; 8; 16; 31.5; 63; 125; 250; 500;\n1000. These are formed from the halving series (1000, 500, 250,\n125) and the doubling series (1, 2, 4, 8, 16); the doubling number\n32 was rounded down to 31.5 towards the exact value of the halving\nnumber (31.25), and the halving number 62.5 was rounded up to 63.\nThe larger 5-part and the finer 20- and 40-part series fit in\naccordingly with their intermediate numbers.\nPreferred numbers offer many advantages for calculation:\nproducts and quotients of any number of preferred numbers are\nthemselves preferred numbers, whole-number percentages of\npreferred numbers are again preferred numbers, and doubled and\nhalved preferred numbers also remain preferred numbers.\nAlthough there is scarcely a need for geometrical graduation in\nbuilding (considering the predominantly arithmetical addition of\nsimilar elements like: blocks, joists, rafters, trusses, columns,\nwindows and similar) the so-called building preferred numbers\nhave been defined and laid down.\nBrickwork dimensions in the UK differ: in the past large variations\nin the size of fired clay products often led to critical problems\nwith bonding clay bricks. Now, BS 3921 provides one standard\nfor dimensioning -'> 0: coordinating size (225 x 112.5 x 75 mm,\nincluding 10 mm in each direction for joints and tolerances), and the\nrelating work size (215 [2 headers plus 1 joint] x 102.5 x 65 mm).\nSeries preferred for individual\ndimensions\n\nSeries preferred for the structure\n\na\n\nb\n\nc\n\nd\n\n25\n\n2\n\n25\n\n1\u00a5\n\n4\n\n25\n\nf) Modular structural dimensions (RR) and nominal dimensions (NM) for brickwork\n\n8%\n12%\n\n16%\n\n34\n\n18%\n\n25\n\n25\n\n25\n31%\n\n331;3\n\n43%\n\n50\n\n50\n\n50\n56%\n\n58%\n62%\n\n75\n\n75\n\n62%\n\n68%\n\n67.5\n\n75\n\n75\n81Yi\n\n70\n72.5\n75\n80\n\n93?::i\n\n100\n\n20\n\n20\n\n20\n\n25\n\n25\n30\n\n30\n35\n40\n\n40\n\n45\n50\n\n50\n\n40\n50\n\n55\n60\n\n60\n\n60\n\n65\n70\n\n70\n\n75\n80\n\n80\n\n75\n80\n\n100\n\n85\n90\n\n90\n\n95\n100\n\n100\n\n100\n\n100\n\nBuilding preferred numbers\n225\n\n225\n\n215\n\n215\n\nw w ~f102.6\n102.5\n\n102.5\n\n225\n10\n\nw102.6\n\nI 112.5 I 112.5 I 112.5 I 112.5\n\n0\n\n10\n\n15\n\n85\n87.5\n90\n92.5\n95\n97.5\n100\n\n91%\n\n100\n\n5\n10\n\n82.5\n\n87%\n\n87%\n\n100\n\ni\n5x5\n\n66\n\n83%\n\ne\n\nh\n4x5\n\n35\n37.5\n40\n42.5\n45\n50\n52.5\n55\n57.5\n60\n62.5\n65\n\n41%\n\n50\n\ng\n\n2x5\n\n32.5%\n37Y.,\n\n37%\n\nf\n\n5\n\n2.5\n5\n7.5\n10\n12.5\n15\n17.5\n20\n22.5\n25\n27.5\n30\n\n1211,\n\nTerms\nBuilding preferred numbers are those for modular construction\ndimensions and the individual, structural and finished dimensions\nderived from them.\nModular dimensions are only theoretical dimensions, but are\nthe basis for the individual, structural and finished dimensions\nused in practice. Structural dimensions or nominal dimensions (for\nconstruction types with joints and wall finishes) are derived from\nmodular dimensions by deducting or adding the component for the\njoint or the finish thickness. (Example: modular dimension for the\nlength of a brick=25 em; thickness of the vertical joint= 1 em; nominal\ndimension for the length of the brick= 24 em; modular dimension for\nthe thickness of poured concrete walls= nominal dimension= 25 em).\nIndividual dimensions are dimensions (mostly small} for\nunits of structure or finishing such as joint thicknesses, plaster\nthicknesses, door rebate sizes, wall projection sizes, tolerances.\nStructural dimensions are of the unfinished structure, such as\nmasonry dimensions (without plaster thicknesses), structural slab\nthicknesses, sizes of unplastered door and window openings.\nFinished dimensions are for the finished building, such as clear\nsizes of plastered rooms and openings, storage space dimensions,\nfloor-to-floor heights.\nNominal dimensions are the same as modular dimensions for\nbuilding types without joints. For building types with joints,\nthe nominal dimension is the modular dimension less the joint\nthicknesses.\nSmall dimensions are 2.5 em and less. They can be selected from\nthe sizes: 2.5 em; 2 em; 1.6 em; 1.25 em; 1 em; 8 mm; 6.3 mm;\n5 mm; 3.2 mm; 2.5 mm; 2 mm; 1.6 mm; 1.25 mm; 1 mm.\n\ne\n25\n\nTO\n\n6%\n\nSeries preferred for finishings\n\n215\n\n225\n\n225\n\n10\n\n10\n\n215\n\n215\n\nw102.5 w102.6 w102.6 w102.5 w102.5 w\n1\n\n112,5 I 112.5\n\n1\n\n112.6\n\n1\n\n112.6 I 112.5 I\n\nWall elevation illustrating brick sizes in the UK\n\n10\n\n10 mm: joints\n65 mm: actual\n75 mm: format\n102.6 mm: actual\n112.5 mm: format\n215 mm: actual\n225 mm; format\n\n\f"
+        },
+        {
+          "label": "Format width",
+          "value": 112.5,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Format dimension identified in the wall-elevation legend.",
+          "status": "verified",
+          "ocr_raw": "112.5 mm: format"
+        },
+        {
+          "label": "Actual length",
+          "value": 215.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Actual dimension identified in the wall-elevation legend.",
+          "status": "verified",
+          "ocr_raw": "215 mm: actual"
+        },
+        {
+          "label": "Format length",
+          "value": 225.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Format dimension identified in the wall-elevation legend.",
+          "status": "verified",
+          "ocr_raw": "DIMENSIONAL BASICS AND RELATIONSHIPS\nDimensions in Building\n\nDIMENSIONAL\nBASICS AND\nRELATION\u00b7\nSHIPS\nMan as measure\n\nstBndard dimensions: 250 x 126 x 62.5mm\n\nand purpose\n\nnominal dimensions: 240 x 115 x 52mm\n\nThe universal\nstandard\nBody\nmeasurements\n\nQ Nominal and standard size of continental European wall bricks\n\nand space\n\nreqUirements\nGeometrical\nrelationships\nDimensions in\n\nbuilding\nBS 6Y50\nBS EN ISO 8560\nBS 2045\nDIN 323\nDIN 4172\n\nPreferred numbers\nPreferred numbers have been introduced for the standardised\nsizing of machinery and technical devices. The starting point is\nthe continental unit of length the metre (-'> 40 in). The engineering\nrequirement for geometrical graduation made the purely decimal\ndivision of the metre impractical. The geometrical 10-part preferred\nnumber series is therefore: 1; 2; 4; 8; 16; 31.5; 63; 125; 250; 500;\n1000. These are formed from the halving series (1000, 500, 250,\n125) and the doubling series (1, 2, 4, 8, 16); the doubling number\n32 was rounded down to 31.5 towards the exact value of the halving\nnumber (31.25), and the halving number 62.5 was rounded up to 63.\nThe larger 5-part and the finer 20- and 40-part series fit in\naccordingly with their intermediate numbers.\nPreferred numbers offer many advantages for calculation:\nproducts and quotients of any number of preferred numbers are\nthemselves preferred numbers, whole-number percentages of\npreferred numbers are again preferred numbers, and doubled and\nhalved preferred numbers also remain preferred numbers.\nAlthough there is scarcely a need for geometrical graduation in\nbuilding (considering the predominantly arithmetical addition of\nsimilar elements like: blocks, joists, rafters, trusses, columns,\nwindows and similar) the so-called building preferred numbers\nhave been defined and laid down.\nBrickwork dimensions in the UK differ: in the past large variations\nin the size of fired clay products often led to critical problems\nwith bonding clay bricks. Now, BS 3921 provides one standard\nfor dimensioning -'> 0: coordinating size (225 x 112.5 x 75 mm,\nincluding 10 mm in each direction for joints and tolerances), and the\nrelating work size (215 [2 headers plus 1 joint] x 102.5 x 65 mm).\nSeries preferred for individual\ndimensions\n\nSeries preferred for the structure\n\na\n\nb\n\nc\n\nd\n\n25\n\n2\n\n25\n\n1\u00a5\n\n4\n\n25\n\nf) Modular structural dimensions (RR) and nominal dimensions (NM) for brickwork\n\n8%\n12%\n\n16%\n\n34\n\n18%\n\n25\n\n25\n\n25\n31%\n\n331;3\n\n43%\n\n50\n\n50\n\n50\n56%\n\n58%\n62%\n\n75\n\n75\n\n62%\n\n68%\n\n67.5\n\n75\n\n75\n81Yi\n\n70\n72.5\n75\n80\n\n93?::i\n\n100\n\n20\n\n20\n\n20\n\n25\n\n25\n30\n\n30\n35\n40\n\n40\n\n45\n50\n\n50\n\n40\n50\n\n55\n60\n\n60\n\n60\n\n65\n70\n\n70\n\n75\n80\n\n80\n\n75\n80\n\n100\n\n85\n90\n\n90\n\n95\n100\n\n100\n\n100\n\n100\n\nBuilding preferred numbers\n225\n\n225\n\n215\n\n215\n\nw w ~f102.6\n102.5\n\n102.5\n\n225\n10\n\nw102.6\n\nI 112.5 I 112.5 I 112.5 I 112.5\n\n0\n\n10\n\n15\n\n85\n87.5\n90\n92.5\n95\n97.5\n100\n\n91%\n\n100\n\n5\n10\n\n82.5\n\n87%\n\n87%\n\n100\n\ni\n5x5\n\n66\n\n83%\n\ne\n\nh\n4x5\n\n35\n37.5\n40\n42.5\n45\n50\n52.5\n55\n57.5\n60\n62.5\n65\n\n41%\n\n50\n\ng\n\n2x5\n\n32.5%\n37Y.,\n\n37%\n\nf\n\n5\n\n2.5\n5\n7.5\n10\n12.5\n15\n17.5\n20\n22.5\n25\n27.5\n30\n\n1211,\n\nTerms\nBuilding preferred numbers are those for modular construction\ndimensions and the individual, structural and finished dimensions\nderived from them.\nModular dimensions are only theoretical dimensions, but are\nthe basis for the individual, structural and finished dimensions\nused in practice. Structural dimensions or nominal dimensions (for\nconstruction types with joints and wall finishes) are derived from\nmodular dimensions by deducting or adding the component for the\njoint or the finish thickness. (Example: modular dimension for the\nlength of a brick=25 em; thickness of the vertical joint= 1 em; nominal\ndimension for the length of the brick= 24 em; modular dimension for\nthe thickness of poured concrete walls= nominal dimension= 25 em).\nIndividual dimensions are dimensions (mostly small} for\nunits of structure or finishing such as joint thicknesses, plaster\nthicknesses, door rebate sizes, wall projection sizes, tolerances.\nStructural dimensions are of the unfinished structure, such as\nmasonry dimensions (without plaster thicknesses), structural slab\nthicknesses, sizes of unplastered door and window openings.\nFinished dimensions are for the finished building, such as clear\nsizes of plastered rooms and openings, storage space dimensions,\nfloor-to-floor heights.\nNominal dimensions are the same as modular dimensions for\nbuilding types without joints. For building types with joints,\nthe nominal dimension is the modular dimension less the joint\nthicknesses.\nSmall dimensions are 2.5 em and less. They can be selected from\nthe sizes: 2.5 em; 2 em; 1.6 em; 1.25 em; 1 em; 8 mm; 6.3 mm;\n5 mm; 3.2 mm; 2.5 mm; 2 mm; 1.6 mm; 1.25 mm; 1 mm.\n\ne\n25\n\nTO\n\n6%\n\nSeries preferred for finishings\n\n215\n\n225\n\n225\n\n10\n\n10\n\n215\n\n215\n\nw102.5 w102.6 w102.6 w102.5 w102.5 w\n1\n\n112,5 I 112.5\n\n1\n\n112.6\n\n1\n\n112.6 I 112.5 I\n\nWall elevation illustrating brick sizes in the UK\n\n10\n\n10 mm: joints\n65 mm: actual\n75 mm: format\n102.6 mm: actual\n112.5 mm: format\n215 mm: actual\n225 mm; format\n\n\f"
+        }
+      ],
+      "figure_refs": [
+        "Figure 4: Wall elevation illustrating brick sizes in the UK"
+      ],
+      "cross_refs": [
+        "BS 3921"
+      ],
+      "keywords": [
+        "UK brickwork",
+        "coordinating size",
+        "work size",
+        "joints",
+        "format size",
+        "actual size"
+      ],
+      "tags_architectural": [
+        "modularity"
+      ],
+      "confidence": 0.98
+    }
+  ]
+}

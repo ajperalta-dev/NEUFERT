@@ -1,0 +1,288 @@
+{
+  "fichas": [
+    {
+      "id": "4122fb96e4bd1976-356-vision-0",
+      "pdf_page": 356,
+      "book_page": 343,
+      "chapter": "SPORT AND LEISURE",
+      "section": "Sports Facilities",
+      "title": "Ski Jumping",
+      "summary": "Reference sheet for the layout, profile, dimensions, and design parameters of small, medium, and large ski jumps. It defines profile points and geometric symbols, gives standard ranges for key dimensions and slopes, and illustrates judge’s cabins, starting positions, landing piste, and run-out. Tabulated values are reproduced only where legible; the sheet notes that nonstandard jumps require written justification and that FIS approval rules apply.",
+      "building_type": "Ski jumping facility",
+      "spaces": [
+        "Starting ramp",
+        "Launch platform",
+        "Landing track",
+        "Run-out",
+        "Judges’ cabins or tower",
+        "Grandstand"
+      ],
+      "uses": [
+        "Ski jumping",
+        "Judging the flight and landing",
+        "Spectator viewing"
+      ],
+      "furniture_equipment": [
+        "Judges’ cabins",
+        "Profile markers",
+        "Fixed profiles",
+        "Starting places"
+      ],
+      "dimensions": [
+        {
+          "label": "Floor below parapet",
+          "value": 1.0,
+          "value_max": 1.2,
+          "unit": "m",
+          "context": "Upper edge of the floor of each judges’ cabin is below the parapet.",
+          "status": "uncertain",
+          "ocr_raw": "The upper edge of the floor of the individual cabins is 1-1.20 m below the parapet."
+        },
+        {
+          "label": "Judges’ tower slope to track axis",
+          "value": 7.0,
+          "value_max": 10.0,
+          "unit": "degrees",
+          "context": "Recommended tower slope to allow judges to observe the flight and landing.",
+          "status": "uncertain",
+          "ocr_raw": "The slope of the tower to the track axis should be 7-10°"
+        },
+        {
+          "label": "Starting-place distribution length",
+          "value": 5.0,
+          "value_max": null,
+          "unit": "ratio denominator",
+          "context": "Starting places are distributed along length E/5; the OCR expression is retained in the summary/context as printed.",
+          "status": "uncertain",
+          "ocr_raw": "uniformly distributed along the length E/5"
+        },
+        {
+          "label": "Vertical spacing of starting places",
+          "value": 1.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Approximate vertical spacing between starting places.",
+          "status": "uncertain",
+          "ocr_raw": "whose vertical spacing should be about 1 m."
+        },
+        {
+          "label": "Lowest starting place",
+          "value": 1.0,
+          "value_max": null,
+          "unit": "ratio denominator",
+          "context": "Printed expression is E − E/8; this is a symbolic location, not a measured length.",
+          "status": "uncertain",
+          "ocr_raw": "Lowest starting place = E − E/8."
+        },
+        {
+          "label": "Minimum landing piste width at K",
+          "value": 4.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "The printed formula is Li/7 + 4 m; 4 m is the explicit additive width term, not the complete width.",
+          "status": "uncertain",
+          "ocr_raw": "Minimum width of the landing piste at K = Li/7 + 4 m."
+        },
+        {
+          "label": "Slope divisions",
+          "value": 360.0,
+          "value_max": null,
+          "unit": "degrees",
+          "context": "The sheet says all slopes are to be given in old divisions.",
+          "status": "uncertain",
+          "ocr_raw": "All slopes are to be given in old divisions (360°)."
+        },
+        {
+          "label": "Natural starting-ramp marking interval",
+          "value": 2.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Mark the portions actually used along a natural starting ramp to simplify determination of the starting place.",
+          "status": "uncertain",
+          "ocr_raw": "the parts actually used should be marked every 2 m"
+        },
+        {
+          "label": "Minimum L associated with V₀ guidance",
+          "value": 50.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "For ski jumps with L greater than this value, the sheet says they should not normally be built with V₀ below 21 m/sec.",
+          "status": "uncertain",
+          "ocr_raw": "Ski jumps whose L is >50 m should not normally be built with a V₀ <21 m/sec."
+        },
+        {
+          "label": "Minimum V₀ associated with L guidance",
+          "value": 21.0,
+          "value_max": null,
+          "unit": "m/sec",
+          "context": "Guidance for ski jumps whose L exceeds 50 m.",
+          "status": "uncertain",
+          "ocr_raw": "Ski jumps whose L is >50 m should not normally be built with a V₀ <21 m/sec."
+        },
+        {
+          "label": "FIS approval threshold for L",
+          "value": 90.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Jumps with L greater than 90 m are not approved by FIS, except flying ski jumps.",
+          "status": "uncertain",
+          "ocr_raw": "Ski jumps with L >90 m are not approved by the FIS (International Ski Federation); exception: flying ski jumps."
+        },
+        {
+          "label": "Standard H:N ratio",
+          "value": 0.48,
+          "value_max": 0.56,
+          "unit": "ratio",
+          "context": "Standard vertical-to-horizontal projection ratio.",
+          "status": "uncertain",
+          "ocr_raw": "H:N = 0.48-0.56"
+        },
+        {
+          "label": "M for jumps up to P = 70 m",
+          "value": 0.5,
+          "value_max": 0.8,
+          "unit": "V₀",
+          "context": "Standard range for M, for ski jumps up to P = 70 m.",
+          "status": "uncertain",
+          "ocr_raw": "M = 0.5-0.8 V₀ for ski jumps up to P = 70 m"
+        },
+        {
+          "label": "M for jumps up to P = 90 m",
+          "value": 0.7,
+          "value_max": 1.1,
+          "unit": "V₀",
+          "context": "Standard range for M, for ski jumps up to P = 90 m.",
+          "status": "uncertain",
+          "ocr_raw": "M = 0.7-1.1 V₀ for ski jumps up to P = 90 m"
+        },
+        {
+          "label": "M for other stated condition",
+          "value": 0.0,
+          "value_max": 0.2,
+          "unit": "V₀",
+          "context": "The sheet lists this standard for M without a further condition in the line.",
+          "status": "uncertain",
+          "ocr_raw": "M = 0-0.2 V₀"
+        },
+        {
+          "label": "Launch-platform length T",
+          "value": 0.22,
+          "value_max": null,
+          "unit": "V₀",
+          "context": "Standard value for T; the sheet does not specify a conversion unit for V₀ in this formula.",
+          "status": "uncertain",
+          "ocr_raw": "T = 0.22 V₀"
+        },
+        {
+          "label": "Starting-ramp segment U",
+          "value": 0.02,
+          "value_max": null,
+          "unit": "V₀",
+          "context": "Standard value for U; the sheet does not specify a conversion unit for V₀ in this formula.",
+          "status": "uncertain",
+          "ocr_raw": "U = 0.02 V₀"
+        },
+        {
+          "label": "Run-out A",
+          "value": 4.0,
+          "value_max": 5.0,
+          "unit": "V₀",
+          "context": "Standard range for A with horizontal run-out.",
+          "status": "uncertain",
+          "ocr_raw": "A = 4-5 V₀ with horizontal run-out"
+        },
+        {
+          "label": "Distance D to lower edge of tower",
+          "value": 0.5,
+          "value_max": 0.7,
+          "unit": "L₁",
+          "context": "Standard range for D, measured to the lower edge of the tower.",
+          "status": "uncertain",
+          "ocr_raw": "D = 0.5-0.7 × L₁ to lower edge of the tower"
+        },
+        {
+          "label": "Tower-front distance Q",
+          "value": 0.25,
+          "value_max": 0.5,
+          "unit": "L₁",
+          "context": "Standard range for distance from landing-track axis to front edge of judges’ tower.",
+          "status": "uncertain",
+          "ocr_raw": "Q = 0.25-0.50 × L₁"
+        },
+        {
+          "label": "Medium and large jump starting-ramp slope c",
+          "value": 30.0,
+          "value_max": 40.0,
+          "unit": "degrees",
+          "context": "The medium and large jump table gives c columns at 30°, 35°, and 40°.",
+          "status": "uncertain",
+          "ocr_raw": "c 30° 35° 40°"
+        },
+        {
+          "label": "Medium and large jump slope a",
+          "value": 8.0,
+          "value_max": 10.0,
+          "unit": "degrees",
+          "context": "Slope a shown in the medium and large jump table.",
+          "status": "uncertain",
+          "ocr_raw": "8-10°"
+        },
+        {
+          "label": "Small jump slope a",
+          "value": 8.0,
+          "value_max": 10.0,
+          "unit": "degrees",
+          "context": "Slope a shown in the small jump table.",
+          "status": "uncertain",
+          "ocr_raw": "8-10°"
+        },
+        {
+          "label": "Small jump slope b",
+          "value": 7.0,
+          "value_max": 9.0,
+          "unit": "degrees",
+          "context": "Slope b shown in the small jump table.",
+          "status": "uncertain",
+          "ocr_raw": "7-9°"
+        },
+        {
+          "label": "Small jump slope c",
+          "value": 6.0,
+          "value_max": 8.0,
+          "unit": "degrees",
+          "context": "Slope c shown in the small jump table.",
+          "status": "uncertain",
+          "ocr_raw": "6-8°"
+        }
+      ],
+      "figure_refs": [
+        "1: Sketch of the construction of a ski jump",
+        "2: These symbols should be used",
+        "3: Dimensions of medium and large ski jumps",
+        "4: Dimensions of small ski jumps",
+        "5: The data point of a ski jump is to be determined",
+        "6: Garmisch-Partenkirchen",
+        "7: Holmenkollen"
+      ],
+      "cross_refs": [],
+      "keywords": [
+        "ski jumping",
+        "ski jump",
+        "starting ramp",
+        "launch platform",
+        "landing track",
+        "run-out",
+        "judges’ tower",
+        "judges’ cabins",
+        "profile",
+        "FIS"
+      ],
+      "tags_architectural": [
+        "safety",
+        "circulation",
+        "spatial_proportion"
+      ],
+      "confidence": 0.89
+    }
+  ]
+}

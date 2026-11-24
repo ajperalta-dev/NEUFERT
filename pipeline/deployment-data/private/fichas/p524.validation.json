@@ -1,0 +1,32 @@
+{
+  "model": "gpt-6-luna",
+  "checks": {
+    "checks": [
+      {
+        "ficha_index": 1,
+        "dimension_index": 0,
+        "status": "verified",
+        "value": 35.0,
+        "value_max": null,
+        "reason": "The text explicitly states \u201cmax. 35 m,\u201d and the drawing also labels the distance \u201cmax. 35 m.\u201d The proposed value and unit agree."
+      }
+    ]
+  },
+  "automatic": [
+    {
+      "ficha_index": 1,
+      "dimension_index": 0,
+      "issues": []
+    }
+  ],
+  "usage": [
+    {
+      "prompt_tokens": 4871,
+      "completion_tokens": 815
+    },
+    {
+      "prompt_tokens": 3744,
+      "completion_tokens": 110
+    }
+  ]
+}

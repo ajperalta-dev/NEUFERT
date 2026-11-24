@@ -1,0 +1,363 @@
+{
+  "fichas": [
+    {
+      "id": "4122fb96e4bd1976-548-vision-0",
+      "pdf_page": 548,
+      "book_page": 535,
+      "chapter": "BUILDING SERVICES",
+      "section": "Domestic Installation",
+      "title": "Underfloor heating: screed and floor-temperature requirements",
+      "summary": "Heating pipes laid directly on thermal insulation require a specified minimum cement-screed cover. Differential expansion under ceramic flooring may require upper reinforcement; carpet or parquet does not require reinforcement according to the text. DIN 4725 gives maximum floor-surface temperatures, and the text notes that underfloor heating is normally feasible within the stated heating-demand condition.",
+      "building_type": "Domestic building",
+      "spaces": [
+        "Permanently occupied areas",
+        "Edge zone",
+        "Bathrooms"
+      ],
+      "uses": [
+        "Underfloor heating",
+        "Heating"
+      ],
+      "furniture_equipment": [],
+      "dimensions": [
+        {
+          "label": "Minimum cover over heating pipes",
+          "value": 45.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Minimum cement-screed cover when the pipes are laid directly on thermal insulation.",
+          "status": "uncertain",
+          "ocr_raw": "a minimum cover to the pipes of 45 mm is specified"
+        },
+        {
+          "label": "Minimum construction thickness without floor construction",
+          "value": 75.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Total construction thickness for the described heated screed assembly.",
+          "status": "uncertain",
+          "ocr_raw": "a total construction thickness of min. 75 mm without floor construction"
+        },
+        {
+          "label": "Maximum floor-surface temperature",
+          "value": 29.0,
+          "value_max": null,
+          "unit": "°C",
+          "context": "Permanently occupied areas; DIN 4725.",
+          "status": "uncertain",
+          "ocr_raw": "29°C for permanently occupied areas"
+        },
+        {
+          "label": "Maximum edge-zone width",
+          "value": 1.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "The edge zone is no wider than this width.",
+          "status": "uncertain",
+          "ocr_raw": "edge zone (no wider than 1 m)"
+        },
+        {
+          "label": "Maximum floor-surface temperature",
+          "value": 35.0,
+          "value_max": null,
+          "unit": "°C",
+          "context": "Edge zone; DIN 4725.",
+          "status": "uncertain",
+          "ocr_raw": "35°C"
+        },
+        {
+          "label": "Bathroom floor temperature above standard room temperature",
+          "value": 9.0,
+          "value_max": null,
+          "unit": "°C",
+          "context": "Maximum permissible bathroom floor temperature increment above standard room temperature.",
+          "status": "uncertain",
+          "ocr_raw": "for bathrooms is 9°C above standard room temperature"
+        },
+        {
+          "label": "Heating demand threshold",
+          "value": 90.0,
+          "value_max": null,
+          "unit": "W/m²",
+          "context": "The text says heating demand is seldom above this value under the stated conditions.",
+          "status": "uncertain",
+          "ocr_raw": "above 90 W/m²"
+        }
+      ],
+      "figure_refs": [],
+      "cross_refs": [
+        "DIN 4725"
+      ],
+      "keywords": [
+        "underfloor heating",
+        "heating pipes",
+        "cement screed",
+        "thermal insulation",
+        "floor temperature",
+        "reinforcement"
+      ],
+      "tags_architectural": [
+        "safety",
+        "spatial_proportion"
+      ],
+      "confidence": 0.98
+    },
+    {
+      "id": "4122fb96e4bd1976-548-vision-1",
+      "pdf_page": 548,
+      "book_page": 535,
+      "chapter": "BUILDING SERVICES",
+      "section": "Domestic Installation",
+      "title": "Heating oil storage: siting and protection requirements",
+      "summary": "Heating oil storage guidance covers storage duration, a maximum quantity in the heating room, containment for leaks, and protection measures for underground tanks. Indoor tanks may be plastic battery tanks or steel tanks welded on site; the storage room must be accessible, checked for leaks, and capable of containing the oil in case of leakage. Filling, venting, and overfill-protection equipment are required, while leak-warning systems may depend on storage type.",
+      "building_type": "Domestic building",
+      "spaces": [
+        "Heating room",
+        "Tank storage room",
+        "Groundwater protection zones"
+      ],
+      "uses": [
+        "Heating oil storage",
+        "Leak containment",
+        "Tank filling and venting"
+      ],
+      "furniture_equipment": [
+        "Heating oil storage tanks",
+        "Collecting tank",
+        "Filling equipment",
+        "Venting equipment",
+        "Overfill protection",
+        "Leak-warning system"
+      ],
+      "dimensions": [
+        {
+          "label": "Minimum heating-oil supply duration",
+          "value": 3.0,
+          "value_max": null,
+          "unit": "months",
+          "context": "The stored quantity should last for at least this duration.",
+          "status": "uncertain",
+          "ocr_raw": "the quantity of heating oil should last for at least three months"
+        },
+        {
+          "label": "Maximum heating-oil quantity in heating room",
+          "value": 5000.0,
+          "value_max": null,
+          "unit": "l",
+          "context": "Maximum amount stated for storage in the heating room.",
+          "status": "uncertain",
+          "ocr_raw": "No more than 5000 l may be stored in the heating room"
+        },
+        {
+          "label": "Plastic battery tank capacity",
+          "value": 500.0,
+          "value_max": 2000.0,
+          "unit": "l",
+          "context": "Capacity range for each plastic battery tank used inside buildings.",
+          "status": "uncertain",
+          "ocr_raw": "plastic battery tanks each containing 500–2000 l"
+        }
+      ],
+      "figure_refs": [
+        "1 Ways of installing standardised heating oil storage tanks",
+        "2 Underground installation of heating oil storage tanks",
+        "9 Tank laid in pre-cast protection component",
+        "10 Pre-cast concrete protection trough for oil tanks"
+      ],
+      "cross_refs": [
+        "BS EN 13341",
+        "DIN 4755",
+        "DIN 51603"
+      ],
+      "keywords": [
+        "heating oil",
+        "storage tanks",
+        "secondary containment",
+        "underground tanks",
+        "leak protection",
+        "groundwater protection"
+      ],
+      "tags_architectural": [
+        "safety",
+        "accessibility"
+      ],
+      "confidence": 0.98
+    },
+    {
+      "id": "4122fb96e4bd1976-548-vision-2",
+      "pdf_page": 548,
+      "book_page": 535,
+      "chapter": "BUILDING SERVICES",
+      "section": "Domestic Installation",
+      "title": "Plastic battery tanks: available dimensions",
+      "summary": "The page shows nylon (polyamide) battery tank arrangements and a table of nominal capacities, maximum dimensions, and weights including accessories. A second table lists minimum capacities and dimensions for plastic tanks. The listed tank sizes are product data rather than room-planning dimensions.",
+      "building_type": "Domestic building",
+      "spaces": [
+        "Heating oil tank storage area"
+      ],
+      "uses": [
+        "Heating oil storage"
+      ],
+      "furniture_equipment": [
+        "Nylon (polyamide) battery storage tanks"
+      ],
+      "dimensions": [
+        {
+          "label": "Nominal capacity",
+          "value": 1100.0,
+          "value_max": null,
+          "unit": "l",
+          "context": "Available plastic battery tank; table also gives volume as 1100 dm³. Associated maximum dimensions are length 1100 mm and depth 720 mm.",
+          "status": "uncertain",
+          "ocr_raw": "1100 (1100) | 1100 (1100) | 720"
+        },
+        {
+          "label": "Maximum tank length",
+          "value": 1100.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Available plastic battery tank with nominal capacity 1100 l; table gives depth 720 mm.",
+          "status": "uncertain",
+          "ocr_raw": "1100 (1100) | 1100 (1100) | 720"
+        },
+        {
+          "label": "Maximum tank depth",
+          "value": 720.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Available plastic battery tank with nominal capacity 1100 l.",
+          "status": "uncertain",
+          "ocr_raw": "1100 (1100) | 1100 (1100) | 720"
+        },
+        {
+          "label": "Nominal capacity",
+          "value": 1500.0,
+          "value_max": null,
+          "unit": "l",
+          "context": "Available plastic battery tank; OCR table gives associated capacity notation 1500 (1600), maximum length 1650 (1720) mm, and depth 720 mm.",
+          "status": "uncertain",
+          "ocr_raw": "1500 (1600) | 1650 (1720) | 720"
+        },
+        {
+          "label": "Nominal capacity",
+          "value": 2000.0,
+          "value_max": null,
+          "unit": "l",
+          "context": "Available plastic battery tank; maximum length 2150 mm and depth 720 mm.",
+          "status": "uncertain",
+          "ocr_raw": "2000 | 2150 | 720"
+        },
+        {
+          "label": "Tank height",
+          "value": 150.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Dimension shown for the battery storage tank arrangement in figure 3; a separate 10 cm dimension is also printed at the base.",
+          "status": "uncertain",
+          "ocr_raw": "150 cm"
+        },
+        {
+          "label": "Tank spacing",
+          "value": 73.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Repeated spacing dimension shown for the three-tank battery arrangement in figure 4.",
+          "status": "uncertain",
+          "ocr_raw": "73 cm + 73 cm + 73 cm"
+        }
+      ],
+      "figure_refs": [
+        "3 Battery storage tank made of nylon (polyamide)",
+        "4 Battery storage tanks made of nylon (polyamide)",
+        "5 Available dimensions of plastic battery tanks"
+      ],
+      "cross_refs": [],
+      "keywords": [
+        "plastic battery tanks",
+        "polyamide",
+        "tank capacity",
+        "tank dimensions",
+        "heating oil"
+      ],
+      "tags_architectural": [
+        "modularity"
+      ],
+      "confidence": 0.9
+    },
+    {
+      "id": "4122fb96e4bd1976-548-vision-3",
+      "pdf_page": 548,
+      "book_page": 535,
+      "chapter": "BUILDING SERVICES",
+      "section": "Domestic Installation",
+      "title": "Cylindrical oil-tank dimensions",
+      "summary": "A table lists minimum capacities, minimum dimensions, sheet thickness, filler-cap dimensions, and weights for cylindrical oil tanks. The adjacent figures show side and front views. Table values vary by tank type and capacity; consult the printed table for the complete product-specific data.",
+      "building_type": "Domestic building",
+      "spaces": [
+        "Heating oil tank storage area"
+      ],
+      "uses": [
+        "Heating oil storage"
+      ],
+      "furniture_equipment": [
+        "Cylindrical oil tanks"
+      ],
+      "dimensions": [
+        {
+          "label": "Minimum capacity",
+          "value": 1.0,
+          "value_max": null,
+          "unit": "m³",
+          "context": "One entry in the cylindrical oil-tank table; corresponding external diameter is 1000 mm and length is 1510 mm.",
+          "status": "uncertain",
+          "ocr_raw": "1 | 1000 | 1510"
+        },
+        {
+          "label": "External diameter",
+          "value": 1000.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Cylindrical oil tank table entry with minimum capacity 1 m³.",
+          "status": "uncertain",
+          "ocr_raw": "1 | 1000 | 1510"
+        },
+        {
+          "label": "Minimum tank length",
+          "value": 1510.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Cylindrical oil tank table entry with minimum capacity 1 m³.",
+          "status": "uncertain",
+          "ocr_raw": "1 | 1000 | 1510"
+        },
+        {
+          "label": "Tank capacity",
+          "value": 60.0,
+          "value_max": null,
+          "unit": "m³",
+          "context": "A capacity entry shown in the cylindrical oil-tank dimensions table.",
+          "status": "uncertain",
+          "ocr_raw": "60"
+        }
+      ],
+      "figure_refs": [
+        "6 Dimensions of cylindrical oil tanks",
+        "7 Storage tank for heating oil, side view",
+        "8 Storage tank for heating oil, front view"
+      ],
+      "cross_refs": [
+        "→ 7"
+      ],
+      "keywords": [
+        "cylindrical oil tank",
+        "tank dimensions",
+        "tank capacity",
+        "heating oil"
+      ],
+      "tags_architectural": [
+        "modularity"
+      ],
+      "confidence": 0.79
+    }
+  ]
+}

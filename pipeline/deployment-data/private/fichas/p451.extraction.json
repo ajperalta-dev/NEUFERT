@@ -1,0 +1,182 @@
+{
+  "fichas": [
+    {
+      "id": "4122fb96e4bd1976-451-vision-0",
+      "pdf_page": 451,
+      "book_page": 438,
+      "chapter": "EXTERNAL WORKS",
+      "section": "Vegetation",
+      "title": "Vegetation: Plants and Lawns",
+      "summary": "Guidance on planting and anchoring trees, respecting property boundaries, plant and lawn acceptance, and soil preparation. Illustrations show planting and staking methods, soil layers, hedge growth heights, and standards for sorting and bundling standard trees.",
+      "building_type": "Landscape and site works",
+      "spaces": [
+        "Planting areas",
+        "Tree planting pits",
+        "Lawns",
+        "Hedges"
+      ],
+      "uses": [
+        "Plant trees and shrubs",
+        "Anchor and protect newly planted trees",
+        "Establish and maintain lawns and ground-cover planting",
+        "Determine planting distances from property boundaries"
+      ],
+      "furniture_equipment": [
+        "Support stakes",
+        "Tensioning wires",
+        "Tie-down straps",
+        "Straw matting",
+        "Planting spade",
+        "Root-ball net or fabric"
+      ],
+      "dimensions": [
+        {
+          "label": "Planting-hole width multiplier",
+          "value": 1.5,
+          "value_max": null,
+          "unit": "ratio",
+          "context": "Planting-hole width relative to root-ball width.",
+          "status": "uncertain",
+          "ocr_raw": "Planting holes should be dug with a width of 1.5 times the root ball."
+        },
+        {
+          "label": "Hedge planting distance for hedges up to 2.0 m high",
+          "value": 0.5,
+          "value_max": null,
+          "unit": "m",
+          "context": "Distance from neighbouring property boundary; measured from the side surface.",
+          "status": "uncertain",
+          "ocr_raw": "Hedges up to a height of 2.0 m should be planted at a distance of 0.50 m"
+        },
+        {
+          "label": "Hedge height threshold",
+          "value": 2.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Height threshold distinguishing the stated hedge boundary distances.",
+          "status": "uncertain",
+          "ocr_raw": "Hedges up to a height of 2.0 m"
+        },
+        {
+          "label": "Hedge planting distance for hedges over 2.0 m high",
+          "value": 1.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Distance from neighbouring property boundary; measured from the side surface.",
+          "status": "uncertain",
+          "ocr_raw": "or if over 2.0 m in height at 1.0 m"
+        },
+        {
+          "label": "Small-tree planting distance",
+          "value": 1.5,
+          "value_max": null,
+          "unit": "m",
+          "context": "Distance from neighbouring property boundary, measured from the centre of the trunk.",
+          "status": "uncertain",
+          "ocr_raw": "small trees at a distance of 1.50 m"
+        },
+        {
+          "label": "Large-tree planting distance",
+          "value": 3.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Distance from neighbouring property boundary, measured from the centre of the trunk.",
+          "status": "uncertain",
+          "ocr_raw": "large trees at 3.0 m. (measured from the centre of the trunk)."
+        },
+        {
+          "label": "Maximum dead plants for acceptable area planting",
+          "value": 5.0,
+          "value_max": null,
+          "unit": "%",
+          "context": "Ground-cover planting is acceptable at this maximum if its appearance remains continuous.",
+          "status": "uncertain",
+          "ocr_raw": "Area (ground-cover) planting is acceptable when no more than 5% of the plants have died"
+        },
+        {
+          "label": "Minimum fertile soil layer for lawns",
+          "value": 10.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Soil preparation beneath lawn areas.",
+          "status": "uncertain",
+          "ocr_raw": "For lawn areas, a fertile soil layer of at least 10 cm should be prepared."
+        },
+        {
+          "label": "Grass growth temperature threshold",
+          "value": 8.0,
+          "value_max": null,
+          "unit": "°C",
+          "context": "Grass generally grows above approximately this temperature.",
+          "status": "uncertain",
+          "ocr_raw": "Grass generally grows at temperatures above approx. 8°C"
+        },
+        {
+          "label": "Grass growth stopping temperature",
+          "value": 30.0,
+          "value_max": null,
+          "unit": "°C",
+          "context": "Grass stops growing at approximately this temperature.",
+          "status": "uncertain",
+          "ocr_raw": "and stops growing at approx. 30°C."
+        },
+        {
+          "label": "Wait before using newly sown lawn",
+          "value": 6.0,
+          "value_max": null,
+          "unit": "weeks",
+          "context": "Approximate period before a newly sown lawn can be used.",
+          "status": "uncertain",
+          "ocr_raw": "A newly sown lawn can be used after about six weeks."
+        },
+        {
+          "label": "Minimum acceptable lawn cover",
+          "value": 75.0,
+          "value_max": null,
+          "unit": "%",
+          "context": "Approximate cover required for sowing work to be acceptable.",
+          "status": "uncertain",
+          "ocr_raw": "Sowing work is acceptable when a cover of approx. 75% is reached."
+        },
+        {
+          "label": "Minimum projective ground cover for landscape grass areas",
+          "value": 50.0,
+          "value_max": null,
+          "unit": "%",
+          "context": "Approximate cover for acceptance of landscape grass areas.",
+          "status": "uncertain",
+          "ocr_raw": "Landscape grass areas are acceptable with a projective ground cover of approx. 50%."
+        }
+      ],
+      "figure_refs": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7"
+      ],
+      "cross_refs": [
+        "RSM (Standardised Seed Mixtures) 2008 from the FLL series",
+        "Law on the Rights of Neighbours",
+        "relevant standard",
+        "Lehr. → refs."
+      ],
+      "keywords": [
+        "vegetation",
+        "plants",
+        "lawns",
+        "tree planting",
+        "tree anchoring",
+        "planting distances",
+        "soil layers",
+        "hedges"
+      ],
+      "tags_architectural": [
+        "safety"
+      ],
+      "confidence": 0.92
+    }
+  ]
+}

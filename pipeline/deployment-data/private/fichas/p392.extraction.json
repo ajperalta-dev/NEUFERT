@@ -1,0 +1,487 @@
+{
+  "fichas": [
+    {
+      "id": "4122fb96e4bd1976-392-vision-0",
+      "pdf_page": 392,
+      "book_page": 379,
+      "chapter": "TRANSPORT",
+      "section": "Roads",
+      "title": "Vehicle traffic space at full speed",
+      "summary": "Diagrams give traffic-space and clearance dimensions for vehicle encounters at full speed (≥50 km/h). Vehicle traffic space combines the assessment vehicle, movement margins, allowance for two-directional traffic, and space above the drainage channel and hard shoulder. The accompanying text specifies vehicle, bicycle, pedestrian, and side-safety clearances.",
+      "building_type": "Road and street infrastructure",
+      "spaces": [
+        "Roadway",
+        "Vehicle traffic space",
+        "Bicycle traffic space",
+        "Pedestrian traffic space",
+        "Side safety space"
+      ],
+      "uses": [
+        "Accommodating two-directional vehicle encounters",
+        "Providing space for bicycle and pedestrian traffic"
+      ],
+      "furniture_equipment": [],
+      "dimensions": [
+        {
+          "label": "Full-speed threshold",
+          "value": 50.0,
+          "value_max": null,
+          "unit": "km/h",
+          "context": "Encounter diagrams for full speed; the heading uses ≥50 km/h.",
+          "status": "uncertain",
+          "ocr_raw": "Space required at full speed (≥50 km/h)"
+        },
+        {
+          "label": "Assessment vehicle width",
+          "value": 2.55,
+          "value_max": 2.6,
+          "unit": "m",
+          "context": "Maximum width of the assessment vehicle, according to European standards.",
+          "status": "uncertain",
+          "ocr_raw": "The maximum width of the assessment vehicle is, in accordance with European standards, 2.55–2.60 m."
+        },
+        {
+          "label": "Bicycle traffic lane width",
+          "value": 1.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "One lane each for bicycle traffic.",
+          "status": "uncertain",
+          "ocr_raw": "Traffic space for bicycles is one lane each, 1.00 m wide and 2.25 m high"
+        },
+        {
+          "label": "Bicycle traffic space height",
+          "value": 2.25,
+          "value_max": null,
+          "unit": "m",
+          "context": "Clear height of bicycle traffic space.",
+          "status": "uncertain",
+          "ocr_raw": "Traffic space for bicycles is one lane each, 1.00 m wide and 2.25 m high"
+        },
+        {
+          "label": "Pedestrian walking strip width",
+          "value": 0.75,
+          "value_max": null,
+          "unit": "m",
+          "context": "Walking strip for pedestrian traffic.",
+          "status": "uncertain",
+          "ocr_raw": "Traffic space for pedestrians is a walking strip 0.75 m wide and 2.25 m high."
+        },
+        {
+          "label": "Pedestrian traffic space height",
+          "value": 2.25,
+          "value_max": null,
+          "unit": "m",
+          "context": "Clear height of pedestrian traffic space.",
+          "status": "uncertain",
+          "ocr_raw": "Traffic space for pedestrians is a walking strip 0.75 m wide and 2.25 m high."
+        },
+        {
+          "label": "Vehicle traffic space height",
+          "value": 4.2,
+          "value_max": null,
+          "unit": "m",
+          "context": "Traffic-space height for vehicles, before the safety margin.",
+          "status": "uncertain",
+          "ocr_raw": "The height of the traffic space for vehicles is 4.20 m, plus a safety margin 4.50 m (or, better, 4.70 m)"
+        },
+        {
+          "label": "Vehicle clearance height with safety margin",
+          "value": 4.5,
+          "value_max": null,
+          "unit": "m",
+          "context": "Vehicle traffic-space height including the stated safety margin.",
+          "status": "uncertain",
+          "ocr_raw": "The height of the traffic space for vehicles is 4.20 m, plus a safety margin 4.50 m (or, better, 4.70 m)"
+        },
+        {
+          "label": "Preferred vehicle clearance height with safety margin",
+          "value": 4.7,
+          "value_max": null,
+          "unit": "m",
+          "context": "Preferred height including safety margin to allow renewal of elevated superstructure.",
+          "status": "uncertain",
+          "ocr_raw": "plus a safety margin 4.50 m (or, better, 4.70 m), in order to be able to renew elevated superstructure."
+        },
+        {
+          "label": "Footpath and cycle-track clear height",
+          "value": 2.5,
+          "value_max": null,
+          "unit": "m",
+          "context": "Clear height for footpaths and cycle tracks.",
+          "status": "uncertain",
+          "ocr_raw": "For footpaths and cycle tracks, the clear height is 2.50 m."
+        },
+        {
+          "label": "Permissible maximum speed threshold",
+          "value": 70.0,
+          "value_max": null,
+          "unit": "km/h",
+          "context": "Threshold for the stated higher-speed side safety-space recommendation.",
+          "status": "uncertain",
+          "ocr_raw": "Permissible speed ≥70 km/h, safety space ≥1.25 m (1.00 m)"
+        },
+        {
+          "label": "Side safety space at higher speed",
+          "value": 1.25,
+          "value_max": null,
+          "unit": "m",
+          "context": "At permissible speed ≥70 km/h; parenthetical alternative is also printed.",
+          "status": "uncertain",
+          "ocr_raw": "Permissible speed ≥70 km/h, safety space ≥1.25 m (1.00 m)"
+        },
+        {
+          "label": "Parenthetical side safety space at higher speed",
+          "value": 1.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Parenthetical alternative alongside the ≥1.25 m recommendation for permissible speed ≥70 km/h.",
+          "status": "uncertain",
+          "ocr_raw": "Permissible speed ≥70 km/h, safety space ≥1.25 m (1.00 m)"
+        },
+        {
+          "label": "Permissible speed threshold",
+          "value": 50.0,
+          "value_max": null,
+          "unit": "km/h",
+          "context": "Threshold for the stated lower-speed side safety-space recommendation.",
+          "status": "uncertain",
+          "ocr_raw": "Permissible speed ≥50 km/h, safety space ≥0.75 m"
+        },
+        {
+          "label": "Side safety space at 50 km/h threshold",
+          "value": 0.75,
+          "value_max": null,
+          "unit": "m",
+          "context": "At permissible speed ≥50 km/h.",
+          "status": "uncertain",
+          "ocr_raw": "Permissible speed ≥50 km/h, safety space ≥0.75 m"
+        },
+        {
+          "label": "Truck/truck overall traffic-space width",
+          "value": 6.25,
+          "value_max": null,
+          "unit": "m",
+          "context": "Full-speed encounter diagram, figure 1.",
+          "status": "uncertain",
+          "ocr_raw": "6.25"
+        },
+        {
+          "label": "Truck/car overall traffic-space width",
+          "value": 5.5,
+          "value_max": null,
+          "unit": "m",
+          "context": "Full-speed encounter diagram, figure 2.",
+          "status": "uncertain",
+          "ocr_raw": "5.50"
+        },
+        {
+          "label": "Truck/bicycle overall traffic-space width",
+          "value": 4.25,
+          "value_max": null,
+          "unit": "m",
+          "context": "Full-speed encounter diagram, figure 3.",
+          "status": "uncertain",
+          "ocr_raw": "4.25"
+        },
+        {
+          "label": "Van/van overall traffic-space width",
+          "value": 5.45,
+          "value_max": null,
+          "unit": "m",
+          "context": "Full-speed encounter diagram, figure 4.",
+          "status": "uncertain",
+          "ocr_raw": "5.45"
+        },
+        {
+          "label": "Van/car overall traffic-space width",
+          "value": 5.1,
+          "value_max": null,
+          "unit": "m",
+          "context": "Full-speed encounter diagram, figure 5.",
+          "status": "uncertain",
+          "ocr_raw": "5.10"
+        },
+        {
+          "label": "Van/bicycle overall traffic-space width",
+          "value": 3.85,
+          "value_max": null,
+          "unit": "m",
+          "context": "Full-speed encounter diagram, figure 6.",
+          "status": "uncertain",
+          "ocr_raw": "3.85"
+        },
+        {
+          "label": "Bus/bus overall traffic-space width",
+          "value": 6.5,
+          "value_max": null,
+          "unit": "m",
+          "context": "Full-speed encounter diagram, figure 7.",
+          "status": "uncertain",
+          "ocr_raw": "6.50"
+        },
+        {
+          "label": "Car/car overall traffic-space width",
+          "value": 4.75,
+          "value_max": null,
+          "unit": "m",
+          "context": "Full-speed encounter diagram, figure 8.",
+          "status": "uncertain",
+          "ocr_raw": "4.75"
+        },
+        {
+          "label": "Car/bicycle overall traffic-space width",
+          "value": 3.5,
+          "value_max": null,
+          "unit": "m",
+          "context": "Full-speed encounter diagram, figure 9.",
+          "status": "uncertain",
+          "ocr_raw": "3.50"
+        }
+      ],
+      "figure_refs": [
+        "1 Truck/truck",
+        "2 Truck/car",
+        "3 Truck/bicycle",
+        "4 Van/van",
+        "5 Van/car",
+        "6 Van/bicycle",
+        "7 Bus/bus",
+        "8 Car/car",
+        "9 Car/bicycle"
+      ],
+      "cross_refs": [
+        "p. 384"
+      ],
+      "keywords": [
+        "roads",
+        "traffic space",
+        "vehicle clearance",
+        "bicycle lane",
+        "pedestrian walking strip",
+        "side safety space",
+        "full speed"
+      ],
+      "tags_architectural": [
+        "circulation",
+        "clearance",
+        "safety"
+      ],
+      "confidence": 0.94
+    },
+    {
+      "id": "4122fb96e4bd1976-392-vision-1",
+      "pdf_page": 392,
+      "book_page": 379,
+      "chapter": "TRANSPORT",
+      "section": "Roads",
+      "title": "Vehicle traffic space at reduced speed",
+      "summary": "Diagrams show the traffic-space widths for truck, van, bus, and car encounters with full-speed reduced conditions, headed for reduced speeds of ≤40 km/h. The printed overall widths are recorded by encounter type.",
+      "building_type": "Road and street infrastructure",
+      "spaces": [
+        "Roadway",
+        "Vehicle traffic space"
+      ],
+      "uses": [
+        "Accommodating vehicle encounters at reduced speed"
+      ],
+      "furniture_equipment": [],
+      "dimensions": [
+        {
+          "label": "Reduced-speed threshold",
+          "value": 40.0,
+          "value_max": null,
+          "unit": "km/h",
+          "context": "Encounter diagrams for reduced speed; the heading uses ≤40 km/h.",
+          "status": "uncertain",
+          "ocr_raw": "Space required at reduced speed (≤40 km/h)"
+        },
+        {
+          "label": "Truck/truck overall traffic-space width",
+          "value": 5.5,
+          "value_max": null,
+          "unit": "m",
+          "context": "Reduced-speed encounter diagram, figure 10.",
+          "status": "uncertain",
+          "ocr_raw": "5.50"
+        },
+        {
+          "label": "Truck/car overall traffic-space width",
+          "value": 4.75,
+          "value_max": null,
+          "unit": "m",
+          "context": "Reduced-speed encounter diagram, figure 11.",
+          "status": "uncertain",
+          "ocr_raw": "4.75"
+        },
+        {
+          "label": "Truck/bicycle overall traffic-space width",
+          "value": 4.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Reduced-speed encounter diagram, figure 12.",
+          "status": "uncertain",
+          "ocr_raw": "4.00"
+        },
+        {
+          "label": "Bus/bus overall traffic-space width",
+          "value": 6.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Reduced-speed encounter diagram, figure 13.",
+          "status": "uncertain",
+          "ocr_raw": "6.00"
+        },
+        {
+          "label": "Van/van overall traffic-space width",
+          "value": 4.7,
+          "value_max": null,
+          "unit": "m",
+          "context": "Reduced-speed encounter diagram, figure 14.",
+          "status": "uncertain",
+          "ocr_raw": "4.70"
+        },
+        {
+          "label": "Van/car overall traffic-space width",
+          "value": 4.25,
+          "value_max": null,
+          "unit": "m",
+          "context": "Reduced-speed encounter diagram, figure 15.",
+          "status": "uncertain",
+          "ocr_raw": "4.25"
+        },
+        {
+          "label": "Van/bicycle overall traffic-space width",
+          "value": 3.6,
+          "value_max": null,
+          "unit": "m",
+          "context": "Reduced-speed encounter diagram, figure 16.",
+          "status": "uncertain",
+          "ocr_raw": "3.60"
+        },
+        {
+          "label": "Car/car overall traffic-space width",
+          "value": 4.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Reduced-speed encounter diagram, figure 17.",
+          "status": "uncertain",
+          "ocr_raw": "4.00"
+        },
+        {
+          "label": "Car/bicycle overall traffic-space width",
+          "value": 3.25,
+          "value_max": null,
+          "unit": "m",
+          "context": "Reduced-speed encounter diagram, figure 19.",
+          "status": "uncertain",
+          "ocr_raw": "3.25"
+        }
+      ],
+      "figure_refs": [
+        "10 Truck/truck",
+        "11 Truck/car",
+        "12 Truck/bicycle",
+        "13 Bus/bus",
+        "14 Van/van",
+        "15 Van/car",
+        "16 Van/bicycle",
+        "17 Car/car",
+        "19 Car/bicycle"
+      ],
+      "cross_refs": [],
+      "keywords": [
+        "roads",
+        "traffic space",
+        "vehicle encounters",
+        "reduced speed"
+      ],
+      "tags_architectural": [
+        "circulation",
+        "clearance",
+        "safety"
+      ],
+      "confidence": 0.92
+    },
+    {
+      "id": "4122fb96e4bd1976-392-vision-2",
+      "pdf_page": 392,
+      "book_page": 379,
+      "chapter": "TRANSPORT",
+      "section": "Roads",
+      "title": "Dimensions of clear space and traffic space for vehicles",
+      "summary": "A section diagram defines the spatial components used for vehicle traffic and adjacent cycle and pedestrian spaces. It labels clearances for side and head room, pedestrians, cyclists, and motor vehicles, and identifies roadway, cycle path, kerb, walking space, and pavement.",
+      "building_type": "Road and street infrastructure",
+      "spaces": [
+        "Roadway",
+        "Cycle path",
+        "Kerb",
+        "Walking space",
+        "Pavement",
+        "Vehicle traffic space",
+        "Pedestrian traffic space"
+      ],
+      "uses": [
+        "Defining clear-space and traffic-space envelopes",
+        "Planning roadway, cycle-path, and pedestrian-space cross-sections"
+      ],
+      "furniture_equipment": [],
+      "dimensions": [
+        {
+          "label": "Vehicle traffic-space height",
+          "value": 4.2,
+          "value_max": null,
+          "unit": "m",
+          "context": "Dimension shown in the clear-space/traffic-space section diagram.",
+          "status": "uncertain",
+          "ocr_raw": "4.20"
+        },
+        {
+          "label": "Pedestrian traffic-space height",
+          "value": 2.25,
+          "value_max": null,
+          "unit": "m",
+          "context": "Dimension shown for pedestrian space in the section diagram.",
+          "status": "uncertain",
+          "ocr_raw": "2.25"
+        },
+        {
+          "label": "Clear height",
+          "value": 2.5,
+          "value_max": null,
+          "unit": "m",
+          "context": "Clearance dimension shown in the section diagram.",
+          "status": "uncertain",
+          "ocr_raw": "2.50"
+        },
+        {
+          "label": "Vehicle safety-margin height",
+          "value": 4.5,
+          "value_max": null,
+          "unit": "m",
+          "context": "Vertical dimension shown in the section diagram.",
+          "status": "uncertain",
+          "ocr_raw": "4.50"
+        }
+      ],
+      "figure_refs": [
+        "18 Dimensions of clear space/traffic space for vehicles"
+      ],
+      "cross_refs": [],
+      "keywords": [
+        "clear space",
+        "traffic space",
+        "roadway cross-section",
+        "cycle path",
+        "walking space",
+        "clearance"
+      ],
+      "tags_architectural": [
+        "circulation",
+        "clearance",
+        "safety"
+      ],
+      "confidence": 0.88
+    }
+  ]
+}

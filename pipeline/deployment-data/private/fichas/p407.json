@@ -1,0 +1,259 @@
+{
+  "fichas": [
+    {
+      "id": "4122fb96e4bd1976-407-vision-0",
+      "pdf_page": 407,
+      "book_page": 394,
+      "chapter": "TRANSPORT",
+      "section": "Parking Facilities",
+      "title": "Multi-storey Car Park Regulations",
+      "summary": "Regulations and design guidance for multi-storey car parks cover usable-area categories, underground location, access and escape, clear heights, ventilation openings, circulation, urban integration and safe operation. Diagrams show an office-integrated car park, access-ramp layouts and parking-space arrangements. A table gives sanitary-facility guidance for supervisory and maintenance staff and users.",
+      "building_type": "Multi-storey car park",
+      "spaces": [
+        "Parking floors",
+        "Access and exit routes",
+        "Ramps",
+        "Pedestrian-accessible areas",
+        "Office areas",
+        "Sanitary facilities"
+      ],
+      "uses": [
+        "Vehicle parking",
+        "Vehicle circulation and ramp access",
+        "Office use integrated into the façade or ground floor",
+        "Escape to stairs or exits",
+        "Park and Ride",
+        "Supervision and maintenance"
+      ],
+      "furniture_equipment": [
+        "Parking spaces",
+        "Ramps",
+        "Stairs",
+        "Exits",
+        "Ventilation openings",
+        "Video surveillance",
+        "Lobby glass areas",
+        "Sanitary fixtures: WC, washbasin, bucket sink and urinals"
+      ],
+      "dimensions": [
+        {
+          "label": "Small car park usable area threshold",
+          "value": 100.0,
+          "value_max": null,
+          "unit": "m²",
+          "context": "Small car parks are classified by usable area; OCR gives a corrupted threshold.",
+          "status": "verified",
+          "ocr_raw": "small\ncar parks are of 6100 m2"
+        },
+        {
+          "label": "Medium car park usable area",
+          "value": 100.0,
+          "value_max": 1000.0,
+          "unit": "m²",
+          "context": "Usable area classification.",
+          "status": "verified",
+          "ocr_raw": "medium car parks 100-1000 m2"
+        },
+        {
+          "label": "Large car park usable area threshold",
+          "value": 1000.0,
+          "value_max": null,
+          "unit": "m²",
+          "context": "Large car parks are classified by usable area; OCR gives a corrupted threshold.",
+          "status": "verified",
+          "ocr_raw": "large car parks 61000 m2 usable area"
+        },
+        {
+          "label": "Underground car park floor level below ground level",
+          "value": 1.3,
+          "value_max": null,
+          "unit": "m",
+          "context": "Definition of an underground car park.",
+          "status": "verified",
+          "ocr_raw": "floor level 61.30 m below ground level"
+        },
+        {
+          "label": "Minimum clear height",
+          "value": 2.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Areas accessible on foot, including beneath support beams, ventilation ducts and other building elements.",
+          "status": "verified",
+          "ocr_raw": "clear height of min. 2.0 m in areas\naccessible on foot, also under support beams, ventilation ducts\nand other building elements."
+        },
+        {
+          "label": "Maximum escape-route distance",
+          "value": 30.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Distance to stairs or exits.",
+          "status": "verified",
+          "ocr_raw": "Escape routes of max. 30 m are required to the stairs or exits."
+        },
+        {
+          "label": "Clear height for vans",
+          "value": 2.5,
+          "value_max": null,
+          "unit": "m",
+          "context": "Clear height for vans.",
+          "status": "verified",
+          "ocr_raw": "For vans the clear height is 2.50 m."
+        },
+        {
+          "label": "Maximum distance to opposite wall",
+          "value": 70.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Open multi-storey car park ventilation openings; the opposite wall is at most this distance away.",
+          "status": "verified",
+          "ocr_raw": "with the\nopposite wall at a maximum distance of 70 m."
+        },
+        {
+          "label": "Structural/storey diagram dimension",
+          "value": 2.8,
+          "value_max": null,
+          "unit": "m",
+          "context": "Dimension labels shown in the section diagram; the OCR text does not include these labels.",
+          "status": "uncertain",
+          "ocr_raw": "PARKING FACILITIES\nMulti-storey Car Park Regulations\n\n/]\n\nil===============~~l _____ _\n\nI~----------------------~---- - - Street view\n\nI\nI\n\nI\nI\n\nI\nI\n\nI\nI\n\nI\nI\n\nI\nI\n\nI\nI\n\nI\nI\n\nI\nI\n\nI\nI\n\nI\nI\n\nSuch car parks must have a clear height of min. 2.0 m in areas\naccessible on foot, also under support beams, ventilation ducts\nand other building elements. The ground floor is generally higher,\nas it usually has other uses.\n\nI\nI\n\n-~~-~~~~-~~~-~~~-LL~\n\nEscape routes of max. 30 m are required to the stairs or exits.\nFor vans the clear height is 2.50 m. Floor loadings according to\nthe relevant standard. Open multi-storey car parks have apertures,\nwhich cannot be closed, leading directly into the open air, with a\nsize of one third of the total area of the envelope wall, with the\nopposite wall at a maximum distance of 70 m. These provide\ntransverse ventilation even with weather protection measures.\n\n-:nTnTI\n\n-+-+--i-1--+-t-t1 I I I I I I\nI I I I I I I\n\n-----·-----\n\n0 Multi-storey car park with additional use: offices incorporated in the favade\nArch.: Kister Scheithauer Gross\n\n1-7.95-t-7.95-f-7.95-+5.00-j\n_/}\n\nf!_,____\n\n;\n\nFACILITIES\nPARKING\n\nAccording to the Garage (multi-storey car park) Regulations, small\ncar parks are of 6100 m2 , medium car parks 100-1000 m2 and\nlarge car parks 61000 m2 usable area. Underground car parks\nare defined as having the floor level 61.30 m below ground level.\nLarge multi-storey car parks must have separate access and\nexits. They are located near large traffic concentrations like those\nat stations, airports, shopping centres, theatres, cinemas, offices,\nadministrative buildings and large residential buildings. Medium\nand large multi-storey car parks must be in easily accessible areas.\n\n.f\n11\n\nConcerning the minimum dimensions for access, exits and internal\nroutes, these must include no space for starting to drive round a\ncurve. Particularly where ramps join to internal routes at right angles,\nadditional room must be provided for the start of driving round the\ncorner and the relevant minimum radii must be complied with. It\nmust also be possible for larger cars to drive in and out without\nmanoeuvring processes -7 p. 393 0. The planned traffic routeing\nmust always be checked against the relevant swept curves.\nCriteria for the quality of multi-storey car parks:\nThe scale of the fa9ades of multi-storey car parks should fit into\ntheir surroundings. The fa9ade elevation can also be used for other\nfunctions, for example as offices -7 0. Further criteria: integration\ninto urban planning coherence, natural lighting and ventilation,\ngreening, uncomplicated system for charging fees, good access\nto public transport- Park and Ride.\nSafe operation\nVideo surveillance, glass areas in lobbies (observe fire protection\nrequirements), visual contact with the outside, visibility through\nthe longest possible column spacing, light colours differentiating\nthe storeys, distinctive marking of parking spaces to help visitors\nfind them again.\n\nliijj~~~m~~~~~umm~~~~~~mEiw\n;:~:m:~;f!!:f:::t~\n. Iii\n&\n\nIndication of sanitary facilities\nsupervisory and maintenance staff:\n50-100 parking spaces\nladies:\ngents:\n\nf) Multi-storey car park with access route ramps\n\n8 Guidelines for sanitary facilities in large multi-storey car parks\n\nVehicles - cars\nVehicles- turning\nParking spaces\nMulti-storey car\nparks\nRamps\nMulti-storey car\npark regulations\nParking systems\nVehicles- trucks\nTrucks- parking\nand turning\nService areas\nPetrol stations\nCar wash\n\n1 we. 1 washbasin, 1 bucket sink\n1 we, 1 washbasin\n1 we, 1 washbasin\n1-2 urinals\n\n~\n\nI\n\nI\nfour rows\n\ntwo offset sets\nof two rows\n\nsix rows\n\nG Examples of the layout of parking spaces and ramps\n394\n\nright-angled layout\n\nmulti-storey car-park\n\nramps in direction of traffic\n\nwith ramps\n\nwith spiral ramps\n\n\f"
+        },
+        {
+          "label": "Structural/storey diagram dimension",
+          "value": 3.5,
+          "value_max": null,
+          "unit": "m",
+          "context": "Dimension label shown in the section diagram; the OCR text does not include this label.",
+          "status": "uncertain",
+          "ocr_raw": "PARKING FACILITIES\nMulti-storey Car Park Regulations\n\n/]\n\nil===============~~l _____ _\n\nI~----------------------~---- - - Street view\n\nI\nI\n\nI\nI\n\nI\nI\n\nI\nI\n\nI\nI\n\nI\nI\n\nI\nI\n\nI\nI\n\nI\nI\n\nI\nI\n\nI\nI\n\nSuch car parks must have a clear height of min. 2.0 m in areas\naccessible on foot, also under support beams, ventilation ducts\nand other building elements. The ground floor is generally higher,\nas it usually has other uses.\n\nI\nI\n\n-~~-~~~~-~~~-~~~-LL~\n\nEscape routes of max. 30 m are required to the stairs or exits.\nFor vans the clear height is 2.50 m. Floor loadings according to\nthe relevant standard. Open multi-storey car parks have apertures,\nwhich cannot be closed, leading directly into the open air, with a\nsize of one third of the total area of the envelope wall, with the\nopposite wall at a maximum distance of 70 m. These provide\ntransverse ventilation even with weather protection measures.\n\n-:nTnTI\n\n-+-+--i-1--+-t-t1 I I I I I I\nI I I I I I I\n\n-----·-----\n\n0 Multi-storey car park with additional use: offices incorporated in the favade\nArch.: Kister Scheithauer Gross\n\n1-7.95-t-7.95-f-7.95-+5.00-j\n_/}\n\nf!_,____\n\n;\n\nFACILITIES\nPARKING\n\nAccording to the Garage (multi-storey car park) Regulations, small\ncar parks are of 6100 m2 , medium car parks 100-1000 m2 and\nlarge car parks 61000 m2 usable area. Underground car parks\nare defined as having the floor level 61.30 m below ground level.\nLarge multi-storey car parks must have separate access and\nexits. They are located near large traffic concentrations like those\nat stations, airports, shopping centres, theatres, cinemas, offices,\nadministrative buildings and large residential buildings. Medium\nand large multi-storey car parks must be in easily accessible areas.\n\n.f\n11\n\nConcerning the minimum dimensions for access, exits and internal\nroutes, these must include no space for starting to drive round a\ncurve. Particularly where ramps join to internal routes at right angles,\nadditional room must be provided for the start of driving round the\ncorner and the relevant minimum radii must be complied with. It\nmust also be possible for larger cars to drive in and out without\nmanoeuvring processes -7 p. 393 0. The planned traffic routeing\nmust always be checked against the relevant swept curves.\nCriteria for the quality of multi-storey car parks:\nThe scale of the fa9ades of multi-storey car parks should fit into\ntheir surroundings. The fa9ade elevation can also be used for other\nfunctions, for example as offices -7 0. Further criteria: integration\ninto urban planning coherence, natural lighting and ventilation,\ngreening, uncomplicated system for charging fees, good access\nto public transport- Park and Ride.\nSafe operation\nVideo surveillance, glass areas in lobbies (observe fire protection\nrequirements), visual contact with the outside, visibility through\nthe longest possible column spacing, light colours differentiating\nthe storeys, distinctive marking of parking spaces to help visitors\nfind them again.\n\nliijj~~~m~~~~~umm~~~~~~mEiw\n;:~:m:~;f!!:f:::t~\n. Iii\n&\n\nIndication of sanitary facilities\nsupervisory and maintenance staff:\n50-100 parking spaces\nladies:\ngents:\n\nf) Multi-storey car park with access route ramps\n\n8 Guidelines for sanitary facilities in large multi-storey car parks\n\nVehicles - cars\nVehicles- turning\nParking spaces\nMulti-storey car\nparks\nRamps\nMulti-storey car\npark regulations\nParking systems\nVehicles- trucks\nTrucks- parking\nand turning\nService areas\nPetrol stations\nCar wash\n\n1 we. 1 washbasin, 1 bucket sink\n1 we, 1 washbasin\n1 we, 1 washbasin\n1-2 urinals\n\n~\n\nI\n\nI\nfour rows\n\ntwo offset sets\nof two rows\n\nsix rows\n\nG Examples of the layout of parking spaces and ramps\n394\n\nright-angled layout\n\nmulti-storey car-park\n\nramps in direction of traffic\n\nwith ramps\n\nwith spiral ramps\n\n\f"
+        },
+        {
+          "label": "Plan dimension",
+          "value": 7.95,
+          "value_max": null,
+          "unit": "m",
+          "context": "Repeated dimension labels in the ramp-access plan diagram; OCR text does not include these labels.",
+          "status": "uncertain",
+          "ocr_raw": "7.95"
+        },
+        {
+          "label": "Plan dimension",
+          "value": 5.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Dimension label in the ramp-access plan diagram; OCR text does not include this label.",
+          "status": "uncertain",
+          "ocr_raw": "5.00"
+        },
+        {
+          "label": "Staff parking-space range for sanitary-facility guidance",
+          "value": 50.0,
+          "value_max": 100.0,
+          "unit": "parking spaces",
+          "context": "The table indicates sanitary facilities for supervisory and maintenance staff at this parking-space range.",
+          "status": "verified",
+          "ocr_raw": "50-100 parking spaces"
+        },
+        {
+          "label": "Staff WC provision",
+          "value": 1.0,
+          "value_max": null,
+          "unit": "WC",
+          "context": "Sanitary-facility guidance for supervisory and maintenance staff.",
+          "status": "verified",
+          "ocr_raw": "1 we."
+        },
+        {
+          "label": "Staff washbasin provision",
+          "value": 1.0,
+          "value_max": null,
+          "unit": "washbasin",
+          "context": "Sanitary-facility guidance for supervisory and maintenance staff.",
+          "status": "verified",
+          "ocr_raw": "1 washbasin"
+        },
+        {
+          "label": "Staff bucket sink provision",
+          "value": 1.0,
+          "value_max": null,
+          "unit": "bucket sink",
+          "context": "Sanitary-facility guidance for supervisory and maintenance staff.",
+          "status": "verified",
+          "ocr_raw": "1 bucket sink"
+        },
+        {
+          "label": "Ladies WC provision",
+          "value": 1.0,
+          "value_max": null,
+          "unit": "WC",
+          "context": "Sanitary-facility guidance; table row for ladies.",
+          "status": "verified",
+          "ocr_raw": "PARKING FACILITIES\nMulti-storey Car Park Regulations\n\n/]\n\nil===============~~l _____ _\n\nI~----------------------~---- - - Street view\n\nI\nI\n\nI\nI\n\nI\nI\n\nI\nI\n\nI\nI\n\nI\nI\n\nI\nI\n\nI\nI\n\nI\nI\n\nI\nI\n\nI\nI\n\nSuch car parks must have a clear height of min. 2.0 m in areas\naccessible on foot, also under support beams, ventilation ducts\nand other building elements. The ground floor is generally higher,\nas it usually has other uses.\n\nI\nI\n\n-~~-~~~~-~~~-~~~-LL~\n\nEscape routes of max. 30 m are required to the stairs or exits.\nFor vans the clear height is 2.50 m. Floor loadings according to\nthe relevant standard. Open multi-storey car parks have apertures,\nwhich cannot be closed, leading directly into the open air, with a\nsize of one third of the total area of the envelope wall, with the\nopposite wall at a maximum distance of 70 m. These provide\ntransverse ventilation even with weather protection measures.\n\n-:nTnTI\n\n-+-+--i-1--+-t-t1 I I I I I I\nI I I I I I I\n\n-----·-----\n\n0 Multi-storey car park with additional use: offices incorporated in the favade\nArch.: Kister Scheithauer Gross\n\n1-7.95-t-7.95-f-7.95-+5.00-j\n_/}\n\nf!_,____\n\n;\n\nFACILITIES\nPARKING\n\nAccording to the Garage (multi-storey car park) Regulations, small\ncar parks are of 6100 m2 , medium car parks 100-1000 m2 and\nlarge car parks 61000 m2 usable area. Underground car parks\nare defined as having the floor level 61.30 m below ground level.\nLarge multi-storey car parks must have separate access and\nexits. They are located near large traffic concentrations like those\nat stations, airports, shopping centres, theatres, cinemas, offices,\nadministrative buildings and large residential buildings. Medium\nand large multi-storey car parks must be in easily accessible areas.\n\n.f\n11\n\nConcerning the minimum dimensions for access, exits and internal\nroutes, these must include no space for starting to drive round a\ncurve. Particularly where ramps join to internal routes at right angles,\nadditional room must be provided for the start of driving round the\ncorner and the relevant minimum radii must be complied with. It\nmust also be possible for larger cars to drive in and out without\nmanoeuvring processes -7 p. 393 0. The planned traffic routeing\nmust always be checked against the relevant swept curves.\nCriteria for the quality of multi-storey car parks:\nThe scale of the fa9ades of multi-storey car parks should fit into\ntheir surroundings. The fa9ade elevation can also be used for other\nfunctions, for example as offices -7 0. Further criteria: integration\ninto urban planning coherence, natural lighting and ventilation,\ngreening, uncomplicated system for charging fees, good access\nto public transport- Park and Ride.\nSafe operation\nVideo surveillance, glass areas in lobbies (observe fire protection\nrequirements), visual contact with the outside, visibility through\nthe longest possible column spacing, light colours differentiating\nthe storeys, distinctive marking of parking spaces to help visitors\nfind them again.\n\nliijj~~~m~~~~~umm~~~~~~mEiw\n;:~:m:~;f!!:f:::t~\n. Iii\n&\n\nIndication of sanitary facilities\nsupervisory and maintenance staff:\n50-100 parking spaces\nladies:\ngents:\n\nf) Multi-storey car park with access route ramps\n\n8 Guidelines for sanitary facilities in large multi-storey car parks\n\nVehicles - cars\nVehicles- turning\nParking spaces\nMulti-storey car\nparks\nRamps\nMulti-storey car\npark regulations\nParking systems\nVehicles- trucks\nTrucks- parking\nand turning\nService areas\nPetrol stations\nCar wash\n\n1 we. 1 washbasin, 1 bucket sink\n1 we, 1 washbasin\n1 we, 1 washbasin\n1-2 urinals\n\n~\n\nI\n\nI\nfour rows\n\ntwo offset sets\nof two rows\n\nsix rows\n\nG Examples of the layout of parking spaces and ramps\n394\n\nright-angled layout\n\nmulti-storey car-park\n\nramps in direction of traffic\n\nwith ramps\n\nwith spiral ramps\n\n\f"
+        },
+        {
+          "label": "Ladies washbasin provision",
+          "value": 1.0,
+          "value_max": null,
+          "unit": "washbasin",
+          "context": "Sanitary-facility guidance; table row for ladies.",
+          "status": "verified",
+          "ocr_raw": "PARKING FACILITIES\nMulti-storey Car Park Regulations\n\n/]\n\nil===============~~l _____ _\n\nI~----------------------~---- - - Street view\n\nI\nI\n\nI\nI\n\nI\nI\n\nI\nI\n\nI\nI\n\nI\nI\n\nI\nI\n\nI\nI\n\nI\nI\n\nI\nI\n\nI\nI\n\nSuch car parks must have a clear height of min. 2.0 m in areas\naccessible on foot, also under support beams, ventilation ducts\nand other building elements. The ground floor is generally higher,\nas it usually has other uses.\n\nI\nI\n\n-~~-~~~~-~~~-~~~-LL~\n\nEscape routes of max. 30 m are required to the stairs or exits.\nFor vans the clear height is 2.50 m. Floor loadings according to\nthe relevant standard. Open multi-storey car parks have apertures,\nwhich cannot be closed, leading directly into the open air, with a\nsize of one third of the total area of the envelope wall, with the\nopposite wall at a maximum distance of 70 m. These provide\ntransverse ventilation even with weather protection measures.\n\n-:nTnTI\n\n-+-+--i-1--+-t-t1 I I I I I I\nI I I I I I I\n\n-----·-----\n\n0 Multi-storey car park with additional use: offices incorporated in the favade\nArch.: Kister Scheithauer Gross\n\n1-7.95-t-7.95-f-7.95-+5.00-j\n_/}\n\nf!_,____\n\n;\n\nFACILITIES\nPARKING\n\nAccording to the Garage (multi-storey car park) Regulations, small\ncar parks are of 6100 m2 , medium car parks 100-1000 m2 and\nlarge car parks 61000 m2 usable area. Underground car parks\nare defined as having the floor level 61.30 m below ground level.\nLarge multi-storey car parks must have separate access and\nexits. They are located near large traffic concentrations like those\nat stations, airports, shopping centres, theatres, cinemas, offices,\nadministrative buildings and large residential buildings. Medium\nand large multi-storey car parks must be in easily accessible areas.\n\n.f\n11\n\nConcerning the minimum dimensions for access, exits and internal\nroutes, these must include no space for starting to drive round a\ncurve. Particularly where ramps join to internal routes at right angles,\nadditional room must be provided for the start of driving round the\ncorner and the relevant minimum radii must be complied with. It\nmust also be possible for larger cars to drive in and out without\nmanoeuvring processes -7 p. 393 0. The planned traffic routeing\nmust always be checked against the relevant swept curves.\nCriteria for the quality of multi-storey car parks:\nThe scale of the fa9ades of multi-storey car parks should fit into\ntheir surroundings. The fa9ade elevation can also be used for other\nfunctions, for example as offices -7 0. Further criteria: integration\ninto urban planning coherence, natural lighting and ventilation,\ngreening, uncomplicated system for charging fees, good access\nto public transport- Park and Ride.\nSafe operation\nVideo surveillance, glass areas in lobbies (observe fire protection\nrequirements), visual contact with the outside, visibility through\nthe longest possible column spacing, light colours differentiating\nthe storeys, distinctive marking of parking spaces to help visitors\nfind them again.\n\nliijj~~~m~~~~~umm~~~~~~mEiw\n;:~:m:~;f!!:f:::t~\n. Iii\n&\n\nIndication of sanitary facilities\nsupervisory and maintenance staff:\n50-100 parking spaces\nladies:\ngents:\n\nf) Multi-storey car park with access route ramps\n\n8 Guidelines for sanitary facilities in large multi-storey car parks\n\nVehicles - cars\nVehicles- turning\nParking spaces\nMulti-storey car\nparks\nRamps\nMulti-storey car\npark regulations\nParking systems\nVehicles- trucks\nTrucks- parking\nand turning\nService areas\nPetrol stations\nCar wash\n\n1 we. 1 washbasin, 1 bucket sink\n1 we, 1 washbasin\n1 we, 1 washbasin\n1-2 urinals\n\n~\n\nI\n\nI\nfour rows\n\ntwo offset sets\nof two rows\n\nsix rows\n\nG Examples of the layout of parking spaces and ramps\n394\n\nright-angled layout\n\nmulti-storey car-park\n\nramps in direction of traffic\n\nwith ramps\n\nwith spiral ramps\n\n\f"
+        },
+        {
+          "label": "Gents WC provision",
+          "value": 1.0,
+          "value_max": null,
+          "unit": "WC",
+          "context": "Sanitary-facility guidance; table row for gents.",
+          "status": "verified",
+          "ocr_raw": "PARKING FACILITIES\nMulti-storey Car Park Regulations\n\n/]\n\nil===============~~l _____ _\n\nI~----------------------~---- - - Street view\n\nI\nI\n\nI\nI\n\nI\nI\n\nI\nI\n\nI\nI\n\nI\nI\n\nI\nI\n\nI\nI\n\nI\nI\n\nI\nI\n\nI\nI\n\nSuch car parks must have a clear height of min. 2.0 m in areas\naccessible on foot, also under support beams, ventilation ducts\nand other building elements. The ground floor is generally higher,\nas it usually has other uses.\n\nI\nI\n\n-~~-~~~~-~~~-~~~-LL~\n\nEscape routes of max. 30 m are required to the stairs or exits.\nFor vans the clear height is 2.50 m. Floor loadings according to\nthe relevant standard. Open multi-storey car parks have apertures,\nwhich cannot be closed, leading directly into the open air, with a\nsize of one third of the total area of the envelope wall, with the\nopposite wall at a maximum distance of 70 m. These provide\ntransverse ventilation even with weather protection measures.\n\n-:nTnTI\n\n-+-+--i-1--+-t-t1 I I I I I I\nI I I I I I I\n\n-----·-----\n\n0 Multi-storey car park with additional use: offices incorporated in the favade\nArch.: Kister Scheithauer Gross\n\n1-7.95-t-7.95-f-7.95-+5.00-j\n_/}\n\nf!_,____\n\n;\n\nFACILITIES\nPARKING\n\nAccording to the Garage (multi-storey car park) Regulations, small\ncar parks are of 6100 m2 , medium car parks 100-1000 m2 and\nlarge car parks 61000 m2 usable area. Underground car parks\nare defined as having the floor level 61.30 m below ground level.\nLarge multi-storey car parks must have separate access and\nexits. They are located near large traffic concentrations like those\nat stations, airports, shopping centres, theatres, cinemas, offices,\nadministrative buildings and large residential buildings. Medium\nand large multi-storey car parks must be in easily accessible areas.\n\n.f\n11\n\nConcerning the minimum dimensions for access, exits and internal\nroutes, these must include no space for starting to drive round a\ncurve. Particularly where ramps join to internal routes at right angles,\nadditional room must be provided for the start of driving round the\ncorner and the relevant minimum radii must be complied with. It\nmust also be possible for larger cars to drive in and out without\nmanoeuvring processes -7 p. 393 0. The planned traffic routeing\nmust always be checked against the relevant swept curves.\nCriteria for the quality of multi-storey car parks:\nThe scale of the fa9ades of multi-storey car parks should fit into\ntheir surroundings. The fa9ade elevation can also be used for other\nfunctions, for example as offices -7 0. Further criteria: integration\ninto urban planning coherence, natural lighting and ventilation,\ngreening, uncomplicated system for charging fees, good access\nto public transport- Park and Ride.\nSafe operation\nVideo surveillance, glass areas in lobbies (observe fire protection\nrequirements), visual contact with the outside, visibility through\nthe longest possible column spacing, light colours differentiating\nthe storeys, distinctive marking of parking spaces to help visitors\nfind them again.\n\nliijj~~~m~~~~~umm~~~~~~mEiw\n;:~:m:~;f!!:f:::t~\n. Iii\n&\n\nIndication of sanitary facilities\nsupervisory and maintenance staff:\n50-100 parking spaces\nladies:\ngents:\n\nf) Multi-storey car park with access route ramps\n\n8 Guidelines for sanitary facilities in large multi-storey car parks\n\nVehicles - cars\nVehicles- turning\nParking spaces\nMulti-storey car\nparks\nRamps\nMulti-storey car\npark regulations\nParking systems\nVehicles- trucks\nTrucks- parking\nand turning\nService areas\nPetrol stations\nCar wash\n\n1 we. 1 washbasin, 1 bucket sink\n1 we, 1 washbasin\n1 we, 1 washbasin\n1-2 urinals\n\n~\n\nI\n\nI\nfour rows\n\ntwo offset sets\nof two rows\n\nsix rows\n\nG Examples of the layout of parking spaces and ramps\n394\n\nright-angled layout\n\nmulti-storey car-park\n\nramps in direction of traffic\n\nwith ramps\n\nwith spiral ramps\n\n\f"
+        },
+        {
+          "label": "Gents washbasin provision",
+          "value": 1.0,
+          "value_max": null,
+          "unit": "washbasin",
+          "context": "Sanitary-facility guidance; table row for gents.",
+          "status": "verified",
+          "ocr_raw": "PARKING FACILITIES\nMulti-storey Car Park Regulations\n\n/]\n\nil===============~~l _____ _\n\nI~----------------------~---- - - Street view\n\nI\nI\n\nI\nI\n\nI\nI\n\nI\nI\n\nI\nI\n\nI\nI\n\nI\nI\n\nI\nI\n\nI\nI\n\nI\nI\n\nI\nI\n\nSuch car parks must have a clear height of min. 2.0 m in areas\naccessible on foot, also under support beams, ventilation ducts\nand other building elements. The ground floor is generally higher,\nas it usually has other uses.\n\nI\nI\n\n-~~-~~~~-~~~-~~~-LL~\n\nEscape routes of max. 30 m are required to the stairs or exits.\nFor vans the clear height is 2.50 m. Floor loadings according to\nthe relevant standard. Open multi-storey car parks have apertures,\nwhich cannot be closed, leading directly into the open air, with a\nsize of one third of the total area of the envelope wall, with the\nopposite wall at a maximum distance of 70 m. These provide\ntransverse ventilation even with weather protection measures.\n\n-:nTnTI\n\n-+-+--i-1--+-t-t1 I I I I I I\nI I I I I I I\n\n-----·-----\n\n0 Multi-storey car park with additional use: offices incorporated in the favade\nArch.: Kister Scheithauer Gross\n\n1-7.95-t-7.95-f-7.95-+5.00-j\n_/}\n\nf!_,____\n\n;\n\nFACILITIES\nPARKING\n\nAccording to the Garage (multi-storey car park) Regulations, small\ncar parks are of 6100 m2 , medium car parks 100-1000 m2 and\nlarge car parks 61000 m2 usable area. Underground car parks\nare defined as having the floor level 61.30 m below ground level.\nLarge multi-storey car parks must have separate access and\nexits. They are located near large traffic concentrations like those\nat stations, airports, shopping centres, theatres, cinemas, offices,\nadministrative buildings and large residential buildings. Medium\nand large multi-storey car parks must be in easily accessible areas.\n\n.f\n11\n\nConcerning the minimum dimensions for access, exits and internal\nroutes, these must include no space for starting to drive round a\ncurve. Particularly where ramps join to internal routes at right angles,\nadditional room must be provided for the start of driving round the\ncorner and the relevant minimum radii must be complied with. It\nmust also be possible for larger cars to drive in and out without\nmanoeuvring processes -7 p. 393 0. The planned traffic routeing\nmust always be checked against the relevant swept curves.\nCriteria for the quality of multi-storey car parks:\nThe scale of the fa9ades of multi-storey car parks should fit into\ntheir surroundings. The fa9ade elevation can also be used for other\nfunctions, for example as offices -7 0. Further criteria: integration\ninto urban planning coherence, natural lighting and ventilation,\ngreening, uncomplicated system for charging fees, good access\nto public transport- Park and Ride.\nSafe operation\nVideo surveillance, glass areas in lobbies (observe fire protection\nrequirements), visual contact with the outside, visibility through\nthe longest possible column spacing, light colours differentiating\nthe storeys, distinctive marking of parking spaces to help visitors\nfind them again.\n\nliijj~~~m~~~~~umm~~~~~~mEiw\n;:~:m:~;f!!:f:::t~\n. Iii\n&\n\nIndication of sanitary facilities\nsupervisory and maintenance staff:\n50-100 parking spaces\nladies:\ngents:\n\nf) Multi-storey car park with access route ramps\n\n8 Guidelines for sanitary facilities in large multi-storey car parks\n\nVehicles - cars\nVehicles- turning\nParking spaces\nMulti-storey car\nparks\nRamps\nMulti-storey car\npark regulations\nParking systems\nVehicles- trucks\nTrucks- parking\nand turning\nService areas\nPetrol stations\nCar wash\n\n1 we. 1 washbasin, 1 bucket sink\n1 we, 1 washbasin\n1 we, 1 washbasin\n1-2 urinals\n\n~\n\nI\n\nI\nfour rows\n\ntwo offset sets\nof two rows\n\nsix rows\n\nG Examples of the layout of parking spaces and ramps\n394\n\nright-angled layout\n\nmulti-storey car-park\n\nramps in direction of traffic\n\nwith ramps\n\nwith spiral ramps\n\n\f"
+        },
+        {
+          "label": "Urinal provision",
+          "value": 1.0,
+          "value_max": 2.0,
+          "unit": "urinals",
+          "context": "Sanitary-facility guidance; table row for gents.",
+          "status": "verified",
+          "ocr_raw": "1-2 urinals"
+        }
+      ],
+      "figure_refs": [
+        "1 Multi-storey car park with additional use: offices incorporated in the façade",
+        "2 Multi-storey car park with access route ramps",
+        "3 Guidelines for sanitary facilities in large multi-storey car parks",
+        "4 Examples of the layout of parking spaces and ramps"
+      ],
+      "cross_refs": [
+        "p. 393"
+      ],
+      "keywords": [
+        "parking facilities",
+        "multi-storey car park",
+        "garage regulations",
+        "parking ramps",
+        "escape routes",
+        "ventilation",
+        "sanitary facilities",
+        "Park and Ride"
+      ],
+      "tags_architectural": [
+        "circulation",
+        "clearance",
+        "safety",
+        "daylighting",
+        "ventilation",
+        "adaptability"
+      ],
+      "confidence": 0.88
+    }
+  ]
+}

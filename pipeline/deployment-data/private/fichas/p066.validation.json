@@ -1,0 +1,71 @@
+{
+  "model": "gpt-6-luna",
+  "checks": {
+    "checks": [
+      {
+        "ficha_index": 1,
+        "dimension_index": 0,
+        "status": "verified",
+        "value": 10.0,
+        "value_max": null,
+        "reason": "The table prints Stage II precision as \u00b1 10 cm."
+      },
+      {
+        "ficha_index": 1,
+        "dimension_index": 1,
+        "status": "verified",
+        "value": 2.5,
+        "value_max": null,
+        "reason": "The table prints Stage III precision as \u00b1 2.5 cm."
+      },
+      {
+        "ficha_index": 1,
+        "dimension_index": 2,
+        "status": "verified",
+        "value": 0.5,
+        "value_max": 2.0,
+        "reason": "The table prints Stage IV precision as \u00b1 2\u20130.5 cm; both range endpoints and the cm unit agree."
+      },
+      {
+        "ficha_index": 1,
+        "dimension_index": 3,
+        "status": "verified",
+        "value": 0.1,
+        "value_max": 2.0,
+        "reason": "The table prints Stage V precision as \u00b1 2\u20130.1 cm; both range endpoints and the cm unit agree."
+      }
+    ]
+  },
+  "automatic": [
+    {
+      "ficha_index": 1,
+      "dimension_index": 0,
+      "issues": []
+    },
+    {
+      "ficha_index": 1,
+      "dimension_index": 1,
+      "issues": []
+    },
+    {
+      "ficha_index": 1,
+      "dimension_index": 2,
+      "issues": []
+    },
+    {
+      "ficha_index": 1,
+      "dimension_index": 3,
+      "issues": []
+    }
+  ],
+  "usage": [
+    {
+      "prompt_tokens": 4991,
+      "completion_tokens": 963
+    },
+    {
+      "prompt_tokens": 3949,
+      "completion_tokens": 283
+    }
+  ]
+}

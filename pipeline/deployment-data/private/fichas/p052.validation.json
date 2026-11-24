@@ -1,0 +1,49 @@
+{
+  "model": "gpt-6-luna",
+  "checks": {
+    "checks": [
+      {
+        "ficha_index": 0,
+        "dimension_index": 0,
+        "status": "verified",
+        "value": 0.3333333333333333,
+        "value_max": null,
+        "reason": "The text says the black circle looks about 1/3 smaller; the proposed fraction matches."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 1,
+        "status": "verified",
+        "value": 2.5,
+        "value_max": null,
+        "reason": "Figure 13 labels the horizontal dimension 2.5a and the vertical dimension a, supporting the proposed 2.5-to-1 ratio."
+      }
+    ]
+  },
+  "automatic": [
+    {
+      "ficha_index": 0,
+      "dimension_index": 0,
+      "issues": [
+        "Unknown unit"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 1,
+      "issues": [
+        "Unknown unit"
+      ]
+    }
+  ],
+  "usage": [
+    {
+      "prompt_tokens": 4474,
+      "completion_tokens": 775
+    },
+    {
+      "prompt_tokens": 3573,
+      "completion_tokens": 308
+    }
+  ]
+}

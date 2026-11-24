@@ -1,0 +1,155 @@
+{
+  "fichas": [
+    {
+      "id": "4122fb96e4bd1976-532-vision-0",
+      "pdf_page": 532,
+      "book_page": 519,
+      "chapter": "BUILDING SERVICES",
+      "section": "Fire Protection",
+      "title": "Smoke and Heat Extraction Systems",
+      "summary": "Overview of natural and mechanical smoke and heat extraction systems, their components, sizing principles, placement and regulatory applications. Natural systems rely on hot air rising and require consideration of effective opening area, wind, air supply openings, opening timing and installation conditions. The page includes an industrial-roof arrangement, fire-hazard classifications and example evaluation tables.",
+      "building_type": "Industrial, commercial and other buildings requiring smoke extraction",
+      "spaces": [
+        "Industrial-unit roofs",
+        "Smoke compartments",
+        "Internal stairwells",
+        "Lift shafts",
+        "Sales areas",
+        "Production and storage rooms",
+        "Long escape and rescue routes"
+      ],
+      "uses": [
+        "Remove smoke and heat during fire",
+        "Keep escape, rescue and firefighting routes free of smoke",
+        "Support firefighting by maintaining a low-smoke layer",
+        "Reduce flash-over risk and damage to building components and contents"
+      ],
+      "furniture_equipment": [
+        "Smoke and heat extractors",
+        "Activation and control components",
+        "Opening actuators",
+        "Power-supply wiring",
+        "Air-supply ducts and openings",
+        "Smoke curtains",
+        "Fans and motors",
+        "Roof or wall openings"
+      ],
+      "dimensions": [
+        {
+          "label": "Maximum roof slope shown",
+          "value": 12.0,
+          "value_max": null,
+          "unit": "degrees",
+          "context": "Roof arrangement diagram; slope is indicated as no greater than 12°.",
+          "status": "uncertain",
+          "ocr_raw": "Roof slope ≤12°"
+        },
+        {
+          "label": "Minimum smoke extraction device size at top of stairwell",
+          "value": 1.0,
+          "value_max": null,
+          "unit": "m²",
+          "context": "Required at the top of the stairwell in the stated building cases.",
+          "status": "uncertain",
+          "ocr_raw": "size at least 1 m2"
+        },
+        {
+          "label": "Lift-shaft smoke extraction equipment area",
+          "value": 2.5,
+          "value_max": null,
+          "unit": "% of lift-shaft floor area",
+          "context": "Required smoke extraction equipment area for lift shafts; also subject to the stated absolute minimum.",
+          "status": "uncertain",
+          "ocr_raw": "size 2.5% of the floor area of the lift shaft"
+        },
+        {
+          "label": "Minimum lift-shaft smoke extraction area",
+          "value": 0.1,
+          "value_max": null,
+          "unit": "m²",
+          "context": "Absolute minimum area for lift-shaft smoke extraction equipment.",
+          "status": "uncertain",
+          "ocr_raw": "but at least 0.10 m2"
+        },
+        {
+          "label": "Supply-air area relative to smoke-extraction area",
+          "value": 1.5,
+          "value_max": null,
+          "unit": "ratio",
+          "context": "Supply area is generally 1.5 times the smoke extraction area.",
+          "status": "uncertain",
+          "ocr_raw": "supply area generally 1.5 times smoke extraction area"
+        },
+        {
+          "label": "Smoke and heat extractors per roof area",
+          "value": 200.0,
+          "value_max": null,
+          "unit": "m² per extractor",
+          "context": "At least one extractor should be installed per stated roof area.",
+          "status": "uncertain",
+          "ocr_raw": "At least one smoke and heat extractor should be installed per 200m 2."
+        },
+        {
+          "label": "Extractor spacing across roof area",
+          "value": 5.0,
+          "value_max": 20.0,
+          "unit": "m",
+          "context": "Spacing between extractors and to roof-area edges; OCR prints 5 m < a < 20 m.",
+          "status": "uncertain",
+          "ocr_raw": "(5 m < a < 20 m)"
+        },
+        {
+          "label": "Spacing to fire-compartment walls",
+          "value": 5.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Spacing of extractors to fire-compartment walls.",
+          "status": "uncertain",
+          "ocr_raw": "to fire compartment walls (5 m)"
+        },
+        {
+          "label": "Minimum smoke-extractor opening dimensions",
+          "value": 1.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "The text gives equal minimum dimensions l and b; retained as a single stated dimension value.",
+          "status": "uncertain",
+          "ocr_raw": "minimum dimensions (I= b =1.0 m)"
+        },
+        {
+          "label": "Minimum calculated smoke-layer thickness",
+          "value": 2.5,
+          "value_max": null,
+          "unit": "m",
+          "context": "Minimum thickness used when determining evaluation group and sizing the system.",
+          "status": "uncertain",
+          "ocr_raw": "thickness of the calculated smoke layer (min. 2.50 m)"
+        }
+      ],
+      "figure_refs": [
+        "1 — Arrangement of smoke and heat extractors (SHEs) in the roofs of industrial units (example)",
+        "2 — Design of a naturally ventilated smoke extraction system, DIN 18232 and VdS CEA 4001 (principle)"
+      ],
+      "cross_refs": [
+        "→ 8",
+        "→ 0 - f)"
+      ],
+      "keywords": [
+        "smoke extraction",
+        "heat extraction",
+        "smoke and heat extractors",
+        "smoke layer",
+        "fire hazard",
+        "evaluation group",
+        "air supply",
+        "fire compartments"
+      ],
+      "tags_architectural": [
+        "circulation",
+        "safety",
+        "ventilation"
+      ],
+      "confidence": 0.87
+    }
+  ]
+}

@@ -1,0 +1,293 @@
+{
+  "fichas": [
+    {
+      "id": "4122fb96e4bd1976-521-vision-0",
+      "pdf_page": 521,
+      "book_page": 508,
+      "chapter": "BUILDING SERVICES",
+      "section": "Lighting",
+      "title": "Lighting: illuminance, lighting layouts and floodlighting",
+      "summary": "Reference page on estimating mean illuminance and connected lighting load, selecting correction factors by room height, area and surface reflectance, and calculating luminous flux for floodlighting. It illustrates interior and office lighting layouts, ceiling-grid fittings and light structures. The page also gives example luminance levels for buildings and reflectance values for common materials.",
+      "building_type": "Interior spaces and buildings requiring artificial lighting",
+      "spaces": [
+        "Interior room",
+        "Office",
+        "Building exterior"
+      ],
+      "uses": [
+        "Estimate mean illuminance from connected lighting load",
+        "Estimate required mains power for a target illuminance",
+        "Select correction factors based on room height, area and reflectance",
+        "Plan ceiling lighting layouts and light structures",
+        "Estimate luminous flux for building floodlighting"
+      ],
+      "furniture_equipment": [
+        "Ceiling-grid light fittings",
+        "Compact fluorescent lamps",
+        "General-purpose lamps",
+        "Halogen filament lamps",
+        "Light structures",
+        "Spotlights",
+        "Bus bars"
+      ],
+      "dimensions": [
+        {
+          "label": "Example room floor area",
+          "value": 24.0,
+          "value_max": null,
+          "unit": "m²",
+          "context": "Office illuminance example; the text describes a two-axis room with four lights.",
+          "status": "uncertain",
+          "ocr_raw": "A = 24 m²"
+        },
+        {
+          "label": "Office example room length",
+          "value": 6.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Dimension shown on the office plan.",
+          "status": "uncertain",
+          "ocr_raw": "6.00 m"
+        },
+        {
+          "label": "Office example room width",
+          "value": 4.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Dimension shown on the office plan.",
+          "status": "uncertain",
+          "ocr_raw": "4.00 m"
+        },
+        {
+          "label": "Office example lighting layout dimension",
+          "value": 2.5,
+          "value_max": null,
+          "unit": "m",
+          "context": "Dimension shown across the lighting arrangement on the office plan.",
+          "status": "uncertain",
+          "ocr_raw": "2.50 m"
+        },
+        {
+          "label": "Office example illuminance",
+          "value": 375.0,
+          "value_max": null,
+          "unit": "lx",
+          "context": "Approximate mean illuminance stated for the office example.",
+          "status": "uncertain",
+          "ocr_raw": "the illuminance is approx. 375 lx"
+        },
+        {
+          "label": "Interior example illuminance",
+          "value": 180.0,
+          "value_max": null,
+          "unit": "lx",
+          "context": "Calculated illuminance shown in figure 3 for an interior.",
+          "status": "uncertain",
+          "ocr_raw": "En = 180 lx"
+        },
+        {
+          "label": "Example room height",
+          "value": 3.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Example used with the specific connected-load and correction-factor tables.",
+          "status": "uncertain",
+          "ocr_raw": "room height H = 3 m"
+        },
+        {
+          "label": "Reference room area for specific connected load",
+          "value": 100.0,
+          "value_max": null,
+          "unit": "m²",
+          "context": "Basis stated for specific connected load at 100 lx and 3 m height.",
+          "status": "uncertain",
+          "ocr_raw": "100 lx for height 3 m, area ≥ 100m²"
+        },
+        {
+          "label": "Illuminance basis for specific connected load",
+          "value": 100.0,
+          "value_max": null,
+          "unit": "lx",
+          "context": "Reference illuminance used in the specific connected-load table.",
+          "status": "uncertain",
+          "ocr_raw": "100 lx for height 3 m"
+        },
+        {
+          "label": "Specific connected load for compact fluorescent lamp",
+          "value": 4.0,
+          "value_max": null,
+          "unit": "W/m²",
+          "context": "Example calculation, type of light A; compact fluorescent lamp.",
+          "status": "uncertain",
+          "ocr_raw": "P* = 4 W/m² x (compact fluorescent lamp)"
+        },
+        {
+          "label": "Specific connected load for general-purpose lamp",
+          "value": 12.0,
+          "value_max": null,
+          "unit": "W/m²",
+          "context": "Example calculation, type of light B; general-purpose lamp.",
+          "status": "uncertain",
+          "ocr_raw": "P* = 12 W/m² x (general purpose lamp)"
+        },
+        {
+          "label": "Specific connected load for halogen filament lamp",
+          "value": 10.0,
+          "value_max": null,
+          "unit": "W/m²",
+          "context": "Example calculation, type of light C; halogen filament lamp.",
+          "status": "uncertain",
+          "ocr_raw": "P* = 10 W/m² x (halogen filament lamp)"
+        },
+        {
+          "label": "Example compact fluorescent lamp total load",
+          "value": 405.0,
+          "value_max": null,
+          "unit": "W",
+          "context": "Example type A: nine lamps at 45 W each.",
+          "status": "uncertain",
+          "ocr_raw": "P* = 9 x 45W = 405 W"
+        },
+        {
+          "label": "Example general-purpose lamp total load",
+          "value": 800.0,
+          "value_max": null,
+          "unit": "W",
+          "context": "Example type B: eight lamps at 100 W each.",
+          "status": "uncertain",
+          "ocr_raw": "P* = 8 x 100W = 800W"
+        },
+        {
+          "label": "Example halogen lamp total load",
+          "value": 320.0,
+          "value_max": null,
+          "unit": "W",
+          "context": "Example type C: sixteen lamps at 20 W each.",
+          "status": "uncertain",
+          "ocr_raw": "P* = 16 x 20 W = 320 W"
+        },
+        {
+          "label": "Office example connected load",
+          "value": 360.0,
+          "value_max": null,
+          "unit": "W",
+          "context": "Four office fittings, each with a mains load of 90 W.",
+          "status": "uncertain",
+          "ocr_raw": "P = 4 x 90 W = 360 W"
+        },
+        {
+          "label": "Office fitting mains load",
+          "value": 90.0,
+          "value_max": null,
+          "unit": "W",
+          "context": "Mains power including ballast for each 2 x 36 W assembly.",
+          "status": "uncertain",
+          "ocr_raw": "mains power including ballast 90 W"
+        },
+        {
+          "label": "Floodlighting luminance, free-standing buildings",
+          "value": 3.0,
+          "value_max": 6.5,
+          "unit": "cd/m²",
+          "context": "Luminance range listed for free-standing buildings.",
+          "status": "uncertain",
+          "ocr_raw": "free-standing 3–6.5"
+        },
+        {
+          "label": "Floodlighting luminance, dark surroundings",
+          "value": 6.5,
+          "value_max": 10.0,
+          "unit": "cd/m²",
+          "context": "Luminance range listed for dark surroundings.",
+          "status": "uncertain",
+          "ocr_raw": "dark surroundings 6.5–10"
+        },
+        {
+          "label": "Floodlighting luminance, medium surroundings",
+          "value": 10.0,
+          "value_max": 13.0,
+          "unit": "cd/m²",
+          "context": "Luminance range listed for medium surroundings.",
+          "status": "uncertain",
+          "ocr_raw": "medium surroundings 10–13"
+        },
+        {
+          "label": "Floodlighting luminance, very bright surroundings",
+          "value": 13.0,
+          "value_max": 16.0,
+          "unit": "cd/m²",
+          "context": "Luminance range listed for very bright surroundings.",
+          "status": "uncertain",
+          "ocr_raw": "very bright surroundings 13–16"
+        },
+        {
+          "label": "Lighting effectiveness for large and small area",
+          "value": 0.4,
+          "value_max": null,
+          "unit": "lighting effectiveness",
+          "context": "Floodlighting table; building lighting effectiveness for large and small area.",
+          "status": "uncertain",
+          "ocr_raw": "large and small area 0.4"
+        },
+        {
+          "label": "Lighting effectiveness for great distance",
+          "value": 0.3,
+          "value_max": null,
+          "unit": "lighting effectiveness",
+          "context": "Floodlighting table; building lighting effectiveness for great distance.",
+          "status": "uncertain",
+          "ocr_raw": "great distance 0.3"
+        },
+        {
+          "label": "Lighting effectiveness for towers",
+          "value": 0.2,
+          "value_max": null,
+          "unit": "lighting effectiveness",
+          "context": "Floodlighting table; building lighting effectiveness for towers.",
+          "status": "uncertain",
+          "ocr_raw": "towers 0.2"
+        }
+      ],
+      "figure_refs": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10"
+      ],
+      "cross_refs": [
+        "Figure 1",
+        "Figure 2",
+        "Figure 3",
+        "Figure 4",
+        "Figure 5",
+        "Figure 6",
+        "Figure 7",
+        "Figure 8",
+        "Figure 9",
+        "Figure 10"
+      ],
+      "keywords": [
+        "artificial lighting",
+        "illuminance",
+        "connected load",
+        "correction factor",
+        "surface reflectance",
+        "office lighting",
+        "floodlighting",
+        "luminous flux",
+        "ceiling lighting"
+      ],
+      "tags_architectural": [
+        "daylighting",
+        "ergonomics"
+      ],
+      "confidence": 0.91
+    }
+  ]
+}

@@ -1,0 +1,349 @@
+{
+  "fichas": [
+    {
+      "id": "4122fb96e4bd1976-353-vision-0",
+      "pdf_page": 353,
+      "book_page": 340,
+      "chapter": "SPORT AND LEISURE",
+      "section": "Sports Facilities",
+      "title": "Canoe slalom courses",
+      "summary": "Requirements for natural and artificial canoe-slalom courses are described. Natural courses use steep waterways or tailwaters, with or without obstacles. An artificial Olympic course is described at the Eiskanal/Lech near Augsburg; drawings show a slalom course, horizontal section, channel cross-section, and control trap.",
+      "building_type": "Canoe slalom course",
+      "spaces": [
+        "Water course",
+        "Boarding area",
+        "Start",
+        "Control trap",
+        "Finish",
+        "Spectator area"
+      ],
+      "uses": [
+        "Canoe slalom regatta",
+        "Canoe slalom training"
+      ],
+      "furniture_equipment": [
+        "Concrete rock obstacles",
+        "Gates",
+        "Control trap with draining base"
+      ],
+      "dimensions": [
+        {
+          "label": "Natural waterway gradient",
+          "value": 1.0,
+          "value_max": null,
+          "unit": "ratio",
+          "context": "Minimum gradient for steep sections of natural waterways; printed as 1:100.",
+          "status": "uncertain",
+          "ocr_raw": "min. 1:100 gradient"
+        },
+        {
+          "label": "Natural waterway flow",
+          "value": 10.0,
+          "value_max": null,
+          "unit": "m³/s",
+          "context": "Minimum flow at mean low water or as controlled by an upstream weir.",
+          "status": "uncertain",
+          "ocr_raw": "min. 10 m³/s flow"
+        },
+        {
+          "label": "Tailwater width",
+          "value": 8.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Minimum width for tailwater from mills and power stations.",
+          "status": "uncertain",
+          "ocr_raw": "min. 8 m wide"
+        },
+        {
+          "label": "Artificial Olympic course length",
+          "value": 550.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Course at the Eiskanal/Lech near Augsburg.",
+          "status": "uncertain",
+          "ocr_raw": "550 m long"
+        },
+        {
+          "label": "Falls",
+          "value": 6.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Falls in the reinforced-concrete artificial channel.",
+          "status": "uncertain",
+          "ocr_raw": "6 m falls"
+        },
+        {
+          "label": "Maximum number of gates",
+          "value": 32.0,
+          "value_max": null,
+          "unit": "gates",
+          "context": "Artificial Olympic course.",
+          "status": "uncertain",
+          "ocr_raw": "up to 32 gates"
+        },
+        {
+          "label": "Waterfall",
+          "value": 0.8,
+          "value_max": null,
+          "unit": "m",
+          "context": "Shown on the slalom-course section drawing.",
+          "status": "uncertain",
+          "ocr_raw": "waterfall 0.8 m"
+        },
+        {
+          "label": "Channel width",
+          "value": 6.0,
+          "value_max": 15.0,
+          "unit": "m",
+          "context": "Cross-section drawing gives a width range.",
+          "status": "uncertain",
+          "ocr_raw": "6.0–15.0"
+        }
+      ],
+      "figure_refs": [
+        "1 Regatta course for canoe slalom",
+        "2 Horizontal section",
+        "3 Cross-section",
+        "4 Control trap with draining base"
+      ],
+      "cross_refs": [
+        "Requirements for regatta and training courses for competitive international rowing and canoeing → 5",
+        "Minimum requirements for water touring courses → 7–10"
+      ],
+      "keywords": [
+        "canoe slalom",
+        "regatta course",
+        "training course",
+        "waterway",
+        "control trap",
+        "Eiskanal",
+        "Augsburg"
+      ],
+      "tags_architectural": [
+        "safety",
+        "circulation"
+      ],
+      "confidence": 0.94
+    },
+    {
+      "id": "4122fb96e4bd1976-353-vision-1",
+      "pdf_page": 353,
+      "book_page": 340,
+      "chapter": "SPORT AND LEISURE",
+      "section": "Sports Facilities",
+      "title": "Competitive rowing and canoeing regatta courses",
+      "summary": "Track-marking diagrams show international dimensions for competitive rowing and canoeing, including a Munich regatta-course plan. The page indicates lane arrangements and course lengths for rowing and kayak/canoe events, and notes a favourable course direction of SW–NE.",
+      "building_type": "Regatta course",
+      "spaces": [
+        "Rowing course",
+        "Canoeing course",
+        "Banks",
+        "Start tower",
+        "Timing tower",
+        "Stand",
+        "Runout",
+        "Jetties"
+      ],
+      "uses": [
+        "Competitive rowing",
+        "Competitive canoeing",
+        "Regattas"
+      ],
+      "furniture_equipment": [
+        "White strung buoys",
+        "Timing tower",
+        "Start towers",
+        "Jetties"
+      ],
+      "dimensions": [
+        {
+          "label": "Women's kayak course length",
+          "value": 500.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Competitive course marking.",
+          "status": "uncertain",
+          "ocr_raw": "women’s kayak 500 m"
+        },
+        {
+          "label": "Men's kayak and Canadian canoeing course length",
+          "value": 1000.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Competitive course marking.",
+          "status": "uncertain",
+          "ocr_raw": "men’s kayak and Canadian canoeing 1000 m"
+        },
+        {
+          "label": "Women's rowing course length",
+          "value": 1000.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Competitive course marking.",
+          "status": "uncertain",
+          "ocr_raw": "women’s rowing 1000 m"
+        },
+        {
+          "label": "Men's rowing course length",
+          "value": 2000.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Competitive course marking.",
+          "status": "uncertain",
+          "ocr_raw": "men’s rowing 2000 m"
+        },
+        {
+          "label": "Rowing lanes",
+          "value": 6.0,
+          "value_max": null,
+          "unit": "lanes",
+          "context": "Track-marking diagram; each lane is marked as 13.5 m wide.",
+          "status": "uncertain",
+          "ocr_raw": "rowing: six lanes, each 13.5 m wide"
+        },
+        {
+          "label": "Rowing lane width",
+          "value": 13.5,
+          "value_max": null,
+          "unit": "m",
+          "context": "Width of each rowing lane in the track-marking diagram.",
+          "status": "uncertain",
+          "ocr_raw": "each 13.5 m wide"
+        },
+        {
+          "label": "Canoeing lanes",
+          "value": 9.0,
+          "value_max": null,
+          "unit": "lanes",
+          "context": "Track-marking diagram; each lane is marked as 9 m wide.",
+          "status": "uncertain",
+          "ocr_raw": "canoeing: nine lanes, each 9m wide"
+        },
+        {
+          "label": "Canoeing lane width",
+          "value": 9.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Width of each canoeing lane in the track-marking diagram.",
+          "status": "uncertain",
+          "ocr_raw": "each 9m wide"
+        },
+        {
+          "label": "Course width",
+          "value": 81.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Width marked on the regatta-course diagrams.",
+          "status": "uncertain",
+          "ocr_raw": "W = 81 m"
+        },
+        {
+          "label": "Contestant area dimension",
+          "value": 100.0,
+          "value_max": 200.0,
+          "unit": "m",
+          "context": "Dimension shown beside the contestant area in the Munich course plan.",
+          "status": "uncertain",
+          "ocr_raw": "100–200 m"
+        }
+      ],
+      "figure_refs": [
+        "5 Track markings (international dimensions) for competitive rowing and canoeing",
+        "6 Regatta course in Munich (international dimensions) for competitive rowing and canoeing"
+      ],
+      "cross_refs": [
+        "Requirements for regatta and training courses for competitive international rowing and canoeing → 5"
+      ],
+      "keywords": [
+        "rowing",
+        "canoeing",
+        "regatta",
+        "lane marking",
+        "international dimensions",
+        "Munich"
+      ],
+      "tags_architectural": [
+        "circulation",
+        "safety"
+      ],
+      "confidence": 0.89
+    },
+    {
+      "id": "4122fb96e4bd1976-353-vision-2",
+      "pdf_page": 353,
+      "book_page": 340,
+      "chapter": "SPORT AND LEISURE",
+      "section": "Sports Facilities",
+      "title": "Waterways and facilities for water touring",
+      "summary": "The page gives minimum requirements for water-touring courses and illustrates touring-waterway sections, a general waterway, and a jetty. Criteria for water-touring rest places and canoe stations are attributed to the German Canoe Association (DKV).",
+      "building_type": "Waterway and canoe touring facility",
+      "spaces": [
+        "Touring waterway",
+        "Canoe station",
+        "Rest place",
+        "Jetty"
+      ],
+      "uses": [
+        "Water touring",
+        "Canoe touring",
+        "Canoe station access"
+      ],
+      "furniture_equipment": [
+        "Jetty"
+      ],
+      "dimensions": [
+        {
+          "label": "Jetty minimum length",
+          "value": 7.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Minimum length shown in the jetty detail.",
+          "status": "uncertain",
+          "ocr_raw": "Jetty, min. length ≥ 7.0 m"
+        },
+        {
+          "label": "Waterway width",
+          "value": 10.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Dimension shown beneath the waterway section.",
+          "status": "uncertain",
+          "ocr_raw": "10.0"
+        },
+        {
+          "label": "Waterway for touring flow",
+          "value": 1000.0,
+          "value_max": null,
+          "unit": "l/min",
+          "context": "Captioned touring-waterway detail.",
+          "status": "uncertain",
+          "ocr_raw": "Waterway for touring, 1000 l/min"
+        }
+      ],
+      "figure_refs": [
+        "7 Waterway for touring, 1000 l/min",
+        "8 Waterway for touring, normal",
+        "9 Waterway",
+        "10 Jetty, min. length ≥ 7.0 m"
+      ],
+      "cross_refs": [
+        "Criteria for water touring rest places and canoe stations are laid down by the DKV (German Canoe Association)",
+        "See also p. 337"
+      ],
+      "keywords": [
+        "water touring",
+        "waterway",
+        "jetty",
+        "canoe station",
+        "DKV",
+        "rest place"
+      ],
+      "tags_architectural": [
+        "accessibility",
+        "circulation",
+        "safety"
+      ],
+      "confidence": 0.84
+    }
+  ]
+}

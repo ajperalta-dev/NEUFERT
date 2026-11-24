@@ -1,0 +1,109 @@
+{
+  "model": "gpt-6-luna",
+  "checks": {
+    "checks": [
+      {
+        "ficha_index": 0,
+        "dimension_index": 0,
+        "status": "verified",
+        "value": 800.0,
+        "value_max": 900.0,
+        "reason": "The text visibly states an average annual yield of 800\u2013900 kWh/m\u00b2."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 1,
+        "status": "verified",
+        "value": 1100.0,
+        "value_max": null,
+        "reason": "The text visibly states approximately 1100 kWh/m\u00b2 under optimum conditions."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 2,
+        "status": "verified",
+        "value": 7.5,
+        "value_max": null,
+        "reason": "The text visibly states 7.5 m\u00b2 of panels for each kW of installed capacity."
+      },
+      {
+        "ficha_index": 1,
+        "dimension_index": 0,
+        "status": "verified",
+        "value": 20.0,
+        "value_max": null,
+        "reason": "The text visibly states a lifetime of at least 20 years."
+      },
+      {
+        "ficha_index": 2,
+        "dimension_index": 0,
+        "status": "verified",
+        "value": 5.0,
+        "value_max": null,
+        "reason": "The figure visibly labels bad back-ventilation as approximately 5% temperature loss."
+      },
+      {
+        "ficha_index": 2,
+        "dimension_index": 1,
+        "status": "verified",
+        "value": 10.0,
+        "value_max": null,
+        "reason": "The figure visibly labels no back-ventilation as approximately 10% temperature loss."
+      }
+    ]
+  },
+  "automatic": [
+    {
+      "ficha_index": 0,
+      "dimension_index": 0,
+      "issues": [
+        "Unknown unit"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 1,
+      "issues": [
+        "Unknown unit"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 2,
+      "issues": [
+        "Unknown unit"
+      ]
+    },
+    {
+      "ficha_index": 1,
+      "dimension_index": 0,
+      "issues": [
+        "Unknown unit"
+      ]
+    },
+    {
+      "ficha_index": 2,
+      "dimension_index": 0,
+      "issues": [
+        "Unknown unit"
+      ]
+    },
+    {
+      "ficha_index": 2,
+      "dimension_index": 1,
+      "issues": [
+        "Unknown unit"
+      ]
+    }
+  ],
+  "usage": [
+    {
+      "prompt_tokens": 4507,
+      "completion_tokens": 1410
+    },
+    {
+      "prompt_tokens": 4239,
+      "completion_tokens": 505
+    }
+  ]
+}

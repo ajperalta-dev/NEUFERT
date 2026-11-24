@@ -1,0 +1,262 @@
+{
+  "fichas": [
+    {
+      "id": "4122fb96e4bd1976-202-vision-0",
+      "pdf_page": 202,
+      "book_page": 189,
+      "chapter": "EDUCATION AND RESEARCH",
+      "section": "Children's Daycare",
+      "title": "Group room",
+      "summary": "The group room is the main space used by children in a daycare centre. It should offer varied activity zones, potentially including a second level and a play stage with a snug cave. It should be close to the WC area, ideally have direct outdoor access, and face south.",
+      "building_type": "Children's daycare centre",
+      "spaces": [
+        "Group room",
+        "Play stage",
+        "Snug cave"
+      ],
+      "uses": [
+        "Play",
+        "Group activities",
+        "Midday sleep",
+        "Eating"
+      ],
+      "furniture_equipment": [
+        "Play decks",
+        "Handrails"
+      ],
+      "dimensions": [
+        {
+          "label": "Required floor area per child",
+          "value": 2.5,
+          "value_max": null,
+          "unit": "m² per child",
+          "context": "Approximate required floor area in the group room.",
+          "status": "uncertain",
+          "ocr_raw": "Required floor area approx. 2.5 m2 per child."
+        },
+        {
+          "label": "Play deck height threshold",
+          "value": 1.5,
+          "value_max": null,
+          "unit": "m",
+          "context": "Play decks up to this height require handrails at least 70 cm high; decks above this height require handrails at least 1.00 m high.",
+          "status": "uncertain",
+          "ocr_raw": "Play decks up to a height of 1.50 m must have a handrail at least 70 em high; play decks more than 1.50 m high must have handrails min. 1.00 m high."
+        },
+        {
+          "label": "Handrail height for lower play decks",
+          "value": 70.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Minimum handrail height for play decks up to 1.50 m high.",
+          "status": "uncertain",
+          "ocr_raw": "Play decks up to a height of 1.50 m must have a handrail at least 70 em high;"
+        },
+        {
+          "label": "Handrail height for higher play decks",
+          "value": 1.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Minimum handrail height for play decks more than 1.50 m high.",
+          "status": "uncertain",
+          "ocr_raw": "play decks more than 1.50 m high must have handrails min. 1.00 m high."
+        }
+      ],
+      "figure_refs": [],
+      "cross_refs": [
+        "p. 188"
+      ],
+      "keywords": [
+        "group room",
+        "play deck",
+        "play stage",
+        "snug cave",
+        "outdoor access"
+      ],
+      "tags_architectural": [
+        "circulation",
+        "safety",
+        "adaptability"
+      ],
+      "confidence": 0.96
+    },
+    {
+      "id": "4122fb96e4bd1976-202-vision-1",
+      "pdf_page": 202,
+      "book_page": 189,
+      "chapter": "EDUCATION AND RESEARCH",
+      "section": "Children's Daycare",
+      "title": "Outdoor areas and pond",
+      "summary": "Daycare outdoor areas should offer varied play and landscape experiences. Suggested features include hills, planting, gardens, sandpits, bird tables, dry stone walls, meadows, and a pond. The pond guidance specifies a minimum water surface, depth, and safety measures.",
+      "building_type": "Children's daycare centre",
+      "spaces": [
+        "Outdoor playground",
+        "Organic garden",
+        "Pond"
+      ],
+      "uses": [
+        "Outdoor play",
+        "Climbing",
+        "Shade",
+        "Fruit growing",
+        "Environmental education",
+        "Organic waste composting"
+      ],
+      "furniture_equipment": [
+        "Trees",
+        "Shrubs",
+        "Hedges",
+        "Flowers",
+        "Clover",
+        "Vegetable and herb gardens",
+        "Sandpits",
+        "Bird tables",
+        "Dry stone walls",
+        "Meadows",
+        "Compost heap",
+        "Coarse net or builder's steel mesh"
+      ],
+      "dimensions": [
+        {
+          "label": "Pond minimum water surface",
+          "value": 6.0,
+          "value_max": null,
+          "unit": "m²",
+          "context": "Minimum water surface area for a pond in the daycare outdoor area.",
+          "status": "uncertain",
+          "ocr_raw": "Pond should have min. 6 m2 water surface"
+        },
+        {
+          "label": "Pond depth",
+          "value": 80.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Recommended pond depth; the text says this is to avoid oxygen deficiency.",
+          "status": "uncertain",
+          "ocr_raw": "and a depth of 80 cm to avoid oxygen deficiency."
+        },
+        {
+          "label": "Safety mesh depth below water surface",
+          "value": 10.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Builder's steel mesh installation depth below the water surface as a pond safety measure.",
+          "status": "uncertain",
+          "ocr_raw": "builder's steel mesh installed 10 cm under the water surface."
+        }
+      ],
+      "figure_refs": [
+        "Pond with clay lining for outside area in children's daycare centre"
+      ],
+      "cross_refs": [],
+      "keywords": [
+        "outdoor areas",
+        "playground",
+        "pond",
+        "landscape",
+        "organic garden",
+        "safety"
+      ],
+      "tags_architectural": [
+        "safety",
+        "adaptability"
+      ],
+      "confidence": 0.97
+    },
+    {
+      "id": "4122fb96e4bd1976-202-vision-2",
+      "pdf_page": 202,
+      "book_page": 189,
+      "chapter": "EDUCATION AND RESEARCH",
+      "section": "Children's Daycare",
+      "title": "Stairs in children's centres",
+      "summary": "Stair risers in children's centres should be limited in height, with treads within the stated range.",
+      "building_type": "Children's daycare centre",
+      "spaces": [
+        "Stairs"
+      ],
+      "uses": [
+        "Vertical circulation"
+      ],
+      "furniture_equipment": [],
+      "dimensions": [
+        {
+          "label": "Maximum stair riser height",
+          "value": 16.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Stair risers should not exceed this height.",
+          "status": "uncertain",
+          "ocr_raw": "The risers of stairs in children's centres should not be more than 16 em,"
+        },
+        {
+          "label": "Stair tread depth",
+          "value": 30.0,
+          "value_max": 32.0,
+          "unit": "cm",
+          "context": "Recommended tread dimension range.",
+          "status": "uncertain",
+          "ocr_raw": "and the treads between 30 and 32 em."
+        }
+      ],
+      "figure_refs": [],
+      "cross_refs": [],
+      "keywords": [
+        "stairs",
+        "riser",
+        "tread"
+      ],
+      "tags_architectural": [
+        "circulation",
+        "safety",
+        "ergonomics"
+      ],
+      "confidence": 0.98
+    },
+    {
+      "id": "4122fb96e4bd1976-202-vision-3",
+      "pdf_page": 202,
+      "book_page": 189,
+      "chapter": "EDUCATION AND RESEARCH",
+      "section": "Children's Daycare",
+      "title": "Rest, kitchen, and dining spaces",
+      "summary": "Rest rooms are optional where mattresses can be laid out in the group room for midday sleep. Kitchen arrangements may be centralized or distributed among group rooms; different floor heights are recommended to support adults and children cooking together. The group room is normally used for meals, although an extended corridor or entrance hall may also serve as a communal eating place.",
+      "building_type": "Children's daycare centre",
+      "spaces": [
+        "Rest or sleeping room",
+        "Group room",
+        "Kitchen",
+        "Dining area",
+        "Extended corridor",
+        "Entrance hall"
+      ],
+      "uses": [
+        "Resting",
+        "Midday sleep",
+        "Cooking",
+        "Eating"
+      ],
+      "furniture_equipment": [
+        "Mattresses",
+        "Mattress storage cupboard"
+      ],
+      "dimensions": [],
+      "figure_refs": [],
+      "cross_refs": [
+        "p. 188"
+      ],
+      "keywords": [
+        "rest room",
+        "sleeping",
+        "kitchen",
+        "dining room",
+        "mattresses"
+      ],
+      "tags_architectural": [
+        "adaptability",
+        "spatial_proportion"
+      ],
+      "confidence": 0.94
+    }
+  ]
+}

@@ -1,0 +1,298 @@
+{
+  "model": "gpt-6-luna",
+  "checks": {
+    "checks": [
+      {
+        "ficha_index": 0,
+        "dimension_index": 0,
+        "status": "verified",
+        "value": 3.5,
+        "value_max": null,
+        "reason": "The figure caption explicitly says \u201cmin. up to 3.5 m high.\u201d"
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 1,
+        "status": "verified",
+        "value": 2.5,
+        "value_max": null,
+        "reason": "The figure caption explicitly says \u201con the other sides min. 2.5 m.\u201d"
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 2,
+        "status": "verified",
+        "value": 0.5,
+        "value_max": null,
+        "reason": "The figure caption explicitly says the distance to moving parts is \u201cat least 0.5 m.\u201d"
+      },
+      {
+        "ficha_index": 2,
+        "dimension_index": 0,
+        "status": "verified",
+        "value": 80.0,
+        "value_max": null,
+        "reason": "The text explicitly states \u201cmin. approx. 80 mm.\u201d"
+      },
+      {
+        "ficha_index": 2,
+        "dimension_index": 1,
+        "status": "verified",
+        "value": 2500.0,
+        "value_max": null,
+        "reason": "The text explicitly states \u201cmin. approx. 2500 mm above the highest stop.\u201d"
+      },
+      {
+        "ficha_index": 2,
+        "dimension_index": 2,
+        "status": "uncertain",
+        "value": 25.6,
+        "value_max": null,
+        "reason": "The diagram prints 25.6, but no unit is visible."
+      },
+      {
+        "ficha_index": 2,
+        "dimension_index": 3,
+        "status": "uncertain",
+        "value": 3.8,
+        "value_max": 4.5,
+        "reason": "The diagram prints 3.8\u20134.5, but no unit is visible."
+      },
+      {
+        "ficha_index": 2,
+        "dimension_index": 4,
+        "status": "uncertain",
+        "value": 1.2,
+        "value_max": null,
+        "reason": "The diagram prints 1.20, but no unit is visible."
+      },
+      {
+        "ficha_index": 2,
+        "dimension_index": 5,
+        "status": "uncertain",
+        "value": 20.0,
+        "value_max": null,
+        "reason": "The diagram prints 20.00, but no unit is visible."
+      },
+      {
+        "ficha_index": 2,
+        "dimension_index": 6,
+        "status": "uncertain",
+        "value": 2.0,
+        "value_max": 2.2,
+        "reason": "The diagram prints 2.00 + 2.20, but no unit is visible."
+      },
+      {
+        "ficha_index": 2,
+        "dimension_index": 7,
+        "status": "uncertain",
+        "value": 3.65,
+        "value_max": 3.85,
+        "reason": "The diagram prints 3.65\u20133.85, but no unit is visible."
+      },
+      {
+        "ficha_index": 2,
+        "dimension_index": 8,
+        "status": "uncertain",
+        "value": 40.0,
+        "value_max": 60.0,
+        "reason": "The diagram prints \u201cTravel height \u2264 40\u201360\u201d; no unit is visible."
+      },
+      {
+        "ficha_index": 2,
+        "dimension_index": 9,
+        "status": "uncertain",
+        "value": 1.4,
+        "value_max": null,
+        "reason": "The diagram prints \u22651.40, but no unit is visible."
+      },
+      {
+        "ficha_index": 2,
+        "dimension_index": 10,
+        "status": "uncertain",
+        "value": 40.0,
+        "value_max": 50.0,
+        "reason": "The diagram prints \u201cTravel height \u2264 40\u201350\u201d; no unit is visible."
+      },
+      {
+        "ficha_index": 2,
+        "dimension_index": 11,
+        "status": "uncertain",
+        "value": 1.35,
+        "value_max": null,
+        "reason": "The diagram prints \u22651.35, but no unit is visible."
+      },
+      {
+        "ficha_index": 2,
+        "dimension_index": 12,
+        "status": "uncertain",
+        "value": 40.0,
+        "value_max": 60.0,
+        "reason": "The diagram prints \u201cTarget height \u2264 40\u201360\u201d; no unit is visible."
+      },
+      {
+        "ficha_index": 2,
+        "dimension_index": 13,
+        "status": "uncertain",
+        "value": 30.0,
+        "value_max": 40.0,
+        "reason": "The diagram prints 30\u201340, but no unit is visible."
+      },
+      {
+        "ficha_index": 2,
+        "dimension_index": 14,
+        "status": "uncertain",
+        "value": 2.45,
+        "value_max": null,
+        "reason": "The diagram prints 2.45, but no unit is visible."
+      },
+      {
+        "ficha_index": 2,
+        "dimension_index": 15,
+        "status": "uncertain",
+        "value": 0.8,
+        "value_max": null,
+        "reason": "The diagram prints \u22650.80, but no unit is visible."
+      }
+    ]
+  },
+  "automatic": [
+    {
+      "ficha_index": 0,
+      "dimension_index": 0,
+      "issues": []
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 1,
+      "issues": []
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 2,
+      "issues": []
+    },
+    {
+      "ficha_index": 2,
+      "dimension_index": 0,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 2,
+      "dimension_index": 1,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 2,
+      "dimension_index": 2,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 2,
+      "dimension_index": 3,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 2,
+      "dimension_index": 4,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 2,
+      "dimension_index": 5,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 2,
+      "dimension_index": 6,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 2,
+      "dimension_index": 7,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 2,
+      "dimension_index": 8,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 2,
+      "dimension_index": 9,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 2,
+      "dimension_index": 10,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 2,
+      "dimension_index": 11,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 2,
+      "dimension_index": 12,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 2,
+      "dimension_index": 13,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 2,
+      "dimension_index": 14,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 2,
+      "dimension_index": 15,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    }
+  ],
+  "usage": [
+    {
+      "prompt_tokens": 4526,
+      "completion_tokens": 2051
+    },
+    {
+      "prompt_tokens": 5588,
+      "completion_tokens": 1052
+    }
+  ]
+}

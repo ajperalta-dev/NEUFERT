@@ -1,0 +1,331 @@
+{
+  "fichas": [
+    {
+      "id": "4122fb96e4bd1976-429-vision-0",
+      "pdf_page": 429,
+      "book_page": 416,
+      "chapter": "TRANSPORT",
+      "section": "Railways",
+      "title": "Railway platforms: widths, clearances, heights, lengths, and roofing",
+      "summary": "Guidance for sizing side and central railway platforms according to passenger numbers, walking-route width, and safety zones determined by train speed. The page gives platform clearance relationships, minimum widths, platform heights and length classifications, and roofing clearances. Danger-area expressions are printed as subtractions; no calculated results are supplied for those expressions.",
+      "building_type": "Railway station platform",
+      "spaces": [
+        "Side platform",
+        "Central platform",
+        "Platform waiting zone",
+        "Platform walking route",
+        "Platform safety zone"
+      ],
+      "uses": [
+        "Passenger waiting and circulation",
+        "Boarding and alighting",
+        "Providing clearance from passing trains"
+      ],
+      "furniture_equipment": [
+        "Platform roofing",
+        "Suspended information system",
+        "Guide strips marking the safety area",
+        "Stairs or ramps"
+      ],
+      "dimensions": [
+        {
+          "label": "Fixed-object distance from track centreline on platform",
+          "value": 3.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Minimum distance for fixed objects such as columns on the platform.",
+          "status": "uncertain",
+          "ocr_raw": "Minimum distance of fixed objects (e.g. columns) from the track centreline\non the platform\n= 3.00 m"
+        },
+        {
+          "label": "Fixed-object distance from track centreline at platform end",
+          "value": 2.5,
+          "value_max": null,
+          "unit": "m",
+          "context": "Minimum distance for fixed objects at the end of the platform.",
+          "status": "uncertain",
+          "ocr_raw": "at the end of the platform\n= 2.50 m"
+        },
+        {
+          "label": "Additional clearance for short structures",
+          "value": 0.9,
+          "value_max": null,
+          "unit": "m",
+          "context": "For short structures such as columns, the minimum distance from platform structure to platform edge is stated as danger-area width plus 0.90 m.",
+          "status": "uncertain",
+          "ocr_raw": "next to short structures (e.g. columns)\nmin. aA = bs + 0.90 m"
+        },
+        {
+          "label": "Additional clearance for longer structures",
+          "value": 1.2,
+          "value_max": null,
+          "unit": "m",
+          "context": "For longer structures with at least one entrance, the minimum distance from platform structure to platform edge is stated as danger-area width plus 1.20 m.",
+          "status": "uncertain",
+          "ocr_raw": "next to longer structures with min. 1 entrance\nmin. aA= b8 + 1.20 m"
+        },
+        {
+          "label": "Walking-route width",
+          "value": 0.8,
+          "value_max": null,
+          "unit": "m",
+          "context": "Width used in the discussion of platform widths and minimum-width expressions.",
+          "status": "uncertain",
+          "ocr_raw": "the walking route width of 0.80 m"
+        },
+        {
+          "label": "Danger-area expression component",
+          "value": 2.5,
+          "value_max": null,
+          "unit": "m",
+          "context": "First component of the printed danger-area expression for V ≤ 160 km/h on straight tracks; the expression is 2.50 m − 1.65 m. No result is calculated here.",
+          "status": "uncertain",
+          "ocr_raw": "V ≤ 160 km/h\nbs = 2.50 m − 1.65 m (for straight tracks)"
+        },
+        {
+          "label": "Danger-area expression component",
+          "value": 1.65,
+          "value_max": null,
+          "unit": "m",
+          "context": "Second component of the printed danger-area expression for V ≤ 160 km/h on straight tracks; the expression is 2.50 m − 1.65 m. No result is calculated here.",
+          "status": "uncertain",
+          "ocr_raw": "V ≤ 160 km/h\nbs = 2.50 m − 1.65 m (for straight tracks)"
+        },
+        {
+          "label": "Danger-area expression component",
+          "value": 3.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "First component of the printed danger-area expression for 160 < V ≤ 200 km/h on straight tracks; the expression is 3.00 m − 1.65 m. No result is calculated here.",
+          "status": "uncertain",
+          "ocr_raw": "160 < V ≤ 200 km/h\nbs = 3.00 m − 1.65 m (for straight tracks)"
+        },
+        {
+          "label": "Danger-area expression component",
+          "value": 1.65,
+          "value_max": null,
+          "unit": "m",
+          "context": "Second component of the printed danger-area expression for 160 < V ≤ 200 km/h on straight tracks; the expression is 3.00 m − 1.65 m. No result is calculated here.",
+          "status": "uncertain",
+          "ocr_raw": "160 < V ≤ 200 km/h\nbs = 3.00 m − 1.65 m (for straight tracks)"
+        },
+        {
+          "label": "Minimum side-platform width",
+          "value": 2.45,
+          "value_max": null,
+          "unit": "m",
+          "context": "Printed minimum-width result for side platforms; the accompanying expression is 2.50 m − 1.65 m + 2 × 0.80 m.",
+          "status": "uncertain",
+          "ocr_raw": "Side platforms\n= 2.50 m − 1.65 m + 2 × 0.80 m = 2.45 m"
+        },
+        {
+          "label": "Minimum central-platform width",
+          "value": 3.3,
+          "value_max": null,
+          "unit": "m",
+          "context": "Printed minimum-width result for central platforms; the accompanying expression is 2 × (2.50 m − 1.65 m) + 2 × 0.80 m.",
+          "status": "uncertain",
+          "ocr_raw": "Central platforms = 2 × (2.50 m − 1.65 m) + 2 × 0.80 m = 3.30 m"
+        },
+        {
+          "label": "Platform standard length, class A",
+          "value": 405.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Platform classification table; class A is for express services.",
+          "status": "uncertain",
+          "ocr_raw": "Platform classification\nA\nPlatform standard length\n405 m"
+        },
+        {
+          "label": "Platform standard length, class A1",
+          "value": 370.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Platform classification table.",
+          "status": "uncertain",
+          "ocr_raw": "A1\n370 m"
+        },
+        {
+          "label": "Platform standard length, class A2",
+          "value": 320.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Platform classification table.",
+          "status": "uncertain",
+          "ocr_raw": "A2\n320 m"
+        },
+        {
+          "label": "Platform standard length, class A3",
+          "value": 280.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Platform classification table.",
+          "status": "uncertain",
+          "ocr_raw": "A3\n280 m"
+        },
+        {
+          "label": "Platform standard length, class B",
+          "value": 210.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Platform classification table; class B is for local services.",
+          "status": "uncertain",
+          "ocr_raw": "B\n210 m"
+        },
+        {
+          "label": "Platform standard length, class B1",
+          "value": 170.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Platform classification table.",
+          "status": "uncertain",
+          "ocr_raw": "B1\n170 m"
+        },
+        {
+          "label": "Platform standard length, class B2",
+          "value": 140.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Platform classification table.",
+          "status": "uncertain",
+          "ocr_raw": "B2\n140 m"
+        },
+        {
+          "label": "Platform standard length, class C",
+          "value": 120.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Platform classification table; classes C and D are for less significant halts.",
+          "status": "uncertain",
+          "ocr_raw": "C\n120 m"
+        },
+        {
+          "label": "Platform standard length, class D",
+          "value": 60.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Platform classification table; classes C and D are for less significant halts.",
+          "status": "uncertain",
+          "ocr_raw": "D\n60 m"
+        },
+        {
+          "label": "Full ICE train platform length",
+          "value": 405.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "The text states that a full Inter-City Express high-speed train needs this platform length.",
+          "status": "uncertain",
+          "ocr_raw": "A full\nInter-City Express (ICE) high-speed train needs 405 m"
+        },
+        {
+          "label": "Half ICE train platform length",
+          "value": 210.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Platform length stated for a half ICE train.",
+          "status": "uncertain",
+          "ocr_raw": "and a half ICE train\n210 m"
+        },
+        {
+          "label": "Common platform height",
+          "value": 76.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Platform height related to top of rail level.",
+          "status": "uncertain",
+          "ocr_raw": "Common values are 76 cm"
+        },
+        {
+          "label": "Platform height for local transport",
+          "value": 55.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Platform height related to top of rail level.",
+          "status": "uncertain",
+          "ocr_raw": "for local transport also 55 cm"
+        },
+        {
+          "label": "Platform height for urban rapid transit",
+          "value": 96.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Platform height related to top of rail level.",
+          "status": "uncertain",
+          "ocr_raw": "urban rapid transit 96 cm."
+        },
+        {
+          "label": "Height of older platforms",
+          "value": 38.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Older platform height related to top of rail level.",
+          "status": "uncertain",
+          "ocr_raw": "Old platforms may still be 38 cm high."
+        },
+        {
+          "label": "Platform paving grid",
+          "value": 30.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Roof construction is based on a multiple of this platform-paving grid.",
+          "status": "uncertain",
+          "ocr_raw": "Roof construction is based on a multiple of the 30 cm grid"
+        },
+        {
+          "label": "Standard grid dimension",
+          "value": 9.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Dimension given parenthetically with the platform-paving grid.",
+          "status": "uncertain",
+          "ocr_raw": "(standard 9 m)"
+        },
+        {
+          "label": "Minimum clear height of platform roof",
+          "value": 3.25,
+          "value_max": null,
+          "unit": "m",
+          "context": "Minimum clear height specified for the roof construction.",
+          "status": "uncertain",
+          "ocr_raw": "The clear height should be\nmin. 3.25 m"
+        },
+        {
+          "label": "Free height beneath suspended information system",
+          "value": 2.5,
+          "value_max": null,
+          "unit": "m",
+          "context": "Free height intended to remain below the suspended information system; also shown in the cross-section.",
+          "status": "uncertain",
+          "ocr_raw": "in order that a free height of 2.50 m remains under\nthe suspended information system."
+        }
+      ],
+      "figure_refs": [
+        "1: Platform widths and danger zones",
+        "2: Platform lengths",
+        "3: Standard platform with 'Zwiesel' type roof, plan and section"
+      ],
+      "cross_refs": [
+        "→ 1",
+        "→ 2"
+      ],
+      "keywords": [
+        "railways",
+        "platforms",
+        "platform width",
+        "danger zone",
+        "track centreline",
+        "platform height",
+        "platform length",
+        "platform roofing"
+      ],
+      "tags_architectural": [
+        "accessibility",
+        "circulation",
+        "clearance",
+        "safety",
+        "ergonomics"
+      ],
+      "confidence": 0.94
+    }
+  ]
+}

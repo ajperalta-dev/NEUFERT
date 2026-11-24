@@ -1,0 +1,214 @@
+{
+  "model": "gpt-6-luna",
+  "checks": {
+    "checks": [
+      {
+        "ficha_index": 0,
+        "dimension_index": 0,
+        "status": "verified",
+        "value": 12.0,
+        "value_max": 20.0,
+        "reason": "The text visibly states parking lines are 12\u201320 mm wide."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 1,
+        "status": "verified",
+        "value": 1.0,
+        "value_max": null,
+        "reason": "The text visibly states lines may be painted up to 1 m high at a wall."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 2,
+        "status": "verified",
+        "value": 50.0,
+        "value_max": 60.0,
+        "reason": "The text visibly states guide rails can be about 50\u201360 cm long."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 3,
+        "status": "verified",
+        "value": 20.0,
+        "value_max": null,
+        "reason": "The text visibly states guide rails can be 20 cm wide."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 4,
+        "status": "verified",
+        "value": 10.0,
+        "value_max": null,
+        "reason": "The text visibly states guide rails can be 10 cm high."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 5,
+        "status": "verified",
+        "value": 10.0,
+        "value_max": null,
+        "reason": "The text visibly states transverse barriers can be about 10 cm high."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 6,
+        "status": "verified",
+        "value": 2.5,
+        "value_max": null,
+        "reason": "The note below the space-requirements table visibly states the parking space is 2.50 m wide."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 7,
+        "status": "verified",
+        "value": 2.3,
+        "value_max": null,
+        "reason": "The note below the space-requirements table visibly gives the bracketed values for a parking-space width of 2.30 m."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 8,
+        "status": "verified",
+        "value": 6.5,
+        "value_max": null,
+        "reason": "The garage-access table shows 6.50 m at 90\u00b0 for a 2.30 m parking space."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 9,
+        "status": "verified",
+        "value": 5.5,
+        "value_max": null,
+        "reason": "The garage-access table shows 5.50 m at 75\u00b0 for a 2.30 m parking space."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 10,
+        "status": "verified",
+        "value": 4.5,
+        "value_max": null,
+        "reason": "The garage-access table shows 4.50 m at 60\u00b0 for a 2.30 m parking space."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 11,
+        "status": "verified",
+        "value": 3.5,
+        "value_max": null,
+        "reason": "The garage-access table shows 3.50 m at 45\u00b0 for a 2.30 m parking space."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 12,
+        "status": "verified",
+        "value": 3.0,
+        "value_max": null,
+        "reason": "The garage-access table shows 3.00 m at up to 30\u00b0 for a 2.30 m parking space."
+      }
+    ]
+  },
+  "automatic": [
+    {
+      "ficha_index": 0,
+      "dimension_index": 0,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 1,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 2,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 3,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 4,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 5,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 6,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 7,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 8,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 9,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 10,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 11,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 12,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    }
+  ],
+  "usage": [
+    {
+      "prompt_tokens": 5010,
+      "completion_tokens": 1405
+    },
+    {
+      "prompt_tokens": 4627,
+      "completion_tokens": 723
+    }
+  ]
+}

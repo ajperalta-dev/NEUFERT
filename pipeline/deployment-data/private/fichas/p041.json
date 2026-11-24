@@ -1,0 +1,3388 @@
+{
+  "fichas": [
+    {
+      "id": "4122fb96e4bd1976-41-vision-0",
+      "pdf_page": 41,
+      "book_page": 28,
+      "chapter": "BASICS",
+      "section": "Dimensional Basics and Relationships",
+      "title": "Body Postures and Space Requirements",
+      "summary": "Illustrated body postures show the space envelopes needed for crawling, sitting, kneeling, squatting, bending, and leaning forward. Dimensions are transcribed from the diagrams; the page does not state a unit.",
+      "building_type": "General architectural planning reference",
+      "spaces": [
+        "Floor-level activity space",
+        "Standing and seated activity space"
+      ],
+      "uses": [
+        "Estimating space requirements for common body postures",
+        "Planning clearances for movement and floor-level activities"
+      ],
+      "furniture_equipment": [],
+      "dimensions": [
+        {
+          "label": "Crawling posture height",
+          "value": 625.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Figure 1, crawling; vertical body dimension",
+          "status": "uncertain",
+          "ocr_raw": "625",
+          "status_history": [
+            {
+              "status": "uncertain",
+              "value": 625.0,
+              "value_max": null,
+              "timestamp": "2026-11-13T11:00:30.089650+00:00"
+            }
+          ],
+          "original_value": 625.0,
+          "verification_pass2": {
+            "model": "gpt-6-luna",
+            "locator": "tiles",
+            "bbox": [
+              0.21643333333333334,
+              0.18740833333333334,
+              0.22646666666666668,
+              0.20425
+            ],
+            "crop_bbox": [
+              0.13578817130082302,
+              0.13041204490522143,
+              0.30711183635933503,
+              0.2612462902097775
+            ],
+            "crop_path": "crops\\p041_4122fb96e4bd1976-41-vision-0_0.png",
+            "read_value": {
+              "printed": "750",
+              "unit": "",
+              "unreadable": false,
+              "reason": "The outer vertical dimension for the crawling figure is printed as 750; no unit is shown."
+            },
+            "outcome": "uncertain",
+            "reason": "Blind reading disagrees with candidate or unit",
+            "timestamp": "2026-11-13T11:00:30.089650+00:00",
+            "warning": "Same model as first pass; independent cropped prompt only.",
+            "before": {
+              "label": "Crawling posture height",
+              "value": 625.0,
+              "value_max": null,
+              "unit": "mm",
+              "context": "Figure 1, crawling; vertical body dimension",
+              "status": "uncertain",
+              "ocr_raw": "625"
+            }
+          }
+        },
+        {
+          "label": "Crawling posture height",
+          "value": 750.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Figure 1, crawling; vertical body dimension",
+          "status": "uncertain",
+          "ocr_raw": "750",
+          "status_history": [
+            {
+              "status": "uncertain",
+              "value": 750.0,
+              "value_max": null,
+              "timestamp": "2026-11-13T11:00:39.152144+00:00"
+            }
+          ],
+          "original_value": 750.0,
+          "verification_pass2": {
+            "model": "gpt-6-luna",
+            "locator": "tiles",
+            "bbox": [
+              0.24008333333333334,
+              0.16125,
+              0.26516666666666666,
+              0.22216666666666668
+            ],
+            "crop_bbox": [
+              0.1594381786789806,
+              0.10425371160208581,
+              0.3458118367797721,
+              0.27916295536655805
+            ],
+            "crop_path": "crops\\p041_4122fb96e4bd1976-41-vision-0_1.png",
+            "read_value": {
+              "printed": "750",
+              "unit": "",
+              "unreadable": false,
+              "reason": "The outer vertical dimension beside the crawling figure is labeled 750."
+            },
+            "outcome": "uncertain",
+            "reason": "Blind reading disagrees with candidate or unit",
+            "timestamp": "2026-11-13T11:00:39.152144+00:00",
+            "warning": "Same model as first pass; independent cropped prompt only.",
+            "before": {
+              "label": "Crawling posture height",
+              "value": 750.0,
+              "value_max": null,
+              "unit": "mm",
+              "context": "Figure 1, crawling; vertical body dimension",
+              "status": "uncertain",
+              "ocr_raw": "750"
+            }
+          }
+        },
+        {
+          "label": "Crawling posture length",
+          "value": 1375.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Figure 1, crawling; horizontal floor-space dimension",
+          "status": "uncertain",
+          "ocr_raw": "DIMENSIONAL BASICS AND RELATIONSHIPS\nBody Measurements and Space Requirements\n\nDIMENSIONAL\nBASICS AND\nRELATIONSHIPS\n\nMan as measure\nand purpose\nThe universal\nstandard\nBody\nmeasurements\nand space\nrequirements\n\nGeometrical\nrelationships\nDimensions in\nbuilding\n\nl----750---\\\n\n0\n\nJ----875---j\n\ne\n\nf) Bending over\n\nf----875--l\n\n0 In movement\n\nJ----875------1\n\ne\n\n!-----700-----1\nSquatting\n\n1----1125----l\n\n(!) Outstretched arm (forwards) CD Outstretched arm (sideways)\n\n1----1250----1\n\nl--900-1000---\\\n\nf----875 ------1\n\nDimensions: at the dining table\n\nf---625-----j\n\n0 Sitting (from the side) e Kneeling\n\nSitting (from\nthe front)\n\n}---875---j\n\nStanding leaning forward,\nstanding\n\nm\n\nC!) Dimensions: at the desk\n\nt-875------1\n\nt------625-----j\n\nf) Sitting cross-legged\n\nCrawling\n\nf) Dimensions: in a small easy chair\n\nQ Dimensions: in an armchair\n\nGi) Sitting on a chair\n\ncg) Sitting on the floor\n\nJ---660---l\n\ni'\n'\n\n'\n~-1\nI\n\nI\n\n~\n\ne\n\nWorking while standing\n\n0) Kneeling\n\n1------1875------1\n\n1--1250-----i\n\nfli) Sitting on a mattress\n28\n\n~\n\nLeaning against sloping backrest\n\n~\n\nLying with raised back\n\n@) Lying\n\n\f",
+          "status_history": [
+            {
+              "status": "uncertain",
+              "value": 1375.0,
+              "value_max": null,
+              "timestamp": "2026-11-13T11:00:44.875234+00:00"
+            }
+          ],
+          "original_value": 1375.0,
+          "verification_pass2": {
+            "model": "gpt-6-luna",
+            "locator": "tiles",
+            "bbox": [
+              0.12183333333333335,
+              0.22395833333333334,
+              0.24724999999999997,
+              0.2329166666666667
+            ],
+            "crop_bbox": [
+              0.041188173833699916,
+              0.16696204871013448,
+              0.3278951680194656,
+              0.28991295808435313
+            ],
+            "crop_path": "crops\\p041_4122fb96e4bd1976-41-vision-0_2.png",
+            "read_value": {
+              "printed": "1375",
+              "unit": "",
+              "unreadable": false,
+              "reason": "The horizontal floor-space dimension for Crawling is printed as 1375. No unit is printed."
+            },
+            "outcome": "uncertain",
+            "reason": "Blind reading disagrees with candidate or unit",
+            "timestamp": "2026-11-13T11:00:44.875234+00:00",
+            "warning": "Same model as first pass; independent cropped prompt only.",
+            "before": {
+              "label": "Crawling posture length",
+              "value": 1375.0,
+              "value_max": null,
+              "unit": "mm",
+              "context": "Figure 1, crawling; horizontal floor-space dimension",
+              "status": "uncertain",
+              "ocr_raw": "DIMENSIONAL BASICS AND RELATIONSHIPS\nBody Measurements and Space Requirements\n\nDIMENSIONAL\nBASICS AND\nRELATIONSHIPS\n\nMan as measure\nand purpose\nThe universal\nstandard\nBody\nmeasurements\nand space\nrequirements\n\nGeometrical\nrelationships\nDimensions in\nbuilding\n\nl----750---\\\n\n0\n\nJ----875---j\n\ne\n\nf) Bending over\n\nf----875--l\n\n0 In movement\n\nJ----875------1\n\ne\n\n!-----700-----1\nSquatting\n\n1----1125----l\n\n(!) Outstretched arm (forwards) CD Outstretched arm (sideways)\n\n1----1250----1\n\nl--900-1000---\\\n\nf----875 ------1\n\nDimensions: at the dining table\n\nf---625-----j\n\n0 Sitting (from the side) e Kneeling\n\nSitting (from\nthe front)\n\n}---875---j\n\nStanding leaning forward,\nstanding\n\nm\n\nC!) Dimensions: at the desk\n\nt-875------1\n\nt------625-----j\n\nf) Sitting cross-legged\n\nCrawling\n\nf) Dimensions: in a small easy chair\n\nQ Dimensions: in an armchair\n\nGi) Sitting on a chair\n\ncg) Sitting on the floor\n\nJ---660---l\n\ni'\n'\n\n'\n~-1\nI\n\nI\n\n~\n\ne\n\nWorking while standing\n\n0) Kneeling\n\n1------1875------1\n\n1--1250-----i\n\nfli) Sitting on a mattress\n28\n\n~\n\nLeaning against sloping backrest\n\n~\n\nLying with raised back\n\n@) Lying\n\n\f"
+            }
+          }
+        },
+        {
+          "label": "Sitting cross-legged height",
+          "value": 875.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Figure 2, sitting cross-legged; vertical dimension",
+          "status": "uncertain",
+          "ocr_raw": "875",
+          "status_history": [
+            {
+              "status": "uncertain",
+              "value": 875.0,
+              "value_max": null,
+              "timestamp": "2026-11-13T11:00:52.309887+00:00"
+            }
+          ],
+          "original_value": 875.0,
+          "verification_pass2": {
+            "model": "gpt-6-luna",
+            "locator": "tiles",
+            "bbox": [
+              0.3926666666666666,
+              0.1505,
+              0.4041666666666666,
+              0.21858333333333332
+            ],
+            "crop_bbox": [
+              0.31202151571250186,
+              0.09350370888429078,
+              0.4848118139120981,
+              0.2755796332063821
+            ],
+            "crop_path": "crops\\p041_4122fb96e4bd1976-41-vision-0_3.png",
+            "read_value": {
+              "printed": "875",
+              "unit": "",
+              "unreadable": false,
+              "reason": "The vertical dimension beside the sitting cross-legged figure is printed as 875; no unit is shown."
+            },
+            "outcome": "uncertain",
+            "reason": "Blind reading disagrees with candidate or unit",
+            "timestamp": "2026-11-13T11:00:52.309887+00:00",
+            "warning": "Same model as first pass; independent cropped prompt only.",
+            "before": {
+              "label": "Sitting cross-legged height",
+              "value": 875.0,
+              "value_max": null,
+              "unit": "mm",
+              "context": "Figure 2, sitting cross-legged; vertical dimension",
+              "status": "uncertain",
+              "ocr_raw": "875"
+            }
+          }
+        },
+        {
+          "label": "Sitting cross-legged width",
+          "value": 750.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Figure 2, sitting cross-legged; horizontal dimension",
+          "status": "uncertain",
+          "ocr_raw": "750",
+          "status_history": [
+            {
+              "status": "uncertain",
+              "value": 750.0,
+              "value_max": null,
+              "timestamp": "2026-11-13T11:00:58.857478+00:00"
+            }
+          ],
+          "original_value": 750.0,
+          "verification_pass2": {
+            "model": "gpt-6-luna",
+            "locator": "tiles",
+            "bbox": [
+              0.3144666666666666,
+              0.218225,
+              0.3853833333333333,
+              0.22825833333333334
+            ],
+            "crop_bbox": [
+              0.23382150519132092,
+              0.16122871513521936,
+              0.4660284808163288,
+              0.2852546211574908
+            ],
+            "crop_path": "crops\\p041_4122fb96e4bd1976-41-vision-0_4.png",
+            "read_value": {
+              "printed": "750",
+              "unit": "",
+              "unreadable": false,
+              "reason": "The horizontal dimension beneath the Sitting cross-legged figure is explicitly labeled 750."
+            },
+            "outcome": "uncertain",
+            "reason": "Blind reading disagrees with candidate or unit",
+            "timestamp": "2026-11-13T11:00:58.857478+00:00",
+            "warning": "Same model as first pass; independent cropped prompt only.",
+            "before": {
+              "label": "Sitting cross-legged width",
+              "value": 750.0,
+              "value_max": null,
+              "unit": "mm",
+              "context": "Figure 2, sitting cross-legged; horizontal dimension",
+              "status": "uncertain",
+              "ocr_raw": "750"
+            }
+          }
+        },
+        {
+          "label": "Sitting from the front width",
+          "value": 625.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Figure 3, sitting from the front; horizontal dimension",
+          "status": "uncertain",
+          "ocr_raw": "625",
+          "status_history": [
+            {
+              "status": "uncertain",
+              "value": 625.0,
+              "value_max": null,
+              "timestamp": "2026-11-13T11:01:04.842099+00:00"
+            }
+          ],
+          "original_value": 625.0,
+          "verification_pass2": {
+            "model": "gpt-6-luna",
+            "locator": "tiles",
+            "bbox": [
+              0.4405833333333333,
+              0.220375,
+              0.5038333333333334,
+              0.22933333333333333
+            ],
+            "crop_bbox": [
+              0.35993816293822745,
+              0.16337870843132493,
+              0.5844784688543818,
+              0.28632961780554356
+            ],
+            "crop_path": "crops\\p041_4122fb96e4bd1976-41-vision-0_5.png",
+            "read_value": {
+              "printed": "625",
+              "unit": "",
+              "unreadable": false,
+              "reason": "The horizontal dimension beneath \u201cSitting (from the front)\u201d is labeled 625."
+            },
+            "outcome": "uncertain",
+            "reason": "Blind reading disagrees with candidate or unit",
+            "timestamp": "2026-11-13T11:01:04.842099+00:00",
+            "warning": "Same model as first pass; independent cropped prompt only.",
+            "before": {
+              "label": "Sitting from the front width",
+              "value": 625.0,
+              "value_max": null,
+              "unit": "mm",
+              "context": "Figure 3, sitting from the front; horizontal dimension",
+              "status": "uncertain",
+              "ocr_raw": "625"
+            }
+          }
+        },
+        {
+          "label": "Sitting from the side length",
+          "value": 875.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Figure 4, sitting from the side; horizontal floor-space dimension",
+          "status": "uncertain",
+          "ocr_raw": "875",
+          "status_history": [
+            {
+              "status": "uncertain",
+              "value": 875.0,
+              "value_max": null,
+              "timestamp": "2026-11-13T11:01:10.535488+00:00"
+            }
+          ],
+          "original_value": 875.0,
+          "verification_pass2": {
+            "model": "gpt-6-luna",
+            "locator": "tiles",
+            "bbox": [
+              0.5306666666666666,
+              0.215,
+              0.6265,
+              0.22575
+            ],
+            "crop_bbox": [
+              0.45002151919905303,
+              0.15800370707242742,
+              0.7071451841960377,
+              0.28274629564536763
+            ],
+            "crop_path": "crops\\p041_4122fb96e4bd1976-41-vision-0_6.png",
+            "read_value": {
+              "printed": "875",
+              "unit": "",
+              "unreadable": false,
+              "reason": "The horizontal floor-space dimension for \u201cSitting (from the side)\u201d is printed as 875."
+            },
+            "outcome": "uncertain",
+            "reason": "Blind reading disagrees with candidate or unit",
+            "timestamp": "2026-11-13T11:01:10.535488+00:00",
+            "warning": "Same model as first pass; independent cropped prompt only.",
+            "before": {
+              "label": "Sitting from the side length",
+              "value": 875.0,
+              "value_max": null,
+              "unit": "mm",
+              "context": "Figure 4, sitting from the side; horizontal floor-space dimension",
+              "status": "uncertain",
+              "ocr_raw": "875"
+            }
+          }
+        },
+        {
+          "label": "Kneeling height",
+          "value": 1000.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Figure 5, kneeling; vertical dimension",
+          "status": "uncertain",
+          "ocr_raw": "1000",
+          "status_history": [
+            {
+              "status": "uncertain",
+              "value": 1000.0,
+              "value_max": null,
+              "timestamp": "2026-11-13T11:01:17.805571+00:00"
+            }
+          ],
+          "original_value": 1000.0,
+          "verification_pass2": {
+            "model": "gpt-6-luna",
+            "locator": "tiles",
+            "bbox": [
+              0.4609,
+              0.7158416666666666,
+              0.4785333333333333,
+              0.7355499999999999
+            ],
+            "crop_bbox": [
+              0.3802548351030486,
+              0.6588454081946956,
+              0.5591785152152582,
+              0.7925462840494422
+            ],
+            "crop_path": "crops\\p041_4122fb96e4bd1976-41-vision-0_7.png",
+            "read_value": {
+              "printed": "1420",
+              "unit": "",
+              "unreadable": false,
+              "reason": "The vertical dimension beside the kneeling figure is printed as 1420; no unit is visible."
+            },
+            "outcome": "uncertain",
+            "reason": "Blind reading disagrees with candidate or unit",
+            "timestamp": "2026-11-13T11:01:17.805571+00:00",
+            "warning": "Same model as first pass; independent cropped prompt only.",
+            "before": {
+              "label": "Kneeling height",
+              "value": 1000.0,
+              "value_max": null,
+              "unit": "mm",
+              "context": "Figure 5, kneeling; vertical dimension",
+              "status": "uncertain",
+              "ocr_raw": "1000"
+            }
+          }
+        },
+        {
+          "label": "Kneeling width",
+          "value": 625.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Figure 5, kneeling; horizontal dimension",
+          "status": "uncertain",
+          "ocr_raw": "625",
+          "status_history": [
+            {
+              "status": "uncertain",
+              "value": 625.0,
+              "value_max": null,
+              "timestamp": "2026-11-13T11:01:27.514815+00:00"
+            }
+          ],
+          "original_value": 625.0,
+          "verification_pass2": {
+            "model": "gpt-6-luna",
+            "locator": "tiles",
+            "bbox": [
+              0.362,
+              0.6226666666666667,
+              0.46166666666666667,
+              0.6341666666666667
+            ],
+            "crop_bbox": [
+              0.2813548368770879,
+              0.5656703713232762,
+              0.5423118110920935,
+              0.6911629626140116
+            ],
+            "crop_path": "crops\\p041_4122fb96e4bd1976-41-vision-0_8.png",
+            "read_value": {
+              "printed": "460",
+              "unit": "",
+              "unreadable": false,
+              "reason": "The horizontal dimension corresponding to the kneeling area is printed as 460."
+            },
+            "outcome": "uncertain",
+            "reason": "Blind reading disagrees with candidate or unit",
+            "timestamp": "2026-11-13T11:01:27.514815+00:00",
+            "warning": "Same model as first pass; independent cropped prompt only.",
+            "before": {
+              "label": "Kneeling width",
+              "value": 625.0,
+              "value_max": null,
+              "unit": "mm",
+              "context": "Figure 5, kneeling; horizontal dimension",
+              "status": "uncertain",
+              "ocr_raw": "625"
+            }
+          }
+        },
+        {
+          "label": "Squatting height",
+          "value": 1125.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Figure 6, squatting; vertical dimension",
+          "status": "uncertain",
+          "ocr_raw": "1125",
+          "status_history": [
+            {
+              "status": "uncertain",
+              "value": 1125.0,
+              "value_max": null,
+              "timestamp": "2026-11-13T11:01:33.675805+00:00"
+            }
+          ],
+          "original_value": 1125.0,
+          "verification_pass2": {
+            "model": "gpt-6-luna",
+            "locator": "tiles",
+            "bbox": [
+              0.8452,
+              0.13401666666666667,
+              0.8674166666666666,
+              0.21858333333333332
+            ],
+            "crop_bbox": [
+              0.7645548386818909,
+              0.07702037259158064,
+              0.948061872337467,
+              0.2755796332063821
+            ],
+            "crop_path": "crops\\p041_4122fb96e4bd1976-41-vision-0_9.png",
+            "read_value": {
+              "printed": "1125",
+              "unit": "",
+              "unreadable": false,
+              "reason": "The vertical dimension beside the squatting figure is labeled 1125; no unit is printed."
+            },
+            "outcome": "uncertain",
+            "reason": "Blind reading disagrees with candidate or unit",
+            "timestamp": "2026-11-13T11:01:33.675805+00:00",
+            "warning": "Same model as first pass; independent cropped prompt only.",
+            "before": {
+              "label": "Squatting height",
+              "value": 1125.0,
+              "value_max": null,
+              "unit": "mm",
+              "context": "Figure 6, squatting; vertical dimension",
+              "status": "uncertain",
+              "ocr_raw": "1125"
+            }
+          }
+        },
+        {
+          "label": "Squatting width",
+          "value": 700.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Figure 6, squatting; horizontal dimension",
+          "status": "uncertain",
+          "ocr_raw": "700",
+          "status_history": [
+            {
+              "status": "uncertain",
+              "value": 700.0,
+              "value_max": null,
+              "timestamp": "2026-11-13T11:01:39.875433+00:00"
+            }
+          ],
+          "original_value": 700.0,
+          "verification_pass2": {
+            "model": "gpt-6-luna",
+            "locator": "tiles",
+            "bbox": [
+              0.7814166666666666,
+              0.22216666666666668,
+              0.8530833333333333,
+              0.2329166666666667
+            ],
+            "crop_bbox": [
+              0.7007715122515871,
+              0.16517036951141292,
+              0.9337284552927232,
+              0.28991295808435313
+            ],
+            "crop_path": "crops\\p041_4122fb96e4bd1976-41-vision-0_10.png",
+            "read_value": {
+              "printed": "700",
+              "unit": "",
+              "unreadable": false,
+              "reason": "The horizontal dimension beneath the Squatting figure is printed as 700; no unit is shown."
+            },
+            "outcome": "uncertain",
+            "reason": "Blind reading disagrees with candidate or unit",
+            "timestamp": "2026-11-13T11:01:39.875433+00:00",
+            "warning": "Same model as first pass; independent cropped prompt only.",
+            "before": {
+              "label": "Squatting width",
+              "value": 700.0,
+              "value_max": null,
+              "unit": "mm",
+              "context": "Figure 6, squatting; horizontal dimension",
+              "status": "uncertain",
+              "ocr_raw": "700"
+            }
+          }
+        },
+        {
+          "label": "Bending-over height",
+          "value": 1375.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Figure 7, bending over; vertical dimension",
+          "status": "uncertain",
+          "ocr_raw": "DIMENSIONAL BASICS AND RELATIONSHIPS\nBody Measurements and Space Requirements\n\nDIMENSIONAL\nBASICS AND\nRELATIONSHIPS\n\nMan as measure\nand purpose\nThe universal\nstandard\nBody\nmeasurements\nand space\nrequirements\n\nGeometrical\nrelationships\nDimensions in\nbuilding\n\nl----750---\\\n\n0\n\nJ----875---j\n\ne\n\nf) Bending over\n\nf----875--l\n\n0 In movement\n\nJ----875------1\n\ne\n\n!-----700-----1\nSquatting\n\n1----1125----l\n\n(!) Outstretched arm (forwards) CD Outstretched arm (sideways)\n\n1----1250----1\n\nl--900-1000---\\\n\nf----875 ------1\n\nDimensions: at the dining table\n\nf---625-----j\n\n0 Sitting (from the side) e Kneeling\n\nSitting (from\nthe front)\n\n}---875---j\n\nStanding leaning forward,\nstanding\n\nm\n\nC!) Dimensions: at the desk\n\nt-875------1\n\nt------625-----j\n\nf) Sitting cross-legged\n\nCrawling\n\nf) Dimensions: in a small easy chair\n\nQ Dimensions: in an armchair\n\nGi) Sitting on a chair\n\ncg) Sitting on the floor\n\nJ---660---l\n\ni'\n'\n\n'\n~-1\nI\n\nI\n\n~\n\ne\n\nWorking while standing\n\n0) Kneeling\n\n1------1875------1\n\n1--1250-----i\n\nfli) Sitting on a mattress\n28\n\n~\n\nLeaning against sloping backrest\n\n~\n\nLying with raised back\n\n@) Lying\n\n\f",
+          "status_history": [
+            {
+              "status": "uncertain",
+              "value": 1375.0,
+              "value_max": null,
+              "timestamp": "2026-11-13T11:01:48.027952+00:00"
+            }
+          ],
+          "original_value": 1375.0,
+          "verification_pass2": {
+            "model": "gpt-6-luna",
+            "locator": "tiles",
+            "bbox": [
+              0.22395833333333334,
+              0.338625,
+              0.23435,
+              0.355825
+            ],
+            "crop_bbox": [
+              0.1433131742310642,
+              0.2816287020898032,
+              0.3149951593338513,
+              0.4128212886696937
+            ],
+            "crop_path": "crops\\p041_4122fb96e4bd1976-41-vision-0_11.png",
+            "read_value": {
+              "printed": "1375",
+              "unit": "",
+              "unreadable": false,
+              "reason": "The vertical dimension is labeled 1375; no unit is visibly printed."
+            },
+            "outcome": "uncertain",
+            "reason": "Blind reading disagrees with candidate or unit",
+            "timestamp": "2026-11-13T11:01:48.027952+00:00",
+            "warning": "Same model as first pass; independent cropped prompt only.",
+            "before": {
+              "label": "Bending-over height",
+              "value": 1375.0,
+              "value_max": null,
+              "unit": "mm",
+              "context": "Figure 7, bending over; vertical dimension",
+              "status": "uncertain",
+              "ocr_raw": "DIMENSIONAL BASICS AND RELATIONSHIPS\nBody Measurements and Space Requirements\n\nDIMENSIONAL\nBASICS AND\nRELATIONSHIPS\n\nMan as measure\nand purpose\nThe universal\nstandard\nBody\nmeasurements\nand space\nrequirements\n\nGeometrical\nrelationships\nDimensions in\nbuilding\n\nl----750---\\\n\n0\n\nJ----875---j\n\ne\n\nf) Bending over\n\nf----875--l\n\n0 In movement\n\nJ----875------1\n\ne\n\n!-----700-----1\nSquatting\n\n1----1125----l\n\n(!) Outstretched arm (forwards) CD Outstretched arm (sideways)\n\n1----1250----1\n\nl--900-1000---\\\n\nf----875 ------1\n\nDimensions: at the dining table\n\nf---625-----j\n\n0 Sitting (from the side) e Kneeling\n\nSitting (from\nthe front)\n\n}---875---j\n\nStanding leaning forward,\nstanding\n\nm\n\nC!) Dimensions: at the desk\n\nt-875------1\n\nt------625-----j\n\nf) Sitting cross-legged\n\nCrawling\n\nf) Dimensions: in a small easy chair\n\nQ Dimensions: in an armchair\n\nGi) Sitting on a chair\n\ncg) Sitting on the floor\n\nJ---660---l\n\ni'\n'\n\n'\n~-1\nI\n\nI\n\n~\n\ne\n\nWorking while standing\n\n0) Kneeling\n\n1------1875------1\n\n1--1250-----i\n\nfli) Sitting on a mattress\n28\n\n~\n\nLeaning against sloping backrest\n\n~\n\nLying with raised back\n\n@) Lying\n\n\f"
+            }
+          }
+        },
+        {
+          "label": "Bending-over floor-space width",
+          "value": 875.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Figure 7, bending over; horizontal dimension",
+          "status": "uncertain",
+          "ocr_raw": "875",
+          "status_history": [
+            {
+              "status": "uncertain",
+              "value": 875.0,
+              "value_max": null,
+              "timestamp": "2026-11-13T11:01:54.675560+00:00"
+            }
+          ],
+          "original_value": 875.0,
+          "verification_pass2": {
+            "model": "gpt-6-luna",
+            "locator": "tiles",
+            "bbox": [
+              0.12183333333333335,
+              0.41566666666666663,
+              0.215,
+              0.4233333333333333
+            ],
+            "crop_bbox": [
+              0.041188173833699916,
+              0.3586703821944564,
+              0.2956451591236328,
+              0.48032961418181686
+            ],
+            "crop_path": "crops\\p041_4122fb96e4bd1976-41-vision-0_12.png",
+            "read_value": {
+              "printed": "875",
+              "unit": "",
+              "unreadable": false,
+              "reason": "The horizontal dimension is printed as 875; no unit is shown."
+            },
+            "outcome": "uncertain",
+            "reason": "Blind reading disagrees with candidate or unit",
+            "timestamp": "2026-11-13T11:01:54.675560+00:00",
+            "warning": "Same model as first pass; independent cropped prompt only.",
+            "before": {
+              "label": "Bending-over floor-space width",
+              "value": 875.0,
+              "value_max": null,
+              "unit": "mm",
+              "context": "Figure 7, bending over; horizontal dimension",
+              "status": "uncertain",
+              "ocr_raw": "875"
+            }
+          }
+        },
+        {
+          "label": "Standing while leaning forward width",
+          "value": 625.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Figure 8, standing leaning forward; horizontal dimension",
+          "status": "uncertain",
+          "ocr_raw": "625",
+          "status_history": [
+            {
+              "status": "uncertain",
+              "value": 625.0,
+              "value_max": null,
+              "timestamp": "2026-11-13T11:02:05.806935+00:00"
+            }
+          ],
+          "original_value": 625.0,
+          "verification_pass2": {
+            "model": "gpt-6-luna",
+            "locator": "tiles",
+            "bbox": [
+              0.32826666666666665,
+              0.4164333333333333,
+              0.3497333333333333,
+              0.42256666666666665
+            ],
+            "crop_bbox": [
+              0.24762150553997603,
+              0.3594370540551314,
+              0.43037849487020646,
+              0.4795629423211419
+            ],
+            "crop_path": "crops\\p041_4122fb96e4bd1976-41-vision-0_13.png",
+            "read_value": {
+              "printed": "625",
+              "unit": "",
+              "unreadable": false,
+              "reason": "The horizontal dimension beneath the standing-leaning-forward figure is printed as 625."
+            },
+            "outcome": "uncertain",
+            "reason": "Blind reading disagrees with candidate or unit",
+            "timestamp": "2026-11-13T11:02:05.806935+00:00",
+            "warning": "Same model as first pass; independent cropped prompt only.",
+            "before": {
+              "label": "Standing while leaning forward width",
+              "value": 625.0,
+              "value_max": null,
+              "unit": "mm",
+              "context": "Figure 8, standing leaning forward; horizontal dimension",
+              "status": "uncertain",
+              "ocr_raw": "625"
+            }
+          }
+        },
+        {
+          "label": "Standing in movement width",
+          "value": 300.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Figure 9, in movement; horizontal dimension",
+          "status": "uncertain",
+          "ocr_raw": "DIMENSIONAL BASICS AND RELATIONSHIPS\nBody Measurements and Space Requirements\n\nDIMENSIONAL\nBASICS AND\nRELATIONSHIPS\n\nMan as measure\nand purpose\nThe universal\nstandard\nBody\nmeasurements\nand space\nrequirements\n\nGeometrical\nrelationships\nDimensions in\nbuilding\n\nl----750---\\\n\n0\n\nJ----875---j\n\ne\n\nf) Bending over\n\nf----875--l\n\n0 In movement\n\nJ----875------1\n\ne\n\n!-----700-----1\nSquatting\n\n1----1125----l\n\n(!) Outstretched arm (forwards) CD Outstretched arm (sideways)\n\n1----1250----1\n\nl--900-1000---\\\n\nf----875 ------1\n\nDimensions: at the dining table\n\nf---625-----j\n\n0 Sitting (from the side) e Kneeling\n\nSitting (from\nthe front)\n\n}---875---j\n\nStanding leaning forward,\nstanding\n\nm\n\nC!) Dimensions: at the desk\n\nt-875------1\n\nt------625-----j\n\nf) Sitting cross-legged\n\nCrawling\n\nf) Dimensions: in a small easy chair\n\nQ Dimensions: in an armchair\n\nGi) Sitting on a chair\n\ncg) Sitting on the floor\n\nJ---660---l\n\ni'\n'\n\n'\n~-1\nI\n\nI\n\n~\n\ne\n\nWorking while standing\n\n0) Kneeling\n\n1------1875------1\n\n1--1250-----i\n\nfli) Sitting on a mattress\n28\n\n~\n\nLeaning against sloping backrest\n\n~\n\nLying with raised back\n\n@) Lying\n\n\f",
+          "status_history": [
+            {
+              "status": "uncertain",
+              "value": 300.0,
+              "value_max": null,
+              "timestamp": "2026-11-13T11:02:13.337856+00:00"
+            }
+          ],
+          "original_value": 300.0,
+          "verification_pass2": {
+            "model": "gpt-6-luna",
+            "locator": "tiles",
+            "bbox": [
+              0.4348333333333333,
+              0.40684999999999993,
+              0.5345,
+              0.4221833333333333
+            ],
+            "crop_bbox": [
+              0.35418817347479026,
+              0.34985371015259514,
+              0.6151451476897958,
+              0.479179624509438
+            ],
+            "crop_path": "crops\\p041_4122fb96e4bd1976-41-vision-0_14.png",
+            "read_value": {
+              "printed": "875",
+              "unit": "",
+              "unreadable": false,
+              "reason": "The horizontal dimension for Figure 9, \u201cIn movement,\u201d is printed as 875. No unit is visible."
+            },
+            "outcome": "uncertain",
+            "reason": "Blind reading disagrees with candidate or unit",
+            "timestamp": "2026-11-13T11:02:13.337856+00:00",
+            "warning": "Same model as first pass; independent cropped prompt only.",
+            "before": {
+              "label": "Standing in movement width",
+              "value": 300.0,
+              "value_max": null,
+              "unit": "mm",
+              "context": "Figure 9, in movement; horizontal dimension",
+              "status": "uncertain",
+              "ocr_raw": "DIMENSIONAL BASICS AND RELATIONSHIPS\nBody Measurements and Space Requirements\n\nDIMENSIONAL\nBASICS AND\nRELATIONSHIPS\n\nMan as measure\nand purpose\nThe universal\nstandard\nBody\nmeasurements\nand space\nrequirements\n\nGeometrical\nrelationships\nDimensions in\nbuilding\n\nl----750---\\\n\n0\n\nJ----875---j\n\ne\n\nf) Bending over\n\nf----875--l\n\n0 In movement\n\nJ----875------1\n\ne\n\n!-----700-----1\nSquatting\n\n1----1125----l\n\n(!) Outstretched arm (forwards) CD Outstretched arm (sideways)\n\n1----1250----1\n\nl--900-1000---\\\n\nf----875 ------1\n\nDimensions: at the dining table\n\nf---625-----j\n\n0 Sitting (from the side) e Kneeling\n\nSitting (from\nthe front)\n\n}---875---j\n\nStanding leaning forward,\nstanding\n\nm\n\nC!) Dimensions: at the desk\n\nt-875------1\n\nt------625-----j\n\nf) Sitting cross-legged\n\nCrawling\n\nf) Dimensions: in a small easy chair\n\nQ Dimensions: in an armchair\n\nGi) Sitting on a chair\n\ncg) Sitting on the floor\n\nJ---660---l\n\ni'\n'\n\n'\n~-1\nI\n\nI\n\n~\n\ne\n\nWorking while standing\n\n0) Kneeling\n\n1------1875------1\n\n1--1250-----i\n\nfli) Sitting on a mattress\n28\n\n~\n\nLeaning against sloping backrest\n\n~\n\nLying with raised back\n\n@) Lying\n\n\f"
+            }
+          }
+        }
+      ],
+      "figure_refs": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9"
+      ],
+      "cross_refs": [],
+      "keywords": [
+        "body measurements",
+        "space requirements",
+        "crawling",
+        "sitting",
+        "kneeling",
+        "squatting",
+        "bending"
+      ],
+      "tags_architectural": [
+        "anthropometry",
+        "clearance",
+        "ergonomics",
+        "spatial_proportion"
+      ],
+      "confidence": 0.83
+    },
+    {
+      "id": "4122fb96e4bd1976-41-vision-1",
+      "pdf_page": 41,
+      "book_page": 28,
+      "chapter": "BASICS",
+      "section": "Dimensional Basics and Relationships",
+      "title": "Standing Reach and Arm Extension",
+      "summary": "Diagrams give horizontal and vertical dimensions for a person in movement and for forward and sideways arm extension. Dimensions are transcribed from the diagrams; the page does not state a unit.",
+      "building_type": "General architectural planning reference",
+      "spaces": [
+        "Standing activity space",
+        "Reach and movement envelope"
+      ],
+      "uses": [
+        "Planning clearances for standing movement and arm reach",
+        "Estimating spatial envelopes around a standing person"
+      ],
+      "furniture_equipment": [],
+      "dimensions": [
+        {
+          "label": "In-movement width",
+          "value": 875.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Figure 9, in movement; horizontal dimension",
+          "status": "uncertain",
+          "ocr_raw": "875",
+          "status_history": [
+            {
+              "status": "uncertain",
+              "value": 875.0,
+              "value_max": null,
+              "timestamp": "2026-11-13T11:02:19.275366+00:00"
+            }
+          ],
+          "original_value": 875.0,
+          "verification_pass2": {
+            "model": "gpt-6-luna",
+            "locator": "tiles",
+            "bbox": [
+              0.43751666666666666,
+              0.40531666666666666,
+              0.5341166666666666,
+              0.4233333333333333
+            ],
+            "crop_bbox": [
+              0.35687151043652954,
+              0.3483203664312452,
+              0.6147618321498372,
+              0.48032961418181686
+            ],
+            "crop_path": "crops\\p041_4122fb96e4bd1976-41-vision-1_0.png",
+            "read_value": {
+              "printed": "875",
+              "unit": "",
+              "unreadable": false,
+              "reason": "The horizontal dimension beneath Figure 9, labeled \u201cIn movement,\u201d is printed as 875."
+            },
+            "outcome": "uncertain",
+            "reason": "Blind reading disagrees with candidate or unit",
+            "timestamp": "2026-11-13T11:02:19.275366+00:00",
+            "warning": "Same model as first pass; independent cropped prompt only.",
+            "before": {
+              "label": "In-movement width",
+              "value": 875.0,
+              "value_max": null,
+              "unit": "mm",
+              "context": "Figure 9, in movement; horizontal dimension",
+              "status": "uncertain",
+              "ocr_raw": "875"
+            }
+          }
+        },
+        {
+          "label": "Forward arm extension width",
+          "value": 875.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Figure 10, outstretched arm forwards; horizontal dimension",
+          "status": "uncertain",
+          "ocr_raw": "875",
+          "status_history": [
+            {
+              "status": "uncertain",
+              "value": 875.0,
+              "value_max": null,
+              "timestamp": "2026-11-13T11:02:27.347015+00:00"
+            }
+          ],
+          "original_value": 875.0,
+          "verification_pass2": {
+            "model": "gpt-6-luna",
+            "locator": "tiles",
+            "bbox": [
+              0.5613333333333332,
+              0.4041666666666666,
+              0.6686666666666666,
+              0.4195
+            ],
+            "crop_bbox": [
+              0.480688198034467,
+              0.34717037675886636,
+              0.7493118419583261,
+              0.47649629111570924
+            ],
+            "crop_path": "crops\\p041_4122fb96e4bd1976-41-vision-1_1.png",
+            "read_value": {
+              "printed": "875",
+              "unit": "",
+              "unreadable": false,
+              "reason": "The horizontal dimension beneath \u201cOutstretched arm (forwards)\u201d is printed as 875; no unit is shown."
+            },
+            "outcome": "uncertain",
+            "reason": "Blind reading disagrees with candidate or unit",
+            "timestamp": "2026-11-13T11:02:27.347015+00:00",
+            "warning": "Same model as first pass; independent cropped prompt only.",
+            "before": {
+              "label": "Forward arm extension width",
+              "value": 875.0,
+              "value_max": null,
+              "unit": "mm",
+              "context": "Figure 10, outstretched arm forwards; horizontal dimension",
+              "status": "uncertain",
+              "ocr_raw": "875"
+            }
+          }
+        },
+        {
+          "label": "Forward arm extension height",
+          "value": 1500.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Figure 10, outstretched arm forwards; vertical dimension",
+          "status": "uncertain",
+          "ocr_raw": "DIMENSIONAL BASICS AND RELATIONSHIPS\nBody Measurements and Space Requirements\n\nDIMENSIONAL\nBASICS AND\nRELATIONSHIPS\n\nMan as measure\nand purpose\nThe universal\nstandard\nBody\nmeasurements\nand space\nrequirements\n\nGeometrical\nrelationships\nDimensions in\nbuilding\n\nl----750---\\\n\n0\n\nJ----875---j\n\ne\n\nf) Bending over\n\nf----875--l\n\n0 In movement\n\nJ----875------1\n\ne\n\n!-----700-----1\nSquatting\n\n1----1125----l\n\n(!) Outstretched arm (forwards) CD Outstretched arm (sideways)\n\n1----1250----1\n\nl--900-1000---\\\n\nf----875 ------1\n\nDimensions: at the dining table\n\nf---625-----j\n\n0 Sitting (from the side) e Kneeling\n\nSitting (from\nthe front)\n\n}---875---j\n\nStanding leaning forward,\nstanding\n\nm\n\nC!) Dimensions: at the desk\n\nt-875------1\n\nt------625-----j\n\nf) Sitting cross-legged\n\nCrawling\n\nf) Dimensions: in a small easy chair\n\nQ Dimensions: in an armchair\n\nGi) Sitting on a chair\n\ncg) Sitting on the floor\n\nJ---660---l\n\ni'\n'\n\n'\n~-1\nI\n\nI\n\n~\n\ne\n\nWorking while standing\n\n0) Kneeling\n\n1------1875------1\n\n1--1250-----i\n\nfli) Sitting on a mattress\n28\n\n~\n\nLeaning against sloping backrest\n\n~\n\nLying with raised back\n\n@) Lying\n\n\f",
+          "status_history": [
+            {
+              "status": "uncertain",
+              "value": 1500.0,
+              "value_max": null,
+              "timestamp": "2026-11-13T11:02:38.715907+00:00"
+            }
+          ],
+          "original_value": 1500.0,
+          "verification_pass2": {
+            "model": "gpt-6-luna",
+            "locator": "tiles",
+            "bbox": [
+              0.6740333333333333,
+              0.30709166666666665,
+              0.68055,
+              0.33325000000000005
+            ],
+            "crop_bbox": [
+              0.5933881966090828,
+              0.25009537648708685,
+              0.7611951364251591,
+              0.3902463047046844
+            ],
+            "crop_path": "crops\\p041_4122fb96e4bd1976-41-vision-1_2.png",
+            "read_value": {
+              "printed": "1500",
+              "unit": "",
+              "unreadable": false,
+              "reason": "The vertical dimension aligned with the forward outstretched arm is printed as 1500; no unit is visible."
+            },
+            "outcome": "uncertain",
+            "reason": "Blind reading disagrees with candidate or unit",
+            "timestamp": "2026-11-13T11:02:38.715907+00:00",
+            "warning": "Same model as first pass; independent cropped prompt only.",
+            "before": {
+              "label": "Forward arm extension height",
+              "value": 1500.0,
+              "value_max": null,
+              "unit": "mm",
+              "context": "Figure 10, outstretched arm forwards; vertical dimension",
+              "status": "uncertain",
+              "ocr_raw": "DIMENSIONAL BASICS AND RELATIONSHIPS\nBody Measurements and Space Requirements\n\nDIMENSIONAL\nBASICS AND\nRELATIONSHIPS\n\nMan as measure\nand purpose\nThe universal\nstandard\nBody\nmeasurements\nand space\nrequirements\n\nGeometrical\nrelationships\nDimensions in\nbuilding\n\nl----750---\\\n\n0\n\nJ----875---j\n\ne\n\nf) Bending over\n\nf----875--l\n\n0 In movement\n\nJ----875------1\n\ne\n\n!-----700-----1\nSquatting\n\n1----1125----l\n\n(!) Outstretched arm (forwards) CD Outstretched arm (sideways)\n\n1----1250----1\n\nl--900-1000---\\\n\nf----875 ------1\n\nDimensions: at the dining table\n\nf---625-----j\n\n0 Sitting (from the side) e Kneeling\n\nSitting (from\nthe front)\n\n}---875---j\n\nStanding leaning forward,\nstanding\n\nm\n\nC!) Dimensions: at the desk\n\nt-875------1\n\nt------625-----j\n\nf) Sitting cross-legged\n\nCrawling\n\nf) Dimensions: in a small easy chair\n\nQ Dimensions: in an armchair\n\nGi) Sitting on a chair\n\ncg) Sitting on the floor\n\nJ---660---l\n\ni'\n'\n\n'\n~-1\nI\n\nI\n\n~\n\ne\n\nWorking while standing\n\n0) Kneeling\n\n1------1875------1\n\n1--1250-----i\n\nfli) Sitting on a mattress\n28\n\n~\n\nLeaning against sloping backrest\n\n~\n\nLying with raised back\n\n@) Lying\n\n\f"
+            }
+          }
+        },
+        {
+          "label": "Forward arm extension height",
+          "value": 1750.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Figure 10, outstretched arm forwards; vertical dimension",
+          "status": "uncertain",
+          "ocr_raw": "DIMENSIONAL BASICS AND RELATIONSHIPS\nBody Measurements and Space Requirements\n\nDIMENSIONAL\nBASICS AND\nRELATIONSHIPS\n\nMan as measure\nand purpose\nThe universal\nstandard\nBody\nmeasurements\nand space\nrequirements\n\nGeometrical\nrelationships\nDimensions in\nbuilding\n\nl----750---\\\n\n0\n\nJ----875---j\n\ne\n\nf) Bending over\n\nf----875--l\n\n0 In movement\n\nJ----875------1\n\ne\n\n!-----700-----1\nSquatting\n\n1----1125----l\n\n(!) Outstretched arm (forwards) CD Outstretched arm (sideways)\n\n1----1250----1\n\nl--900-1000---\\\n\nf----875 ------1\n\nDimensions: at the dining table\n\nf---625-----j\n\n0 Sitting (from the side) e Kneeling\n\nSitting (from\nthe front)\n\n}---875---j\n\nStanding leaning forward,\nstanding\n\nm\n\nC!) Dimensions: at the desk\n\nt-875------1\n\nt------625-----j\n\nf) Sitting cross-legged\n\nCrawling\n\nf) Dimensions: in a small easy chair\n\nQ Dimensions: in an armchair\n\nGi) Sitting on a chair\n\ncg) Sitting on the floor\n\nJ---660---l\n\ni'\n'\n\n'\n~-1\nI\n\nI\n\n~\n\ne\n\nWorking while standing\n\n0) Kneeling\n\n1------1875------1\n\n1--1250-----i\n\nfli) Sitting on a mattress\n28\n\n~\n\nLeaning against sloping backrest\n\n~\n\nLying with raised back\n\n@) Lying\n\n\f",
+          "status_history": [
+            {
+              "status": "uncertain",
+              "value": 1750.0,
+              "value_max": null,
+              "timestamp": "2026-11-13T11:02:51.187371+00:00"
+            }
+          ],
+          "original_value": 1750.0,
+          "verification_pass2": {
+            "model": "gpt-6-luna",
+            "locator": "tiles",
+            "bbox": [
+              0.6533333333333333,
+              0.3198333333333333,
+              0.6686666666666666,
+              0.3658333333333333
+            ],
+            "crop_bbox": [
+              0.5726881832678973,
+              0.2628370337622618,
+              0.7493118419583261,
+              0.42282962324113366
+            ],
+            "crop_path": "crops\\p041_4122fb96e4bd1976-41-vision-1_3.png",
+            "read_value": {
+              "printed": "1500",
+              "unit": "mm",
+              "unreadable": false,
+              "reason": "The vertical dimension aligned with the outstretched arm is labeled 1500."
+            },
+            "outcome": "uncertain",
+            "reason": "Blind reading disagrees with candidate or unit",
+            "timestamp": "2026-11-13T11:02:51.187371+00:00",
+            "warning": "Same model as first pass; independent cropped prompt only.",
+            "before": {
+              "label": "Forward arm extension height",
+              "value": 1750.0,
+              "value_max": null,
+              "unit": "mm",
+              "context": "Figure 10, outstretched arm forwards; vertical dimension",
+              "status": "uncertain",
+              "ocr_raw": "DIMENSIONAL BASICS AND RELATIONSHIPS\nBody Measurements and Space Requirements\n\nDIMENSIONAL\nBASICS AND\nRELATIONSHIPS\n\nMan as measure\nand purpose\nThe universal\nstandard\nBody\nmeasurements\nand space\nrequirements\n\nGeometrical\nrelationships\nDimensions in\nbuilding\n\nl----750---\\\n\n0\n\nJ----875---j\n\ne\n\nf) Bending over\n\nf----875--l\n\n0 In movement\n\nJ----875------1\n\ne\n\n!-----700-----1\nSquatting\n\n1----1125----l\n\n(!) Outstretched arm (forwards) CD Outstretched arm (sideways)\n\n1----1250----1\n\nl--900-1000---\\\n\nf----875 ------1\n\nDimensions: at the dining table\n\nf---625-----j\n\n0 Sitting (from the side) e Kneeling\n\nSitting (from\nthe front)\n\n}---875---j\n\nStanding leaning forward,\nstanding\n\nm\n\nC!) Dimensions: at the desk\n\nt-875------1\n\nt------625-----j\n\nf) Sitting cross-legged\n\nCrawling\n\nf) Dimensions: in a small easy chair\n\nQ Dimensions: in an armchair\n\nGi) Sitting on a chair\n\ncg) Sitting on the floor\n\nJ---660---l\n\ni'\n'\n\n'\n~-1\nI\n\nI\n\n~\n\ne\n\nWorking while standing\n\n0) Kneeling\n\n1------1875------1\n\n1--1250-----i\n\nfli) Sitting on a mattress\n28\n\n~\n\nLeaning against sloping backrest\n\n~\n\nLying with raised back\n\n@) Lying\n\n\f"
+            }
+          }
+        },
+        {
+          "label": "Sideways arm extension width",
+          "value": 1125.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Figure 11, outstretched arm sideways; horizontal dimension",
+          "status": "uncertain",
+          "ocr_raw": "1125",
+          "status_history": [
+            {
+              "status": "uncertain",
+              "value": 1125.0,
+              "value_max": null,
+              "timestamp": "2026-11-13T11:02:57.603209+00:00"
+            }
+          ],
+          "original_value": 1125.0,
+          "verification_pass2": {
+            "model": "gpt-6-luna",
+            "locator": "tiles",
+            "bbox": [
+              0.7455833333333333,
+              0.4118333333333333,
+              0.8494999999999999,
+              0.42716666666666664
+            ],
+            "crop_bbox": [
+              0.6649381747309742,
+              0.35483702289108165,
+              0.9301452035771605,
+              0.48416297348519166
+            ],
+            "crop_path": "crops\\p041_4122fb96e4bd1976-41-vision-1_4.png",
+            "read_value": {
+              "printed": "1125",
+              "unit": "",
+              "unreadable": false,
+              "reason": "The horizontal dimension beneath \u201cOutstretched arm (sideways)\u201d is labeled 1125."
+            },
+            "outcome": "uncertain",
+            "reason": "Blind reading disagrees with candidate or unit",
+            "timestamp": "2026-11-13T11:02:57.603209+00:00",
+            "warning": "Same model as first pass; independent cropped prompt only.",
+            "before": {
+              "label": "Sideways arm extension width",
+              "value": 1125.0,
+              "value_max": null,
+              "unit": "mm",
+              "context": "Figure 11, outstretched arm sideways; horizontal dimension",
+              "status": "uncertain",
+              "ocr_raw": "1125"
+            }
+          }
+        },
+        {
+          "label": "Sideways arm extension dimension",
+          "value": 500.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Figure 11, outstretched arm sideways; upper horizontal dimension",
+          "status": "uncertain",
+          "ocr_raw": "DIMENSIONAL BASICS AND RELATIONSHIPS\nBody Measurements and Space Requirements\n\nDIMENSIONAL\nBASICS AND\nRELATIONSHIPS\n\nMan as measure\nand purpose\nThe universal\nstandard\nBody\nmeasurements\nand space\nrequirements\n\nGeometrical\nrelationships\nDimensions in\nbuilding\n\nl----750---\\\n\n0\n\nJ----875---j\n\ne\n\nf) Bending over\n\nf----875--l\n\n0 In movement\n\nJ----875------1\n\ne\n\n!-----700-----1\nSquatting\n\n1----1125----l\n\n(!) Outstretched arm (forwards) CD Outstretched arm (sideways)\n\n1----1250----1\n\nl--900-1000---\\\n\nf----875 ------1\n\nDimensions: at the dining table\n\nf---625-----j\n\n0 Sitting (from the side) e Kneeling\n\nSitting (from\nthe front)\n\n}---875---j\n\nStanding leaning forward,\nstanding\n\nm\n\nC!) Dimensions: at the desk\n\nt-875------1\n\nt------625-----j\n\nf) Sitting cross-legged\n\nCrawling\n\nf) Dimensions: in a small easy chair\n\nQ Dimensions: in an armchair\n\nGi) Sitting on a chair\n\ncg) Sitting on the floor\n\nJ---660---l\n\ni'\n'\n\n'\n~-1\nI\n\nI\n\n~\n\ne\n\nWorking while standing\n\n0) Kneeling\n\n1------1875------1\n\n1--1250-----i\n\nfli) Sitting on a mattress\n28\n\n~\n\nLeaning against sloping backrest\n\n~\n\nLying with raised back\n\n@) Lying\n\n\f",
+          "status_history": [
+            {
+              "status": "uncertain",
+              "value": 500.0,
+              "value_max": null,
+              "timestamp": "2026-11-13T11:03:05.307146+00:00"
+            }
+          ],
+          "original_value": 500.0,
+          "verification_pass2": {
+            "model": "gpt-6-luna",
+            "locator": "tiles",
+            "bbox": [
+              0.7240833333333333,
+              0.4041666666666666,
+              0.871,
+              0.4233333333333333
+            ],
+            "crop_bbox": [
+              0.6434381517094817,
+              0.34717037675886636,
+              0.9516451240530296,
+              0.48032961418181686
+            ],
+            "crop_path": "crops\\p041_4122fb96e4bd1976-41-vision-1_5.png",
+            "read_value": {
+              "printed": "1125",
+              "unit": "",
+              "unreadable": false,
+              "reason": "The upper horizontal dimension is printed as 1125; no unit is visible."
+            },
+            "outcome": "uncertain",
+            "reason": "Blind reading disagrees with candidate or unit",
+            "timestamp": "2026-11-13T11:03:05.307146+00:00",
+            "warning": "Same model as first pass; independent cropped prompt only.",
+            "before": {
+              "label": "Sideways arm extension dimension",
+              "value": 500.0,
+              "value_max": null,
+              "unit": "mm",
+              "context": "Figure 11, outstretched arm sideways; upper horizontal dimension",
+              "status": "uncertain",
+              "ocr_raw": "DIMENSIONAL BASICS AND RELATIONSHIPS\nBody Measurements and Space Requirements\n\nDIMENSIONAL\nBASICS AND\nRELATIONSHIPS\n\nMan as measure\nand purpose\nThe universal\nstandard\nBody\nmeasurements\nand space\nrequirements\n\nGeometrical\nrelationships\nDimensions in\nbuilding\n\nl----750---\\\n\n0\n\nJ----875---j\n\ne\n\nf) Bending over\n\nf----875--l\n\n0 In movement\n\nJ----875------1\n\ne\n\n!-----700-----1\nSquatting\n\n1----1125----l\n\n(!) Outstretched arm (forwards) CD Outstretched arm (sideways)\n\n1----1250----1\n\nl--900-1000---\\\n\nf----875 ------1\n\nDimensions: at the dining table\n\nf---625-----j\n\n0 Sitting (from the side) e Kneeling\n\nSitting (from\nthe front)\n\n}---875---j\n\nStanding leaning forward,\nstanding\n\nm\n\nC!) Dimensions: at the desk\n\nt-875------1\n\nt------625-----j\n\nf) Sitting cross-legged\n\nCrawling\n\nf) Dimensions: in a small easy chair\n\nQ Dimensions: in an armchair\n\nGi) Sitting on a chair\n\ncg) Sitting on the floor\n\nJ---660---l\n\ni'\n'\n\n'\n~-1\nI\n\nI\n\n~\n\ne\n\nWorking while standing\n\n0) Kneeling\n\n1------1875------1\n\n1--1250-----i\n\nfli) Sitting on a mattress\n28\n\n~\n\nLeaning against sloping backrest\n\n~\n\nLying with raised back\n\n@) Lying\n\n\f"
+            }
+          }
+        }
+      ],
+      "figure_refs": [
+        "9",
+        "10",
+        "11"
+      ],
+      "cross_refs": [],
+      "keywords": [
+        "reach",
+        "arm extension",
+        "standing",
+        "movement envelope"
+      ],
+      "tags_architectural": [
+        "anthropometry",
+        "clearance",
+        "ergonomics",
+        "circulation"
+      ],
+      "confidence": 0.78
+    },
+    {
+      "id": "4122fb96e4bd1976-41-vision-2",
+      "pdf_page": 41,
+      "book_page": 28,
+      "chapter": "BASICS",
+      "section": "Dimensional Basics and Relationships",
+      "title": "Dimensions for Work and Seated Activity",
+      "summary": "Diagrams show human dimensions and space requirements at a desk, dining table, easy chair, armchair, standing work surface, kneeling work position, chair, and floor-level work position. Dimensions are transcribed from the diagrams; the page does not state a unit.",
+      "building_type": "Work and activity spaces",
+      "spaces": [
+        "Desk",
+        "Dining area",
+        "Easy-chair area",
+        "Armchair area",
+        "Standing work area",
+        "Kneeling work area",
+        "Chair seating area",
+        "Floor-level work area"
+      ],
+      "uses": [
+        "Planning desk and dining-table dimensions",
+        "Sizing seated and standing work areas",
+        "Estimating reach and clearance for seated, kneeling, and floor-level activities"
+      ],
+      "furniture_equipment": [
+        "Desk",
+        "Dining table",
+        "Small easy chair",
+        "Armchair",
+        "Work surface",
+        "Chair"
+      ],
+      "dimensions": [
+        {
+          "label": "Desk height",
+          "value": 750.0,
+          "value_max": 800.0,
+          "unit": "mm",
+          "context": "Figure 12, dimensions at the desk; vertical work-surface range",
+          "status": "uncertain",
+          "ocr_raw": "DIMENSIONAL BASICS AND RELATIONSHIPS\nBody Measurements and Space Requirements\n\nDIMENSIONAL\nBASICS AND\nRELATIONSHIPS\n\nMan as measure\nand purpose\nThe universal\nstandard\nBody\nmeasurements\nand space\nrequirements\n\nGeometrical\nrelationships\nDimensions in\nbuilding\n\nl----750---\\\n\n0\n\nJ----875---j\n\ne\n\nf) Bending over\n\nf----875--l\n\n0 In movement\n\nJ----875------1\n\ne\n\n!-----700-----1\nSquatting\n\n1----1125----l\n\n(!) Outstretched arm (forwards) CD Outstretched arm (sideways)\n\n1----1250----1\n\nl--900-1000---\\\n\nf----875 ------1\n\nDimensions: at the dining table\n\nf---625-----j\n\n0 Sitting (from the side) e Kneeling\n\nSitting (from\nthe front)\n\n}---875---j\n\nStanding leaning forward,\nstanding\n\nm\n\nC!) Dimensions: at the desk\n\nt-875------1\n\nt------625-----j\n\nf) Sitting cross-legged\n\nCrawling\n\nf) Dimensions: in a small easy chair\n\nQ Dimensions: in an armchair\n\nGi) Sitting on a chair\n\ncg) Sitting on the floor\n\nJ---660---l\n\ni'\n'\n\n'\n~-1\nI\n\nI\n\n~\n\ne\n\nWorking while standing\n\n0) Kneeling\n\n1------1875------1\n\n1--1250-----i\n\nfli) Sitting on a mattress\n28\n\n~\n\nLeaning against sloping backrest\n\n~\n\nLying with raised back\n\n@) Lying\n\n\f",
+          "status_history": [
+            {
+              "status": "uncertain",
+              "value": 750.0,
+              "value_max": 800.0,
+              "timestamp": "2026-11-13T11:03:14.322498+00:00"
+            }
+          ],
+          "original_value": 750.0,
+          "verification_pass2": {
+            "model": "gpt-6-luna",
+            "locator": "tiles",
+            "bbox": [
+              0.11466666666666667,
+              0.5076666666666667,
+              0.129,
+              0.5575
+            ],
+            "crop_bbox": [
+              0.034021506970487475,
+              0.45067038944190985,
+              0.20964515676508347,
+              0.6144962838682558
+            ],
+            "crop_path": "crops\\p041_4122fb96e4bd1976-41-vision-2_0.png",
+            "read_value": {
+              "printed": "750\u2013800",
+              "unit": "",
+              "unreadable": true,
+              "reason": "The range is legible, but no unit is explicitly visible."
+            },
+            "outcome": "uncertain",
+            "reason": "unreadable",
+            "timestamp": "2026-11-13T11:03:14.322498+00:00",
+            "warning": "Same model as first pass; independent cropped prompt only.",
+            "before": {
+              "label": "Desk height",
+              "value": 750.0,
+              "value_max": 800.0,
+              "unit": "mm",
+              "context": "Figure 12, dimensions at the desk; vertical work-surface range",
+              "status": "uncertain",
+              "ocr_raw": "DIMENSIONAL BASICS AND RELATIONSHIPS\nBody Measurements and Space Requirements\n\nDIMENSIONAL\nBASICS AND\nRELATIONSHIPS\n\nMan as measure\nand purpose\nThe universal\nstandard\nBody\nmeasurements\nand space\nrequirements\n\nGeometrical\nrelationships\nDimensions in\nbuilding\n\nl----750---\\\n\n0\n\nJ----875---j\n\ne\n\nf) Bending over\n\nf----875--l\n\n0 In movement\n\nJ----875------1\n\ne\n\n!-----700-----1\nSquatting\n\n1----1125----l\n\n(!) Outstretched arm (forwards) CD Outstretched arm (sideways)\n\n1----1250----1\n\nl--900-1000---\\\n\nf----875 ------1\n\nDimensions: at the dining table\n\nf---625-----j\n\n0 Sitting (from the side) e Kneeling\n\nSitting (from\nthe front)\n\n}---875---j\n\nStanding leaning forward,\nstanding\n\nm\n\nC!) Dimensions: at the desk\n\nt-875------1\n\nt------625-----j\n\nf) Sitting cross-legged\n\nCrawling\n\nf) Dimensions: in a small easy chair\n\nQ Dimensions: in an armchair\n\nGi) Sitting on a chair\n\ncg) Sitting on the floor\n\nJ---660---l\n\ni'\n'\n\n'\n~-1\nI\n\nI\n\n~\n\ne\n\nWorking while standing\n\n0) Kneeling\n\n1------1875------1\n\n1--1250-----i\n\nfli) Sitting on a mattress\n28\n\n~\n\nLeaning against sloping backrest\n\n~\n\nLying with raised back\n\n@) Lying\n\n\f"
+            }
+          }
+        },
+        {
+          "label": "Desk seated dimension",
+          "value": 450.0,
+          "value_max": 480.0,
+          "unit": "mm",
+          "context": "Figure 12, dimensions at the desk; vertical seated dimension",
+          "status": "uncertain",
+          "ocr_raw": "DIMENSIONAL BASICS AND RELATIONSHIPS\nBody Measurements and Space Requirements\n\nDIMENSIONAL\nBASICS AND\nRELATIONSHIPS\n\nMan as measure\nand purpose\nThe universal\nstandard\nBody\nmeasurements\nand space\nrequirements\n\nGeometrical\nrelationships\nDimensions in\nbuilding\n\nl----750---\\\n\n0\n\nJ----875---j\n\ne\n\nf) Bending over\n\nf----875--l\n\n0 In movement\n\nJ----875------1\n\ne\n\n!-----700-----1\nSquatting\n\n1----1125----l\n\n(!) Outstretched arm (forwards) CD Outstretched arm (sideways)\n\n1----1250----1\n\nl--900-1000---\\\n\nf----875 ------1\n\nDimensions: at the dining table\n\nf---625-----j\n\n0 Sitting (from the side) e Kneeling\n\nSitting (from\nthe front)\n\n}---875---j\n\nStanding leaning forward,\nstanding\n\nm\n\nC!) Dimensions: at the desk\n\nt-875------1\n\nt------625-----j\n\nf) Sitting cross-legged\n\nCrawling\n\nf) Dimensions: in a small easy chair\n\nQ Dimensions: in an armchair\n\nGi) Sitting on a chair\n\ncg) Sitting on the floor\n\nJ---660---l\n\ni'\n'\n\n'\n~-1\nI\n\nI\n\n~\n\ne\n\nWorking while standing\n\n0) Kneeling\n\n1------1875------1\n\n1--1250-----i\n\nfli) Sitting on a mattress\n28\n\n~\n\nLeaning against sloping backrest\n\n~\n\nLying with raised back\n\n@) Lying\n\n\f",
+          "status_history": [
+            {
+              "status": "uncertain",
+              "value": 450.0,
+              "value_max": 480.0,
+              "timestamp": "2026-11-13T11:03:21.935413+00:00"
+            }
+          ],
+          "original_value": 450.0,
+          "verification_pass2": {
+            "model": "gpt-6-luna",
+            "locator": "tiles",
+            "bbox": [
+              0.11753333333333334,
+              0.5061333333333333,
+              0.12792499999999998,
+              0.5578833333333333
+            ],
+            "crop_bbox": [
+              0.03688817307486231,
+              0.44913704572055996,
+              0.20857015817764943,
+              0.6148796016799597
+            ],
+            "crop_path": "crops\\p041_4122fb96e4bd1976-41-vision-2_1.png",
+            "read_value": {
+              "printed": "750\u2013800",
+              "unit": "",
+              "unreadable": false,
+              "reason": "The vertical seated dimension is printed as 750\u2013800; no unit is visible."
+            },
+            "outcome": "uncertain",
+            "reason": "Blind reading disagrees with candidate or unit",
+            "timestamp": "2026-11-13T11:03:21.935413+00:00",
+            "warning": "Same model as first pass; independent cropped prompt only.",
+            "before": {
+              "label": "Desk seated dimension",
+              "value": 450.0,
+              "value_max": 480.0,
+              "unit": "mm",
+              "context": "Figure 12, dimensions at the desk; vertical seated dimension",
+              "status": "uncertain",
+              "ocr_raw": "DIMENSIONAL BASICS AND RELATIONSHIPS\nBody Measurements and Space Requirements\n\nDIMENSIONAL\nBASICS AND\nRELATIONSHIPS\n\nMan as measure\nand purpose\nThe universal\nstandard\nBody\nmeasurements\nand space\nrequirements\n\nGeometrical\nrelationships\nDimensions in\nbuilding\n\nl----750---\\\n\n0\n\nJ----875---j\n\ne\n\nf) Bending over\n\nf----875--l\n\n0 In movement\n\nJ----875------1\n\ne\n\n!-----700-----1\nSquatting\n\n1----1125----l\n\n(!) Outstretched arm (forwards) CD Outstretched arm (sideways)\n\n1----1250----1\n\nl--900-1000---\\\n\nf----875 ------1\n\nDimensions: at the dining table\n\nf---625-----j\n\n0 Sitting (from the side) e Kneeling\n\nSitting (from\nthe front)\n\n}---875---j\n\nStanding leaning forward,\nstanding\n\nm\n\nC!) Dimensions: at the desk\n\nt-875------1\n\nt------625-----j\n\nf) Sitting cross-legged\n\nCrawling\n\nf) Dimensions: in a small easy chair\n\nQ Dimensions: in an armchair\n\nGi) Sitting on a chair\n\ncg) Sitting on the floor\n\nJ---660---l\n\ni'\n'\n\n'\n~-1\nI\n\nI\n\n~\n\ne\n\nWorking while standing\n\n0) Kneeling\n\n1------1875------1\n\n1--1250-----i\n\nfli) Sitting on a mattress\n28\n\n~\n\nLeaning against sloping backrest\n\n~\n\nLying with raised back\n\n@) Lying\n\n\f"
+            }
+          }
+        },
+        {
+          "label": "Desk overall vertical dimension",
+          "value": 1350.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Figure 12, dimensions at the desk; vertical dimension",
+          "status": "uncertain",
+          "ocr_raw": "DIMENSIONAL BASICS AND RELATIONSHIPS\nBody Measurements and Space Requirements\n\nDIMENSIONAL\nBASICS AND\nRELATIONSHIPS\n\nMan as measure\nand purpose\nThe universal\nstandard\nBody\nmeasurements\nand space\nrequirements\n\nGeometrical\nrelationships\nDimensions in\nbuilding\n\nl----750---\\\n\n0\n\nJ----875---j\n\ne\n\nf) Bending over\n\nf----875--l\n\n0 In movement\n\nJ----875------1\n\ne\n\n!-----700-----1\nSquatting\n\n1----1125----l\n\n(!) Outstretched arm (forwards) CD Outstretched arm (sideways)\n\n1----1250----1\n\nl--900-1000---\\\n\nf----875 ------1\n\nDimensions: at the dining table\n\nf---625-----j\n\n0 Sitting (from the side) e Kneeling\n\nSitting (from\nthe front)\n\n}---875---j\n\nStanding leaning forward,\nstanding\n\nm\n\nC!) Dimensions: at the desk\n\nt-875------1\n\nt------625-----j\n\nf) Sitting cross-legged\n\nCrawling\n\nf) Dimensions: in a small easy chair\n\nQ Dimensions: in an armchair\n\nGi) Sitting on a chair\n\ncg) Sitting on the floor\n\nJ---660---l\n\ni'\n'\n\n'\n~-1\nI\n\nI\n\n~\n\ne\n\nWorking while standing\n\n0) Kneeling\n\n1------1875------1\n\n1--1250-----i\n\nfli) Sitting on a mattress\n28\n\n~\n\nLeaning against sloping backrest\n\n~\n\nLying with raised back\n\n@) Lying\n\n\f",
+          "status_history": [
+            {
+              "status": "uncertain",
+              "value": 1350.0,
+              "value_max": null,
+              "timestamp": "2026-11-13T11:03:32.974151+00:00"
+            }
+          ],
+          "original_value": 1350.0,
+          "verification_pass2": {
+            "model": "gpt-6-luna",
+            "locator": "tiles",
+            "bbox": [
+              0.23650000000000002,
+              0.46549999999999997,
+              0.24724999999999997,
+              0.5575
+            ],
+            "crop_bbox": [
+              0.15585483723599758,
+              0.40850369076565723,
+              0.3278951680194656,
+              0.6144962838682558
+            ],
+            "crop_path": "crops\\p041_4122fb96e4bd1976-41-vision-2_2.png",
+            "read_value": {
+              "printed": "1350",
+              "unit": "",
+              "unreadable": false,
+              "reason": "The printed overall vertical dimension is 1350."
+            },
+            "outcome": "uncertain",
+            "reason": "Blind reading disagrees with candidate or unit",
+            "timestamp": "2026-11-13T11:03:32.974151+00:00",
+            "warning": "Same model as first pass; independent cropped prompt only.",
+            "before": {
+              "label": "Desk overall vertical dimension",
+              "value": 1350.0,
+              "value_max": null,
+              "unit": "mm",
+              "context": "Figure 12, dimensions at the desk; vertical dimension",
+              "status": "uncertain",
+              "ocr_raw": "DIMENSIONAL BASICS AND RELATIONSHIPS\nBody Measurements and Space Requirements\n\nDIMENSIONAL\nBASICS AND\nRELATIONSHIPS\n\nMan as measure\nand purpose\nThe universal\nstandard\nBody\nmeasurements\nand space\nrequirements\n\nGeometrical\nrelationships\nDimensions in\nbuilding\n\nl----750---\\\n\n0\n\nJ----875---j\n\ne\n\nf) Bending over\n\nf----875--l\n\n0 In movement\n\nJ----875------1\n\ne\n\n!-----700-----1\nSquatting\n\n1----1125----l\n\n(!) Outstretched arm (forwards) CD Outstretched arm (sideways)\n\n1----1250----1\n\nl--900-1000---\\\n\nf----875 ------1\n\nDimensions: at the dining table\n\nf---625-----j\n\n0 Sitting (from the side) e Kneeling\n\nSitting (from\nthe front)\n\n}---875---j\n\nStanding leaning forward,\nstanding\n\nm\n\nC!) Dimensions: at the desk\n\nt-875------1\n\nt------625-----j\n\nf) Sitting cross-legged\n\nCrawling\n\nf) Dimensions: in a small easy chair\n\nQ Dimensions: in an armchair\n\nGi) Sitting on a chair\n\ncg) Sitting on the floor\n\nJ---660---l\n\ni'\n'\n\n'\n~-1\nI\n\nI\n\n~\n\ne\n\nWorking while standing\n\n0) Kneeling\n\n1------1875------1\n\n1--1250-----i\n\nfli) Sitting on a mattress\n28\n\n~\n\nLeaning against sloping backrest\n\n~\n\nLying with raised back\n\n@) Lying\n\n\f"
+            }
+          }
+        },
+        {
+          "label": "Desk horizontal dimension",
+          "value": 875.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Figure 12, dimensions at the desk; horizontal dimension",
+          "status": "uncertain",
+          "ocr_raw": "875",
+          "status_history": [
+            {
+              "status": "uncertain",
+              "value": 875.0,
+              "value_max": null,
+              "timestamp": "2026-11-13T11:03:40.791468+00:00"
+            }
+          ],
+          "original_value": 875.0,
+          "verification_pass2": {
+            "model": "gpt-6-luna",
+            "locator": "tiles",
+            "bbox": [
+              0.13186666666666666,
+              0.5640166666666666,
+              0.22395833333333334,
+              0.5716833333333333
+            ],
+            "crop_bbox": [
+              0.051221506801287196,
+              0.5070203907102142,
+              0.304603493503786,
+              0.6286796226975746
+            ],
+            "crop_path": "crops\\p041_4122fb96e4bd1976-41-vision-2_3.png",
+            "read_value": {
+              "printed": "660",
+              "unit": "",
+              "unreadable": false,
+              "reason": "The horizontal dimension at the desk is printed as 660; no unit is shown."
+            },
+            "outcome": "uncertain",
+            "reason": "Blind reading disagrees with candidate or unit",
+            "timestamp": "2026-11-13T11:03:40.791468+00:00",
+            "warning": "Same model as first pass; independent cropped prompt only.",
+            "before": {
+              "label": "Desk horizontal dimension",
+              "value": 875.0,
+              "value_max": null,
+              "unit": "mm",
+              "context": "Figure 12, dimensions at the desk; horizontal dimension",
+              "status": "uncertain",
+              "ocr_raw": "875"
+            }
+          }
+        },
+        {
+          "label": "Dining-table height",
+          "value": 750.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Figure 13, dimensions at the dining table; vertical table dimension",
+          "status": "uncertain",
+          "ocr_raw": "750",
+          "status_history": [
+            {
+              "status": "uncertain",
+              "value": 750.0,
+              "value_max": null,
+              "timestamp": "2026-11-13T11:03:49.771533+00:00"
+            }
+          ],
+          "original_value": 750.0,
+          "verification_pass2": {
+            "model": "gpt-6-luna",
+            "locator": "tiles",
+            "bbox": [
+              0.33324999999999994,
+              0.5092,
+              0.3466666666666666,
+              0.5590333333333333
+            ],
+            "crop_bbox": [
+              0.25260483828709024,
+              0.4522036969259926,
+              0.4273118167321027,
+              0.6160296275896057
+            ],
+            "crop_path": "crops\\p041_4122fb96e4bd1976-41-vision-2_4.png",
+            "read_value": {
+              "printed": "750",
+              "unit": "",
+              "unreadable": false,
+              "reason": "The vertical dimension at the dining table is printed as 750; no unit is shown."
+            },
+            "outcome": "uncertain",
+            "reason": "Blind reading disagrees with candidate or unit",
+            "timestamp": "2026-11-13T11:03:49.771533+00:00",
+            "warning": "Same model as first pass; independent cropped prompt only.",
+            "before": {
+              "label": "Dining-table height",
+              "value": 750.0,
+              "value_max": null,
+              "unit": "mm",
+              "context": "Figure 13, dimensions at the dining table; vertical table dimension",
+              "status": "uncertain",
+              "ocr_raw": "750"
+            }
+          }
+        },
+        {
+          "label": "Dining seating dimension",
+          "value": 400.0,
+          "value_max": 450.0,
+          "unit": "mm",
+          "context": "Figure 13, dimensions at the dining table; vertical seated dimension",
+          "status": "uncertain",
+          "ocr_raw": "DIMENSIONAL BASICS AND RELATIONSHIPS\nBody Measurements and Space Requirements\n\nDIMENSIONAL\nBASICS AND\nRELATIONSHIPS\n\nMan as measure\nand purpose\nThe universal\nstandard\nBody\nmeasurements\nand space\nrequirements\n\nGeometrical\nrelationships\nDimensions in\nbuilding\n\nl----750---\\\n\n0\n\nJ----875---j\n\ne\n\nf) Bending over\n\nf----875--l\n\n0 In movement\n\nJ----875------1\n\ne\n\n!-----700-----1\nSquatting\n\n1----1125----l\n\n(!) Outstretched arm (forwards) CD Outstretched arm (sideways)\n\n1----1250----1\n\nl--900-1000---\\\n\nf----875 ------1\n\nDimensions: at the dining table\n\nf---625-----j\n\n0 Sitting (from the side) e Kneeling\n\nSitting (from\nthe front)\n\n}---875---j\n\nStanding leaning forward,\nstanding\n\nm\n\nC!) Dimensions: at the desk\n\nt-875------1\n\nt------625-----j\n\nf) Sitting cross-legged\n\nCrawling\n\nf) Dimensions: in a small easy chair\n\nQ Dimensions: in an armchair\n\nGi) Sitting on a chair\n\ncg) Sitting on the floor\n\nJ---660---l\n\ni'\n'\n\n'\n~-1\nI\n\nI\n\n~\n\ne\n\nWorking while standing\n\n0) Kneeling\n\n1------1875------1\n\n1--1250-----i\n\nfli) Sitting on a mattress\n28\n\n~\n\nLeaning against sloping backrest\n\n~\n\nLying with raised back\n\n@) Lying\n\n\f",
+          "status_history": [
+            {
+              "status": "uncertain",
+              "value": 400.0,
+              "value_max": 450.0,
+              "timestamp": "2026-11-13T11:03:58.503968+00:00"
+            }
+          ],
+          "original_value": 400.0,
+          "verification_pass2": {
+            "model": "gpt-6-luna",
+            "locator": "tiles",
+            "bbox": [
+              0.44249999999999995,
+              0.5153333333333333,
+              0.4578333333333333,
+              0.5575
+            ],
+            "crop_bbox": [
+              0.36185484318364375,
+              0.45833703557412514,
+              0.5384785018740725,
+              0.6144962838682558
+            ],
+            "crop_path": "crops\\p041_4122fb96e4bd1976-41-vision-2_5.png",
+            "read_value": {
+              "printed": "400\u2013450",
+              "unit": "",
+              "unreadable": false,
+              "reason": "The vertical seated dimension beside the chair is printed as 400\u2013450; no unit is shown."
+            },
+            "outcome": "uncertain",
+            "reason": "Blind reading disagrees with candidate or unit",
+            "timestamp": "2026-11-13T11:03:58.503968+00:00",
+            "warning": "Same model as first pass; independent cropped prompt only.",
+            "before": {
+              "label": "Dining seating dimension",
+              "value": 400.0,
+              "value_max": 450.0,
+              "unit": "mm",
+              "context": "Figure 13, dimensions at the dining table; vertical seated dimension",
+              "status": "uncertain",
+              "ocr_raw": "DIMENSIONAL BASICS AND RELATIONSHIPS\nBody Measurements and Space Requirements\n\nDIMENSIONAL\nBASICS AND\nRELATIONSHIPS\n\nMan as measure\nand purpose\nThe universal\nstandard\nBody\nmeasurements\nand space\nrequirements\n\nGeometrical\nrelationships\nDimensions in\nbuilding\n\nl----750---\\\n\n0\n\nJ----875---j\n\ne\n\nf) Bending over\n\nf----875--l\n\n0 In movement\n\nJ----875------1\n\ne\n\n!-----700-----1\nSquatting\n\n1----1125----l\n\n(!) Outstretched arm (forwards) CD Outstretched arm (sideways)\n\n1----1250----1\n\nl--900-1000---\\\n\nf----875 ------1\n\nDimensions: at the dining table\n\nf---625-----j\n\n0 Sitting (from the side) e Kneeling\n\nSitting (from\nthe front)\n\n}---875---j\n\nStanding leaning forward,\nstanding\n\nm\n\nC!) Dimensions: at the desk\n\nt-875------1\n\nt------625-----j\n\nf) Sitting cross-legged\n\nCrawling\n\nf) Dimensions: in a small easy chair\n\nQ Dimensions: in an armchair\n\nGi) Sitting on a chair\n\ncg) Sitting on the floor\n\nJ---660---l\n\ni'\n'\n\n'\n~-1\nI\n\nI\n\n~\n\ne\n\nWorking while standing\n\n0) Kneeling\n\n1------1875------1\n\n1--1250-----i\n\nfli) Sitting on a mattress\n28\n\n~\n\nLeaning against sloping backrest\n\n~\n\nLying with raised back\n\n@) Lying\n\n\f"
+            }
+          }
+        },
+        {
+          "label": "Dining-table horizontal dimension",
+          "value": 875.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Figure 13, dimensions at the dining table; horizontal dimension",
+          "status": "uncertain",
+          "ocr_raw": "875",
+          "status_history": [
+            {
+              "status": "uncertain",
+              "value": 875.0,
+              "value_max": null,
+              "timestamp": "2026-11-13T11:04:05.340179+00:00"
+            }
+          ],
+          "original_value": 875.0,
+          "verification_pass2": {
+            "model": "gpt-6-luna",
+            "locator": "tiles",
+            "bbox": [
+              0.33746666666666664,
+              0.5647833333333333,
+              0.4501666666666666,
+              0.5735999999999999
+            ],
+            "crop_bbox": [
+              0.25682151431788136,
+              0.507787026333622,
+              0.5308118321652191,
+              0.6305962842306284
+            ],
+            "crop_path": "crops\\p041_4122fb96e4bd1976-41-vision-2_6.png",
+            "read_value": {
+              "printed": "875",
+              "unit": "",
+              "unreadable": false,
+              "reason": "The horizontal dimension at the dining table is explicitly printed as 875; no unit is shown."
+            },
+            "outcome": "uncertain",
+            "reason": "Blind reading disagrees with candidate or unit",
+            "timestamp": "2026-11-13T11:04:05.340179+00:00",
+            "warning": "Same model as first pass; independent cropped prompt only.",
+            "before": {
+              "label": "Dining-table horizontal dimension",
+              "value": 875.0,
+              "value_max": null,
+              "unit": "mm",
+              "context": "Figure 13, dimensions at the dining table; horizontal dimension",
+              "status": "uncertain",
+              "ocr_raw": "875"
+            }
+          }
+        },
+        {
+          "label": "Small easy-chair work-surface height",
+          "value": 700.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Figure 14, dimensions in a small easy chair; vertical work-surface dimension",
+          "status": "uncertain",
+          "ocr_raw": "700",
+          "status_history": [
+            {
+              "status": "uncertain",
+              "value": 700.0,
+              "value_max": null,
+              "timestamp": "2026-11-13T11:04:12.426609+00:00"
+            }
+          ],
+          "original_value": 700.0,
+          "verification_pass2": {
+            "model": "gpt-6-luna",
+            "locator": "tiles",
+            "bbox": [
+              0.5138,
+              0.5099666666666667,
+              0.5283666666666667,
+              0.5598
+            ],
+            "crop_bbox": [
+              0.4331548150758884,
+              0.4529703687866676,
+              0.6090118426864,
+              0.6167962632130135
+            ],
+            "crop_path": "crops\\p041_4122fb96e4bd1976-41-vision-2_7.png",
+            "read_value": {
+              "printed": "700",
+              "unit": "",
+              "unreadable": false,
+              "reason": "The vertical work-surface dimension is printed as 700; no unit is shown."
+            },
+            "outcome": "uncertain",
+            "reason": "Blind reading disagrees with candidate or unit",
+            "timestamp": "2026-11-13T11:04:12.426609+00:00",
+            "warning": "Same model as first pass; independent cropped prompt only.",
+            "before": {
+              "label": "Small easy-chair work-surface height",
+              "value": 700.0,
+              "value_max": null,
+              "unit": "mm",
+              "context": "Figure 14, dimensions in a small easy chair; vertical work-surface dimension",
+              "status": "uncertain",
+              "ocr_raw": "700"
+            }
+          }
+        },
+        {
+          "label": "Small easy-chair seated dimension",
+          "value": 375.0,
+          "value_max": 400.0,
+          "unit": "mm",
+          "context": "Figure 14, dimensions in a small easy chair; vertical seated dimension",
+          "status": "uncertain",
+          "ocr_raw": "DIMENSIONAL BASICS AND RELATIONSHIPS\nBody Measurements and Space Requirements\n\nDIMENSIONAL\nBASICS AND\nRELATIONSHIPS\n\nMan as measure\nand purpose\nThe universal\nstandard\nBody\nmeasurements\nand space\nrequirements\n\nGeometrical\nrelationships\nDimensions in\nbuilding\n\nl----750---\\\n\n0\n\nJ----875---j\n\ne\n\nf) Bending over\n\nf----875--l\n\n0 In movement\n\nJ----875------1\n\ne\n\n!-----700-----1\nSquatting\n\n1----1125----l\n\n(!) Outstretched arm (forwards) CD Outstretched arm (sideways)\n\n1----1250----1\n\nl--900-1000---\\\n\nf----875 ------1\n\nDimensions: at the dining table\n\nf---625-----j\n\n0 Sitting (from the side) e Kneeling\n\nSitting (from\nthe front)\n\n}---875---j\n\nStanding leaning forward,\nstanding\n\nm\n\nC!) Dimensions: at the desk\n\nt-875------1\n\nt------625-----j\n\nf) Sitting cross-legged\n\nCrawling\n\nf) Dimensions: in a small easy chair\n\nQ Dimensions: in an armchair\n\nGi) Sitting on a chair\n\ncg) Sitting on the floor\n\nJ---660---l\n\ni'\n'\n\n'\n~-1\nI\n\nI\n\n~\n\ne\n\nWorking while standing\n\n0) Kneeling\n\n1------1875------1\n\n1--1250-----i\n\nfli) Sitting on a mattress\n28\n\n~\n\nLeaning against sloping backrest\n\n~\n\nLying with raised back\n\n@) Lying\n\n\f",
+          "status_history": [
+            {
+              "status": "uncertain",
+              "value": 375.0,
+              "value_max": 400.0,
+              "timestamp": "2026-11-13T11:04:22.040579+00:00"
+            }
+          ],
+          "original_value": 375.0,
+          "verification_pass2": {
+            "model": "gpt-6-luna",
+            "locator": "tiles",
+            "bbox": [
+              0.6303333333333333,
+              0.5115,
+              0.6495,
+              0.5345
+            ],
+            "crop_bbox": [
+              0.5496881741413367,
+              0.4545037125080175,
+              0.7301451420497865,
+              0.5914963092343428
+            ],
+            "crop_path": "crops\\p041_4122fb96e4bd1976-41-vision-2_8.png",
+            "read_value": {
+              "printed": "375\u2013400",
+              "unit": "",
+              "unreadable": false,
+              "reason": "The vertical seated dimension is printed as 375\u2013400; no unit is visible."
+            },
+            "outcome": "uncertain",
+            "reason": "Blind reading disagrees with candidate or unit",
+            "timestamp": "2026-11-13T11:04:22.040579+00:00",
+            "warning": "Same model as first pass; independent cropped prompt only.",
+            "before": {
+              "label": "Small easy-chair seated dimension",
+              "value": 375.0,
+              "value_max": 400.0,
+              "unit": "mm",
+              "context": "Figure 14, dimensions in a small easy chair; vertical seated dimension",
+              "status": "uncertain",
+              "ocr_raw": "DIMENSIONAL BASICS AND RELATIONSHIPS\nBody Measurements and Space Requirements\n\nDIMENSIONAL\nBASICS AND\nRELATIONSHIPS\n\nMan as measure\nand purpose\nThe universal\nstandard\nBody\nmeasurements\nand space\nrequirements\n\nGeometrical\nrelationships\nDimensions in\nbuilding\n\nl----750---\\\n\n0\n\nJ----875---j\n\ne\n\nf) Bending over\n\nf----875--l\n\n0 In movement\n\nJ----875------1\n\ne\n\n!-----700-----1\nSquatting\n\n1----1125----l\n\n(!) Outstretched arm (forwards) CD Outstretched arm (sideways)\n\n1----1250----1\n\nl--900-1000---\\\n\nf----875 ------1\n\nDimensions: at the dining table\n\nf---625-----j\n\n0 Sitting (from the side) e Kneeling\n\nSitting (from\nthe front)\n\n}---875---j\n\nStanding leaning forward,\nstanding\n\nm\n\nC!) Dimensions: at the desk\n\nt-875------1\n\nt------625-----j\n\nf) Sitting cross-legged\n\nCrawling\n\nf) Dimensions: in a small easy chair\n\nQ Dimensions: in an armchair\n\nGi) Sitting on a chair\n\ncg) Sitting on the floor\n\nJ---660---l\n\ni'\n'\n\n'\n~-1\nI\n\nI\n\n~\n\ne\n\nWorking while standing\n\n0) Kneeling\n\n1------1875------1\n\n1--1250-----i\n\nfli) Sitting on a mattress\n28\n\n~\n\nLeaning against sloping backrest\n\n~\n\nLying with raised back\n\n@) Lying\n\n\f"
+            }
+          }
+        },
+        {
+          "label": "Small easy-chair horizontal dimension",
+          "value": 900.0,
+          "value_max": 1000.0,
+          "unit": "mm",
+          "context": "Figure 14, dimensions in a small easy chair; horizontal dimension",
+          "status": "uncertain",
+          "ocr_raw": "900-1000",
+          "status_history": [
+            {
+              "status": "uncertain",
+              "value": 900.0,
+              "value_max": 1000.0,
+              "timestamp": "2026-11-13T11:04:28.792182+00:00"
+            }
+          ],
+          "original_value": 900.0,
+          "verification_pass2": {
+            "model": "gpt-6-luna",
+            "locator": "tiles",
+            "bbox": [
+              0.5268333333333333,
+              0.5613333333333332,
+              0.6188333333333333,
+              0.569
+            ],
+            "crop_bbox": [
+              0.4461881587082205,
+              0.5043370573164854,
+              0.6994785144871842,
+              0.625996325541113
+            ],
+            "crop_path": "crops\\p041_4122fb96e4bd1976-41-vision-2_9.png",
+            "read_value": {
+              "printed": "900\u20131000",
+              "unit": "",
+              "unreadable": false,
+              "reason": "The horizontal dimension beneath the small easy chair is printed as 900\u20131000; no unit is shown."
+            },
+            "outcome": "uncertain",
+            "reason": "Blind reading disagrees with candidate or unit",
+            "timestamp": "2026-11-13T11:04:28.792182+00:00",
+            "warning": "Same model as first pass; independent cropped prompt only.",
+            "before": {
+              "label": "Small easy-chair horizontal dimension",
+              "value": 900.0,
+              "value_max": 1000.0,
+              "unit": "mm",
+              "context": "Figure 14, dimensions in a small easy chair; horizontal dimension",
+              "status": "uncertain",
+              "ocr_raw": "900-1000"
+            }
+          }
+        },
+        {
+          "label": "Armchair work-surface height",
+          "value": 625.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Figure 15, dimensions in an armchair; vertical work-surface dimension",
+          "status": "uncertain",
+          "ocr_raw": "625",
+          "status_history": [
+            {
+              "status": "uncertain",
+              "value": 625.0,
+              "value_max": null,
+              "timestamp": "2026-11-13T11:04:37.307230+00:00"
+            }
+          ],
+          "original_value": 625.0,
+          "verification_pass2": {
+            "model": "gpt-6-luna",
+            "locator": "tiles",
+            "bbox": [
+              0.699,
+              0.5115,
+              0.7204999999999999,
+              0.5651666666666666
+            ],
+            "crop_bbox": [
+              0.618354825699615,
+              0.4545037125080175,
+              0.8011451679938292,
+              0.6221629300004711
+            ],
+            "crop_path": "crops\\p041_4122fb96e4bd1976-41-vision-2_10.png",
+            "read_value": {
+              "printed": "625",
+              "unit": "",
+              "unreadable": false,
+              "reason": "The vertical work-surface dimension is printed as 625; its unit is not legible in the image."
+            },
+            "outcome": "uncertain",
+            "reason": "Blind reading disagrees with candidate or unit",
+            "timestamp": "2026-11-13T11:04:37.307230+00:00",
+            "warning": "Same model as first pass; independent cropped prompt only.",
+            "before": {
+              "label": "Armchair work-surface height",
+              "value": 625.0,
+              "value_max": null,
+              "unit": "mm",
+              "context": "Figure 15, dimensions in an armchair; vertical work-surface dimension",
+              "status": "uncertain",
+              "ocr_raw": "625"
+            }
+          }
+        },
+        {
+          "label": "Armchair seated dimension",
+          "value": 250.0,
+          "value_max": 350.0,
+          "unit": "mm",
+          "context": "Figure 15, dimensions in an armchair; vertical seated dimension",
+          "status": "uncertain",
+          "ocr_raw": "DIMENSIONAL BASICS AND RELATIONSHIPS\nBody Measurements and Space Requirements\n\nDIMENSIONAL\nBASICS AND\nRELATIONSHIPS\n\nMan as measure\nand purpose\nThe universal\nstandard\nBody\nmeasurements\nand space\nrequirements\n\nGeometrical\nrelationships\nDimensions in\nbuilding\n\nl----750---\\\n\n0\n\nJ----875---j\n\ne\n\nf) Bending over\n\nf----875--l\n\n0 In movement\n\nJ----875------1\n\ne\n\n!-----700-----1\nSquatting\n\n1----1125----l\n\n(!) Outstretched arm (forwards) CD Outstretched arm (sideways)\n\n1----1250----1\n\nl--900-1000---\\\n\nf----875 ------1\n\nDimensions: at the dining table\n\nf---625-----j\n\n0 Sitting (from the side) e Kneeling\n\nSitting (from\nthe front)\n\n}---875---j\n\nStanding leaning forward,\nstanding\n\nm\n\nC!) Dimensions: at the desk\n\nt-875------1\n\nt------625-----j\n\nf) Sitting cross-legged\n\nCrawling\n\nf) Dimensions: in a small easy chair\n\nQ Dimensions: in an armchair\n\nGi) Sitting on a chair\n\ncg) Sitting on the floor\n\nJ---660---l\n\ni'\n'\n\n'\n~-1\nI\n\nI\n\n~\n\ne\n\nWorking while standing\n\n0) Kneeling\n\n1------1875------1\n\n1--1250-----i\n\nfli) Sitting on a mattress\n28\n\n~\n\nLeaning against sloping backrest\n\n~\n\nLying with raised back\n\n@) Lying\n\n\f",
+          "status_history": [
+            {
+              "status": "uncertain",
+              "value": 250.0,
+              "value_max": 350.0,
+              "timestamp": "2026-11-13T11:04:45.573155+00:00"
+            }
+          ],
+          "original_value": 250.0,
+          "verification_pass2": {
+            "model": "gpt-6-luna",
+            "locator": "tiles",
+            "bbox": [
+              0.828,
+              0.1505,
+              0.8494999999999999,
+              0.2329166666666667
+            ],
+            "crop_bbox": [
+              0.7473548612829463,
+              0.09350370888429078,
+              0.9301452035771605,
+              0.28991295808435313
+            ],
+            "crop_path": "crops\\p041_4122fb96e4bd1976-41-vision-2_11.png",
+            "read_value": {
+              "printed": "",
+              "unit": "",
+              "unreadable": true,
+              "reason": "The visible figure is labeled \u201cSquatting,\u201d and no armchair seated dimension is shown."
+            },
+            "outcome": "uncertain",
+            "reason": "unreadable",
+            "timestamp": "2026-11-13T11:04:45.573155+00:00",
+            "warning": "Same model as first pass; independent cropped prompt only.",
+            "before": {
+              "label": "Armchair seated dimension",
+              "value": 250.0,
+              "value_max": 350.0,
+              "unit": "mm",
+              "context": "Figure 15, dimensions in an armchair; vertical seated dimension",
+              "status": "uncertain",
+              "ocr_raw": "DIMENSIONAL BASICS AND RELATIONSHIPS\nBody Measurements and Space Requirements\n\nDIMENSIONAL\nBASICS AND\nRELATIONSHIPS\n\nMan as measure\nand purpose\nThe universal\nstandard\nBody\nmeasurements\nand space\nrequirements\n\nGeometrical\nrelationships\nDimensions in\nbuilding\n\nl----750---\\\n\n0\n\nJ----875---j\n\ne\n\nf) Bending over\n\nf----875--l\n\n0 In movement\n\nJ----875------1\n\ne\n\n!-----700-----1\nSquatting\n\n1----1125----l\n\n(!) Outstretched arm (forwards) CD Outstretched arm (sideways)\n\n1----1250----1\n\nl--900-1000---\\\n\nf----875 ------1\n\nDimensions: at the dining table\n\nf---625-----j\n\n0 Sitting (from the side) e Kneeling\n\nSitting (from\nthe front)\n\n}---875---j\n\nStanding leaning forward,\nstanding\n\nm\n\nC!) Dimensions: at the desk\n\nt-875------1\n\nt------625-----j\n\nf) Sitting cross-legged\n\nCrawling\n\nf) Dimensions: in a small easy chair\n\nQ Dimensions: in an armchair\n\nGi) Sitting on a chair\n\ncg) Sitting on the floor\n\nJ---660---l\n\ni'\n'\n\n'\n~-1\nI\n\nI\n\n~\n\ne\n\nWorking while standing\n\n0) Kneeling\n\n1------1875------1\n\n1--1250-----i\n\nfli) Sitting on a mattress\n28\n\n~\n\nLeaning against sloping backrest\n\n~\n\nLying with raised back\n\n@) Lying\n\n\f"
+            }
+          }
+        },
+        {
+          "label": "Armchair horizontal dimension",
+          "value": 1250.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Figure 15, dimensions in an armchair; horizontal dimension",
+          "status": "uncertain",
+          "ocr_raw": "1250",
+          "status_history": [
+            {
+              "status": "uncertain",
+              "value": 1250.0,
+              "value_max": null,
+              "timestamp": "2026-11-13T11:04:53.405921+00:00"
+            }
+          ],
+          "original_value": 1250.0,
+          "verification_pass2": {
+            "model": "gpt-6-luna",
+            "locator": "tiles",
+            "bbox": [
+              0.70975,
+              0.2329166666666667,
+              0.8315833333333333,
+              0.24724999999999997
+            ],
+            "crop_bbox": [
+              0.6291048372103611,
+              0.17592037222920795,
+              0.9122285348168541,
+              0.3042462829623241
+            ],
+            "crop_path": "crops\\p041_4122fb96e4bd1976-41-vision-2_12.png",
+            "read_value": {
+              "printed": "500",
+              "unit": "",
+              "unreadable": false,
+              "reason": "The horizontal dimension is explicitly labeled 500."
+            },
+            "outcome": "uncertain",
+            "reason": "Blind reading disagrees with candidate or unit",
+            "timestamp": "2026-11-13T11:04:53.405921+00:00",
+            "warning": "Same model as first pass; independent cropped prompt only.",
+            "before": {
+              "label": "Armchair horizontal dimension",
+              "value": 1250.0,
+              "value_max": null,
+              "unit": "mm",
+              "context": "Figure 15, dimensions in an armchair; horizontal dimension",
+              "status": "uncertain",
+              "ocr_raw": "1250"
+            }
+          }
+        },
+        {
+          "label": "Standing-work clearance width",
+          "value": 660.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Figure 16, working while standing; horizontal dimension",
+          "status": "uncertain",
+          "ocr_raw": "660",
+          "status_history": [
+            {
+              "status": "uncertain",
+              "value": 660.0,
+              "value_max": null,
+              "timestamp": "2026-11-13T11:05:01.137910+00:00"
+            }
+          ],
+          "original_value": 660.0,
+          "verification_pass2": {
+            "model": "gpt-6-luna",
+            "locator": "tiles",
+            "bbox": [
+              0.16949166666666665,
+              0.6012,
+              0.218225,
+              0.6107833333333333
+            ],
+            "crop_bbox": [
+              0.08884650863429021,
+              0.5442037041734461,
+              0.2988701677041378,
+              0.6677796339311275
+            ],
+            "crop_path": "crops\\p041_4122fb96e4bd1976-41-vision-2_13.png",
+            "read_value": {
+              "printed": "660",
+              "unit": "",
+              "unreadable": false,
+              "reason": "The horizontal dimension shown for the standing figure is 660."
+            },
+            "outcome": "uncertain",
+            "reason": "Blind reading disagrees with candidate or unit",
+            "timestamp": "2026-11-13T11:05:01.137910+00:00",
+            "warning": "Same model as first pass; independent cropped prompt only.",
+            "before": {
+              "label": "Standing-work clearance width",
+              "value": 660.0,
+              "value_max": null,
+              "unit": "mm",
+              "context": "Figure 16, working while standing; horizontal dimension",
+              "status": "uncertain",
+              "ocr_raw": "660"
+            }
+          }
+        },
+        {
+          "label": "Standing-work vertical dimension",
+          "value": 1500.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Figure 16, working while standing; vertical dimension",
+          "status": "uncertain",
+          "ocr_raw": "DIMENSIONAL BASICS AND RELATIONSHIPS\nBody Measurements and Space Requirements\n\nDIMENSIONAL\nBASICS AND\nRELATIONSHIPS\n\nMan as measure\nand purpose\nThe universal\nstandard\nBody\nmeasurements\nand space\nrequirements\n\nGeometrical\nrelationships\nDimensions in\nbuilding\n\nl----750---\\\n\n0\n\nJ----875---j\n\ne\n\nf) Bending over\n\nf----875--l\n\n0 In movement\n\nJ----875------1\n\ne\n\n!-----700-----1\nSquatting\n\n1----1125----l\n\n(!) Outstretched arm (forwards) CD Outstretched arm (sideways)\n\n1----1250----1\n\nl--900-1000---\\\n\nf----875 ------1\n\nDimensions: at the dining table\n\nf---625-----j\n\n0 Sitting (from the side) e Kneeling\n\nSitting (from\nthe front)\n\n}---875---j\n\nStanding leaning forward,\nstanding\n\nm\n\nC!) Dimensions: at the desk\n\nt-875------1\n\nt------625-----j\n\nf) Sitting cross-legged\n\nCrawling\n\nf) Dimensions: in a small easy chair\n\nQ Dimensions: in an armchair\n\nGi) Sitting on a chair\n\ncg) Sitting on the floor\n\nJ---660---l\n\ni'\n'\n\n'\n~-1\nI\n\nI\n\n~\n\ne\n\nWorking while standing\n\n0) Kneeling\n\n1------1875------1\n\n1--1250-----i\n\nfli) Sitting on a mattress\n28\n\n~\n\nLeaning against sloping backrest\n\n~\n\nLying with raised back\n\n@) Lying\n\n\f",
+          "status_history": [
+            {
+              "status": "uncertain",
+              "value": 1500.0,
+              "value_max": null,
+              "timestamp": "2026-11-13T11:05:11.172836+00:00"
+            }
+          ],
+          "original_value": 1500.0,
+          "verification_pass2": {
+            "model": "gpt-6-luna",
+            "locator": "tiles",
+            "bbox": [
+              0.2329166666666667,
+              0.6524166666666666,
+              0.2436666666666667,
+              0.7384166666666666
+            ],
+            "crop_bbox": [
+              0.15227150861121744,
+              0.5954203704173446,
+              0.32431181375827967,
+              0.7954129417775829
+            ],
+            "crop_path": "crops\\p041_4122fb96e4bd1976-41-vision-2_14.png",
+            "read_value": {
+              "printed": "1930",
+              "unit": "",
+              "unreadable": false,
+              "reason": "The vertical dimension beside the standing figure is printed as 1930; no unit is shown."
+            },
+            "outcome": "uncertain",
+            "reason": "Blind reading disagrees with candidate or unit",
+            "timestamp": "2026-11-13T11:05:11.172836+00:00",
+            "warning": "Same model as first pass; independent cropped prompt only.",
+            "before": {
+              "label": "Standing-work vertical dimension",
+              "value": 1500.0,
+              "value_max": null,
+              "unit": "mm",
+              "context": "Figure 16, working while standing; vertical dimension",
+              "status": "uncertain",
+              "ocr_raw": "DIMENSIONAL BASICS AND RELATIONSHIPS\nBody Measurements and Space Requirements\n\nDIMENSIONAL\nBASICS AND\nRELATIONSHIPS\n\nMan as measure\nand purpose\nThe universal\nstandard\nBody\nmeasurements\nand space\nrequirements\n\nGeometrical\nrelationships\nDimensions in\nbuilding\n\nl----750---\\\n\n0\n\nJ----875---j\n\ne\n\nf) Bending over\n\nf----875--l\n\n0 In movement\n\nJ----875------1\n\ne\n\n!-----700-----1\nSquatting\n\n1----1125----l\n\n(!) Outstretched arm (forwards) CD Outstretched arm (sideways)\n\n1----1250----1\n\nl--900-1000---\\\n\nf----875 ------1\n\nDimensions: at the dining table\n\nf---625-----j\n\n0 Sitting (from the side) e Kneeling\n\nSitting (from\nthe front)\n\n}---875---j\n\nStanding leaning forward,\nstanding\n\nm\n\nC!) Dimensions: at the desk\n\nt-875------1\n\nt------625-----j\n\nf) Sitting cross-legged\n\nCrawling\n\nf) Dimensions: in a small easy chair\n\nQ Dimensions: in an armchair\n\nGi) Sitting on a chair\n\ncg) Sitting on the floor\n\nJ---660---l\n\ni'\n'\n\n'\n~-1\nI\n\nI\n\n~\n\ne\n\nWorking while standing\n\n0) Kneeling\n\n1------1875------1\n\n1--1250-----i\n\nfli) Sitting on a mattress\n28\n\n~\n\nLeaning against sloping backrest\n\n~\n\nLying with raised back\n\n@) Lying\n\n\f"
+            }
+          }
+        },
+        {
+          "label": "Standing-work vertical dimension",
+          "value": 900.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Figure 16, working while standing; vertical dimension",
+          "status": "uncertain",
+          "ocr_raw": "900",
+          "status_history": [
+            {
+              "status": "uncertain",
+              "value": 900.0,
+              "value_max": null,
+              "timestamp": "2026-11-13T11:05:19.368731+00:00"
+            }
+          ],
+          "original_value": 900.0,
+          "verification_pass2": {
+            "model": "gpt-6-luna",
+            "locator": "tiles",
+            "bbox": [
+              0.23184166666666667,
+              0.6567166666666666,
+              0.24223333333333336,
+              0.7351916666666667
+            ],
+            "crop_bbox": [
+              0.1511965100237834,
+              0.5997203570095557,
+              0.32287848230836763,
+              0.7921879699520581
+            ],
+            "crop_path": "crops\\p041_4122fb96e4bd1976-41-vision-2_15.png",
+            "read_value": {
+              "printed": "1930",
+              "unit": "",
+              "unreadable": false,
+              "reason": "The vertical dimension beside the standing worker is labeled 1930."
+            },
+            "outcome": "uncertain",
+            "reason": "Blind reading disagrees with candidate or unit",
+            "timestamp": "2026-11-13T11:05:19.368731+00:00",
+            "warning": "Same model as first pass; independent cropped prompt only.",
+            "before": {
+              "label": "Standing-work vertical dimension",
+              "value": 900.0,
+              "value_max": null,
+              "unit": "mm",
+              "context": "Figure 16, working while standing; vertical dimension",
+              "status": "uncertain",
+              "ocr_raw": "900"
+            }
+          }
+        },
+        {
+          "label": "Standing person height",
+          "value": 1930.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Figure 16, working while standing; overall vertical dimension",
+          "status": "uncertain",
+          "ocr_raw": "DIMENSIONAL BASICS AND RELATIONSHIPS\nBody Measurements and Space Requirements\n\nDIMENSIONAL\nBASICS AND\nRELATIONSHIPS\n\nMan as measure\nand purpose\nThe universal\nstandard\nBody\nmeasurements\nand space\nrequirements\n\nGeometrical\nrelationships\nDimensions in\nbuilding\n\nl----750---\\\n\n0\n\nJ----875---j\n\ne\n\nf) Bending over\n\nf----875--l\n\n0 In movement\n\nJ----875------1\n\ne\n\n!-----700-----1\nSquatting\n\n1----1125----l\n\n(!) Outstretched arm (forwards) CD Outstretched arm (sideways)\n\n1----1250----1\n\nl--900-1000---\\\n\nf----875 ------1\n\nDimensions: at the dining table\n\nf---625-----j\n\n0 Sitting (from the side) e Kneeling\n\nSitting (from\nthe front)\n\n}---875---j\n\nStanding leaning forward,\nstanding\n\nm\n\nC!) Dimensions: at the desk\n\nt-875------1\n\nt------625-----j\n\nf) Sitting cross-legged\n\nCrawling\n\nf) Dimensions: in a small easy chair\n\nQ Dimensions: in an armchair\n\nGi) Sitting on a chair\n\ncg) Sitting on the floor\n\nJ---660---l\n\ni'\n'\n\n'\n~-1\nI\n\nI\n\n~\n\ne\n\nWorking while standing\n\n0) Kneeling\n\n1------1875------1\n\n1--1250-----i\n\nfli) Sitting on a mattress\n28\n\n~\n\nLeaning against sloping backrest\n\n~\n\nLying with raised back\n\n@) Lying\n\n\f",
+          "status_history": [
+            {
+              "status": "uncertain",
+              "value": 1930.0,
+              "value_max": null,
+              "timestamp": "2026-11-13T11:05:27.667916+00:00"
+            }
+          ],
+          "original_value": 1930.0,
+          "verification_pass2": {
+            "model": "gpt-6-luna",
+            "locator": "tiles",
+            "bbox": [
+              0.231125,
+              0.6416666666666666,
+              0.2436666666666667,
+              0.7599166666666666
+            ],
+            "crop_bbox": [
+              0.15047984429882738,
+              0.5846703676995496,
+              0.32431181375827967,
+              0.816912947213173
+            ],
+            "crop_path": "crops\\p041_4122fb96e4bd1976-41-vision-2_16.png",
+            "read_value": {
+              "printed": "1930",
+              "unit": "",
+              "unreadable": false,
+              "reason": "The overall vertical dimension beside the standing person is labeled 1930."
+            },
+            "outcome": "uncertain",
+            "reason": "Blind reading disagrees with candidate or unit",
+            "timestamp": "2026-11-13T11:05:27.667916+00:00",
+            "warning": "Same model as first pass; independent cropped prompt only.",
+            "before": {
+              "label": "Standing person height",
+              "value": 1930.0,
+              "value_max": null,
+              "unit": "mm",
+              "context": "Figure 16, working while standing; overall vertical dimension",
+              "status": "uncertain",
+              "ocr_raw": "DIMENSIONAL BASICS AND RELATIONSHIPS\nBody Measurements and Space Requirements\n\nDIMENSIONAL\nBASICS AND\nRELATIONSHIPS\n\nMan as measure\nand purpose\nThe universal\nstandard\nBody\nmeasurements\nand space\nrequirements\n\nGeometrical\nrelationships\nDimensions in\nbuilding\n\nl----750---\\\n\n0\n\nJ----875---j\n\ne\n\nf) Bending over\n\nf----875--l\n\n0 In movement\n\nJ----875------1\n\ne\n\n!-----700-----1\nSquatting\n\n1----1125----l\n\n(!) Outstretched arm (forwards) CD Outstretched arm (sideways)\n\n1----1250----1\n\nl--900-1000---\\\n\nf----875 ------1\n\nDimensions: at the dining table\n\nf---625-----j\n\n0 Sitting (from the side) e Kneeling\n\nSitting (from\nthe front)\n\n}---875---j\n\nStanding leaning forward,\nstanding\n\nm\n\nC!) Dimensions: at the desk\n\nt-875------1\n\nt------625-----j\n\nf) Sitting cross-legged\n\nCrawling\n\nf) Dimensions: in a small easy chair\n\nQ Dimensions: in an armchair\n\nGi) Sitting on a chair\n\ncg) Sitting on the floor\n\nJ---660---l\n\ni'\n'\n\n'\n~-1\nI\n\nI\n\n~\n\ne\n\nWorking while standing\n\n0) Kneeling\n\n1------1875------1\n\n1--1250-----i\n\nfli) Sitting on a mattress\n28\n\n~\n\nLeaning against sloping backrest\n\n~\n\nLying with raised back\n\n@) Lying\n\n\f"
+            }
+          }
+        },
+        {
+          "label": "Kneeling-work overall width",
+          "value": 710.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Figure 17, kneeling; horizontal dimension",
+          "status": "uncertain",
+          "ocr_raw": "DIMENSIONAL BASICS AND RELATIONSHIPS\nBody Measurements and Space Requirements\n\nDIMENSIONAL\nBASICS AND\nRELATIONSHIPS\n\nMan as measure\nand purpose\nThe universal\nstandard\nBody\nmeasurements\nand space\nrequirements\n\nGeometrical\nrelationships\nDimensions in\nbuilding\n\nl----750---\\\n\n0\n\nJ----875---j\n\ne\n\nf) Bending over\n\nf----875--l\n\n0 In movement\n\nJ----875------1\n\ne\n\n!-----700-----1\nSquatting\n\n1----1125----l\n\n(!) Outstretched arm (forwards) CD Outstretched arm (sideways)\n\n1----1250----1\n\nl--900-1000---\\\n\nf----875 ------1\n\nDimensions: at the dining table\n\nf---625-----j\n\n0 Sitting (from the side) e Kneeling\n\nSitting (from\nthe front)\n\n}---875---j\n\nStanding leaning forward,\nstanding\n\nm\n\nC!) Dimensions: at the desk\n\nt-875------1\n\nt------625-----j\n\nf) Sitting cross-legged\n\nCrawling\n\nf) Dimensions: in a small easy chair\n\nQ Dimensions: in an armchair\n\nGi) Sitting on a chair\n\ncg) Sitting on the floor\n\nJ---660---l\n\ni'\n'\n\n'\n~-1\nI\n\nI\n\n~\n\ne\n\nWorking while standing\n\n0) Kneeling\n\n1------1875------1\n\n1--1250-----i\n\nfli) Sitting on a mattress\n28\n\n~\n\nLeaning against sloping backrest\n\n~\n\nLying with raised back\n\n@) Lying\n\n\f",
+          "status_history": [
+            {
+              "status": "uncertain",
+              "value": 710.0,
+              "value_max": null,
+              "timestamp": "2026-11-13T11:05:39.771076+00:00"
+            }
+          ],
+          "original_value": 710.0,
+          "verification_pass2": {
+            "model": "gpt-6-luna",
+            "locator": "tiles",
+            "bbox": [
+              0.362,
+              0.6226666666666667,
+              0.46166666666666667,
+              0.6418333333333333
+            ],
+            "crop_bbox": [
+              0.2813548368770879,
+              0.5656703713232762,
+              0.5423118110920935,
+              0.6988296087462268
+            ],
+            "crop_path": "crops\\p041_4122fb96e4bd1976-41-vision-2_17.png",
+            "read_value": {
+              "printed": "710",
+              "unit": "",
+              "unreadable": false,
+              "reason": "The horizontal overall dimension above the kneeling-work figure is printed as 710."
+            },
+            "outcome": "uncertain",
+            "reason": "Blind reading disagrees with candidate or unit",
+            "timestamp": "2026-11-13T11:05:39.771076+00:00",
+            "warning": "Same model as first pass; independent cropped prompt only.",
+            "before": {
+              "label": "Kneeling-work overall width",
+              "value": 710.0,
+              "value_max": null,
+              "unit": "mm",
+              "context": "Figure 17, kneeling; horizontal dimension",
+              "status": "uncertain",
+              "ocr_raw": "DIMENSIONAL BASICS AND RELATIONSHIPS\nBody Measurements and Space Requirements\n\nDIMENSIONAL\nBASICS AND\nRELATIONSHIPS\n\nMan as measure\nand purpose\nThe universal\nstandard\nBody\nmeasurements\nand space\nrequirements\n\nGeometrical\nrelationships\nDimensions in\nbuilding\n\nl----750---\\\n\n0\n\nJ----875---j\n\ne\n\nf) Bending over\n\nf----875--l\n\n0 In movement\n\nJ----875------1\n\ne\n\n!-----700-----1\nSquatting\n\n1----1125----l\n\n(!) Outstretched arm (forwards) CD Outstretched arm (sideways)\n\n1----1250----1\n\nl--900-1000---\\\n\nf----875 ------1\n\nDimensions: at the dining table\n\nf---625-----j\n\n0 Sitting (from the side) e Kneeling\n\nSitting (from\nthe front)\n\n}---875---j\n\nStanding leaning forward,\nstanding\n\nm\n\nC!) Dimensions: at the desk\n\nt-875------1\n\nt------625-----j\n\nf) Sitting cross-legged\n\nCrawling\n\nf) Dimensions: in a small easy chair\n\nQ Dimensions: in an armchair\n\nGi) Sitting on a chair\n\ncg) Sitting on the floor\n\nJ---660---l\n\ni'\n'\n\n'\n~-1\nI\n\nI\n\n~\n\ne\n\nWorking while standing\n\n0) Kneeling\n\n1------1875------1\n\n1--1250-----i\n\nfli) Sitting on a mattress\n28\n\n~\n\nLeaning against sloping backrest\n\n~\n\nLying with raised back\n\n@) Lying\n\n\f"
+            }
+          }
+        },
+        {
+          "label": "Kneeling-work reach",
+          "value": 460.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Figure 17, kneeling; horizontal reach dimension",
+          "status": "verified",
+          "ocr_raw": "DIMENSIONAL BASICS AND RELATIONSHIPS\nBody Measurements and Space Requirements\n\nDIMENSIONAL\nBASICS AND\nRELATIONSHIPS\n\nMan as measure\nand purpose\nThe universal\nstandard\nBody\nmeasurements\nand space\nrequirements\n\nGeometrical\nrelationships\nDimensions in\nbuilding\n\nl----750---\\\n\n0\n\nJ----875---j\n\ne\n\nf) Bending over\n\nf----875--l\n\n0 In movement\n\nJ----875------1\n\ne\n\n!-----700-----1\nSquatting\n\n1----1125----l\n\n(!) Outstretched arm (forwards) CD Outstretched arm (sideways)\n\n1----1250----1\n\nl--900-1000---\\\n\nf----875 ------1\n\nDimensions: at the dining table\n\nf---625-----j\n\n0 Sitting (from the side) e Kneeling\n\nSitting (from\nthe front)\n\n}---875---j\n\nStanding leaning forward,\nstanding\n\nm\n\nC!) Dimensions: at the desk\n\nt-875------1\n\nt------625-----j\n\nf) Sitting cross-legged\n\nCrawling\n\nf) Dimensions: in a small easy chair\n\nQ Dimensions: in an armchair\n\nGi) Sitting on a chair\n\ncg) Sitting on the floor\n\nJ---660---l\n\ni'\n'\n\n'\n~-1\nI\n\nI\n\n~\n\ne\n\nWorking while standing\n\n0) Kneeling\n\n1------1875------1\n\n1--1250-----i\n\nfli) Sitting on a mattress\n28\n\n~\n\nLeaning against sloping backrest\n\n~\n\nLying with raised back\n\n@) Lying\n\n\f",
+          "status_history": [
+            {
+              "status": "uncertain",
+              "value": 460.0,
+              "value_max": null,
+              "timestamp": "2026-11-13T11:05:48.335485+00:00"
+            }
+          ],
+          "original_value": 460.0,
+          "verification_pass2": {
+            "model": "gpt-6-luna",
+            "locator": "tiles",
+            "bbox": [
+              0.362,
+              0.66675,
+              0.41566666666666663,
+              0.6846666666666666
+            ],
+            "crop_bbox": [
+              0.2813548368770879,
+              0.6097536952953156,
+              0.49631184411178414,
+              0.7416629281886077
+            ],
+            "crop_path": "crops\\p041_4122fb96e4bd1976-41-vision-2_18.png",
+            "read_value": {
+              "printed": "460",
+              "unit": "mm",
+              "unreadable": false,
+              "reason": "The horizontal reach dimension for the kneeling figure is printed as 460."
+            },
+            "outcome": "verified",
+            "reason": "Blind reading agrees with current value",
+            "timestamp": "2026-11-13T11:05:48.335485+00:00",
+            "warning": "Same model as first pass; independent cropped prompt only.",
+            "before": {
+              "label": "Kneeling-work reach",
+              "value": 460.0,
+              "value_max": null,
+              "unit": "mm",
+              "context": "Figure 17, kneeling; horizontal reach dimension",
+              "status": "uncertain",
+              "ocr_raw": "DIMENSIONAL BASICS AND RELATIONSHIPS\nBody Measurements and Space Requirements\n\nDIMENSIONAL\nBASICS AND\nRELATIONSHIPS\n\nMan as measure\nand purpose\nThe universal\nstandard\nBody\nmeasurements\nand space\nrequirements\n\nGeometrical\nrelationships\nDimensions in\nbuilding\n\nl----750---\\\n\n0\n\nJ----875---j\n\ne\n\nf) Bending over\n\nf----875--l\n\n0 In movement\n\nJ----875------1\n\ne\n\n!-----700-----1\nSquatting\n\n1----1125----l\n\n(!) Outstretched arm (forwards) CD Outstretched arm (sideways)\n\n1----1250----1\n\nl--900-1000---\\\n\nf----875 ------1\n\nDimensions: at the dining table\n\nf---625-----j\n\n0 Sitting (from the side) e Kneeling\n\nSitting (from\nthe front)\n\n}---875---j\n\nStanding leaning forward,\nstanding\n\nm\n\nC!) Dimensions: at the desk\n\nt-875------1\n\nt------625-----j\n\nf) Sitting cross-legged\n\nCrawling\n\nf) Dimensions: in a small easy chair\n\nQ Dimensions: in an armchair\n\nGi) Sitting on a chair\n\ncg) Sitting on the floor\n\nJ---660---l\n\ni'\n'\n\n'\n~-1\nI\n\nI\n\n~\n\ne\n\nWorking while standing\n\n0) Kneeling\n\n1------1875------1\n\n1--1250-----i\n\nfli) Sitting on a mattress\n28\n\n~\n\nLeaning against sloping backrest\n\n~\n\nLying with raised back\n\n@) Lying\n\n\f"
+            }
+          },
+          "verification_level": "two_pass"
+        },
+        {
+          "label": "Kneeling-work vertical dimension",
+          "value": 1220.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Figure 17, kneeling; vertical work-area dimension",
+          "status": "uncertain",
+          "ocr_raw": "DIMENSIONAL BASICS AND RELATIONSHIPS\nBody Measurements and Space Requirements\n\nDIMENSIONAL\nBASICS AND\nRELATIONSHIPS\n\nMan as measure\nand purpose\nThe universal\nstandard\nBody\nmeasurements\nand space\nrequirements\n\nGeometrical\nrelationships\nDimensions in\nbuilding\n\nl----750---\\\n\n0\n\nJ----875---j\n\ne\n\nf) Bending over\n\nf----875--l\n\n0 In movement\n\nJ----875------1\n\ne\n\n!-----700-----1\nSquatting\n\n1----1125----l\n\n(!) Outstretched arm (forwards) CD Outstretched arm (sideways)\n\n1----1250----1\n\nl--900-1000---\\\n\nf----875 ------1\n\nDimensions: at the dining table\n\nf---625-----j\n\n0 Sitting (from the side) e Kneeling\n\nSitting (from\nthe front)\n\n}---875---j\n\nStanding leaning forward,\nstanding\n\nm\n\nC!) Dimensions: at the desk\n\nt-875------1\n\nt------625-----j\n\nf) Sitting cross-legged\n\nCrawling\n\nf) Dimensions: in a small easy chair\n\nQ Dimensions: in an armchair\n\nGi) Sitting on a chair\n\ncg) Sitting on the floor\n\nJ---660---l\n\ni'\n'\n\n'\n~-1\nI\n\nI\n\n~\n\ne\n\nWorking while standing\n\n0) Kneeling\n\n1------1875------1\n\n1--1250-----i\n\nfli) Sitting on a mattress\n28\n\n~\n\nLeaning against sloping backrest\n\n~\n\nLying with raised back\n\n@) Lying\n\n\f",
+          "status_history": [
+            {
+              "status": "uncertain",
+              "value": 1220.0,
+              "value_max": null,
+              "timestamp": "2026-11-13T11:05:57.099509+00:00"
+            }
+          ],
+          "original_value": 1220.0,
+          "verification_pass2": {
+            "model": "gpt-6-luna",
+            "locator": "tiles",
+            "bbox": [
+              0.46549999999999997,
+              0.66675,
+              0.48083333333333333,
+              0.7384166666666666
+            ],
+            "crop_bbox": [
+              0.3848548523102042,
+              0.6097536952953156,
+              0.5614785110006331,
+              0.7954129417775829
+            ],
+            "crop_path": "crops\\p041_4122fb96e4bd1976-41-vision-2_19.png",
+            "read_value": {
+              "printed": "1420",
+              "unit": "",
+              "unreadable": false,
+              "reason": "The vertical dimension beside the kneeling figure is printed as 1420."
+            },
+            "outcome": "uncertain",
+            "reason": "Blind reading disagrees with candidate or unit",
+            "timestamp": "2026-11-13T11:05:57.099509+00:00",
+            "warning": "Same model as first pass; independent cropped prompt only.",
+            "before": {
+              "label": "Kneeling-work vertical dimension",
+              "value": 1220.0,
+              "value_max": null,
+              "unit": "mm",
+              "context": "Figure 17, kneeling; vertical work-area dimension",
+              "status": "uncertain",
+              "ocr_raw": "DIMENSIONAL BASICS AND RELATIONSHIPS\nBody Measurements and Space Requirements\n\nDIMENSIONAL\nBASICS AND\nRELATIONSHIPS\n\nMan as measure\nand purpose\nThe universal\nstandard\nBody\nmeasurements\nand space\nrequirements\n\nGeometrical\nrelationships\nDimensions in\nbuilding\n\nl----750---\\\n\n0\n\nJ----875---j\n\ne\n\nf) Bending over\n\nf----875--l\n\n0 In movement\n\nJ----875------1\n\ne\n\n!-----700-----1\nSquatting\n\n1----1125----l\n\n(!) Outstretched arm (forwards) CD Outstretched arm (sideways)\n\n1----1250----1\n\nl--900-1000---\\\n\nf----875 ------1\n\nDimensions: at the dining table\n\nf---625-----j\n\n0 Sitting (from the side) e Kneeling\n\nSitting (from\nthe front)\n\n}---875---j\n\nStanding leaning forward,\nstanding\n\nm\n\nC!) Dimensions: at the desk\n\nt-875------1\n\nt------625-----j\n\nf) Sitting cross-legged\n\nCrawling\n\nf) Dimensions: in a small easy chair\n\nQ Dimensions: in an armchair\n\nGi) Sitting on a chair\n\ncg) Sitting on the floor\n\nJ---660---l\n\ni'\n'\n\n'\n~-1\nI\n\nI\n\n~\n\ne\n\nWorking while standing\n\n0) Kneeling\n\n1------1875------1\n\n1--1250-----i\n\nfli) Sitting on a mattress\n28\n\n~\n\nLeaning against sloping backrest\n\n~\n\nLying with raised back\n\n@) Lying\n\n\f"
+            }
+          }
+        },
+        {
+          "label": "Kneeling-work vertical dimension",
+          "value": 600.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Figure 17, kneeling; vertical dimension",
+          "status": "uncertain",
+          "ocr_raw": "DIMENSIONAL BASICS AND RELATIONSHIPS\nBody Measurements and Space Requirements\n\nDIMENSIONAL\nBASICS AND\nRELATIONSHIPS\n\nMan as measure\nand purpose\nThe universal\nstandard\nBody\nmeasurements\nand space\nrequirements\n\nGeometrical\nrelationships\nDimensions in\nbuilding\n\nl----750---\\\n\n0\n\nJ----875---j\n\ne\n\nf) Bending over\n\nf----875--l\n\n0 In movement\n\nJ----875------1\n\ne\n\n!-----700-----1\nSquatting\n\n1----1125----l\n\n(!) Outstretched arm (forwards) CD Outstretched arm (sideways)\n\n1----1250----1\n\nl--900-1000---\\\n\nf----875 ------1\n\nDimensions: at the dining table\n\nf---625-----j\n\n0 Sitting (from the side) e Kneeling\n\nSitting (from\nthe front)\n\n}---875---j\n\nStanding leaning forward,\nstanding\n\nm\n\nC!) Dimensions: at the desk\n\nt-875------1\n\nt------625-----j\n\nf) Sitting cross-legged\n\nCrawling\n\nf) Dimensions: in a small easy chair\n\nQ Dimensions: in an armchair\n\nGi) Sitting on a chair\n\ncg) Sitting on the floor\n\nJ---660---l\n\ni'\n'\n\n'\n~-1\nI\n\nI\n\n~\n\ne\n\nWorking while standing\n\n0) Kneeling\n\n1------1875------1\n\n1--1250-----i\n\nfli) Sitting on a mattress\n28\n\n~\n\nLeaning against sloping backrest\n\n~\n\nLying with raised back\n\n@) Lying\n\n\f",
+          "status_history": [
+            {
+              "status": "uncertain",
+              "value": 600.0,
+              "value_max": null,
+              "timestamp": "2026-11-13T11:06:06.468800+00:00"
+            }
+          ],
+          "original_value": 600.0,
+          "verification_pass2": {
+            "model": "gpt-6-luna",
+            "locator": "tiles",
+            "bbox": [
+              0.46434999999999993,
+              0.6760666666666666,
+              0.47891666666666666,
+              0.7430749999999999
+            ],
+            "crop_bbox": [
+              0.38370482878111095,
+              0.6190703691490402,
+              0.5595618307552167,
+              0.8000713149417124
+            ],
+            "crop_path": "crops\\p041_4122fb96e4bd1976-41-vision-2_20.png",
+            "read_value": {
+              "printed": "1420",
+              "unit": "",
+              "unreadable": false,
+              "reason": "The vertical dimension beside the kneeling figure is printed as 1420; no unit is shown."
+            },
+            "outcome": "uncertain",
+            "reason": "Blind reading disagrees with candidate or unit",
+            "timestamp": "2026-11-13T11:06:06.468800+00:00",
+            "warning": "Same model as first pass; independent cropped prompt only.",
+            "before": {
+              "label": "Kneeling-work vertical dimension",
+              "value": 600.0,
+              "value_max": null,
+              "unit": "mm",
+              "context": "Figure 17, kneeling; vertical dimension",
+              "status": "uncertain",
+              "ocr_raw": "DIMENSIONAL BASICS AND RELATIONSHIPS\nBody Measurements and Space Requirements\n\nDIMENSIONAL\nBASICS AND\nRELATIONSHIPS\n\nMan as measure\nand purpose\nThe universal\nstandard\nBody\nmeasurements\nand space\nrequirements\n\nGeometrical\nrelationships\nDimensions in\nbuilding\n\nl----750---\\\n\n0\n\nJ----875---j\n\ne\n\nf) Bending over\n\nf----875--l\n\n0 In movement\n\nJ----875------1\n\ne\n\n!-----700-----1\nSquatting\n\n1----1125----l\n\n(!) Outstretched arm (forwards) CD Outstretched arm (sideways)\n\n1----1250----1\n\nl--900-1000---\\\n\nf----875 ------1\n\nDimensions: at the dining table\n\nf---625-----j\n\n0 Sitting (from the side) e Kneeling\n\nSitting (from\nthe front)\n\n}---875---j\n\nStanding leaning forward,\nstanding\n\nm\n\nC!) Dimensions: at the desk\n\nt-875------1\n\nt------625-----j\n\nf) Sitting cross-legged\n\nCrawling\n\nf) Dimensions: in a small easy chair\n\nQ Dimensions: in an armchair\n\nGi) Sitting on a chair\n\ncg) Sitting on the floor\n\nJ---660---l\n\ni'\n'\n\n'\n~-1\nI\n\nI\n\n~\n\ne\n\nWorking while standing\n\n0) Kneeling\n\n1------1875------1\n\n1--1250-----i\n\nfli) Sitting on a mattress\n28\n\n~\n\nLeaning against sloping backrest\n\n~\n\nLying with raised back\n\n@) Lying\n\n\f"
+            }
+          }
+        },
+        {
+          "label": "Kneeling person height",
+          "value": 1420.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Figure 17, kneeling; overall vertical dimension",
+          "status": "uncertain",
+          "ocr_raw": "DIMENSIONAL BASICS AND RELATIONSHIPS\nBody Measurements and Space Requirements\n\nDIMENSIONAL\nBASICS AND\nRELATIONSHIPS\n\nMan as measure\nand purpose\nThe universal\nstandard\nBody\nmeasurements\nand space\nrequirements\n\nGeometrical\nrelationships\nDimensions in\nbuilding\n\nl----750---\\\n\n0\n\nJ----875---j\n\ne\n\nf) Bending over\n\nf----875--l\n\n0 In movement\n\nJ----875------1\n\ne\n\n!-----700-----1\nSquatting\n\n1----1125----l\n\n(!) Outstretched arm (forwards) CD Outstretched arm (sideways)\n\n1----1250----1\n\nl--900-1000---\\\n\nf----875 ------1\n\nDimensions: at the dining table\n\nf---625-----j\n\n0 Sitting (from the side) e Kneeling\n\nSitting (from\nthe front)\n\n}---875---j\n\nStanding leaning forward,\nstanding\n\nm\n\nC!) Dimensions: at the desk\n\nt-875------1\n\nt------625-----j\n\nf) Sitting cross-legged\n\nCrawling\n\nf) Dimensions: in a small easy chair\n\nQ Dimensions: in an armchair\n\nGi) Sitting on a chair\n\ncg) Sitting on the floor\n\nJ---660---l\n\ni'\n'\n\n'\n~-1\nI\n\nI\n\n~\n\ne\n\nWorking while standing\n\n0) Kneeling\n\n1------1875------1\n\n1--1250-----i\n\nfli) Sitting on a mattress\n28\n\n~\n\nLeaning against sloping backrest\n\n~\n\nLying with raised back\n\n@) Lying\n\n\f",
+          "status_history": [
+            {
+              "status": "uncertain",
+              "value": 1420.0,
+              "value_max": null,
+              "timestamp": "2026-11-13T11:06:16.401477+00:00"
+            }
+          ],
+          "original_value": 1420.0,
+          "verification_pass2": {
+            "model": "gpt-6-luna",
+            "locator": "tiles",
+            "bbox": [
+              0.46166666666666667,
+              0.6559999999999999,
+              0.477,
+              0.7348333333333333
+            ],
+            "crop_bbox": [
+              0.38102151745577745,
+              0.5990036925775206,
+              0.5576451505098005,
+              0.791829655854674
+            ],
+            "crop_path": "crops\\p041_4122fb96e4bd1976-41-vision-2_21.png",
+            "read_value": {
+              "printed": "1420",
+              "unit": "",
+              "unreadable": false,
+              "reason": "The overall vertical dimension beside the kneeling figure is printed as 1420; no unit is visible."
+            },
+            "outcome": "uncertain",
+            "reason": "Blind reading disagrees with candidate or unit",
+            "timestamp": "2026-11-13T11:06:16.401477+00:00",
+            "warning": "Same model as first pass; independent cropped prompt only.",
+            "before": {
+              "label": "Kneeling person height",
+              "value": 1420.0,
+              "value_max": null,
+              "unit": "mm",
+              "context": "Figure 17, kneeling; overall vertical dimension",
+              "status": "uncertain",
+              "ocr_raw": "DIMENSIONAL BASICS AND RELATIONSHIPS\nBody Measurements and Space Requirements\n\nDIMENSIONAL\nBASICS AND\nRELATIONSHIPS\n\nMan as measure\nand purpose\nThe universal\nstandard\nBody\nmeasurements\nand space\nrequirements\n\nGeometrical\nrelationships\nDimensions in\nbuilding\n\nl----750---\\\n\n0\n\nJ----875---j\n\ne\n\nf) Bending over\n\nf----875--l\n\n0 In movement\n\nJ----875------1\n\ne\n\n!-----700-----1\nSquatting\n\n1----1125----l\n\n(!) Outstretched arm (forwards) CD Outstretched arm (sideways)\n\n1----1250----1\n\nl--900-1000---\\\n\nf----875 ------1\n\nDimensions: at the dining table\n\nf---625-----j\n\n0 Sitting (from the side) e Kneeling\n\nSitting (from\nthe front)\n\n}---875---j\n\nStanding leaning forward,\nstanding\n\nm\n\nC!) Dimensions: at the desk\n\nt-875------1\n\nt------625-----j\n\nf) Sitting cross-legged\n\nCrawling\n\nf) Dimensions: in a small easy chair\n\nQ Dimensions: in an armchair\n\nGi) Sitting on a chair\n\ncg) Sitting on the floor\n\nJ---660---l\n\ni'\n'\n\n'\n~-1\nI\n\nI\n\n~\n\ne\n\nWorking while standing\n\n0) Kneeling\n\n1------1875------1\n\n1--1250-----i\n\nfli) Sitting on a mattress\n28\n\n~\n\nLeaning against sloping backrest\n\n~\n\nLying with raised back\n\n@) Lying\n\n\f"
+            }
+          }
+        },
+        {
+          "label": "Chair-seating clearance width",
+          "value": 860.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Figure 18, sitting on a chair; horizontal dimension",
+          "status": "uncertain",
+          "ocr_raw": "DIMENSIONAL BASICS AND RELATIONSHIPS\nBody Measurements and Space Requirements\n\nDIMENSIONAL\nBASICS AND\nRELATIONSHIPS\n\nMan as measure\nand purpose\nThe universal\nstandard\nBody\nmeasurements\nand space\nrequirements\n\nGeometrical\nrelationships\nDimensions in\nbuilding\n\nl----750---\\\n\n0\n\nJ----875---j\n\ne\n\nf) Bending over\n\nf----875--l\n\n0 In movement\n\nJ----875------1\n\ne\n\n!-----700-----1\nSquatting\n\n1----1125----l\n\n(!) Outstretched arm (forwards) CD Outstretched arm (sideways)\n\n1----1250----1\n\nl--900-1000---\\\n\nf----875 ------1\n\nDimensions: at the dining table\n\nf---625-----j\n\n0 Sitting (from the side) e Kneeling\n\nSitting (from\nthe front)\n\n}---875---j\n\nStanding leaning forward,\nstanding\n\nm\n\nC!) Dimensions: at the desk\n\nt-875------1\n\nt------625-----j\n\nf) Sitting cross-legged\n\nCrawling\n\nf) Dimensions: in a small easy chair\n\nQ Dimensions: in an armchair\n\nGi) Sitting on a chair\n\ncg) Sitting on the floor\n\nJ---660---l\n\ni'\n'\n\n'\n~-1\nI\n\nI\n\n~\n\ne\n\nWorking while standing\n\n0) Kneeling\n\n1------1875------1\n\n1--1250-----i\n\nfli) Sitting on a mattress\n28\n\n~\n\nLeaning against sloping backrest\n\n~\n\nLying with raised back\n\n@) Lying\n\n\f",
+          "status_history": [
+            {
+              "status": "uncertain",
+              "value": 860.0,
+              "value_max": null,
+              "timestamp": "2026-11-13T11:06:30.797681+00:00"
+            }
+          ],
+          "original_value": 860.0,
+          "verification_pass2": {
+            "model": "gpt-6-luna",
+            "locator": "tiles",
+            "bbox": [
+              0.5498333333333333,
+              0.6226666666666667,
+              0.615,
+              0.6341666666666667
+            ],
+            "crop_bbox": [
+              0.46918816783478096,
+              0.5656703713232762,
+              0.6956451539963516,
+              0.6911629626140116
+            ],
+            "crop_path": "crops\\p041_4122fb96e4bd1976-41-vision-2_22.png",
+            "read_value": {
+              "printed": "900\u20131000",
+              "unit": "",
+              "unreadable": false,
+              "reason": "The horizontal chair-seating clearance width is printed as 900\u20131000; no unit is shown."
+            },
+            "outcome": "uncertain",
+            "reason": "Blind reading disagrees with candidate or unit",
+            "timestamp": "2026-11-13T11:06:30.797681+00:00",
+            "warning": "Same model as first pass; independent cropped prompt only.",
+            "before": {
+              "label": "Chair-seating clearance width",
+              "value": 860.0,
+              "value_max": null,
+              "unit": "mm",
+              "context": "Figure 18, sitting on a chair; horizontal dimension",
+              "status": "uncertain",
+              "ocr_raw": "DIMENSIONAL BASICS AND RELATIONSHIPS\nBody Measurements and Space Requirements\n\nDIMENSIONAL\nBASICS AND\nRELATIONSHIPS\n\nMan as measure\nand purpose\nThe universal\nstandard\nBody\nmeasurements\nand space\nrequirements\n\nGeometrical\nrelationships\nDimensions in\nbuilding\n\nl----750---\\\n\n0\n\nJ----875---j\n\ne\n\nf) Bending over\n\nf----875--l\n\n0 In movement\n\nJ----875------1\n\ne\n\n!-----700-----1\nSquatting\n\n1----1125----l\n\n(!) Outstretched arm (forwards) CD Outstretched arm (sideways)\n\n1----1250----1\n\nl--900-1000---\\\n\nf----875 ------1\n\nDimensions: at the dining table\n\nf---625-----j\n\n0 Sitting (from the side) e Kneeling\n\nSitting (from\nthe front)\n\n}---875---j\n\nStanding leaning forward,\nstanding\n\nm\n\nC!) Dimensions: at the desk\n\nt-875------1\n\nt------625-----j\n\nf) Sitting cross-legged\n\nCrawling\n\nf) Dimensions: in a small easy chair\n\nQ Dimensions: in an armchair\n\nGi) Sitting on a chair\n\ncg) Sitting on the floor\n\nJ---660---l\n\ni'\n'\n\n'\n~-1\nI\n\nI\n\n~\n\ne\n\nWorking while standing\n\n0) Kneeling\n\n1------1875------1\n\n1--1250-----i\n\nfli) Sitting on a mattress\n28\n\n~\n\nLeaning against sloping backrest\n\n~\n\nLying with raised back\n\n@) Lying\n\n\f"
+            }
+          }
+        },
+        {
+          "label": "Chair-seating vertical dimension",
+          "value": 1460.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Figure 18, sitting on a chair; vertical dimension",
+          "status": "uncertain",
+          "ocr_raw": "DIMENSIONAL BASICS AND RELATIONSHIPS\nBody Measurements and Space Requirements\n\nDIMENSIONAL\nBASICS AND\nRELATIONSHIPS\n\nMan as measure\nand purpose\nThe universal\nstandard\nBody\nmeasurements\nand space\nrequirements\n\nGeometrical\nrelationships\nDimensions in\nbuilding\n\nl----750---\\\n\n0\n\nJ----875---j\n\ne\n\nf) Bending over\n\nf----875--l\n\n0 In movement\n\nJ----875------1\n\ne\n\n!-----700-----1\nSquatting\n\n1----1125----l\n\n(!) Outstretched arm (forwards) CD Outstretched arm (sideways)\n\n1----1250----1\n\nl--900-1000---\\\n\nf----875 ------1\n\nDimensions: at the dining table\n\nf---625-----j\n\n0 Sitting (from the side) e Kneeling\n\nSitting (from\nthe front)\n\n}---875---j\n\nStanding leaning forward,\nstanding\n\nm\n\nC!) Dimensions: at the desk\n\nt-875------1\n\nt------625-----j\n\nf) Sitting cross-legged\n\nCrawling\n\nf) Dimensions: in a small easy chair\n\nQ Dimensions: in an armchair\n\nGi) Sitting on a chair\n\ncg) Sitting on the floor\n\nJ---660---l\n\ni'\n'\n\n'\n~-1\nI\n\nI\n\n~\n\ne\n\nWorking while standing\n\n0) Kneeling\n\n1------1875------1\n\n1--1250-----i\n\nfli) Sitting on a mattress\n28\n\n~\n\nLeaning against sloping backrest\n\n~\n\nLying with raised back\n\n@) Lying\n\n\f",
+          "status_history": [
+            {
+              "status": "uncertain",
+              "value": 1460.0,
+              "value_max": null,
+              "timestamp": "2026-11-13T11:06:40.774456+00:00"
+            }
+          ],
+          "original_value": 1460.0,
+          "verification_pass2": {
+            "model": "gpt-6-luna",
+            "locator": "tiles",
+            "bbox": [
+              0.5283666666666667,
+              0.7025833333333333,
+              0.5383333333333333,
+              0.7222916666666667
+            ],
+            "crop_bbox": [
+              0.44772152341367816,
+              0.6455870618461438,
+              0.6189785081806284,
+              0.7792879377008903
+            ],
+            "crop_path": "crops\\p041_4122fb96e4bd1976-41-vision-2_23.png",
+            "read_value": {
+              "printed": "1450",
+              "unit": "",
+              "unreadable": false,
+              "reason": "The vertical dimension shown for Figure 18, \u201cSitting on a chair,\u201d is 1450; no unit is printed."
+            },
+            "outcome": "uncertain",
+            "reason": "Blind reading disagrees with candidate or unit",
+            "timestamp": "2026-11-13T11:06:40.774456+00:00",
+            "warning": "Same model as first pass; independent cropped prompt only.",
+            "before": {
+              "label": "Chair-seating vertical dimension",
+              "value": 1460.0,
+              "value_max": null,
+              "unit": "mm",
+              "context": "Figure 18, sitting on a chair; vertical dimension",
+              "status": "uncertain",
+              "ocr_raw": "DIMENSIONAL BASICS AND RELATIONSHIPS\nBody Measurements and Space Requirements\n\nDIMENSIONAL\nBASICS AND\nRELATIONSHIPS\n\nMan as measure\nand purpose\nThe universal\nstandard\nBody\nmeasurements\nand space\nrequirements\n\nGeometrical\nrelationships\nDimensions in\nbuilding\n\nl----750---\\\n\n0\n\nJ----875---j\n\ne\n\nf) Bending over\n\nf----875--l\n\n0 In movement\n\nJ----875------1\n\ne\n\n!-----700-----1\nSquatting\n\n1----1125----l\n\n(!) Outstretched arm (forwards) CD Outstretched arm (sideways)\n\n1----1250----1\n\nl--900-1000---\\\n\nf----875 ------1\n\nDimensions: at the dining table\n\nf---625-----j\n\n0 Sitting (from the side) e Kneeling\n\nSitting (from\nthe front)\n\n}---875---j\n\nStanding leaning forward,\nstanding\n\nm\n\nC!) Dimensions: at the desk\n\nt-875------1\n\nt------625-----j\n\nf) Sitting cross-legged\n\nCrawling\n\nf) Dimensions: in a small easy chair\n\nQ Dimensions: in an armchair\n\nGi) Sitting on a chair\n\ncg) Sitting on the floor\n\nJ---660---l\n\ni'\n'\n\n'\n~-1\nI\n\nI\n\n~\n\ne\n\nWorking while standing\n\n0) Kneeling\n\n1------1875------1\n\n1--1250-----i\n\nfli) Sitting on a mattress\n28\n\n~\n\nLeaning against sloping backrest\n\n~\n\nLying with raised back\n\n@) Lying\n\n\f"
+            }
+          }
+        },
+        {
+          "label": "Floor-sitting horizontal dimension",
+          "value": 710.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Figure 19, sitting on the floor; horizontal dimension",
+          "status": "uncertain",
+          "ocr_raw": "DIMENSIONAL BASICS AND RELATIONSHIPS\nBody Measurements and Space Requirements\n\nDIMENSIONAL\nBASICS AND\nRELATIONSHIPS\n\nMan as measure\nand purpose\nThe universal\nstandard\nBody\nmeasurements\nand space\nrequirements\n\nGeometrical\nrelationships\nDimensions in\nbuilding\n\nl----750---\\\n\n0\n\nJ----875---j\n\ne\n\nf) Bending over\n\nf----875--l\n\n0 In movement\n\nJ----875------1\n\ne\n\n!-----700-----1\nSquatting\n\n1----1125----l\n\n(!) Outstretched arm (forwards) CD Outstretched arm (sideways)\n\n1----1250----1\n\nl--900-1000---\\\n\nf----875 ------1\n\nDimensions: at the dining table\n\nf---625-----j\n\n0 Sitting (from the side) e Kneeling\n\nSitting (from\nthe front)\n\n}---875---j\n\nStanding leaning forward,\nstanding\n\nm\n\nC!) Dimensions: at the desk\n\nt-875------1\n\nt------625-----j\n\nf) Sitting cross-legged\n\nCrawling\n\nf) Dimensions: in a small easy chair\n\nQ Dimensions: in an armchair\n\nGi) Sitting on a chair\n\ncg) Sitting on the floor\n\nJ---660---l\n\ni'\n'\n\n'\n~-1\nI\n\nI\n\n~\n\ne\n\nWorking while standing\n\n0) Kneeling\n\n1------1875------1\n\n1--1250-----i\n\nfli) Sitting on a mattress\n28\n\n~\n\nLeaning against sloping backrest\n\n~\n\nLying with raised back\n\n@) Lying\n\n\f",
+          "status_history": [
+            {
+              "status": "uncertain",
+              "value": 710.0,
+              "value_max": null,
+              "timestamp": "2026-11-13T11:06:51.016939+00:00"
+            }
+          ],
+          "original_value": 710.0,
+          "verification_pass2": {
+            "model": "gpt-6-luna",
+            "locator": "tiles",
+            "bbox": [
+              0.7599166666666666,
+              0.6559999999999999,
+              0.8208333333333333,
+              0.6703333333333332
+            ],
+            "crop_bbox": [
+              0.6792714892300946,
+              0.5990036925775206,
+              0.9014784720332961,
+              0.7273296395479039
+            ],
+            "crop_path": "crops\\p041_4122fb96e4bd1976-41-vision-2_24.png",
+            "read_value": {
+              "printed": "710",
+              "unit": "",
+              "unreadable": false,
+              "reason": "The top horizontal dimension for the floor-sitting figure is explicitly labeled 710."
+            },
+            "outcome": "uncertain",
+            "reason": "Blind reading disagrees with candidate or unit",
+            "timestamp": "2026-11-13T11:06:51.016939+00:00",
+            "warning": "Same model as first pass; independent cropped prompt only.",
+            "before": {
+              "label": "Floor-sitting horizontal dimension",
+              "value": 710.0,
+              "value_max": null,
+              "unit": "mm",
+              "context": "Figure 19, sitting on the floor; horizontal dimension",
+              "status": "uncertain",
+              "ocr_raw": "DIMENSIONAL BASICS AND RELATIONSHIPS\nBody Measurements and Space Requirements\n\nDIMENSIONAL\nBASICS AND\nRELATIONSHIPS\n\nMan as measure\nand purpose\nThe universal\nstandard\nBody\nmeasurements\nand space\nrequirements\n\nGeometrical\nrelationships\nDimensions in\nbuilding\n\nl----750---\\\n\n0\n\nJ----875---j\n\ne\n\nf) Bending over\n\nf----875--l\n\n0 In movement\n\nJ----875------1\n\ne\n\n!-----700-----1\nSquatting\n\n1----1125----l\n\n(!) Outstretched arm (forwards) CD Outstretched arm (sideways)\n\n1----1250----1\n\nl--900-1000---\\\n\nf----875 ------1\n\nDimensions: at the dining table\n\nf---625-----j\n\n0 Sitting (from the side) e Kneeling\n\nSitting (from\nthe front)\n\n}---875---j\n\nStanding leaning forward,\nstanding\n\nm\n\nC!) Dimensions: at the desk\n\nt-875------1\n\nt------625-----j\n\nf) Sitting cross-legged\n\nCrawling\n\nf) Dimensions: in a small easy chair\n\nQ Dimensions: in an armchair\n\nGi) Sitting on a chair\n\ncg) Sitting on the floor\n\nJ---660---l\n\ni'\n'\n\n'\n~-1\nI\n\nI\n\n~\n\ne\n\nWorking while standing\n\n0) Kneeling\n\n1------1875------1\n\n1--1250-----i\n\nfli) Sitting on a mattress\n28\n\n~\n\nLeaning against sloping backrest\n\n~\n\nLying with raised back\n\n@) Lying\n\n\f"
+            }
+          }
+        },
+        {
+          "label": "Floor-sitting reach",
+          "value": 460.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Figure 19, sitting on the floor; horizontal reach dimension",
+          "status": "uncertain",
+          "ocr_raw": "DIMENSIONAL BASICS AND RELATIONSHIPS\nBody Measurements and Space Requirements\n\nDIMENSIONAL\nBASICS AND\nRELATIONSHIPS\n\nMan as measure\nand purpose\nThe universal\nstandard\nBody\nmeasurements\nand space\nrequirements\n\nGeometrical\nrelationships\nDimensions in\nbuilding\n\nl----750---\\\n\n0\n\nJ----875---j\n\ne\n\nf) Bending over\n\nf----875--l\n\n0 In movement\n\nJ----875------1\n\ne\n\n!-----700-----1\nSquatting\n\n1----1125----l\n\n(!) Outstretched arm (forwards) CD Outstretched arm (sideways)\n\n1----1250----1\n\nl--900-1000---\\\n\nf----875 ------1\n\nDimensions: at the dining table\n\nf---625-----j\n\n0 Sitting (from the side) e Kneeling\n\nSitting (from\nthe front)\n\n}---875---j\n\nStanding leaning forward,\nstanding\n\nm\n\nC!) Dimensions: at the desk\n\nt-875------1\n\nt------625-----j\n\nf) Sitting cross-legged\n\nCrawling\n\nf) Dimensions: in a small easy chair\n\nQ Dimensions: in an armchair\n\nGi) Sitting on a chair\n\ncg) Sitting on the floor\n\nJ---660---l\n\ni'\n'\n\n'\n~-1\nI\n\nI\n\n~\n\ne\n\nWorking while standing\n\n0) Kneeling\n\n1------1875------1\n\n1--1250-----i\n\nfli) Sitting on a mattress\n28\n\n~\n\nLeaning against sloping backrest\n\n~\n\nLying with raised back\n\n@) Lying\n\n\f",
+          "status_history": [
+            {
+              "status": "uncertain",
+              "value": 460.0,
+              "value_max": null,
+              "timestamp": "2026-11-13T11:06:59.654569+00:00"
+            }
+          ],
+          "original_value": 460.0,
+          "verification_pass2": {
+            "model": "gpt-6-luna",
+            "locator": "tiles",
+            "bbox": [
+              0.7635,
+              0.699,
+              0.8065,
+              0.7061666666666666
+            ],
+            "crop_bbox": [
+              0.6828548434912806,
+              0.6420037034487007,
+              0.8871451575341757,
+              0.7631629336241978
+            ],
+            "crop_path": "crops\\p041_4122fb96e4bd1976-41-vision-2_25.png",
+            "read_value": {
+              "printed": "460",
+              "unit": "",
+              "unreadable": false,
+              "reason": "The horizontal reach dimension is printed as 460; no unit is printed."
+            },
+            "outcome": "uncertain",
+            "reason": "Blind reading disagrees with candidate or unit",
+            "timestamp": "2026-11-13T11:06:59.654569+00:00",
+            "warning": "Same model as first pass; independent cropped prompt only.",
+            "before": {
+              "label": "Floor-sitting reach",
+              "value": 460.0,
+              "value_max": null,
+              "unit": "mm",
+              "context": "Figure 19, sitting on the floor; horizontal reach dimension",
+              "status": "uncertain",
+              "ocr_raw": "DIMENSIONAL BASICS AND RELATIONSHIPS\nBody Measurements and Space Requirements\n\nDIMENSIONAL\nBASICS AND\nRELATIONSHIPS\n\nMan as measure\nand purpose\nThe universal\nstandard\nBody\nmeasurements\nand space\nrequirements\n\nGeometrical\nrelationships\nDimensions in\nbuilding\n\nl----750---\\\n\n0\n\nJ----875---j\n\ne\n\nf) Bending over\n\nf----875--l\n\n0 In movement\n\nJ----875------1\n\ne\n\n!-----700-----1\nSquatting\n\n1----1125----l\n\n(!) Outstretched arm (forwards) CD Outstretched arm (sideways)\n\n1----1250----1\n\nl--900-1000---\\\n\nf----875 ------1\n\nDimensions: at the dining table\n\nf---625-----j\n\n0 Sitting (from the side) e Kneeling\n\nSitting (from\nthe front)\n\n}---875---j\n\nStanding leaning forward,\nstanding\n\nm\n\nC!) Dimensions: at the desk\n\nt-875------1\n\nt------625-----j\n\nf) Sitting cross-legged\n\nCrawling\n\nf) Dimensions: in a small easy chair\n\nQ Dimensions: in an armchair\n\nGi) Sitting on a chair\n\ncg) Sitting on the floor\n\nJ---660---l\n\ni'\n'\n\n'\n~-1\nI\n\nI\n\n~\n\ne\n\nWorking while standing\n\n0) Kneeling\n\n1------1875------1\n\n1--1250-----i\n\nfli) Sitting on a mattress\n28\n\n~\n\nLeaning against sloping backrest\n\n~\n\nLying with raised back\n\n@) Lying\n\n\f"
+            }
+          }
+        },
+        {
+          "label": "Floor-sitting overall vertical dimension",
+          "value": 1020.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Figure 19, sitting on the floor; vertical dimension",
+          "status": "uncertain",
+          "ocr_raw": "DIMENSIONAL BASICS AND RELATIONSHIPS\nBody Measurements and Space Requirements\n\nDIMENSIONAL\nBASICS AND\nRELATIONSHIPS\n\nMan as measure\nand purpose\nThe universal\nstandard\nBody\nmeasurements\nand space\nrequirements\n\nGeometrical\nrelationships\nDimensions in\nbuilding\n\nl----750---\\\n\n0\n\nJ----875---j\n\ne\n\nf) Bending over\n\nf----875--l\n\n0 In movement\n\nJ----875------1\n\ne\n\n!-----700-----1\nSquatting\n\n1----1125----l\n\n(!) Outstretched arm (forwards) CD Outstretched arm (sideways)\n\n1----1250----1\n\nl--900-1000---\\\n\nf----875 ------1\n\nDimensions: at the dining table\n\nf---625-----j\n\n0 Sitting (from the side) e Kneeling\n\nSitting (from\nthe front)\n\n}---875---j\n\nStanding leaning forward,\nstanding\n\nm\n\nC!) Dimensions: at the desk\n\nt-875------1\n\nt------625-----j\n\nf) Sitting cross-legged\n\nCrawling\n\nf) Dimensions: in a small easy chair\n\nQ Dimensions: in an armchair\n\nGi) Sitting on a chair\n\ncg) Sitting on the floor\n\nJ---660---l\n\ni'\n'\n\n'\n~-1\nI\n\nI\n\n~\n\ne\n\nWorking while standing\n\n0) Kneeling\n\n1------1875------1\n\n1--1250-----i\n\nfli) Sitting on a mattress\n28\n\n~\n\nLeaning against sloping backrest\n\n~\n\nLying with raised back\n\n@) Lying\n\n\f",
+          "status_history": [
+            {
+              "status": "uncertain",
+              "value": 1020.0,
+              "value_max": null,
+              "timestamp": "2026-11-13T11:07:07.070260+00:00"
+            }
+          ],
+          "original_value": 1020.0,
+          "verification_pass2": {
+            "model": "gpt-6-luna",
+            "locator": "tiles",
+            "bbox": [
+              0.8351666666666666,
+              0.6775,
+              0.8494999999999999,
+              0.742
+            ],
+            "crop_bbox": [
+              0.7545215185325065,
+              0.6205036980131107,
+              0.9301452035771605,
+              0.798996300175026
+            ],
+            "crop_path": "crops\\p041_4122fb96e4bd1976-41-vision-2_26.png",
+            "read_value": {
+              "printed": "1020",
+              "unit": "",
+              "unreadable": false,
+              "reason": "The vertical dimension is explicitly labeled 1020; no unit is printed."
+            },
+            "outcome": "uncertain",
+            "reason": "Blind reading disagrees with candidate or unit",
+            "timestamp": "2026-11-13T11:07:07.070260+00:00",
+            "warning": "Same model as first pass; independent cropped prompt only.",
+            "before": {
+              "label": "Floor-sitting overall vertical dimension",
+              "value": 1020.0,
+              "value_max": null,
+              "unit": "mm",
+              "context": "Figure 19, sitting on the floor; vertical dimension",
+              "status": "uncertain",
+              "ocr_raw": "DIMENSIONAL BASICS AND RELATIONSHIPS\nBody Measurements and Space Requirements\n\nDIMENSIONAL\nBASICS AND\nRELATIONSHIPS\n\nMan as measure\nand purpose\nThe universal\nstandard\nBody\nmeasurements\nand space\nrequirements\n\nGeometrical\nrelationships\nDimensions in\nbuilding\n\nl----750---\\\n\n0\n\nJ----875---j\n\ne\n\nf) Bending over\n\nf----875--l\n\n0 In movement\n\nJ----875------1\n\ne\n\n!-----700-----1\nSquatting\n\n1----1125----l\n\n(!) Outstretched arm (forwards) CD Outstretched arm (sideways)\n\n1----1250----1\n\nl--900-1000---\\\n\nf----875 ------1\n\nDimensions: at the dining table\n\nf---625-----j\n\n0 Sitting (from the side) e Kneeling\n\nSitting (from\nthe front)\n\n}---875---j\n\nStanding leaning forward,\nstanding\n\nm\n\nC!) Dimensions: at the desk\n\nt-875------1\n\nt------625-----j\n\nf) Sitting cross-legged\n\nCrawling\n\nf) Dimensions: in a small easy chair\n\nQ Dimensions: in an armchair\n\nGi) Sitting on a chair\n\ncg) Sitting on the floor\n\nJ---660---l\n\ni'\n'\n\n'\n~-1\nI\n\nI\n\n~\n\ne\n\nWorking while standing\n\n0) Kneeling\n\n1------1875------1\n\n1--1250-----i\n\nfli) Sitting on a mattress\n28\n\n~\n\nLeaning against sloping backrest\n\n~\n\nLying with raised back\n\n@) Lying\n\n\f"
+            }
+          }
+        },
+        {
+          "label": "Floor-sitting vertical dimension",
+          "value": 900.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Figure 19, sitting on the floor; vertical dimension",
+          "status": "uncertain",
+          "ocr_raw": "900",
+          "status_history": [
+            {
+              "status": "uncertain",
+              "value": 900.0,
+              "value_max": null,
+              "timestamp": "2026-11-13T11:07:13.931125+00:00"
+            }
+          ],
+          "original_value": 900.0,
+          "verification_pass2": {
+            "model": "gpt-6-luna",
+            "locator": "tiles",
+            "bbox": [
+              0.8351666666666666,
+              0.6775,
+              0.8530833333333333,
+              0.742
+            ],
+            "crop_bbox": [
+              0.7545215185325065,
+              0.6205036980131107,
+              0.9337284552927232,
+              0.798996300175026
+            ],
+            "crop_path": "crops\\p041_4122fb96e4bd1976-41-vision-2_27.png",
+            "read_value": {
+              "printed": "1020",
+              "unit": "",
+              "unreadable": false,
+              "reason": "The vertical dimension beside the floor-sitting figure is labeled 1020; no unit is printed."
+            },
+            "outcome": "uncertain",
+            "reason": "Blind reading disagrees with candidate or unit",
+            "timestamp": "2026-11-13T11:07:13.931125+00:00",
+            "warning": "Same model as first pass; independent cropped prompt only.",
+            "before": {
+              "label": "Floor-sitting vertical dimension",
+              "value": 900.0,
+              "value_max": null,
+              "unit": "mm",
+              "context": "Figure 19, sitting on the floor; vertical dimension",
+              "status": "uncertain",
+              "ocr_raw": "900"
+            }
+          }
+        },
+        {
+          "label": "Floor-sitting vertical dimension",
+          "value": 300.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Figure 19, sitting on the floor; vertical dimension",
+          "status": "uncertain",
+          "ocr_raw": "DIMENSIONAL BASICS AND RELATIONSHIPS\nBody Measurements and Space Requirements\n\nDIMENSIONAL\nBASICS AND\nRELATIONSHIPS\n\nMan as measure\nand purpose\nThe universal\nstandard\nBody\nmeasurements\nand space\nrequirements\n\nGeometrical\nrelationships\nDimensions in\nbuilding\n\nl----750---\\\n\n0\n\nJ----875---j\n\ne\n\nf) Bending over\n\nf----875--l\n\n0 In movement\n\nJ----875------1\n\ne\n\n!-----700-----1\nSquatting\n\n1----1125----l\n\n(!) Outstretched arm (forwards) CD Outstretched arm (sideways)\n\n1----1250----1\n\nl--900-1000---\\\n\nf----875 ------1\n\nDimensions: at the dining table\n\nf---625-----j\n\n0 Sitting (from the side) e Kneeling\n\nSitting (from\nthe front)\n\n}---875---j\n\nStanding leaning forward,\nstanding\n\nm\n\nC!) Dimensions: at the desk\n\nt-875------1\n\nt------625-----j\n\nf) Sitting cross-legged\n\nCrawling\n\nf) Dimensions: in a small easy chair\n\nQ Dimensions: in an armchair\n\nGi) Sitting on a chair\n\ncg) Sitting on the floor\n\nJ---660---l\n\ni'\n'\n\n'\n~-1\nI\n\nI\n\n~\n\ne\n\nWorking while standing\n\n0) Kneeling\n\n1------1875------1\n\n1--1250-----i\n\nfli) Sitting on a mattress\n28\n\n~\n\nLeaning against sloping backrest\n\n~\n\nLying with raised back\n\n@) Lying\n\n\f",
+          "status_history": [
+            {
+              "status": "uncertain",
+              "value": 300.0,
+              "value_max": null,
+              "timestamp": "2026-11-13T11:07:21.043691+00:00"
+            }
+          ],
+          "original_value": 300.0,
+          "verification_pass2": {
+            "model": "gpt-6-luna",
+            "locator": "tiles",
+            "bbox": [
+              0.8305083333333333,
+              0.6792916666666666,
+              0.8502166666666666,
+              0.7427166666666666
+            ],
+            "crop_bbox": [
+              0.7498631785020894,
+              0.6222953409745651,
+              0.930861792392899,
+              0.799712928369794
+            ],
+            "crop_path": "crops\\p041_4122fb96e4bd1976-41-vision-2_28.png",
+            "read_value": {
+              "printed": "1020",
+              "unit": "",
+              "unreadable": false,
+              "reason": "The vertical dimension beside the floor-sitting figure is explicitly labeled 1020."
+            },
+            "outcome": "uncertain",
+            "reason": "Blind reading disagrees with candidate or unit",
+            "timestamp": "2026-11-13T11:07:21.043691+00:00",
+            "warning": "Same model as first pass; independent cropped prompt only.",
+            "before": {
+              "label": "Floor-sitting vertical dimension",
+              "value": 300.0,
+              "value_max": null,
+              "unit": "mm",
+              "context": "Figure 19, sitting on the floor; vertical dimension",
+              "status": "uncertain",
+              "ocr_raw": "DIMENSIONAL BASICS AND RELATIONSHIPS\nBody Measurements and Space Requirements\n\nDIMENSIONAL\nBASICS AND\nRELATIONSHIPS\n\nMan as measure\nand purpose\nThe universal\nstandard\nBody\nmeasurements\nand space\nrequirements\n\nGeometrical\nrelationships\nDimensions in\nbuilding\n\nl----750---\\\n\n0\n\nJ----875---j\n\ne\n\nf) Bending over\n\nf----875--l\n\n0 In movement\n\nJ----875------1\n\ne\n\n!-----700-----1\nSquatting\n\n1----1125----l\n\n(!) Outstretched arm (forwards) CD Outstretched arm (sideways)\n\n1----1250----1\n\nl--900-1000---\\\n\nf----875 ------1\n\nDimensions: at the dining table\n\nf---625-----j\n\n0 Sitting (from the side) e Kneeling\n\nSitting (from\nthe front)\n\n}---875---j\n\nStanding leaning forward,\nstanding\n\nm\n\nC!) Dimensions: at the desk\n\nt-875------1\n\nt------625-----j\n\nf) Sitting cross-legged\n\nCrawling\n\nf) Dimensions: in a small easy chair\n\nQ Dimensions: in an armchair\n\nGi) Sitting on a chair\n\ncg) Sitting on the floor\n\nJ---660---l\n\ni'\n'\n\n'\n~-1\nI\n\nI\n\n~\n\ne\n\nWorking while standing\n\n0) Kneeling\n\n1------1875------1\n\n1--1250-----i\n\nfli) Sitting on a mattress\n28\n\n~\n\nLeaning against sloping backrest\n\n~\n\nLying with raised back\n\n@) Lying\n\n\f"
+            }
+          }
+        }
+      ],
+      "figure_refs": [
+        "12",
+        "13",
+        "14",
+        "15",
+        "16",
+        "17",
+        "18",
+        "19"
+      ],
+      "cross_refs": [],
+      "keywords": [
+        "desk",
+        "dining table",
+        "chair",
+        "work surface",
+        "seated work",
+        "standing work",
+        "kneeling"
+      ],
+      "tags_architectural": [
+        "anthropometry",
+        "ergonomics",
+        "clearance",
+        "accessibility"
+      ],
+      "confidence": 0.78
+    },
+    {
+      "id": "4122fb96e4bd1976-41-vision-3",
+      "pdf_page": 41,
+      "book_page": 28,
+      "chapter": "BASICS",
+      "section": "Dimensional Basics and Relationships",
+      "title": "Resting and Lying Positions",
+      "summary": "Four diagrams give space dimensions for sitting on a mattress, leaning against a sloping backrest, lying with a raised back, and lying flat. Dimensions are transcribed from the diagrams; the page does not state a unit.",
+      "building_type": "Residential and resting spaces",
+      "spaces": [
+        "Mattress area",
+        "Resting area",
+        "Lying area"
+      ],
+      "uses": [
+        "Estimating length and height clearances for resting and lying positions",
+        "Planning space around mattresses and reclining furniture"
+      ],
+      "furniture_equipment": [
+        "Mattress",
+        "Sloping backrest"
+      ],
+      "dimensions": [
+        {
+          "label": "Sitting on mattress horizontal dimension",
+          "value": 1250.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Figure 20, sitting on a mattress; horizontal dimension",
+          "status": "uncertain",
+          "ocr_raw": "1250",
+          "status_history": [
+            {
+              "status": "uncertain",
+              "value": 1250.0,
+              "value_max": null,
+              "timestamp": "2026-11-13T11:07:26.967901+00:00"
+            }
+          ],
+          "original_value": 1250.0,
+          "verification_pass2": {
+            "model": "gpt-6-luna",
+            "locator": "tiles",
+            "bbox": [
+              0.12541666666666665,
+              0.86025,
+              0.2436666666666667,
+              0.871
+            ],
+            "crop_bbox": [
+              0.04477150566303077,
+              0.803253671741092,
+              0.32431181375827967,
+              0.9279962603140322
+            ],
+            "crop_path": "crops\\p041_4122fb96e4bd1976-41-vision-3_0.png",
+            "read_value": {
+              "printed": "1250",
+              "unit": "",
+              "unreadable": false,
+              "reason": "The horizontal dimension beneath \u201cSitting on a mattress\u201d is printed as 1250."
+            },
+            "outcome": "uncertain",
+            "reason": "Blind reading disagrees with candidate or unit",
+            "timestamp": "2026-11-13T11:07:26.967901+00:00",
+            "warning": "Same model as first pass; independent cropped prompt only.",
+            "before": {
+              "label": "Sitting on mattress horizontal dimension",
+              "value": 1250.0,
+              "value_max": null,
+              "unit": "mm",
+              "context": "Figure 20, sitting on a mattress; horizontal dimension",
+              "status": "uncertain",
+              "ocr_raw": "1250"
+            }
+          }
+        },
+        {
+          "label": "Sitting on mattress vertical dimension",
+          "value": 875.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Figure 20, sitting on a mattress; vertical dimension",
+          "status": "uncertain",
+          "ocr_raw": "875",
+          "status_history": [
+            {
+              "status": "uncertain",
+              "value": 875.0,
+              "value_max": null,
+              "timestamp": "2026-11-13T11:07:34.711132+00:00"
+            }
+          ],
+          "original_value": 875.0,
+          "verification_pass2": {
+            "model": "gpt-6-luna",
+            "locator": "tiles",
+            "bbox": [
+              0.25226666666666664,
+              0.7849999999999999,
+              0.26695833333333335,
+              0.86025
+            ],
+            "crop_bbox": [
+              0.17162150882143598,
+              0.728003725191061,
+              0.34760348827395926,
+              0.9172462575962371
+            ],
+            "crop_path": "crops\\p041_4122fb96e4bd1976-41-vision-3_1.png",
+            "read_value": {
+              "printed": "875",
+              "unit": "",
+              "unreadable": false,
+              "reason": "The vertical dimension is labeled 875; no unit is printed alongside it."
+            },
+            "outcome": "uncertain",
+            "reason": "Blind reading disagrees with candidate or unit",
+            "timestamp": "2026-11-13T11:07:34.711132+00:00",
+            "warning": "Same model as first pass; independent cropped prompt only.",
+            "before": {
+              "label": "Sitting on mattress vertical dimension",
+              "value": 875.0,
+              "value_max": null,
+              "unit": "mm",
+              "context": "Figure 20, sitting on a mattress; vertical dimension",
+              "status": "uncertain",
+              "ocr_raw": "875"
+            }
+          }
+        },
+        {
+          "label": "Leaning against sloping backrest horizontal dimension",
+          "value": 1500.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Figure 21, leaning against sloping backrest; horizontal dimension",
+          "status": "uncertain",
+          "ocr_raw": "DIMENSIONAL BASICS AND RELATIONSHIPS\nBody Measurements and Space Requirements\n\nDIMENSIONAL\nBASICS AND\nRELATIONSHIPS\n\nMan as measure\nand purpose\nThe universal\nstandard\nBody\nmeasurements\nand space\nrequirements\n\nGeometrical\nrelationships\nDimensions in\nbuilding\n\nl----750---\\\n\n0\n\nJ----875---j\n\ne\n\nf) Bending over\n\nf----875--l\n\n0 In movement\n\nJ----875------1\n\ne\n\n!-----700-----1\nSquatting\n\n1----1125----l\n\n(!) Outstretched arm (forwards) CD Outstretched arm (sideways)\n\n1----1250----1\n\nl--900-1000---\\\n\nf----875 ------1\n\nDimensions: at the dining table\n\nf---625-----j\n\n0 Sitting (from the side) e Kneeling\n\nSitting (from\nthe front)\n\n}---875---j\n\nStanding leaning forward,\nstanding\n\nm\n\nC!) Dimensions: at the desk\n\nt-875------1\n\nt------625-----j\n\nf) Sitting cross-legged\n\nCrawling\n\nf) Dimensions: in a small easy chair\n\nQ Dimensions: in an armchair\n\nGi) Sitting on a chair\n\ncg) Sitting on the floor\n\nJ---660---l\n\ni'\n'\n\n'\n~-1\nI\n\nI\n\n~\n\ne\n\nWorking while standing\n\n0) Kneeling\n\n1------1875------1\n\n1--1250-----i\n\nfli) Sitting on a mattress\n28\n\n~\n\nLeaning against sloping backrest\n\n~\n\nLying with raised back\n\n@) Lying\n\n\f",
+          "status_history": [
+            {
+              "status": "uncertain",
+              "value": 1500.0,
+              "value_max": null,
+              "timestamp": "2026-11-13T11:07:40.890582+00:00"
+            }
+          ],
+          "original_value": 1500.0,
+          "verification_pass2": {
+            "model": "gpt-6-luna",
+            "locator": "tiles",
+            "bbox": [
+              0.31599999999999995,
+              0.8566666666666667,
+              0.46166666666666667,
+              0.8674166666666666
+            ],
+            "crop_bbox": [
+              0.23535484426037276,
+              0.7996703858181832,
+              0.5423118110920935,
+              0.9244129743911234
+            ],
+            "crop_path": "crops\\p041_4122fb96e4bd1976-41-vision-3_2.png",
+            "read_value": {
+              "printed": "1500",
+              "unit": "",
+              "unreadable": false,
+              "reason": "The horizontal dimension beneath \u201cLeaning against sloping backrest\u201d is explicitly labeled 1500; no unit is printed."
+            },
+            "outcome": "uncertain",
+            "reason": "Blind reading disagrees with candidate or unit",
+            "timestamp": "2026-11-13T11:07:40.890582+00:00",
+            "warning": "Same model as first pass; independent cropped prompt only.",
+            "before": {
+              "label": "Leaning against sloping backrest horizontal dimension",
+              "value": 1500.0,
+              "value_max": null,
+              "unit": "mm",
+              "context": "Figure 21, leaning against sloping backrest; horizontal dimension",
+              "status": "uncertain",
+              "ocr_raw": "DIMENSIONAL BASICS AND RELATIONSHIPS\nBody Measurements and Space Requirements\n\nDIMENSIONAL\nBASICS AND\nRELATIONSHIPS\n\nMan as measure\nand purpose\nThe universal\nstandard\nBody\nmeasurements\nand space\nrequirements\n\nGeometrical\nrelationships\nDimensions in\nbuilding\n\nl----750---\\\n\n0\n\nJ----875---j\n\ne\n\nf) Bending over\n\nf----875--l\n\n0 In movement\n\nJ----875------1\n\ne\n\n!-----700-----1\nSquatting\n\n1----1125----l\n\n(!) Outstretched arm (forwards) CD Outstretched arm (sideways)\n\n1----1250----1\n\nl--900-1000---\\\n\nf----875 ------1\n\nDimensions: at the dining table\n\nf---625-----j\n\n0 Sitting (from the side) e Kneeling\n\nSitting (from\nthe front)\n\n}---875---j\n\nStanding leaning forward,\nstanding\n\nm\n\nC!) Dimensions: at the desk\n\nt-875------1\n\nt------625-----j\n\nf) Sitting cross-legged\n\nCrawling\n\nf) Dimensions: in a small easy chair\n\nQ Dimensions: in an armchair\n\nGi) Sitting on a chair\n\ncg) Sitting on the floor\n\nJ---660---l\n\ni'\n'\n\n'\n~-1\nI\n\nI\n\n~\n\ne\n\nWorking while standing\n\n0) Kneeling\n\n1------1875------1\n\n1--1250-----i\n\nfli) Sitting on a mattress\n28\n\n~\n\nLeaning against sloping backrest\n\n~\n\nLying with raised back\n\n@) Lying\n\n\f"
+            }
+          }
+        },
+        {
+          "label": "Leaning against sloping backrest vertical dimension",
+          "value": 750.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Figure 21, leaning against sloping backrest; vertical dimension",
+          "status": "uncertain",
+          "ocr_raw": "750",
+          "status_history": [
+            {
+              "status": "uncertain",
+              "value": 750.0,
+              "value_max": null,
+              "timestamp": "2026-11-13T11:07:49.799435+00:00"
+            }
+          ],
+          "original_value": 750.0,
+          "verification_pass2": {
+            "model": "gpt-6-luna",
+            "locator": "tiles",
+            "bbox": [
+              0.4578333333333333,
+              0.7885833333333333,
+              0.477,
+              0.86025
+            ],
+            "crop_bbox": [
+              0.37718818260135073,
+              0.7315870111139698,
+              0.5576451505098005,
+              0.9172462575962371
+            ],
+            "crop_path": "crops\\p041_4122fb96e4bd1976-41-vision-3_3.png",
+            "read_value": {
+              "printed": "750",
+              "unit": "",
+              "unreadable": false,
+              "reason": "The vertical dimension is explicitly labeled 750; no unit is printed."
+            },
+            "outcome": "uncertain",
+            "reason": "Blind reading disagrees with candidate or unit",
+            "timestamp": "2026-11-13T11:07:49.799435+00:00",
+            "warning": "Same model as first pass; independent cropped prompt only.",
+            "before": {
+              "label": "Leaning against sloping backrest vertical dimension",
+              "value": 750.0,
+              "value_max": null,
+              "unit": "mm",
+              "context": "Figure 21, leaning against sloping backrest; vertical dimension",
+              "status": "uncertain",
+              "ocr_raw": "750"
+            }
+          }
+        },
+        {
+          "label": "Lying with raised back horizontal dimension",
+          "value": 1625.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Figure 22, lying with raised back; horizontal dimension",
+          "status": "uncertain",
+          "ocr_raw": "DIMENSIONAL BASICS AND RELATIONSHIPS\nBody Measurements and Space Requirements\n\nDIMENSIONAL\nBASICS AND\nRELATIONSHIPS\n\nMan as measure\nand purpose\nThe universal\nstandard\nBody\nmeasurements\nand space\nrequirements\n\nGeometrical\nrelationships\nDimensions in\nbuilding\n\nl----750---\\\n\n0\n\nJ----875---j\n\ne\n\nf) Bending over\n\nf----875--l\n\n0 In movement\n\nJ----875------1\n\ne\n\n!-----700-----1\nSquatting\n\n1----1125----l\n\n(!) Outstretched arm (forwards) CD Outstretched arm (sideways)\n\n1----1250----1\n\nl--900-1000---\\\n\nf----875 ------1\n\nDimensions: at the dining table\n\nf---625-----j\n\n0 Sitting (from the side) e Kneeling\n\nSitting (from\nthe front)\n\n}---875---j\n\nStanding leaning forward,\nstanding\n\nm\n\nC!) Dimensions: at the desk\n\nt-875------1\n\nt------625-----j\n\nf) Sitting cross-legged\n\nCrawling\n\nf) Dimensions: in a small easy chair\n\nQ Dimensions: in an armchair\n\nGi) Sitting on a chair\n\ncg) Sitting on the floor\n\nJ---660---l\n\ni'\n'\n\n'\n~-1\nI\n\nI\n\n~\n\ne\n\nWorking while standing\n\n0) Kneeling\n\n1------1875------1\n\n1--1250-----i\n\nfli) Sitting on a mattress\n28\n\n~\n\nLeaning against sloping backrest\n\n~\n\nLying with raised back\n\n@) Lying\n\n\f",
+          "status_history": [
+            {
+              "status": "uncertain",
+              "value": 1625.0,
+              "value_max": null,
+              "timestamp": "2026-11-13T11:07:56.147868+00:00"
+            }
+          ],
+          "original_value": 1625.0,
+          "verification_pass2": {
+            "model": "gpt-6-luna",
+            "locator": "tiles",
+            "bbox": [
+              0.4931,
+              0.8595333333333333,
+              0.6472,
+              0.867775
+            ],
+            "crop_bbox": [
+              0.41245485300751444,
+              0.8025370435463239,
+              0.7278451462644117,
+              0.9247712884885073
+            ],
+            "crop_path": "crops\\p041_4122fb96e4bd1976-41-vision-3_4.png",
+            "read_value": {
+              "printed": "1625",
+              "unit": "",
+              "unreadable": false,
+              "reason": "The horizontal dimension beneath \u201cLying with raised back\u201d is printed as 1625; no unit is shown."
+            },
+            "outcome": "uncertain",
+            "reason": "Blind reading disagrees with candidate or unit",
+            "timestamp": "2026-11-13T11:07:56.147868+00:00",
+            "warning": "Same model as first pass; independent cropped prompt only.",
+            "before": {
+              "label": "Lying with raised back horizontal dimension",
+              "value": 1625.0,
+              "value_max": null,
+              "unit": "mm",
+              "context": "Figure 22, lying with raised back; horizontal dimension",
+              "status": "uncertain",
+              "ocr_raw": "DIMENSIONAL BASICS AND RELATIONSHIPS\nBody Measurements and Space Requirements\n\nDIMENSIONAL\nBASICS AND\nRELATIONSHIPS\n\nMan as measure\nand purpose\nThe universal\nstandard\nBody\nmeasurements\nand space\nrequirements\n\nGeometrical\nrelationships\nDimensions in\nbuilding\n\nl----750---\\\n\n0\n\nJ----875---j\n\ne\n\nf) Bending over\n\nf----875--l\n\n0 In movement\n\nJ----875------1\n\ne\n\n!-----700-----1\nSquatting\n\n1----1125----l\n\n(!) Outstretched arm (forwards) CD Outstretched arm (sideways)\n\n1----1250----1\n\nl--900-1000---\\\n\nf----875 ------1\n\nDimensions: at the dining table\n\nf---625-----j\n\n0 Sitting (from the side) e Kneeling\n\nSitting (from\nthe front)\n\n}---875---j\n\nStanding leaning forward,\nstanding\n\nm\n\nC!) Dimensions: at the desk\n\nt-875------1\n\nt------625-----j\n\nf) Sitting cross-legged\n\nCrawling\n\nf) Dimensions: in a small easy chair\n\nQ Dimensions: in an armchair\n\nGi) Sitting on a chair\n\ncg) Sitting on the floor\n\nJ---660---l\n\ni'\n'\n\n'\n~-1\nI\n\nI\n\n~\n\ne\n\nWorking while standing\n\n0) Kneeling\n\n1------1875------1\n\n1--1250-----i\n\nfli) Sitting on a mattress\n28\n\n~\n\nLeaning against sloping backrest\n\n~\n\nLying with raised back\n\n@) Lying\n\n\f"
+            }
+          }
+        },
+        {
+          "label": "Lying with raised back vertical dimension",
+          "value": 625.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Figure 22, lying with raised back; vertical dimension",
+          "status": "uncertain",
+          "ocr_raw": "625",
+          "status_history": [
+            {
+              "status": "uncertain",
+              "value": 625.0,
+              "value_max": null,
+              "timestamp": "2026-11-13T11:08:03.822193+00:00"
+            }
+          ],
+          "original_value": 625.0,
+          "verification_pass2": {
+            "model": "gpt-6-luna",
+            "locator": "tiles",
+            "bbox": [
+              0.6495,
+              0.8065,
+              0.6686666666666666,
+              0.8530833333333333
+            ],
+            "crop_bbox": [
+              0.5688548227770647,
+              0.7495037306266511,
+              0.7493118419583261,
+              0.9100796132758852
+            ],
+            "crop_path": "crops\\p041_4122fb96e4bd1976-41-vision-3_5.png",
+            "read_value": {
+              "printed": "625",
+              "unit": "",
+              "unreadable": false,
+              "reason": "The vertical dimension is explicitly labeled 625; no unit is printed."
+            },
+            "outcome": "uncertain",
+            "reason": "Blind reading disagrees with candidate or unit",
+            "timestamp": "2026-11-13T11:08:03.822193+00:00",
+            "warning": "Same model as first pass; independent cropped prompt only.",
+            "before": {
+              "label": "Lying with raised back vertical dimension",
+              "value": 625.0,
+              "value_max": null,
+              "unit": "mm",
+              "context": "Figure 22, lying with raised back; vertical dimension",
+              "status": "uncertain",
+              "ocr_raw": "625"
+            }
+          }
+        },
+        {
+          "label": "Lying overall horizontal dimension",
+          "value": 2000.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Figure 23, lying; horizontal floor-space dimension",
+          "status": "uncertain",
+          "ocr_raw": "DIMENSIONAL BASICS AND RELATIONSHIPS\nBody Measurements and Space Requirements\n\nDIMENSIONAL\nBASICS AND\nRELATIONSHIPS\n\nMan as measure\nand purpose\nThe universal\nstandard\nBody\nmeasurements\nand space\nrequirements\n\nGeometrical\nrelationships\nDimensions in\nbuilding\n\nl----750---\\\n\n0\n\nJ----875---j\n\ne\n\nf) Bending over\n\nf----875--l\n\n0 In movement\n\nJ----875------1\n\ne\n\n!-----700-----1\nSquatting\n\n1----1125----l\n\n(!) Outstretched arm (forwards) CD Outstretched arm (sideways)\n\n1----1250----1\n\nl--900-1000---\\\n\nf----875 ------1\n\nDimensions: at the dining table\n\nf---625-----j\n\n0 Sitting (from the side) e Kneeling\n\nSitting (from\nthe front)\n\n}---875---j\n\nStanding leaning forward,\nstanding\n\nm\n\nC!) Dimensions: at the desk\n\nt-875------1\n\nt------625-----j\n\nf) Sitting cross-legged\n\nCrawling\n\nf) Dimensions: in a small easy chair\n\nQ Dimensions: in an armchair\n\nGi) Sitting on a chair\n\ncg) Sitting on the floor\n\nJ---660---l\n\ni'\n'\n\n'\n~-1\nI\n\nI\n\n~\n\ne\n\nWorking while standing\n\n0) Kneeling\n\n1------1875------1\n\n1--1250-----i\n\nfli) Sitting on a mattress\n28\n\n~\n\nLeaning against sloping backrest\n\n~\n\nLying with raised back\n\n@) Lying\n\n\f",
+          "status_history": [
+            {
+              "status": "uncertain",
+              "value": 2000.0,
+              "value_max": null,
+              "timestamp": "2026-11-13T11:08:10.487691+00:00"
+            }
+          ],
+          "original_value": 2000.0,
+          "verification_pass2": {
+            "model": "gpt-6-luna",
+            "locator": "tiles",
+            "bbox": [
+              0.6810833333333333,
+              0.8530833333333333,
+              0.8745833333333333,
+              0.871
+            ],
+            "crop_bbox": [
+              0.6004381569393085,
+              0.79608702742074,
+              0.9552284783142155,
+              0.9279962603140322
+            ],
+            "crop_path": "crops\\p041_4122fb96e4bd1976-41-vision-3_6.png",
+            "read_value": {
+              "printed": "2000",
+              "unit": "",
+              "unreadable": false,
+              "reason": "The 2000 dimension marks the overall horizontal floor-space span for the lying figure."
+            },
+            "outcome": "uncertain",
+            "reason": "Blind reading disagrees with candidate or unit",
+            "timestamp": "2026-11-13T11:08:10.487691+00:00",
+            "warning": "Same model as first pass; independent cropped prompt only.",
+            "before": {
+              "label": "Lying overall horizontal dimension",
+              "value": 2000.0,
+              "value_max": null,
+              "unit": "mm",
+              "context": "Figure 23, lying; horizontal floor-space dimension",
+              "status": "uncertain",
+              "ocr_raw": "DIMENSIONAL BASICS AND RELATIONSHIPS\nBody Measurements and Space Requirements\n\nDIMENSIONAL\nBASICS AND\nRELATIONSHIPS\n\nMan as measure\nand purpose\nThe universal\nstandard\nBody\nmeasurements\nand space\nrequirements\n\nGeometrical\nrelationships\nDimensions in\nbuilding\n\nl----750---\\\n\n0\n\nJ----875---j\n\ne\n\nf) Bending over\n\nf----875--l\n\n0 In movement\n\nJ----875------1\n\ne\n\n!-----700-----1\nSquatting\n\n1----1125----l\n\n(!) Outstretched arm (forwards) CD Outstretched arm (sideways)\n\n1----1250----1\n\nl--900-1000---\\\n\nf----875 ------1\n\nDimensions: at the dining table\n\nf---625-----j\n\n0 Sitting (from the side) e Kneeling\n\nSitting (from\nthe front)\n\n}---875---j\n\nStanding leaning forward,\nstanding\n\nm\n\nC!) Dimensions: at the desk\n\nt-875------1\n\nt------625-----j\n\nf) Sitting cross-legged\n\nCrawling\n\nf) Dimensions: in a small easy chair\n\nQ Dimensions: in an armchair\n\nGi) Sitting on a chair\n\ncg) Sitting on the floor\n\nJ---660---l\n\ni'\n'\n\n'\n~-1\nI\n\nI\n\n~\n\ne\n\nWorking while standing\n\n0) Kneeling\n\n1------1875------1\n\n1--1250-----i\n\nfli) Sitting on a mattress\n28\n\n~\n\nLeaning against sloping backrest\n\n~\n\nLying with raised back\n\n@) Lying\n\n\f"
+            }
+          }
+        },
+        {
+          "label": "Lying body-length dimension",
+          "value": 1875.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Figure 23, lying; dashed horizontal dimension",
+          "status": "uncertain",
+          "ocr_raw": "1875",
+          "status_history": [
+            {
+              "status": "uncertain",
+              "value": 1875.0,
+              "value_max": null,
+              "timestamp": "2026-11-13T11:08:18.140182+00:00"
+            }
+          ],
+          "original_value": 1875.0,
+          "verification_pass2": {
+            "model": "gpt-6-luna",
+            "locator": "tiles",
+            "bbox": [
+              0.6878916666666666,
+              0.8039916666666667,
+              0.8520083333333333,
+              0.8125916666666666
+            ],
+            "crop_bbox": [
+              0.6072465197809994,
+              0.7469953869958943,
+              0.932653469523492,
+              0.8695879460354617
+            ],
+            "crop_path": "crops\\p041_4122fb96e4bd1976-41-vision-3_7.png",
+            "read_value": {
+              "printed": "1875",
+              "unit": "",
+              "unreadable": false,
+              "reason": "The dashed horizontal dimension above the lying figure is labeled 1875; no unit is printed."
+            },
+            "outcome": "uncertain",
+            "reason": "Blind reading disagrees with candidate or unit",
+            "timestamp": "2026-11-13T11:08:18.140182+00:00",
+            "warning": "Same model as first pass; independent cropped prompt only.",
+            "before": {
+              "label": "Lying body-length dimension",
+              "value": 1875.0,
+              "value_max": null,
+              "unit": "mm",
+              "context": "Figure 23, lying; dashed horizontal dimension",
+              "status": "uncertain",
+              "ocr_raw": "1875"
+            }
+          }
+        },
+        {
+          "label": "Lying vertical dimension",
+          "value": 300.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Figure 23, lying; vertical dimension",
+          "status": "uncertain",
+          "ocr_raw": "DIMENSIONAL BASICS AND RELATIONSHIPS\nBody Measurements and Space Requirements\n\nDIMENSIONAL\nBASICS AND\nRELATIONSHIPS\n\nMan as measure\nand purpose\nThe universal\nstandard\nBody\nmeasurements\nand space\nrequirements\n\nGeometrical\nrelationships\nDimensions in\nbuilding\n\nl----750---\\\n\n0\n\nJ----875---j\n\ne\n\nf) Bending over\n\nf----875--l\n\n0 In movement\n\nJ----875------1\n\ne\n\n!-----700-----1\nSquatting\n\n1----1125----l\n\n(!) Outstretched arm (forwards) CD Outstretched arm (sideways)\n\n1----1250----1\n\nl--900-1000---\\\n\nf----875 ------1\n\nDimensions: at the dining table\n\nf---625-----j\n\n0 Sitting (from the side) e Kneeling\n\nSitting (from\nthe front)\n\n}---875---j\n\nStanding leaning forward,\nstanding\n\nm\n\nC!) Dimensions: at the desk\n\nt-875------1\n\nt------625-----j\n\nf) Sitting cross-legged\n\nCrawling\n\nf) Dimensions: in a small easy chair\n\nQ Dimensions: in an armchair\n\nGi) Sitting on a chair\n\ncg) Sitting on the floor\n\nJ---660---l\n\ni'\n'\n\n'\n~-1\nI\n\nI\n\n~\n\ne\n\nWorking while standing\n\n0) Kneeling\n\n1------1875------1\n\n1--1250-----i\n\nfli) Sitting on a mattress\n28\n\n~\n\nLeaning against sloping backrest\n\n~\n\nLying with raised back\n\n@) Lying\n\n\f",
+          "status_history": [
+            {
+              "status": "uncertain",
+              "value": 300.0,
+              "value_max": null,
+              "timestamp": "2026-11-13T11:08:24.081545+00:00"
+            }
+          ],
+          "original_value": 300.0,
+          "verification_pass2": {
+            "model": "gpt-6-luna",
+            "locator": "tiles",
+            "bbox": [
+              0.8638333333333333,
+              0.8315833333333333,
+              0.88175,
+              0.86025
+            ],
+            "crop_bbox": [
+              0.7831881988035592,
+              0.77458702198515,
+              0.9623951868365875,
+              0.9172462575962371
+            ],
+            "crop_path": "crops\\p041_4122fb96e4bd1976-41-vision-3_8.png",
+            "read_value": {
+              "printed": "300",
+              "unit": "",
+              "unreadable": false,
+              "reason": "The vertical dimension beside the lying figure is printed as 300; no unit is visible."
+            },
+            "outcome": "uncertain",
+            "reason": "Blind reading disagrees with candidate or unit",
+            "timestamp": "2026-11-13T11:08:24.081545+00:00",
+            "warning": "Same model as first pass; independent cropped prompt only.",
+            "before": {
+              "label": "Lying vertical dimension",
+              "value": 300.0,
+              "value_max": null,
+              "unit": "mm",
+              "context": "Figure 23, lying; vertical dimension",
+              "status": "uncertain",
+              "ocr_raw": "DIMENSIONAL BASICS AND RELATIONSHIPS\nBody Measurements and Space Requirements\n\nDIMENSIONAL\nBASICS AND\nRELATIONSHIPS\n\nMan as measure\nand purpose\nThe universal\nstandard\nBody\nmeasurements\nand space\nrequirements\n\nGeometrical\nrelationships\nDimensions in\nbuilding\n\nl----750---\\\n\n0\n\nJ----875---j\n\ne\n\nf) Bending over\n\nf----875--l\n\n0 In movement\n\nJ----875------1\n\ne\n\n!-----700-----1\nSquatting\n\n1----1125----l\n\n(!) Outstretched arm (forwards) CD Outstretched arm (sideways)\n\n1----1250----1\n\nl--900-1000---\\\n\nf----875 ------1\n\nDimensions: at the dining table\n\nf---625-----j\n\n0 Sitting (from the side) e Kneeling\n\nSitting (from\nthe front)\n\n}---875---j\n\nStanding leaning forward,\nstanding\n\nm\n\nC!) Dimensions: at the desk\n\nt-875------1\n\nt------625-----j\n\nf) Sitting cross-legged\n\nCrawling\n\nf) Dimensions: in a small easy chair\n\nQ Dimensions: in an armchair\n\nGi) Sitting on a chair\n\ncg) Sitting on the floor\n\nJ---660---l\n\ni'\n'\n\n'\n~-1\nI\n\nI\n\n~\n\ne\n\nWorking while standing\n\n0) Kneeling\n\n1------1875------1\n\n1--1250-----i\n\nfli) Sitting on a mattress\n28\n\n~\n\nLeaning against sloping backrest\n\n~\n\nLying with raised back\n\n@) Lying\n\n\f"
+            }
+          }
+        }
+      ],
+      "figure_refs": [
+        "20",
+        "21",
+        "22",
+        "23"
+      ],
+      "cross_refs": [],
+      "keywords": [
+        "resting",
+        "mattress",
+        "reclining",
+        "lying",
+        "backrest"
+      ],
+      "tags_architectural": [
+        "anthropometry",
+        "clearance",
+        "ergonomics",
+        "spatial_proportion"
+      ],
+      "confidence": 0.85
+    }
+  ]
+}

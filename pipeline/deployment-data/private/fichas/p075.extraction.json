@@ -1,0 +1,123 @@
+{
+  "fichas": [
+    {
+      "id": "4122fb96e4bd1976-75-vision-0",
+      "pdf_page": 75,
+      "book_page": 62,
+      "chapter": "DESIGN PROCESS",
+      "section": "Design and Construction Management",
+      "title": "Construction Work Scheduling Methods",
+      "summary": "Presents a building schedule as a bar chart and a network diagram using the forward arrow method / Critical Path Method (CPM). Explains bar charts, line diagrams, and network diagrams for scheduling construction activities, showing their uses and limitations.",
+      "building_type": "Construction project",
+      "spaces": [],
+      "uses": [
+        "Plan and monitor construction activity durations",
+        "Show work activities against construction time",
+        "Represent time-distance relationships and work progress",
+        "Analyze, plan, and control complex construction sequences"
+      ],
+      "furniture_equipment": [],
+      "dimensions": [
+        {
+          "label": "Activity week axis",
+          "value": 5.0,
+          "value_max": 45.0,
+          "unit": "weeks",
+          "context": "Printed horizontal scale of the building schedule bar chart.",
+          "status": "uncertain",
+          "ocr_raw": "5 10 15 20 25 30 35 40 45"
+        }
+      ],
+      "figure_refs": [
+        "1: Building schedule as bar chart",
+        "2: Network diagram; example: forward arrow method / Critical Path Method (CPM)"
+      ],
+      "cross_refs": [
+        "see also: HOAI p. 57"
+      ],
+      "keywords": [
+        "construction scheduling",
+        "bar chart",
+        "line diagram",
+        "time-distance diagram",
+        "network diagram",
+        "critical path",
+        "CPM",
+        "MPM",
+        "PERT",
+        "construction sequence"
+      ],
+      "tags_architectural": [
+        "circulation"
+      ],
+      "confidence": 0.96
+    },
+    {
+      "id": "4122fb96e4bd1976-75-vision-1",
+      "pdf_page": 75,
+      "book_page": 62,
+      "chapter": "DESIGN PROCESS",
+      "section": "Design and Construction Management",
+      "title": "Supervision and Support of Construction",
+      "summary": "Outlines basic and special services for construction supervision and support. Basic services include compliance checks, coordination, schedule and cost control, acceptance, defect monitoring, documentation, and handover. Special services include payment and progress schedules, as-built drawings, building security and administration, and maintenance-related tasks.",
+      "building_type": "Building construction project",
+      "spaces": [
+        "Building site"
+      ],
+      "uses": [
+        "Supervise construction for compliance with permits, drawings, specifications, and regulations",
+        "Monitor structural work and coordinate project participants",
+        "Track construction time, costs, invoices, and defects",
+        "Support acceptance, handover, documentation, and post-handover maintenance"
+      ],
+      "furniture_equipment": [
+        "Construction time plan (bar chart)",
+        "Building site diary",
+        "As-built drawings",
+        "Equipment and materials lists",
+        "Maintenance and care instructions"
+      ],
+      "dimensions": [
+        {
+          "label": "HOAI work phases",
+          "value": 8.0,
+          "value_max": null,
+          "unit": "work phases",
+          "context": "Work phases associated with supervision and support of construction; the reference names phases 8 and 9.",
+          "status": "uncertain",
+          "ocr_raw": "(HOAI, work phases 8 + 9 → refs)"
+        },
+        {
+          "label": "Guarantee period limit after acceptance",
+          "value": 5.0,
+          "value_max": null,
+          "unit": "years",
+          "context": "Latest stated time for monitoring remediation of defects occurring within the guarantee period.",
+          "status": "uncertain",
+          "ocr_raw": "but at the latest before five years since the acceptance of the building works."
+        }
+      ],
+      "figure_refs": [],
+      "cross_refs": [
+        "HOAI, work phases 8 + 9 → refs",
+        "DIN 276"
+      ],
+      "keywords": [
+        "construction supervision",
+        "construction management",
+        "building permit",
+        "structural safety",
+        "construction schedule",
+        "cost control",
+        "acceptance",
+        "defects",
+        "guarantee period",
+        "handover"
+      ],
+      "tags_architectural": [
+        "safety"
+      ],
+      "confidence": 0.94
+    }
+  ]
+}

@@ -1,0 +1,382 @@
+{
+  "fichas": [
+    {
+      "id": "4122fb96e4bd1976-399-vision-0",
+      "pdf_page": 399,
+      "book_page": 386,
+      "chapter": "TRANSPORT",
+      "section": "Roads",
+      "title": "Guidelines for road noise protection",
+      "summary": "Road traffic noise can be mitigated with earth banks, noise-reduction walls, and noise-reduction pyramids. The mitigation effect depends mainly on barrier height and the resulting noise shadow; some sound bends around the barrier. The text gives categories for reflecting and absorbing walls and refers to RLS-81 for calculation methods.",
+      "building_type": "Road noise mitigation infrastructure",
+      "spaces": [
+        "Road",
+        "Roadside noise barrier",
+        "Adjacent housing"
+      ],
+      "uses": [
+        "Reduce road traffic noise at nearby buildings",
+        "Shield residential areas from traffic noise"
+      ],
+      "furniture_equipment": [
+        "Earth banks",
+        "Noise-reduction walls",
+        "Noise-reduction pyramids",
+        "Precast concrete elements",
+        "Glass, timber, and steel barrier components"
+      ],
+      "dimensions": [
+        {
+          "label": "Approximate road-traffic noise reduction on the far side of a wall",
+          "value": 25.0,
+          "value_max": null,
+          "unit": "dB(A)",
+          "context": "Guideline for noise reduction on the other side of a noise-reduction wall; OCR marks the value as approximate.",
+          "status": "uncertain",
+          "ocr_raw": "Road traffic noise should be reduced by about ≅25 dB (A) on the other side of the noise reduction wall."
+        },
+        {
+          "label": "Reflecting wall noise reduction value",
+          "value": 4.0,
+          "value_max": null,
+          "unit": "dB(A)",
+          "context": "Reflecting noise-reduction wall category; value is stated as less than 4 dB(A).",
+          "status": "uncertain",
+          "ocr_raw": "Noise reduction walls can be reflecting Δ LA, a, STR. <4 dB (A)"
+        },
+        {
+          "label": "Absorbing wall noise reduction value",
+          "value": 4.0,
+          "value_max": 8.0,
+          "unit": "dB(A)",
+          "context": "Absorbing noise-reduction wall category; lower bound is inclusive and upper bound is exclusive in the printed text.",
+          "status": "uncertain",
+          "ocr_raw": "absorbing 4 dB (A) ≦LA a STR. <8 dB (A)"
+        },
+        {
+          "label": "Highly absorbing wall noise reduction threshold",
+          "value": 8.0,
+          "value_max": null,
+          "unit": "dB(A)",
+          "context": "Highly absorbing noise-reduction wall category; printed as at least 8 dB(A).",
+          "status": "uncertain",
+          "ocr_raw": "highly absorbing 8 dB (A) ≦LA a STR."
+        }
+      ],
+      "figure_refs": [
+        "1",
+        "2",
+        "3",
+        "8",
+        "9",
+        "10",
+        "11"
+      ],
+      "cross_refs": [
+        "→ 1–7",
+        "Windows pp. 97, 100",
+        "Glass pp. 105, 107"
+      ],
+      "keywords": [
+        "road noise",
+        "noise mitigation",
+        "noise barrier",
+        "earth bank",
+        "noise shadow",
+        "sound absorption",
+        "RLS-81"
+      ],
+      "tags_architectural": [
+        "safety",
+        "adaptability"
+      ],
+      "confidence": 0.91
+    },
+    {
+      "id": "4122fb96e4bd1976-399-vision-1",
+      "pdf_page": 399,
+      "book_page": 386,
+      "chapter": "TRANSPORT",
+      "section": "Roads",
+      "title": "Roadside noise-barrier forms and construction",
+      "summary": "The illustrated measures include earth banks, walls, a wall in a house garden, a protection wall made from concrete blocks, and pyramid or wall-shaped precast noise barriers. The height and configuration of barriers are illustrated in section; the diagrams also show a standard road barrier arrangement and barrier-height determination relative to a road and housing.",
+      "building_type": "Roadside noise barrier",
+      "spaces": [
+        "Roadway",
+        "Road verge",
+        "Barrier",
+        "Adjacent garden",
+        "Adjacent housing"
+      ],
+      "uses": [
+        "Mitigate road traffic noise",
+        "Screen nearby buildings from road noise"
+      ],
+      "furniture_equipment": [
+        "Earth bank",
+        "Concrete-block protection wall",
+        "Precast concrete pyramid barrier",
+        "Noise-barrier wall"
+      ],
+      "dimensions": [
+        {
+          "label": "Protection wall height",
+          "value": 1.19,
+          "value_max": null,
+          "unit": "m",
+          "context": "Captioned height for protection wall of concrete blocks; OCR reads the inequality as H ≤ 1.19.",
+          "status": "uncertain",
+          "ocr_raw": "Protection wall of concrete blocks H ≦1.19"
+        },
+        {
+          "label": "Pyramid barrier base width",
+          "value": 2.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Dimension shown at the base of the pyramid noise barrier; the drawing labels the total as 2.50 with two side portions marked 25 each.",
+          "status": "uncertain",
+          "ocr_raw": "2.50 ... 25 ... 2.00 ... 25"
+        },
+        {
+          "label": "Pyramid barrier height",
+          "value": 1.86,
+          "value_max": 4.19,
+          "unit": "m",
+          "context": "Vertical dimension range shown beside the pyramid noise barrier drawing.",
+          "status": "uncertain",
+          "ocr_raw": "1.86–4.19"
+        },
+        {
+          "label": "Pyramid noise-barrier width",
+          "value": 1.5,
+          "value_max": null,
+          "unit": "m",
+          "context": "Base width shown for the pyramid noise barrier, with 25 cm margins at both sides.",
+          "status": "uncertain",
+          "ocr_raw": "25 | 1.50 | 25"
+        },
+        {
+          "label": "Noise-barrier wall width",
+          "value": 1.12,
+          "value_max": null,
+          "unit": "m",
+          "context": "Top width dimension shown on the noise-barrier wall section.",
+          "status": "uncertain",
+          "ocr_raw": "1.12"
+        },
+        {
+          "label": "Noise-barrier wall base width",
+          "value": 1.5,
+          "value_max": null,
+          "unit": "m",
+          "context": "Bottom dimension shown for the noise-barrier wall, with 25 cm margins at both sides.",
+          "status": "uncertain",
+          "ocr_raw": "25 + 50 + 25"
+        },
+        {
+          "label": "Concrete-block barrier element length notation",
+          "value": 50.0,
+          "value_max": 100.0,
+          "unit": "cm",
+          "context": "Dimension notation printed alongside the pyramid barrier elements.",
+          "status": "uncertain",
+          "ocr_raw": "L = 50 + 100"
+        },
+        {
+          "label": "Road gradient",
+          "value": 4.0,
+          "value_max": 6.0,
+          "unit": "%",
+          "context": "Gradient marked on the standard arrangement of noise barriers on roads.",
+          "status": "uncertain",
+          "ocr_raw": "4–6%"
+        }
+      ],
+      "figure_refs": [
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7"
+      ],
+      "cross_refs": [],
+      "keywords": [
+        "noise barrier",
+        "roadside protection",
+        "concrete blocks",
+        "precast concrete",
+        "earth bank",
+        "barrier section"
+      ],
+      "tags_architectural": [
+        "safety",
+        "spatial_proportion",
+        "adaptability"
+      ],
+      "confidence": 0.83
+    },
+    {
+      "id": "4122fb96e4bd1976-399-vision-2",
+      "pdf_page": 399,
+      "book_page": 386,
+      "chapter": "TRANSPORT",
+      "section": "Roads",
+      "title": "Noise levels, distance reduction, and barrier performance",
+      "summary": "The page provides diagrams and tables for planned sound levels by area, noise reduction with distance, noise reduction by barrier height, and approximate road-traffic noise estimation by traffic loading and distance from the road centre. The isophone diagram depicts noise levels around a road, an earth bank, and a noise-shielding wall.",
+      "building_type": "Road noise assessment and mitigation reference",
+      "spaces": [
+        "Road",
+        "Noise-shadow zone",
+        "Residential area",
+        "Commercial area",
+        "Industrial area"
+      ],
+      "uses": [
+        "Estimate existing or expected road-traffic noise",
+        "Compare planned sound levels by land-use area",
+        "Estimate noise reduction with distance and barrier height"
+      ],
+      "furniture_equipment": [
+        "Noise barrier",
+        "Earth bank",
+        "Noise-level charts and tables"
+      ],
+      "dimensions": [
+        {
+          "label": "Daytime planned sound level, residential zone and weekend homes",
+          "value": 50.0,
+          "value_max": null,
+          "unit": "dB(A)",
+          "context": "Daytime planned sound level in the printed area-use table.",
+          "status": "uncertain",
+          "ocr_raw": "residential zone, weekend homes 50 35"
+        },
+        {
+          "label": "Nighttime planned sound level, residential zone and weekend homes",
+          "value": 35.0,
+          "value_max": null,
+          "unit": "dB(A)",
+          "context": "Nighttime planned sound level in the printed area-use table.",
+          "status": "uncertain",
+          "ocr_raw": "residential zone, weekend homes 50 35"
+        },
+        {
+          "label": "Daytime planned sound level, general residential area and small housing estate",
+          "value": 55.0,
+          "value_max": null,
+          "unit": "dB(A)",
+          "context": "The OCR line places 35 beside the area name; the diagram/table print is read as daytime 55 and nighttime 40.",
+          "status": "uncertain",
+          "ocr_raw": "general residential area, 35 40"
+        },
+        {
+          "label": "Nighttime planned sound level, general residential area and small housing estate",
+          "value": 40.0,
+          "value_max": null,
+          "unit": "dB(A)",
+          "context": "Nighttime planned sound level as printed alongside the general residential area entry.",
+          "status": "uncertain",
+          "ocr_raw": "general residential area, 35 40"
+        },
+        {
+          "label": "Barrier height for road-noise reduction table",
+          "value": 1.0,
+          "value_max": 7.0,
+          "unit": "m",
+          "context": "Barrier heights listed across the table.",
+          "status": "uncertain",
+          "ocr_raw": "Barrier or wall, height (m) 1 2 3 4 5 6 7"
+        },
+        {
+          "label": "Noise reduction at 1 m barrier height",
+          "value": 6.0,
+          "value_max": null,
+          "unit": "dB(A)",
+          "context": "Reduction corresponding to a 1 m barrier in the printed table.",
+          "status": "uncertain",
+          "ocr_raw": "Reduction in dB (A) 6 10 14 16.5 18.5 20.5 23.5"
+        },
+        {
+          "label": "Noise reduction at 2 m barrier height",
+          "value": 10.0,
+          "value_max": null,
+          "unit": "dB(A)",
+          "context": "Reduction corresponding to a 2 m barrier in the printed table.",
+          "status": "uncertain",
+          "ocr_raw": "Reduction in dB (A) 6 10 14 16.5 18.5 20.5 23.5"
+        },
+        {
+          "label": "Noise reduction at 3 m barrier height",
+          "value": 14.0,
+          "value_max": null,
+          "unit": "dB(A)",
+          "context": "Reduction corresponding to a 3 m barrier in the printed table.",
+          "status": "uncertain",
+          "ocr_raw": "Reduction in dB (A) 6 10 14 16.5 18.5 20.5 23.5"
+        },
+        {
+          "label": "Noise reduction at 4 m barrier height",
+          "value": 16.5,
+          "value_max": null,
+          "unit": "dB(A)",
+          "context": "Reduction corresponding to a 4 m barrier in the printed table.",
+          "status": "uncertain",
+          "ocr_raw": "Reduction in dB (A) 6 10 14 16.5 18.5 20.5 23.5"
+        },
+        {
+          "label": "Noise reduction at 5 m barrier height",
+          "value": 18.5,
+          "value_max": null,
+          "unit": "dB(A)",
+          "context": "Reduction corresponding to a 5 m barrier in the printed table.",
+          "status": "uncertain",
+          "ocr_raw": "Reduction in dB (A) 6 10 14 16.5 18.5 20.5 23.5"
+        },
+        {
+          "label": "Noise reduction at 6 m barrier height",
+          "value": 20.5,
+          "value_max": null,
+          "unit": "dB(A)",
+          "context": "Reduction corresponding to a 6 m barrier in the printed table.",
+          "status": "uncertain",
+          "ocr_raw": "Reduction in dB (A) 6 10 14 16.5 18.5 20.5 23.5"
+        },
+        {
+          "label": "Noise reduction at 7 m barrier height",
+          "value": 23.5,
+          "value_max": null,
+          "unit": "dB(A)",
+          "context": "Reduction corresponding to a 7 m barrier in the printed table.",
+          "status": "uncertain",
+          "ocr_raw": "Reduction in dB (A) 6 10 14 16.5 18.5 20.5 23.5"
+        }
+      ],
+      "figure_refs": [
+        "1",
+        "8",
+        "9",
+        "10",
+        "11"
+      ],
+      "cross_refs": [
+        "Windows pp. 97, 100",
+        "Glass pp. 105, 107"
+      ],
+      "keywords": [
+        "sound level",
+        "dB(A)",
+        "traffic loading",
+        "noise reduction",
+        "barrier height",
+        "emission distance",
+        "planned sound levels"
+      ],
+      "tags_architectural": [
+        "safety",
+        "daylighting"
+      ],
+      "confidence": 0.72
+    }
+  ]
+}

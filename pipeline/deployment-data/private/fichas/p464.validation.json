@@ -1,0 +1,683 @@
+{
+  "model": "gpt-6-luna",
+  "checks": {
+    "checks": [
+      {
+        "ficha_index": 0,
+        "dimension_index": 0,
+        "status": "verified",
+        "value": 2.0,
+        "value_max": 5.0,
+        "reason": "Text visibly states 2.0\u20135.0 m/s."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 1,
+        "status": "verified",
+        "value": 5.0,
+        "value_max": null,
+        "reason": "Figure 2 states at least 5 m stack height."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 2,
+        "status": "verified",
+        "value": 105.0,
+        "value_max": 125.0,
+        "reason": "Figure 4 visibly gives 105\u2013125 kWh/LU/year."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 3,
+        "status": "verified",
+        "value": 98.0,
+        "value_max": 105.0,
+        "reason": "Figure 5 visibly gives 98\u2013105 kWh/LU/year."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 4,
+        "status": "verified",
+        "value": 1.5,
+        "value_max": 2.0,
+        "reason": "Figure 6 states 1.5 to 2 times."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 5,
+        "status": "verified",
+        "value": 205.0,
+        "value_max": null,
+        "reason": "Figure 6 visibly gives 205 kWh/LU/year."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 6,
+        "status": "verified",
+        "value": 1.1,
+        "value_max": null,
+        "reason": "Figure 8 labels the dust filter mat 1.1 m\u00b2."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 7,
+        "status": "verified",
+        "value": 1000.0,
+        "value_max": null,
+        "reason": "Figure 8 visibly states 1000 m\u00b3 air."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 8,
+        "status": "verified",
+        "value": 2.0,
+        "value_max": null,
+        "reason": "Figure 8 labels the dimension ca. 2.00; the drawing is dimensioned in metres."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 9,
+        "status": "verified",
+        "value": 7.0,
+        "value_max": null,
+        "reason": "Figure 8 labels the extent up to about 7.00; the drawing is dimensioned in metres."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 10,
+        "status": "verified",
+        "value": 1.0,
+        "value_max": 1.2,
+        "reason": "Figure 8 visibly labels 1.00\u20131.20; the drawing is dimensioned in metres."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 11,
+        "status": "verified",
+        "value": 1.0,
+        "value_max": null,
+        "reason": "Figure 8 visibly labels 1.00; the drawing is dimensioned in metres."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 12,
+        "status": "verified",
+        "value": 2.0,
+        "value_max": null,
+        "reason": "Figure 8 visibly labels a 2% gradient."
+      },
+      {
+        "ficha_index": 1,
+        "dimension_index": 0,
+        "status": "verified",
+        "value": 0.15,
+        "value_max": null,
+        "reason": "Figure 9 shows 0.15 m/s for under 18 \u00b0C."
+      },
+      {
+        "ficha_index": 1,
+        "dimension_index": 1,
+        "status": "verified",
+        "value": 0.2,
+        "value_max": null,
+        "reason": "Figure 9 shows 0.20 m/s at 20 \u00b0C."
+      },
+      {
+        "ficha_index": 1,
+        "dimension_index": 2,
+        "status": "verified",
+        "value": 0.24,
+        "value_max": null,
+        "reason": "Figure 9 shows 0.24 m/s over 22 \u00b0C."
+      },
+      {
+        "ficha_index": 1,
+        "dimension_index": 3,
+        "status": "verified",
+        "value": 0.35,
+        "value_max": null,
+        "reason": "Figure 9 shows 0.35 m/s at 24 \u00b0C."
+      },
+      {
+        "ficha_index": 1,
+        "dimension_index": 4,
+        "status": "verified",
+        "value": 0.5,
+        "value_max": null,
+        "reason": "Figure 9 shows 0.50 m/s at 26 \u00b0C."
+      },
+      {
+        "ficha_index": 1,
+        "dimension_index": 5,
+        "status": "verified",
+        "value": 3.5,
+        "value_max": null,
+        "reason": "Figure 10 shows 3.50 l/m\u00b3 for animals."
+      },
+      {
+        "ficha_index": 1,
+        "dimension_index": 6,
+        "status": "verified",
+        "value": 5.0,
+        "value_max": null,
+        "reason": "Figure 10 shows 5.00 l/m\u00b3 as the maximum workplace concentration."
+      },
+      {
+        "ficha_index": 1,
+        "dimension_index": 7,
+        "status": "verified",
+        "value": 0.05,
+        "value_max": null,
+        "reason": "Figure 10 shows 0.05 l/m\u00b3 for animals."
+      },
+      {
+        "ficha_index": 1,
+        "dimension_index": 8,
+        "status": "verified",
+        "value": 0.05,
+        "value_max": null,
+        "reason": "Figure 10 shows 0.05 l/m\u00b3 as the maximum workplace concentration."
+      },
+      {
+        "ficha_index": 1,
+        "dimension_index": 9,
+        "status": "verified",
+        "value": 0.01,
+        "value_max": null,
+        "reason": "Figure 10 shows 0.01 l/m\u00b3 for animals."
+      },
+      {
+        "ficha_index": 1,
+        "dimension_index": 10,
+        "status": "verified",
+        "value": 0.01,
+        "value_max": null,
+        "reason": "Figure 10 shows 0.01 l/m\u00b3 as the maximum workplace concentration."
+      },
+      {
+        "ficha_index": 2,
+        "dimension_index": 0,
+        "status": "verified",
+        "value": 0.0,
+        "value_max": 20.0,
+        "reason": "Figure 11 shows 0\u201320 \u00b0C."
+      },
+      {
+        "ficha_index": 2,
+        "dimension_index": 1,
+        "status": "verified",
+        "value": 18.0,
+        "value_max": 20.0,
+        "reason": "Figure 11 prints 20\u201318* \u00b0C; the proposed endpoints are normalized."
+      },
+      {
+        "ficha_index": 2,
+        "dimension_index": 2,
+        "status": "verified",
+        "value": 16.0,
+        "value_max": 20.0,
+        "reason": "Figure 11 prints 20\u201316* \u00b0C; the proposed endpoints are normalized."
+      },
+      {
+        "ficha_index": 2,
+        "dimension_index": 3,
+        "status": "verified",
+        "value": 5.0,
+        "value_max": 15.0,
+        "reason": "Figure 11 shows 5\u201315 \u00b0C."
+      },
+      {
+        "ficha_index": 2,
+        "dimension_index": 4,
+        "status": "verified",
+        "value": 19.0,
+        "value_max": 20.0,
+        "reason": "Figure 11 prints 20\u201319* \u00b0C; the proposed endpoints are normalized."
+      },
+      {
+        "ficha_index": 2,
+        "dimension_index": 5,
+        "status": "verified",
+        "value": 12.0,
+        "value_max": 16.0,
+        "reason": "Figure 11 shows 12\u201316 \u00b0C."
+      },
+      {
+        "ficha_index": 2,
+        "dimension_index": 6,
+        "status": "verified",
+        "value": 30.0,
+        "value_max": 32.0,
+        "reason": "Figure 11 shows 30\u201332 \u00b0C."
+      },
+      {
+        "ficha_index": 2,
+        "dimension_index": 7,
+        "status": "verified",
+        "value": 20.0,
+        "value_max": 22.0,
+        "reason": "Figure 11 shows 20\u201322 \u00b0C."
+      },
+      {
+        "ficha_index": 2,
+        "dimension_index": 8,
+        "status": "verified",
+        "value": 18.0,
+        "value_max": 22.0,
+        "reason": "Figure 11 prints 22\u201318* \u00b0C; the proposed endpoints are normalized."
+      },
+      {
+        "ficha_index": 2,
+        "dimension_index": 9,
+        "status": "verified",
+        "value": 22.0,
+        "value_max": 26.0,
+        "reason": "Figure 11 prints 26\u201322* \u00b0C; the proposed endpoints are normalized."
+      },
+      {
+        "ficha_index": 2,
+        "dimension_index": 10,
+        "status": "verified",
+        "value": 18.0,
+        "value_max": 32.0,
+        "reason": "Figure 11 prints 32\u201318* \u00b0C; the proposed endpoints are normalized."
+      },
+      {
+        "ficha_index": 2,
+        "dimension_index": 11,
+        "status": "verified",
+        "value": 3.0,
+        "value_max": null,
+        "reason": "Figure 11 explicitly states a 3 \u00b0C decrease for each week of life."
+      },
+      {
+        "ficha_index": 2,
+        "dimension_index": 12,
+        "status": "verified",
+        "value": 15.0,
+        "value_max": 22.0,
+        "reason": "Figure 11 shows 15\u201322 \u00b0C."
+      },
+      {
+        "ficha_index": 2,
+        "dimension_index": 13,
+        "status": "verified",
+        "value": 18.0,
+        "value_max": 36.0,
+        "reason": "Figure 11 prints 36\u201318* \u00b0C; the proposed endpoints are normalized."
+      },
+      {
+        "ficha_index": 2,
+        "dimension_index": 14,
+        "status": "verified",
+        "value": 3.0,
+        "value_max": null,
+        "reason": "Figure 11 explicitly states a 3 \u00b0C decrease for each week of life."
+      },
+      {
+        "ficha_index": 2,
+        "dimension_index": 15,
+        "status": "verified",
+        "value": 10.0,
+        "value_max": 19.0,
+        "reason": "Figure 11 prints 19\u201310* \u00b0C; the proposed endpoints are normalized."
+      },
+      {
+        "ficha_index": 2,
+        "dimension_index": 16,
+        "status": "verified",
+        "value": 10.0,
+        "value_max": 30.0,
+        "reason": "Figure 11 prints 30\u201310* \u00b0C; the proposed endpoints are normalized."
+      },
+      {
+        "ficha_index": 2,
+        "dimension_index": 17,
+        "status": "verified",
+        "value": 10.0,
+        "value_max": 15.0,
+        "reason": "Figure 11 shows 10\u201315 \u00b0C."
+      },
+      {
+        "ficha_index": 2,
+        "dimension_index": 18,
+        "status": "verified",
+        "value": 15.0,
+        "value_max": 17.0,
+        "reason": "Figure 11 shows 15\u201317 \u00b0C."
+      },
+      {
+        "ficha_index": 2,
+        "dimension_index": 19,
+        "status": "verified",
+        "value": 6.0,
+        "value_max": 14.0,
+        "reason": "Figure 11 shows 6\u201314 \u00b0C."
+      },
+      {
+        "ficha_index": 2,
+        "dimension_index": 20,
+        "status": "verified",
+        "value": 14.0,
+        "value_max": 16.0,
+        "reason": "Figure 11 prints 16\u201314* \u00b0C; the proposed endpoints are normalized."
+      }
+    ]
+  },
+  "automatic": [
+    {
+      "ficha_index": 0,
+      "dimension_index": 0,
+      "issues": [
+        "Unknown unit"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 1,
+      "issues": []
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 2,
+      "issues": [
+        "Unknown unit"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 3,
+      "issues": [
+        "Unknown unit"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 4,
+      "issues": [
+        "Unknown unit"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 5,
+      "issues": [
+        "Unknown unit"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 6,
+      "issues": []
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 7,
+      "issues": [
+        "Unknown unit"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 8,
+      "issues": []
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 9,
+      "issues": []
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 10,
+      "issues": []
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 11,
+      "issues": []
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 12,
+      "issues": [
+        "Unknown unit"
+      ]
+    },
+    {
+      "ficha_index": 1,
+      "dimension_index": 0,
+      "issues": [
+        "Unknown unit"
+      ]
+    },
+    {
+      "ficha_index": 1,
+      "dimension_index": 1,
+      "issues": [
+        "Unknown unit"
+      ]
+    },
+    {
+      "ficha_index": 1,
+      "dimension_index": 2,
+      "issues": [
+        "Unknown unit"
+      ]
+    },
+    {
+      "ficha_index": 1,
+      "dimension_index": 3,
+      "issues": [
+        "Unknown unit"
+      ]
+    },
+    {
+      "ficha_index": 1,
+      "dimension_index": 4,
+      "issues": [
+        "Unknown unit"
+      ]
+    },
+    {
+      "ficha_index": 1,
+      "dimension_index": 5,
+      "issues": [
+        "Unknown unit"
+      ]
+    },
+    {
+      "ficha_index": 1,
+      "dimension_index": 6,
+      "issues": [
+        "Unknown unit"
+      ]
+    },
+    {
+      "ficha_index": 1,
+      "dimension_index": 7,
+      "issues": [
+        "Unknown unit"
+      ]
+    },
+    {
+      "ficha_index": 1,
+      "dimension_index": 8,
+      "issues": [
+        "Unknown unit"
+      ]
+    },
+    {
+      "ficha_index": 1,
+      "dimension_index": 9,
+      "issues": [
+        "Unknown unit"
+      ]
+    },
+    {
+      "ficha_index": 1,
+      "dimension_index": 10,
+      "issues": [
+        "Unknown unit"
+      ]
+    },
+    {
+      "ficha_index": 2,
+      "dimension_index": 0,
+      "issues": [
+        "Unknown unit",
+        "Plausibility limit; visual review required"
+      ]
+    },
+    {
+      "ficha_index": 2,
+      "dimension_index": 1,
+      "issues": [
+        "Unknown unit"
+      ]
+    },
+    {
+      "ficha_index": 2,
+      "dimension_index": 2,
+      "issues": [
+        "Unknown unit"
+      ]
+    },
+    {
+      "ficha_index": 2,
+      "dimension_index": 3,
+      "issues": [
+        "Unknown unit"
+      ]
+    },
+    {
+      "ficha_index": 2,
+      "dimension_index": 4,
+      "issues": [
+        "Unknown unit"
+      ]
+    },
+    {
+      "ficha_index": 2,
+      "dimension_index": 5,
+      "issues": [
+        "Unknown unit"
+      ]
+    },
+    {
+      "ficha_index": 2,
+      "dimension_index": 6,
+      "issues": [
+        "Unknown unit"
+      ]
+    },
+    {
+      "ficha_index": 2,
+      "dimension_index": 7,
+      "issues": [
+        "Unknown unit"
+      ]
+    },
+    {
+      "ficha_index": 2,
+      "dimension_index": 8,
+      "issues": [
+        "Unknown unit"
+      ]
+    },
+    {
+      "ficha_index": 2,
+      "dimension_index": 9,
+      "issues": [
+        "Unknown unit"
+      ]
+    },
+    {
+      "ficha_index": 2,
+      "dimension_index": 10,
+      "issues": [
+        "Unknown unit"
+      ]
+    },
+    {
+      "ficha_index": 2,
+      "dimension_index": 11,
+      "issues": [
+        "Unknown unit"
+      ]
+    },
+    {
+      "ficha_index": 2,
+      "dimension_index": 12,
+      "issues": [
+        "Unknown unit"
+      ]
+    },
+    {
+      "ficha_index": 2,
+      "dimension_index": 13,
+      "issues": [
+        "Unknown unit"
+      ]
+    },
+    {
+      "ficha_index": 2,
+      "dimension_index": 14,
+      "issues": [
+        "Unknown unit"
+      ]
+    },
+    {
+      "ficha_index": 2,
+      "dimension_index": 15,
+      "issues": [
+        "Unknown unit"
+      ]
+    },
+    {
+      "ficha_index": 2,
+      "dimension_index": 16,
+      "issues": [
+        "Unknown unit"
+      ]
+    },
+    {
+      "ficha_index": 2,
+      "dimension_index": 17,
+      "issues": [
+        "Unknown unit"
+      ]
+    },
+    {
+      "ficha_index": 2,
+      "dimension_index": 18,
+      "issues": [
+        "Unknown unit"
+      ]
+    },
+    {
+      "ficha_index": 2,
+      "dimension_index": 19,
+      "issues": [
+        "Unknown unit"
+      ]
+    },
+    {
+      "ficha_index": 2,
+      "dimension_index": 20,
+      "issues": [
+        "Unknown unit"
+      ]
+    }
+  ],
+  "usage": [
+    {
+      "prompt_tokens": 14778,
+      "completion_tokens": 7093
+    },
+    {
+      "prompt_tokens": 7602,
+      "completion_tokens": 2160
+    }
+  ]
+}

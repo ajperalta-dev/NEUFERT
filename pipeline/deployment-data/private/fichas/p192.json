@@ -1,0 +1,458 @@
+{
+  "fichas": [
+    {
+      "id": "4122fb96e4bd1976-192-vision-0",
+      "pdf_page": 192,
+      "book_page": 179,
+      "chapter": "ACCOMMODATION",
+      "section": "Catering",
+      "title": "Restaurant Kitchens: Planning and Organisation",
+      "summary": "Small and medium-sized restaurant kitchens require planning that responds to customer capacity, the type and quality of meals, the share of food prepared from raw ingredients, and customer turnover. Functional diagrams show goods, waste, container and crockery flows, and the relationships between kitchen and service areas.",
+      "building_type": "Restaurant kitchen",
+      "spaces": [
+        "Goods inward and checking",
+        "Storage",
+        "Preparation areas",
+        "Hot kitchen",
+        "Cold kitchen",
+        "Patisserie",
+        "Dishwashing",
+        "Servery",
+        "Waiter passage",
+        "Restaurant"
+      ],
+      "uses": [
+        "Receive and check supplies",
+        "Store food and equipment",
+        "Prepare and cook food",
+        "Wash dishes and pots",
+        "Serve food and drinks",
+        "Manage goods, waste, container and crockery circulation"
+      ],
+      "furniture_equipment": [
+        "Gastronorm containers",
+        "Tables",
+        "Shelves",
+        "Kitchen devices",
+        "Crockery",
+        "Built-in units",
+        "Dishwasher"
+      ],
+      "dimensions": [
+        {
+          "label": "Gastronorm module length",
+          "value": 530.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Module basis for containers, tables, shelves, devices, crockery and built-in units",
+          "status": "verified",
+          "ocr_raw": "530 x 325 mm"
+        },
+        {
+          "label": "Gastronorm module width",
+          "value": 325.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Module basis for containers, tables, shelves, devices, crockery and built-in units",
+          "status": "verified",
+          "ocr_raw": "530 x 325 mm"
+        },
+        {
+          "label": "Fast-food seat changes",
+          "value": 1.0,
+          "value_max": 3.0,
+          "unit": "times per hour",
+          "context": "Rule of thumb for seat changes in fast food restaurants",
+          "status": "verified",
+          "ocr_raw": "about 1-3 times per hour"
+        },
+        {
+          "label": "Conventional restaurant seat changes",
+          "value": 2.0,
+          "value_max": null,
+          "unit": "times per hour",
+          "context": "Rule of thumb for seat changes in conventional restaurants",
+          "status": "verified",
+          "ocr_raw": "about 2"
+        },
+        {
+          "label": "Guest stay in speciality and evening-based restaurants",
+          "value": 1.3,
+          "value_max": 2.0,
+          "unit": "hours",
+          "context": "Average duration of a guest stay",
+          "status": "verified",
+          "ocr_raw": "1.3-2 hours"
+        },
+        {
+          "label": "Small operation seating capacity",
+          "value": 40.0,
+          "value_max": 60.0,
+          "unit": "seats",
+          "context": "Bistros, snack bars, small cafés, and speciality restaurants classified as small operations",
+          "status": "verified",
+          "ocr_raw": "40-60 seats"
+        },
+        {
+          "label": "Small-to-medium unit capacity",
+          "value": 70.0,
+          "value_max": 100.0,
+          "unit": "places",
+          "context": "Capacity associated with carefully zoned and fully equipped kitchen facilities",
+          "status": "verified",
+          "ocr_raw": "70-1 00 places"
+        },
+        {
+          "label": "Working aisle width",
+          "value": 0.9,
+          "value_max": 1.2,
+          "unit": "m",
+          "context": "Storage, preparation and production working aisles",
+          "status": "verified",
+          "ocr_raw": "0.90-1.20 m"
+        },
+        {
+          "label": "Side traffic route width",
+          "value": 1.5,
+          "value_max": 1.8,
+          "unit": "m",
+          "context": "Side traffic routes with temporary overlapping use",
+          "status": "verified",
+          "ocr_raw": "1.50-1.80 m"
+        },
+        {
+          "label": "Main traffic route width",
+          "value": 2.1,
+          "value_max": 3.3,
+          "unit": "m",
+          "context": "Main routes for transport and two-way through traffic",
+          "status": "verified",
+          "ocr_raw": "2.10-3.30 m wide"
+        },
+        {
+          "label": "Aisle width in small-to-medium restaurants",
+          "value": 1.0,
+          "value_max": 1.5,
+          "unit": "m",
+          "context": "Suggested aisle width for kitchen areas in small-to-medium restaurants",
+          "status": "verified",
+          "ocr_raw": "1.00-1.50 m"
+        }
+      ],
+      "figure_refs": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "cross_refs": [
+        "p. 181"
+      ],
+      "keywords": [
+        "restaurant kitchen",
+        "Gastronorm",
+        "kitchen planning",
+        "goods flow",
+        "waste flow",
+        "seat turnover",
+        "aisle widths"
+      ],
+      "tags_architectural": [
+        "circulation",
+        "ergonomics",
+        "clearance",
+        "safety",
+        "modularity"
+      ],
+      "confidence": 0.95
+    },
+    {
+      "id": "4122fb96e4bd1976-192-vision-1",
+      "pdf_page": 192,
+      "book_page": 179,
+      "chapter": "ACCOMMODATION",
+      "section": "Catering",
+      "title": "Restaurant Kitchen Areas: Space Required per Seat",
+      "summary": "A table gives functional area requirements in square metres per seat for kitchens serving 80, 120 and 200 seats. Values are listed by area, including delivery, storage, preparation, production, washing and service. Some entries are printed as “fridge” rather than as numeric values.",
+      "building_type": "Restaurant kitchen",
+      "spaces": [
+        "Goods inward",
+        "Cold rooms",
+        "Freezer room",
+        "Dry goods store",
+        "Drinks store",
+        "Vegetable preparation",
+        "Meat preparation",
+        "Hot kitchen",
+        "Cold kitchen",
+        "Patisserie",
+        "Pot washing",
+        "Dishwasher",
+        "Service/waiter office"
+      ],
+      "uses": [
+        "Plan kitchen floor area by function and seating capacity"
+      ],
+      "furniture_equipment": [
+        "Refrigerators"
+      ],
+      "dimensions": [
+        {
+          "label": "Total kitchen area per seat, 80 seats",
+          "value": 1.3,
+          "value_max": 1.675,
+          "unit": "m²/seat",
+          "context": "Total kitchen space requirement for the 80-seat column",
+          "status": "verified",
+          "ocr_raw": "1.3-1.675"
+        },
+        {
+          "label": "Total kitchen area per seat, 120 seats",
+          "value": 1.25,
+          "value_max": 1.55,
+          "unit": "m²/seat",
+          "context": "Total kitchen space requirement for the 120-seat column",
+          "status": "verified",
+          "ocr_raw": "1.25-1.55"
+        },
+        {
+          "label": "Total kitchen area per seat, 200 seats",
+          "value": 1.18,
+          "value_max": 1.44,
+          "unit": "m²/seat",
+          "context": "Total kitchen space requirement for the 200-seat column",
+          "status": "verified",
+          "ocr_raw": "1.18-1.44"
+        },
+        {
+          "label": "Kitchen facilities per seat, 80 seats",
+          "value": 0.525,
+          "value_max": 0.625,
+          "unit": "m²/seat",
+          "context": "Kitchen facilities subtotal in the 80-seat column",
+          "status": "verified",
+          "ocr_raw": "0.525-0.625"
+        },
+        {
+          "label": "Kitchen facilities per seat, 120 seats",
+          "value": 0.47,
+          "value_max": 0.567,
+          "unit": "m²/seat",
+          "context": "Kitchen facilities subtotal in the 120-seat column",
+          "status": "verified",
+          "ocr_raw": "0.47-0.567"
+        },
+        {
+          "label": "Kitchen facilities per seat, 200 seats",
+          "value": 0.41,
+          "value_max": 0.5,
+          "unit": "m²/seat",
+          "context": "Kitchen facilities subtotal in the 200-seat column",
+          "status": "verified",
+          "ocr_raw": "0.41-0.5"
+        },
+        {
+          "label": "Seats represented in table",
+          "value": 80.0,
+          "value_max": null,
+          "unit": "seats",
+          "context": "First capacity column in the kitchen area schedule",
+          "status": "verified",
+          "ocr_raw": "80"
+        },
+        {
+          "label": "Seats represented in table",
+          "value": 120.0,
+          "value_max": null,
+          "unit": "seats",
+          "context": "Second capacity column in the kitchen area schedule",
+          "status": "verified",
+          "ocr_raw": "120"
+        },
+        {
+          "label": "Seats represented in table",
+          "value": 200.0,
+          "value_max": null,
+          "unit": "seats",
+          "context": "Third capacity column in the kitchen area schedule",
+          "status": "verified",
+          "ocr_raw": "200"
+        }
+      ],
+      "figure_refs": [
+        "3"
+      ],
+      "cross_refs": [],
+      "keywords": [
+        "kitchen area",
+        "area per seat",
+        "space requirement",
+        "seating capacity",
+        "functional areas"
+      ],
+      "tags_architectural": [
+        "spatial_proportion"
+      ],
+      "confidence": 0.94
+    },
+    {
+      "id": "4122fb96e4bd1976-192-vision-2",
+      "pdf_page": 192,
+      "book_page": 179,
+      "chapter": "ACCOMMODATION",
+      "section": "Catering",
+      "title": "Basis for Kitchen Dimensions and Space Requirements",
+      "summary": "The page gives percentage allocations for kitchen functions, totalling 100%, and illustrates the classification and relationships of functional areas in clean and unclean zones. Earth-covered vegetables, if prepared, are to be handled in a separate part of the unclean area.",
+      "building_type": "Restaurant kitchen",
+      "spaces": [
+        "Goods delivery and inspection",
+        "Freezer, cold and dry storage",
+        "Daily store",
+        "Vegetable and salad preparation",
+        "Cold dishes and desserts",
+        "Patisseries and cakes",
+        "Meat preparation",
+        "Cooking area",
+        "Washing area",
+        "Traffic area",
+        "Staff rooms and office",
+        "Clean zone",
+        "Unclean zone"
+      ],
+      "uses": [
+        "Allocate total kitchen space among functions",
+        "Separate clean and unclean activities",
+        "Organise functional relationships and service routes"
+      ],
+      "furniture_equipment": [
+        "Pot washer",
+        "Dishwasher",
+        "Staff changing room",
+        "Washroom",
+        "Toilets",
+        "Restroom",
+        "Servery"
+      ],
+      "dimensions": [
+        {
+          "label": "Goods delivery including inspection and waste storage",
+          "value": 10.0,
+          "value_max": null,
+          "unit": "%",
+          "context": "Proportion of total kitchen space requirement",
+          "status": "verified",
+          "ocr_raw": "CATERING\nRestaurant Kitchens\n\nThe trend away from conventional restaurants to those offering\na wide range of food not only affects the planning and design\nof dining rooms, but also of kitchens. Small and medium-sized\nrestaurant kitchens play a particular role here, and the following\ndetails are primarily based on this type of business.\nGastronorm system\nThe dimensions of containers, tables, shelves, devices, crockery\nand built-in units are all based on a 530 x 325 mm module -7\np. 181\n\no.\n\n~Store\n\nStore\nsupply\n\nwaste\n\nFunction and organisation of the restaurant kitchen -7 0 - 0\nThe capacity of the kitchen is primarily dependent on the number\nof customer seats, customer expectations (type, extent and quality\nof the meals offered), the proportion of products freshly prepared\nfrom raw (in contrast to ready-prepared food) and the rate of\ncustomer turnover all day or at mealtimes (consumer frequency).\n\nDishwasher\n\n.\n\nIn fast food restaurants the rule of thumb for seat changes is\nabout 1-3 times per hour, in conventional restaurants about 2.\nIn speciality and evening-based restaurants, the guests stay on\naverage for 1.3-2 hours.\n\nI Ser~;:_ 1- L___--+,__j\n.,.\n\nL ____ J\nRestaurant\n\nHot\n\n-Goods flow\n• • Waste flow\n- - Container circulation\n--Crockery circulation\n\nCold\npalisserie\n\nDrinks\nserving\n\nFood and drinks\nservery\nWaiter passage\n\n0 Restaurant kitchen: functions\n\nDirty\ndishes\nReturn\n\n8 Restaurant kitchen: organisation\n\nBistros, snack bars, small cafes - or speciality restaurants with\n40-60 seats- are classified as small operations. Small to medium\nunits (70-1 00 places) require on the other hand carefully zoned and\nfully equipped kitchen facilities. Large businesses (service areas,\nfast food restaurants, large hotel kitchens) achieve considerably\nhigher place numbers, often with an integrated eating bar or selfservice areas.\n\n80\n\n120\n\n200\n\ngoods inward\nempties\nwaste/rubbish\n\n0.05-0.075\n0.05-0.075\n0.05-0.075\n\n0.05-0.067\n0.05-0.067\n0.03-0.050\n\n0.05-0.06\n0.05-0.06\n0.03-0.04\n\ndelivery/disposal\n\n0.15-0.225\n\n0.13-0.183\n\n0.13-0.16\n\ncold room meat\ncold room fruit and vegetables\ncold room dairy products\ncold room cold service\ncool room drinks\nfreezer room\n\n0.05-0.075\n0.05-0.075\n\n0.05-0.067\n0.05-0.067\n0.03-0.05\n\nSeats\n\nfridge\nfridge\nfridge\n\nfridge\nfridge\n\n0.05-0.075\n\n0.05-0.067\n\n0.04-0.05\n0.04-0.05\n0.03-0.05\n0.02-0.03\n0.05-0.07\n0.06-0.08\n\ncooled goods delivery\n\n0.15-0.225\n\n0.183-0.25\n\n0.24-0.32\n\nstore dry goods\nstore drinks\nstore non-food\n\n0.15-0.175\n0.075-0.1\n0.075-0.1\n\n0.117-0.13\n0.1-0.117\n0.067-0.083\n\n0.09-0.1\n0.08-0.1\n0.07-0.08\n\ncooled goods storage\n\n0.3-0.375\n\n0.283-0.33\n\n0.24-0.28\n\nvegetable preparation\nmeat preparation\nfish/poultry preparation\nhot kitchen\ncold kitchen\npatisserie\npot washing\noffice kitchen manager\n\n0.075-0.1\n0.075-0.1\n0\n0.325-0.35\n0\n0\n0.05-0.Q75\n0\n\n0.067-0.083\n0.05-0.067\n0.03-0.05\n0.217-0.23\n0.05-0.067\n0\n0.05-0.067\n0\n\n0.04-0.05\n0.04-0.05\n0.03-0.04\n0.16-0.18\n0.04-0.05\n0.04-0.05\n0.03-0.04\n0.03-0.04\n\nkitchen facilities\n\n0.525-0.625\n\n0.47-0.567\n\n0.41-0.5\n\ndishwasher\nservice/waiter office\ndishwasher/office\n\n0.1-0.125\n0.075-0.1\n\n0.1-0.117\n0.083-0.1\n\n0.09-0.1\n0.07-0.08\n\n0.175-0.225\n\n0.183-0.217\n\n0.16-0.18\n\n-Total\n\n1.3-1.675\n\n1.25-1.55\n\n1.18-1.44\n\n0\n\n2\n\nKitchen areas: space required (m /seat)\n\nPercentage of total kitchen space requirement -7 0\nDifferentiated according to small, medium and large kitchens, floor\narea values for individual functions are be based on -7 0.\n\nAisle widths in storage, preparation and production areas differ\naccording to whether they are purely traffic routes or also overlap\nthe service area. Working aisle widths should be 0.90-1.20 m,\nside traffic routes with (temporary) overlapping use 1.50-1.80 m\nand main traffic routes (transport and two-way through traffic)\n2.10-3.30 m wide. For kitchen areas in small to medium\nrestaurants, aisle widths of 1.00-1.50 m should be sufficient.\n\nArea\ngooos ae 1very 1nc ua1ng 1nspec 1on ana was e s orage\nstorage in freezer, cold and dry rooms\ndaily store\nvegetable and salad preparation area\ncold dishes, desserts\npatisseries/cakes\nmeat preparation\ncooking area\nwashing area\ntraffic area\nstaff rooms and office\n\nProportion(%)\n10\n\n20\n2\n8\n8\n2\n8\n10\n17\n15\nTotal\n\ne\n\n100\n\nBasis for dimensions and space requirements\n\nempties\n\nI\n\nenes\n\nw\"t•J\n\nr~~~ It~~:;\n\noffice.\\\n\nrft\n1\n\ndeliv-\n\n..\ndry goods store\n\nstaff changing room\nwashroom\ntoilets\n\ndally store\n\n~:~. I p~:~.\n\npp~eap~ I\n\nrestroom\n\npot ~asher\n\nhot dishes\n\nI cold dishe~\n\ncake shop\n\ndish+asher\n\nservery, waiter's walkwa~\n\ncoffee room\n\n:............. buffet---------------------- bar 'ervery ...................................\n\nj\n\nKitchen areas: classification and relationships of functional areas in clean and\nunclean zones (if earth-covered vegetables are prepared, this must take place in\na separate part of the unclean area!)\n\n179\n\nCATERING\n\nArrangement\nRestaurants\nDining rooms\nFast food outlets\nRestaurant\nkitchens\nLarge kitchens\nExamples\n\nBS EN 203\nBS EN 631\nBS 6173\nBS EN 12851\nBSEN ISO 22000\nBIP 2130/2078\nDIN EN 631\nDIN 66075\n\n\f"
+        },
+        {
+          "label": "Storage in freezer, cold and dry rooms",
+          "value": 20.0,
+          "value_max": null,
+          "unit": "%",
+          "context": "Proportion of total kitchen space requirement",
+          "status": "verified",
+          "ocr_raw": "CATERING\nRestaurant Kitchens\n\nThe trend away from conventional restaurants to those offering\na wide range of food not only affects the planning and design\nof dining rooms, but also of kitchens. Small and medium-sized\nrestaurant kitchens play a particular role here, and the following\ndetails are primarily based on this type of business.\nGastronorm system\nThe dimensions of containers, tables, shelves, devices, crockery\nand built-in units are all based on a 530 x 325 mm module -7\np. 181\n\no.\n\n~Store\n\nStore\nsupply\n\nwaste\n\nFunction and organisation of the restaurant kitchen -7 0 - 0\nThe capacity of the kitchen is primarily dependent on the number\nof customer seats, customer expectations (type, extent and quality\nof the meals offered), the proportion of products freshly prepared\nfrom raw (in contrast to ready-prepared food) and the rate of\ncustomer turnover all day or at mealtimes (consumer frequency).\n\nDishwasher\n\n.\n\nIn fast food restaurants the rule of thumb for seat changes is\nabout 1-3 times per hour, in conventional restaurants about 2.\nIn speciality and evening-based restaurants, the guests stay on\naverage for 1.3-2 hours.\n\nI Ser~;:_ 1- L___--+,__j\n.,.\n\nL ____ J\nRestaurant\n\nHot\n\n-Goods flow\n• • Waste flow\n- - Container circulation\n--Crockery circulation\n\nCold\npalisserie\n\nDrinks\nserving\n\nFood and drinks\nservery\nWaiter passage\n\n0 Restaurant kitchen: functions\n\nDirty\ndishes\nReturn\n\n8 Restaurant kitchen: organisation\n\nBistros, snack bars, small cafes - or speciality restaurants with\n40-60 seats- are classified as small operations. Small to medium\nunits (70-1 00 places) require on the other hand carefully zoned and\nfully equipped kitchen facilities. Large businesses (service areas,\nfast food restaurants, large hotel kitchens) achieve considerably\nhigher place numbers, often with an integrated eating bar or selfservice areas.\n\n80\n\n120\n\n200\n\ngoods inward\nempties\nwaste/rubbish\n\n0.05-0.075\n0.05-0.075\n0.05-0.075\n\n0.05-0.067\n0.05-0.067\n0.03-0.050\n\n0.05-0.06\n0.05-0.06\n0.03-0.04\n\ndelivery/disposal\n\n0.15-0.225\n\n0.13-0.183\n\n0.13-0.16\n\ncold room meat\ncold room fruit and vegetables\ncold room dairy products\ncold room cold service\ncool room drinks\nfreezer room\n\n0.05-0.075\n0.05-0.075\n\n0.05-0.067\n0.05-0.067\n0.03-0.05\n\nSeats\n\nfridge\nfridge\nfridge\n\nfridge\nfridge\n\n0.05-0.075\n\n0.05-0.067\n\n0.04-0.05\n0.04-0.05\n0.03-0.05\n0.02-0.03\n0.05-0.07\n0.06-0.08\n\ncooled goods delivery\n\n0.15-0.225\n\n0.183-0.25\n\n0.24-0.32\n\nstore dry goods\nstore drinks\nstore non-food\n\n0.15-0.175\n0.075-0.1\n0.075-0.1\n\n0.117-0.13\n0.1-0.117\n0.067-0.083\n\n0.09-0.1\n0.08-0.1\n0.07-0.08\n\ncooled goods storage\n\n0.3-0.375\n\n0.283-0.33\n\n0.24-0.28\n\nvegetable preparation\nmeat preparation\nfish/poultry preparation\nhot kitchen\ncold kitchen\npatisserie\npot washing\noffice kitchen manager\n\n0.075-0.1\n0.075-0.1\n0\n0.325-0.35\n0\n0\n0.05-0.Q75\n0\n\n0.067-0.083\n0.05-0.067\n0.03-0.05\n0.217-0.23\n0.05-0.067\n0\n0.05-0.067\n0\n\n0.04-0.05\n0.04-0.05\n0.03-0.04\n0.16-0.18\n0.04-0.05\n0.04-0.05\n0.03-0.04\n0.03-0.04\n\nkitchen facilities\n\n0.525-0.625\n\n0.47-0.567\n\n0.41-0.5\n\ndishwasher\nservice/waiter office\ndishwasher/office\n\n0.1-0.125\n0.075-0.1\n\n0.1-0.117\n0.083-0.1\n\n0.09-0.1\n0.07-0.08\n\n0.175-0.225\n\n0.183-0.217\n\n0.16-0.18\n\n-Total\n\n1.3-1.675\n\n1.25-1.55\n\n1.18-1.44\n\n0\n\n2\n\nKitchen areas: space required (m /seat)\n\nPercentage of total kitchen space requirement -7 0\nDifferentiated according to small, medium and large kitchens, floor\narea values for individual functions are be based on -7 0.\n\nAisle widths in storage, preparation and production areas differ\naccording to whether they are purely traffic routes or also overlap\nthe service area. Working aisle widths should be 0.90-1.20 m,\nside traffic routes with (temporary) overlapping use 1.50-1.80 m\nand main traffic routes (transport and two-way through traffic)\n2.10-3.30 m wide. For kitchen areas in small to medium\nrestaurants, aisle widths of 1.00-1.50 m should be sufficient.\n\nArea\ngooos ae 1very 1nc ua1ng 1nspec 1on ana was e s orage\nstorage in freezer, cold and dry rooms\ndaily store\nvegetable and salad preparation area\ncold dishes, desserts\npatisseries/cakes\nmeat preparation\ncooking area\nwashing area\ntraffic area\nstaff rooms and office\n\nProportion(%)\n10\n\n20\n2\n8\n8\n2\n8\n10\n17\n15\nTotal\n\ne\n\n100\n\nBasis for dimensions and space requirements\n\nempties\n\nI\n\nenes\n\nw\"t•J\n\nr~~~ It~~:;\n\noffice.\\\n\nrft\n1\n\ndeliv-\n\n..\ndry goods store\n\nstaff changing room\nwashroom\ntoilets\n\ndally store\n\n~:~. I p~:~.\n\npp~eap~ I\n\nrestroom\n\npot ~asher\n\nhot dishes\n\nI cold dishe~\n\ncake shop\n\ndish+asher\n\nservery, waiter's walkwa~\n\ncoffee room\n\n:............. buffet---------------------- bar 'ervery ...................................\n\nj\n\nKitchen areas: classification and relationships of functional areas in clean and\nunclean zones (if earth-covered vegetables are prepared, this must take place in\na separate part of the unclean area!)\n\n179\n\nCATERING\n\nArrangement\nRestaurants\nDining rooms\nFast food outlets\nRestaurant\nkitchens\nLarge kitchens\nExamples\n\nBS EN 203\nBS EN 631\nBS 6173\nBS EN 12851\nBSEN ISO 22000\nBIP 2130/2078\nDIN EN 631\nDIN 66075\n\n\f"
+        },
+        {
+          "label": "Vegetable and salad preparation area",
+          "value": 2.0,
+          "value_max": null,
+          "unit": "%",
+          "context": "Proportion of total kitchen space requirement",
+          "status": "verified",
+          "ocr_raw": "CATERING\nRestaurant Kitchens\n\nThe trend away from conventional restaurants to those offering\na wide range of food not only affects the planning and design\nof dining rooms, but also of kitchens. Small and medium-sized\nrestaurant kitchens play a particular role here, and the following\ndetails are primarily based on this type of business.\nGastronorm system\nThe dimensions of containers, tables, shelves, devices, crockery\nand built-in units are all based on a 530 x 325 mm module -7\np. 181\n\no.\n\n~Store\n\nStore\nsupply\n\nwaste\n\nFunction and organisation of the restaurant kitchen -7 0 - 0\nThe capacity of the kitchen is primarily dependent on the number\nof customer seats, customer expectations (type, extent and quality\nof the meals offered), the proportion of products freshly prepared\nfrom raw (in contrast to ready-prepared food) and the rate of\ncustomer turnover all day or at mealtimes (consumer frequency).\n\nDishwasher\n\n.\n\nIn fast food restaurants the rule of thumb for seat changes is\nabout 1-3 times per hour, in conventional restaurants about 2.\nIn speciality and evening-based restaurants, the guests stay on\naverage for 1.3-2 hours.\n\nI Ser~;:_ 1- L___--+,__j\n.,.\n\nL ____ J\nRestaurant\n\nHot\n\n-Goods flow\n• • Waste flow\n- - Container circulation\n--Crockery circulation\n\nCold\npalisserie\n\nDrinks\nserving\n\nFood and drinks\nservery\nWaiter passage\n\n0 Restaurant kitchen: functions\n\nDirty\ndishes\nReturn\n\n8 Restaurant kitchen: organisation\n\nBistros, snack bars, small cafes - or speciality restaurants with\n40-60 seats- are classified as small operations. Small to medium\nunits (70-1 00 places) require on the other hand carefully zoned and\nfully equipped kitchen facilities. Large businesses (service areas,\nfast food restaurants, large hotel kitchens) achieve considerably\nhigher place numbers, often with an integrated eating bar or selfservice areas.\n\n80\n\n120\n\n200\n\ngoods inward\nempties\nwaste/rubbish\n\n0.05-0.075\n0.05-0.075\n0.05-0.075\n\n0.05-0.067\n0.05-0.067\n0.03-0.050\n\n0.05-0.06\n0.05-0.06\n0.03-0.04\n\ndelivery/disposal\n\n0.15-0.225\n\n0.13-0.183\n\n0.13-0.16\n\ncold room meat\ncold room fruit and vegetables\ncold room dairy products\ncold room cold service\ncool room drinks\nfreezer room\n\n0.05-0.075\n0.05-0.075\n\n0.05-0.067\n0.05-0.067\n0.03-0.05\n\nSeats\n\nfridge\nfridge\nfridge\n\nfridge\nfridge\n\n0.05-0.075\n\n0.05-0.067\n\n0.04-0.05\n0.04-0.05\n0.03-0.05\n0.02-0.03\n0.05-0.07\n0.06-0.08\n\ncooled goods delivery\n\n0.15-0.225\n\n0.183-0.25\n\n0.24-0.32\n\nstore dry goods\nstore drinks\nstore non-food\n\n0.15-0.175\n0.075-0.1\n0.075-0.1\n\n0.117-0.13\n0.1-0.117\n0.067-0.083\n\n0.09-0.1\n0.08-0.1\n0.07-0.08\n\ncooled goods storage\n\n0.3-0.375\n\n0.283-0.33\n\n0.24-0.28\n\nvegetable preparation\nmeat preparation\nfish/poultry preparation\nhot kitchen\ncold kitchen\npatisserie\npot washing\noffice kitchen manager\n\n0.075-0.1\n0.075-0.1\n0\n0.325-0.35\n0\n0\n0.05-0.Q75\n0\n\n0.067-0.083\n0.05-0.067\n0.03-0.05\n0.217-0.23\n0.05-0.067\n0\n0.05-0.067\n0\n\n0.04-0.05\n0.04-0.05\n0.03-0.04\n0.16-0.18\n0.04-0.05\n0.04-0.05\n0.03-0.04\n0.03-0.04\n\nkitchen facilities\n\n0.525-0.625\n\n0.47-0.567\n\n0.41-0.5\n\ndishwasher\nservice/waiter office\ndishwasher/office\n\n0.1-0.125\n0.075-0.1\n\n0.1-0.117\n0.083-0.1\n\n0.09-0.1\n0.07-0.08\n\n0.175-0.225\n\n0.183-0.217\n\n0.16-0.18\n\n-Total\n\n1.3-1.675\n\n1.25-1.55\n\n1.18-1.44\n\n0\n\n2\n\nKitchen areas: space required (m /seat)\n\nPercentage of total kitchen space requirement -7 0\nDifferentiated according to small, medium and large kitchens, floor\narea values for individual functions are be based on -7 0.\n\nAisle widths in storage, preparation and production areas differ\naccording to whether they are purely traffic routes or also overlap\nthe service area. Working aisle widths should be 0.90-1.20 m,\nside traffic routes with (temporary) overlapping use 1.50-1.80 m\nand main traffic routes (transport and two-way through traffic)\n2.10-3.30 m wide. For kitchen areas in small to medium\nrestaurants, aisle widths of 1.00-1.50 m should be sufficient.\n\nArea\ngooos ae 1very 1nc ua1ng 1nspec 1on ana was e s orage\nstorage in freezer, cold and dry rooms\ndaily store\nvegetable and salad preparation area\ncold dishes, desserts\npatisseries/cakes\nmeat preparation\ncooking area\nwashing area\ntraffic area\nstaff rooms and office\n\nProportion(%)\n10\n\n20\n2\n8\n8\n2\n8\n10\n17\n15\nTotal\n\ne\n\n100\n\nBasis for dimensions and space requirements\n\nempties\n\nI\n\nenes\n\nw\"t•J\n\nr~~~ It~~:;\n\noffice.\\\n\nrft\n1\n\ndeliv-\n\n..\ndry goods store\n\nstaff changing room\nwashroom\ntoilets\n\ndally store\n\n~:~. I p~:~.\n\npp~eap~ I\n\nrestroom\n\npot ~asher\n\nhot dishes\n\nI cold dishe~\n\ncake shop\n\ndish+asher\n\nservery, waiter's walkwa~\n\ncoffee room\n\n:............. buffet---------------------- bar 'ervery ...................................\n\nj\n\nKitchen areas: classification and relationships of functional areas in clean and\nunclean zones (if earth-covered vegetables are prepared, this must take place in\na separate part of the unclean area!)\n\n179\n\nCATERING\n\nArrangement\nRestaurants\nDining rooms\nFast food outlets\nRestaurant\nkitchens\nLarge kitchens\nExamples\n\nBS EN 203\nBS EN 631\nBS 6173\nBS EN 12851\nBSEN ISO 22000\nBIP 2130/2078\nDIN EN 631\nDIN 66075\n\n\f"
+        },
+        {
+          "label": "Cold dishes, desserts",
+          "value": 8.0,
+          "value_max": null,
+          "unit": "%",
+          "context": "Proportion of total kitchen space requirement",
+          "status": "verified",
+          "ocr_raw": "CATERING\nRestaurant Kitchens\n\nThe trend away from conventional restaurants to those offering\na wide range of food not only affects the planning and design\nof dining rooms, but also of kitchens. Small and medium-sized\nrestaurant kitchens play a particular role here, and the following\ndetails are primarily based on this type of business.\nGastronorm system\nThe dimensions of containers, tables, shelves, devices, crockery\nand built-in units are all based on a 530 x 325 mm module -7\np. 181\n\no.\n\n~Store\n\nStore\nsupply\n\nwaste\n\nFunction and organisation of the restaurant kitchen -7 0 - 0\nThe capacity of the kitchen is primarily dependent on the number\nof customer seats, customer expectations (type, extent and quality\nof the meals offered), the proportion of products freshly prepared\nfrom raw (in contrast to ready-prepared food) and the rate of\ncustomer turnover all day or at mealtimes (consumer frequency).\n\nDishwasher\n\n.\n\nIn fast food restaurants the rule of thumb for seat changes is\nabout 1-3 times per hour, in conventional restaurants about 2.\nIn speciality and evening-based restaurants, the guests stay on\naverage for 1.3-2 hours.\n\nI Ser~;:_ 1- L___--+,__j\n.,.\n\nL ____ J\nRestaurant\n\nHot\n\n-Goods flow\n• • Waste flow\n- - Container circulation\n--Crockery circulation\n\nCold\npalisserie\n\nDrinks\nserving\n\nFood and drinks\nservery\nWaiter passage\n\n0 Restaurant kitchen: functions\n\nDirty\ndishes\nReturn\n\n8 Restaurant kitchen: organisation\n\nBistros, snack bars, small cafes - or speciality restaurants with\n40-60 seats- are classified as small operations. Small to medium\nunits (70-1 00 places) require on the other hand carefully zoned and\nfully equipped kitchen facilities. Large businesses (service areas,\nfast food restaurants, large hotel kitchens) achieve considerably\nhigher place numbers, often with an integrated eating bar or selfservice areas.\n\n80\n\n120\n\n200\n\ngoods inward\nempties\nwaste/rubbish\n\n0.05-0.075\n0.05-0.075\n0.05-0.075\n\n0.05-0.067\n0.05-0.067\n0.03-0.050\n\n0.05-0.06\n0.05-0.06\n0.03-0.04\n\ndelivery/disposal\n\n0.15-0.225\n\n0.13-0.183\n\n0.13-0.16\n\ncold room meat\ncold room fruit and vegetables\ncold room dairy products\ncold room cold service\ncool room drinks\nfreezer room\n\n0.05-0.075\n0.05-0.075\n\n0.05-0.067\n0.05-0.067\n0.03-0.05\n\nSeats\n\nfridge\nfridge\nfridge\n\nfridge\nfridge\n\n0.05-0.075\n\n0.05-0.067\n\n0.04-0.05\n0.04-0.05\n0.03-0.05\n0.02-0.03\n0.05-0.07\n0.06-0.08\n\ncooled goods delivery\n\n0.15-0.225\n\n0.183-0.25\n\n0.24-0.32\n\nstore dry goods\nstore drinks\nstore non-food\n\n0.15-0.175\n0.075-0.1\n0.075-0.1\n\n0.117-0.13\n0.1-0.117\n0.067-0.083\n\n0.09-0.1\n0.08-0.1\n0.07-0.08\n\ncooled goods storage\n\n0.3-0.375\n\n0.283-0.33\n\n0.24-0.28\n\nvegetable preparation\nmeat preparation\nfish/poultry preparation\nhot kitchen\ncold kitchen\npatisserie\npot washing\noffice kitchen manager\n\n0.075-0.1\n0.075-0.1\n0\n0.325-0.35\n0\n0\n0.05-0.Q75\n0\n\n0.067-0.083\n0.05-0.067\n0.03-0.05\n0.217-0.23\n0.05-0.067\n0\n0.05-0.067\n0\n\n0.04-0.05\n0.04-0.05\n0.03-0.04\n0.16-0.18\n0.04-0.05\n0.04-0.05\n0.03-0.04\n0.03-0.04\n\nkitchen facilities\n\n0.525-0.625\n\n0.47-0.567\n\n0.41-0.5\n\ndishwasher\nservice/waiter office\ndishwasher/office\n\n0.1-0.125\n0.075-0.1\n\n0.1-0.117\n0.083-0.1\n\n0.09-0.1\n0.07-0.08\n\n0.175-0.225\n\n0.183-0.217\n\n0.16-0.18\n\n-Total\n\n1.3-1.675\n\n1.25-1.55\n\n1.18-1.44\n\n0\n\n2\n\nKitchen areas: space required (m /seat)\n\nPercentage of total kitchen space requirement -7 0\nDifferentiated according to small, medium and large kitchens, floor\narea values for individual functions are be based on -7 0.\n\nAisle widths in storage, preparation and production areas differ\naccording to whether they are purely traffic routes or also overlap\nthe service area. Working aisle widths should be 0.90-1.20 m,\nside traffic routes with (temporary) overlapping use 1.50-1.80 m\nand main traffic routes (transport and two-way through traffic)\n2.10-3.30 m wide. For kitchen areas in small to medium\nrestaurants, aisle widths of 1.00-1.50 m should be sufficient.\n\nArea\ngooos ae 1very 1nc ua1ng 1nspec 1on ana was e s orage\nstorage in freezer, cold and dry rooms\ndaily store\nvegetable and salad preparation area\ncold dishes, desserts\npatisseries/cakes\nmeat preparation\ncooking area\nwashing area\ntraffic area\nstaff rooms and office\n\nProportion(%)\n10\n\n20\n2\n8\n8\n2\n8\n10\n17\n15\nTotal\n\ne\n\n100\n\nBasis for dimensions and space requirements\n\nempties\n\nI\n\nenes\n\nw\"t•J\n\nr~~~ It~~:;\n\noffice.\\\n\nrft\n1\n\ndeliv-\n\n..\ndry goods store\n\nstaff changing room\nwashroom\ntoilets\n\ndally store\n\n~:~. I p~:~.\n\npp~eap~ I\n\nrestroom\n\npot ~asher\n\nhot dishes\n\nI cold dishe~\n\ncake shop\n\ndish+asher\n\nservery, waiter's walkwa~\n\ncoffee room\n\n:............. buffet---------------------- bar 'ervery ...................................\n\nj\n\nKitchen areas: classification and relationships of functional areas in clean and\nunclean zones (if earth-covered vegetables are prepared, this must take place in\na separate part of the unclean area!)\n\n179\n\nCATERING\n\nArrangement\nRestaurants\nDining rooms\nFast food outlets\nRestaurant\nkitchens\nLarge kitchens\nExamples\n\nBS EN 203\nBS EN 631\nBS 6173\nBS EN 12851\nBSEN ISO 22000\nBIP 2130/2078\nDIN EN 631\nDIN 66075\n\n\f"
+        },
+        {
+          "label": "Patisseries/cakes",
+          "value": 8.0,
+          "value_max": null,
+          "unit": "%",
+          "context": "Proportion of total kitchen space requirement",
+          "status": "verified",
+          "ocr_raw": "CATERING\nRestaurant Kitchens\n\nThe trend away from conventional restaurants to those offering\na wide range of food not only affects the planning and design\nof dining rooms, but also of kitchens. Small and medium-sized\nrestaurant kitchens play a particular role here, and the following\ndetails are primarily based on this type of business.\nGastronorm system\nThe dimensions of containers, tables, shelves, devices, crockery\nand built-in units are all based on a 530 x 325 mm module -7\np. 181\n\no.\n\n~Store\n\nStore\nsupply\n\nwaste\n\nFunction and organisation of the restaurant kitchen -7 0 - 0\nThe capacity of the kitchen is primarily dependent on the number\nof customer seats, customer expectations (type, extent and quality\nof the meals offered), the proportion of products freshly prepared\nfrom raw (in contrast to ready-prepared food) and the rate of\ncustomer turnover all day or at mealtimes (consumer frequency).\n\nDishwasher\n\n.\n\nIn fast food restaurants the rule of thumb for seat changes is\nabout 1-3 times per hour, in conventional restaurants about 2.\nIn speciality and evening-based restaurants, the guests stay on\naverage for 1.3-2 hours.\n\nI Ser~;:_ 1- L___--+,__j\n.,.\n\nL ____ J\nRestaurant\n\nHot\n\n-Goods flow\n• • Waste flow\n- - Container circulation\n--Crockery circulation\n\nCold\npalisserie\n\nDrinks\nserving\n\nFood and drinks\nservery\nWaiter passage\n\n0 Restaurant kitchen: functions\n\nDirty\ndishes\nReturn\n\n8 Restaurant kitchen: organisation\n\nBistros, snack bars, small cafes - or speciality restaurants with\n40-60 seats- are classified as small operations. Small to medium\nunits (70-1 00 places) require on the other hand carefully zoned and\nfully equipped kitchen facilities. Large businesses (service areas,\nfast food restaurants, large hotel kitchens) achieve considerably\nhigher place numbers, often with an integrated eating bar or selfservice areas.\n\n80\n\n120\n\n200\n\ngoods inward\nempties\nwaste/rubbish\n\n0.05-0.075\n0.05-0.075\n0.05-0.075\n\n0.05-0.067\n0.05-0.067\n0.03-0.050\n\n0.05-0.06\n0.05-0.06\n0.03-0.04\n\ndelivery/disposal\n\n0.15-0.225\n\n0.13-0.183\n\n0.13-0.16\n\ncold room meat\ncold room fruit and vegetables\ncold room dairy products\ncold room cold service\ncool room drinks\nfreezer room\n\n0.05-0.075\n0.05-0.075\n\n0.05-0.067\n0.05-0.067\n0.03-0.05\n\nSeats\n\nfridge\nfridge\nfridge\n\nfridge\nfridge\n\n0.05-0.075\n\n0.05-0.067\n\n0.04-0.05\n0.04-0.05\n0.03-0.05\n0.02-0.03\n0.05-0.07\n0.06-0.08\n\ncooled goods delivery\n\n0.15-0.225\n\n0.183-0.25\n\n0.24-0.32\n\nstore dry goods\nstore drinks\nstore non-food\n\n0.15-0.175\n0.075-0.1\n0.075-0.1\n\n0.117-0.13\n0.1-0.117\n0.067-0.083\n\n0.09-0.1\n0.08-0.1\n0.07-0.08\n\ncooled goods storage\n\n0.3-0.375\n\n0.283-0.33\n\n0.24-0.28\n\nvegetable preparation\nmeat preparation\nfish/poultry preparation\nhot kitchen\ncold kitchen\npatisserie\npot washing\noffice kitchen manager\n\n0.075-0.1\n0.075-0.1\n0\n0.325-0.35\n0\n0\n0.05-0.Q75\n0\n\n0.067-0.083\n0.05-0.067\n0.03-0.05\n0.217-0.23\n0.05-0.067\n0\n0.05-0.067\n0\n\n0.04-0.05\n0.04-0.05\n0.03-0.04\n0.16-0.18\n0.04-0.05\n0.04-0.05\n0.03-0.04\n0.03-0.04\n\nkitchen facilities\n\n0.525-0.625\n\n0.47-0.567\n\n0.41-0.5\n\ndishwasher\nservice/waiter office\ndishwasher/office\n\n0.1-0.125\n0.075-0.1\n\n0.1-0.117\n0.083-0.1\n\n0.09-0.1\n0.07-0.08\n\n0.175-0.225\n\n0.183-0.217\n\n0.16-0.18\n\n-Total\n\n1.3-1.675\n\n1.25-1.55\n\n1.18-1.44\n\n0\n\n2\n\nKitchen areas: space required (m /seat)\n\nPercentage of total kitchen space requirement -7 0\nDifferentiated according to small, medium and large kitchens, floor\narea values for individual functions are be based on -7 0.\n\nAisle widths in storage, preparation and production areas differ\naccording to whether they are purely traffic routes or also overlap\nthe service area. Working aisle widths should be 0.90-1.20 m,\nside traffic routes with (temporary) overlapping use 1.50-1.80 m\nand main traffic routes (transport and two-way through traffic)\n2.10-3.30 m wide. For kitchen areas in small to medium\nrestaurants, aisle widths of 1.00-1.50 m should be sufficient.\n\nArea\ngooos ae 1very 1nc ua1ng 1nspec 1on ana was e s orage\nstorage in freezer, cold and dry rooms\ndaily store\nvegetable and salad preparation area\ncold dishes, desserts\npatisseries/cakes\nmeat preparation\ncooking area\nwashing area\ntraffic area\nstaff rooms and office\n\nProportion(%)\n10\n\n20\n2\n8\n8\n2\n8\n10\n17\n15\nTotal\n\ne\n\n100\n\nBasis for dimensions and space requirements\n\nempties\n\nI\n\nenes\n\nw\"t•J\n\nr~~~ It~~:;\n\noffice.\\\n\nrft\n1\n\ndeliv-\n\n..\ndry goods store\n\nstaff changing room\nwashroom\ntoilets\n\ndally store\n\n~:~. I p~:~.\n\npp~eap~ I\n\nrestroom\n\npot ~asher\n\nhot dishes\n\nI cold dishe~\n\ncake shop\n\ndish+asher\n\nservery, waiter's walkwa~\n\ncoffee room\n\n:............. buffet---------------------- bar 'ervery ...................................\n\nj\n\nKitchen areas: classification and relationships of functional areas in clean and\nunclean zones (if earth-covered vegetables are prepared, this must take place in\na separate part of the unclean area!)\n\n179\n\nCATERING\n\nArrangement\nRestaurants\nDining rooms\nFast food outlets\nRestaurant\nkitchens\nLarge kitchens\nExamples\n\nBS EN 203\nBS EN 631\nBS 6173\nBS EN 12851\nBSEN ISO 22000\nBIP 2130/2078\nDIN EN 631\nDIN 66075\n\n\f"
+        },
+        {
+          "label": "Meat preparation",
+          "value": 2.0,
+          "value_max": null,
+          "unit": "%",
+          "context": "Proportion of total kitchen space requirement",
+          "status": "verified",
+          "ocr_raw": "CATERING\nRestaurant Kitchens\n\nThe trend away from conventional restaurants to those offering\na wide range of food not only affects the planning and design\nof dining rooms, but also of kitchens. Small and medium-sized\nrestaurant kitchens play a particular role here, and the following\ndetails are primarily based on this type of business.\nGastronorm system\nThe dimensions of containers, tables, shelves, devices, crockery\nand built-in units are all based on a 530 x 325 mm module -7\np. 181\n\no.\n\n~Store\n\nStore\nsupply\n\nwaste\n\nFunction and organisation of the restaurant kitchen -7 0 - 0\nThe capacity of the kitchen is primarily dependent on the number\nof customer seats, customer expectations (type, extent and quality\nof the meals offered), the proportion of products freshly prepared\nfrom raw (in contrast to ready-prepared food) and the rate of\ncustomer turnover all day or at mealtimes (consumer frequency).\n\nDishwasher\n\n.\n\nIn fast food restaurants the rule of thumb for seat changes is\nabout 1-3 times per hour, in conventional restaurants about 2.\nIn speciality and evening-based restaurants, the guests stay on\naverage for 1.3-2 hours.\n\nI Ser~;:_ 1- L___--+,__j\n.,.\n\nL ____ J\nRestaurant\n\nHot\n\n-Goods flow\n• • Waste flow\n- - Container circulation\n--Crockery circulation\n\nCold\npalisserie\n\nDrinks\nserving\n\nFood and drinks\nservery\nWaiter passage\n\n0 Restaurant kitchen: functions\n\nDirty\ndishes\nReturn\n\n8 Restaurant kitchen: organisation\n\nBistros, snack bars, small cafes - or speciality restaurants with\n40-60 seats- are classified as small operations. Small to medium\nunits (70-1 00 places) require on the other hand carefully zoned and\nfully equipped kitchen facilities. Large businesses (service areas,\nfast food restaurants, large hotel kitchens) achieve considerably\nhigher place numbers, often with an integrated eating bar or selfservice areas.\n\n80\n\n120\n\n200\n\ngoods inward\nempties\nwaste/rubbish\n\n0.05-0.075\n0.05-0.075\n0.05-0.075\n\n0.05-0.067\n0.05-0.067\n0.03-0.050\n\n0.05-0.06\n0.05-0.06\n0.03-0.04\n\ndelivery/disposal\n\n0.15-0.225\n\n0.13-0.183\n\n0.13-0.16\n\ncold room meat\ncold room fruit and vegetables\ncold room dairy products\ncold room cold service\ncool room drinks\nfreezer room\n\n0.05-0.075\n0.05-0.075\n\n0.05-0.067\n0.05-0.067\n0.03-0.05\n\nSeats\n\nfridge\nfridge\nfridge\n\nfridge\nfridge\n\n0.05-0.075\n\n0.05-0.067\n\n0.04-0.05\n0.04-0.05\n0.03-0.05\n0.02-0.03\n0.05-0.07\n0.06-0.08\n\ncooled goods delivery\n\n0.15-0.225\n\n0.183-0.25\n\n0.24-0.32\n\nstore dry goods\nstore drinks\nstore non-food\n\n0.15-0.175\n0.075-0.1\n0.075-0.1\n\n0.117-0.13\n0.1-0.117\n0.067-0.083\n\n0.09-0.1\n0.08-0.1\n0.07-0.08\n\ncooled goods storage\n\n0.3-0.375\n\n0.283-0.33\n\n0.24-0.28\n\nvegetable preparation\nmeat preparation\nfish/poultry preparation\nhot kitchen\ncold kitchen\npatisserie\npot washing\noffice kitchen manager\n\n0.075-0.1\n0.075-0.1\n0\n0.325-0.35\n0\n0\n0.05-0.Q75\n0\n\n0.067-0.083\n0.05-0.067\n0.03-0.05\n0.217-0.23\n0.05-0.067\n0\n0.05-0.067\n0\n\n0.04-0.05\n0.04-0.05\n0.03-0.04\n0.16-0.18\n0.04-0.05\n0.04-0.05\n0.03-0.04\n0.03-0.04\n\nkitchen facilities\n\n0.525-0.625\n\n0.47-0.567\n\n0.41-0.5\n\ndishwasher\nservice/waiter office\ndishwasher/office\n\n0.1-0.125\n0.075-0.1\n\n0.1-0.117\n0.083-0.1\n\n0.09-0.1\n0.07-0.08\n\n0.175-0.225\n\n0.183-0.217\n\n0.16-0.18\n\n-Total\n\n1.3-1.675\n\n1.25-1.55\n\n1.18-1.44\n\n0\n\n2\n\nKitchen areas: space required (m /seat)\n\nPercentage of total kitchen space requirement -7 0\nDifferentiated according to small, medium and large kitchens, floor\narea values for individual functions are be based on -7 0.\n\nAisle widths in storage, preparation and production areas differ\naccording to whether they are purely traffic routes or also overlap\nthe service area. Working aisle widths should be 0.90-1.20 m,\nside traffic routes with (temporary) overlapping use 1.50-1.80 m\nand main traffic routes (transport and two-way through traffic)\n2.10-3.30 m wide. For kitchen areas in small to medium\nrestaurants, aisle widths of 1.00-1.50 m should be sufficient.\n\nArea\ngooos ae 1very 1nc ua1ng 1nspec 1on ana was e s orage\nstorage in freezer, cold and dry rooms\ndaily store\nvegetable and salad preparation area\ncold dishes, desserts\npatisseries/cakes\nmeat preparation\ncooking area\nwashing area\ntraffic area\nstaff rooms and office\n\nProportion(%)\n10\n\n20\n2\n8\n8\n2\n8\n10\n17\n15\nTotal\n\ne\n\n100\n\nBasis for dimensions and space requirements\n\nempties\n\nI\n\nenes\n\nw\"t•J\n\nr~~~ It~~:;\n\noffice.\\\n\nrft\n1\n\ndeliv-\n\n..\ndry goods store\n\nstaff changing room\nwashroom\ntoilets\n\ndally store\n\n~:~. I p~:~.\n\npp~eap~ I\n\nrestroom\n\npot ~asher\n\nhot dishes\n\nI cold dishe~\n\ncake shop\n\ndish+asher\n\nservery, waiter's walkwa~\n\ncoffee room\n\n:............. buffet---------------------- bar 'ervery ...................................\n\nj\n\nKitchen areas: classification and relationships of functional areas in clean and\nunclean zones (if earth-covered vegetables are prepared, this must take place in\na separate part of the unclean area!)\n\n179\n\nCATERING\n\nArrangement\nRestaurants\nDining rooms\nFast food outlets\nRestaurant\nkitchens\nLarge kitchens\nExamples\n\nBS EN 203\nBS EN 631\nBS 6173\nBS EN 12851\nBSEN ISO 22000\nBIP 2130/2078\nDIN EN 631\nDIN 66075\n\n\f"
+        },
+        {
+          "label": "Cooking area",
+          "value": 8.0,
+          "value_max": null,
+          "unit": "%",
+          "context": "Proportion of total kitchen space requirement",
+          "status": "verified",
+          "ocr_raw": "CATERING\nRestaurant Kitchens\n\nThe trend away from conventional restaurants to those offering\na wide range of food not only affects the planning and design\nof dining rooms, but also of kitchens. Small and medium-sized\nrestaurant kitchens play a particular role here, and the following\ndetails are primarily based on this type of business.\nGastronorm system\nThe dimensions of containers, tables, shelves, devices, crockery\nand built-in units are all based on a 530 x 325 mm module -7\np. 181\n\no.\n\n~Store\n\nStore\nsupply\n\nwaste\n\nFunction and organisation of the restaurant kitchen -7 0 - 0\nThe capacity of the kitchen is primarily dependent on the number\nof customer seats, customer expectations (type, extent and quality\nof the meals offered), the proportion of products freshly prepared\nfrom raw (in contrast to ready-prepared food) and the rate of\ncustomer turnover all day or at mealtimes (consumer frequency).\n\nDishwasher\n\n.\n\nIn fast food restaurants the rule of thumb for seat changes is\nabout 1-3 times per hour, in conventional restaurants about 2.\nIn speciality and evening-based restaurants, the guests stay on\naverage for 1.3-2 hours.\n\nI Ser~;:_ 1- L___--+,__j\n.,.\n\nL ____ J\nRestaurant\n\nHot\n\n-Goods flow\n• • Waste flow\n- - Container circulation\n--Crockery circulation\n\nCold\npalisserie\n\nDrinks\nserving\n\nFood and drinks\nservery\nWaiter passage\n\n0 Restaurant kitchen: functions\n\nDirty\ndishes\nReturn\n\n8 Restaurant kitchen: organisation\n\nBistros, snack bars, small cafes - or speciality restaurants with\n40-60 seats- are classified as small operations. Small to medium\nunits (70-1 00 places) require on the other hand carefully zoned and\nfully equipped kitchen facilities. Large businesses (service areas,\nfast food restaurants, large hotel kitchens) achieve considerably\nhigher place numbers, often with an integrated eating bar or selfservice areas.\n\n80\n\n120\n\n200\n\ngoods inward\nempties\nwaste/rubbish\n\n0.05-0.075\n0.05-0.075\n0.05-0.075\n\n0.05-0.067\n0.05-0.067\n0.03-0.050\n\n0.05-0.06\n0.05-0.06\n0.03-0.04\n\ndelivery/disposal\n\n0.15-0.225\n\n0.13-0.183\n\n0.13-0.16\n\ncold room meat\ncold room fruit and vegetables\ncold room dairy products\ncold room cold service\ncool room drinks\nfreezer room\n\n0.05-0.075\n0.05-0.075\n\n0.05-0.067\n0.05-0.067\n0.03-0.05\n\nSeats\n\nfridge\nfridge\nfridge\n\nfridge\nfridge\n\n0.05-0.075\n\n0.05-0.067\n\n0.04-0.05\n0.04-0.05\n0.03-0.05\n0.02-0.03\n0.05-0.07\n0.06-0.08\n\ncooled goods delivery\n\n0.15-0.225\n\n0.183-0.25\n\n0.24-0.32\n\nstore dry goods\nstore drinks\nstore non-food\n\n0.15-0.175\n0.075-0.1\n0.075-0.1\n\n0.117-0.13\n0.1-0.117\n0.067-0.083\n\n0.09-0.1\n0.08-0.1\n0.07-0.08\n\ncooled goods storage\n\n0.3-0.375\n\n0.283-0.33\n\n0.24-0.28\n\nvegetable preparation\nmeat preparation\nfish/poultry preparation\nhot kitchen\ncold kitchen\npatisserie\npot washing\noffice kitchen manager\n\n0.075-0.1\n0.075-0.1\n0\n0.325-0.35\n0\n0\n0.05-0.Q75\n0\n\n0.067-0.083\n0.05-0.067\n0.03-0.05\n0.217-0.23\n0.05-0.067\n0\n0.05-0.067\n0\n\n0.04-0.05\n0.04-0.05\n0.03-0.04\n0.16-0.18\n0.04-0.05\n0.04-0.05\n0.03-0.04\n0.03-0.04\n\nkitchen facilities\n\n0.525-0.625\n\n0.47-0.567\n\n0.41-0.5\n\ndishwasher\nservice/waiter office\ndishwasher/office\n\n0.1-0.125\n0.075-0.1\n\n0.1-0.117\n0.083-0.1\n\n0.09-0.1\n0.07-0.08\n\n0.175-0.225\n\n0.183-0.217\n\n0.16-0.18\n\n-Total\n\n1.3-1.675\n\n1.25-1.55\n\n1.18-1.44\n\n0\n\n2\n\nKitchen areas: space required (m /seat)\n\nPercentage of total kitchen space requirement -7 0\nDifferentiated according to small, medium and large kitchens, floor\narea values for individual functions are be based on -7 0.\n\nAisle widths in storage, preparation and production areas differ\naccording to whether they are purely traffic routes or also overlap\nthe service area. Working aisle widths should be 0.90-1.20 m,\nside traffic routes with (temporary) overlapping use 1.50-1.80 m\nand main traffic routes (transport and two-way through traffic)\n2.10-3.30 m wide. For kitchen areas in small to medium\nrestaurants, aisle widths of 1.00-1.50 m should be sufficient.\n\nArea\ngooos ae 1very 1nc ua1ng 1nspec 1on ana was e s orage\nstorage in freezer, cold and dry rooms\ndaily store\nvegetable and salad preparation area\ncold dishes, desserts\npatisseries/cakes\nmeat preparation\ncooking area\nwashing area\ntraffic area\nstaff rooms and office\n\nProportion(%)\n10\n\n20\n2\n8\n8\n2\n8\n10\n17\n15\nTotal\n\ne\n\n100\n\nBasis for dimensions and space requirements\n\nempties\n\nI\n\nenes\n\nw\"t•J\n\nr~~~ It~~:;\n\noffice.\\\n\nrft\n1\n\ndeliv-\n\n..\ndry goods store\n\nstaff changing room\nwashroom\ntoilets\n\ndally store\n\n~:~. I p~:~.\n\npp~eap~ I\n\nrestroom\n\npot ~asher\n\nhot dishes\n\nI cold dishe~\n\ncake shop\n\ndish+asher\n\nservery, waiter's walkwa~\n\ncoffee room\n\n:............. buffet---------------------- bar 'ervery ...................................\n\nj\n\nKitchen areas: classification and relationships of functional areas in clean and\nunclean zones (if earth-covered vegetables are prepared, this must take place in\na separate part of the unclean area!)\n\n179\n\nCATERING\n\nArrangement\nRestaurants\nDining rooms\nFast food outlets\nRestaurant\nkitchens\nLarge kitchens\nExamples\n\nBS EN 203\nBS EN 631\nBS 6173\nBS EN 12851\nBSEN ISO 22000\nBIP 2130/2078\nDIN EN 631\nDIN 66075\n\n\f"
+        },
+        {
+          "label": "Washing area",
+          "value": 10.0,
+          "value_max": null,
+          "unit": "%",
+          "context": "Proportion of total kitchen space requirement",
+          "status": "verified",
+          "ocr_raw": "CATERING\nRestaurant Kitchens\n\nThe trend away from conventional restaurants to those offering\na wide range of food not only affects the planning and design\nof dining rooms, but also of kitchens. Small and medium-sized\nrestaurant kitchens play a particular role here, and the following\ndetails are primarily based on this type of business.\nGastronorm system\nThe dimensions of containers, tables, shelves, devices, crockery\nand built-in units are all based on a 530 x 325 mm module -7\np. 181\n\no.\n\n~Store\n\nStore\nsupply\n\nwaste\n\nFunction and organisation of the restaurant kitchen -7 0 - 0\nThe capacity of the kitchen is primarily dependent on the number\nof customer seats, customer expectations (type, extent and quality\nof the meals offered), the proportion of products freshly prepared\nfrom raw (in contrast to ready-prepared food) and the rate of\ncustomer turnover all day or at mealtimes (consumer frequency).\n\nDishwasher\n\n.\n\nIn fast food restaurants the rule of thumb for seat changes is\nabout 1-3 times per hour, in conventional restaurants about 2.\nIn speciality and evening-based restaurants, the guests stay on\naverage for 1.3-2 hours.\n\nI Ser~;:_ 1- L___--+,__j\n.,.\n\nL ____ J\nRestaurant\n\nHot\n\n-Goods flow\n• • Waste flow\n- - Container circulation\n--Crockery circulation\n\nCold\npalisserie\n\nDrinks\nserving\n\nFood and drinks\nservery\nWaiter passage\n\n0 Restaurant kitchen: functions\n\nDirty\ndishes\nReturn\n\n8 Restaurant kitchen: organisation\n\nBistros, snack bars, small cafes - or speciality restaurants with\n40-60 seats- are classified as small operations. Small to medium\nunits (70-1 00 places) require on the other hand carefully zoned and\nfully equipped kitchen facilities. Large businesses (service areas,\nfast food restaurants, large hotel kitchens) achieve considerably\nhigher place numbers, often with an integrated eating bar or selfservice areas.\n\n80\n\n120\n\n200\n\ngoods inward\nempties\nwaste/rubbish\n\n0.05-0.075\n0.05-0.075\n0.05-0.075\n\n0.05-0.067\n0.05-0.067\n0.03-0.050\n\n0.05-0.06\n0.05-0.06\n0.03-0.04\n\ndelivery/disposal\n\n0.15-0.225\n\n0.13-0.183\n\n0.13-0.16\n\ncold room meat\ncold room fruit and vegetables\ncold room dairy products\ncold room cold service\ncool room drinks\nfreezer room\n\n0.05-0.075\n0.05-0.075\n\n0.05-0.067\n0.05-0.067\n0.03-0.05\n\nSeats\n\nfridge\nfridge\nfridge\n\nfridge\nfridge\n\n0.05-0.075\n\n0.05-0.067\n\n0.04-0.05\n0.04-0.05\n0.03-0.05\n0.02-0.03\n0.05-0.07\n0.06-0.08\n\ncooled goods delivery\n\n0.15-0.225\n\n0.183-0.25\n\n0.24-0.32\n\nstore dry goods\nstore drinks\nstore non-food\n\n0.15-0.175\n0.075-0.1\n0.075-0.1\n\n0.117-0.13\n0.1-0.117\n0.067-0.083\n\n0.09-0.1\n0.08-0.1\n0.07-0.08\n\ncooled goods storage\n\n0.3-0.375\n\n0.283-0.33\n\n0.24-0.28\n\nvegetable preparation\nmeat preparation\nfish/poultry preparation\nhot kitchen\ncold kitchen\npatisserie\npot washing\noffice kitchen manager\n\n0.075-0.1\n0.075-0.1\n0\n0.325-0.35\n0\n0\n0.05-0.Q75\n0\n\n0.067-0.083\n0.05-0.067\n0.03-0.05\n0.217-0.23\n0.05-0.067\n0\n0.05-0.067\n0\n\n0.04-0.05\n0.04-0.05\n0.03-0.04\n0.16-0.18\n0.04-0.05\n0.04-0.05\n0.03-0.04\n0.03-0.04\n\nkitchen facilities\n\n0.525-0.625\n\n0.47-0.567\n\n0.41-0.5\n\ndishwasher\nservice/waiter office\ndishwasher/office\n\n0.1-0.125\n0.075-0.1\n\n0.1-0.117\n0.083-0.1\n\n0.09-0.1\n0.07-0.08\n\n0.175-0.225\n\n0.183-0.217\n\n0.16-0.18\n\n-Total\n\n1.3-1.675\n\n1.25-1.55\n\n1.18-1.44\n\n0\n\n2\n\nKitchen areas: space required (m /seat)\n\nPercentage of total kitchen space requirement -7 0\nDifferentiated according to small, medium and large kitchens, floor\narea values for individual functions are be based on -7 0.\n\nAisle widths in storage, preparation and production areas differ\naccording to whether they are purely traffic routes or also overlap\nthe service area. Working aisle widths should be 0.90-1.20 m,\nside traffic routes with (temporary) overlapping use 1.50-1.80 m\nand main traffic routes (transport and two-way through traffic)\n2.10-3.30 m wide. For kitchen areas in small to medium\nrestaurants, aisle widths of 1.00-1.50 m should be sufficient.\n\nArea\ngooos ae 1very 1nc ua1ng 1nspec 1on ana was e s orage\nstorage in freezer, cold and dry rooms\ndaily store\nvegetable and salad preparation area\ncold dishes, desserts\npatisseries/cakes\nmeat preparation\ncooking area\nwashing area\ntraffic area\nstaff rooms and office\n\nProportion(%)\n10\n\n20\n2\n8\n8\n2\n8\n10\n17\n15\nTotal\n\ne\n\n100\n\nBasis for dimensions and space requirements\n\nempties\n\nI\n\nenes\n\nw\"t•J\n\nr~~~ It~~:;\n\noffice.\\\n\nrft\n1\n\ndeliv-\n\n..\ndry goods store\n\nstaff changing room\nwashroom\ntoilets\n\ndally store\n\n~:~. I p~:~.\n\npp~eap~ I\n\nrestroom\n\npot ~asher\n\nhot dishes\n\nI cold dishe~\n\ncake shop\n\ndish+asher\n\nservery, waiter's walkwa~\n\ncoffee room\n\n:............. buffet---------------------- bar 'ervery ...................................\n\nj\n\nKitchen areas: classification and relationships of functional areas in clean and\nunclean zones (if earth-covered vegetables are prepared, this must take place in\na separate part of the unclean area!)\n\n179\n\nCATERING\n\nArrangement\nRestaurants\nDining rooms\nFast food outlets\nRestaurant\nkitchens\nLarge kitchens\nExamples\n\nBS EN 203\nBS EN 631\nBS 6173\nBS EN 12851\nBSEN ISO 22000\nBIP 2130/2078\nDIN EN 631\nDIN 66075\n\n\f"
+        },
+        {
+          "label": "Traffic area",
+          "value": 17.0,
+          "value_max": null,
+          "unit": "%",
+          "context": "Proportion of total kitchen space requirement",
+          "status": "verified",
+          "ocr_raw": "CATERING\nRestaurant Kitchens\n\nThe trend away from conventional restaurants to those offering\na wide range of food not only affects the planning and design\nof dining rooms, but also of kitchens. Small and medium-sized\nrestaurant kitchens play a particular role here, and the following\ndetails are primarily based on this type of business.\nGastronorm system\nThe dimensions of containers, tables, shelves, devices, crockery\nand built-in units are all based on a 530 x 325 mm module -7\np. 181\n\no.\n\n~Store\n\nStore\nsupply\n\nwaste\n\nFunction and organisation of the restaurant kitchen -7 0 - 0\nThe capacity of the kitchen is primarily dependent on the number\nof customer seats, customer expectations (type, extent and quality\nof the meals offered), the proportion of products freshly prepared\nfrom raw (in contrast to ready-prepared food) and the rate of\ncustomer turnover all day or at mealtimes (consumer frequency).\n\nDishwasher\n\n.\n\nIn fast food restaurants the rule of thumb for seat changes is\nabout 1-3 times per hour, in conventional restaurants about 2.\nIn speciality and evening-based restaurants, the guests stay on\naverage for 1.3-2 hours.\n\nI Ser~;:_ 1- L___--+,__j\n.,.\n\nL ____ J\nRestaurant\n\nHot\n\n-Goods flow\n• • Waste flow\n- - Container circulation\n--Crockery circulation\n\nCold\npalisserie\n\nDrinks\nserving\n\nFood and drinks\nservery\nWaiter passage\n\n0 Restaurant kitchen: functions\n\nDirty\ndishes\nReturn\n\n8 Restaurant kitchen: organisation\n\nBistros, snack bars, small cafes - or speciality restaurants with\n40-60 seats- are classified as small operations. Small to medium\nunits (70-1 00 places) require on the other hand carefully zoned and\nfully equipped kitchen facilities. Large businesses (service areas,\nfast food restaurants, large hotel kitchens) achieve considerably\nhigher place numbers, often with an integrated eating bar or selfservice areas.\n\n80\n\n120\n\n200\n\ngoods inward\nempties\nwaste/rubbish\n\n0.05-0.075\n0.05-0.075\n0.05-0.075\n\n0.05-0.067\n0.05-0.067\n0.03-0.050\n\n0.05-0.06\n0.05-0.06\n0.03-0.04\n\ndelivery/disposal\n\n0.15-0.225\n\n0.13-0.183\n\n0.13-0.16\n\ncold room meat\ncold room fruit and vegetables\ncold room dairy products\ncold room cold service\ncool room drinks\nfreezer room\n\n0.05-0.075\n0.05-0.075\n\n0.05-0.067\n0.05-0.067\n0.03-0.05\n\nSeats\n\nfridge\nfridge\nfridge\n\nfridge\nfridge\n\n0.05-0.075\n\n0.05-0.067\n\n0.04-0.05\n0.04-0.05\n0.03-0.05\n0.02-0.03\n0.05-0.07\n0.06-0.08\n\ncooled goods delivery\n\n0.15-0.225\n\n0.183-0.25\n\n0.24-0.32\n\nstore dry goods\nstore drinks\nstore non-food\n\n0.15-0.175\n0.075-0.1\n0.075-0.1\n\n0.117-0.13\n0.1-0.117\n0.067-0.083\n\n0.09-0.1\n0.08-0.1\n0.07-0.08\n\ncooled goods storage\n\n0.3-0.375\n\n0.283-0.33\n\n0.24-0.28\n\nvegetable preparation\nmeat preparation\nfish/poultry preparation\nhot kitchen\ncold kitchen\npatisserie\npot washing\noffice kitchen manager\n\n0.075-0.1\n0.075-0.1\n0\n0.325-0.35\n0\n0\n0.05-0.Q75\n0\n\n0.067-0.083\n0.05-0.067\n0.03-0.05\n0.217-0.23\n0.05-0.067\n0\n0.05-0.067\n0\n\n0.04-0.05\n0.04-0.05\n0.03-0.04\n0.16-0.18\n0.04-0.05\n0.04-0.05\n0.03-0.04\n0.03-0.04\n\nkitchen facilities\n\n0.525-0.625\n\n0.47-0.567\n\n0.41-0.5\n\ndishwasher\nservice/waiter office\ndishwasher/office\n\n0.1-0.125\n0.075-0.1\n\n0.1-0.117\n0.083-0.1\n\n0.09-0.1\n0.07-0.08\n\n0.175-0.225\n\n0.183-0.217\n\n0.16-0.18\n\n-Total\n\n1.3-1.675\n\n1.25-1.55\n\n1.18-1.44\n\n0\n\n2\n\nKitchen areas: space required (m /seat)\n\nPercentage of total kitchen space requirement -7 0\nDifferentiated according to small, medium and large kitchens, floor\narea values for individual functions are be based on -7 0.\n\nAisle widths in storage, preparation and production areas differ\naccording to whether they are purely traffic routes or also overlap\nthe service area. Working aisle widths should be 0.90-1.20 m,\nside traffic routes with (temporary) overlapping use 1.50-1.80 m\nand main traffic routes (transport and two-way through traffic)\n2.10-3.30 m wide. For kitchen areas in small to medium\nrestaurants, aisle widths of 1.00-1.50 m should be sufficient.\n\nArea\ngooos ae 1very 1nc ua1ng 1nspec 1on ana was e s orage\nstorage in freezer, cold and dry rooms\ndaily store\nvegetable and salad preparation area\ncold dishes, desserts\npatisseries/cakes\nmeat preparation\ncooking area\nwashing area\ntraffic area\nstaff rooms and office\n\nProportion(%)\n10\n\n20\n2\n8\n8\n2\n8\n10\n17\n15\nTotal\n\ne\n\n100\n\nBasis for dimensions and space requirements\n\nempties\n\nI\n\nenes\n\nw\"t•J\n\nr~~~ It~~:;\n\noffice.\\\n\nrft\n1\n\ndeliv-\n\n..\ndry goods store\n\nstaff changing room\nwashroom\ntoilets\n\ndally store\n\n~:~. I p~:~.\n\npp~eap~ I\n\nrestroom\n\npot ~asher\n\nhot dishes\n\nI cold dishe~\n\ncake shop\n\ndish+asher\n\nservery, waiter's walkwa~\n\ncoffee room\n\n:............. buffet---------------------- bar 'ervery ...................................\n\nj\n\nKitchen areas: classification and relationships of functional areas in clean and\nunclean zones (if earth-covered vegetables are prepared, this must take place in\na separate part of the unclean area!)\n\n179\n\nCATERING\n\nArrangement\nRestaurants\nDining rooms\nFast food outlets\nRestaurant\nkitchens\nLarge kitchens\nExamples\n\nBS EN 203\nBS EN 631\nBS 6173\nBS EN 12851\nBSEN ISO 22000\nBIP 2130/2078\nDIN EN 631\nDIN 66075\n\n\f"
+        },
+        {
+          "label": "Staff rooms and office",
+          "value": 15.0,
+          "value_max": null,
+          "unit": "%",
+          "context": "Proportion of total kitchen space requirement",
+          "status": "verified",
+          "ocr_raw": "CATERING\nRestaurant Kitchens\n\nThe trend away from conventional restaurants to those offering\na wide range of food not only affects the planning and design\nof dining rooms, but also of kitchens. Small and medium-sized\nrestaurant kitchens play a particular role here, and the following\ndetails are primarily based on this type of business.\nGastronorm system\nThe dimensions of containers, tables, shelves, devices, crockery\nand built-in units are all based on a 530 x 325 mm module -7\np. 181\n\no.\n\n~Store\n\nStore\nsupply\n\nwaste\n\nFunction and organisation of the restaurant kitchen -7 0 - 0\nThe capacity of the kitchen is primarily dependent on the number\nof customer seats, customer expectations (type, extent and quality\nof the meals offered), the proportion of products freshly prepared\nfrom raw (in contrast to ready-prepared food) and the rate of\ncustomer turnover all day or at mealtimes (consumer frequency).\n\nDishwasher\n\n.\n\nIn fast food restaurants the rule of thumb for seat changes is\nabout 1-3 times per hour, in conventional restaurants about 2.\nIn speciality and evening-based restaurants, the guests stay on\naverage for 1.3-2 hours.\n\nI Ser~;:_ 1- L___--+,__j\n.,.\n\nL ____ J\nRestaurant\n\nHot\n\n-Goods flow\n• • Waste flow\n- - Container circulation\n--Crockery circulation\n\nCold\npalisserie\n\nDrinks\nserving\n\nFood and drinks\nservery\nWaiter passage\n\n0 Restaurant kitchen: functions\n\nDirty\ndishes\nReturn\n\n8 Restaurant kitchen: organisation\n\nBistros, snack bars, small cafes - or speciality restaurants with\n40-60 seats- are classified as small operations. Small to medium\nunits (70-1 00 places) require on the other hand carefully zoned and\nfully equipped kitchen facilities. Large businesses (service areas,\nfast food restaurants, large hotel kitchens) achieve considerably\nhigher place numbers, often with an integrated eating bar or selfservice areas.\n\n80\n\n120\n\n200\n\ngoods inward\nempties\nwaste/rubbish\n\n0.05-0.075\n0.05-0.075\n0.05-0.075\n\n0.05-0.067\n0.05-0.067\n0.03-0.050\n\n0.05-0.06\n0.05-0.06\n0.03-0.04\n\ndelivery/disposal\n\n0.15-0.225\n\n0.13-0.183\n\n0.13-0.16\n\ncold room meat\ncold room fruit and vegetables\ncold room dairy products\ncold room cold service\ncool room drinks\nfreezer room\n\n0.05-0.075\n0.05-0.075\n\n0.05-0.067\n0.05-0.067\n0.03-0.05\n\nSeats\n\nfridge\nfridge\nfridge\n\nfridge\nfridge\n\n0.05-0.075\n\n0.05-0.067\n\n0.04-0.05\n0.04-0.05\n0.03-0.05\n0.02-0.03\n0.05-0.07\n0.06-0.08\n\ncooled goods delivery\n\n0.15-0.225\n\n0.183-0.25\n\n0.24-0.32\n\nstore dry goods\nstore drinks\nstore non-food\n\n0.15-0.175\n0.075-0.1\n0.075-0.1\n\n0.117-0.13\n0.1-0.117\n0.067-0.083\n\n0.09-0.1\n0.08-0.1\n0.07-0.08\n\ncooled goods storage\n\n0.3-0.375\n\n0.283-0.33\n\n0.24-0.28\n\nvegetable preparation\nmeat preparation\nfish/poultry preparation\nhot kitchen\ncold kitchen\npatisserie\npot washing\noffice kitchen manager\n\n0.075-0.1\n0.075-0.1\n0\n0.325-0.35\n0\n0\n0.05-0.Q75\n0\n\n0.067-0.083\n0.05-0.067\n0.03-0.05\n0.217-0.23\n0.05-0.067\n0\n0.05-0.067\n0\n\n0.04-0.05\n0.04-0.05\n0.03-0.04\n0.16-0.18\n0.04-0.05\n0.04-0.05\n0.03-0.04\n0.03-0.04\n\nkitchen facilities\n\n0.525-0.625\n\n0.47-0.567\n\n0.41-0.5\n\ndishwasher\nservice/waiter office\ndishwasher/office\n\n0.1-0.125\n0.075-0.1\n\n0.1-0.117\n0.083-0.1\n\n0.09-0.1\n0.07-0.08\n\n0.175-0.225\n\n0.183-0.217\n\n0.16-0.18\n\n-Total\n\n1.3-1.675\n\n1.25-1.55\n\n1.18-1.44\n\n0\n\n2\n\nKitchen areas: space required (m /seat)\n\nPercentage of total kitchen space requirement -7 0\nDifferentiated according to small, medium and large kitchens, floor\narea values for individual functions are be based on -7 0.\n\nAisle widths in storage, preparation and production areas differ\naccording to whether they are purely traffic routes or also overlap\nthe service area. Working aisle widths should be 0.90-1.20 m,\nside traffic routes with (temporary) overlapping use 1.50-1.80 m\nand main traffic routes (transport and two-way through traffic)\n2.10-3.30 m wide. For kitchen areas in small to medium\nrestaurants, aisle widths of 1.00-1.50 m should be sufficient.\n\nArea\ngooos ae 1very 1nc ua1ng 1nspec 1on ana was e s orage\nstorage in freezer, cold and dry rooms\ndaily store\nvegetable and salad preparation area\ncold dishes, desserts\npatisseries/cakes\nmeat preparation\ncooking area\nwashing area\ntraffic area\nstaff rooms and office\n\nProportion(%)\n10\n\n20\n2\n8\n8\n2\n8\n10\n17\n15\nTotal\n\ne\n\n100\n\nBasis for dimensions and space requirements\n\nempties\n\nI\n\nenes\n\nw\"t•J\n\nr~~~ It~~:;\n\noffice.\\\n\nrft\n1\n\ndeliv-\n\n..\ndry goods store\n\nstaff changing room\nwashroom\ntoilets\n\ndally store\n\n~:~. I p~:~.\n\npp~eap~ I\n\nrestroom\n\npot ~asher\n\nhot dishes\n\nI cold dishe~\n\ncake shop\n\ndish+asher\n\nservery, waiter's walkwa~\n\ncoffee room\n\n:............. buffet---------------------- bar 'ervery ...................................\n\nj\n\nKitchen areas: classification and relationships of functional areas in clean and\nunclean zones (if earth-covered vegetables are prepared, this must take place in\na separate part of the unclean area!)\n\n179\n\nCATERING\n\nArrangement\nRestaurants\nDining rooms\nFast food outlets\nRestaurant\nkitchens\nLarge kitchens\nExamples\n\nBS EN 203\nBS EN 631\nBS 6173\nBS EN 12851\nBSEN ISO 22000\nBIP 2130/2078\nDIN EN 631\nDIN 66075\n\n\f"
+        },
+        {
+          "label": "Total kitchen space allocation",
+          "value": 100.0,
+          "value_max": null,
+          "unit": "%",
+          "context": "Total of the listed functional-area proportions",
+          "status": "verified",
+          "ocr_raw": "CATERING\nRestaurant Kitchens\n\nThe trend away from conventional restaurants to those offering\na wide range of food not only affects the planning and design\nof dining rooms, but also of kitchens. Small and medium-sized\nrestaurant kitchens play a particular role here, and the following\ndetails are primarily based on this type of business.\nGastronorm system\nThe dimensions of containers, tables, shelves, devices, crockery\nand built-in units are all based on a 530 x 325 mm module -7\np. 181\n\no.\n\n~Store\n\nStore\nsupply\n\nwaste\n\nFunction and organisation of the restaurant kitchen -7 0 - 0\nThe capacity of the kitchen is primarily dependent on the number\nof customer seats, customer expectations (type, extent and quality\nof the meals offered), the proportion of products freshly prepared\nfrom raw (in contrast to ready-prepared food) and the rate of\ncustomer turnover all day or at mealtimes (consumer frequency).\n\nDishwasher\n\n.\n\nIn fast food restaurants the rule of thumb for seat changes is\nabout 1-3 times per hour, in conventional restaurants about 2.\nIn speciality and evening-based restaurants, the guests stay on\naverage for 1.3-2 hours.\n\nI Ser~;:_ 1- L___--+,__j\n.,.\n\nL ____ J\nRestaurant\n\nHot\n\n-Goods flow\n• • Waste flow\n- - Container circulation\n--Crockery circulation\n\nCold\npalisserie\n\nDrinks\nserving\n\nFood and drinks\nservery\nWaiter passage\n\n0 Restaurant kitchen: functions\n\nDirty\ndishes\nReturn\n\n8 Restaurant kitchen: organisation\n\nBistros, snack bars, small cafes - or speciality restaurants with\n40-60 seats- are classified as small operations. Small to medium\nunits (70-1 00 places) require on the other hand carefully zoned and\nfully equipped kitchen facilities. Large businesses (service areas,\nfast food restaurants, large hotel kitchens) achieve considerably\nhigher place numbers, often with an integrated eating bar or selfservice areas.\n\n80\n\n120\n\n200\n\ngoods inward\nempties\nwaste/rubbish\n\n0.05-0.075\n0.05-0.075\n0.05-0.075\n\n0.05-0.067\n0.05-0.067\n0.03-0.050\n\n0.05-0.06\n0.05-0.06\n0.03-0.04\n\ndelivery/disposal\n\n0.15-0.225\n\n0.13-0.183\n\n0.13-0.16\n\ncold room meat\ncold room fruit and vegetables\ncold room dairy products\ncold room cold service\ncool room drinks\nfreezer room\n\n0.05-0.075\n0.05-0.075\n\n0.05-0.067\n0.05-0.067\n0.03-0.05\n\nSeats\n\nfridge\nfridge\nfridge\n\nfridge\nfridge\n\n0.05-0.075\n\n0.05-0.067\n\n0.04-0.05\n0.04-0.05\n0.03-0.05\n0.02-0.03\n0.05-0.07\n0.06-0.08\n\ncooled goods delivery\n\n0.15-0.225\n\n0.183-0.25\n\n0.24-0.32\n\nstore dry goods\nstore drinks\nstore non-food\n\n0.15-0.175\n0.075-0.1\n0.075-0.1\n\n0.117-0.13\n0.1-0.117\n0.067-0.083\n\n0.09-0.1\n0.08-0.1\n0.07-0.08\n\ncooled goods storage\n\n0.3-0.375\n\n0.283-0.33\n\n0.24-0.28\n\nvegetable preparation\nmeat preparation\nfish/poultry preparation\nhot kitchen\ncold kitchen\npatisserie\npot washing\noffice kitchen manager\n\n0.075-0.1\n0.075-0.1\n0\n0.325-0.35\n0\n0\n0.05-0.Q75\n0\n\n0.067-0.083\n0.05-0.067\n0.03-0.05\n0.217-0.23\n0.05-0.067\n0\n0.05-0.067\n0\n\n0.04-0.05\n0.04-0.05\n0.03-0.04\n0.16-0.18\n0.04-0.05\n0.04-0.05\n0.03-0.04\n0.03-0.04\n\nkitchen facilities\n\n0.525-0.625\n\n0.47-0.567\n\n0.41-0.5\n\ndishwasher\nservice/waiter office\ndishwasher/office\n\n0.1-0.125\n0.075-0.1\n\n0.1-0.117\n0.083-0.1\n\n0.09-0.1\n0.07-0.08\n\n0.175-0.225\n\n0.183-0.217\n\n0.16-0.18\n\n-Total\n\n1.3-1.675\n\n1.25-1.55\n\n1.18-1.44\n\n0\n\n2\n\nKitchen areas: space required (m /seat)\n\nPercentage of total kitchen space requirement -7 0\nDifferentiated according to small, medium and large kitchens, floor\narea values for individual functions are be based on -7 0.\n\nAisle widths in storage, preparation and production areas differ\naccording to whether they are purely traffic routes or also overlap\nthe service area. Working aisle widths should be 0.90-1.20 m,\nside traffic routes with (temporary) overlapping use 1.50-1.80 m\nand main traffic routes (transport and two-way through traffic)\n2.10-3.30 m wide. For kitchen areas in small to medium\nrestaurants, aisle widths of 1.00-1.50 m should be sufficient.\n\nArea\ngooos ae 1very 1nc ua1ng 1nspec 1on ana was e s orage\nstorage in freezer, cold and dry rooms\ndaily store\nvegetable and salad preparation area\ncold dishes, desserts\npatisseries/cakes\nmeat preparation\ncooking area\nwashing area\ntraffic area\nstaff rooms and office\n\nProportion(%)\n10\n\n20\n2\n8\n8\n2\n8\n10\n17\n15\nTotal\n\ne\n\n100\n\nBasis for dimensions and space requirements\n\nempties\n\nI\n\nenes\n\nw\"t•J\n\nr~~~ It~~:;\n\noffice.\\\n\nrft\n1\n\ndeliv-\n\n..\ndry goods store\n\nstaff changing room\nwashroom\ntoilets\n\ndally store\n\n~:~. I p~:~.\n\npp~eap~ I\n\nrestroom\n\npot ~asher\n\nhot dishes\n\nI cold dishe~\n\ncake shop\n\ndish+asher\n\nservery, waiter's walkwa~\n\ncoffee room\n\n:............. buffet---------------------- bar 'ervery ...................................\n\nj\n\nKitchen areas: classification and relationships of functional areas in clean and\nunclean zones (if earth-covered vegetables are prepared, this must take place in\na separate part of the unclean area!)\n\n179\n\nCATERING\n\nArrangement\nRestaurants\nDining rooms\nFast food outlets\nRestaurant\nkitchens\nLarge kitchens\nExamples\n\nBS EN 203\nBS EN 631\nBS 6173\nBS EN 12851\nBSEN ISO 22000\nBIP 2130/2078\nDIN EN 631\nDIN 66075\n\n\f"
+        }
+      ],
+      "figure_refs": [
+        "4",
+        "5"
+      ],
+      "cross_refs": [],
+      "keywords": [
+        "space allocation",
+        "functional relationships",
+        "clean zone",
+        "unclean zone",
+        "kitchen areas"
+      ],
+      "tags_architectural": [
+        "circulation",
+        "safety",
+        "spatial_proportion"
+      ],
+      "confidence": 0.93
+    }
+  ]
+}

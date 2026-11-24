@@ -1,0 +1,651 @@
+{
+  "model": "gpt-6-luna",
+  "checks": {
+    "checks": [
+      {
+        "ficha_index": 0,
+        "dimension_index": 0,
+        "status": "verified",
+        "value": 350.0,
+        "value_max": 450.0,
+        "reason": "Plot value and m\u00b2 unit match the figure."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 1,
+        "status": "verified",
+        "value": 1.0,
+        "value_max": 2.0,
+        "reason": "Figure shows 1\u20132 (+ attic)."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 2,
+        "status": "uncertain",
+        "value": null,
+        "value_max": null,
+        "reason": "Figure shows 150\u2013160 but does not print a unit on this line; retain proposed values."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 3,
+        "status": "verified",
+        "value": 0.3,
+        "value_max": 0.5,
+        "reason": "Figure shows floor-area ratio 0.3\u20130.5."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 4,
+        "status": "verified",
+        "value": 70.0,
+        "value_max": 90.0,
+        "reason": "Figure shows 70\u201390 inhabitants/ha."
+      },
+      {
+        "ficha_index": 1,
+        "dimension_index": 0,
+        "status": "verified",
+        "value": 625.0,
+        "value_max": null,
+        "reason": "Figure shows \u2265625 m\u00b2."
+      },
+      {
+        "ficha_index": 1,
+        "dimension_index": 1,
+        "status": "verified",
+        "value": 2.0,
+        "value_max": 4.0,
+        "reason": "Figure shows 2\u20134 (+ attic)."
+      },
+      {
+        "ficha_index": 1,
+        "dimension_index": 2,
+        "status": "uncertain",
+        "value": null,
+        "value_max": null,
+        "reason": "Figure shows \u2265500 but does not print a unit on this line; retain proposed value."
+      },
+      {
+        "ficha_index": 1,
+        "dimension_index": 3,
+        "status": "verified",
+        "value": 0.8,
+        "value_max": null,
+        "reason": "Figure shows \u22650.8."
+      },
+      {
+        "ficha_index": 1,
+        "dimension_index": 4,
+        "status": "corrected",
+        "value": 400.0,
+        "value_max": null,
+        "reason": "Figure visibly shows \u2264400 inhabitants/ha, not \u2265400; schema cannot encode the inequality direction."
+      },
+      {
+        "ficha_index": 2,
+        "dimension_index": 0,
+        "status": "verified",
+        "value": 250.0,
+        "value_max": 300.0,
+        "reason": "Plot value and m\u00b2 unit match the figure."
+      },
+      {
+        "ficha_index": 2,
+        "dimension_index": 1,
+        "status": "verified",
+        "value": 1.0,
+        "value_max": 2.0,
+        "reason": "Figure shows 1\u20132 (+ attic)."
+      },
+      {
+        "ficha_index": 2,
+        "dimension_index": 2,
+        "status": "uncertain",
+        "value": null,
+        "value_max": null,
+        "reason": "Figure shows 150\u2013160 but does not print a unit on this line; retain proposed values."
+      },
+      {
+        "ficha_index": 2,
+        "dimension_index": 3,
+        "status": "verified",
+        "value": 0.5,
+        "value_max": 0.6,
+        "reason": "Figure shows floor-area ratio 0.5\u20130.6."
+      },
+      {
+        "ficha_index": 2,
+        "dimension_index": 4,
+        "status": "verified",
+        "value": 115.0,
+        "value_max": 135.0,
+        "reason": "Figure shows 115\u2013135 inhabitants/ha."
+      },
+      {
+        "ficha_index": 3,
+        "dimension_index": 0,
+        "status": "verified",
+        "value": 1550.0,
+        "value_max": null,
+        "reason": "Figure shows \u22651550 m\u00b2."
+      },
+      {
+        "ficha_index": 3,
+        "dimension_index": 1,
+        "status": "verified",
+        "value": 5.0,
+        "value_max": null,
+        "reason": "Figure shows 5 (+ attic)."
+      },
+      {
+        "ficha_index": 3,
+        "dimension_index": 2,
+        "status": "uncertain",
+        "value": null,
+        "value_max": null,
+        "reason": "Figure shows 1250 but does not print a unit on this line; retain proposed value."
+      },
+      {
+        "ficha_index": 3,
+        "dimension_index": 3,
+        "status": "verified",
+        "value": 0.8,
+        "value_max": null,
+        "reason": "Figure shows \u22650.8."
+      },
+      {
+        "ficha_index": 3,
+        "dimension_index": 4,
+        "status": "verified",
+        "value": 400.0,
+        "value_max": 450.0,
+        "reason": "Figure shows 400\u2013450 inhabitants/ha."
+      },
+      {
+        "ficha_index": 4,
+        "dimension_index": 0,
+        "status": "verified",
+        "value": 200.0,
+        "value_max": 250.0,
+        "reason": "Plot value and m\u00b2 unit match the figure."
+      },
+      {
+        "ficha_index": 4,
+        "dimension_index": 1,
+        "status": "verified",
+        "value": 1.0,
+        "value_max": 2.0,
+        "reason": "Figure shows 1\u20132 (+ attic)."
+      },
+      {
+        "ficha_index": 4,
+        "dimension_index": 2,
+        "status": "uncertain",
+        "value": null,
+        "value_max": null,
+        "reason": "Figure shows 150\u2013160 but does not print a unit on this line; retain proposed values."
+      },
+      {
+        "ficha_index": 4,
+        "dimension_index": 3,
+        "status": "verified",
+        "value": 0.6,
+        "value_max": 0.8,
+        "reason": "Figure shows floor-area ratio 0.6\u20130.8."
+      },
+      {
+        "ficha_index": 4,
+        "dimension_index": 4,
+        "status": "verified",
+        "value": 150.0,
+        "value_max": 180.0,
+        "reason": "Figure shows 150\u2013180 inhabitants/ha."
+      },
+      {
+        "ficha_index": 5,
+        "dimension_index": 0,
+        "status": "verified",
+        "value": 5000.0,
+        "value_max": null,
+        "reason": "Figure shows \u22655000 m\u00b2."
+      },
+      {
+        "ficha_index": 5,
+        "dimension_index": 1,
+        "status": "verified",
+        "value": 10.0,
+        "value_max": null,
+        "reason": "Figure shows 10 storeys."
+      },
+      {
+        "ficha_index": 5,
+        "dimension_index": 2,
+        "status": "verified",
+        "value": 600.0,
+        "value_max": null,
+        "reason": "Figure explicitly shows 600/storey."
+      },
+      {
+        "ficha_index": 5,
+        "dimension_index": 3,
+        "status": "verified",
+        "value": 1.2,
+        "value_max": null,
+        "reason": "Figure shows floor-area ratio 1.2."
+      },
+      {
+        "ficha_index": 5,
+        "dimension_index": 4,
+        "status": "verified",
+        "value": 450.0,
+        "value_max": null,
+        "reason": "Figure shows approx. 450 inhabitants/ha."
+      },
+      {
+        "ficha_index": 6,
+        "dimension_index": 0,
+        "status": "verified",
+        "value": 150.0,
+        "value_max": 200.0,
+        "reason": "Plot value and m\u00b2 unit match the figure."
+      },
+      {
+        "ficha_index": 6,
+        "dimension_index": 1,
+        "status": "verified",
+        "value": 2.0,
+        "value_max": 3.0,
+        "reason": "Figure shows 2\u20133 (+ attic)."
+      },
+      {
+        "ficha_index": 6,
+        "dimension_index": 2,
+        "status": "uncertain",
+        "value": null,
+        "value_max": null,
+        "reason": "Figure shows 130\u2013150 but does not print a unit on this line; retain proposed values."
+      },
+      {
+        "ficha_index": 6,
+        "dimension_index": 3,
+        "status": "verified",
+        "value": 0.6,
+        "value_max": 0.9,
+        "reason": "Figure shows floor-area ratio 0.6\u20130.9."
+      },
+      {
+        "ficha_index": 6,
+        "dimension_index": 4,
+        "status": "verified",
+        "value": 200.0,
+        "value_max": 250.0,
+        "reason": "Figure shows 200\u2013250 inhabitants/ha."
+      },
+      {
+        "ficha_index": 7,
+        "dimension_index": 0,
+        "status": "verified",
+        "value": 1875.0,
+        "value_max": null,
+        "reason": "Figure shows \u22651875 m\u00b2."
+      },
+      {
+        "ficha_index": 7,
+        "dimension_index": 1,
+        "status": "verified",
+        "value": 10.0,
+        "value_max": null,
+        "reason": "Figure shows 10 storeys."
+      },
+      {
+        "ficha_index": 7,
+        "dimension_index": 2,
+        "status": "verified",
+        "value": 225.0,
+        "value_max": null,
+        "reason": "Figure explicitly shows 225/storey."
+      },
+      {
+        "ficha_index": 7,
+        "dimension_index": 3,
+        "status": "verified",
+        "value": 1.2,
+        "value_max": null,
+        "reason": "Figure shows floor-area ratio 1.2."
+      },
+      {
+        "ficha_index": 7,
+        "dimension_index": 4,
+        "status": "verified",
+        "value": 450.0,
+        "value_max": null,
+        "reason": "Figure shows approx. 450 inhabitants/ha."
+      },
+      {
+        "ficha_index": 8,
+        "dimension_index": 0,
+        "status": "verified",
+        "value": 1.0,
+        "value_max": null,
+        "reason": "Figure shows 1 storey."
+      },
+      {
+        "ficha_index": 8,
+        "dimension_index": 1,
+        "status": "verified",
+        "value": 130.0,
+        "value_max": 150.0,
+        "reason": "Figure explicitly shows 130\u2013150/terrace."
+      },
+      {
+        "ficha_index": 8,
+        "dimension_index": 2,
+        "status": "verified",
+        "value": 1.5,
+        "value_max": 2.0,
+        "reason": "Figure shows floor-area ratio 1.5\u20132.0."
+      },
+      {
+        "ficha_index": 8,
+        "dimension_index": 3,
+        "status": "verified",
+        "value": 300.0,
+        "value_max": 350.0,
+        "reason": "Figure shows 300\u2013350 inhabitants/ha."
+      }
+    ]
+  },
+  "automatic": [
+    {
+      "ficha_index": 0,
+      "dimension_index": 0,
+      "issues": []
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 1,
+      "issues": [
+        "Unknown unit"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 2,
+      "issues": []
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 3,
+      "issues": [
+        "Unknown unit"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 4,
+      "issues": [
+        "Unknown unit"
+      ]
+    },
+    {
+      "ficha_index": 1,
+      "dimension_index": 0,
+      "issues": []
+    },
+    {
+      "ficha_index": 1,
+      "dimension_index": 1,
+      "issues": [
+        "Unknown unit"
+      ]
+    },
+    {
+      "ficha_index": 1,
+      "dimension_index": 2,
+      "issues": []
+    },
+    {
+      "ficha_index": 1,
+      "dimension_index": 3,
+      "issues": [
+        "Unknown unit"
+      ]
+    },
+    {
+      "ficha_index": 1,
+      "dimension_index": 4,
+      "issues": [
+        "Unknown unit"
+      ]
+    },
+    {
+      "ficha_index": 2,
+      "dimension_index": 0,
+      "issues": []
+    },
+    {
+      "ficha_index": 2,
+      "dimension_index": 1,
+      "issues": [
+        "Unknown unit"
+      ]
+    },
+    {
+      "ficha_index": 2,
+      "dimension_index": 2,
+      "issues": []
+    },
+    {
+      "ficha_index": 2,
+      "dimension_index": 3,
+      "issues": [
+        "Unknown unit"
+      ]
+    },
+    {
+      "ficha_index": 2,
+      "dimension_index": 4,
+      "issues": [
+        "Unknown unit"
+      ]
+    },
+    {
+      "ficha_index": 3,
+      "dimension_index": 0,
+      "issues": []
+    },
+    {
+      "ficha_index": 3,
+      "dimension_index": 1,
+      "issues": [
+        "Unknown unit"
+      ]
+    },
+    {
+      "ficha_index": 3,
+      "dimension_index": 2,
+      "issues": []
+    },
+    {
+      "ficha_index": 3,
+      "dimension_index": 3,
+      "issues": [
+        "Unknown unit"
+      ]
+    },
+    {
+      "ficha_index": 3,
+      "dimension_index": 4,
+      "issues": [
+        "Unknown unit"
+      ]
+    },
+    {
+      "ficha_index": 4,
+      "dimension_index": 0,
+      "issues": []
+    },
+    {
+      "ficha_index": 4,
+      "dimension_index": 1,
+      "issues": [
+        "Unknown unit"
+      ]
+    },
+    {
+      "ficha_index": 4,
+      "dimension_index": 2,
+      "issues": []
+    },
+    {
+      "ficha_index": 4,
+      "dimension_index": 3,
+      "issues": [
+        "Unknown unit"
+      ]
+    },
+    {
+      "ficha_index": 4,
+      "dimension_index": 4,
+      "issues": [
+        "Unknown unit"
+      ]
+    },
+    {
+      "ficha_index": 5,
+      "dimension_index": 0,
+      "issues": []
+    },
+    {
+      "ficha_index": 5,
+      "dimension_index": 1,
+      "issues": [
+        "Unknown unit"
+      ]
+    },
+    {
+      "ficha_index": 5,
+      "dimension_index": 2,
+      "issues": [
+        "Unknown unit"
+      ]
+    },
+    {
+      "ficha_index": 5,
+      "dimension_index": 3,
+      "issues": [
+        "Unknown unit"
+      ]
+    },
+    {
+      "ficha_index": 5,
+      "dimension_index": 4,
+      "issues": [
+        "Unknown unit"
+      ]
+    },
+    {
+      "ficha_index": 6,
+      "dimension_index": 0,
+      "issues": []
+    },
+    {
+      "ficha_index": 6,
+      "dimension_index": 1,
+      "issues": [
+        "Unknown unit"
+      ]
+    },
+    {
+      "ficha_index": 6,
+      "dimension_index": 2,
+      "issues": []
+    },
+    {
+      "ficha_index": 6,
+      "dimension_index": 3,
+      "issues": [
+        "Unknown unit"
+      ]
+    },
+    {
+      "ficha_index": 6,
+      "dimension_index": 4,
+      "issues": [
+        "Unknown unit"
+      ]
+    },
+    {
+      "ficha_index": 7,
+      "dimension_index": 0,
+      "issues": []
+    },
+    {
+      "ficha_index": 7,
+      "dimension_index": 1,
+      "issues": [
+        "Unknown unit"
+      ]
+    },
+    {
+      "ficha_index": 7,
+      "dimension_index": 2,
+      "issues": [
+        "Unknown unit"
+      ]
+    },
+    {
+      "ficha_index": 7,
+      "dimension_index": 3,
+      "issues": [
+        "Unknown unit"
+      ]
+    },
+    {
+      "ficha_index": 7,
+      "dimension_index": 4,
+      "issues": [
+        "Unknown unit"
+      ]
+    },
+    {
+      "ficha_index": 8,
+      "dimension_index": 0,
+      "issues": [
+        "Unknown unit"
+      ]
+    },
+    {
+      "ficha_index": 8,
+      "dimension_index": 1,
+      "issues": [
+        "Unknown unit"
+      ]
+    },
+    {
+      "ficha_index": 8,
+      "dimension_index": 2,
+      "issues": [
+        "Unknown unit"
+      ]
+    },
+    {
+      "ficha_index": 8,
+      "dimension_index": 3,
+      "issues": [
+        "Unknown unit"
+      ]
+    }
+  ],
+  "usage": [
+    {
+      "prompt_tokens": 4877,
+      "completion_tokens": 3623
+    },
+    {
+      "prompt_tokens": 7621,
+      "completion_tokens": 1929
+    }
+  ]
+}

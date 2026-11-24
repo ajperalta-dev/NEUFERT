@@ -1,0 +1,180 @@
+{
+  "fichas": [
+    {
+      "id": "4122fb96e4bd1976-63-vision-0",
+      "pdf_page": 63,
+      "book_page": 50,
+      "chapter": "DESIGN PROCESS",
+      "section": "Refurbishment",
+      "title": "Average life expectancy of building elements",
+      "summary": "Lists typical life-expectancy groups for building and finishing elements, from up to 10 years to over 80 years. The text notes that construction quality and maintenance affect service life, and that accessible replaceable elements can reduce maintenance costs.",
+      "building_type": "Existing buildings",
+      "spaces": [],
+      "uses": [
+        "Assessing building-element life expectancy",
+        "Planning maintenance and refurbishment"
+      ],
+      "furniture_equipment": [],
+      "dimensions": [
+        {
+          "label": "Life expectancy group",
+          "value": 10.0,
+          "value_max": null,
+          "unit": "years",
+          "context": "Upper limit for the listed elements, including lime-washed façades, external window paint, wallpaper, textile flooring, floor surface treatment, and pumps.",
+          "status": "uncertain",
+          "ocr_raw": "Up to 10 years"
+        },
+        {
+          "label": "Life expectancy group",
+          "value": 20.0,
+          "value_max": null,
+          "unit": "years",
+          "context": "Upper limit for the listed elements, including felt roof covering, mineral paints, awnings, plastic external elements, double glazing, floor coverings, building services, and equipment.",
+          "status": "uncertain",
+          "ocr_raw": "Up to 20 years"
+        },
+        {
+          "label": "Life expectancy group",
+          "value": 40.0,
+          "value_max": null,
+          "unit": "years",
+          "context": "Upper limit for the listed elements, including external render, pointing to facing brickwork, plastic windows, roof coverings, insulation systems, screed, installations, and lifts.",
+          "status": "uncertain",
+          "ocr_raw": "Up to 40 years"
+        },
+        {
+          "label": "Life expectancy group",
+          "value": 80.0,
+          "value_max": null,
+          "unit": "years",
+          "context": "Upper limit for the listed elements, including external render, fair-faced concrete, roof construction, roof tiles, stairs, doors, windows, screeds, floor coverings, sanitary appliances, and drainpipes.",
+          "status": "uncertain",
+          "ocr_raw": "Up to 80 years"
+        },
+        {
+          "label": "Life expectancy group",
+          "value": 80.0,
+          "value_max": null,
+          "unit": "years",
+          "context": "The listed elements are stated to have a life expectancy greater than this threshold; examples include massive construction, steel construction, façade cladding, roof construction, slate roofing, and selected windowsills.",
+          "status": "uncertain",
+          "ocr_raw": "Over 80 years"
+        }
+      ],
+      "figure_refs": [
+        "1"
+      ],
+      "cross_refs": [],
+      "keywords": [
+        "refurbishment",
+        "building elements",
+        "life expectancy",
+        "maintenance",
+        "service life"
+      ],
+      "tags_architectural": [
+        "adaptability",
+        "safety"
+      ],
+      "confidence": 0.96
+    },
+    {
+      "id": "4122fb96e4bd1976-63-vision-1",
+      "pdf_page": 63,
+      "book_page": 50,
+      "chapter": "DESIGN PROCESS",
+      "section": "Refurbishment",
+      "title": "Classification of work to existing buildings according to HOAI",
+      "summary": "Explains categories of work on existing buildings, including maintenance, repair, modernisation, rebuilding, extensions, recreation, and conversion. A table compares selected measures by definition, costs, HOAI fee treatment, and approval requirement. Conversion may require building permission, and preliminary investigations and special services are recommended for refurbishment projects.",
+      "building_type": "Existing buildings",
+      "spaces": [],
+      "uses": [
+        "Classifying work on existing buildings",
+        "Estimating investment and fee supplements",
+        "Identifying potential approval requirements",
+        "Preparing refurbishment projects"
+      ],
+      "furniture_equipment": [],
+      "dimensions": [
+        {
+          "label": "Fee increase for phase 8",
+          "value": 50.0,
+          "value_max": null,
+          "unit": "percent",
+          "context": "Maintenance: increase of fee for phase 8 up to the stated amount.",
+          "status": "uncertain",
+          "ocr_raw": "increase of fee for phase 8 up to 50%"
+        },
+        {
+          "label": "Fee increase",
+          "value": 20.0,
+          "value_max": 30.0,
+          "unit": "percent",
+          "context": "Table entries for modernisation, rebuilding, and extension state a fee increase up to the printed range.",
+          "status": "uncertain",
+          "ocr_raw": "increase of fee by up to 20--30%"
+        }
+      ],
+      "figure_refs": [
+        "2"
+      ],
+      "cross_refs": [
+        "BS 7913",
+        "BS 8221",
+        "DIN 31051"
+      ],
+      "keywords": [
+        "HOAI",
+        "maintenance",
+        "repair",
+        "modernisation",
+        "rebuilding",
+        "extension",
+        "recreation",
+        "conversion",
+        "approval",
+        "project preparation"
+      ],
+      "tags_architectural": [
+        "accessibility",
+        "adaptability"
+      ],
+      "confidence": 0.95
+    },
+    {
+      "id": "4122fb96e4bd1976-63-vision-2",
+      "pdf_page": 63,
+      "book_page": 50,
+      "chapter": "DESIGN PROCESS",
+      "section": "Refurbishment",
+      "title": "Classification of works in light of listed-building issues",
+      "summary": "Defines conservation, restoration, reconstruction, anastylose, and translocation in the context of historic monuments and listed buildings. The distinctions address preservation of historic fabric, recovery of historic appearance, recreation of destroyed buildings, reassembly from original elements, and relocation.",
+      "building_type": "Historic and listed buildings",
+      "spaces": [],
+      "uses": [
+        "Classifying work to historic buildings",
+        "Guiding conservation and alteration decisions"
+      ],
+      "furniture_equipment": [],
+      "dimensions": [],
+      "figure_refs": [
+        "3"
+      ],
+      "cross_refs": [],
+      "keywords": [
+        "conservation",
+        "restoration",
+        "reconstruction",
+        "anastylose",
+        "translocation",
+        "historic monuments",
+        "listed buildings"
+      ],
+      "tags_architectural": [
+        "adaptability"
+      ],
+      "confidence": 0.96
+    }
+  ]
+}

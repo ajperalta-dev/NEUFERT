@@ -1,0 +1,100 @@
+{
+  "fichas": [
+    {
+      "id": "4122fb96e4bd1976-538-vision-0",
+      "pdf_page": 538,
+      "book_page": 525,
+      "chapter": "BUILDING SERVICES",
+      "section": "Domestic Installation",
+      "title": "Ground and collector drainage pipes",
+      "summary": "Guidance and two reference tables for permissible wastewater discharge in ground and collector drainage pipes. The tables give maximum discharge and velocity by nominal pipe size and fall for degrees of filling of 50% and 70%, corresponding to DIN EN 12056 Tables B.1 and B.2. The text specifies a minimum fall for collector pipes and a higher filling degree when a drain lift pump is connected.",
+      "building_type": "Residential",
+      "spaces": [
+        "Building drainage system"
+      ],
+      "uses": [
+        "Sizing ground and collector drainage pipes",
+        "Checking permissible wastewater discharge and flow velocity",
+        "Drain lift pump connection"
+      ],
+      "furniture_equipment": [
+        "Drain lift pump"
+      ],
+      "dimensions": [
+        {
+          "label": "Minimum fall",
+          "value": 0.5,
+          "value_max": null,
+          "unit": "%",
+          "context": "Minimum fall for collector pipes inside buildings at degree of filling h/D = 0.5.",
+          "status": "verified",
+          "ocr_raw": "Inside buildings, collector pipes with a degree of filling of h/D Index i = 0.5 should be installed assuming a minimum fall of 0.5%"
+        },
+        {
+          "label": "Degree of filling",
+          "value": 0.5,
+          "value_max": null,
+          "unit": "ratio",
+          "context": "h/D = 0.5; permissible wastewater discharge table for 50% filling.",
+          "status": "verified",
+          "ocr_raw": "Permissible wastewater discharge, degree of filling 50% (h/di 0.5)"
+        },
+        {
+          "label": "Degree of filling",
+          "value": 0.7,
+          "value_max": null,
+          "unit": "ratio",
+          "context": "h/d = 0.7; stated for a drain lift pump connection and used in the 70% filling table.",
+          "status": "verified",
+          "ocr_raw": "with connection of a drain lift pump, which should be installed with a degree of filling of h/d Index i = 0.7."
+        },
+        {
+          "label": "Fall values in reference tables",
+          "value": 0.5,
+          "value_max": 5.0,
+          "unit": "cm/m",
+          "context": "Table rows give falls from 0.50 to 5.00 cm/m for both degrees of filling.",
+          "status": "verified",
+          "ocr_raw": "DOMESTIC INSTALLION\nDrainage\n\nGround and collector drainage pipes\nInside buildings, collector pipes with a degree of filling of h/D Index i = 0.5 should be installed assuming a minimum fall of 0.5%, and\nwith connection of a drain lift pump, which should be installed with a degree of filling of h/d Index i = 0.7.\nFall\n\nON 80\n\nON 90\n\nON 100\n\nON 125\n\nON 150\n\nON 200\n\nON 225\n\nDN 250\n\nON 300\n\ni\n\nOmax\n\nv\n\nOm ax\n\nv\n\nOmax\n\nv\n\nOmax\n\nv\n\nOm ax\n\nv\n\nOmax\n\nv\n\nOmax\n\nv\n\nOmax\n\nv\n\nOm ax\n\nv\n\ncrn!m\n\nlis\n\nmis\n\nlis\n\nmis\n\nlis\n\nmis\n\nlis\n\nmis\n\nlis\n\nmis\n\nlis\n\nmis\n\nlis\n\nmis\n\nlis\n\nmis\n\nlis\n\nmis\n\n0.50\n\n-\n\n-\n\n-\n\n1.8\n\n0.5\n\n2.8\n\n0.5\n\n5.4\n\n0.6\n\n10.0\n\n0.8\n\n15.9\n\n0.8\n\n18.9\n\n0.9\n\n34.1\n\n1.0\n\n1.0\n\n1.3\n\n0.6\n\n1.5\n\n0.6\n\n2.5\n\n0.7\n\n4.1\n\n0.8\n\n7.7\n\n0.9\n\n14.2\n\n1.1\n\n22.5\n\n1.2\n\n26.9\n\n1.2\n\n48.3\n\n1.4\n\n1.50\n\n1.5\n\n0.7\n\n1.8\n\n0.7\n\n3.1\n\n0.8\n\n5.0\n\n1.0\n\n9.4\n\n1.1\n\n17.4\n\n1.3\n\n27.6\n\n1.5\n\n32.9\n\n1.5\n\n59.2\n\n1.8\n\n2.00\n\n1.8\n\n0.8\n\n2.1\n\n0.8\n\n3.5\n\n1.0\n\n5.7\n\n1.1\n\n10.9\n\n1.3\n\n20.1\n\n1.5\n\n31.9\n\n1.7\n\n38.1\n\n1.8\n\n68.4\n\n2.0\n\n2.50\n\n2.0\n\n0.9\n\n2.4\n\n1.0\n\n4.0\n\n1.1\n\n6.4\n\n1.2\n\n12.2\n\n1.5\n\n22.5\n\n1.7\n\n35.7\n\n1.9\n\n42.6\n\n2.0\n\n76.6\n\n2.3\n\n3.00\n\n2.2\n\n1.0\n\n2.6\n\n1.1\n\n4.4\n\n1.2\n\n7.1\n\n1.4\n\n13.3\n\n1.6\n\n24.7\n\n1.9\n\n39.2\n\n2.1\n\n46.7\n\n2.2\n\n83.9\n\n2.5\n\n3.50\n\n2.4\n\n1.1\n\n2.9\n\n1.1\n\n4.7\n\n1.3\n\n7.6\n\n1.5\n\n14.4\n\n1.7\n\n26.6\n\n2.0\n\n42.3\n\n2.2\n\n50.4\n\n2.3\n\n90.7\n\n2.7\n\n4.00\n\n2.6\n\n1.2\n\n3.1\n\n1.2\n\n5.0\n\n1.4\n\n8.2\n\n1.6\n\n15.4\n\n1.8\n\n28.5\n\n2.1\n\n45.2\n\n2.4\n\n53.9\n\n2.5\n\n96.9\n\n2.9\n\n4.50\n\n2.8\n\n1.2\n\n3.2\n\n1.3\n\n5.3\n\n1.5\n\n8.7\n\n1.7\n\n16.3\n\n2.0\n\n30.2\n\n2.3\n\n48.0\n\n2.5\n\n57.2\n\n2.7\n\n102.8\n\n3.1\n\n5.00\n\n1.2\n\n2.9\n\n3.4\n\n1.4\n\n5.6\n\n1.6\n\n9.1\n\n1.8\n\n17.2\n\n2.1\n\n31.9\n\n2.4\n\n50.6\n\n2.7\n\n60.3\n\n2.8\n\n108.4\n\n3.2\n\n0 Permissible wastewater discharge, degree of filling 50% (h/di 0.5) (corresponds to DIN EN 12056, Table 8.1)\n=\n\nFall\n\nON 90\n\nON 80\n\nDN 125\n\nON 100\n\nON 200\n\nON 150\n\nDN 225\n\nON 250\n\nON 300\n\ni\n\nOm ax\n\nn\n\nOmax\n\nn\n\nOmax\n\nn\n\nOmax\n\nn\n\nOm ax\n\nn\n\nOmax\n\nn\n\nOmax\n\nn\n\nOm ax\n\nn\n\nOm ax\n\nn\n\ncmim\n\nlis\n\nmis\n\nlis\n\nmis\n\nlis\n\nmis\n\nlis\n\nmis\n\nlis\n\nmis\n\nlis\n\nmis\n\nlis\n\nmis\n\nVs\n\nmis\n\nlis\n\nmis\n\n0.50\n\n1.5\n\n0.5\n\n-\n\n-\n\n2.9\n\n0.5\n\n4.8\n\n0.6\n\n9.0\n\n0.7\n\n16.7\n\n0.8\n\n26.5\n\n0.9\n\n31.6\n\n1.0\n\n56.8\n\n1.1\n\nDOMESTIC\nINSTALLATION\n\n1.0\n\n2.2\n\n0.7\n\n2.5\n\n0.6\n\n4.2\n\n0.8\n\n6.8\n\n0.9\n\n12.8\n\n1.0\n\n23.7\n\n1.2\n\n37.6\n\n1.3\n\n44.9\n\n1.4\n\n80.6\n\n1.6\n\nVentilation\nHeating\n\n1.50\n\n2.6\n\n0.8\n\n3.0\n\n0.8\n\n5.1\n\n1.0\n\n8.3\n\n1.1\n\n15.7\n\n1.3\n\n29.1\n\n1.5\n\n46.2\n\n1.6\n\n55.0\n\n1.7\n\n98.8\n\n2.0\n\n2.00\n\n3.1\n\n0.9\n\n3.5\n\n0.9\n\n5.9\n\n1.1\n\n9.6\n\n1.2\n\n18.2\n\n1.5\n\n33.6\n\n1.7\n\n53.3\n\n1.9\n\n63.3\n\n2.0\n\n114.2\n\n2.3\n\n2.50\n\n3.4\n\n1.0\n\n4.0\n\n1.1\n\n6.7\n\n1.2\n\n10.8\n\n1.4\n\n20.33\n\n1.6\n\n37.6\n\n1.9\n\n59.7\n\n2.1\n\n71.7\n\n2.2\n\n127.7\n\n2.6\n\n3.00\n\n3.8\n\n1.1\n\n4.3\n\n1.2\n\n7.3\n\n1.3\n\n11.8\n\n1.5\n\n22.3\n\n1.8\n\n41.2\n\n2.1\n\n65.4\n\n2.3\n\n77.9\n\n2.4\n\n140.0\n\n2.8\n\n3.50\n\n4.1\n\n1.2\n\n4.7\n\n1.3\n\n7.9\n\n1.5\n\n12.8\n\n1.6\n\n24.1\n\n1.9\n\n44.5\n\n2.2\n\n70.6\n\n2.5\n\n84.2\n\n2.6\n\n151.2\n\n3.0\n\n4.00\n\n4.4\n\n1.3\n\n5.0\n\n1.3\n\n8.4\n\n1.6\n\n13.7\n\n1.8\n\n25.8\n\n2.1\n\n47.6\n\n2.4\n\n75.5\n\n2.7\n\n90.0\n\n2.8\n\n161.7\n\n3.2\n\n4.50\n\n4.6\n\n1.4\n\n5.3\n\n1.4\n\n8.9\n\n1.7\n\n14.5\n\n1.9\n\n27.3\n\n2.2\n\n50.5\n\n2.5\n\n80.1\n\n2.8\n\n95.5\n\n3.0\n\n171.5\n\n3.4\n\n5.00\n\n4.9\n\n1.5\n\n5.6\n\n1.5\n\n9.4\n\n1.7\n\n15.3\n\n2.0\n\n28.8\n\n2.3\n\n53.3\n\n2.7\n\n84.5\n\n3.0\n\n100.7\n\n3.1\n\n180.8\n\n3.6\n\nDrainage\n\nSmall sewage\n\nf) Permissible wastewater discharge, degree of filling 70% (hidi = 0. 7) (corresponds to DIN EN 12056, Table 8.2)\n525\n\ntreatment plants\n8S EN 476\n8S 8515\nDIN 1986\nDIN EN 12056\n\n\f"
+        },
+        {
+          "label": "Nominal pipe size",
+          "value": 80.0,
+          "value_max": null,
+          "unit": "DN",
+          "context": "Pipe sizes listed in the tables: DN 80, DN 90, DN 100, DN 125, DN 150, DN 200, DN 225, DN 250, and DN 300.",
+          "status": "verified",
+          "ocr_raw": "DOMESTIC INSTALLION\nDrainage\n\nGround and collector drainage pipes\nInside buildings, collector pipes with a degree of filling of h/D Index i = 0.5 should be installed assuming a minimum fall of 0.5%, and\nwith connection of a drain lift pump, which should be installed with a degree of filling of h/d Index i = 0.7.\nFall\n\nON 80\n\nON 90\n\nON 100\n\nON 125\n\nON 150\n\nON 200\n\nON 225\n\nDN 250\n\nON 300\n\ni\n\nOmax\n\nv\n\nOm ax\n\nv\n\nOmax\n\nv\n\nOmax\n\nv\n\nOm ax\n\nv\n\nOmax\n\nv\n\nOmax\n\nv\n\nOmax\n\nv\n\nOm ax\n\nv\n\ncrn!m\n\nlis\n\nmis\n\nlis\n\nmis\n\nlis\n\nmis\n\nlis\n\nmis\n\nlis\n\nmis\n\nlis\n\nmis\n\nlis\n\nmis\n\nlis\n\nmis\n\nlis\n\nmis\n\n0.50\n\n-\n\n-\n\n-\n\n1.8\n\n0.5\n\n2.8\n\n0.5\n\n5.4\n\n0.6\n\n10.0\n\n0.8\n\n15.9\n\n0.8\n\n18.9\n\n0.9\n\n34.1\n\n1.0\n\n1.0\n\n1.3\n\n0.6\n\n1.5\n\n0.6\n\n2.5\n\n0.7\n\n4.1\n\n0.8\n\n7.7\n\n0.9\n\n14.2\n\n1.1\n\n22.5\n\n1.2\n\n26.9\n\n1.2\n\n48.3\n\n1.4\n\n1.50\n\n1.5\n\n0.7\n\n1.8\n\n0.7\n\n3.1\n\n0.8\n\n5.0\n\n1.0\n\n9.4\n\n1.1\n\n17.4\n\n1.3\n\n27.6\n\n1.5\n\n32.9\n\n1.5\n\n59.2\n\n1.8\n\n2.00\n\n1.8\n\n0.8\n\n2.1\n\n0.8\n\n3.5\n\n1.0\n\n5.7\n\n1.1\n\n10.9\n\n1.3\n\n20.1\n\n1.5\n\n31.9\n\n1.7\n\n38.1\n\n1.8\n\n68.4\n\n2.0\n\n2.50\n\n2.0\n\n0.9\n\n2.4\n\n1.0\n\n4.0\n\n1.1\n\n6.4\n\n1.2\n\n12.2\n\n1.5\n\n22.5\n\n1.7\n\n35.7\n\n1.9\n\n42.6\n\n2.0\n\n76.6\n\n2.3\n\n3.00\n\n2.2\n\n1.0\n\n2.6\n\n1.1\n\n4.4\n\n1.2\n\n7.1\n\n1.4\n\n13.3\n\n1.6\n\n24.7\n\n1.9\n\n39.2\n\n2.1\n\n46.7\n\n2.2\n\n83.9\n\n2.5\n\n3.50\n\n2.4\n\n1.1\n\n2.9\n\n1.1\n\n4.7\n\n1.3\n\n7.6\n\n1.5\n\n14.4\n\n1.7\n\n26.6\n\n2.0\n\n42.3\n\n2.2\n\n50.4\n\n2.3\n\n90.7\n\n2.7\n\n4.00\n\n2.6\n\n1.2\n\n3.1\n\n1.2\n\n5.0\n\n1.4\n\n8.2\n\n1.6\n\n15.4\n\n1.8\n\n28.5\n\n2.1\n\n45.2\n\n2.4\n\n53.9\n\n2.5\n\n96.9\n\n2.9\n\n4.50\n\n2.8\n\n1.2\n\n3.2\n\n1.3\n\n5.3\n\n1.5\n\n8.7\n\n1.7\n\n16.3\n\n2.0\n\n30.2\n\n2.3\n\n48.0\n\n2.5\n\n57.2\n\n2.7\n\n102.8\n\n3.1\n\n5.00\n\n1.2\n\n2.9\n\n3.4\n\n1.4\n\n5.6\n\n1.6\n\n9.1\n\n1.8\n\n17.2\n\n2.1\n\n31.9\n\n2.4\n\n50.6\n\n2.7\n\n60.3\n\n2.8\n\n108.4\n\n3.2\n\n0 Permissible wastewater discharge, degree of filling 50% (h/di 0.5) (corresponds to DIN EN 12056, Table 8.1)\n=\n\nFall\n\nON 90\n\nON 80\n\nDN 125\n\nON 100\n\nON 200\n\nON 150\n\nDN 225\n\nON 250\n\nON 300\n\ni\n\nOm ax\n\nn\n\nOmax\n\nn\n\nOmax\n\nn\n\nOmax\n\nn\n\nOm ax\n\nn\n\nOmax\n\nn\n\nOmax\n\nn\n\nOm ax\n\nn\n\nOm ax\n\nn\n\ncmim\n\nlis\n\nmis\n\nlis\n\nmis\n\nlis\n\nmis\n\nlis\n\nmis\n\nlis\n\nmis\n\nlis\n\nmis\n\nlis\n\nmis\n\nVs\n\nmis\n\nlis\n\nmis\n\n0.50\n\n1.5\n\n0.5\n\n-\n\n-\n\n2.9\n\n0.5\n\n4.8\n\n0.6\n\n9.0\n\n0.7\n\n16.7\n\n0.8\n\n26.5\n\n0.9\n\n31.6\n\n1.0\n\n56.8\n\n1.1\n\nDOMESTIC\nINSTALLATION\n\n1.0\n\n2.2\n\n0.7\n\n2.5\n\n0.6\n\n4.2\n\n0.8\n\n6.8\n\n0.9\n\n12.8\n\n1.0\n\n23.7\n\n1.2\n\n37.6\n\n1.3\n\n44.9\n\n1.4\n\n80.6\n\n1.6\n\nVentilation\nHeating\n\n1.50\n\n2.6\n\n0.8\n\n3.0\n\n0.8\n\n5.1\n\n1.0\n\n8.3\n\n1.1\n\n15.7\n\n1.3\n\n29.1\n\n1.5\n\n46.2\n\n1.6\n\n55.0\n\n1.7\n\n98.8\n\n2.0\n\n2.00\n\n3.1\n\n0.9\n\n3.5\n\n0.9\n\n5.9\n\n1.1\n\n9.6\n\n1.2\n\n18.2\n\n1.5\n\n33.6\n\n1.7\n\n53.3\n\n1.9\n\n63.3\n\n2.0\n\n114.2\n\n2.3\n\n2.50\n\n3.4\n\n1.0\n\n4.0\n\n1.1\n\n6.7\n\n1.2\n\n10.8\n\n1.4\n\n20.33\n\n1.6\n\n37.6\n\n1.9\n\n59.7\n\n2.1\n\n71.7\n\n2.2\n\n127.7\n\n2.6\n\n3.00\n\n3.8\n\n1.1\n\n4.3\n\n1.2\n\n7.3\n\n1.3\n\n11.8\n\n1.5\n\n22.3\n\n1.8\n\n41.2\n\n2.1\n\n65.4\n\n2.3\n\n77.9\n\n2.4\n\n140.0\n\n2.8\n\n3.50\n\n4.1\n\n1.2\n\n4.7\n\n1.3\n\n7.9\n\n1.5\n\n12.8\n\n1.6\n\n24.1\n\n1.9\n\n44.5\n\n2.2\n\n70.6\n\n2.5\n\n84.2\n\n2.6\n\n151.2\n\n3.0\n\n4.00\n\n4.4\n\n1.3\n\n5.0\n\n1.3\n\n8.4\n\n1.6\n\n13.7\n\n1.8\n\n25.8\n\n2.1\n\n47.6\n\n2.4\n\n75.5\n\n2.7\n\n90.0\n\n2.8\n\n161.7\n\n3.2\n\n4.50\n\n4.6\n\n1.4\n\n5.3\n\n1.4\n\n8.9\n\n1.7\n\n14.5\n\n1.9\n\n27.3\n\n2.2\n\n50.5\n\n2.5\n\n80.1\n\n2.8\n\n95.5\n\n3.0\n\n171.5\n\n3.4\n\n5.00\n\n4.9\n\n1.5\n\n5.6\n\n1.5\n\n9.4\n\n1.7\n\n15.3\n\n2.0\n\n28.8\n\n2.3\n\n53.3\n\n2.7\n\n84.5\n\n3.0\n\n100.7\n\n3.1\n\n180.8\n\n3.6\n\nDrainage\n\nSmall sewage\n\nf) Permissible wastewater discharge, degree of filling 70% (hidi = 0. 7) (corresponds to DIN EN 12056, Table 8.2)\n525\n\ntreatment plants\n8S EN 476\n8S 8515\nDIN 1986\nDIN EN 12056\n\n\f"
+        }
+      ],
+      "figure_refs": [
+        "Permissible wastewater discharge, degree of filling 50% (h/di 0.5)",
+        "Permissible wastewater discharge, degree of filling 70% (h/di = 0.7)"
+      ],
+      "cross_refs": [
+        "DIN EN 12056, Table B.1",
+        "DIN EN 12056, Table B.2",
+        "BS EN 476",
+        "BS 8515",
+        "DIN 1986",
+        "DIN EN 12056"
+      ],
+      "keywords": [
+        "domestic installation",
+        "drainage",
+        "ground drainage",
+        "collector pipes",
+        "wastewater discharge",
+        "pipe fall",
+        "degree of filling",
+        "nominal diameter",
+        "flow velocity",
+        "drain lift pump"
+      ],
+      "tags_architectural": [
+        "safety"
+      ],
+      "confidence": 0.94
+    }
+  ]
+}

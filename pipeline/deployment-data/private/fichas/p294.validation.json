@@ -1,0 +1,84 @@
+{
+  "model": "gpt-6-luna",
+  "checks": {
+    "checks": [
+      {
+        "ficha_index": 0,
+        "dimension_index": 0,
+        "status": "uncertain",
+        "value": null,
+        "value_max": null,
+        "reason": "The drawing shows \u201c5.0 x 5.0,\u201d but no unit is visibly printed, so the proposed value and unit cannot both be verified."
+      },
+      {
+        "ficha_index": 3,
+        "dimension_index": 0,
+        "status": "uncertain",
+        "value": null,
+        "value_max": null,
+        "reason": "The drawing shows \u201c1.20,\u201d but no unit is visibly printed."
+      },
+      {
+        "ficha_index": 3,
+        "dimension_index": 1,
+        "status": "uncertain",
+        "value": null,
+        "value_max": null,
+        "reason": "The drawing shows \u201c3.85,\u201d but no unit is visibly printed."
+      },
+      {
+        "ficha_index": 3,
+        "dimension_index": 2,
+        "status": "uncertain",
+        "value": null,
+        "value_max": null,
+        "reason": "The drawing shows \u201c4.00,\u201d but no unit is visibly printed."
+      },
+      {
+        "ficha_index": 3,
+        "dimension_index": 3,
+        "status": "uncertain",
+        "value": null,
+        "value_max": null,
+        "reason": "The drawing shows \u201c1.10,\u201d but no unit is visibly printed."
+      }
+    ]
+  },
+  "automatic": [
+    {
+      "ficha_index": 0,
+      "dimension_index": 0,
+      "issues": []
+    },
+    {
+      "ficha_index": 3,
+      "dimension_index": 0,
+      "issues": []
+    },
+    {
+      "ficha_index": 3,
+      "dimension_index": 1,
+      "issues": []
+    },
+    {
+      "ficha_index": 3,
+      "dimension_index": 2,
+      "issues": []
+    },
+    {
+      "ficha_index": 3,
+      "dimension_index": 3,
+      "issues": []
+    }
+  ],
+  "usage": [
+    {
+      "prompt_tokens": 4449,
+      "completion_tokens": 1917
+    },
+    {
+      "prompt_tokens": 4797,
+      "completion_tokens": 373
+    }
+  ]
+}

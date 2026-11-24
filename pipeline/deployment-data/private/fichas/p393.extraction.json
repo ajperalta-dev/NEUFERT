@@ -1,0 +1,210 @@
+{
+  "fichas": [
+    {
+      "id": "4122fb96e4bd1976-393-vision-0",
+      "pdf_page": 393,
+      "book_page": 380,
+      "chapter": "TRANSPORT",
+      "section": "Roads",
+      "title": "Standard Cross-Sections for Inter-urban Roads",
+      "summary": "Standard cross-sections are provided for roads outside built-up areas and should not be deviated from without reason. The appropriate section is selected according to forecast vehicle numbers and road category. The diagrams show standard cross-sections SC 20, SC 15.5, SC 10.5, SC 9.5 and SC 7.5. Cross-sections beside the carriageway also influence the functional and visual structure; footpaths, cycle tracks, stopping and parking, screening, delivery, and commercial areas should be considered.",
+      "building_type": "Inter-urban road",
+      "spaces": [
+        "Carriageway",
+        "Roadside cross-sections"
+      ],
+      "uses": [
+        "Standardized road design",
+        "Vehicle traffic"
+      ],
+      "furniture_equipment": [],
+      "dimensions": [
+        {
+          "label": "SC 20 total cross-section width",
+          "value": 20.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Standard cross-section for roads without adjacent buildings",
+          "status": "uncertain",
+          "ocr_raw": "20.00"
+        },
+        {
+          "label": "SC 15.5 total cross-section width",
+          "value": 15.5,
+          "value_max": null,
+          "unit": "m",
+          "context": "Standard cross-section for roads without adjacent buildings",
+          "status": "uncertain",
+          "ocr_raw": "15.50"
+        },
+        {
+          "label": "SC 10.5 total cross-section width",
+          "value": 10.5,
+          "value_max": null,
+          "unit": "m",
+          "context": "Standard cross-section for roads without adjacent buildings",
+          "status": "uncertain",
+          "ocr_raw": "10.50"
+        },
+        {
+          "label": "SC 9.5 total cross-section width",
+          "value": 9.5,
+          "value_max": null,
+          "unit": "m",
+          "context": "Standard cross-section for roads without adjacent buildings",
+          "status": "uncertain",
+          "ocr_raw": "9.50"
+        },
+        {
+          "label": "SC 7.5 total cross-section width",
+          "value": 7.5,
+          "value_max": null,
+          "unit": "m",
+          "context": "Standard cross-section for roads without adjacent buildings",
+          "status": "uncertain",
+          "ocr_raw": "7.50"
+        }
+      ],
+      "figure_refs": [
+        "1"
+      ],
+      "cross_refs": [
+        "p. 377",
+        "p. 391"
+      ],
+      "keywords": [
+        "inter-urban roads",
+        "standard cross-sections",
+        "road category",
+        "carriageway",
+        "footpaths",
+        "cycle tracks",
+        "parking"
+      ],
+      "tags_architectural": [
+        "circulation",
+        "spatial_proportion"
+      ],
+      "confidence": 0.97
+    },
+    {
+      "id": "4122fb96e4bd1976-393-vision-1",
+      "pdf_page": 393,
+      "book_page": 380,
+      "chapter": "TRANSPORT",
+      "section": "Roads",
+      "title": "Built-up Road Cross-Section Examples",
+      "summary": "Roads with adjacent buildings do not have standard cross-sections; profiles should respond to the needs of road users and adjacent property owners and to the vehicle type intended for the road space. The examples illustrate varied arrangements, including separated pedestrian and cyclist areas, tram and bus facilities, parking, cycleways, and drivable side strips. A distinctive street image can be supported by differentiated dimensions, balanced street width and height, and diverse planting, while enabling orientation.",
+      "building_type": "Built-up road",
+      "spaces": [
+        "Street space",
+        "Carriageway",
+        "Footpaths",
+        "Cycleways",
+        "Parking areas",
+        "Grass strips",
+        "Tram track bed",
+        "Bus lane"
+      ],
+      "uses": [
+        "Vehicle traffic",
+        "Pedestrian circulation",
+        "Cycling",
+        "Parking",
+        "Tram and bus transit",
+        "Street orientation"
+      ],
+      "furniture_equipment": [
+        "Planting",
+        "Grass strips",
+        "Parking areas",
+        "Tram track bed",
+        "Bus lane"
+      ],
+      "dimensions": [
+        {
+          "label": "Pedestrian and cyclist area with tram: total cross-section width",
+          "value": 17.1,
+          "value_max": null,
+          "unit": "m",
+          "context": "Figure 2; pedestrian and cyclist areas separated from the road and parking by grass strips; tram on its own track bed",
+          "status": "uncertain",
+          "ocr_raw": "17.10"
+        },
+        {
+          "label": "Feeder road for trucks: parking dimension shown",
+          "value": 5.5,
+          "value_max": null,
+          "unit": "m",
+          "context": "Figure 3; feeder road designed for truck encounters at reduced speed, with a drivable side strip for larger vehicles meeting",
+          "status": "uncertain",
+          "ocr_raw": "5.50"
+        },
+        {
+          "label": "Cycleway near road with bus lane: total cross-section width",
+          "value": 13.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Figure 4; cycleway near the road and bus lane in the middle of the road",
+          "status": "uncertain",
+          "ocr_raw": "13.00"
+        },
+        {
+          "label": "Feeder road for cars: parking dimension shown",
+          "value": 6.5,
+          "value_max": null,
+          "unit": "m",
+          "context": "Figure 5; feeder road designed for car encounters at reduced speed, with a drivable side strip for larger vehicles meeting",
+          "status": "uncertain",
+          "ocr_raw": "6.50"
+        },
+        {
+          "label": "Extra-wide road: total cross-section width",
+          "value": 11.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Figure 6; road described as drivable in four lanes, with parking strips physically separated from the road",
+          "status": "uncertain",
+          "ocr_raw": "11.00"
+        },
+        {
+          "label": "Road for residents: parking dimension shown",
+          "value": 4.75,
+          "value_max": null,
+          "unit": "m",
+          "context": "Figure 7; road designed for reduced-speed car/truck encounters, with parking strips parallel and at right angles to the road",
+          "status": "uncertain",
+          "ocr_raw": "4.75"
+        }
+      ],
+      "figure_refs": [
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7"
+      ],
+      "cross_refs": [
+        "p. 391"
+      ],
+      "keywords": [
+        "built-up roads",
+        "street space",
+        "road cross-sections",
+        "pedestrian areas",
+        "cycleways",
+        "parking",
+        "traffic calming",
+        "planting"
+      ],
+      "tags_architectural": [
+        "circulation",
+        "spatial_proportion",
+        "safety",
+        "adaptability"
+      ],
+      "confidence": 0.91
+    }
+  ]
+}

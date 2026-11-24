@@ -1,0 +1,396 @@
+{
+  "fichas": [
+    {
+      "id": "4122fb96e4bd1976-189-vision-0",
+      "pdf_page": 189,
+      "book_page": 176,
+      "chapter": "ACCOMMODATION",
+      "section": "Catering",
+      "title": "Restaurant and dining-room layouts",
+      "summary": "Illustrated dining-room arrangements compare table sizes, seating capacities, and circulation for restaurants, self-service restaurants, and bistro-café-bars. Space needs vary by restaurant type; diagonal table arrangements can save up to 35% compared with aligned layouts. Room dimensions should be developed from specific furniture layouts rather than capacity-per-area formulas. The text recommends service stations for each group of 40 places and organizing tables into appropriately sized groups.",
+      "building_type": "Restaurant and dining room",
+      "spaces": [
+        "Dining room",
+        "Restaurant seating area",
+        "Self-service seating area",
+        "Bistro-café-bar seating area",
+        "Waiter station"
+      ],
+      "uses": [
+        "Dining",
+        "Table service",
+        "Self-service dining",
+        "Planning seating capacity and circulation"
+      ],
+      "furniture_equipment": [
+        "Dining tables",
+        "Dining chairs",
+        "Waiter station",
+        "Service points"
+      ],
+      "dimensions": [
+        {
+          "label": "Table depth for predominantly plate service",
+          "value": 70.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Dining-room table depth may be reduced for predominantly plate service.",
+          "status": "uncertain",
+          "ocr_raw": "Table sizes in a restaurant: with predominantly plate service the table depth can be reduced to 70 cm"
+        },
+        {
+          "label": "Table diameter",
+          "value": 1.15,
+          "value_max": null,
+          "unit": "m",
+          "context": "Restaurant table shown in the dining-room layout.",
+          "status": "uncertain",
+          "ocr_raw": "Ø1.15"
+        },
+        {
+          "label": "Table diameter",
+          "value": 1.5,
+          "value_max": null,
+          "unit": "m",
+          "context": "Restaurant table shown in the dining-room layout.",
+          "status": "uncertain",
+          "ocr_raw": "Ø1.50"
+        },
+        {
+          "label": "Table diameter",
+          "value": 1.7,
+          "value_max": null,
+          "unit": "m",
+          "context": "Self-service restaurant table shown in the layout.",
+          "status": "uncertain",
+          "ocr_raw": "Ø1.70"
+        },
+        {
+          "label": "Circulation space",
+          "value": 1.2,
+          "value_max": 1.4,
+          "unit": "m",
+          "context": "Clear space indicated between dining areas and tables.",
+          "status": "uncertain",
+          "ocr_raw": "1.20–1.40"
+        },
+        {
+          "label": "Circulation space",
+          "value": 1.5,
+          "value_max": null,
+          "unit": "m",
+          "context": "Clear space indicated in the self-service restaurant layout.",
+          "status": "uncertain",
+          "ocr_raw": "1.50"
+        },
+        {
+          "label": "Service-station planning capacity",
+          "value": 40.0,
+          "value_max": null,
+          "unit": "places",
+          "context": "Text recommends a station for each 40 places, with at least one service point centrally located where possible.",
+          "status": "uncertain",
+          "ocr_raw": "stations for 40 places each with at least one service point as centrally placed as possible"
+        },
+        {
+          "label": "Suggested table-group size",
+          "value": 12.0,
+          "value_max": 24.0,
+          "unit": "places",
+          "context": "Approximate group size for organizing dining areas to avoid a waiting-room impression.",
+          "status": "uncertain",
+          "ocr_raw": "Areas of about 20 (12-24) places are designed"
+        }
+      ],
+      "figure_refs": [
+        "1 Table sizes in a restaurant",
+        "2 In a self-service restaurant",
+        "3 Bistro-café-bar",
+        "6 Waiter station"
+      ],
+      "cross_refs": [
+        "1"
+      ],
+      "keywords": [
+        "restaurant",
+        "dining room",
+        "table layout",
+        "seating capacity",
+        "circulation",
+        "service point"
+      ],
+      "tags_architectural": [
+        "circulation",
+        "spatial_proportion",
+        "ergonomics"
+      ],
+      "confidence": 0.95
+    },
+    {
+      "id": "4122fb96e4bd1976-189-vision-1",
+      "pdf_page": 189,
+      "book_page": 176,
+      "chapter": "ACCOMMODATION",
+      "section": "Catering",
+      "title": "Banquet table arrangements",
+      "summary": "Illustrations show banquet seating arrangements using round and rectangular tables, including table groupings for different numbers of places. The drawings indicate table sizes and clearances for planning banquet layouts.",
+      "building_type": "Banquet and event space",
+      "spaces": [
+        "Banquet seating area"
+      ],
+      "uses": [
+        "Banquet dining",
+        "Group dining"
+      ],
+      "furniture_equipment": [
+        "Banquet tables",
+        "Dining chairs"
+      ],
+      "dimensions": [
+        {
+          "label": "Round table diameter",
+          "value": 1.5,
+          "value_max": null,
+          "unit": "m",
+          "context": "Diameter indicated for banquet tables.",
+          "status": "uncertain",
+          "ocr_raw": "Ø 1.50"
+        },
+        {
+          "label": "Table group capacity",
+          "value": 6.0,
+          "value_max": 8.0,
+          "unit": "places",
+          "context": "Capacity indicated for a banquet table.",
+          "status": "uncertain",
+          "ocr_raw": "Table 6–8 places"
+        },
+        {
+          "label": "Table group capacity",
+          "value": 8.0,
+          "value_max": 10.0,
+          "unit": "places",
+          "context": "Capacity indicated for a banquet table.",
+          "status": "uncertain",
+          "ocr_raw": "8–10 places"
+        },
+        {
+          "label": "Table group capacity",
+          "value": 6.0,
+          "value_max": null,
+          "unit": "places",
+          "context": "Capacity indicated for a banquet table.",
+          "status": "uncertain",
+          "ocr_raw": "6 places"
+        },
+        {
+          "label": "Table arrangement length",
+          "value": 2.6,
+          "value_max": null,
+          "unit": "m",
+          "context": "Dimension indicated above a banquet table arrangement.",
+          "status": "uncertain",
+          "ocr_raw": "2.60"
+        },
+        {
+          "label": "Table arrangement length",
+          "value": 2.9,
+          "value_max": null,
+          "unit": "m",
+          "context": "Dimension indicated above a banquet table arrangement.",
+          "status": "uncertain",
+          "ocr_raw": "2.90"
+        },
+        {
+          "label": "Table arrangement length",
+          "value": 3.6,
+          "value_max": 4.2,
+          "unit": "m",
+          "context": "Dimension indicated above a banquet table arrangement.",
+          "status": "uncertain",
+          "ocr_raw": "3.60–4.20"
+        }
+      ],
+      "figure_refs": [
+        "4 Banquet"
+      ],
+      "cross_refs": [],
+      "keywords": [
+        "banquet",
+        "table arrangement",
+        "event seating",
+        "dining"
+      ],
+      "tags_architectural": [
+        "circulation",
+        "spatial_proportion",
+        "ergonomics"
+      ],
+      "confidence": 0.87
+    },
+    {
+      "id": "4122fb96e4bd1976-189-vision-2",
+      "pdf_page": 189,
+      "book_page": 176,
+      "chapter": "ACCOMMODATION",
+      "section": "Catering",
+      "title": "Corporate and seminar rooms",
+      "summary": "Plans show corporate and seminar room arrangements with tables and chairs in different configurations. The drawings give example furniture dimensions and minimum room spans for the illustrated layouts.",
+      "building_type": "Corporate and seminar room",
+      "spaces": [
+        "Corporate room",
+        "Seminar room"
+      ],
+      "uses": [
+        "Meetings",
+        "Seminars",
+        "Group work"
+      ],
+      "furniture_equipment": [
+        "Meeting tables",
+        "Seminar tables",
+        "Chairs"
+      ],
+      "dimensions": [
+        {
+          "label": "Table size",
+          "value": 1.2,
+          "value_max": null,
+          "unit": "m",
+          "context": "Table dimension shown in the corporate and seminar room layouts.",
+          "status": "uncertain",
+          "ocr_raw": "1.20 x 80"
+        },
+        {
+          "label": "Table size",
+          "value": 0.8,
+          "value_max": null,
+          "unit": "m",
+          "context": "Second dimension of table shown in the corporate and seminar room layouts.",
+          "status": "uncertain",
+          "ocr_raw": "1.20 x 80"
+        },
+        {
+          "label": "Room span",
+          "value": 5.4,
+          "value_max": null,
+          "unit": "m",
+          "context": "Minimum span indicated below a corporate/seminar room plan.",
+          "status": "uncertain",
+          "ocr_raw": "≥ 5.40"
+        },
+        {
+          "label": "Room span",
+          "value": 6.6,
+          "value_max": null,
+          "unit": "m",
+          "context": "Minimum span indicated below a corporate/seminar room plan.",
+          "status": "uncertain",
+          "ocr_raw": "≥ 6.60"
+        },
+        {
+          "label": "Room span",
+          "value": 5.4,
+          "value_max": null,
+          "unit": "m",
+          "context": "Minimum span indicated below another illustrated room arrangement.",
+          "status": "uncertain",
+          "ocr_raw": "≥ 5.40"
+        }
+      ],
+      "figure_refs": [
+        "5 Corporate and seminar rooms"
+      ],
+      "cross_refs": [],
+      "keywords": [
+        "corporate room",
+        "seminar room",
+        "meeting",
+        "room layout",
+        "tables"
+      ],
+      "tags_architectural": [
+        "circulation",
+        "spatial_proportion",
+        "adaptability"
+      ],
+      "confidence": 0.83
+    },
+    {
+      "id": "4122fb96e4bd1976-189-vision-3",
+      "pdf_page": 189,
+      "book_page": 176,
+      "chapter": "ACCOMMODATION",
+      "section": "Catering",
+      "title": "Events and meetings without eating",
+      "summary": "The plan illustrates seating and table arrangements for events and meetings without eating, with indicated table dimensions, clearances, and layout spacing.",
+      "building_type": "Event and meeting room",
+      "spaces": [
+        "Meeting room",
+        "Event space"
+      ],
+      "uses": [
+        "Meetings",
+        "Events without dining"
+      ],
+      "furniture_equipment": [
+        "Tables",
+        "Chairs"
+      ],
+      "dimensions": [
+        {
+          "label": "Table length",
+          "value": 1.8,
+          "value_max": null,
+          "unit": "m",
+          "context": "Table dimension shown in the event and meeting layout.",
+          "status": "uncertain",
+          "ocr_raw": "1.80"
+        },
+        {
+          "label": "Table width",
+          "value": 0.45,
+          "value_max": 0.5,
+          "unit": "m",
+          "context": "Table width shown in the event and meeting layout.",
+          "status": "uncertain",
+          "ocr_raw": "1.80×45–50"
+        },
+        {
+          "label": "Clear spacing",
+          "value": 1.55,
+          "value_max": null,
+          "unit": "m",
+          "context": "Spacing indicated between rows in the event and meeting plan.",
+          "status": "uncertain",
+          "ocr_raw": "1.55"
+        },
+        {
+          "label": "Table dimension",
+          "value": 1.8,
+          "value_max": null,
+          "unit": "m",
+          "context": "Table dimension indicated in the event and meeting layout.",
+          "status": "uncertain",
+          "ocr_raw": "1.80×70"
+        }
+      ],
+      "figure_refs": [
+        "7 Events, meetings: without eating"
+      ],
+      "cross_refs": [],
+      "keywords": [
+        "events",
+        "meetings",
+        "table layout",
+        "seating"
+      ],
+      "tags_architectural": [
+        "circulation",
+        "spatial_proportion",
+        "adaptability"
+      ],
+      "confidence": 0.79
+    }
+  ]
+}

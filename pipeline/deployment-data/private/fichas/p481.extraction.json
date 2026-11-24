@@ -1,0 +1,391 @@
+{
+  "fichas": [
+    {
+      "id": "4122fb96e4bd1976-481-vision-0",
+      "pdf_page": 481,
+      "book_page": 468,
+      "chapter": "BUILDING SERVICES",
+      "section": "Renewable Energy",
+      "title": "Wood as an Energy Source",
+      "summary": "Wood and other biomass can be used for heating and combined heat and power. Wood fuel is available as logs, chips, and pellets. Centralised, automatically fed boilers offer emissions-control advantages; chip and pellet systems feed fuel from an adjacent room or container. Pellet storage and boiler installations are comparable in space and technology to oil-heating systems. Buffer cylinders extend burning time, and a wood-fired boiler can be combined with thermal solar energy.",
+      "building_type": "Heating plant",
+      "spaces": [
+        "Boiler room",
+        "Adjacent fuel room or fuel container",
+        "Cellar room",
+        "Underground fuel-storage container"
+      ],
+      "uses": [
+        "Space heating",
+        "Hot-water heating",
+        "Combined heat and power",
+        "Biomass fuel storage and combustion"
+      ],
+      "furniture_equipment": [
+        "Wood-burning boiler",
+        "Wood-chip heating system",
+        "Pellet heating boiler",
+        "Automatic feed",
+        "Spiral auger conveyor or pressure fuel-feed system",
+        "Fuel storage",
+        "Heating-water buffer cylinder",
+        "Thermal solar system"
+      ],
+      "dimensions": [
+        {
+          "label": "Water content of newly felled wood",
+          "value": 40.0,
+          "value_max": 50.0,
+          "unit": "%",
+          "context": "Moisture content of newly felled wood",
+          "status": "uncertain",
+          "ocr_raw": "40-50%"
+        },
+        {
+          "label": "Water content of air-dried wood",
+          "value": 15.0,
+          "value_max": 20.0,
+          "unit": "%",
+          "context": "Moisture content of air-dried wood",
+          "status": "uncertain",
+          "ocr_raw": "15-20%"
+        },
+        {
+          "label": "Nominal heat output threshold for smaller installations",
+          "value": 15.0,
+          "value_max": null,
+          "unit": "kW",
+          "context": "Smaller installations using natural logs",
+          "status": "uncertain",
+          "ocr_raw": "up to 15 kW nominal heat output"
+        },
+        {
+          "label": "Pellet energy value",
+          "value": 4.3,
+          "value_max": 5.0,
+          "unit": "kWh/kg",
+          "context": "Very high energy value of pellets",
+          "status": "uncertain",
+          "ocr_raw": "4.3-5.0 kWh/kg"
+        },
+        {
+          "label": "Pellet energy value relative to heating oil",
+          "value": 0.3333333333,
+          "value_max": null,
+          "unit": "ratio",
+          "context": "Pellet energy value is about 1/3 that of heating oil; normalized from the printed fraction",
+          "status": "uncertain",
+          "ocr_raw": "about ⅓ that of heating oil"
+        },
+        {
+          "label": "Heating-water buffer-cylinder capacity per nominal output",
+          "value": 40.0,
+          "value_max": null,
+          "unit": "litres/kW",
+          "context": "Assumed buffer-cylinder capacity for heating systems; necessary for log heating systems",
+          "status": "uncertain",
+          "ocr_raw": "40 litres per kW of nominal output"
+        },
+        {
+          "label": "Solid-fuel boiler thermal-output threshold",
+          "value": 1.0,
+          "value_max": null,
+          "unit": "MW",
+          "context": "Boilers up to this thermal output do not require a permit",
+          "status": "uncertain",
+          "ocr_raw": "up to 1 MW thermal output"
+        },
+        {
+          "label": "Calorific value of maple by volume",
+          "value": 1900.0,
+          "value_max": null,
+          "unit": "kWh/m³",
+          "context": "Wood type: maple",
+          "status": "uncertain",
+          "ocr_raw": "maple 1,900 kWh/m 3"
+        },
+        {
+          "label": "Calorific value of maple by mass",
+          "value": 4.1,
+          "value_max": null,
+          "unit": "kWh/kg",
+          "context": "Wood type: maple",
+          "status": "uncertain",
+          "ocr_raw": "maple 4.1 kWh/kg"
+        },
+        {
+          "label": "Calorific value of birch by volume",
+          "value": 1900.0,
+          "value_max": null,
+          "unit": "kWh/m³",
+          "context": "Wood type: birch",
+          "status": "uncertain",
+          "ocr_raw": "birch 1,900 kWh/m 3"
+        },
+        {
+          "label": "Calorific value of birch by mass",
+          "value": 4.3,
+          "value_max": null,
+          "unit": "kWh/kg",
+          "context": "Wood type: birch",
+          "status": "uncertain",
+          "ocr_raw": "birch 4.3 kWh/kg"
+        },
+        {
+          "label": "Calorific value of beech by volume",
+          "value": 2100.0,
+          "value_max": null,
+          "unit": "kWh/m³",
+          "context": "Wood type: beech",
+          "status": "uncertain",
+          "ocr_raw": "beech 2,100 kWh/m 3"
+        },
+        {
+          "label": "Calorific value of beech by mass",
+          "value": 4.0,
+          "value_max": null,
+          "unit": "kWh/kg",
+          "context": "Wood type: beech",
+          "status": "uncertain",
+          "ocr_raw": "beech 4.0 kWh/kg"
+        },
+        {
+          "label": "Calorific value of oak by volume",
+          "value": 2100.0,
+          "value_max": null,
+          "unit": "kWh/m³",
+          "context": "Wood type: oak",
+          "status": "uncertain",
+          "ocr_raw": "oak 2,100 kWh/m 3"
+        },
+        {
+          "label": "Calorific value of oak by mass",
+          "value": 4.2,
+          "value_max": null,
+          "unit": "kWh/kg",
+          "context": "Wood type: oak",
+          "status": "uncertain",
+          "ocr_raw": "oak 4.2 kWh/kg"
+        },
+        {
+          "label": "Calorific value of alder by volume",
+          "value": 1500.0,
+          "value_max": null,
+          "unit": "kWh/m³",
+          "context": "Wood type: alder",
+          "status": "uncertain",
+          "ocr_raw": "alder 1,500 kWh/m 3"
+        },
+        {
+          "label": "Calorific value of alder by mass",
+          "value": 4.1,
+          "value_max": null,
+          "unit": "kWh/kg",
+          "context": "Wood type: alder",
+          "status": "uncertain",
+          "ocr_raw": "alder 4.1 kWh/kg"
+        },
+        {
+          "label": "Calorific value of ash by volume",
+          "value": 2100.0,
+          "value_max": null,
+          "unit": "kWh/m³",
+          "context": "Wood type: ash",
+          "status": "uncertain",
+          "ocr_raw": "ash 2,100 kWh/m 3"
+        },
+        {
+          "label": "Calorific value of ash by mass",
+          "value": 4.2,
+          "value_max": null,
+          "unit": "kWh/kg",
+          "context": "Wood type: ash",
+          "status": "uncertain",
+          "ocr_raw": "ash 4.2 kWh/kg"
+        },
+        {
+          "label": "Calorific value of spruce by volume",
+          "value": 1700.0,
+          "value_max": null,
+          "unit": "kWh/m³",
+          "context": "Wood type: spruce",
+          "status": "uncertain",
+          "ocr_raw": "spruce 1,700 kWh/m 3"
+        },
+        {
+          "label": "Calorific value of spruce by mass",
+          "value": 4.4,
+          "value_max": null,
+          "unit": "kWh/kg",
+          "context": "Wood type: spruce",
+          "status": "uncertain",
+          "ocr_raw": "spruce 4.4 kWh/kg"
+        },
+        {
+          "label": "Calorific value of larch by volume",
+          "value": 1700.0,
+          "value_max": null,
+          "unit": "kWh/m³",
+          "context": "Wood type: larch",
+          "status": "uncertain",
+          "ocr_raw": "larch 1,700 kWh/m 3"
+        },
+        {
+          "label": "Calorific value of larch by mass",
+          "value": 4.4,
+          "value_max": null,
+          "unit": "kWh/kg",
+          "context": "Wood type: larch",
+          "status": "uncertain",
+          "ocr_raw": "larch 4.4 kWh/kg"
+        },
+        {
+          "label": "Calorific value of poplar by volume",
+          "value": 1200.0,
+          "value_max": null,
+          "unit": "kWh/m³",
+          "context": "Wood type: poplar",
+          "status": "uncertain",
+          "ocr_raw": "poplar 1,200 kWh/m 3"
+        },
+        {
+          "label": "Calorific value of poplar by mass",
+          "value": 4.1,
+          "value_max": null,
+          "unit": "kWh/kg",
+          "context": "Wood type: poplar",
+          "status": "uncertain",
+          "ocr_raw": "poplar 4.1 kWh/kg"
+        },
+        {
+          "label": "Calorific value of robinia by volume",
+          "value": 2100.0,
+          "value_max": null,
+          "unit": "kWh/m³",
+          "context": "Wood type: robinia",
+          "status": "uncertain",
+          "ocr_raw": "robinia 2,100 kWh/m 3"
+        },
+        {
+          "label": "Calorific value of robinia by mass",
+          "value": 4.1,
+          "value_max": null,
+          "unit": "kWh/kg",
+          "context": "Wood type: robinia",
+          "status": "uncertain",
+          "ocr_raw": "robinia 4.1 kWh/kg"
+        },
+        {
+          "label": "Calorific value of fir by volume",
+          "value": 1400.0,
+          "value_max": null,
+          "unit": "kWh/m³",
+          "context": "Wood type: fir",
+          "status": "uncertain",
+          "ocr_raw": "fir 1,400 kWh/m 3"
+        },
+        {
+          "label": "Calorific value of fir by mass",
+          "value": 4.5,
+          "value_max": null,
+          "unit": "kWh/kg",
+          "context": "Wood type: fir",
+          "status": "uncertain",
+          "ocr_raw": "fir 4.5 kWh/kg"
+        },
+        {
+          "label": "Calorific value of willow by volume",
+          "value": 1400.0,
+          "value_max": null,
+          "unit": "kWh/m³",
+          "context": "Wood type: willow",
+          "status": "uncertain",
+          "ocr_raw": "willow 1,400 kWh/m 3"
+        },
+        {
+          "label": "Calorific value of willow by mass",
+          "value": 4.1,
+          "value_max": null,
+          "unit": "kWh/kg",
+          "context": "Wood type: willow",
+          "status": "uncertain",
+          "ocr_raw": "willow 4.1 kWh/kg"
+        }
+      ],
+      "figure_refs": [
+        "1: Calorific value of various types of wood",
+        "2: Wood chip heating system with automatic feed",
+        "3: Pellet heating boiler with fuel storage in a cellar room",
+        "4: Pellet heating boiler with fuel storage in an underground container",
+        "5: Heating plant with thermal solar system, wood-burning boiler and buffer cylinder for heating water"
+      ],
+      "cross_refs": [
+        "5"
+      ],
+      "keywords": [
+        "bioenergy",
+        "biomass",
+        "wood fuel",
+        "wood chips",
+        "pellets",
+        "logs",
+        "calorific value",
+        "wood heating",
+        "buffer cylinder",
+        "thermal solar"
+      ],
+      "tags_architectural": [
+        "safety"
+      ],
+      "confidence": 0.98
+    },
+    {
+      "id": "4122fb96e4bd1976-481-vision-1",
+      "pdf_page": 481,
+      "book_page": 468,
+      "chapter": "BUILDING SERVICES",
+      "section": "Renewable Energy",
+      "title": "Biogas",
+      "summary": "Farm-scale biogas can be produced from slurry or harvested materials. Biomass is gasified in a digester and the resulting gas feeds an engine for combined heat and power. Digested slurry can be used as fertiliser and residual sludge as compost. The continuous, sensitive process requires monitoring, and a biogas plant requires a permit under the Federal Emissions Control Law. Landfill gas can also be collected and used for heat and power or heating.",
+      "building_type": "Biogas plant",
+      "spaces": [
+        "Digester",
+        "Gas-engine and combined heat-and-power area",
+        "Landfill gas collection area"
+      ],
+      "uses": [
+        "Biogas production",
+        "Combined heat and power",
+        "Electricity generation",
+        "Heat generation",
+        "Fertiliser production",
+        "Compost production"
+      ],
+      "furniture_equipment": [
+        "Digester",
+        "Gas engine",
+        "Combined heat and power unit",
+        "Gas probes",
+        "Gas-collecting drains"
+      ],
+      "dimensions": [],
+      "figure_refs": [
+        "6: Principle of biogas use in agriculture"
+      ],
+      "cross_refs": [],
+      "keywords": [
+        "biogas",
+        "bioenergy",
+        "digester",
+        "slurry",
+        "harvested materials",
+        "combined heat and power",
+        "landfill gas",
+        "fertiliser",
+        "compost"
+      ],
+      "tags_architectural": [],
+      "confidence": 0.98
+    }
+  ]
+}

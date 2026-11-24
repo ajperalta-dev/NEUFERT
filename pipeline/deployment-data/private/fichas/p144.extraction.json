@@ -1,0 +1,253 @@
+{
+  "fichas": [
+    {
+      "id": "4122fb96e4bd1976-144-vision-0",
+      "pdf_page": 144,
+      "book_page": 131,
+      "chapter": "BUILDING COMPONENTS",
+      "section": "Lifts",
+      "title": "Passenger lifts for offices, banks, hotels and hospitals",
+      "summary": "Lift type and provision depend on building function and expected traffic. Lift installations should be planned for long service life and anticipated increases in demand. The page defines turnaround time, average waiting time and transportation capacity, and illustrates lift shafts, machine rooms, passenger lifts and bed lifts. Tables give structural dimensions and capacities for lift configurations.",
+      "building_type": "Offices, banks, hotels, hospitals, residential buildings and public buildings",
+      "spaces": [
+        "Lift shaft",
+        "Lift car",
+        "Machine room",
+        "Common machine room for a set of lifts",
+        "Access hatch"
+      ],
+      "uses": [
+        "Vertical transport for passengers and patients",
+        "Transport capacity planning",
+        "Wheelchair access",
+        "Bed and patient transport"
+      ],
+      "furniture_equipment": [
+        "Passenger lift",
+        "Bed lift",
+        "Lift car",
+        "Lift shaft",
+        "Lift doors",
+        "Lift machinery",
+        "Machine room"
+      ],
+      "dimensions": [
+        {
+          "label": "Lift service life",
+          "value": 25.0,
+          "value_max": 40.0,
+          "unit": "years",
+          "context": "Expected service life of lift installations",
+          "status": "uncertain",
+          "ocr_raw": "long service life (anything from 25 to 40 years)"
+        },
+        {
+          "label": "Planning horizon for increased demand",
+          "value": 10.0,
+          "value_max": null,
+          "unit": "years",
+          "context": "Planning should allow the lift installation to meet increased demand after this period",
+          "status": "uncertain",
+          "ocr_raw": "even after 10 years they are still capable of meeting increased demand"
+        },
+        {
+          "label": "Transportation capacity period",
+          "value": 300.0,
+          "value_max": null,
+          "unit": "s",
+          "context": "Five-minute period used to define maximum achievable carrying capacity",
+          "status": "uncertain",
+          "ocr_raw": "within a five minute (300 s) period"
+        },
+        {
+          "label": "Bed lift dimension",
+          "value": 1400.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Dimension shown above bed-lift plan, figure 2",
+          "status": "uncertain",
+          "ocr_raw": "1400"
+        },
+        {
+          "label": "Bed lift dimension",
+          "value": 3000.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Vertical dimension shown beside bed-lift plan, figure 2",
+          "status": "uncertain",
+          "ocr_raw": "3000"
+        },
+        {
+          "label": "Bed lift dimension",
+          "value": 2400.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Dimension shown beside bed-lift plan, figure 2",
+          "status": "uncertain",
+          "ocr_raw": "2400"
+        },
+        {
+          "label": "Bed lift dimension",
+          "value": 2400.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Overall width dimension below bed-lift plan, figure 2",
+          "status": "uncertain",
+          "ocr_raw": "2400"
+        },
+        {
+          "label": "Bed lift dimension",
+          "value": 1300.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Dimension shown at the base of the bed-lift plan, figure 2",
+          "status": "uncertain",
+          "ocr_raw": "1300"
+        },
+        {
+          "label": "Bed lift car dimension",
+          "value": 2000.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Dimension inside the bed-lift car, figure 2",
+          "status": "uncertain",
+          "ocr_raw": "2000"
+        },
+        {
+          "label": "Bed lift car dimension",
+          "value": 900.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Dimension inside the bed-lift car, figure 2",
+          "status": "uncertain",
+          "ocr_raw": "900"
+        },
+        {
+          "label": "Lift load capacity",
+          "value": 800.0,
+          "value_max": null,
+          "unit": "kg",
+          "context": "Load capacity listed in the passenger-lift structural-dimensions table",
+          "status": "uncertain",
+          "ocr_raw": "load capacity kg 800"
+        },
+        {
+          "label": "Lift load capacity",
+          "value": 1000.0,
+          "value_max": null,
+          "unit": "kg",
+          "context": "Load capacity listed in the passenger-lift structural-dimensions table",
+          "status": "uncertain",
+          "ocr_raw": "1000"
+        },
+        {
+          "label": "Lift load capacity",
+          "value": 1250.0,
+          "value_max": null,
+          "unit": "kg",
+          "context": "Load capacity listed in the passenger-lift structural-dimensions table",
+          "status": "uncertain",
+          "ocr_raw": "1250"
+        },
+        {
+          "label": "Lift load capacity",
+          "value": 1600.0,
+          "value_max": null,
+          "unit": "kg",
+          "context": "Load capacity listed in the passenger-lift structural-dimensions table",
+          "status": "uncertain",
+          "ocr_raw": "1600"
+        },
+        {
+          "label": "Lift load capacity",
+          "value": 2000.0,
+          "value_max": null,
+          "unit": "kg",
+          "context": "Load capacity listed in the structural-dimensions table",
+          "status": "uncertain",
+          "ocr_raw": "2000"
+        },
+        {
+          "label": "Lift load capacity",
+          "value": 2500.0,
+          "value_max": null,
+          "unit": "kg",
+          "context": "Load capacity listed in the structural-dimensions table",
+          "status": "uncertain",
+          "ocr_raw": "2500"
+        },
+        {
+          "label": "Nominal lift speed",
+          "value": 0.63,
+          "value_max": null,
+          "unit": "m/s",
+          "context": "Nominal speeds listed in the lift-dimensions tables",
+          "status": "uncertain",
+          "ocr_raw": "0.63"
+        },
+        {
+          "label": "Nominal lift speed",
+          "value": 1.0,
+          "value_max": null,
+          "unit": "m/s",
+          "context": "Nominal speeds listed in the lift-dimensions tables",
+          "status": "uncertain",
+          "ocr_raw": "1.0"
+        },
+        {
+          "label": "Nominal lift speed",
+          "value": 1.6,
+          "value_max": null,
+          "unit": "m/s",
+          "context": "Nominal speeds listed in the lift-dimensions tables",
+          "status": "uncertain",
+          "ocr_raw": "1.6"
+        },
+        {
+          "label": "Nominal lift speed",
+          "value": 2.5,
+          "value_max": null,
+          "unit": "m/s",
+          "context": "Nominal speeds listed in the lift-dimensions tables",
+          "status": "uncertain",
+          "ocr_raw": "2.5"
+        }
+      ],
+      "figure_refs": [
+        "1 Section of lift shaft",
+        "2 Bed lift",
+        "3 Machine room",
+        "4 Common machine room for set of lifts",
+        "5 Shaft for single lift",
+        "6 Overview of lifts",
+        "7 Transport capacity requirements for comfortable residential buildings with and without office floors",
+        "8 Passenger-lift structural dimensions",
+        "9 Structural dimensions for bed lifts"
+      ],
+      "cross_refs": [
+        "Overview of lifts → 8–9",
+        "Dimensions in mm → 1–6",
+        "Structural dimensions for bed lifts → 1–6"
+      ],
+      "keywords": [
+        "lifts",
+        "passenger lifts",
+        "bed lifts",
+        "vertical transport",
+        "turnaround time",
+        "waiting time",
+        "transportation capacity",
+        "lift shaft",
+        "machine room",
+        "wheelchair access"
+      ],
+      "tags_architectural": [
+        "accessibility",
+        "circulation",
+        "ergonomics",
+        "safety"
+      ],
+      "confidence": 0.88
+    }
+  ]
+}

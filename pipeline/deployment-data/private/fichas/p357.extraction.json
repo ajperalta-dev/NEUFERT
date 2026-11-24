@@ -1,0 +1,471 @@
+{
+  "fichas": [
+    {
+      "id": "4122fb96e4bd1976-357-vision-0",
+      "pdf_page": 357,
+      "book_page": 344,
+      "chapter": "SPORT AND LEISURE",
+      "section": "Sports Facilities",
+      "title": "Standard Ice Racing Rink",
+      "summary": "Describes a standard double-track ice racing rink, its measurement conventions, track geometry, and warm-up track. Figure 1 shows the rink plan and markings.",
+      "building_type": "Ice sports facility",
+      "spaces": [
+        "Racing track",
+        "Inside warm-up track",
+        "Handling area"
+      ],
+      "uses": [
+        "Ice racing",
+        "Skating",
+        "Training"
+      ],
+      "furniture_equipment": [],
+      "dimensions": [
+        {
+          "label": "Standard rink length",
+          "value": 300.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Minimum length stated for a standard ice racing rink.",
+          "status": "uncertain",
+          "ocr_raw": "Length ≥300 m"
+        },
+        {
+          "label": "Standard rink length",
+          "value": 333.3333333333,
+          "value_max": null,
+          "unit": "m",
+          "context": "Alternative length stated for a standard ice racing rink.",
+          "status": "uncertain",
+          "ocr_raw": "333⅓ m"
+        },
+        {
+          "label": "Standard rink length",
+          "value": 400.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Normal length stated for a standard ice racing rink.",
+          "status": "uncertain",
+          "ocr_raw": "normal 400 m"
+        },
+        {
+          "label": "Measurement offset",
+          "value": 50.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Rink length is measured from the inner edge of the track at this offset.",
+          "status": "uncertain",
+          "ocr_raw": "Measured 50 cm from the inner edge of the track."
+        },
+        {
+          "label": "Inner curve radius",
+          "value": 25.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Minimum radius of the inner curves.",
+          "status": "uncertain",
+          "ocr_raw": "Radii of the inner curves ≥25 m"
+        },
+        {
+          "label": "Crossing length",
+          "value": 70.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Minimum crossing length stated for the standard rink.",
+          "status": "uncertain",
+          "ocr_raw": "crossings ≥70 m"
+        },
+        {
+          "label": "Circular track width",
+          "value": 4.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Width of a standard ice racing track.",
+          "status": "uncertain",
+          "ocr_raw": "Width of a circular track: 4 m"
+        },
+        {
+          "label": "Inside warm-up track width",
+          "value": 3.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Stated width of the inside warm-up track.",
+          "status": "uncertain",
+          "ocr_raw": "width of the inside warming-up track: 3 m"
+        },
+        {
+          "label": "Inside warm-up track width",
+          "value": 4.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Recommended width of the inside warm-up track for better training.",
+          "status": "uncertain",
+          "ocr_raw": "for better training, 4 m is recommended."
+        }
+      ],
+      "figure_refs": [
+        "1 Standard ice racing rink with marking"
+      ],
+      "cross_refs": [
+        "→ ①"
+      ],
+      "keywords": [
+        "ice rink",
+        "ice racing",
+        "double track",
+        "warm-up track",
+        "track geometry"
+      ],
+      "tags_architectural": [
+        "circulation",
+        "safety"
+      ],
+      "confidence": 0.96
+    },
+    {
+      "id": "4122fb96e4bd1976-357-vision-1",
+      "pdf_page": 357,
+      "book_page": 344,
+      "chapter": "SPORT AND LEISURE",
+      "section": "Sports Facilities",
+      "title": "Ice Rinks: Sprayed and Artificial Ice Construction",
+      "summary": "Summarizes sprayed-ice rink requirements and artificial ice rink construction, including the cooling system and layered ground assembly shown in the diagrams.",
+      "building_type": "Ice sports facility",
+      "spaces": [
+        "Ice surface",
+        "Rink perimeter",
+        "Cooling plant",
+        "Drainage"
+      ],
+      "uses": [
+        "Skating",
+        "Ice hockey",
+        "Curling"
+      ],
+      "furniture_equipment": [
+        "Cooling pipe system",
+        "Pump system",
+        "Deep-frozen salt solution system",
+        "Cold-air chambers"
+      ],
+      "dimensions": [
+        {
+          "label": "Surrounding wall height",
+          "value": 10.0,
+          "value_max": 15.0,
+          "unit": "cm",
+          "context": "Approximate surrounding wall height for sprayed ice rinks.",
+          "status": "uncertain",
+          "ocr_raw": "surrounding wall about 10-15 cm"
+        },
+        {
+          "label": "Sprayed water thickness",
+          "value": 2.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Water thickness applied when creating sprayed ice rinks.",
+          "status": "uncertain",
+          "ocr_raw": "Water is sprayed 2 cm thick"
+        },
+        {
+          "label": "Cooling pipe depth below screed layer",
+          "value": 2.5,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Cooling pipe system depth stated for artificial ice rinks.",
+          "status": "uncertain",
+          "ocr_raw": "2.5 cm under screed layer."
+        }
+      ],
+      "figure_refs": [
+        "3 Artificial ice rink: scheme for a cooling plant (brine operation)",
+        "4 Laid pipes"
+      ],
+      "cross_refs": [
+        "→ ③–④",
+        "→ ⑧"
+      ],
+      "keywords": [
+        "artificial ice",
+        "sprayed ice",
+        "cooling pipe",
+        "brine",
+        "ice rink construction",
+        "drainage"
+      ],
+      "tags_architectural": [
+        "safety",
+        "adaptability"
+      ],
+      "confidence": 0.96
+    },
+    {
+      "id": "4122fb96e4bd1976-357-vision-2",
+      "pdf_page": 357,
+      "book_page": 344,
+      "chapter": "SPORT AND LEISURE",
+      "section": "Sports Facilities",
+      "title": "Plan for Short Track",
+      "summary": "A plan drawing of a short track with marked start positions, finish line, and track layout. The drawing includes dimension callouts, but no unit is legible or stated for them in the supplied text.",
+      "building_type": "Sports facility",
+      "spaces": [
+        "Short track",
+        "Start areas",
+        "Finish line"
+      ],
+      "uses": [
+        "Short-track racing",
+        "Training"
+      ],
+      "furniture_equipment": [],
+      "dimensions": [],
+      "figure_refs": [
+        "2 Plan for short track"
+      ],
+      "cross_refs": [],
+      "keywords": [
+        "short track",
+        "track plan",
+        "start",
+        "finish"
+      ],
+      "tags_architectural": [
+        "circulation",
+        "safety"
+      ],
+      "confidence": 0.85
+    },
+    {
+      "id": "4122fb96e4bd1976-357-vision-3",
+      "pdf_page": 357,
+      "book_page": 344,
+      "chapter": "SPORT AND LEISURE",
+      "section": "Sports Facilities",
+      "title": "Toboggan Tracks",
+      "summary": "Guidance for siting and laying out toboggan tracks, including preferred slope orientation, length, gradient, width, run-out, and obstacle protection.",
+      "building_type": "Outdoor sports facility",
+      "spaces": [
+        "Toboggan track",
+        "Run-out or uphill section",
+        "Adjacent climbing route"
+      ],
+      "uses": [
+        "Tobogganing"
+      ],
+      "furniture_equipment": [
+        "Straw bales or snow walls for obstacle protection"
+      ],
+      "dimensions": [
+        {
+          "label": "Track length",
+          "value": 1500.0,
+          "value_max": 2500.0,
+          "unit": "m",
+          "context": "Recommended toboggan track length.",
+          "status": "uncertain",
+          "ocr_raw": "Length 1500-2500 m"
+        },
+        {
+          "label": "Track slope",
+          "value": 15.0,
+          "value_max": 25.0,
+          "unit": "%",
+          "context": "Recommended toboggan track slope.",
+          "status": "uncertain",
+          "ocr_raw": "slope 15-25%"
+        },
+        {
+          "label": "Track width",
+          "value": 2.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Maximum stated track width.",
+          "status": "uncertain",
+          "ocr_raw": "width ≥2 m"
+        }
+      ],
+      "figure_refs": [],
+      "cross_refs": [],
+      "keywords": [
+        "toboggan",
+        "track",
+        "slope",
+        "run-out",
+        "obstacle protection"
+      ],
+      "tags_architectural": [
+        "safety",
+        "circulation"
+      ],
+      "confidence": 0.94
+    },
+    {
+      "id": "4122fb96e4bd1976-357-vision-4",
+      "pdf_page": 357,
+      "book_page": 344,
+      "chapter": "SPORT AND LEISURE",
+      "section": "Sports Facilities",
+      "title": "Long Curling Rink",
+      "summary": "The diagram shows a long curling rink with guide lines, side boundary lines, pitching line and point, and a protective circle. Distance and width markings are shown in metres.",
+      "building_type": "Curling facility",
+      "spaces": [
+        "Curling rink",
+        "Pitching area",
+        "Protective circle"
+      ],
+      "uses": [
+        "Curling"
+      ],
+      "furniture_equipment": [
+        "Guide line",
+        "Side boundary line"
+      ],
+      "dimensions": [
+        {
+          "label": "Guide-line distance",
+          "value": 300.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Distance marking shown beside the long curling rink diagram.",
+          "status": "uncertain",
+          "ocr_raw": "300 m"
+        },
+        {
+          "label": "Guide-line distance",
+          "value": 250.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Distance marking shown beside the long curling rink diagram.",
+          "status": "uncertain",
+          "ocr_raw": "250 m"
+        },
+        {
+          "label": "Guide-line distance",
+          "value": 200.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Distance marking shown beside the long curling rink diagram.",
+          "status": "uncertain",
+          "ocr_raw": "200 m"
+        },
+        {
+          "label": "Guide-line distance",
+          "value": 150.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Distance marking shown beside the long curling rink diagram.",
+          "status": "uncertain",
+          "ocr_raw": "150 m"
+        },
+        {
+          "label": "Guide-line distance",
+          "value": 100.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Distance marking shown beside the long curling rink diagram.",
+          "status": "uncertain",
+          "ocr_raw": "100 m"
+        },
+        {
+          "label": "Guide-line distance",
+          "value": 7.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Distance marking near the pitching area.",
+          "status": "uncertain",
+          "ocr_raw": "7 m"
+        },
+        {
+          "label": "Guide-line distance",
+          "value": 0.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Distance marking at the pitching point area.",
+          "status": "uncertain",
+          "ocr_raw": "0 m"
+        },
+        {
+          "label": "Rink width at marked section",
+          "value": 8.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Width marking shown on each side of the rink centerline at the 300 m section.",
+          "status": "uncertain",
+          "ocr_raw": "8 m    8 m"
+        },
+        {
+          "label": "Rink width at marked section",
+          "value": 7.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Width marking shown on each side of the rink centerline at the 250 m section.",
+          "status": "uncertain",
+          "ocr_raw": "7 m    7 m"
+        },
+        {
+          "label": "Rink width at marked section",
+          "value": 6.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Width marking shown on each side of the rink centerline at the 200 m section.",
+          "status": "uncertain",
+          "ocr_raw": "6 m    6 m"
+        },
+        {
+          "label": "Rink width at marked section",
+          "value": 5.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Width marking shown on each side of the rink centerline at the 150 m section.",
+          "status": "uncertain",
+          "ocr_raw": "5 m    5 m"
+        },
+        {
+          "label": "Rink width at marked section",
+          "value": 4.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Width marking shown on each side of the rink centerline at the 100 m section.",
+          "status": "uncertain",
+          "ocr_raw": "4 m    4 m"
+        },
+        {
+          "label": "Side boundary line width",
+          "value": 100.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Approximate side boundary line dimension.",
+          "status": "uncertain",
+          "ocr_raw": "side boundary line, about 100 mm"
+        },
+        {
+          "label": "Protective circle radius",
+          "value": 2.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Radius of the protective circle at the pitching area.",
+          "status": "uncertain",
+          "ocr_raw": "protective circle (radius 2 m)"
+        }
+      ],
+      "figure_refs": [
+        "5 Long curling rink"
+      ],
+      "cross_refs": [
+        "→ p. 345"
+      ],
+      "keywords": [
+        "curling",
+        "rink layout",
+        "guide line",
+        "pitching line",
+        "protective circle"
+      ],
+      "tags_architectural": [
+        "safety",
+        "spatial_proportion"
+      ],
+      "confidence": 0.87
+    }
+  ]
+}

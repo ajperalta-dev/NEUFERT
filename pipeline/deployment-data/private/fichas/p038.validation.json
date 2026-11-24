@@ -1,0 +1,580 @@
+{
+  "model": "gpt-6-luna",
+  "checks": {
+    "checks": [
+      {
+        "ficha_index": 0,
+        "dimension_index": 0,
+        "status": "verified",
+        "value": null,
+        "value_max": null,
+        "reason": "The text states a clear opening width of at least 0.90 m."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 1,
+        "status": "verified",
+        "value": null,
+        "value_max": null,
+        "reason": "The text states a maximum ramp slope of 6%."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 2,
+        "status": "verified",
+        "value": null,
+        "value_max": null,
+        "reason": "The text states ramps must be at least 1.20 m wide."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 3,
+        "status": "verified",
+        "value": null,
+        "value_max": null,
+        "reason": "The text specifies an intermediate landing every 6 m."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 4,
+        "status": "verified",
+        "value": null,
+        "value_max": null,
+        "reason": "The text states landings must be at least 1.50 m long."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 5,
+        "status": "verified",
+        "value": null,
+        "value_max": null,
+        "reason": "The text states corridors and entrance halls must be at least 1.50 m wide."
+      },
+      {
+        "ficha_index": 1,
+        "dimension_index": 0,
+        "status": "verified",
+        "value": null,
+        "value_max": null,
+        "reason": "Figure 5 is captioned \u201cOne-room flat (40 m\u00b2).\u201d"
+      },
+      {
+        "ficha_index": 1,
+        "dimension_index": 1,
+        "status": "verified",
+        "value": null,
+        "value_max": null,
+        "reason": "Figure 6 is captioned \u201cOne-room flat (45 m\u00b2).\u201d"
+      },
+      {
+        "ficha_index": 1,
+        "dimension_index": 2,
+        "status": "verified",
+        "value": null,
+        "value_max": null,
+        "reason": "Figure 7 is captioned \u201cTwo-room flat (54 m\u00b2).\u201d"
+      },
+      {
+        "ficha_index": 1,
+        "dimension_index": 3,
+        "status": "verified",
+        "value": null,
+        "value_max": null,
+        "reason": "Figure 8 is captioned \u201cFlat (60 m\u00b2).\u201d"
+      },
+      {
+        "ficha_index": 1,
+        "dimension_index": 4,
+        "status": "verified",
+        "value": null,
+        "value_max": null,
+        "reason": "Figure 11 is captioned \u201cThree-room flat (95 m\u00b2).\u201d"
+      },
+      {
+        "ficha_index": 1,
+        "dimension_index": 5,
+        "status": "verified",
+        "value": null,
+        "value_max": null,
+        "reason": "Figure 10 is captioned \u201cFour-room flat (110 m\u00b2).\u201d"
+      },
+      {
+        "ficha_index": 1,
+        "dimension_index": 6,
+        "status": "verified",
+        "value": null,
+        "value_max": null,
+        "reason": "The table gives living room 20.0 for 1 person; its caption specifies m\u00b2."
+      },
+      {
+        "ficha_index": 1,
+        "dimension_index": 7,
+        "status": "verified",
+        "value": null,
+        "value_max": null,
+        "reason": "The table gives living room 20.0 for 2 people; its caption specifies m\u00b2."
+      },
+      {
+        "ficha_index": 1,
+        "dimension_index": 8,
+        "status": "verified",
+        "value": null,
+        "value_max": null,
+        "reason": "The table gives living room 22.0 for 3 people; its caption specifies m\u00b2."
+      },
+      {
+        "ficha_index": 1,
+        "dimension_index": 9,
+        "status": "verified",
+        "value": null,
+        "value_max": null,
+        "reason": "The table gives dining area 6.0 for 1 person; its caption specifies m\u00b2."
+      },
+      {
+        "ficha_index": 1,
+        "dimension_index": 10,
+        "status": "verified",
+        "value": null,
+        "value_max": null,
+        "reason": "The table gives dining area 6.0 for 2 people; its caption specifies m\u00b2."
+      },
+      {
+        "ficha_index": 1,
+        "dimension_index": 11,
+        "status": "verified",
+        "value": null,
+        "value_max": null,
+        "reason": "The table gives dining area 10.0 for 3 people; its caption specifies m\u00b2."
+      },
+      {
+        "ficha_index": 1,
+        "dimension_index": 12,
+        "status": "verified",
+        "value": null,
+        "value_max": null,
+        "reason": "The table gives bedroom 16.0 for 1 person; its caption specifies m\u00b2."
+      },
+      {
+        "ficha_index": 1,
+        "dimension_index": 13,
+        "status": "verified",
+        "value": null,
+        "value_max": null,
+        "reason": "The table gives bedroom 24.0 for 2 people; its caption specifies m\u00b2."
+      },
+      {
+        "ficha_index": 1,
+        "dimension_index": 14,
+        "status": "verified",
+        "value": null,
+        "value_max": null,
+        "reason": "The table gives bedroom 16.0 for 3 people; its caption specifies m\u00b2."
+      },
+      {
+        "ficha_index": 1,
+        "dimension_index": 15,
+        "status": "verified",
+        "value": null,
+        "value_max": null,
+        "reason": "The table gives child (1 bed) 14.0 for 3 people; its caption specifies m\u00b2."
+      },
+      {
+        "ficha_index": 1,
+        "dimension_index": 16,
+        "status": "verified",
+        "value": null,
+        "value_max": null,
+        "reason": "The table gives bathroom 6.0 for 1 person; its caption specifies m\u00b2."
+      },
+      {
+        "ficha_index": 1,
+        "dimension_index": 17,
+        "status": "verified",
+        "value": null,
+        "value_max": null,
+        "reason": "The table gives bathroom 7.0 for 2 people; its caption specifies m\u00b2."
+      },
+      {
+        "ficha_index": 1,
+        "dimension_index": 18,
+        "status": "verified",
+        "value": null,
+        "value_max": null,
+        "reason": "The table gives bathroom 7.0 for 3 people; its caption specifies m\u00b2."
+      },
+      {
+        "ficha_index": 1,
+        "dimension_index": 19,
+        "status": "verified",
+        "value": null,
+        "value_max": null,
+        "reason": "The table gives kitchen 8.0 for 1 person; its caption specifies m\u00b2."
+      },
+      {
+        "ficha_index": 1,
+        "dimension_index": 20,
+        "status": "verified",
+        "value": null,
+        "value_max": null,
+        "reason": "The table gives kitchen 9.0 for 2 people; its caption specifies m\u00b2."
+      },
+      {
+        "ficha_index": 1,
+        "dimension_index": 21,
+        "status": "verified",
+        "value": null,
+        "value_max": null,
+        "reason": "The table gives kitchen 9.0 for 3 people; its caption specifies m\u00b2."
+      },
+      {
+        "ficha_index": 1,
+        "dimension_index": 22,
+        "status": "verified",
+        "value": null,
+        "value_max": null,
+        "reason": "The table gives corridor 5.0 for 1 person; its caption specifies m\u00b2."
+      },
+      {
+        "ficha_index": 1,
+        "dimension_index": 23,
+        "status": "verified",
+        "value": null,
+        "value_max": null,
+        "reason": "The table gives corridor 6.0 for 2 people; its caption specifies m\u00b2."
+      },
+      {
+        "ficha_index": 1,
+        "dimension_index": 24,
+        "status": "verified",
+        "value": null,
+        "value_max": null,
+        "reason": "The table gives corridor 6.0 for 3 people; its caption specifies m\u00b2."
+      },
+      {
+        "ficha_index": 1,
+        "dimension_index": 25,
+        "status": "verified",
+        "value": null,
+        "value_max": null,
+        "reason": "The table gives storage room 1.0 for 1 person; its caption specifies m\u00b2."
+      },
+      {
+        "ficha_index": 1,
+        "dimension_index": 26,
+        "status": "verified",
+        "value": null,
+        "value_max": null,
+        "reason": "The table gives storage room 1.0 for 2 people; its caption specifies m\u00b2."
+      },
+      {
+        "ficha_index": 1,
+        "dimension_index": 27,
+        "status": "verified",
+        "value": null,
+        "value_max": null,
+        "reason": "The table gives storage room 1.5 for 3 people; its caption specifies m\u00b2."
+      },
+      {
+        "ficha_index": 1,
+        "dimension_index": 28,
+        "status": "verified",
+        "value": null,
+        "value_max": null,
+        "reason": "The table gives storage (E-wheelchair) 6.0 for 1 person; its caption specifies m\u00b2."
+      },
+      {
+        "ficha_index": 1,
+        "dimension_index": 29,
+        "status": "verified",
+        "value": null,
+        "value_max": null,
+        "reason": "The table gives storage (E-wheelchair) 6.0 for 2 people; its caption specifies m\u00b2."
+      },
+      {
+        "ficha_index": 1,
+        "dimension_index": 30,
+        "status": "verified",
+        "value": null,
+        "value_max": null,
+        "reason": "The table gives storage (E-wheelchair) 6.0 for 3 people; its caption specifies m\u00b2."
+      },
+      {
+        "ficha_index": 1,
+        "dimension_index": 31,
+        "status": "verified",
+        "value": null,
+        "value_max": null,
+        "reason": "The table gives spare room (washing machine) 1.0 for 1 person; its caption specifies m\u00b2."
+      },
+      {
+        "ficha_index": 1,
+        "dimension_index": 32,
+        "status": "verified",
+        "value": null,
+        "value_max": null,
+        "reason": "The table gives spare room (washing machine) 1.0 for 2 people; its caption specifies m\u00b2."
+      },
+      {
+        "ficha_index": 1,
+        "dimension_index": 33,
+        "status": "verified",
+        "value": null,
+        "value_max": null,
+        "reason": "The table gives spare room (washing machine) 1.0 for 3 people; its caption specifies m\u00b2."
+      },
+      {
+        "ficha_index": 1,
+        "dimension_index": 34,
+        "status": "verified",
+        "value": null,
+        "value_max": null,
+        "reason": "The table gives living area 69.0 for 1 person; its caption specifies m\u00b2."
+      },
+      {
+        "ficha_index": 1,
+        "dimension_index": 35,
+        "status": "verified",
+        "value": null,
+        "value_max": null,
+        "reason": "The table gives living area 80.0 for 2 people; its caption specifies m\u00b2."
+      },
+      {
+        "ficha_index": 1,
+        "dimension_index": 36,
+        "status": "verified",
+        "value": null,
+        "value_max": null,
+        "reason": "The table gives living area 98.5 for 3 people; its caption specifies m\u00b2."
+      }
+    ]
+  },
+  "automatic": [
+    {
+      "ficha_index": 0,
+      "dimension_index": 0,
+      "issues": []
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 1,
+      "issues": [
+        "Unknown unit"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 2,
+      "issues": []
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 3,
+      "issues": []
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 4,
+      "issues": []
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 5,
+      "issues": []
+    },
+    {
+      "ficha_index": 1,
+      "dimension_index": 0,
+      "issues": []
+    },
+    {
+      "ficha_index": 1,
+      "dimension_index": 1,
+      "issues": []
+    },
+    {
+      "ficha_index": 1,
+      "dimension_index": 2,
+      "issues": []
+    },
+    {
+      "ficha_index": 1,
+      "dimension_index": 3,
+      "issues": []
+    },
+    {
+      "ficha_index": 1,
+      "dimension_index": 4,
+      "issues": []
+    },
+    {
+      "ficha_index": 1,
+      "dimension_index": 5,
+      "issues": []
+    },
+    {
+      "ficha_index": 1,
+      "dimension_index": 6,
+      "issues": []
+    },
+    {
+      "ficha_index": 1,
+      "dimension_index": 7,
+      "issues": []
+    },
+    {
+      "ficha_index": 1,
+      "dimension_index": 8,
+      "issues": []
+    },
+    {
+      "ficha_index": 1,
+      "dimension_index": 9,
+      "issues": []
+    },
+    {
+      "ficha_index": 1,
+      "dimension_index": 10,
+      "issues": []
+    },
+    {
+      "ficha_index": 1,
+      "dimension_index": 11,
+      "issues": []
+    },
+    {
+      "ficha_index": 1,
+      "dimension_index": 12,
+      "issues": []
+    },
+    {
+      "ficha_index": 1,
+      "dimension_index": 13,
+      "issues": []
+    },
+    {
+      "ficha_index": 1,
+      "dimension_index": 14,
+      "issues": []
+    },
+    {
+      "ficha_index": 1,
+      "dimension_index": 15,
+      "issues": []
+    },
+    {
+      "ficha_index": 1,
+      "dimension_index": 16,
+      "issues": []
+    },
+    {
+      "ficha_index": 1,
+      "dimension_index": 17,
+      "issues": []
+    },
+    {
+      "ficha_index": 1,
+      "dimension_index": 18,
+      "issues": []
+    },
+    {
+      "ficha_index": 1,
+      "dimension_index": 19,
+      "issues": []
+    },
+    {
+      "ficha_index": 1,
+      "dimension_index": 20,
+      "issues": []
+    },
+    {
+      "ficha_index": 1,
+      "dimension_index": 21,
+      "issues": []
+    },
+    {
+      "ficha_index": 1,
+      "dimension_index": 22,
+      "issues": []
+    },
+    {
+      "ficha_index": 1,
+      "dimension_index": 23,
+      "issues": []
+    },
+    {
+      "ficha_index": 1,
+      "dimension_index": 24,
+      "issues": []
+    },
+    {
+      "ficha_index": 1,
+      "dimension_index": 25,
+      "issues": []
+    },
+    {
+      "ficha_index": 1,
+      "dimension_index": 26,
+      "issues": []
+    },
+    {
+      "ficha_index": 1,
+      "dimension_index": 27,
+      "issues": []
+    },
+    {
+      "ficha_index": 1,
+      "dimension_index": 28,
+      "issues": []
+    },
+    {
+      "ficha_index": 1,
+      "dimension_index": 29,
+      "issues": []
+    },
+    {
+      "ficha_index": 1,
+      "dimension_index": 30,
+      "issues": []
+    },
+    {
+      "ficha_index": 1,
+      "dimension_index": 31,
+      "issues": []
+    },
+    {
+      "ficha_index": 1,
+      "dimension_index": 32,
+      "issues": []
+    },
+    {
+      "ficha_index": 1,
+      "dimension_index": 33,
+      "issues": []
+    },
+    {
+      "ficha_index": 1,
+      "dimension_index": 34,
+      "issues": []
+    },
+    {
+      "ficha_index": 1,
+      "dimension_index": 35,
+      "issues": []
+    },
+    {
+      "ficha_index": 1,
+      "dimension_index": 36,
+      "issues": []
+    }
+  ],
+  "usage": [
+    {
+      "prompt_tokens": 4562,
+      "completion_tokens": 2840
+    },
+    {
+      "prompt_tokens": 6882,
+      "completion_tokens": 1655
+    }
+  ]
+}

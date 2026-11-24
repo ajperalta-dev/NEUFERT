@@ -1,0 +1,115 @@
+{
+  "fichas": [
+    {
+      "id": "4122fb96e4bd1976-68-vision-0",
+      "pdf_page": 68,
+      "book_page": 55,
+      "chapter": "DESIGN PROCESS",
+      "section": "Refurbishment",
+      "title": "Conversion of an Office Building to Flats",
+      "summary": "An office building was converted to flats by extending its main wing toward the garden and introducing new slabs and a new load-bearing structure to allow varied floor layouts. The existing hollow-pot floor was replaced with a reinforced-concrete slab on thermally insulating bearings at the external wall to help avoid cold bridging. The text notes that conversions require upgrading for sound, thermal, and fire insulation, and that structural strengthening can substantially reduce clear ceiling height.",
+      "building_type": "Office building converted to flats",
+      "spaces": [
+        "Flats",
+        "Garden-side extension"
+      ],
+      "uses": [
+        "Residential use"
+      ],
+      "furniture_equipment": [],
+      "dimensions": [],
+      "figure_refs": [
+        "2",
+        "3",
+        "4"
+      ],
+      "cross_refs": [
+        "1–7"
+      ],
+      "keywords": [
+        "office building conversion",
+        "flats",
+        "load-bearing structure",
+        "floor slabs",
+        "hollow-pot floor",
+        "reinforced concrete",
+        "thermal insulation",
+        "cold bridging",
+        "sound insulation",
+        "fire protection"
+      ],
+      "tags_architectural": [
+        "adaptability",
+        "spatial_proportion"
+      ],
+      "confidence": 0.94
+    },
+    {
+      "id": "4122fb96e4bd1976-68-vision-1",
+      "pdf_page": 68,
+      "book_page": 55,
+      "chapter": "DESIGN PROCESS",
+      "section": "Refurbishment",
+      "title": "Conversion of a Factory to Flats",
+      "summary": "A listed factory hall was converted to flats. A greened internal courtyard with gallery access splits the building depth. A special exemption allowed ceiling heights below the normal minimum in some rooms, with the height reduction applied to less important rooms of the maisonettes.",
+      "building_type": "Listed factory converted to flats",
+      "spaces": [
+        "Flats",
+        "Internal courtyard",
+        "Gallery access",
+        "Maisonettes",
+        "Living room",
+        "Dining room",
+        "Working room",
+        "Child's room",
+        "Air space"
+      ],
+      "uses": [
+        "Residential use",
+        "Gallery access"
+      ],
+      "furniture_equipment": [],
+      "dimensions": [
+        {
+          "label": "Ceiling height",
+          "value": 5.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Listed factory hall before conversion; described as having a 5 m ceiling height.",
+          "status": "verified",
+          "ocr_raw": "and a 5 m ceiling height"
+        },
+        {
+          "label": "Permitted ceiling height",
+          "value": 2.3,
+          "value_max": null,
+          "unit": "m",
+          "context": "Ceiling height allowed by special exemption, below the normal minimum.",
+          "status": "verified",
+          "ocr_raw": "A special exemption allows ceiling heights of 2.30 m, below the normal\nminimum."
+        }
+      ],
+      "figure_refs": [
+        "8"
+      ],
+      "cross_refs": [
+        "8"
+      ],
+      "keywords": [
+        "factory conversion",
+        "flats",
+        "listed building",
+        "internal courtyard",
+        "gallery access",
+        "maisonettes",
+        "ceiling height"
+      ],
+      "tags_architectural": [
+        "circulation",
+        "adaptability",
+        "spatial_proportion"
+      ],
+      "confidence": 0.96
+    }
+  ]
+}

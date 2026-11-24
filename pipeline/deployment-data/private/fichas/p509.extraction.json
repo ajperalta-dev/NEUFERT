@@ -1,0 +1,182 @@
+{
+  "fichas": [
+    {
+      "id": "4122fb96e4bd1976-509-vision-0",
+      "pdf_page": 509,
+      "book_page": 496,
+      "chapter": "BUILDING SERVICES",
+      "section": "Daylight",
+      "title": "Daylight: Window Lighting",
+      "summary": "A reference page on window daylighting, covering lighting aims and requirements, daylight assessment with models, and the effects of sky conditions, window positions, projections, windowsill heights, light shelves, and atrium floors on daylight distribution.",
+      "building_type": "Building services reference",
+      "spaces": [
+        "Daylit rooms",
+        "Atrium"
+      ],
+      "uses": [
+        "Control daylight and artificial lighting",
+        "Reduce glare and artificial lighting",
+        "Assess daylight distribution under different sky conditions",
+        "Guide window sizing and daylight-enhancing design"
+      ],
+      "furniture_equipment": [
+        "Windows",
+        "Rooflights",
+        "Light shelves",
+        "Mirrors",
+        "Model table",
+        "Artificial sky"
+      ],
+      "dimensions": [
+        {
+          "label": "Minimum daylight factor",
+          "value": 2.0,
+          "value_max": null,
+          "unit": "%",
+          "context": "Requirement; Dmin ≥ 2%.",
+          "status": "uncertain",
+          "ocr_raw": "Dmin ≥ 2%"
+        },
+        {
+          "label": "Daylight uniformity ratio",
+          "value": 1.0,
+          "value_max": null,
+          "unit": "ratio",
+          "context": "Requirement; G ≥ 1:6, defined as uniformity Dmin/Dmax.",
+          "status": "uncertain",
+          "ocr_raw": "G ≥ 1:6 (uniformity Dmin/Dmax)"
+        },
+        {
+          "label": "Estimated window size for room depth up to 8 m",
+          "value": 16.0,
+          "value_max": 20.0,
+          "unit": "% of room area",
+          "context": "Approximate estimated window size for room depths shown as ≤8 m.",
+          "status": "uncertain",
+          "ocr_raw": "≤8 m approx. 16–20%"
+        },
+        {
+          "label": "Estimated window size for room depth 8–11 m",
+          "value": 25.0,
+          "value_max": null,
+          "unit": "% of room area",
+          "context": "Approximate estimated window size; OCR/print shows “≤8–11 m,” retained as printed.",
+          "status": "uncertain",
+          "ocr_raw": "≤8–11 m approx. 25%"
+        },
+        {
+          "label": "Estimated window size for room depth 11–14 m",
+          "value": 30.0,
+          "value_max": null,
+          "unit": "% of room area",
+          "context": "Approximate estimated window size; OCR/print shows “≤11–14 m.”",
+          "status": "uncertain",
+          "ocr_raw": "≤11–14 m approx. 30%"
+        },
+        {
+          "label": "Estimated window size for room depth 14 m",
+          "value": 35.0,
+          "value_max": null,
+          "unit": "% of room area",
+          "context": "Approximate estimated window size for room depth shown as ≤14 m.",
+          "status": "uncertain",
+          "ocr_raw": "≤14 m approx. 35% of the room area"
+        },
+        {
+          "label": "Overhang depth-to-height ratio",
+          "value": 0.25,
+          "value_max": null,
+          "unit": "ratio",
+          "context": "Diagram for daylight distributions under a cloudy sky; d:h = 0.25:1.",
+          "status": "uncertain",
+          "ocr_raw": "0.25 : 1 = d : h"
+        },
+        {
+          "label": "Overhang ratio",
+          "value": 0.5,
+          "value_max": null,
+          "unit": "ratio",
+          "context": "Diagram for daylight distributions under a cloudy sky; printed ratio 0.50:1.",
+          "status": "uncertain",
+          "ocr_raw": "0.50 : 1"
+        },
+        {
+          "label": "Overhang ratio",
+          "value": 0.75,
+          "value_max": null,
+          "unit": "ratio",
+          "context": "Diagram for daylight distributions under a cloudy sky; printed ratio 0.75:1.",
+          "status": "uncertain",
+          "ocr_raw": "0.75 : 1"
+        },
+        {
+          "label": "Overhang ratio",
+          "value": 1.0,
+          "value_max": null,
+          "unit": "ratio",
+          "context": "Diagram for daylight distributions under a cloudy sky; printed ratio 1.00:1.",
+          "status": "uncertain",
+          "ocr_raw": "1.00 : 1"
+        },
+        {
+          "label": "Light-shelf ratio",
+          "value": 1.0,
+          "value_max": null,
+          "unit": "ratio",
+          "context": "Light-shelf layout diagram; label B gives 1:d:h.",
+          "status": "uncertain",
+          "ocr_raw": "B 1 : 1 = d : h"
+        },
+        {
+          "label": "Light-shelf ratio",
+          "value": 1.0,
+          "value_max": null,
+          "unit": "ratio",
+          "context": "Light-shelf layout diagram; label C gives 1:1.",
+          "status": "uncertain",
+          "ocr_raw": "C 1 : 1"
+        },
+        {
+          "label": "Light-shelf ratio",
+          "value": 2.0,
+          "value_max": null,
+          "unit": "ratio",
+          "context": "Light-shelf layout diagram; label D gives 2:1.",
+          "status": "uncertain",
+          "ocr_raw": "D 2 : 1"
+        }
+      ],
+      "figure_refs": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9"
+      ],
+      "cross_refs": [
+        "Figure 8 → 9"
+      ],
+      "keywords": [
+        "daylight",
+        "window lighting",
+        "daylight factor",
+        "glare",
+        "window orientation",
+        "overhangs",
+        "light shelves",
+        "atrium",
+        "daylight distribution"
+      ],
+      "tags_architectural": [
+        "daylighting",
+        "ventilation",
+        "spatial_proportion"
+      ],
+      "confidence": 0.91
+    }
+  ]
+}

@@ -1,0 +1,416 @@
+{
+  "fichas": [
+    {
+      "id": "4122fb96e4bd1976-193-vision-0",
+      "pdf_page": 193,
+      "book_page": 180,
+      "chapter": "ACCOMMODATION",
+      "section": "Catering",
+      "title": "Restaurant kitchen organization",
+      "summary": "Restaurant kitchens are organized into hot and cold kitchen areas, a servery, crockery-return and washing areas, and staff facilities. Kitchen layouts and equipment should support efficient production, service, cleaning, and circulation.",
+      "building_type": "Restaurant kitchen",
+      "spaces": [
+        "Hot kitchen",
+        "Cold kitchen",
+        "Servery",
+        "Crockery-return area",
+        "Dishwashing area",
+        "Pot-washing area",
+        "Staff rooms"
+      ],
+      "uses": [
+        "Cooking and roasting",
+        "Cold-food preparation",
+        "Serving meals",
+        "Returning and washing crockery",
+        "Washing pots",
+        "Staff changing and rest"
+      ],
+      "furniture_equipment": [
+        "Cookers and hotplates",
+        "Extractor hood",
+        "Ovens",
+        "Fryers and griddles",
+        "Cold tables and refrigerators",
+        "Preparation and work surfaces",
+        "Shelves and storage",
+        "Dishwashers",
+        "Sinks and drainers",
+        "Staff lockers"
+      ],
+      "dimensions": [
+        {
+          "label": "Hotplate rings per cooker",
+          "value": 2.0,
+          "value_max": 8.0,
+          "unit": "rings",
+          "context": "Hot-kitchen equipment specification",
+          "status": "uncertain",
+          "ocr_raw": "cooker (two to eight rings)"
+        },
+        {
+          "label": "Kitchen facility space allocated to offices and staff rooms",
+          "value": 10.0,
+          "value_max": 15.0,
+          "unit": "%",
+          "context": "Share of total space required in a kitchen facility",
+          "status": "uncertain",
+          "ocr_raw": "about 10–15% of the total space required in a kitchen facility"
+        },
+        {
+          "label": "Employees requiring a rest/break room",
+          "value": 10.0,
+          "value_max": null,
+          "unit": "employees",
+          "context": "Rest/break room is necessary for more than this number of employees",
+          "status": "uncertain",
+          "ocr_raw": "For more than 10 employees, a rest/break room is necessary"
+        },
+        {
+          "label": "Changing-room floor area",
+          "value": 6.0,
+          "value_max": null,
+          "unit": "m²",
+          "context": "Changing rooms; the text specifies an area greater than this figure",
+          "status": "uncertain",
+          "ocr_raw": "> 6 m² floor area"
+        },
+        {
+          "label": "Changing-room air changes",
+          "value": 4.0,
+          "value_max": 6.0,
+          "unit": "air changes per hour",
+          "context": "Changing-room ventilation",
+          "status": "uncertain",
+          "ocr_raw": "4–6 air changes per hour"
+        },
+        {
+          "label": "Toilet unit area",
+          "value": 5.0,
+          "value_max": 6.0,
+          "unit": "m²",
+          "context": "Per WC and washbasin unit",
+          "status": "uncertain",
+          "ocr_raw": "per unit (WC and washbasin) 5–6 m²"
+        },
+        {
+          "label": "Shower-area unit area",
+          "value": 5.5,
+          "value_max": null,
+          "unit": "m²",
+          "context": "Approximate area per shower unit for more than five male or female employees",
+          "status": "uncertain",
+          "ocr_raw": "approx. 5.5 m² per unit"
+        },
+        {
+          "label": "Employees triggering shower-area provision",
+          "value": 5.0,
+          "value_max": null,
+          "unit": "employees",
+          "context": "Shower areas are specified for more than this number of male or female employees",
+          "status": "uncertain",
+          "ocr_raw": "for more than five male or female employees"
+        }
+      ],
+      "figure_refs": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12",
+        "13",
+        "14",
+        "15"
+      ],
+      "cross_refs": [
+        "→ 1–5",
+        "→ 6",
+        "→ 12–15"
+      ],
+      "keywords": [
+        "restaurant kitchen",
+        "hot kitchen",
+        "cold kitchen",
+        "servery",
+        "crockery return",
+        "staff facilities"
+      ],
+      "tags_architectural": [
+        "circulation",
+        "ergonomics",
+        "ventilation",
+        "safety"
+      ],
+      "confidence": 0.96
+    },
+    {
+      "id": "4122fb96e4bd1976-193-vision-1",
+      "pdf_page": 193,
+      "book_page": 180,
+      "chapter": "ACCOMMODATION",
+      "section": "Catering",
+      "title": "Hot kitchen production and equipment",
+      "summary": "The hot kitchen is arranged around cooking and roasting functions, with finishing zones and equipment selected for the scale and type of operation. Work and storage surfaces are placed between appliances and at the ends of equipment blocks; mobile appliances allow production layouts to adapt and facilitate cleaning.",
+      "building_type": "Restaurant kitchen",
+      "spaces": [
+        "Hot kitchen",
+        "Cooking zone",
+        "Frying zone",
+        "Finishing zone",
+        "Work and storage areas"
+      ],
+      "uses": [
+        "Cooking",
+        "Roasting",
+        "Frying",
+        "Finishing dishes",
+        "Adapting production layout"
+      ],
+      "furniture_equipment": [
+        "Cookers",
+        "Mobile hotplates",
+        "Extractor hood",
+        "Water boiler",
+        "Steamers",
+        "Combination cooking appliance",
+        "Bain-marie",
+        "Baking and roasting ovens",
+        "Griddle",
+        "Deep-fat fryer",
+        "Salamander",
+        "Microwave oven",
+        "Work surfaces",
+        "Storage"
+      ],
+      "dimensions": [
+        {
+          "label": "Hotplate rings per cooker",
+          "value": 2.0,
+          "value_max": 8.0,
+          "unit": "rings",
+          "context": "Hot-kitchen equipment specification",
+          "status": "uncertain",
+          "ocr_raw": "cooker (two to eight rings)"
+        },
+        {
+          "label": "Restaurant capacity",
+          "value": 60.0,
+          "value_max": 100.0,
+          "unit": "places",
+          "context": "Kitchen plan caption; production in block",
+          "status": "uncertain",
+          "ocr_raw": "Kitchen for restaurant with 60–100 places"
+        },
+        {
+          "label": "Restaurant meal capacity",
+          "value": 150.0,
+          "value_max": 200.0,
+          "unit": "meals",
+          "context": "Restaurant kitchen plan caption",
+          "status": "uncertain",
+          "ocr_raw": "Restaurant kitchen for 150–200 meals"
+        }
+      ],
+      "figure_refs": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "cross_refs": [
+        "→ 1–5"
+      ],
+      "keywords": [
+        "hot kitchen",
+        "cooking",
+        "roasting",
+        "production in block",
+        "production in line",
+        "mobile equipment"
+      ],
+      "tags_architectural": [
+        "modularity",
+        "adaptability",
+        "circulation",
+        "ergonomics"
+      ],
+      "confidence": 0.94
+    },
+    {
+      "id": "4122fb96e4bd1976-193-vision-2",
+      "pdf_page": 193,
+      "book_page": 180,
+      "chapter": "ACCOMMODATION",
+      "section": "Catering",
+      "title": "Cold kitchen and servery",
+      "summary": "The cold kitchen should be laid out in parallel with the hot kitchen and positioned conveniently for the shared servery and bread area. The servery should sit between preparation and dining, with separate provision for hot and cold foods and sufficient shelving and work space.",
+      "building_type": "Restaurant kitchen",
+      "spaces": [
+        "Cold kitchen",
+        "Cold-food preparation area",
+        "Servery",
+        "Dining room"
+      ],
+      "uses": [
+        "Preparing cold meals",
+        "Slicing and mixing food",
+        "Holding hot and cold foods",
+        "Serving diners"
+      ],
+      "furniture_equipment": [
+        "Day refrigerator",
+        "Cold table",
+        "Cutting and slicing machines",
+        "Mixing machine",
+        "Scales",
+        "Cutting boards",
+        "Salad table with lower cold cabinet",
+        "Toaster",
+        "Microwave oven",
+        "Shelves",
+        "Heated plates",
+        "Cutlery container"
+      ],
+      "dimensions": [],
+      "figure_refs": [
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11"
+      ],
+      "cross_refs": [
+        "→ 6"
+      ],
+      "keywords": [
+        "cold kitchen",
+        "servery",
+        "self-service",
+        "free-flow restaurant",
+        "cold meals"
+      ],
+      "tags_architectural": [
+        "circulation",
+        "ergonomics",
+        "spatial_proportion"
+      ],
+      "confidence": 0.92
+    },
+    {
+      "id": "4122fb96e4bd1976-193-vision-3",
+      "pdf_page": 193,
+      "book_page": 180,
+      "chapter": "ACCOMMODATION",
+      "section": "Catering",
+      "title": "Crockery return, dishwashing and pot washing",
+      "summary": "Crockery-return arrangements depend on the service system. Dishwashing areas provide for returns, sorting, waste clearance, pre-washing, washing, discharge, and crockery storage. Pot-washing provision includes sinks, work surfaces, rinsing equipment, shelves, and a holding area.",
+      "building_type": "Restaurant kitchen",
+      "spaces": [
+        "Crockery-return area",
+        "Dishwashing area",
+        "Pot-washing area",
+        "Crockery storage"
+      ],
+      "uses": [
+        "Returning crockery",
+        "Sorting and clearing waste",
+        "Pre-washing and washing crockery",
+        "Washing pots",
+        "Storing clean crockery"
+      ],
+      "furniture_equipment": [
+        "Sinks with drainers",
+        "Dishwasher",
+        "Discharge table",
+        "Sorting table",
+        "Work surface",
+        "Automatic rinsing system",
+        "Shelf",
+        "Holding area",
+        "Waste bin"
+      ],
+      "dimensions": [],
+      "figure_refs": [
+        "12",
+        "13",
+        "14",
+        "15"
+      ],
+      "cross_refs": [
+        "→ 12–15"
+      ],
+      "keywords": [
+        "crockery return",
+        "dishwashing",
+        "pot washing",
+        "temporary storage",
+        "waste clearance"
+      ],
+      "tags_architectural": [
+        "circulation",
+        "ergonomics",
+        "safety"
+      ],
+      "confidence": 0.94
+    },
+    {
+      "id": "4122fb96e4bd1976-193-vision-4",
+      "pdf_page": 193,
+      "book_page": 180,
+      "chapter": "ACCOMMODATION",
+      "section": "Catering",
+      "title": "Ventilation and extraction for large kitchens",
+      "summary": "Large kitchens are to have mechanical air supply and extraction in accordance with the cited VDI guideline. Extract air at each cooker and discharge it outdoors; supply fresh air without recirculation, taking appliance heat output into account.",
+      "building_type": "Large kitchen",
+      "spaces": [
+        "Hot kitchen",
+        "Cooking area",
+        "Ventilation and extraction system"
+      ],
+      "uses": [
+        "Extracting cooking air and heat",
+        "Supplying fresh air"
+      ],
+      "furniture_equipment": [
+        "Mechanical air-supply system",
+        "Mechanical extraction system",
+        "Extractor hoods",
+        "Ductwork"
+      ],
+      "dimensions": [
+        {
+          "label": "Referenced ventilation guideline",
+          "value": 2052.0,
+          "value_max": null,
+          "unit": "guideline number",
+          "context": "VDI guideline cited for large-kitchen ventilation",
+          "status": "uncertain",
+          "ocr_raw": "according to VDI guideline 2052"
+        }
+      ],
+      "figure_refs": [],
+      "cross_refs": [],
+      "keywords": [
+        "ventilation",
+        "extraction",
+        "fresh air",
+        "mechanical air supply",
+        "VDI 2052"
+      ],
+      "tags_architectural": [
+        "ventilation",
+        "safety"
+      ],
+      "confidence": 0.95
+    }
+  ]
+}

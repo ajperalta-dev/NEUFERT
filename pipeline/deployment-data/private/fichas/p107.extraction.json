@@ -1,0 +1,457 @@
+{
+  "fichas": [
+    {
+      "id": "4122fb96e4bd1976-107-vision-0",
+      "pdf_page": 107,
+      "book_page": 94,
+      "chapter": "BUILDING COMPONENTS",
+      "section": "Roofs",
+      "title": "Flat roofs and roof greening",
+      "summary": "The page describes intensive and extensive roof planting, mobile greening, watering and feeding methods, green-roof layer structures, and plant species for extensive roofs. It states slope guidance and compares six green-roof profiles by growth height, build-up, loading, water supply, and layer thickness.",
+      "building_type": "Roof",
+      "spaces": [
+        "Flat roof",
+        "Roof terrace",
+        "Parapet",
+        "Balcony",
+        "Green roof"
+      ],
+      "uses": [
+        "Intensive roof garden",
+        "Extensive roof planting",
+        "Mobile greening in containers",
+        "Natural rainwater watering",
+        "Dammed watering",
+        "Drip irrigation",
+        "Sprinkler irrigation"
+      ],
+      "furniture_equipment": [
+        "Pergolas",
+        "Loggias",
+        "Plant containers",
+        "Drip irrigation hoses",
+        "Sprinkler equipment",
+        "Roof planting layers"
+      ],
+      "dimensions": [
+        {
+          "label": "Maximum pitch of gabled roofs for roof planting",
+          "value": 25.0,
+          "value_max": null,
+          "unit": "°",
+          "context": "Maximum stated pitch for gabled roofs.",
+          "status": "uncertain",
+          "ocr_raw": "The pitch of gabled roofs should not exceed 25°"
+        },
+        {
+          "label": "Maximum slope of flat roofs",
+          "value": 2.0,
+          "value_max": 3.0,
+          "unit": "%",
+          "context": "Maximum slope stated for flat roofs; range as printed.",
+          "status": "uncertain",
+          "ocr_raw": "flat roofs should have a maximum slope of 2–3%."
+        },
+        {
+          "label": "Growth height",
+          "value": 250.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "First profile in the comparison: growth height greater than 250 cm.",
+          "status": "uncertain",
+          "ocr_raw": "growth height > 250cm"
+        },
+        {
+          "label": "Growth height",
+          "value": 250.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Second profile in the comparison: growth height up to 250 cm.",
+          "status": "uncertain",
+          "ocr_raw": "up to 250cm"
+        },
+        {
+          "label": "Growth height",
+          "value": 5.0,
+          "value_max": 25.0,
+          "unit": "cm",
+          "context": "Third profile in the comparison.",
+          "status": "uncertain",
+          "ocr_raw": "5–25 cm"
+        },
+        {
+          "label": "Growth height",
+          "value": 5.0,
+          "value_max": 20.0,
+          "unit": "cm",
+          "context": "Fourth profile in the comparison.",
+          "status": "uncertain",
+          "ocr_raw": "5–20 cm"
+        },
+        {
+          "label": "Growth height",
+          "value": 5.0,
+          "value_max": 20.0,
+          "unit": "cm",
+          "context": "Fifth profile in the comparison.",
+          "status": "uncertain",
+          "ocr_raw": "5–20 cm"
+        },
+        {
+          "label": "Growth height",
+          "value": 5.0,
+          "value_max": 10.0,
+          "unit": "cm",
+          "context": "Sixth profile in the comparison.",
+          "status": "uncertain",
+          "ocr_raw": "5–10 cm"
+        },
+        {
+          "label": "Build-up height",
+          "value": 35.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "First profile; height greater than 35 cm.",
+          "status": "uncertain",
+          "ocr_raw": "build-up height 35cm"
+        },
+        {
+          "label": "Build-up height",
+          "value": 19.0,
+          "value_max": 35.0,
+          "unit": "cm",
+          "context": "Second profile.",
+          "status": "uncertain",
+          "ocr_raw": "19–35 cm"
+        },
+        {
+          "label": "Build-up height",
+          "value": 14.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Third profile.",
+          "status": "uncertain",
+          "ocr_raw": "14 cm"
+        },
+        {
+          "label": "Build-up height",
+          "value": 12.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Fourth and fifth profiles.",
+          "status": "uncertain",
+          "ocr_raw": "12 cm"
+        },
+        {
+          "label": "Build-up height",
+          "value": 10.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Sixth profile.",
+          "status": "uncertain",
+          "ocr_raw": "10 cm"
+        },
+        {
+          "label": "Surface loading",
+          "value": 3.7,
+          "value_max": null,
+          "unit": "kN/m²",
+          "context": "First profile.",
+          "status": "uncertain",
+          "ocr_raw": "surface loading 3.7 kN/m²"
+        },
+        {
+          "label": "Surface loading",
+          "value": 1.9,
+          "value_max": 3.7,
+          "unit": "kN/m²",
+          "context": "Second profile.",
+          "status": "uncertain",
+          "ocr_raw": "1.9–3.7 kN/m²"
+        },
+        {
+          "label": "Surface loading",
+          "value": 1.4,
+          "value_max": null,
+          "unit": "kN/m²",
+          "context": "Third profile.",
+          "status": "uncertain",
+          "ocr_raw": "1.4 kN/m²"
+        },
+        {
+          "label": "Surface loading",
+          "value": 1.1,
+          "value_max": null,
+          "unit": "kN/m²",
+          "context": "Fourth profile.",
+          "status": "uncertain",
+          "ocr_raw": "1.1 kN/m²"
+        },
+        {
+          "label": "Surface loading",
+          "value": 1.15,
+          "value_max": null,
+          "unit": "kN/m²",
+          "context": "Fifth profile.",
+          "status": "uncertain",
+          "ocr_raw": "1.15 kN/m²"
+        },
+        {
+          "label": "Surface loading",
+          "value": 0.9,
+          "value_max": null,
+          "unit": "kN/m²",
+          "context": "Sixth profile.",
+          "status": "uncertain",
+          "ocr_raw": "0.9 kN/m²"
+        },
+        {
+          "label": "Water supply",
+          "value": 170.0,
+          "value_max": null,
+          "unit": "l/m²",
+          "context": "First profile.",
+          "status": "uncertain",
+          "ocr_raw": "water supply 170 l/m²"
+        },
+        {
+          "label": "Water supply",
+          "value": 80.0,
+          "value_max": 170.0,
+          "unit": "l/m²",
+          "context": "Second profile.",
+          "status": "uncertain",
+          "ocr_raw": "80–170 l/m²"
+        },
+        {
+          "label": "Water supply",
+          "value": 60.0,
+          "value_max": null,
+          "unit": "l/m²",
+          "context": "Third profile.",
+          "status": "uncertain",
+          "ocr_raw": "60 l/m²"
+        },
+        {
+          "label": "Water supply",
+          "value": 45.0,
+          "value_max": null,
+          "unit": "l/m²",
+          "context": "Fourth profile.",
+          "status": "uncertain",
+          "ocr_raw": "45 l/m²"
+        },
+        {
+          "label": "Water supply",
+          "value": 40.0,
+          "value_max": null,
+          "unit": "l/m²",
+          "context": "Fifth profile.",
+          "status": "uncertain",
+          "ocr_raw": "40 l/m²"
+        },
+        {
+          "label": "Water supply",
+          "value": 30.0,
+          "value_max": null,
+          "unit": "l/m²",
+          "context": "Sixth profile.",
+          "status": "uncertain",
+          "ocr_raw": "30 l/m²"
+        },
+        {
+          "label": "Soil mixture thickness",
+          "value": 23.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "First profile.",
+          "status": "uncertain",
+          "ocr_raw": "soil mixture 23cm"
+        },
+        {
+          "label": "Soil mixture thickness",
+          "value": 7.0,
+          "value_max": 23.0,
+          "unit": "cm",
+          "context": "Second profile.",
+          "status": "uncertain",
+          "ocr_raw": "7–23 cm"
+        },
+        {
+          "label": "Soil mixture thickness",
+          "value": 5.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Third profile.",
+          "status": "uncertain",
+          "ocr_raw": "5 cm"
+        },
+        {
+          "label": "Soil mixture thickness",
+          "value": 4.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Fourth and fifth profiles.",
+          "status": "uncertain",
+          "ocr_raw": "4 cm"
+        },
+        {
+          "label": "Soil mixture thickness",
+          "value": 4.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Sixth profile.",
+          "status": "uncertain",
+          "ocr_raw": "4 cm"
+        },
+        {
+          "label": "Drainage layer thickness",
+          "value": 12.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "First and second profiles.",
+          "status": "uncertain",
+          "ocr_raw": "drainage layer 12cm"
+        },
+        {
+          "label": "Drainage layer thickness",
+          "value": 9.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Third profile.",
+          "status": "uncertain",
+          "ocr_raw": "9 cm"
+        },
+        {
+          "label": "Drainage layer thickness",
+          "value": 7.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Fourth and fifth profiles.",
+          "status": "uncertain",
+          "ocr_raw": "7 cm"
+        },
+        {
+          "label": "Drainage layer thickness",
+          "value": 5.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Sixth profile.",
+          "status": "uncertain",
+          "ocr_raw": "5 cm"
+        },
+        {
+          "label": "Plant height",
+          "value": 5.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Saxifraga aizoon in the extensive roof-plant species table.",
+          "status": "uncertain",
+          "ocr_raw": "Saxifrage aizoon ... 5 cm"
+        },
+        {
+          "label": "Plant height",
+          "value": 8.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Sedum acre in the extensive roof-plant species table.",
+          "status": "uncertain",
+          "ocr_raw": "Sedum acre ... 8 cm"
+        },
+        {
+          "label": "Plant height",
+          "value": 5.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Sedum album and listed varieties in the extensive roof-plant species table.",
+          "status": "uncertain",
+          "ocr_raw": "Sedum album ... 5 cm"
+        },
+        {
+          "label": "Plant height",
+          "value": 10.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Sedum album 'Laconicum' in the extensive roof-plant species table.",
+          "status": "uncertain",
+          "ocr_raw": "Sedum album 'Laconicum' ... 10 cm"
+        },
+        {
+          "label": "Plant height",
+          "value": 8.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Sedum album 'Murale' in the extensive roof-plant species table.",
+          "status": "uncertain",
+          "ocr_raw": "Sedum album 'Murale' ... 8 cm"
+        },
+        {
+          "label": "Plant height",
+          "value": 8.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Sedum hybr. in the extensive roof-plant species table.",
+          "status": "uncertain",
+          "ocr_raw": "Sedum hybr. ... 8 cm"
+        },
+        {
+          "label": "Plant height",
+          "value": 10.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Sedum floriferum in the extensive roof-plant species table.",
+          "status": "uncertain",
+          "ocr_raw": "Sedum floriferum ... 10 cm"
+        },
+        {
+          "label": "Plant height",
+          "value": 12.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Sedum reflexum 'Elegant' in the extensive roof-plant species table.",
+          "status": "uncertain",
+          "ocr_raw": "Sedum reflexum, 'Elegant' ... 12cm"
+        },
+        {
+          "label": "Plant height",
+          "value": 6.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Sempervivum arachnoideum in the extensive roof-plant species table.",
+          "status": "uncertain",
+          "ocr_raw": "Sempervivum arachnoideum ... 6cm"
+        }
+      ],
+      "figure_refs": [
+        "1 Intensive planting",
+        "2 Extensive planting",
+        "3 Layer structure of a green roof",
+        "4 Plant containers form an edging for the green area",
+        "5 Zinco Floraterra roof greening system",
+        "6 Zinco Floradrain roof greening system",
+        "7 Various types of roof greening",
+        "8 Proven plant species and varieties for extensive roof greening (selection)"
+      ],
+      "cross_refs": [],
+      "keywords": [
+        "flat roofs",
+        "roof planting",
+        "intensive planting",
+        "extensive planting",
+        "mobile greening",
+        "roof terraces",
+        "rainwater",
+        "irrigation",
+        "roof layers",
+        "plant species"
+      ],
+      "tags_architectural": [
+        "accessibility",
+        "daylighting",
+        "ventilation",
+        "adaptability"
+      ],
+      "confidence": 0.91
+    }
+  ]
+}

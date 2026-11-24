@@ -1,0 +1,546 @@
+{
+  "fichas": [
+    {
+      "id": "4122fb96e4bd1976-95-vision-0",
+      "pdf_page": 95,
+      "book_page": 82,
+      "chapter": "BUILDING COMPONENTS",
+      "section": "Floor Slabs",
+      "title": "Floor Slabs: Concrete Repair and Refurbishment",
+      "summary": "Guidance for assessing and repairing existing concrete slabs and related building elements. It covers slab refurbishment options for fire and impact-sound insulation, concrete-condition testing, minimum reinforcement cover by environmental class, and concrete repair materials and procedures. The existing condition and damage should be surveyed before repair; joints and reinforcement protection require attention.",
+      "building_type": "Residential and office buildings; existing buildings undergoing refurbishment or conversion",
+      "spaces": [
+        "Interior floors",
+        "External walls",
+        "Building elements exposed to moisture, frost, seawater, or chemically aggressive environments"
+      ],
+      "uses": [
+        "Refurbish concrete slabs",
+        "Improve fire and airborne sound insulation",
+        "Improve impact sound insulation",
+        "Assess concrete condition and damage",
+        "Repair concrete and protect reinforcement"
+      ],
+      "furniture_equipment": [
+        "Carpet",
+        "Floating screed",
+        "Bonded screed with voids",
+        "Suspended ceiling",
+        "Shotcrete",
+        "Hammer or steel rod",
+        "Drag chain",
+        "Herlon device",
+        "Schenk-Trebel device",
+        "Schmidt hammer",
+        "Measuring magnifying glass",
+        "Crack-width ruler",
+        "Crack marks",
+        "Dial gauge",
+        "Inductive transducer",
+        "Phenolphthalein test",
+        "Silver nitrate",
+        "Quantab process",
+        "Electromagnetic meters",
+        "Potential-field measurement",
+        "Calliper",
+        "High-pressure water jetting"
+      ],
+      "dimensions": [
+        {
+          "label": "Shotcrete thickness",
+          "value": 3.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Approximate shotcrete thickness used to increase reinforcement cover and improve fire and airborne sound insulation.",
+          "status": "uncertain",
+          "ocr_raw": "Shotcrete (approx. 3 cm) increases the cover to the reinforcement"
+        },
+        {
+          "label": "Fire rating of suspended ceiling",
+          "value": 90.0,
+          "value_max": null,
+          "unit": "F rating",
+          "context": "The suspended ceiling must provide the entire fire rating; the example shown is F90.",
+          "status": "uncertain",
+          "ocr_raw": "Suspended ceilings must either provide the entire fire rating (here F90)"
+        },
+        {
+          "label": "Maximum interval before elastic-joint replacement",
+          "value": 10.0,
+          "value_max": null,
+          "unit": "years",
+          "context": "Elastic joints should be replaced after no more than this interval.",
+          "status": "uncertain",
+          "ocr_raw": "elastic joints should be replaced after max. 10 years."
+        },
+        {
+          "label": "Minimum concrete reinforcement cover, environmental class 1, general",
+          "value": 15.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Environmental class 1; concrete reinforcement cover, General column.",
+          "status": "uncertain",
+          "ocr_raw": "1 interior of residential and office buildings (only applies if no worse conditions were present for a significant time during construction) 15"
+        },
+        {
+          "label": "Minimum concrete reinforcement cover, environmental class 1, slabs",
+          "value": 15.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Environmental class 1; concrete reinforcement cover, Slabs column.",
+          "status": "uncertain",
+          "ocr_raw": "15 15 15 25 25 25"
+        },
+        {
+          "label": "Minimum concrete reinforcement cover, environmental class 1, C40/50",
+          "value": 15.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Environmental class 1; concrete reinforcement cover, C40/50 column.",
+          "status": "uncertain",
+          "ocr_raw": "15 15 15 25 25 25"
+        },
+        {
+          "label": "Minimum pre-tensioning reinforcement cover, environmental class 1, general",
+          "value": 25.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Environmental class 1; pre-tensioning reinforcement cover, General column.",
+          "status": "uncertain",
+          "ocr_raw": "15 15 15 25 25 25"
+        },
+        {
+          "label": "Minimum pre-tensioning reinforcement cover, environmental class 1, slabs",
+          "value": 25.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Environmental class 1; pre-tensioning reinforcement cover, Slabs column.",
+          "status": "uncertain",
+          "ocr_raw": "15 15 15 25 25 25"
+        },
+        {
+          "label": "Minimum pre-tensioning reinforcement cover, environmental class 1, C40/50",
+          "value": 25.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Environmental class 1; pre-tensioning reinforcement cover, C40/50 column.",
+          "status": "uncertain",
+          "ocr_raw": "15 15 15 25 25 25"
+        },
+        {
+          "label": "Minimum concrete reinforcement cover, environmental class 2a, general",
+          "value": 20.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Environmental class 2a; concrete reinforcement cover, General column.",
+          "status": "uncertain",
+          "ocr_raw": "2 2a — rooms with high humidity (e.g. laundries) — external building elements — building elements in non-aggressive ground or water 20 15 15 30 25 25"
+        },
+        {
+          "label": "Minimum concrete reinforcement cover, environmental class 2a, slabs",
+          "value": 15.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Environmental class 2a; concrete reinforcement cover, Slabs column.",
+          "status": "uncertain",
+          "ocr_raw": "20 15 15 30 25 25"
+        },
+        {
+          "label": "Minimum concrete reinforcement cover, environmental class 2a, C40/50",
+          "value": 15.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Environmental class 2a; concrete reinforcement cover, C40/50 column.",
+          "status": "uncertain",
+          "ocr_raw": "20 15 15 30 25 25"
+        },
+        {
+          "label": "Minimum pre-tensioning reinforcement cover, environmental class 2a, general",
+          "value": 30.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Environmental class 2a; pre-tensioning reinforcement cover, General column.",
+          "status": "uncertain",
+          "ocr_raw": "20 15 15 30 25 25"
+        },
+        {
+          "label": "Minimum pre-tensioning reinforcement cover, environmental class 2a, slabs",
+          "value": 25.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Environmental class 2a; pre-tensioning reinforcement cover, Slabs column.",
+          "status": "uncertain",
+          "ocr_raw": "20 15 15 30 25 25"
+        },
+        {
+          "label": "Minimum pre-tensioning reinforcement cover, environmental class 2a, C40/50",
+          "value": 25.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Environmental class 2a; pre-tensioning reinforcement cover, C40/50 column.",
+          "status": "uncertain",
+          "ocr_raw": "20 15 15 30 25 25"
+        },
+        {
+          "label": "Minimum concrete reinforcement cover, environmental class 2b, general",
+          "value": 25.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Environmental class 2b; concrete reinforcement cover, General column.",
+          "status": "uncertain",
+          "ocr_raw": "2b — external building elements exposed to frost — building elements in non-aggressive ground or water with frost — interior building elements with high humidity and frost risk 25 20 20 35 30 30"
+        },
+        {
+          "label": "Minimum concrete reinforcement cover, environmental class 2b, slabs",
+          "value": 20.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Environmental class 2b; concrete reinforcement cover, Slabs column.",
+          "status": "uncertain",
+          "ocr_raw": "25 20 20 35 30 30"
+        },
+        {
+          "label": "Minimum concrete reinforcement cover, environmental class 2b, C40/50",
+          "value": 20.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Environmental class 2b; concrete reinforcement cover, C40/50 column.",
+          "status": "uncertain",
+          "ocr_raw": "25 20 20 35 30 30"
+        },
+        {
+          "label": "Minimum pre-tensioning reinforcement cover, environmental class 2b, general",
+          "value": 35.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Environmental class 2b; pre-tensioning reinforcement cover, General column.",
+          "status": "uncertain",
+          "ocr_raw": "25 20 20 35 30 30"
+        },
+        {
+          "label": "Minimum pre-tensioning reinforcement cover, environmental class 2b, slabs",
+          "value": 30.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Environmental class 2b; pre-tensioning reinforcement cover, Slabs column.",
+          "status": "uncertain",
+          "ocr_raw": "25 20 20 35 30 30"
+        },
+        {
+          "label": "Minimum pre-tensioning reinforcement cover, environmental class 2b, C40/50",
+          "value": 30.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Environmental class 2b; pre-tensioning reinforcement cover, C40/50 column.",
+          "status": "uncertain",
+          "ocr_raw": "25 20 20 35 30 30"
+        },
+        {
+          "label": "Minimum concrete reinforcement cover, environmental class 3, general",
+          "value": 40.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Environmental class 3; concrete reinforcement cover, General column.",
+          "status": "uncertain",
+          "ocr_raw": "3 — external building elements exposed to frost and defrosting agents 40 35 35 50 45 45"
+        },
+        {
+          "label": "Minimum concrete reinforcement cover, environmental class 3, slabs",
+          "value": 35.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Environmental class 3; concrete reinforcement cover, Slabs column.",
+          "status": "uncertain",
+          "ocr_raw": "40 35 35 50 45 45"
+        },
+        {
+          "label": "Minimum concrete reinforcement cover, environmental class 3, C40/50",
+          "value": 35.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Environmental class 3; concrete reinforcement cover, C40/50 column.",
+          "status": "uncertain",
+          "ocr_raw": "40 35 35 50 45 45"
+        },
+        {
+          "label": "Minimum pre-tensioning reinforcement cover, environmental class 3, general",
+          "value": 50.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Environmental class 3; pre-tensioning reinforcement cover, General column.",
+          "status": "uncertain",
+          "ocr_raw": "40 35 35 50 45 45"
+        },
+        {
+          "label": "Minimum pre-tensioning reinforcement cover, environmental class 3, slabs",
+          "value": 45.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Environmental class 3; pre-tensioning reinforcement cover, Slabs column.",
+          "status": "uncertain",
+          "ocr_raw": "40 35 35 50 45 45"
+        },
+        {
+          "label": "Minimum pre-tensioning reinforcement cover, environmental class 3, C40/50",
+          "value": 45.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Environmental class 3; pre-tensioning reinforcement cover, C40/50 column.",
+          "status": "uncertain",
+          "ocr_raw": "40 35 35 50 45 45"
+        },
+        {
+          "label": "Minimum concrete reinforcement cover, environmental class 4, general",
+          "value": 40.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Environmental class 4, also with frost; concrete reinforcement cover, General column.",
+          "status": "uncertain",
+          "ocr_raw": "4 also with frost — building elements in splash zone or dipping into seawater, a part exposed to air — building elements in salty air (directly on coast) 40 35 35 50 45 45"
+        },
+        {
+          "label": "Minimum concrete reinforcement cover, environmental class 4, slabs",
+          "value": 35.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Environmental class 4, also with frost; concrete reinforcement cover, Slabs column.",
+          "status": "uncertain",
+          "ocr_raw": "40 35 35 50 45 45"
+        },
+        {
+          "label": "Minimum concrete reinforcement cover, environmental class 4, C40/50",
+          "value": 35.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Environmental class 4, also with frost; concrete reinforcement cover, C40/50 column.",
+          "status": "uncertain",
+          "ocr_raw": "40 35 35 50 45 45"
+        },
+        {
+          "label": "Minimum pre-tensioning reinforcement cover, environmental class 4, general",
+          "value": 50.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Environmental class 4, also with frost; pre-tensioning reinforcement cover, General column.",
+          "status": "uncertain",
+          "ocr_raw": "40 35 35 50 45 45"
+        },
+        {
+          "label": "Minimum pre-tensioning reinforcement cover, environmental class 4, slabs",
+          "value": 45.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Environmental class 4, also with frost; pre-tensioning reinforcement cover, Slabs column.",
+          "status": "uncertain",
+          "ocr_raw": "40 35 35 50 45 45"
+        },
+        {
+          "label": "Minimum pre-tensioning reinforcement cover, environmental class 4, C40/50",
+          "value": 45.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Environmental class 4, also with frost; pre-tensioning reinforcement cover, C40/50 column.",
+          "status": "uncertain",
+          "ocr_raw": "40 35 35 50 45 45"
+        },
+        {
+          "label": "Minimum concrete reinforcement cover, environmental class 5a, general",
+          "value": 25.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Environmental class 5a; concrete reinforcement cover, General column.",
+          "status": "uncertain",
+          "ocr_raw": "5 5a weakly chemically aggressive environment (gaseous, liquid, solid), aggressive industrial atmosphere 25 20 20 35 30 30"
+        },
+        {
+          "label": "Minimum concrete reinforcement cover, environmental class 5a, slabs",
+          "value": 20.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Environmental class 5a; concrete reinforcement cover, Slabs column.",
+          "status": "uncertain",
+          "ocr_raw": "25 20 20 35 30 30"
+        },
+        {
+          "label": "Minimum concrete reinforcement cover, environmental class 5a, C40/50",
+          "value": 20.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Environmental class 5a; concrete reinforcement cover, C40/50 column.",
+          "status": "uncertain",
+          "ocr_raw": "25 20 20 35 30 30"
+        },
+        {
+          "label": "Minimum pre-tensioning reinforcement cover, environmental class 5a, general",
+          "value": 35.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Environmental class 5a; pre-tensioning reinforcement cover, General column.",
+          "status": "uncertain",
+          "ocr_raw": "25 20 20 35 30 30"
+        },
+        {
+          "label": "Minimum pre-tensioning reinforcement cover, environmental class 5a, slabs",
+          "value": 30.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Environmental class 5a; pre-tensioning reinforcement cover, Slabs column.",
+          "status": "uncertain",
+          "ocr_raw": "25 20 20 35 30 30"
+        },
+        {
+          "label": "Minimum pre-tensioning reinforcement cover, environmental class 5a, C40/50",
+          "value": 30.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Environmental class 5a; pre-tensioning reinforcement cover, C40/50 column.",
+          "status": "uncertain",
+          "ocr_raw": "25 20 20 35 30 30"
+        },
+        {
+          "label": "Minimum concrete reinforcement cover, environmental class 5b, general",
+          "value": 30.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Environmental class 5b; concrete reinforcement cover, General column.",
+          "status": "uncertain",
+          "ocr_raw": "5b moderately chemically aggressive environment (gaseous, liquid, solid) 30 25 25 40 35 35"
+        },
+        {
+          "label": "Minimum concrete reinforcement cover, environmental class 5b, slabs",
+          "value": 25.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Environmental class 5b; concrete reinforcement cover, Slabs column.",
+          "status": "uncertain",
+          "ocr_raw": "30 25 25 40 35 35"
+        },
+        {
+          "label": "Minimum concrete reinforcement cover, environmental class 5b, C40/50",
+          "value": 25.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Environmental class 5b; concrete reinforcement cover, C40/50 column.",
+          "status": "uncertain",
+          "ocr_raw": "30 25 25 40 35 35"
+        },
+        {
+          "label": "Minimum pre-tensioning reinforcement cover, environmental class 5b, general",
+          "value": 40.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Environmental class 5b; pre-tensioning reinforcement cover, General column.",
+          "status": "uncertain",
+          "ocr_raw": "30 25 25 40 35 35"
+        },
+        {
+          "label": "Minimum pre-tensioning reinforcement cover, environmental class 5b, slabs",
+          "value": 35.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Environmental class 5b; pre-tensioning reinforcement cover, Slabs column.",
+          "status": "uncertain",
+          "ocr_raw": "30 25 25 40 35 35"
+        },
+        {
+          "label": "Minimum pre-tensioning reinforcement cover, environmental class 5b, C40/50",
+          "value": 35.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Environmental class 5b; pre-tensioning reinforcement cover, C40/50 column.",
+          "status": "uncertain",
+          "ocr_raw": "30 25 25 40 35 35"
+        },
+        {
+          "label": "Minimum concrete reinforcement cover, environmental class 5c, general",
+          "value": 40.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Environmental class 5c; concrete reinforcement cover, General column.",
+          "status": "uncertain",
+          "ocr_raw": "5c strongly chemically aggressive environment (gaseous, liquid, solid) 40 35 35 50 45 50"
+        },
+        {
+          "label": "Minimum concrete reinforcement cover, environmental class 5c, slabs",
+          "value": 35.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Environmental class 5c; concrete reinforcement cover, Slabs column.",
+          "status": "uncertain",
+          "ocr_raw": "40 35 35 50 45 50"
+        },
+        {
+          "label": "Minimum concrete reinforcement cover, environmental class 5c, C40/50",
+          "value": 35.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Environmental class 5c; concrete reinforcement cover, C40/50 column.",
+          "status": "uncertain",
+          "ocr_raw": "40 35 35 50 45 50"
+        },
+        {
+          "label": "Minimum pre-tensioning reinforcement cover, environmental class 5c, general",
+          "value": 50.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Environmental class 5c; pre-tensioning reinforcement cover, General column.",
+          "status": "uncertain",
+          "ocr_raw": "40 35 35 50 45 50"
+        },
+        {
+          "label": "Minimum pre-tensioning reinforcement cover, environmental class 5c, slabs",
+          "value": 45.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Environmental class 5c; pre-tensioning reinforcement cover, Slabs column.",
+          "status": "uncertain",
+          "ocr_raw": "40 35 35 50 45 50"
+        },
+        {
+          "label": "Minimum pre-tensioning reinforcement cover, environmental class 5c, C40/50",
+          "value": 50.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Environmental class 5c; pre-tensioning reinforcement cover, C40/50 column.",
+          "status": "uncertain",
+          "ocr_raw": "40 35 35 50 45 50"
+        }
+      ],
+      "figure_refs": [
+        "1. Upgrading of concrete slabs in refurbishment or conversion of buildings",
+        "2. Improvement of an external wall with composite insulation system",
+        "3. Methods of testing concrete quality",
+        "4. Minimum cover to reinforcement",
+        "5. New descriptions of concrete strength"
+      ],
+      "cross_refs": [
+        "BS 12617",
+        "BS 13395",
+        "BS 14629",
+        "DIN 1045",
+        "Kind-Barkansas → refs",
+        "Association of German Cement Industry → refs"
+      ],
+      "keywords": [
+        "floor slabs",
+        "concrete repair",
+        "refurbishment",
+        "fire protection",
+        "sound insulation",
+        "reinforcement cover",
+        "carbonisation",
+        "corrosion",
+        "concrete testing",
+        "environmental class",
+        "screed",
+        "suspended ceiling"
+      ],
+      "tags_architectural": [
+        "safety",
+        "adaptability",
+        "clearance"
+      ],
+      "confidence": 0.88
+    }
+  ]
+}

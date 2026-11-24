@@ -1,0 +1,444 @@
+{
+  "fichas": [
+    {
+      "id": "4122fb96e4bd1976-271-vision-0",
+      "pdf_page": 271,
+      "book_page": 258,
+      "chapter": "RETAIL",
+      "section": "Retail Outlets",
+      "title": "Retail outlets: waiting zones and food-shop ranges",
+      "summary": "Guidance for retail formats that combine shopping with on-site consumption or take-away. The page describes impulse-buying strategies, daily fresh-stock deliveries, minimal customer sanitary facilities, and sales-area ranges for several food-shop types.",
+      "building_type": "Retail food shops",
+      "spaces": [
+        "Sales area",
+        "Eating area",
+        "Checkout waiting zone",
+        "Standing-consumption area",
+        "Staff WC"
+      ],
+      "uses": [
+        "Impulse buying",
+        "On-site consumption",
+        "Take-away",
+        "Fast-food sales"
+      ],
+      "furniture_equipment": [
+        "Suggestive displays",
+        "Glazed frontage",
+        "Ovens",
+        "Lockers",
+        "Cold room",
+        "Store-room",
+        "Washing-up area",
+        "Silo",
+        "Folding glass partition",
+        "Plants and flowers",
+        "Flower arrangement room"
+      ],
+      "dimensions": [
+        {
+          "label": "Bakery sales area",
+          "value": 40.0,
+          "value_max": 80.0,
+          "unit": "m²",
+          "context": "Sales only",
+          "status": "uncertain",
+          "ocr_raw": "Bakery – sales only 40–80 m²"
+        },
+        {
+          "label": "Bakery sales area with eating area",
+          "value": 80.0,
+          "value_max": 120.0,
+          "unit": "m²",
+          "context": "Sales area plus eat-in shop",
+          "status": "uncertain",
+          "ocr_raw": "+ eat in shop 80–120 m²"
+        },
+        {
+          "label": "Butcher sales area",
+          "value": 40.0,
+          "value_max": 80.0,
+          "unit": "m²",
+          "context": "Sales only",
+          "status": "uncertain",
+          "ocr_raw": "Butcher’s – sales only 40–80 m²"
+        },
+        {
+          "label": "Butcher sales area with eating area",
+          "value": 80.0,
+          "value_max": 120.0,
+          "unit": "m²",
+          "context": "Sales area plus eat-in shop",
+          "status": "uncertain",
+          "ocr_raw": "+ eat in shop 80–120 m²"
+        },
+        {
+          "label": "Café, pastries, or ice-cream parlour sales area",
+          "value": 40.0,
+          "value_max": 80.0,
+          "unit": "m²",
+          "context": "Sales only",
+          "status": "uncertain",
+          "ocr_raw": "Café, pastries, ice cream parlour – sales only 40–80 m²"
+        },
+        {
+          "label": "Café, pastries, or ice-cream parlour area with eating area",
+          "value": 220.0,
+          "value_max": null,
+          "unit": "m²",
+          "context": "Eat-in shop; stated as a minimum",
+          "status": "uncertain",
+          "ocr_raw": "+ eat in shop from 220 m²"
+        },
+        {
+          "label": "Fish shop sales area",
+          "value": 40.0,
+          "value_max": 80.0,
+          "unit": "m²",
+          "context": "Sales area",
+          "status": "uncertain",
+          "ocr_raw": "Fish – sales 40–80 m²"
+        },
+        {
+          "label": "Fish shop area with eating area",
+          "value": 80.0,
+          "value_max": 120.0,
+          "unit": "m²",
+          "context": "Sales area plus eat-in shop",
+          "status": "uncertain",
+          "ocr_raw": "+ eat in shop 80–120 m²"
+        },
+        {
+          "label": "Fresh food market area with eat-in extension",
+          "value": 600.0,
+          "value_max": null,
+          "unit": "m²",
+          "context": "Eat-in shop as an extension, in the checkout waiting zone; stated as a minimum",
+          "status": "uncertain",
+          "ocr_raw": "Fresh food market, eat in shop as extension from 600 m² in checkout waiting zone"
+        },
+        {
+          "label": "Staff sanitary provision",
+          "value": 1.0,
+          "value_max": null,
+          "unit": "WC",
+          "context": "Staff; the text says standing customers have minimal sanitary facilities",
+          "status": "uncertain",
+          "ocr_raw": "One WC for staff."
+        }
+      ],
+      "figure_refs": [
+        "1 Checkout waiting zone"
+      ],
+      "cross_refs": [
+        "3 Micro-brewery and pub in fresh food supermarket"
+      ],
+      "keywords": [
+        "retail",
+        "waiting zones",
+        "food shops",
+        "impulse buying",
+        "eat-in",
+        "take-away",
+        "fast food"
+      ],
+      "tags_architectural": [
+        "circulation",
+        "adaptability",
+        "safety"
+      ],
+      "confidence": 0.94
+    },
+    {
+      "id": "4122fb96e4bd1976-271-vision-1",
+      "pdf_page": 271,
+      "book_page": 258,
+      "chapter": "RETAIL",
+      "section": "Retail Outlets",
+      "title": "Fresh food supermarket at Hamburg main station",
+      "summary": "A fresh food supermarket plan organized around a checkout waiting zone, with specialist food outlets, preparation and cold-room areas, and general circulation space. The printed operator schedule gives approximate floor areas, including ancillary areas.",
+      "building_type": "Fresh food supermarket",
+      "spaces": [
+        "Checkout waiting zone",
+        "Bakery with eating area",
+        "Butcher with steak and drinks bar",
+        "Local specialities",
+        "Italian specialities",
+        "Japanese specialities",
+        "Fish specialities",
+        "Cheeses and salads",
+        "Mexican specialities",
+        "Cold meat specialities",
+        "Fruit, salads and juices",
+        "Coffee and ice-cream",
+        "Wine merchant and tasting",
+        "Confectioner's",
+        "Coffee roasting",
+        "Tea merchant",
+        "Champagne bar and delicatessen",
+        "Chocolates",
+        "Preparation areas",
+        "Cold rooms",
+        "General circulation space",
+        "WCs"
+      ],
+      "uses": [
+        "Fresh-food retail",
+        "Specialist food retail",
+        "Eating and drinking",
+        "Food preparation",
+        "Checkout circulation"
+      ],
+      "furniture_equipment": [
+        "Checkout area",
+        "Display counters",
+        "Seating and tables",
+        "Preparation counters",
+        "Cold rooms",
+        "WCs"
+      ],
+      "dimensions": [
+        {
+          "label": "Bakery with eating area floor space",
+          "value": 64.0,
+          "value_max": null,
+          "unit": "m²",
+          "context": "Including ancillary areas; approximate",
+          "status": "uncertain",
+          "ocr_raw": "bakery with eating area ≈ 64 m²"
+        },
+        {
+          "label": "Butcher with steak and drinks bar floor space",
+          "value": 89.0,
+          "value_max": null,
+          "unit": "m²",
+          "context": "Including ancillary areas; approximate",
+          "status": "uncertain",
+          "ocr_raw": "butcher’s with steak and drinks bar ≈ 89 m²"
+        },
+        {
+          "label": "Local specialities floor space",
+          "value": 50.0,
+          "value_max": null,
+          "unit": "m²",
+          "context": "Including ancillary areas; approximate",
+          "status": "uncertain",
+          "ocr_raw": "local specialities ≈ 50 m²"
+        },
+        {
+          "label": "Italian specialities floor space",
+          "value": 54.0,
+          "value_max": null,
+          "unit": "m²",
+          "context": "Including ancillary areas; approximate",
+          "status": "uncertain",
+          "ocr_raw": "Italian specialities ≈ 54 m²"
+        },
+        {
+          "label": "Japanese specialities floor space",
+          "value": 43.0,
+          "value_max": null,
+          "unit": "m²",
+          "context": "Including ancillary areas; approximate",
+          "status": "uncertain",
+          "ocr_raw": "Japanese specialities ≈ 43 m²"
+        },
+        {
+          "label": "Fish specialities floor space",
+          "value": 43.0,
+          "value_max": null,
+          "unit": "m²",
+          "context": "Including ancillary areas; approximate",
+          "status": "uncertain",
+          "ocr_raw": "fish specialities ≈ 43 m²"
+        },
+        {
+          "label": "Cheeses and salads floor space",
+          "value": 45.0,
+          "value_max": null,
+          "unit": "m²",
+          "context": "Including ancillary areas; approximate",
+          "status": "uncertain",
+          "ocr_raw": "cheeses/salads ≈ 45 m²"
+        },
+        {
+          "label": "Mexican specialities floor space",
+          "value": 46.0,
+          "value_max": null,
+          "unit": "m²",
+          "context": "Including ancillary areas; approximate",
+          "status": "uncertain",
+          "ocr_raw": "Mexican specialities ≈ 46 m²"
+        },
+        {
+          "label": "Cold meat specialities floor space",
+          "value": 68.0,
+          "value_max": null,
+          "unit": "m²",
+          "context": "Including ancillary areas; approximate",
+          "status": "uncertain",
+          "ocr_raw": "cold meat specialities ≈ 68 m²"
+        },
+        {
+          "label": "Fruit, salads and juices floor space",
+          "value": 42.0,
+          "value_max": null,
+          "unit": "m²",
+          "context": "Including ancillary areas; approximate",
+          "status": "uncertain",
+          "ocr_raw": "fruit/salads/juices ≈ 42 m²"
+        },
+        {
+          "label": "Coffee and ice-cream floor space",
+          "value": 20.0,
+          "value_max": null,
+          "unit": "m²",
+          "context": "Including ancillary areas; approximate",
+          "status": "uncertain",
+          "ocr_raw": "coffee and ice-cream ≈ 20 m²"
+        },
+        {
+          "label": "Wine merchant and tasting floor space",
+          "value": 28.0,
+          "value_max": null,
+          "unit": "m²",
+          "context": "Including ancillary areas; approximate",
+          "status": "uncertain",
+          "ocr_raw": "wine merchant, tasting ≈ 28 m²"
+        },
+        {
+          "label": "Confectioner's floor space",
+          "value": 35.0,
+          "value_max": null,
+          "unit": "m²",
+          "context": "Including ancillary areas; approximate",
+          "status": "uncertain",
+          "ocr_raw": "confectioner's ≈ 35 m²"
+        },
+        {
+          "label": "Coffee roasting floor space",
+          "value": 28.0,
+          "value_max": null,
+          "unit": "m²",
+          "context": "Including ancillary areas; approximate",
+          "status": "uncertain",
+          "ocr_raw": "coffee roasting ≈ 28 m²"
+        },
+        {
+          "label": "Tea merchant floor space",
+          "value": 23.0,
+          "value_max": null,
+          "unit": "m²",
+          "context": "Including ancillary areas; approximate",
+          "status": "uncertain",
+          "ocr_raw": "tea merchant ≈ 23 m²"
+        },
+        {
+          "label": "Champagne bar and delicatessen floor space",
+          "value": 21.0,
+          "value_max": null,
+          "unit": "m²",
+          "context": "Including ancillary areas; approximate",
+          "status": "uncertain",
+          "ocr_raw": "champagne bar and delicatessen ≈ 21 m²"
+        },
+        {
+          "label": "Chocolates floor space",
+          "value": 25.0,
+          "value_max": null,
+          "unit": "m²",
+          "context": "Including ancillary areas; approximate",
+          "status": "uncertain",
+          "ocr_raw": "chocolates ≈ 25 m²"
+        },
+        {
+          "label": "Total operator floor space",
+          "value": 724.0,
+          "value_max": null,
+          "unit": "m²",
+          "context": "Schedule total; approximate",
+          "status": "uncertain",
+          "ocr_raw": "total ≈ 724 m²"
+        },
+        {
+          "label": "General circulation space and WCs",
+          "value": 95.0,
+          "value_max": null,
+          "unit": "m²",
+          "context": "Approximate area",
+          "status": "uncertain",
+          "ocr_raw": "General circulation space and WCs ≈ 95 m²"
+        }
+      ],
+      "figure_refs": [
+        "1 Checkout waiting zone",
+        "2 Fresh food supermarket at Hamburg main station"
+      ],
+      "cross_refs": [
+        "3 Micro-brewery and pub in fresh food supermarket"
+      ],
+      "keywords": [
+        "fresh food supermarket",
+        "Hamburg main station",
+        "checkout waiting zone",
+        "specialist shops",
+        "floor space"
+      ],
+      "tags_architectural": [
+        "circulation",
+        "adaptability"
+      ],
+      "confidence": 0.96
+    },
+    {
+      "id": "4122fb96e4bd1976-271-vision-2",
+      "pdf_page": 271,
+      "book_page": 258,
+      "chapter": "RETAIL",
+      "section": "Retail Outlets",
+      "title": "Micro-brewery and pub in fresh food supermarket",
+      "summary": "A micro-brewery and pub integrated into a fresh food supermarket. The plan labels brewing tanks and a malting mill alongside fish, a bar with steaks, and a hot-food-and-drinks counter; the restaurant and kitchen are also shown.",
+      "building_type": "Micro-brewery and pub",
+      "spaces": [
+        "Restaurant",
+        "Kitchen",
+        "Brewing area",
+        "Bar and eating area",
+        "Hot-food and drinks counter"
+      ],
+      "uses": [
+        "Brewing",
+        "Pub dining",
+        "Serving fish and steaks",
+        "Serving hot food and drinks"
+      ],
+      "furniture_equipment": [
+        "Brewing tanks",
+        "Malting mill",
+        "Bar",
+        "Hot-food and drinks counter",
+        "Restaurant tables and chairs"
+      ],
+      "dimensions": [],
+      "figure_refs": [
+        "3 Micro-brewery and pub in fresh food supermarket"
+      ],
+      "cross_refs": [
+        "1 Checkout waiting zone",
+        "2 Fresh food supermarket at Hamburg main station"
+      ],
+      "keywords": [
+        "micro-brewery",
+        "pub",
+        "supermarket",
+        "restaurant",
+        "kitchen",
+        "bar"
+      ],
+      "tags_architectural": [
+        "circulation"
+      ],
+      "confidence": 0.91
+    }
+  ]
+}

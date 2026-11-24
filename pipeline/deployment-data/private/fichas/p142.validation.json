@@ -1,0 +1,60 @@
+{
+  "model": "gpt-6-luna",
+  "checks": {
+    "checks": [
+      {
+        "ficha_index": 0,
+        "dimension_index": 0,
+        "status": "verified",
+        "value": 85.0,
+        "value_max": 100.0,
+        "reason": "The drawing text states 85\u2013100 cm above floor level or car floor level."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 1,
+        "status": "verified",
+        "value": 3.0,
+        "value_max": null,
+        "reason": "The drawing text states buttons are about 3 \u00d7 3 cm."
+      },
+      {
+        "ficha_index": 4,
+        "dimension_index": 0,
+        "status": "verified",
+        "value": 30.0,
+        "value_max": null,
+        "reason": "The drawing text states 30% more transport capacity for the same number of shafts."
+      }
+    ]
+  },
+  "automatic": [
+    {
+      "ficha_index": 0,
+      "dimension_index": 0,
+      "issues": []
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 1,
+      "issues": []
+    },
+    {
+      "ficha_index": 4,
+      "dimension_index": 0,
+      "issues": [
+        "Unknown unit"
+      ]
+    }
+  ],
+  "usage": [
+    {
+      "prompt_tokens": 4700,
+      "completion_tokens": 1497
+    },
+    {
+      "prompt_tokens": 4414,
+      "completion_tokens": 200
+    }
+  ]
+}

@@ -1,0 +1,210 @@
+{
+  "fichas": [
+    {
+      "id": "4122fb96e4bd1976-476-vision-0",
+      "pdf_page": 476,
+      "book_page": 463,
+      "chapter": "SUPPLY AND DISPOSAL",
+      "section": "Rubbish Chute Systems",
+      "title": "Rubbish Chute Systems",
+      "summary": "Multi-storey rubbish chute systems transport waste to collection rooms. They comprise a vertical drop chute with intake doors, a collection room with holding bins or presses, and ventilation. The page describes indirect and direct ventilation, chute and collection-room plans and sections, fire protection, and guideline chute dimensions by waste type. Chutes present fire, smoke, odour, dust, and noise risks; they require fire-resistant construction, suitable ventilation, controlled intake openings, cleaning access, and maintenance.",
+      "building_type": "Multi-storey buildings",
+      "spaces": [
+        "Rubbish chute shaft",
+        "Rubbish intake locations",
+        "Rubbish collection room",
+        "Ventilation system"
+      ],
+      "uses": [
+        "Transport waste from upper floors to collection bins",
+        "Collect and hold rubbish for disposal",
+        "Ventilate the chute and collection room"
+      ],
+      "furniture_equipment": [
+        "Rubbish chute",
+        "Rubbish chute intake doors",
+        "Weather hood",
+        "Chimney fan (screw ventilator)",
+        "Chimney device",
+        "Access panel",
+        "Cleaning device",
+        "Fire extinguishing system",
+        "Holding bins",
+        "Rubbish presses",
+        "Wheeled rubbish bins",
+        "Reserve container",
+        "Floor gully with odour trap",
+        "Electrical inclined lift"
+      ],
+      "dimensions": [
+        {
+          "label": "Fire extinguishing system flow",
+          "value": 2500.0,
+          "value_max": null,
+          "unit": "l/h",
+          "context": "Automatically actuated fire extinguishing system shown in the chute detail.",
+          "status": "uncertain",
+          "ocr_raw": "Automatically actuated fire extinguishing system 2500 Vh"
+        },
+        {
+          "label": "Rubbish chute cross-section",
+          "value": 40.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Square chute section; drawing notation is 40/40 cm.",
+          "status": "uncertain",
+          "ocr_raw": "Rubbish chute 40/40 cm"
+        },
+        {
+          "label": "Downpipe cross-section",
+          "value": 40.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Downpipe with sound insulation; drawing notation is 40/40 cm.",
+          "status": "uncertain",
+          "ocr_raw": "Downpipe 40/40 cm with sound insulation"
+        },
+        {
+          "label": "Collection-room extract size",
+          "value": 15.0,
+          "value_max": 20.0,
+          "unit": "cm",
+          "context": "Collection-room extract dimension shown in the shaft and collection-room details.",
+          "status": "uncertain",
+          "ocr_raw": "Collection room extract 15/20 cm"
+        },
+        {
+          "label": "Loose domestic waste chute diameter",
+          "value": 40.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Guideline chute diameter for loose domestic waste.",
+          "status": "uncertain",
+          "ocr_raw": "loose domestic waste 40"
+        },
+        {
+          "label": "Loose domestic waste ventilation",
+          "value": 25.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Guideline ventilation dimension for loose domestic waste.",
+          "status": "uncertain",
+          "ocr_raw": "loose domestic waste 25"
+        },
+        {
+          "label": "Bagged rubbish chute diameter",
+          "value": 50.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Guideline chute diameter for rubbish in sacks, 110 l.",
+          "status": "uncertain",
+          "ocr_raw": "rubbish in sacks 110 l 50"
+        },
+        {
+          "label": "Bagged rubbish ventilation",
+          "value": 30.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Guideline ventilation dimension for rubbish in sacks, 110 l.",
+          "status": "uncertain",
+          "ocr_raw": "rubbish in sacks 110 l 30"
+        },
+        {
+          "label": "Paper waste chute diameter",
+          "value": 55.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Guideline chute diameter for paper (office waste).",
+          "status": "uncertain",
+          "ocr_raw": "paper (office waste) 55"
+        },
+        {
+          "label": "Paper waste ventilation",
+          "value": 30.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Guideline ventilation dimension for paper (office waste).",
+          "status": "uncertain",
+          "ocr_raw": "paper (office waste) 30"
+        },
+        {
+          "label": "Laundry chute diameter, one-family house",
+          "value": 30.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Guideline chute diameter for laundry in a one-family house.",
+          "status": "uncertain",
+          "ocr_raw": "laundry (one-family house) 30"
+        },
+        {
+          "label": "Laundry ventilation, one-family house",
+          "value": 15.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Guideline ventilation dimension for laundry in a one-family house.",
+          "status": "uncertain",
+          "ocr_raw": "laundry (one-family house) 15"
+        },
+        {
+          "label": "Laundry chute diameter, hotels and hospitals",
+          "value": 40.0,
+          "value_max": 50.0,
+          "unit": "cm",
+          "context": "Guideline chute diameter for laundry in hotels and hospitals.",
+          "status": "uncertain",
+          "ocr_raw": "laundry (hotels, hospitals) 40–50"
+        },
+        {
+          "label": "Laundry ventilation, hotels and hospitals",
+          "value": 25.0,
+          "value_max": 30.0,
+          "unit": "cm",
+          "context": "Guideline ventilation dimension for laundry in hotels and hospitals.",
+          "status": "uncertain",
+          "ocr_raw": "laundry (hotels, hospitals) 25–30"
+        },
+        {
+          "label": "Rubbish chute fire door rating",
+          "value": 90.0,
+          "value_max": null,
+          "unit": "T",
+          "context": "Fireproof self-closing door to the rubbish collection room, marked T90.",
+          "status": "uncertain",
+          "ocr_raw": "Fireproof self-closing door (T90)"
+        }
+      ],
+      "figure_refs": [
+        "1: Rubbish chute system with downpipe and indirect ventilation",
+        "2: Rubbish chute system with downpipe and direct ventilation",
+        "3–4: Throwing rubbish in",
+        "5–6: Plans of rubbish chute shaft with indirect and direct ventilation",
+        "7: Rubbish collection room with inclined lift, section",
+        "8: Plan of rubbish collection room",
+        "9: Chute dimensions for rubbish chute systems (guideline values)"
+      ],
+      "cross_refs": [
+        "→ 1–2",
+        "→ 3–4",
+        "→ 7–8",
+        "→ 7",
+        "→ 8"
+      ],
+      "keywords": [
+        "rubbish chute",
+        "waste disposal",
+        "multi-storey buildings",
+        "collection room",
+        "ventilation",
+        "fire protection",
+        "chute dimensions",
+        "maintenance"
+      ],
+      "tags_architectural": [
+        "circulation",
+        "safety",
+        "ventilation"
+      ],
+      "confidence": 0.91
+    }
+  ]
+}

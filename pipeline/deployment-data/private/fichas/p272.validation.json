@@ -1,0 +1,47 @@
+{
+  "model": "gpt-6-luna",
+  "checks": {
+    "checks": [
+      {
+        "ficha_index": 0,
+        "dimension_index": 0,
+        "status": "verified",
+        "value": 180.0,
+        "value_max": null,
+        "reason": "The text visibly states that the direction of travel is 180\u00b0."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 1,
+        "status": "verified",
+        "value": 1000.0,
+        "value_max": null,
+        "reason": "The text visibly states approximately 1000 m\u00b2 of sales area per escalator."
+      }
+    ]
+  },
+  "automatic": [
+    {
+      "ficha_index": 0,
+      "dimension_index": 0,
+      "issues": [
+        "Unknown unit"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 1,
+      "issues": []
+    }
+  ],
+  "usage": [
+    {
+      "prompt_tokens": 4126,
+      "completion_tokens": 637
+    },
+    {
+      "prompt_tokens": 3539,
+      "completion_tokens": 138
+    }
+  ]
+}

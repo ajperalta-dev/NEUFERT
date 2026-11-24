@@ -1,0 +1,853 @@
+{
+  "model": "gpt-6-luna",
+  "checks": {
+    "checks": [
+      {
+        "ficha_index": 0,
+        "dimension_index": 0,
+        "status": "verified",
+        "value": 4.37,
+        "value_max": null,
+        "reason": "Figure 1 shows 4.37."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 1,
+        "status": "verified",
+        "value": 1.64,
+        "value_max": null,
+        "reason": "Figure 1 shows 1.64."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 2,
+        "status": "verified",
+        "value": 1.905,
+        "value_max": null,
+        "reason": "Figure 1 shows 1.905."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 3,
+        "status": "verified",
+        "value": 5.63,
+        "value_max": null,
+        "reason": "Figure 2 shows 5.63."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 4,
+        "status": "verified",
+        "value": 2.14,
+        "value_max": null,
+        "reason": "Figure 2 visibly shows 2,14; decimal comma represents 2.14."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 5,
+        "status": "verified",
+        "value": 2.105,
+        "value_max": null,
+        "reason": "Figure 2 shows 2.105."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 6,
+        "status": "verified",
+        "value": 6.54,
+        "value_max": null,
+        "reason": "Figure 3 shows 6.54."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 7,
+        "status": "verified",
+        "value": 2.37,
+        "value_max": null,
+        "reason": "Figure 3 shows 2.37."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 8,
+        "status": "verified",
+        "value": 2.185,
+        "value_max": null,
+        "reason": "Figure 3 shows 2.185."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 9,
+        "status": "verified",
+        "value": 5.21,
+        "value_max": null,
+        "reason": "Figure 4 shows 5.21."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 10,
+        "status": "verified",
+        "value": 2.34,
+        "value_max": null,
+        "reason": "Figure 4 shows 2.34."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 11,
+        "status": "verified",
+        "value": 2.75,
+        "value_max": null,
+        "reason": "Figure 4 shows 2.75."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 12,
+        "status": "verified",
+        "value": 13.8,
+        "value_max": null,
+        "reason": "Figure 4 labels the turning diameter \u00d8 13.80 m."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 13,
+        "status": "verified",
+        "value": 8.47,
+        "value_max": null,
+        "reason": "Figure 5 shows 8.47."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 14,
+        "status": "verified",
+        "value": 2.49,
+        "value_max": null,
+        "reason": "Figure 5 shows 2.49."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 15,
+        "status": "verified",
+        "value": 3.02,
+        "value_max": null,
+        "reason": "Figure 5 shows 3.02."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 16,
+        "status": "verified",
+        "value": 19.1,
+        "value_max": null,
+        "reason": "Figure 5 labels the turning diameter \u00d8 19.10 m."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 17,
+        "status": "verified",
+        "value": 10.1,
+        "value_max": null,
+        "reason": "Figure 6 shows 10.10."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 18,
+        "status": "verified",
+        "value": 2.5,
+        "value_max": null,
+        "reason": "Figure 6 shows 2.50."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 19,
+        "status": "verified",
+        "value": 2.925,
+        "value_max": null,
+        "reason": "Figure 6 shows 2.925."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 20,
+        "status": "verified",
+        "value": 20.1,
+        "value_max": null,
+        "reason": "Figure 6 labels the turning diameter \u00d8 20.10 m."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 21,
+        "status": "verified",
+        "value": 7.8,
+        "value_max": null,
+        "reason": "Figure 7 shows 7.80."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 22,
+        "status": "verified",
+        "value": 2.5,
+        "value_max": null,
+        "reason": "Figure 7 shows 2.50."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 23,
+        "status": "verified",
+        "value": 2.99,
+        "value_max": null,
+        "reason": "Figure 7 shows 2.99."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 24,
+        "status": "verified",
+        "value": 19.6,
+        "value_max": null,
+        "reason": "Figure 7 labels the turning diameter \u00d8 19.60 m."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 25,
+        "status": "verified",
+        "value": 16.5,
+        "value_max": null,
+        "reason": "Figure 8 caption gives l = 16.50 m."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 26,
+        "status": "verified",
+        "value": 4.0,
+        "value_max": null,
+        "reason": "Figure 8 shows 4.00."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 27,
+        "status": "verified",
+        "value": 16.0,
+        "value_max": null,
+        "reason": "Figure 8 labels the turning diameter \u00d8 16.0."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 28,
+        "status": "verified",
+        "value": 18.71,
+        "value_max": null,
+        "reason": "Figure 9 caption gives l = 18.71 m."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 29,
+        "status": "verified",
+        "value": 4.0,
+        "value_max": null,
+        "reason": "Figure 9 shows 4.00."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 30,
+        "status": "verified",
+        "value": 20.6,
+        "value_max": null,
+        "reason": "Figure 9 labels the turning diameter \u00d8 20.6."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 31,
+        "status": "verified",
+        "value": 18.0,
+        "value_max": null,
+        "reason": "Figure 10 caption gives l = 18 m."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 32,
+        "status": "verified",
+        "value": 2.5,
+        "value_max": null,
+        "reason": "Figure 10 caption gives w = 2.50 m."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 33,
+        "status": "verified",
+        "value": 4.0,
+        "value_max": null,
+        "reason": "Figure 10 shows 4.00."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 34,
+        "status": "verified",
+        "value": 20.0,
+        "value_max": null,
+        "reason": "Figure 10 labels the turning diameter \u00d8 20.00 m."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 35,
+        "status": "verified",
+        "value": 14.8,
+        "value_max": null,
+        "reason": "Figure 11 shows 14.80."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 36,
+        "status": "verified",
+        "value": 3.84,
+        "value_max": null,
+        "reason": "Figure 11 shows 3.84."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 37,
+        "status": "verified",
+        "value": 7.45,
+        "value_max": null,
+        "reason": "Figure 12 shows 7.45."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 38,
+        "status": "verified",
+        "value": 2.5,
+        "value_max": null,
+        "reason": "Figure 12 shows 2.50."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 39,
+        "status": "verified",
+        "value": 3.85,
+        "value_max": null,
+        "reason": "Figure 12 labels 3.85 as maximum height with arms at top of lift."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 40,
+        "status": "verified",
+        "value": 8.6,
+        "value_max": null,
+        "reason": "Figure 13 shows 8.60."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 41,
+        "status": "verified",
+        "value": 2.5,
+        "value_max": null,
+        "reason": "Figure 13 shows 2.50."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 42,
+        "status": "verified",
+        "value": 3.0,
+        "value_max": null,
+        "reason": "Figure 13 shows 3.00."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 43,
+        "status": "verified",
+        "value": 9.9,
+        "value_max": null,
+        "reason": "Figure 14 shows 9.90."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 44,
+        "status": "verified",
+        "value": 2.5,
+        "value_max": null,
+        "reason": "Figure 14 shows 2.50."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 45,
+        "status": "verified",
+        "value": 3.55,
+        "value_max": null,
+        "reason": "Figure 14 shows 3.55."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 46,
+        "status": "verified",
+        "value": 10.25,
+        "value_max": null,
+        "reason": "Figure 14 labels the turning radius R = 10.25."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 47,
+        "status": "verified",
+        "value": 11.8,
+        "value_max": null,
+        "reason": "Figure 15 caption gives l = 11.80 m."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 48,
+        "status": "verified",
+        "value": 3.92,
+        "value_max": null,
+        "reason": "Figure 15 shows 3.92."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 49,
+        "status": "verified",
+        "value": 11.5,
+        "value_max": null,
+        "reason": "Figure 16 caption gives l = 11.50 m."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 50,
+        "status": "verified",
+        "value": 3.4,
+        "value_max": null,
+        "reason": "Figure 16 shows 3.40."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 51,
+        "status": "verified",
+        "value": 21.0,
+        "value_max": null,
+        "reason": "Figure 16 labels the turning diameter \u00d8 21.0 m."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 52,
+        "status": "verified",
+        "value": 12.0,
+        "value_max": null,
+        "reason": "Figure 17 shows 12.0."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 53,
+        "status": "verified",
+        "value": 2.5,
+        "value_max": null,
+        "reason": "Figure 17 shows 2.50."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 54,
+        "status": "verified",
+        "value": 3.7,
+        "value_max": null,
+        "reason": "Figure 17 shows 3.70."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 55,
+        "status": "verified",
+        "value": 21.0,
+        "value_max": null,
+        "reason": "Figure 17 labels the turning diameter \u00d8 21 m."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 56,
+        "status": "verified",
+        "value": 13.7,
+        "value_max": null,
+        "reason": "Figure 18 shows 13.70."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 57,
+        "status": "verified",
+        "value": 2.5,
+        "value_max": null,
+        "reason": "Figure 18 shows 2.50."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 58,
+        "status": "verified",
+        "value": 3.55,
+        "value_max": null,
+        "reason": "Figure 18 shows 3.55."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 59,
+        "status": "verified",
+        "value": 22.5,
+        "value_max": null,
+        "reason": "Figure 18 labels the turning diameter \u00d8 22.5 m."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 60,
+        "status": "verified",
+        "value": 17.99,
+        "value_max": null,
+        "reason": "Figure 19 shows 17.99."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 61,
+        "status": "verified",
+        "value": 2.5,
+        "value_max": null,
+        "reason": "Figure 19 caption gives w = 2.50 m."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 62,
+        "status": "verified",
+        "value": 3.05,
+        "value_max": null,
+        "reason": "Figure 19 shows 3.05 for the interior height."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 63,
+        "status": "verified",
+        "value": 21.23,
+        "value_max": null,
+        "reason": "Figure 19 labels the turning diameter \u00d8 21.23 m."
+      }
+    ]
+  },
+  "automatic": [
+    {
+      "ficha_index": 0,
+      "dimension_index": 0,
+      "issues": []
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 1,
+      "issues": []
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 2,
+      "issues": []
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 3,
+      "issues": []
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 4,
+      "issues": [
+        "European decimal comma; check transcription"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 5,
+      "issues": []
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 6,
+      "issues": []
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 7,
+      "issues": []
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 8,
+      "issues": []
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 9,
+      "issues": []
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 10,
+      "issues": []
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 11,
+      "issues": []
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 12,
+      "issues": []
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 13,
+      "issues": []
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 14,
+      "issues": []
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 15,
+      "issues": []
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 16,
+      "issues": []
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 17,
+      "issues": []
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 18,
+      "issues": []
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 19,
+      "issues": []
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 20,
+      "issues": []
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 21,
+      "issues": []
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 22,
+      "issues": []
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 23,
+      "issues": []
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 24,
+      "issues": []
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 25,
+      "issues": []
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 26,
+      "issues": []
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 27,
+      "issues": []
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 28,
+      "issues": []
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 29,
+      "issues": []
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 30,
+      "issues": []
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 31,
+      "issues": []
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 32,
+      "issues": []
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 33,
+      "issues": []
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 34,
+      "issues": []
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 35,
+      "issues": []
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 36,
+      "issues": []
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 37,
+      "issues": []
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 38,
+      "issues": []
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 39,
+      "issues": []
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 40,
+      "issues": []
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 41,
+      "issues": []
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 42,
+      "issues": []
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 43,
+      "issues": []
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 44,
+      "issues": []
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 45,
+      "issues": []
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 46,
+      "issues": []
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 47,
+      "issues": []
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 48,
+      "issues": []
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 49,
+      "issues": []
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 50,
+      "issues": []
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 51,
+      "issues": []
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 52,
+      "issues": []
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 53,
+      "issues": []
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 54,
+      "issues": []
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 55,
+      "issues": []
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 56,
+      "issues": []
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 57,
+      "issues": []
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 58,
+      "issues": []
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 59,
+      "issues": []
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 60,
+      "issues": []
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 61,
+      "issues": []
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 62,
+      "issues": []
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 63,
+      "issues": []
+    }
+  ],
+  "usage": [
+    {
+      "prompt_tokens": 4090,
+      "completion_tokens": 2919
+    },
+    {
+      "prompt_tokens": 7104,
+      "completion_tokens": 2463
+    }
+  ]
+}

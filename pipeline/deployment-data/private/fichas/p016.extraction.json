@@ -1,0 +1,567 @@
+{
+  "fichas": [
+    {
+      "id": "4122fb96e4bd1976-16-vision-0",
+      "pdf_page": 16,
+      "book_page": 3,
+      "chapter": "BASICS",
+      "section": "Units",
+      "title": "Units of Measurement in Building",
+      "summary": "Reference table of SI, statutory, and older units used in building measurement, including symbols and conversion factors. The text states that the international system of measurement with SI units has been valid since 1 January 1978.",
+      "building_type": "Reference standard",
+      "spaces": [],
+      "uses": [
+        "Identify SI and statutory units used in building measurement",
+        "Convert between SI, statutory, and older units"
+      ],
+      "furniture_equipment": [],
+      "dimensions": [
+        {
+          "label": "SI units valid since",
+          "value": 1.0,
+          "value_max": null,
+          "unit": "date (January)",
+          "context": "The international system of measurement with SI units has been valid since 1 January 1978.",
+          "status": "uncertain",
+          "ocr_raw": "valid since 1 January 1978"
+        },
+        {
+          "label": "Radian to metre-per-metre",
+          "value": 1.0,
+          "value_max": null,
+          "unit": "m/m",
+          "context": "Normal angle conversion: 1 rad = 1 m/m = 57.296° = 63.662 gon.",
+          "status": "uncertain",
+          "ocr_raw": "1 rad = 1 m/m = 57.296° = 63.662 gon"
+        },
+        {
+          "label": "Radian in degrees",
+          "value": 57.296,
+          "value_max": null,
+          "unit": "degrees",
+          "context": "Normal angle conversion; the same expression gives 63.662 gon.",
+          "status": "uncertain",
+          "ocr_raw": "1 rad = 1 m/m = 57.296° = 63.662 gon"
+        },
+        {
+          "label": "Radian in gon",
+          "value": 63.662,
+          "value_max": null,
+          "unit": "gon",
+          "context": "Normal angle conversion; the same expression gives 57.296°.",
+          "status": "uncertain",
+          "ocr_raw": "1 rad = 1 m/m = 57.296° = 63.662 gon"
+        },
+        {
+          "label": "Round angle",
+          "value": 2.0,
+          "value_max": null,
+          "unit": "π rad",
+          "context": "1 pla = 2π rad.",
+          "status": "uncertain",
+          "ocr_raw": "1 pla = 2 π rad"
+        },
+        {
+          "label": "Right angle",
+          "value": 0.5,
+          "value_max": null,
+          "unit": "π rad",
+          "context": "1 L = ¼ pla = (π/2) rad.",
+          "status": "uncertain",
+          "ocr_raw": "1 L = ¼ pla = (π/2) rad"
+        },
+        {
+          "label": "Degree in radians",
+          "value": 1.0,
+          "value_max": null,
+          "unit": "π/180 rad",
+          "context": "1° = 1L/90 = 1 pla/360 = π/180 rad.",
+          "status": "uncertain",
+          "ocr_raw": "1° = 1L/90 = 1 pla/360 = π/180 rad"
+        },
+        {
+          "label": "Gon in radians",
+          "value": 1.0,
+          "value_max": null,
+          "unit": "π/200 rad",
+          "context": "1 gon = 1 g = 1L/100 = 1 pla/400 = π/200 rad.",
+          "status": "uncertain",
+          "ocr_raw": "1 gon = 1 g = 1L/100 = 1 pla/400 = π/200 rad"
+        },
+        {
+          "label": "Centimetre-angle conversion",
+          "value": 0.01,
+          "value_max": null,
+          "unit": "gon",
+          "context": "1 c = 10⁻² gon.",
+          "status": "uncertain",
+          "ocr_raw": "1 c = 10⁻² gon"
+        },
+        {
+          "label": "Second-angle conversion",
+          "value": 0.0001,
+          "value_max": null,
+          "unit": "gon",
+          "context": "1 cc = (10⁻²)c = 10⁻⁴ gon.",
+          "status": "uncertain",
+          "ocr_raw": "1 cc = (10⁻²) c = 10⁻⁴ gon"
+        },
+        {
+          "label": "Inch",
+          "value": 25.4,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Length conversion: 1 in = 25.4 mm.",
+          "status": "uncertain",
+          "ocr_raw": "1 in = 25.4 mm"
+        },
+        {
+          "label": "Foot",
+          "value": 30.48,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Length conversion: 1 ft = 30.48 cm.",
+          "status": "uncertain",
+          "ocr_raw": "1 ft = 30.48 cm"
+        },
+        {
+          "label": "Fathom",
+          "value": 1.8288,
+          "value_max": null,
+          "unit": "m",
+          "context": "Length conversion: 1 fathom = 1.8288 m.",
+          "status": "uncertain",
+          "ocr_raw": "1 fathom = 1.8288 m"
+        },
+        {
+          "label": "Mile",
+          "value": 1609.344,
+          "value_max": null,
+          "unit": "m",
+          "context": "Length conversion: 1 mile = 1609.344 m.",
+          "status": "uncertain",
+          "ocr_raw": "1 mile = 1609.344 m"
+        },
+        {
+          "label": "Sea mile",
+          "value": 1.852,
+          "value_max": null,
+          "unit": "km",
+          "context": "Length conversion: 1 sm = 1.852 km.",
+          "status": "uncertain",
+          "ocr_raw": "1 sm = 1.852 km"
+        },
+        {
+          "label": "Are",
+          "value": 100.0,
+          "value_max": null,
+          "unit": "m²",
+          "context": "Area conversion: 1 a = 10² m².",
+          "status": "uncertain",
+          "ocr_raw": "1 a = 10² m²"
+        },
+        {
+          "label": "Hectare",
+          "value": 10000.0,
+          "value_max": null,
+          "unit": "m²",
+          "context": "Area conversion: 1 ha = 10⁴ m².",
+          "status": "uncertain",
+          "ocr_raw": "1 ha = 10⁴ m²"
+        },
+        {
+          "label": "Litre",
+          "value": 1.0,
+          "value_max": null,
+          "unit": "dm³",
+          "context": "Volume conversion: 1 l = 1 dm³ = 10⁻³ m³.",
+          "status": "uncertain",
+          "ocr_raw": "1 l = 1 dm³ = 10⁻³ m³"
+        },
+        {
+          "label": "Litre",
+          "value": 0.001,
+          "value_max": null,
+          "unit": "m³",
+          "context": "Volume conversion: 1 l = 1 dm³ = 10⁻³ m³.",
+          "status": "uncertain",
+          "ocr_raw": "1 l = 1 dm³ = 10⁻³ m³"
+        },
+        {
+          "label": "Normal cubic metre",
+          "value": 1.0,
+          "value_max": null,
+          "unit": "m³ in normal condition",
+          "context": "1 Nm³ = 1 m³ in normal condition.",
+          "status": "uncertain",
+          "ocr_raw": "1 Nm³ = 1 m³ in normal condition"
+        },
+        {
+          "label": "Minute",
+          "value": 60.0,
+          "value_max": null,
+          "unit": "s",
+          "context": "Time conversion: 1 min = 60 s.",
+          "status": "uncertain",
+          "ocr_raw": "1 min = 60 s"
+        },
+        {
+          "label": "Hour",
+          "value": 3600.0,
+          "value_max": null,
+          "unit": "s",
+          "context": "Time conversion: 1 h = 60 min = 3600 s.",
+          "status": "uncertain",
+          "ocr_raw": "1 h = 60 min = 3600 s"
+        },
+        {
+          "label": "Day",
+          "value": 86400.0,
+          "value_max": null,
+          "unit": "s",
+          "context": "Time conversion: 1 d = 24 h = 86 400 s.",
+          "status": "uncertain",
+          "ocr_raw": "1 d = 24 h = 86 400 s"
+        },
+        {
+          "label": "Year",
+          "value": 8765.8,
+          "value_max": null,
+          "unit": "h",
+          "context": "Time conversion: 1 a = 8765.8 h = 31.557 × 10⁶ s.",
+          "status": "uncertain",
+          "ocr_raw": "1 a = 8765.8 h = 31.557 × 10⁶ s"
+        },
+        {
+          "label": "Year",
+          "value": 31.557,
+          "value_max": null,
+          "unit": "10⁶ s",
+          "context": "Time conversion: 1 a = 8765.8 h = 31.557 × 10⁶ s.",
+          "status": "uncertain",
+          "ocr_raw": "1 a = 8765.8 h = 31.557 × 10⁶ s"
+        },
+        {
+          "label": "Hertz",
+          "value": 1.0,
+          "value_max": null,
+          "unit": "1/s",
+          "context": "Frequency conversion; the table notes this expression is for frequencies in dimensional equations.",
+          "status": "uncertain",
+          "ocr_raw": "1 Hz = 1/s for the expression of frequencies in dimensional equations"
+        },
+        {
+          "label": "Metre per second",
+          "value": 3.6,
+          "value_max": null,
+          "unit": "km/h",
+          "context": "Velocity conversion: 1 m/s = 3.6 km/h.",
+          "status": "uncertain",
+          "ocr_raw": "1 m/s = 3.6 km/h"
+        },
+        {
+          "label": "Knot",
+          "value": 1.852,
+          "value_max": null,
+          "unit": "mph",
+          "context": "Velocity conversion: 1 kn = 1 sm/h = 1.852 mph.",
+          "status": "uncertain",
+          "ocr_raw": "1 kn = 1 sm/h = 1.852 mph"
+        },
+        {
+          "label": "Gal",
+          "value": 0.01,
+          "value_max": null,
+          "unit": "m/s²",
+          "context": "Acceleration conversion: 1 gal = 1 cm/s² = 10⁻² m/s².",
+          "status": "uncertain",
+          "ocr_raw": "1 gal = 1 cm/s² = 10⁻² m/s²"
+        },
+        {
+          "label": "Gram",
+          "value": 0.001,
+          "value_max": null,
+          "unit": "kg",
+          "context": "Mass conversion: 1 g = 10⁻³ kg.",
+          "status": "uncertain",
+          "ocr_raw": "1 g = 10⁻³ kg"
+        },
+        {
+          "label": "Tonne",
+          "value": 1000.0,
+          "value_max": null,
+          "unit": "kg",
+          "context": "Mass conversion: 1 t = 1 Mg = 10³ kg.",
+          "status": "uncertain",
+          "ocr_raw": "1 t = 1 Mg = 10³ kg"
+        },
+        {
+          "label": "Pound",
+          "value": 0.45359237,
+          "value_max": null,
+          "unit": "kg",
+          "context": "Mass conversion: 1 lb = 0.45359237 kg.",
+          "status": "uncertain",
+          "ocr_raw": "1 lb = 0.45359237 kg"
+        },
+        {
+          "label": "Metric hundredweight",
+          "value": 50.0,
+          "value_max": null,
+          "unit": "kg",
+          "context": "Mass conversion: 1 cwt (metric) = 50 kg.",
+          "status": "uncertain",
+          "ocr_raw": "1 cwt (metric) = 50 kg"
+        },
+        {
+          "label": "Newton",
+          "value": 1.0,
+          "value_max": null,
+          "unit": "kg·m/s²",
+          "context": "Force conversion: 1 N = 1 kg/m/s² = 1 Ws/m = 1 J/m.",
+          "status": "uncertain",
+          "ocr_raw": "1 N = 1 kg/m/s² = 1 Ws/m = 1 J/m"
+        },
+        {
+          "label": "Dyne",
+          "value": 0.00001,
+          "value_max": null,
+          "unit": "N",
+          "context": "Force conversion: 1 dyn = 1 g·cm/s² = 10⁻⁵ N.",
+          "status": "uncertain",
+          "ocr_raw": "1 dyn = 1 g cm/s² = 10⁻⁵ N"
+        },
+        {
+          "label": "Pond",
+          "value": 0.00980665,
+          "value_max": null,
+          "unit": "N",
+          "context": "Force conversion: 1 p = 9.80665 × 10⁻³ N.",
+          "status": "uncertain",
+          "ocr_raw": "1 p = 9.80665 × 10⁻³ N"
+        },
+        {
+          "label": "Kilopond",
+          "value": 9.80665,
+          "value_max": null,
+          "unit": "N",
+          "context": "Force conversion: 1 kp = 9.80665 N.",
+          "status": "uncertain",
+          "ocr_raw": "1 kp = 9.80665 N"
+        },
+        {
+          "label": "Megapond",
+          "value": 9806.65,
+          "value_max": null,
+          "unit": "N",
+          "context": "Force conversion: 1 Mp = 9806.65 N.",
+          "status": "uncertain",
+          "ocr_raw": "1 Mp = 9806.65 N"
+        },
+        {
+          "label": "Kilogram force",
+          "value": 9.80665,
+          "value_max": null,
+          "unit": "N",
+          "context": "Force conversion: 1 kg = 9.80665 N.",
+          "status": "uncertain",
+          "ocr_raw": "1 kg = 9.80665 N"
+        },
+        {
+          "label": "Tonne force",
+          "value": 9806.65,
+          "value_max": null,
+          "unit": "N",
+          "context": "Force conversion: 1 t = 9806.65 N.",
+          "status": "uncertain",
+          "ocr_raw": "1 t = 9806.65 N"
+        },
+        {
+          "label": "Kilopond per square centimetre",
+          "value": 0.0980665,
+          "value_max": null,
+          "unit": "N/mm²",
+          "context": "Stress conversion: 1 kp/cm² = 0.0980665 N/mm².",
+          "status": "uncertain",
+          "ocr_raw": "1 kp/cm² = 0.0980665 N/mm²"
+        },
+        {
+          "label": "Kilopond per square millimetre",
+          "value": 9.80665,
+          "value_max": null,
+          "unit": "N/mm²",
+          "context": "Stress conversion: 1 kp/mm² = 9.80665 N/mm².",
+          "status": "uncertain",
+          "ocr_raw": "1 kp/mm² = 9.80665 N/mm²"
+        },
+        {
+          "label": "Joule",
+          "value": 1.0,
+          "value_max": null,
+          "unit": "N·m",
+          "context": "Energy conversion: 1 J = 1 Nm = 1 Ws = 10⁷ erg.",
+          "status": "uncertain",
+          "ocr_raw": "1 J = 1 Nm = 1 Ws = 10⁷ erg"
+        },
+        {
+          "label": "Joule",
+          "value": 10000000.0,
+          "value_max": null,
+          "unit": "erg",
+          "context": "Energy conversion: 1 J = 1 Nm = 1 Ws = 10⁷ erg.",
+          "status": "uncertain",
+          "ocr_raw": "1 J = 1 Nm = 1 Ws = 10⁷ erg"
+        },
+        {
+          "label": "Kilowatt-hour",
+          "value": 3.6,
+          "value_max": null,
+          "unit": "MJ",
+          "context": "Energy conversion: 1 kWh = 3.6 × 10⁶ J = 3.6 MJ.",
+          "status": "uncertain",
+          "ocr_raw": "1 kWh = 3.6 × 10⁶ J = 3.6 MJ"
+        },
+        {
+          "label": "Horsepower-hour",
+          "value": 2.6478,
+          "value_max": null,
+          "unit": "10⁶ J",
+          "context": "Energy conversion as printed in the table.",
+          "status": "uncertain",
+          "ocr_raw": "1 h.p. = 2.64780 × 10⁶ J"
+        },
+        {
+          "label": "Erg",
+          "value": 1e-7,
+          "value_max": null,
+          "unit": "J",
+          "context": "Energy conversion: 1 erg = 10⁻⁷ J.",
+          "status": "uncertain",
+          "ocr_raw": "1 erg = 10⁻⁷ J"
+        },
+        {
+          "label": "Calorie",
+          "value": 4.1888,
+          "value_max": null,
+          "unit": "J",
+          "context": "Energy conversion: 1 cal = 4.1888 J = 1.163 × 10⁻³ Wh.",
+          "status": "uncertain",
+          "ocr_raw": "1 cal = 4.1888 J = 1.163 × 10⁻³ Wh"
+        },
+        {
+          "label": "Kilopond metre",
+          "value": 9.80665,
+          "value_max": null,
+          "unit": "J",
+          "context": "Energy conversion: 1 kpm = 9.80665 J.",
+          "status": "uncertain",
+          "ocr_raw": "1 kpm = 9.80665 J"
+        },
+        {
+          "label": "Watt",
+          "value": 1.0,
+          "value_max": null,
+          "unit": "J/s",
+          "context": "Power conversion: 1 W = 1 J/s = 1 N·m/s = 1 kg·m²/s³.",
+          "status": "uncertain",
+          "ocr_raw": "1 W = 1 J/s = 1 N m/s = 1 kg m²/s³"
+        },
+        {
+          "label": "Horsepower",
+          "value": 0.73549675,
+          "value_max": null,
+          "unit": "kW",
+          "context": "Power conversion: 1 h.p. = 0.73549675 kW.",
+          "status": "uncertain",
+          "ocr_raw": "1 h.p. = 0.73549675 kW"
+        },
+        {
+          "label": "Degree Rankine",
+          "value": 5.0,
+          "value_max": null,
+          "unit": "9 K",
+          "context": "Temperature conversion: 1°R = 5/9 K.",
+          "status": "uncertain",
+          "ocr_raw": "1°R = 5/9 K"
+        },
+        {
+          "label": "Reference temperature",
+          "value": 273.15,
+          "value_max": null,
+          "unit": "K",
+          "context": "Temperature expression printed in the table: θ = T − T₀; T₀ = 273.15 K.",
+          "status": "uncertain",
+          "ocr_raw": "θ = T - T₀  T₀ = 273.15 K"
+        },
+        {
+          "label": "Temperature interval",
+          "value": 1.0,
+          "value_max": null,
+          "unit": "K per degree Celsius",
+          "context": "The table states: 1 K = 1°C = 1 degree, to be used in equations.",
+          "status": "uncertain",
+          "ocr_raw": "1 K = 1°C = 1 degree to be used in equations"
+        },
+        {
+          "label": "Fahrenheit conversion multiplier",
+          "value": 9.0,
+          "value_max": null,
+          "unit": "5",
+          "context": "Temperature conversion printed as θF = 9/5 θ + 32 = 9/5 T − 459.67.",
+          "status": "uncertain",
+          "ocr_raw": "θF = 9/5 θ + 32 = 9/5 T - 459.67"
+        },
+        {
+          "label": "Fahrenheit conversion offset",
+          "value": 32.0,
+          "value_max": null,
+          "unit": "°F",
+          "context": "Temperature conversion printed as θF = 9/5 θ + 32 = 9/5 T − 459.67.",
+          "status": "uncertain",
+          "ocr_raw": "θF = 9/5 θ + 32 = 9/5 T - 459.67"
+        },
+        {
+          "label": "Fahrenheit conversion offset",
+          "value": 459.67,
+          "value_max": null,
+          "unit": "°F",
+          "context": "Temperature conversion printed as θF = 9/5 θ + 32 = 9/5 T − 459.67.",
+          "status": "uncertain",
+          "ocr_raw": "θF = 9/5 θ + 32 = 9/5 T - 459.67"
+        },
+        {
+          "label": "Réaumur conversion multiplier",
+          "value": 4.0,
+          "value_max": null,
+          "unit": "5",
+          "context": "Temperature conversion printed as θR = 4/5 θ; 1°R = 5/4 °C.",
+          "status": "uncertain",
+          "ocr_raw": "θR = 4/5 θ, 1°R = 5/4 °C"
+        },
+        {
+          "label": "Réaumur degree in Celsius",
+          "value": 5.0,
+          "value_max": null,
+          "unit": "4 °C",
+          "context": "Temperature conversion: 1°R = 5/4 °C.",
+          "status": "uncertain",
+          "ocr_raw": "1°R = 5/4 °C"
+        }
+      ],
+      "figure_refs": [
+        "1"
+      ],
+      "cross_refs": [],
+      "keywords": [
+        "SI units",
+        "statutory units",
+        "measurement",
+        "conversion factors",
+        "building standards",
+        "units of measurement"
+      ],
+      "tags_architectural": [],
+      "confidence": 0.94
+    }
+  ]
+}

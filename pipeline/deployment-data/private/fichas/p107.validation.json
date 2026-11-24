@@ -1,0 +1,604 @@
+{
+  "model": "gpt-6-luna",
+  "checks": {
+    "checks": [
+      {
+        "ficha_index": 0,
+        "dimension_index": 0,
+        "status": "verified",
+        "value": null,
+        "value_max": null,
+        "reason": "The drawing states that gabled roofs should not exceed 25\u00b0."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 1,
+        "status": "verified",
+        "value": 2.0,
+        "value_max": 3.0,
+        "reason": "The drawing states a maximum flat-roof slope of 2\u20133%."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 2,
+        "status": "verified",
+        "value": null,
+        "value_max": null,
+        "reason": "The first profile states growth height >250 cm."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 3,
+        "status": "verified",
+        "value": null,
+        "value_max": null,
+        "reason": "The second profile states growth height up to 250 cm."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 4,
+        "status": "verified",
+        "value": 5.0,
+        "value_max": 25.0,
+        "reason": "The third profile states growth height 5\u201325 cm."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 5,
+        "status": "verified",
+        "value": 5.0,
+        "value_max": 20.0,
+        "reason": "The fourth profile states growth height 5\u201320 cm."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 6,
+        "status": "verified",
+        "value": 5.0,
+        "value_max": 20.0,
+        "reason": "The fifth profile states growth height 5\u201320 cm."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 7,
+        "status": "verified",
+        "value": 5.0,
+        "value_max": 10.0,
+        "reason": "The sixth profile states growth height 5\u201310 cm."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 8,
+        "status": "verified",
+        "value": null,
+        "value_max": null,
+        "reason": "The first profile states build-up height >35 cm."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 9,
+        "status": "verified",
+        "value": 19.0,
+        "value_max": 35.0,
+        "reason": "The second profile states build-up height 19\u201335 cm."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 10,
+        "status": "verified",
+        "value": null,
+        "value_max": null,
+        "reason": "The third profile states build-up height 14 cm."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 11,
+        "status": "verified",
+        "value": null,
+        "value_max": null,
+        "reason": "The fourth and fifth profiles state build-up height 12 cm."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 12,
+        "status": "verified",
+        "value": null,
+        "value_max": null,
+        "reason": "The sixth profile states build-up height 10 cm."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 13,
+        "status": "verified",
+        "value": null,
+        "value_max": null,
+        "reason": "The first profile states surface loading 3.7 kN/m\u00b2."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 14,
+        "status": "verified",
+        "value": 1.9,
+        "value_max": 3.7,
+        "reason": "The second profile states surface loading 1.9\u20133.7 kN/m\u00b2."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 15,
+        "status": "verified",
+        "value": null,
+        "value_max": null,
+        "reason": "The third profile states surface loading 1.4 kN/m\u00b2."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 16,
+        "status": "verified",
+        "value": null,
+        "value_max": null,
+        "reason": "The fourth profile states surface loading 1.1 kN/m\u00b2."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 17,
+        "status": "verified",
+        "value": null,
+        "value_max": null,
+        "reason": "The fifth profile states surface loading 1.15 kN/m\u00b2."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 18,
+        "status": "verified",
+        "value": null,
+        "value_max": null,
+        "reason": "The sixth profile states surface loading 0.9 kN/m\u00b2."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 19,
+        "status": "verified",
+        "value": null,
+        "value_max": null,
+        "reason": "The first profile states water supply 170 l/m\u00b2."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 20,
+        "status": "verified",
+        "value": 80.0,
+        "value_max": 170.0,
+        "reason": "The second profile states water supply 80\u2013170 l/m\u00b2."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 21,
+        "status": "verified",
+        "value": null,
+        "value_max": null,
+        "reason": "The third profile states water supply 60 l/m\u00b2."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 22,
+        "status": "verified",
+        "value": null,
+        "value_max": null,
+        "reason": "The fourth profile states water supply 45 l/m\u00b2."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 23,
+        "status": "verified",
+        "value": null,
+        "value_max": null,
+        "reason": "The fifth profile states water supply 40 l/m\u00b2."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 24,
+        "status": "verified",
+        "value": null,
+        "value_max": null,
+        "reason": "The sixth profile states water supply 30 l/m\u00b2."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 25,
+        "status": "verified",
+        "value": null,
+        "value_max": null,
+        "reason": "The first profile states soil mixture 23 cm."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 26,
+        "status": "verified",
+        "value": 7.0,
+        "value_max": 23.0,
+        "reason": "The second profile states soil mixture 7\u201323 cm."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 27,
+        "status": "verified",
+        "value": null,
+        "value_max": null,
+        "reason": "The third profile states soil mixture 5 cm."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 28,
+        "status": "corrected",
+        "value": 4.0,
+        "value_max": 7.0,
+        "reason": "The drawing gives 4 cm for the fourth profile and 7 cm for the fifth; the proposed shared value did not capture both printed thicknesses."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 29,
+        "status": "verified",
+        "value": null,
+        "value_max": null,
+        "reason": "The sixth profile states soil mixture 4 cm."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 30,
+        "status": "verified",
+        "value": null,
+        "value_max": null,
+        "reason": "The first and second profiles state drainage layer 12 cm."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 31,
+        "status": "verified",
+        "value": null,
+        "value_max": null,
+        "reason": "The third profile states drainage layer 9 cm."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 32,
+        "status": "verified",
+        "value": null,
+        "value_max": null,
+        "reason": "The fourth and fifth profiles state drainage layer 7 cm."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 33,
+        "status": "verified",
+        "value": null,
+        "value_max": null,
+        "reason": "The sixth profile states drainage layer 5 cm."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 34,
+        "status": "verified",
+        "value": null,
+        "value_max": null,
+        "reason": "The species table lists Saxifraga aizoon at 5 cm."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 35,
+        "status": "verified",
+        "value": null,
+        "value_max": null,
+        "reason": "The species table lists Sedum acre at 8 cm."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 36,
+        "status": "verified",
+        "value": null,
+        "value_max": null,
+        "reason": "The species table lists Sedum album at 5 cm."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 37,
+        "status": "verified",
+        "value": null,
+        "value_max": null,
+        "reason": "The species table lists Sedum album \u2018Laconicum\u2019 at 10 cm."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 38,
+        "status": "verified",
+        "value": null,
+        "value_max": null,
+        "reason": "The species table lists Sedum album \u2018Murale\u2019 at 8 cm."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 39,
+        "status": "verified",
+        "value": null,
+        "value_max": null,
+        "reason": "The species table lists Sedum hybr. at 8 cm."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 40,
+        "status": "verified",
+        "value": null,
+        "value_max": null,
+        "reason": "The species table lists Sedum floriferum at 10 cm."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 41,
+        "status": "verified",
+        "value": null,
+        "value_max": null,
+        "reason": "The species table lists Sedum reflexum \u2018Elegant\u2019 at 12 cm."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 42,
+        "status": "verified",
+        "value": null,
+        "value_max": null,
+        "reason": "The species table lists Sempervivum arachnoideum at 6 cm."
+      }
+    ]
+  },
+  "automatic": [
+    {
+      "ficha_index": 0,
+      "dimension_index": 0,
+      "issues": []
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 1,
+      "issues": [
+        "Unknown unit"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 2,
+      "issues": []
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 3,
+      "issues": []
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 4,
+      "issues": []
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 5,
+      "issues": []
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 6,
+      "issues": []
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 7,
+      "issues": []
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 8,
+      "issues": []
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 9,
+      "issues": []
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 10,
+      "issues": []
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 11,
+      "issues": []
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 12,
+      "issues": []
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 13,
+      "issues": [
+        "Unknown unit"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 14,
+      "issues": [
+        "Unknown unit"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 15,
+      "issues": [
+        "Unknown unit"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 16,
+      "issues": [
+        "Unknown unit"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 17,
+      "issues": [
+        "Unknown unit"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 18,
+      "issues": [
+        "Unknown unit"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 19,
+      "issues": [
+        "Unknown unit"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 20,
+      "issues": [
+        "Unknown unit"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 21,
+      "issues": [
+        "Unknown unit"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 22,
+      "issues": [
+        "Unknown unit"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 23,
+      "issues": [
+        "Unknown unit"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 24,
+      "issues": [
+        "Unknown unit"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 25,
+      "issues": []
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 26,
+      "issues": []
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 27,
+      "issues": []
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 28,
+      "issues": []
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 29,
+      "issues": []
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 30,
+      "issues": []
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 31,
+      "issues": []
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 32,
+      "issues": []
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 33,
+      "issues": []
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 34,
+      "issues": []
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 35,
+      "issues": []
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 36,
+      "issues": []
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 37,
+      "issues": []
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 38,
+      "issues": []
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 39,
+      "issues": []
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 40,
+      "issues": []
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 41,
+      "issues": []
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 42,
+      "issues": []
+    }
+  ],
+  "usage": [
+    {
+      "prompt_tokens": 4659,
+      "completion_tokens": 2265
+    },
+    {
+      "prompt_tokens": 6350,
+      "completion_tokens": 1988
+    }
+  ]
+}

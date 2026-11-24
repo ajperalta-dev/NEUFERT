@@ -1,0 +1,189 @@
+{
+  "fichas": [
+    {
+      "id": "4122fb96e4bd1976-105-vision-0",
+      "pdf_page": 105,
+      "book_page": 92,
+      "chapter": "BUILDING COMPONENTS",
+      "section": "Roofs",
+      "title": "Flat roof construction systems",
+      "summary": "Flat roofs are described as either non-ventilated single-layer warm roofs or ventilated two-layer cold roofs. Warm roof variants include conventional construction, upside-down roofs, plus roofs, and roofs with internal insulation. Cold roofs require functional through-ventilation and a defect-free vapour barrier on the interior side; otherwise moisture may accumulate.",
+      "building_type": "Flat roof",
+      "spaces": [],
+      "uses": [
+        "Roof construction",
+        "Waterproofing",
+        "Thermal insulation",
+        "Moisture control"
+      ],
+      "furniture_equipment": [],
+      "dimensions": [
+        {
+          "label": "Roof slope",
+          "value": 2.0,
+          "value_max": null,
+          "unit": "%",
+          "context": "Roof surface slope shown in the roof details; the printed notation indicates a minimum.",
+          "status": "uncertain",
+          "ocr_raw": "≥ 2%"
+        }
+      ],
+      "figure_refs": [
+        "6 Cold roof above reinforced concrete slab",
+        "7 Cold roof in timber construction",
+        "8 Upside-down roof",
+        "9 Watertight concrete roof with internal insulation",
+        "10 Standard construction of a warm roof with heavy surface protection and multi-layer waterproofing"
+      ],
+      "cross_refs": [
+        "p. 91",
+        "pp. 471 ff."
+      ],
+      "keywords": [
+        "flat roof",
+        "warm roof",
+        "cold roof",
+        "upside-down roof",
+        "ventilation",
+        "vapour barrier",
+        "waterproofing"
+      ],
+      "tags_architectural": [
+        "ventilation",
+        "daylighting",
+        "safety"
+      ],
+      "confidence": 0.96
+    },
+    {
+      "id": "4122fb96e4bd1976-105-vision-1",
+      "pdf_page": 105,
+      "book_page": 92,
+      "chapter": "BUILDING COMPONENTS",
+      "section": "Roofs",
+      "title": "Standard warm roof with heavy surface protection",
+      "summary": "The standard warm roof is a composite, non-ventilated construction. Its layers include a structural slab, separation or compensation layer, thermal insulation, vapour-pressure compensation layer, waterproofing, and surface protection. Heavy surface protection may use gravel, paving slabs, or an extensive green roof; protective layers help guard the waterproofing against mechanical stress and UV damage.",
+      "building_type": "Flat roof",
+      "spaces": [],
+      "uses": [
+        "Roof construction",
+        "Thermal insulation",
+        "Waterproofing",
+        "Surface protection"
+      ],
+      "furniture_equipment": [],
+      "dimensions": [
+        {
+          "label": "Gravel surface protection depth",
+          "value": 5.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "The text specifies a gravel layer depth of at least 5 cm.",
+          "status": "uncertain",
+          "ocr_raw": "gravel layer – depth ≥5 cm"
+        },
+        {
+          "label": "Washed gravel size",
+          "value": 15.0,
+          "value_max": 32.0,
+          "unit": "mm",
+          "context": "Washed gravel surface protection; the printed size range is 15/32.",
+          "status": "uncertain",
+          "ocr_raw": "washed gravel 15/32"
+        },
+        {
+          "label": "Washed gravel depth",
+          "value": 50.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Surface protection detail; printed as d = 50 mm.",
+          "status": "uncertain",
+          "ocr_raw": "d = 50 mm"
+        },
+        {
+          "label": "Paving slab bed depth",
+          "value": 30.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Paving slabs bedded in gravel; printed as d = 30 mm.",
+          "status": "uncertain",
+          "ocr_raw": "d = 30 mm"
+        }
+      ],
+      "figure_refs": [
+        "10 Standard construction of a warm roof with heavy surface protection and multi-layer waterproofing"
+      ],
+      "cross_refs": [],
+      "keywords": [
+        "warm roof",
+        "gravel",
+        "paving slabs",
+        "waterproofing",
+        "thermal insulation",
+        "vapour-pressure compensation"
+      ],
+      "tags_architectural": [
+        "ventilation",
+        "safety"
+      ],
+      "confidence": 0.95
+    },
+    {
+      "id": "4122fb96e4bd1976-105-vision-2",
+      "pdf_page": 105,
+      "book_page": 92,
+      "chapter": "BUILDING COMPONENTS",
+      "section": "Roofs",
+      "title": "Flat roof edge, outlet, and terrace connection details",
+      "summary": "The illustrated flat-roof details show parapets with coping, wall connections, roof edges, drains, and terrace connections. Labels identify flashing, clamping rails, glued-flange outlets, gravel traps, raising pieces, and grating supports. The details use a sloped roof surface to direct water toward drainage points.",
+      "building_type": "Flat roof",
+      "spaces": [
+        "Roof edge",
+        "Terrace connection",
+        "Drainage outlet"
+      ],
+      "uses": [
+        "Roof drainage",
+        "Waterproofing termination",
+        "Terrace access"
+      ],
+      "furniture_equipment": [
+        "Grating with supports",
+        "Balustrade"
+      ],
+      "dimensions": [
+        {
+          "label": "Roof slope",
+          "value": 2.0,
+          "value_max": null,
+          "unit": "%",
+          "context": "Minimum slope indicated on several roof-edge, outlet, and terrace details.",
+          "status": "uncertain",
+          "ocr_raw": "≥ 2%"
+        }
+      ],
+      "figure_refs": [
+        "1 Parapet with artificial stone coping",
+        "2 Wall connection",
+        "3 Roof edge detail (terrace)",
+        "4 Drain detail with sealing connection",
+        "5 Terrace connection with extended grating"
+      ],
+      "cross_refs": [],
+      "keywords": [
+        "parapet",
+        "flashing",
+        "roof drain",
+        "gravel trap",
+        "terrace",
+        "grating"
+      ],
+      "tags_architectural": [
+        "circulation",
+        "safety",
+        "accessibility"
+      ],
+      "confidence": 0.94
+    }
+  ]
+}

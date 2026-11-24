@@ -1,0 +1,84 @@
+{
+  "fichas": [
+    {
+      "id": "4122fb96e4bd1976-272-vision-0",
+      "pdf_page": 272,
+      "book_page": 259,
+      "chapter": "RETAIL",
+      "section": "Retail Outlets",
+      "title": "Retail Outlet Routeing and Escalators",
+      "summary": "Describes retail routeing strategies and vertical escalator arrangements. Routeing can use lighting, fittings and product placement to promote goods and offers. Examples include centric routeing, polygonal routeing, a single loop, self-service supermarket routeing, parallel escalators and double criss-cross escalators. Routes should include corner areas, and the shop layout should support customer movement and checkout control without forcing diversions.",
+      "building_type": "Retail outlet",
+      "spaces": [
+        "Sales area",
+        "Checkout area",
+        "Self-service supermarket",
+        "Refill aisle"
+      ],
+      "uses": [
+        "Promote goods and special offers",
+        "Guide customer movement through product ranges",
+        "Provide vertical access between shop levels",
+        "Support checkout control"
+      ],
+      "furniture_equipment": [
+        "Escalators",
+        "Shop fittings",
+        "Product shelves",
+        "Checkout"
+      ],
+      "dimensions": [
+        {
+          "label": "Double criss-cross escalator travel direction",
+          "value": 180.0,
+          "value_max": null,
+          "unit": "degrees",
+          "context": "Direction of travel of the escalator.",
+          "status": "verified",
+          "ocr_raw": "The direction of travel of this escalator is 180°."
+        },
+        {
+          "label": "Sales area per escalator",
+          "value": 1000.0,
+          "value_max": null,
+          "unit": "m²",
+          "context": "Rule of thumb: one escalator for every approximately 1000 m² of sales area.",
+          "status": "verified",
+          "ocr_raw": "The rule of thumb is one escalator for every approx. 1000 m 2 of\nsales area."
+        }
+      ],
+      "figure_refs": [
+        "1 Centric routeing (variant 1)",
+        "2 Centric routeing (variant 2)",
+        "3 Polygonal routeing",
+        "4 Routeing in a single loop",
+        "5 Routeing in a self-service supermarket",
+        "6 Single parallel escalators",
+        "7 Double criss-cross escalators",
+        "8 Routes should include corner areas",
+        "9 Self-service supermarket routeing"
+      ],
+      "cross_refs": [
+        "→ 1–2",
+        "→ 7",
+        "→ 6",
+        "→ 8",
+        "→ 8 a"
+      ],
+      "keywords": [
+        "retail outlet",
+        "routeing",
+        "escalators",
+        "sales area",
+        "customer circulation",
+        "checkout",
+        "self-service supermarket"
+      ],
+      "tags_architectural": [
+        "circulation",
+        "spatial_proportion"
+      ],
+      "confidence": 0.97
+    }
+  ]
+}

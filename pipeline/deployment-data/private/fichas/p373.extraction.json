@@ -1,0 +1,196 @@
+{
+  "fichas": [
+    {
+      "id": "4122fb96e4bd1976-373-vision-0",
+      "pdf_page": 373,
+      "book_page": 360,
+      "chapter": "SPORT AND LEISURE",
+      "section": "Sports Halls",
+      "title": "Climbing Wall Construction Types",
+      "summary": "A comparison of solid concrete, shotcrete, timber and GRP climbing-wall construction, describing their construction methods and surface or installation properties.",
+      "building_type": "Climbing wall",
+      "spaces": [],
+      "uses": [
+        "Constructing climbing-wall surfaces"
+      ],
+      "furniture_equipment": [
+        "Concrete panels",
+        "Steel-wire reinforcement mesh",
+        "Timber-based boards",
+        "GRP boards or shaped panels",
+        "Climbing grips"
+      ],
+      "dimensions": [],
+      "figure_refs": [
+        "1"
+      ],
+      "cross_refs": [
+        "refs"
+      ],
+      "keywords": [
+        "solid concrete",
+        "shotcrete",
+        "timber",
+        "GRP",
+        "climbing wall construction"
+      ],
+      "tags_architectural": [
+        "adaptability",
+        "safety"
+      ],
+      "confidence": 0.94
+    },
+    {
+      "id": "4122fb96e4bd1976-373-vision-1",
+      "pdf_page": 373,
+      "book_page": 360,
+      "chapter": "SPORT AND LEISURE",
+      "section": "Sports Halls",
+      "title": "Climbing Halls",
+      "summary": "Indoor climbing halls accommodate bouldering and roped climbing, with flexible wall forms and heights. The layout should concentrate subsidiary functions and distinguish areas for beginners, experts and children. Daylighting is desirable, artificial lighting should avoid glare, and climbing walls require regular expert maintenance. Wall construction and grip selection vary by user group and climbing-wall type.",
+      "building_type": "Indoor climbing hall",
+      "spaces": [
+        "Climbing areas",
+        "Reception and cash desk",
+        "Cafeteria",
+        "Climbing-equipment shop",
+        "Sanitary facilities",
+        "Steam bath or sauna",
+        "Rest zone",
+        "Fitness area",
+        "Bouldering area",
+        "Jumping-off area"
+      ],
+      "uses": [
+        "Bouldering without safety ropes",
+        "Top-rope climbing",
+        "Lead climbing",
+        "Climbing training",
+        "Climbing-equipment retail",
+        "Reception and visitor services"
+      ],
+      "furniture_equipment": [
+        "Climbing walls",
+        "Climbing grips and steps",
+        "Resin-mix grips with quartz-sand dusting",
+        "M10 Allen bolts",
+        "Smoke-extraction domes",
+        "Indirect artificial lighting",
+        "Gravel, bark mulch or mats for bouldering landing areas"
+      ],
+      "dimensions": [
+        {
+          "label": "Maximum indoor area",
+          "value": 2500.0,
+          "value_max": null,
+          "unit": "m²",
+          "context": "Indoor area of a climbing hall; described as up to this size.",
+          "status": "uncertain",
+          "ocr_raw": "up to 2500 m² indoor area"
+        },
+        {
+          "label": "Maximum height without reachable grips",
+          "value": 2.5,
+          "value_max": null,
+          "unit": "m",
+          "context": "For a top-rope or lead wall, no grip should be reachable up to this height.",
+          "status": "uncertain",
+          "ocr_raw": "No grip should be reachable up to a height of 2.5 m."
+        },
+        {
+          "label": "Sport-climbing wall height",
+          "value": 18.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Height for sport climbing; stated as up to 18 m, with exceptional cases separately noted.",
+          "status": "uncertain",
+          "ocr_raw": "The height for sport climbing is up to 18 m, exceptionally to 30 m."
+        },
+        {
+          "label": "Exceptional sport-climbing wall height",
+          "value": 30.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Exceptional wall height for sport climbing.",
+          "status": "uncertain",
+          "ocr_raw": "exceptionally to 30 m"
+        },
+        {
+          "label": "Grip spacing",
+          "value": 15.0,
+          "value_max": 30.0,
+          "unit": "cm",
+          "context": "Spacing shown in the grip-pattern diagram.",
+          "status": "uncertain",
+          "ocr_raw": "15–30 cm"
+        },
+        {
+          "label": "Grip density for children and young people",
+          "value": 8.0,
+          "value_max": 10.0,
+          "unit": "grips/m²",
+          "context": "Grip count per square metre for the children and young people user group.",
+          "status": "uncertain",
+          "ocr_raw": "8–10"
+        },
+        {
+          "label": "Grip density for adult beginners",
+          "value": 4.0,
+          "value_max": 8.0,
+          "unit": "grips/m²",
+          "context": "Grip count per square metre for adult beginners.",
+          "status": "uncertain",
+          "ocr_raw": "4–8"
+        },
+        {
+          "label": "Grip density for normal use",
+          "value": 3.0,
+          "value_max": 5.0,
+          "unit": "grips/m²",
+          "context": "Grip count per square metre for the normal user group.",
+          "status": "uncertain",
+          "ocr_raw": "3–5"
+        },
+        {
+          "label": "Grip density for training",
+          "value": 10.0,
+          "value_max": null,
+          "unit": "grips/m²",
+          "context": "Training category specifies more than this number of grips per square metre.",
+          "status": "uncertain",
+          "ocr_raw": ">10"
+        }
+      ],
+      "figure_refs": [
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "cross_refs": [
+        "1",
+        "BS EN 12572",
+        "DIN 18032",
+        "DIN EN 12572",
+        "refs"
+      ],
+      "keywords": [
+        "bouldering",
+        "top rope",
+        "lead climbing",
+        "daylighting",
+        "indirect lighting",
+        "climbing grips",
+        "grip density",
+        "climbing-wall maintenance"
+      ],
+      "tags_architectural": [
+        "circulation",
+        "safety",
+        "adaptability",
+        "daylighting"
+      ],
+      "confidence": 0.94
+    }
+  ]
+}

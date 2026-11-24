@@ -1,0 +1,401 @@
+{
+  "fichas": [
+    {
+      "id": "4122fb96e4bd1976-185-vision-0",
+      "pdf_page": 185,
+      "book_page": 172,
+      "chapter": "ACCOMMODATION",
+      "section": "Hotels",
+      "title": "Hotel rooms: planning and room types",
+      "summary": "Hotel rooms are a major part of a hotel's area and an important factor in guest evaluation. Planning balances economic and technical requirements with comfort, spatial division, individuality, and identity. The page illustrates room layouts, bathrooms between rooms, bed spacing, accessible accommodation, apartments, suites, and a DEHOGA classification excerpt.",
+      "building_type": "Hotel",
+      "spaces": [
+        "Guest room",
+        "Bedroom",
+        "Bathroom/WC",
+        "Reception area",
+        "Lobby",
+        "Two-room apartment",
+        "Suite",
+        "Kitchen niche"
+      ],
+      "uses": [
+        "Sleeping",
+        "Living",
+        "Relaxation",
+        "Work",
+        "Guest accommodation"
+      ],
+      "furniture_equipment": [
+        "Bed",
+        "Seating",
+        "Television",
+        "Table",
+        "Luggage shelf",
+        "Cupboard",
+        "Washbasin",
+        "Telephone",
+        "Minibar",
+        "Armchair or sofa",
+        "Coffee table"
+      ],
+      "dimensions": [
+        {
+          "label": "Single room area, 1 Star (Tourist)",
+          "value": 8.0,
+          "value_max": null,
+          "unit": "m²",
+          "context": "Minimum area for 75% of hotel rooms; bathroom excluded.",
+          "status": "verified",
+          "ocr_raw": "single room 8m 2"
+        },
+        {
+          "label": "Double room area, 1 Star (Tourist)",
+          "value": 12.0,
+          "value_max": null,
+          "unit": "m²",
+          "context": "Minimum area for 75% of hotel rooms; bathroom excluded.",
+          "status": "verified",
+          "ocr_raw": "double room 12m2"
+        },
+        {
+          "label": "Single room area, 2 Stars (Standard)",
+          "value": 12.0,
+          "value_max": null,
+          "unit": "m²",
+          "context": "Minimum area for 75% of hotel rooms; bathroom and corridor included.",
+          "status": "verified",
+          "ocr_raw": "single room 12 m2"
+        },
+        {
+          "label": "Double room area, 2 Stars (Standard)",
+          "value": 16.0,
+          "value_max": null,
+          "unit": "m²",
+          "context": "Minimum area for 75% of hotel rooms; bathroom and corridor included.",
+          "status": "verified",
+          "ocr_raw": "double\nroom 16 m2"
+        },
+        {
+          "label": "Single room area, 3 Stars (Comfort)",
+          "value": 14.0,
+          "value_max": null,
+          "unit": "m²",
+          "context": "Minimum area; same area basis as the preceding category.",
+          "status": "verified",
+          "ocr_raw": "single room 14 m2"
+        },
+        {
+          "label": "Double room area, 3 Stars (Comfort)",
+          "value": 18.0,
+          "value_max": null,
+          "unit": "m²",
+          "context": "Minimum area; same area basis as the preceding category.",
+          "status": "verified",
+          "ocr_raw": "double\nroom 18 m2"
+        },
+        {
+          "label": "Single room area, 4 Stars (First Class)",
+          "value": 16.0,
+          "value_max": null,
+          "unit": "m²",
+          "context": "Minimum area; same area basis as the preceding category.",
+          "status": "verified",
+          "ocr_raw": "single room 16 m2"
+        },
+        {
+          "label": "Double room area, 4 Stars (First Class)",
+          "value": 22.0,
+          "value_max": null,
+          "unit": "m²",
+          "context": "Minimum area; same area basis as the preceding category.",
+          "status": "verified",
+          "ocr_raw": "double\nroom 22 m2"
+        },
+        {
+          "label": "Single room area, 5 Stars (Luxury)",
+          "value": 18.0,
+          "value_max": null,
+          "unit": "m²",
+          "context": "Minimum room area.",
+          "status": "verified",
+          "ocr_raw": "single room 18m2"
+        },
+        {
+          "label": "Double room area, 5 Stars (Luxury)",
+          "value": 26.0,
+          "value_max": null,
+          "unit": "m²",
+          "context": "Minimum room area.",
+          "status": "verified",
+          "ocr_raw": "double room\n26m 2"
+        },
+        {
+          "label": "Hotel rooms as suites, 5 Stars (Luxury)",
+          "value": 2.0,
+          "value_max": null,
+          "unit": "%",
+          "context": "Share of hotel rooms required to be suites; at least two suites.",
+          "status": "verified",
+          "ocr_raw": "2% of the hotel rooms as suites\n(at least two)"
+        },
+        {
+          "label": "Accessible room: turning-space diameter",
+          "value": 1.5,
+          "value_max": null,
+          "unit": "m",
+          "context": "Dimension marked in the accessible hotel-room plan.",
+          "status": "uncertain",
+          "ocr_raw": "1.50"
+        },
+        {
+          "label": "Accessible room: turning-space diameter",
+          "value": 1.5,
+          "value_max": null,
+          "unit": "m",
+          "context": "Dimension marked in the accessible hotel-room plan.",
+          "status": "uncertain",
+          "ocr_raw": "1.50"
+        },
+        {
+          "label": "Accessible room: turning-space diameter",
+          "value": 1.5,
+          "value_max": null,
+          "unit": "m",
+          "context": "Dimension marked in the accessible hotel-room plan.",
+          "status": "uncertain",
+          "ocr_raw": "1.50"
+        }
+      ],
+      "figure_refs": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11"
+      ],
+      "cross_refs": [
+        "p. 21"
+      ],
+      "keywords": [
+        "DEHOGA",
+        "hotel classification",
+        "hotel room",
+        "accessible room",
+        "suite",
+        "room area",
+        "bed spacing"
+      ],
+      "tags_architectural": [
+        "accessibility",
+        "circulation",
+        "ergonomics",
+        "anthropometry",
+        "clearance",
+        "adaptability"
+      ],
+      "confidence": 0.88
+    },
+    {
+      "id": "4122fb96e4bd1976-185-vision-1",
+      "pdf_page": 185,
+      "book_page": 172,
+      "chapter": "ACCOMMODATION",
+      "section": "Hotels",
+      "title": "Three-star hotel room layouts and dimensions",
+      "summary": "A plan illustrates a double room and a slightly enlarged single room with furniture and bathroom facilities. The caption identifies them as three-star hotel rooms according to DEHOGA classification. Further diagrams show bathroom arrangements between rooms and minimum distances between beds.",
+      "building_type": "Hotel",
+      "spaces": [
+        "Double room",
+        "Single room",
+        "Bathroom/WC"
+      ],
+      "uses": [
+        "Sleeping",
+        "Guest accommodation"
+      ],
+      "furniture_equipment": [
+        "Bed",
+        "Seating",
+        "Television",
+        "Table",
+        "Luggage shelf",
+        "Cupboard",
+        "Bath/WC"
+      ],
+      "dimensions": [
+        {
+          "label": "Double room area",
+          "value": 18.0,
+          "value_max": null,
+          "unit": "m²",
+          "context": "Three-star hotel room plan.",
+          "status": "verified",
+          "ocr_raw": "double\nroom 18 m2"
+        },
+        {
+          "label": "Single room area",
+          "value": 15.0,
+          "value_max": null,
+          "unit": "m²",
+          "context": "Three-star hotel room plan; caption says the single room is slightly enlarged.",
+          "status": "verified",
+          "ocr_raw": "Single room 15 m2"
+        },
+        {
+          "label": "Plan dimension",
+          "value": 4.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Dimension shown above the room plan.",
+          "status": "uncertain",
+          "ocr_raw": "4.00"
+        },
+        {
+          "label": "Plan dimension",
+          "value": 3.5,
+          "value_max": null,
+          "unit": "m",
+          "context": "Dimension shown above the room plan.",
+          "status": "uncertain",
+          "ocr_raw": "3.50"
+        },
+        {
+          "label": "Plan dimension",
+          "value": 3.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Vertical dimension shown beside the room plan.",
+          "status": "uncertain",
+          "ocr_raw": "1- 4.00 - - - 1 + - - 3.50 ---j\n\nHOTELS\n\nBed\n\nRooms\n\nT\n\nSeating\n\n0\n\nTV\n\n0\n\noi\n\nHotel rooms account for the largest share of a hotel by area. The\nquality of hotel rooms is an essential criterion for the evaluation of\na hotel by a guest. Traditionally, the trend has been to standardise\nand schematise floor plans and arrangements ~ 0.\n\nTable\n\n+\n\nLuggage shelf\n\n0\n\n\"l\n\nCupboard\nBath/WC\n\nf--1.60 -!t- 2.20\n\n--++- 2.20 -jj-1.1--l\n\nI\n\nIn light of the extended significance of the hotel room (living,\nrelaxation,work and sleeping room), architects normally attempt\nto answer the economic and technical requirements by reflecting\nthe demand for comfort through spatial division, while still meeting\nconcerns for individuality and identity 0-\n\nDouble room 1 B m2 Single room 15 m2\n\n0\n\n3-star hotel rooms showing features and main dimensions (according to\nDEHOGA classification, single room slightly enlarged)\n\nm.\n\nHOTELS\nBasics\nRooms\nExamples\n\nI\nI\n\nI\n\nGerman\nHotel and Inn\nAssociation\n(DEHOGA):\nGerman hotel\nclassification\n\nI\nI\n\nI\n\nI\nI\nI\n\nI\nI\n\n:--so-i\n\ncso~\n\nI\n\nf) Bathrooms between hotel rooms\n\nBathrooms between hotel rooms\n\nI\nI\n\nI\n\nI\n\nI\n\n~50ti-SO-i-1.50-i-\n\nMinimum distance between hotel beds\n\nHotel room features, according to DEHOGA (excerpt)\n\nLo\n\n0\n[Q\n\ne\n\nHotel room with extra WC\n\ne\n\nHotel room accessible for a\ndisabled person with space for\naccompanying person --> p. 21\n\n0\n\n8\n\nTwo-room apartment\n\nTwo-room apartment with small\nkitchen\n\nAccording to the classification system of the German Hotel and\nInn Association (DEHOGA), there are five categories, essentially\ndetermined by the room's size and features:\n1 Star (Tourist): single room 8m 2 , double room 12m2 (minimum\narea for 75% of the hotel rooms, without bathroom), bed, wardrobe,\nseat, washbasin in the room, reception as a separate area\n2 Stars (Standard): as before, but single room 12 m2 , double\nroom 16 m2 (minimum area for 75% of the hotel rooms, including\nbathroom and corridor), bathroom in room (for 70% of hotel\nrooms), seat per bed, colour television (in 70% of the hotel rooms)\n3 Stars (Comfort): as before, but single room 14 m2 , double\nroom 18 m2 (minimum area, see above), bathroom in room (for\nall rooms in the hotel), telephone, reception area with seating for\ngroup, independent reception\n4 Stars (First Class): as before, but single room 16 m2 , double\nroom 22 m2 (minimum area, see above), minibar, armchair/couch\nwith coffee table, lobby with seating and drinks service\n5 Stars (Luxury): as before, but single room 18m2 , double room\n26m 2 , (minimum size, see above), 2% of the hotel rooms as suites\n(at least two), each with an armchair/sofa per bed, additional\nwashbasin in double rooms and suites, additional colour television\nin suites, reception lobby.\n\nODD\n\nD\nD\n\nD\nD\n\n-1\n\ne\n\nT\nHotel room with cupboard zone and\nbalcony\n\n172\n\nC) Diagonal room arrangement\n\nm\n\nThree-room apartment (suite) with cooking niche, two bathrooms and guest WC\n\n\f"
+        },
+        {
+          "label": "Plan dimension",
+          "value": 1.5,
+          "value_max": null,
+          "unit": "m",
+          "context": "Vertical dimension shown beside the room plan.",
+          "status": "uncertain",
+          "ocr_raw": "1.50"
+        },
+        {
+          "label": "Plan dimension",
+          "value": 1.6,
+          "value_max": null,
+          "unit": "m",
+          "context": "Dimension shown below the room plan.",
+          "status": "uncertain",
+          "ocr_raw": "1.60"
+        },
+        {
+          "label": "Plan dimension",
+          "value": 2.2,
+          "value_max": null,
+          "unit": "m",
+          "context": "Dimension shown below the room plan.",
+          "status": "uncertain",
+          "ocr_raw": "2.20"
+        },
+        {
+          "label": "Plan dimension",
+          "value": 2.2,
+          "value_max": null,
+          "unit": "m",
+          "context": "Dimension shown below the room plan.",
+          "status": "uncertain",
+          "ocr_raw": "2.20"
+        },
+        {
+          "label": "Plan dimension",
+          "value": 1.1,
+          "value_max": null,
+          "unit": "m",
+          "context": "Dimension shown below the room plan.",
+          "status": "uncertain",
+          "ocr_raw": "1.1"
+        },
+        {
+          "label": "Minimum distance between hotel beds",
+          "value": 50.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Bed-spacing diagram; dimension unit is not printed in the OCR.",
+          "status": "uncertain",
+          "ocr_raw": "50"
+        },
+        {
+          "label": "Minimum distance between hotel beds",
+          "value": 80.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Bed-spacing diagram; dimension unit is not printed in the OCR.",
+          "status": "uncertain",
+          "ocr_raw": "1- 4.00 - - - 1 + - - 3.50 ---j\n\nHOTELS\n\nBed\n\nRooms\n\nT\n\nSeating\n\n0\n\nTV\n\n0\n\noi\n\nHotel rooms account for the largest share of a hotel by area. The\nquality of hotel rooms is an essential criterion for the evaluation of\na hotel by a guest. Traditionally, the trend has been to standardise\nand schematise floor plans and arrangements ~ 0.\n\nTable\n\n+\n\nLuggage shelf\n\n0\n\n\"l\n\nCupboard\nBath/WC\n\nf--1.60 -!t- 2.20\n\n--++- 2.20 -jj-1.1--l\n\nI\n\nIn light of the extended significance of the hotel room (living,\nrelaxation,work and sleeping room), architects normally attempt\nto answer the economic and technical requirements by reflecting\nthe demand for comfort through spatial division, while still meeting\nconcerns for individuality and identity 0-\n\nDouble room 1 B m2 Single room 15 m2\n\n0\n\n3-star hotel rooms showing features and main dimensions (according to\nDEHOGA classification, single room slightly enlarged)\n\nm.\n\nHOTELS\nBasics\nRooms\nExamples\n\nI\nI\n\nI\n\nGerman\nHotel and Inn\nAssociation\n(DEHOGA):\nGerman hotel\nclassification\n\nI\nI\n\nI\n\nI\nI\nI\n\nI\nI\n\n:--so-i\n\ncso~\n\nI\n\nf) Bathrooms between hotel rooms\n\nBathrooms between hotel rooms\n\nI\nI\n\nI\n\nI\n\nI\n\n~50ti-SO-i-1.50-i-\n\nMinimum distance between hotel beds\n\nHotel room features, according to DEHOGA (excerpt)\n\nLo\n\n0\n[Q\n\ne\n\nHotel room with extra WC\n\ne\n\nHotel room accessible for a\ndisabled person with space for\naccompanying person --> p. 21\n\n0\n\n8\n\nTwo-room apartment\n\nTwo-room apartment with small\nkitchen\n\nAccording to the classification system of the German Hotel and\nInn Association (DEHOGA), there are five categories, essentially\ndetermined by the room's size and features:\n1 Star (Tourist): single room 8m 2 , double room 12m2 (minimum\narea for 75% of the hotel rooms, without bathroom), bed, wardrobe,\nseat, washbasin in the room, reception as a separate area\n2 Stars (Standard): as before, but single room 12 m2 , double\nroom 16 m2 (minimum area for 75% of the hotel rooms, including\nbathroom and corridor), bathroom in room (for 70% of hotel\nrooms), seat per bed, colour television (in 70% of the hotel rooms)\n3 Stars (Comfort): as before, but single room 14 m2 , double\nroom 18 m2 (minimum area, see above), bathroom in room (for\nall rooms in the hotel), telephone, reception area with seating for\ngroup, independent reception\n4 Stars (First Class): as before, but single room 16 m2 , double\nroom 22 m2 (minimum area, see above), minibar, armchair/couch\nwith coffee table, lobby with seating and drinks service\n5 Stars (Luxury): as before, but single room 18m2 , double room\n26m 2 , (minimum size, see above), 2% of the hotel rooms as suites\n(at least two), each with an armchair/sofa per bed, additional\nwashbasin in double rooms and suites, additional colour television\nin suites, reception lobby.\n\nODD\n\nD\nD\n\nD\nD\n\n-1\n\ne\n\nT\nHotel room with cupboard zone and\nbalcony\n\n172\n\nC) Diagonal room arrangement\n\nm\n\nThree-room apartment (suite) with cooking niche, two bathrooms and guest WC\n\n\f"
+        },
+        {
+          "label": "Minimum distance between hotel beds",
+          "value": 50.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Bed-spacing diagram; dimension unit is not printed in the OCR.",
+          "status": "uncertain",
+          "ocr_raw": "50"
+        },
+        {
+          "label": "Bed-spacing diagram dimension",
+          "value": 50.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "One component of the printed dimension string; unit is not printed in the OCR.",
+          "status": "uncertain",
+          "ocr_raw": "1- 4.00 - - - 1 + - - 3.50 ---j\n\nHOTELS\n\nBed\n\nRooms\n\nT\n\nSeating\n\n0\n\nTV\n\n0\n\noi\n\nHotel rooms account for the largest share of a hotel by area. The\nquality of hotel rooms is an essential criterion for the evaluation of\na hotel by a guest. Traditionally, the trend has been to standardise\nand schematise floor plans and arrangements ~ 0.\n\nTable\n\n+\n\nLuggage shelf\n\n0\n\n\"l\n\nCupboard\nBath/WC\n\nf--1.60 -!t- 2.20\n\n--++- 2.20 -jj-1.1--l\n\nI\n\nIn light of the extended significance of the hotel room (living,\nrelaxation,work and sleeping room), architects normally attempt\nto answer the economic and technical requirements by reflecting\nthe demand for comfort through spatial division, while still meeting\nconcerns for individuality and identity 0-\n\nDouble room 1 B m2 Single room 15 m2\n\n0\n\n3-star hotel rooms showing features and main dimensions (according to\nDEHOGA classification, single room slightly enlarged)\n\nm.\n\nHOTELS\nBasics\nRooms\nExamples\n\nI\nI\n\nI\n\nGerman\nHotel and Inn\nAssociation\n(DEHOGA):\nGerman hotel\nclassification\n\nI\nI\n\nI\n\nI\nI\nI\n\nI\nI\n\n:--so-i\n\ncso~\n\nI\n\nf) Bathrooms between hotel rooms\n\nBathrooms between hotel rooms\n\nI\nI\n\nI\n\nI\n\nI\n\n~50ti-SO-i-1.50-i-\n\nMinimum distance between hotel beds\n\nHotel room features, according to DEHOGA (excerpt)\n\nLo\n\n0\n[Q\n\ne\n\nHotel room with extra WC\n\ne\n\nHotel room accessible for a\ndisabled person with space for\naccompanying person --> p. 21\n\n0\n\n8\n\nTwo-room apartment\n\nTwo-room apartment with small\nkitchen\n\nAccording to the classification system of the German Hotel and\nInn Association (DEHOGA), there are five categories, essentially\ndetermined by the room's size and features:\n1 Star (Tourist): single room 8m 2 , double room 12m2 (minimum\narea for 75% of the hotel rooms, without bathroom), bed, wardrobe,\nseat, washbasin in the room, reception as a separate area\n2 Stars (Standard): as before, but single room 12 m2 , double\nroom 16 m2 (minimum area for 75% of the hotel rooms, including\nbathroom and corridor), bathroom in room (for 70% of hotel\nrooms), seat per bed, colour television (in 70% of the hotel rooms)\n3 Stars (Comfort): as before, but single room 14 m2 , double\nroom 18 m2 (minimum area, see above), bathroom in room (for\nall rooms in the hotel), telephone, reception area with seating for\ngroup, independent reception\n4 Stars (First Class): as before, but single room 16 m2 , double\nroom 22 m2 (minimum area, see above), minibar, armchair/couch\nwith coffee table, lobby with seating and drinks service\n5 Stars (Luxury): as before, but single room 18m2 , double room\n26m 2 , (minimum size, see above), 2% of the hotel rooms as suites\n(at least two), each with an armchair/sofa per bed, additional\nwashbasin in double rooms and suites, additional colour television\nin suites, reception lobby.\n\nODD\n\nD\nD\n\nD\nD\n\n-1\n\ne\n\nT\nHotel room with cupboard zone and\nbalcony\n\n172\n\nC) Diagonal room arrangement\n\nm\n\nThree-room apartment (suite) with cooking niche, two bathrooms and guest WC\n\n\f"
+        },
+        {
+          "label": "Bed-spacing diagram dimension",
+          "value": 50.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "One component of the printed dimension string; unit is not printed in the OCR.",
+          "status": "uncertain",
+          "ocr_raw": "1- 4.00 - - - 1 + - - 3.50 ---j\n\nHOTELS\n\nBed\n\nRooms\n\nT\n\nSeating\n\n0\n\nTV\n\n0\n\noi\n\nHotel rooms account for the largest share of a hotel by area. The\nquality of hotel rooms is an essential criterion for the evaluation of\na hotel by a guest. Traditionally, the trend has been to standardise\nand schematise floor plans and arrangements ~ 0.\n\nTable\n\n+\n\nLuggage shelf\n\n0\n\n\"l\n\nCupboard\nBath/WC\n\nf--1.60 -!t- 2.20\n\n--++- 2.20 -jj-1.1--l\n\nI\n\nIn light of the extended significance of the hotel room (living,\nrelaxation,work and sleeping room), architects normally attempt\nto answer the economic and technical requirements by reflecting\nthe demand for comfort through spatial division, while still meeting\nconcerns for individuality and identity 0-\n\nDouble room 1 B m2 Single room 15 m2\n\n0\n\n3-star hotel rooms showing features and main dimensions (according to\nDEHOGA classification, single room slightly enlarged)\n\nm.\n\nHOTELS\nBasics\nRooms\nExamples\n\nI\nI\n\nI\n\nGerman\nHotel and Inn\nAssociation\n(DEHOGA):\nGerman hotel\nclassification\n\nI\nI\n\nI\n\nI\nI\nI\n\nI\nI\n\n:--so-i\n\ncso~\n\nI\n\nf) Bathrooms between hotel rooms\n\nBathrooms between hotel rooms\n\nI\nI\n\nI\n\nI\n\nI\n\n~50ti-SO-i-1.50-i-\n\nMinimum distance between hotel beds\n\nHotel room features, according to DEHOGA (excerpt)\n\nLo\n\n0\n[Q\n\ne\n\nHotel room with extra WC\n\ne\n\nHotel room accessible for a\ndisabled person with space for\naccompanying person --> p. 21\n\n0\n\n8\n\nTwo-room apartment\n\nTwo-room apartment with small\nkitchen\n\nAccording to the classification system of the German Hotel and\nInn Association (DEHOGA), there are five categories, essentially\ndetermined by the room's size and features:\n1 Star (Tourist): single room 8m 2 , double room 12m2 (minimum\narea for 75% of the hotel rooms, without bathroom), bed, wardrobe,\nseat, washbasin in the room, reception as a separate area\n2 Stars (Standard): as before, but single room 12 m2 , double\nroom 16 m2 (minimum area for 75% of the hotel rooms, including\nbathroom and corridor), bathroom in room (for 70% of hotel\nrooms), seat per bed, colour television (in 70% of the hotel rooms)\n3 Stars (Comfort): as before, but single room 14 m2 , double\nroom 18 m2 (minimum area, see above), bathroom in room (for\nall rooms in the hotel), telephone, reception area with seating for\ngroup, independent reception\n4 Stars (First Class): as before, but single room 16 m2 , double\nroom 22 m2 (minimum area, see above), minibar, armchair/couch\nwith coffee table, lobby with seating and drinks service\n5 Stars (Luxury): as before, but single room 18m2 , double room\n26m 2 , (minimum size, see above), 2% of the hotel rooms as suites\n(at least two), each with an armchair/sofa per bed, additional\nwashbasin in double rooms and suites, additional colour television\nin suites, reception lobby.\n\nODD\n\nD\nD\n\nD\nD\n\n-1\n\ne\n\nT\nHotel room with cupboard zone and\nbalcony\n\n172\n\nC) Diagonal room arrangement\n\nm\n\nThree-room apartment (suite) with cooking niche, two bathrooms and guest WC\n\n\f"
+        },
+        {
+          "label": "Bed-spacing diagram dimension",
+          "value": 1.5,
+          "value_max": null,
+          "unit": "m",
+          "context": "One component of the printed dimension string; unit is not printed in the OCR.",
+          "status": "uncertain",
+          "ocr_raw": "1- 4.00 - - - 1 + - - 3.50 ---j\n\nHOTELS\n\nBed\n\nRooms\n\nT\n\nSeating\n\n0\n\nTV\n\n0\n\noi\n\nHotel rooms account for the largest share of a hotel by area. The\nquality of hotel rooms is an essential criterion for the evaluation of\na hotel by a guest. Traditionally, the trend has been to standardise\nand schematise floor plans and arrangements ~ 0.\n\nTable\n\n+\n\nLuggage shelf\n\n0\n\n\"l\n\nCupboard\nBath/WC\n\nf--1.60 -!t- 2.20\n\n--++- 2.20 -jj-1.1--l\n\nI\n\nIn light of the extended significance of the hotel room (living,\nrelaxation,work and sleeping room), architects normally attempt\nto answer the economic and technical requirements by reflecting\nthe demand for comfort through spatial division, while still meeting\nconcerns for individuality and identity 0-\n\nDouble room 1 B m2 Single room 15 m2\n\n0\n\n3-star hotel rooms showing features and main dimensions (according to\nDEHOGA classification, single room slightly enlarged)\n\nm.\n\nHOTELS\nBasics\nRooms\nExamples\n\nI\nI\n\nI\n\nGerman\nHotel and Inn\nAssociation\n(DEHOGA):\nGerman hotel\nclassification\n\nI\nI\n\nI\n\nI\nI\nI\n\nI\nI\n\n:--so-i\n\ncso~\n\nI\n\nf) Bathrooms between hotel rooms\n\nBathrooms between hotel rooms\n\nI\nI\n\nI\n\nI\n\nI\n\n~50ti-SO-i-1.50-i-\n\nMinimum distance between hotel beds\n\nHotel room features, according to DEHOGA (excerpt)\n\nLo\n\n0\n[Q\n\ne\n\nHotel room with extra WC\n\ne\n\nHotel room accessible for a\ndisabled person with space for\naccompanying person --> p. 21\n\n0\n\n8\n\nTwo-room apartment\n\nTwo-room apartment with small\nkitchen\n\nAccording to the classification system of the German Hotel and\nInn Association (DEHOGA), there are five categories, essentially\ndetermined by the room's size and features:\n1 Star (Tourist): single room 8m 2 , double room 12m2 (minimum\narea for 75% of the hotel rooms, without bathroom), bed, wardrobe,\nseat, washbasin in the room, reception as a separate area\n2 Stars (Standard): as before, but single room 12 m2 , double\nroom 16 m2 (minimum area for 75% of the hotel rooms, including\nbathroom and corridor), bathroom in room (for 70% of hotel\nrooms), seat per bed, colour television (in 70% of the hotel rooms)\n3 Stars (Comfort): as before, but single room 14 m2 , double\nroom 18 m2 (minimum area, see above), bathroom in room (for\nall rooms in the hotel), telephone, reception area with seating for\ngroup, independent reception\n4 Stars (First Class): as before, but single room 16 m2 , double\nroom 22 m2 (minimum area, see above), minibar, armchair/couch\nwith coffee table, lobby with seating and drinks service\n5 Stars (Luxury): as before, but single room 18m2 , double room\n26m 2 , (minimum size, see above), 2% of the hotel rooms as suites\n(at least two), each with an armchair/sofa per bed, additional\nwashbasin in double rooms and suites, additional colour television\nin suites, reception lobby.\n\nODD\n\nD\nD\n\nD\nD\n\n-1\n\ne\n\nT\nHotel room with cupboard zone and\nbalcony\n\n172\n\nC) Diagonal room arrangement\n\nm\n\nThree-room apartment (suite) with cooking niche, two bathrooms and guest WC\n\n\f"
+        }
+      ],
+      "figure_refs": [
+        "1",
+        "10"
+      ],
+      "cross_refs": [],
+      "keywords": [
+        "three-star hotel",
+        "double room",
+        "single room",
+        "room plan",
+        "bed spacing",
+        "DEHOGA"
+      ],
+      "tags_architectural": [
+        "circulation",
+        "ergonomics",
+        "anthropometry",
+        "clearance",
+        "spatial_proportion"
+      ],
+      "confidence": 0.76
+    }
+  ]
+}

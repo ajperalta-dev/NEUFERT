@@ -1,0 +1,58 @@
+{
+  "model": "gpt-6-luna",
+  "checks": {
+    "checks": [
+      {
+        "ficha_index": 0,
+        "dimension_index": 0,
+        "status": "verified",
+        "value": 16.0,
+        "value_max": null,
+        "reason": "The figure legend reads \u201cSingle-bed room 16 m\u00b2,\u201d matching the proposed value and unit."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 1,
+        "status": "verified",
+        "value": 24.0,
+        "value_max": null,
+        "reason": "The figure legend reads \u201cDouble-bed room 24 m\u00b2,\u201d matching the proposed value and unit."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 2,
+        "status": "verified",
+        "value": 18.0,
+        "value_max": null,
+        "reason": "The figure legend reads \u201cWheel chair room 18 m\u00b2,\u201d matching the proposed value and unit."
+      }
+    ]
+  },
+  "automatic": [
+    {
+      "ficha_index": 0,
+      "dimension_index": 0,
+      "issues": []
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 1,
+      "issues": []
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 2,
+      "issues": []
+    }
+  ],
+  "usage": [
+    {
+      "prompt_tokens": 3851,
+      "completion_tokens": 834
+    },
+    {
+      "prompt_tokens": 3807,
+      "completion_tokens": 197
+    }
+  ]
+}

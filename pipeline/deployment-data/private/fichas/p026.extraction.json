@@ -1,0 +1,115 @@
+{
+  "fichas": [
+    {
+      "id": "4122fb96e4bd1976-26-vision-0",
+      "pdf_page": 26,
+      "book_page": 13,
+      "chapter": "BASICS",
+      "section": "Drawings",
+      "title": "Water Supply and Drainage Symbols",
+      "summary": "Reference sheet of conventional drawing symbols for water-supply and drainage systems, including pipes, connections, valves, measuring devices, fixtures, pumps, and control mechanisms.",
+      "building_type": "Technical drawing reference",
+      "spaces": [],
+      "uses": [
+        "Interpret water-supply and drainage symbols in architectural and building-services drawings"
+      ],
+      "furniture_equipment": [
+        "Water-supply pipes and fittings",
+        "Shut-off and control valves",
+        "Pumps and booster pumps",
+        "Measuring instruments",
+        "Plumbing fixtures and appliances"
+      ],
+      "dimensions": [
+        {
+          "label": "Cold drinking-water pipe example diameter",
+          "value": 80.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Example nominal diameter for a cold drinking-water pipe.",
+          "status": "uncertain",
+          "ocr_raw": "drinking water pipe, cold, e.g. Ø 80"
+        },
+        {
+          "label": "Warm drinking-water pipe example diameter",
+          "value": 50.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Example nominal diameter for a warm drinking-water pipe.",
+          "status": "uncertain",
+          "ocr_raw": "drinking water pipe, warm, e.g. Ø 50"
+        },
+        {
+          "label": "Circulation drinking-water pipe example diameter",
+          "value": 40.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Example nominal diameter for a drinking-water circulation pipe.",
+          "status": "uncertain",
+          "ocr_raw": "drinking water pipe, circulation, e.g. Ø 40"
+        },
+        {
+          "label": "Drinking-water hose example diameter",
+          "value": 15.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Example diameter for a drinking-water hose.",
+          "status": "uncertain",
+          "ocr_raw": "drinking water pipe, hose, e.g. Ø 15"
+        },
+        {
+          "label": "Nominal diameter before change",
+          "value": 50.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Example pipe nominal-diameter change, from Ø 50 to Ø 40.",
+          "status": "uncertain",
+          "ocr_raw": "marking of location for change of nominal diameter, e.g. from Ø 50 to Ø 40"
+        },
+        {
+          "label": "Nominal diameter after change",
+          "value": 40.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Example pipe nominal-diameter change, from Ø 50 to Ø 40.",
+          "status": "uncertain",
+          "ocr_raw": "marking of location for change of nominal diameter, e.g. from Ø 50 to Ø 40"
+        },
+        {
+          "label": "Pipe fall or rise",
+          "value": 5.0,
+          "value_max": null,
+          "unit": "%",
+          "context": "Example pipe fall or rise shown in the drawing symbols.",
+          "status": "uncertain",
+          "ocr_raw": "pipe fall, pipe rise, e.g. 5%"
+        },
+        {
+          "label": "Booster pump flow rate",
+          "value": 30.0,
+          "value_max": null,
+          "unit": "m³/h",
+          "context": "Flow-rate marking shown in the booster-pump symbol.",
+          "status": "uncertain",
+          "ocr_raw": "30 m³/h"
+        }
+      ],
+      "figure_refs": [],
+      "cross_refs": [],
+      "keywords": [
+        "water supply",
+        "drainage",
+        "drawing symbols",
+        "pipes",
+        "valves",
+        "plumbing fixtures",
+        "pumps",
+        "measuring instruments"
+      ],
+      "tags_architectural": [
+        "safety"
+      ],
+      "confidence": 0.98
+    }
+  ]
+}

@@ -1,0 +1,379 @@
+{
+  "model": "gpt-6-luna",
+  "checks": {
+    "checks": [
+      {
+        "ficha_index": 0,
+        "dimension_index": 0,
+        "status": "verified",
+        "value": 90.0,
+        "value_max": null,
+        "reason": "The text explicitly gives a 90 cm clear opening width."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 1,
+        "status": "verified",
+        "value": 2.1,
+        "value_max": null,
+        "reason": "The text explicitly gives a minimum door height of 2.10 m."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 2,
+        "status": "verified",
+        "value": 1.25,
+        "value_max": null,
+        "reason": "The text gives a minimum recess width of 1.25 m."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 3,
+        "status": "verified",
+        "value": 1.5,
+        "value_max": null,
+        "reason": "The text gives 1.50 m as the better recess width."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 4,
+        "status": "verified",
+        "value": 1.0,
+        "value_max": null,
+        "reason": "The text explicitly gives an approximate recess depth of 1.00 m."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 5,
+        "status": "uncertain",
+        "value": 0.9,
+        "value_max": null,
+        "reason": "Figure 1 prints \u226590 without a unit; the accompanying text specifies 90 cm, so the proposed m unit cannot be verified from the figure."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 6,
+        "status": "verified",
+        "value": 2.1,
+        "value_max": null,
+        "reason": "Figure 1 prints \u22652.10, consistent with the stated 2.10 m door height."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 7,
+        "status": "verified",
+        "value": 1.25,
+        "value_max": null,
+        "reason": "Figure 2 prints \u22651.25 for the entrance area width."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 8,
+        "status": "verified",
+        "value": 1.5,
+        "value_max": null,
+        "reason": "Figure 4 prints \u22651.50 for the seating or shelf area width."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 9,
+        "status": "verified",
+        "value": 1.25,
+        "value_max": null,
+        "reason": "Figure 5 prints \u22651.25 for the roofed entrance width."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 10,
+        "status": "verified",
+        "value": 1.5,
+        "value_max": null,
+        "reason": "Figure 6 prints \u22651.50 for the recessed entrance width."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 11,
+        "status": "verified",
+        "value": 1.0,
+        "value_max": null,
+        "reason": "Figure 6 prints \u22651.00 for the recessed entrance depth."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 12,
+        "status": "verified",
+        "value": 4.0,
+        "value_max": null,
+        "reason": "Figure 7 prints \u22654.00 for the common projecting roof width."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 13,
+        "status": "verified",
+        "value": 1.0,
+        "value_max": null,
+        "reason": "Figure 8 prints \u22651.00 for the common entrance area depth."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 14,
+        "status": "verified",
+        "value": 3.0,
+        "value_max": null,
+        "reason": "Figure 8 prints \u22653.00 for the common entrance area width."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 15,
+        "status": "verified",
+        "value": 5.0,
+        "value_max": null,
+        "reason": "Figure 9 prints \u22655.00 for the staircase arrangement depth."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 16,
+        "status": "verified",
+        "value": 2.25,
+        "value_max": null,
+        "reason": "Figure 9 prints \u22652.25 for the staircase arrangement width."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 17,
+        "status": "verified",
+        "value": 5.0,
+        "value_max": null,
+        "reason": "Figure 10 prints \u22655.00 for the parallel arrangement depth."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 18,
+        "status": "verified",
+        "value": 4.25,
+        "value_max": null,
+        "reason": "Figure 10 prints \u22654.25 for the parallel arrangement width."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 19,
+        "status": "uncertain",
+        "value": 1.5,
+        "value_max": null,
+        "reason": "The figure prints waiting area 1.50/1.50, but does not state a unit or identify a single dimension."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 20,
+        "status": "verified",
+        "value": 2.25,
+        "value_max": null,
+        "reason": "Figure 11 prints \u22652.25 for the opposed arrangement depth."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 21,
+        "status": "verified",
+        "value": 9.0,
+        "value_max": null,
+        "reason": "Figure 11 prints \u22659.00 for the opposed arrangement width."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 22,
+        "status": "verified",
+        "value": 6.0,
+        "value_max": null,
+        "reason": "Figure 12 prints \u22656.00 for the single-flight arrangement width."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 23,
+        "status": "verified",
+        "value": 3.5,
+        "value_max": null,
+        "reason": "Figure 12 prints \u22653.50 for the single-flight arrangement depth."
+      }
+    ]
+  },
+  "automatic": [
+    {
+      "ficha_index": 0,
+      "dimension_index": 0,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 1,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 2,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 3,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 4,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 5,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 6,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 7,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 8,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 9,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 10,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 11,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 12,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 13,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 14,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 15,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 16,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 17,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 18,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 19,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 20,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 21,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 22,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 23,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    }
+  ],
+  "usage": [
+    {
+      "prompt_tokens": 4356,
+      "completion_tokens": 1885
+    },
+    {
+      "prompt_tokens": 5377,
+      "completion_tokens": 1326
+    }
+  ]
+}

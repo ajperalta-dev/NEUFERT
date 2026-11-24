@@ -1,0 +1,481 @@
+{
+  "fichas": [
+    {
+      "id": "4122fb96e4bd1976-18-vision-0",
+      "pdf_page": 18,
+      "book_page": 5,
+      "chapter": "BASICS",
+      "section": "Drawings",
+      "title": "Technical Drawings: Standard Sheet Formats and Folding",
+      "summary": "Explains the use of ISO A-series drawing sheets, title-block placement, paper-roll widths, and folding drawings for A4 box-file storage. Standard formats support layout, discussion, posting, and filing; folding instructions keep the title block visible and identify the punched or clamped edge.",
+      "building_type": "Architectural drawing and documentation standards",
+      "spaces": [],
+      "uses": [
+        "Preparing and trimming technical drawing sheets",
+        "Laying out drawings for design-office or building-site discussion",
+        "Posting and filing drawings",
+        "Folding drawings for storage in A4 box files"
+      ],
+      "furniture_equipment": [
+        "Drawing sheet",
+        "Title block",
+        "Writing box",
+        "A4 box file",
+        "21 × 29.7 cm folding template",
+        "18.5 × 29.8 cm folding template",
+        "A5 reinforcing card"
+      ],
+      "dimensions": [
+        {
+          "label": "Extra width of uncut drawing sheet",
+          "value": 2.0,
+          "value_max": 3.0,
+          "unit": "cm",
+          "context": "Uncut sheet is wider than the final trimmed original drawing and print.",
+          "status": "uncertain",
+          "ocr_raw": "uncut drawing sheet, depending on requirement, is 2-3cm wider than final trimmed original drawing and print"
+        },
+        {
+          "label": "Title-block distance from edge, formats A0–A3",
+          "value": 10.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Distance from the drawing edge for formats A0–A3.",
+          "status": "uncertain",
+          "ocr_raw": "for formats A0–A3 10 mm"
+        },
+        {
+          "label": "Title-block distance from edge, formats A4–A6",
+          "value": 5.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Distance from the drawing edge for formats A4–A6.",
+          "status": "uncertain",
+          "ocr_raw": "for formats A4–A6 5 mm"
+        },
+        {
+          "label": "Filing margin for small drawings",
+          "value": 25.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Maximum filing margin mentioned; reduces the usable area of the finished format.",
+          "status": "uncertain",
+          "ocr_raw": "For small drawings, a filing margin of up to 25 mm can be used"
+        },
+        {
+          "label": "Drawing-paper and tracing-paper roll width",
+          "value": 1500.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "One of the stated normal roll widths for providing A-series formats.",
+          "status": "uncertain",
+          "ocr_raw": "for drawing paper, tracing paper 1500, 1560 mm"
+        },
+        {
+          "label": "Drawing-paper and tracing-paper roll width",
+          "value": 1560.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "One of the stated normal roll widths for providing A-series formats.",
+          "status": "uncertain",
+          "ocr_raw": "for drawing paper, tracing paper 1500, 1560 mm"
+        },
+        {
+          "label": "Derived roll width",
+          "value": 250.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Listed among widths derived from drawing-paper and tracing-paper roll widths.",
+          "status": "uncertain",
+          "ocr_raw": "(derived from these: 250, 1250, 660, 900 mm)"
+        },
+        {
+          "label": "Derived roll width",
+          "value": 1250.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Listed among widths derived from drawing-paper and tracing-paper roll widths.",
+          "status": "uncertain",
+          "ocr_raw": "(derived from these: 250, 1250, 660, 900 mm)"
+        },
+        {
+          "label": "Derived roll width",
+          "value": 660.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Listed among widths derived from drawing-paper and tracing-paper roll widths.",
+          "status": "uncertain",
+          "ocr_raw": "(derived from these: 250, 1250, 660, 900 mm)"
+        },
+        {
+          "label": "Derived roll width",
+          "value": 900.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Listed among widths derived from drawing-paper and tracing-paper roll widths.",
+          "status": "uncertain",
+          "ocr_raw": "(derived from these: 250, 1250, 660, 900 mm)"
+        },
+        {
+          "label": "Print-paper roll width",
+          "value": 650.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "One of the stated normal roll widths for print paper.",
+          "status": "uncertain",
+          "ocr_raw": "for print paper: 650, 900, 1200 mm."
+        },
+        {
+          "label": "Print-paper roll width",
+          "value": 900.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "One of the stated normal roll widths for print paper.",
+          "status": "uncertain",
+          "ocr_raw": "for print paper: 650, 900, 1200 mm."
+        },
+        {
+          "label": "Print-paper roll width",
+          "value": 1200.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "One of the stated normal roll widths for print paper.",
+          "status": "uncertain",
+          "ocr_raw": "for print paper: 650, 900, 1200 mm."
+        },
+        {
+          "label": "Minimum paper-web roll width for cutting formats up to A0",
+          "value": 900.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "At least this roll width is necessary to cut all drawing formats up to A0 from a paper web.",
+          "status": "uncertain",
+          "ocr_raw": "a roll width of at least 900 mm will be necessary."
+        },
+        {
+          "label": "First folding width",
+          "value": 21.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Fold this width first when preparing a drawing for A4 box-file storage.",
+          "status": "uncertain",
+          "ocr_raw": "At the start of folding, a width of 21 cm must always be folded first (fold 1)"
+        },
+        {
+          "label": "Folding template width",
+          "value": 21.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Width of the recommended 21 × 29.7 cm template.",
+          "status": "uncertain",
+          "ocr_raw": "ideally with the use of a 21 x 29.7 em template."
+        },
+        {
+          "label": "Folding template height",
+          "value": 29.7,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Height of the recommended 21 × 29.7 cm template.",
+          "status": "uncertain",
+          "ocr_raw": "ideally with the use of a 21 x 29.7 em template."
+        },
+        {
+          "label": "Subsequent folded width",
+          "value": 18.5,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Fold parallel to side a to this width; a template is suggested.",
+          "status": "uncertain",
+          "ocr_raw": "The drawing is then folded parallel to side a to a width of 18.5 cm"
+        },
+        {
+          "label": "Folding template width",
+          "value": 18.5,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Width of the recommended 18.5 × 29.8 cm template.",
+          "status": "uncertain",
+          "ocr_raw": "for which a template of 18.5 x 29.8 em is useful."
+        },
+        {
+          "label": "Folding template height",
+          "value": 29.8,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Height of the recommended 18.5 × 29.8 cm template.",
+          "status": "uncertain",
+          "ocr_raw": "for which a template of 18.5 x 29.8 em is useful."
+        },
+        {
+          "label": "Reinforcing card width",
+          "value": 14.8,
+          "value_max": null,
+          "unit": "cm",
+          "context": "A piece of A5 card may be glued to the back of the punched side to reinforce the edge.",
+          "status": "uncertain",
+          "ocr_raw": "A piece of card of size A5 = 14.8 x 21 em can be glued to the back"
+        },
+        {
+          "label": "Reinforcing card height",
+          "value": 21.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "A piece of A5 card may be glued to the back of the punched side to reinforce the edge.",
+          "status": "uncertain",
+          "ocr_raw": "A piece of card of size A5 = 14.8 x 21 em can be glued to the back"
+        },
+        {
+          "label": "ISO A0 untrimmed sheet width",
+          "value": 880.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Untrimmed blank sheet size; table order is width × height.",
+          "status": "uncertain",
+          "ocr_raw": "Format: untrimmed blank sheet (mm) 880 X 1230"
+        },
+        {
+          "label": "ISO A0 untrimmed sheet height",
+          "value": 1230.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Untrimmed blank sheet size; table order is width × height.",
+          "status": "uncertain",
+          "ocr_raw": "Format: untrimmed blank sheet (mm) 880 X 1230"
+        },
+        {
+          "label": "ISO A1 untrimmed sheet width",
+          "value": 625.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Untrimmed blank sheet size; table order is width × height.",
+          "status": "uncertain",
+          "ocr_raw": "Format: untrimmed blank sheet (mm) 625x 880"
+        },
+        {
+          "label": "ISO A1 untrimmed sheet height",
+          "value": 880.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Untrimmed blank sheet size; table order is width × height.",
+          "status": "uncertain",
+          "ocr_raw": "Format: untrimmed blank sheet (mm) 625x 880"
+        },
+        {
+          "label": "ISO A2 untrimmed sheet width",
+          "value": 450.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Untrimmed blank sheet size; table order is width × height.",
+          "status": "uncertain",
+          "ocr_raw": "Format: untrimmed blank sheet (mm) 450 X 625"
+        },
+        {
+          "label": "ISO A2 untrimmed sheet height",
+          "value": 625.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Untrimmed blank sheet size; table order is width × height.",
+          "status": "uncertain",
+          "ocr_raw": "Format: untrimmed blank sheet (mm) 450 X 625"
+        },
+        {
+          "label": "ISO A3 untrimmed sheet width",
+          "value": 330.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Untrimmed blank sheet size; table order is width × height.",
+          "status": "uncertain",
+          "ocr_raw": "Format: untrimmed blank sheet (mm) 330 X 450"
+        },
+        {
+          "label": "ISO A3 untrimmed sheet height",
+          "value": 450.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Untrimmed blank sheet size; table order is width × height.",
+          "status": "uncertain",
+          "ocr_raw": "Format: untrimmed blank sheet (mm) 330 X 450"
+        },
+        {
+          "label": "ISO A4 untrimmed sheet width",
+          "value": 240.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Untrimmed blank sheet size; table order is width × height.",
+          "status": "uncertain",
+          "ocr_raw": "Format: untrimmed blank sheet (mm) 240 X 330"
+        },
+        {
+          "label": "ISO A4 untrimmed sheet height",
+          "value": 330.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Untrimmed blank sheet size; table order is width × height.",
+          "status": "uncertain",
+          "ocr_raw": "Format: untrimmed blank sheet (mm) 240 X 330"
+        },
+        {
+          "label": "ISO A5 untrimmed sheet width",
+          "value": 165.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Untrimmed blank sheet size; table order is width × height.",
+          "status": "uncertain",
+          "ocr_raw": "Format: untrimmed blank sheet (mm) 165 x 240"
+        },
+        {
+          "label": "ISO A5 untrimmed sheet height",
+          "value": 240.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Untrimmed blank sheet size; table order is width × height.",
+          "status": "uncertain",
+          "ocr_raw": "Format: untrimmed blank sheet (mm) 165 x 240"
+        },
+        {
+          "label": "ISO A0 trimmed sheet width",
+          "value": 841.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Finished trimmed sheet size; table order is width × height.",
+          "status": "uncertain",
+          "ocr_raw": "Format: trimmed finished sheet (m) 841 X 1189"
+        },
+        {
+          "label": "ISO A0 trimmed sheet height",
+          "value": 1189.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Finished trimmed sheet size; table order is width × height.",
+          "status": "uncertain",
+          "ocr_raw": "Format: trimmed finished sheet (m) 841 X 1189"
+        },
+        {
+          "label": "ISO A1 trimmed sheet width",
+          "value": 594.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Finished trimmed sheet size; table order is width × height.",
+          "status": "uncertain",
+          "ocr_raw": "Format: trimmed finished sheet (m) 594 X 841"
+        },
+        {
+          "label": "ISO A1 trimmed sheet height",
+          "value": 841.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Finished trimmed sheet size; table order is width × height.",
+          "status": "uncertain",
+          "ocr_raw": "Format: trimmed finished sheet (m) 594 X 841"
+        },
+        {
+          "label": "ISO A2 trimmed sheet width",
+          "value": 420.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Finished trimmed sheet size; table order is width × height.",
+          "status": "uncertain",
+          "ocr_raw": "Format: trimmed finished sheet (m) 420 X 594"
+        },
+        {
+          "label": "ISO A2 trimmed sheet height",
+          "value": 594.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Finished trimmed sheet size; table order is width × height.",
+          "status": "uncertain",
+          "ocr_raw": "Format: trimmed finished sheet (m) 420 X 594"
+        },
+        {
+          "label": "ISO A3 trimmed sheet width",
+          "value": 297.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Finished trimmed sheet size; table order is width × height.",
+          "status": "uncertain",
+          "ocr_raw": "Format: trimmed finished sheet (m) 297 x 420"
+        },
+        {
+          "label": "ISO A3 trimmed sheet height",
+          "value": 420.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Finished trimmed sheet size; table order is width × height.",
+          "status": "uncertain",
+          "ocr_raw": "Format: trimmed finished sheet (m) 297 x 420"
+        },
+        {
+          "label": "ISO A4 trimmed sheet width",
+          "value": 210.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Finished trimmed sheet size; table order is width × height.",
+          "status": "uncertain",
+          "ocr_raw": "Format: trimmed finished sheet (m) 210 X 297"
+        },
+        {
+          "label": "ISO A4 trimmed sheet height",
+          "value": 297.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Finished trimmed sheet size; table order is width × height.",
+          "status": "uncertain",
+          "ocr_raw": "Format: trimmed finished sheet (m) 210 X 297"
+        },
+        {
+          "label": "ISO A5 trimmed sheet width",
+          "value": 148.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Finished trimmed sheet size; table order is width × height.",
+          "status": "uncertain",
+          "ocr_raw": "Format: trimmed finished sheet (m) 148 x 210"
+        },
+        {
+          "label": "ISO A5 trimmed sheet height",
+          "value": 210.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Finished trimmed sheet size; table order is width × height.",
+          "status": "uncertain",
+          "ocr_raw": "Format: trimmed finished sheet (m) 148 x 210"
+        }
+      ],
+      "figure_refs": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8"
+      ],
+      "cross_refs": [
+        "ISO A series",
+        "BS EN ISO 128",
+        "BS 1192",
+        "BS EN ISO 4157",
+        "DIN 824"
+      ],
+      "keywords": [
+        "technical drawings",
+        "drawing sheets",
+        "ISO A series",
+        "paper formats",
+        "title block",
+        "filing margin",
+        "drawing paper",
+        "tracing paper",
+        "print paper",
+        "folding schemes",
+        "A4 box files"
+      ],
+      "tags_architectural": [
+        "modularity",
+        "clearance"
+      ],
+      "confidence": 0.96
+    }
+  ]
+}

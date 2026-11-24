@@ -1,0 +1,323 @@
+{
+  "fichas": [
+    {
+      "id": "4122fb96e4bd1976-162-vision-0",
+      "pdf_page": 162,
+      "book_page": 149,
+      "chapter": "RESIDENTIAL BUILDINGS",
+      "section": "Rooms",
+      "title": "Kitchens",
+      "summary": "The kitchen is both a domestic workplace and a living and meeting space, with useful relationships to the entrance, garden, cellar, dining room, utility room and larder. Planning should support an efficient work sequence, sufficient movement space, good posture and lighting. The page provides room-planning guidance, kitchen-unit dimensions, work-area arrangements and room-relationship diagrams.",
+      "building_type": "Residential kitchen",
+      "spaces": [
+        "Kitchen",
+        "Kitchenette",
+        "Entrance area",
+        "Dining room",
+        "Utility room",
+        "Larder",
+        "Cellar",
+        "Garden"
+      ],
+      "uses": [
+        "Cooking",
+        "Food preparation",
+        "Washing-up",
+        "Storage",
+        "Meeting and living"
+      ],
+      "furniture_equipment": [
+        "Base unit cupboards",
+        "Broom cupboard",
+        "Wall cupboards",
+        "Refrigerator",
+        "Freezer",
+        "Chest freezer",
+        "Worktops",
+        "Cooker with oven and extractor hood",
+        "Built-in cooker",
+        "Built-in oven",
+        "Microwave oven",
+        "Single-basin sink with draining board",
+        "Double-basin sink with draining board",
+        "Dishwasher"
+      ],
+      "dimensions": [
+        {
+          "label": "Minimum clear ceiling height",
+          "value": 2.4,
+          "value_max": null,
+          "unit": "m",
+          "context": "Kitchen as a habitable room",
+          "status": "uncertain",
+          "ocr_raw": "clear ceiling height of at least 2.40 m"
+        },
+        {
+          "label": "Minimum window area fraction",
+          "value": 0.125,
+          "value_max": null,
+          "unit": "ratio",
+          "context": "Structural window dimensions relative to net floor area; printed as 1/8",
+          "status": "uncertain",
+          "ocr_raw": "a window area (structural dimensions) of at least 1/8 of the net floor area"
+        },
+        {
+          "label": "Movement area between worktop runs",
+          "value": 1.2,
+          "value_max": 1.5,
+          "unit": "m",
+          "context": "Required movement area; minimum 1.20 m, recommended 1.50 m",
+          "status": "uncertain",
+          "ocr_raw": "A movement area of 1.50 m (min. 1.20 m) is therefore required between the stretches of worktop."
+        },
+        {
+          "label": "Minimum kitchen width",
+          "value": 2.4,
+          "value_max": 2.7,
+          "unit": "m",
+          "context": "Width resulting from 60 cm-deep kitchen units on both sides of the movement area; minimum 2.40 m and stated width 2.70 m, plus approximately 6 cm spacing up to the wall",
+          "status": "uncertain",
+          "ocr_raw": "this results in a minimum kitchen width of 2.70 m (min 2.40 m) (plus approx. 6 cm spacing up to the wall)."
+        },
+        {
+          "label": "Worktop height",
+          "value": 85.0,
+          "value_max": 95.0,
+          "unit": "cm",
+          "context": "Worktop height, to be adapted where possible to the user",
+          "status": "uncertain",
+          "ocr_raw": "can vary between 85 and 95 cm"
+        },
+        {
+          "label": "Kitchen width shown in plan",
+          "value": 2.46,
+          "value_max": 2.76,
+          "unit": "m",
+          "context": "Dimensional requirements diagram; the drawing labels the overall width 2.46/2.76",
+          "status": "uncertain",
+          "ocr_raw": "2.46/2.76"
+        },
+        {
+          "label": "Movement-space width shown in plan",
+          "value": 1.2,
+          "value_max": 1.5,
+          "unit": "m",
+          "context": "Dimensional requirements diagram",
+          "status": "uncertain",
+          "ocr_raw": "1.20/1.50"
+        },
+        {
+          "label": "Side unit width shown in plan",
+          "value": 60.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Each side of the movement area in the dimensional requirements diagram",
+          "status": "uncertain",
+          "ocr_raw": "≥ 60"
+        },
+        {
+          "label": "Base unit cupboard width",
+          "value": 30.0,
+          "value_max": 150.0,
+          "unit": "cm",
+          "context": "Kitchen furniture dimensions; depth 60 cm",
+          "status": "uncertain",
+          "ocr_raw": "30–150 60"
+        },
+        {
+          "label": "Broom cupboard width",
+          "value": 60.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Kitchen furniture dimensions; depth 60 cm",
+          "status": "uncertain",
+          "ocr_raw": "60 60"
+        },
+        {
+          "label": "Wall cupboard width",
+          "value": 30.0,
+          "value_max": 150.0,
+          "unit": "cm",
+          "context": "Kitchen furniture dimensions; depth ≤40 cm",
+          "status": "uncertain",
+          "ocr_raw": "30–150 ≤40"
+        },
+        {
+          "label": "Refrigerator width",
+          "value": 60.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Kitchen appliance dimensions; depth 60 cm",
+          "status": "uncertain",
+          "ocr_raw": "60 60"
+        },
+        {
+          "label": "Freezer width",
+          "value": 60.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Kitchen appliance dimensions; depth 60 cm",
+          "status": "uncertain",
+          "ocr_raw": "60 60"
+        },
+        {
+          "label": "Chest freezer width",
+          "value": 90.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Minimum width; depth according to manufacturer",
+          "status": "uncertain",
+          "ocr_raw": "≥90 acc. to maker"
+        },
+        {
+          "label": "Small worktop between cooker and sink width",
+          "value": 60.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Minimum width; depth 60 cm",
+          "status": "uncertain",
+          "ocr_raw": "≥60 60"
+        },
+        {
+          "label": "Large worktop width",
+          "value": 120.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Minimum width; depth 60 cm",
+          "status": "uncertain",
+          "ocr_raw": "≥120 60"
+        },
+        {
+          "label": "Appliance set-down surface width",
+          "value": 60.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Minimum width; depth 60 cm",
+          "status": "uncertain",
+          "ocr_raw": "≥60 60"
+        },
+        {
+          "label": "Worktop next to cooker width",
+          "value": 30.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Minimum width; depth 60 cm",
+          "status": "uncertain",
+          "ocr_raw": "≥30 60"
+        },
+        {
+          "label": "Worktop next to sink width",
+          "value": 60.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Minimum width; depth 60 cm",
+          "status": "uncertain",
+          "ocr_raw": "≥60 60"
+        },
+        {
+          "label": "Cooker with oven and extractor hood width",
+          "value": 60.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Kitchen appliance dimensions; depth 60 cm",
+          "status": "uncertain",
+          "ocr_raw": "60 60"
+        },
+        {
+          "label": "Built-in cooker with base unit width",
+          "value": 60.0,
+          "value_max": 90.0,
+          "unit": "cm",
+          "context": "Kitchen appliance dimensions; depth 60 cm",
+          "status": "uncertain",
+          "ocr_raw": "60–90 60"
+        },
+        {
+          "label": "Built-in oven with base unit width",
+          "value": 60.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Kitchen appliance dimensions; depth 60 cm",
+          "status": "uncertain",
+          "ocr_raw": "60 60"
+        },
+        {
+          "label": "Microwave oven width",
+          "value": 60.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Kitchen appliance dimensions; depth 60 cm",
+          "status": "uncertain",
+          "ocr_raw": "60 60"
+        },
+        {
+          "label": "Single-basin sink with draining board width",
+          "value": 90.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Minimum width; depth 60 cm",
+          "status": "uncertain",
+          "ocr_raw": "≥90 60"
+        },
+        {
+          "label": "Double-basin sink with draining board width",
+          "value": 120.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Minimum width; depth 60 cm",
+          "status": "uncertain",
+          "ocr_raw": "≥120 60"
+        },
+        {
+          "label": "Dishwasher width",
+          "value": 60.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Kitchen appliance dimensions; depth 60 cm",
+          "status": "uncertain",
+          "ocr_raw": "60 60"
+        },
+        {
+          "label": "Washing-up unit width",
+          "value": 90.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Minimum width; single-basin sink with draining board, base unit and dishwasher; depth 60 cm",
+          "status": "uncertain",
+          "ocr_raw": "≥90 60"
+        }
+      ],
+      "figure_refs": [
+        "1 — Dimensional requirements for kitchens",
+        "2 — Practical arrangement of working areas in the kitchen",
+        "3 — Dimensions of kitchen units and appliances",
+        "4 — Room relationships of a larger kitchen"
+      ],
+      "cross_refs": [
+        "Accessible building p. 21",
+        "p. 21 ff.",
+        "p. 154"
+      ],
+      "keywords": [
+        "kitchen planning",
+        "kitchenette",
+        "worktop",
+        "movement area",
+        "kitchen furniture",
+        "room relationships",
+        "ventilation",
+        "daylight"
+      ],
+      "tags_architectural": [
+        "circulation",
+        "ergonomics",
+        "anthropometry",
+        "clearance",
+        "daylighting",
+        "ventilation",
+        "accessibility"
+      ],
+      "confidence": 0.94
+    }
+  ]
+}

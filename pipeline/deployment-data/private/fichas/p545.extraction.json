@@ -1,0 +1,265 @@
+{
+  "fichas": [
+    {
+      "id": "4122fb96e4bd1976-545-vision-0",
+      "pdf_page": 545,
+      "book_page": 532,
+      "chapter": "BUILDING SERVICES",
+      "section": "Domestic Installation",
+      "title": "Chimney opening and solid-fuel heating room",
+      "summary": "Diagram of a solid-fuel boiler room showing the chimney, air supply and waste-air routes. The printed requirements specify a minimum chimney opening, room size, heating capacity and room height.",
+      "building_type": "Building with solid-fuel heating",
+      "spaces": [
+        "Heating room",
+        "Chimney"
+      ],
+      "uses": [
+        "House a solid-fuel boiler",
+        "Provide combustion air and waste-air route"
+      ],
+      "furniture_equipment": [
+        "Boiler",
+        "Chimney"
+      ],
+      "dimensions": [
+        {
+          "label": "Minimum chimney opening",
+          "value": 150.0,
+          "value_max": null,
+          "unit": "cm²",
+          "context": "Minimum opening shown for the chimney.",
+          "status": "uncertain",
+          "ocr_raw": "Chimney opening min. 150 cm 2"
+        },
+        {
+          "label": "Minimum heating-room area/volume",
+          "value": 8.0,
+          "value_max": null,
+          "unit": "m³",
+          "context": "Requirement printed for a heating room for solid fuel; OCR calls this an area, while the unit shown is cubic metres.",
+          "status": "uncertain",
+          "ocr_raw": "Heating room for solid fuel, min. area 8 m3 necessary for heating capacity ≥50 kW"
+        },
+        {
+          "label": "Heating capacity threshold",
+          "value": 50.0,
+          "value_max": null,
+          "unit": "kW",
+          "context": "Heating-room requirement applies to heating capacity at or above this threshold.",
+          "status": "uncertain",
+          "ocr_raw": "necessary for heating capacity ≥50 kW"
+        },
+        {
+          "label": "Minimum room height",
+          "value": 2.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Clear height indicated inside the heating room diagram.",
+          "status": "uncertain",
+          "ocr_raw": "≥2.0 m"
+        }
+      ],
+      "figure_refs": [
+        "1"
+      ],
+      "cross_refs": [],
+      "keywords": [
+        "chimney",
+        "solid fuel",
+        "boiler room",
+        "combustion air"
+      ],
+      "tags_architectural": [
+        "ventilation",
+        "safety"
+      ],
+      "confidence": 0.85
+    },
+    {
+      "id": "4122fb96e4bd1976-545-vision-1",
+      "pdf_page": 545,
+      "book_page": 532,
+      "chapter": "BUILDING SERVICES",
+      "section": "Domestic Installation",
+      "title": "Heating systems and heat generation",
+      "summary": "Overview of building heating systems, heat generators and distribution media. Water is the usual medium; gas and oil boilers are described, along with renewable-energy approaches including geothermal energy, CHP, wood and seasonal thermal-solar storage.",
+      "building_type": "Building heating system",
+      "spaces": [
+        "Heating plant area",
+        "Heated rooms"
+      ],
+      "uses": [
+        "Generate heat",
+        "Distribute heat through water, air or, for industrial purposes, steam",
+        "Use renewable or conventional energy sources"
+      ],
+      "furniture_equipment": [
+        "Heat generator",
+        "Boiler",
+        "Heat exchanger",
+        "Heat pump"
+      ],
+      "dimensions": [
+        {
+          "label": "Typical boiler combustion temperature",
+          "value": 1000.0,
+          "value_max": null,
+          "unit": "°C",
+          "context": "Approximate combustion temperature in boilers burning heating gas or oil.",
+          "status": "uncertain",
+          "ocr_raw": "combustion temperature of about 1ooooc"
+        },
+        {
+          "label": "Temperature typically sufficient for heat distribution medium",
+          "value": 70.0,
+          "value_max": null,
+          "unit": "°C",
+          "context": "Temperature described as typically sufficient for the heat distribution medium.",
+          "status": "uncertain",
+          "ocr_raw": "a temperature of 70°C is typically sufficient"
+        }
+      ],
+      "figure_refs": [
+        "2"
+      ],
+      "cross_refs": [
+        "p. 469",
+        "refs"
+      ],
+      "keywords": [
+        "heating system",
+        "heat generator",
+        "boiler",
+        "heat pump",
+        "geothermal energy",
+        "CHP",
+        "thermal solar energy"
+      ],
+      "tags_architectural": [
+        "adaptability",
+        "ventilation"
+      ],
+      "confidence": 0.9
+    },
+    {
+      "id": "4122fb96e4bd1976-545-vision-2",
+      "pdf_page": 545,
+      "book_page": 532,
+      "chapter": "BUILDING SERVICES",
+      "section": "Domestic Installation",
+      "title": "Warm-water heat distribution and pipework layouts",
+      "summary": "Warm-water central heating circulates heated water to radiators and returns cooled water to the heat generator. The page illustrates twin-pipe and single-pipe distribution arrangements, including low-level, high-level, horizontal and floor-by-floor layouts.",
+      "building_type": "Building with central heating",
+      "spaces": [
+        "Boiler area",
+        "Heated rooms",
+        "Pipe routes"
+      ],
+      "uses": [
+        "Circulate heating water between heat generator and radiators",
+        "Distribute heat through twin-pipe or single-pipe layouts"
+      ],
+      "furniture_equipment": [
+        "Boiler",
+        "Pump",
+        "Radiators",
+        "Heating pipes",
+        "Valves"
+      ],
+      "dimensions": [
+        {
+          "label": "Maximum warm-water central-heating flow temperature",
+          "value": 100.0,
+          "value_max": null,
+          "unit": "°C",
+          "context": "Approximate maximum flow temperature for warm-water central heating.",
+          "status": "uncertain",
+          "ocr_raw": "max. flow temperature of approx. 100°C"
+        },
+        {
+          "label": "Preferred low-temperature flow range",
+          "value": 45.0,
+          "value_max": 70.0,
+          "unit": "°C",
+          "context": "Range normally preferred today for warm-water central heating.",
+          "status": "uncertain",
+          "ocr_raw": "45-70°C is normally preferred today"
+        },
+        {
+          "label": "Hot-water heating flow-temperature threshold",
+          "value": 120.0,
+          "value_max": null,
+          "unit": "°C",
+          "context": "Systems with flow temperatures over this threshold are classified as hot-water heating.",
+          "status": "uncertain",
+          "ocr_raw": "flow temperatures of over 120°C count as hot water heating"
+        }
+      ],
+      "figure_refs": [
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7"
+      ],
+      "cross_refs": [
+        "②–⑦"
+      ],
+      "keywords": [
+        "warm-water central heating",
+        "heat distribution",
+        "flow and return",
+        "twin-pipe system",
+        "single-pipe system",
+        "radiators"
+      ],
+      "tags_architectural": [
+        "circulation",
+        "adaptability"
+      ],
+      "confidence": 0.94
+    },
+    {
+      "id": "4122fb96e4bd1976-545-vision-3",
+      "pdf_page": 545,
+      "book_page": 532,
+      "chapter": "BUILDING SERVICES",
+      "section": "Domestic Installation",
+      "title": "Gas, oil and solid-fuel heating",
+      "summary": "Compares gas, oil and solid-fuel heating by fuel supply, storage, controllability, operating considerations and environmental impacts. Gas offers convenient supply and regulation but depends on the public utility network; oil requires storage; solid fuel requires more operator work and storage space.",
+      "building_type": "Building heating plant",
+      "spaces": [
+        "Boiler area",
+        "Fuel storage area"
+      ],
+      "uses": [
+        "Provide building heat using gas, heating oil or solid fuel"
+      ],
+      "furniture_equipment": [
+        "Gas boiler",
+        "Oil-fired boiler",
+        "Solid-fuel boiler",
+        "Oil storage tank",
+        "Fuel store",
+        "Chimney"
+      ],
+      "dimensions": [],
+      "figure_refs": [],
+      "cross_refs": [],
+      "keywords": [
+        "gas firing",
+        "oil firing",
+        "solid fuel firing",
+        "fuel storage",
+        "environmental impact",
+        "boiler"
+      ],
+      "tags_architectural": [
+        "safety",
+        "adaptability"
+      ],
+      "confidence": 0.9
+    }
+  ]
+}

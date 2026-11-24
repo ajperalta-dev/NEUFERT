@@ -1,0 +1,238 @@
+{
+  "model": "gpt-6-luna",
+  "checks": {
+    "checks": [
+      {
+        "ficha_index": 0,
+        "dimension_index": 0,
+        "status": "verified",
+        "value": 0.85,
+        "value_max": null,
+        "reason": "The text visibly states \u201c0.85 m above sill level.\u201d"
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 1,
+        "status": "verified",
+        "value": 5.5,
+        "value_max": null,
+        "reason": "The text visibly states that the window area would have to be 5.5 times larger than the roof opening."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 2,
+        "status": "verified",
+        "value": 3.0,
+        "value_max": null,
+        "reason": "The text visibly states that zenith illuminance is three times that at the horizon."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 3,
+        "status": "verified",
+        "value": 100.0,
+        "value_max": null,
+        "reason": "The text visibly states \u201c100%\u201d of sky light reaches the rooflight."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 4,
+        "status": "verified",
+        "value": 33.3,
+        "value_max": null,
+        "reason": "The text visibly states \u201c33.3%\u201d of sky light reaches the side windows."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 5,
+        "status": "verified",
+        "value": 12.0,
+        "value_max": 15.0,
+        "reason": "Figure 2\u2019s caption visibly states a room height of 12\u201315 m."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 6,
+        "status": "verified",
+        "value": 3.0,
+        "value_max": null,
+        "reason": "Figure 3\u2019s caption visibly states a height of 3 m."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 7,
+        "status": "verified",
+        "value": 0.5,
+        "value_max": null,
+        "reason": "The minimum daylight-factor criterion visibly reads Dmin/Dmax \u2265 0.5."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 8,
+        "status": "verified",
+        "value": 2.0,
+        "value_max": null,
+        "reason": "The text visibly states Dmin \u2265 2%."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 9,
+        "status": "verified",
+        "value": 4.0,
+        "value_max": null,
+        "reason": "The text visibly states that workrooms require \u2265 4%."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 10,
+        "status": "corrected",
+        "value": 0.5,
+        "value_max": null,
+        "reason": "The printed uniformity is G \u2265 1:2; normalized exactly, the ratio 1:2 is 0.5, not 1.0."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 11,
+        "status": "verified",
+        "value": 16.0,
+        "value_max": 22.0,
+        "reason": "The text visibly states an opening area of approximately \u2265 16\u201322% of the plan area."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 12,
+        "status": "verified",
+        "value": 1.0,
+        "value_max": null,
+        "reason": "The text visibly states an ideal spacing-to-room-height ratio of 1:1."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 13,
+        "status": "uncertain",
+        "value": 1.0,
+        "value_max": null,
+        "reason": "The printed first recommended ratio is 1:1.5. The proposed value 1.0 does not express that complete ratio, and its intended numeric encoding is unclear."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 14,
+        "status": "uncertain",
+        "value": 1.0,
+        "value_max": null,
+        "reason": "The printed second recommended ratio is 1:2. The proposed value 1.0 does not express that complete ratio, and its intended numeric encoding is unclear."
+      }
+    ]
+  },
+  "automatic": [
+    {
+      "ficha_index": 0,
+      "dimension_index": 0,
+      "issues": []
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 1,
+      "issues": [
+        "Unknown unit"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 2,
+      "issues": [
+        "Unknown unit"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 3,
+      "issues": [
+        "Unknown unit"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 4,
+      "issues": [
+        "Unknown unit"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 5,
+      "issues": []
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 6,
+      "issues": []
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 7,
+      "issues": [
+        "Unknown unit"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 8,
+      "issues": [
+        "Unknown unit"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 9,
+      "issues": [
+        "Unknown unit"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 10,
+      "issues": [
+        "Unknown unit"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 11,
+      "issues": [
+        "Unknown unit"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 12,
+      "issues": [
+        "Unknown unit"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 13,
+      "issues": [
+        "Unknown unit"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 14,
+      "issues": [
+        "Unknown unit"
+      ]
+    }
+  ],
+  "usage": [
+    {
+      "prompt_tokens": 5066,
+      "completion_tokens": 1540
+    },
+    {
+      "prompt_tokens": 4784,
+      "completion_tokens": 1128
+    }
+  ]
+}

@@ -1,0 +1,245 @@
+{
+  "fichas": [
+    {
+      "id": "4122fb96e4bd1976-379-vision-0",
+      "pdf_page": 379,
+      "book_page": 366,
+      "chapter": "SPORT AND LEISURE",
+      "section": "Swimming Pools",
+      "title": "Indoor Public Pool Diving Facilities",
+      "summary": "Diving facilities for school and competitive sport include rigid platforms at 1, 3, 5 and 10 m and springboards at 1 and 3 m. Heights are measured from the water surface. Boards and platforms are reached by steep steps and are located on one side of the pool. Water rippling devices or sprinkler jets may improve divers’ visibility of the water surface. The safety-dimensions table specifies minimum clearances and water depths for different board and platform heights.",
+      "building_type": "Indoor public swimming pool",
+      "spaces": [
+        "Swimming pool",
+        "Diving area",
+        "Diving board and platform access"
+      ],
+      "uses": [
+        "School diving",
+        "Competitive diving"
+      ],
+      "furniture_equipment": [
+        "Rigid diving platforms",
+        "Rebounding springboards made of aluminium, wood or plastic",
+        "Steep access steps",
+        "Water rippling devices or sprinkler jets"
+      ],
+      "dimensions": [
+        {
+          "label": "Diving platform heights",
+          "value": 1.0,
+          "value_max": 10.0,
+          "unit": "m",
+          "context": "Rigid diving platforms; listed heights are 1, 3, 5 and 10 m, measured from the water surface.",
+          "status": "uncertain",
+          "ocr_raw": "a rigid platform at heights of 1, 3, 5 and 10 m"
+        },
+        {
+          "label": "Springboard heights",
+          "value": 1.0,
+          "value_max": 3.0,
+          "unit": "m",
+          "context": "Rebounding springboards; listed heights are 1 and 3 m, measured from the water surface.",
+          "status": "uncertain",
+          "ocr_raw": "a rebounding springboard, made of aluminium, wood or plastic, at heights of 1 and 3 m"
+        },
+        {
+          "label": "Water temperature",
+          "value": 24.0,
+          "value_max": 28.0,
+          "unit": "°C",
+          "context": "Indoor public pool water temperature.",
+          "status": "uncertain",
+          "ocr_raw": "Water temperature: 24-28 a c."
+        },
+        {
+          "label": "Possible pool dimensions",
+          "value": 22.4,
+          "value_max": null,
+          "unit": "m",
+          "context": "Water polo pool option; length × width is 22.40 × 16.66 m.",
+          "status": "uncertain",
+          "ocr_raw": "possible dimensions: 22.40 x 16.66m"
+        },
+        {
+          "label": "Possible pool width",
+          "value": 16.66,
+          "value_max": null,
+          "unit": "m",
+          "context": "Water polo pool option; length × width is 22.40 × 16.66 m.",
+          "status": "uncertain",
+          "ocr_raw": "possible dimensions: 22.40 x 16.66m"
+        },
+        {
+          "label": "Possible pool length",
+          "value": 25.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Alternative water polo pool option; length × width is 25.00 × 15.00 m.",
+          "status": "uncertain",
+          "ocr_raw": "or 25.00 x 15.00 m"
+        },
+        {
+          "label": "Possible pool width",
+          "value": 15.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Alternative water polo pool option; length × width is 25.00 × 15.00 m.",
+          "status": "uncertain",
+          "ocr_raw": "or 25.00 x 15.00 m"
+        },
+        {
+          "label": "Water depth",
+          "value": 4.5,
+          "value_max": null,
+          "unit": "m",
+          "context": "Water polo pool depth; stated minimum.",
+          "status": "uncertain",
+          "ocr_raw": "at least: 4.50 m"
+        },
+        {
+          "label": "Recommended water depth",
+          "value": 5.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Water polo pool depth.",
+          "status": "uncertain",
+          "ocr_raw": "recommended: 5.00 m"
+        }
+      ],
+      "figure_refs": [
+        "1–5 m diving facilities (complete)",
+        "2–10 m diving facilities (complete)",
+        "3 Cross-section",
+        "4 Longitudinal section",
+        "8 Safety dimensions for diving facilities"
+      ],
+      "cross_refs": [
+        "Safety dimensions for diving facilities → 1–7"
+      ],
+      "keywords": [
+        "diving facilities",
+        "springboard",
+        "diving platform",
+        "water depth",
+        "pool safety",
+        "water temperature"
+      ],
+      "tags_architectural": [
+        "safety",
+        "clearance"
+      ],
+      "confidence": 0.91
+    },
+    {
+      "id": "4122fb96e4bd1976-379-vision-1",
+      "pdf_page": 379,
+      "book_page": 366,
+      "chapter": "SPORT AND LEISURE",
+      "section": "Swimming Pools",
+      "title": "Water Polo Playing Area and Goals",
+      "summary": "The page diagrams a water polo playing area with marked goal, boundary, centre, 2 m and 4 m lines, plus front and side views of the goal. It also notes an alternative hook-in goal for a 25 m pool. The pool dimensions and playing-area markings are shown in the diagrams.",
+      "building_type": "Indoor public swimming pool",
+      "spaces": [
+        "Swimming pool",
+        "Water polo playing area",
+        "Goal area"
+      ],
+      "uses": [
+        "Water polo"
+      ],
+      "furniture_equipment": [
+        "Water polo goal",
+        "Hook-in goal",
+        "Goal line markings",
+        "Boundary line markings",
+        "Centre line marking",
+        "2 m line marking",
+        "4 m line marking"
+      ],
+      "dimensions": [
+        {
+          "label": "Playing-area length",
+          "value": 30.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Water polo playing area; dimension shown along the playing-area diagram.",
+          "status": "uncertain",
+          "ocr_raw": "30.00"
+        },
+        {
+          "label": "Playing-area width",
+          "value": 20.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Water polo playing area; dimension shown beside the playing-area diagram.",
+          "status": "uncertain",
+          "ocr_raw": "20.00"
+        },
+        {
+          "label": "Pool length",
+          "value": 50.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Overall dimension shown beneath the water polo playing-area diagram.",
+          "status": "uncertain",
+          "ocr_raw": "50.00"
+        },
+        {
+          "label": "Goal width",
+          "value": 3.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Water polo goal, front view.",
+          "status": "uncertain",
+          "ocr_raw": "3.00"
+        },
+        {
+          "label": "Goal depth",
+          "value": 2.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Water polo goal, side view.",
+          "status": "uncertain",
+          "ocr_raw": "2.00"
+        },
+        {
+          "label": "Alternative pool length",
+          "value": 25.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Alternative arrangement using a hook-in goal.",
+          "status": "uncertain",
+          "ocr_raw": "Alternative: with a hook-in goal in a 25 rn pool"
+        },
+        {
+          "label": "Minimum water depth for alternative hook-in goal",
+          "value": 70.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Alternative arrangement with a hook-in goal in a 25 m pool.",
+          "status": "uncertain",
+          "ocr_raw": "at least 70 ern"
+        }
+      ],
+      "figure_refs": [
+        "5 Water polo playing area",
+        "6 Water polo goal (front view)",
+        "7 Water polo goal (side view)"
+      ],
+      "cross_refs": [],
+      "keywords": [
+        "water polo",
+        "playing area",
+        "goal",
+        "pool markings",
+        "hook-in goal"
+      ],
+      "tags_architectural": [
+        "safety",
+        "circulation"
+      ],
+      "confidence": 0.86
+    }
+  ]
+}

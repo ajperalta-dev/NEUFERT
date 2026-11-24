@@ -1,0 +1,404 @@
+{
+  "fichas": [
+    {
+      "id": "4122fb96e4bd1976-355-vision-0",
+      "pdf_page": 355,
+      "book_page": 342,
+      "chapter": "SPORT AND LEISURE",
+      "section": "Sports Facilities",
+      "title": "Equestrian Facility: Functional Organization",
+      "summary": "The facility is organized around self-contained buildings for horse accommodation, care, and feeding, with a covered riding area for all-weather activity. The arrangement of functions varies with the size and operational needs of the establishment. The diagram distinguishes functions under a roof or in a building, outside areas, people-only areas, areas shared by people and horses, and sight connections.",
+      "building_type": "Equestrian facility",
+      "spaces": [
+        "Stable",
+        "Covered riding area",
+        "Open riding area",
+        "Horse-feed storage",
+        "Wash area",
+        "Turning area",
+        "First-aid room",
+        "Changing and toilet facilities",
+        "Teaching and control rooms",
+        "Spectator area",
+        "Staff accommodation"
+      ],
+      "uses": [
+        "Accommodating, caring for, and feeding horses",
+        "Riding and training in all weather",
+        "Supporting stable operations and staff",
+        "Connecting indoor and outdoor riding areas"
+      ],
+      "furniture_equipment": [
+        "Stable equipment",
+        "Straw cutter",
+        "Hay and straw store",
+        "Grain silo",
+        "Horsebox"
+      ],
+      "dimensions": [],
+      "figure_refs": [
+        "1 Scheme of the indoor spatial relationships of a riding facility"
+      ],
+      "cross_refs": [
+        "1"
+      ],
+      "keywords": [
+        "equestrian sport",
+        "riding facility",
+        "stable",
+        "covered riding area",
+        "spatial organization"
+      ],
+      "tags_architectural": [
+        "circulation",
+        "adaptability"
+      ],
+      "confidence": 0.95
+    },
+    {
+      "id": "4122fb96e4bd1976-355-vision-1",
+      "pdf_page": 355,
+      "book_page": 342,
+      "chapter": "SPORT AND LEISURE",
+      "section": "Sports Facilities",
+      "title": "Functional Dimensions of Open-Air Riding Areas",
+      "summary": "The reference gives functional sizes and uses for open-air riding areas, from a lunge or horseback-acrobatics space to larger arenas for general riding and dressage. It also shows competition arena formats and a minimum spectator safety distance.",
+      "building_type": "Outdoor equestrian sports facility",
+      "spaces": [
+        "Lunge or horseback-acrobatics area",
+        "Open-air riding arena",
+        "Competition arena",
+        "Spectator area"
+      ],
+      "uses": [
+        "Lunge and horseback acrobatics",
+        "Dressage",
+        "Showjumping",
+        "Testing",
+        "Two-horse or four-horse carriage use",
+        "Maintaining spectator safety"
+      ],
+      "furniture_equipment": [],
+      "dimensions": [
+        {
+          "label": "Lunge or horseback-acrobatics diameter",
+          "value": 14.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Minimum indicated size for lunge/horseback acrobatics.",
+          "status": "uncertain",
+          "ocr_raw": "≥ 14.0 m"
+        },
+        {
+          "label": "Smallest arena length",
+          "value": 12.5,
+          "value_max": null,
+          "unit": "m",
+          "context": "Smallest arena; private stables or emergency solution for clubs.",
+          "status": "uncertain",
+          "ocr_raw": "12.5 x 25.0m"
+        },
+        {
+          "label": "Smallest arena width",
+          "value": 25.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Smallest arena; private stables or emergency solution for clubs.",
+          "status": "uncertain",
+          "ocr_raw": "12.5 x 25.0m"
+        },
+        {
+          "label": "Arena length",
+          "value": 15.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Private stables and smaller club stables; also a second arena at larger establishments.",
+          "status": "uncertain",
+          "ocr_raw": "15.0 x 30.0m"
+        },
+        {
+          "label": "Arena width",
+          "value": 30.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Private stables and smaller club stables; also a second arena at larger establishments.",
+          "status": "uncertain",
+          "ocr_raw": "15.0 x 30.0m"
+        },
+        {
+          "label": "Normal arena length",
+          "value": 20.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Normal size for every type of establishment; dressage exams possible.",
+          "status": "uncertain",
+          "ocr_raw": "20.0 x 40/45 m"
+        },
+        {
+          "label": "Normal arena width",
+          "value": 40.0,
+          "value_max": 45.0,
+          "unit": "m",
+          "context": "Normal size for every type of establishment; dressage exams possible.",
+          "status": "uncertain",
+          "ocr_raw": "20.0 x 40/45 m"
+        },
+        {
+          "label": "Dressage arena length",
+          "value": 20.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "For larger establishments and institutions specializing in dressage.",
+          "status": "uncertain",
+          "ocr_raw": "20.0 x 60.0m"
+        },
+        {
+          "label": "Dressage arena width",
+          "value": 60.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "For larger establishments and institutions specializing in dressage.",
+          "status": "uncertain",
+          "ocr_raw": "20.0 x 60.0m"
+        },
+        {
+          "label": "Large riding-hall format length",
+          "value": 25.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Large schools providing jumping and dressage training, and boarding establishments.",
+          "status": "uncertain",
+          "ocr_raw": "25.0 x 66.0m"
+        },
+        {
+          "label": "Large riding-hall format width",
+          "value": 66.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Large schools providing jumping and dressage training, and boarding establishments.",
+          "status": "uncertain",
+          "ocr_raw": "25.0 x 66.0m"
+        },
+        {
+          "label": "Competition arena length",
+          "value": 50.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Competition arena format shown in the diagram.",
+          "status": "uncertain",
+          "ocr_raw": "50x100m"
+        },
+        {
+          "label": "Competition arena width",
+          "value": 100.0,
+          "value_max": 300.0,
+          "unit": "m",
+          "context": "Diagram gives 50x100m, with arenas up to 150x300m; the printed maximum applies to the corresponding arena format.",
+          "status": "uncertain",
+          "ocr_raw": "50x100m up to 150x300m"
+        },
+        {
+          "label": "Minimum distance from spectators to hooves",
+          "value": 5.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "For competitions.",
+          "status": "uncertain",
+          "ocr_raw": "minimum distance of the spectators from hooves is 5 m"
+        },
+        {
+          "label": "Minimum distance from spectators to hooves",
+          "value": 20.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "For indoor trials.",
+          "status": "uncertain",
+          "ocr_raw": "for indoor trials 20 m"
+        }
+      ],
+      "figure_refs": [
+        "2 Functional dimensions of open-air riding areas"
+      ],
+      "cross_refs": [
+        "2"
+      ],
+      "keywords": [
+        "riding arena",
+        "open-air arena",
+        "dressage",
+        "showjumping",
+        "competition",
+        "spectator safety"
+      ],
+      "tags_architectural": [
+        "safety",
+        "clearance",
+        "spatial_proportion"
+      ],
+      "confidence": 0.91
+    },
+    {
+      "id": "4122fb96e4bd1976-355-vision-2",
+      "pdf_page": 355,
+      "book_page": 342,
+      "chapter": "SPORT AND LEISURE",
+      "section": "Sports Facilities",
+      "title": "Clear Dimensions of Riding Halls",
+      "summary": "The page identifies a 20 × 40 m net riding space as the minimum, with larger 20 × 60 m spaces required for dressage from class M and eventing. Additional space is required at the sides and entrance, producing a stated gross arena size of 26 × 48 m. The page also illustrates riding-hall cross-sections and several structural arrangements.",
+      "building_type": "Equestrian riding hall",
+      "spaces": [
+        "Riding space",
+        "Side clearance",
+        "Entrance clearance",
+        "Spectator area"
+      ],
+      "uses": [
+        "Indoor riding",
+        "Dressage",
+        "Eventing",
+        "Showjumping"
+      ],
+      "furniture_equipment": [
+        "Trusses",
+        "Profiled beams",
+        "Restrained columns"
+      ],
+      "dimensions": [
+        {
+          "label": "Minimum net riding-space length",
+          "value": 20.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Pure riding area; minimum area of the riding space.",
+          "status": "uncertain",
+          "ocr_raw": "20 x 40 m net (pure riding area)"
+        },
+        {
+          "label": "Minimum net riding-space width",
+          "value": 40.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Pure riding area; minimum area of the riding space.",
+          "status": "uncertain",
+          "ocr_raw": "20 x 40 m net (pure riding area)"
+        },
+        {
+          "label": "Riding-space length for dressage and eventing",
+          "value": 20.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Required for dressage from class M and eventing.",
+          "status": "uncertain",
+          "ocr_raw": "20 x 60 m riding areas are required for dressage from class M and eventing"
+        },
+        {
+          "label": "Riding-space width for dressage and eventing",
+          "value": 60.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Required for dressage from class M and eventing.",
+          "status": "uncertain",
+          "ocr_raw": "20 x 60 m riding areas are required for dressage from class M and eventing"
+        },
+        {
+          "label": "Additional side space",
+          "value": 3.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Additional space at the sides of the riding space; printed as a minimum.",
+          "status": "uncertain",
+          "ocr_raw": "at the sides (≥3.0 m)"
+        },
+        {
+          "label": "Additional entrance space",
+          "value": 5.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Additional space at the entrance; printed as a minimum.",
+          "status": "uncertain",
+          "ocr_raw": "at the entrance (≥5.0 m)"
+        },
+        {
+          "label": "Gross arena length",
+          "value": 26.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Gross area stated after including additional side and entrance spaces.",
+          "status": "uncertain",
+          "ocr_raw": "gross area of 26 x 48 m"
+        },
+        {
+          "label": "Gross arena width",
+          "value": 48.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Gross area stated after including additional side and entrance spaces.",
+          "status": "uncertain",
+          "ocr_raw": "gross area of 26 x 48 m"
+        }
+      ],
+      "figure_refs": [
+        "3 Clear dimensions of riding halls",
+        "5 Riding hall cross-sections"
+      ],
+      "cross_refs": [
+        "2",
+        "3",
+        "5"
+      ],
+      "keywords": [
+        "riding hall",
+        "arena dimensions",
+        "clearance",
+        "cross-section",
+        "structural systems"
+      ],
+      "tags_architectural": [
+        "clearance",
+        "safety",
+        "spatial_proportion"
+      ],
+      "confidence": 0.96
+    },
+    {
+      "id": "4122fb96e4bd1976-355-vision-3",
+      "pdf_page": 355,
+      "book_page": 342,
+      "chapter": "SPORT AND LEISURE",
+      "section": "Sports Facilities",
+      "title": "Storage Space for Horse Feedstuffs",
+      "summary": "A table compares the storage-space needs of oats, hay, and straw with daily feed requirements and stored quantities per horse. The table distinguishes storage forms such as long-stored, compressed, wired-bale, strung-bale, and chopped straw. Some table entries are difficult to associate unambiguously with individual rows, so they are not extracted as dimensions.",
+      "building_type": "Equestrian stable and feed-storage facility",
+      "spaces": [
+        "Horse-feed storage",
+        "Stable"
+      ],
+      "uses": [
+        "Storing horse feed and bedding",
+        "Planning feed-storage capacity"
+      ],
+      "furniture_equipment": [
+        "Feed storage"
+      ],
+      "dimensions": [],
+      "figure_refs": [
+        "4 Storage space for horse feedstuffs"
+      ],
+      "cross_refs": [
+        "4"
+      ],
+      "keywords": [
+        "horse feed",
+        "storage space",
+        "oats",
+        "hay",
+        "straw",
+        "stable"
+      ],
+      "tags_architectural": [
+        "adaptability"
+      ],
+      "confidence": 0.87
+    }
+  ]
+}

@@ -1,0 +1,337 @@
+{
+  "model": "gpt-6-luna",
+  "checks": {
+    "checks": [
+      {
+        "ficha_index": 0,
+        "dimension_index": 0,
+        "status": "verified",
+        "value": 2.0,
+        "value_max": null,
+        "reason": "Text states pavements should not be narrower than 2 m."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 1,
+        "status": "verified",
+        "value": 1.5,
+        "value_max": null,
+        "reason": "Text explicitly gives 1.50 m minimum walking width."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 2,
+        "status": "verified",
+        "value": 0.5,
+        "value_max": null,
+        "reason": "Text explicitly gives a 0.50 m safety distance."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 3,
+        "status": "verified",
+        "value": 3.0,
+        "value_max": null,
+        "reason": "Text explicitly states a minimum width of 3 m is ideal near the listed facilities."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 4,
+        "status": "verified",
+        "value": 1.0,
+        "value_max": null,
+        "reason": "Text states roadside cycleways should be at least 1.00 m wide for one-way traffic."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 5,
+        "status": "verified",
+        "value": 2.0,
+        "value_max": null,
+        "reason": "Text states 2.00 m for two-way traffic."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 6,
+        "status": "verified",
+        "value": 1.6,
+        "value_max": null,
+        "reason": "Text explicitly gives 1.60 m as the minimum for two-way traffic."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 7,
+        "status": "verified",
+        "value": 0.75,
+        "value_max": null,
+        "reason": "Text explicitly states safety strips of 0.75 m."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 8,
+        "status": "verified",
+        "value": 2.5,
+        "value_max": null,
+        "reason": "Text explicitly states combined footpaths and cycleways should be 2.50 m wide."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 9,
+        "status": "verified",
+        "value": 2.0,
+        "value_max": null,
+        "reason": "Text explicitly gives 2.00 m as the minimum combined width."
+      },
+      {
+        "ficha_index": 1,
+        "dimension_index": 0,
+        "status": "verified",
+        "value": 2.5,
+        "value_max": null,
+        "reason": "The table header gives minimum clear height in metres and prints 2.50 for the relevant entries."
+      },
+      {
+        "ficha_index": 1,
+        "dimension_index": 1,
+        "status": "verified",
+        "value": 6.0,
+        "value_max": 12.0,
+        "reason": "The table labels S as maximum longitudinal slope in percent and prints 6(12); the footnote marks exceptional cases."
+      },
+      {
+        "ficha_index": 1,
+        "dimension_index": 2,
+        "status": "verified",
+        "value": 3.0,
+        "value_max": null,
+        "reason": "The table labels S in percent and prints 3, followed by the stated exceptional-case values."
+      },
+      {
+        "ficha_index": 1,
+        "dimension_index": 3,
+        "status": "verified",
+        "value": 10.0,
+        "value_max": null,
+        "reason": "The table labels R\u2081 minimum in metres and prints 10."
+      },
+      {
+        "ficha_index": 1,
+        "dimension_index": 4,
+        "status": "verified",
+        "value": 30.0,
+        "value_max": null,
+        "reason": "The table labels R\u1d66 in metres and prints 30."
+      },
+      {
+        "ficha_index": 1,
+        "dimension_index": 5,
+        "status": "verified",
+        "value": 10.0,
+        "value_max": null,
+        "reason": "The table labels R\u209b in metres and prints 10."
+      },
+      {
+        "ficha_index": 1,
+        "dimension_index": 6,
+        "status": "uncertain",
+        "value": 1.5,
+        "value_max": null,
+        "reason": "The diagram prints \u22651.50, but does not visibly specify a unit for this figure dimension."
+      },
+      {
+        "ficha_index": 1,
+        "dimension_index": 7,
+        "status": "uncertain",
+        "value": 2.5,
+        "value_max": null,
+        "reason": "The diagram prints 2.50, but does not visibly specify a unit for this figure dimension."
+      },
+      {
+        "ficha_index": 1,
+        "dimension_index": 8,
+        "status": "uncertain",
+        "value": 4.0,
+        "value_max": null,
+        "reason": "The diagram prints \u22654.00, but does not visibly specify a unit for this figure dimension."
+      },
+      {
+        "ficha_index": 2,
+        "dimension_index": 0,
+        "status": "verified",
+        "value": 2.5,
+        "value_max": null,
+        "reason": "The note explicitly states that continuous rows of trees require at least a 2.50 m wide planting strip."
+      },
+      {
+        "ficha_index": 2,
+        "dimension_index": 1,
+        "status": "verified",
+        "value": 80.0,
+        "value_max": null,
+        "reason": "The note explicitly prints up to 2 storeys \u224880 m."
+      },
+      {
+        "ficha_index": 2,
+        "dimension_index": 2,
+        "status": "verified",
+        "value": 60.0,
+        "value_max": null,
+        "reason": "The note explicitly prints 3 storeys \u224860 m."
+      },
+      {
+        "ficha_index": 2,
+        "dimension_index": 3,
+        "status": "verified",
+        "value": 50.0,
+        "value_max": null,
+        "reason": "The note explicitly prints 4 and more storeys \u224850 m."
+      },
+      {
+        "ficha_index": 2,
+        "dimension_index": 4,
+        "status": "verified",
+        "value": 2.5,
+        "value_max": null,
+        "reason": "The street-space diagrams visibly label the slopes 2.5%."
+      }
+    ]
+  },
+  "automatic": [
+    {
+      "ficha_index": 0,
+      "dimension_index": 0,
+      "issues": []
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 1,
+      "issues": []
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 2,
+      "issues": []
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 3,
+      "issues": []
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 4,
+      "issues": []
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 5,
+      "issues": []
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 6,
+      "issues": []
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 7,
+      "issues": []
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 8,
+      "issues": []
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 9,
+      "issues": []
+    },
+    {
+      "ficha_index": 1,
+      "dimension_index": 0,
+      "issues": []
+    },
+    {
+      "ficha_index": 1,
+      "dimension_index": 1,
+      "issues": [
+        "Unknown unit"
+      ]
+    },
+    {
+      "ficha_index": 1,
+      "dimension_index": 2,
+      "issues": [
+        "Unknown unit"
+      ]
+    },
+    {
+      "ficha_index": 1,
+      "dimension_index": 3,
+      "issues": []
+    },
+    {
+      "ficha_index": 1,
+      "dimension_index": 4,
+      "issues": []
+    },
+    {
+      "ficha_index": 1,
+      "dimension_index": 5,
+      "issues": []
+    },
+    {
+      "ficha_index": 1,
+      "dimension_index": 6,
+      "issues": []
+    },
+    {
+      "ficha_index": 1,
+      "dimension_index": 7,
+      "issues": []
+    },
+    {
+      "ficha_index": 1,
+      "dimension_index": 8,
+      "issues": []
+    },
+    {
+      "ficha_index": 2,
+      "dimension_index": 0,
+      "issues": []
+    },
+    {
+      "ficha_index": 2,
+      "dimension_index": 1,
+      "issues": []
+    },
+    {
+      "ficha_index": 2,
+      "dimension_index": 2,
+      "issues": []
+    },
+    {
+      "ficha_index": 2,
+      "dimension_index": 3,
+      "issues": []
+    },
+    {
+      "ficha_index": 2,
+      "dimension_index": 4,
+      "issues": [
+        "Unknown unit"
+      ]
+    }
+  ],
+  "usage": [
+    {
+      "prompt_tokens": 4765,
+      "completion_tokens": 2353
+    },
+    {
+      "prompt_tokens": 5761,
+      "completion_tokens": 1418
+    }
+  ]
+}

@@ -1,0 +1,461 @@
+{
+  "fichas": [
+    {
+      "id": "4122fb96e4bd1976-167-vision-0",
+      "pdf_page": 167,
+      "book_page": 154,
+      "chapter": "RESIDENTIAL BUILDINGS",
+      "section": "Rooms",
+      "title": "Dining rooms",
+      "summary": "Dining areas support communication, social interaction, and prestige, and may range from a kitchen breakfast bar to a separate room for meals with guests. The dining table is a central organizing point in the home. Plan for the household and at least four diners, with a practical connection to the kitchen or pantry, possible access to a balcony or terrace, and flexibility for special events. A comfortable place setting needs adequate table area; layouts include pull-out tables, kitchen bars, round tables, and corner benches. Provide suitable movement space and avoid glare from dining-table lighting.",
+      "building_type": "Residential building",
+      "spaces": [
+        "Dining area",
+        "Dining room",
+        "Breakfast area",
+        "Kitchen dining area",
+        "Kitchen bar"
+      ],
+      "uses": [
+        "Everyday meals",
+        "Breakfast and snacks",
+        "Dining with guests",
+        "Social interaction",
+        "Communal household life"
+      ],
+      "furniture_equipment": [
+        "Dining table",
+        "Chairs",
+        "Corner bench",
+        "Pull-out table",
+        "Kitchen bar",
+        "Bar stools",
+        "Sideboards",
+        "Cupboards",
+        "Sliding partitions",
+        "Dining-table lighting",
+        "Place settings"
+      ],
+      "dimensions": [
+        {
+          "label": "People accommodated at dining area",
+          "value": 4.0,
+          "value_max": null,
+          "unit": "people",
+          "context": "Minimum capacity recommended for a dining area.",
+          "status": "uncertain",
+          "ocr_raw": "It should always offer space for at least 4 people."
+        },
+        {
+          "label": "Place-setting table area length",
+          "value": 60.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Approximate table area needed per person; one side of the stated 60 × 40 cm area.",
+          "status": "uncertain",
+          "ocr_raw": "a person needs a table area of approx. 60 x 40 cm"
+        },
+        {
+          "label": "Place-setting table area depth",
+          "value": 40.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Approximate table area needed per person; the other side of the stated 60 × 40 cm area.",
+          "status": "uncertain",
+          "ocr_raw": "a person needs a table area of approx. 60 x 40 cm"
+        },
+        {
+          "label": "Centre strip for dishes",
+          "value": 20.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Strip in the centre of the table for plates, pots, and bowls.",
+          "status": "uncertain",
+          "ocr_raw": "The centre of the table should have a 20 cm strip for plates, pots and bowls."
+        },
+        {
+          "label": "Pull-out snack table height",
+          "value": 70.0,
+          "value_max": 75.0,
+          "unit": "cm",
+          "context": "Height of a pull-out table used to form a snack area.",
+          "status": "uncertain",
+          "ocr_raw": "A snack area can be formed from a pull-out table with a height of 70-75 cm"
+        },
+        {
+          "label": "Movement area beside snack table",
+          "value": 80.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Required to the left and right of the table.",
+          "status": "uncertain",
+          "ocr_raw": "A movement area of 80 cm is required to the left and right of the table."
+        },
+        {
+          "label": "Kitchen bar depth",
+          "value": 40.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Depth of a space-saving kitchen bar.",
+          "status": "uncertain",
+          "ocr_raw": "A space-saving kitchen bar also has a depth of 40 cm"
+        },
+        {
+          "label": "Kitchen bar projection",
+          "value": 15.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Projection cited as reducing the space required by a kitchen bar.",
+          "status": "uncertain",
+          "ocr_raw": "needs less space because of the projection of 15 cm."
+        },
+        {
+          "label": "Round dining table diameter, minimum",
+          "value": 0.9,
+          "value_max": null,
+          "unit": "m",
+          "context": "Minimum diameter for a comfortable round dining table.",
+          "status": "uncertain",
+          "ocr_raw": "A comfortable round dining table has a diameter of min. 0.90 m"
+        },
+        {
+          "label": "Round dining table diameter, preferred range",
+          "value": 1.1,
+          "value_max": 1.25,
+          "unit": "m",
+          "context": "Preferred diameter range for a comfortable round dining table.",
+          "status": "uncertain",
+          "ocr_raw": "though 1.10-1.25 m would be preferable."
+        },
+        {
+          "label": "Additional movement area per extra seating place",
+          "value": 80.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Movement area increases by this amount per seating place when accommodating more than three people at a corner bench.",
+          "status": "uncertain",
+          "ocr_raw": "If more than three people are to be accommodated, the movement area increases by 80 cm per seating place."
+        },
+        {
+          "label": "Dining room capacity shown",
+          "value": 6.0,
+          "value_max": 24.0,
+          "unit": "people",
+          "context": "Capacity stated for a large dining room.",
+          "status": "uncertain",
+          "ocr_raw": "large dining room for 6-24 people"
+        },
+        {
+          "label": "Table width",
+          "value": 55.0,
+          "value_max": 110.0,
+          "unit": "cm",
+          "context": "Printed table-width range in the minimum table-size reference.",
+          "status": "uncertain",
+          "ocr_raw": "width of table 55–110 cm"
+        },
+        {
+          "label": "Width of places",
+          "value": 55.0,
+          "value_max": 70.0,
+          "unit": "cm",
+          "context": "Printed range for width of places in the minimum table-size reference.",
+          "status": "uncertain",
+          "ocr_raw": "width of places 55–70 cm"
+        },
+        {
+          "label": "Additional width for head-of-table places",
+          "value": 10.0,
+          "value_max": 20.0,
+          "unit": "cm",
+          "context": "Additional allowance for places at the head of the table.",
+          "status": "uncertain",
+          "ocr_raw": "additional for head of table places 10–20 cm"
+        },
+        {
+          "label": "Table width for 4 people, w1",
+          "value": 130.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Minimum table-size table; w1, without space for pulling out chair.",
+          "status": "uncertain",
+          "ocr_raw": "4 people 130"
+        },
+        {
+          "label": "Table depth for 4 people, d1",
+          "value": 180.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Minimum table-size table; d1, without space for pulling out chair.",
+          "status": "uncertain",
+          "ocr_raw": "4 people 130 - 180 200 2.34 2.6"
+        },
+        {
+          "label": "Table depth for 4 people, d2",
+          "value": 200.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Minimum table-size table; d2, with space for pulling out chair.",
+          "status": "uncertain",
+          "ocr_raw": "4 people 130 - 180 200 2.34 2.6"
+        },
+        {
+          "label": "Table area for 4 people, A1",
+          "value": 2.34,
+          "value_max": null,
+          "unit": "m²",
+          "context": "Minimum table-size table; A1, without space for pulling out chair.",
+          "status": "uncertain",
+          "ocr_raw": "4 people 130 - 180 200 2.34 2.6"
+        },
+        {
+          "label": "Table area for 4 people, A2",
+          "value": 2.6,
+          "value_max": null,
+          "unit": "m²",
+          "context": "Minimum table-size table; A2, with space for pulling out chair.",
+          "status": "uncertain",
+          "ocr_raw": "4 people 130 - 180 200 2.34 2.6"
+        },
+        {
+          "label": "Table width for 5 people, w1",
+          "value": 180.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Minimum table-size table; w1, without space for pulling out chair.",
+          "status": "uncertain",
+          "ocr_raw": "5 people 180 190 180 200 3.24 3.8"
+        },
+        {
+          "label": "Table width for 5 people, w2",
+          "value": 190.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Minimum table-size table; w2, with space for pulling out chair.",
+          "status": "uncertain",
+          "ocr_raw": "5 people 180 190 180 200 3.24 3.8"
+        },
+        {
+          "label": "Table depth for 5 people, d1",
+          "value": 180.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Minimum table-size table; d1, without space for pulling out chair.",
+          "status": "uncertain",
+          "ocr_raw": "5 people 180 190 180 200 3.24 3.8"
+        },
+        {
+          "label": "Table depth for 5 people, d2",
+          "value": 200.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Minimum table-size table; d2, with space for pulling out chair.",
+          "status": "uncertain",
+          "ocr_raw": "5 people 180 190 180 200 3.24 3.8"
+        },
+        {
+          "label": "Table area for 5 people, A1",
+          "value": 3.24,
+          "value_max": null,
+          "unit": "m²",
+          "context": "Minimum table-size table; A1, without space for pulling out chair.",
+          "status": "uncertain",
+          "ocr_raw": "5 people 180 190 180 200 3.24 3.8"
+        },
+        {
+          "label": "Table area for 5 people, A2",
+          "value": 3.8,
+          "value_max": null,
+          "unit": "m²",
+          "context": "Minimum table-size table; A2, with space for pulling out chair.",
+          "status": "uncertain",
+          "ocr_raw": "5 people 180 190 180 200 3.24 3.8"
+        },
+        {
+          "label": "Table width for 6 people, w1",
+          "value": 195.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Minimum table-size table; w1, without space for pulling out chair.",
+          "status": "uncertain",
+          "ocr_raw": "6 people 195 - 180 200 3.51 3.9"
+        },
+        {
+          "label": "Table depth for 6 people, d1",
+          "value": 180.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Minimum table-size table; d1, without space for pulling out chair.",
+          "status": "uncertain",
+          "ocr_raw": "6 people 195 - 180 200 3.51 3.9"
+        },
+        {
+          "label": "Table depth for 6 people, d2",
+          "value": 200.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Minimum table-size table; d2, with space for pulling out chair.",
+          "status": "uncertain",
+          "ocr_raw": "6 people 195 - 180 200 3.51 3.9"
+        },
+        {
+          "label": "Table area for 6 people, A1",
+          "value": 3.51,
+          "value_max": null,
+          "unit": "m²",
+          "context": "Minimum table-size table; A1, without space for pulling out chair.",
+          "status": "uncertain",
+          "ocr_raw": "6 people 195 - 180 200 3.51 3.9"
+        },
+        {
+          "label": "Table area for 6 people, A2",
+          "value": 3.9,
+          "value_max": null,
+          "unit": "m²",
+          "context": "Minimum table-size table; A2, with space for pulling out chair.",
+          "status": "uncertain",
+          "ocr_raw": "6 people 195 - 180 200 3.51 3.9"
+        },
+        {
+          "label": "Table width for 7 people, w1",
+          "value": 245.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Minimum table-size table; w1, without space for pulling out chair.",
+          "status": "uncertain",
+          "ocr_raw": "7 people 245 255 180 200 4.41 5.1"
+        },
+        {
+          "label": "Table width for 7 people, w2",
+          "value": 255.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Minimum table-size table; w2, with space for pulling out chair.",
+          "status": "uncertain",
+          "ocr_raw": "7 people 245 255 180 200 4.41 5.1"
+        },
+        {
+          "label": "Table depth for 7 people, d1",
+          "value": 180.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Minimum table-size table; d1, without space for pulling out chair.",
+          "status": "uncertain",
+          "ocr_raw": "7 people 245 255 180 200 4.41 5.1"
+        },
+        {
+          "label": "Table depth for 7 people, d2",
+          "value": 200.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Minimum table-size table; d2, with space for pulling out chair.",
+          "status": "uncertain",
+          "ocr_raw": "7 people 245 255 180 200 4.41 5.1"
+        },
+        {
+          "label": "Table area for 7 people, A1",
+          "value": 4.41,
+          "value_max": null,
+          "unit": "m²",
+          "context": "Minimum table-size table; A1, without space for pulling out chair.",
+          "status": "uncertain",
+          "ocr_raw": "7 people 245 255 180 200 4.41 5.1"
+        },
+        {
+          "label": "Table area for 7 people, A2",
+          "value": 5.1,
+          "value_max": null,
+          "unit": "m²",
+          "context": "Minimum table-size table; A2, with space for pulling out chair.",
+          "status": "uncertain",
+          "ocr_raw": "7 people 245 255 180 200 4.41 5.1"
+        },
+        {
+          "label": "Table width for 8 people, w1",
+          "value": 260.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Minimum table-size table; w1, without space for pulling out chair.",
+          "status": "uncertain",
+          "ocr_raw": "8 people 260 - 180 200 4.68 5.2"
+        },
+        {
+          "label": "Table depth for 8 people, d1",
+          "value": 180.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Minimum table-size table; d1, without space for pulling out chair.",
+          "status": "uncertain",
+          "ocr_raw": "8 people 260 - 180 200 4.68 5.2"
+        },
+        {
+          "label": "Table depth for 8 people, d2",
+          "value": 200.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Minimum table-size table; d2, with space for pulling out chair.",
+          "status": "uncertain",
+          "ocr_raw": "8 people 260 - 180 200 4.68 5.2"
+        },
+        {
+          "label": "Table area for 8 people, A1",
+          "value": 4.68,
+          "value_max": null,
+          "unit": "m²",
+          "context": "Minimum table-size table; A1, without space for pulling out chair.",
+          "status": "uncertain",
+          "ocr_raw": "8 people 260 - 180 200 4.68 5.2"
+        },
+        {
+          "label": "Table area for 8 people, A2",
+          "value": 5.2,
+          "value_max": null,
+          "unit": "m²",
+          "context": "Minimum table-size table; A2, with space for pulling out chair.",
+          "status": "uncertain",
+          "ocr_raw": "8 people 260 - 180 200 4.68 5.2"
+        }
+      ],
+      "figure_refs": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12"
+      ],
+      "cross_refs": [
+        "p. 150 e",
+        "0",
+        "3",
+        "7"
+      ],
+      "keywords": [
+        "dining room",
+        "dining area",
+        "table layout",
+        "place setting",
+        "kitchen bar",
+        "snack area",
+        "round table",
+        "corner bench",
+        "table clearance"
+      ],
+      "tags_architectural": [
+        "circulation",
+        "ergonomics",
+        "anthropometry",
+        "clearance",
+        "adaptability",
+        "spatial_proportion"
+      ],
+      "confidence": 0.91
+    }
+  ]
+}

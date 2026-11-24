@@ -1,0 +1,256 @@
+{
+  "fichas": [
+    {
+      "id": "4122fb96e4bd1976-258-vision-0",
+      "pdf_page": 258,
+      "book_page": 245,
+      "chapter": "ADMINISTRATION AND OFFICES",
+      "section": "High-Rise Buildings",
+      "title": "High-rise building construction and structural systems",
+      "summary": "High-rise design is shaped by the structural system, vertical access, horizontal wind forces, and the space and cost implications of increasing height. Steel or reinforced-concrete frames are standard, with slab spans and suitable structural systems varying by construction type and building height. Sky lobbies can reduce lift space and travel time. The John Hancock Center illustrates a tube structure and a layered mix of uses.",
+      "building_type": "High-rise office and mixed-use buildings",
+      "spaces": [
+        "Structural frame and floor slabs",
+        "Vertical access and lift zones",
+        "Sky lobbies",
+        "Office floors",
+        "Apartment floors",
+        "Retail floors",
+        "Parking floors",
+        "Service floors",
+        "Visitor and restaurant floors",
+        "Broadcast transmitter floors"
+      ],
+      "uses": [
+        "Offices",
+        "Apartments",
+        "Shops",
+        "Parking",
+        "Building services",
+        "Lift transfer at sky lobbies",
+        "Visitors and restaurants",
+        "TV transmission"
+      ],
+      "furniture_equipment": [
+        "Express lifts",
+        "Normal lifts"
+      ],
+      "dimensions": [
+        {
+          "label": "Solid reinforced-concrete slab span",
+          "value": 2.5,
+          "value_max": 5.5,
+          "unit": "m",
+          "context": "Span range for solid reinforced-concrete slabs.",
+          "status": "uncertain",
+          "ocr_raw": "Solid reinforced concrete slabs span 2.5-5.5 m"
+        },
+        {
+          "label": "Ribbed slab span",
+          "value": 5.0,
+          "value_max": 7.5,
+          "unit": "m",
+          "context": "Span range for ribbed slabs.",
+          "status": "uncertain",
+          "ocr_raw": "ribbed slabs 5.0-7.5 m"
+        },
+        {
+          "label": "Maximum distance between main beams",
+          "value": 12.5,
+          "value_max": null,
+          "unit": "m",
+          "context": "Maximum stated distance between main beams for the slab systems described.",
+          "status": "uncertain",
+          "ocr_raw": "both with a maximum 12.5 m between main beams"
+        },
+        {
+          "label": "Pre-stressed concrete span",
+          "value": 25.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Span achievable with a stated structural depth of 0.75 m.",
+          "status": "uncertain",
+          "ocr_raw": "Pre-stressed concrete can span up to 25 m with only 0.75 m structural depth"
+        },
+        {
+          "label": "Pre-stressed concrete structural depth",
+          "value": 0.75,
+          "value_max": null,
+          "unit": "m",
+          "context": "Structural depth associated with the stated pre-stressed concrete span.",
+          "status": "uncertain",
+          "ocr_raw": "with only 0.75 m structural depth"
+        },
+        {
+          "label": "Sway factor",
+          "value": 1.0,
+          "value_max": null,
+          "unit": "ratio",
+          "context": "Maximum permissible horizontal deformation at the top relative to total building height; printed ratio 1:600.",
+          "status": "uncertain",
+          "ocr_raw": "max. 1:600"
+        },
+        {
+          "label": "Frame shift contribution to horizontal deformation",
+          "value": 90.0,
+          "value_max": null,
+          "unit": "%",
+          "context": "Share attributed to shifting of the frame, or “shear sway”.",
+          "status": "uncertain",
+          "ocr_raw": "90% of horizontal deformation comes from the shifting of the frame, or ‘shear sway’"
+        },
+        {
+          "label": "Whole-building slant contribution to horizontal deformation",
+          "value": 10.0,
+          "value_max": null,
+          "unit": "%",
+          "context": "Share attributed to the slant of the entire building.",
+          "status": "uncertain",
+          "ocr_raw": "10% comes from the slant of the entire building"
+        },
+        {
+          "label": "Economic height for frames without special wind bracing",
+          "value": 10.0,
+          "value_max": null,
+          "unit": "storeys",
+          "context": "Frame structures without special wind bracing are described as economic only up to about this height.",
+          "status": "uncertain",
+          "ocr_raw": "economic only up to about 10 storeys"
+        },
+        {
+          "label": "Conventional frame system height threshold",
+          "value": 20.0,
+          "value_max": null,
+          "unit": "floors",
+          "context": "Conventional frame systems are described as leading to uneconomic dimensions above this threshold.",
+          "status": "uncertain",
+          "ocr_raw": "for more than 20 floors"
+        },
+        {
+          "label": "Reinforced-concrete frames without bracing walls",
+          "value": 10.0,
+          "value_max": null,
+          "unit": "storeys",
+          "context": "Stated practical height limit without bracing walls.",
+          "status": "uncertain",
+          "ocr_raw": "practical up to 10 storeys without"
+        },
+        {
+          "label": "Reinforced-concrete frames with bracing walls",
+          "value": 20.0,
+          "value_max": 30.0,
+          "unit": "storeys",
+          "context": "Stated practical height range with bracing walls.",
+          "status": "uncertain",
+          "ocr_raw": "for 20-30 storeys with, bracing walls"
+        },
+        {
+          "label": "John Hancock Center construction year",
+          "value": 1965.0,
+          "value_max": null,
+          "unit": "year",
+          "context": "Year given for the Chicago example by Skidmore, Owings & Merrill.",
+          "status": "uncertain",
+          "ocr_raw": "John Hancock Center, Chicago, 1965, by Skidmore, Owings & Merrill."
+        },
+        {
+          "label": "John Hancock Center shops floors",
+          "value": 1.0,
+          "value_max": 5.0,
+          "unit": "floors",
+          "context": "Layered use of the John Hancock Center.",
+          "status": "uncertain",
+          "ocr_raw": "Floors 1-5 shops"
+        },
+        {
+          "label": "John Hancock Center parking floors",
+          "value": 6.0,
+          "value_max": 12.0,
+          "unit": "floors",
+          "context": "Layered use of the John Hancock Center.",
+          "status": "uncertain",
+          "ocr_raw": "6-12 parking"
+        },
+        {
+          "label": "John Hancock Center office floors",
+          "value": 13.0,
+          "value_max": 41.0,
+          "unit": "floors",
+          "context": "Offices with flexible use.",
+          "status": "uncertain",
+          "ocr_raw": "13-41 offices with flexible use"
+        },
+        {
+          "label": "John Hancock Center services and sky lobby floors",
+          "value": 42.0,
+          "value_max": 45.0,
+          "unit": "floors",
+          "context": "Services and sky lobby.",
+          "status": "uncertain",
+          "ocr_raw": "42-45 services and ‘sky lobby’"
+        },
+        {
+          "label": "John Hancock Center apartment floors",
+          "value": 46.0,
+          "value_max": 93.0,
+          "unit": "floors",
+          "context": "Apartments.",
+          "status": "uncertain",
+          "ocr_raw": "46-93 apartments"
+        },
+        {
+          "label": "John Hancock Center visitor and restaurant floors",
+          "value": 94.0,
+          "value_max": 96.0,
+          "unit": "floors",
+          "context": "Visitors and restaurants.",
+          "status": "uncertain",
+          "ocr_raw": "94-96 visitors and restaurants"
+        },
+        {
+          "label": "John Hancock Center TV transmitter floors",
+          "value": 97.0,
+          "value_max": 98.0,
+          "unit": "floors",
+          "context": "TV transmitter use.",
+          "status": "uncertain",
+          "ocr_raw": "97-98 TV transmitter"
+        }
+      ],
+      "figure_refs": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10"
+      ],
+      "cross_refs": [
+        "p. 244 5",
+        "p. 246 7",
+        "p. 246 6"
+      ],
+      "keywords": [
+        "high-rise buildings",
+        "construction",
+        "structural systems",
+        "steel frame",
+        "reinforced concrete",
+        "wind bracing",
+        "tube structure",
+        "sky lobby",
+        "lift access",
+        "John Hancock Center"
+      ],
+      "tags_architectural": [
+        "circulation",
+        "spatial_proportion"
+      ],
+      "confidence": 0.96
+    }
+  ]
+}

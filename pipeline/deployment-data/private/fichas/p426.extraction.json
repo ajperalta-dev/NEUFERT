@@ -1,0 +1,348 @@
+{
+  "fichas": [
+    {
+      "id": "4122fb96e4bd1976-426-vision-0",
+      "pdf_page": 426,
+      "book_page": 413,
+      "chapter": "TRANSPORT",
+      "section": "Railways",
+      "title": "Freight Loading Ramps and Loading Warehouses",
+      "summary": "Rail freight loading ramps may be head or side ramps at or beside stores and logistics warehouses. The sheet illustrates ramp layouts, loading-road profiles, and a warehouse section. Ramp gradients, track clearances, road-vehicle swept paths, and workplace safety distances must be considered.",
+      "building_type": "Rail freight loading facility",
+      "spaces": [
+        "Head loading ramp",
+        "Side loading ramp",
+        "Loading road",
+        "Loading warehouse",
+        "Rail freight platform"
+      ],
+      "uses": [
+        "Loading and unloading freight wagons",
+        "Transferring freight between rail and road",
+        "Loading and unloading entire trains"
+      ],
+      "furniture_equipment": [
+        "Rail freight wagons",
+        "Road freight vehicle",
+        "Loading platform"
+      ],
+      "dimensions": [
+        {
+          "label": "Ramp gradient",
+          "value": 1.0,
+          "value_max": null,
+          "unit": "ratio",
+          "context": "Gradient shown for a loading ramp; the printed notation is 1:12–1:20.",
+          "status": "uncertain",
+          "ocr_raw": "ramp gradient 1:12-1:20"
+        },
+        {
+          "label": "Approximate ramp length",
+          "value": 700.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Approximate length stated to permit loading and unloading entire trains.",
+          "status": "uncertain",
+          "ocr_raw": "The length is approx. 700 m in order to load and unload entire trains."
+        },
+        {
+          "label": "Minimum clear opening width of entry doors",
+          "value": 3.35,
+          "value_max": null,
+          "unit": "m",
+          "context": "Clear opening width for entry doors; printed with a greater-than-or-equal sign.",
+          "status": "uncertain",
+          "ocr_raw": "Clear opening width of entry doors ≥3.35 m"
+        },
+        {
+          "label": "Clear opening width of entry doors in new buildings",
+          "value": 4.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Alternative clear opening width stated for new buildings.",
+          "status": "uncertain",
+          "ocr_raw": "for new buildings = 4.00 m"
+        },
+        {
+          "label": "Maximum side-ramp height",
+          "value": 1.1,
+          "value_max": null,
+          "unit": "m",
+          "context": "Limit for side ramps where goods wagons are loaded or unloaded through outward-opening doors.",
+          "status": "uncertain",
+          "ocr_raw": "may not be higher than 1.10 m"
+        },
+        {
+          "label": "Maximum side-ramp height for passenger-carriage doors",
+          "value": 1.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Limit if outward-opening passenger-carriage doors may also need to be opened.",
+          "status": "uncertain",
+          "ocr_raw": "must not exceed 1.00 m"
+        },
+        {
+          "label": "Side-ramp height above top of rail",
+          "value": 1.2,
+          "value_max": null,
+          "unit": "m",
+          "context": "Permitted maximum on lines other than main lines.",
+          "status": "uncertain",
+          "ocr_raw": "may ... be up to 1.20 m above the top of the rail"
+        },
+        {
+          "label": "Yard width for single-sided yards",
+          "value": 12.0,
+          "value_max": 15.0,
+          "unit": "m",
+          "context": "Dimension shown in the loading-road profile.",
+          "status": "uncertain",
+          "ocr_raw": "for single sided yards 12.00–15.00 m"
+        },
+        {
+          "label": "Yard width for double-sided yards",
+          "value": 15.0,
+          "value_max": 21.0,
+          "unit": "m",
+          "context": "Dimension shown in the loading-road profile.",
+          "status": "uncertain",
+          "ocr_raw": "with double sided yards 15.00–21.00 m"
+        },
+        {
+          "label": "Roadway width",
+          "value": 2.5,
+          "value_max": null,
+          "unit": "m",
+          "context": "Dimension marked beneath the vehicle in the loading-road profile.",
+          "status": "uncertain",
+          "ocr_raw": "2.50"
+        },
+        {
+          "label": "Transfer loading platform width",
+          "value": 5.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Minimum dimension marked beside the transfer loading platform.",
+          "status": "uncertain",
+          "ocr_raw": "≥ 5.00"
+        },
+        {
+          "label": "Warehouse span",
+          "value": 10.0,
+          "value_max": 18.0,
+          "unit": "m",
+          "context": "Span shown in the section through a loading warehouse.",
+          "status": "uncertain",
+          "ocr_raw": "10.00–18.00"
+        }
+      ],
+      "figure_refs": [
+        "1: Plan of a loading ramp with head and side ramps",
+        "2: Profile of a loading road",
+        "3: Section through a loading warehouse"
+      ],
+      "cross_refs": [
+        "p. 408",
+        "p. 461",
+        "p. 398",
+        "pp. 461–462",
+        "p. 269"
+      ],
+      "keywords": [
+        "rail freight",
+        "loading ramp",
+        "loading warehouse",
+        "freight platform",
+        "Europallet",
+        "safety distances"
+      ],
+      "tags_architectural": [
+        "circulation",
+        "clearance",
+        "safety"
+      ],
+      "confidence": 0.91
+    },
+    {
+      "id": "4122fb96e4bd1976-426-vision-1",
+      "pdf_page": 426,
+      "book_page": 413,
+      "chapter": "TRANSPORT",
+      "section": "Railways",
+      "title": "Combined Transport and ISO Containers",
+      "summary": "Combined transport moves goods in a single transport unit, or in the same road vehicle, across transport modes. Intermodal terminals use portal cranes to stack and transfer containers. The sheet describes ISO container sizes, inland-container widths, stacking, and special container types.",
+      "building_type": "Intermodal freight terminal",
+      "spaces": [
+        "Intermodal transport terminal",
+        "Container intermediate-storage area",
+        "Rail loading area"
+      ],
+      "uses": [
+        "Transfer goods between water, road, and rail",
+        "Store and stack containers",
+        "Load containers onto other vehicles",
+        "Transport unit goods and bulk materials"
+      ],
+      "furniture_equipment": [
+        "Portal cranes",
+        "ISO containers",
+        "Container wagons",
+        "Road vehicles",
+        "Semi-trailers"
+      ],
+      "dimensions": [
+        {
+          "label": "Standard ISO container width",
+          "value": 8.0,
+          "value_max": null,
+          "unit": "ft",
+          "context": "Width stated for containers used predominantly in international transport.",
+          "status": "uncertain",
+          "ocr_raw": "with a width of 8 ft (2.44 m)"
+        },
+        {
+          "label": "Standard ISO container width",
+          "value": 2.44,
+          "value_max": null,
+          "unit": "m",
+          "context": "Metric equivalent printed alongside the 8 ft width.",
+          "status": "uncertain",
+          "ocr_raw": "8ft (2.44 m)"
+        },
+        {
+          "label": "ISO container length",
+          "value": 20.0,
+          "value_max": null,
+          "unit": "ft",
+          "context": "One of the two predominant international ISO container lengths.",
+          "status": "uncertain",
+          "ocr_raw": "20 ft (6.06 m)"
+        },
+        {
+          "label": "ISO container length",
+          "value": 6.06,
+          "value_max": null,
+          "unit": "m",
+          "context": "Metric length printed for the 20 ft container.",
+          "status": "uncertain",
+          "ocr_raw": "20 ft (6.06 m)"
+        },
+        {
+          "label": "ISO container length",
+          "value": 40.0,
+          "value_max": null,
+          "unit": "ft",
+          "context": "One of the two predominant international ISO container lengths.",
+          "status": "uncertain",
+          "ocr_raw": "40 ft (12.19 m)"
+        },
+        {
+          "label": "ISO container length",
+          "value": 12.19,
+          "value_max": null,
+          "unit": "m",
+          "context": "Metric length printed for the 40 ft container.",
+          "status": "uncertain",
+          "ocr_raw": "40 ft (12.19 m)"
+        },
+        {
+          "label": "Standard container height",
+          "value": 8.5,
+          "value_max": null,
+          "unit": "ft",
+          "context": "Standard container height, printed as 8 ft 6 in.",
+          "status": "uncertain",
+          "ocr_raw": "8 ft 6 in high (2.59 m)"
+        },
+        {
+          "label": "Standard container height",
+          "value": 2.59,
+          "value_max": null,
+          "unit": "m",
+          "context": "Metric equivalent of the standard container height.",
+          "status": "uncertain",
+          "ocr_raw": "8 ft 6 in high (2.59 m)"
+        },
+        {
+          "label": "High-Cube container height",
+          "value": 9.5,
+          "value_max": null,
+          "unit": "ft",
+          "context": "High-Cube container height, printed as 9 ft 6 in.",
+          "status": "uncertain",
+          "ocr_raw": "9 ft 6 in (2.90 m)"
+        },
+        {
+          "label": "High-Cube container height",
+          "value": 2.9,
+          "value_max": null,
+          "unit": "m",
+          "context": "Metric equivalent of the High-Cube container height.",
+          "status": "uncertain",
+          "ocr_raw": "9 ft 6 in (2.90 m)"
+        },
+        {
+          "label": "Inland container width",
+          "value": 2.5,
+          "value_max": null,
+          "unit": "m",
+          "context": "One of the widths stated for containers used in European land traffic.",
+          "status": "uncertain",
+          "ocr_raw": "width of 2.50 m or 2.55 m"
+        },
+        {
+          "label": "Inland container width",
+          "value": 2.55,
+          "value_max": null,
+          "unit": "m",
+          "context": "Alternative width stated for containers used in European land traffic.",
+          "status": "uncertain",
+          "ocr_raw": "width of 2.50 m or 2.55 m"
+        },
+        {
+          "label": "Container stacking height",
+          "value": 9.0,
+          "value_max": null,
+          "unit": "containers",
+          "context": "Maximum stacking height stated in the text.",
+          "status": "uncertain",
+          "ocr_raw": "stacked up nine high"
+        },
+        {
+          "label": "Minimum load-bearing capacity",
+          "value": 4.0,
+          "value_max": null,
+          "unit": "fully loaded containers",
+          "context": "Load-bearing capacity stated for robustly constructed containers.",
+          "status": "uncertain",
+          "ocr_raw": "load-bearing capacity min. 4 fully loaded containers"
+        }
+      ],
+      "figure_refs": [
+        "4: Modular system of ISO containers",
+        "5: Codes for container lengths",
+        "6: External dimensions and weights of common types of 20 and 40 foot containers"
+      ],
+      "cross_refs": [
+        "p. 269"
+      ],
+      "keywords": [
+        "combined transport",
+        "intermodal terminal",
+        "ISO container",
+        "TEU",
+        "FEU",
+        "portal crane",
+        "High-Cube container",
+        "rolling road",
+        "piggyback transport"
+      ],
+      "tags_architectural": [
+        "modularity",
+        "circulation",
+        "adaptability"
+      ],
+      "confidence": 0.9
+    }
+  ]
+}

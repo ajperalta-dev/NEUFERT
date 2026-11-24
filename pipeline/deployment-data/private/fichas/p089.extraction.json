@@ -1,0 +1,171 @@
+{
+  "fichas": [
+    {
+      "id": "4122fb96e4bd1976-89-vision-0",
+      "pdf_page": 89,
+      "book_page": 76,
+      "chapter": "BUILDING COMPONENTS",
+      "section": "Walls",
+      "title": "Brick and Block Masonry Bonds",
+      "summary": "Explains how regular masonry courses and bonds transfer loads and help prevent cracking. It describes stretcher, header and soldier courses; the importance of overlapping vertical joints; traditional and modern bond patterns; and small holes coursed into masonry for light or ventilation.",
+      "building_type": "Masonry wall",
+      "spaces": [],
+      "uses": [
+        "Constructing brick and block walls",
+        "Transferring loads through masonry",
+        "Reducing cracking and the proportion of joints",
+        "Providing openings for light or ventilation"
+      ],
+      "furniture_equipment": [],
+      "dimensions": [
+        {
+          "label": "Minimum vertical-joint overlap",
+          "value": 0.25,
+          "value_max": null,
+          "unit": "brick",
+          "context": "Minimum displacement between vertical joints in adjacent courses; the text says at least ¼ brick.",
+          "status": "uncertain",
+          "ocr_raw": "by a certain dimension (at least ¼ brick)"
+        },
+        {
+          "label": "Middle-bond vertical-joint displacement",
+          "value": 0.5,
+          "value_max": null,
+          "unit": "brick",
+          "context": "Displacement in the next course for modern masonry laid in stretcher bond as middle bond.",
+          "status": "uncertain",
+          "ocr_raw": "displacement of the vertical joint by ½ brick in the next course"
+        },
+        {
+          "label": "English-bond vertical-joint displacement",
+          "value": 0.3333333333,
+          "value_max": null,
+          "unit": "brick",
+          "context": "Displacement in the next course for English bond.",
+          "status": "uncertain",
+          "ocr_raw": "displacement of the vertical joint by ⅓ brick in the next course"
+        },
+        {
+          "label": "Hole width",
+          "value": 0.5,
+          "value_max": null,
+          "unit": "brick",
+          "context": "Hole coursed into masonry for light or ventilation; printed size ½ × ½ brick, first component.",
+          "status": "uncertain",
+          "ocr_raw": "hole ½ × ½ brick"
+        },
+        {
+          "label": "Hole height",
+          "value": 0.5,
+          "value_max": null,
+          "unit": "brick",
+          "context": "Hole coursed into masonry for light or ventilation; printed size ½ × ½ brick, second component.",
+          "status": "uncertain",
+          "ocr_raw": "hole ½ × ½ brick"
+        },
+        {
+          "label": "Hole width",
+          "value": 0.5,
+          "value_max": null,
+          "unit": "brick",
+          "context": "Hole size shown in a variant of the light-or-ventilation opening; printed size ½ × ¾ brick, first component.",
+          "status": "uncertain",
+          "ocr_raw": "hole ½ × ¾ brick"
+        },
+        {
+          "label": "Hole height",
+          "value": 0.75,
+          "value_max": null,
+          "unit": "brick",
+          "context": "Hole size shown in a variant of the light-or-ventilation opening; printed size ½ × ¾ brick, second component.",
+          "status": "uncertain",
+          "ocr_raw": "hole ½ × ¾ brick"
+        },
+        {
+          "label": "Hole width",
+          "value": 0.25,
+          "value_max": null,
+          "unit": "brick",
+          "context": "Hole size shown in a variant of the light-or-ventilation opening; printed size ¼ × ½ brick, first component.",
+          "status": "uncertain",
+          "ocr_raw": "hole ¼ × ½ brick"
+        },
+        {
+          "label": "Hole height",
+          "value": 0.5,
+          "value_max": null,
+          "unit": "brick",
+          "context": "Hole size shown in a variant of the light-or-ventilation opening; printed size ¼ × ½ brick, second component.",
+          "status": "uncertain",
+          "ocr_raw": "hole ¼ × ½ brick"
+        },
+        {
+          "label": "Hole width",
+          "value": 1.0,
+          "value_max": null,
+          "unit": "brick",
+          "context": "Hole size shown in a variant of the light-or-ventilation opening; printed size 1 × ¼ brick, first component.",
+          "status": "uncertain",
+          "ocr_raw": "hole 1 × ¼ brick"
+        },
+        {
+          "label": "Hole height",
+          "value": 0.25,
+          "value_max": null,
+          "unit": "brick",
+          "context": "Hole size shown in a variant of the light-or-ventilation opening; printed size 1 × ¼ brick, second component.",
+          "status": "uncertain",
+          "ocr_raw": "hole 1 × ¼ brick"
+        }
+      ],
+      "figure_refs": [
+        "1 English bond",
+        "2 Cross bond",
+        "3 Stretcher bond with ½ brick displacement",
+        "4 Stretcher bond with ¼ brick displacement",
+        "5 Flemish bond",
+        "6 One header, two stretchers, alternate courses",
+        "7 One stretcher and one header course, alternating with header course",
+        "8 Two stretcher and one header course, alternating with header course",
+        "9 Stretcher bond with ¼ brick displacement, joints rising to the right",
+        "10 Stretcher bond with ¼ brick displacement, joints rising to the right and left",
+        "11 One header and one stretcher alternating in courses with ¼ brick displacement, joints rising to the right and left",
+        "12 One header and one stretcher alternating in courses, with ½ brick displacement, joints rising to the left",
+        "13 Hole coursed into the masonry for light or ventilation",
+        "14 Hole variant",
+        "15 Modern masonry bonds",
+        "16 Hole variant",
+        "17 Hole variant"
+      ],
+      "cross_refs": [
+        "Modern stretcher bond (middle bond) → 3",
+        "English bond → 1",
+        "Cross bond → 2",
+        "Flemish bond → 5",
+        "One header and three stretchers in each course → 6",
+        "Hole variants → 13"
+      ],
+      "keywords": [
+        "brick masonry",
+        "block masonry",
+        "masonry bonds",
+        "stretcher course",
+        "header course",
+        "soldier course",
+        "vertical joints",
+        "overlap",
+        "English bond",
+        "cross bond",
+        "Flemish bond",
+        "middle bond",
+        "light",
+        "ventilation"
+      ],
+      "tags_architectural": [
+        "safety",
+        "modularity"
+      ],
+      "confidence": 0.94
+    }
+  ]
+}

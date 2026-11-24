@@ -1,0 +1,179 @@
+{
+  "model": "gpt-6-luna",
+  "checks": {
+    "checks": [
+      {
+        "ficha_index": 0,
+        "dimension_index": 0,
+        "status": "verified",
+        "value": 2.25,
+        "value_max": null,
+        "reason": "The text explicitly states \u201cLane width 2.25 m.\u201d"
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 1,
+        "status": "verified",
+        "value": 1.5,
+        "value_max": null,
+        "reason": "The text explicitly states \u201cstroke length approx. 1.50 m.\u201d"
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 2,
+        "status": "verified",
+        "value": 8.0,
+        "value_max": null,
+        "reason": "The text explicitly states \u201c4 strokes = 8 m length.\u201d"
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 3,
+        "status": "uncertain",
+        "value": 2.25,
+        "value_max": null,
+        "reason": "The pool-size drawing labels the width 2.25 but does not visibly specify a unit."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 4,
+        "status": "uncertain",
+        "value": 5.25,
+        "value_max": null,
+        "reason": "The pool-size drawing labels the length 5.25 but does not visibly specify a unit."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 5,
+        "status": "uncertain",
+        "value": 4.25,
+        "value_max": null,
+        "reason": "The pool-size drawing labels the width 4.25 but does not visibly specify a unit."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 6,
+        "status": "uncertain",
+        "value": 8.0,
+        "value_max": 9.0,
+        "reason": "The pool-size drawing shows 8.00\u20139.00 but does not visibly specify a unit."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 7,
+        "status": "verified",
+        "value": 2.5,
+        "value_max": null,
+        "reason": "The depth drawing labels \u201c2.50 m for diving.\u201d"
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 8,
+        "status": "uncertain",
+        "value": 1.26,
+        "value_max": null,
+        "reason": "The drawing labels the standard depth 1.26 but does not visibly specify a unit."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 9,
+        "status": "uncertain",
+        "value": 0.8,
+        "value_max": null,
+        "reason": "The drawing labels the shallow depth approximately .80 but does not visibly specify a unit."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 10,
+        "status": "verified",
+        "value": 22.0,
+        "value_max": 26.0,
+        "reason": "The table visibly lists water temperatures from 22\u00b0C through 26\u00b0C."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 11,
+        "status": "verified",
+        "value": 4.0,
+        "value_max": 6.0,
+        "reason": "The table visibly lists season durations of 4, 5, and 6 months."
+      }
+    ]
+  },
+  "automatic": [
+    {
+      "ficha_index": 0,
+      "dimension_index": 0,
+      "issues": []
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 1,
+      "issues": []
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 2,
+      "issues": []
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 3,
+      "issues": []
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 4,
+      "issues": []
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 5,
+      "issues": []
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 6,
+      "issues": []
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 7,
+      "issues": []
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 8,
+      "issues": []
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 9,
+      "issues": []
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 10,
+      "issues": [
+        "Unknown unit"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 11,
+      "issues": [
+        "Unknown unit"
+      ]
+    }
+  ],
+  "usage": [
+    {
+      "prompt_tokens": 4759,
+      "completion_tokens": 1328
+    },
+    {
+      "prompt_tokens": 4245,
+      "completion_tokens": 926
+    }
+  ]
+}

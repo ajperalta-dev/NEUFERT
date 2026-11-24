@@ -1,0 +1,112 @@
+{
+  "fichas": [
+    {
+      "id": "4122fb96e4bd1976-241-vision-0",
+      "pdf_page": 241,
+      "book_page": 228,
+      "chapter": "CULTURAL VENUES",
+      "section": "Zoos",
+      "title": "Modern Zoo Planning and Infrastructure",
+      "summary": "A modern zoo balances animal welfare, species-conservation research, visitor experience, and operational needs. Planning includes animal-geography zones, visitor and service infrastructure, animal medical-care facilities, and separated public and operational circulation. The Leipzig Zoo master plan illustrates an adventure-world approach. The text cites Directive 1999/22/EC and lists requirements concerning research, education, species-appropriate care, escape and pest prevention, and collection records.",
+      "building_type": "Zoo",
+      "spaces": [
+        "Animal-geography zones: Asia, Africa, Pongoland, Founder's garden, South America, and Gondwana land",
+        "Zoo history area",
+        "Planned giant tropical house",
+        "Main entrance",
+        "Parking",
+        "Restaurants and self-service cafeteria",
+        "Event and lecture room",
+        "Toilets",
+        "Picnic sites",
+        "Zoo shops",
+        "Zoo school",
+        "Operations and staff building",
+        "Feed storage and preparation areas",
+        "Staff washing and changing facilities",
+        "Staff cafeteria, training rooms, and rest rooms",
+        "Animal clinic",
+        "Quarantine station",
+        "Laboratories and research facilities",
+        "Acclimatisation and breeding areas",
+        "Cadaver storage",
+        "Main visitor paths",
+        "Side paths",
+        "Independent operational roads"
+      ],
+      "uses": [
+        "Animal keeping, feeding, veterinary care, and species-appropriate enclosure design",
+        "Species-conservation research and participation in international breeding programmes",
+        "Zoo education and public outreach",
+        "Visitor recreation and nature experience",
+        "Administration and zoo operations",
+        "Feed, waste, animal, and emergency transport"
+      ],
+      "furniture_equipment": [
+        "Pay booths and counters",
+        "Kiosks",
+        "Welcoming seating",
+        "Weather protection along main paths",
+        "Feed and litter storage",
+        "Cleaning machines",
+        "Transport vehicles and cages",
+        "Workshops and gardening facilities",
+        "Heating, air-conditioning, and ventilation systems"
+      ],
+      "dimensions": [
+        {
+          "label": "Main visitor path width",
+          "value": 5.0,
+          "value_max": 6.0,
+          "unit": "m",
+          "context": "Wheelchair-accessible main paths; described as a round route.",
+          "status": "verified",
+          "ocr_raw": "wheelchair-accessible main paths\n(5-6 m wide), with weather protection, laid out as round route"
+        },
+        {
+          "label": "Side path width",
+          "value": 3.0,
+          "value_max": 4.0,
+          "unit": "m",
+          "context": "Side paths serving each group of animals.",
+          "status": "verified",
+          "ocr_raw": "side paths (3-4 m wide) to each group of animals"
+        },
+        {
+          "label": "Operational road width",
+          "value": 3.0,
+          "value_max": 4.0,
+          "unit": "m",
+          "context": "Independent operational roads for supply, waste disposal, animal transport, and emergency access.",
+          "status": "verified",
+          "ocr_raw": "independent\noperational roads (3-4 m wide) for supply, waste disposal, animal\ntransport and as emergency access (fire service, ambulance)."
+        }
+      ],
+      "figure_refs": [
+        "1: Master plan of a modern zoo with adventure world (animal geography), from the example of Leipzig Zoo",
+        "2: Tasks of the modern zoo, combining the interests of research, animal conservation and providing exciting experiences"
+      ],
+      "cross_refs": [
+        "→ 1",
+        "→ 2",
+        "f)"
+      ],
+      "keywords": [
+        "zoo",
+        "animal geography",
+        "animal welfare",
+        "species conservation",
+        "visitor experience",
+        "zoo infrastructure",
+        "Leipzig Zoo",
+        "Directive 1999/22/EC"
+      ],
+      "tags_architectural": [
+        "accessibility",
+        "circulation",
+        "safety"
+      ],
+      "confidence": 0.96
+    }
+  ]
+}

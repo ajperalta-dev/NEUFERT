@@ -1,0 +1,300 @@
+{
+  "fichas": [
+    {
+      "id": "4122fb96e4bd1976-93-vision-0",
+      "pdf_page": 93,
+      "book_page": 80,
+      "chapter": "BUILDING COMPONENTS",
+      "section": "Floor Slabs",
+      "title": "Floor Slabs: Slab Construction",
+      "summary": "Overview of floor slabs and joist/beam floors. Slabs separate storeys and must meet sound-insulation and fire-protection requirements as well as structural demands. They may be vaulted or flat, and may span in one or two directions. The page surveys timber, masonry, concrete, composite, and steel systems.",
+      "building_type": "Floor construction",
+      "spaces": [
+        "Inter-storey floor"
+      ],
+      "uses": [
+        "Separate storeys",
+        "Carry structural loads",
+        "Provide sound insulation",
+        "Provide fire protection"
+      ],
+      "furniture_equipment": [],
+      "dimensions": [
+        {
+          "label": "Span",
+          "value": 7.5,
+          "value_max": null,
+          "unit": "m",
+          "context": "Brick slab with beam elements (figure 8); printed as a span.",
+          "status": "uncertain",
+          "ocr_raw": "7.50 m span"
+        },
+        {
+          "label": "Dimension",
+          "value": 2.2,
+          "value_max": 2.7,
+          "unit": "not stated",
+          "context": "Reinforced concrete composite floor slab (figure 9).",
+          "status": "uncertain",
+          "ocr_raw": "2.20–2.70"
+        },
+        {
+          "label": "Dimension",
+          "value": 1.2,
+          "value_max": null,
+          "unit": "not stated",
+          "context": "Pre-stressed concrete core slabs (figure 6); repeated module dimension.",
+          "status": "uncertain",
+          "ocr_raw": "1.20"
+        },
+        {
+          "label": "Dimension",
+          "value": 2.4,
+          "value_max": null,
+          "unit": "not stated",
+          "context": "Solid reinforced concrete slab (figure 11).",
+          "status": "uncertain",
+          "ocr_raw": "2.40"
+        },
+        {
+          "label": "Dimension",
+          "value": 6.2,
+          "value_max": null,
+          "unit": "not stated",
+          "context": "Steel joist floor with panel filling (figure 15).",
+          "status": "uncertain",
+          "ocr_raw": "6.20"
+        }
+      ],
+      "figure_refs": [
+        "1 Timber joist floor",
+        "2 Timber joist floor, exposed below",
+        "3 Timber joist floor with filling",
+        "4 Timber joist floor with aerated concrete and additional insulation (refurbishment)",
+        "5 Hollow pot slab, fully mortared",
+        "6 Pre-stressed concrete core slabs",
+        "7 Slab with prefabricated component and filling material",
+        "8 Brick slab with beam elements",
+        "9 Reinforced concrete composite floor slab",
+        "10 Aerated concrete floor slab",
+        "11 Solid reinforced concrete slab",
+        "12 Double-T slab",
+        "13 Reinforced concrete beam slab",
+        "14 Composite slab",
+        "15 Steel joist floor with panel filling",
+        "16 Old and new floor"
+      ],
+      "cross_refs": [
+        "Building physics pp. 471 ff.",
+        "Fire protection pp. 511 ff."
+      ],
+      "keywords": [
+        "floor slabs",
+        "slab construction",
+        "joist floors",
+        "sound insulation",
+        "fire protection",
+        "prefabricated construction",
+        "reinforced concrete"
+      ],
+      "tags_architectural": [
+        "safety",
+        "adaptability"
+      ],
+      "confidence": 0.91
+    },
+    {
+      "id": "4122fb96e4bd1976-93-vision-1",
+      "pdf_page": 93,
+      "book_page": 80,
+      "chapter": "BUILDING COMPONENTS",
+      "section": "Floor Slabs",
+      "title": "Timber Joist Floors",
+      "summary": "Timber joist floor examples include exposed joists, filled construction, and refurbishment with aerated concrete and additional insulation. The text characterizes joist constructions as single beams, mostly loaded in bending.",
+      "building_type": "Timber floor construction",
+      "spaces": [
+        "Inter-storey floor"
+      ],
+      "uses": [
+        "Separate storeys",
+        "Carry loads in bending",
+        "Improve sound insulation",
+        "Refurbish existing floors"
+      ],
+      "furniture_equipment": [
+        "Timber joists",
+        "Filling",
+        "Plywood",
+        "Parquet",
+        "Screed",
+        "Impact sound insulation",
+        "Mineral wool",
+        "Plasterboards",
+        "Sprung support rail",
+        "Aerated concrete",
+        "Additional insulation",
+        "Carpet",
+        "Felt"
+      ],
+      "dimensions": [
+        {
+          "label": "Dimension",
+          "value": 60.0,
+          "value_max": null,
+          "unit": "not stated",
+          "context": "Timber joist floor figure; dimension shown in the drawing.",
+          "status": "uncertain",
+          "ocr_raw": "60"
+        },
+        {
+          "label": "Dimension",
+          "value": 18.0,
+          "value_max": null,
+          "unit": "not stated",
+          "context": "Timber joist floor figure; vertical dimension shown in the drawing.",
+          "status": "uncertain",
+          "ocr_raw": "18"
+        },
+        {
+          "label": "Dimension",
+          "value": 20.0,
+          "value_max": null,
+          "unit": "not stated",
+          "context": "Timber joist floor, exposed below (figure 2); vertical dimension shown in the drawing.",
+          "status": "uncertain",
+          "ocr_raw": "20"
+        }
+      ],
+      "figure_refs": [
+        "1 Timber joist floor",
+        "2 Timber joist floor, exposed below",
+        "3 Timber joist floor with filling",
+        "4 Timber joist floor with aerated concrete and additional insulation (refurbishment)",
+        "16 Old and new floor"
+      ],
+      "cross_refs": [
+        "Building physics pp. 471 ff.",
+        "Fire protection pp. 511 ff."
+      ],
+      "keywords": [
+        "timber joists",
+        "floor refurbishment",
+        "impact sound insulation",
+        "floor filling",
+        "aerated concrete"
+      ],
+      "tags_architectural": [
+        "safety",
+        "adaptability"
+      ],
+      "confidence": 0.82
+    },
+    {
+      "id": "4122fb96e4bd1976-93-vision-2",
+      "pdf_page": 93,
+      "book_page": 80,
+      "chapter": "BUILDING COMPONENTS",
+      "section": "Floor Slabs",
+      "title": "Masonry, Concrete, and Composite Slab Systems",
+      "summary": "The illustrated slab systems include hollow-pot and brick slabs, pre-stressed concrete core slabs, prefabricated components, aerated-concrete slabs, solid reinforced-concrete slabs, double-T slabs, reinforced-concrete beam slabs, and composite slabs. The text distinguishes flat slabs, subject to bending, from vaulted construction, subject to compression.",
+      "building_type": "Masonry and concrete floor construction",
+      "spaces": [
+        "Inter-storey floor"
+      ],
+      "uses": [
+        "Separate storeys",
+        "Span structural loads",
+        "Meet sound-insulation requirements",
+        "Meet fire-protection requirements"
+      ],
+      "furniture_equipment": [
+        "Clay pots",
+        "Concrete blocks",
+        "Lattice beams",
+        "Pumice concrete",
+        "Reinforcement",
+        "Steel joists",
+        "Galvanized steel sheet",
+        "Filling material"
+      ],
+      "dimensions": [
+        {
+          "label": "Span",
+          "value": 7.5,
+          "value_max": null,
+          "unit": "m",
+          "context": "Brick slab with beam elements (figure 8).",
+          "status": "uncertain",
+          "ocr_raw": "7.50 m span"
+        },
+        {
+          "label": "Dimension",
+          "value": 1.2,
+          "value_max": null,
+          "unit": "not stated",
+          "context": "Pre-stressed concrete core slabs (figure 6); module dimension.",
+          "status": "uncertain",
+          "ocr_raw": "1.20"
+        },
+        {
+          "label": "Dimension",
+          "value": 2.4,
+          "value_max": null,
+          "unit": "not stated",
+          "context": "Solid reinforced concrete slab (figure 11).",
+          "status": "uncertain",
+          "ocr_raw": "2.40"
+        },
+        {
+          "label": "Dimension",
+          "value": 2.2,
+          "value_max": 2.7,
+          "unit": "not stated",
+          "context": "Reinforced concrete composite floor slab (figure 9).",
+          "status": "uncertain",
+          "ocr_raw": "2.20–2.70"
+        },
+        {
+          "label": "Dimension",
+          "value": 6.2,
+          "value_max": null,
+          "unit": "not stated",
+          "context": "Steel joist floor with panel filling (figure 15).",
+          "status": "uncertain",
+          "ocr_raw": "6.20"
+        }
+      ],
+      "figure_refs": [
+        "5 Hollow pot slab, fully mortared",
+        "6 Pre-stressed concrete core slabs",
+        "7 Slab with prefabricated component and filling material",
+        "8 Brick slab with beam elements",
+        "9 Reinforced concrete composite floor slab",
+        "10 Aerated concrete floor slab",
+        "11 Solid reinforced concrete slab",
+        "12 Double-T slab",
+        "13 Reinforced concrete beam slab",
+        "14 Composite slab",
+        "15 Steel joist floor with panel filling"
+      ],
+      "cross_refs": [
+        "Building physics pp. 471 ff.",
+        "Fire protection pp. 511 ff."
+      ],
+      "keywords": [
+        "hollow-pot slab",
+        "pre-stressed concrete",
+        "brick slab",
+        "reinforced concrete",
+        "composite slab",
+        "double-T slab",
+        "steel joist"
+      ],
+      "tags_architectural": [
+        "safety",
+        "modularity"
+      ],
+      "confidence": 0.86
+    }
+  ]
+}

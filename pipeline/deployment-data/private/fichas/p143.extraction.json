@@ -1,0 +1,114 @@
+{
+  "fichas": [
+    {
+      "id": "4122fb96e4bd1976-143-vision-0",
+      "pdf_page": 143,
+      "book_page": 130,
+      "chapter": "BUILDING COMPONENTS",
+      "section": "Lifts",
+      "title": "Passenger Lifts for Residential Buildings",
+      "summary": "Guidance on passenger lifts in residential buildings, including load capacities, lift-lobby layout, and shaft, door, car, and machine-room requirements. The guidelines are based on German standards; the text also notes UK lift installation coverage under BS 5655.",
+      "building_type": "Residential buildings",
+      "spaces": [
+        "Lift shaft",
+        "Lift waiting area (lobby)",
+        "Machine room"
+      ],
+      "uses": [
+        "Passenger transport",
+        "Transport of passengers carrying loads",
+        "Transport of prams and wheelchairs",
+        "Transport of stretchers, coffins, and furniture",
+        "Goods transport, with possible passenger use at peak times"
+      ],
+      "furniture_equipment": [
+        "Passenger lifts",
+        "Goods lifts",
+        "Lift doors",
+        "Lift machinery"
+      ],
+      "dimensions": [
+        {
+          "label": "Passenger lift load capacity",
+          "value": 400.0,
+          "value_max": null,
+          "unit": "kg",
+          "context": "Small passenger lift for residential buildings",
+          "status": "uncertain",
+          "ocr_raw": "400 kg (small lift)"
+        },
+        {
+          "label": "Passenger lift load capacity",
+          "value": 630.0,
+          "value_max": null,
+          "unit": "kg",
+          "context": "Medium passenger lift for residential buildings",
+          "status": "uncertain",
+          "ocr_raw": "630 kg (medium lift)"
+        },
+        {
+          "label": "Passenger lift load capacity",
+          "value": 1000.0,
+          "value_max": null,
+          "unit": "kg",
+          "context": "Large passenger lift for residential buildings",
+          "status": "uncertain",
+          "ocr_raw": "1000 kg (large lift)"
+        },
+        {
+          "label": "Clear shaft door width",
+          "value": 800.0,
+          "value_max": 900.0,
+          "unit": "mm",
+          "context": "Minimum clear shaft door width; the table gives 800 mm, with a minimum of 900 mm also noted.",
+          "status": "uncertain",
+          "ocr_raw": "clear shaft door width c2 mm 800; min. 900"
+        },
+        {
+          "label": "Clear shaft door height",
+          "value": 2000.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Clear shaft door height",
+          "status": "uncertain",
+          "ocr_raw": "clear shaft door height s2 mm 2000"
+        }
+      ],
+      "figure_refs": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8"
+      ],
+      "cross_refs": [
+        "→ 8",
+        "→ 1",
+        "→ 2",
+        "→ 1–6"
+      ],
+      "keywords": [
+        "lifts",
+        "passenger lifts",
+        "residential buildings",
+        "lift shaft",
+        "waiting area",
+        "lobby",
+        "machine room",
+        "lift capacity",
+        "BS 5655",
+        "DIN EN 81"
+      ],
+      "tags_architectural": [
+        "circulation",
+        "accessibility",
+        "clearance",
+        "safety"
+      ],
+      "confidence": 0.91
+    }
+  ]
+}

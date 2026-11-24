@@ -1,0 +1,257 @@
+{
+  "fichas": [
+    {
+      "id": "4122fb96e4bd1976-261-vision-0",
+      "pdf_page": 261,
+      "book_page": 248,
+      "chapter": "ADMINISTRATION AND OFFICES",
+      "section": "Libraries",
+      "title": "Libraries: Basics, Space Calculation, and Environmental Requirements",
+      "summary": "Guidance for library planning covers shelf spacing and book capacity, structural grids and floor loading, environmental conditions, safety, construction, circulation, and book transport. The page includes tables for storage capacity and live floor loads, plus recommendations for user areas, stacks, and book-processing spaces.",
+      "building_type": "Library",
+      "spaces": [
+        "User area",
+        "Reading and working places",
+        "Card-index area",
+        "Information area",
+        "Lending counter",
+        "Stacks (store)",
+        "Administration and book-processing areas",
+        "Technical areas and workshops",
+        "Transport routes"
+      ],
+      "uses": [
+        "Public access and lending",
+        "Reading and study",
+        "Book storage and retrieval",
+        "Book processing and administration",
+        "Horizontal and vertical book transport"
+      ],
+      "furniture_equipment": [
+        "Standard and double-sided shelves",
+        "Fixed shelf blocks",
+        "Mobile compact shelving",
+        "Trolleys",
+        "Conveyor belts",
+        "Lifts",
+        "Container transport systems",
+        "Motion detectors",
+        "Burglary-resistant glazing",
+        "Book-security systems",
+        "Electronically controlled emergency-door locks"
+      ],
+      "dimensions": [
+        {
+          "label": "User-area general lighting",
+          "value": 250.0,
+          "value_max": 300.0,
+          "unit": "lx",
+          "context": "General lighting in the user area.",
+          "status": "uncertain",
+          "ocr_raw": "generally approx. 250-300 lx"
+        },
+        {
+          "label": "Task lighting",
+          "value": 500.0,
+          "value_max": null,
+          "unit": "lx",
+          "context": "Reading and working places, card index, information, and lending counter.",
+          "status": "uncertain",
+          "ocr_raw": "reading and working places, card index, information, lending counter 500 lx"
+        },
+        {
+          "label": "User-area temperature",
+          "value": 20.0,
+          "value_max": 22.0,
+          "unit": "°C",
+          "context": "Recommended user-area temperature, expressed in the text as 20° ± 2°C.",
+          "status": "uncertain",
+          "ocr_raw": "20° ± 2°C"
+        },
+        {
+          "label": "User-area relative humidity",
+          "value": 50.0,
+          "value_max": 55.0,
+          "unit": "%",
+          "context": "Recommended relative humidity in the user area, expressed as 50 ± 5%.",
+          "status": "uncertain",
+          "ocr_raw": "50 ± 5% relative humidity"
+        },
+        {
+          "label": "Outside-air flow in user area",
+          "value": 20.0,
+          "value_max": null,
+          "unit": "m³/h per person",
+          "context": "Air changes (flow of outside air) in the user area; rate is multiplied by the number of people.",
+          "status": "uncertain",
+          "ocr_raw": "air changes (flow of outside air) 20 m³/h x no. of people"
+        },
+        {
+          "label": "Stack temperature",
+          "value": 18.0,
+          "value_max": 20.0,
+          "unit": "°C",
+          "context": "Recommended stack temperature, expressed as 18 ± 2°C.",
+          "status": "uncertain",
+          "ocr_raw": "18 ± 2°C"
+        },
+        {
+          "label": "Stack relative humidity",
+          "value": 50.0,
+          "value_max": 55.0,
+          "unit": "%",
+          "context": "Recommended relative humidity in stacks, expressed as 50 ± 5%.",
+          "status": "uncertain",
+          "ocr_raw": "50 ± 5% rel. humidity"
+        },
+        {
+          "label": "Outside-air flow in stacks",
+          "value": 3.0,
+          "value_max": null,
+          "unit": "m³/h per m²",
+          "context": "Stack air changes (flow of outside air), shown as approximately 3 m³/h per m².",
+          "status": "uncertain",
+          "ocr_raw": "air changes (flow of outside air) ≥3 m³/h x m²"
+        },
+        {
+          "label": "Fixed-shelf floor load-bearing capacity",
+          "value": 7.5,
+          "value_max": null,
+          "unit": "kN/m²",
+          "context": "Minimum floor load-bearing capacity for fixed shelves.",
+          "status": "uncertain",
+          "ocr_raw": "Floor load-bearing capacity for fixed shelves is min. 7.5 kN/m²"
+        },
+        {
+          "label": "Mobile-stack floor load-bearing capacity",
+          "value": 12.5,
+          "value_max": null,
+          "unit": "kN/m²",
+          "context": "Minimum floor load-bearing capacity for mobile stacks.",
+          "status": "uncertain",
+          "ocr_raw": "for mobile stacks min. 12.5 kN/m²"
+        },
+        {
+          "label": "Mobile-stack capacity increase",
+          "value": 100.0,
+          "value_max": null,
+          "unit": "%",
+          "context": "Mobile stacks can increase capacity by up to this amount.",
+          "status": "uncertain",
+          "ocr_raw": "Mobile stacks can increase the capacity by up to ~100%."
+        },
+        {
+          "label": "Floor load-bearing capacity in administration and book-processing areas",
+          "value": 5.0,
+          "value_max": null,
+          "unit": "kN/m²",
+          "context": "The text specifies a capacity greater than 5.0 kN/m².",
+          "status": "uncertain",
+          "ocr_raw": "Floor load-bearing capacity in administration and book processing areas >5.0 kN/m²"
+        },
+        {
+          "label": "Structural grid dimension",
+          "value": 7.2,
+          "value_max": null,
+          "unit": "m",
+          "context": "Recommended grid dimension; the text specifies greater than 7.20 m × 7.20 m.",
+          "status": "uncertain",
+          "ocr_raw": "with a grid of >7.20 m x 7.20 m"
+        },
+        {
+          "label": "Room height",
+          "value": 3.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Recommended room height; the text specifies at least 3.00 m.",
+          "status": "uncertain",
+          "ocr_raw": "room heights of ≥3.00 m"
+        },
+        {
+          "label": "Ramp gradient",
+          "value": 6.0,
+          "value_max": null,
+          "unit": "%",
+          "context": "Maximum ramp gradient stated for level changes along book-transport routes.",
+          "status": "uncertain",
+          "ocr_raw": "differences of level should have ramps for ≤6%"
+        },
+        {
+          "label": "Stack floor-load assumption",
+          "value": 7.5,
+          "value_max": null,
+          "unit": "kN/m²",
+          "context": "Floor-load assumption for stacks, shown in figure 5 and its caption.",
+          "status": "uncertain",
+          "ocr_raw": "Floor load assumption for stacks of 7.5 kN/m²"
+        },
+        {
+          "label": "Shelf-centreline spacing",
+          "value": 1.2,
+          "value_max": 2.1,
+          "unit": "m",
+          "context": "The tables show standard distances between shelf centrelines ranging from 1.20 m to 2.10 m.",
+          "status": "uncertain",
+          "ocr_raw": "Standard distance between centre-line (m) 1.10 1.20 1.30 1.40 1.50 1.60 1.70 1.80; 1.20; 1.25; 1.30; 1.35; 1.40; 1.44; 1.50; 1.68; 1.80; 1.87; 2.10"
+        },
+        {
+          "label": "Volumes per shelf in stack area",
+          "value": 25.0,
+          "value_max": 30.0,
+          "unit": "volumes",
+          "context": "Table 3 lists 25–30 volumes per shelf for stacks.",
+          "status": "uncertain",
+          "ocr_raw": "Area Volumes per shelf stacks 25–30"
+        },
+        {
+          "label": "Volumes per shelf in self-service area",
+          "value": 20.0,
+          "value_max": 25.0,
+          "unit": "volumes",
+          "context": "Table 3 lists 20–25 volumes per shelf for the self-service area.",
+          "status": "uncertain",
+          "ocr_raw": "self-service area 20–25"
+        },
+        {
+          "label": "Volumes per shelf in information area and reading room",
+          "value": 20.0,
+          "value_max": null,
+          "unit": "volumes",
+          "context": "Table 3 lists 20 volumes per shelf for the information area and reading room.",
+          "status": "uncertain",
+          "ocr_raw": "information area and reading room 20"
+        }
+      ],
+      "figure_refs": [
+        "1 Space calculation",
+        "2 Example of standard spacing for usual structural grids",
+        "3 Volumes per shelf",
+        "4 Live floor loads for various number of shelves and centre-line distances",
+        "5 Floor load assumption for stacks of 7.5 kN/m²"
+      ],
+      "cross_refs": [
+        "DIN specialist report 13"
+      ],
+      "keywords": [
+        "library planning",
+        "shelf spacing",
+        "book storage",
+        "floor loading",
+        "lighting",
+        "climate control",
+        "security",
+        "book transport",
+        "structural grid"
+      ],
+      "tags_architectural": [
+        "circulation",
+        "clearance",
+        "safety",
+        "daylighting",
+        "ventilation",
+        "spatial_proportion"
+      ],
+      "confidence": 0.91
+    }
+  ]
+}

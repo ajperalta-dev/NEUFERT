@@ -1,0 +1,684 @@
+{
+  "fichas": [
+    {
+      "id": "4122fb96e4bd1976-397-vision-0",
+      "pdf_page": 397,
+      "book_page": 384,
+      "chapter": "TRANSPORT",
+      "section": "Roads",
+      "title": "Bicycle Traffic Space",
+      "summary": "Guidance for cycle-way widths according to riding conditions, including brisk one-way riding, overtaking or meeting oncoming bicycles, and use by bicycles with trailers. The traffic-space discussion also identifies a basic bicycle width and refers to cyclist height and movement margin.",
+      "building_type": "Cycle way",
+      "spaces": [
+        "Cycle way",
+        "Bicycle traffic space"
+      ],
+      "uses": [
+        "Accommodating one-way bicycle traffic",
+        "Allowing bicycles to overtake or meet oncoming bicycles",
+        "Accommodating bicycles with trailers"
+      ],
+      "furniture_equipment": [],
+      "dimensions": [
+        {
+          "label": "Cycle-way width for brisk one-way riding",
+          "value": 1.4,
+          "value_max": null,
+          "unit": "m",
+          "context": "Minimum stated width for brisk riding in one direction.",
+          "status": "uncertain",
+          "ocr_raw": "from 1.40 m width"
+        },
+        {
+          "label": "Preferred cycle-way width for brisk one-way riding",
+          "value": 1.6,
+          "value_max": null,
+          "unit": "m",
+          "context": "Stated as better for brisk riding in one direction.",
+          "status": "uncertain",
+          "ocr_raw": "better 1.60 m"
+        },
+        {
+          "label": "Cycle-way width for overtaking and meeting",
+          "value": 1.6,
+          "value_max": 2.0,
+          "unit": "m",
+          "context": "Overtaking and meeting oncoming bicycles at reduced speed.",
+          "status": "uncertain",
+          "ocr_raw": "1.60–2.00 m width"
+        },
+        {
+          "label": "Preferred width where bicycles with trailers use the cycle way",
+          "value": 2.0,
+          "value_max": 2.5,
+          "unit": "m",
+          "context": "Widths stated as better if bicycles with trailers also use the cycle way.",
+          "status": "uncertain",
+          "ocr_raw": "widths of 2.00–2.50 m are better, if bicycles with trailers also use the cycle way"
+        },
+        {
+          "label": "Basic bicycle width",
+          "value": 0.6,
+          "value_max": null,
+          "unit": "m",
+          "context": "Basic width used in describing the bicycle traffic space; cyclist height and movement margin are additional factors.",
+          "status": "uncertain",
+          "ocr_raw": "basic width of 0.60 m"
+        }
+      ],
+      "figure_refs": [
+        "5"
+      ],
+      "cross_refs": [
+        "→ 5"
+      ],
+      "keywords": [
+        "bicycle traffic",
+        "cycle-way width",
+        "overtaking",
+        "trailers"
+      ],
+      "tags_architectural": [
+        "circulation",
+        "clearance",
+        "safety"
+      ],
+      "confidence": 0.97
+    },
+    {
+      "id": "4122fb96e4bd1976-397-vision-1",
+      "pdf_page": 397,
+      "book_page": 384,
+      "chapter": "TRANSPORT",
+      "section": "Roads",
+      "title": "Cycle-Stand Passages and Bike-Safe Storage",
+      "summary": "Passage-width guidance for cycle stands varies with stand length and arrangement. The page also describes Bike-Safe storage by storey count, bicycle capacity, ground area, and height above ground.",
+      "building_type": "Bicycle parking and storage",
+      "spaces": [
+        "Cycle-stand passages",
+        "Bike-Safe storage area"
+      ],
+      "uses": [
+        "Providing circulation between cycle stands",
+        "Storing bicycles in Bike-Safe installations"
+      ],
+      "furniture_equipment": [
+        "Cycle stands",
+        "Bike-Safe storage"
+      ],
+      "dimensions": [
+        {
+          "label": "Passage width between cycle stands",
+          "value": 1.5,
+          "value_max": null,
+          "unit": "m",
+          "context": "Minimum passage width stated for stand lengths up to 10 m; the preferred width is listed separately.",
+          "status": "uncertain",
+          "ocr_raw": "passage width min. 1.50 m"
+        },
+        {
+          "label": "Preferred passage width between cycle stands",
+          "value": 2.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Preferred width for passages serving stand lengths up to 10 m.",
+          "status": "uncertain",
+          "ocr_raw": "preferably 2.00 m"
+        },
+        {
+          "label": "Cycle-stand length",
+          "value": 10.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Length associated with the 1.50 m minimum and 2.00 m preferred passage width.",
+          "status": "uncertain",
+          "ocr_raw": "up to a length of 10 m"
+        },
+        {
+          "label": "Passage width between cycle stands",
+          "value": 1.8,
+          "value_max": null,
+          "unit": "m",
+          "context": "Passage width stated for stand lengths up to 15 m.",
+          "status": "uncertain",
+          "ocr_raw": "1.80 m width up to 15 m"
+        },
+        {
+          "label": "Cycle-stand length",
+          "value": 15.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Length associated with the 1.80 m passage width; passages are also to interrupt stands every 15 m.",
+          "status": "uncertain",
+          "ocr_raw": "up to 15 m"
+        },
+        {
+          "label": "Passage width between cycle stands",
+          "value": 2.2,
+          "value_max": null,
+          "unit": "m",
+          "context": "Passage width stated for stand lengths up to 25 m.",
+          "status": "uncertain",
+          "ocr_raw": "2.20 m width up to 25 m"
+        },
+        {
+          "label": "Cycle-stand length",
+          "value": 25.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Length associated with the 2.20 m passage width.",
+          "status": "uncertain",
+          "ocr_raw": "up to 25 m"
+        },
+        {
+          "label": "Maximum interval between interrupting passages",
+          "value": 15.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Stands are to be interrupted with a passage at this interval.",
+          "status": "uncertain",
+          "ocr_raw": "Interrupt with a passage every 15 m"
+        },
+        {
+          "label": "Passage width between multi-storey stands",
+          "value": 2.5,
+          "value_max": null,
+          "unit": "m",
+          "context": "Minimum width.",
+          "status": "uncertain",
+          "ocr_raw": "Passage width between multi-storey stands min. 2.50 m"
+        },
+        {
+          "label": "Bike-Safe storeys",
+          "value": 1.0,
+          "value_max": 3.0,
+          "unit": "storeys",
+          "context": "Bike-Safe installation range.",
+          "status": "uncertain",
+          "ocr_raw": "Bike-Safe 1–3 storeys"
+        },
+        {
+          "label": "Bike-Safe capacity",
+          "value": 15.0,
+          "value_max": 42.0,
+          "unit": "bicycles",
+          "context": "Capacity range stated for Bike-Safe installations.",
+          "status": "uncertain",
+          "ocr_raw": "15–42 bicycles"
+        },
+        {
+          "label": "Bike-Safe ground-area side",
+          "value": 4.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "The stated ground area is 4 × 4 m; this dimension is one side of that printed area.",
+          "status": "uncertain",
+          "ocr_raw": "Ground area 4 × 4 m"
+        },
+        {
+          "label": "Bike-Safe height above ground level",
+          "value": 5.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Height above ground level.",
+          "status": "uncertain",
+          "ocr_raw": "height above ground level 5 m"
+        }
+      ],
+      "figure_refs": [
+        "14"
+      ],
+      "cross_refs": [
+        "→ 14"
+      ],
+      "keywords": [
+        "cycle stands",
+        "passage width",
+        "bicycle storage",
+        "Bike-Safe"
+      ],
+      "tags_architectural": [
+        "circulation",
+        "clearance",
+        "safety"
+      ],
+      "confidence": 0.96
+    },
+    {
+      "id": "4122fb96e4bd1976-397-vision-2",
+      "pdf_page": 397,
+      "book_page": 384,
+      "chapter": "TRANSPORT",
+      "section": "Roads",
+      "title": "Bicycle Racks and Weather Protection",
+      "summary": "Illustrated examples show cycle racks, tilted racks, racks with frame holders, double racks, a weather-protection roof, a tubular-profile roof structure, and roofed cycle stands. The diagrams provide selected rack and shelter dimensions.",
+      "building_type": "Bicycle parking",
+      "spaces": [
+        "Cycle parking area",
+        "Covered cycle stands"
+      ],
+      "uses": [
+        "Parking bicycles",
+        "Providing weather protection for parked bicycles"
+      ],
+      "furniture_equipment": [
+        "Cycle racks",
+        "Tilted racks",
+        "Frame-holder racks",
+        "Double racks",
+        "Weather-protection roof",
+        "Tubular-profile roof structure",
+        "Roofed cycle stands"
+      ],
+      "dimensions": [
+        {
+          "label": "Cycle-rack arrangement width",
+          "value": 3.7,
+          "value_max": null,
+          "unit": "m",
+          "context": "Overall dimension shown on the cycle-racks diagram.",
+          "status": "uncertain",
+          "ocr_raw": "3.70"
+        },
+        {
+          "label": "Cycle-rack arrangement depth",
+          "value": 1.5,
+          "value_max": null,
+          "unit": "m",
+          "context": "Dimension shown beneath the cycle-racks diagram.",
+          "status": "uncertain",
+          "ocr_raw": "1.50"
+        },
+        {
+          "label": "Parallel bicycle spacing",
+          "value": 0.6,
+          "value_max": null,
+          "unit": "m",
+          "context": "Dimension shown for the parallel arrangement.",
+          "status": "uncertain",
+          "ocr_raw": "60"
+        },
+        {
+          "label": "Parallel bicycle spacing",
+          "value": 0.6,
+          "value_max": null,
+          "unit": "m",
+          "context": "Second dimension shown for the parallel arrangement.",
+          "status": "uncertain",
+          "ocr_raw": "60"
+        },
+        {
+          "label": "Intermeshed bicycle spacing",
+          "value": 0.35,
+          "value_max": null,
+          "unit": "m",
+          "context": "Dimension shown for the intermeshed arrangement.",
+          "status": "uncertain",
+          "ocr_raw": "35"
+        },
+        {
+          "label": "Intermeshed bicycle spacing",
+          "value": 0.35,
+          "value_max": null,
+          "unit": "m",
+          "context": "Second dimension shown for the intermeshed arrangement.",
+          "status": "uncertain",
+          "ocr_raw": "35"
+        },
+        {
+          "label": "Tilted-rack dimension",
+          "value": 1.6,
+          "value_max": null,
+          "unit": "m",
+          "context": "Dimension shown for the tilted rack against a wall.",
+          "status": "uncertain",
+          "ocr_raw": "1.60"
+        },
+        {
+          "label": "Tilted-rack height",
+          "value": 2.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Vertical dimension shown for the freestanding tilted rack.",
+          "status": "uncertain",
+          "ocr_raw": "2.00"
+        },
+        {
+          "label": "Tilted-rack base dimension",
+          "value": 1.65,
+          "value_max": null,
+          "unit": "m",
+          "context": "Base dimension shown for the freestanding tilted rack.",
+          "status": "uncertain",
+          "ocr_raw": "1.65"
+        },
+        {
+          "label": "Double-arrangement width",
+          "value": 3.5,
+          "value_max": null,
+          "unit": "m",
+          "context": "Overall dimension shown above the double arrangement.",
+          "status": "uncertain",
+          "ocr_raw": "3.50"
+        },
+        {
+          "label": "Frame-holder rack dimension",
+          "value": 1.5,
+          "value_max": null,
+          "unit": "m",
+          "context": "Dimension shown above the frame-holder rack.",
+          "status": "uncertain",
+          "ocr_raw": "1.50"
+        },
+        {
+          "label": "Weather-protection roof width",
+          "value": 2.5,
+          "value_max": null,
+          "unit": "m",
+          "context": "Dimension shown above the weather-protection roof.",
+          "status": "uncertain",
+          "ocr_raw": "2.50"
+        },
+        {
+          "label": "Weather-protection roof height",
+          "value": 2.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Vertical dimension shown beside the weather-protection roof.",
+          "status": "uncertain",
+          "ocr_raw": "2.00"
+        },
+        {
+          "label": "Double-rack overall width",
+          "value": 2.9,
+          "value_max": null,
+          "unit": "m",
+          "context": "Dimension shown above the double-rack diagram.",
+          "status": "uncertain",
+          "ocr_raw": "2.90"
+        },
+        {
+          "label": "Double-rack base dimension",
+          "value": 2.1,
+          "value_max": null,
+          "unit": "m",
+          "context": "Dimension shown at the base of the double-rack diagram.",
+          "status": "uncertain",
+          "ocr_raw": "2.10"
+        },
+        {
+          "label": "Tubular-profile roof structure width",
+          "value": 2.5,
+          "value_max": null,
+          "unit": "m",
+          "context": "Dimension shown above the roof-structure diagram.",
+          "status": "uncertain",
+          "ocr_raw": "2.50"
+        },
+        {
+          "label": "Tubular-profile roof structure height",
+          "value": 2.2,
+          "value_max": null,
+          "unit": "m",
+          "context": "Vertical dimension shown at the left side of the roof-structure diagram.",
+          "status": "uncertain",
+          "ocr_raw": "2.20"
+        },
+        {
+          "label": "Tubular-profile roof structure height",
+          "value": 2.25,
+          "value_max": null,
+          "unit": "m",
+          "context": "Vertical dimension shown at the right side of the roof-structure diagram.",
+          "status": "uncertain",
+          "ocr_raw": "2.25"
+        },
+        {
+          "label": "Roofed cycle-stand width",
+          "value": 2.2,
+          "value_max": null,
+          "unit": "m",
+          "context": "Dimension shown above the roofed cycle stands.",
+          "status": "uncertain",
+          "ocr_raw": "2.20"
+        },
+        {
+          "label": "Roofed cycle-stand height",
+          "value": 2.05,
+          "value_max": null,
+          "unit": "m",
+          "context": "Vertical dimension shown beside the roofed cycle stands.",
+          "status": "uncertain",
+          "ocr_raw": "2.05"
+        }
+      ],
+      "figure_refs": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "6",
+        "7",
+        "8",
+        "9"
+      ],
+      "cross_refs": [],
+      "keywords": [
+        "cycle racks",
+        "tilted racks",
+        "frame holder",
+        "double racks",
+        "weather protection",
+        "roofed cycle stands"
+      ],
+      "tags_architectural": [
+        "ergonomics",
+        "modularity"
+      ],
+      "confidence": 0.83
+    },
+    {
+      "id": "4122fb96e4bd1976-397-vision-3",
+      "pdf_page": 397,
+      "book_page": 384,
+      "chapter": "TRANSPORT",
+      "section": "Roads",
+      "title": "Cycle-Way Cross-Sections and Road Separation",
+      "summary": "Cross-section diagrams compare normal, two-lane, limited-space, and minimum cycle-way arrangements. They also illustrate grass strips between cycle ways and roads, a safety strip, and paving treatments.",
+      "building_type": "Road and cycle-way infrastructure",
+      "spaces": [
+        "Cycle way",
+        "Footpath",
+        "Road",
+        "Safety strip",
+        "Grass strip"
+      ],
+      "uses": [
+        "Providing cycle-way cross-sections for different space conditions",
+        "Separating cycle ways from roads and footpaths",
+        "Providing grass strips for cycle-way separation"
+      ],
+      "furniture_equipment": [
+        "Natural-stone or concrete-paving safety strip",
+        "Red concrete paving, red concrete slabs, or red asphalt"
+      ],
+      "dimensions": [
+        {
+          "label": "Safety strip width",
+          "value": 0.7,
+          "value_max": null,
+          "unit": "m",
+          "context": "Dimension shown between road and cycle path in the road-cycle way-pavement section.",
+          "status": "uncertain",
+          "ocr_raw": "0.70"
+        },
+        {
+          "label": "Cycle-path width",
+          "value": 1.0,
+          "value_max": 2.0,
+          "unit": "m",
+          "context": "Dimension string shown for the cycle path in the road-cycle way-pavement section.",
+          "status": "uncertain",
+          "ocr_raw": "1.00–2.00"
+        },
+        {
+          "label": "Footpath width",
+          "value": 1.5,
+          "value_max": null,
+          "unit": "m",
+          "context": "The diagram marks the footpath width as at least this dimension.",
+          "status": "uncertain",
+          "ocr_raw": "≥ 1.50"
+        },
+        {
+          "label": "Crossfall",
+          "value": 2.5,
+          "value_max": null,
+          "unit": "percent",
+          "context": "Slope indicated across the road-cycle way-pavement section.",
+          "status": "uncertain",
+          "ocr_raw": "2.5%"
+        },
+        {
+          "label": "Normal cycle-way cross-section width",
+          "value": 1.7,
+          "value_max": null,
+          "unit": "m",
+          "context": "Overall dimension shown for the normal cross-section.",
+          "status": "uncertain",
+          "ocr_raw": "1.70"
+        },
+        {
+          "label": "Normal cycle-way cross-section width",
+          "value": 2.5,
+          "value_max": null,
+          "unit": "m",
+          "context": "Additional width notation shown with the normal cross-section.",
+          "status": "uncertain",
+          "ocr_raw": "2.5"
+        },
+        {
+          "label": "Two-lane cross-section overall width",
+          "value": 2.5,
+          "value_max": null,
+          "unit": "m",
+          "context": "Overall dimension shown for the two-lane cross-section.",
+          "status": "uncertain",
+          "ocr_raw": "2.5"
+        },
+        {
+          "label": "Two-lane cycle-way width",
+          "value": 1.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "One of the widths dimensioned within the two-lane cross-section.",
+          "status": "uncertain",
+          "ocr_raw": "1.00"
+        },
+        {
+          "label": "Limited-space cross-section width",
+          "value": 1.3,
+          "value_max": null,
+          "unit": "m",
+          "context": "Overall dimension shown for the limited-space cross-section.",
+          "status": "uncertain",
+          "ocr_raw": "1.30"
+        },
+        {
+          "label": "Limited-space cycle-way width",
+          "value": 0.6,
+          "value_max": null,
+          "unit": "m",
+          "context": "Dimension shown within the limited-space cross-section.",
+          "status": "uncertain",
+          "ocr_raw": "0.60"
+        },
+        {
+          "label": "Minimum cross-section width",
+          "value": 2.3,
+          "value_max": null,
+          "unit": "m",
+          "context": "Overall dimension shown for the minimum cross-section.",
+          "status": "uncertain",
+          "ocr_raw": "2.30"
+        },
+        {
+          "label": "Minimum cross-section cycle-way width",
+          "value": 1.6,
+          "value_max": 2.0,
+          "unit": "m",
+          "context": "Width range shown within the minimum cross-section.",
+          "status": "uncertain",
+          "ocr_raw": "1.60–2.00"
+        },
+        {
+          "label": "Grass strip width",
+          "value": 1.5,
+          "value_max": null,
+          "unit": "m",
+          "context": "Maximum dimension marked for the grass strip in the good-solution diagram.",
+          "status": "uncertain",
+          "ocr_raw": "≤ 1.50"
+        },
+        {
+          "label": "Good-solution overall width",
+          "value": 2.5,
+          "value_max": null,
+          "unit": "m",
+          "context": "Overall width marked for the grass-strip good-solution diagram.",
+          "status": "uncertain",
+          "ocr_raw": "≤ 2.50"
+        },
+        {
+          "label": "Optimal-solution overall width",
+          "value": 3.5,
+          "value_max": null,
+          "unit": "m",
+          "context": "Overall width marked for the optimal-solution diagram.",
+          "status": "uncertain",
+          "ocr_raw": "≤ 3.50"
+        },
+        {
+          "label": "Two-way traffic grass-strip layout width",
+          "value": 3.1,
+          "value_max": null,
+          "unit": "m",
+          "context": "Overall dimension marked for the diagram stating grass strips are necessary for two-way traffic.",
+          "status": "uncertain",
+          "ocr_raw": "≤ 3.10"
+        },
+        {
+          "label": "Grass strip width",
+          "value": 1.5,
+          "value_max": null,
+          "unit": "m",
+          "context": "Maximum dimension marked for the grass strip in the two-way traffic diagram.",
+          "status": "uncertain",
+          "ocr_raw": "≤ 1.50"
+        }
+      ],
+      "figure_refs": [
+        "5",
+        "10",
+        "11",
+        "12",
+        "13"
+      ],
+      "cross_refs": [],
+      "keywords": [
+        "cycle-way cross-section",
+        "two-lane",
+        "limited space",
+        "minimum cross-section",
+        "grass strip",
+        "pavement"
+      ],
+      "tags_architectural": [
+        "circulation",
+        "clearance",
+        "safety"
+      ],
+      "confidence": 0.78
+    }
+  ]
+}

@@ -1,0 +1,138 @@
+{
+  "fichas": [
+    {
+      "id": "4122fb96e4bd1976-287-vision-0",
+      "pdf_page": 287,
+      "book_page": 274,
+      "chapter": "INDUSTRY AND TRADE",
+      "section": "Workshops",
+      "title": "Joinery",
+      "summary": "Joinery planning covers equipment and room relationships, production flow, construction, environmental conditions, and a sample workshop layout. More compact plans are described as more economical than long sheds. Machine and bench rooms are separated by a wall with doors; the illustrated arrangement supports a sequence from timber storage and cutting through machining, assembly, finishing, storage, and dispatch.",
+      "building_type": "Joinery workshop",
+      "spaces": [
+        "Timber store",
+        "Board store",
+        "Finished product store",
+        "Finished furniture store",
+        "Timber cutting area",
+        "Machine room",
+        "Bench room",
+        "Auxiliary store",
+        "Veneer room",
+        "Gluing and veneering area",
+        "Production and assembly area",
+        "Surface treatment area",
+        "Drying room",
+        "Final assembly and dispatch area",
+        "Boiler room",
+        "Mountings store",
+        "Finishing room"
+      ],
+      "uses": [
+        "Timber storage and cutting",
+        "Machining and parts production",
+        "Bench work and assembly",
+        "Gluing and veneering",
+        "Surface treatment, staining, and spraying",
+        "Drying, storage, packing, and dispatch"
+      ],
+      "furniture_equipment": [
+        "Frame saw",
+        "Circular saw",
+        "Circular panel saw",
+        "Cross-cut saw",
+        "Band saw",
+        "Surface planer",
+        "Thickness planer",
+        "Bench milling machine",
+        "Recessing/shaping equipment",
+        "Pin drill",
+        "Slot boring machine",
+        "Mountings-setting equipment",
+        "Broad-belt sander",
+        "Belt sander",
+        "Edge sander",
+        "Edging machine",
+        "Crane",
+        "Spraying equipment",
+        "Work bench",
+        "Veneer press",
+        "Glue spreader",
+        "Dust extraction system"
+      ],
+      "dimensions": [
+        {
+          "label": "Floor area per employee",
+          "value": 70.0,
+          "value_max": 80.0,
+          "unit": "m² per employee",
+          "context": "Approximate space requirement for the illustrated examples, excluding open storerooms.",
+          "status": "uncertain",
+          "ocr_raw": "The space requirement for the illustrated examples is approx. 70–80 m² per employee (without open storerooms)."
+        },
+        {
+          "label": "Employees in small businesses",
+          "value": 10.0,
+          "value_max": null,
+          "unit": "employees",
+          "context": "Small-business production flow is described as linear or angled-shaped for businesses with up to approximately this number of employees.",
+          "status": "uncertain",
+          "ocr_raw": "General production flow: in small businesses with up to approx. 10 employees: linear, angled-shaped."
+        },
+        {
+          "label": "Employees in medium-sized businesses",
+          "value": 10.0,
+          "value_max": null,
+          "unit": "employees",
+          "context": "Medium-sized businesses with over this number are described as better suited to U-shaped or circular layouts.",
+          "status": "uncertain",
+          "ocr_raw": "In medium-sized businesses with over 10 employees: U-shaped or circular (square) layouts are better for workflow."
+        },
+        {
+          "label": "High sill height",
+          "value": 1.0,
+          "value_max": 1.35,
+          "unit": "m",
+          "context": "High sills for continuous strip windows.",
+          "status": "uncertain",
+          "ocr_raw": "Continuous strip windows, high sills (1.00-1.35 m)."
+        },
+        {
+          "label": "Crane load",
+          "value": 200.0,
+          "value_max": null,
+          "unit": "kg",
+          "context": "Load notation shown beside the crane in the example joinery plan.",
+          "status": "uncertain",
+          "ocr_raw": "Cr = 200 kg"
+        }
+      ],
+      "figure_refs": [
+        "1 Relationships of equipment and rooms in a joinery; line thickness denotes internal traffic density",
+        "2 Production sequence, approximate",
+        "3 Section → 4",
+        "4 Example of a joinery"
+      ],
+      "cross_refs": [
+        "Section → 4"
+      ],
+      "keywords": [
+        "joinery",
+        "workshop planning",
+        "production flow",
+        "machine room",
+        "bench room",
+        "timber storage",
+        "dust extraction",
+        "workshop layout"
+      ],
+      "tags_architectural": [
+        "circulation",
+        "ventilation",
+        "safety",
+        "spatial_proportion"
+      ],
+      "confidence": 0.95
+    }
+  ]
+}

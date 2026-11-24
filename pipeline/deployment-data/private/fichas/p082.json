@@ -1,0 +1,211 @@
+{
+  "fichas": [
+    {
+      "id": "4122fb96e4bd1976-82-vision-0",
+      "pdf_page": 82,
+      "book_page": 69,
+      "chapter": "BUILDING COMPONENTS",
+      "section": "Foundations",
+      "title": "Foundation types and spread foundations",
+      "summary": "Foundations may be shallow or spread—pad foundations, strip footings, ground-bearing slabs, and rafts—or deep, such as piled foundations. Masonry foundations are seldom used; unreinforced concrete is used for smaller buildings, while reinforced concrete suits higher ground pressure or wider projections. Rafts are used where subsoil bearing capacity is low or other spread foundations are insufficient. Foundations must reach frost-free depth.",
+      "building_type": "Building foundations",
+      "spaces": [],
+      "uses": [
+        "Support building loads",
+        "Distribute loads to the subsoil",
+        "Provide foundations where ground-bearing capacity is low"
+      ],
+      "furniture_equipment": [],
+      "dimensions": [
+        {
+          "label": "Frost-free depth",
+          "value": 0.8,
+          "value_max": null,
+          "unit": "m",
+          "context": "Depth stated as frost-free according to DIN 1054.",
+          "status": "verified",
+          "ocr_raw": "a depth of 0.80 m"
+        },
+        {
+          "label": "Frost-free depth for engineered structures",
+          "value": 1.0,
+          "value_max": 1.5,
+          "unit": "m",
+          "context": "Depth range stated for engineered structures.",
+          "status": "verified",
+          "ocr_raw": "for engineered\nstructures 1.0-1.5 m"
+        },
+        {
+          "label": "Foundation spacing shown in diagram",
+          "value": 3.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Dimension labeled above the foundation pressure-distribution diagram.",
+          "status": "verified",
+          "ocr_raw": "3.0m"
+        },
+        {
+          "label": "Foundation width shown in diagram",
+          "value": 0.5,
+          "value_max": null,
+          "unit": "m",
+          "context": "Dimension labeled above a foundation in the pressure-distribution diagram.",
+          "status": "verified",
+          "ocr_raw": "0.5m"
+        }
+      ],
+      "figure_refs": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12"
+      ],
+      "cross_refs": [
+        "p. 70"
+      ],
+      "keywords": [
+        "foundations",
+        "spread foundations",
+        "pad foundations",
+        "strip footings",
+        "raft foundations",
+        "piled foundations",
+        "frost-free depth",
+        "DIN 1054"
+      ],
+      "tags_architectural": [
+        "safety"
+      ],
+      "confidence": 0.97
+    },
+    {
+      "id": "4122fb96e4bd1976-82-vision-1",
+      "pdf_page": 82,
+      "book_page": 69,
+      "chapter": "BUILDING COMPONENTS",
+      "section": "Foundations",
+      "title": "Improvement of subsoil bearing capacity",
+      "summary": "The page describes vibroflotation compaction, vibro stone columns, and soil stabilisation and compaction as methods to improve subsoil bearing capacity. Vibroflotation compacts soil by vibration; stone columns use aggregate without binder. Cement grouting is unsuitable for cohesive or cement-aggressive soils, while chemical grouting is limited to soils containing quartz.",
+      "building_type": "Foundation engineering",
+      "spaces": [],
+      "uses": [
+        "Improve subsoil bearing capacity",
+        "Compact soil by vibration",
+        "Stabilise and compact soil"
+      ],
+      "furniture_equipment": [],
+      "dimensions": [
+        {
+          "label": "Vibroflotation compaction radius",
+          "value": 2.3,
+          "value_max": 3.0,
+          "unit": "m",
+          "context": "Radius of soil compacted by vibration.",
+          "status": "verified",
+          "ocr_raw": "a\nradius of 2.3-3 m"
+        },
+        {
+          "label": "Vibration-core spacing",
+          "value": 1.5,
+          "value_max": null,
+          "unit": "m",
+          "context": "Approximate spacing of vibration cores in vibroflotation compaction.",
+          "status": "verified",
+          "ocr_raw": "spacing of the vibration cores approx.\n1.5 m"
+        }
+      ],
+      "figure_refs": [
+        "5"
+      ],
+      "cross_refs": [],
+      "keywords": [
+        "subsoil",
+        "bearing capacity",
+        "vibroflotation",
+        "stone columns",
+        "soil stabilisation",
+        "compaction",
+        "grouting"
+      ],
+      "tags_architectural": [],
+      "confidence": 0.97
+    },
+    {
+      "id": "4122fb96e4bd1976-82-vision-2",
+      "pdf_page": 82,
+      "book_page": 69,
+      "chapter": "BUILDING COMPONENTS",
+      "section": "Foundations",
+      "title": "Foundation details and load distribution",
+      "summary": "Illustrations show foundation separation and expansion-joint details, raft configurations, and concrete strip-footing forms. The page warns that overlapping load areas from adjacent foundations can cause settlement or cracking. Sandfill compacted in layers can distribute loading over a wider area; other diagrams show foundations beside slopes and existing buildings.",
+      "building_type": "Building foundations",
+      "spaces": [],
+      "uses": [
+        "Distribute loads through foundation systems",
+        "Detail foundations at separation and expansion joints",
+        "Reduce settlement and cracking risks near adjacent buildings"
+      ],
+      "furniture_equipment": [],
+      "dimensions": [
+        {
+          "label": "Sandfill thickness",
+          "value": 0.8,
+          "value_max": 1.2,
+          "unit": "m",
+          "context": "Thickness of compacted sandfill beneath foundations to distribute loading over a wider area.",
+          "status": "verified",
+          "ocr_raw": "FOUNDATIONS\nFoundations\n\nFoundations can be constructed as spread or shallow foundations\n(pad foundations ---+ 0, strip footing ---+ f), ground-bearing\nslab or raft ---+ 9) or deep foundations (piled foundations ---+ 0\n---+ p. 70).\n\n0 Pad foundations for a lightweight\nbuilding without cellar\n\nf) Strip footings are the most\ncommonly used\n\n0 Raft foundation with steel reinforcement e Pile grillage and caisson deep\n\nSpread foundations\nMasonry foundations are technically feasible but seldom used\ntoday on account of the high cost.\nUnreinforced concrete foundations are used for smaller widths\nand relatively small buildings.\nReinforced concrete foundations are used where the ground\npressure is higher or the projection outside the wall is wider---+ 0- 0\n(reinforcement to resist the tension forces ---+ 0). Reinforced\nconcrete requires less thickness, weight and excavation depth than\nunreinforced concrete. The detailing of foundations at expansion\njoints and next to existing buildings or boundaries is shown in ---+ Ci).\nRaft foundations ---+ ~ are used where the load-bearing capacity\nof the subsoil is low or where pad foundations or strip footings are\ninsufficient to bear the load.\nThe foundation level must be at a frost-free depth, so that the\nsubsoil under it cannot move due to freezing and thawing.\nAccording to DIN 1054, a depth of 0.80 m (for engineered\nstructures 1.0-1.5 m) counts as frost-free.\n\nfoundations\n\n3.0m\nr--------1\n\n0.5m\n.---.-i\n\nWide foundations result in greater permissible stresses than narrow foundations\nfor the same ground pressure.\n\nImprovement in the load-bearing capacity of the subsoil\na) Vibroflotation compaction: uses vibration to compact a\nradius of 2.3-3 m; spacing of the vibration cores approx.\n1.5 m. Settlement is topped up. The improvement depends on\nthe grading of the soil and its original bedding density.\nb) Vibro stone columns: columns are formed by vibration of\naggregate of various grading without binder.\nc) Stabilisation and compaction of the soil: Cement grouting\ncannot be used for soils which are cohesive or aggressive to\ncement. Grouting with chemicals (silica solution, potassium\nchloride) produces immediate and permanent petrifaction, but\ncan be used only with soils containing quartz (gravel, loose\nrock).\n\nj~~\na) Foundation\n\nThe overlapping of areas\nloaded by adjacent\nfoundations brings the\ndanger of settlement or\ncracking, an important\nfact to remember for\nnew buildings next to\nexisting buildings.\n\nFoundations on sandflll of\n0.80 to 1.20 m thickness,\ncompacted in layers of 15 em\nand soaked, can distribute\nloading onto a wider area.\n\nFoundations\nnext to a slope.\nPressure\n\ndistribution linesangle of slope of\nthe subsoil.\n\nb) Foundation\n\n~~\nc) Construclion\nwilh divided\ninvert slab\n\nd) Foundation next\nto existing\nbuilding\n\nQ Foundation details at separation\n\n8 Simple strip footing of lean concrete e Widened, stepped foundations of\nunreinforced concrete\n\nthzzz})zzzzz9J\na) Raft of uniform depth\n\nb) Rafl reinforced wilh beams\n\nd) Reinforcement under columns\n\nfii) Sections through raft\n\nand expansion joints\n\nfoundations\n\nWidening foundations of unreinforced\nconcrete\n\nStill wider strip foundations\nof reinforced concrete\n\n69\n\nFOUNDATIONS\n\nBuilding\nexcavations\nFoundations\nTanking\nBasement\ndrainage\nRepair\nBS 8004\nBS 22475\nDIN 1054\n\n\f"
+        },
+        {
+          "label": "Compacted layer thickness",
+          "value": 15.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Layer thickness for sandfill, which is compacted and soaked.",
+          "status": "verified",
+          "ocr_raw": "FOUNDATIONS\nFoundations\n\nFoundations can be constructed as spread or shallow foundations\n(pad foundations ---+ 0, strip footing ---+ f), ground-bearing\nslab or raft ---+ 9) or deep foundations (piled foundations ---+ 0\n---+ p. 70).\n\n0 Pad foundations for a lightweight\nbuilding without cellar\n\nf) Strip footings are the most\ncommonly used\n\n0 Raft foundation with steel reinforcement e Pile grillage and caisson deep\n\nSpread foundations\nMasonry foundations are technically feasible but seldom used\ntoday on account of the high cost.\nUnreinforced concrete foundations are used for smaller widths\nand relatively small buildings.\nReinforced concrete foundations are used where the ground\npressure is higher or the projection outside the wall is wider---+ 0- 0\n(reinforcement to resist the tension forces ---+ 0). Reinforced\nconcrete requires less thickness, weight and excavation depth than\nunreinforced concrete. The detailing of foundations at expansion\njoints and next to existing buildings or boundaries is shown in ---+ Ci).\nRaft foundations ---+ ~ are used where the load-bearing capacity\nof the subsoil is low or where pad foundations or strip footings are\ninsufficient to bear the load.\nThe foundation level must be at a frost-free depth, so that the\nsubsoil under it cannot move due to freezing and thawing.\nAccording to DIN 1054, a depth of 0.80 m (for engineered\nstructures 1.0-1.5 m) counts as frost-free.\n\nfoundations\n\n3.0m\nr--------1\n\n0.5m\n.---.-i\n\nWide foundations result in greater permissible stresses than narrow foundations\nfor the same ground pressure.\n\nImprovement in the load-bearing capacity of the subsoil\na) Vibroflotation compaction: uses vibration to compact a\nradius of 2.3-3 m; spacing of the vibration cores approx.\n1.5 m. Settlement is topped up. The improvement depends on\nthe grading of the soil and its original bedding density.\nb) Vibro stone columns: columns are formed by vibration of\naggregate of various grading without binder.\nc) Stabilisation and compaction of the soil: Cement grouting\ncannot be used for soils which are cohesive or aggressive to\ncement. Grouting with chemicals (silica solution, potassium\nchloride) produces immediate and permanent petrifaction, but\ncan be used only with soils containing quartz (gravel, loose\nrock).\n\nj~~\na) Foundation\n\nThe overlapping of areas\nloaded by adjacent\nfoundations brings the\ndanger of settlement or\ncracking, an important\nfact to remember for\nnew buildings next to\nexisting buildings.\n\nFoundations on sandflll of\n0.80 to 1.20 m thickness,\ncompacted in layers of 15 em\nand soaked, can distribute\nloading onto a wider area.\n\nFoundations\nnext to a slope.\nPressure\n\ndistribution linesangle of slope of\nthe subsoil.\n\nb) Foundation\n\n~~\nc) Construclion\nwilh divided\ninvert slab\n\nd) Foundation next\nto existing\nbuilding\n\nQ Foundation details at separation\n\n8 Simple strip footing of lean concrete e Widened, stepped foundations of\nunreinforced concrete\n\nthzzz})zzzzz9J\na) Raft of uniform depth\n\nb) Rafl reinforced wilh beams\n\nd) Reinforcement under columns\n\nfii) Sections through raft\n\nand expansion joints\n\nfoundations\n\nWidening foundations of unreinforced\nconcrete\n\nStill wider strip foundations\nof reinforced concrete\n\n69\n\nFOUNDATIONS\n\nBuilding\nexcavations\nFoundations\nTanking\nBasement\ndrainage\nRepair\nBS 8004\nBS 22475\nDIN 1054\n\n\f"
+        },
+        {
+          "label": "Distance from existing building",
+          "value": 2.0,
+          "value_max": null,
+          "unit": "times foundation invert",
+          "context": "Diagram note specifies distance a as twice the foundation invert; retained as a multiple, not a length.",
+          "status": "verified",
+          "ocr_raw": "FOUNDATIONS\nFoundations\n\nFoundations can be constructed as spread or shallow foundations\n(pad foundations ---+ 0, strip footing ---+ f), ground-bearing\nslab or raft ---+ 9) or deep foundations (piled foundations ---+ 0\n---+ p. 70).\n\n0 Pad foundations for a lightweight\nbuilding without cellar\n\nf) Strip footings are the most\ncommonly used\n\n0 Raft foundation with steel reinforcement e Pile grillage and caisson deep\n\nSpread foundations\nMasonry foundations are technically feasible but seldom used\ntoday on account of the high cost.\nUnreinforced concrete foundations are used for smaller widths\nand relatively small buildings.\nReinforced concrete foundations are used where the ground\npressure is higher or the projection outside the wall is wider---+ 0- 0\n(reinforcement to resist the tension forces ---+ 0). Reinforced\nconcrete requires less thickness, weight and excavation depth than\nunreinforced concrete. The detailing of foundations at expansion\njoints and next to existing buildings or boundaries is shown in ---+ Ci).\nRaft foundations ---+ ~ are used where the load-bearing capacity\nof the subsoil is low or where pad foundations or strip footings are\ninsufficient to bear the load.\nThe foundation level must be at a frost-free depth, so that the\nsubsoil under it cannot move due to freezing and thawing.\nAccording to DIN 1054, a depth of 0.80 m (for engineered\nstructures 1.0-1.5 m) counts as frost-free.\n\nfoundations\n\n3.0m\nr--------1\n\n0.5m\n.---.-i\n\nWide foundations result in greater permissible stresses than narrow foundations\nfor the same ground pressure.\n\nImprovement in the load-bearing capacity of the subsoil\na) Vibroflotation compaction: uses vibration to compact a\nradius of 2.3-3 m; spacing of the vibration cores approx.\n1.5 m. Settlement is topped up. The improvement depends on\nthe grading of the soil and its original bedding density.\nb) Vibro stone columns: columns are formed by vibration of\naggregate of various grading without binder.\nc) Stabilisation and compaction of the soil: Cement grouting\ncannot be used for soils which are cohesive or aggressive to\ncement. Grouting with chemicals (silica solution, potassium\nchloride) produces immediate and permanent petrifaction, but\ncan be used only with soils containing quartz (gravel, loose\nrock).\n\nj~~\na) Foundation\n\nThe overlapping of areas\nloaded by adjacent\nfoundations brings the\ndanger of settlement or\ncracking, an important\nfact to remember for\nnew buildings next to\nexisting buildings.\n\nFoundations on sandflll of\n0.80 to 1.20 m thickness,\ncompacted in layers of 15 em\nand soaked, can distribute\nloading onto a wider area.\n\nFoundations\nnext to a slope.\nPressure\n\ndistribution linesangle of slope of\nthe subsoil.\n\nb) Foundation\n\n~~\nc) Construclion\nwilh divided\ninvert slab\n\nd) Foundation next\nto existing\nbuilding\n\nQ Foundation details at separation\n\n8 Simple strip footing of lean concrete e Widened, stepped foundations of\nunreinforced concrete\n\nthzzz})zzzzz9J\na) Raft of uniform depth\n\nb) Rafl reinforced wilh beams\n\nd) Reinforcement under columns\n\nfii) Sections through raft\n\nand expansion joints\n\nfoundations\n\nWidening foundations of unreinforced\nconcrete\n\nStill wider strip foundations\nof reinforced concrete\n\n69\n\nFOUNDATIONS\n\nBuilding\nexcavations\nFoundations\nTanking\nBasement\ndrainage\nRepair\nBS 8004\nBS 22475\nDIN 1054\n\n\f"
+        }
+      ],
+      "figure_refs": [
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12"
+      ],
+      "cross_refs": [],
+      "keywords": [
+        "foundation details",
+        "expansion joints",
+        "raft",
+        "strip footing",
+        "sandfill",
+        "settlement",
+        "existing buildings",
+        "slope"
+      ],
+      "tags_architectural": [
+        "safety"
+      ],
+      "confidence": 0.92
+    }
+  ]
+}

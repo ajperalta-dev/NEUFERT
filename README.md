@@ -98,3 +98,11 @@ La segunda pasada versionada usa exclusivamente `gpt-6-luna`. `.env` debe conten
 ```
 
 El dry-run no llama a modelos y escribe `data/private/reports/segunda_pasada_unidad_contexto_v2_dry_run.json`. La corrida aprobada guarda estados y auditoría en un ledger v2 independiente; no reescribe valores, OCR ni el piloto histórico. Las cotas con unidad explícita en el recorte pueden quedar `verified`; una unidad inferida del contexto conserva cita literal y bbox, pero queda `verified_unit_inferred`.
+
+## Despliegue con servicios Vercel
+
+Configuración propuesta en `vercel.json`, con frontend público y API interna
+mediante binding en tiempo de ejecución. Consulta `docs/vercel-services.md`
+para las rutas, comprobaciones locales y requisitos pendientes de almacenamiento.
+El despliegue usa tres servicios: frontend, API interna y persistencia privada de colecciones.
+Las imágenes y la base preparada están en `pipeline/deployment-data/`.

@@ -1,0 +1,62 @@
+{
+  "model": "gpt-6-luna",
+  "checks": {
+    "checks": [
+      {
+        "ficha_index": 0,
+        "dimension_index": 0,
+        "status": "uncertain",
+        "value": 1.0,
+        "value_max": null,
+        "reason": "The drawing visibly prints \u201cLayout plan 1:4.000,\u201d but the proposed ratio value 1.0 does not represent that printed scale; retain the proposed value rather than infer a conversion."
+      },
+      {
+        "ficha_index": 1,
+        "dimension_index": 0,
+        "status": "verified",
+        "value": 40.0,
+        "value_max": null,
+        "reason": "The accompanying text visibly states \u201cspan length 40 m.\u201d"
+      },
+      {
+        "ficha_index": 1,
+        "dimension_index": 1,
+        "status": "uncertain",
+        "value": 1.0,
+        "value_max": null,
+        "reason": "The section visibly prints \u201cscale 1:1250,\u201d but the proposed ratio value 1.0 does not represent that printed scale; retain the proposed value rather than infer a conversion."
+      }
+    ]
+  },
+  "automatic": [
+    {
+      "ficha_index": 0,
+      "dimension_index": 0,
+      "issues": [
+        "Unknown unit"
+      ]
+    },
+    {
+      "ficha_index": 1,
+      "dimension_index": 0,
+      "issues": []
+    },
+    {
+      "ficha_index": 1,
+      "dimension_index": 1,
+      "issues": [
+        "Unknown unit"
+      ]
+    }
+  ],
+  "usage": [
+    {
+      "prompt_tokens": 4042,
+      "completion_tokens": 836
+    },
+    {
+      "prompt_tokens": 3727,
+      "completion_tokens": 423
+    }
+  ]
+}

@@ -1,0 +1,611 @@
+{
+  "fichas": [
+    {
+      "id": "4122fb96e4bd1976-369-vision-0",
+      "pdf_page": 369,
+      "book_page": 356,
+      "chapter": "SPORT AND LEISURE",
+      "section": "Sports Halls",
+      "title": "Judo contest area",
+      "summary": "Judo contest areas use soft, springy mats. For German championships and international events, the contest area is at least 10 × 10 m. Upholstered mats are not allowed; mats should ideally be raised, and the boundary between contest area and surround should be clearly visible.",
+      "building_type": "Sports hall",
+      "spaces": [
+        "Judo contest area",
+        "Surround"
+      ],
+      "uses": [
+        "Judo practice and contests",
+        "German championships and international events"
+      ],
+      "furniture_equipment": [
+        "Soft, springy mats"
+      ],
+      "dimensions": [
+        {
+          "label": "Contest area",
+          "value": 6.0,
+          "value_max": 10.0,
+          "unit": "m",
+          "context": "Contest-area side dimensions; also an alternative of at least 6 × 12 m is printed.",
+          "status": "uncertain",
+          "ocr_raw": "Contest area 6 × 6 m to 10 × 10 m or ≥6 × 12 m"
+        },
+        {
+          "label": "Alternative contest-area width",
+          "value": 6.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Alternative contest area is at least 6 × 12 m.",
+          "status": "uncertain",
+          "ocr_raw": "or ≥6 × 12 m"
+        },
+        {
+          "label": "Alternative contest-area length",
+          "value": 12.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Alternative contest area is at least 6 × 12 m.",
+          "status": "uncertain",
+          "ocr_raw": "or ≥6 × 12 m"
+        },
+        {
+          "label": "Contest area for German championships and international events",
+          "value": 10.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Each side; minimum indicated by ≥.",
+          "status": "uncertain",
+          "ocr_raw": "For German championships and international events, contest area ≥10 × 10 m."
+        },
+        {
+          "label": "Ideal mat raising",
+          "value": 15.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Ideal height mats should be raised above the floor.",
+          "status": "uncertain",
+          "ocr_raw": "Ideally, the mats should be raised by 15 cm."
+        }
+      ],
+      "figure_refs": [
+        "1 — Judo contest area on a platform"
+      ],
+      "cross_refs": [],
+      "keywords": [
+        "judo",
+        "contest area",
+        "mats",
+        "platform"
+      ],
+      "tags_architectural": [
+        "safety"
+      ],
+      "confidence": 0.95
+    },
+    {
+      "id": "4122fb96e4bd1976-369-vision-1",
+      "pdf_page": 369,
+      "book_page": 356,
+      "chapter": "SPORT AND LEISURE",
+      "section": "Sports Halls",
+      "title": "Wrestling mat and protection area",
+      "summary": "The page specifies competition mat sizes, a marked central ring, mat construction, a surrounding protection strip, and a platform-height limit. It advises against corner posts or ropes.",
+      "building_type": "Sports hall",
+      "spaces": [
+        "Wrestling mat",
+        "Protection strip"
+      ],
+      "uses": [
+        "Wrestling competitions",
+        "National and international championships"
+      ],
+      "furniture_equipment": [
+        "Soft-covered mat",
+        "Boundary tapes"
+      ],
+      "dimensions": [
+        {
+          "label": "Competition mat",
+          "value": 5.0,
+          "value_max": 5.0,
+          "unit": "m",
+          "context": "Mat size for competitions.",
+          "status": "uncertain",
+          "ocr_raw": "Mat size for competitions 5 × 5 m"
+        },
+        {
+          "label": "Mat for German championships and international competitions",
+          "value": 6.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Each side; at least 6 × 6 m, possibly 8 × 8 m.",
+          "status": "uncertain",
+          "ocr_raw": "for German championships and international competitions ≥6 × 6 m, possibly 8 × 8 m"
+        },
+        {
+          "label": "Possible championship mat",
+          "value": 8.0,
+          "value_max": 8.0,
+          "unit": "m",
+          "context": "Possible mat size for German championships and international competitions.",
+          "status": "uncertain",
+          "ocr_raw": "possibly 8 × 8 m"
+        },
+        {
+          "label": "Mat for international championships and Olympic games",
+          "value": 8.0,
+          "value_max": 8.0,
+          "unit": "m",
+          "context": "Each side.",
+          "status": "uncertain",
+          "ocr_raw": "for international championships and Olympic games 8 × 8 m."
+        },
+        {
+          "label": "Central ring diameter",
+          "value": 1.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Minimum diameter; marked at the middle of the mat.",
+          "status": "uncertain",
+          "ocr_raw": "a ring of ≥1 m diameter"
+        },
+        {
+          "label": "Edge strip width",
+          "value": 10.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Width of the edge strip around the central ring.",
+          "status": "uncertain",
+          "ocr_raw": "with 10 cm wide edge strip."
+        },
+        {
+          "label": "Mat thickness",
+          "value": 10.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Soft covering.",
+          "status": "uncertain",
+          "ocr_raw": "Mat thickness: 10 cm, soft covering."
+        },
+        {
+          "label": "Surrounding protection strip width",
+          "value": 2.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Recommended width if possible.",
+          "status": "uncertain",
+          "ocr_raw": "Surrounding protection strip should if possible be 2 m wide"
+        },
+        {
+          "label": "Boundary tape angle",
+          "value": 45.0,
+          "value_max": null,
+          "unit": "degrees",
+          "context": "Angle where protection-strip width cannot be provided and boundary tapes are used.",
+          "status": "uncertain",
+          "ocr_raw": "otherwise boundary tapes at 45° angle."
+        },
+        {
+          "label": "Protection-strip width in mat thickness",
+          "value": 1.2,
+          "value_max": null,
+          "unit": "m",
+          "context": "This portion of the protection strip should be in mat thickness, with a colour difference.",
+          "status": "uncertain",
+          "ocr_raw": "1.2 m width of the protection strip should be in mat thickness"
+        },
+        {
+          "label": "Protection strip for national competitions",
+          "value": 1.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Width.",
+          "status": "uncertain",
+          "ocr_raw": "Protection strip for national competitions 1 m wide."
+        },
+        {
+          "label": "Platform height",
+          "value": 1.1,
+          "value_max": null,
+          "unit": "m",
+          "context": "Maximum height; no corner posts or ropes.",
+          "status": "uncertain",
+          "ocr_raw": "Platform height ≤1.1 m; no corner posts or ropes."
+        }
+      ],
+      "figure_refs": [],
+      "cross_refs": [],
+      "keywords": [
+        "wrestling",
+        "mat",
+        "protection strip",
+        "competition"
+      ],
+      "tags_architectural": [
+        "safety",
+        "clearance"
+      ],
+      "confidence": 0.97
+    },
+    {
+      "id": "4122fb96e4bd1976-369-vision-2",
+      "pdf_page": 369,
+      "book_page": 356,
+      "chapter": "SPORT AND LEISURE",
+      "section": "Sports Halls",
+      "title": "Weightlifting area",
+      "summary": "The lifting area should have a strong timber base, clear chalk markings, a non-springing floor, and solid footing. The page also gives the largest weight diameter and exercise weights.",
+      "building_type": "Sports hall",
+      "spaces": [
+        "Weightlifting area"
+      ],
+      "uses": [
+        "Weightlifting",
+        "One-handed and two-handed exercises"
+      ],
+      "furniture_equipment": [
+        "Strong timber base",
+        "Chalk markings"
+      ],
+      "dimensions": [
+        {
+          "label": "Lifting area",
+          "value": 4.0,
+          "value_max": 4.0,
+          "unit": "m",
+          "context": "Area dimensions.",
+          "status": "uncertain",
+          "ocr_raw": "Lifting area 4 × 4 m"
+        },
+        {
+          "label": "Largest weight diameter",
+          "value": 450.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "At least this diameter.",
+          "status": "uncertain",
+          "ocr_raw": "Largest weight diameter ≥450 mm"
+        },
+        {
+          "label": "Weight for one-handed exercises",
+          "value": 15.0,
+          "value_max": null,
+          "unit": "kg",
+          "context": "Specified exercise weight.",
+          "status": "uncertain",
+          "ocr_raw": "Weight for one-handed exercises 15 kg"
+        },
+        {
+          "label": "Weight for two-handed exercises",
+          "value": 20.0,
+          "value_max": null,
+          "unit": "kg",
+          "context": "Specified exercise weight.",
+          "status": "uncertain",
+          "ocr_raw": "Weight for two-handed exercises 20 kg"
+        }
+      ],
+      "figure_refs": [],
+      "cross_refs": [],
+      "keywords": [
+        "weightlifting",
+        "lifting area",
+        "floor"
+      ],
+      "tags_architectural": [
+        "safety"
+      ],
+      "confidence": 0.97
+    },
+    {
+      "id": "4122fb96e4bd1976-369-vision-3",
+      "pdf_page": 369,
+      "book_page": 356,
+      "chapter": "SPORT AND LEISURE",
+      "section": "Sports Halls",
+      "title": "Boxing ring",
+      "summary": "The page gives international boxing-ring dimensions, a usual ring size, and the surrounding raised podium dimensions. The ring drawing also labels padding, ropes, and a side canvas strip.",
+      "building_type": "Sports hall",
+      "spaces": [
+        "Boxing ring",
+        "Raised podium"
+      ],
+      "uses": [
+        "Boxing"
+      ],
+      "furniture_equipment": [
+        "Padding",
+        "Ropes wrapped in cloth",
+        "Side canvas strip"
+      ],
+      "dimensions": [
+        {
+          "label": "Boxing ring side length",
+          "value": 4.9,
+          "value_max": 6.1,
+          "unit": "m",
+          "context": "International requirements; square ring.",
+          "status": "uncertain",
+          "ocr_raw": "Dimensions of a boxing ring to international requirements, 4.9 × 4.9 m to 6.10 × 6.10 m."
+        },
+        {
+          "label": "Usual boxing ring side length",
+          "value": 5.5,
+          "value_max": 5.5,
+          "unit": "m",
+          "context": "Square ring.",
+          "status": "uncertain",
+          "ocr_raw": "5.5 × 5.5 m is usual."
+        },
+        {
+          "label": "Podium width beyond ring",
+          "value": 1.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Raised podium width on all sides.",
+          "status": "uncertain",
+          "ocr_raw": "with a podium 1 m wide on all sides."
+        },
+        {
+          "label": "Entire podium side length",
+          "value": 7.5,
+          "value_max": 8.0,
+          "unit": "m",
+          "context": "Entire podium dimensions, square.",
+          "status": "uncertain",
+          "ocr_raw": "Entire podium 7.5 × 7.5 m to 8 × 8 m"
+        }
+      ],
+      "figure_refs": [
+        "3 — Boxing ring"
+      ],
+      "cross_refs": [],
+      "keywords": [
+        "boxing",
+        "ring",
+        "podium",
+        "ropes"
+      ],
+      "tags_architectural": [
+        "safety",
+        "clearance"
+      ],
+      "confidence": 0.97
+    },
+    {
+      "id": "4122fb96e4bd1976-369-vision-4",
+      "pdf_page": 369,
+      "book_page": 356,
+      "chapter": "SPORT AND LEISURE",
+      "section": "Sports Halls",
+      "title": "Badminton court and hall requirements",
+      "summary": "The standard layout is a doubles court; singles courts are used only if space is lacking. The page specifies court clearances and safety strips, hall and net heights, floor resilience, and glare-free lighting guidance. Spectators should remain behind the safety strip.",
+      "building_type": "Sports hall",
+      "spaces": [
+        "Badminton court",
+        "Safety strips",
+        "Spectator area"
+      ],
+      "uses": [
+        "Badminton doubles",
+        "Badminton singles where space is limited"
+      ],
+      "furniture_equipment": [
+        "Net",
+        "Posts",
+        "Lightly resilient floor covering",
+        "Glare-free rooflight"
+      ],
+      "dimensions": [
+        {
+          "label": "Spacing between courts at side",
+          "value": 0.3,
+          "value_max": null,
+          "unit": "m",
+          "context": "Minimum spacing.",
+          "status": "uncertain",
+          "ocr_raw": "spacing between courts at side ≥0.30 m"
+        },
+        {
+          "label": "Spacing between court and walls",
+          "value": 1.5,
+          "value_max": null,
+          "unit": "m",
+          "context": "Minimum spacing.",
+          "status": "uncertain",
+          "ocr_raw": "between court and walls ≥1.50 m"
+        },
+        {
+          "label": "Backwards spacing between courts",
+          "value": 1.3,
+          "value_max": null,
+          "unit": "m",
+          "context": "Minimum spacing.",
+          "status": "uncertain",
+          "ocr_raw": "backwards spacing between courts ≥1.30 m"
+        },
+        {
+          "label": "Safety strip at each side",
+          "value": 1.25,
+          "value_max": null,
+          "unit": "m",
+          "context": "Width at each side.",
+          "status": "uncertain",
+          "ocr_raw": "safety strip at each side 1.25 m"
+        },
+        {
+          "label": "Safety strip front and back",
+          "value": 2.5,
+          "value_max": null,
+          "unit": "m",
+          "context": "Width at each end.",
+          "status": "uncertain",
+          "ocr_raw": "safety strip front and back, each 2.50 m"
+        },
+        {
+          "label": "International-games hall height",
+          "value": 8.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Hall height for international games.",
+          "status": "uncertain",
+          "ocr_raw": "Hall height: 8 m international games"
+        },
+        {
+          "label": "Hall height over rear partition",
+          "value": 6.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Height over rear partition.",
+          "status": "uncertain",
+          "ocr_raw": "6 m over rear partition."
+        },
+        {
+          "label": "Net height at posts",
+          "value": 1.55,
+          "value_max": null,
+          "unit": "m",
+          "context": "Height at the posts.",
+          "status": "uncertain",
+          "ocr_raw": "Net height at posts 1.55 m"
+        },
+        {
+          "label": "Net height in middle",
+          "value": 1.525,
+          "value_max": null,
+          "unit": "m",
+          "context": "Height at the middle.",
+          "status": "uncertain",
+          "ocr_raw": "in middle 1.525 m"
+        },
+        {
+          "label": "Net surface height",
+          "value": 76.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Height of net surface.",
+          "status": "uncertain",
+          "ocr_raw": "net surface 76 cm high"
+        },
+        {
+          "label": "Lighting level",
+          "value": 300.0,
+          "value_max": null,
+          "unit": "lx",
+          "context": "Glare-free rooflight; minimum indicated by ≥.",
+          "status": "uncertain",
+          "ocr_raw": "rooflight (glare-free) ≥300 lx"
+        },
+        {
+          "label": "Court back line width",
+          "value": 6.1,
+          "value_max": null,
+          "unit": "m",
+          "context": "Dimension shown in the court drawing.",
+          "status": "uncertain",
+          "ocr_raw": "6.10"
+        }
+      ],
+      "figure_refs": [
+        "4 — Badminton court"
+      ],
+      "cross_refs": [],
+      "keywords": [
+        "badminton",
+        "court",
+        "net",
+        "safety strip",
+        "hall height"
+      ],
+      "tags_architectural": [
+        "clearance",
+        "safety",
+        "daylighting"
+      ],
+      "confidence": 0.95
+    },
+    {
+      "id": "4122fb96e4bd1976-369-vision-5",
+      "pdf_page": 369,
+      "book_page": 356,
+      "chapter": "SPORT AND LEISURE",
+      "section": "Sports Halls",
+      "title": "Indiaca playing area",
+      "summary": "The page lists two game-field sizes, net heights at the post and centre, and a single-court size. The game is played using hands and a special ball.",
+      "building_type": "Sports hall",
+      "spaces": [
+        "Indiaca playing area",
+        "Single court"
+      ],
+      "uses": [
+        "Indiaca volley game"
+      ],
+      "furniture_equipment": [
+        "Net",
+        "Special ball"
+      ],
+      "dimensions": [
+        {
+          "label": "Game field",
+          "value": 5.5,
+          "value_max": 13.0,
+          "unit": "m",
+          "context": "One of two printed game-field dimensions; the other is 9.0 × 18.0 m.",
+          "status": "uncertain",
+          "ocr_raw": "game field dimensions 5.5 × 13.0 m and 9.0 × 18.0 m"
+        },
+        {
+          "label": "Game field (alternative)",
+          "value": 9.0,
+          "value_max": 18.0,
+          "unit": "m",
+          "context": "Alternative printed game-field dimensions.",
+          "status": "uncertain",
+          "ocr_raw": "game field dimensions 5.5 × 13.0 m and 9.0 × 18.0 m"
+        },
+        {
+          "label": "Net height at post",
+          "value": 1.7,
+          "value_max": 2.0,
+          "unit": "m",
+          "context": "Printed range for post height.",
+          "status": "uncertain",
+          "ocr_raw": "Net height of the post 1.70–2.00 m"
+        },
+        {
+          "label": "Net height at network centre",
+          "value": 1.68,
+          "value_max": 1.85,
+          "unit": "m",
+          "context": "Printed range for centre height.",
+          "status": "uncertain",
+          "ocr_raw": "1.68–1.85 m in the network centre"
+        },
+        {
+          "label": "Single-court dimensions",
+          "value": 4.4,
+          "value_max": 10.0,
+          "unit": "m",
+          "context": "Printed single-court dimensions.",
+          "status": "uncertain",
+          "ocr_raw": "Single court: 4.4 × 10 m"
+        }
+      ],
+      "figure_refs": [
+        "5 — Indiaca playing area (game played using hands and special ball)"
+      ],
+      "cross_refs": [],
+      "keywords": [
+        "indiaca",
+        "playing area",
+        "net",
+        "court"
+      ],
+      "tags_architectural": [
+        "safety",
+        "circulation"
+      ],
+      "confidence": 0.94
+    }
+  ]
+}

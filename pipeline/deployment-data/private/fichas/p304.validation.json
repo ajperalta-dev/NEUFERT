@@ -1,0 +1,274 @@
+{
+  "model": "gpt-6-luna",
+  "checks": {
+    "checks": [
+      {
+        "ficha_index": 0,
+        "dimension_index": 0,
+        "status": "verified",
+        "value": 300.0,
+        "value_max": null,
+        "reason": "The table states approximately 300 beds."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 1,
+        "status": "verified",
+        "value": 12.0,
+        "value_max": null,
+        "reason": "The table lists investigation and treatment as 12.0 under usable area per bed/m\u00b2."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 2,
+        "status": "verified",
+        "value": 18.0,
+        "value_max": null,
+        "reason": "The table lists care as 18.0 under usable area per bed/m\u00b2."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 3,
+        "status": "verified",
+        "value": 2.0,
+        "value_max": null,
+        "reason": "The table lists administration as 2.0 under usable area per bed/m\u00b2."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 4,
+        "status": "verified",
+        "value": 3.0,
+        "value_max": null,
+        "reason": "The table lists social services as 3.0 under usable area per bed/m\u00b2."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 5,
+        "status": "verified",
+        "value": 7.0,
+        "value_max": null,
+        "reason": "The table lists supply and waste disposal as 7.0 under usable area per bed/m\u00b2."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 6,
+        "status": "verified",
+        "value": 42.0,
+        "value_max": null,
+        "reason": "The table prints total usable area as 42.0 m\u00b2; its column heading specifies usable area per bed."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 7,
+        "status": "verified",
+        "value": 8.0,
+        "value_max": null,
+        "reason": "The table prints operational area as 8.0 m\u00b2; the guideline is expressed per bed."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 8,
+        "status": "verified",
+        "value": 19.0,
+        "value_max": null,
+        "reason": "The table prints traffic area as 19.0 m\u00b2; the guideline is expressed per bed."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 9,
+        "status": "verified",
+        "value": 69.0,
+        "value_max": null,
+        "reason": "The table prints total net floor area as 69.0 m\u00b2; the guideline is expressed per bed."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 10,
+        "status": "verified",
+        "value": 11.0,
+        "value_max": null,
+        "reason": "The table prints construction area as 11.0 m\u00b2; the guideline is expressed per bed."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 11,
+        "status": "verified",
+        "value": 80.0,
+        "value_max": null,
+        "reason": "The table prints total gross floor area as 80.0 m\u00b2; the guideline is expressed per bed."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 12,
+        "status": "verified",
+        "value": 1.9,
+        "value_max": null,
+        "reason": "The table prints gross floor area/usable area as approximately 1.9."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 13,
+        "status": "uncertain",
+        "value": 1.0,
+        "value_max": null,
+        "reason": "The text visibly gives the relationship as approaching 1:1, but the proposed scalar ratio does not preserve the complete printed ratio."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 14,
+        "status": "verified",
+        "value": 240.0,
+        "value_max": null,
+        "reason": "The text states basic provision is up to about 240 beds."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 15,
+        "status": "verified",
+        "value": 520.0,
+        "value_max": null,
+        "reason": "The text states normal provision is up to about 520 beds."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 16,
+        "status": "verified",
+        "value": 800.0,
+        "value_max": null,
+        "reason": "The text states main hospitals are up to 800 beds."
+      }
+    ]
+  },
+  "automatic": [
+    {
+      "ficha_index": 0,
+      "dimension_index": 0,
+      "issues": [
+        "Unknown unit"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 1,
+      "issues": [
+        "Unknown unit"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 2,
+      "issues": [
+        "Unknown unit"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 3,
+      "issues": [
+        "Unknown unit"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 4,
+      "issues": [
+        "Unknown unit"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 5,
+      "issues": [
+        "Unknown unit"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 6,
+      "issues": [
+        "Unknown unit"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 7,
+      "issues": [
+        "Unknown unit"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 8,
+      "issues": [
+        "Unknown unit"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 9,
+      "issues": [
+        "Unknown unit"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 10,
+      "issues": [
+        "Unknown unit"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 11,
+      "issues": [
+        "Unknown unit"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 12,
+      "issues": [
+        "Unknown unit"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 13,
+      "issues": [
+        "Unknown unit"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 14,
+      "issues": [
+        "Unknown unit"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 15,
+      "issues": [
+        "Unknown unit"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 16,
+      "issues": [
+        "Unknown unit"
+      ]
+    }
+  ],
+  "usage": [
+    {
+      "prompt_tokens": 5114,
+      "completion_tokens": 1416
+    },
+    {
+      "prompt_tokens": 4720,
+      "completion_tokens": 942
+    }
+  ]
+}

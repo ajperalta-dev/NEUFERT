@@ -1,0 +1,227 @@
+{
+  "fichas": [
+    {
+      "id": "4122fb96e4bd1976-398-vision-0",
+      "pdf_page": 398,
+      "book_page": 385,
+      "chapter": "TRANSPORT",
+      "section": "Roads",
+      "title": "Traffic calming measures and effects",
+      "summary": "Overview of traffic-calming measures for residential roads, organized by traffic system (A), detailed layout (B), and traffic control (C). The table indicates desired, probable, and possible effects, including speed reduction, pedestrian safety, noise reduction, and changes to residential character.",
+      "building_type": "Residential streets and roads",
+      "spaces": [
+        "Residential streets",
+        "Road sections",
+        "Road surfaces"
+      ],
+      "uses": [
+        "Traffic calming",
+        "Reducing vehicle speeds",
+        "Improving pedestrian safety",
+        "Managing residential street traffic"
+      ],
+      "furniture_equipment": [
+        "Traffic signs",
+        "Road humps",
+        "Raised paving",
+        "Parking arrangements"
+      ],
+      "dimensions": [
+        {
+          "label": "Posted speed",
+          "value": 30.0,
+          "value_max": null,
+          "unit": "km/h",
+          "context": "Traffic-control measure C2, speed limit",
+          "status": "uncertain",
+          "ocr_raw": "speed 30 km/h"
+        }
+      ],
+      "figure_refs": [
+        "1 Traffic calming of roads in residential areas: overview of measures and effects"
+      ],
+      "cross_refs": [
+        "A1 blind alleys / culs de sac",
+        "A2 crescents",
+        "A3 one way streets",
+        "B1 change of road surface material",
+        "B2 narrowing of road section",
+        "B3 visual rearrangement of road space",
+        "B4 dynamic obstacles (humps)",
+        "B5 reorganisation of stationary traffic",
+        "B6 raised paving",
+        "C1 sign: ‘Residential area’",
+        "C2 speed 30 km/h",
+        "C3 change of priority for drivers"
+      ],
+      "keywords": [
+        "traffic calming",
+        "residential roads",
+        "speed reduction",
+        "road layout",
+        "pedestrian safety"
+      ],
+      "tags_architectural": [
+        "circulation",
+        "safety",
+        "adaptability"
+      ],
+      "confidence": 0.98
+    },
+    {
+      "id": "4122fb96e4bd1976-398-vision-1",
+      "pdf_page": 398,
+      "book_page": 385,
+      "chapter": "TRANSPORT",
+      "section": "Roads",
+      "title": "Spatial layout of traffic management priorities",
+      "summary": "Schematic diagram differentiating areas for pedestrians and cyclists, areas where slow traffic has priority or priority is shared, and areas where motor traffic has priority. The plan shows central and residential areas, local destinations, and connections to town and regional main roads.",
+      "building_type": "Urban street and area layout",
+      "spaces": [
+        "Footpath area",
+        "Grass and trees play and sports area",
+        "Central areas",
+        "Residential areas",
+        "Town and regional main roads"
+      ],
+      "uses": [
+        "Organizing traffic priorities",
+        "Providing pedestrian and cycling areas",
+        "Connecting residential and central areas"
+      ],
+      "furniture_equipment": [
+        "Trees",
+        "Grass",
+        "Theatre",
+        "Shops",
+        "Market",
+        "Offices",
+        "Housing"
+      ],
+      "dimensions": [],
+      "figure_refs": [
+        "2 Schematic diagram of the spatial layout of traffic management priorities"
+      ],
+      "cross_refs": [
+        "Traffic calming"
+      ],
+      "keywords": [
+        "traffic management",
+        "priority areas",
+        "pedestrians",
+        "cyclists",
+        "motor traffic",
+        "urban layout"
+      ],
+      "tags_architectural": [
+        "circulation",
+        "safety",
+        "spatial_proportion"
+      ],
+      "confidence": 0.94
+    },
+    {
+      "id": "4122fb96e4bd1976-398-vision-2",
+      "pdf_page": 398,
+      "book_page": 385,
+      "chapter": "TRANSPORT",
+      "section": "Roads",
+      "title": "Road layout proposal A",
+      "summary": "Proposal for separating driving and pedestrian areas, reducing road width in favour of wider pavements, and slowing traffic through narrowing and partial use of raised paving. The accompanying text describes increased pedestrian space and safety through spatial subdivision.",
+      "building_type": "Residential street",
+      "spaces": [
+        "Carriageway",
+        "Pedestrian areas",
+        "Pavements"
+      ],
+      "uses": [
+        "Separating vehicle and pedestrian movement",
+        "Reducing vehicle speed",
+        "Increasing pedestrian space"
+      ],
+      "furniture_equipment": [
+        "Raised paving",
+        "Road narrowing elements",
+        "Traffic signs"
+      ],
+      "dimensions": [],
+      "figure_refs": [
+        "3 Road layout proposal A"
+      ],
+      "cross_refs": [
+        "B1 + B2 + B3 + (where appropriate, B4 + B6) + C1 + C2"
+      ],
+      "keywords": [
+        "road layout",
+        "raised paving",
+        "wider pavements",
+        "pedestrian safety",
+        "speed reduction"
+      ],
+      "tags_architectural": [
+        "circulation",
+        "safety",
+        "clearance"
+      ],
+      "confidence": 0.96
+    },
+    {
+      "id": "4122fb96e4bd1976-398-vision-3",
+      "pdf_page": 398,
+      "book_page": 385,
+      "chapter": "TRANSPORT",
+      "section": "Roads",
+      "title": "Road layout proposal B",
+      "summary": "A fully reorganized shared street layout combines driving, parking, and walking in a common mixed area to enable multiple uses of the whole road space. The layout prioritizes residential needs and limits vehicles to walking pace or the stated maximum speed.",
+      "building_type": "Residential shared street",
+      "spaces": [
+        "Shared mixed-use road area",
+        "Driving area",
+        "Parking area",
+        "Walking area"
+      ],
+      "uses": [
+        "Shared use of the road space",
+        "Driving",
+        "Parking",
+        "Walking",
+        "Prioritizing residential needs"
+      ],
+      "furniture_equipment": [
+        "Traffic-calming layout elements",
+        "Parking spaces",
+        "Road signs"
+      ],
+      "dimensions": [
+        {
+          "label": "Maximum speed",
+          "value": 20.0,
+          "value_max": null,
+          "unit": "km/h",
+          "context": "Vehicle speed in the shared-area layout; the text also specifies walking pace",
+          "status": "uncertain",
+          "ocr_raw": "speed is limited to ‘walking pace’ (or 20 km/h max.);"
+        }
+      ],
+      "figure_refs": [
+        "4 Road layout proposal B"
+      ],
+      "cross_refs": [
+        "(A3) + B1 + B2 + B3 + B4 + B5 + B6 + C1"
+      ],
+      "keywords": [
+        "shared street",
+        "mixed area",
+        "traffic calming",
+        "walking pace",
+        "residential needs"
+      ],
+      "tags_architectural": [
+        "circulation",
+        "safety",
+        "adaptability"
+      ],
+      "confidence": 0.96
+    }
+  ]
+}

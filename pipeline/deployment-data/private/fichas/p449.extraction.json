@@ -1,0 +1,208 @@
+{
+  "fichas": [
+    {
+      "id": "4122fb96e4bd1976-449-vision-0",
+      "pdf_page": 449,
+      "book_page": 436,
+      "chapter": "EXTERNAL WORKS",
+      "section": "Drainage",
+      "title": "Drainage and Rainwater Management",
+      "summary": "Rainwater management aims to preserve the natural water cycle by avoiding or delaying runoff into sewers. Measures include soakaways, permeable paving, rainwater harvesting, roof planting, surface infiltration and rain gardens. Drainage may be linear or point-based; falls, inlets and collection routes should be designed to prevent water from reaching vulnerable structures or neighboring properties. Drainage installations can also be integrated into the landscape and paving design.",
+      "building_type": "External works and landscape drainage",
+      "spaces": [
+        "Paved areas",
+        "Gardens",
+        "Rain gardens",
+        "Percolation basins",
+        "Drainage routes"
+      ],
+      "uses": [
+        "Manage surface water runoff",
+        "Infiltrate rainwater into the ground",
+        "Harvest rainwater",
+        "Prevent water from draining toward buildings or neighboring properties"
+      ],
+      "furniture_equipment": [
+        "Box gutters",
+        "Floor gullies",
+        "Gully traps",
+        "Slot gutters",
+        "French drains",
+        "Infiltration trenches"
+      ],
+      "dimensions": [
+        {
+          "label": "Approximate collected area for yard gullies",
+          "value": 200.0,
+          "value_max": null,
+          "unit": "m²",
+          "context": "Approximate maximum collected area stated for yard gullies.",
+          "status": "uncertain",
+          "ocr_raw": "for yard gullies: up to approx. 200 m² collected area"
+        },
+        {
+          "label": "Approximate collected area for road gullies",
+          "value": 400.0,
+          "value_max": null,
+          "unit": "m²",
+          "context": "Approximate maximum collected area stated for road gullies.",
+          "status": "uncertain",
+          "ocr_raw": "for road gullies: up to approx. 400 m² collected area"
+        },
+        {
+          "label": "Minimum spacing of road gullies",
+          "value": 40.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Road-gully spacing should be no less than this distance.",
+          "status": "uncertain",
+          "ocr_raw": "spacing of the road gullies not less than 40 m."
+        }
+      ],
+      "figure_refs": [],
+      "cross_refs": [
+        "436"
+      ],
+      "keywords": [
+        "rainwater management",
+        "surface drainage",
+        "runoff",
+        "infiltration",
+        "rain gardens",
+        "gullies"
+      ],
+      "tags_architectural": [
+        "circulation",
+        "safety",
+        "adaptability"
+      ],
+      "confidence": 0.95
+    },
+    {
+      "id": "4122fb96e4bd1976-449-vision-1",
+      "pdf_page": 449,
+      "book_page": 436,
+      "chapter": "EXTERNAL WORKS",
+      "section": "Drainage",
+      "title": "Rainwater Collection, Storage and Reuse Systems",
+      "summary": "Illustrated systems collect roof runoff through gutters and downpipes, filter it, and store it in rainwater tanks or cisterns. Stored water can be used for garden watering or supplied to domestic non-drinking-water uses, with a separate drinking-water supply and system components such as overflow, pumps, valves, level indicators and running-dry protection. A drinking-water refilling system is cross-referenced to the rainwater system diagram.",
+      "building_type": "Rainwater harvesting and storage system",
+      "spaces": [
+        "Roof drainage",
+        "Rainwater tank or cistern",
+        "Domestic service area",
+        "Garden"
+      ],
+      "uses": [
+        "Collect and store roof rainwater",
+        "Water gardens",
+        "Supply non-potable domestic uses",
+        "Provide drinking-water backup or refilling"
+      ],
+      "furniture_equipment": [
+        "Gutters",
+        "Downpipes",
+        "Filter collector",
+        "Filter pot",
+        "Filter plate",
+        "Rainwater tank",
+        "Cistern",
+        "Storage tank",
+        "Suction pump",
+        "Hand pump",
+        "Submersible pump",
+        "Overflow",
+        "Non-return valve",
+        "Magnetic valve",
+        "Level indicator",
+        "Switch-over distributor",
+        "Washing machine"
+      ],
+      "dimensions": [
+        {
+          "label": "Rainwater tank capacity",
+          "value": 1100.0,
+          "value_max": null,
+          "unit": "litres",
+          "context": "Capacity marking shown on the rainwater utilisation system illustration.",
+          "status": "uncertain",
+          "ocr_raw": "1100 l"
+        },
+        {
+          "label": "Rainwater tank capacity",
+          "value": 1500.0,
+          "value_max": null,
+          "unit": "litres",
+          "context": "Capacity marking shown on the rainwater utilisation system illustration.",
+          "status": "uncertain",
+          "ocr_raw": "1500 l"
+        },
+        {
+          "label": "Rainwater tank capacity",
+          "value": 2000.0,
+          "value_max": null,
+          "unit": "litres",
+          "context": "Capacity marking shown on the rainwater utilisation system illustration.",
+          "status": "uncertain",
+          "ocr_raw": "2000 l"
+        },
+        {
+          "label": "Rainwater tank capacity",
+          "value": 12500.0,
+          "value_max": null,
+          "unit": "litres",
+          "context": "Maximum capacity stated in the caption for the illustrated rainwater tank.",
+          "status": "uncertain",
+          "ocr_raw": "Rainwater tank up to 12 500 litres"
+        },
+        {
+          "label": "Rainwater tank diameter",
+          "value": 1.2,
+          "value_max": 2.5,
+          "unit": "m",
+          "context": "Diameter range shown beside the rainwater tank illustration.",
+          "status": "uncertain",
+          "ocr_raw": "Ø 1.20–2.50"
+        },
+        {
+          "label": "Minimum discharge opening",
+          "value": 20.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Minimum opening stated for the discharge; the diagram also gives an alternative based on the supply diameter.",
+          "status": "uncertain",
+          "ocr_raw": "discharge opening min 20 mm or 2 x internal dia. of supply"
+        }
+      ],
+      "figure_refs": [
+        "1 Rainwater butt for garden watering",
+        "2 Filter upstream of the rainwater tank",
+        "3 Rainwater tank for garden watering",
+        "4 Rainwater utilisation system",
+        "5 Principle of a cistern",
+        "6 Rainwater tank up to 12 500 litres",
+        "7 Rainwater system",
+        "8 Drinking water refilling system",
+        "9 Rainwater collection system with filter pot and external tank"
+      ],
+      "cross_refs": [
+        "Figure 8: Drinking water refilling system → Figure 7: Rainwater system",
+        "436"
+      ],
+      "keywords": [
+        "rainwater harvesting",
+        "cistern",
+        "rainwater tank",
+        "filter",
+        "non-potable water",
+        "drinking-water supply",
+        "overflow"
+      ],
+      "tags_architectural": [
+        "adaptability",
+        "safety"
+      ],
+      "confidence": 0.94
+    }
+  ]
+}

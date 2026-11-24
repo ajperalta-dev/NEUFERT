@@ -1,0 +1,369 @@
+{
+  "fichas": [
+    {
+      "id": "4122fb96e4bd1976-29-vision-0",
+      "pdf_page": 29,
+      "book_page": 16,
+      "chapter": "BASICS",
+      "section": "Drawings",
+      "title": "Visual Indicator and Lightning Protection Symbols",
+      "summary": "Legend of visual indicator symbols and lightning-protection installation symbols, including indicator lights, meters, conductors, earthing components, and related devices.",
+      "building_type": "Architectural drawing reference",
+      "spaces": [],
+      "uses": [
+        "Identify visual indicators on technical drawings",
+        "Identify lightning-protection components and connections"
+      ],
+      "furniture_equipment": [
+        "Indicator lights",
+        "Pointer indicators",
+        "Recording indicator",
+        "Meters",
+        "Metal pipes",
+        "Lightning conductors",
+        "Terminal poles",
+        "Earthing components",
+        "Sparking distances",
+        "Roof fixing",
+        "Lift",
+        "Water meter",
+        "Gas meter"
+      ],
+      "dimensions": [],
+      "figure_refs": [],
+      "cross_refs": [
+        "BS EN 50110",
+        "DIN 18015"
+      ],
+      "keywords": [
+        "visual indicators",
+        "lightning protection",
+        "drawing symbols",
+        "earthing",
+        "meters"
+      ],
+      "tags_architectural": [],
+      "confidence": 0.96
+    },
+    {
+      "id": "4122fb96e4bd1976-29-vision-1",
+      "pdf_page": 29,
+      "book_page": 16,
+      "chapter": "BASICS",
+      "section": "Drawings",
+      "title": "Electrical Installation Symbols and Residential Equipment Requirements",
+      "summary": "Electrical-installation reference combining appliance and room schedules, connected-load guidance, circuit counts by living-area size, and a high-level equipment table. The room schedule lists sockets, lighting, outlets, and appliance connections for living areas and service spaces.",
+      "building_type": "Residential building",
+      "spaces": [
+        "Living room",
+        "Bedroom",
+        "Kitchen",
+        "Kitchenette",
+        "Bathroom",
+        "WC",
+        "Utility room",
+        "Hall",
+        "Corridor",
+        "Outdoor sitting area",
+        "Storeroom",
+        "Hobby room",
+        "Residential cellar",
+        "Commercial cellar",
+        "Cellar passage"
+      ],
+      "uses": [
+        "Plan electrical circuits and outlets by room and appliance",
+        "Estimate circuit counts by living-area size",
+        "Consult connected-load guidance"
+      ],
+      "furniture_equipment": [
+        "Sockets",
+        "Lighting",
+        "Ventilator or extractor hood",
+        "Stove",
+        "Refrigerator or freezer",
+        "Dishwasher",
+        "Water heater",
+        "Extractor fan",
+        "Washing machine",
+        "Heater",
+        "Tumble dryer",
+        "Ironing machine"
+      ],
+      "dimensions": [
+        {
+          "label": "Living-area range",
+          "value": 8.0,
+          "value_max": 12.0,
+          "unit": "m²",
+          "context": "Living room and bedroom schedule; area range printed as 8–12 m².",
+          "status": "uncertain",
+          "ocr_raw": "8-12 m2"
+        },
+        {
+          "label": "Living-area range",
+          "value": 12.0,
+          "value_max": 20.0,
+          "unit": "m²",
+          "context": "Living room and bedroom schedule; area range printed as 12–20 m².",
+          "status": "uncertain",
+          "ocr_raw": "12-20 m2"
+        },
+        {
+          "label": "Living-area threshold",
+          "value": 20.0,
+          "value_max": null,
+          "unit": "m²",
+          "context": "Living room and bedroom schedule; next category is over 20 m².",
+          "status": "uncertain",
+          "ocr_raw": ">20 m²"
+        },
+        {
+          "label": "Connected load range",
+          "value": 8.0,
+          "value_max": 14.0,
+          "unit": "kW",
+          "context": "Connected-load table; printed range for the relevant appliance group.",
+          "status": "uncertain",
+          "ocr_raw": "8.0-14.0"
+        },
+        {
+          "label": "Connected load range",
+          "value": 4.0,
+          "value_max": 6.0,
+          "unit": "kW",
+          "context": "Connected-load table; printed range for the relevant appliance group.",
+          "status": "uncertain",
+          "ocr_raw": "4.0-6.0"
+        },
+        {
+          "label": "Connected load",
+          "value": 7.5,
+          "value_max": null,
+          "unit": "kW",
+          "context": "Connected-load table; printed load value.",
+          "status": "uncertain",
+          "ocr_raw": "7.5"
+        },
+        {
+          "label": "Living-area threshold",
+          "value": 50.0,
+          "value_max": null,
+          "unit": "m²",
+          "context": "Power-supply table category boundary; up to 50 m².",
+          "status": "uncertain",
+          "ocr_raw": "up to 50"
+        },
+        {
+          "label": "Living-area range",
+          "value": 50.0,
+          "value_max": 75.0,
+          "unit": "m²",
+          "context": "Power-supply table category.",
+          "status": "uncertain",
+          "ocr_raw": "50-75"
+        },
+        {
+          "label": "Living-area range",
+          "value": 75.0,
+          "value_max": 100.0,
+          "unit": "m²",
+          "context": "Power-supply table category.",
+          "status": "uncertain",
+          "ocr_raw": "75-100"
+        },
+        {
+          "label": "Living-area range",
+          "value": 100.0,
+          "value_max": 125.0,
+          "unit": "m²",
+          "context": "Power-supply table category.",
+          "status": "uncertain",
+          "ocr_raw": "100-125"
+        },
+        {
+          "label": "Living-area threshold",
+          "value": 125.0,
+          "value_max": null,
+          "unit": "m²",
+          "context": "Power-supply table category; over 125 m².",
+          "status": "uncertain",
+          "ocr_raw": "over125"
+        },
+        {
+          "label": "Living-area range",
+          "value": 45.0,
+          "value_max": 55.0,
+          "unit": "m²",
+          "context": "High-level equipment table category.",
+          "status": "uncertain",
+          "ocr_raw": "45-55"
+        },
+        {
+          "label": "Living-area range",
+          "value": 55.0,
+          "value_max": 75.0,
+          "unit": "m²",
+          "context": "High-level equipment table category.",
+          "status": "uncertain",
+          "ocr_raw": "55-75"
+        },
+        {
+          "label": "Living-area range",
+          "value": 75.0,
+          "value_max": 100.0,
+          "unit": "m²",
+          "context": "High-level equipment table category.",
+          "status": "uncertain",
+          "ocr_raw": "75-100"
+        },
+        {
+          "label": "Living-area threshold",
+          "value": 100.0,
+          "value_max": null,
+          "unit": "m²",
+          "context": "High-level equipment table category; over 100 m².",
+          "status": "uncertain",
+          "ocr_raw": "over 100"
+        },
+        {
+          "label": "Room-area threshold",
+          "value": 3.0,
+          "value_max": null,
+          "unit": "m²",
+          "context": "Storeroom schedule applies to rooms over 3 m².",
+          "status": "uncertain",
+          "ocr_raw": "Storeroom >3 m²"
+        },
+        {
+          "label": "Usable-area threshold",
+          "value": 20.0,
+          "value_max": null,
+          "unit": "m²",
+          "context": "Commercial cellar and basement schedule; category boundary for usable area.",
+          "status": "uncertain",
+          "ocr_raw": "for usable area up to 20 m²"
+        },
+        {
+          "label": "Usable-area threshold",
+          "value": 4.0,
+          "value_max": null,
+          "unit": "m²",
+          "context": "Footnote concerning bathrooms with 4 m² usable area.",
+          "status": "uncertain",
+          "ocr_raw": "For bathrooms with 4 m2 usable area"
+        },
+        {
+          "label": "Passage length threshold",
+          "value": 6.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Footnote: passages longer than 6 m require one outlet for each 6 m of length begun.",
+          "status": "uncertain",
+          "ocr_raw": "For passages >6 m long, one outlet every 6 m of length begun."
+        }
+      ],
+      "figure_refs": [
+        "1 Power supply to electrical appliances",
+        "2 No. circuits by size of living area",
+        "3 High level of equipment"
+      ],
+      "cross_refs": [
+        "BS EN 50110",
+        "DIN 18015"
+      ],
+      "keywords": [
+        "electrical installation",
+        "sockets",
+        "lighting",
+        "connected load",
+        "residential equipment",
+        "circuit count"
+      ],
+      "tags_architectural": [
+        "safety"
+      ],
+      "confidence": 0.82
+    },
+    {
+      "id": "4122fb96e4bd1976-29-vision-2",
+      "pdf_page": 29,
+      "book_page": 16,
+      "chapter": "BASICS",
+      "section": "Drawings",
+      "title": "Residential Electrical Circuit Diagram and Installation Plan",
+      "summary": "Examples of a residential electrical circuit diagram and an electrical installation plan. The plan labels rooms and shows electrical symbols, circuit references, the meter cabinet, house-supply connection, and potential equalisation.",
+      "building_type": "Residential building",
+      "spaces": [
+        "Parents' bedroom",
+        "Children's bedroom",
+        "Bath 1",
+        "Bath 2",
+        "Kitchen",
+        "Utility room",
+        "Hallway",
+        "Hall",
+        "Living/dining room",
+        "Loggia"
+      ],
+      "uses": [
+        "Coordinate electrical circuits and equipment with the residential floor plan",
+        "Locate electrical distribution and service connections"
+      ],
+      "furniture_equipment": [
+        "Meter cabinet",
+        "Electrical distribution cabinet",
+        "House-supply connection",
+        "Sockets",
+        "Lighting",
+        "Kitchen appliances",
+        "Potential equalisation"
+      ],
+      "dimensions": [
+        {
+          "label": "Room area",
+          "value": 15.1,
+          "value_max": null,
+          "unit": "m²",
+          "context": "Parents' room area labeled on the electrical installation plan.",
+          "status": "uncertain",
+          "ocr_raw": "Parents 15.10 m²"
+        },
+        {
+          "label": "Room area",
+          "value": 13.15,
+          "value_max": null,
+          "unit": "m²",
+          "context": "Children's room area labeled on the electrical installation plan.",
+          "status": "uncertain",
+          "ocr_raw": "Children 13.15 m²"
+        },
+        {
+          "label": "Room area",
+          "value": 26.25,
+          "value_max": null,
+          "unit": "m²",
+          "context": "Living/dining room area labeled on the electrical installation plan.",
+          "status": "uncertain",
+          "ocr_raw": "Living/dining room 26.25 m²"
+        }
+      ],
+      "figure_refs": [
+        "4 Circuit diagram",
+        "5 Electrical installation plan"
+      ],
+      "cross_refs": [],
+      "keywords": [
+        "circuit diagram",
+        "electrical installation plan",
+        "residential floor plan",
+        "distribution cabinet",
+        "house supply"
+      ],
+      "tags_architectural": [
+        "circulation"
+      ],
+      "confidence": 0.91
+    }
+  ]
+}

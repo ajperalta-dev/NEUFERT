@@ -1,0 +1,253 @@
+{
+  "fichas": [
+    {
+      "id": "4122fb96e4bd1976-144-vision-0",
+      "pdf_page": 144,
+      "book_page": 131,
+      "chapter": "BUILDING COMPONENTS",
+      "section": "Lifts",
+      "title": "Passenger lifts for offices, banks, hotels and hospitals",
+      "summary": "Lift type and provision depend on building function and expected traffic. Lift installations should be planned for long service life and anticipated increases in demand. The page defines turnaround time, average waiting time and transportation capacity, and illustrates lift shafts, machine rooms, passenger lifts and bed lifts. Tables give structural dimensions and capacities for lift configurations.",
+      "building_type": "Offices, banks, hotels, hospitals, residential buildings and public buildings",
+      "spaces": [
+        "Lift shaft",
+        "Lift car",
+        "Machine room",
+        "Common machine room for a set of lifts",
+        "Access hatch"
+      ],
+      "uses": [
+        "Vertical transport for passengers and patients",
+        "Transport capacity planning",
+        "Wheelchair access",
+        "Bed and patient transport"
+      ],
+      "furniture_equipment": [
+        "Passenger lift",
+        "Bed lift",
+        "Lift car",
+        "Lift shaft",
+        "Lift doors",
+        "Lift machinery",
+        "Machine room"
+      ],
+      "dimensions": [
+        {
+          "label": "Lift service life",
+          "value": 25.0,
+          "value_max": 40.0,
+          "unit": "years",
+          "context": "Expected service life of lift installations",
+          "status": "verified",
+          "ocr_raw": "long service life (anything from 25\nto 40 years)"
+        },
+        {
+          "label": "Planning horizon for increased demand",
+          "value": 10.0,
+          "value_max": null,
+          "unit": "years",
+          "context": "Planning should allow the lift installation to meet increased demand after this period",
+          "status": "verified",
+          "ocr_raw": "even after 10 years they are still capable of meeting increased\ndemand"
+        },
+        {
+          "label": "Transportation capacity period",
+          "value": 300.0,
+          "value_max": null,
+          "unit": "s",
+          "context": "Five-minute period used to define maximum achievable carrying capacity",
+          "status": "verified",
+          "ocr_raw": "within a five minute (300 s) period"
+        },
+        {
+          "label": "Bed lift dimension",
+          "value": 1400.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Dimension shown above bed-lift plan, figure 2",
+          "status": "verified",
+          "ocr_raw": "1400"
+        },
+        {
+          "label": "Bed lift dimension",
+          "value": 3000.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Vertical dimension shown beside bed-lift plan, figure 2",
+          "status": "verified",
+          "ocr_raw": "3000"
+        },
+        {
+          "label": "Bed lift dimension",
+          "value": 2400.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Dimension shown beside bed-lift plan, figure 2",
+          "status": "verified",
+          "ocr_raw": "2400"
+        },
+        {
+          "label": "Bed lift dimension",
+          "value": 2400.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Overall width dimension below bed-lift plan, figure 2",
+          "status": "verified",
+          "ocr_raw": "2400"
+        },
+        {
+          "label": "Bed lift dimension",
+          "value": 1300.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Dimension shown at the base of the bed-lift plan, figure 2",
+          "status": "verified",
+          "ocr_raw": "1300"
+        },
+        {
+          "label": "Bed lift car dimension",
+          "value": 2000.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Dimension inside the bed-lift car, figure 2",
+          "status": "verified",
+          "ocr_raw": "2000"
+        },
+        {
+          "label": "Bed lift car dimension",
+          "value": 900.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Dimension inside the bed-lift car, figure 2",
+          "status": "verified",
+          "ocr_raw": "900"
+        },
+        {
+          "label": "Lift load capacity",
+          "value": 800.0,
+          "value_max": null,
+          "unit": "kg",
+          "context": "Load capacity listed in the passenger-lift structural-dimensions table",
+          "status": "verified",
+          "ocr_raw": "1400\n\nLIFTS\nPassenger Lifts for Offices, Banks,\nHotels, Hospitals\nThe building and its function dictate the basic type of lifts which\nneed to be provided. They serve as a means of vertical transport\nfor passengers and patients. Lifts are mechanical installations\nwhich are required to have a long service life (anything from 25\nto 40 years). They should therefore be planned in such a way that\neven after 10 years they are still capable of meeting increased\ndemand. Alterations to installations that have been badly or too\ncheaply planned can be expensive or even completely impossible.\nDuring the planning stage the likely usage should be closely\nexamined. Lift sets normally form part of the main stairwell.\n\n[§11{\n~\n\n0 Section of lift shaft\n\nI\n\n2400\n\n1\n\nf) Bed lift\n\nA\n\nAnalysis of use: types and definitions\nTurnaround time is a calculated value indicating the time which a\nlift requires to complete a cycle with a given type of traffic.\nAverage waiting time is the time between the button being pressed\nand the arrival of the lift car:\n\n,•••••••,••:::••:,•::••:ouoouHo0o\n\n~~ ll\n=~\n\n\"1\n\nII\nII\n\nll ~~J~t: l\n\ncycle time (s)\nnumber of lifts/set\n\nr---,\nI\n\nI\n\n... ___ .J\n\nL:: _____ ~\n\nTransportation capacity is the maximum achievable carrying\ncapacity (in passengers) within a five minute (300 s) period:\n\naccess to power lift\nmotor room ln this area\n\n8 Machine room\n\n0 Common machine room for set\n\n= 300 (s) x car load (passengers)\n\nof lifts\n\ncycle time (s) x no. of lifts\nTransportation capacity expressed as per cent:\n= 100 x transportation capacity\n\nno. occupants in building\n\n1600kg\n\nsuitable for\nthe disabled\n\nm'\n\nfinished\n\nfloor level\nFFL\n\n................\nFFL\n\n~~\n\n::[....\n\n\"k\n\nt-;\n\n....................\n\n..L . . . . .-\n\n...\n\n~\n\ni{dA\n. ~. . .'8TI I\n·1\n\nload capacity\nkg\nBOO\n1000 1250\n1600\nnominal speed\nm/s 0.63 1.0\n1.6\n2.5 0.63 1.0 1.6 2.5 0.63 1.0\n1.6 2.5\nmin. shaft width\nc\n1900\n2400 (2600)\n2600\n2300 (2600)\n2600\nmin. shaft depth\nd\n2300\n2800\nmin. shaft pit depth\np 1400 1500 1700 2800 1400 1700 2800 1400 1900\n4400\nmin. shaft head\n3800\n4200\nq\n14000 5000\n15400\n15200\nheight\n1100\nshaft door width\nc\n800; min. 900\n1100\n2100\n2000\n2100\nshaft door height\nf\nmin. area of machine\n15\n18\n20\n25\nroom\n3200\nmin. width of\nr\n2500\n2800\n3200\nmachine room\n5500\n4900\n4900\nmin. depth of\ns\n3700\nmachine room\n2800\nmin. height of\nh\n2200\n2800\n2400\n12800\nmachine room\na\n1350\n1500\n1950\ncar width\n1750\ncar depth\nb\n1400\n1400\n2300\ncar height\n2200\n2300\nk\n1100\ncar door width\ne\n800; min. 900\n1100\n2100\n2000\n2100\ncar door height\nf\n21\npermissible no.\n10\n13 (16)\nI passengers\n\nt . . . . . . . . . r··\n\n0 Shaft for single lift\n\n~~\n\nu~~\n\n0 Overview of lifts 8- 0\n--t\n\ne\n\nPassenger lifts are preferable for more than residential buildings (offices, banks,\nhotels); lifts enable use with wheelchair\n\n2500\nload capacity\nkg\n1600\n2000\nm/s 0.63 1.0 1.6 2.5 0.63 1.o 1 1.6 1 2.5 1o.63l 1.o 1.6 2.5\nnominal speed\n2700\n2400\nmin. shaft width\nc\n3300\nmin. shaft depth\nd\n3000\nmin. shaft pit depth\np 1BOOl1700I1900 2800 1600 1700 1900 2800 1800 1900 2100 3000\n5400\n4400\n5400\n4800\n15600\nmin. shaft head height q\n4400\n1300\n1300 (1400)\nshaft door width\nc,\n2100\nshaft door height\nf\n29\n26\n27\nmin. area of machine\nm'\nroom\n3500\n3200\nmin. width of machine\nr\nroom\n5800\n5500\nmin. depth of machine s\nroom\n2800\nmin. height of machine h\nroom\n1800\na\n1400\n1500\ncar width\n2700\ncar depth\nb\n2400\n2300\ncar height\nk\n1300 (1400)\n1300\ncar door width\ne,'\n2100\ncar door height\nt,\n33\n26\npermissible\n21\nno.passengers\n\nI\n\nI\nI\n\nI\n\n® 2 ll 1000 ltg\n(}) 3M 1000kg\n\n0\n\n100\n\n200\n\n300\n\n400\n\n500\n\n2.5 mit\n2,5rNS\n\n800\n\nTransport capacity requirements for comfortable residential buildings with and\nwithout office floors\n\nDimensions in mm --)\n\nQ\n\n0 -0\n\nStructural dimensions for bed lifts --7\n\nI\n\nI\n\n0 -0\n\n131\n\nLIFTS\n\nPrinciples\nControl\nResidential\nbuildings\nPublic buildings\nSmall goods lifts\nHydraulic lifts\nSpecial lilts\nBS EN 81\nDIN EN 81\nDIN 15306\nDIN 15309\n\n\f"
+        },
+        {
+          "label": "Lift load capacity",
+          "value": 1000.0,
+          "value_max": null,
+          "unit": "kg",
+          "context": "Load capacity listed in the passenger-lift structural-dimensions table",
+          "status": "verified",
+          "ocr_raw": "1000"
+        },
+        {
+          "label": "Lift load capacity",
+          "value": 1250.0,
+          "value_max": null,
+          "unit": "kg",
+          "context": "Load capacity listed in the passenger-lift structural-dimensions table",
+          "status": "verified",
+          "ocr_raw": "1250"
+        },
+        {
+          "label": "Lift load capacity",
+          "value": 1600.0,
+          "value_max": null,
+          "unit": "kg",
+          "context": "Load capacity listed in the passenger-lift structural-dimensions table",
+          "status": "verified",
+          "ocr_raw": "1600"
+        },
+        {
+          "label": "Lift load capacity",
+          "value": 2000.0,
+          "value_max": null,
+          "unit": "kg",
+          "context": "Load capacity listed in the structural-dimensions table",
+          "status": "verified",
+          "ocr_raw": "2000"
+        },
+        {
+          "label": "Lift load capacity",
+          "value": 2500.0,
+          "value_max": null,
+          "unit": "kg",
+          "context": "Load capacity listed in the structural-dimensions table",
+          "status": "verified",
+          "ocr_raw": "2500"
+        },
+        {
+          "label": "Nominal lift speed",
+          "value": 0.63,
+          "value_max": null,
+          "unit": "m/s",
+          "context": "Nominal speeds listed in the lift-dimensions tables",
+          "status": "verified",
+          "ocr_raw": "0.63"
+        },
+        {
+          "label": "Nominal lift speed",
+          "value": 1.0,
+          "value_max": null,
+          "unit": "m/s",
+          "context": "Nominal speeds listed in the lift-dimensions tables",
+          "status": "verified",
+          "ocr_raw": "1.0"
+        },
+        {
+          "label": "Nominal lift speed",
+          "value": 1.6,
+          "value_max": null,
+          "unit": "m/s",
+          "context": "Nominal speeds listed in the lift-dimensions tables",
+          "status": "verified",
+          "ocr_raw": "1.6"
+        },
+        {
+          "label": "Nominal lift speed",
+          "value": 2.5,
+          "value_max": null,
+          "unit": "m/s",
+          "context": "Nominal speeds listed in the lift-dimensions tables",
+          "status": "verified",
+          "ocr_raw": "2.5"
+        }
+      ],
+      "figure_refs": [
+        "1 Section of lift shaft",
+        "2 Bed lift",
+        "3 Machine room",
+        "4 Common machine room for set of lifts",
+        "5 Shaft for single lift",
+        "6 Overview of lifts",
+        "7 Transport capacity requirements for comfortable residential buildings with and without office floors",
+        "8 Passenger-lift structural dimensions",
+        "9 Structural dimensions for bed lifts"
+      ],
+      "cross_refs": [
+        "Overview of lifts → 8–9",
+        "Dimensions in mm → 1–6",
+        "Structural dimensions for bed lifts → 1–6"
+      ],
+      "keywords": [
+        "lifts",
+        "passenger lifts",
+        "bed lifts",
+        "vertical transport",
+        "turnaround time",
+        "waiting time",
+        "transportation capacity",
+        "lift shaft",
+        "machine room",
+        "wheelchair access"
+      ],
+      "tags_architectural": [
+        "accessibility",
+        "circulation",
+        "ergonomics",
+        "safety"
+      ],
+      "confidence": 0.88
+    }
+  ]
+}

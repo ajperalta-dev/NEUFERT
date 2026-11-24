@@ -1,0 +1,164 @@
+{
+  "fichas": [
+    {
+      "id": "4122fb96e4bd1976-544-vision-0",
+      "pdf_page": 544,
+      "book_page": 531,
+      "chapter": "BUILDING SERVICES",
+      "section": "Domestic Installation",
+      "title": "Air-conditioning plant room arrangement",
+      "summary": "Air-handling equipment must have a dedicated air-conditioning plant room in buildings of more than three storeys when connecting ductwork serves more than one storey or fire compartment. Plant rooms are commonly located on a services floor near, but not combined in the same room with, the heating and cooling plants. Their connection to vertical installation shafts and their distances from areas of demand should be considered. Services-floor placement affects the building’s appearance and requires intake and extract louvres.",
+      "building_type": "Buildings with air-conditioning and ventilation systems",
+      "spaces": [
+        "Air-conditioning plant room",
+        "Heating plant room",
+        "Cooling plant room",
+        "Services floor",
+        "Vertical installation shafts"
+      ],
+      "uses": [
+        "House air-handling equipment",
+        "Distribute air to multiple storeys or fire compartments"
+      ],
+      "furniture_equipment": [
+        "Air-handling equipment",
+        "Heating plant and distribution",
+        "Chiller",
+        "Intake and extract louvres"
+      ],
+      "dimensions": [
+        {
+          "label": "Storey threshold",
+          "value": 3.0,
+          "value_max": null,
+          "unit": "storeys",
+          "context": "Dedicated service room required in buildings of more than three storeys, subject to the connecting-ductwork condition.",
+          "status": "verified",
+          "ocr_raw": "in buildings of more than three storeys"
+        }
+      ],
+      "figure_refs": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "cross_refs": [
+        "531"
+      ],
+      "keywords": [
+        "air-conditioning plant room",
+        "air handling",
+        "services floor",
+        "fire protection",
+        "ductwork"
+      ],
+      "tags_architectural": [
+        "circulation",
+        "safety",
+        "adaptability"
+      ],
+      "confidence": 0.95
+    },
+    {
+      "id": "4122fb96e4bd1976-544-vision-1",
+      "pdf_page": 544,
+      "book_page": 531,
+      "chapter": "BUILDING SERVICES",
+      "section": "Domestic Installation",
+      "title": "Sizing air-conditioning plant rooms",
+      "summary": "Approximate air-conditioning plant-room area and height can be estimated from assumed volume flow and the type of air handling. The page presents charts for systems accommodating several units, with separate guidance for smaller and larger systems, and cites VDI 3803 and VDI Guideline 2052.",
+      "building_type": "Administration building or other building with air-conditioning plant",
+      "spaces": [
+        "Air-conditioning plant room"
+      ],
+      "uses": [
+        "Estimate plant-room area and height from volume flow and air-handling type"
+      ],
+      "furniture_equipment": [
+        "Air-handling units"
+      ],
+      "dimensions": [
+        {
+          "label": "Air-flow capacity",
+          "value": 50.0,
+          "value_max": null,
+          "unit": "m³/s",
+          "context": "The chart is described as applying to air flows of up to this amount for smaller systems.",
+          "status": "verified",
+          "ocr_raw": "Waste air\n\nt\n\nCooH Heat-\n\nAir con\nroom\n\ning_l il}g\n\n1----1~ - L - ~ ~·\n\n-\n\n=-\n\n1----1\n\n\\\n\n-\n\nl.f-------F'#-1---,~o--1--__j\nHeating\n\nt..\n\n0\n\nf) Air conditioning plant rooms on\n\nAir conditioning plant rooms in\nbasement (Wellpott --> refs)\n\ntop floor (Wellpott --> refs)\nwaste air t\n\nWasteairl\n\nI\nr---r---1----f---\n\n-\n\nOutsi~ai r\n\nf--\n\n-\n\nAi~g~n I~~~ ~ 1-\n\nHeating\n\n8\n\nAir conditioning plant room on\nan intermediate floor. Good\nsolution for high-rise buildings\n(Wellpott--> refs)\n\nAir supply plant room in basement.\nExtract air plant room on the roof\n(induction air conditioning system).\nNo air circulation (Wellpott --> refs)\n\n. - - - - . - - - - - , - - - - . , - - - - - . , - - l - 4 :E\n\nm ·~\n\n1----+- Heights +--=~~~=r----J-3 I\n\nm' 1 - - - - + - - - - 1 - - - - + - - - - - 1 - - j -\n\n!~= 1----+----1----+-----1--=---1- Air conditioning\nWithout humidifier\n-Ventll./venting\nVenting\n\n30_\n\n20_\n\nm10_\n\n< 0_ Ll\"C\"I-,:-:-,_1:--'-1-,c-c,-cl--;-1--\",-:-,-cl-:-1-c,--c-,-cl-:-1-cl-:-1-!1--;-1-c,-:,\na\n\n5000\n\n10000\n\n15000\n\n20000\n\nm'/h\n\nVolume flow\n\nApproximate determination of area and room heights required for air\nconditioning plant rooms in which to site several units for air flows of up to\n50m'ls, according to Vdl 3803, for smaller systems (Wellpott--> refs)\n\n-mi\n\n400_\n\n-\n\nm'-\n\nVentilation\n\n-\n\nAir conditioning plant rooms ~o 0\nArrangement for air handling equipment According to a sample\ndesign by the expert Building Supervision (RbAL), air handling\nequipment must have a dedicated service room (air conditioning\nplant room) in buildings of more than three storeys, if the connecting\nductwork leads into more than one storey or fire compartment.\nVentilation and air conditioning systems mostly have their services\nrooms on a services floor, near the heating plant room (heating room\nwith distribution) and the cooling plant (chiller). The combination of\nair conditioning plant and heating plant in one room is not allowed\n(fire protection). Spatial connection of plant rooms to the building\ncores with their vertical installation shafts is an important design\nconsideration. The horizontal and vertical distances to the main\nareas of demand (e.g. large kitchens, canteens or server rooms)\nfrom the air conditioning plant room should also be considered.\nThe formal integration of a services floor into the body of a building\ncan considerably influence its appearance. Placed on one of the\nupper storeys, a dedicated services floor will have almost no windows\nor none at all (noise emission), but will need intake and extract louvres\nand will also contrast with other floors with its different storey height.\nRoom sizes\nAn approximate estimation of the size of an air conditioning\nplant room can be undertaken using the VOl Guideline 2052,\nworking from the assumed volume flow and the type of air\nhandling. Example calculations for the size of the plant room in an\nadministration building ~\n\ne -e.\n\nFagade ventilation systems ~ 0 - 0\nThese are also referred to as decentralised ventilation systems.\nThe units are placed near the fagades with a direct duct connection.\nIn contrast to fan convectors with recirculation, the flow of outside\nair is fed directly from the fagade to the unit. This means that\nno more air conditioning installation is required in the building.\nFagade ventilation units can be designed in various forms such as\nunderfloor air supply units, combined air supply and extract units\nor with a central extract air plant.\nIt is important to consider the influence of wind pressure on the\nvolume flow. The temperature boundary layer at the fagade can\nalso affect the air supply temperature, depending on the layout\nand design of the building.\nOutside , . . - - - - - - - - - - - - - - , - - - - - ,\n\nI\n\n(\"\n\n.-/ -Air conditioning\n\n300\n\n~\n\n\\VitC,'r<:s.\n\n~ ~\n\n200\n\n~\n\n\"'50\n~\n\n-\n\n:c..-\n\n0\n\n6\n\nI\n\n.\n\nI\n\nI\n\n--------~--------- J.-------\"\".--\n\nls6ool\n\n--\n\nI\n\nI\n\n6\n\n1 00 1 I\n10\n\n------\n\n115 bool\n\nI\n\nrWithout humidifier\n\nI\n\nI\n\n-Ventil./venting\n\n'-Venting\n\n....\n\nr\n\n.....\n\n.......-\"\n\nreclam~tion\n\n)\n\nHeating\nSmall sewage\ntreatment plants\n\n---\n\n(Office (\n\nCorridor\n\n.......-\"\n\nDouble floor\n\nQ\n\nDrainage\nVentilation\n\nCorridor\n\nOffice\n\n.......-\"\n\nDOMESTIC\nINSTALLATION\n\nCeiling extract device\n• •1\n\nOutside\n\nAir supply and extract\ndevice with heat\n\nCorridor\n\n-'\n\n___.,\n\n---.....\n\ni: I\n\n,/\n\nUnderfloor air supply unit combined with centralised extract air system\n(Wellpott, Bohne--> refs)\n\n~1/lh\n\nbut for larger systems (Wellpott--> refs)\n\nI\nOutside air\n\n/\n\nDouble floor\n\nOutside\n\n. .II\n\nOffice\n\n/\n\nOutside air\n\nWaste air\n\nWaste air\n\n{\n\nUnderfloor air supply device\n\nVolume flow\n\n0 As 9,\n\nWaste air\n\n~\n\n~\n\n~\n\n~\n\n..\n\n100\n\n<(\n\nDOMESTIC INSTALLATION\n\nCombined parapet air supply and extract unit (Well pot!, Bohne --> refs)\n\nC) Underlloor air supply unit combined with over-current component (Wellpott\n\n1\n\nBohne--> refs)\n\n531\n\n\f"
+        }
+      ],
+      "figure_refs": [
+        "5",
+        "6"
+      ],
+      "cross_refs": [
+        "531"
+      ],
+      "keywords": [
+        "plant-room sizing",
+        "volume flow",
+        "room area",
+        "room height",
+        "VDI 3803",
+        "VDI Guideline 2052"
+      ],
+      "tags_architectural": [
+        "spatial_proportion"
+      ],
+      "confidence": 0.94
+    },
+    {
+      "id": "4122fb96e4bd1976-544-vision-2",
+      "pdf_page": 544,
+      "book_page": 531,
+      "chapter": "BUILDING SERVICES",
+      "section": "Domestic Installation",
+      "title": "Façade ventilation systems",
+      "summary": "Decentralised ventilation units are placed near façades and connected directly by ducts. Outside air is supplied directly from the façade to the unit, avoiding the need for a further air-conditioning installation in the building. Configurations include underfloor supply, combined supply and extract, and systems with central extract. Wind pressure and the façade temperature boundary layer can affect volume flow and supply-air temperature.",
+      "building_type": "Buildings with decentralised ventilation",
+      "spaces": [
+        "Office",
+        "Corridor",
+        "Façade zone",
+        "Double floor"
+      ],
+      "uses": [
+        "Supply outside air near the façade",
+        "Extract air locally or through a central extract-air plant",
+        "Provide combined air supply and extract"
+      ],
+      "furniture_equipment": [
+        "Underfloor air supply unit",
+        "Combined parapet air supply and extract unit",
+        "Ceiling extract device",
+        "Central extract-air plant",
+        "Heat-reclamation device"
+      ],
+      "dimensions": [],
+      "figure_refs": [
+        "7",
+        "8",
+        "9"
+      ],
+      "cross_refs": [
+        "531"
+      ],
+      "keywords": [
+        "façade ventilation",
+        "decentralised ventilation",
+        "underfloor air supply",
+        "air extract",
+        "heat reclamation",
+        "wind pressure"
+      ],
+      "tags_architectural": [
+        "ventilation",
+        "adaptability",
+        "daylighting"
+      ],
+      "confidence": 0.96
+    }
+  ]
+}

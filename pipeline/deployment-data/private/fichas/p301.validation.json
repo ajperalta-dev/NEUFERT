@@ -1,0 +1,45 @@
+{
+  "model": "gpt-6-luna",
+  "checks": {
+    "checks": [
+      {
+        "ficha_index": 1,
+        "dimension_index": 0,
+        "status": "verified",
+        "value": 67.0,
+        "value_max": null,
+        "reason": "The Court of the Tabernacle plan visibly labels the dimension \u201c~67 m\u201d; the proposed value and unit agree."
+      },
+      {
+        "ficha_index": 1,
+        "dimension_index": 1,
+        "status": "verified",
+        "value": 34.0,
+        "value_max": null,
+        "reason": "The Court of the Tabernacle plan visibly labels the dimension \u201c~34 m\u201d; the proposed value and unit agree."
+      }
+    ]
+  },
+  "automatic": [
+    {
+      "ficha_index": 1,
+      "dimension_index": 0,
+      "issues": []
+    },
+    {
+      "ficha_index": 1,
+      "dimension_index": 1,
+      "issues": []
+    }
+  ],
+  "usage": [
+    {
+      "prompt_tokens": 4505,
+      "completion_tokens": 1972
+    },
+    {
+      "prompt_tokens": 4741,
+      "completion_tokens": 164
+    }
+  ]
+}

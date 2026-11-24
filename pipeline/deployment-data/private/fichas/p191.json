@@ -1,0 +1,462 @@
+{
+  "fichas": [
+    {
+      "id": "4122fb96e4bd1976-191-vision-0",
+      "pdf_page": 191,
+      "book_page": 178,
+      "chapter": "ACCOMMODATION",
+      "section": "Catering",
+      "title": "Snack bar",
+      "summary": "A snack bar, corner pub, bistro, café, or restaurant serving a limited menu, predominantly from pre-prepared items. It may serve coffee, cakes, and snacks between lunch and evening meals; daily deliveries can reduce storage needs.",
+      "building_type": "Snack bar / small restaurant",
+      "spaces": [
+        "Dining room",
+        "Kitchen",
+        "Food storage",
+        "Staff toilets",
+        "Customer toilets"
+      ],
+      "uses": [
+        "Serve meals, drinks, coffee, cakes, and snacks",
+        "Prepare or finish pre-prepared food",
+        "Support lunchtime and evening dining"
+      ],
+      "furniture_equipment": [
+        "Meals and drinks servery",
+        "Dishwasher",
+        "Crockery returns",
+        "Drinks bar with mixer, toaster, and food containers",
+        "Small pastry oven",
+        "Food storage",
+        "Rotisserie",
+        "Cooker rings",
+        "Water boiler and steam machine",
+        "Pot and pan washer",
+        "Refrigerators and freezers instead of cold store",
+        "Bar counter"
+      ],
+      "dimensions": [
+        {
+          "label": "Seating capacity",
+          "value": 55.0,
+          "value_max": 60.0,
+          "unit": "seats",
+          "context": "Snack bar capacity",
+          "status": "verified",
+          "ocr_raw": "capacity\n55-60 seats"
+        },
+        {
+          "label": "Lunchtime turnover",
+          "value": 2.0,
+          "value_max": 4.0,
+          "unit": "place turnover",
+          "context": "At lunchtime",
+          "status": "verified",
+          "ocr_raw": "2-4 place turnover at lunchtime"
+        },
+        {
+          "label": "Evening turnover",
+          "value": 2.0,
+          "value_max": null,
+          "unit": "place turnover",
+          "context": "In evenings",
+          "status": "verified",
+          "ocr_raw": "2 in evenings"
+        }
+      ],
+      "figure_refs": [
+        "1"
+      ],
+      "cross_refs": [
+        "BS EN 203",
+        "BS EN 631",
+        "BS 6173",
+        "BS EN 12851",
+        "BS EN ISO"
+      ],
+      "keywords": [
+        "snack bar",
+        "pre-prepared food",
+        "daily deliveries",
+        "servery"
+      ],
+      "tags_architectural": [
+        "circulation"
+      ],
+      "confidence": 0.94
+    },
+    {
+      "id": "4122fb96e4bd1976-191-vision-1",
+      "pdf_page": 191,
+      "book_page": 178,
+      "chapter": "ACCOMMODATION",
+      "section": "Catering",
+      "title": "Café-restaurant with tea room",
+      "summary": "An urban café-restaurant in a heavy-traffic location, with a tea room and a kitchen relying predominantly on pre-prepared items and little storage. The café serves drinks, patisserie, and light cold and hot food; the tea room serves drinks, patisserie, and sandwiches.",
+      "building_type": "Café-restaurant",
+      "spaces": [
+        "Café",
+        "Tea room",
+        "Restaurant",
+        "Kitchen",
+        "Pastry preparation",
+        "Staff toilets and cloakroom",
+        "Toilets",
+        "Telephone cubicle",
+        "Terrace"
+      ],
+      "uses": [
+        "Serve alcohol-free drinks, patisserie, and light food",
+        "Serve tea-room drinks, patisserie, and sandwiches",
+        "Prepare or finish pre-prepared food",
+        "Provide waiter service"
+      ],
+      "furniture_equipment": [
+        "Waiters' walkway",
+        "Service counter and cash tills",
+        "Dishwasher",
+        "Drinks bar with mixer and toaster",
+        "Ice cream freezer",
+        "Pastry preparation area",
+        "Pastry oven",
+        "Sandwich preparation area",
+        "Reheating equipment such as soup equipment",
+        "Cooker rings",
+        "Pot and pan washer",
+        "Linen store"
+      ],
+      "dimensions": [
+        {
+          "label": "Tea room capacity",
+          "value": 150.0,
+          "value_max": null,
+          "unit": "seats",
+          "context": "Approximate capacity",
+          "status": "verified",
+          "ocr_raw": "Capacity\napprox. 150 seats"
+        },
+        {
+          "label": "Continuous operation start",
+          "value": 6.3,
+          "value_max": null,
+          "unit": "time",
+          "context": "Start of continuous operation",
+          "status": "verified",
+          "ocr_raw": "continuous operation 6.30 - 24.00"
+        },
+        {
+          "label": "Continuous operation end",
+          "value": 24.0,
+          "value_max": null,
+          "unit": "time",
+          "context": "End of continuous operation",
+          "status": "verified",
+          "ocr_raw": "continuous operation 6.30 - 24.00"
+        }
+      ],
+      "figure_refs": [
+        "2"
+      ],
+      "cross_refs": [
+        "DIN EN 631",
+        "DIN 66075"
+      ],
+      "keywords": [
+        "café-restaurant",
+        "tea room",
+        "patisserie",
+        "pre-prepared food"
+      ],
+      "tags_architectural": [
+        "circulation"
+      ],
+      "confidence": 0.91
+    },
+    {
+      "id": "4122fb96e4bd1976-191-vision-2",
+      "pdf_page": 191,
+      "book_page": 178,
+      "chapter": "ACCOMMODATION",
+      "section": "Catering",
+      "title": "Large hotel restaurant kitchen",
+      "summary": "A large kitchen for a hotel or catering establishment with side rooms, external deliveries, or production for outside companies. The kitchen uses a cell system fronted by the backs of large appliances; the waiters’ walkway is centrally located and may provide service to a garden, bowling alley, and side rooms.",
+      "building_type": "Large hotel restaurant kitchen",
+      "spaces": [
+        "Kitchen",
+        "Cold store",
+        "Cold-dish preparation",
+        "Hot-dish and sauce preparation",
+        "Pastry counter",
+        "Vegetable preparation",
+        "Meat preparation",
+        "Deliveries",
+        "Stores",
+        "Offices",
+        "Staff cloakrooms",
+        "Toilets",
+        "Side rooms",
+        "Waiters' walkway"
+      ],
+      "uses": [
+        "Produce and serve meals for a large restaurant or catering establishment",
+        "Supply outside companies",
+        "Provide service to side rooms and garden areas"
+      ],
+      "furniture_equipment": [
+        "Garden service counter",
+        "Dishwashing area",
+        "Drinks counter and drinks cellar",
+        "Pastry counter",
+        "Cold dishes and hot dishes and sauces",
+        "Table with hot store",
+        "Pot and pan washer",
+        "Vegetable and meat preparation equipment",
+        "Refrigerators and freezers"
+      ],
+      "dimensions": [
+        {
+          "label": "Capacity",
+          "value": 800.0,
+          "value_max": 1000.0,
+          "unit": "people",
+          "context": "Large hotel restaurant kitchen capacity",
+          "status": "verified",
+          "ocr_raw": "Capacity 800-1000 people"
+        }
+      ],
+      "figure_refs": [
+        "3"
+      ],
+      "cross_refs": [
+        "BS EN 203",
+        "BS EN 631",
+        "BS 6173",
+        "BS EN 12851",
+        "BS EN ISO",
+        "BIP 2130/2078",
+        "DIN EN 631",
+        "DIN 66075"
+      ],
+      "keywords": [
+        "large hotel kitchen",
+        "cell system",
+        "cold store",
+        "catering"
+      ],
+      "tags_architectural": [
+        "circulation"
+      ],
+      "confidence": 0.9
+    },
+    {
+      "id": "4122fb96e4bd1976-191-vision-3",
+      "pdf_page": 191,
+      "book_page": 178,
+      "chapter": "ACCOMMODATION",
+      "section": "Catering",
+      "title": "Restaurant with buffet and vending machines",
+      "summary": "A restaurant arrangement for fast midday meals in canteens, department stores, and motorway services. The kitchen mainly warms pre-prepared food, with salads and soups as exceptions; the plan includes self-service counters and vending machines.",
+      "building_type": "Self-service restaurant / buffet restaurant",
+      "spaces": [
+        "Dining area",
+        "Self-service counters",
+        "Cold meal preparation",
+        "Hot meal preparation",
+        "Cold store",
+        "Serving aisles",
+        "Dishwashing area",
+        "Crockery returns"
+      ],
+      "uses": [
+        "Serve fast midday meals",
+        "Warm pre-prepared food",
+        "Offer salads and soups",
+        "Provide self-service food and drinks"
+      ],
+      "furniture_equipment": [
+        "Vending machines",
+        "Covered dishwashers operated from both sides",
+        "Rinsing basins",
+        "Cold servery for salads, ices, and desserts",
+        "Griddle",
+        "Soup heater",
+        "Water boiler",
+        "Hot servery and hotplates",
+        "Self-service buffet",
+        "Cash tills"
+      ],
+      "dimensions": [
+        {
+          "label": "Capacity",
+          "value": 500.0,
+          "value_max": null,
+          "unit": "people/h",
+          "context": "Restaurant capacity",
+          "status": "verified",
+          "ocr_raw": "Capacity 500 people/h"
+        }
+      ],
+      "figure_refs": [
+        "4"
+      ],
+      "cross_refs": [],
+      "keywords": [
+        "buffet",
+        "vending machines",
+        "self-service",
+        "midday meals"
+      ],
+      "tags_architectural": [
+        "circulation"
+      ],
+      "confidence": 0.91
+    },
+    {
+      "id": "4122fb96e4bd1976-191-vision-4",
+      "pdf_page": 191,
+      "book_page": 178,
+      "chapter": "ACCOMMODATION",
+      "section": "Catering",
+      "title": "Self-service restaurant",
+      "summary": "A self-service restaurant suitable for department stores or offices. It has no in-house production; food is delivered from outside and prepared using a deep-frozen process. The layout includes separate cold and hot meal preparation tables and a sales kiosk that can serve inside and to the street.",
+      "building_type": "Self-service restaurant",
+      "spaces": [
+        "Entrance",
+        "Sales kiosk",
+        "Food and drinks servery",
+        "Cold room",
+        "Deliveries",
+        "Cold meal preparation",
+        "Hot meal preparation",
+        "Dishwashing area"
+      ],
+      "uses": [
+        "Serve food to restaurant customers and potentially street customers",
+        "Prepare externally delivered food using a deep-frozen process",
+        "Heat and serve food"
+      ],
+      "furniture_equipment": [
+        "Self-service buffet with grill and chip fryer",
+        "Sauces, condiments, and cutlery",
+        "Cash till",
+        "Dishwasher",
+        "Crockery returns",
+        "Cold meal preparation table",
+        "Heating units used from both sides",
+        "Hot meal preparation table",
+        "Refrigerators used from both sides",
+        "Sales kiosk"
+      ],
+      "dimensions": [],
+      "figure_refs": [
+        "5"
+      ],
+      "cross_refs": [],
+      "keywords": [
+        "self-service",
+        "deep-frozen food",
+        "outside delivery",
+        "sales kiosk"
+      ],
+      "tags_architectural": [
+        "circulation"
+      ],
+      "confidence": 0.92
+    },
+    {
+      "id": "4122fb96e4bd1976-191-vision-5",
+      "pdf_page": 191,
+      "book_page": 178,
+      "chapter": "ACCOMMODATION",
+      "section": "Catering",
+      "title": "Separate preparation of vegetables and meat",
+      "summary": "Kitchen planning diagram showing separate preparation zones for vegetables and meat, with work areas and equipment arranged around preparation tasks. The accompanying equipment key identifies peeling, cleaning, cutting, washing, weighing, and mixing equipment.",
+      "building_type": "Commercial kitchen preparation area",
+      "spaces": [
+        "Vegetable preparation area",
+        "Meat preparation area",
+        "Work areas"
+      ],
+      "uses": [
+        "Prepare vegetables and meat separately",
+        "Wash, clean, cut, weigh, and process ingredients"
+      ],
+      "furniture_equipment": [
+        "Peeling machine",
+        "Drip tray",
+        "Cleaning surface",
+        "Holding surface",
+        "Universal machine",
+        "Cutting board",
+        "Sink and worktable",
+        "Hand wash basin",
+        "Worktable",
+        "Slicers",
+        "Freezer",
+        "Bench scale",
+        "Stir/beat machine"
+      ],
+      "dimensions": [],
+      "figure_refs": [
+        "6"
+      ],
+      "cross_refs": [],
+      "keywords": [
+        "vegetable preparation",
+        "meat preparation",
+        "kitchen equipment",
+        "food preparation"
+      ],
+      "tags_architectural": [
+        "safety",
+        "adaptability"
+      ],
+      "confidence": 0.88
+    },
+    {
+      "id": "4122fb96e4bd1976-191-vision-6",
+      "pdf_page": 191,
+      "book_page": 178,
+      "chapter": "ACCOMMODATION",
+      "section": "Catering",
+      "title": "American and French hotel kitchen systems",
+      "summary": "Two kitchen organization diagrams compare the relationship between cooking and frying, production, finishing, and servery areas. The American system arranges boiling and roasting areas parallel to the servery; the French system arranges them perpendicular to it and separates production and finishing zones.",
+      "building_type": "Hotel kitchen",
+      "spaces": [
+        "Cooking and frying area",
+        "Production area",
+        "Finishing area",
+        "Servery",
+        "Work surfaces"
+      ],
+      "uses": [
+        "Organize kitchen production and finishing workflows",
+        "Arrange cooking and frying in relation to the servery"
+      ],
+      "furniture_equipment": [
+        "Cooking and frying equipment",
+        "Production work areas",
+        "Finishing work areas",
+        "Servery"
+      ],
+      "dimensions": [],
+      "figure_refs": [
+        "7",
+        "8"
+      ],
+      "cross_refs": [],
+      "keywords": [
+        "American hotel kitchen system",
+        "French hotel kitchen system",
+        "production",
+        "finishing",
+        "servery"
+      ],
+      "tags_architectural": [
+        "circulation",
+        "adaptability"
+      ],
+      "confidence": 0.94
+    }
+  ]
+}

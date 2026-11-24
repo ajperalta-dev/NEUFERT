@@ -1,0 +1,333 @@
+{
+  "fichas": [
+    {
+      "id": "4122fb96e4bd1976-197-vision-0",
+      "pdf_page": 197,
+      "book_page": 184,
+      "chapter": "ACCOMMODATION",
+      "section": "Youth Hostels",
+      "title": "Youth Hostels: General Design Notes",
+      "summary": "Youth hostels provide affordable accommodation and a range of group, educational, leisure and cultural services. The design guidance describes bedroom groups, shared facilities, dining and meeting spaces, utilities, staff accommodation, and flexibility for conversions. The page also illustrates traditional hostel bedding and a functional scheme.",
+      "building_type": "Youth hostel",
+      "spaces": [
+        "Bedroom groups",
+        "Leader room",
+        "Guest-house bedrooms",
+        "Leader/teacher accommodation",
+        "Family rooms",
+        "Showers and washbasins",
+        "Separate WC",
+        "Lockable luggage store",
+        "Cleaning room",
+        "Shoe store",
+        "Lounge",
+        "Meeting room",
+        "Dining rooms",
+        "Multi-purpose areas",
+        "Cafeteria",
+        "Lecture room",
+        "Entrance hall",
+        "Reception",
+        "Warden's office",
+        "Outdoor camping area",
+        "Sports and games areas",
+        "Kitchen",
+        "Utility room",
+        "Staff lounge",
+        "Warden's flat",
+        "Staff bedrooms"
+      ],
+      "uses": [
+        "Affordable accommodation for young people, groups, school classes, singles and families",
+        "Meetings, courses, seminars and education",
+        "Leisure, school trips and walking",
+        "Group dining and events",
+        "Sports, games, hobbies and work"
+      ],
+      "furniture_equipment": [
+        "Bunk bed",
+        "Mattress with duvet",
+        "Camp bed and palliasse",
+        "Folding bed used as a day couch",
+        "Serving trolleys",
+        "Lockable luggage storage"
+      ],
+      "dimensions": [
+        {
+          "label": "Beds",
+          "value": 120.0,
+          "value_max": 160.0,
+          "unit": "beds",
+          "context": "Typical youth hostel size.",
+          "status": "uncertain",
+          "ocr_raw": "sizes of 120-160 beds."
+        },
+        {
+          "label": "Rooms in bedroom groups",
+          "value": 4.0,
+          "value_max": 6.0,
+          "unit": "rooms",
+          "context": "Bedroom groups; the text also states a maximum of 8 rooms.",
+          "status": "uncertain",
+          "ocr_raw": "Bedrooms in hostels consist of 4-6 (maximum 8) rooms in groups"
+        },
+        {
+          "label": "Maximum rooms in bedroom groups",
+          "value": 8.0,
+          "value_max": null,
+          "unit": "rooms",
+          "context": "Maximum stated for rooms in bedroom groups.",
+          "status": "uncertain",
+          "ocr_raw": "4-6 (maximum 8) rooms in groups"
+        },
+        {
+          "label": "Guest-house bedrooms",
+          "value": 2.0,
+          "value_max": 4.0,
+          "unit": "bedrooms",
+          "context": "Number of bedrooms in guest houses.",
+          "status": "uncertain",
+          "ocr_raw": "in guest houses 2-4 bedrooms"
+        },
+        {
+          "label": "Leader/teacher accommodation",
+          "value": 1.0,
+          "value_max": 2.0,
+          "unit": "rooms",
+          "context": "Leader/teacher accommodation, with work area.",
+          "status": "uncertain",
+          "ocr_raw": "leader/teacher accommodation 1-2 rooms with work area"
+        },
+        {
+          "label": "Family-room beds",
+          "value": 4.0,
+          "value_max": 6.0,
+          "unit": "beds",
+          "context": "Beds per family room.",
+          "status": "uncertain",
+          "ocr_raw": "family rooms with 4-6 beds"
+        },
+        {
+          "label": "Lounge and meeting rooms",
+          "value": 20.0,
+          "value_max": 25.0,
+          "unit": "beds per room",
+          "context": "One lounge or meeting room per stated number of beds.",
+          "status": "uncertain",
+          "ocr_raw": "One room per 20-25 beds."
+        },
+        {
+          "label": "Dining places",
+          "value": 1.0,
+          "value_max": null,
+          "unit": "place per bed",
+          "context": "Dining provision is stated as the same number of places as beds.",
+          "status": "uncertain",
+          "ocr_raw": "same number of places as beds"
+        },
+        {
+          "label": "Staff bedrooms",
+          "value": 12.0,
+          "value_max": 15.0,
+          "unit": "m²",
+          "context": "Area stated for staff bedrooms; the OCR line groups this with the living-area notes.",
+          "status": "uncertain",
+          "ocr_raw": "bedrooms for staff, 12-15 m2"
+        },
+        {
+          "label": "Mattress length",
+          "value": 2.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Bedding illustration; mattress with duvet, dimension shown as 2.00.",
+          "status": "uncertain",
+          "ocr_raw": "2.00"
+        },
+        {
+          "label": "Mattress width",
+          "value": 1.3,
+          "value_max": null,
+          "unit": "m",
+          "context": "Bedding illustration; mattress with duvet, dimension shown as 1.30.",
+          "status": "uncertain",
+          "ocr_raw": "1.30"
+        },
+        {
+          "label": "Camp bed and palliasse length",
+          "value": 2.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Bedding illustration; camp bed and palliasse, dimension shown as 2.00.",
+          "status": "uncertain",
+          "ocr_raw": "2.00"
+        },
+        {
+          "label": "Camp bed and palliasse width",
+          "value": 1.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Bedding illustration; camp bed and palliasse, dimension shown as 1.00.",
+          "status": "uncertain",
+          "ocr_raw": "1.00"
+        },
+        {
+          "label": "Bunk bed length",
+          "value": 2.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Bunk-bed illustration; dimension shown as 2.00.",
+          "status": "uncertain",
+          "ocr_raw": "2.00"
+        },
+        {
+          "label": "Bunk bed width",
+          "value": 90.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Bunk-bed illustration; dimension shown as 90.",
+          "status": "uncertain",
+          "ocr_raw": "90"
+        },
+        {
+          "label": "Bunk bed vertical dimension, upper level",
+          "value": 80.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Bunk-bed illustration; one of two vertical dimensions shown as 80.",
+          "status": "uncertain",
+          "ocr_raw": "80"
+        },
+        {
+          "label": "Bunk bed vertical dimension, lower level",
+          "value": 80.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Bunk-bed illustration; one of two vertical dimensions shown as 80.",
+          "status": "uncertain",
+          "ocr_raw": "80"
+        },
+        {
+          "label": "Single bed length",
+          "value": 1.9,
+          "value_max": null,
+          "unit": "m",
+          "context": "Bedding illustration; bed dimension shown as 1.90.",
+          "status": "uncertain",
+          "ocr_raw": "1.90"
+        },
+        {
+          "label": "Single bed width",
+          "value": 60.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Bedding illustration; bed dimension shown as 60.",
+          "status": "uncertain",
+          "ocr_raw": "60"
+        },
+        {
+          "label": "Bed length",
+          "value": 2.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Bedding illustration; bed dimension shown as 2.00.",
+          "status": "uncertain",
+          "ocr_raw": "2.00"
+        },
+        {
+          "label": "Bed width",
+          "value": 70.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Bedding illustration; bed dimension shown as 70.",
+          "status": "uncertain",
+          "ocr_raw": "70"
+        }
+      ],
+      "figure_refs": [
+        "1 (Traditional) bedding in youth hostels",
+        "2 Youth hostel: functional scheme"
+      ],
+      "cross_refs": [
+        "p. 172"
+      ],
+      "keywords": [
+        "youth hostel",
+        "accommodation",
+        "bedrooms",
+        "bedding",
+        "functional areas",
+        "group accommodation",
+        "YHA"
+      ],
+      "tags_architectural": [
+        "accessibility",
+        "circulation",
+        "adaptability",
+        "safety"
+      ],
+      "confidence": 0.91
+    },
+    {
+      "id": "4122fb96e4bd1976-197-vision-1",
+      "pdf_page": 197,
+      "book_page": 184,
+      "chapter": "ACCOMMODATION",
+      "section": "Youth Hostels",
+      "title": "Hitzacker Youth Hostel",
+      "summary": "A plan of the Hitzacker youth hostel identifies an entrance and reception area, dining and kitchen facilities, a seminar wing, and an accommodation wing. The accompanying legend lists circulation, service, staff and guest spaces. Architect: C. Schönwald.",
+      "building_type": "Youth hostel",
+      "spaces": [
+        "Porch",
+        "Entrance hall",
+        "Registration",
+        "Cloakroom",
+        "Telephone area",
+        "Office",
+        "Dining room",
+        "Kitchen",
+        "Sink area",
+        "Sideboard area",
+        "Pantry",
+        "Bread storage",
+        "Personal residence",
+        "Staff WC",
+        "Group room",
+        "Dormitory",
+        "Head accommodation",
+        "Guest accommodation",
+        "Bath",
+        "Shower",
+        "Cleaning-products storage",
+        "WC",
+        "Seminar wing",
+        "Accommodation wing"
+      ],
+      "uses": [
+        "Hostel accommodation",
+        "Group activities and seminars",
+        "Dining and food preparation",
+        "Reception and registration",
+        "Staff and personal residence"
+      ],
+      "furniture_equipment": [],
+      "dimensions": [],
+      "figure_refs": [
+        "3 Hitzacker youth hostel"
+      ],
+      "cross_refs": [],
+      "keywords": [
+        "Hitzacker",
+        "youth hostel",
+        "floor plan",
+        "accommodation wing",
+        "seminar wing",
+        "C. Schönwald"
+      ],
+      "tags_architectural": [
+        "circulation",
+        "adaptability"
+      ],
+      "confidence": 0.9
+    }
+  ]
+}

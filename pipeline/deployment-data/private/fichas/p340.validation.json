@@ -1,0 +1,686 @@
+{
+  "model": "gpt-6-luna",
+  "checks": {
+    "checks": [
+      {
+        "ficha_index": 0,
+        "dimension_index": 0,
+        "status": "verified",
+        "value": null,
+        "value_max": null,
+        "reason": "The text explicitly gives 10.97 \u00d7 23.77 m."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 1,
+        "status": "verified",
+        "value": null,
+        "value_max": null,
+        "reason": "The text explicitly gives 8.23 \u00d7 23.77 m."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 2,
+        "status": "verified",
+        "value": null,
+        "value_max": null,
+        "reason": "The text gives \u22643.65 m."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 3,
+        "status": "verified",
+        "value": null,
+        "value_max": null,
+        "reason": "The text gives 4.00 m."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 4,
+        "status": "verified",
+        "value": null,
+        "value_max": null,
+        "reason": "The text gives \u22646.40 m."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 5,
+        "status": "verified",
+        "value": null,
+        "value_max": null,
+        "reason": "The text gives 8.00 m."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 6,
+        "status": "verified",
+        "value": null,
+        "value_max": null,
+        "reason": "The text gives 7.30 m."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 7,
+        "status": "verified",
+        "value": null,
+        "value_max": null,
+        "reason": "The text gives 4.00 m."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 8,
+        "status": "verified",
+        "value": null,
+        "value_max": null,
+        "reason": "The text gives 2.5 mm."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 9,
+        "status": "verified",
+        "value": null,
+        "value_max": null,
+        "reason": "The text gives 4 cm."
+      },
+      {
+        "ficha_index": 1,
+        "dimension_index": 0,
+        "status": "verified",
+        "value": null,
+        "value_max": null,
+        "reason": "The printed text gives 0.914 m."
+      },
+      {
+        "ficha_index": 1,
+        "dimension_index": 1,
+        "status": "verified",
+        "value": null,
+        "value_max": null,
+        "reason": "The printed text gives 1.07 m."
+      },
+      {
+        "ficha_index": 1,
+        "dimension_index": 2,
+        "status": "uncertain",
+        "value": null,
+        "value_max": null,
+        "reason": "The diagram shows 12.795, but does not visibly specify a unit for this dimension."
+      },
+      {
+        "ficha_index": 1,
+        "dimension_index": 3,
+        "status": "uncertain",
+        "value": null,
+        "value_max": null,
+        "reason": "The diagram shows 10.97, but does not visibly specify a unit for this dimension."
+      },
+      {
+        "ficha_index": 1,
+        "dimension_index": 4,
+        "status": "uncertain",
+        "value": null,
+        "value_max": null,
+        "reason": "The diagram shows 8.23, but does not visibly specify a unit for this dimension."
+      },
+      {
+        "ficha_index": 1,
+        "dimension_index": 5,
+        "status": "uncertain",
+        "value": null,
+        "value_max": null,
+        "reason": "The diagram shows 1.37, but does not visibly specify a unit for this dimension."
+      },
+      {
+        "ficha_index": 2,
+        "dimension_index": 0,
+        "status": "uncertain",
+        "value": null,
+        "value_max": null,
+        "reason": "The diagram shows 10\u201312.00, but does not visibly specify a unit."
+      },
+      {
+        "ficha_index": 2,
+        "dimension_index": 1,
+        "status": "uncertain",
+        "value": null,
+        "value_max": null,
+        "reason": "The diagram shows 15\u201317.00, but does not visibly specify a unit."
+      },
+      {
+        "ficha_index": 2,
+        "dimension_index": 2,
+        "status": "uncertain",
+        "value": null,
+        "value_max": null,
+        "reason": "The diagram shows 2.50, but does not visibly specify a unit."
+      },
+      {
+        "ficha_index": 2,
+        "dimension_index": 3,
+        "status": "uncertain",
+        "value": null,
+        "value_max": null,
+        "reason": "The diagram shows 1.50, but does not visibly specify a unit."
+      },
+      {
+        "ficha_index": 2,
+        "dimension_index": 4,
+        "status": "verified",
+        "value": null,
+        "value_max": null,
+        "reason": "The diagram explicitly labels the net height 80\u201390 cm."
+      },
+      {
+        "ficha_index": 3,
+        "dimension_index": 0,
+        "status": "uncertain",
+        "value": null,
+        "value_max": null,
+        "reason": "The marking diagram shows 1.07; it does not visibly print a unit."
+      },
+      {
+        "ficha_index": 3,
+        "dimension_index": 1,
+        "status": "uncertain",
+        "value": null,
+        "value_max": null,
+        "reason": "The marking diagram shows 1.05; it does not visibly print a unit."
+      },
+      {
+        "ficha_index": 3,
+        "dimension_index": 2,
+        "status": "uncertain",
+        "value": null,
+        "value_max": null,
+        "reason": "The marking diagram shows 1.01; it does not visibly print a unit."
+      },
+      {
+        "ficha_index": 3,
+        "dimension_index": 3,
+        "status": "uncertain",
+        "value": null,
+        "value_max": null,
+        "reason": "The marking diagram shows 0.96; it does not visibly print a unit."
+      },
+      {
+        "ficha_index": 3,
+        "dimension_index": 4,
+        "status": "uncertain",
+        "value": null,
+        "value_max": null,
+        "reason": "The marking diagram prints 914; the unit is not stated, so the proposed value and unit cannot be confirmed."
+      },
+      {
+        "ficha_index": 3,
+        "dimension_index": 5,
+        "status": "uncertain",
+        "value": null,
+        "value_max": null,
+        "reason": "The marking diagram shows 2.40; it does not visibly print a unit."
+      },
+      {
+        "ficha_index": 3,
+        "dimension_index": 6,
+        "status": "uncertain",
+        "value": null,
+        "value_max": null,
+        "reason": "The diagram prints 60 without a unit; the proposed metre unit is not visibly confirmed."
+      },
+      {
+        "ficha_index": 3,
+        "dimension_index": 7,
+        "status": "uncertain",
+        "value": null,
+        "value_max": null,
+        "reason": "The marking diagram shows 4.00; it does not visibly print a unit."
+      },
+      {
+        "ficha_index": 3,
+        "dimension_index": 8,
+        "status": "uncertain",
+        "value": null,
+        "value_max": null,
+        "reason": "The marking diagram shows 8.00; it does not visibly print a unit."
+      },
+      {
+        "ficha_index": 3,
+        "dimension_index": 9,
+        "status": "uncertain",
+        "value": null,
+        "value_max": null,
+        "reason": "The marking diagram shows 12.00; it does not visibly print a unit."
+      },
+      {
+        "ficha_index": 3,
+        "dimension_index": 10,
+        "status": "uncertain",
+        "value": null,
+        "value_max": null,
+        "reason": "The marking diagram shows 12.80; it does not visibly print a unit."
+      },
+      {
+        "ficha_index": 3,
+        "dimension_index": 11,
+        "status": "uncertain",
+        "value": null,
+        "value_max": null,
+        "reason": "The wall-type diagram shows 3.00; it does not visibly print a unit."
+      },
+      {
+        "ficha_index": 3,
+        "dimension_index": 12,
+        "status": "uncertain",
+        "value": null,
+        "value_max": null,
+        "reason": "The doubles diagram shows 10.97; it does not visibly print a unit."
+      },
+      {
+        "ficha_index": 3,
+        "dimension_index": 13,
+        "status": "uncertain",
+        "value": null,
+        "value_max": null,
+        "reason": "The doubles diagram shows 12.00; it does not visibly print a unit."
+      },
+      {
+        "ficha_index": 3,
+        "dimension_index": 14,
+        "status": "uncertain",
+        "value": null,
+        "value_max": null,
+        "reason": "The singles diagram shows 8.00; it does not visibly print a unit."
+      },
+      {
+        "ficha_index": 3,
+        "dimension_index": 15,
+        "status": "uncertain",
+        "value": null,
+        "value_max": null,
+        "reason": "The doubles diagram shows 11.895; it does not visibly print a unit."
+      },
+      {
+        "ficha_index": 3,
+        "dimension_index": 16,
+        "status": "uncertain",
+        "value": null,
+        "value_max": null,
+        "reason": "The singles diagram shows 11.885; it does not visibly print a unit."
+      },
+      {
+        "ficha_index": 3,
+        "dimension_index": 17,
+        "status": "uncertain",
+        "value": null,
+        "value_max": null,
+        "reason": "The singles diagram shows 14.0; it does not visibly print a unit."
+      },
+      {
+        "ficha_index": 3,
+        "dimension_index": 18,
+        "status": "uncertain",
+        "value": null,
+        "value_max": null,
+        "reason": "The elevation diagrams show 1.50; they do not visibly print a unit."
+      },
+      {
+        "ficha_index": 3,
+        "dimension_index": 19,
+        "status": "uncertain",
+        "value": null,
+        "value_max": null,
+        "reason": "The elevation diagrams show 3.00; they do not visibly print a unit."
+      },
+      {
+        "ficha_index": 4,
+        "dimension_index": 0,
+        "status": "verified",
+        "value": null,
+        "value_max": null,
+        "reason": "The text gives 1.6\u20133%."
+      },
+      {
+        "ficha_index": 4,
+        "dimension_index": 1,
+        "status": "corrected",
+        "value": 0.03333333333333333,
+        "value_max": null,
+        "reason": "The text explicitly states the ratio as 1:30; the proposed value 1 does not match that printed ratio."
+      },
+      {
+        "ficha_index": 4,
+        "dimension_index": 2,
+        "status": "verified",
+        "value": null,
+        "value_max": null,
+        "reason": "The text specifies four vehicle parking places per court."
+      },
+      {
+        "ficha_index": 4,
+        "dimension_index": 3,
+        "status": "verified",
+        "value": null,
+        "value_max": null,
+        "reason": "The text gives a 60\u201380% supplement."
+      },
+      {
+        "ficha_index": 4,
+        "dimension_index": 4,
+        "status": "verified",
+        "value": null,
+        "value_max": null,
+        "reason": "The text explicitly gives artificial lighting at 10 m height."
+      },
+      {
+        "ficha_index": 4,
+        "dimension_index": 5,
+        "status": "verified",
+        "value": null,
+        "value_max": null,
+        "reason": "The text says more than two courts next to each other is not recommended."
+      },
+      {
+        "ficha_index": 4,
+        "dimension_index": 6,
+        "status": "uncertain",
+        "value": null,
+        "value_max": null,
+        "reason": "The text states a preferred N\u2013S direction but does not print the proposed numeric value or compass-direction unit."
+      }
+    ]
+  },
+  "automatic": [
+    {
+      "ficha_index": 0,
+      "dimension_index": 0,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 1,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 2,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 3,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 4,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 5,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 6,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 7,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 8,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 9,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 1,
+      "dimension_index": 0,
+      "issues": []
+    },
+    {
+      "ficha_index": 1,
+      "dimension_index": 1,
+      "issues": []
+    },
+    {
+      "ficha_index": 1,
+      "dimension_index": 2,
+      "issues": []
+    },
+    {
+      "ficha_index": 1,
+      "dimension_index": 3,
+      "issues": []
+    },
+    {
+      "ficha_index": 1,
+      "dimension_index": 4,
+      "issues": []
+    },
+    {
+      "ficha_index": 1,
+      "dimension_index": 5,
+      "issues": []
+    },
+    {
+      "ficha_index": 2,
+      "dimension_index": 0,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 2,
+      "dimension_index": 1,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 2,
+      "dimension_index": 2,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 2,
+      "dimension_index": 3,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 2,
+      "dimension_index": 4,
+      "issues": [
+        "Mixed length units; check figure units"
+      ]
+    },
+    {
+      "ficha_index": 3,
+      "dimension_index": 0,
+      "issues": []
+    },
+    {
+      "ficha_index": 3,
+      "dimension_index": 1,
+      "issues": []
+    },
+    {
+      "ficha_index": 3,
+      "dimension_index": 2,
+      "issues": []
+    },
+    {
+      "ficha_index": 3,
+      "dimension_index": 3,
+      "issues": []
+    },
+    {
+      "ficha_index": 3,
+      "dimension_index": 4,
+      "issues": []
+    },
+    {
+      "ficha_index": 3,
+      "dimension_index": 5,
+      "issues": []
+    },
+    {
+      "ficha_index": 3,
+      "dimension_index": 6,
+      "issues": []
+    },
+    {
+      "ficha_index": 3,
+      "dimension_index": 7,
+      "issues": []
+    },
+    {
+      "ficha_index": 3,
+      "dimension_index": 8,
+      "issues": []
+    },
+    {
+      "ficha_index": 3,
+      "dimension_index": 9,
+      "issues": []
+    },
+    {
+      "ficha_index": 3,
+      "dimension_index": 10,
+      "issues": []
+    },
+    {
+      "ficha_index": 3,
+      "dimension_index": 11,
+      "issues": []
+    },
+    {
+      "ficha_index": 3,
+      "dimension_index": 12,
+      "issues": []
+    },
+    {
+      "ficha_index": 3,
+      "dimension_index": 13,
+      "issues": []
+    },
+    {
+      "ficha_index": 3,
+      "dimension_index": 14,
+      "issues": []
+    },
+    {
+      "ficha_index": 3,
+      "dimension_index": 15,
+      "issues": []
+    },
+    {
+      "ficha_index": 3,
+      "dimension_index": 16,
+      "issues": []
+    },
+    {
+      "ficha_index": 3,
+      "dimension_index": 17,
+      "issues": []
+    },
+    {
+      "ficha_index": 3,
+      "dimension_index": 18,
+      "issues": []
+    },
+    {
+      "ficha_index": 3,
+      "dimension_index": 19,
+      "issues": []
+    },
+    {
+      "ficha_index": 4,
+      "dimension_index": 0,
+      "issues": [
+        "Unknown unit"
+      ]
+    },
+    {
+      "ficha_index": 4,
+      "dimension_index": 1,
+      "issues": [
+        "Unknown unit"
+      ]
+    },
+    {
+      "ficha_index": 4,
+      "dimension_index": 2,
+      "issues": [
+        "Unknown unit"
+      ]
+    },
+    {
+      "ficha_index": 4,
+      "dimension_index": 3,
+      "issues": [
+        "Unknown unit"
+      ]
+    },
+    {
+      "ficha_index": 4,
+      "dimension_index": 4,
+      "issues": []
+    },
+    {
+      "ficha_index": 4,
+      "dimension_index": 5,
+      "issues": [
+        "Unknown unit"
+      ]
+    },
+    {
+      "ficha_index": 4,
+      "dimension_index": 6,
+      "issues": [
+        "Unknown unit",
+        "Plausibility limit; visual review required"
+      ]
+    }
+  ],
+  "usage": [
+    {
+      "prompt_tokens": 4621,
+      "completion_tokens": 3150
+    },
+    {
+      "prompt_tokens": 7322,
+      "completion_tokens": 2128
+    }
+  ]
+}

@@ -1,0 +1,259 @@
+{
+  "fichas": [
+    {
+      "id": "4122fb96e4bd1976-407-vision-0",
+      "pdf_page": 407,
+      "book_page": 394,
+      "chapter": "TRANSPORT",
+      "section": "Parking Facilities",
+      "title": "Multi-storey Car Park Regulations",
+      "summary": "Regulations and design guidance for multi-storey car parks cover usable-area categories, underground location, access and escape, clear heights, ventilation openings, circulation, urban integration and safe operation. Diagrams show an office-integrated car park, access-ramp layouts and parking-space arrangements. A table gives sanitary-facility guidance for supervisory and maintenance staff and users.",
+      "building_type": "Multi-storey car park",
+      "spaces": [
+        "Parking floors",
+        "Access and exit routes",
+        "Ramps",
+        "Pedestrian-accessible areas",
+        "Office areas",
+        "Sanitary facilities"
+      ],
+      "uses": [
+        "Vehicle parking",
+        "Vehicle circulation and ramp access",
+        "Office use integrated into the façade or ground floor",
+        "Escape to stairs or exits",
+        "Park and Ride",
+        "Supervision and maintenance"
+      ],
+      "furniture_equipment": [
+        "Parking spaces",
+        "Ramps",
+        "Stairs",
+        "Exits",
+        "Ventilation openings",
+        "Video surveillance",
+        "Lobby glass areas",
+        "Sanitary fixtures: WC, washbasin, bucket sink and urinals"
+      ],
+      "dimensions": [
+        {
+          "label": "Small car park usable area threshold",
+          "value": 100.0,
+          "value_max": null,
+          "unit": "m²",
+          "context": "Small car parks are classified by usable area; OCR gives a corrupted threshold.",
+          "status": "uncertain",
+          "ocr_raw": "small car parks are of 6100 m2"
+        },
+        {
+          "label": "Medium car park usable area",
+          "value": 100.0,
+          "value_max": 1000.0,
+          "unit": "m²",
+          "context": "Usable area classification.",
+          "status": "uncertain",
+          "ocr_raw": "medium car parks 100-1000 m2"
+        },
+        {
+          "label": "Large car park usable area threshold",
+          "value": 1000.0,
+          "value_max": null,
+          "unit": "m²",
+          "context": "Large car parks are classified by usable area; OCR gives a corrupted threshold.",
+          "status": "uncertain",
+          "ocr_raw": "large car parks 61000 m2 usable area"
+        },
+        {
+          "label": "Underground car park floor level below ground level",
+          "value": 1.3,
+          "value_max": null,
+          "unit": "m",
+          "context": "Definition of an underground car park.",
+          "status": "uncertain",
+          "ocr_raw": "floor level 61.30 m below ground level"
+        },
+        {
+          "label": "Minimum clear height",
+          "value": 2.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Areas accessible on foot, including beneath support beams, ventilation ducts and other building elements.",
+          "status": "uncertain",
+          "ocr_raw": "clear height of min. 2.0 m in areas accessible on foot, also under support beams, ventilation ducts and other building elements."
+        },
+        {
+          "label": "Maximum escape-route distance",
+          "value": 30.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Distance to stairs or exits.",
+          "status": "uncertain",
+          "ocr_raw": "Escape routes of max. 30 m are required to the stairs or exits."
+        },
+        {
+          "label": "Clear height for vans",
+          "value": 2.5,
+          "value_max": null,
+          "unit": "m",
+          "context": "Clear height for vans.",
+          "status": "uncertain",
+          "ocr_raw": "For vans the clear height is 2.50 m."
+        },
+        {
+          "label": "Maximum distance to opposite wall",
+          "value": 70.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Open multi-storey car park ventilation openings; the opposite wall is at most this distance away.",
+          "status": "uncertain",
+          "ocr_raw": "with the opposite wall at a maximum distance of 70 m."
+        },
+        {
+          "label": "Structural/storey diagram dimension",
+          "value": 2.8,
+          "value_max": null,
+          "unit": "m",
+          "context": "Dimension labels shown in the section diagram; the OCR text does not include these labels.",
+          "status": "uncertain",
+          "ocr_raw": "2,80"
+        },
+        {
+          "label": "Structural/storey diagram dimension",
+          "value": 3.5,
+          "value_max": null,
+          "unit": "m",
+          "context": "Dimension label shown in the section diagram; the OCR text does not include this label.",
+          "status": "uncertain",
+          "ocr_raw": "3,50"
+        },
+        {
+          "label": "Plan dimension",
+          "value": 7.95,
+          "value_max": null,
+          "unit": "m",
+          "context": "Repeated dimension labels in the ramp-access plan diagram; OCR text does not include these labels.",
+          "status": "uncertain",
+          "ocr_raw": "7.95"
+        },
+        {
+          "label": "Plan dimension",
+          "value": 5.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Dimension label in the ramp-access plan diagram; OCR text does not include this label.",
+          "status": "uncertain",
+          "ocr_raw": "5.00"
+        },
+        {
+          "label": "Staff parking-space range for sanitary-facility guidance",
+          "value": 50.0,
+          "value_max": 100.0,
+          "unit": "parking spaces",
+          "context": "The table indicates sanitary facilities for supervisory and maintenance staff at this parking-space range.",
+          "status": "uncertain",
+          "ocr_raw": "50-100 parking spaces"
+        },
+        {
+          "label": "Staff WC provision",
+          "value": 1.0,
+          "value_max": null,
+          "unit": "WC",
+          "context": "Sanitary-facility guidance for supervisory and maintenance staff.",
+          "status": "uncertain",
+          "ocr_raw": "1 we."
+        },
+        {
+          "label": "Staff washbasin provision",
+          "value": 1.0,
+          "value_max": null,
+          "unit": "washbasin",
+          "context": "Sanitary-facility guidance for supervisory and maintenance staff.",
+          "status": "uncertain",
+          "ocr_raw": "1 washbasin"
+        },
+        {
+          "label": "Staff bucket sink provision",
+          "value": 1.0,
+          "value_max": null,
+          "unit": "bucket sink",
+          "context": "Sanitary-facility guidance for supervisory and maintenance staff.",
+          "status": "uncertain",
+          "ocr_raw": "1 bucket sink"
+        },
+        {
+          "label": "Ladies WC provision",
+          "value": 1.0,
+          "value_max": null,
+          "unit": "WC",
+          "context": "Sanitary-facility guidance; table row for ladies.",
+          "status": "uncertain",
+          "ocr_raw": "ladies:\n\n1 we, 1 washbasin"
+        },
+        {
+          "label": "Ladies washbasin provision",
+          "value": 1.0,
+          "value_max": null,
+          "unit": "washbasin",
+          "context": "Sanitary-facility guidance; table row for ladies.",
+          "status": "uncertain",
+          "ocr_raw": "ladies:\n\n1 we, 1 washbasin"
+        },
+        {
+          "label": "Gents WC provision",
+          "value": 1.0,
+          "value_max": null,
+          "unit": "WC",
+          "context": "Sanitary-facility guidance; table row for gents.",
+          "status": "uncertain",
+          "ocr_raw": "gents:\n\n1 we, 1 washbasin"
+        },
+        {
+          "label": "Gents washbasin provision",
+          "value": 1.0,
+          "value_max": null,
+          "unit": "washbasin",
+          "context": "Sanitary-facility guidance; table row for gents.",
+          "status": "uncertain",
+          "ocr_raw": "gents:\n\n1 we, 1 washbasin"
+        },
+        {
+          "label": "Urinal provision",
+          "value": 1.0,
+          "value_max": 2.0,
+          "unit": "urinals",
+          "context": "Sanitary-facility guidance; table row for gents.",
+          "status": "uncertain",
+          "ocr_raw": "1-2 urinals"
+        }
+      ],
+      "figure_refs": [
+        "1 Multi-storey car park with additional use: offices incorporated in the façade",
+        "2 Multi-storey car park with access route ramps",
+        "3 Guidelines for sanitary facilities in large multi-storey car parks",
+        "4 Examples of the layout of parking spaces and ramps"
+      ],
+      "cross_refs": [
+        "p. 393"
+      ],
+      "keywords": [
+        "parking facilities",
+        "multi-storey car park",
+        "garage regulations",
+        "parking ramps",
+        "escape routes",
+        "ventilation",
+        "sanitary facilities",
+        "Park and Ride"
+      ],
+      "tags_architectural": [
+        "circulation",
+        "clearance",
+        "safety",
+        "daylighting",
+        "ventilation",
+        "adaptability"
+      ],
+      "confidence": 0.88
+    }
+  ]
+}

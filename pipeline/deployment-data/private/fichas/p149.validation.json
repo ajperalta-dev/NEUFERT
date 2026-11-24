@@ -1,0 +1,164 @@
+{
+  "model": "gpt-6-luna",
+  "checks": {
+    "checks": [
+      {
+        "ficha_index": 1,
+        "dimension_index": 0,
+        "status": "verified",
+        "value": 50.0,
+        "value_max": null,
+        "reason": "The table visibly lists 50 m\u00b2 for 1 person."
+      },
+      {
+        "ficha_index": 1,
+        "dimension_index": 1,
+        "status": "verified",
+        "value": 60.0,
+        "value_max": null,
+        "reason": "The table visibly lists 60 m\u00b2 for 2 persons."
+      },
+      {
+        "ficha_index": 1,
+        "dimension_index": 2,
+        "status": "verified",
+        "value": 75.0,
+        "value_max": null,
+        "reason": "The table visibly lists 75 m\u00b2 for 3 persons."
+      },
+      {
+        "ficha_index": 1,
+        "dimension_index": 3,
+        "status": "verified",
+        "value": 85.0,
+        "value_max": null,
+        "reason": "The table visibly lists 85 m\u00b2 for 4 persons."
+      },
+      {
+        "ficha_index": 1,
+        "dimension_index": 4,
+        "status": "verified",
+        "value": 10.0,
+        "value_max": 10.0,
+        "reason": "The table text states the living area can be exceeded by max. 10 m\u00b2 for each further person."
+      },
+      {
+        "ficha_index": 3,
+        "dimension_index": 0,
+        "status": "verified",
+        "value": 2.0,
+        "value_max": null,
+        "reason": "The inclusion table visibly states a clear height of at least 2 m for complete inclusion."
+      },
+      {
+        "ficha_index": 3,
+        "dimension_index": 1,
+        "status": "verified",
+        "value": 1.0,
+        "value_max": null,
+        "reason": "The inclusion table visibly states at least 1 m and less than 2 m for half inclusion."
+      },
+      {
+        "ficha_index": 3,
+        "dimension_index": 2,
+        "status": "verified",
+        "value": 1.5,
+        "value_max": null,
+        "reason": "The floor-area table visibly lists pillars from 1.5 m height."
+      },
+      {
+        "ficha_index": 3,
+        "dimension_index": 3,
+        "status": "verified",
+        "value": 0.1,
+        "value_max": null,
+        "reason": "The floor-area table visibly lists pillars from 0.1 m\u00b2 floor area."
+      },
+      {
+        "ficha_index": 3,
+        "dimension_index": 4,
+        "status": "verified",
+        "value": 3.0,
+        "value_max": null,
+        "reason": "The floor-area table visibly lists stairs and landings from 3 steps."
+      },
+      {
+        "ficha_index": 3,
+        "dimension_index": 5,
+        "status": "verified",
+        "value": 0.13,
+        "value_max": null,
+        "reason": "The floor-area table visibly lists niches at least 0.13 m deep."
+      }
+    ]
+  },
+  "automatic": [
+    {
+      "ficha_index": 1,
+      "dimension_index": 0,
+      "issues": []
+    },
+    {
+      "ficha_index": 1,
+      "dimension_index": 1,
+      "issues": []
+    },
+    {
+      "ficha_index": 1,
+      "dimension_index": 2,
+      "issues": []
+    },
+    {
+      "ficha_index": 1,
+      "dimension_index": 3,
+      "issues": []
+    },
+    {
+      "ficha_index": 1,
+      "dimension_index": 4,
+      "issues": []
+    },
+    {
+      "ficha_index": 3,
+      "dimension_index": 0,
+      "issues": []
+    },
+    {
+      "ficha_index": 3,
+      "dimension_index": 1,
+      "issues": []
+    },
+    {
+      "ficha_index": 3,
+      "dimension_index": 2,
+      "issues": []
+    },
+    {
+      "ficha_index": 3,
+      "dimension_index": 3,
+      "issues": []
+    },
+    {
+      "ficha_index": 3,
+      "dimension_index": 4,
+      "issues": [
+        "Unknown unit"
+      ]
+    },
+    {
+      "ficha_index": 3,
+      "dimension_index": 5,
+      "issues": []
+    }
+  ],
+  "usage": [
+    {
+      "prompt_tokens": 4944,
+      "completion_tokens": 1970
+    },
+    {
+      "prompt_tokens": 5139,
+      "completion_tokens": 504
+    }
+  ]
+}

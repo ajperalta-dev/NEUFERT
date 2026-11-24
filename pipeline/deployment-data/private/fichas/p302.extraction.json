@@ -1,0 +1,198 @@
+{
+  "fichas": [
+    {
+      "id": "4122fb96e4bd1976-302-vision-0",
+      "pdf_page": 302,
+      "book_page": 289,
+      "chapter": "RELIGIOUS BUILDINGS",
+      "section": "Mosques",
+      "title": "Mosques: General Design Notes",
+      "summary": "Mosques serve as prayer houses and may also function as cultural and community centres, schools, courts, and places of assembly. Design considerations include orientation toward Mecca, prayer and ablution spaces, gender separation, a minaret in larger mosques, and subsidiary community facilities. Regional forms vary; decoration commonly uses geometric and plant ornament and Arabic calligraphy.",
+      "building_type": "Mosque",
+      "spaces": [
+        "Prayer hall",
+        "Mihrab",
+        "Minbar",
+        "Entrance",
+        "Ritual washing area",
+        "Showers",
+        "WCs",
+        "Courtyard",
+        "Decorative well or fountain",
+        "Minaret",
+        "Office",
+        "Library",
+        "Lecture and tuition rooms",
+        "Store rooms",
+        "Accommodation for imam and muezzin"
+      ],
+      "uses": [
+        "Prayer",
+        "Community assembly",
+        "Cultural activities",
+        "Teaching",
+        "Ritual washing",
+        "Community services"
+      ],
+      "furniture_equipment": [
+        "Shoe shelves or racks",
+        "Prayer niche (mihrab)",
+        "Pulpit (minbar)",
+        "Ablution basins",
+        "Loudspeaker",
+        "Minaret stair or lift"
+      ],
+      "dimensions": [
+        {
+          "label": "Prayer area per person",
+          "value": 0.85,
+          "value_max": null,
+          "unit": "m²/person",
+          "context": "Recommended praying area in the prayer hall for each person.",
+          "status": "uncertain",
+          "ocr_raw": "The prayer hall is laid out with a praying area of 0.85 m2 for each person."
+        },
+        {
+          "label": "Seated prayer posture width",
+          "value": 60.0,
+          "value_max": 80.0,
+          "unit": "cm",
+          "context": "Dimension shown beneath the seated posture in the Men at prayer figure; unit interpreted from the figure’s human-scale measurements.",
+          "status": "uncertain",
+          "ocr_raw": "60-80"
+        },
+        {
+          "label": "Seated posture dimension",
+          "value": 62.5,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Dimension shown beneath the kneeling seated posture in the Men at prayer figure; unit interpreted from the figure’s human-scale measurements.",
+          "status": "uncertain",
+          "ocr_raw": "62.5"
+        },
+        {
+          "label": "Standing posture height",
+          "value": 1.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Vertical dimension shown beside the seated posture in the Men at prayer figure.",
+          "status": "uncertain",
+          "ocr_raw": "1.00"
+        },
+        {
+          "label": "Prostrating posture length",
+          "value": 1.2,
+          "value_max": null,
+          "unit": "m",
+          "context": "Horizontal dimension shown beneath the prostrating posture in the Men at prayer figure.",
+          "status": "uncertain",
+          "ocr_raw": "1.20"
+        }
+      ],
+      "figure_refs": [
+        "1 Men at prayer",
+        "2 Functional scheme of mosque",
+        "3 Section → 2"
+      ],
+      "cross_refs": [
+        "Section → 2"
+      ],
+      "keywords": [
+        "mosque",
+        "masjid",
+        "jamia masjid",
+        "qibla",
+        "mihrab",
+        "minbar",
+        "imam",
+        "muezzin",
+        "ablution",
+        "minaret"
+      ],
+      "tags_architectural": [
+        "circulation",
+        "anthropometry",
+        "clearance",
+        "adaptability"
+      ],
+      "confidence": 0.91
+    },
+    {
+      "id": "4122fb96e4bd1976-302-vision-1",
+      "pdf_page": 302,
+      "book_page": 289,
+      "chapter": "RELIGIOUS BUILDINGS",
+      "section": "Mosques",
+      "title": "Islamic Cultural Centre: Cologne and Frankfurt Examples",
+      "summary": "The page illustrates an Islamic cultural centre in Cologne with a prayer hall, courtyard fountain, library, school, auditorium, shops, café, restaurant, Turkish baths, and other community facilities. The Frankfurt example shows a ground-floor arrangement with separate men’s and women’s entrances and prayer areas, a women’s gallery and balcony, and a minaret with lift; the basement plan includes washing facilities, WCs, showers, kitchen, dining, teaching, and library spaces.",
+      "building_type": "Islamic cultural centre and mosque",
+      "spaces": [
+        "Prayer hall",
+        "Courtyard",
+        "Fountain",
+        "Library",
+        "School",
+        "Auditorium",
+        "Gallery",
+        "Information area",
+        "Turkish baths",
+        "Café",
+        "Shops",
+        "Restaurant",
+        "Student residence",
+        "Men’s entrance",
+        "Women’s entrance",
+        "Draught lobby",
+        "Men’s prayer hall",
+        "Women’s prayer hall gallery",
+        "Women’s balcony",
+        "Rows of wash basins",
+        "WCs",
+        "Shower",
+        "Kitchen",
+        "Dining room",
+        "Classrooms",
+        "Lecture room",
+        "Minaret"
+      ],
+      "uses": [
+        "Prayer",
+        "Education",
+        "Community gathering",
+        "Ablution",
+        "Dining",
+        "Retail",
+        "Cultural and leisure activities"
+      ],
+      "furniture_equipment": [
+        "Shoe racks",
+        "Wash basins",
+        "Minaret lift"
+      ],
+      "dimensions": [],
+      "figure_refs": [
+        "4 Islamic cultural centre in Cologne",
+        "5 Islamic cultural centre in Frankfurt, ground floor",
+        "6 Basement → 5"
+      ],
+      "cross_refs": [
+        "Basement → 5"
+      ],
+      "keywords": [
+        "Islamic cultural centre",
+        "mosque",
+        "Cologne",
+        "Frankfurt",
+        "prayer hall",
+        "courtyard",
+        "ablution",
+        "community facilities"
+      ],
+      "tags_architectural": [
+        "circulation",
+        "adaptability"
+      ],
+      "confidence": 0.94
+    }
+  ]
+}

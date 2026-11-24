@@ -1,0 +1,500 @@
+{
+  "fichas": [
+    {
+      "id": "4122fb96e4bd1976-468-vision-0",
+      "pdf_page": 468,
+      "book_page": 455,
+      "chapter": "AGRICULTURE",
+      "section": "Animal Husbandry",
+      "title": "Laying hens: floor housing",
+      "summary": "Requirements for floor housing of laying hens, including facilities, stocking density, lighting, nests, perches, litter, and access to a cold scratching room. The page also illustrates floor housing with an open area for 1,600 birds.",
+      "building_type": "Laying-hen housing",
+      "spaces": [
+        "Poultry barn",
+        "Open-air run",
+        "Cold scratching room",
+        "Laying-nest area",
+        "Litter area"
+      ],
+      "uses": [
+        "Housing laying hens on the floor",
+        "Feeding and watering birds",
+        "Providing nesting, perching, scratching, and dust-bathing areas"
+      ],
+      "furniture_equipment": [
+        "Laying nests",
+        "Perches",
+        "Feeding troughs",
+        "Drinking troughs",
+        "Feed chain",
+        "Ventilation equipment"
+      ],
+      "dimensions": [
+        {
+          "label": "Minimum facility area",
+          "value": 2.5,
+          "value_max": null,
+          "unit": "m²",
+          "context": "Minimum area for the facility.",
+          "status": "verified",
+          "ocr_raw": "Minimum area\n\n2.5m2"
+        },
+        {
+          "label": "Usable area per bird",
+          "value": 800.0,
+          "value_max": null,
+          "unit": "cm²/bird",
+          "context": "Minimum area per bird; the OCR also specifies a larger allowance for birds weighing more than 2 kg.",
+          "status": "verified",
+          "ocr_raw": "Area/bird\n\nmin. 800 cm'/bird; for birds weighing more than 2 kg,\n900cm2"
+        },
+        {
+          "label": "Area per bird for heavier birds",
+          "value": 900.0,
+          "value_max": null,
+          "unit": "cm²/bird",
+          "context": "For birds weighing more than 2 kg.",
+          "status": "verified",
+          "ocr_raw": "min. 800 cm'/bird; for birds weighing more than 2 kg,\n900cm2"
+        },
+        {
+          "label": "Coop height at trough side",
+          "value": 60.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Minimum height at the trough side; nowhere less than 50 cm.",
+          "status": "verified",
+          "ocr_raw": "Height of the coop\n\nmin. 60 em (trough side), nowhere less than 50 em"
+        },
+        {
+          "label": "Minimum coop height anywhere",
+          "value": 50.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "The coop must be nowhere less than this height.",
+          "status": "verified",
+          "ocr_raw": "min. 60 em (trough side), nowhere less than 50 em"
+        },
+        {
+          "label": "Gangway width between coop rows",
+          "value": 90.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Minimum width between rows; floor spacing is specified separately.",
+          "status": "verified",
+          "ocr_raw": "Arrangement of the\ncoops\n\nmin. 90 em gangway width between the rows, floor\nspacing min. 35 em"
+        },
+        {
+          "label": "Floor spacing",
+          "value": 35.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Minimum spacing.",
+          "status": "verified",
+          "ocr_raw": "min. 90 em gangway width between the rows, floor\nspacing min. 35 em"
+        },
+        {
+          "label": "Nest area for groups up to 10 birds",
+          "value": 900.0,
+          "value_max": null,
+          "unit": "cm²",
+          "context": "Minimum nest area for groups of up to 10 birds.",
+          "status": "verified",
+          "ocr_raw": "Nest area\n\nmin. 900 em' for groups of up to 10 birds; for groups of\n30 birds, the nest is to be enlarged by 90 em' for every\nfurther bird"
+        },
+        {
+          "label": "Nest area increment",
+          "value": 90.0,
+          "value_max": null,
+          "unit": "cm²/bird",
+          "context": "Increase for every further bird in groups of 30 birds, as stated in the source text.",
+          "status": "verified",
+          "ocr_raw": "for groups of\n30 birds, the nest is to be enlarged by 90 em' for every\nfurther bird"
+        },
+        {
+          "label": "Feeding trough length",
+          "value": 12.0,
+          "value_max": null,
+          "unit": "cm/bird",
+          "context": "Minimum feeding-trough length; alternatively 14.5 cm for birds weighing more than 2.5 kg.",
+          "status": "verified",
+          "ocr_raw": "Feeding trough\n\nmin. 12 em/bird; or 14.5 em for birds weighing more than\n2.5 kg"
+        },
+        {
+          "label": "Feeding trough length for heavier birds",
+          "value": 14.5,
+          "value_max": null,
+          "unit": "cm/bird",
+          "context": "Alternative minimum for birds weighing more than 2.5 kg.",
+          "status": "verified",
+          "ocr_raw": "min. 12 em/bird; or 14.5 em for birds weighing more than\n2.5 kg"
+        },
+        {
+          "label": "Roosting perch length",
+          "value": 15.0,
+          "value_max": null,
+          "unit": "cm/bird",
+          "context": "Minimum perch length per bird; at least two perches at different heights per holding unit.",
+          "status": "verified",
+          "ocr_raw": "Roosting perch\n\nmin. 15 em/ bird; min. 2 perches at different heights per\nholding unit"
+        },
+        {
+          "label": "Perches per holding unit",
+          "value": 2.0,
+          "value_max": null,
+          "unit": "perches",
+          "context": "Minimum number, positioned at different heights.",
+          "status": "verified",
+          "ocr_raw": "min. 15 em/ bird; min. 2 perches at different heights per\nholding unit"
+        },
+        {
+          "label": "Natural lighting in newbuilds",
+          "value": 3.0,
+          "value_max": null,
+          "unit": "% of floor area",
+          "context": "Minimum natural lighting for new construction.",
+          "status": "verified",
+          "ocr_raw": "Light\n\nnewbuild: natural lighting min. 3% floor area"
+        },
+        {
+          "label": "Open-area housing plan dimension",
+          "value": 12.99,
+          "value_max": null,
+          "unit": "m",
+          "context": "Dimension printed on the plan for floor housing with an open area for 1,600 birds.",
+          "status": "verified",
+          "ocr_raw": "12.99"
+        },
+        {
+          "label": "Open-area housing plan dimension",
+          "value": 21.77,
+          "value_max": null,
+          "unit": "m",
+          "context": "Dimension printed on the plan for floor housing with an open area for 1,600 birds.",
+          "status": "verified",
+          "ocr_raw": "ANIMAL HUSBANDRY\nLaying Hens\n\n(See also Housing poultry--> p. 452.)\n\n0\n\nThe legal requirements for the keeping of laying hens are laid\ndown in the Animal Welfare Law and in the Animal Welfare,\nAnimal Husbandry Regulations. The regulations contain general\nprovisions about the keeping, feeding and care of farm animals\nand these apply for all husbandry, with special regulations for the\ncommercial keeping of laying hens:\nKeeping laying hens on floor: on two levels with open area\n\nThe keeping of hens is allowed on the floor--> 0 on one or more\nlevels with or without free range and in small groups --> f) in fitted out accommodation with scratching area, nest and perching\nbars.\nA particular requirement for free-range management is the provision of a cold scratching place (outside, separated and roofed\nscratching area with paved surfacing) between the barn and the\nrun.\n\nOccupation density\n\nf) Keeping laying hens in small groups\n\nmax. 9 hens/m2 usable area, for multi-storey floor keeping,\nmax. 18 birds/m 2 floor area\n\nLevels\n\nmax. 41evels vertically, with barn floor first level\n\nGroup size\n\nwithout partitions, max. 6000 birds\n\nFeeding\n\nlong trough: max. 10 em edge length/bird\nround trough: max. 4 em edge length/bird\n\nDrinking trough\n\ngutter/round trough: 2.5 em/min. 1 em edge length/bird\nnipple/beaker drinker: min. 2 places for up to 10 birds and\n1 for every further 10 birds\n\nMinimum area\n\n2.5m2\n\nArea/bird\n\nmin. 800 cm'/bird; for birds weighing more than 2 kg,\n900cm2\n\nHeight of the coop\n\nmin. 60 em (trough side), nowhere less than 50 em\n\nNests\n\nArrangement of the\ncoops\n\nmin. 90 em gangway width between the rows, floor\nspacing min. 35 em\n\ngroup nest: min. 1 m 2 for max. 120 birds\nsingle nest: max. 7 birds/nest (135 x 25 em)\n\nPerches\n\nmin. 15 em/bird, horizontal spacing of the perches 30 em,\nto wall20 em\n\nNest area\n\nmin. 900 em' for groups of up to 10 birds; for groups of\n30 birds, the nest is to be enlarged by 90 em' for every\nfurther bird\n\nLitter area\n\nat least a third of barn floor area and min. 250 cm'/bird\n\nCold scratching room\n\nfor all poultry farms with access to an open-air run (unless\nconstruction or other legal reasons prevent it)\n\nOpening to cold\nscratching room\n\nmin. 35 em high/40 em wide, min. 1 m/500 birds,\ndistributed evenly along external wall\n\nLight\n\nnewbuild: natural lighting min 3% floor area\n\nFeeding trough\n\nmin. 12 em/bird; or 14.5 em for birds weighing more than\n2.5 kg\n\nRoosting perch\n\nmin. 15 em/ bird; min. 2 perches at different heights per\nholding unit\n\nLight\n\nnewbuild: natural lighting min. 3% floor area\nRequirements for keeping hens in small groups (Animal Welfare, Animal\nHusbandry Regulations --+ refs)\n\nQQteedsilo\n\n..... ,,,,,_.,_...,._.....,... _.T\nfeed\nroom\n\nlJ ---1\n\negg\nroom\n\n~_..\n\n3•\n\n0\n\n12.99\n\nKeeping small\nanimals\nSheep housing\nLaying hens\nPig keeping\nDairy farming\nFinishing beef\ncattle\n\nKeeping horses\n\nRequirements for keeping hens on the floor (Animal Welfare, Animal Husbandry\nRegulations -> refs)\n\nAll types of facility must provide a minimum area of 2.5 m2 and\nbe equipped so that the hens can move to a reasonable extent\naccording to their personal needs: i.e. can move to feed, drink\nand rest. The lighting is to be sufficient for the birds to recognise\neach other and for the people responsible for care to be able to\nsee them properly. The floor must provide hard standing for the\nbirds and have access to adequately dimensioned and distributed feeding and drinking facilities. The facility should also provide a freely accessible nest during the laying phase with a floor\nconstructed so that the birds do not come into contact with wire\nmesh. A litter area should also be provided to enable the laying\nhens to peck, scratch and dust-bath as is their nature. The laying\nhens in a group must be able to enjoy simultaneous and undisturbed rest on a perch.\nTables and text from: DLG --> refs.\n\nFloor housing for laying hens with\nopen area for 1600 birds\n\nANIMAL\nHUSBANDRY\n\n12.99~\n\nSmall group housing with three\nstoreys for approx. 4800 birds\n\n455\n\nAnimal Welfare\nLaw\nAnimal Welfare,\nAnimal\nHusbandry\nRegulations\nEU Eco Directive\n\n\f"
+        }
+      ],
+      "figure_refs": [
+        "1 — Keeping laying hens on floor: on two levels with open area",
+        "4 — Floor housing for laying hens with open area for 1600 birds",
+        "6 — Requirements for keeping hens on the floor"
+      ],
+      "cross_refs": [
+        "Housing poultry → p. 452",
+        "Animal Welfare Law",
+        "Animal Welfare, Animal Husbandry Regulations → refs",
+        "DLG → refs"
+      ],
+      "keywords": [
+        "laying hens",
+        "floor housing",
+        "open area",
+        "cold scratching room",
+        "nest",
+        "perch",
+        "litter",
+        "animal welfare"
+      ],
+      "tags_architectural": [
+        "ventilation",
+        "daylighting",
+        "circulation",
+        "clearance",
+        "safety",
+        "spatial_proportion"
+      ],
+      "confidence": 0.9
+    },
+    {
+      "id": "4122fb96e4bd1976-468-vision-1",
+      "pdf_page": 468,
+      "book_page": 455,
+      "chapter": "AGRICULTURE",
+      "section": "Animal Husbandry",
+      "title": "Laying hens: small-group housing",
+      "summary": "Requirements for keeping laying hens in small groups, including stocking density, multilevel housing, group size, feeding and drinking equipment, nests, perches, litter, and lighting. An illustrated example shows three-storey housing for approximately 4,800 birds.",
+      "building_type": "Small-group laying-hen housing",
+      "spaces": [
+        "Poultry barn",
+        "Nest area",
+        "Feeding area",
+        "Drinking area",
+        "Litter area",
+        "Cold scratching room"
+      ],
+      "uses": [
+        "Housing laying hens in small groups",
+        "Feeding and watering birds",
+        "Providing nests, perches, litter, and scratching areas"
+      ],
+      "furniture_equipment": [
+        "Group nests",
+        "Single nests",
+        "Perches",
+        "Long feeding troughs",
+        "Round feeding troughs",
+        "Gutter or round drinking troughs",
+        "Nipple or beaker drinkers",
+        "Ventilation shaft"
+      ],
+      "dimensions": [
+        {
+          "label": "Maximum density on usable area",
+          "value": 9.0,
+          "value_max": null,
+          "unit": "hens/m²",
+          "context": "Maximum occupation density on usable area.",
+          "status": "verified",
+          "ocr_raw": "max. 9 hens/m2 usable area"
+        },
+        {
+          "label": "Maximum density for multi-storey floor keeping",
+          "value": 18.0,
+          "value_max": null,
+          "unit": "birds/m² floor area",
+          "context": "Maximum occupation density for multi-storey floor keeping.",
+          "status": "verified",
+          "ocr_raw": "for multi-storey floor keeping,\nmax. 18 birds/m 2 floor area"
+        },
+        {
+          "label": "Vertical levels",
+          "value": 4.0,
+          "value_max": null,
+          "unit": "levels",
+          "context": "Maximum number of levels vertically, with the barn floor counted as the first level.",
+          "status": "verified",
+          "ocr_raw": "max. 41evels vertically, with barn floor first level"
+        },
+        {
+          "label": "Maximum group size without partitions",
+          "value": 6000.0,
+          "value_max": null,
+          "unit": "birds",
+          "context": "Maximum group size when there are no partitions.",
+          "status": "verified",
+          "ocr_raw": "without partitions, max. 6000 birds"
+        },
+        {
+          "label": "Long-trough edge length",
+          "value": 10.0,
+          "value_max": null,
+          "unit": "cm/bird",
+          "context": "Maximum edge length per bird for a long trough.",
+          "status": "verified",
+          "ocr_raw": "long trough: max. 10 em edge length/bird"
+        },
+        {
+          "label": "Round-trough edge length",
+          "value": 4.0,
+          "value_max": null,
+          "unit": "cm/bird",
+          "context": "Maximum edge length per bird for a round trough.",
+          "status": "verified",
+          "ocr_raw": "round trough: max. 4 em edge length/bird"
+        },
+        {
+          "label": "Gutter or round drinking-trough edge length",
+          "value": 1.0,
+          "value_max": null,
+          "unit": "cm/bird",
+          "context": "Minimum edge length per bird; the OCR line also includes a separate 2.5 cm/min. notation.",
+          "status": "verified",
+          "ocr_raw": "gutter/round trough: 2.5 em/min. 1 em edge length/bird"
+        },
+        {
+          "label": "Nipple or beaker drinker places",
+          "value": 2.0,
+          "value_max": null,
+          "unit": "places",
+          "context": "Minimum two places for up to 10 birds; one additional place for every further 10 birds.",
+          "status": "verified",
+          "ocr_raw": "nipple/beaker drinker: min. 2 places for up to 10 birds and\n1 for every further 10 birds"
+        },
+        {
+          "label": "Birds covered by initial drinker places",
+          "value": 10.0,
+          "value_max": null,
+          "unit": "birds",
+          "context": "Two drinker places are specified for up to this number of birds.",
+          "status": "verified",
+          "ocr_raw": "min. 2 places for up to 10 birds"
+        },
+        {
+          "label": "Additional drinker provision",
+          "value": 1.0,
+          "value_max": null,
+          "unit": "place per 10 birds",
+          "context": "One place for every further 10 birds.",
+          "status": "verified",
+          "ocr_raw": "1 for every further 10 birds"
+        },
+        {
+          "label": "Group nest area",
+          "value": 1.0,
+          "value_max": null,
+          "unit": "m²",
+          "context": "Minimum area for a group nest serving up to 120 birds.",
+          "status": "verified",
+          "ocr_raw": "group nest: min. 1 m 2 for max. 120 birds"
+        },
+        {
+          "label": "Birds per group nest",
+          "value": 120.0,
+          "value_max": null,
+          "unit": "birds",
+          "context": "Maximum number of birds per group nest.",
+          "status": "verified",
+          "ocr_raw": "group nest: min. 1 m 2 for max. 120 birds"
+        },
+        {
+          "label": "Single-nest capacity",
+          "value": 7.0,
+          "value_max": null,
+          "unit": "birds/nest",
+          "context": "Maximum number of birds per single nest.",
+          "status": "verified",
+          "ocr_raw": "single nest: max. 7 birds/nest (135 x 25 em)"
+        },
+        {
+          "label": "Single-nest length",
+          "value": 135.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Printed single-nest dimensions, 135 × 25 cm.",
+          "status": "verified",
+          "ocr_raw": "single nest: max. 7 birds/nest (135 x 25 em)"
+        },
+        {
+          "label": "Single-nest width",
+          "value": 25.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Printed single-nest dimensions, 135 × 25 cm.",
+          "status": "verified",
+          "ocr_raw": "single nest: max. 7 birds/nest (135 x 25 em)"
+        },
+        {
+          "label": "Perch length",
+          "value": 15.0,
+          "value_max": null,
+          "unit": "cm/bird",
+          "context": "Minimum perch length per bird.",
+          "status": "verified",
+          "ocr_raw": "min. 15 em/bird, horizontal spacing of the perches 30 em,\nto wall20 em"
+        },
+        {
+          "label": "Horizontal perch spacing",
+          "value": 30.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Horizontal spacing between perches.",
+          "status": "verified",
+          "ocr_raw": "min. 15 em/bird, horizontal spacing of the perches 30 em,\nto wall20 em"
+        },
+        {
+          "label": "Perch distance from wall",
+          "value": 20.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Minimum distance to the wall as printed in the table.",
+          "status": "verified",
+          "ocr_raw": "min. 15 em/bird, horizontal spacing of the perches 30 em,\nto wall20 em"
+        },
+        {
+          "label": "Litter area",
+          "value": 250.0,
+          "value_max": null,
+          "unit": "cm²/bird",
+          "context": "Minimum litter area per bird; the text also requires at least a third of the barn floor area.",
+          "status": "verified",
+          "ocr_raw": "at least a third of barn floor area and min. 250 cm'/bird"
+        },
+        {
+          "label": "Litter area as share of barn floor",
+          "value": 0.3333333333333333,
+          "value_max": null,
+          "unit": "ratio",
+          "context": "At least a third of the barn floor area (1/3).",
+          "status": "corrected",
+          "ocr_raw": "at least a third of barn floor area"
+        },
+        {
+          "label": "Cold-scratching-room opening height",
+          "value": 35.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Minimum opening height.",
+          "status": "verified",
+          "ocr_raw": "min. 35 em high/40 em wide, min. 1 m/500 birds,\ndistributed evenly along external wall"
+        },
+        {
+          "label": "Cold-scratching-room opening width",
+          "value": 40.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Minimum opening width.",
+          "status": "verified",
+          "ocr_raw": "min. 35 em high/40 em wide, min. 1 m/500 birds,\ndistributed evenly along external wall"
+        },
+        {
+          "label": "Opening length provision",
+          "value": 1.0,
+          "value_max": null,
+          "unit": "m/500 birds",
+          "context": "Minimum opening provision per 500 birds, distributed evenly along the external wall.",
+          "status": "verified",
+          "ocr_raw": "min. 35 em high/40 em wide, min. 1 m/500 birds,\ndistributed evenly along external wall"
+        },
+        {
+          "label": "Natural lighting in newbuilds",
+          "value": 3.0,
+          "value_max": null,
+          "unit": "% of floor area",
+          "context": "Minimum natural lighting for new construction.",
+          "status": "verified",
+          "ocr_raw": "newbuild: natural lighting min 3% floor area"
+        },
+        {
+          "label": "Three-storey housing capacity",
+          "value": 4800.0,
+          "value_max": null,
+          "unit": "birds",
+          "context": "Approximate capacity stated for the illustrated small-group housing plan.",
+          "status": "verified",
+          "ocr_raw": "Small group housing with three\nstoreys for approx. 4800 birds"
+        }
+      ],
+      "figure_refs": [
+        "2 — Keeping laying hens in small groups",
+        "3 — Requirements for keeping hens in small groups",
+        "5 — Small group housing with three storeys for approx. 4800 birds"
+      ],
+      "cross_refs": [
+        "Animal Welfare Law",
+        "Animal Welfare, Animal Husbandry Regulations → refs",
+        "DLG → refs"
+      ],
+      "keywords": [
+        "laying hens",
+        "small-group housing",
+        "multilevel housing",
+        "stocking density",
+        "group nest",
+        "perch",
+        "drinking trough",
+        "animal welfare"
+      ],
+      "tags_architectural": [
+        "ventilation",
+        "daylighting",
+        "circulation",
+        "clearance",
+        "ergonomics",
+        "safety",
+        "modularity"
+      ],
+      "confidence": 0.87
+    }
+  ]
+}

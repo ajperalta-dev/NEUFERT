@@ -1,0 +1,538 @@
+{
+  "fichas": [
+    {
+      "id": "4122fb96e4bd1976-416-vision-0",
+      "pdf_page": 416,
+      "book_page": 403,
+      "chapter": "TRANSPORT",
+      "section": "Public Transport",
+      "title": "Public Transport: Conditions and Means of Transport",
+      "summary": "Guidance on public-transport access distances, average distances to stops, vehicle dimensions, rail systems and profiles, overhead power supply, and transparent weather shelters. The page also illustrates interchange layouts for urban rail and trams.",
+      "building_type": "Public transport infrastructure",
+      "spaces": [
+        "Transport stops and stations",
+        "Bus and tram stations",
+        "Rail platforms",
+        "Waiting shelters",
+        "Interchange and terminus areas"
+      ],
+      "uses": [
+        "Provide public transport access to residential, commercial and industrial areas",
+        "Protect passengers from weather while maintaining visibility for safety",
+        "Integrate public transport modes with road and cycle traffic",
+        "Support transfers between buses, urban railways and trams"
+      ],
+      "furniture_equipment": [
+        "Transparent waiting shelters",
+        "Shelter seating",
+        "Advertising panels or City Light Posters",
+        "Overhead wires and pantographs",
+        "Live third rails",
+        "Wide-base and grooved rails"
+      ],
+      "dimensions": [
+        {
+          "label": "Maximum distance to stop, large urban centre, core zone, underground/urban rail",
+          "value": 400.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Distance as the crow flies to a public transport stop or station.",
+          "status": "verified",
+          "ocr_raw": "400"
+        },
+        {
+          "label": "Maximum distance to stop, large urban centre, core zone, tram/bus",
+          "value": 300.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Distance as the crow flies to a public transport stop or station.",
+          "status": "verified",
+          "ocr_raw": "300"
+        },
+        {
+          "label": "Maximum distance to stop, large urban centre, high-density zone, underground/urban rail",
+          "value": 600.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Distance as the crow flies to a public transport stop or station.",
+          "status": "verified",
+          "ocr_raw": "600"
+        },
+        {
+          "label": "Maximum distance to stop, large urban centre, high-density zone, tram/bus",
+          "value": 400.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Distance as the crow flies to a public transport stop or station.",
+          "status": "verified",
+          "ocr_raw": "400"
+        },
+        {
+          "label": "Maximum distance to stop, large urban centre, low-density zone, underground/urban rail",
+          "value": 1000.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Distance as the crow flies to a public transport stop or station.",
+          "status": "verified",
+          "ocr_raw": "1000"
+        },
+        {
+          "label": "Maximum distance to stop, large urban centre, low-density zone, tram/bus",
+          "value": 600.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Distance as the crow flies to a public transport stop or station.",
+          "status": "verified",
+          "ocr_raw": "600"
+        },
+        {
+          "label": "Maximum distance to stop, medium-sized urban centre, central zone, underground/urban rail",
+          "value": 400.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Distance as the crow flies to a public transport stop or station.",
+          "status": "verified",
+          "ocr_raw": "400"
+        },
+        {
+          "label": "Maximum distance to stop, medium-sized urban centre, central zone, tram/bus",
+          "value": 300.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Distance as the crow flies to a public transport stop or station.",
+          "status": "verified",
+          "ocr_raw": "300"
+        },
+        {
+          "label": "Maximum distance to stop, medium-sized urban centre, high-density zone, underground/urban rail",
+          "value": 600.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Distance as the crow flies to a public transport stop or station.",
+          "status": "verified",
+          "ocr_raw": "600"
+        },
+        {
+          "label": "Maximum distance to stop, medium-sized urban centre, high-density zone, tram/bus",
+          "value": 400.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Distance as the crow flies to a public transport stop or station.",
+          "status": "verified",
+          "ocr_raw": "400"
+        },
+        {
+          "label": "Maximum distance to stop, medium-sized urban centre, low-density zone, underground/urban rail",
+          "value": 1000.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Distance as the crow flies to a public transport stop or station.",
+          "status": "verified",
+          "ocr_raw": "1000"
+        },
+        {
+          "label": "Maximum distance to stop, medium-sized urban centre, low-density zone, tram/bus",
+          "value": 600.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Distance as the crow flies to a public transport stop or station.",
+          "status": "verified",
+          "ocr_raw": "600"
+        },
+        {
+          "label": "Maximum distance to stop, subsidiary urban centre, central area, underground/urban rail",
+          "value": 600.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Distance as the crow flies to a public transport stop or station.",
+          "status": "verified",
+          "ocr_raw": "600"
+        },
+        {
+          "label": "Maximum distance to stop, subsidiary urban centre, central area, tram/bus",
+          "value": 400.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Distance as the crow flies to a public transport stop or station.",
+          "status": "verified",
+          "ocr_raw": "400"
+        },
+        {
+          "label": "Maximum distance to stop, subsidiary urban centre, remaining area, underground/urban rail",
+          "value": 1000.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Distance as the crow flies to a public transport stop or station.",
+          "status": "verified",
+          "ocr_raw": "1000"
+        },
+        {
+          "label": "Maximum distance to stop, subsidiary urban centre, remaining area, tram/bus",
+          "value": 600.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Distance as the crow flies to a public transport stop or station.",
+          "status": "verified",
+          "ocr_raw": "600"
+        },
+        {
+          "label": "Maximum distance to stop, community, underground/urban rail",
+          "value": 1000.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "For urban railways, the value for tram or underground applies depending on transport function.",
+          "status": "verified",
+          "ocr_raw": "1000"
+        },
+        {
+          "label": "Maximum distance to stop, community, tram/bus",
+          "value": 600.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "For urban railways, the value for tram or underground applies depending on transport function.",
+          "status": "verified",
+          "ocr_raw": "600"
+        },
+        {
+          "label": "Average distance to a city bus stop",
+          "value": 150.0,
+          "value_max": 300.0,
+          "unit": "m",
+          "context": "Approximate average; depends on local conditions.",
+          "status": "verified",
+          "ocr_raw": "Underground/urban rail (m)\n\nTram/bus (m)\n\ncore zone\nzone with high-density use\nzone with low-density use\n\n400\n600\n1000\n\n300\n400\n600\n\nMedium-sized urban centre\ncentral zone\nzone with high-density use\nzone with low-density use\n\n400\n600\n1000\n\n300\n400\n600\n\ncentral area\nremaining area\n\n600\n1000\n\n400\n600\n\nCommunity\n\n1000\n\n600\n\nPUBLIC TRANSPORT\n\nLarge urban centre\n\nConditions, Means of Transport\n\nLegal basis: General Railway Law (AEG), Passenger Transport\nLaw (PBefG), Regulations for the Construction and Operation of\nTrams (BOStrab), state public transport laws.\n\nSubsidiary urban centre\n\nEach residential, commercial or industrial area should be accessible\nby public transport. Accessible means that the distance (as the\ncrow flies) to a transport stop complies with the values in 0.\n\nfor urban railways, the value\nfor tram or underground\napplies, depending on transport\nfunction\n\nAll areas with contiguous building development and more than\n200 inhabitants (or a corresponding number of commuters\nand/or students), should be accessible, as should comparable\nestablishments in terms of traffic generation (locations with\nspecial functions).\n\n0 Distances to public transport stops and stations 0fDV-; refs)\ncity bus\n\n15()--300\n\nbus, tram\n\n25()--600\n\nunderground\n\n400-1500\n\nurban railway\n\n600-2500\n\nf) Average distance to a public\ntransport stop in metres (approx.,\ndepends on local condttions)\n0/DV-; refs)\nTram\n\nUnderground, Underground Urban\n(e.g. Munich) rail\n(e.g. smallprofile, Berlin)\n\nvehicle single bus 8-15 m;\nlengths, articulated bus\ntrainsets 18.75 m; double\narticulated bus 25 m;\nbus+ trailer 25 m\n\nsingle car\n15--45 m;\ntrainsets\nup to 75 m\n(according\nto BOStrab)\n\n25.7 m up\nto 4 double\ntrain sets\n\nwidth\n\n2.55m\n\nheight\n\napprox. 2.90 up to\n4.10 m (doubledecker)\n\nBus\n\nplatform 0.12-0.24 m\nheight\n\n114m\nseparable\ntrain\n\nET 423:\n67.4m\nup to 3\ntrainsets\n\n2.20-2.65 m 2.30m\n\n2.90 m\n\n3.02m\n\napprox. 3.40 3.20m\nm•\n\n3.45 m\n\n4.30m'\n\n0.20-1.00 m 0.90 m\n\n1.00 m\n\n0.96 m\n\none non-\n\n• height w1thout pantograph extended to overhead\n\n0 Important capacity data for means of transport 0/DV-> refs)\n1\n\ni1;~T s9R~~\n\n\"'..J2 i\n\n::J::I , ~'\n\n~~ :: ~18~ t- i . ~\ne\ne\nRail profiles\n\nLive rail (underground)\n(Fiedler -; refs)\n\nShelters, weather protection\nShelters are required to protect passengers from the weather at\ntransport stops. These are mostly standardised systems made up\nof basic elements or supplementary modules, often in combination\nwith advertising materials (City Light Posters, for example) as part\nof the street furniture. Shelters should also attend to customers'\nsafety needs by being transparent.\n\nIn addition to the bus, there are various types of rail vehicle that\ncan make public transport quicker, more convenient and more\nattractive than individual travel:\n- Rapid urban transit railways: predominantly electric,\nindependent rail systems within an urban area (overground and\nunderground - subway in USA) or region, sometimes with atgrade crossings but with absolute priority\n- Urban railways: as underground railways partially independent\nfrom road traffic, or above ground on dedicated permanent tracks\nor with at-grade crossings with road traffic without absolute\npriority\n- Trams: on track beds integrated into roads or dedicated; when\ntrams make use of the public street space, they are subject to\nroad traffic regulations (StVO).\n\nMixed systems are also possible, e.g. urban railways and trams\non the same permanent track or trams using rail tracks (e.g. in\nKarlsruhe). The use of the permanent track by buses is feasible,\nresulting in better integration of different transportation elements\n(stops, bus/tram stations) and priority switching at traffic lights.\nOf great importance is the spatial and scheduling integration of\nvarious means of public transport with each other and also with\nroad and cycle traffic (P(ark) + R(ide), B(icycle) + R(ide) etc.) and\nappropriate design of changing points -) 0.\nOverhead line systems\nPower supply is normally provided by overhead wire and pantograph\non the roof, although underground railways and some urban railways\ncan also use live third rails at the side (approx. 20 em above the\nrunning rails) -) 0.\nRail profiles\nWide-base rails of various dimensions are normally employed\n(urban rapid transit or urban rail 49 E 1, trams 41 E 1, dimensions\n-) G). In street space, grooved rails (59 Ri 1, 60 Ri 1) are used,\nwhich can be joint-sealed to the paving at the sides. Open track\nbeds are sometimes greened.\n\nPUBLIC\nTRANSPORT\n\nConditions,\nmeans of\ntransport\nStops and\n\nstations\nTraffic spaces\nBus stations\nAEG\nPBefG\nBOStrab\n6PNVIaws\n\n~\n\n-Exit\n=Arrival\n\n________ _. ________\\ \\._\n\\~---\n\n'---~-\n\n0 Waiting shelter for public transport\n\nf) Linkage of urban rail and trams at terminus (Fiedler-; refs)\n\n403\n\n\f"
+        },
+        {
+          "label": "Average distance to a bus or tram stop",
+          "value": 250.0,
+          "value_max": 600.0,
+          "unit": "m",
+          "context": "Approximate average; depends on local conditions.",
+          "status": "verified",
+          "ocr_raw": "Underground/urban rail (m)\n\nTram/bus (m)\n\ncore zone\nzone with high-density use\nzone with low-density use\n\n400\n600\n1000\n\n300\n400\n600\n\nMedium-sized urban centre\ncentral zone\nzone with high-density use\nzone with low-density use\n\n400\n600\n1000\n\n300\n400\n600\n\ncentral area\nremaining area\n\n600\n1000\n\n400\n600\n\nCommunity\n\n1000\n\n600\n\nPUBLIC TRANSPORT\n\nLarge urban centre\n\nConditions, Means of Transport\n\nLegal basis: General Railway Law (AEG), Passenger Transport\nLaw (PBefG), Regulations for the Construction and Operation of\nTrams (BOStrab), state public transport laws.\n\nSubsidiary urban centre\n\nEach residential, commercial or industrial area should be accessible\nby public transport. Accessible means that the distance (as the\ncrow flies) to a transport stop complies with the values in 0.\n\nfor urban railways, the value\nfor tram or underground\napplies, depending on transport\nfunction\n\nAll areas with contiguous building development and more than\n200 inhabitants (or a corresponding number of commuters\nand/or students), should be accessible, as should comparable\nestablishments in terms of traffic generation (locations with\nspecial functions).\n\n0 Distances to public transport stops and stations 0fDV-; refs)\ncity bus\n\n15()--300\n\nbus, tram\n\n25()--600\n\nunderground\n\n400-1500\n\nurban railway\n\n600-2500\n\nf) Average distance to a public\ntransport stop in metres (approx.,\ndepends on local condttions)\n0/DV-; refs)\nTram\n\nUnderground, Underground Urban\n(e.g. Munich) rail\n(e.g. smallprofile, Berlin)\n\nvehicle single bus 8-15 m;\nlengths, articulated bus\ntrainsets 18.75 m; double\narticulated bus 25 m;\nbus+ trailer 25 m\n\nsingle car\n15--45 m;\ntrainsets\nup to 75 m\n(according\nto BOStrab)\n\n25.7 m up\nto 4 double\ntrain sets\n\nwidth\n\n2.55m\n\nheight\n\napprox. 2.90 up to\n4.10 m (doubledecker)\n\nBus\n\nplatform 0.12-0.24 m\nheight\n\n114m\nseparable\ntrain\n\nET 423:\n67.4m\nup to 3\ntrainsets\n\n2.20-2.65 m 2.30m\n\n2.90 m\n\n3.02m\n\napprox. 3.40 3.20m\nm•\n\n3.45 m\n\n4.30m'\n\n0.20-1.00 m 0.90 m\n\n1.00 m\n\n0.96 m\n\none non-\n\n• height w1thout pantograph extended to overhead\n\n0 Important capacity data for means of transport 0/DV-> refs)\n1\n\ni1;~T s9R~~\n\n\"'..J2 i\n\n::J::I , ~'\n\n~~ :: ~18~ t- i . ~\ne\ne\nRail profiles\n\nLive rail (underground)\n(Fiedler -; refs)\n\nShelters, weather protection\nShelters are required to protect passengers from the weather at\ntransport stops. These are mostly standardised systems made up\nof basic elements or supplementary modules, often in combination\nwith advertising materials (City Light Posters, for example) as part\nof the street furniture. Shelters should also attend to customers'\nsafety needs by being transparent.\n\nIn addition to the bus, there are various types of rail vehicle that\ncan make public transport quicker, more convenient and more\nattractive than individual travel:\n- Rapid urban transit railways: predominantly electric,\nindependent rail systems within an urban area (overground and\nunderground - subway in USA) or region, sometimes with atgrade crossings but with absolute priority\n- Urban railways: as underground railways partially independent\nfrom road traffic, or above ground on dedicated permanent tracks\nor with at-grade crossings with road traffic without absolute\npriority\n- Trams: on track beds integrated into roads or dedicated; when\ntrams make use of the public street space, they are subject to\nroad traffic regulations (StVO).\n\nMixed systems are also possible, e.g. urban railways and trams\non the same permanent track or trams using rail tracks (e.g. in\nKarlsruhe). The use of the permanent track by buses is feasible,\nresulting in better integration of different transportation elements\n(stops, bus/tram stations) and priority switching at traffic lights.\nOf great importance is the spatial and scheduling integration of\nvarious means of public transport with each other and also with\nroad and cycle traffic (P(ark) + R(ide), B(icycle) + R(ide) etc.) and\nappropriate design of changing points -) 0.\nOverhead line systems\nPower supply is normally provided by overhead wire and pantograph\non the roof, although underground railways and some urban railways\ncan also use live third rails at the side (approx. 20 em above the\nrunning rails) -) 0.\nRail profiles\nWide-base rails of various dimensions are normally employed\n(urban rapid transit or urban rail 49 E 1, trams 41 E 1, dimensions\n-) G). In street space, grooved rails (59 Ri 1, 60 Ri 1) are used,\nwhich can be joint-sealed to the paving at the sides. Open track\nbeds are sometimes greened.\n\nPUBLIC\nTRANSPORT\n\nConditions,\nmeans of\ntransport\nStops and\n\nstations\nTraffic spaces\nBus stations\nAEG\nPBefG\nBOStrab\n6PNVIaws\n\n~\n\n-Exit\n=Arrival\n\n________ _. ________\\ \\._\n\\~---\n\n'---~-\n\n0 Waiting shelter for public transport\n\nf) Linkage of urban rail and trams at terminus (Fiedler-; refs)\n\n403\n\n\f"
+        },
+        {
+          "label": "Average distance to an underground station",
+          "value": 400.0,
+          "value_max": 1500.0,
+          "unit": "m",
+          "context": "Approximate average; depends on local conditions.",
+          "status": "verified",
+          "ocr_raw": "underground\n\n400-1500"
+        },
+        {
+          "label": "Average distance to an urban railway station",
+          "value": 600.0,
+          "value_max": 2500.0,
+          "unit": "m",
+          "context": "Approximate average; depends on local conditions.",
+          "status": "verified",
+          "ocr_raw": "urban railway\n\n600-2500"
+        },
+        {
+          "label": "Single bus length",
+          "value": 8.0,
+          "value_max": 15.0,
+          "unit": "m",
+          "context": "Vehicle length; bus vehicle data.",
+          "status": "verified",
+          "ocr_raw": "single bus 8-15 m"
+        },
+        {
+          "label": "Articulated bus length",
+          "value": 18.75,
+          "value_max": null,
+          "unit": "m",
+          "context": "Vehicle length; bus vehicle data.",
+          "status": "verified",
+          "ocr_raw": "Underground/urban rail (m)\n\nTram/bus (m)\n\ncore zone\nzone with high-density use\nzone with low-density use\n\n400\n600\n1000\n\n300\n400\n600\n\nMedium-sized urban centre\ncentral zone\nzone with high-density use\nzone with low-density use\n\n400\n600\n1000\n\n300\n400\n600\n\ncentral area\nremaining area\n\n600\n1000\n\n400\n600\n\nCommunity\n\n1000\n\n600\n\nPUBLIC TRANSPORT\n\nLarge urban centre\n\nConditions, Means of Transport\n\nLegal basis: General Railway Law (AEG), Passenger Transport\nLaw (PBefG), Regulations for the Construction and Operation of\nTrams (BOStrab), state public transport laws.\n\nSubsidiary urban centre\n\nEach residential, commercial or industrial area should be accessible\nby public transport. Accessible means that the distance (as the\ncrow flies) to a transport stop complies with the values in 0.\n\nfor urban railways, the value\nfor tram or underground\napplies, depending on transport\nfunction\n\nAll areas with contiguous building development and more than\n200 inhabitants (or a corresponding number of commuters\nand/or students), should be accessible, as should comparable\nestablishments in terms of traffic generation (locations with\nspecial functions).\n\n0 Distances to public transport stops and stations 0fDV-; refs)\ncity bus\n\n15()--300\n\nbus, tram\n\n25()--600\n\nunderground\n\n400-1500\n\nurban railway\n\n600-2500\n\nf) Average distance to a public\ntransport stop in metres (approx.,\ndepends on local condttions)\n0/DV-; refs)\nTram\n\nUnderground, Underground Urban\n(e.g. Munich) rail\n(e.g. smallprofile, Berlin)\n\nvehicle single bus 8-15 m;\nlengths, articulated bus\ntrainsets 18.75 m; double\narticulated bus 25 m;\nbus+ trailer 25 m\n\nsingle car\n15--45 m;\ntrainsets\nup to 75 m\n(according\nto BOStrab)\n\n25.7 m up\nto 4 double\ntrain sets\n\nwidth\n\n2.55m\n\nheight\n\napprox. 2.90 up to\n4.10 m (doubledecker)\n\nBus\n\nplatform 0.12-0.24 m\nheight\n\n114m\nseparable\ntrain\n\nET 423:\n67.4m\nup to 3\ntrainsets\n\n2.20-2.65 m 2.30m\n\n2.90 m\n\n3.02m\n\napprox. 3.40 3.20m\nm•\n\n3.45 m\n\n4.30m'\n\n0.20-1.00 m 0.90 m\n\n1.00 m\n\n0.96 m\n\none non-\n\n• height w1thout pantograph extended to overhead\n\n0 Important capacity data for means of transport 0/DV-> refs)\n1\n\ni1;~T s9R~~\n\n\"'..J2 i\n\n::J::I , ~'\n\n~~ :: ~18~ t- i . ~\ne\ne\nRail profiles\n\nLive rail (underground)\n(Fiedler -; refs)\n\nShelters, weather protection\nShelters are required to protect passengers from the weather at\ntransport stops. These are mostly standardised systems made up\nof basic elements or supplementary modules, often in combination\nwith advertising materials (City Light Posters, for example) as part\nof the street furniture. Shelters should also attend to customers'\nsafety needs by being transparent.\n\nIn addition to the bus, there are various types of rail vehicle that\ncan make public transport quicker, more convenient and more\nattractive than individual travel:\n- Rapid urban transit railways: predominantly electric,\nindependent rail systems within an urban area (overground and\nunderground - subway in USA) or region, sometimes with atgrade crossings but with absolute priority\n- Urban railways: as underground railways partially independent\nfrom road traffic, or above ground on dedicated permanent tracks\nor with at-grade crossings with road traffic without absolute\npriority\n- Trams: on track beds integrated into roads or dedicated; when\ntrams make use of the public street space, they are subject to\nroad traffic regulations (StVO).\n\nMixed systems are also possible, e.g. urban railways and trams\non the same permanent track or trams using rail tracks (e.g. in\nKarlsruhe). The use of the permanent track by buses is feasible,\nresulting in better integration of different transportation elements\n(stops, bus/tram stations) and priority switching at traffic lights.\nOf great importance is the spatial and scheduling integration of\nvarious means of public transport with each other and also with\nroad and cycle traffic (P(ark) + R(ide), B(icycle) + R(ide) etc.) and\nappropriate design of changing points -) 0.\nOverhead line systems\nPower supply is normally provided by overhead wire and pantograph\non the roof, although underground railways and some urban railways\ncan also use live third rails at the side (approx. 20 em above the\nrunning rails) -) 0.\nRail profiles\nWide-base rails of various dimensions are normally employed\n(urban rapid transit or urban rail 49 E 1, trams 41 E 1, dimensions\n-) G). In street space, grooved rails (59 Ri 1, 60 Ri 1) are used,\nwhich can be joint-sealed to the paving at the sides. Open track\nbeds are sometimes greened.\n\nPUBLIC\nTRANSPORT\n\nConditions,\nmeans of\ntransport\nStops and\n\nstations\nTraffic spaces\nBus stations\nAEG\nPBefG\nBOStrab\n6PNVIaws\n\n~\n\n-Exit\n=Arrival\n\n________ _. ________\\ \\._\n\\~---\n\n'---~-\n\n0 Waiting shelter for public transport\n\nf) Linkage of urban rail and trams at terminus (Fiedler-; refs)\n\n403\n\n\f"
+        },
+        {
+          "label": "Double-articulated bus length",
+          "value": 25.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Vehicle length; bus vehicle data.",
+          "status": "verified",
+          "ocr_raw": "double\narticulated bus 25 m"
+        },
+        {
+          "label": "Bus with trailer length",
+          "value": 25.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Vehicle length; bus vehicle data.",
+          "status": "verified",
+          "ocr_raw": "bus+ trailer 25 m"
+        },
+        {
+          "label": "Tram single-car length",
+          "value": 15.0,
+          "value_max": 45.0,
+          "unit": "m",
+          "context": "Vehicle length; trainsets can be up to 75 m according to BOStrab.",
+          "status": "verified",
+          "ocr_raw": "Underground/urban rail (m)\n\nTram/bus (m)\n\ncore zone\nzone with high-density use\nzone with low-density use\n\n400\n600\n1000\n\n300\n400\n600\n\nMedium-sized urban centre\ncentral zone\nzone with high-density use\nzone with low-density use\n\n400\n600\n1000\n\n300\n400\n600\n\ncentral area\nremaining area\n\n600\n1000\n\n400\n600\n\nCommunity\n\n1000\n\n600\n\nPUBLIC TRANSPORT\n\nLarge urban centre\n\nConditions, Means of Transport\n\nLegal basis: General Railway Law (AEG), Passenger Transport\nLaw (PBefG), Regulations for the Construction and Operation of\nTrams (BOStrab), state public transport laws.\n\nSubsidiary urban centre\n\nEach residential, commercial or industrial area should be accessible\nby public transport. Accessible means that the distance (as the\ncrow flies) to a transport stop complies with the values in 0.\n\nfor urban railways, the value\nfor tram or underground\napplies, depending on transport\nfunction\n\nAll areas with contiguous building development and more than\n200 inhabitants (or a corresponding number of commuters\nand/or students), should be accessible, as should comparable\nestablishments in terms of traffic generation (locations with\nspecial functions).\n\n0 Distances to public transport stops and stations 0fDV-; refs)\ncity bus\n\n15()--300\n\nbus, tram\n\n25()--600\n\nunderground\n\n400-1500\n\nurban railway\n\n600-2500\n\nf) Average distance to a public\ntransport stop in metres (approx.,\ndepends on local condttions)\n0/DV-; refs)\nTram\n\nUnderground, Underground Urban\n(e.g. Munich) rail\n(e.g. smallprofile, Berlin)\n\nvehicle single bus 8-15 m;\nlengths, articulated bus\ntrainsets 18.75 m; double\narticulated bus 25 m;\nbus+ trailer 25 m\n\nsingle car\n15--45 m;\ntrainsets\nup to 75 m\n(according\nto BOStrab)\n\n25.7 m up\nto 4 double\ntrain sets\n\nwidth\n\n2.55m\n\nheight\n\napprox. 2.90 up to\n4.10 m (doubledecker)\n\nBus\n\nplatform 0.12-0.24 m\nheight\n\n114m\nseparable\ntrain\n\nET 423:\n67.4m\nup to 3\ntrainsets\n\n2.20-2.65 m 2.30m\n\n2.90 m\n\n3.02m\n\napprox. 3.40 3.20m\nm•\n\n3.45 m\n\n4.30m'\n\n0.20-1.00 m 0.90 m\n\n1.00 m\n\n0.96 m\n\none non-\n\n• height w1thout pantograph extended to overhead\n\n0 Important capacity data for means of transport 0/DV-> refs)\n1\n\ni1;~T s9R~~\n\n\"'..J2 i\n\n::J::I , ~'\n\n~~ :: ~18~ t- i . ~\ne\ne\nRail profiles\n\nLive rail (underground)\n(Fiedler -; refs)\n\nShelters, weather protection\nShelters are required to protect passengers from the weather at\ntransport stops. These are mostly standardised systems made up\nof basic elements or supplementary modules, often in combination\nwith advertising materials (City Light Posters, for example) as part\nof the street furniture. Shelters should also attend to customers'\nsafety needs by being transparent.\n\nIn addition to the bus, there are various types of rail vehicle that\ncan make public transport quicker, more convenient and more\nattractive than individual travel:\n- Rapid urban transit railways: predominantly electric,\nindependent rail systems within an urban area (overground and\nunderground - subway in USA) or region, sometimes with atgrade crossings but with absolute priority\n- Urban railways: as underground railways partially independent\nfrom road traffic, or above ground on dedicated permanent tracks\nor with at-grade crossings with road traffic without absolute\npriority\n- Trams: on track beds integrated into roads or dedicated; when\ntrams make use of the public street space, they are subject to\nroad traffic regulations (StVO).\n\nMixed systems are also possible, e.g. urban railways and trams\non the same permanent track or trams using rail tracks (e.g. in\nKarlsruhe). The use of the permanent track by buses is feasible,\nresulting in better integration of different transportation elements\n(stops, bus/tram stations) and priority switching at traffic lights.\nOf great importance is the spatial and scheduling integration of\nvarious means of public transport with each other and also with\nroad and cycle traffic (P(ark) + R(ide), B(icycle) + R(ide) etc.) and\nappropriate design of changing points -) 0.\nOverhead line systems\nPower supply is normally provided by overhead wire and pantograph\non the roof, although underground railways and some urban railways\ncan also use live third rails at the side (approx. 20 em above the\nrunning rails) -) 0.\nRail profiles\nWide-base rails of various dimensions are normally employed\n(urban rapid transit or urban rail 49 E 1, trams 41 E 1, dimensions\n-) G). In street space, grooved rails (59 Ri 1, 60 Ri 1) are used,\nwhich can be joint-sealed to the paving at the sides. Open track\nbeds are sometimes greened.\n\nPUBLIC\nTRANSPORT\n\nConditions,\nmeans of\ntransport\nStops and\n\nstations\nTraffic spaces\nBus stations\nAEG\nPBefG\nBOStrab\n6PNVIaws\n\n~\n\n-Exit\n=Arrival\n\n________ _. ________\\ \\._\n\\~---\n\n'---~-\n\n0 Waiting shelter for public transport\n\nf) Linkage of urban rail and trams at terminus (Fiedler-; refs)\n\n403\n\n\f"
+        },
+        {
+          "label": "Tram trainset length",
+          "value": 75.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Maximum trainset length stated for trams, according to BOStrab.",
+          "status": "verified",
+          "ocr_raw": "trainsets\nup to 75 m\n(according\nto BOStrab)"
+        },
+        {
+          "label": "Underground small-profile train length",
+          "value": 25.7,
+          "value_max": null,
+          "unit": "m",
+          "context": "Up to four double trainsets; small-profile example, Berlin.",
+          "status": "verified",
+          "ocr_raw": "25.7 m up\nto 4 double\ntrain sets"
+        },
+        {
+          "label": "Underground train length",
+          "value": 114.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "One non-separable train; example identified as Munich underground.",
+          "status": "verified",
+          "ocr_raw": "Underground/urban rail (m)\n\nTram/bus (m)\n\ncore zone\nzone with high-density use\nzone with low-density use\n\n400\n600\n1000\n\n300\n400\n600\n\nMedium-sized urban centre\ncentral zone\nzone with high-density use\nzone with low-density use\n\n400\n600\n1000\n\n300\n400\n600\n\ncentral area\nremaining area\n\n600\n1000\n\n400\n600\n\nCommunity\n\n1000\n\n600\n\nPUBLIC TRANSPORT\n\nLarge urban centre\n\nConditions, Means of Transport\n\nLegal basis: General Railway Law (AEG), Passenger Transport\nLaw (PBefG), Regulations for the Construction and Operation of\nTrams (BOStrab), state public transport laws.\n\nSubsidiary urban centre\n\nEach residential, commercial or industrial area should be accessible\nby public transport. Accessible means that the distance (as the\ncrow flies) to a transport stop complies with the values in 0.\n\nfor urban railways, the value\nfor tram or underground\napplies, depending on transport\nfunction\n\nAll areas with contiguous building development and more than\n200 inhabitants (or a corresponding number of commuters\nand/or students), should be accessible, as should comparable\nestablishments in terms of traffic generation (locations with\nspecial functions).\n\n0 Distances to public transport stops and stations 0fDV-; refs)\ncity bus\n\n15()--300\n\nbus, tram\n\n25()--600\n\nunderground\n\n400-1500\n\nurban railway\n\n600-2500\n\nf) Average distance to a public\ntransport stop in metres (approx.,\ndepends on local condttions)\n0/DV-; refs)\nTram\n\nUnderground, Underground Urban\n(e.g. Munich) rail\n(e.g. smallprofile, Berlin)\n\nvehicle single bus 8-15 m;\nlengths, articulated bus\ntrainsets 18.75 m; double\narticulated bus 25 m;\nbus+ trailer 25 m\n\nsingle car\n15--45 m;\ntrainsets\nup to 75 m\n(according\nto BOStrab)\n\n25.7 m up\nto 4 double\ntrain sets\n\nwidth\n\n2.55m\n\nheight\n\napprox. 2.90 up to\n4.10 m (doubledecker)\n\nBus\n\nplatform 0.12-0.24 m\nheight\n\n114m\nseparable\ntrain\n\nET 423:\n67.4m\nup to 3\ntrainsets\n\n2.20-2.65 m 2.30m\n\n2.90 m\n\n3.02m\n\napprox. 3.40 3.20m\nm•\n\n3.45 m\n\n4.30m'\n\n0.20-1.00 m 0.90 m\n\n1.00 m\n\n0.96 m\n\none non-\n\n• height w1thout pantograph extended to overhead\n\n0 Important capacity data for means of transport 0/DV-> refs)\n1\n\ni1;~T s9R~~\n\n\"'..J2 i\n\n::J::I , ~'\n\n~~ :: ~18~ t- i . ~\ne\ne\nRail profiles\n\nLive rail (underground)\n(Fiedler -; refs)\n\nShelters, weather protection\nShelters are required to protect passengers from the weather at\ntransport stops. These are mostly standardised systems made up\nof basic elements or supplementary modules, often in combination\nwith advertising materials (City Light Posters, for example) as part\nof the street furniture. Shelters should also attend to customers'\nsafety needs by being transparent.\n\nIn addition to the bus, there are various types of rail vehicle that\ncan make public transport quicker, more convenient and more\nattractive than individual travel:\n- Rapid urban transit railways: predominantly electric,\nindependent rail systems within an urban area (overground and\nunderground - subway in USA) or region, sometimes with atgrade crossings but with absolute priority\n- Urban railways: as underground railways partially independent\nfrom road traffic, or above ground on dedicated permanent tracks\nor with at-grade crossings with road traffic without absolute\npriority\n- Trams: on track beds integrated into roads or dedicated; when\ntrams make use of the public street space, they are subject to\nroad traffic regulations (StVO).\n\nMixed systems are also possible, e.g. urban railways and trams\non the same permanent track or trams using rail tracks (e.g. in\nKarlsruhe). The use of the permanent track by buses is feasible,\nresulting in better integration of different transportation elements\n(stops, bus/tram stations) and priority switching at traffic lights.\nOf great importance is the spatial and scheduling integration of\nvarious means of public transport with each other and also with\nroad and cycle traffic (P(ark) + R(ide), B(icycle) + R(ide) etc.) and\nappropriate design of changing points -) 0.\nOverhead line systems\nPower supply is normally provided by overhead wire and pantograph\non the roof, although underground railways and some urban railways\ncan also use live third rails at the side (approx. 20 em above the\nrunning rails) -) 0.\nRail profiles\nWide-base rails of various dimensions are normally employed\n(urban rapid transit or urban rail 49 E 1, trams 41 E 1, dimensions\n-) G). In street space, grooved rails (59 Ri 1, 60 Ri 1) are used,\nwhich can be joint-sealed to the paving at the sides. Open track\nbeds are sometimes greened.\n\nPUBLIC\nTRANSPORT\n\nConditions,\nmeans of\ntransport\nStops and\n\nstations\nTraffic spaces\nBus stations\nAEG\nPBefG\nBOStrab\n6PNVIaws\n\n~\n\n-Exit\n=Arrival\n\n________ _. ________\\ \\._\n\\~---\n\n'---~-\n\n0 Waiting shelter for public transport\n\nf) Linkage of urban rail and trams at terminus (Fiedler-; refs)\n\n403\n\n\f"
+        },
+        {
+          "label": "Urban railway ET 423 train length",
+          "value": 67.4,
+          "value_max": null,
+          "unit": "m",
+          "context": "Up to three trainsets.",
+          "status": "verified",
+          "ocr_raw": "ET 423:\n67.4m\nup to 3\ntrainsets"
+        },
+        {
+          "label": "Bus width",
+          "value": 2.55,
+          "value_max": null,
+          "unit": "m",
+          "context": "Vehicle width.",
+          "status": "verified",
+          "ocr_raw": "2.55m"
+        },
+        {
+          "label": "Tram width",
+          "value": 2.2,
+          "value_max": 2.65,
+          "unit": "m",
+          "context": "Vehicle width.",
+          "status": "verified",
+          "ocr_raw": "2.20-2.65 m"
+        },
+        {
+          "label": "Underground small-profile width",
+          "value": 2.3,
+          "value_max": null,
+          "unit": "m",
+          "context": "Vehicle width; small-profile example, Berlin.",
+          "status": "verified",
+          "ocr_raw": "2.30m"
+        },
+        {
+          "label": "Underground width",
+          "value": 2.9,
+          "value_max": null,
+          "unit": "m",
+          "context": "Vehicle width; example identified as Munich underground.",
+          "status": "verified",
+          "ocr_raw": "2.90 m"
+        },
+        {
+          "label": "Urban railway width",
+          "value": 3.02,
+          "value_max": null,
+          "unit": "m",
+          "context": "Vehicle width.",
+          "status": "verified",
+          "ocr_raw": "3.02m"
+        },
+        {
+          "label": "Bus height",
+          "value": 2.9,
+          "value_max": 4.1,
+          "unit": "m",
+          "context": "Height range; upper value applies to a double-decker.",
+          "status": "verified",
+          "ocr_raw": "Underground/urban rail (m)\n\nTram/bus (m)\n\ncore zone\nzone with high-density use\nzone with low-density use\n\n400\n600\n1000\n\n300\n400\n600\n\nMedium-sized urban centre\ncentral zone\nzone with high-density use\nzone with low-density use\n\n400\n600\n1000\n\n300\n400\n600\n\ncentral area\nremaining area\n\n600\n1000\n\n400\n600\n\nCommunity\n\n1000\n\n600\n\nPUBLIC TRANSPORT\n\nLarge urban centre\n\nConditions, Means of Transport\n\nLegal basis: General Railway Law (AEG), Passenger Transport\nLaw (PBefG), Regulations for the Construction and Operation of\nTrams (BOStrab), state public transport laws.\n\nSubsidiary urban centre\n\nEach residential, commercial or industrial area should be accessible\nby public transport. Accessible means that the distance (as the\ncrow flies) to a transport stop complies with the values in 0.\n\nfor urban railways, the value\nfor tram or underground\napplies, depending on transport\nfunction\n\nAll areas with contiguous building development and more than\n200 inhabitants (or a corresponding number of commuters\nand/or students), should be accessible, as should comparable\nestablishments in terms of traffic generation (locations with\nspecial functions).\n\n0 Distances to public transport stops and stations 0fDV-; refs)\ncity bus\n\n15()--300\n\nbus, tram\n\n25()--600\n\nunderground\n\n400-1500\n\nurban railway\n\n600-2500\n\nf) Average distance to a public\ntransport stop in metres (approx.,\ndepends on local condttions)\n0/DV-; refs)\nTram\n\nUnderground, Underground Urban\n(e.g. Munich) rail\n(e.g. smallprofile, Berlin)\n\nvehicle single bus 8-15 m;\nlengths, articulated bus\ntrainsets 18.75 m; double\narticulated bus 25 m;\nbus+ trailer 25 m\n\nsingle car\n15--45 m;\ntrainsets\nup to 75 m\n(according\nto BOStrab)\n\n25.7 m up\nto 4 double\ntrain sets\n\nwidth\n\n2.55m\n\nheight\n\napprox. 2.90 up to\n4.10 m (doubledecker)\n\nBus\n\nplatform 0.12-0.24 m\nheight\n\n114m\nseparable\ntrain\n\nET 423:\n67.4m\nup to 3\ntrainsets\n\n2.20-2.65 m 2.30m\n\n2.90 m\n\n3.02m\n\napprox. 3.40 3.20m\nm•\n\n3.45 m\n\n4.30m'\n\n0.20-1.00 m 0.90 m\n\n1.00 m\n\n0.96 m\n\none non-\n\n• height w1thout pantograph extended to overhead\n\n0 Important capacity data for means of transport 0/DV-> refs)\n1\n\ni1;~T s9R~~\n\n\"'..J2 i\n\n::J::I , ~'\n\n~~ :: ~18~ t- i . ~\ne\ne\nRail profiles\n\nLive rail (underground)\n(Fiedler -; refs)\n\nShelters, weather protection\nShelters are required to protect passengers from the weather at\ntransport stops. These are mostly standardised systems made up\nof basic elements or supplementary modules, often in combination\nwith advertising materials (City Light Posters, for example) as part\nof the street furniture. Shelters should also attend to customers'\nsafety needs by being transparent.\n\nIn addition to the bus, there are various types of rail vehicle that\ncan make public transport quicker, more convenient and more\nattractive than individual travel:\n- Rapid urban transit railways: predominantly electric,\nindependent rail systems within an urban area (overground and\nunderground - subway in USA) or region, sometimes with atgrade crossings but with absolute priority\n- Urban railways: as underground railways partially independent\nfrom road traffic, or above ground on dedicated permanent tracks\nor with at-grade crossings with road traffic without absolute\npriority\n- Trams: on track beds integrated into roads or dedicated; when\ntrams make use of the public street space, they are subject to\nroad traffic regulations (StVO).\n\nMixed systems are also possible, e.g. urban railways and trams\non the same permanent track or trams using rail tracks (e.g. in\nKarlsruhe). The use of the permanent track by buses is feasible,\nresulting in better integration of different transportation elements\n(stops, bus/tram stations) and priority switching at traffic lights.\nOf great importance is the spatial and scheduling integration of\nvarious means of public transport with each other and also with\nroad and cycle traffic (P(ark) + R(ide), B(icycle) + R(ide) etc.) and\nappropriate design of changing points -) 0.\nOverhead line systems\nPower supply is normally provided by overhead wire and pantograph\non the roof, although underground railways and some urban railways\ncan also use live third rails at the side (approx. 20 em above the\nrunning rails) -) 0.\nRail profiles\nWide-base rails of various dimensions are normally employed\n(urban rapid transit or urban rail 49 E 1, trams 41 E 1, dimensions\n-) G). In street space, grooved rails (59 Ri 1, 60 Ri 1) are used,\nwhich can be joint-sealed to the paving at the sides. Open track\nbeds are sometimes greened.\n\nPUBLIC\nTRANSPORT\n\nConditions,\nmeans of\ntransport\nStops and\n\nstations\nTraffic spaces\nBus stations\nAEG\nPBefG\nBOStrab\n6PNVIaws\n\n~\n\n-Exit\n=Arrival\n\n________ _. ________\\ \\._\n\\~---\n\n'---~-\n\n0 Waiting shelter for public transport\n\nf) Linkage of urban rail and trams at terminus (Fiedler-; refs)\n\n403\n\n\f"
+        },
+        {
+          "label": "Tram height",
+          "value": 3.4,
+          "value_max": null,
+          "unit": "m",
+          "context": "Vehicle height; footnote states height without pantograph extended to overhead.",
+          "status": "verified",
+          "ocr_raw": "Underground/urban rail (m)\n\nTram/bus (m)\n\ncore zone\nzone with high-density use\nzone with low-density use\n\n400\n600\n1000\n\n300\n400\n600\n\nMedium-sized urban centre\ncentral zone\nzone with high-density use\nzone with low-density use\n\n400\n600\n1000\n\n300\n400\n600\n\ncentral area\nremaining area\n\n600\n1000\n\n400\n600\n\nCommunity\n\n1000\n\n600\n\nPUBLIC TRANSPORT\n\nLarge urban centre\n\nConditions, Means of Transport\n\nLegal basis: General Railway Law (AEG), Passenger Transport\nLaw (PBefG), Regulations for the Construction and Operation of\nTrams (BOStrab), state public transport laws.\n\nSubsidiary urban centre\n\nEach residential, commercial or industrial area should be accessible\nby public transport. Accessible means that the distance (as the\ncrow flies) to a transport stop complies with the values in 0.\n\nfor urban railways, the value\nfor tram or underground\napplies, depending on transport\nfunction\n\nAll areas with contiguous building development and more than\n200 inhabitants (or a corresponding number of commuters\nand/or students), should be accessible, as should comparable\nestablishments in terms of traffic generation (locations with\nspecial functions).\n\n0 Distances to public transport stops and stations 0fDV-; refs)\ncity bus\n\n15()--300\n\nbus, tram\n\n25()--600\n\nunderground\n\n400-1500\n\nurban railway\n\n600-2500\n\nf) Average distance to a public\ntransport stop in metres (approx.,\ndepends on local condttions)\n0/DV-; refs)\nTram\n\nUnderground, Underground Urban\n(e.g. Munich) rail\n(e.g. smallprofile, Berlin)\n\nvehicle single bus 8-15 m;\nlengths, articulated bus\ntrainsets 18.75 m; double\narticulated bus 25 m;\nbus+ trailer 25 m\n\nsingle car\n15--45 m;\ntrainsets\nup to 75 m\n(according\nto BOStrab)\n\n25.7 m up\nto 4 double\ntrain sets\n\nwidth\n\n2.55m\n\nheight\n\napprox. 2.90 up to\n4.10 m (doubledecker)\n\nBus\n\nplatform 0.12-0.24 m\nheight\n\n114m\nseparable\ntrain\n\nET 423:\n67.4m\nup to 3\ntrainsets\n\n2.20-2.65 m 2.30m\n\n2.90 m\n\n3.02m\n\napprox. 3.40 3.20m\nm•\n\n3.45 m\n\n4.30m'\n\n0.20-1.00 m 0.90 m\n\n1.00 m\n\n0.96 m\n\none non-\n\n• height w1thout pantograph extended to overhead\n\n0 Important capacity data for means of transport 0/DV-> refs)\n1\n\ni1;~T s9R~~\n\n\"'..J2 i\n\n::J::I , ~'\n\n~~ :: ~18~ t- i . ~\ne\ne\nRail profiles\n\nLive rail (underground)\n(Fiedler -; refs)\n\nShelters, weather protection\nShelters are required to protect passengers from the weather at\ntransport stops. These are mostly standardised systems made up\nof basic elements or supplementary modules, often in combination\nwith advertising materials (City Light Posters, for example) as part\nof the street furniture. Shelters should also attend to customers'\nsafety needs by being transparent.\n\nIn addition to the bus, there are various types of rail vehicle that\ncan make public transport quicker, more convenient and more\nattractive than individual travel:\n- Rapid urban transit railways: predominantly electric,\nindependent rail systems within an urban area (overground and\nunderground - subway in USA) or region, sometimes with atgrade crossings but with absolute priority\n- Urban railways: as underground railways partially independent\nfrom road traffic, or above ground on dedicated permanent tracks\nor with at-grade crossings with road traffic without absolute\npriority\n- Trams: on track beds integrated into roads or dedicated; when\ntrams make use of the public street space, they are subject to\nroad traffic regulations (StVO).\n\nMixed systems are also possible, e.g. urban railways and trams\non the same permanent track or trams using rail tracks (e.g. in\nKarlsruhe). The use of the permanent track by buses is feasible,\nresulting in better integration of different transportation elements\n(stops, bus/tram stations) and priority switching at traffic lights.\nOf great importance is the spatial and scheduling integration of\nvarious means of public transport with each other and also with\nroad and cycle traffic (P(ark) + R(ide), B(icycle) + R(ide) etc.) and\nappropriate design of changing points -) 0.\nOverhead line systems\nPower supply is normally provided by overhead wire and pantograph\non the roof, although underground railways and some urban railways\ncan also use live third rails at the side (approx. 20 em above the\nrunning rails) -) 0.\nRail profiles\nWide-base rails of various dimensions are normally employed\n(urban rapid transit or urban rail 49 E 1, trams 41 E 1, dimensions\n-) G). In street space, grooved rails (59 Ri 1, 60 Ri 1) are used,\nwhich can be joint-sealed to the paving at the sides. Open track\nbeds are sometimes greened.\n\nPUBLIC\nTRANSPORT\n\nConditions,\nmeans of\ntransport\nStops and\n\nstations\nTraffic spaces\nBus stations\nAEG\nPBefG\nBOStrab\n6PNVIaws\n\n~\n\n-Exit\n=Arrival\n\n________ _. ________\\ \\._\n\\~---\n\n'---~-\n\n0 Waiting shelter for public transport\n\nf) Linkage of urban rail and trams at terminus (Fiedler-; refs)\n\n403\n\n\f"
+        },
+        {
+          "label": "Underground small-profile height",
+          "value": 3.2,
+          "value_max": null,
+          "unit": "m",
+          "context": "Vehicle height; small-profile example, Berlin.",
+          "status": "verified",
+          "ocr_raw": "3.20m"
+        },
+        {
+          "label": "Underground height",
+          "value": 3.45,
+          "value_max": null,
+          "unit": "m",
+          "context": "Vehicle height; example identified as Munich underground.",
+          "status": "verified",
+          "ocr_raw": "3.45 m"
+        },
+        {
+          "label": "Urban railway height",
+          "value": 4.3,
+          "value_max": null,
+          "unit": "m",
+          "context": "Vehicle height; height without pantograph extended to overhead.",
+          "status": "verified",
+          "ocr_raw": "Underground/urban rail (m)\n\nTram/bus (m)\n\ncore zone\nzone with high-density use\nzone with low-density use\n\n400\n600\n1000\n\n300\n400\n600\n\nMedium-sized urban centre\ncentral zone\nzone with high-density use\nzone with low-density use\n\n400\n600\n1000\n\n300\n400\n600\n\ncentral area\nremaining area\n\n600\n1000\n\n400\n600\n\nCommunity\n\n1000\n\n600\n\nPUBLIC TRANSPORT\n\nLarge urban centre\n\nConditions, Means of Transport\n\nLegal basis: General Railway Law (AEG), Passenger Transport\nLaw (PBefG), Regulations for the Construction and Operation of\nTrams (BOStrab), state public transport laws.\n\nSubsidiary urban centre\n\nEach residential, commercial or industrial area should be accessible\nby public transport. Accessible means that the distance (as the\ncrow flies) to a transport stop complies with the values in 0.\n\nfor urban railways, the value\nfor tram or underground\napplies, depending on transport\nfunction\n\nAll areas with contiguous building development and more than\n200 inhabitants (or a corresponding number of commuters\nand/or students), should be accessible, as should comparable\nestablishments in terms of traffic generation (locations with\nspecial functions).\n\n0 Distances to public transport stops and stations 0fDV-; refs)\ncity bus\n\n15()--300\n\nbus, tram\n\n25()--600\n\nunderground\n\n400-1500\n\nurban railway\n\n600-2500\n\nf) Average distance to a public\ntransport stop in metres (approx.,\ndepends on local condttions)\n0/DV-; refs)\nTram\n\nUnderground, Underground Urban\n(e.g. Munich) rail\n(e.g. smallprofile, Berlin)\n\nvehicle single bus 8-15 m;\nlengths, articulated bus\ntrainsets 18.75 m; double\narticulated bus 25 m;\nbus+ trailer 25 m\n\nsingle car\n15--45 m;\ntrainsets\nup to 75 m\n(according\nto BOStrab)\n\n25.7 m up\nto 4 double\ntrain sets\n\nwidth\n\n2.55m\n\nheight\n\napprox. 2.90 up to\n4.10 m (doubledecker)\n\nBus\n\nplatform 0.12-0.24 m\nheight\n\n114m\nseparable\ntrain\n\nET 423:\n67.4m\nup to 3\ntrainsets\n\n2.20-2.65 m 2.30m\n\n2.90 m\n\n3.02m\n\napprox. 3.40 3.20m\nm•\n\n3.45 m\n\n4.30m'\n\n0.20-1.00 m 0.90 m\n\n1.00 m\n\n0.96 m\n\none non-\n\n• height w1thout pantograph extended to overhead\n\n0 Important capacity data for means of transport 0/DV-> refs)\n1\n\ni1;~T s9R~~\n\n\"'..J2 i\n\n::J::I , ~'\n\n~~ :: ~18~ t- i . ~\ne\ne\nRail profiles\n\nLive rail (underground)\n(Fiedler -; refs)\n\nShelters, weather protection\nShelters are required to protect passengers from the weather at\ntransport stops. These are mostly standardised systems made up\nof basic elements or supplementary modules, often in combination\nwith advertising materials (City Light Posters, for example) as part\nof the street furniture. Shelters should also attend to customers'\nsafety needs by being transparent.\n\nIn addition to the bus, there are various types of rail vehicle that\ncan make public transport quicker, more convenient and more\nattractive than individual travel:\n- Rapid urban transit railways: predominantly electric,\nindependent rail systems within an urban area (overground and\nunderground - subway in USA) or region, sometimes with atgrade crossings but with absolute priority\n- Urban railways: as underground railways partially independent\nfrom road traffic, or above ground on dedicated permanent tracks\nor with at-grade crossings with road traffic without absolute\npriority\n- Trams: on track beds integrated into roads or dedicated; when\ntrams make use of the public street space, they are subject to\nroad traffic regulations (StVO).\n\nMixed systems are also possible, e.g. urban railways and trams\non the same permanent track or trams using rail tracks (e.g. in\nKarlsruhe). The use of the permanent track by buses is feasible,\nresulting in better integration of different transportation elements\n(stops, bus/tram stations) and priority switching at traffic lights.\nOf great importance is the spatial and scheduling integration of\nvarious means of public transport with each other and also with\nroad and cycle traffic (P(ark) + R(ide), B(icycle) + R(ide) etc.) and\nappropriate design of changing points -) 0.\nOverhead line systems\nPower supply is normally provided by overhead wire and pantograph\non the roof, although underground railways and some urban railways\ncan also use live third rails at the side (approx. 20 em above the\nrunning rails) -) 0.\nRail profiles\nWide-base rails of various dimensions are normally employed\n(urban rapid transit or urban rail 49 E 1, trams 41 E 1, dimensions\n-) G). In street space, grooved rails (59 Ri 1, 60 Ri 1) are used,\nwhich can be joint-sealed to the paving at the sides. Open track\nbeds are sometimes greened.\n\nPUBLIC\nTRANSPORT\n\nConditions,\nmeans of\ntransport\nStops and\n\nstations\nTraffic spaces\nBus stations\nAEG\nPBefG\nBOStrab\n6PNVIaws\n\n~\n\n-Exit\n=Arrival\n\n________ _. ________\\ \\._\n\\~---\n\n'---~-\n\n0 Waiting shelter for public transport\n\nf) Linkage of urban rail and trams at terminus (Fiedler-; refs)\n\n403\n\n\f"
+        },
+        {
+          "label": "Bus platform height",
+          "value": 0.12,
+          "value_max": 0.24,
+          "unit": "m",
+          "context": "Platform height associated with bus.",
+          "status": "verified",
+          "ocr_raw": "0.12-0.24 m"
+        },
+        {
+          "label": "Tram platform height",
+          "value": 0.2,
+          "value_max": 1.0,
+          "unit": "m",
+          "context": "Platform height associated with tram.",
+          "status": "verified",
+          "ocr_raw": "0.20-1.00 m"
+        },
+        {
+          "label": "Underground small-profile platform height",
+          "value": 0.9,
+          "value_max": null,
+          "unit": "m",
+          "context": "Platform height; small-profile example, Berlin.",
+          "status": "verified",
+          "ocr_raw": "0.90 m"
+        },
+        {
+          "label": "Underground platform height",
+          "value": 1.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Platform height; example identified as Munich underground.",
+          "status": "verified",
+          "ocr_raw": "1.00 m"
+        },
+        {
+          "label": "Urban railway platform height",
+          "value": 0.96,
+          "value_max": null,
+          "unit": "m",
+          "context": "Platform height.",
+          "status": "verified",
+          "ocr_raw": "0.96 m"
+        },
+        {
+          "label": "Third rail height above running rails",
+          "value": 20.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Approximate height for side-mounted live third rails.",
+          "status": "verified",
+          "ocr_raw": "Underground/urban rail (m)\n\nTram/bus (m)\n\ncore zone\nzone with high-density use\nzone with low-density use\n\n400\n600\n1000\n\n300\n400\n600\n\nMedium-sized urban centre\ncentral zone\nzone with high-density use\nzone with low-density use\n\n400\n600\n1000\n\n300\n400\n600\n\ncentral area\nremaining area\n\n600\n1000\n\n400\n600\n\nCommunity\n\n1000\n\n600\n\nPUBLIC TRANSPORT\n\nLarge urban centre\n\nConditions, Means of Transport\n\nLegal basis: General Railway Law (AEG), Passenger Transport\nLaw (PBefG), Regulations for the Construction and Operation of\nTrams (BOStrab), state public transport laws.\n\nSubsidiary urban centre\n\nEach residential, commercial or industrial area should be accessible\nby public transport. Accessible means that the distance (as the\ncrow flies) to a transport stop complies with the values in 0.\n\nfor urban railways, the value\nfor tram or underground\napplies, depending on transport\nfunction\n\nAll areas with contiguous building development and more than\n200 inhabitants (or a corresponding number of commuters\nand/or students), should be accessible, as should comparable\nestablishments in terms of traffic generation (locations with\nspecial functions).\n\n0 Distances to public transport stops and stations 0fDV-; refs)\ncity bus\n\n15()--300\n\nbus, tram\n\n25()--600\n\nunderground\n\n400-1500\n\nurban railway\n\n600-2500\n\nf) Average distance to a public\ntransport stop in metres (approx.,\ndepends on local condttions)\n0/DV-; refs)\nTram\n\nUnderground, Underground Urban\n(e.g. Munich) rail\n(e.g. smallprofile, Berlin)\n\nvehicle single bus 8-15 m;\nlengths, articulated bus\ntrainsets 18.75 m; double\narticulated bus 25 m;\nbus+ trailer 25 m\n\nsingle car\n15--45 m;\ntrainsets\nup to 75 m\n(according\nto BOStrab)\n\n25.7 m up\nto 4 double\ntrain sets\n\nwidth\n\n2.55m\n\nheight\n\napprox. 2.90 up to\n4.10 m (doubledecker)\n\nBus\n\nplatform 0.12-0.24 m\nheight\n\n114m\nseparable\ntrain\n\nET 423:\n67.4m\nup to 3\ntrainsets\n\n2.20-2.65 m 2.30m\n\n2.90 m\n\n3.02m\n\napprox. 3.40 3.20m\nm•\n\n3.45 m\n\n4.30m'\n\n0.20-1.00 m 0.90 m\n\n1.00 m\n\n0.96 m\n\none non-\n\n• height w1thout pantograph extended to overhead\n\n0 Important capacity data for means of transport 0/DV-> refs)\n1\n\ni1;~T s9R~~\n\n\"'..J2 i\n\n::J::I , ~'\n\n~~ :: ~18~ t- i . ~\ne\ne\nRail profiles\n\nLive rail (underground)\n(Fiedler -; refs)\n\nShelters, weather protection\nShelters are required to protect passengers from the weather at\ntransport stops. These are mostly standardised systems made up\nof basic elements or supplementary modules, often in combination\nwith advertising materials (City Light Posters, for example) as part\nof the street furniture. Shelters should also attend to customers'\nsafety needs by being transparent.\n\nIn addition to the bus, there are various types of rail vehicle that\ncan make public transport quicker, more convenient and more\nattractive than individual travel:\n- Rapid urban transit railways: predominantly electric,\nindependent rail systems within an urban area (overground and\nunderground - subway in USA) or region, sometimes with atgrade crossings but with absolute priority\n- Urban railways: as underground railways partially independent\nfrom road traffic, or above ground on dedicated permanent tracks\nor with at-grade crossings with road traffic without absolute\npriority\n- Trams: on track beds integrated into roads or dedicated; when\ntrams make use of the public street space, they are subject to\nroad traffic regulations (StVO).\n\nMixed systems are also possible, e.g. urban railways and trams\non the same permanent track or trams using rail tracks (e.g. in\nKarlsruhe). The use of the permanent track by buses is feasible,\nresulting in better integration of different transportation elements\n(stops, bus/tram stations) and priority switching at traffic lights.\nOf great importance is the spatial and scheduling integration of\nvarious means of public transport with each other and also with\nroad and cycle traffic (P(ark) + R(ide), B(icycle) + R(ide) etc.) and\nappropriate design of changing points -) 0.\nOverhead line systems\nPower supply is normally provided by overhead wire and pantograph\non the roof, although underground railways and some urban railways\ncan also use live third rails at the side (approx. 20 em above the\nrunning rails) -) 0.\nRail profiles\nWide-base rails of various dimensions are normally employed\n(urban rapid transit or urban rail 49 E 1, trams 41 E 1, dimensions\n-) G). In street space, grooved rails (59 Ri 1, 60 Ri 1) are used,\nwhich can be joint-sealed to the paving at the sides. Open track\nbeds are sometimes greened.\n\nPUBLIC\nTRANSPORT\n\nConditions,\nmeans of\ntransport\nStops and\n\nstations\nTraffic spaces\nBus stations\nAEG\nPBefG\nBOStrab\n6PNVIaws\n\n~\n\n-Exit\n=Arrival\n\n________ _. ________\\ \\._\n\\~---\n\n'---~-\n\n0 Waiting shelter for public transport\n\nf) Linkage of urban rail and trams at terminus (Fiedler-; refs)\n\n403\n\n\f"
+        },
+        {
+          "label": "Waiting shelter minimum height",
+          "value": 2.2,
+          "value_max": null,
+          "unit": "m",
+          "context": "Dimension shown in the waiting-shelter illustration.",
+          "status": "verified",
+          "ocr_raw": "Underground/urban rail (m)\n\nTram/bus (m)\n\ncore zone\nzone with high-density use\nzone with low-density use\n\n400\n600\n1000\n\n300\n400\n600\n\nMedium-sized urban centre\ncentral zone\nzone with high-density use\nzone with low-density use\n\n400\n600\n1000\n\n300\n400\n600\n\ncentral area\nremaining area\n\n600\n1000\n\n400\n600\n\nCommunity\n\n1000\n\n600\n\nPUBLIC TRANSPORT\n\nLarge urban centre\n\nConditions, Means of Transport\n\nLegal basis: General Railway Law (AEG), Passenger Transport\nLaw (PBefG), Regulations for the Construction and Operation of\nTrams (BOStrab), state public transport laws.\n\nSubsidiary urban centre\n\nEach residential, commercial or industrial area should be accessible\nby public transport. Accessible means that the distance (as the\ncrow flies) to a transport stop complies with the values in 0.\n\nfor urban railways, the value\nfor tram or underground\napplies, depending on transport\nfunction\n\nAll areas with contiguous building development and more than\n200 inhabitants (or a corresponding number of commuters\nand/or students), should be accessible, as should comparable\nestablishments in terms of traffic generation (locations with\nspecial functions).\n\n0 Distances to public transport stops and stations 0fDV-; refs)\ncity bus\n\n15()--300\n\nbus, tram\n\n25()--600\n\nunderground\n\n400-1500\n\nurban railway\n\n600-2500\n\nf) Average distance to a public\ntransport stop in metres (approx.,\ndepends on local condttions)\n0/DV-; refs)\nTram\n\nUnderground, Underground Urban\n(e.g. Munich) rail\n(e.g. smallprofile, Berlin)\n\nvehicle single bus 8-15 m;\nlengths, articulated bus\ntrainsets 18.75 m; double\narticulated bus 25 m;\nbus+ trailer 25 m\n\nsingle car\n15--45 m;\ntrainsets\nup to 75 m\n(according\nto BOStrab)\n\n25.7 m up\nto 4 double\ntrain sets\n\nwidth\n\n2.55m\n\nheight\n\napprox. 2.90 up to\n4.10 m (doubledecker)\n\nBus\n\nplatform 0.12-0.24 m\nheight\n\n114m\nseparable\ntrain\n\nET 423:\n67.4m\nup to 3\ntrainsets\n\n2.20-2.65 m 2.30m\n\n2.90 m\n\n3.02m\n\napprox. 3.40 3.20m\nm•\n\n3.45 m\n\n4.30m'\n\n0.20-1.00 m 0.90 m\n\n1.00 m\n\n0.96 m\n\none non-\n\n• height w1thout pantograph extended to overhead\n\n0 Important capacity data for means of transport 0/DV-> refs)\n1\n\ni1;~T s9R~~\n\n\"'..J2 i\n\n::J::I , ~'\n\n~~ :: ~18~ t- i . ~\ne\ne\nRail profiles\n\nLive rail (underground)\n(Fiedler -; refs)\n\nShelters, weather protection\nShelters are required to protect passengers from the weather at\ntransport stops. These are mostly standardised systems made up\nof basic elements or supplementary modules, often in combination\nwith advertising materials (City Light Posters, for example) as part\nof the street furniture. Shelters should also attend to customers'\nsafety needs by being transparent.\n\nIn addition to the bus, there are various types of rail vehicle that\ncan make public transport quicker, more convenient and more\nattractive than individual travel:\n- Rapid urban transit railways: predominantly electric,\nindependent rail systems within an urban area (overground and\nunderground - subway in USA) or region, sometimes with atgrade crossings but with absolute priority\n- Urban railways: as underground railways partially independent\nfrom road traffic, or above ground on dedicated permanent tracks\nor with at-grade crossings with road traffic without absolute\npriority\n- Trams: on track beds integrated into roads or dedicated; when\ntrams make use of the public street space, they are subject to\nroad traffic regulations (StVO).\n\nMixed systems are also possible, e.g. urban railways and trams\non the same permanent track or trams using rail tracks (e.g. in\nKarlsruhe). The use of the permanent track by buses is feasible,\nresulting in better integration of different transportation elements\n(stops, bus/tram stations) and priority switching at traffic lights.\nOf great importance is the spatial and scheduling integration of\nvarious means of public transport with each other and also with\nroad and cycle traffic (P(ark) + R(ide), B(icycle) + R(ide) etc.) and\nappropriate design of changing points -) 0.\nOverhead line systems\nPower supply is normally provided by overhead wire and pantograph\non the roof, although underground railways and some urban railways\ncan also use live third rails at the side (approx. 20 em above the\nrunning rails) -) 0.\nRail profiles\nWide-base rails of various dimensions are normally employed\n(urban rapid transit or urban rail 49 E 1, trams 41 E 1, dimensions\n-) G). In street space, grooved rails (59 Ri 1, 60 Ri 1) are used,\nwhich can be joint-sealed to the paving at the sides. Open track\nbeds are sometimes greened.\n\nPUBLIC\nTRANSPORT\n\nConditions,\nmeans of\ntransport\nStops and\n\nstations\nTraffic spaces\nBus stations\nAEG\nPBefG\nBOStrab\n6PNVIaws\n\n~\n\n-Exit\n=Arrival\n\n________ _. ________\\ \\._\n\\~---\n\n'---~-\n\n0 Waiting shelter for public transport\n\nf) Linkage of urban rail and trams at terminus (Fiedler-; refs)\n\n403\n\n\f"
+        },
+        {
+          "label": "Waiting shelter approximate dimension",
+          "value": 1.4,
+          "value_max": null,
+          "unit": "m",
+          "context": "Dimension shown in the waiting-shelter illustration; the drawing labels approximately 1.40 m in multiple locations.",
+          "status": "verified",
+          "ocr_raw": "Underground/urban rail (m)\n\nTram/bus (m)\n\ncore zone\nzone with high-density use\nzone with low-density use\n\n400\n600\n1000\n\n300\n400\n600\n\nMedium-sized urban centre\ncentral zone\nzone with high-density use\nzone with low-density use\n\n400\n600\n1000\n\n300\n400\n600\n\ncentral area\nremaining area\n\n600\n1000\n\n400\n600\n\nCommunity\n\n1000\n\n600\n\nPUBLIC TRANSPORT\n\nLarge urban centre\n\nConditions, Means of Transport\n\nLegal basis: General Railway Law (AEG), Passenger Transport\nLaw (PBefG), Regulations for the Construction and Operation of\nTrams (BOStrab), state public transport laws.\n\nSubsidiary urban centre\n\nEach residential, commercial or industrial area should be accessible\nby public transport. Accessible means that the distance (as the\ncrow flies) to a transport stop complies with the values in 0.\n\nfor urban railways, the value\nfor tram or underground\napplies, depending on transport\nfunction\n\nAll areas with contiguous building development and more than\n200 inhabitants (or a corresponding number of commuters\nand/or students), should be accessible, as should comparable\nestablishments in terms of traffic generation (locations with\nspecial functions).\n\n0 Distances to public transport stops and stations 0fDV-; refs)\ncity bus\n\n15()--300\n\nbus, tram\n\n25()--600\n\nunderground\n\n400-1500\n\nurban railway\n\n600-2500\n\nf) Average distance to a public\ntransport stop in metres (approx.,\ndepends on local condttions)\n0/DV-; refs)\nTram\n\nUnderground, Underground Urban\n(e.g. Munich) rail\n(e.g. smallprofile, Berlin)\n\nvehicle single bus 8-15 m;\nlengths, articulated bus\ntrainsets 18.75 m; double\narticulated bus 25 m;\nbus+ trailer 25 m\n\nsingle car\n15--45 m;\ntrainsets\nup to 75 m\n(according\nto BOStrab)\n\n25.7 m up\nto 4 double\ntrain sets\n\nwidth\n\n2.55m\n\nheight\n\napprox. 2.90 up to\n4.10 m (doubledecker)\n\nBus\n\nplatform 0.12-0.24 m\nheight\n\n114m\nseparable\ntrain\n\nET 423:\n67.4m\nup to 3\ntrainsets\n\n2.20-2.65 m 2.30m\n\n2.90 m\n\n3.02m\n\napprox. 3.40 3.20m\nm•\n\n3.45 m\n\n4.30m'\n\n0.20-1.00 m 0.90 m\n\n1.00 m\n\n0.96 m\n\none non-\n\n• height w1thout pantograph extended to overhead\n\n0 Important capacity data for means of transport 0/DV-> refs)\n1\n\ni1;~T s9R~~\n\n\"'..J2 i\n\n::J::I , ~'\n\n~~ :: ~18~ t- i . ~\ne\ne\nRail profiles\n\nLive rail (underground)\n(Fiedler -; refs)\n\nShelters, weather protection\nShelters are required to protect passengers from the weather at\ntransport stops. These are mostly standardised systems made up\nof basic elements or supplementary modules, often in combination\nwith advertising materials (City Light Posters, for example) as part\nof the street furniture. Shelters should also attend to customers'\nsafety needs by being transparent.\n\nIn addition to the bus, there are various types of rail vehicle that\ncan make public transport quicker, more convenient and more\nattractive than individual travel:\n- Rapid urban transit railways: predominantly electric,\nindependent rail systems within an urban area (overground and\nunderground - subway in USA) or region, sometimes with atgrade crossings but with absolute priority\n- Urban railways: as underground railways partially independent\nfrom road traffic, or above ground on dedicated permanent tracks\nor with at-grade crossings with road traffic without absolute\npriority\n- Trams: on track beds integrated into roads or dedicated; when\ntrams make use of the public street space, they are subject to\nroad traffic regulations (StVO).\n\nMixed systems are also possible, e.g. urban railways and trams\non the same permanent track or trams using rail tracks (e.g. in\nKarlsruhe). The use of the permanent track by buses is feasible,\nresulting in better integration of different transportation elements\n(stops, bus/tram stations) and priority switching at traffic lights.\nOf great importance is the spatial and scheduling integration of\nvarious means of public transport with each other and also with\nroad and cycle traffic (P(ark) + R(ide), B(icycle) + R(ide) etc.) and\nappropriate design of changing points -) 0.\nOverhead line systems\nPower supply is normally provided by overhead wire and pantograph\non the roof, although underground railways and some urban railways\ncan also use live third rails at the side (approx. 20 em above the\nrunning rails) -) 0.\nRail profiles\nWide-base rails of various dimensions are normally employed\n(urban rapid transit or urban rail 49 E 1, trams 41 E 1, dimensions\n-) G). In street space, grooved rails (59 Ri 1, 60 Ri 1) are used,\nwhich can be joint-sealed to the paving at the sides. Open track\nbeds are sometimes greened.\n\nPUBLIC\nTRANSPORT\n\nConditions,\nmeans of\ntransport\nStops and\n\nstations\nTraffic spaces\nBus stations\nAEG\nPBefG\nBOStrab\n6PNVIaws\n\n~\n\n-Exit\n=Arrival\n\n________ _. ________\\ \\._\n\\~---\n\n'---~-\n\n0 Waiting shelter for public transport\n\nf) Linkage of urban rail and trams at terminus (Fiedler-; refs)\n\n403\n\n\f"
+        },
+        {
+          "label": "Waiting shelter approximate dimension",
+          "value": 2.8,
+          "value_max": null,
+          "unit": "m",
+          "context": "Dimension shown in the waiting-shelter illustration.",
+          "status": "verified",
+          "ocr_raw": "Underground/urban rail (m)\n\nTram/bus (m)\n\ncore zone\nzone with high-density use\nzone with low-density use\n\n400\n600\n1000\n\n300\n400\n600\n\nMedium-sized urban centre\ncentral zone\nzone with high-density use\nzone with low-density use\n\n400\n600\n1000\n\n300\n400\n600\n\ncentral area\nremaining area\n\n600\n1000\n\n400\n600\n\nCommunity\n\n1000\n\n600\n\nPUBLIC TRANSPORT\n\nLarge urban centre\n\nConditions, Means of Transport\n\nLegal basis: General Railway Law (AEG), Passenger Transport\nLaw (PBefG), Regulations for the Construction and Operation of\nTrams (BOStrab), state public transport laws.\n\nSubsidiary urban centre\n\nEach residential, commercial or industrial area should be accessible\nby public transport. Accessible means that the distance (as the\ncrow flies) to a transport stop complies with the values in 0.\n\nfor urban railways, the value\nfor tram or underground\napplies, depending on transport\nfunction\n\nAll areas with contiguous building development and more than\n200 inhabitants (or a corresponding number of commuters\nand/or students), should be accessible, as should comparable\nestablishments in terms of traffic generation (locations with\nspecial functions).\n\n0 Distances to public transport stops and stations 0fDV-; refs)\ncity bus\n\n15()--300\n\nbus, tram\n\n25()--600\n\nunderground\n\n400-1500\n\nurban railway\n\n600-2500\n\nf) Average distance to a public\ntransport stop in metres (approx.,\ndepends on local condttions)\n0/DV-; refs)\nTram\n\nUnderground, Underground Urban\n(e.g. Munich) rail\n(e.g. smallprofile, Berlin)\n\nvehicle single bus 8-15 m;\nlengths, articulated bus\ntrainsets 18.75 m; double\narticulated bus 25 m;\nbus+ trailer 25 m\n\nsingle car\n15--45 m;\ntrainsets\nup to 75 m\n(according\nto BOStrab)\n\n25.7 m up\nto 4 double\ntrain sets\n\nwidth\n\n2.55m\n\nheight\n\napprox. 2.90 up to\n4.10 m (doubledecker)\n\nBus\n\nplatform 0.12-0.24 m\nheight\n\n114m\nseparable\ntrain\n\nET 423:\n67.4m\nup to 3\ntrainsets\n\n2.20-2.65 m 2.30m\n\n2.90 m\n\n3.02m\n\napprox. 3.40 3.20m\nm•\n\n3.45 m\n\n4.30m'\n\n0.20-1.00 m 0.90 m\n\n1.00 m\n\n0.96 m\n\none non-\n\n• height w1thout pantograph extended to overhead\n\n0 Important capacity data for means of transport 0/DV-> refs)\n1\n\ni1;~T s9R~~\n\n\"'..J2 i\n\n::J::I , ~'\n\n~~ :: ~18~ t- i . ~\ne\ne\nRail profiles\n\nLive rail (underground)\n(Fiedler -; refs)\n\nShelters, weather protection\nShelters are required to protect passengers from the weather at\ntransport stops. These are mostly standardised systems made up\nof basic elements or supplementary modules, often in combination\nwith advertising materials (City Light Posters, for example) as part\nof the street furniture. Shelters should also attend to customers'\nsafety needs by being transparent.\n\nIn addition to the bus, there are various types of rail vehicle that\ncan make public transport quicker, more convenient and more\nattractive than individual travel:\n- Rapid urban transit railways: predominantly electric,\nindependent rail systems within an urban area (overground and\nunderground - subway in USA) or region, sometimes with atgrade crossings but with absolute priority\n- Urban railways: as underground railways partially independent\nfrom road traffic, or above ground on dedicated permanent tracks\nor with at-grade crossings with road traffic without absolute\npriority\n- Trams: on track beds integrated into roads or dedicated; when\ntrams make use of the public street space, they are subject to\nroad traffic regulations (StVO).\n\nMixed systems are also possible, e.g. urban railways and trams\non the same permanent track or trams using rail tracks (e.g. in\nKarlsruhe). The use of the permanent track by buses is feasible,\nresulting in better integration of different transportation elements\n(stops, bus/tram stations) and priority switching at traffic lights.\nOf great importance is the spatial and scheduling integration of\nvarious means of public transport with each other and also with\nroad and cycle traffic (P(ark) + R(ide), B(icycle) + R(ide) etc.) and\nappropriate design of changing points -) 0.\nOverhead line systems\nPower supply is normally provided by overhead wire and pantograph\non the roof, although underground railways and some urban railways\ncan also use live third rails at the side (approx. 20 em above the\nrunning rails) -) 0.\nRail profiles\nWide-base rails of various dimensions are normally employed\n(urban rapid transit or urban rail 49 E 1, trams 41 E 1, dimensions\n-) G). In street space, grooved rails (59 Ri 1, 60 Ri 1) are used,\nwhich can be joint-sealed to the paving at the sides. Open track\nbeds are sometimes greened.\n\nPUBLIC\nTRANSPORT\n\nConditions,\nmeans of\ntransport\nStops and\n\nstations\nTraffic spaces\nBus stations\nAEG\nPBefG\nBOStrab\n6PNVIaws\n\n~\n\n-Exit\n=Arrival\n\n________ _. ________\\ \\._\n\\~---\n\n'---~-\n\n0 Waiting shelter for public transport\n\nf) Linkage of urban rail and trams at terminus (Fiedler-; refs)\n\n403\n\n\f"
+        },
+        {
+          "label": "Waiting shelter approximate overall dimension",
+          "value": 4.2,
+          "value_max": null,
+          "unit": "m",
+          "context": "Dimension shown in the waiting-shelter illustration.",
+          "status": "verified",
+          "ocr_raw": "Underground/urban rail (m)\n\nTram/bus (m)\n\ncore zone\nzone with high-density use\nzone with low-density use\n\n400\n600\n1000\n\n300\n400\n600\n\nMedium-sized urban centre\ncentral zone\nzone with high-density use\nzone with low-density use\n\n400\n600\n1000\n\n300\n400\n600\n\ncentral area\nremaining area\n\n600\n1000\n\n400\n600\n\nCommunity\n\n1000\n\n600\n\nPUBLIC TRANSPORT\n\nLarge urban centre\n\nConditions, Means of Transport\n\nLegal basis: General Railway Law (AEG), Passenger Transport\nLaw (PBefG), Regulations for the Construction and Operation of\nTrams (BOStrab), state public transport laws.\n\nSubsidiary urban centre\n\nEach residential, commercial or industrial area should be accessible\nby public transport. Accessible means that the distance (as the\ncrow flies) to a transport stop complies with the values in 0.\n\nfor urban railways, the value\nfor tram or underground\napplies, depending on transport\nfunction\n\nAll areas with contiguous building development and more than\n200 inhabitants (or a corresponding number of commuters\nand/or students), should be accessible, as should comparable\nestablishments in terms of traffic generation (locations with\nspecial functions).\n\n0 Distances to public transport stops and stations 0fDV-; refs)\ncity bus\n\n15()--300\n\nbus, tram\n\n25()--600\n\nunderground\n\n400-1500\n\nurban railway\n\n600-2500\n\nf) Average distance to a public\ntransport stop in metres (approx.,\ndepends on local condttions)\n0/DV-; refs)\nTram\n\nUnderground, Underground Urban\n(e.g. Munich) rail\n(e.g. smallprofile, Berlin)\n\nvehicle single bus 8-15 m;\nlengths, articulated bus\ntrainsets 18.75 m; double\narticulated bus 25 m;\nbus+ trailer 25 m\n\nsingle car\n15--45 m;\ntrainsets\nup to 75 m\n(according\nto BOStrab)\n\n25.7 m up\nto 4 double\ntrain sets\n\nwidth\n\n2.55m\n\nheight\n\napprox. 2.90 up to\n4.10 m (doubledecker)\n\nBus\n\nplatform 0.12-0.24 m\nheight\n\n114m\nseparable\ntrain\n\nET 423:\n67.4m\nup to 3\ntrainsets\n\n2.20-2.65 m 2.30m\n\n2.90 m\n\n3.02m\n\napprox. 3.40 3.20m\nm•\n\n3.45 m\n\n4.30m'\n\n0.20-1.00 m 0.90 m\n\n1.00 m\n\n0.96 m\n\none non-\n\n• height w1thout pantograph extended to overhead\n\n0 Important capacity data for means of transport 0/DV-> refs)\n1\n\ni1;~T s9R~~\n\n\"'..J2 i\n\n::J::I , ~'\n\n~~ :: ~18~ t- i . ~\ne\ne\nRail profiles\n\nLive rail (underground)\n(Fiedler -; refs)\n\nShelters, weather protection\nShelters are required to protect passengers from the weather at\ntransport stops. These are mostly standardised systems made up\nof basic elements or supplementary modules, often in combination\nwith advertising materials (City Light Posters, for example) as part\nof the street furniture. Shelters should also attend to customers'\nsafety needs by being transparent.\n\nIn addition to the bus, there are various types of rail vehicle that\ncan make public transport quicker, more convenient and more\nattractive than individual travel:\n- Rapid urban transit railways: predominantly electric,\nindependent rail systems within an urban area (overground and\nunderground - subway in USA) or region, sometimes with atgrade crossings but with absolute priority\n- Urban railways: as underground railways partially independent\nfrom road traffic, or above ground on dedicated permanent tracks\nor with at-grade crossings with road traffic without absolute\npriority\n- Trams: on track beds integrated into roads or dedicated; when\ntrams make use of the public street space, they are subject to\nroad traffic regulations (StVO).\n\nMixed systems are also possible, e.g. urban railways and trams\non the same permanent track or trams using rail tracks (e.g. in\nKarlsruhe). The use of the permanent track by buses is feasible,\nresulting in better integration of different transportation elements\n(stops, bus/tram stations) and priority switching at traffic lights.\nOf great importance is the spatial and scheduling integration of\nvarious means of public transport with each other and also with\nroad and cycle traffic (P(ark) + R(ide), B(icycle) + R(ide) etc.) and\nappropriate design of changing points -) 0.\nOverhead line systems\nPower supply is normally provided by overhead wire and pantograph\non the roof, although underground railways and some urban railways\ncan also use live third rails at the side (approx. 20 em above the\nrunning rails) -) 0.\nRail profiles\nWide-base rails of various dimensions are normally employed\n(urban rapid transit or urban rail 49 E 1, trams 41 E 1, dimensions\n-) G). In street space, grooved rails (59 Ri 1, 60 Ri 1) are used,\nwhich can be joint-sealed to the paving at the sides. Open track\nbeds are sometimes greened.\n\nPUBLIC\nTRANSPORT\n\nConditions,\nmeans of\ntransport\nStops and\n\nstations\nTraffic spaces\nBus stations\nAEG\nPBefG\nBOStrab\n6PNVIaws\n\n~\n\n-Exit\n=Arrival\n\n________ _. ________\\ \\._\n\\~---\n\n'---~-\n\n0 Waiting shelter for public transport\n\nf) Linkage of urban rail and trams at terminus (Fiedler-; refs)\n\n403\n\n\f"
+        },
+        {
+          "label": "Shelter seating depth annotation",
+          "value": 80.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Waiting-shelter illustration labels seating and non-seating dimensions.",
+          "status": "uncertain",
+          "ocr_raw": "Underground/urban rail (m)\n\nTram/bus (m)\n\ncore zone\nzone with high-density use\nzone with low-density use\n\n400\n600\n1000\n\n300\n400\n600\n\nMedium-sized urban centre\ncentral zone\nzone with high-density use\nzone with low-density use\n\n400\n600\n1000\n\n300\n400\n600\n\ncentral area\nremaining area\n\n600\n1000\n\n400\n600\n\nCommunity\n\n1000\n\n600\n\nPUBLIC TRANSPORT\n\nLarge urban centre\n\nConditions, Means of Transport\n\nLegal basis: General Railway Law (AEG), Passenger Transport\nLaw (PBefG), Regulations for the Construction and Operation of\nTrams (BOStrab), state public transport laws.\n\nSubsidiary urban centre\n\nEach residential, commercial or industrial area should be accessible\nby public transport. Accessible means that the distance (as the\ncrow flies) to a transport stop complies with the values in 0.\n\nfor urban railways, the value\nfor tram or underground\napplies, depending on transport\nfunction\n\nAll areas with contiguous building development and more than\n200 inhabitants (or a corresponding number of commuters\nand/or students), should be accessible, as should comparable\nestablishments in terms of traffic generation (locations with\nspecial functions).\n\n0 Distances to public transport stops and stations 0fDV-; refs)\ncity bus\n\n15()--300\n\nbus, tram\n\n25()--600\n\nunderground\n\n400-1500\n\nurban railway\n\n600-2500\n\nf) Average distance to a public\ntransport stop in metres (approx.,\ndepends on local condttions)\n0/DV-; refs)\nTram\n\nUnderground, Underground Urban\n(e.g. Munich) rail\n(e.g. smallprofile, Berlin)\n\nvehicle single bus 8-15 m;\nlengths, articulated bus\ntrainsets 18.75 m; double\narticulated bus 25 m;\nbus+ trailer 25 m\n\nsingle car\n15--45 m;\ntrainsets\nup to 75 m\n(according\nto BOStrab)\n\n25.7 m up\nto 4 double\ntrain sets\n\nwidth\n\n2.55m\n\nheight\n\napprox. 2.90 up to\n4.10 m (doubledecker)\n\nBus\n\nplatform 0.12-0.24 m\nheight\n\n114m\nseparable\ntrain\n\nET 423:\n67.4m\nup to 3\ntrainsets\n\n2.20-2.65 m 2.30m\n\n2.90 m\n\n3.02m\n\napprox. 3.40 3.20m\nm•\n\n3.45 m\n\n4.30m'\n\n0.20-1.00 m 0.90 m\n\n1.00 m\n\n0.96 m\n\none non-\n\n• height w1thout pantograph extended to overhead\n\n0 Important capacity data for means of transport 0/DV-> refs)\n1\n\ni1;~T s9R~~\n\n\"'..J2 i\n\n::J::I , ~'\n\n~~ :: ~18~ t- i . ~\ne\ne\nRail profiles\n\nLive rail (underground)\n(Fiedler -; refs)\n\nShelters, weather protection\nShelters are required to protect passengers from the weather at\ntransport stops. These are mostly standardised systems made up\nof basic elements or supplementary modules, often in combination\nwith advertising materials (City Light Posters, for example) as part\nof the street furniture. Shelters should also attend to customers'\nsafety needs by being transparent.\n\nIn addition to the bus, there are various types of rail vehicle that\ncan make public transport quicker, more convenient and more\nattractive than individual travel:\n- Rapid urban transit railways: predominantly electric,\nindependent rail systems within an urban area (overground and\nunderground - subway in USA) or region, sometimes with atgrade crossings but with absolute priority\n- Urban railways: as underground railways partially independent\nfrom road traffic, or above ground on dedicated permanent tracks\nor with at-grade crossings with road traffic without absolute\npriority\n- Trams: on track beds integrated into roads or dedicated; when\ntrams make use of the public street space, they are subject to\nroad traffic regulations (StVO).\n\nMixed systems are also possible, e.g. urban railways and trams\non the same permanent track or trams using rail tracks (e.g. in\nKarlsruhe). The use of the permanent track by buses is feasible,\nresulting in better integration of different transportation elements\n(stops, bus/tram stations) and priority switching at traffic lights.\nOf great importance is the spatial and scheduling integration of\nvarious means of public transport with each other and also with\nroad and cycle traffic (P(ark) + R(ide), B(icycle) + R(ide) etc.) and\nappropriate design of changing points -) 0.\nOverhead line systems\nPower supply is normally provided by overhead wire and pantograph\non the roof, although underground railways and some urban railways\ncan also use live third rails at the side (approx. 20 em above the\nrunning rails) -) 0.\nRail profiles\nWide-base rails of various dimensions are normally employed\n(urban rapid transit or urban rail 49 E 1, trams 41 E 1, dimensions\n-) G). In street space, grooved rails (59 Ri 1, 60 Ri 1) are used,\nwhich can be joint-sealed to the paving at the sides. Open track\nbeds are sometimes greened.\n\nPUBLIC\nTRANSPORT\n\nConditions,\nmeans of\ntransport\nStops and\n\nstations\nTraffic spaces\nBus stations\nAEG\nPBefG\nBOStrab\n6PNVIaws\n\n~\n\n-Exit\n=Arrival\n\n________ _. ________\\ \\._\n\\~---\n\n'---~-\n\n0 Waiting shelter for public transport\n\nf) Linkage of urban rail and trams at terminus (Fiedler-; refs)\n\n403\n\n\f"
+        }
+      ],
+      "figure_refs": [
+        "1 Distances to public transport stops and stations",
+        "2 Average distance to a public transport stop",
+        "3 Important capacity data for means of transport",
+        "4 Rail profiles",
+        "5 Live rail (underground)",
+        "6 Waiting shelter for public transport",
+        "7 Linkage of urban rail and trams at terminus"
+      ],
+      "cross_refs": [],
+      "keywords": [
+        "public transport",
+        "access distance",
+        "bus",
+        "tram",
+        "underground railway",
+        "urban railway",
+        "transport stop",
+        "platform",
+        "vehicle dimensions",
+        "rail profile",
+        "live rail",
+        "overhead line",
+        "waiting shelter",
+        "interchange"
+      ],
+      "tags_architectural": [
+        "accessibility",
+        "circulation",
+        "safety",
+        "adaptability"
+      ],
+      "confidence": 0.92
+    }
+  ]
+}

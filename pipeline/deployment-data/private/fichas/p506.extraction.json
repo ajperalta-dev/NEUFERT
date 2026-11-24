@@ -1,0 +1,142 @@
+{
+  "fichas": [
+    {
+      "id": "4122fb96e4bd1976-506-vision-0",
+      "pdf_page": 506,
+      "book_page": 493,
+      "chapter": "BUILDING SERVICES",
+      "section": "Daylight",
+      "title": "Shadow: positional plan and shadow aids",
+      "summary": "Methods for constructing building shadows on plan and elevation, using panorama masks to assess surrounding and overhead shadowing, and using a horizontoscope, physical models, and computer simulations to study sunshine and daylight. The example describes a courtyard in Brighton on 21 March at 16:00; the layout is aligned with north. Panorama masks transfer surrounding shadows onto a solar path at 1:1. A horizontoscope uses a transparent sky dome, compass, base, and interchangeable curve sheets. Scale models under artificial sunlight provide an immediate impression of lighting, while computer simulations can calculate daylight quotients, illuminances, and luminance distributions but do not normally convey the room’s lighting mood.",
+      "building_type": "Building and site daylight/shadow assessment",
+      "spaces": [
+        "Building site",
+        "Courtyard",
+        "Room",
+        "Building recesses",
+        "Facades"
+      ],
+      "uses": [
+        "Construct building shadows in plan and elevation",
+        "Assess actual sunshine and shadowing for a location, date, and time",
+        "Transfer surrounding and overhead shadows onto a solar path",
+        "Assess sunlight and lighting effects at a point in a room",
+        "Study annual shadowing and sunshine using a scale model or computer simulation"
+      ],
+      "furniture_equipment": [
+        "Panorama mask on transparent film",
+        "Horizontoscope with transparent dome, compass, base, and interchangeable curve sheets",
+        "Scale model",
+        "Artificial sun",
+        "Concave mirror",
+        "Computer simulation"
+      ],
+      "dimensions": [
+        {
+          "label": "Sun azimuth angle",
+          "value": 245.0,
+          "value_max": null,
+          "unit": "degrees",
+          "context": "Brighton courtyard example; 21 March at 16:00; azimuth angle αₛ₁.",
+          "status": "uncertain",
+          "ocr_raw": "an azimuth angle (αs1) of 245°"
+        },
+        {
+          "label": "Sun elevation angle",
+          "value": 20.0,
+          "value_max": null,
+          "unit": "degrees",
+          "context": "Brighton courtyard example; 21 March at 16:00; elevation angle γₛ₁.",
+          "status": "uncertain",
+          "ocr_raw": "and an elevation (γs1) of 20°"
+        },
+        {
+          "label": "Example location latitude",
+          "value": 51.0,
+          "value_max": null,
+          "unit": "degrees north",
+          "context": "Brighton, UK, in the shadow-construction example.",
+          "status": "uncertain",
+          "ocr_raw": "latitude 51° north"
+        },
+        {
+          "label": "Example date",
+          "value": 21.0,
+          "value_max": null,
+          "unit": "March",
+          "context": "Date used for the Brighton shadow-construction example.",
+          "status": "uncertain",
+          "ocr_raw": "for 21 March at 16:00"
+        },
+        {
+          "label": "Example time",
+          "value": 16.0,
+          "value_max": null,
+          "unit": "hours",
+          "context": "Time used for the Brighton shadow-construction example; printed as 16:00.",
+          "status": "uncertain",
+          "ocr_raw": "for 21 March at 16:00"
+        },
+        {
+          "label": "Panorama-mask transfer scale",
+          "value": 1.0,
+          "value_max": null,
+          "unit": "ratio",
+          "context": "Shadows are transferred at 1:1 onto the copied path of the sun.",
+          "status": "uncertain",
+          "ocr_raw": "can be transferred at 1:1 onto the copied path of the sun"
+        },
+        {
+          "label": "Horizontoscope dome height",
+          "value": 3.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Transparent dome.",
+          "status": "uncertain",
+          "ocr_raw": "dome, height 3 cm (transparent)"
+        },
+        {
+          "label": "Horizontoscope base diameter",
+          "value": 14.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Base with compass; diagram indicates a minimum diameter.",
+          "status": "uncertain",
+          "ocr_raw": "≥ 14 cm diameter base with compass"
+        },
+        {
+          "label": "Concave mirror length",
+          "value": 60.0,
+          "value_max": 100.0,
+          "unit": "cm",
+          "context": "Range for the concave mirror used to model parallel sunlight; the model cannot be larger.",
+          "status": "uncertain",
+          "ocr_raw": "with a 60–100 cm concave mirror"
+        }
+      ],
+      "figure_refs": [
+        "1 Graphical shadow construction",
+        "2 Panorama mask (curved) in position",
+        "3 Possible shadow distributions on the film",
+        "4 Horizontoscope with projection of a window – east side"
+      ],
+      "cross_refs": [
+        "p. 489"
+      ],
+      "keywords": [
+        "daylight",
+        "shadow",
+        "sun position",
+        "solar path",
+        "panorama mask",
+        "horizontoscope",
+        "sunshine",
+        "daylight simulation"
+      ],
+      "tags_architectural": [
+        "daylighting"
+      ],
+      "confidence": 0.97
+    }
+  ]
+}

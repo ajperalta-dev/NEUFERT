@@ -1,0 +1,64 @@
+{
+  "model": "gpt-6-luna",
+  "checks": {
+    "checks": [
+      {
+        "ficha_index": 0,
+        "dimension_index": 0,
+        "status": "verified",
+        "value": 220.0,
+        "value_max": 240.0,
+        "reason": "The diagram visibly labels the electrical mains supply as 220\u2013240 V."
+      },
+      {
+        "ficha_index": 1,
+        "dimension_index": 0,
+        "status": "verified",
+        "value": 80.0,
+        "value_max": null,
+        "reason": "The RC 2 table row says doors of this class defeat 80% of all attempts to break in."
+      },
+      {
+        "ficha_index": 1,
+        "dimension_index": 1,
+        "status": "verified",
+        "value": 1.0,
+        "value_max": 6.0,
+        "reason": "The resistance-class table visibly lists RC 1 through RC 6, including RC 5\u20136 as a combined row."
+      }
+    ]
+  },
+  "automatic": [
+    {
+      "ficha_index": 0,
+      "dimension_index": 0,
+      "issues": [
+        "Unknown unit"
+      ]
+    },
+    {
+      "ficha_index": 1,
+      "dimension_index": 0,
+      "issues": [
+        "Unknown unit"
+      ]
+    },
+    {
+      "ficha_index": 1,
+      "dimension_index": 1,
+      "issues": [
+        "Unknown unit"
+      ]
+    }
+  ],
+  "usage": [
+    {
+      "prompt_tokens": 4740,
+      "completion_tokens": 1371
+    },
+    {
+      "prompt_tokens": 4191,
+      "completion_tokens": 222
+    }
+  ]
+}

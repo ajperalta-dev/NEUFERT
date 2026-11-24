@@ -1,0 +1,230 @@
+{
+  "fichas": [
+    {
+      "id": "4122fb96e4bd1976-414-vision-0",
+      "pdf_page": 414,
+      "book_page": 401,
+      "chapter": "TRANSPORT",
+      "section": "Parking Facilities",
+      "title": "Petrol Stations: Area, Services and Location",
+      "summary": "A simple petrol station requires approximately 800 m²; stations with additional services normally require approximately 1,000 m², while large service stations require 2,000 m² or more. The station should be easy to enter, clearly laid out, visible from a distance, and close to the road. The text describes vehicle services and recommends a location on the left side of the road when leaving town, away from traffic-light queues and road crossings.",
+      "building_type": "Petrol station",
+      "spaces": [
+        "Fueling area",
+        "Sales area",
+        "Food area",
+        "Car wash",
+        "WCs",
+        "Parking bays"
+      ],
+      "uses": [
+        "Refueling",
+        "Checking and topping up oil, radiator water, tyre pressures and windscreen washer water",
+        "Cleaning windscreens, headlights and hands",
+        "Buying goods",
+        "Using WCs",
+        "Car washing and vacuum cleaning"
+      ],
+      "furniture_equipment": [
+        "Fuel pumps",
+        "Parking bays",
+        "Car-wash equipment",
+        "Vacuum cleaner"
+      ],
+      "dimensions": [
+        {
+          "label": "Area for a simple petrol station",
+          "value": 800.0,
+          "value_max": null,
+          "unit": "m²",
+          "context": "Approximate site area stated as sufficient for a simple petrol station.",
+          "status": "verified",
+          "ocr_raw": "an area\nof approx. 800 m2 is sufficient"
+        },
+        {
+          "label": "Area for a station with additional services",
+          "value": 1000.0,
+          "value_max": null,
+          "unit": "m²",
+          "context": "Approximate site area normally required for additional services.",
+          "status": "verified",
+          "ocr_raw": "additional services normally approx.\n1000 m2"
+        },
+        {
+          "label": "Area for a large service station",
+          "value": 2000.0,
+          "value_max": null,
+          "unit": "m²",
+          "context": "Lower threshold; the text says large service stations require this area or more.",
+          "status": "verified",
+          "ocr_raw": "large service\nstations 2000 m2 and more"
+        }
+      ],
+      "figure_refs": [
+        "1"
+      ],
+      "cross_refs": [
+        "→ 2"
+      ],
+      "keywords": [
+        "petrol station",
+        "service station",
+        "site area",
+        "fueling",
+        "car wash",
+        "location"
+      ],
+      "tags_architectural": [
+        "circulation",
+        "safety"
+      ],
+      "confidence": 0.97
+    },
+    {
+      "id": "4122fb96e4bd1976-414-vision-1",
+      "pdf_page": 414,
+      "book_page": 401,
+      "chapter": "TRANSPORT",
+      "section": "Parking Facilities",
+      "title": "Petrol Station Access, Pump Layout and Vehicle Clearances",
+      "summary": "Diagrams show access and exit arrangements for petrol stations, including road-junction guidance, layouts without slowing and accelerating lanes, angled pump-island layouts, and an urban station serving petrol and possibly diesel vehicles. Notes specify access-side conditions for one-way traffic, pump-island spacing, vehicle turning clearances, canopy height, and separation of the fuel-tanker delivery point from access lanes.",
+      "building_type": "Petrol station",
+      "spaces": [
+        "Road access and exit",
+        "Fueling area",
+        "Pump islands",
+        "Parking bays",
+        "Cash desk",
+        "Fuel-tanker delivery point"
+      ],
+      "uses": [
+        "Entering and exiting the station",
+        "Refueling cars and trucks",
+        "Parking",
+        "Fuel-tanker delivery"
+      ],
+      "furniture_equipment": [
+        "Pump islands",
+        "Diesel pump for trucks",
+        "Canopy",
+        "Cash desk",
+        "Parking bays"
+      ],
+      "dimensions": [
+        {
+          "label": "Access/exit separation",
+          "value": 30.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Dimension shown for petrol-station access and exit on a clear road; diagram also labels the junction angles.",
+          "status": "uncertain",
+          "ocr_raw": "PARKING FACILITIES\nPetrol Stations\n\nArea required\nFor a simple petrol station, an area\nof approx. 800 m2 is sufficient, with\nadditional services normally approx.\n1000 m2 , and for large service\nstations 2000 m2 and more --7\n\ne.\n\n/:-\n\n/.\n\n/~\n··~\n\n·· .. ··..\n\n···...\n\n0\n\nPlan of petrol station with sales, food and car wash. Allguth Station, Unterfohring\n\nArchitects: Haack+ Hopfner, Munich\n\nServices and location\nCar drivers should be able to\nfill up with petrol; check the oil\nlevel, radiator water level and\ntyre pressures (and top them\nup if necessary) and fill up the\nwindscreen washer water; clean\nthe windscreen, headlight glasses\nand their hands; buy goods; use\nthe WCs; and carry out various car\ncare tasks (car washing, vacuum\ncleaner etc.). Petrol stations should\nbe easy to drive into, clearly laid\nout, easily recognisable from a\ndistance and as near to the road as\npossible.\nThe location should be on the left\nhand side of the road on the way\nout of town and not in the queuing\narea in front of traffic lights. Also\nunfavourable are road crossings,\nin which case a better solution is a\nlocation before the corner with an\nexit into the side street.\n\nguidelines for secondary road junctions\n\nJ-~2> 30.00---t?\n45°\n\n...__....\n\nao~\n\n1----'e\"'x'-\"it'-'la~n~\n\ntransition\n\nroa~~~:;.~~~\n\n--------edge\n\n8\n\nf) Petrol station access and exit on a clear road\n\nfor one~way traffic (only needed on access side)\n~ 20 m for 2 pump islands parallel to road. This must be\ncorrespondingly greater for additional islands an&; 16 m\nwhen pump islands are staggered further into the site\ndiesel fuel\nfor trucks\n\nsufficient number\nof parking bays\n\nWithout slowing and accelerating lanes\n\nIf the street is one-way, then only necessary\non the entrance side.\n* !?: 16.00 when pump islands are staggered on the plot\n~30.00 for diesel vehicles f;3.5 t.\n** ~ 8.50 if the street and/or petrol\nstation carries two-way traffic.\n\nPARKING\nFACILITIES\n\nVehicles - cars\n\nover 3.5t,\n0~6m\n\nVehicles -turning\nParking spaces\nMulti-storey car\nparks\nRamps\nMulti-storey car\npark regulations\nParking systems\nVehicles - trucks\nTrucks- parking\nand turning\n\ncanopy\ni?;4.20m high\n\nService areas\nPetrol stations\n\nCar wash\n\nfuel tanker delivery point, sited\nwell away from the access lanes\n\ne\n\nPetrol station with angled position of the pump islands in an urban area\n(primarily for traffic in one direction)\n\n9\n\nPetrol station for petrol and possibly diesel (HGV \"'3.5 t) in an urban area\n\n401\n\n\f"
+        },
+        {
+          "label": "Junction angle",
+          "value": 45.0,
+          "value_max": null,
+          "unit": "degrees",
+          "context": "Angle marked at the access in the road-junction diagrams.",
+          "status": "verified",
+          "ocr_raw": "45°"
+        },
+        {
+          "label": "Junction angle",
+          "value": 30.0,
+          "value_max": null,
+          "unit": "degrees",
+          "context": "Angle marked at the exit in the road-junction diagrams.",
+          "status": "verified",
+          "ocr_raw": "PARKING FACILITIES\nPetrol Stations\n\nArea required\nFor a simple petrol station, an area\nof approx. 800 m2 is sufficient, with\nadditional services normally approx.\n1000 m2 , and for large service\nstations 2000 m2 and more --7\n\ne.\n\n/:-\n\n/.\n\n/~\n··~\n\n·· .. ··..\n\n···...\n\n0\n\nPlan of petrol station with sales, food and car wash. Allguth Station, Unterfohring\n\nArchitects: Haack+ Hopfner, Munich\n\nServices and location\nCar drivers should be able to\nfill up with petrol; check the oil\nlevel, radiator water level and\ntyre pressures (and top them\nup if necessary) and fill up the\nwindscreen washer water; clean\nthe windscreen, headlight glasses\nand their hands; buy goods; use\nthe WCs; and carry out various car\ncare tasks (car washing, vacuum\ncleaner etc.). Petrol stations should\nbe easy to drive into, clearly laid\nout, easily recognisable from a\ndistance and as near to the road as\npossible.\nThe location should be on the left\nhand side of the road on the way\nout of town and not in the queuing\narea in front of traffic lights. Also\nunfavourable are road crossings,\nin which case a better solution is a\nlocation before the corner with an\nexit into the side street.\n\nguidelines for secondary road junctions\n\nJ-~2> 30.00---t?\n45°\n\n...__....\n\nao~\n\n1----'e\"'x'-\"it'-'la~n~\n\ntransition\n\nroa~~~:;.~~~\n\n--------edge\n\n8\n\nf) Petrol station access and exit on a clear road\n\nfor one~way traffic (only needed on access side)\n~ 20 m for 2 pump islands parallel to road. This must be\ncorrespondingly greater for additional islands an&; 16 m\nwhen pump islands are staggered further into the site\ndiesel fuel\nfor trucks\n\nsufficient number\nof parking bays\n\nWithout slowing and accelerating lanes\n\nIf the street is one-way, then only necessary\non the entrance side.\n* !?: 16.00 when pump islands are staggered on the plot\n~30.00 for diesel vehicles f;3.5 t.\n** ~ 8.50 if the street and/or petrol\nstation carries two-way traffic.\n\nPARKING\nFACILITIES\n\nVehicles - cars\n\nover 3.5t,\n0~6m\n\nVehicles -turning\nParking spaces\nMulti-storey car\nparks\nRamps\nMulti-storey car\npark regulations\nParking systems\nVehicles - trucks\nTrucks- parking\nand turning\n\ncanopy\ni?;4.20m high\n\nService areas\nPetrol stations\n\nCar wash\n\nfuel tanker delivery point, sited\nwell away from the access lanes\n\ne\n\nPetrol station with angled position of the pump islands in an urban area\n(primarily for traffic in one direction)\n\n9\n\nPetrol station for petrol and possibly diesel (HGV \"'3.5 t) in an urban area\n\n401\n\n\f"
+        },
+        {
+          "label": "Spacing for two pump islands parallel to the road",
+          "value": 20.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Minimum dimension noted for two pump islands parallel to the road; greater spacing is needed for additional islands.",
+          "status": "verified",
+          "ocr_raw": "PARKING FACILITIES\nPetrol Stations\n\nArea required\nFor a simple petrol station, an area\nof approx. 800 m2 is sufficient, with\nadditional services normally approx.\n1000 m2 , and for large service\nstations 2000 m2 and more --7\n\ne.\n\n/:-\n\n/.\n\n/~\n··~\n\n·· .. ··..\n\n···...\n\n0\n\nPlan of petrol station with sales, food and car wash. Allguth Station, Unterfohring\n\nArchitects: Haack+ Hopfner, Munich\n\nServices and location\nCar drivers should be able to\nfill up with petrol; check the oil\nlevel, radiator water level and\ntyre pressures (and top them\nup if necessary) and fill up the\nwindscreen washer water; clean\nthe windscreen, headlight glasses\nand their hands; buy goods; use\nthe WCs; and carry out various car\ncare tasks (car washing, vacuum\ncleaner etc.). Petrol stations should\nbe easy to drive into, clearly laid\nout, easily recognisable from a\ndistance and as near to the road as\npossible.\nThe location should be on the left\nhand side of the road on the way\nout of town and not in the queuing\narea in front of traffic lights. Also\nunfavourable are road crossings,\nin which case a better solution is a\nlocation before the corner with an\nexit into the side street.\n\nguidelines for secondary road junctions\n\nJ-~2> 30.00---t?\n45°\n\n...__....\n\nao~\n\n1----'e\"'x'-\"it'-'la~n~\n\ntransition\n\nroa~~~:;.~~~\n\n--------edge\n\n8\n\nf) Petrol station access and exit on a clear road\n\nfor one~way traffic (only needed on access side)\n~ 20 m for 2 pump islands parallel to road. This must be\ncorrespondingly greater for additional islands an&; 16 m\nwhen pump islands are staggered further into the site\ndiesel fuel\nfor trucks\n\nsufficient number\nof parking bays\n\nWithout slowing and accelerating lanes\n\nIf the street is one-way, then only necessary\non the entrance side.\n* !?: 16.00 when pump islands are staggered on the plot\n~30.00 for diesel vehicles f;3.5 t.\n** ~ 8.50 if the street and/or petrol\nstation carries two-way traffic.\n\nPARKING\nFACILITIES\n\nVehicles - cars\n\nover 3.5t,\n0~6m\n\nVehicles -turning\nParking spaces\nMulti-storey car\nparks\nRamps\nMulti-storey car\npark regulations\nParking systems\nVehicles - trucks\nTrucks- parking\nand turning\n\ncanopy\ni?;4.20m high\n\nService areas\nPetrol stations\n\nCar wash\n\nfuel tanker delivery point, sited\nwell away from the access lanes\n\ne\n\nPetrol station with angled position of the pump islands in an urban area\n(primarily for traffic in one direction)\n\n9\n\nPetrol station for petrol and possibly diesel (HGV \"'3.5 t) in an urban area\n\n401\n\n\f"
+        },
+        {
+          "label": "Spacing for staggered pump islands",
+          "value": 16.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Dimension noted when pump islands are staggered further into the site.",
+          "status": "verified",
+          "ocr_raw": "PARKING FACILITIES\nPetrol Stations\n\nArea required\nFor a simple petrol station, an area\nof approx. 800 m2 is sufficient, with\nadditional services normally approx.\n1000 m2 , and for large service\nstations 2000 m2 and more --7\n\ne.\n\n/:-\n\n/.\n\n/~\n··~\n\n·· .. ··..\n\n···...\n\n0\n\nPlan of petrol station with sales, food and car wash. Allguth Station, Unterfohring\n\nArchitects: Haack+ Hopfner, Munich\n\nServices and location\nCar drivers should be able to\nfill up with petrol; check the oil\nlevel, radiator water level and\ntyre pressures (and top them\nup if necessary) and fill up the\nwindscreen washer water; clean\nthe windscreen, headlight glasses\nand their hands; buy goods; use\nthe WCs; and carry out various car\ncare tasks (car washing, vacuum\ncleaner etc.). Petrol stations should\nbe easy to drive into, clearly laid\nout, easily recognisable from a\ndistance and as near to the road as\npossible.\nThe location should be on the left\nhand side of the road on the way\nout of town and not in the queuing\narea in front of traffic lights. Also\nunfavourable are road crossings,\nin which case a better solution is a\nlocation before the corner with an\nexit into the side street.\n\nguidelines for secondary road junctions\n\nJ-~2> 30.00---t?\n45°\n\n...__....\n\nao~\n\n1----'e\"'x'-\"it'-'la~n~\n\ntransition\n\nroa~~~:;.~~~\n\n--------edge\n\n8\n\nf) Petrol station access and exit on a clear road\n\nfor one~way traffic (only needed on access side)\n~ 20 m for 2 pump islands parallel to road. This must be\ncorrespondingly greater for additional islands an&; 16 m\nwhen pump islands are staggered further into the site\ndiesel fuel\nfor trucks\n\nsufficient number\nof parking bays\n\nWithout slowing and accelerating lanes\n\nIf the street is one-way, then only necessary\non the entrance side.\n* !?: 16.00 when pump islands are staggered on the plot\n~30.00 for diesel vehicles f;3.5 t.\n** ~ 8.50 if the street and/or petrol\nstation carries two-way traffic.\n\nPARKING\nFACILITIES\n\nVehicles - cars\n\nover 3.5t,\n0~6m\n\nVehicles -turning\nParking spaces\nMulti-storey car\nparks\nRamps\nMulti-storey car\npark regulations\nParking systems\nVehicles - trucks\nTrucks- parking\nand turning\n\ncanopy\ni?;4.20m high\n\nService areas\nPetrol stations\n\nCar wash\n\nfuel tanker delivery point, sited\nwell away from the access lanes\n\ne\n\nPetrol station with angled position of the pump islands in an urban area\n(primarily for traffic in one direction)\n\n9\n\nPetrol station for petrol and possibly diesel (HGV \"'3.5 t) in an urban area\n\n401\n\n\f"
+        },
+        {
+          "label": "Dimension for diesel vehicles",
+          "value": 30.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Dimension stated for diesel vehicles of at least 3.5 t in the access/layout notes.",
+          "status": "uncertain",
+          "ocr_raw": "PARKING FACILITIES\nPetrol Stations\n\nArea required\nFor a simple petrol station, an area\nof approx. 800 m2 is sufficient, with\nadditional services normally approx.\n1000 m2 , and for large service\nstations 2000 m2 and more --7\n\ne.\n\n/:-\n\n/.\n\n/~\n··~\n\n·· .. ··..\n\n···...\n\n0\n\nPlan of petrol station with sales, food and car wash. Allguth Station, Unterfohring\n\nArchitects: Haack+ Hopfner, Munich\n\nServices and location\nCar drivers should be able to\nfill up with petrol; check the oil\nlevel, radiator water level and\ntyre pressures (and top them\nup if necessary) and fill up the\nwindscreen washer water; clean\nthe windscreen, headlight glasses\nand their hands; buy goods; use\nthe WCs; and carry out various car\ncare tasks (car washing, vacuum\ncleaner etc.). Petrol stations should\nbe easy to drive into, clearly laid\nout, easily recognisable from a\ndistance and as near to the road as\npossible.\nThe location should be on the left\nhand side of the road on the way\nout of town and not in the queuing\narea in front of traffic lights. Also\nunfavourable are road crossings,\nin which case a better solution is a\nlocation before the corner with an\nexit into the side street.\n\nguidelines for secondary road junctions\n\nJ-~2> 30.00---t?\n45°\n\n...__....\n\nao~\n\n1----'e\"'x'-\"it'-'la~n~\n\ntransition\n\nroa~~~:;.~~~\n\n--------edge\n\n8\n\nf) Petrol station access and exit on a clear road\n\nfor one~way traffic (only needed on access side)\n~ 20 m for 2 pump islands parallel to road. This must be\ncorrespondingly greater for additional islands an&; 16 m\nwhen pump islands are staggered further into the site\ndiesel fuel\nfor trucks\n\nsufficient number\nof parking bays\n\nWithout slowing and accelerating lanes\n\nIf the street is one-way, then only necessary\non the entrance side.\n* !?: 16.00 when pump islands are staggered on the plot\n~30.00 for diesel vehicles f;3.5 t.\n** ~ 8.50 if the street and/or petrol\nstation carries two-way traffic.\n\nPARKING\nFACILITIES\n\nVehicles - cars\n\nover 3.5t,\n0~6m\n\nVehicles -turning\nParking spaces\nMulti-storey car\nparks\nRamps\nMulti-storey car\npark regulations\nParking systems\nVehicles - trucks\nTrucks- parking\nand turning\n\ncanopy\ni?;4.20m high\n\nService areas\nPetrol stations\n\nCar wash\n\nfuel tanker delivery point, sited\nwell away from the access lanes\n\ne\n\nPetrol station with angled position of the pump islands in an urban area\n(primarily for traffic in one direction)\n\n9\n\nPetrol station for petrol and possibly diesel (HGV \"'3.5 t) in an urban area\n\n401\n\n\f"
+        },
+        {
+          "label": "Dimension for two-way traffic",
+          "value": 8.5,
+          "value_max": null,
+          "unit": "m",
+          "context": "Conditional dimension if the street and/or petrol station carries two-way traffic.",
+          "status": "uncertain",
+          "ocr_raw": "PARKING FACILITIES\nPetrol Stations\n\nArea required\nFor a simple petrol station, an area\nof approx. 800 m2 is sufficient, with\nadditional services normally approx.\n1000 m2 , and for large service\nstations 2000 m2 and more --7\n\ne.\n\n/:-\n\n/.\n\n/~\n··~\n\n·· .. ··..\n\n···...\n\n0\n\nPlan of petrol station with sales, food and car wash. Allguth Station, Unterfohring\n\nArchitects: Haack+ Hopfner, Munich\n\nServices and location\nCar drivers should be able to\nfill up with petrol; check the oil\nlevel, radiator water level and\ntyre pressures (and top them\nup if necessary) and fill up the\nwindscreen washer water; clean\nthe windscreen, headlight glasses\nand their hands; buy goods; use\nthe WCs; and carry out various car\ncare tasks (car washing, vacuum\ncleaner etc.). Petrol stations should\nbe easy to drive into, clearly laid\nout, easily recognisable from a\ndistance and as near to the road as\npossible.\nThe location should be on the left\nhand side of the road on the way\nout of town and not in the queuing\narea in front of traffic lights. Also\nunfavourable are road crossings,\nin which case a better solution is a\nlocation before the corner with an\nexit into the side street.\n\nguidelines for secondary road junctions\n\nJ-~2> 30.00---t?\n45°\n\n...__....\n\nao~\n\n1----'e\"'x'-\"it'-'la~n~\n\ntransition\n\nroa~~~:;.~~~\n\n--------edge\n\n8\n\nf) Petrol station access and exit on a clear road\n\nfor one~way traffic (only needed on access side)\n~ 20 m for 2 pump islands parallel to road. This must be\ncorrespondingly greater for additional islands an&; 16 m\nwhen pump islands are staggered further into the site\ndiesel fuel\nfor trucks\n\nsufficient number\nof parking bays\n\nWithout slowing and accelerating lanes\n\nIf the street is one-way, then only necessary\non the entrance side.\n* !?: 16.00 when pump islands are staggered on the plot\n~30.00 for diesel vehicles f;3.5 t.\n** ~ 8.50 if the street and/or petrol\nstation carries two-way traffic.\n\nPARKING\nFACILITIES\n\nVehicles - cars\n\nover 3.5t,\n0~6m\n\nVehicles -turning\nParking spaces\nMulti-storey car\nparks\nRamps\nMulti-storey car\npark regulations\nParking systems\nVehicles - trucks\nTrucks- parking\nand turning\n\ncanopy\ni?;4.20m high\n\nService areas\nPetrol stations\n\nCar wash\n\nfuel tanker delivery point, sited\nwell away from the access lanes\n\ne\n\nPetrol station with angled position of the pump islands in an urban area\n(primarily for traffic in one direction)\n\n9\n\nPetrol station for petrol and possibly diesel (HGV \"'3.5 t) in an urban area\n\n401\n\n\f"
+        },
+        {
+          "label": "Canopy height",
+          "value": 4.2,
+          "value_max": null,
+          "unit": "m",
+          "context": "Minimum canopy height indicated for vehicles over 3.5 t.",
+          "status": "verified",
+          "ocr_raw": "PARKING FACILITIES\nPetrol Stations\n\nArea required\nFor a simple petrol station, an area\nof approx. 800 m2 is sufficient, with\nadditional services normally approx.\n1000 m2 , and for large service\nstations 2000 m2 and more --7\n\ne.\n\n/:-\n\n/.\n\n/~\n··~\n\n·· .. ··..\n\n···...\n\n0\n\nPlan of petrol station with sales, food and car wash. Allguth Station, Unterfohring\n\nArchitects: Haack+ Hopfner, Munich\n\nServices and location\nCar drivers should be able to\nfill up with petrol; check the oil\nlevel, radiator water level and\ntyre pressures (and top them\nup if necessary) and fill up the\nwindscreen washer water; clean\nthe windscreen, headlight glasses\nand their hands; buy goods; use\nthe WCs; and carry out various car\ncare tasks (car washing, vacuum\ncleaner etc.). Petrol stations should\nbe easy to drive into, clearly laid\nout, easily recognisable from a\ndistance and as near to the road as\npossible.\nThe location should be on the left\nhand side of the road on the way\nout of town and not in the queuing\narea in front of traffic lights. Also\nunfavourable are road crossings,\nin which case a better solution is a\nlocation before the corner with an\nexit into the side street.\n\nguidelines for secondary road junctions\n\nJ-~2> 30.00---t?\n45°\n\n...__....\n\nao~\n\n1----'e\"'x'-\"it'-'la~n~\n\ntransition\n\nroa~~~:;.~~~\n\n--------edge\n\n8\n\nf) Petrol station access and exit on a clear road\n\nfor one~way traffic (only needed on access side)\n~ 20 m for 2 pump islands parallel to road. This must be\ncorrespondingly greater for additional islands an&; 16 m\nwhen pump islands are staggered further into the site\ndiesel fuel\nfor trucks\n\nsufficient number\nof parking bays\n\nWithout slowing and accelerating lanes\n\nIf the street is one-way, then only necessary\non the entrance side.\n* !?: 16.00 when pump islands are staggered on the plot\n~30.00 for diesel vehicles f;3.5 t.\n** ~ 8.50 if the street and/or petrol\nstation carries two-way traffic.\n\nPARKING\nFACILITIES\n\nVehicles - cars\n\nover 3.5t,\n0~6m\n\nVehicles -turning\nParking spaces\nMulti-storey car\nparks\nRamps\nMulti-storey car\npark regulations\nParking systems\nVehicles - trucks\nTrucks- parking\nand turning\n\ncanopy\ni?;4.20m high\n\nService areas\nPetrol stations\n\nCar wash\n\nfuel tanker delivery point, sited\nwell away from the access lanes\n\ne\n\nPetrol station with angled position of the pump islands in an urban area\n(primarily for traffic in one direction)\n\n9\n\nPetrol station for petrol and possibly diesel (HGV \"'3.5 t) in an urban area\n\n401\n\n\f"
+        },
+        {
+          "label": "Turning diameter for vehicles under 3.5 t",
+          "value": 12.5,
+          "value_max": null,
+          "unit": "m",
+          "context": "Minimum diameter indicated in the urban petrol-station layout diagram.",
+          "status": "verified",
+          "ocr_raw": "PARKING FACILITIES\nPetrol Stations\n\nArea required\nFor a simple petrol station, an area\nof approx. 800 m2 is sufficient, with\nadditional services normally approx.\n1000 m2 , and for large service\nstations 2000 m2 and more --7\n\ne.\n\n/:-\n\n/.\n\n/~\n··~\n\n·· .. ··..\n\n···...\n\n0\n\nPlan of petrol station with sales, food and car wash. Allguth Station, Unterfohring\n\nArchitects: Haack+ Hopfner, Munich\n\nServices and location\nCar drivers should be able to\nfill up with petrol; check the oil\nlevel, radiator water level and\ntyre pressures (and top them\nup if necessary) and fill up the\nwindscreen washer water; clean\nthe windscreen, headlight glasses\nand their hands; buy goods; use\nthe WCs; and carry out various car\ncare tasks (car washing, vacuum\ncleaner etc.). Petrol stations should\nbe easy to drive into, clearly laid\nout, easily recognisable from a\ndistance and as near to the road as\npossible.\nThe location should be on the left\nhand side of the road on the way\nout of town and not in the queuing\narea in front of traffic lights. Also\nunfavourable are road crossings,\nin which case a better solution is a\nlocation before the corner with an\nexit into the side street.\n\nguidelines for secondary road junctions\n\nJ-~2> 30.00---t?\n45°\n\n...__....\n\nao~\n\n1----'e\"'x'-\"it'-'la~n~\n\ntransition\n\nroa~~~:;.~~~\n\n--------edge\n\n8\n\nf) Petrol station access and exit on a clear road\n\nfor one~way traffic (only needed on access side)\n~ 20 m for 2 pump islands parallel to road. This must be\ncorrespondingly greater for additional islands an&; 16 m\nwhen pump islands are staggered further into the site\ndiesel fuel\nfor trucks\n\nsufficient number\nof parking bays\n\nWithout slowing and accelerating lanes\n\nIf the street is one-way, then only necessary\non the entrance side.\n* !?: 16.00 when pump islands are staggered on the plot\n~30.00 for diesel vehicles f;3.5 t.\n** ~ 8.50 if the street and/or petrol\nstation carries two-way traffic.\n\nPARKING\nFACILITIES\n\nVehicles - cars\n\nover 3.5t,\n0~6m\n\nVehicles -turning\nParking spaces\nMulti-storey car\nparks\nRamps\nMulti-storey car\npark regulations\nParking systems\nVehicles - trucks\nTrucks- parking\nand turning\n\ncanopy\ni?;4.20m high\n\nService areas\nPetrol stations\n\nCar wash\n\nfuel tanker delivery point, sited\nwell away from the access lanes\n\ne\n\nPetrol station with angled position of the pump islands in an urban area\n(primarily for traffic in one direction)\n\n9\n\nPetrol station for petrol and possibly diesel (HGV \"'3.5 t) in an urban area\n\n401\n\n\f"
+        },
+        {
+          "label": "Turning diameter for vehicles over 3.5 t",
+          "value": 26.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Minimum diameter indicated for vehicles over 3.5 t.",
+          "status": "verified",
+          "ocr_raw": "PARKING FACILITIES\nPetrol Stations\n\nArea required\nFor a simple petrol station, an area\nof approx. 800 m2 is sufficient, with\nadditional services normally approx.\n1000 m2 , and for large service\nstations 2000 m2 and more --7\n\ne.\n\n/:-\n\n/.\n\n/~\n··~\n\n·· .. ··..\n\n···...\n\n0\n\nPlan of petrol station with sales, food and car wash. Allguth Station, Unterfohring\n\nArchitects: Haack+ Hopfner, Munich\n\nServices and location\nCar drivers should be able to\nfill up with petrol; check the oil\nlevel, radiator water level and\ntyre pressures (and top them\nup if necessary) and fill up the\nwindscreen washer water; clean\nthe windscreen, headlight glasses\nand their hands; buy goods; use\nthe WCs; and carry out various car\ncare tasks (car washing, vacuum\ncleaner etc.). Petrol stations should\nbe easy to drive into, clearly laid\nout, easily recognisable from a\ndistance and as near to the road as\npossible.\nThe location should be on the left\nhand side of the road on the way\nout of town and not in the queuing\narea in front of traffic lights. Also\nunfavourable are road crossings,\nin which case a better solution is a\nlocation before the corner with an\nexit into the side street.\n\nguidelines for secondary road junctions\n\nJ-~2> 30.00---t?\n45°\n\n...__....\n\nao~\n\n1----'e\"'x'-\"it'-'la~n~\n\ntransition\n\nroa~~~:;.~~~\n\n--------edge\n\n8\n\nf) Petrol station access and exit on a clear road\n\nfor one~way traffic (only needed on access side)\n~ 20 m for 2 pump islands parallel to road. This must be\ncorrespondingly greater for additional islands an&; 16 m\nwhen pump islands are staggered further into the site\ndiesel fuel\nfor trucks\n\nsufficient number\nof parking bays\n\nWithout slowing and accelerating lanes\n\nIf the street is one-way, then only necessary\non the entrance side.\n* !?: 16.00 when pump islands are staggered on the plot\n~30.00 for diesel vehicles f;3.5 t.\n** ~ 8.50 if the street and/or petrol\nstation carries two-way traffic.\n\nPARKING\nFACILITIES\n\nVehicles - cars\n\nover 3.5t,\n0~6m\n\nVehicles -turning\nParking spaces\nMulti-storey car\nparks\nRamps\nMulti-storey car\npark regulations\nParking systems\nVehicles - trucks\nTrucks- parking\nand turning\n\ncanopy\ni?;4.20m high\n\nService areas\nPetrol stations\n\nCar wash\n\nfuel tanker delivery point, sited\nwell away from the access lanes\n\ne\n\nPetrol station with angled position of the pump islands in an urban area\n(primarily for traffic in one direction)\n\n9\n\nPetrol station for petrol and possibly diesel (HGV \"'3.5 t) in an urban area\n\n401\n\n\f"
+        }
+      ],
+      "figure_refs": [
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "cross_refs": [],
+      "keywords": [
+        "petrol station",
+        "access",
+        "exit",
+        "pump islands",
+        "turning clearance",
+        "diesel",
+        "canopy",
+        "road junction"
+      ],
+      "tags_architectural": [
+        "circulation",
+        "clearance",
+        "safety"
+      ],
+      "confidence": 0.82
+    }
+  ]
+}

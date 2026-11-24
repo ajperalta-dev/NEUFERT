@@ -1,0 +1,318 @@
+{
+  "fichas": [
+    {
+      "id": "4122fb96e4bd1976-110-vision-0",
+      "pdf_page": 110,
+      "book_page": 97,
+      "chapter": "BUILDING COMPONENTS",
+      "section": "Windows",
+      "title": "Sun protection for windows",
+      "summary": "Illustrations compare internal and external blinds, impact-pane protection, awnings, and partly angled Markisolette blinds. Internal blinds allow heat to build up behind the window and provide glare protection only. Awnings stop sunshine and warmth; spacing them from the wall prevents heat build-up.",
+      "building_type": "Building component",
+      "spaces": [
+        "Window opening",
+        "Room interior",
+        "Exterior façade"
+      ],
+      "uses": [
+        "Control glare and solar heat",
+        "Provide external sun protection"
+      ],
+      "furniture_equipment": [
+        "Internal venetian blind",
+        "External louvred blind",
+        "Impact pane",
+        "Awning",
+        "Markisolette blind"
+      ],
+      "dimensions": [],
+      "figure_refs": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "cross_refs": [],
+      "keywords": [
+        "sun protection",
+        "venetian blind",
+        "louvred blind",
+        "impact pane",
+        "awning",
+        "Markisolette"
+      ],
+      "tags_architectural": [
+        "daylighting",
+        "adaptability"
+      ],
+      "confidence": 0.98
+    },
+    {
+      "id": "4122fb96e4bd1976-110-vision-1",
+      "pdf_page": 110,
+      "book_page": 97,
+      "chapter": "BUILDING COMPONENTS",
+      "section": "Windows",
+      "title": "Window requirements and design",
+      "summary": "Windows provide natural light, air supply and extraction, and views, while contributing to façade appearance and interior light direction. Their location, proportions, opening type, shading, ventilation performance, safety, and maintenance require consideration. Escape-route windows require a clear opening of at least 0.9 × 1.2 m and a sill no higher than 1.2 m above floor level. In the Netherlands, window sizes are regulated in relation to the angle of incidence of light.",
+      "building_type": "Building component",
+      "spaces": [
+        "Room",
+        "Window opening",
+        "Façade"
+      ],
+      "uses": [
+        "Admit natural light",
+        "Provide ventilation and views",
+        "Serve as an escape route where required",
+        "Control solar gain and light direction"
+      ],
+      "furniture_equipment": [
+        "Window",
+        "Casements",
+        "Glazing bars",
+        "Sun-shading equipment",
+        "Light-directing glass"
+      ],
+      "dimensions": [
+        {
+          "label": "Minimum clear escape-route opening width",
+          "value": 0.9,
+          "value_max": null,
+          "unit": "m",
+          "context": "Width component of the stated minimum clear opening dimensions for a window serving as an escape route.",
+          "status": "uncertain",
+          "ocr_raw": "it must have a clear opening of at least 0.9 x 1.2 m"
+        },
+        {
+          "label": "Minimum clear escape-route opening height",
+          "value": 1.2,
+          "value_max": null,
+          "unit": "m",
+          "context": "Height component of the stated minimum clear opening dimensions for a window serving as an escape route.",
+          "status": "uncertain",
+          "ocr_raw": "it must have a clear opening of at least 0.9 x 1.2 m"
+        },
+        {
+          "label": "Maximum escape-route window sill height above floor level",
+          "value": 1.2,
+          "value_max": null,
+          "unit": "m",
+          "context": "Maximum sill height above floor level for a window serving as an escape route.",
+          "status": "uncertain",
+          "ocr_raw": "a sill height of max. 1.2 m above floor level"
+        },
+        {
+          "label": "Window opening angle shown",
+          "value": 150.0,
+          "value_max": null,
+          "unit": "degrees",
+          "context": "Angle indicated beside the opening window in the sun-protection illustration.",
+          "status": "uncertain",
+          "ocr_raw": "150°"
+        }
+      ],
+      "figure_refs": [],
+      "cross_refs": [
+        "Daylight → pp. 488 ff.",
+        "Resistance classes → pp. 107, 118",
+        "Directing sunlight p. 499",
+        "Sun shading p. 500"
+      ],
+      "keywords": [
+        "window design",
+        "natural lighting",
+        "ventilation",
+        "escape route",
+        "façade",
+        "window opening"
+      ],
+      "tags_architectural": [
+        "circulation",
+        "safety",
+        "daylighting",
+        "ventilation",
+        "spatial_proportion"
+      ],
+      "confidence": 0.96
+    },
+    {
+      "id": "4122fb96e4bd1976-110-vision-2",
+      "pdf_page": 110,
+      "book_page": 97,
+      "chapter": "BUILDING COMPONENTS",
+      "section": "Windows",
+      "title": "Window sizes for residential and workrooms",
+      "summary": "Window sizing guidance covers minimum structural apertures in occupied rooms, glazing-bar effects on remaining glass area, and workplace criteria. Residential apertures are specified as alternatives of 1/8 or 1/10 of room plan area. Workroom guidance gives minimum visual-connection width relative to wall width, sill-height guidance, and minimum glazing area for rooms higher than 3.5 m. For rooms comparable in size to residential rooms, the stated minimum glass-area height is 1.3 m.",
+      "building_type": "Residential and workroom buildings",
+      "spaces": [
+        "Occupied room",
+        "Workroom",
+        "Exterior wall"
+      ],
+      "uses": [
+        "Provide daylight and visual connection to the outside",
+        "Guide window and glazing dimensions",
+        "Account for glazing bars when replacing windows"
+      ],
+      "furniture_equipment": [
+        "Window",
+        "Glazing bars",
+        "Window frames",
+        "Casements"
+      ],
+      "dimensions": [
+        {
+          "label": "Minimum structural window aperture relative to room plan area (alternative fraction 1/8)",
+          "value": 0.125,
+          "value_max": null,
+          "unit": "ratio",
+          "context": "One of two alternative stated minimum fractions of the plan area of an occupied room; source expression is 1/8.",
+          "status": "uncertain",
+          "ocr_raw": "1/8 or 1/10 of the plan area of the room"
+        },
+        {
+          "label": "Minimum structural window aperture relative to room plan area (alternative fraction 1/10)",
+          "value": 0.1,
+          "value_max": null,
+          "unit": "ratio",
+          "context": "One of two alternative stated minimum fractions of the plan area of an occupied room; source expression is 1/10.",
+          "status": "uncertain",
+          "ocr_raw": "1/8 or 1/10 of the plan area of the room"
+        },
+        {
+          "label": "Glass area relative to floor area",
+          "value": 0.1,
+          "value_max": null,
+          "unit": "ratio",
+          "context": "Window-size guidance in the industrial-building illustration.",
+          "status": "uncertain",
+          "ocr_raw": "Glass area = 1/10 of the floor area"
+        },
+        {
+          "label": "Window width relative to sum of wall widths M + N + O + P",
+          "value": 0.1,
+          "value_max": null,
+          "unit": "ratio",
+          "context": "Industrial-building illustration; width is stated in relation to the indicated wall widths.",
+          "status": "uncertain",
+          "ocr_raw": "Window width = 1/10 (M + N + O + P)"
+        },
+        {
+          "label": "Minimum total width of visual connections relative to total wall width",
+          "value": 0.1,
+          "value_max": null,
+          "unit": "ratio",
+          "context": "Workplace-guideline rule for total visual connections to the outside.",
+          "status": "uncertain",
+          "ocr_raw": "The total width of all visual connections to the outside must be at least 1/10 of the total width of all walls"
+        },
+        {
+          "label": "Window sill height for possible visual connection",
+          "value": 0.85,
+          "value_max": 1.25,
+          "unit": "m",
+          "context": "Stated eye-level window sill-height interval.",
+          "status": "uncertain",
+          "ocr_raw": "window sill heights of 0.85 -1.25 m"
+        },
+        {
+          "label": "Threshold room height for the high-room glazing rule",
+          "value": 3.5,
+          "value_max": null,
+          "unit": "m",
+          "context": "The stated glazing rule applies to workrooms more than this height.",
+          "status": "uncertain",
+          "ocr_raw": "For workrooms more than 3.5 m high"
+        },
+        {
+          "label": "Minimum window glass area relative to outside wall area for workrooms above 3.5 m",
+          "value": 30.0,
+          "value_max": null,
+          "unit": "percent",
+          "context": "Minimum glass area as a proportion of the outside wall area for workrooms more than 3.5 m high.",
+          "status": "uncertain",
+          "ocr_raw": "the glass area of the window must be at least 30% of the outside wall area"
+        },
+        {
+          "label": "Minimum height of glass area in rooms comparable to residential rooms",
+          "value": 1.3,
+          "value_max": null,
+          "unit": "m",
+          "context": "Minimum glass-area height for workrooms with dimensions corresponding to residential rooms.",
+          "status": "uncertain",
+          "ocr_raw": "the minimum height of the glass area is 1.3 m"
+        },
+        {
+          "label": "Remaining glass area for 1.5 m² wall opening, illustrated configuration 1",
+          "value": 1.0,
+          "value_max": null,
+          "unit": "m²",
+          "context": "Example of remaining glass area; the illustration also states 66%.",
+          "status": "uncertain",
+          "ocr_raw": "For a 1.5 m wall opening, 1 m² glass area remains = 66%"
+        },
+        {
+          "label": "Remaining glass area for 1.5 m² wall opening, illustrated configuration 2",
+          "value": 0.92,
+          "value_max": null,
+          "unit": "m²",
+          "context": "Example of remaining glass area; the illustration also states 61%.",
+          "status": "uncertain",
+          "ocr_raw": "For a 1.5 m wall opening, 0.92 m² glass area remains = 61%"
+        },
+        {
+          "label": "Remaining glass opening for 1.5 m² wall opening, illustrated configuration 3",
+          "value": 0.89,
+          "value_max": null,
+          "unit": "m²",
+          "context": "Example of remaining glass opening; the illustration also states 59%.",
+          "status": "uncertain",
+          "ocr_raw": "For a 1.5 m wall opening, 0.89 m² glass opening remains = 59%"
+        },
+        {
+          "label": "Remaining glass area for 1.5 m² wall opening, illustrated configuration 4",
+          "value": 0.87,
+          "value_max": null,
+          "unit": "m²",
+          "context": "Example of remaining glass area; the illustration also states 58%.",
+          "status": "uncertain",
+          "ocr_raw": "For a 1.5 m wall opening, 0.87 m² glass area remains = 58%"
+        },
+        {
+          "label": "Remaining glass area for 1.5 m² wall opening, illustrated configuration 5",
+          "value": 0.84,
+          "value_max": null,
+          "unit": "m²",
+          "context": "Example of remaining glass area; the illustration also states 56%.",
+          "status": "uncertain",
+          "ocr_raw": "For a 1.5 m wall opening, 0.84 m² glass area remains = 56%"
+        }
+      ],
+      "figure_refs": [
+        "6",
+        "7",
+        "8"
+      ],
+      "cross_refs": [
+        "p. 96"
+      ],
+      "keywords": [
+        "window size",
+        "glass area",
+        "floor area",
+        "workroom",
+        "residential construction",
+        "glazing bars",
+        "sill height"
+      ],
+      "tags_architectural": [
+        "daylighting",
+        "spatial_proportion",
+        "anthropometry"
+      ],
+      "confidence": 0.96
+    }
+  ]
+}

@@ -1,0 +1,186 @@
+{
+  "fichas": [
+    {
+      "id": "4122fb96e4bd1976-510-vision-0",
+      "pdf_page": 510,
+      "book_page": 497,
+      "chapter": "BUILDING SERVICES",
+      "section": "Daylight",
+      "title": "Rooflighting",
+      "summary": "Design guidance for daylight entering interiors through rooflights. It covers daylight distribution and uniformity, minimum daylight-factor criteria, rooflight spacing relative to room height, roof-opening pitch, and the effects of light-shaft depth. Rooflights receive brighter sky light than side windows; delicate, highly reflective shaft construction is recommended, and the cave effect should be avoided.",
+      "building_type": "Building interiors with rooflights",
+      "spaces": [
+        "Rooms with rooflights",
+        "Workrooms"
+      ],
+      "uses": [
+        "Provide daylight from above",
+        "Achieve adequate and uniform interior illumination"
+      ],
+      "furniture_equipment": [],
+      "dimensions": [
+        {
+          "label": "Reference plane height above sill level",
+          "value": 0.85,
+          "value_max": null,
+          "unit": "m",
+          "context": "Reference plane used when comparing illuminance from a side window and a rooflight.",
+          "status": "verified",
+          "ocr_raw": "reference plane (0.85 m above sill\nlevel)"
+        },
+        {
+          "label": "Side-window area relative to roof opening area",
+          "value": 5.5,
+          "value_max": null,
+          "unit": "ratio",
+          "context": "For the same illuminance on the reference plane, the window area would have to be 5.5 times larger than the roof opening.",
+          "status": "verified",
+          "ocr_raw": "the window area would have to be 5.5 times larger than the\nroof opening"
+        },
+        {
+          "label": "Zenith illuminance relative to horizon illuminance",
+          "value": 3.0,
+          "value_max": null,
+          "unit": "ratio",
+          "context": "The text states that zenith illuminance is three times that at the horizon.",
+          "status": "verified",
+          "ocr_raw": "The zenith illuminance is\nthree times that at the horizon."
+        },
+        {
+          "label": "Sky light reaching rooflight",
+          "value": 100.0,
+          "value_max": null,
+          "unit": "%",
+          "context": "Comparison of sky light reaching a rooflight with light reaching side windows.",
+          "status": "verified",
+          "ocr_raw": "100% of the light from the sky\nreaches the rooflight"
+        },
+        {
+          "label": "Sky light reaching side windows",
+          "value": 33.3,
+          "value_max": null,
+          "unit": "%",
+          "context": "Comparison of sky light reaching side windows with light reaching a rooflight.",
+          "status": "verified",
+          "ocr_raw": "only 33.3% of the light from the sky\nreaches the windows at the sides."
+        },
+        {
+          "label": "Room height in tall-room example",
+          "value": 12.0,
+          "value_max": 15.0,
+          "unit": "m",
+          "context": "Room shown with a roof opening in the tall-room comparison.",
+          "status": "verified",
+          "ocr_raw": "The same room\nwith a height of\n12-15 m and a\nroof opening"
+        },
+        {
+          "label": "Room height in square-room example",
+          "value": 3.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Square room shown in figure 3.",
+          "status": "verified",
+          "ocr_raw": "Square room with\na height of 3 m"
+        },
+        {
+          "label": "Minimum-to-maximum daylight-factor ratio",
+          "value": 0.5,
+          "value_max": null,
+          "unit": "ratio",
+          "context": "Required minimum daylight-factor criterion, Dmin/Dmax ≥ 0.5.",
+          "status": "verified",
+          "ocr_raw": "DAYLIGHT\nRooflighting\n\ndome of\ncloudodsky\n\n0\n\nRoom with roof opening and side\nwindow, according to distribution of\nlight from the zenith\n\nThe same room\nwith a height of\n12-15 m and a\nroof opening\n\nD%\n\n1~1·1\n•..............................................:·\noverhead light\n\n1--- a ------1\n\n8 Section through a room with rooflight\n\n8 Square room with\na height of 3 m\n\nrecommendation\n\nratio\nDmin:Dmax\n1\n\n'approx.1 :1\n\n..-------,\n\nke value = 0/h\n\n~~~\n\n!} values\ntarget\n{\n\n1:2\n~\n1:2.5\n~\n\n1:3\n\n< 1. .. 1.1\n1.2\n\n1.3\n\n1.4\n\ntolerable\n\n1.4\n\n1.5\n\n1.7\n\ncritical\n\n1.6\n\n1.8\n\n2.0\n\navoid\n\n1.7\n\n2.0\n\n2.2\n\n1:1.5\n~\n\n0 = h·ke\n\nm\n\nRooflight spacing, room height and the uniformity of lighting which is sought,\nincluding corresponding detailing of the rooflight (ke factor)\n\ndaylight factor\n\nBasics\nThe lighting of interiors with daylight from above is subject to\nthe same basic principles and conditions as for windows at the\nsides, that is natural lighting under a cloudy sky. Whereas light\nfrom the sides creates relatively poor uniformity, this is different\nwith lighting from above. In interiors the quality of daylight\ncoming from rooflights is mainly determined or influenced by the\nfollowing factors: light density at the zenith, room proportions,\nroom reflection, rooflight opening and reduction factors. The\nwork area --> 0 in a room is placed precisely as far from a\nwindow as from the rooflight above. If the same illuminance\nis to be produced on the reference plane (0.85 m above sill\nlevel) through the side window as through the rooflight, then\nthe window area would have to be 5.5 times larger than the\nroof opening.\nReason: light from above is brighter. The zenith illuminance is\nthree times that at the horizon. So 100% of the light from the sky\nreaches the rooflight, whereas only 33.3% of the light from the sky\nreaches the windows at the sides. The lighting of a room 'from\nabove' (light incidence) depends on the room proportions, i.e.\nthe length, width and height. The 'cave effect' should be avoided\n\n_.,e.\n\nRequired minimum daylight factors\nIn order to guarantee adequate lighting in a room, the following\npoints have to be noted:\nDminlDmax ~ 0.5, Dmin ~ 2%, in workrooms~ 4%\nUniformity G ~ 1:2, a corresponding opening area of approx.\n~ 16-22% of the plan area-->\n\ne.\n\nRooflight openings\nThe advantage of lighting with daylight 'from above' is influenced\nby the following design factors: room height and clear opening\n(ke factor). An ideal uniformity is achieved if the spacing of the\nrooflights (0) corresponds to the room height (h), i.e. a ratio of 1:1.\nIn practice, the following rule applies: the ratio of rooflight spacing\nto room height should be 1:1.5 to 1:2 --> 0. This table shows these\nrelationships and their effect. The insertion of light shafts is also\nrecommended.\n\n{OF)\n\n20\n15\n\n.\n\n10\n\n~.\n\n0.6\n\n0.8\n\n0.4\n\nI\n3\n\n2\n\nK~.o.\n\n[m]\n\n4'\n\n0' 30' 60' 90'\n\nType and construction of rooflight opening\nThe pitch of a rooflight determines the percentage of light from\nthe section of the sky framed by it. In --> Q, the amount of light\nentering through a side window is compared with the amount of\nlight entering through a rooflight at various pitches. The greatest\namount of light comes in though a horizontal opening.\n\nDAYLIGHT\nPhysical basics\nPosition of the\nsun\nInsolation\nShadow\nRadiation energy\nWindow lighting\nRooflighting\nQuality criteria\nDirecting sunlight\nShading\n\ny\n\n(a) Comparative variations in\ndaylight factor for side windows\nand rooflights, depending on\nfour differently pitched rooflight\nopenings\n\n(b) Reduction factor ky,\ndepending on pitch\ny of glazing in shed\nroofs\n\nThe maximum illuminance through a side window, in contrast,\nis achieved only near the window. With a vertical rooflight, the\nlowest illuminance is on the reference plane. There is therefore a\nreduction factor (ky) for the amount of light entering, depending\non the different pitches of the roof openings. In --> Q (b), the\ncorresponding reduction factors (ky) are shown for sheds with\nvarious pitches.\n\na\nDF\n\nJl/~\n\n30·-~\n25\n20\n15\n10\n5\n\ne\n\n1.\n\ne\n\n1- -\n\n' ,, :.- '\n- ~· ·- -·' '\n>_2\n3 .~,,'\n\n~\n\nThe diffused radiation falling on the rooflight is, however, also\naffected by its construction and installation depth before it\ndemonstrates the\nsupplies the interior with daylight. -->\ndifferent amounts of light entering through various proportions\nof the shaft below the rooflight cover. Excessively high and\nmassive shaft construction or installation depths should\ntherefore be avoided. A delicate, highly reflective construction\nis recommended.\n\n1. with horizontal rooflight;\nno shaft, i.e. h = 0\n2. with a light shaft; h = a\n3. with a light shaft; h = 2a\n\nUniformity of lighting, depending on height of rooflight shaft\n\n497\n\nBS 8206-2\nDIN 5034\n\n\f"
+        },
+        {
+          "label": "Minimum daylight factor",
+          "value": 2.0,
+          "value_max": null,
+          "unit": "%",
+          "context": "Required minimum daylight factor; workrooms have a separately stated minimum of 4%.",
+          "status": "verified",
+          "ocr_raw": "DAYLIGHT\nRooflighting\n\ndome of\ncloudodsky\n\n0\n\nRoom with roof opening and side\nwindow, according to distribution of\nlight from the zenith\n\nThe same room\nwith a height of\n12-15 m and a\nroof opening\n\nD%\n\n1~1·1\n•..............................................:·\noverhead light\n\n1--- a ------1\n\n8 Section through a room with rooflight\n\n8 Square room with\na height of 3 m\n\nrecommendation\n\nratio\nDmin:Dmax\n1\n\n'approx.1 :1\n\n..-------,\n\nke value = 0/h\n\n~~~\n\n!} values\ntarget\n{\n\n1:2\n~\n1:2.5\n~\n\n1:3\n\n< 1. .. 1.1\n1.2\n\n1.3\n\n1.4\n\ntolerable\n\n1.4\n\n1.5\n\n1.7\n\ncritical\n\n1.6\n\n1.8\n\n2.0\n\navoid\n\n1.7\n\n2.0\n\n2.2\n\n1:1.5\n~\n\n0 = h·ke\n\nm\n\nRooflight spacing, room height and the uniformity of lighting which is sought,\nincluding corresponding detailing of the rooflight (ke factor)\n\ndaylight factor\n\nBasics\nThe lighting of interiors with daylight from above is subject to\nthe same basic principles and conditions as for windows at the\nsides, that is natural lighting under a cloudy sky. Whereas light\nfrom the sides creates relatively poor uniformity, this is different\nwith lighting from above. In interiors the quality of daylight\ncoming from rooflights is mainly determined or influenced by the\nfollowing factors: light density at the zenith, room proportions,\nroom reflection, rooflight opening and reduction factors. The\nwork area --> 0 in a room is placed precisely as far from a\nwindow as from the rooflight above. If the same illuminance\nis to be produced on the reference plane (0.85 m above sill\nlevel) through the side window as through the rooflight, then\nthe window area would have to be 5.5 times larger than the\nroof opening.\nReason: light from above is brighter. The zenith illuminance is\nthree times that at the horizon. So 100% of the light from the sky\nreaches the rooflight, whereas only 33.3% of the light from the sky\nreaches the windows at the sides. The lighting of a room 'from\nabove' (light incidence) depends on the room proportions, i.e.\nthe length, width and height. The 'cave effect' should be avoided\n\n_.,e.\n\nRequired minimum daylight factors\nIn order to guarantee adequate lighting in a room, the following\npoints have to be noted:\nDminlDmax ~ 0.5, Dmin ~ 2%, in workrooms~ 4%\nUniformity G ~ 1:2, a corresponding opening area of approx.\n~ 16-22% of the plan area-->\n\ne.\n\nRooflight openings\nThe advantage of lighting with daylight 'from above' is influenced\nby the following design factors: room height and clear opening\n(ke factor). An ideal uniformity is achieved if the spacing of the\nrooflights (0) corresponds to the room height (h), i.e. a ratio of 1:1.\nIn practice, the following rule applies: the ratio of rooflight spacing\nto room height should be 1:1.5 to 1:2 --> 0. This table shows these\nrelationships and their effect. The insertion of light shafts is also\nrecommended.\n\n{OF)\n\n20\n15\n\n.\n\n10\n\n~.\n\n0.6\n\n0.8\n\n0.4\n\nI\n3\n\n2\n\nK~.o.\n\n[m]\n\n4'\n\n0' 30' 60' 90'\n\nType and construction of rooflight opening\nThe pitch of a rooflight determines the percentage of light from\nthe section of the sky framed by it. In --> Q, the amount of light\nentering through a side window is compared with the amount of\nlight entering through a rooflight at various pitches. The greatest\namount of light comes in though a horizontal opening.\n\nDAYLIGHT\nPhysical basics\nPosition of the\nsun\nInsolation\nShadow\nRadiation energy\nWindow lighting\nRooflighting\nQuality criteria\nDirecting sunlight\nShading\n\ny\n\n(a) Comparative variations in\ndaylight factor for side windows\nand rooflights, depending on\nfour differently pitched rooflight\nopenings\n\n(b) Reduction factor ky,\ndepending on pitch\ny of glazing in shed\nroofs\n\nThe maximum illuminance through a side window, in contrast,\nis achieved only near the window. With a vertical rooflight, the\nlowest illuminance is on the reference plane. There is therefore a\nreduction factor (ky) for the amount of light entering, depending\non the different pitches of the roof openings. In --> Q (b), the\ncorresponding reduction factors (ky) are shown for sheds with\nvarious pitches.\n\na\nDF\n\nJl/~\n\n30·-~\n25\n20\n15\n10\n5\n\ne\n\n1.\n\ne\n\n1- -\n\n' ,, :.- '\n- ~· ·- -·' '\n>_2\n3 .~,,'\n\n~\n\nThe diffused radiation falling on the rooflight is, however, also\naffected by its construction and installation depth before it\ndemonstrates the\nsupplies the interior with daylight. -->\ndifferent amounts of light entering through various proportions\nof the shaft below the rooflight cover. Excessively high and\nmassive shaft construction or installation depths should\ntherefore be avoided. A delicate, highly reflective construction\nis recommended.\n\n1. with horizontal rooflight;\nno shaft, i.e. h = 0\n2. with a light shaft; h = a\n3. with a light shaft; h = 2a\n\nUniformity of lighting, depending on height of rooflight shaft\n\n497\n\nBS 8206-2\nDIN 5034\n\n\f"
+        },
+        {
+          "label": "Minimum daylight factor in workrooms",
+          "value": 4.0,
+          "value_max": null,
+          "unit": "%",
+          "context": "Required minimum daylight factor for workrooms.",
+          "status": "verified",
+          "ocr_raw": "DAYLIGHT\nRooflighting\n\ndome of\ncloudodsky\n\n0\n\nRoom with roof opening and side\nwindow, according to distribution of\nlight from the zenith\n\nThe same room\nwith a height of\n12-15 m and a\nroof opening\n\nD%\n\n1~1·1\n•..............................................:·\noverhead light\n\n1--- a ------1\n\n8 Section through a room with rooflight\n\n8 Square room with\na height of 3 m\n\nrecommendation\n\nratio\nDmin:Dmax\n1\n\n'approx.1 :1\n\n..-------,\n\nke value = 0/h\n\n~~~\n\n!} values\ntarget\n{\n\n1:2\n~\n1:2.5\n~\n\n1:3\n\n< 1. .. 1.1\n1.2\n\n1.3\n\n1.4\n\ntolerable\n\n1.4\n\n1.5\n\n1.7\n\ncritical\n\n1.6\n\n1.8\n\n2.0\n\navoid\n\n1.7\n\n2.0\n\n2.2\n\n1:1.5\n~\n\n0 = h·ke\n\nm\n\nRooflight spacing, room height and the uniformity of lighting which is sought,\nincluding corresponding detailing of the rooflight (ke factor)\n\ndaylight factor\n\nBasics\nThe lighting of interiors with daylight from above is subject to\nthe same basic principles and conditions as for windows at the\nsides, that is natural lighting under a cloudy sky. Whereas light\nfrom the sides creates relatively poor uniformity, this is different\nwith lighting from above. In interiors the quality of daylight\ncoming from rooflights is mainly determined or influenced by the\nfollowing factors: light density at the zenith, room proportions,\nroom reflection, rooflight opening and reduction factors. The\nwork area --> 0 in a room is placed precisely as far from a\nwindow as from the rooflight above. If the same illuminance\nis to be produced on the reference plane (0.85 m above sill\nlevel) through the side window as through the rooflight, then\nthe window area would have to be 5.5 times larger than the\nroof opening.\nReason: light from above is brighter. The zenith illuminance is\nthree times that at the horizon. So 100% of the light from the sky\nreaches the rooflight, whereas only 33.3% of the light from the sky\nreaches the windows at the sides. The lighting of a room 'from\nabove' (light incidence) depends on the room proportions, i.e.\nthe length, width and height. The 'cave effect' should be avoided\n\n_.,e.\n\nRequired minimum daylight factors\nIn order to guarantee adequate lighting in a room, the following\npoints have to be noted:\nDminlDmax ~ 0.5, Dmin ~ 2%, in workrooms~ 4%\nUniformity G ~ 1:2, a corresponding opening area of approx.\n~ 16-22% of the plan area-->\n\ne.\n\nRooflight openings\nThe advantage of lighting with daylight 'from above' is influenced\nby the following design factors: room height and clear opening\n(ke factor). An ideal uniformity is achieved if the spacing of the\nrooflights (0) corresponds to the room height (h), i.e. a ratio of 1:1.\nIn practice, the following rule applies: the ratio of rooflight spacing\nto room height should be 1:1.5 to 1:2 --> 0. This table shows these\nrelationships and their effect. The insertion of light shafts is also\nrecommended.\n\n{OF)\n\n20\n15\n\n.\n\n10\n\n~.\n\n0.6\n\n0.8\n\n0.4\n\nI\n3\n\n2\n\nK~.o.\n\n[m]\n\n4'\n\n0' 30' 60' 90'\n\nType and construction of rooflight opening\nThe pitch of a rooflight determines the percentage of light from\nthe section of the sky framed by it. In --> Q, the amount of light\nentering through a side window is compared with the amount of\nlight entering through a rooflight at various pitches. The greatest\namount of light comes in though a horizontal opening.\n\nDAYLIGHT\nPhysical basics\nPosition of the\nsun\nInsolation\nShadow\nRadiation energy\nWindow lighting\nRooflighting\nQuality criteria\nDirecting sunlight\nShading\n\ny\n\n(a) Comparative variations in\ndaylight factor for side windows\nand rooflights, depending on\nfour differently pitched rooflight\nopenings\n\n(b) Reduction factor ky,\ndepending on pitch\ny of glazing in shed\nroofs\n\nThe maximum illuminance through a side window, in contrast,\nis achieved only near the window. With a vertical rooflight, the\nlowest illuminance is on the reference plane. There is therefore a\nreduction factor (ky) for the amount of light entering, depending\non the different pitches of the roof openings. In --> Q (b), the\ncorresponding reduction factors (ky) are shown for sheds with\nvarious pitches.\n\na\nDF\n\nJl/~\n\n30·-~\n25\n20\n15\n10\n5\n\ne\n\n1.\n\ne\n\n1- -\n\n' ,, :.- '\n- ~· ·- -·' '\n>_2\n3 .~,,'\n\n~\n\nThe diffused radiation falling on the rooflight is, however, also\naffected by its construction and installation depth before it\ndemonstrates the\nsupplies the interior with daylight. -->\ndifferent amounts of light entering through various proportions\nof the shaft below the rooflight cover. Excessively high and\nmassive shaft construction or installation depths should\ntherefore be avoided. A delicate, highly reflective construction\nis recommended.\n\n1. with horizontal rooflight;\nno shaft, i.e. h = 0\n2. with a light shaft; h = a\n3. with a light shaft; h = 2a\n\nUniformity of lighting, depending on height of rooflight shaft\n\n497\n\nBS 8206-2\nDIN 5034\n\n\f"
+        },
+        {
+          "label": "Lighting uniformity",
+          "value": 0.5,
+          "value_max": null,
+          "unit": "ratio",
+          "context": "Required uniformity stated as G ≥ 1:2; the full printed ratio is retained in the context.",
+          "status": "corrected",
+          "ocr_raw": "DAYLIGHT\nRooflighting\n\ndome of\ncloudodsky\n\n0\n\nRoom with roof opening and side\nwindow, according to distribution of\nlight from the zenith\n\nThe same room\nwith a height of\n12-15 m and a\nroof opening\n\nD%\n\n1~1·1\n•..............................................:·\noverhead light\n\n1--- a ------1\n\n8 Section through a room with rooflight\n\n8 Square room with\na height of 3 m\n\nrecommendation\n\nratio\nDmin:Dmax\n1\n\n'approx.1 :1\n\n..-------,\n\nke value = 0/h\n\n~~~\n\n!} values\ntarget\n{\n\n1:2\n~\n1:2.5\n~\n\n1:3\n\n< 1. .. 1.1\n1.2\n\n1.3\n\n1.4\n\ntolerable\n\n1.4\n\n1.5\n\n1.7\n\ncritical\n\n1.6\n\n1.8\n\n2.0\n\navoid\n\n1.7\n\n2.0\n\n2.2\n\n1:1.5\n~\n\n0 = h·ke\n\nm\n\nRooflight spacing, room height and the uniformity of lighting which is sought,\nincluding corresponding detailing of the rooflight (ke factor)\n\ndaylight factor\n\nBasics\nThe lighting of interiors with daylight from above is subject to\nthe same basic principles and conditions as for windows at the\nsides, that is natural lighting under a cloudy sky. Whereas light\nfrom the sides creates relatively poor uniformity, this is different\nwith lighting from above. In interiors the quality of daylight\ncoming from rooflights is mainly determined or influenced by the\nfollowing factors: light density at the zenith, room proportions,\nroom reflection, rooflight opening and reduction factors. The\nwork area --> 0 in a room is placed precisely as far from a\nwindow as from the rooflight above. If the same illuminance\nis to be produced on the reference plane (0.85 m above sill\nlevel) through the side window as through the rooflight, then\nthe window area would have to be 5.5 times larger than the\nroof opening.\nReason: light from above is brighter. The zenith illuminance is\nthree times that at the horizon. So 100% of the light from the sky\nreaches the rooflight, whereas only 33.3% of the light from the sky\nreaches the windows at the sides. The lighting of a room 'from\nabove' (light incidence) depends on the room proportions, i.e.\nthe length, width and height. The 'cave effect' should be avoided\n\n_.,e.\n\nRequired minimum daylight factors\nIn order to guarantee adequate lighting in a room, the following\npoints have to be noted:\nDminlDmax ~ 0.5, Dmin ~ 2%, in workrooms~ 4%\nUniformity G ~ 1:2, a corresponding opening area of approx.\n~ 16-22% of the plan area-->\n\ne.\n\nRooflight openings\nThe advantage of lighting with daylight 'from above' is influenced\nby the following design factors: room height and clear opening\n(ke factor). An ideal uniformity is achieved if the spacing of the\nrooflights (0) corresponds to the room height (h), i.e. a ratio of 1:1.\nIn practice, the following rule applies: the ratio of rooflight spacing\nto room height should be 1:1.5 to 1:2 --> 0. This table shows these\nrelationships and their effect. The insertion of light shafts is also\nrecommended.\n\n{OF)\n\n20\n15\n\n.\n\n10\n\n~.\n\n0.6\n\n0.8\n\n0.4\n\nI\n3\n\n2\n\nK~.o.\n\n[m]\n\n4'\n\n0' 30' 60' 90'\n\nType and construction of rooflight opening\nThe pitch of a rooflight determines the percentage of light from\nthe section of the sky framed by it. In --> Q, the amount of light\nentering through a side window is compared with the amount of\nlight entering through a rooflight at various pitches. The greatest\namount of light comes in though a horizontal opening.\n\nDAYLIGHT\nPhysical basics\nPosition of the\nsun\nInsolation\nShadow\nRadiation energy\nWindow lighting\nRooflighting\nQuality criteria\nDirecting sunlight\nShading\n\ny\n\n(a) Comparative variations in\ndaylight factor for side windows\nand rooflights, depending on\nfour differently pitched rooflight\nopenings\n\n(b) Reduction factor ky,\ndepending on pitch\ny of glazing in shed\nroofs\n\nThe maximum illuminance through a side window, in contrast,\nis achieved only near the window. With a vertical rooflight, the\nlowest illuminance is on the reference plane. There is therefore a\nreduction factor (ky) for the amount of light entering, depending\non the different pitches of the roof openings. In --> Q (b), the\ncorresponding reduction factors (ky) are shown for sheds with\nvarious pitches.\n\na\nDF\n\nJl/~\n\n30·-~\n25\n20\n15\n10\n5\n\ne\n\n1.\n\ne\n\n1- -\n\n' ,, :.- '\n- ~· ·- -·' '\n>_2\n3 .~,,'\n\n~\n\nThe diffused radiation falling on the rooflight is, however, also\naffected by its construction and installation depth before it\ndemonstrates the\nsupplies the interior with daylight. -->\ndifferent amounts of light entering through various proportions\nof the shaft below the rooflight cover. Excessively high and\nmassive shaft construction or installation depths should\ntherefore be avoided. A delicate, highly reflective construction\nis recommended.\n\n1. with horizontal rooflight;\nno shaft, i.e. h = 0\n2. with a light shaft; h = a\n3. with a light shaft; h = 2a\n\nUniformity of lighting, depending on height of rooflight shaft\n\n497\n\nBS 8206-2\nDIN 5034\n\n\f"
+        },
+        {
+          "label": "Roof-opening area relative to plan area",
+          "value": 16.0,
+          "value_max": 22.0,
+          "unit": "%",
+          "context": "Approximate corresponding opening area as a percentage of plan area.",
+          "status": "verified",
+          "ocr_raw": "DAYLIGHT\nRooflighting\n\ndome of\ncloudodsky\n\n0\n\nRoom with roof opening and side\nwindow, according to distribution of\nlight from the zenith\n\nThe same room\nwith a height of\n12-15 m and a\nroof opening\n\nD%\n\n1~1·1\n•..............................................:·\noverhead light\n\n1--- a ------1\n\n8 Section through a room with rooflight\n\n8 Square room with\na height of 3 m\n\nrecommendation\n\nratio\nDmin:Dmax\n1\n\n'approx.1 :1\n\n..-------,\n\nke value = 0/h\n\n~~~\n\n!} values\ntarget\n{\n\n1:2\n~\n1:2.5\n~\n\n1:3\n\n< 1. .. 1.1\n1.2\n\n1.3\n\n1.4\n\ntolerable\n\n1.4\n\n1.5\n\n1.7\n\ncritical\n\n1.6\n\n1.8\n\n2.0\n\navoid\n\n1.7\n\n2.0\n\n2.2\n\n1:1.5\n~\n\n0 = h·ke\n\nm\n\nRooflight spacing, room height and the uniformity of lighting which is sought,\nincluding corresponding detailing of the rooflight (ke factor)\n\ndaylight factor\n\nBasics\nThe lighting of interiors with daylight from above is subject to\nthe same basic principles and conditions as for windows at the\nsides, that is natural lighting under a cloudy sky. Whereas light\nfrom the sides creates relatively poor uniformity, this is different\nwith lighting from above. In interiors the quality of daylight\ncoming from rooflights is mainly determined or influenced by the\nfollowing factors: light density at the zenith, room proportions,\nroom reflection, rooflight opening and reduction factors. The\nwork area --> 0 in a room is placed precisely as far from a\nwindow as from the rooflight above. If the same illuminance\nis to be produced on the reference plane (0.85 m above sill\nlevel) through the side window as through the rooflight, then\nthe window area would have to be 5.5 times larger than the\nroof opening.\nReason: light from above is brighter. The zenith illuminance is\nthree times that at the horizon. So 100% of the light from the sky\nreaches the rooflight, whereas only 33.3% of the light from the sky\nreaches the windows at the sides. The lighting of a room 'from\nabove' (light incidence) depends on the room proportions, i.e.\nthe length, width and height. The 'cave effect' should be avoided\n\n_.,e.\n\nRequired minimum daylight factors\nIn order to guarantee adequate lighting in a room, the following\npoints have to be noted:\nDminlDmax ~ 0.5, Dmin ~ 2%, in workrooms~ 4%\nUniformity G ~ 1:2, a corresponding opening area of approx.\n~ 16-22% of the plan area-->\n\ne.\n\nRooflight openings\nThe advantage of lighting with daylight 'from above' is influenced\nby the following design factors: room height and clear opening\n(ke factor). An ideal uniformity is achieved if the spacing of the\nrooflights (0) corresponds to the room height (h), i.e. a ratio of 1:1.\nIn practice, the following rule applies: the ratio of rooflight spacing\nto room height should be 1:1.5 to 1:2 --> 0. This table shows these\nrelationships and their effect. The insertion of light shafts is also\nrecommended.\n\n{OF)\n\n20\n15\n\n.\n\n10\n\n~.\n\n0.6\n\n0.8\n\n0.4\n\nI\n3\n\n2\n\nK~.o.\n\n[m]\n\n4'\n\n0' 30' 60' 90'\n\nType and construction of rooflight opening\nThe pitch of a rooflight determines the percentage of light from\nthe section of the sky framed by it. In --> Q, the amount of light\nentering through a side window is compared with the amount of\nlight entering through a rooflight at various pitches. The greatest\namount of light comes in though a horizontal opening.\n\nDAYLIGHT\nPhysical basics\nPosition of the\nsun\nInsolation\nShadow\nRadiation energy\nWindow lighting\nRooflighting\nQuality criteria\nDirecting sunlight\nShading\n\ny\n\n(a) Comparative variations in\ndaylight factor for side windows\nand rooflights, depending on\nfour differently pitched rooflight\nopenings\n\n(b) Reduction factor ky,\ndepending on pitch\ny of glazing in shed\nroofs\n\nThe maximum illuminance through a side window, in contrast,\nis achieved only near the window. With a vertical rooflight, the\nlowest illuminance is on the reference plane. There is therefore a\nreduction factor (ky) for the amount of light entering, depending\non the different pitches of the roof openings. In --> Q (b), the\ncorresponding reduction factors (ky) are shown for sheds with\nvarious pitches.\n\na\nDF\n\nJl/~\n\n30·-~\n25\n20\n15\n10\n5\n\ne\n\n1.\n\ne\n\n1- -\n\n' ,, :.- '\n- ~· ·- -·' '\n>_2\n3 .~,,'\n\n~\n\nThe diffused radiation falling on the rooflight is, however, also\naffected by its construction and installation depth before it\ndemonstrates the\nsupplies the interior with daylight. -->\ndifferent amounts of light entering through various proportions\nof the shaft below the rooflight cover. Excessively high and\nmassive shaft construction or installation depths should\ntherefore be avoided. A delicate, highly reflective construction\nis recommended.\n\n1. with horizontal rooflight;\nno shaft, i.e. h = 0\n2. with a light shaft; h = a\n3. with a light shaft; h = 2a\n\nUniformity of lighting, depending on height of rooflight shaft\n\n497\n\nBS 8206-2\nDIN 5034\n\n\f"
+        },
+        {
+          "label": "Ideal rooflight spacing to room-height ratio",
+          "value": 1.0,
+          "value_max": null,
+          "unit": "ratio",
+          "context": "Ideal uniformity when rooflight spacing O corresponds to room height h; printed ratio 1:1.",
+          "status": "verified",
+          "ocr_raw": "i.e. a ratio of 1:1"
+        },
+        {
+          "label": "Recommended rooflight spacing to room-height ratio",
+          "value": 1.0,
+          "value_max": null,
+          "unit": "ratio",
+          "context": "In practice, the spacing-to-room-height ratio should be 1:1.5 to 1:2; this entry records the first printed ratio.",
+          "status": "uncertain",
+          "ocr_raw": "the ratio of rooflight spacing\nto room height should be 1:1.5 to 1:2"
+        },
+        {
+          "label": "Recommended rooflight spacing to room-height ratio",
+          "value": 1.0,
+          "value_max": null,
+          "unit": "ratio",
+          "context": "In practice, the spacing-to-room-height ratio should be 1:1.5 to 1:2; this entry records the second printed ratio.",
+          "status": "uncertain",
+          "ocr_raw": "the ratio of rooflight spacing\nto room height should be 1:1.5 to 1:2"
+        }
+      ],
+      "figure_refs": [
+        "1 Room with roof opening and side window, according to distribution of light from the zenith",
+        "2 Section through a room with rooflight",
+        "3 Square room with a height of 3 m",
+        "4 Rooflight spacing, room height and the uniformity of lighting which is sought, including corresponding detailing of the rooflight (ke factor)",
+        "5 Comparative variations in daylight factor for side windows and rooflights; reduction factor ky depending on pitch",
+        "6 Uniformity of lighting, depending on height of rooflight shaft"
+      ],
+      "cross_refs": [
+        "BS 8206-2",
+        "DIN 5034"
+      ],
+      "keywords": [
+        "daylight",
+        "rooflighting",
+        "rooflight",
+        "daylight factor",
+        "lighting uniformity",
+        "light shaft",
+        "cloudy sky"
+      ],
+      "tags_architectural": [
+        "daylighting",
+        "spatial_proportion"
+      ],
+      "confidence": 0.94
+    }
+  ]
+}

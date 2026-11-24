@@ -1,0 +1,217 @@
+{
+  "fichas": [
+    {
+      "id": "4122fb96e4bd1976-487-vision-0",
+      "pdf_page": 487,
+      "book_page": 474,
+      "chapter": "BUILDING SERVICES",
+      "section": "Building Physics",
+      "title": "Energy Saving Regulation and Thermal Insulation",
+      "summary": "Summarizes EnEV 2007 requirements for energy assessment of residential and non-residential buildings. Assessment considers primary energy demand for heating, hot water, ventilation, cooling and, for non-residential buildings, lighting. For new residential buildings, the envelope-area process considers the ratio of heat-transmitting area to heated building volume and uses a monthly balance procedure.",
+      "building_type": "Residential and non-residential buildings",
+      "spaces": [],
+      "uses": [
+        "Assess annual primary energy demand",
+        "Verify transmitted heat requirements",
+        "Calculate building energy performance"
+      ],
+      "furniture_equipment": [],
+      "dimensions": [],
+      "figure_refs": [],
+      "cross_refs": [
+        "EnEV 2007",
+        "EnEV 2002/2004",
+        "DIN EN 832",
+        "DIN 4108"
+      ],
+      "keywords": [
+        "energy saving regulation",
+        "primary energy",
+        "thermal insulation",
+        "envelope area process",
+        "monthly balance procedure"
+      ],
+      "tags_architectural": [],
+      "confidence": 0.96
+    },
+    {
+      "id": "4122fb96e4bd1976-487-vision-1",
+      "pdf_page": 487,
+      "book_page": 474,
+      "chapter": "BUILDING SERVICES",
+      "section": "Building Physics",
+      "title": "Thermal Insulation Design of Stairwells",
+      "summary": "For thermal insulation design, a temperature of at least 15°C can be assumed for stairwells. Radiators may be needed in the lower stairwell to ensure this temperature.",
+      "building_type": "Building stairwell",
+      "spaces": [
+        "Stairwell",
+        "Lower stairwell"
+      ],
+      "uses": [
+        "Thermal insulation design",
+        "Maintain the assumed stairwell temperature"
+      ],
+      "furniture_equipment": [
+        "Radiators"
+      ],
+      "dimensions": [
+        {
+          "label": "Assumed stairwell temperature",
+          "value": 15.0,
+          "value_max": null,
+          "unit": "°C",
+          "context": "Minimum temperature assumed for thermal insulation design of stairwells; may need to be ensured with radiators in the lower stairwell.",
+          "status": "verified",
+          "ocr_raw": "BUILDING PHYSICS\nThermal Insulation\n\nEnergy Saving Regulation\nThe Energy Saving Regulation 2007 (EnEV 2007) replaces the\nformerly applicable energy saving regulations 2002/2004. The limit\nvalues for residential buildings have not been altered. For nonresidential buildings, however, a new verification process is now\nrequired. In addition to thermal insulation regulations, subsidiary\nmeasures like, for example, those concerning condensing boilers,\nare required, as already in EnEV 2002/2004.\n\nUnder EnEV 2007, a new overall consideration of the energy\nrequired for heating, hot water, ventilation, cooling and lighting\n(only for non-residential buildings) is to be produced.\nThe energy consumption necessary to heat rooms will no\nlonger be the regulated parameter, but the quantity of primary\nenergy to be used for heating, hot water etc. under standard\nconditions.\n\nExcerpts from the Energy Saving Regulation, using the example of\na new residential building:\nNormally heated houses are to be evaluated according to whether\nthey adequately limit the annual primary energy demand and the\ntransmitted heat requirement in accordance with the new EnEV\n2007.\nDepending on the ratio of heat-transmitting area A to heated\nbuilding volumes Ve (A!Ve ratio), the maximum permissible\nannual primary energy demand will be determined according to\nEnEV 2007, according to the envelope area process. The basis\nfor this is the monthly balance procedure (DIN EN 832) with the\nconditions given in DIN 41 08.\n\nBUILDING\nPHYSICS\nThermal\ninsulation\nSound insulation\nRoom acoustics\nLightning\nprotection\nBS EN ISO 9229\nBS EN ISO\n13370\nBS EN ISO\n13790\nDIN EN 832\nDIN 4108\nDIN EN 12524\nDIN V 18599\nEnEV2007\n\nFor the thermal insulation design of stairwells, a temperature\nof ~15°C can be assumed in accordance with the design. This\ntemperature may have to be ensured by the provision of radiators\nin the lower stairwell.\nDesign values of building products\n\nFor the determination of U-values in the verification of thermal\ninsulation, the energetic characteristics are required for each\nbuilding product. These are called the design values of the\nthermal conductivity and the thermal resistance of the materials\nand components, and also the design values of the thermal\ntransmittance coefficients of glazing, windows and French\nwindows, including frames. The design values can be taken from\nthe tables in DIN EN 12524.\nSome important building products, like thermal insulation and\nmasonry components, are, however, not included in this standard.\nFor these items, the design values are to be determined from the\nnominal value in DIN V 4108-4 or from type approvals under\nbuilding regulations or other guidelines.\nThe nominal value for a product is multiplied by conversion\nvalues for temperature, moisture and ageing to give the design\nvalues. The nominal values for the thermal conductivity of\nthermal insulation materials are also to be subjected to a\npartial safety factor of y = 1.2, which has been laid down by the\nresponsible standards committee. According to harmonised\nEuropean standards, this should apply to all insulation materials,\nwhich carry aCE mark. DIN V 4108-4 deals, in tabular form, with\nthe conversion into the design value for all common building\nproducts.\n\n474\n\nIn a similar way, the above two standards are to be used for the\ndetermination of the required energetic characteristics for the\ncalculation of thermal insulation according to EnEV 2007.\nHeating system and drinking water heating\n\nThe heating system and drinking water heating are to be\nconstructed in accordance with the requirements of EnEV 2007.\nSun protection\n\nAccording to EnEV 2007, protection from summer heat is to be\nverified independent of the proportion of the building's surface\ntaken by the window area following DIN 4102-2. This states\nthat summer heat protection depends on the climatic region\nand sun input factor S of the transparent external building\nelements.\nThe verification of thermal protection in summer depends on\nthe following factors, among others: Overall degree of energy\ntransmission of the glazing, window inclination and orientation,\nframe as proportion of the windows, effectiveness of the sun\nprotection apparatus, proportion of window area in the fac;:ade\n(related to rooms), climatic region (building location), light or\nheavy construction (effective thermal capacity). These factors\nare collected into a maximum permissible sun input factor\nSmaxo which may not be exceeded by the room-related sun\ninput factor S.\nWind and airtightness\n\nEnEV 2007 states that new buildings are to be constructed so\nthat the heat-transmitting surface envelope, including joints,\nis sealed permanently airtight in accord with the state of the\ntechnology.\nThis means that air infiltration at the joints of the external windows,\nFrench windows and roof windows must be compliant. As part of\nthe EnEV 2007 stipulations, when using mechanical ventilation\nsystems the inclusion in calculations of heat recovery or a\ncontrolled reduced rate of air changes is permissible only if the\nairtightness of the building is verified. Ventilation systems must\nalso be equipped with means for the user to influence the airflow\nvolume per unit of use. It must be ensured that the heat recovered\nfrom the extract air is used before the heat provided by the heating\nsystem. In closed condition, there must be compliance with EnEV\nrequirements. A test of airtightness (blower door test) can be\ntaken into account in the calculation of the annual primary energy\ndemand for the verification of thermal insulation.\nThermal bridges\n\nGood thermal insulation includes not only highly insulated building\ncomponents, but also the appropriate connections between the\nbuilding elements. There is a danger of additional heat loss at\nthese joints and low surface temperature in the building elements\nduring the heating period. Additional consumption of energy for\nheating and the possibility of condensation and mould formation\nare the result. Thus it should be borne in mind that this thermal\nbridging effect can have considerably worse consequences with\nhighly insulated elements than with building elements with less\nthermal insulation. Thermal bridges can be considered, according\nto EnEV, for the determination of the annual heating energy\ndemand by increasing the thermal transmission values (U-values)\nor in a separate verification.\n\n\f"
+        }
+      ],
+      "figure_refs": [],
+      "cross_refs": [
+        "EnEV 2007"
+      ],
+      "keywords": [
+        "stairwell",
+        "temperature",
+        "thermal insulation",
+        "radiators"
+      ],
+      "tags_architectural": [],
+      "confidence": 0.96
+    },
+    {
+      "id": "4122fb96e4bd1976-487-vision-2",
+      "pdf_page": 487,
+      "book_page": 474,
+      "chapter": "BUILDING SERVICES",
+      "section": "Building Physics",
+      "title": "Design Values of Building Products",
+      "summary": "Explains how energetic characteristics of building products are used to determine U-values for thermal insulation verification. Design values are obtained from relevant standards or approvals; nominal values are converted for temperature, moisture and ageing. The text specifies a partial safety factor for the thermal conductivity of insulation materials.",
+      "building_type": "Building envelope and construction components",
+      "spaces": [],
+      "uses": [
+        "Determine U-values",
+        "Verify thermal insulation",
+        "Establish design values for building products"
+      ],
+      "furniture_equipment": [
+        "Thermal insulation materials",
+        "Masonry components",
+        "Glazing",
+        "Windows",
+        "French windows",
+        "Frames"
+      ],
+      "dimensions": [
+        {
+          "label": "Partial safety factor for thermal conductivity",
+          "value": 1.2,
+          "value_max": null,
+          "unit": "factor",
+          "context": "Applied to nominal thermal-conductivity values of thermal insulation materials.",
+          "status": "uncertain",
+          "ocr_raw": "BUILDING PHYSICS\nThermal Insulation\n\nEnergy Saving Regulation\nThe Energy Saving Regulation 2007 (EnEV 2007) replaces the\nformerly applicable energy saving regulations 2002/2004. The limit\nvalues for residential buildings have not been altered. For nonresidential buildings, however, a new verification process is now\nrequired. In addition to thermal insulation regulations, subsidiary\nmeasures like, for example, those concerning condensing boilers,\nare required, as already in EnEV 2002/2004.\n\nUnder EnEV 2007, a new overall consideration of the energy\nrequired for heating, hot water, ventilation, cooling and lighting\n(only for non-residential buildings) is to be produced.\nThe energy consumption necessary to heat rooms will no\nlonger be the regulated parameter, but the quantity of primary\nenergy to be used for heating, hot water etc. under standard\nconditions.\n\nExcerpts from the Energy Saving Regulation, using the example of\na new residential building:\nNormally heated houses are to be evaluated according to whether\nthey adequately limit the annual primary energy demand and the\ntransmitted heat requirement in accordance with the new EnEV\n2007.\nDepending on the ratio of heat-transmitting area A to heated\nbuilding volumes Ve (A!Ve ratio), the maximum permissible\nannual primary energy demand will be determined according to\nEnEV 2007, according to the envelope area process. The basis\nfor this is the monthly balance procedure (DIN EN 832) with the\nconditions given in DIN 41 08.\n\nBUILDING\nPHYSICS\nThermal\ninsulation\nSound insulation\nRoom acoustics\nLightning\nprotection\nBS EN ISO 9229\nBS EN ISO\n13370\nBS EN ISO\n13790\nDIN EN 832\nDIN 4108\nDIN EN 12524\nDIN V 18599\nEnEV2007\n\nFor the thermal insulation design of stairwells, a temperature\nof ~15°C can be assumed in accordance with the design. This\ntemperature may have to be ensured by the provision of radiators\nin the lower stairwell.\nDesign values of building products\n\nFor the determination of U-values in the verification of thermal\ninsulation, the energetic characteristics are required for each\nbuilding product. These are called the design values of the\nthermal conductivity and the thermal resistance of the materials\nand components, and also the design values of the thermal\ntransmittance coefficients of glazing, windows and French\nwindows, including frames. The design values can be taken from\nthe tables in DIN EN 12524.\nSome important building products, like thermal insulation and\nmasonry components, are, however, not included in this standard.\nFor these items, the design values are to be determined from the\nnominal value in DIN V 4108-4 or from type approvals under\nbuilding regulations or other guidelines.\nThe nominal value for a product is multiplied by conversion\nvalues for temperature, moisture and ageing to give the design\nvalues. The nominal values for the thermal conductivity of\nthermal insulation materials are also to be subjected to a\npartial safety factor of y = 1.2, which has been laid down by the\nresponsible standards committee. According to harmonised\nEuropean standards, this should apply to all insulation materials,\nwhich carry aCE mark. DIN V 4108-4 deals, in tabular form, with\nthe conversion into the design value for all common building\nproducts.\n\n474\n\nIn a similar way, the above two standards are to be used for the\ndetermination of the required energetic characteristics for the\ncalculation of thermal insulation according to EnEV 2007.\nHeating system and drinking water heating\n\nThe heating system and drinking water heating are to be\nconstructed in accordance with the requirements of EnEV 2007.\nSun protection\n\nAccording to EnEV 2007, protection from summer heat is to be\nverified independent of the proportion of the building's surface\ntaken by the window area following DIN 4102-2. This states\nthat summer heat protection depends on the climatic region\nand sun input factor S of the transparent external building\nelements.\nThe verification of thermal protection in summer depends on\nthe following factors, among others: Overall degree of energy\ntransmission of the glazing, window inclination and orientation,\nframe as proportion of the windows, effectiveness of the sun\nprotection apparatus, proportion of window area in the fac;:ade\n(related to rooms), climatic region (building location), light or\nheavy construction (effective thermal capacity). These factors\nare collected into a maximum permissible sun input factor\nSmaxo which may not be exceeded by the room-related sun\ninput factor S.\nWind and airtightness\n\nEnEV 2007 states that new buildings are to be constructed so\nthat the heat-transmitting surface envelope, including joints,\nis sealed permanently airtight in accord with the state of the\ntechnology.\nThis means that air infiltration at the joints of the external windows,\nFrench windows and roof windows must be compliant. As part of\nthe EnEV 2007 stipulations, when using mechanical ventilation\nsystems the inclusion in calculations of heat recovery or a\ncontrolled reduced rate of air changes is permissible only if the\nairtightness of the building is verified. Ventilation systems must\nalso be equipped with means for the user to influence the airflow\nvolume per unit of use. It must be ensured that the heat recovered\nfrom the extract air is used before the heat provided by the heating\nsystem. In closed condition, there must be compliance with EnEV\nrequirements. A test of airtightness (blower door test) can be\ntaken into account in the calculation of the annual primary energy\ndemand for the verification of thermal insulation.\nThermal bridges\n\nGood thermal insulation includes not only highly insulated building\ncomponents, but also the appropriate connections between the\nbuilding elements. There is a danger of additional heat loss at\nthese joints and low surface temperature in the building elements\nduring the heating period. Additional consumption of energy for\nheating and the possibility of condensation and mould formation\nare the result. Thus it should be borne in mind that this thermal\nbridging effect can have considerably worse consequences with\nhighly insulated elements than with building elements with less\nthermal insulation. Thermal bridges can be considered, according\nto EnEV, for the determination of the annual heating energy\ndemand by increasing the thermal transmission values (U-values)\nor in a separate verification.\n\n\f"
+        }
+      ],
+      "figure_refs": [],
+      "cross_refs": [
+        "DIN EN 12524",
+        "DIN V 4108-4",
+        "EnEV 2007"
+      ],
+      "keywords": [
+        "design values",
+        "thermal conductivity",
+        "thermal resistance",
+        "thermal transmittance",
+        "U-values",
+        "conversion values"
+      ],
+      "tags_architectural": [],
+      "confidence": 0.97
+    },
+    {
+      "id": "4122fb96e4bd1976-487-vision-3",
+      "pdf_page": 487,
+      "book_page": 474,
+      "chapter": "BUILDING SERVICES",
+      "section": "Building Physics",
+      "title": "Sun Protection and Summer Heat Verification",
+      "summary": "Summer heat protection must be verified under EnEV 2007. The permissible sun input depends on factors including glazing energy transmission, window orientation and inclination, frame proportion, shading effectiveness, facade window area, climate and effective thermal capacity. The room-related sun input factor must not exceed the maximum permissible factor.",
+      "building_type": "Building",
+      "spaces": [
+        "Rooms"
+      ],
+      "uses": [
+        "Limit solar heat gain",
+        "Verify summer thermal protection"
+      ],
+      "furniture_equipment": [
+        "Glazing",
+        "Windows",
+        "Sun protection apparatus"
+      ],
+      "dimensions": [],
+      "figure_refs": [],
+      "cross_refs": [
+        "EnEV 2007",
+        "DIN 4102-2"
+      ],
+      "keywords": [
+        "sun protection",
+        "summer heat",
+        "solar gain",
+        "glazing",
+        "window orientation",
+        "thermal capacity"
+      ],
+      "tags_architectural": [
+        "daylighting"
+      ],
+      "confidence": 0.95
+    },
+    {
+      "id": "4122fb96e4bd1976-487-vision-4",
+      "pdf_page": 487,
+      "book_page": 474,
+      "chapter": "BUILDING SERVICES",
+      "section": "Building Physics",
+      "title": "Wind, Airtightness and Thermal Bridges",
+      "summary": "EnEV 2007 requires the heat-transmitting envelope, including joints, to be permanently airtight. Mechanical ventilation calculations may account for heat recovery or reduced air-change rates only when airtightness is verified; ventilation systems must allow users to influence airflow. Thermal bridges can increase heat loss and create low surface temperatures, condensation and mould risk; they may be accounted for by adjusting U-values or through separate verification.",
+      "building_type": "Building",
+      "spaces": [
+        "Building envelope",
+        "External window and roof-window joints"
+      ],
+      "uses": [
+        "Limit air infiltration",
+        "Verify airtightness",
+        "Reduce heat loss and condensation risk"
+      ],
+      "furniture_equipment": [
+        "Mechanical ventilation systems",
+        "Heat recovery equipment",
+        "External windows",
+        "French windows",
+        "Roof windows"
+      ],
+      "dimensions": [],
+      "figure_refs": [],
+      "cross_refs": [
+        "EnEV 2007"
+      ],
+      "keywords": [
+        "airtightness",
+        "blower door test",
+        "ventilation",
+        "heat recovery",
+        "thermal bridges",
+        "condensation",
+        "mould"
+      ],
+      "tags_architectural": [
+        "ventilation"
+      ],
+      "confidence": 0.94
+    }
+  ]
+}

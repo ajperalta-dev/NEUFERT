@@ -1,0 +1,250 @@
+{
+  "fichas": [
+    {
+      "id": "4122fb96e4bd1976-483-vision-0",
+      "pdf_page": 483,
+      "book_page": 470,
+      "chapter": "BUILDING SERVICES",
+      "section": "Renewable Energy",
+      "title": "CHP and block heating and power systems",
+      "summary": "Combined heat and power (CHP) produces electricity and useful heat simultaneously. Block heating and power systems are sized around a building’s electricity or heating demand, typically supplying base heat and feeding excess electricity into the grid, with supplementary heating for peak demand. The page describes system sizes, required floor area, and installation provisions for air supply, exhaust, and sound insulation.",
+      "building_type": "Combined heat and power system",
+      "spaces": [
+        "Plant room or installation space",
+        "Air supply and extract openings",
+        "Exhaust route above roof"
+      ],
+      "uses": [
+        "Generate electricity and heat simultaneously",
+        "Supply base heating demand",
+        "Feed excess electricity into the grid",
+        "Provide heating for buildings or groups of buildings"
+      ],
+      "furniture_equipment": [
+        "Combustion engine or gas turbine",
+        "Generator",
+        "Heat exchanger",
+        "Cooling-water heat exchanger",
+        "Buffer cylinder",
+        "Supplementary heating boiler",
+        "Exhaust silencer",
+        "Air intake motor",
+        "Air supply damper",
+        "Exhaust damper",
+        "Sound insulation"
+      ],
+      "dimensions": [
+        {
+          "label": "Electrical output, smallest single-house models",
+          "value": 2.0,
+          "value_max": null,
+          "unit": "kW",
+          "context": "Approximate electrical power of the smallest micro-CHP models for single houses.",
+          "status": "verified",
+          "ocr_raw": "the smallest models for single houses from approx. 2 kW of\nelectrical power"
+        },
+        {
+          "label": "Mini-CHP plant output, upper limit",
+          "value": 30.0,
+          "value_max": null,
+          "unit": "kW",
+          "context": "Small plants for blocks of up to six flats.",
+          "status": "verified",
+          "ocr_raw": "small plants up to 30 kW can be used for blocks\nof up to six flats (mini-CHP)."
+        },
+        {
+          "label": "Flats served, upper count",
+          "value": 6.0,
+          "value_max": null,
+          "unit": "flats",
+          "context": "Blocks served by small mini-CHP plants.",
+          "status": "verified",
+          "ocr_raw": "blocks\nof up to six flats"
+        },
+        {
+          "label": "Compact block heating and power system output, upper limit",
+          "value": 400.0,
+          "value_max": null,
+          "unit": "kW",
+          "context": "Compact systems cover output up to this value; larger systems are needed above it.",
+          "status": "verified",
+          "ocr_raw": "Compact block heating and power\nsystems cover the range up to 400 kW, above that large systems\nare needed."
+        },
+        {
+          "label": "Electrical output threshold for stated mini-CHP space requirement",
+          "value": 5.5,
+          "value_max": null,
+          "unit": "kW",
+          "context": "The stated floor-area requirements apply to a mini-CHP system from this electrical output.",
+          "status": "verified",
+          "ocr_raw": "The space required for a mini-CHP system from 5.5\nkW electricity output"
+        },
+        {
+          "label": "Required floor area at 5.5 kW electrical output",
+          "value": 4.0,
+          "value_max": null,
+          "unit": "m²",
+          "context": "Mini-CHP system floor area; additional heating boiler areas are not included.",
+          "status": "verified",
+          "ocr_raw": "from 5.5\nkW electricity output is 4m 2"
+        },
+        {
+          "label": "Electrical output for stated floor-area example",
+          "value": 15.0,
+          "value_max": null,
+          "unit": "kW",
+          "context": "Mini-CHP system floor-area example.",
+          "status": "verified",
+          "ocr_raw": "for 15 kW 6.5 m2"
+        },
+        {
+          "label": "Required floor area at 15 kW electrical output",
+          "value": 6.5,
+          "value_max": null,
+          "unit": "m²",
+          "context": "Mini-CHP system floor area; additional heating boiler areas are not included.",
+          "status": "verified",
+          "ocr_raw": "for 15 kW 6.5 m2"
+        },
+        {
+          "label": "Electricity-to-heat output ratio",
+          "value": 1.0,
+          "value_max": null,
+          "unit": "ratio",
+          "context": "Approximate electricity-to-heat energy output ratio, 1:2; the text states about one-third electricity and two-thirds heat.",
+          "status": "uncertain",
+          "ocr_raw": "RENEWABLE ENERGY\nCHP, Block Heating and Power, Fuel Cells\nHeat\n\n<\nHeat\nCooling water\nheat exchanger\n\nQ Functional principle of combined heat and power (Schmid --> refs)\n\nSOUND INSULATION\nExhaust damper\n\nInsulation\n\n~--~\n\nthrough massive\n\nmasonry (concrete)\n\nAir supply\ndamper\n\nWHHHHHHH\n\n-·-::::::·-·-·-·-·:::::-~\n\nf) Block heating and power system and constructional ancillaries (Bohne --> refs)\n\nCathode\n\nRENEWABLE\nENERGY\n\nOverview\nSolar energy\nBioenergy\nGeothermal\nenergy, heat\npumps\nCHP, block\nheating and\npower, fuel cells\n\nMembrane\n\nAnode\n\nHeat\n\nC) Principle of a fuel cell (Bohne--> refs)\n\nDescription Abbreviation Operating\n\nElectrolyte Fuel.\n\nOxidant Application\n\ntemperature\nalkaline FC AFC\n\n80\"C\n\ncaustic\n\nhydrogen oxygen\n\nspace\n\npotash\npolymerPEMFC\nelectrolyte-\n\n80\"C\n\nsolid\npolymer\n\nhydrogen, oxygen/ transport,\nsmall power\nmethanol air\n\nmembrane\n\nstation\n\nFC\nphosphoric PAFC\nacid FC\n\n200\"C\n\nphosphoric natural\nacid\ngas\n\nair\n\nthermal\npower station\n\nmolten\ncarbonate\nFC\n\nMCFC\n\n650\"C\n\nlithium and natural,\npotassium town and\ncarbonate biogas\n\nair\n\npower\n\noxide\nceramic\n\nSOFC\n\nzirconium\n\nair\n\nstation,\nthermal\n\npower station\n1000\"C\n\nFC\n\ne\n\nOverview of fuel cell types\n\n470\n\noxide\n\nnatural,\ntown and\nbiogas\n\npower\nstation,\nthermal\npower station\n\nCombined heat and power {CHP) is the combined production of\nheating and mechanical energy, which is converted into electricity\nin a generator. The basic idea is the generation of electrical energy\nand the exploitation of the heat, which is always produced at the\nsame time. Smaller installations (for one or more buildings) use\ncombustion motors or gas turbines instead of the water/steam\ncircuit normally found in a power station.\nA block heating and power system is a small power station, which\nproduces electricity and space heating at the same time, working as\na mini- or micro-CHP system. The size of a block heating and power\nsystem has a decisive influence on its cost-effectiveness, because\nthe energy produced by a CHP system consists of about Ya electricity\nand % heat. The variable energy demand for buildings according to\ntime of day and season necessitates the sizing of the block heating\nand power system according to electricity or heating demand. If\nthe block heating and power system is designed to meet heating\ndemand, then excess electricity is fed into the grid and electricity is\nconsumed from the grid when the output is insufficient. If the block\nheating and power system is designed to meet electricity demand,\nthen excess heat is stored in a buffer cylinder and an external boiler\nis required when the heat produced is insufficient.\nBlock heating and power systems are mostly designed to meet\nthe heating demand. The precondition is that the curve of heat\nand electricity demand against time is known for the building or\nconsumer group. For the design of new residential buildings, the\ndemand can be estimated fairly accurately using characteristic\ncurves. A block heating and power system will normally produce\nenough heat to meet basic requirements and excess electricity is\nfed into the grid though an additional meter. The heating demand\nat peak times is then met by an additional source of heating.\nBlock heating and power systems are available in various sizes:\nthe smallest models for single houses from approx. 2 kW of\nelectrical power and powered by a four-stroke or Stirling motor\n(micro-CHP), small plants up to 30 kW can be used for blocks\nof up to six flats (mini-CHP). Compact block heating and power\nsystems cover the range up to 400 kW, above that large systems\nare needed. The space required for a mini-CHP system from 5.5\nkW electricity output is 4m 2 , for 15 kW 6.5 m2 , and any areas for\nadditional heating boilers should be added.\nFor installation in buildings, sufficient air supply and extract openings\nshould be specified and the exhaust pipe continued to above the\nroof. The system should either be encapsulated as a module or\nsufficiently sound insulated between itself and occupied rooms.\nFuel cells produce electricity and heat out of water and hydrogen\nin a reverse-electrolysis process. They consist of electrodes (anode\nand cathode) and an electrolyte. This separates the electrodes\nand the reaction partner supplied. Fuel cells generate DC, which\nis concerted into AC in an inverter. The waste heat can be used\nfor space heating through a cooling circuit. Hydrogen is produced\nfrom natural gas or methane/methanol in a reformer. Like CHP\nsystems, fuel cells produce electricity and heat simultaneously,\nbut without mechanical parts or noise.\nAs with a CHP system, the selection of the correct fuel cell can\nbe based either on electricity or heating demand, and in the same\nway design to cover base load with an alternative source for the\nproduction for peak loads is sensible. The excess heat in the summer\nmonths can be used to drive an absorption refrigeration machine.\nFuel cells are differentiated according to operating temperatures\n(high-temperature, low-temperature fuel cells) and electrolyte used.\nLow-temperature fuel cells are already available for smaller building\napplications like blocks of flats or small commercial use, but hightemperature fuel cells are practical only in large applications because\nthey produce electricity and heat in large quantities and the high\ntemperatures have to be dispersed through multiple use in an energy\ncascade. Fuel cells are suitable for upgrading and new installations.\n\n\f"
+        }
+      ],
+      "figure_refs": [
+        "Functional principle of combined heat and power (Schmid → refs)",
+        "Block heating and power system and constructional ancillaries (Bohne → refs)"
+      ],
+      "cross_refs": [
+        "Schmid → refs",
+        "Bohne → refs"
+      ],
+      "keywords": [
+        "combined heat and power",
+        "CHP",
+        "block heating and power",
+        "micro-CHP",
+        "mini-CHP",
+        "generator",
+        "heat demand",
+        "electricity demand",
+        "buffer cylinder",
+        "sound insulation"
+      ],
+      "tags_architectural": [
+        "ventilation",
+        "safety"
+      ],
+      "confidence": 0.93
+    },
+    {
+      "id": "4122fb96e4bd1976-483-vision-1",
+      "pdf_page": 483,
+      "book_page": 470,
+      "chapter": "BUILDING SERVICES",
+      "section": "Renewable Energy",
+      "title": "Fuel cells",
+      "summary": "Fuel cells generate electricity and heat through a reverse-electrolysis process involving anode, cathode, and electrolyte. Their direct-current output is converted to alternating current by an inverter, while waste heat can serve space heating through a cooling circuit. The page outlines fuel-cell types by electrolyte and operating temperature and notes that system sizing can follow electricity or heating demand, with supplementary capacity for peak loads.",
+      "building_type": "Fuel-cell energy system",
+      "spaces": [
+        "Fuel-cell installation area",
+        "Space-heating connection",
+        "Air and fuel supply",
+        "Exhaust or heat-dissipation route"
+      ],
+      "uses": [
+        "Generate electricity and heat simultaneously",
+        "Supply space heating using waste heat",
+        "Cover base electricity or heating demand",
+        "Drive absorption refrigeration using excess summer heat"
+      ],
+      "furniture_equipment": [
+        "Fuel-cell stack",
+        "Anode",
+        "Cathode",
+        "Electrolyte membrane",
+        "Reformer",
+        "Inverter",
+        "Cooling circuit"
+      ],
+      "dimensions": [
+        {
+          "label": "Alkaline fuel cell operating temperature",
+          "value": 80.0,
+          "value_max": null,
+          "unit": "°C",
+          "context": "AFC; electrolyte listed as caustic potash.",
+          "status": "verified",
+          "ocr_raw": "RENEWABLE ENERGY\nCHP, Block Heating and Power, Fuel Cells\nHeat\n\n<\nHeat\nCooling water\nheat exchanger\n\nQ Functional principle of combined heat and power (Schmid --> refs)\n\nSOUND INSULATION\nExhaust damper\n\nInsulation\n\n~--~\n\nthrough massive\n\nmasonry (concrete)\n\nAir supply\ndamper\n\nWHHHHHHH\n\n-·-::::::·-·-·-·-·:::::-~\n\nf) Block heating and power system and constructional ancillaries (Bohne --> refs)\n\nCathode\n\nRENEWABLE\nENERGY\n\nOverview\nSolar energy\nBioenergy\nGeothermal\nenergy, heat\npumps\nCHP, block\nheating and\npower, fuel cells\n\nMembrane\n\nAnode\n\nHeat\n\nC) Principle of a fuel cell (Bohne--> refs)\n\nDescription Abbreviation Operating\n\nElectrolyte Fuel.\n\nOxidant Application\n\ntemperature\nalkaline FC AFC\n\n80\"C\n\ncaustic\n\nhydrogen oxygen\n\nspace\n\npotash\npolymerPEMFC\nelectrolyte-\n\n80\"C\n\nsolid\npolymer\n\nhydrogen, oxygen/ transport,\nsmall power\nmethanol air\n\nmembrane\n\nstation\n\nFC\nphosphoric PAFC\nacid FC\n\n200\"C\n\nphosphoric natural\nacid\ngas\n\nair\n\nthermal\npower station\n\nmolten\ncarbonate\nFC\n\nMCFC\n\n650\"C\n\nlithium and natural,\npotassium town and\ncarbonate biogas\n\nair\n\npower\n\noxide\nceramic\n\nSOFC\n\nzirconium\n\nair\n\nstation,\nthermal\n\npower station\n1000\"C\n\nFC\n\ne\n\nOverview of fuel cell types\n\n470\n\noxide\n\nnatural,\ntown and\nbiogas\n\npower\nstation,\nthermal\npower station\n\nCombined heat and power {CHP) is the combined production of\nheating and mechanical energy, which is converted into electricity\nin a generator. The basic idea is the generation of electrical energy\nand the exploitation of the heat, which is always produced at the\nsame time. Smaller installations (for one or more buildings) use\ncombustion motors or gas turbines instead of the water/steam\ncircuit normally found in a power station.\nA block heating and power system is a small power station, which\nproduces electricity and space heating at the same time, working as\na mini- or micro-CHP system. The size of a block heating and power\nsystem has a decisive influence on its cost-effectiveness, because\nthe energy produced by a CHP system consists of about Ya electricity\nand % heat. The variable energy demand for buildings according to\ntime of day and season necessitates the sizing of the block heating\nand power system according to electricity or heating demand. If\nthe block heating and power system is designed to meet heating\ndemand, then excess electricity is fed into the grid and electricity is\nconsumed from the grid when the output is insufficient. If the block\nheating and power system is designed to meet electricity demand,\nthen excess heat is stored in a buffer cylinder and an external boiler\nis required when the heat produced is insufficient.\nBlock heating and power systems are mostly designed to meet\nthe heating demand. The precondition is that the curve of heat\nand electricity demand against time is known for the building or\nconsumer group. For the design of new residential buildings, the\ndemand can be estimated fairly accurately using characteristic\ncurves. A block heating and power system will normally produce\nenough heat to meet basic requirements and excess electricity is\nfed into the grid though an additional meter. The heating demand\nat peak times is then met by an additional source of heating.\nBlock heating and power systems are available in various sizes:\nthe smallest models for single houses from approx. 2 kW of\nelectrical power and powered by a four-stroke or Stirling motor\n(micro-CHP), small plants up to 30 kW can be used for blocks\nof up to six flats (mini-CHP). Compact block heating and power\nsystems cover the range up to 400 kW, above that large systems\nare needed. The space required for a mini-CHP system from 5.5\nkW electricity output is 4m 2 , for 15 kW 6.5 m2 , and any areas for\nadditional heating boilers should be added.\nFor installation in buildings, sufficient air supply and extract openings\nshould be specified and the exhaust pipe continued to above the\nroof. The system should either be encapsulated as a module or\nsufficiently sound insulated between itself and occupied rooms.\nFuel cells produce electricity and heat out of water and hydrogen\nin a reverse-electrolysis process. They consist of electrodes (anode\nand cathode) and an electrolyte. This separates the electrodes\nand the reaction partner supplied. Fuel cells generate DC, which\nis concerted into AC in an inverter. The waste heat can be used\nfor space heating through a cooling circuit. Hydrogen is produced\nfrom natural gas or methane/methanol in a reformer. Like CHP\nsystems, fuel cells produce electricity and heat simultaneously,\nbut without mechanical parts or noise.\nAs with a CHP system, the selection of the correct fuel cell can\nbe based either on electricity or heating demand, and in the same\nway design to cover base load with an alternative source for the\nproduction for peak loads is sensible. The excess heat in the summer\nmonths can be used to drive an absorption refrigeration machine.\nFuel cells are differentiated according to operating temperatures\n(high-temperature, low-temperature fuel cells) and electrolyte used.\nLow-temperature fuel cells are already available for smaller building\napplications like blocks of flats or small commercial use, but hightemperature fuel cells are practical only in large applications because\nthey produce electricity and heat in large quantities and the high\ntemperatures have to be dispersed through multiple use in an energy\ncascade. Fuel cells are suitable for upgrading and new installations.\n\n\f"
+        },
+        {
+          "label": "Polymer-electrolyte-membrane fuel cell operating temperature",
+          "value": 80.0,
+          "value_max": null,
+          "unit": "°C",
+          "context": "PEMFC; solid polymer membrane.",
+          "status": "verified",
+          "ocr_raw": "RENEWABLE ENERGY\nCHP, Block Heating and Power, Fuel Cells\nHeat\n\n<\nHeat\nCooling water\nheat exchanger\n\nQ Functional principle of combined heat and power (Schmid --> refs)\n\nSOUND INSULATION\nExhaust damper\n\nInsulation\n\n~--~\n\nthrough massive\n\nmasonry (concrete)\n\nAir supply\ndamper\n\nWHHHHHHH\n\n-·-::::::·-·-·-·-·:::::-~\n\nf) Block heating and power system and constructional ancillaries (Bohne --> refs)\n\nCathode\n\nRENEWABLE\nENERGY\n\nOverview\nSolar energy\nBioenergy\nGeothermal\nenergy, heat\npumps\nCHP, block\nheating and\npower, fuel cells\n\nMembrane\n\nAnode\n\nHeat\n\nC) Principle of a fuel cell (Bohne--> refs)\n\nDescription Abbreviation Operating\n\nElectrolyte Fuel.\n\nOxidant Application\n\ntemperature\nalkaline FC AFC\n\n80\"C\n\ncaustic\n\nhydrogen oxygen\n\nspace\n\npotash\npolymerPEMFC\nelectrolyte-\n\n80\"C\n\nsolid\npolymer\n\nhydrogen, oxygen/ transport,\nsmall power\nmethanol air\n\nmembrane\n\nstation\n\nFC\nphosphoric PAFC\nacid FC\n\n200\"C\n\nphosphoric natural\nacid\ngas\n\nair\n\nthermal\npower station\n\nmolten\ncarbonate\nFC\n\nMCFC\n\n650\"C\n\nlithium and natural,\npotassium town and\ncarbonate biogas\n\nair\n\npower\n\noxide\nceramic\n\nSOFC\n\nzirconium\n\nair\n\nstation,\nthermal\n\npower station\n1000\"C\n\nFC\n\ne\n\nOverview of fuel cell types\n\n470\n\noxide\n\nnatural,\ntown and\nbiogas\n\npower\nstation,\nthermal\npower station\n\nCombined heat and power {CHP) is the combined production of\nheating and mechanical energy, which is converted into electricity\nin a generator. The basic idea is the generation of electrical energy\nand the exploitation of the heat, which is always produced at the\nsame time. Smaller installations (for one or more buildings) use\ncombustion motors or gas turbines instead of the water/steam\ncircuit normally found in a power station.\nA block heating and power system is a small power station, which\nproduces electricity and space heating at the same time, working as\na mini- or micro-CHP system. The size of a block heating and power\nsystem has a decisive influence on its cost-effectiveness, because\nthe energy produced by a CHP system consists of about Ya electricity\nand % heat. The variable energy demand for buildings according to\ntime of day and season necessitates the sizing of the block heating\nand power system according to electricity or heating demand. If\nthe block heating and power system is designed to meet heating\ndemand, then excess electricity is fed into the grid and electricity is\nconsumed from the grid when the output is insufficient. If the block\nheating and power system is designed to meet electricity demand,\nthen excess heat is stored in a buffer cylinder and an external boiler\nis required when the heat produced is insufficient.\nBlock heating and power systems are mostly designed to meet\nthe heating demand. The precondition is that the curve of heat\nand electricity demand against time is known for the building or\nconsumer group. For the design of new residential buildings, the\ndemand can be estimated fairly accurately using characteristic\ncurves. A block heating and power system will normally produce\nenough heat to meet basic requirements and excess electricity is\nfed into the grid though an additional meter. The heating demand\nat peak times is then met by an additional source of heating.\nBlock heating and power systems are available in various sizes:\nthe smallest models for single houses from approx. 2 kW of\nelectrical power and powered by a four-stroke or Stirling motor\n(micro-CHP), small plants up to 30 kW can be used for blocks\nof up to six flats (mini-CHP). Compact block heating and power\nsystems cover the range up to 400 kW, above that large systems\nare needed. The space required for a mini-CHP system from 5.5\nkW electricity output is 4m 2 , for 15 kW 6.5 m2 , and any areas for\nadditional heating boilers should be added.\nFor installation in buildings, sufficient air supply and extract openings\nshould be specified and the exhaust pipe continued to above the\nroof. The system should either be encapsulated as a module or\nsufficiently sound insulated between itself and occupied rooms.\nFuel cells produce electricity and heat out of water and hydrogen\nin a reverse-electrolysis process. They consist of electrodes (anode\nand cathode) and an electrolyte. This separates the electrodes\nand the reaction partner supplied. Fuel cells generate DC, which\nis concerted into AC in an inverter. The waste heat can be used\nfor space heating through a cooling circuit. Hydrogen is produced\nfrom natural gas or methane/methanol in a reformer. Like CHP\nsystems, fuel cells produce electricity and heat simultaneously,\nbut without mechanical parts or noise.\nAs with a CHP system, the selection of the correct fuel cell can\nbe based either on electricity or heating demand, and in the same\nway design to cover base load with an alternative source for the\nproduction for peak loads is sensible. The excess heat in the summer\nmonths can be used to drive an absorption refrigeration machine.\nFuel cells are differentiated according to operating temperatures\n(high-temperature, low-temperature fuel cells) and electrolyte used.\nLow-temperature fuel cells are already available for smaller building\napplications like blocks of flats or small commercial use, but hightemperature fuel cells are practical only in large applications because\nthey produce electricity and heat in large quantities and the high\ntemperatures have to be dispersed through multiple use in an energy\ncascade. Fuel cells are suitable for upgrading and new installations.\n\n\f"
+        },
+        {
+          "label": "Phosphoric acid fuel cell operating temperature",
+          "value": 200.0,
+          "value_max": null,
+          "unit": "°C",
+          "context": "PAFC.",
+          "status": "verified",
+          "ocr_raw": "RENEWABLE ENERGY\nCHP, Block Heating and Power, Fuel Cells\nHeat\n\n<\nHeat\nCooling water\nheat exchanger\n\nQ Functional principle of combined heat and power (Schmid --> refs)\n\nSOUND INSULATION\nExhaust damper\n\nInsulation\n\n~--~\n\nthrough massive\n\nmasonry (concrete)\n\nAir supply\ndamper\n\nWHHHHHHH\n\n-·-::::::·-·-·-·-·:::::-~\n\nf) Block heating and power system and constructional ancillaries (Bohne --> refs)\n\nCathode\n\nRENEWABLE\nENERGY\n\nOverview\nSolar energy\nBioenergy\nGeothermal\nenergy, heat\npumps\nCHP, block\nheating and\npower, fuel cells\n\nMembrane\n\nAnode\n\nHeat\n\nC) Principle of a fuel cell (Bohne--> refs)\n\nDescription Abbreviation Operating\n\nElectrolyte Fuel.\n\nOxidant Application\n\ntemperature\nalkaline FC AFC\n\n80\"C\n\ncaustic\n\nhydrogen oxygen\n\nspace\n\npotash\npolymerPEMFC\nelectrolyte-\n\n80\"C\n\nsolid\npolymer\n\nhydrogen, oxygen/ transport,\nsmall power\nmethanol air\n\nmembrane\n\nstation\n\nFC\nphosphoric PAFC\nacid FC\n\n200\"C\n\nphosphoric natural\nacid\ngas\n\nair\n\nthermal\npower station\n\nmolten\ncarbonate\nFC\n\nMCFC\n\n650\"C\n\nlithium and natural,\npotassium town and\ncarbonate biogas\n\nair\n\npower\n\noxide\nceramic\n\nSOFC\n\nzirconium\n\nair\n\nstation,\nthermal\n\npower station\n1000\"C\n\nFC\n\ne\n\nOverview of fuel cell types\n\n470\n\noxide\n\nnatural,\ntown and\nbiogas\n\npower\nstation,\nthermal\npower station\n\nCombined heat and power {CHP) is the combined production of\nheating and mechanical energy, which is converted into electricity\nin a generator. The basic idea is the generation of electrical energy\nand the exploitation of the heat, which is always produced at the\nsame time. Smaller installations (for one or more buildings) use\ncombustion motors or gas turbines instead of the water/steam\ncircuit normally found in a power station.\nA block heating and power system is a small power station, which\nproduces electricity and space heating at the same time, working as\na mini- or micro-CHP system. The size of a block heating and power\nsystem has a decisive influence on its cost-effectiveness, because\nthe energy produced by a CHP system consists of about Ya electricity\nand % heat. The variable energy demand for buildings according to\ntime of day and season necessitates the sizing of the block heating\nand power system according to electricity or heating demand. If\nthe block heating and power system is designed to meet heating\ndemand, then excess electricity is fed into the grid and electricity is\nconsumed from the grid when the output is insufficient. If the block\nheating and power system is designed to meet electricity demand,\nthen excess heat is stored in a buffer cylinder and an external boiler\nis required when the heat produced is insufficient.\nBlock heating and power systems are mostly designed to meet\nthe heating demand. The precondition is that the curve of heat\nand electricity demand against time is known for the building or\nconsumer group. For the design of new residential buildings, the\ndemand can be estimated fairly accurately using characteristic\ncurves. A block heating and power system will normally produce\nenough heat to meet basic requirements and excess electricity is\nfed into the grid though an additional meter. The heating demand\nat peak times is then met by an additional source of heating.\nBlock heating and power systems are available in various sizes:\nthe smallest models for single houses from approx. 2 kW of\nelectrical power and powered by a four-stroke or Stirling motor\n(micro-CHP), small plants up to 30 kW can be used for blocks\nof up to six flats (mini-CHP). Compact block heating and power\nsystems cover the range up to 400 kW, above that large systems\nare needed. The space required for a mini-CHP system from 5.5\nkW electricity output is 4m 2 , for 15 kW 6.5 m2 , and any areas for\nadditional heating boilers should be added.\nFor installation in buildings, sufficient air supply and extract openings\nshould be specified and the exhaust pipe continued to above the\nroof. The system should either be encapsulated as a module or\nsufficiently sound insulated between itself and occupied rooms.\nFuel cells produce electricity and heat out of water and hydrogen\nin a reverse-electrolysis process. They consist of electrodes (anode\nand cathode) and an electrolyte. This separates the electrodes\nand the reaction partner supplied. Fuel cells generate DC, which\nis concerted into AC in an inverter. The waste heat can be used\nfor space heating through a cooling circuit. Hydrogen is produced\nfrom natural gas or methane/methanol in a reformer. Like CHP\nsystems, fuel cells produce electricity and heat simultaneously,\nbut without mechanical parts or noise.\nAs with a CHP system, the selection of the correct fuel cell can\nbe based either on electricity or heating demand, and in the same\nway design to cover base load with an alternative source for the\nproduction for peak loads is sensible. The excess heat in the summer\nmonths can be used to drive an absorption refrigeration machine.\nFuel cells are differentiated according to operating temperatures\n(high-temperature, low-temperature fuel cells) and electrolyte used.\nLow-temperature fuel cells are already available for smaller building\napplications like blocks of flats or small commercial use, but hightemperature fuel cells are practical only in large applications because\nthey produce electricity and heat in large quantities and the high\ntemperatures have to be dispersed through multiple use in an energy\ncascade. Fuel cells are suitable for upgrading and new installations.\n\n\f"
+        },
+        {
+          "label": "Molten carbonate fuel cell operating temperature",
+          "value": 650.0,
+          "value_max": null,
+          "unit": "°C",
+          "context": "MCFC.",
+          "status": "verified",
+          "ocr_raw": "RENEWABLE ENERGY\nCHP, Block Heating and Power, Fuel Cells\nHeat\n\n<\nHeat\nCooling water\nheat exchanger\n\nQ Functional principle of combined heat and power (Schmid --> refs)\n\nSOUND INSULATION\nExhaust damper\n\nInsulation\n\n~--~\n\nthrough massive\n\nmasonry (concrete)\n\nAir supply\ndamper\n\nWHHHHHHH\n\n-·-::::::·-·-·-·-·:::::-~\n\nf) Block heating and power system and constructional ancillaries (Bohne --> refs)\n\nCathode\n\nRENEWABLE\nENERGY\n\nOverview\nSolar energy\nBioenergy\nGeothermal\nenergy, heat\npumps\nCHP, block\nheating and\npower, fuel cells\n\nMembrane\n\nAnode\n\nHeat\n\nC) Principle of a fuel cell (Bohne--> refs)\n\nDescription Abbreviation Operating\n\nElectrolyte Fuel.\n\nOxidant Application\n\ntemperature\nalkaline FC AFC\n\n80\"C\n\ncaustic\n\nhydrogen oxygen\n\nspace\n\npotash\npolymerPEMFC\nelectrolyte-\n\n80\"C\n\nsolid\npolymer\n\nhydrogen, oxygen/ transport,\nsmall power\nmethanol air\n\nmembrane\n\nstation\n\nFC\nphosphoric PAFC\nacid FC\n\n200\"C\n\nphosphoric natural\nacid\ngas\n\nair\n\nthermal\npower station\n\nmolten\ncarbonate\nFC\n\nMCFC\n\n650\"C\n\nlithium and natural,\npotassium town and\ncarbonate biogas\n\nair\n\npower\n\noxide\nceramic\n\nSOFC\n\nzirconium\n\nair\n\nstation,\nthermal\n\npower station\n1000\"C\n\nFC\n\ne\n\nOverview of fuel cell types\n\n470\n\noxide\n\nnatural,\ntown and\nbiogas\n\npower\nstation,\nthermal\npower station\n\nCombined heat and power {CHP) is the combined production of\nheating and mechanical energy, which is converted into electricity\nin a generator. The basic idea is the generation of electrical energy\nand the exploitation of the heat, which is always produced at the\nsame time. Smaller installations (for one or more buildings) use\ncombustion motors or gas turbines instead of the water/steam\ncircuit normally found in a power station.\nA block heating and power system is a small power station, which\nproduces electricity and space heating at the same time, working as\na mini- or micro-CHP system. The size of a block heating and power\nsystem has a decisive influence on its cost-effectiveness, because\nthe energy produced by a CHP system consists of about Ya electricity\nand % heat. The variable energy demand for buildings according to\ntime of day and season necessitates the sizing of the block heating\nand power system according to electricity or heating demand. If\nthe block heating and power system is designed to meet heating\ndemand, then excess electricity is fed into the grid and electricity is\nconsumed from the grid when the output is insufficient. If the block\nheating and power system is designed to meet electricity demand,\nthen excess heat is stored in a buffer cylinder and an external boiler\nis required when the heat produced is insufficient.\nBlock heating and power systems are mostly designed to meet\nthe heating demand. The precondition is that the curve of heat\nand electricity demand against time is known for the building or\nconsumer group. For the design of new residential buildings, the\ndemand can be estimated fairly accurately using characteristic\ncurves. A block heating and power system will normally produce\nenough heat to meet basic requirements and excess electricity is\nfed into the grid though an additional meter. The heating demand\nat peak times is then met by an additional source of heating.\nBlock heating and power systems are available in various sizes:\nthe smallest models for single houses from approx. 2 kW of\nelectrical power and powered by a four-stroke or Stirling motor\n(micro-CHP), small plants up to 30 kW can be used for blocks\nof up to six flats (mini-CHP). Compact block heating and power\nsystems cover the range up to 400 kW, above that large systems\nare needed. The space required for a mini-CHP system from 5.5\nkW electricity output is 4m 2 , for 15 kW 6.5 m2 , and any areas for\nadditional heating boilers should be added.\nFor installation in buildings, sufficient air supply and extract openings\nshould be specified and the exhaust pipe continued to above the\nroof. The system should either be encapsulated as a module or\nsufficiently sound insulated between itself and occupied rooms.\nFuel cells produce electricity and heat out of water and hydrogen\nin a reverse-electrolysis process. They consist of electrodes (anode\nand cathode) and an electrolyte. This separates the electrodes\nand the reaction partner supplied. Fuel cells generate DC, which\nis concerted into AC in an inverter. The waste heat can be used\nfor space heating through a cooling circuit. Hydrogen is produced\nfrom natural gas or methane/methanol in a reformer. Like CHP\nsystems, fuel cells produce electricity and heat simultaneously,\nbut without mechanical parts or noise.\nAs with a CHP system, the selection of the correct fuel cell can\nbe based either on electricity or heating demand, and in the same\nway design to cover base load with an alternative source for the\nproduction for peak loads is sensible. The excess heat in the summer\nmonths can be used to drive an absorption refrigeration machine.\nFuel cells are differentiated according to operating temperatures\n(high-temperature, low-temperature fuel cells) and electrolyte used.\nLow-temperature fuel cells are already available for smaller building\napplications like blocks of flats or small commercial use, but hightemperature fuel cells are practical only in large applications because\nthey produce electricity and heat in large quantities and the high\ntemperatures have to be dispersed through multiple use in an energy\ncascade. Fuel cells are suitable for upgrading and new installations.\n\n\f"
+        },
+        {
+          "label": "Oxide ceramic fuel cell operating temperature",
+          "value": 1000.0,
+          "value_max": null,
+          "unit": "°C",
+          "context": "SOFC.",
+          "status": "verified",
+          "ocr_raw": "RENEWABLE ENERGY\nCHP, Block Heating and Power, Fuel Cells\nHeat\n\n<\nHeat\nCooling water\nheat exchanger\n\nQ Functional principle of combined heat and power (Schmid --> refs)\n\nSOUND INSULATION\nExhaust damper\n\nInsulation\n\n~--~\n\nthrough massive\n\nmasonry (concrete)\n\nAir supply\ndamper\n\nWHHHHHHH\n\n-·-::::::·-·-·-·-·:::::-~\n\nf) Block heating and power system and constructional ancillaries (Bohne --> refs)\n\nCathode\n\nRENEWABLE\nENERGY\n\nOverview\nSolar energy\nBioenergy\nGeothermal\nenergy, heat\npumps\nCHP, block\nheating and\npower, fuel cells\n\nMembrane\n\nAnode\n\nHeat\n\nC) Principle of a fuel cell (Bohne--> refs)\n\nDescription Abbreviation Operating\n\nElectrolyte Fuel.\n\nOxidant Application\n\ntemperature\nalkaline FC AFC\n\n80\"C\n\ncaustic\n\nhydrogen oxygen\n\nspace\n\npotash\npolymerPEMFC\nelectrolyte-\n\n80\"C\n\nsolid\npolymer\n\nhydrogen, oxygen/ transport,\nsmall power\nmethanol air\n\nmembrane\n\nstation\n\nFC\nphosphoric PAFC\nacid FC\n\n200\"C\n\nphosphoric natural\nacid\ngas\n\nair\n\nthermal\npower station\n\nmolten\ncarbonate\nFC\n\nMCFC\n\n650\"C\n\nlithium and natural,\npotassium town and\ncarbonate biogas\n\nair\n\npower\n\noxide\nceramic\n\nSOFC\n\nzirconium\n\nair\n\nstation,\nthermal\n\npower station\n1000\"C\n\nFC\n\ne\n\nOverview of fuel cell types\n\n470\n\noxide\n\nnatural,\ntown and\nbiogas\n\npower\nstation,\nthermal\npower station\n\nCombined heat and power {CHP) is the combined production of\nheating and mechanical energy, which is converted into electricity\nin a generator. The basic idea is the generation of electrical energy\nand the exploitation of the heat, which is always produced at the\nsame time. Smaller installations (for one or more buildings) use\ncombustion motors or gas turbines instead of the water/steam\ncircuit normally found in a power station.\nA block heating and power system is a small power station, which\nproduces electricity and space heating at the same time, working as\na mini- or micro-CHP system. The size of a block heating and power\nsystem has a decisive influence on its cost-effectiveness, because\nthe energy produced by a CHP system consists of about Ya electricity\nand % heat. The variable energy demand for buildings according to\ntime of day and season necessitates the sizing of the block heating\nand power system according to electricity or heating demand. If\nthe block heating and power system is designed to meet heating\ndemand, then excess electricity is fed into the grid and electricity is\nconsumed from the grid when the output is insufficient. If the block\nheating and power system is designed to meet electricity demand,\nthen excess heat is stored in a buffer cylinder and an external boiler\nis required when the heat produced is insufficient.\nBlock heating and power systems are mostly designed to meet\nthe heating demand. The precondition is that the curve of heat\nand electricity demand against time is known for the building or\nconsumer group. For the design of new residential buildings, the\ndemand can be estimated fairly accurately using characteristic\ncurves. A block heating and power system will normally produce\nenough heat to meet basic requirements and excess electricity is\nfed into the grid though an additional meter. The heating demand\nat peak times is then met by an additional source of heating.\nBlock heating and power systems are available in various sizes:\nthe smallest models for single houses from approx. 2 kW of\nelectrical power and powered by a four-stroke or Stirling motor\n(micro-CHP), small plants up to 30 kW can be used for blocks\nof up to six flats (mini-CHP). Compact block heating and power\nsystems cover the range up to 400 kW, above that large systems\nare needed. The space required for a mini-CHP system from 5.5\nkW electricity output is 4m 2 , for 15 kW 6.5 m2 , and any areas for\nadditional heating boilers should be added.\nFor installation in buildings, sufficient air supply and extract openings\nshould be specified and the exhaust pipe continued to above the\nroof. The system should either be encapsulated as a module or\nsufficiently sound insulated between itself and occupied rooms.\nFuel cells produce electricity and heat out of water and hydrogen\nin a reverse-electrolysis process. They consist of electrodes (anode\nand cathode) and an electrolyte. This separates the electrodes\nand the reaction partner supplied. Fuel cells generate DC, which\nis concerted into AC in an inverter. The waste heat can be used\nfor space heating through a cooling circuit. Hydrogen is produced\nfrom natural gas or methane/methanol in a reformer. Like CHP\nsystems, fuel cells produce electricity and heat simultaneously,\nbut without mechanical parts or noise.\nAs with a CHP system, the selection of the correct fuel cell can\nbe based either on electricity or heating demand, and in the same\nway design to cover base load with an alternative source for the\nproduction for peak loads is sensible. The excess heat in the summer\nmonths can be used to drive an absorption refrigeration machine.\nFuel cells are differentiated according to operating temperatures\n(high-temperature, low-temperature fuel cells) and electrolyte used.\nLow-temperature fuel cells are already available for smaller building\napplications like blocks of flats or small commercial use, but hightemperature fuel cells are practical only in large applications because\nthey produce electricity and heat in large quantities and the high\ntemperatures have to be dispersed through multiple use in an energy\ncascade. Fuel cells are suitable for upgrading and new installations.\n\n\f"
+        }
+      ],
+      "figure_refs": [
+        "Principle of a fuel cell (Bohne → refs)",
+        "Overview of fuel cell types"
+      ],
+      "cross_refs": [
+        "Bohne → refs"
+      ],
+      "keywords": [
+        "fuel cell",
+        "AFC",
+        "PEMFC",
+        "PAFC",
+        "MCFC",
+        "SOFC",
+        "electrolyte",
+        "anode",
+        "cathode",
+        "reformer",
+        "inverter",
+        "reverse electrolysis"
+      ],
+      "tags_architectural": [
+        "ventilation",
+        "adaptability"
+      ],
+      "confidence": 0.94
+    }
+  ]
+}

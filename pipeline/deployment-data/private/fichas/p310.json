@@ -1,0 +1,275 @@
+{
+  "fichas": [
+    {
+      "id": "4122fb96e4bd1976-310-vision-0",
+      "pdf_page": 310,
+      "book_page": 297,
+      "chapter": "HEALTH",
+      "section": "Hospitals",
+      "title": "Outpatient facilities",
+      "summary": "Outpatient facilities serve ambulant patients attending by appointment. The design should separate outpatient and inpatient routes, provide rapid access to X-ray, and allow for larger waiting and examination areas where outpatient attendance or day surgery is substantial.",
+      "building_type": "Hospital outpatient department",
+      "spaces": [
+        "Outpatient rooms",
+        "Waiting rooms",
+        "Route to X-ray department"
+      ],
+      "uses": [
+        "Outpatient consultation and treatment",
+        "Outpatient day surgery"
+      ],
+      "furniture_equipment": [],
+      "dimensions": [],
+      "figure_refs": [
+        "Figure 1: Outpatients, ground floor, Berlin-Spandau Hospital; today: Vivantes Clinic Berlin-Spandau"
+      ],
+      "cross_refs": [
+        "Outpatient surgery",
+        "Outpatient medical centre"
+      ],
+      "keywords": [
+        "outpatient facilities",
+        "patient routing",
+        "X-ray",
+        "day surgery"
+      ],
+      "tags_architectural": [
+        "circulation",
+        "adaptability"
+      ],
+      "confidence": 0.95
+    },
+    {
+      "id": "4122fb96e4bd1976-310-vision-1",
+      "pdf_page": 310,
+      "book_page": 297,
+      "chapter": "HEALTH",
+      "section": "Hospitals",
+      "title": "Outpatient surgery",
+      "summary": "Outpatient surgery departments may be added to existing hospitals, integrated with a surgical department, or established as independent clinics. Hospital departments should be near the main entrance and emergency care. A cited elective-treatment arrangement uses smaller operating theatres, a multifunctional preparation room, shared washrooms, a five-place recovery room, and a quiet zone; separate preparation and post-operative rooms, storerooms, and conventional patient access-control lobbies are omitted.",
+      "building_type": "Outpatient surgical department",
+      "spaces": [
+        "Operating theatres",
+        "Preparation room",
+        "Washrooms",
+        "Recovery room",
+        "Quiet zone"
+      ],
+      "uses": [
+        "Elective outpatient surgery",
+        "Day-clinic and short-stay treatment"
+      ],
+      "furniture_equipment": [
+        "Anaesthetic technology",
+        "Ceiling supply units"
+      ],
+      "dimensions": [
+        {
+          "label": "Operating theatre area",
+          "value": 30.0,
+          "value_max": null,
+          "unit": "m²",
+          "context": "Approximate area of the smaller operating theatres in the described arrangement.",
+          "status": "verified",
+          "ocr_raw": "smaller operating theatres (approx. 30 m2)"
+        },
+        {
+          "label": "Recovery room places",
+          "value": 5.0,
+          "value_max": null,
+          "unit": "places",
+          "context": "Number of places in one recovery room in the described arrangement.",
+          "status": "verified",
+          "ocr_raw": "one recovery room with five places"
+        }
+      ],
+      "figure_refs": [],
+      "cross_refs": [
+        "Outpatient facilities",
+        "Outpatient medical centre"
+      ],
+      "keywords": [
+        "outpatient surgery",
+        "elective surgery",
+        "recovery room",
+        "patient wayfinding"
+      ],
+      "tags_architectural": [
+        "circulation",
+        "safety",
+        "adaptability"
+      ],
+      "confidence": 0.95
+    },
+    {
+      "id": "4122fb96e4bd1976-310-vision-2",
+      "pdf_page": 310,
+      "book_page": 297,
+      "chapter": "HEALTH",
+      "section": "Hospitals",
+      "title": "Outpatient medical centre and emergency admission example",
+      "summary": "A separate outpatient or short-stay establishment associated with a hospital has room and organisational arrangements distinct from inpatient care. Its medical services and equipment should be assessed for the planned treatment spectrum; furnishing may be more generous regarding hygiene, and ventilation and other technical systems should be critically evaluated. Figure 2 shows an emergency admission plan for Helios Clinic, Gotha, with a waiting room, admissions, examination and treatment spaces, emergency beds, surgery-related rooms, patient changing, and support spaces.",
+      "building_type": "Outpatient medical centre / emergency admission unit",
+      "spaces": [
+        "Waiting room",
+        "Admissions",
+        "Emergency beds",
+        "Investigation and treatment rooms",
+        "Surgery clean room",
+        "Surgery unclean room",
+        "Preparation room",
+        "Patient bathroom",
+        "Patient changing rooms",
+        "Plaster room",
+        "Treatment of shock",
+        "Stretcher storage",
+        "Supply",
+        "Disposal",
+        "Staff changing",
+        "Doctor",
+        "Social space"
+      ],
+      "uses": [
+        "Outpatient treatment",
+        "Short-stay treatment",
+        "Emergency admission and treatment"
+      ],
+      "furniture_equipment": [
+        "Examination and treatment equipment",
+        "Emergency beds",
+        "Stretcher"
+      ],
+      "dimensions": [
+        {
+          "label": "Plan dimension",
+          "value": 30.0,
+          "value_max": null,
+          "unit": "m²",
+          "context": "Approximate operating-theatre area stated in the adjoining outpatient-surgery text; not a dimension of the Figure 2 plan.",
+          "status": "verified",
+          "ocr_raw": "smaller operating theatres (approx. 30 m2)"
+        },
+        {
+          "label": "Plan dimension chain segment",
+          "value": 7.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Figure 2 bottom dimension chain; unit is not printed alongside the dimension.",
+          "status": "uncertain",
+          "ocr_raw": "7.00"
+        },
+        {
+          "label": "Plan dimension chain segment",
+          "value": 2.3,
+          "value_max": null,
+          "unit": "m",
+          "context": "Figure 2 bottom dimension chain; unit is not printed alongside the dimension.",
+          "status": "uncertain",
+          "ocr_raw": "2.30"
+        },
+        {
+          "label": "Plan dimension chain segment",
+          "value": 5.9,
+          "value_max": null,
+          "unit": "m",
+          "context": "Figure 2 bottom dimension chain; unit is not printed alongside the dimension.",
+          "status": "uncertain",
+          "ocr_raw": "5.90"
+        },
+        {
+          "label": "Plan dimension chain segment",
+          "value": 3.4,
+          "value_max": null,
+          "unit": "m",
+          "context": "Figure 2 bottom dimension chain; unit is not printed alongside the dimension.",
+          "status": "uncertain",
+          "ocr_raw": "3.40"
+        },
+        {
+          "label": "Plan dimension chain segment",
+          "value": 7.3,
+          "value_max": null,
+          "unit": "m",
+          "context": "Figure 2 bottom dimension chain; unit is not printed alongside the dimension.",
+          "status": "uncertain",
+          "ocr_raw": "7.30"
+        },
+        {
+          "label": "Plan dimension chain segment",
+          "value": 4.6,
+          "value_max": null,
+          "unit": "m",
+          "context": "Figure 2 left-side dimension chain; unit is not printed alongside the dimension.",
+          "status": "uncertain",
+          "ocr_raw": "HOSPITALS\nOutpatient Area\n\nOutpatient facilities\nFacilities for outpatient treatment are visited daily or consulted\nmany times, according to an appointment schedule, by patients\ncapable of walking.\n\nOf particular importance is the allocation of outpatient rooms. A\nseparation of the routeing of outpatients and inpatients should\nbe included in the design work at an early stage. The number of\noutpatients attending depends on the size of, and the specialist\ndepartments in, a particular hospital. If there are a large number\nof outpatients, then a larger dedicated area can be provided,\nseparate from the rest of the activity. There must, however, always\nbe a rapid connection to the X-ray department. The increasing\nsignificance of outpatient (day) surgery should also be considered\n(larger waiting rooms, more outpatient rooms).\nOutpatient surgery\nThe share of operations performed on outpatients will increase\nfurther. Outpatient (or day) surgery departments can be added to\nexisting hospitals, integrated into the surgical department or set\nup as independent clinics. In the hospital, the department should\nbe near the main entrance and the emergency care department.\n\nThe patients in an outpatient surgical centre (mainly undergoing\nelective operations as part of an outpatient, day clinic or short-stay\ntreatment arrangement) are in a different physical and mental state\nfrom patients delivered as emergency cases. A clear guidance and\nsignposting system and friendly, confidence-boosting ambience\nare particularly recommended.\nOne surgical department which concentrates on elective\noutpatient treatment, has a 'modern' room arrangement with\nsmaller operating theatres (approx. 30 m2), a multi-functional\npreparation room, smaller washrooms for two operating theatres,\none recovery room with five places, and a quiet zone. There are\nno purely preparation and post-op rooms, storerooms or classic\naccess control lobbies for patients.\nground floor, Berlln-Spandau Hospital; today: Vivantes Clinic\n0 Outpatients,\nBerlin-Spandau\nArch.: Heinie, Wischer und Partner Freie Architekten\n\n.,.\n\nT\n\n0\n\n0\n\nN\n\n\"\n\nN\n\n(0\n\n\"'\"'\n\n~t\n\nOutpatient medical centre\nThis is a separate establishment associated with a hospital for\nthe treatment of patients on an outpatient or short-stay basis;\nthe room and organisational structure differ considerably from\ninpatient hospital treatment. The spectrum of complaints treated\nand the medical services offered have to be considered. The\ntechnical medical equipment can be reduced and the room\nfurnishing can be designed rather more generously regarding\nhygiene (e.g. carpets, parquet).\n\n0\n\n\"'\n\n\"\n~\n\n\"'\"!\n\n\"'\n\n0\n0\n\n<'i\n\n~t\n.,.\"'\n<ri\n\n0\n0\n\n,..:\n\n1\n\nInpatient care and therapy of patients with infectious diseases,\nchronic illnesses, serious complications after an operation etc.\nare not provided here, so the stringency of the hospital building\nregulations can be partially relaxed or even waived for a particular\nproject with carefully reasoned exemption applications.\nThe decision about the quantity and quality of ventilation\nequipment, anaesthetic technology, ceiling supply units, radiation\nprotection equipment etc. should be critically examined, because\nthere are considerable potential savings. For most operations, airhandling systems to reduce bacteria counts and particles are not\nnecessary, so the advance determination of the planned spectrum\nof operations is also of economic significance.\n\nWailing\nroom\n\nDoomm\n10\n\n10\n\n15\n\n24\n\n1--- 7.00 ----f 2.30 -If----- 5.90 - i l - 3.40 -1+--------- 7.30 -----1\n\nf) Emergency admission, Helios Clinic, Gotha\n\nArch.: Worner+ Partner\n\n297\n\nHOSPITALS\n\nGeneral, modular\ngrid\nBuilding design\nExamples\nCorridors, doors,\nstairs, lifts\nOperational\nareas\nOutpatient area\n\nOulpatient\nmedical centreexample\nExamination and\ntreatment\nCare\nAdministration,\nsocial seJVices\nSupply and waste\ndisposal\nTechnical supply\n\n\f"
+        },
+        {
+          "label": "Plan dimension chain segment",
+          "value": 2.44,
+          "value_max": null,
+          "unit": "m",
+          "context": "Figure 2 left-side dimension chain; unit is not printed alongside the dimension.",
+          "status": "uncertain",
+          "ocr_raw": "HOSPITALS\nOutpatient Area\n\nOutpatient facilities\nFacilities for outpatient treatment are visited daily or consulted\nmany times, according to an appointment schedule, by patients\ncapable of walking.\n\nOf particular importance is the allocation of outpatient rooms. A\nseparation of the routeing of outpatients and inpatients should\nbe included in the design work at an early stage. The number of\noutpatients attending depends on the size of, and the specialist\ndepartments in, a particular hospital. If there are a large number\nof outpatients, then a larger dedicated area can be provided,\nseparate from the rest of the activity. There must, however, always\nbe a rapid connection to the X-ray department. The increasing\nsignificance of outpatient (day) surgery should also be considered\n(larger waiting rooms, more outpatient rooms).\nOutpatient surgery\nThe share of operations performed on outpatients will increase\nfurther. Outpatient (or day) surgery departments can be added to\nexisting hospitals, integrated into the surgical department or set\nup as independent clinics. In the hospital, the department should\nbe near the main entrance and the emergency care department.\n\nThe patients in an outpatient surgical centre (mainly undergoing\nelective operations as part of an outpatient, day clinic or short-stay\ntreatment arrangement) are in a different physical and mental state\nfrom patients delivered as emergency cases. A clear guidance and\nsignposting system and friendly, confidence-boosting ambience\nare particularly recommended.\nOne surgical department which concentrates on elective\noutpatient treatment, has a 'modern' room arrangement with\nsmaller operating theatres (approx. 30 m2), a multi-functional\npreparation room, smaller washrooms for two operating theatres,\none recovery room with five places, and a quiet zone. There are\nno purely preparation and post-op rooms, storerooms or classic\naccess control lobbies for patients.\nground floor, Berlln-Spandau Hospital; today: Vivantes Clinic\n0 Outpatients,\nBerlin-Spandau\nArch.: Heinie, Wischer und Partner Freie Architekten\n\n.,.\n\nT\n\n0\n\n0\n\nN\n\n\"\n\nN\n\n(0\n\n\"'\"'\n\n~t\n\nOutpatient medical centre\nThis is a separate establishment associated with a hospital for\nthe treatment of patients on an outpatient or short-stay basis;\nthe room and organisational structure differ considerably from\ninpatient hospital treatment. The spectrum of complaints treated\nand the medical services offered have to be considered. The\ntechnical medical equipment can be reduced and the room\nfurnishing can be designed rather more generously regarding\nhygiene (e.g. carpets, parquet).\n\n0\n\n\"'\n\n\"\n~\n\n\"'\"!\n\n\"'\n\n0\n0\n\n<'i\n\n~t\n.,.\"'\n<ri\n\n0\n0\n\n,..:\n\n1\n\nInpatient care and therapy of patients with infectious diseases,\nchronic illnesses, serious complications after an operation etc.\nare not provided here, so the stringency of the hospital building\nregulations can be partially relaxed or even waived for a particular\nproject with carefully reasoned exemption applications.\nThe decision about the quantity and quality of ventilation\nequipment, anaesthetic technology, ceiling supply units, radiation\nprotection equipment etc. should be critically examined, because\nthere are considerable potential savings. For most operations, airhandling systems to reduce bacteria counts and particles are not\nnecessary, so the advance determination of the planned spectrum\nof operations is also of economic significance.\n\nWailing\nroom\n\nDoomm\n10\n\n10\n\n15\n\n24\n\n1--- 7.00 ----f 2.30 -If----- 5.90 - i l - 3.40 -1+--------- 7.30 -----1\n\nf) Emergency admission, Helios Clinic, Gotha\n\nArch.: Worner+ Partner\n\n297\n\nHOSPITALS\n\nGeneral, modular\ngrid\nBuilding design\nExamples\nCorridors, doors,\nstairs, lifts\nOperational\nareas\nOutpatient area\n\nOulpatient\nmedical centreexample\nExamination and\ntreatment\nCare\nAdministration,\nsocial seJVices\nSupply and waste\ndisposal\nTechnical supply\n\n\f"
+        },
+        {
+          "label": "Plan dimension chain segment",
+          "value": 4.9,
+          "value_max": null,
+          "unit": "m",
+          "context": "Figure 2 left-side dimension chain; unit is not printed alongside the dimension.",
+          "status": "uncertain",
+          "ocr_raw": "HOSPITALS\nOutpatient Area\n\nOutpatient facilities\nFacilities for outpatient treatment are visited daily or consulted\nmany times, according to an appointment schedule, by patients\ncapable of walking.\n\nOf particular importance is the allocation of outpatient rooms. A\nseparation of the routeing of outpatients and inpatients should\nbe included in the design work at an early stage. The number of\noutpatients attending depends on the size of, and the specialist\ndepartments in, a particular hospital. If there are a large number\nof outpatients, then a larger dedicated area can be provided,\nseparate from the rest of the activity. There must, however, always\nbe a rapid connection to the X-ray department. The increasing\nsignificance of outpatient (day) surgery should also be considered\n(larger waiting rooms, more outpatient rooms).\nOutpatient surgery\nThe share of operations performed on outpatients will increase\nfurther. Outpatient (or day) surgery departments can be added to\nexisting hospitals, integrated into the surgical department or set\nup as independent clinics. In the hospital, the department should\nbe near the main entrance and the emergency care department.\n\nThe patients in an outpatient surgical centre (mainly undergoing\nelective operations as part of an outpatient, day clinic or short-stay\ntreatment arrangement) are in a different physical and mental state\nfrom patients delivered as emergency cases. A clear guidance and\nsignposting system and friendly, confidence-boosting ambience\nare particularly recommended.\nOne surgical department which concentrates on elective\noutpatient treatment, has a 'modern' room arrangement with\nsmaller operating theatres (approx. 30 m2), a multi-functional\npreparation room, smaller washrooms for two operating theatres,\none recovery room with five places, and a quiet zone. There are\nno purely preparation and post-op rooms, storerooms or classic\naccess control lobbies for patients.\nground floor, Berlln-Spandau Hospital; today: Vivantes Clinic\n0 Outpatients,\nBerlin-Spandau\nArch.: Heinie, Wischer und Partner Freie Architekten\n\n.,.\n\nT\n\n0\n\n0\n\nN\n\n\"\n\nN\n\n(0\n\n\"'\"'\n\n~t\n\nOutpatient medical centre\nThis is a separate establishment associated with a hospital for\nthe treatment of patients on an outpatient or short-stay basis;\nthe room and organisational structure differ considerably from\ninpatient hospital treatment. The spectrum of complaints treated\nand the medical services offered have to be considered. The\ntechnical medical equipment can be reduced and the room\nfurnishing can be designed rather more generously regarding\nhygiene (e.g. carpets, parquet).\n\n0\n\n\"'\n\n\"\n~\n\n\"'\"!\n\n\"'\n\n0\n0\n\n<'i\n\n~t\n.,.\"'\n<ri\n\n0\n0\n\n,..:\n\n1\n\nInpatient care and therapy of patients with infectious diseases,\nchronic illnesses, serious complications after an operation etc.\nare not provided here, so the stringency of the hospital building\nregulations can be partially relaxed or even waived for a particular\nproject with carefully reasoned exemption applications.\nThe decision about the quantity and quality of ventilation\nequipment, anaesthetic technology, ceiling supply units, radiation\nprotection equipment etc. should be critically examined, because\nthere are considerable potential savings. For most operations, airhandling systems to reduce bacteria counts and particles are not\nnecessary, so the advance determination of the planned spectrum\nof operations is also of economic significance.\n\nWailing\nroom\n\nDoomm\n10\n\n10\n\n15\n\n24\n\n1--- 7.00 ----f 2.30 -If----- 5.90 - i l - 3.40 -1+--------- 7.30 -----1\n\nf) Emergency admission, Helios Clinic, Gotha\n\nArch.: Worner+ Partner\n\n297\n\nHOSPITALS\n\nGeneral, modular\ngrid\nBuilding design\nExamples\nCorridors, doors,\nstairs, lifts\nOperational\nareas\nOutpatient area\n\nOulpatient\nmedical centreexample\nExamination and\ntreatment\nCare\nAdministration,\nsocial seJVices\nSupply and waste\ndisposal\nTechnical supply\n\n\f"
+        },
+        {
+          "label": "Plan dimension chain segment",
+          "value": 3.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Figure 2 left-side dimension chain; unit is not printed alongside the dimension.",
+          "status": "uncertain",
+          "ocr_raw": "HOSPITALS\nOutpatient Area\n\nOutpatient facilities\nFacilities for outpatient treatment are visited daily or consulted\nmany times, according to an appointment schedule, by patients\ncapable of walking.\n\nOf particular importance is the allocation of outpatient rooms. A\nseparation of the routeing of outpatients and inpatients should\nbe included in the design work at an early stage. The number of\noutpatients attending depends on the size of, and the specialist\ndepartments in, a particular hospital. If there are a large number\nof outpatients, then a larger dedicated area can be provided,\nseparate from the rest of the activity. There must, however, always\nbe a rapid connection to the X-ray department. The increasing\nsignificance of outpatient (day) surgery should also be considered\n(larger waiting rooms, more outpatient rooms).\nOutpatient surgery\nThe share of operations performed on outpatients will increase\nfurther. Outpatient (or day) surgery departments can be added to\nexisting hospitals, integrated into the surgical department or set\nup as independent clinics. In the hospital, the department should\nbe near the main entrance and the emergency care department.\n\nThe patients in an outpatient surgical centre (mainly undergoing\nelective operations as part of an outpatient, day clinic or short-stay\ntreatment arrangement) are in a different physical and mental state\nfrom patients delivered as emergency cases. A clear guidance and\nsignposting system and friendly, confidence-boosting ambience\nare particularly recommended.\nOne surgical department which concentrates on elective\noutpatient treatment, has a 'modern' room arrangement with\nsmaller operating theatres (approx. 30 m2), a multi-functional\npreparation room, smaller washrooms for two operating theatres,\none recovery room with five places, and a quiet zone. There are\nno purely preparation and post-op rooms, storerooms or classic\naccess control lobbies for patients.\nground floor, Berlln-Spandau Hospital; today: Vivantes Clinic\n0 Outpatients,\nBerlin-Spandau\nArch.: Heinie, Wischer und Partner Freie Architekten\n\n.,.\n\nT\n\n0\n\n0\n\nN\n\n\"\n\nN\n\n(0\n\n\"'\"'\n\n~t\n\nOutpatient medical centre\nThis is a separate establishment associated with a hospital for\nthe treatment of patients on an outpatient or short-stay basis;\nthe room and organisational structure differ considerably from\ninpatient hospital treatment. The spectrum of complaints treated\nand the medical services offered have to be considered. The\ntechnical medical equipment can be reduced and the room\nfurnishing can be designed rather more generously regarding\nhygiene (e.g. carpets, parquet).\n\n0\n\n\"'\n\n\"\n~\n\n\"'\"!\n\n\"'\n\n0\n0\n\n<'i\n\n~t\n.,.\"'\n<ri\n\n0\n0\n\n,..:\n\n1\n\nInpatient care and therapy of patients with infectious diseases,\nchronic illnesses, serious complications after an operation etc.\nare not provided here, so the stringency of the hospital building\nregulations can be partially relaxed or even waived for a particular\nproject with carefully reasoned exemption applications.\nThe decision about the quantity and quality of ventilation\nequipment, anaesthetic technology, ceiling supply units, radiation\nprotection equipment etc. should be critically examined, because\nthere are considerable potential savings. For most operations, airhandling systems to reduce bacteria counts and particles are not\nnecessary, so the advance determination of the planned spectrum\nof operations is also of economic significance.\n\nWailing\nroom\n\nDoomm\n10\n\n10\n\n15\n\n24\n\n1--- 7.00 ----f 2.30 -If----- 5.90 - i l - 3.40 -1+--------- 7.30 -----1\n\nf) Emergency admission, Helios Clinic, Gotha\n\nArch.: Worner+ Partner\n\n297\n\nHOSPITALS\n\nGeneral, modular\ngrid\nBuilding design\nExamples\nCorridors, doors,\nstairs, lifts\nOperational\nareas\nOutpatient area\n\nOulpatient\nmedical centreexample\nExamination and\ntreatment\nCare\nAdministration,\nsocial seJVices\nSupply and waste\ndisposal\nTechnical supply\n\n\f"
+        },
+        {
+          "label": "Plan dimension chain segment",
+          "value": 6.45,
+          "value_max": null,
+          "unit": "m",
+          "context": "Figure 2 left-side dimension chain; unit is not printed alongside the dimension.",
+          "status": "uncertain",
+          "ocr_raw": "HOSPITALS\nOutpatient Area\n\nOutpatient facilities\nFacilities for outpatient treatment are visited daily or consulted\nmany times, according to an appointment schedule, by patients\ncapable of walking.\n\nOf particular importance is the allocation of outpatient rooms. A\nseparation of the routeing of outpatients and inpatients should\nbe included in the design work at an early stage. The number of\noutpatients attending depends on the size of, and the specialist\ndepartments in, a particular hospital. If there are a large number\nof outpatients, then a larger dedicated area can be provided,\nseparate from the rest of the activity. There must, however, always\nbe a rapid connection to the X-ray department. The increasing\nsignificance of outpatient (day) surgery should also be considered\n(larger waiting rooms, more outpatient rooms).\nOutpatient surgery\nThe share of operations performed on outpatients will increase\nfurther. Outpatient (or day) surgery departments can be added to\nexisting hospitals, integrated into the surgical department or set\nup as independent clinics. In the hospital, the department should\nbe near the main entrance and the emergency care department.\n\nThe patients in an outpatient surgical centre (mainly undergoing\nelective operations as part of an outpatient, day clinic or short-stay\ntreatment arrangement) are in a different physical and mental state\nfrom patients delivered as emergency cases. A clear guidance and\nsignposting system and friendly, confidence-boosting ambience\nare particularly recommended.\nOne surgical department which concentrates on elective\noutpatient treatment, has a 'modern' room arrangement with\nsmaller operating theatres (approx. 30 m2), a multi-functional\npreparation room, smaller washrooms for two operating theatres,\none recovery room with five places, and a quiet zone. There are\nno purely preparation and post-op rooms, storerooms or classic\naccess control lobbies for patients.\nground floor, Berlln-Spandau Hospital; today: Vivantes Clinic\n0 Outpatients,\nBerlin-Spandau\nArch.: Heinie, Wischer und Partner Freie Architekten\n\n.,.\n\nT\n\n0\n\n0\n\nN\n\n\"\n\nN\n\n(0\n\n\"'\"'\n\n~t\n\nOutpatient medical centre\nThis is a separate establishment associated with a hospital for\nthe treatment of patients on an outpatient or short-stay basis;\nthe room and organisational structure differ considerably from\ninpatient hospital treatment. The spectrum of complaints treated\nand the medical services offered have to be considered. The\ntechnical medical equipment can be reduced and the room\nfurnishing can be designed rather more generously regarding\nhygiene (e.g. carpets, parquet).\n\n0\n\n\"'\n\n\"\n~\n\n\"'\"!\n\n\"'\n\n0\n0\n\n<'i\n\n~t\n.,.\"'\n<ri\n\n0\n0\n\n,..:\n\n1\n\nInpatient care and therapy of patients with infectious diseases,\nchronic illnesses, serious complications after an operation etc.\nare not provided here, so the stringency of the hospital building\nregulations can be partially relaxed or even waived for a particular\nproject with carefully reasoned exemption applications.\nThe decision about the quantity and quality of ventilation\nequipment, anaesthetic technology, ceiling supply units, radiation\nprotection equipment etc. should be critically examined, because\nthere are considerable potential savings. For most operations, airhandling systems to reduce bacteria counts and particles are not\nnecessary, so the advance determination of the planned spectrum\nof operations is also of economic significance.\n\nWailing\nroom\n\nDoomm\n10\n\n10\n\n15\n\n24\n\n1--- 7.00 ----f 2.30 -If----- 5.90 - i l - 3.40 -1+--------- 7.30 -----1\n\nf) Emergency admission, Helios Clinic, Gotha\n\nArch.: Worner+ Partner\n\n297\n\nHOSPITALS\n\nGeneral, modular\ngrid\nBuilding design\nExamples\nCorridors, doors,\nstairs, lifts\nOperational\nareas\nOutpatient area\n\nOulpatient\nmedical centreexample\nExamination and\ntreatment\nCare\nAdministration,\nsocial seJVices\nSupply and waste\ndisposal\nTechnical supply\n\n\f"
+        },
+        {
+          "label": "Plan dimension chain segment",
+          "value": 7.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Figure 2 left-side dimension chain; unit is not printed alongside the dimension.",
+          "status": "uncertain",
+          "ocr_raw": "7.00"
+        }
+      ],
+      "figure_refs": [
+        "Figure 2: Emergency admission, Helios Clinic, Gotha; Arch.: Wörner + Partner"
+      ],
+      "cross_refs": [
+        "Outpatient facilities",
+        "Outpatient surgery"
+      ],
+      "keywords": [
+        "outpatient medical centre",
+        "emergency admission",
+        "short-stay treatment",
+        "ventilation",
+        "Figure 2"
+      ],
+      "tags_architectural": [
+        "circulation",
+        "adaptability",
+        "ventilation",
+        "daylighting"
+      ],
+      "confidence": 0.77
+    }
+  ]
+}

@@ -1,0 +1,97 @@
+{
+  "model": "gpt-6-luna",
+  "checks": {
+    "checks": [
+      {
+        "ficha_index": 0,
+        "dimension_index": 0,
+        "status": "uncertain",
+        "value": 176.91,
+        "value_max": null,
+        "reason": "The drawing shows 176.91, but no unit is visibly stated."
+      },
+      {
+        "ficha_index": 0,
+        "dimension_index": 1,
+        "status": "uncertain",
+        "value": 92.25,
+        "value_max": null,
+        "reason": "The drawing shows 92.25, but no unit is visibly stated."
+      },
+      {
+        "ficha_index": 1,
+        "dimension_index": 0,
+        "status": "uncertain",
+        "value": 172.03,
+        "value_max": null,
+        "reason": "The drawing shows 172.03, but no unit is visibly stated."
+      },
+      {
+        "ficha_index": 1,
+        "dimension_index": 1,
+        "status": "uncertain",
+        "value": 87.64,
+        "value_max": null,
+        "reason": "The drawing shows 87.64, but no unit is visibly stated."
+      },
+      {
+        "ficha_index": 2,
+        "dimension_index": 0,
+        "status": "uncertain",
+        "value": 167.15,
+        "value_max": null,
+        "reason": "The drawing shows 167.15, but no unit is visibly stated."
+      },
+      {
+        "ficha_index": 2,
+        "dimension_index": 1,
+        "status": "uncertain",
+        "value": 85.2,
+        "value_max": null,
+        "reason": "The drawing shows 85.20, but no unit is visibly stated."
+      }
+    ]
+  },
+  "automatic": [
+    {
+      "ficha_index": 0,
+      "dimension_index": 0,
+      "issues": []
+    },
+    {
+      "ficha_index": 0,
+      "dimension_index": 1,
+      "issues": []
+    },
+    {
+      "ficha_index": 1,
+      "dimension_index": 0,
+      "issues": []
+    },
+    {
+      "ficha_index": 1,
+      "dimension_index": 1,
+      "issues": []
+    },
+    {
+      "ficha_index": 2,
+      "dimension_index": 0,
+      "issues": []
+    },
+    {
+      "ficha_index": 2,
+      "dimension_index": 1,
+      "issues": []
+    }
+  ],
+  "usage": [
+    {
+      "prompt_tokens": 4227,
+      "completion_tokens": 1376
+    },
+    {
+      "prompt_tokens": 4325,
+      "completion_tokens": 425
+    }
+  ]
+}

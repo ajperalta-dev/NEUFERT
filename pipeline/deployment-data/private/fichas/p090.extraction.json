@@ -1,0 +1,633 @@
+{
+  "fichas": [
+    {
+      "id": "4122fb96e4bd1976-90-vision-0",
+      "pdf_page": 90,
+      "book_page": 77,
+      "chapter": "BUILDING COMPONENTS",
+      "section": "Walls",
+      "title": "Brick and Block Masonry: Wall Types and Perimeter Ties",
+      "summary": "Introduces load-bearing, bracing, and non-load-bearing masonry walls, and explains the role of perimeter ties in transferring horizontal forces. The page also illustrates a two-leaf cavity wall and a plinth connection.",
+      "building_type": "Masonry construction",
+      "spaces": [],
+      "uses": [
+        "Carry building loads",
+        "Brace the building against horizontal loads such as wind",
+        "Form non-load-bearing partitions",
+        "Transfer horizontal forces through perimeter ties"
+      ],
+      "furniture_equipment": [],
+      "dimensions": [
+        {
+          "label": "Storeys triggering perimeter ties",
+          "value": 2.0,
+          "value_max": null,
+          "unit": "storeys",
+          "context": "Perimeter ties are required in buildings with more than this number of full storeys.",
+          "status": "uncertain",
+          "ocr_raw": "buildings with more than two full storeys"
+        },
+        {
+          "label": "Building length triggering perimeter ties",
+          "value": 18.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "Perimeter ties are required for buildings longer than this length.",
+          "status": "uncertain",
+          "ocr_raw": "or more than 18 m length"
+        },
+        {
+          "label": "Maximum building height for simplified calculation procedure",
+          "value": 20.0,
+          "value_max": null,
+          "unit": "m",
+          "context": "The figure caption states the simplified calculation procedure applies to building heights up to this limit.",
+          "status": "uncertain",
+          "ocr_raw": "building heights ≤20 m"
+        }
+      ],
+      "figure_refs": [
+        "1 Two-leaf wall with air gap and insulation",
+        "2 Plinth connection",
+        "3 Conditions for the application of the simplified calculation procedure"
+      ],
+      "cross_refs": [
+        "DIN 1053-1 → refs"
+      ],
+      "keywords": [
+        "brick masonry",
+        "block masonry",
+        "load-bearing wall",
+        "bracing wall",
+        "non-load-bearing wall",
+        "perimeter tie",
+        "cavity wall",
+        "plinth connection"
+      ],
+      "tags_architectural": [
+        "safety",
+        "spatial_proportion"
+      ],
+      "confidence": 0.94
+    },
+    {
+      "id": "4122fb96e4bd1976-90-vision-1",
+      "pdf_page": 90,
+      "book_page": 77,
+      "chapter": "BUILDING COMPONENTS",
+      "section": "Walls",
+      "title": "Conditions for Simplified Calculation of Masonry Walls",
+      "summary": "A table lists wall-thickness, clear-wall-height, and imposed-load conditions for internal walls, solid external walls, and load-bearing leaves of cavity external or party walls. The table refers to a simplified calculation procedure for building heights up to 20 m.",
+      "building_type": "Masonry construction",
+      "spaces": [
+        "Internal wall",
+        "Solid external wall",
+        "Load-bearing leaf of a cavity external wall",
+        "Cavity party wall"
+      ],
+      "uses": [
+        "Check conditions for applying a simplified masonry calculation procedure"
+      ],
+      "furniture_equipment": [],
+      "dimensions": [
+        {
+          "label": "Internal wall thickness",
+          "value": 11.5,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Minimum listed wall thickness; table entry shown with a ≥ sign.",
+          "status": "uncertain",
+          "ocr_raw": "≥11⁵"
+        },
+        {
+          "label": "Internal wall thickness",
+          "value": 24.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Table lists a wall-thickness threshold for internal walls.",
+          "status": "uncertain",
+          "ocr_raw": "≥24"
+        },
+        {
+          "label": "Internal wall clear height",
+          "value": 275.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Maximum clear wall height shown for the applicable table conditions.",
+          "status": "uncertain",
+          "ocr_raw": "≤275"
+        },
+        {
+          "label": "Solid external wall thickness",
+          "value": 17.5,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Minimum listed wall thickness; table entry shown with a ≥ sign.",
+          "status": "uncertain",
+          "ocr_raw": "≥17⁵"
+        },
+        {
+          "label": "Solid external wall thickness",
+          "value": 24.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Table lists a wall-thickness threshold for solid external walls.",
+          "status": "uncertain",
+          "ocr_raw": "≥24"
+        },
+        {
+          "label": "Solid external wall thickness",
+          "value": 12.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Wall-thickness entry paired with a clear-height limit in the table.",
+          "status": "uncertain",
+          "ocr_raw": "≥24"
+        },
+        {
+          "label": "Solid external wall clear height",
+          "value": 275.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Maximum clear wall height shown for the applicable table conditions.",
+          "status": "uncertain",
+          "ocr_raw": "≤275"
+        },
+        {
+          "label": "Solid external wall clear height",
+          "value": 12.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "The printed entry appears as ≤12 t; unit/notation is retained as shown, and its precise meaning is unclear.",
+          "status": "uncertain",
+          "ocr_raw": "≤12 t"
+        },
+        {
+          "label": "Imposed load",
+          "value": 5.0,
+          "value_max": null,
+          "unit": "kN/m²",
+          "context": "Maximum imposed load in the table for the applicable conditions.",
+          "status": "uncertain",
+          "ocr_raw": "≤5"
+        },
+        {
+          "label": "Load-bearing leaf of cavity external wall or cavity party wall thickness",
+          "value": 11.5,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Minimum listed wall thickness; table entry shown with a ≥ sign.",
+          "status": "uncertain",
+          "ocr_raw": "≥11⁵"
+        },
+        {
+          "label": "Load-bearing leaf of cavity external wall or cavity party wall thickness",
+          "value": 17.5,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Wall-thickness entry shown in the table.",
+          "status": "uncertain",
+          "ocr_raw": "≤17⁵"
+        },
+        {
+          "label": "Load-bearing leaf of cavity external wall or cavity party wall thickness",
+          "value": 24.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Wall-thickness entry shown in the table.",
+          "status": "uncertain",
+          "ocr_raw": "≥24"
+        },
+        {
+          "label": "Load-bearing leaf of cavity external wall or cavity party wall clear height",
+          "value": 275.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Maximum clear wall height shown for the applicable table conditions.",
+          "status": "uncertain",
+          "ocr_raw": "≤275"
+        },
+        {
+          "label": "Imposed load",
+          "value": 3.0,
+          "value_max": null,
+          "unit": "kN/m²",
+          "context": "Maximum imposed load shown for one set of cavity-wall conditions.",
+          "status": "uncertain",
+          "ocr_raw": "≤3"
+        },
+        {
+          "label": "Imposed load",
+          "value": 5.0,
+          "value_max": null,
+          "unit": "kN/m²",
+          "context": "Maximum imposed load shown for another set of cavity-wall conditions.",
+          "status": "uncertain",
+          "ocr_raw": "≤5"
+        }
+      ],
+      "figure_refs": [
+        "3 Conditions for the application of the simplified calculation procedure for building heights ≤20 m"
+      ],
+      "cross_refs": [
+        "DIN 1053-1 → refs"
+      ],
+      "keywords": [
+        "masonry",
+        "wall thickness",
+        "clear wall height",
+        "imposed load",
+        "simplified calculation",
+        "internal wall",
+        "external wall",
+        "cavity wall"
+      ],
+      "tags_architectural": [
+        "safety",
+        "spatial_proportion"
+      ],
+      "confidence": 0.68
+    },
+    {
+      "id": "4122fb96e4bd1976-90-vision-2",
+      "pdf_page": 90,
+      "book_page": 77,
+      "chapter": "BUILDING COMPONENTS",
+      "section": "Walls",
+      "title": "Permissible Chases and Cut-outs in Load-bearing Walls",
+      "summary": "Explains that chases and cut-outs may be mechanically formed or built into the bond, and that some cases require structural verification. A table gives permissible dimensions and minimum separations for horizontal and inclined chases, later-cut vertical chases, and chases in bonded masonry.",
+      "building_type": "Load-bearing masonry construction",
+      "spaces": [
+        "Load-bearing walls"
+      ],
+      "uses": [
+        "Route services through masonry walls",
+        "Check permissible chase and cut-out sizes and spacing",
+        "Determine when structural verification may be required"
+      ],
+      "furniture_equipment": [],
+      "dimensions": [
+        {
+          "label": "Wall thickness",
+          "value": 11.5,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Table row for permissible chases and cut-outs.",
+          "status": "uncertain",
+          "ocr_raw": "≥11⁵"
+        },
+        {
+          "label": "Vertical chase depth",
+          "value": 1.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Maximum depth shown for the wall-thickness row ≥11⁵ cm.",
+          "status": "uncertain",
+          "ocr_raw": "≤1"
+        },
+        {
+          "label": "Vertical chase width",
+          "value": 10.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Maximum width shown for the wall-thickness row ≥11⁵ cm.",
+          "status": "uncertain",
+          "ocr_raw": "≤10"
+        },
+        {
+          "label": "Wall thickness",
+          "value": 17.5,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Table row for permissible chases and cut-outs.",
+          "status": "uncertain",
+          "ocr_raw": "≥17⁵"
+        },
+        {
+          "label": "Horizontal or inclined chase depth",
+          "value": 2.5,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Maximum depth for chase length ≤1.25 m in the wall-thickness row ≥17⁵ cm.",
+          "status": "uncertain",
+          "ocr_raw": "≤2⁵"
+        },
+        {
+          "label": "Vertical chase depth",
+          "value": 3.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Maximum depth shown for wall-thickness rows ≥17⁵ cm and above.",
+          "status": "uncertain",
+          "ocr_raw": "≤3"
+        },
+        {
+          "label": "Vertical chase width",
+          "value": 10.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Maximum width shown for the wall-thickness row ≥17⁵ cm.",
+          "status": "uncertain",
+          "ocr_raw": "≤10"
+        },
+        {
+          "label": "Wall thickness",
+          "value": 24.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Table row for permissible chases and cut-outs.",
+          "status": "uncertain",
+          "ocr_raw": "≥24"
+        },
+        {
+          "label": "Horizontal or inclined chase depth",
+          "value": 1.5,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Maximum depth for unlimited chase length in the wall-thickness row ≥24 cm.",
+          "status": "uncertain",
+          "ocr_raw": "≤1⁵"
+        },
+        {
+          "label": "Horizontal or inclined chase depth",
+          "value": 2.5,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Maximum depth for chase length ≤1.25 m in the wall-thickness row ≥24 cm.",
+          "status": "uncertain",
+          "ocr_raw": "≤2⁵"
+        },
+        {
+          "label": "Vertical chase depth",
+          "value": 3.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Maximum depth shown for the wall-thickness row ≥24 cm.",
+          "status": "uncertain",
+          "ocr_raw": "≤3"
+        },
+        {
+          "label": "Vertical chase width",
+          "value": 15.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Maximum width shown for the wall-thickness row ≥24 cm.",
+          "status": "uncertain",
+          "ocr_raw": "≤15"
+        },
+        {
+          "label": "Wall thickness",
+          "value": 30.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Table row for permissible chases and cut-outs.",
+          "status": "uncertain",
+          "ocr_raw": "≥30"
+        },
+        {
+          "label": "Horizontal or inclined chase depth",
+          "value": 2.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Maximum depth for unlimited chase length in the wall-thickness row ≥30 cm.",
+          "status": "uncertain",
+          "ocr_raw": "≤2"
+        },
+        {
+          "label": "Horizontal or inclined chase depth",
+          "value": 3.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Maximum depth for chase length ≤1.25 m in the wall-thickness row ≥30 cm.",
+          "status": "uncertain",
+          "ocr_raw": "≤3"
+        },
+        {
+          "label": "Vertical chase depth",
+          "value": 3.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Maximum depth shown for the wall-thickness row ≥30 cm.",
+          "status": "uncertain",
+          "ocr_raw": "≤3"
+        },
+        {
+          "label": "Vertical chase width",
+          "value": 20.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Maximum width shown for the wall-thickness row ≥30 cm.",
+          "status": "uncertain",
+          "ocr_raw": "≤20"
+        },
+        {
+          "label": "Wall thickness",
+          "value": 36.5,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Table row for permissible chases and cut-outs.",
+          "status": "uncertain",
+          "ocr_raw": "≥36⁵"
+        },
+        {
+          "label": "Horizontal or inclined chase depth",
+          "value": 2.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Maximum depth for unlimited chase length in the wall-thickness row ≥36⁵ cm.",
+          "status": "uncertain",
+          "ocr_raw": "≤2"
+        },
+        {
+          "label": "Horizontal or inclined chase depth",
+          "value": 3.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Maximum depth for chase length ≤1.25 m in the wall-thickness row ≥36⁵ cm.",
+          "status": "uncertain",
+          "ocr_raw": "≤3"
+        },
+        {
+          "label": "Vertical chase depth",
+          "value": 3.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Maximum depth shown for the wall-thickness row ≥36⁵ cm.",
+          "status": "uncertain",
+          "ocr_raw": "≤3"
+        },
+        {
+          "label": "Vertical chase width",
+          "value": 20.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Maximum width shown for the wall-thickness row ≥36⁵ cm.",
+          "status": "uncertain",
+          "ocr_raw": "≤20"
+        },
+        {
+          "label": "Maximum chase length",
+          "value": 1.25,
+          "value_max": null,
+          "unit": "m",
+          "context": "One chase-length category in the table for horizontal and inclined chases.",
+          "status": "uncertain",
+          "ocr_raw": "≤1.25 m"
+        },
+        {
+          "label": "Distance of vertical chase or cut-out from openings",
+          "value": 11.5,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Minimum distance shown in the table.",
+          "status": "uncertain",
+          "ocr_raw": "≥11⁵"
+        },
+        {
+          "label": "Vertical chase width",
+          "value": 26.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Maximum width shown for one bonded-masonry condition.",
+          "status": "uncertain",
+          "ocr_raw": "≤26"
+        },
+        {
+          "label": "Residual wall thickness",
+          "value": 11.5,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Minimum residual wall thickness shown for the corresponding bonded-masonry condition.",
+          "status": "uncertain",
+          "ocr_raw": "≥11⁵"
+        },
+        {
+          "label": "Vertical chase width",
+          "value": 38.5,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Maximum width shown for bonded masonry; value appears in multiple table rows.",
+          "status": "uncertain",
+          "ocr_raw": "≤38⁵"
+        },
+        {
+          "label": "Residual wall thickness",
+          "value": 17.5,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Minimum residual wall thickness shown for a bonded-masonry condition.",
+          "status": "uncertain",
+          "ocr_raw": "≥17⁵"
+        },
+        {
+          "label": "Residual wall thickness",
+          "value": 24.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Minimum residual wall thickness shown for a bonded-masonry condition.",
+          "status": "uncertain",
+          "ocr_raw": "≥24"
+        }
+      ],
+      "figure_refs": [
+        "4 Permissible size of chases and cut-outs in load-bearing walls"
+      ],
+      "cross_refs": [
+        "DIN 1053-1 → refs",
+        "Figure 4"
+      ],
+      "keywords": [
+        "chases",
+        "cut-outs",
+        "load-bearing wall",
+        "bonded masonry",
+        "chase depth",
+        "chase width",
+        "residual wall thickness",
+        "openings"
+      ],
+      "tags_architectural": [
+        "safety",
+        "adaptability"
+      ],
+      "confidence": 0.72
+    },
+    {
+      "id": "4122fb96e4bd1976-90-vision-3",
+      "pdf_page": 90,
+      "book_page": 77,
+      "chapter": "BUILDING COMPONENTS",
+      "section": "Walls",
+      "title": "Masonry Construction Details and Lintels",
+      "summary": "Illustrates reinforced aerated-concrete blockwork, masonry door and window lintels, glued blockwork, clay bricks, hollow-block lintels, and insulated block systems. One drawing labels glued aerated-concrete blockwork with 1 mm joints; other details show insulation and mortar-filling arrangements.",
+      "building_type": "Masonry construction",
+      "spaces": [
+        "External wall",
+        "Internal wall",
+        "Door openings",
+        "Window openings"
+      ],
+      "uses": [
+        "Build reinforced masonry walls and lintels",
+        "Construct insulated masonry assemblies",
+        "Form masonry joints and mortar pockets"
+      ],
+      "furniture_equipment": [],
+      "dimensions": [
+        {
+          "label": "Joint thickness",
+          "value": 1.0,
+          "value_max": null,
+          "unit": "mm",
+          "context": "Glued aerated concrete blockwork.",
+          "status": "uncertain",
+          "ocr_raw": "1 mm joints"
+        },
+        {
+          "label": "Insulation layer thickness",
+          "value": 5.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Insulation layer shown in the block detail.",
+          "status": "uncertain",
+          "ocr_raw": "5cm insulation layer"
+        },
+        {
+          "label": "Styrofoam thickness",
+          "value": 5.0,
+          "value_max": null,
+          "unit": "cm",
+          "context": "Insulation material labelled in the assembly-block detail.",
+          "status": "uncertain",
+          "ocr_raw": "5cm Styrofoam"
+        }
+      ],
+      "figure_refs": [
+        "5 Crossing of reinforced aerated concrete blockwork",
+        "6 Reinforced masonry door and window lintels",
+        "7 Glued aerated concrete blockwork, 1 mm joints",
+        "8 Vertically cored clay bricks and blocks laid or with poured mortar",
+        "9 Masonry of aerated concrete (hollow blocks) with reinforced pumice concrete lintel",
+        "10 Masonry of hollow blocks with cast trough lintel",
+        "11 Blocks with 5 cm insulation layer and mortar pockets",
+        "12 Assembly blocks with insulation and cavities for mortar filling"
+      ],
+      "cross_refs": [],
+      "keywords": [
+        "aerated concrete",
+        "reinforced masonry",
+        "lintel",
+        "clay brick",
+        "hollow block",
+        "insulation",
+        "mortar pockets",
+        "mortar-filling channels"
+      ],
+      "tags_architectural": [
+        "modularity",
+        "safety"
+      ],
+      "confidence": 0.9
+    }
+  ]
+}

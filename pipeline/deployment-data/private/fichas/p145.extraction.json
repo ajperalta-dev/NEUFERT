@@ -1,0 +1,218 @@
+{
+  "fichas": [
+    {
+      "id": "4122fb96e4bd1976-145-vision-0",
+      "pdf_page": 145,
+      "book_page": 132,
+      "chapter": "BUILDING COMPONENTS",
+      "section": "Lifts",
+      "title": "Small goods lifts",
+      "summary": "Small goods lifts, also called dumb waiters, transport light goods such as documents and food and are not intended for passengers. The page illustrates one-sided, pass-through, and corner-door arrangements, and gives cycle-time and transport-capacity formulas. Shafts are typically steel-framed and clad with non-flammable materials.",
+      "building_type": "Small goods lift",
+      "spaces": [
+        "Lift car",
+        "Lift shaft",
+        "Shaft pit",
+        "Machine room"
+      ],
+      "uses": [
+        "Transport light goods, documents, and food",
+        "Call and dispatch the lift from each stopping point"
+      ],
+      "furniture_equipment": [
+        "External press-button controls",
+        "Lift doors",
+        "Steel shaft framework"
+      ],
+      "dimensions": [
+        {
+          "label": "Payload",
+          "value": 300.0,
+          "value_max": null,
+          "unit": "kg",
+          "context": "Maximum payload for small goods lifts, as printed.",
+          "status": "uncertain",
+          "ocr_raw": "payload ≤300 kg"
+        },
+        {
+          "label": "Car floor area",
+          "value": 1.0,
+          "value_max": null,
+          "unit": "m²",
+          "context": "Maximum car floor area, as printed.",
+          "status": "uncertain",
+          "ocr_raw": "car floor area ≤1.0 m²"
+        },
+        {
+          "label": "Machine-room machinery area height",
+          "value": 1.8,
+          "value_max": null,
+          "unit": "m",
+          "context": "Minimum height for the area for machinery.",
+          "status": "uncertain",
+          "ocr_raw": "Area for the machinery must be ≥1.8 m high."
+        },
+        {
+          "label": "Single-door opening and closing time",
+          "value": 6.0,
+          "value_max": null,
+          "unit": "s",
+          "context": "Shaft-door time used in the cycle-time explanation.",
+          "status": "uncertain",
+          "ocr_raw": "single doors 6 s"
+        },
+        {
+          "label": "Double-door opening and closing time",
+          "value": 10.0,
+          "value_max": null,
+          "unit": "s",
+          "context": "Shaft-door time used in the cycle-time explanation.",
+          "status": "uncertain",
+          "ocr_raw": "double doors 10 s"
+        },
+        {
+          "label": "Vertical sliding door opening and closing time",
+          "value": 3.0,
+          "value_max": null,
+          "unit": "s",
+          "context": "Approximate shaft-door time for small goods lifts.",
+          "status": "uncertain",
+          "ocr_raw": "vertical sliding doors in small goods lifts about 3 s"
+        },
+        {
+          "label": "Goods-lift cycle-time factor",
+          "value": 2.0,
+          "value_max": null,
+          "unit": "factor",
+          "context": "Round-trip constant in the printed cycle-time formula T = 2h/v + Lᵣ + H(t₁ + t₂).",
+          "status": "uncertain",
+          "ocr_raw": "2 = constant factor for round trip"
+        },
+        {
+          "label": "Transport-capacity numerator",
+          "value": 60.0,
+          "value_max": null,
+          "unit": "seconds",
+          "context": "Printed formula C = 60 / time for a cycle (s), with capacity expressed in journeys per minute.",
+          "status": "uncertain",
+          "ocr_raw": "C = 60 / time for a cycle (s) = 60/T = ... journeys/min."
+        }
+      ],
+      "figure_refs": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7"
+      ],
+      "cross_refs": [
+        "Structural dimensions of small goods lifts → figures 1–6",
+        "Calculation of the transport capacity of goods lifts → figure 7"
+      ],
+      "keywords": [
+        "dumb waiter",
+        "small goods lift",
+        "payload",
+        "cycle time",
+        "transport capacity",
+        "shaft",
+        "machine room"
+      ],
+      "tags_architectural": [
+        "safety",
+        "circulation"
+      ],
+      "confidence": 0.95
+    },
+    {
+      "id": "4122fb96e4bd1976-145-vision-1",
+      "pdf_page": 145,
+      "book_page": 132,
+      "chapter": "BUILDING COMPONENTS",
+      "section": "Lifts",
+      "title": "Goods lifts: types, structural dimensions, and stopping precision",
+      "summary": "Goods lifts are intended to transport goods or employees of the lift operator. The page shows pass-through and one-sided loading arrangements, structural dimension tables for traction-sheave goods lifts, a cross-section, and stated stopping-precision and speed information.",
+      "building_type": "Goods lift",
+      "spaces": [
+        "Lift car",
+        "Lift shaft",
+        "Shaft pit",
+        "Machine room",
+        "Loading points"
+      ],
+      "uses": [
+        "Transport goods",
+        "Transport passengers employed by the lift operator"
+      ],
+      "furniture_equipment": [
+        "Lift car",
+        "Lift doors",
+        "Traction sheave equipment"
+      ],
+      "dimensions": [
+        {
+          "label": "Stopping precision without travel delay",
+          "value": 20.0,
+          "value_max": 40.0,
+          "unit": "mm",
+          "context": "Goods lifts without travel delay; the printed tolerance includes ±.",
+          "status": "uncertain",
+          "ocr_raw": "Goods lifts without travel delay ± 20–40 mm"
+        },
+        {
+          "label": "Stopping precision with travel delay",
+          "value": 10.0,
+          "value_max": 30.0,
+          "unit": "mm",
+          "context": "Passenger and goods lifts with travel delay; the printed tolerance includes ±.",
+          "status": "uncertain",
+          "ocr_raw": "Passenger and goods lifts with travel delay ± 10–30 mm"
+        },
+        {
+          "label": "Goods-lift speed",
+          "value": 0.25,
+          "value_max": 0.4,
+          "unit": "m/s",
+          "context": "First printed speed range in the stopping-precision note.",
+          "status": "uncertain",
+          "ocr_raw": "Speed: 0.25–0.4 up to 0.63–1.0 m/s."
+        },
+        {
+          "label": "Goods-lift speed",
+          "value": 0.63,
+          "value_max": 1.0,
+          "unit": "m/s",
+          "context": "Second printed speed range in the stopping-precision note.",
+          "status": "uncertain",
+          "ocr_raw": "Speed: 0.25–0.4 up to 0.63–1.0 m/s."
+        }
+      ],
+      "figure_refs": [
+        "8",
+        "9",
+        "10",
+        "11"
+      ],
+      "cross_refs": [
+        "Structural dimensions of traction sheave goods lifts → figures 8–9",
+        "Cross-section → figures 8–9"
+      ],
+      "keywords": [
+        "goods lift",
+        "traction sheave",
+        "loading arrangement",
+        "stopping precision",
+        "nominal speed",
+        "structural dimensions"
+      ],
+      "tags_architectural": [
+        "circulation",
+        "safety",
+        "clearance"
+      ],
+      "confidence": 0.91
+    }
+  ]
+}

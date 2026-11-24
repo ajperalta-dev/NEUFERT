@@ -1,0 +1,228 @@
+DRAWINGS
+Computer-Aided Drawing
+
+DRAWINGS
+
+y
+
+Paper formats
+Technical
+drawings
+Layout of
+drawings
+Construction
+
+drawings
+Construction
+drawing symbols
+Water supply and
+drainage symbols
+Electrical
+installation
+symbols
+Security
+installation
+symbols
+Gas installation
+symbols
+Drawing by hand
+Computer-aided
+
+----¥ (X,y)
+I
+I
+I
+I
+
+X
+
+X
+
+Cartesian coordinate system. All
+0 points
+are defined through their x
+
+Polar coordinate system. All points
+are defined through their distance I
+from the zero point and the angle a
+related to the x-axis.
+
+and y coordinates. The zero point
+can be set for each drawing or
+related to world coordinates.
+
+drawing
+
+BS EN ISO
+13567
+ISO 13567
+
+Measurement system
+
+Abbr.
+
+1 mm=
+
+point
+
+pt
+
+2.8346 pt
+
+0.3528 mm
+
+inch
+
+in"
+
+0.0394"
+
+25.4 mm
+
+1 unit
+
+8 Conversion factors for common computer units
+Text layer
+Dimensions layer
+Furniture layer
+Openings layer
+
+Construction layer
+
+Surround and title block layer
+
+G Structuring of a CAD drawing by arranging groups of similar objects on their
+own layers
+
+w
+Who-where-what naming of layers with variable field sizes (according to CadForum).
+The layer names have suitable abbreviations containing 2 or 3 pieces of information,
+each separated by an underscore. The content should be clear from the first
+20 characters, because some CAD systems restrict the layer names to this length.
+Special characters should be avoided in order to prevent exchange problems.
+Who (1-5) =author
+
+Where (7-11) =categorisation
+
+possible abbreviations for authors
+Arch
+Architect
+lArch
+Interior architect
+LArch
+Landscape architect
+Bing
+Building engineer
+Ei
+Electrical engineer
+St
+Structural engineer
+HLS
+Heating/ventilation/sanitary
+Geom
+Surveyor
+
+possible categories
+BS
+basement
+GR
+ground floor
+FL 1
+1st floor
+EL_ N
+north elevation
+SEC_A
+section A-A
+
+What (13-20) =description
+
+examples of layer names
+
+possible descriptions
+axes
+structure
+openings
+finishings
+furniture
+hatching
+
+Arch_GR_axes
+Arch_GR_structure
+Arch_GR_finishes
+Arch_GR_hatching
+
+dimensioning
+labelling
+drawing outline
+
+9
+20
+
+on smaller projects, the
+2nd category (facultative) can be
+left out:
+Geom_level curves
+Arch_structure
+Bing_openings
+
+Example of naming layers with variable, understandable labels
+
+Drawings
+Drawings are always an abstraction of reality because they are
+in two dimensions. The degree of abstraction depends on the
+content and, above all, on the intended purpose of the drawing.
+The lowest degree of abstraction is represented by perspectives,
+collages and renderings, which attempt to come quite close to
+reality. In order to produce the desired impression, it is particularly
+important to leave some free rein for the fantasy of the viewer.
+Diagrams can be used to explain functional interactions. Working
+drawings contain all the required information about dimensions,
+materials and arrangement of the object to be produced. In this
+case, all details must be unambiguous and comprehensible for the
+producer, and therefore have a high degree of abstraction.
+
+In the age of computer-generated images, it still remains important
+to have a command of the rules and regulations of traditional
+drawing --+ pp. 39-40.
+Computer-aided drawings
+Drawing with a computer is very different from the classic
+methods of drawing on paper. There are two basic principles:
+raster graphics, in which every pixel of a drawing is saved (image
+processing), and vector graphics, where the start, end and the
+properties of a drawing element are saved (CAD). Because
+the output appears on a monitor screen or plot, there are also
+problems representing bodies and rooms in two dimensions.
+Only very simple CAD programs work with two-dimensional
+data models. More common are three-dimensional data models
+(object-oriented programs), which produce the desired type of
+illustration on output (monitor, plotting). The information required
+for this is stored in a database in the computer. This enables the
+elements of a drawing (line type, line thickness and colour) to be
+linked to further information, which is not visible, e.g. which layer
+they belong to, dependence on other objects, material properties,
+manufacturing information, order numbers etc. These properties
+can be exploited for the structuring of content or for further use
+(e.g. tenders or cost estimation).
+
+Volume modules permit further simulations. Structural, acoustic,
+climatic or lighting investigations can make precise statements
+about a building through the use of the appropriate software. 3D
+scanners, CNC machines and 3D plotters also enable the input
+and output of three-dimensional objects.
+Data exchange
+Because data is normally processed by a number of operators
+(various specialist technicians and engineers), a unified,
+understandable and clear system of organisation is important.
+When selecting a CAD system or deciding the working methods,
+it is important to know that all future processors of the data will
+work with the same software, or which interfaces can be used to
+exchange data. Exchange formats usually have a limited range
+of structuring possibilities and therefore organisation categories,
+which are not supported, will be lost or have to be recreated, with
+the associated waste of time. The naming of layers is governed
+by ISO 13567, which, however, uses cryptic abbreviations.
+It seems more practical to use the more flexible and easily
+understood naming system published by the specialist magazine
+CadForum --7 0.
+
+
